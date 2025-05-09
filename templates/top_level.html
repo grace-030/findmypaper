@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Field/Subfield Graph Viewer</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      width: 100vw;
+      height: 100vh;
+      overflow: hidden;
+      font-family: sans-serif;
+    }
+    svg {
+      display: block;
+      width: 100vw;
+      height: 100vh;
+    }
+    .tooltip {
+      position: absolute;
+      pointer-events: none;
+      background: rgba(0,0,0,0.75);
+      color: #fff;
+      padding: 6px;
+      border-radius: 4px;
+      font-size: 13px;
+      z-index: 100;
+    }
+    .legend {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      background: white;
+      border: 1px solid #ccc;
+      padding: 8px;
+      font-size: 12px;
+      max-height: 300px;
+      overflow-y: auto;
+      z-index: 10;
+    }
+    .pagerank-legend {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      background: white;
+      border: 1px solid #aaa;
+      padding: 5px;
+      font-size: 11px;
+      text-align: center;
+      z-index: 99;
+      width: 160px;
+      display: none;
+    }
+    .gradient-bar {
+      height: 10px;
+      background: linear-gradient(to right, blue, red);
+      margin-top: 4px;
+      margin-bottom: 2px;
+    }
+    #back-btn {
+      position: absolute;
+      top: 50px;
+      right: 10px;
+      z-index: 100;
+      padding: 6px 12px;
+      background: #eee;
+      border: 1px solid #aaa;
+      cursor: pointer;
+      display: none;
+    }
+  </style>
+</head>
+<body>
+<div class="tooltip" style="display:none;"></div>
+<div class="legend"></div>
+<div class="pagerank-legend">
+  <div>PageRank</div>
+  <div class="gradient-bar"></div>
+  <div><span id="pr-min"></span> → <span id="pr-max"></span></div>
+</div>
+<div id="back-btn">⬅ Back to Fields</div>
+<svg></svg>
+
+<script>
+const svg = d3.select("svg");
+const container = svg.append("g");
+const tooltip = d3.select(".tooltip");
+const legend = d3.select(".legend");
+const backBtn = d3.select("#back-btn");
+const prLegend = d3.select(".pagerank-legend");
+const prMin = document.getElementById("pr-min");
+const prMax = document.getElementById("pr-max");
+
+svg.call(d3.zoom().on("zoom", e => container.attr("transform", e.transform)));
+
+loadFieldGraph();
+
+function loadFieldGraph() {
+  backBtn.style("display", "none");
+  prLegend.style("display", "none");
+  container.selectAll("*").remove();
+  legend.selectAll("*").remove();
+
+  Promise.all([
+    d3.csv("field_level_nodes.csv"),
+    d3.csv("field_level_edges.csv")
+  ]).then(([nodes, links]) => {
+    nodes.forEach(d => d.paper_count = +d.paper_count);
+    links.forEach(d => {
+      d.weight = +d.weight;
+    });
+
+    const color = d3.scaleOrdinal(d3.schemeCategory10);
+    const rScale = d3.scaleSqrt().domain(d3.extent(nodes, d => d.paper_count)).range([8, 30]);
+    const wScale = d3.scaleLinear().domain(d3.extent(links, d => d.weight)).range([1, 5]);
+    // 🎨 Add legend for top-level fields
+    legend.html("");  // Clear previous
+    nodes.forEach(d => {
+      if (!legend.select(`#legend-${d.id.replace(/\W/g, '')}`).node()) {
+        legend.append("div")
+          .attr("id", `legend-${d.id.replace(/\W/g, '')}`)
+          .html(`<span style="background:${color(d.id)};display:inline-block;width:12px;height:12px;margin-right:5px;"></span>${d.id}`);
+      }
+    });
+
+
+    const sim = d3.forceSimulation(nodes)
+      .force("link", d3.forceLink(links).id(d => d.id).distance(180))
+      .force("charge", d3.forceManyBody().strength(-300))
+      .force("center", d3.forceCenter(innerWidth / 2, innerHeight / 2));
+
+    const link = container.append("g")
+      .attr("stroke", "#333")
+      .attr("fill", "none")
+      .selectAll("path")
+      .data(links)
+      .join("path")
+      .attr("stroke-width", d => wScale(d.weight))
+      .on("mouseover", (e, d) => {
+        tooltip.style("display", "block")
+          .html(`${d.source.id} → ${d.target.id}<br>Weight: ${(+d.weight).toExponential(2)}`);
+      })
+      .on("mousemove", e => tooltip.style("left", (e.pageX + 10) + "px").style("top", (e.pageY - 20) + "px"))
+      .on("mouseout", () => tooltip.style("display", "none"));
+
+    const node = container.append("g")
+      .selectAll("circle")
+      .data(nodes)
+      .join("circle")
+      .attr("r", d => rScale(d.paper_count))
+      .attr("fill", d => color(d.id))
+      .call(drag(sim))
+      .on("dblclick", (_, d) => {
+        loadSubfieldGraph(d.id);
+      })
+      .on("mouseover", (e, d) => {
+        tooltip.style("display", "block")
+          .html(`<strong>${d.id}</strong><br>Papers: ${d.paper_count}`);
+      })
+      .on("mousemove", e => tooltip.style("left", (e.pageX + 10) + "px").style("top", (e.pageY - 20) + "px"))
+      .on("mouseout", () => tooltip.style("display", "none"));
+
+    sim.on("tick", () => {
+      link.attr("d", d => {
+        const dx = d.target.x - d.source.x, dy = d.target.y - d.source.y;
+        const dr = Math.sqrt(dx * dx + dy * dy) * 1.5;
+        return `M${d.source.x},${d.source.y}A${dr},${dr} 0 0,1 ${d.target.x},${d.target.y}`;
+      });
+      node.attr("cx", d => d.x).attr("cy", d => d.y);
+    });
+  });
+}
+
+function loadSubfieldGraph(field) {
+  backBtn.style("display", "inline-block");
+  prLegend.style("display", "block");
+  container.selectAll("*").remove();
+  legend.selectAll("*").remove();
+
+  Promise.all([
+    d3.csv(`graphdata/${field}/nodes.csv`).catch(e => {
+      console.error(`❌ Failed to load nodes.csv for ${field}:`, e);
+      return [];
+    }),
+    d3.csv(`graphdata/${field}/edges.csv`).catch(e => {
+      console.error(`❌ Failed to load edges.csv for ${field}:`, e);
+      return [];
+    })
+  ]).then(([nodes, links]) => {
+    console.log(`📂 Loading subfield graph for "${field}"`);
+    console.log(`✅ nodes.csv loaded: ${nodes.length} nodes`);
+    console.log(`✅ edges.csv loaded: ${links.length} edges`);
+
+    if (nodes.length === 0) {
+      console.warn(`⚠️ No nodes found for field: ${field}. Check CSV content.`);
+    }
+    if (links.length === 0) {
+      console.warn(`⚠️ No edges found for field: ${field}. Check CSV content.`);
+    }
+
+    nodes.forEach(d => {
+      d.paper_count = +d.paper_count;
+      d.pagerank = +d.pagerank;
+      d.id = d.id && d.id.trim() ? d.id : "General";
+    });
+    links.forEach(d => {
+      d.weight = +d.weight;
+    });
+
+    const prExtent = d3.extent(nodes, d => d.pagerank);
+    prMin.textContent = prExtent[0].toExponential(1);
+    prMax.textContent = prExtent[1].toExponential(1);
+
+    const sizeScale = d3.scaleSqrt().domain(d3.extent(nodes, d => d.paper_count)).range([6, 28]);
+    const colorScale = d3.scaleLinear().domain(prExtent).range(["blue", "red"]);
+    const wScale = d3.scaleLinear().domain(d3.extent(links, d => d.weight)).range([0.5, 4]);
+
+    const sim = d3.forceSimulation(nodes)
+      .force("link", d3.forceLink(links).id(d => d.id).distance(160))
+      .force("charge", d3.forceManyBody().strength(-250))
+      .force("center", d3.forceCenter(innerWidth / 2, innerHeight / 2));
+
+    const link = container.append("g")
+      .attr("stroke", "#333")
+      .attr("fill", "none")
+      .selectAll("path")
+      .data(links)
+      .join("path")
+      .attr("stroke-width", d => wScale(d.weight))
+      .on("mouseover", (e, d) => {
+        tooltip.style("display", "block")
+          .html(`${d.source.id} → ${d.target.id}<br>Weight: ${(+d.weight).toExponential(2)}`);
+      })
+      .on("mousemove", e => tooltip.style("left", (e.pageX + 10) + "px").style("top", (e.pageY - 20) + "px"))
+      .on("mouseout", () => tooltip.style("display", "none"));
+
+    const node = container.append("g")
+      .selectAll("circle")
+      .data(nodes)
+      .join("circle")
+      .attr("r", d => sizeScale(d.paper_count))
+      .call(d => attachSubfieldHandlers(d, field))
+      .attr("fill", d => colorScale(d.pagerank))
+      .call(drag(sim))
+      .on("mouseover", (e, d) => {
+        tooltip.style("display", "block")
+          .html(`<strong>${d.id}</strong><br>PageRank: ${d.pagerank.toExponential(2)}`);
+      })
+      .on("mousemove", e => tooltip.style("left", (e.pageX + 10) + "px").style("top", (e.pageY - 20) + "px"))
+      .on("mouseout", () => tooltip.style("display", "none"));
+
+    sim.on("tick", () => {
+      link.attr("d", d => {
+        const dx = d.target.x - d.source.x, dy = d.target.y - d.source.y;
+        const dr = Math.sqrt(dx * dx + dy * dy) * 1.5;
+        return `M${d.source.x},${d.source.y}A${dr},${dr} 0 0,1 ${d.target.x},${d.target.y}`;
+      });
+      node.attr("cx", d => d.x).attr("cy", d => d.y);
+    });
+  });
+}
+
+backBtn.on("click", () => loadFieldGraph());
+
+function drag(sim) {
+  return d3.drag()
+    .on("start", (event, d) => {
+      if (!event.active) sim.alphaTarget(0.3).restart();
+      d.fx = d.x;
+      d.fy = d.y;
+    })
+    .on("drag", (event, d) => {
+      d.fx = event.x;
+      d.fy = event.y;
+    })
+    .on("end", (event, d) => {
+      if (!event.active) sim.alphaTarget(0);
+      d.fx = null;
+      d.fy = null;
+    });
+}
+</script>
+
+<script>
+
+// ✅ START: Additional Enhancements for Semantic Cluster Graph
+const clusterLegend = d3.select("body").append("div")
+  .attr("class", "cluster-legend")
+  .style("position", "absolute")
+  .style("top", "10px")
+  .style("left", "200px")
+  .style("background", "white")
+  .style("border", "1px solid #ccc")
+  .style("padding", "8px")
+  .style("font-size", "12px")
+  .style("z-index", 10)
+  .style("max-height", "300px")
+  .style("overflow-y", "auto")
+  .style("display", "none");
+
+function loadSemanticGraph(category) {
+  container.selectAll("*").remove();
+  prLegend.style("display", "none");
+  clusterLegend.style("display", "block");
+
+  Promise.all([
+    d3.csv(`semantic_clusters/${category}/nodes.csv`),
+    d3.csv(`semantic_clusters/${category}/edges.csv`)
+  ]).then(([nodes, links]) => {
+    nodes.forEach(d => {
+      d.pagerank = +d.pagerank;
+      d.cluster = +d.cluster;
+    });
+
+    const prExtent = d3.extent(nodes, d => d.pagerank);
+    const sizeScale = d3.scaleSqrt().domain(prExtent).range([6, 20]);
+    const clusterColor = d3.scaleOrdinal(d3.schemeTableau10);
+
+    clusterLegend.html("");
+    const seen = new Set();
+    nodes.forEach(d => {
+      if (!seen.has(d.cluster)) {
+        seen.add(d.cluster);
+        clusterLegend.append("div").html(
+          `<span style="background:${clusterColor(d.cluster)};display:inline-block;width:12px;height:12px;margin-right:5px;"></span>Cluster ${d.cluster}: ${d.keywords}`
+        );
+      }
+    });
+
+    const sim = d3.forceSimulation(nodes)
+      .force("link", d3.forceLink(links).id(d => d.id).distance(120))
+      .force("charge", d3.forceManyBody().strength(-200))
+      .force("center", d3.forceCenter(innerWidth / 2, innerHeight / 2));
+
+    const link = container.append("g")
+      .attr("stroke", "#aaa")
+      .attr("fill", "none")
+      .selectAll("line")
+      .data(links)
+      .join("line")
+      .attr("stroke-width", 1.2);
+
+    const node = container.append("g")
+      .selectAll("circle")
+      .data(nodes)
+      .join("circle")
+      .attr("r", d => sizeScale(d.pagerank))
+      .attr("fill", d => clusterColor(d.cluster))
+      .call(drag(sim))
+      .on("mouseover", (e, d) => {
+        tooltip.style("display", "block").html(`<strong>${d.title}</strong><br>${d.abstract}`);
+      })
+      .on("mousemove", e => tooltip.style("left", e.pageX + 10 + "px").style("top", e.pageY - 20 + "px"))
+      .on("mouseout", () => tooltip.style("display", "none"));
+
+    sim.on("tick", () => {
+      link.attr("x1", d => d.source.x)
+          .attr("y1", d => d.source.y)
+          .attr("x2", d => d.target.x)
+          .attr("y2", d => d.target.y);
+      node.attr("cx", d => d.x).attr("cy", d => d.y);
+    });
+  });
+}
+
+// ➕ Load category mapping CSV
+let categoryMap = {};
+d3.csv("arxiv_category_mapping_cs_fixed.csv").then(data => {
+  for (let row of data) {
+    const key = row.field + "|" + row.subfield;
+    categoryMap[key] = row.category;
+  }
+});
+
+// 🧠 Semantic trigger: double-click subfield → resolve category
+function attachSubfieldHandlers(nodeSelection, fieldName) {
+  nodeSelection.on("dblclick", (_, d) => {
+    const key = fieldName + "|" + d.id;
+    const category = categoryMap[key];
+    if (category) {
+      loadSemanticGraph(category);
+    } else {
+      console.warn("No category found for", key);
+    }
+  });
+}
+
+</script>
+
+</body>
+</html>
