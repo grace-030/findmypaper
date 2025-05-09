@@ -1,0 +1,1393 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+solv-int/9907004,"N=2 local and N=4 nonlocal reductions of supersymmetric KP hierarchy in
+  N=2 superspace",2.034029308061609e-05,5.927972216489229e-06,33.0,10.0
+solv-int/9810007,"Quelques applications de l'Ansatz de Bethe (Some applications of the
+  Bethe Ansatz)",1.7062422381402322e-05,0.0,30.0,0.0
+solv-int/9908001,"Non-additive fusion, Hubbard models and non-locality",1.5988748657539178e-05,0.0,2.0,0.0
+solv-int/9903003,New Integrable Models from Fusion,1.4377802375474754e-05,1.9693147742740405e-06,5.0,1.0
+hep-th/9902089,Eigenvalue Dynamics and the Matrix Chain,1.3511444899445502e-05,1.223263080782764e-08,23.0,1.0
+solv-int/9701017,"Method of Squared Eigenfunction Potentials in Integrable Hierarchies of
+  KP Type",1.3435767425278938e-05,1.130411762917564e-05,23.0,11.0
+solv-int/9801021,"Supersymmetric KP Hierarchy: ``Ghost'' Symmetry Structure, Reductions
+  and Darboux-Backlund Solutions",1.280716420452925e-05,2.013574828588259e-06,18.0,8.0
+solv-int/9912010,"Real forms of the complex twisted N=2 supersymmetric Toda chain
+  hierarchy in real N=1 and twisted N=2 superspaces",1.23296219439012e-05,4.234384037850518e-07,18.0,2.0
+solv-int/9808004,"Berezinian Construction of Super-Solitons in Supersymmetric Constrained
+  KP Hierarchies",1.1552270572077097e-05,2.013574828588259e-06,15.0,8.0
+solv-int/9907021,Supersymmetric KP hierarchy in N=1 superspace and its N=2 reductions,1.1205066106703362e-05,2.9778480776835407e-06,15.0,7.0
+solv-int/9911008,Multidimensional analogs of geometric s<-->t duality,1.1040629157892955e-05,0.0,5.0,3.0
+cond-mat/9912272,Exact Dynamics of the SU(K) Haldane-Shastry Model,1.0997032608046165e-05,0.0,7.0,0.0
+hep-th/9910033,Calogero-Moser Models V: Supersymmetry and Quantum Lax Pair,1.056200389986743e-05,1.2276197850365417e-05,25.0,21.0
+hep-th/9904002,Particle Reflection Amplitudes in a_n^(1) Toda Field Theories,1.0206411411184254e-05,4.985876214379548e-06,29.0,12.0
+hep-th/9704119,"Zero Curvature Formalism for Supersymmetric Integrable Hierarchies in
+  Superspace",9.936258997597962e-06,1.8565137641418582e-09,10.0,3.0
+hep-th/9905224,"Whitham Deformations and Tau Functions in N = 2 Supersymmetric Gauge
+  Theories",9.079172616474138e-06,1.2328685444155246e-05,70.0,16.0
+solv-int/9810009,"Fermionic flows and tau function of the N=(1|1) superconformal Toda
+  lattice hierarchy",9.04205619281123e-06,2.1534321988202795e-06,11.0,10.0
+solv-int/9904012,"Differential equations and duality in massless integrable field theories
+  at zero temperature",8.883415559626042e-06,1.2956538127702796e-05,13.0,1.0
+solv-int/9810002,Integrable open boundary conditions for XXC models,8.860248171739476e-06,1.5905514767537984e-05,8.0,2.0
+solv-int/9503003,"On the dynamics of noncanonically coupled oscillators and its hidden
+  superstructure",8.7235258116887e-06,0.0,2.0,2.0
+solv-int/9909017,Darboux transformations for a Bogoyavlenskii equation in 2+1 dimensions,8.65517131955202e-06,0.0,2.0,0.0
+hep-th/9809127,The Equivalence Postulate of Quantum Mechanics,8.475357029961039e-06,2.287344148404369e-05,32.0,32.0
+solv-int/9904013,Solitons in a 3d integrable model,8.46550347086096e-06,5.940844045253947e-08,1.0,2.0
+hep-th/9806003,On a_2^(1) Reflection Matrices and Affine Toda Theories,8.210022592437215e-06,6.969204149487405e-06,21.0,10.0
+hep-th/9608107,Manifestly Supersymmetric Lax Integrable Hierarchies,8.07796079490161e-06,4.6592523694019184e-05,13.0,8.0
+hep-th/9602068,Virasoro Symmetry of Constrained KP Hierarchies,8.064163910650341e-06,3.989957498101544e-06,14.0,8.0
+solv-int/9812028,"Integral equations for the correlation functions of the quantum
+  one-dimensional Bose gas",8.01931542599388e-06,0.0,3.0,0.0
+solv-int/9512008,"Constrained KP Hierarchies: Darboux-B\""acklund Solutions and Additional
+  Symmetries",8.006283787947376e-06,1.4617473200589474e-05,25.0,4.0
+solv-int/9810012,Generating Quadrilateral and Circular Lattices in KP Theory,7.920660014359427e-06,0.0,6.0,0.0
+solv-int/9911005,"A note on real forms of the complex N=4 supersymmetric Toda chain
+  hierarchy in real N=2 and N=4 superspaces",7.846647490650036e-06,0.0,16.0,4.0
+solv-int/9907020,Soliton Cellular Automata Associated With Crystal Bases,7.71362658534885e-06,1.1941096530960432e-05,3.0,3.0
+solv-int/9904024,"Multi-Component Matrix KP Hierarchies as Symmetry-Enhanced Scalar KP
+  Hierarchies and Their Darboux-B""acklund Solutions",7.539070934090128e-06,0.0,7.0,4.0
+solv-int/9805002,"On the Miura and Backlund transformations associated with the
+  supersymmetric Gelfand-Dickey bracket",7.425907521378823e-06,0.0,5.0,1.0
+solv-int/9906007,On exact solution of a classical 3D integrable model,7.4190643772652785e-06,0.0,6.0,0.0
+math/9905101,Elliptic Calogero-Moser Systems and Isomonodromic Deformations,7.352222720017736e-06,0.0,16.0,0.0
+solv-int/9909006,"Canonical transformations of the extended phase space, Toda lattices and
+  Stackel family of integrable systems",7.3503753812341406e-06,7.996376084911812e-06,3.0,3.0
+cond-mat/9806208,Fermionization and Hubbard Models,7.266051131352737e-06,1.9797487647170563e-06,4.0,1.0
+hep-th/9711146,"Form Factors, Thermal States and Modular Structures",7.257261302471765e-06,2.006323938468413e-06,10.0,3.0
+solv-int/9705005,"Some eigenstates for a model associated with solutions of tetrahedron
+  equation. V. Two cases of string superposition",6.93899602973048e-06,0.0,4.0,0.0
+solv-int/9805008,"Exact Kink Solitons in the Presence of Diffusion, Dispersion, and
+  Polynomial Nonlinearity",6.848452084704024e-06,0.0,4.0,0.0
+hep-lat/9701001,"Perturbation theory predictions and Monte Carlo simulations for the 2-d
+  O(n) non-linear sigma-model",6.837306504382678e-06,0.0,9.0,10.0
+solv-int/9810003,Tau-function for discrete sine-Gordon equation and quantum R-matrix,6.726128357503366e-06,0.0,4.0,0.0
+math/9802104,"The dynamical twisting and nondynamical r-matrix structure of elliptic
+  Ruijsenaars-Schneider model",6.67196689208543e-06,0.0,4.0,1.0
+hep-th/9910123,"Free harmonic oscillators, Jack polynomials and Calogero-Sutherland
+  systems",6.6364498542162216e-06,4.058699782516849e-06,9.0,2.0
+hep-th/9807189,Restricting affine Toda theory to the half-line,6.61165309806954e-06,0.0,24.0,11.0
+hep-th/9407112,"Reduction of Toda Lattice Hierarchy to Generalized KdV Hierarchies and
+  Two-Matrix Model",6.54116453368004e-06,0.0,20.0,5.0
+solv-int/9811003,Quantum 2+1 evolution model,6.468974073590505e-06,7.426055056567433e-08,8.0,1.0
+math/9812022,Remarks on Fermionic Formula,6.464434426886209e-06,9.368214782281012e-05,10.0,11.0
+solv-int/9910010,Schlesinger transformations for elliptic isomonodromic deformations,6.394503228901951e-06,0.0,7.0,1.0
+math/9803107,Painleve' transcendents and two-dimensional topological field theory,6.3607582421584215e-06,0.0001060388326706,19.0,14.0
+quant-ph/9601030,Universal Superpositions of Coherent States and Self-Similar Potentials,6.357932075650843e-06,0.0,7.0,3.0
+hep-th/9809052,"Tau-Functions generating the Conservation Laws for Generalized
+  Integrable Hierarchies of KdV and Affine-Toda type",6.2692117906558464e-06,1.7830829222774474e-05,10.0,3.0
+solv-int/9905013,On pulse broadening for optical solitons,6.164002034227927e-06,0.0,6.0,0.0
+math/9808130,Homological Methods in Equations of Mathematical Physics,6.058480827865737e-06,3.200924052623912e-05,9.0,14.0
+solv-int/9712003,The Stackel systems and algebraic curves,5.891104706344572e-06,1.3966924350392029e-05,6.0,2.0
+hep-th/9910102,Differential equations and integrable models: the SU(3) case,5.861037150040879e-06,4.531350777131095e-06,19.0,13.0
+solv-int/9711012,Coset approach to the N=2 supersymmetric matrix GNLS hierarchies,5.857980039862342e-06,0.0,5.0,3.0
+solv-int/9609010,The Calogero-Sutherland Model and Polynomials with Prescribed Symmetry,5.841739662252055e-06,8.597158219863224e-07,8.0,10.0
+hep-th/9606066,"Tau-functions and Dressing Transformations for Zero-Curvature Affine
+  Integrable Equations",5.810199417472173e-06,3.996513326498704e-06,14.0,12.0
+solv-int/9904005,The tetrahedral analog of Veneziano amplitude,5.793020212939934e-06,0.0,5.0,1.0
+solv-int/9811016,"The supersymmetric Camassa-Holm equation and geodesic flow on the
+  superconformal group",5.786317881288364e-06,0.0,5.0,2.0
+hep-th/9805216,"Nearest neighbor two-point correlation function of the $Z$-invariant
+  eight-vertex model",5.649091123179041e-06,0.0,8.0,1.0
+solv-int/9805006,On Grassmannian Description of the Constrained KP Hierarchy,5.596733701111744e-06,2.0382349316111283e-06,4.0,3.0
+hep-th/9809140,Soliton-preserving boundary condition in affine Toda field theories,5.576700744404097e-06,0.0,16.0,4.0
+solv-int/9905007,The continuum limit of sl(N/K) integrable super spin chains,5.563515729573969e-06,1.6738549145120427e-05,6.0,13.0
+hep-th/9912124,"Duality in Integrable Systems and Generating Functions for New
+  Hamiltonians",5.556957926556916e-06,7.743995592598778e-07,19.0,3.0
+math/9909068,"Combinatorial R matrices for a family of crystals : C^{(1)}_n and
+  A^{(2)}_{2n-1} cases",5.459871395625964e-06,6.965639643060252e-06,5.0,1.0
+cond-mat/9711142,Hubbard Models as Fusion Products of Free Fermions,5.448946470781901e-06,0.0,7.0,2.0
+solv-int/9901004,Airy Kernel and Painleve II,5.424609732691472e-06,0.0,13.0,0.0
+hep-th/9702182,The Ruijsenaars-Schneider Model,5.351994807584424e-06,2.9704220226269734e-08,8.0,4.0
+math/9810055,"The q-characters of representations of quantum affine algebras and
+  deformations of W-algebras",5.342717101923754e-06,4.69029562722731e-05,6.0,11.0
+solv-int/9904016,"Korteweg-de Vries hierarchy and related completely integrable systems:
+  I. Algebro-geometrical approach",5.241885066983675e-06,0.0,3.0,0.0
+solv-int/9711009,The N=2 supersymmetric matrix GNLS hierarchies,5.236428228788397e-06,2.9637385730760624e-05,8.0,7.0
+solv-int/9710015,Hidden quantum R-matrix in discrete time classical Heisenberg magnet,5.226831833425363e-06,0.0,8.0,1.0
+solv-int/9802015,"The nondynamical r-matrix structure of the elliptic
+  Ruijsenaars-Schneider model with N=2",5.218923246681545e-06,1.4852110113134864e-08,8.0,1.0
+hep-th/9901120,Whitham Deformations of Seiberg-Witten Curves for Classical Gauge Groups,5.185652646164902e-06,3.7218032570218297e-06,46.0,7.0
+solv-int/9907014,"Integrable Discrete Geometry: the Quadrilateral Lattice, its
+  Transformations and Reductions",5.160928044588108e-06,0.0,3.0,0.0
+solv-int/9907007,New Integrable Coupled Nonlinear Schrodinger Equations,5.1531259736015975e-06,0.0,4.0,0.0
+hep-th/9508111,An SU(2) Analog of the Azbel--Hofstadter Hamiltonian,5.137203203038952e-06,0.0,9.0,6.0
+math-ph/9909001,Universality of the Distribution Functions of Random Matrix Theory. II,5.11428047613087e-06,3.4132549126502945e-08,12.0,1.0
+hep-th/9308086,"The Conserved Charges and Integrability of the Conformal Affine Toda
+  Models",5.09926321965181e-06,0.0,9.0,3.0
+hep-th/9409071,Discrete-time Calogero-Moser Model and Lattice KP Equations,5.0968583904041545e-06,0.0,8.0,1.0
+hep-th/9809058,Finite Size Formula in the XYZ Spin Chain,4.984586908006232e-06,0.0,4.0,0.0
+hep-th/9804124,"Calogero-Moser Lax Pairs with Spectral Parameter for General Lie
+  Algebras",4.95698453175924e-06,7.477637324500403e-05,48.0,43.0
+q-alg/9612032,R-matrix Quantization of the Elliptic Ruijsenaars--Schneider model,4.883730518618296e-06,0.0,16.0,11.0
+solv-int/9605001,Integrable discretizations of the spin Ruijsenaars-Schneider models,4.874867111578448e-06,0.0,10.0,2.0
+solv-int/9803012,N-Soliton Solutions to a New (2 + 1) Dimensional Integrable Equation,4.820310432891641e-06,0.0,3.0,1.0
+solv-int/9712009,Canonical gauge equivalences of the sAKNS and sTB hierarchies,4.820122365957624e-06,0.0,5.0,3.0
+q-alg/9710015,Orthogonal Polynomials of Types A and B and Related Calogero Models,4.81336241754513e-06,4.826935786768832e-08,6.0,4.0
+solv-int/9712008,The XXC Models,4.794692977023384e-06,0.0,5.0,2.0
+quant-ph/9806019,"SUSY Quantum Mechanics with Complex Superpotentials and Real Energy
+  Spectra",4.7513441243217625e-06,0.000103441476565,8.0,14.0
+solv-int/9812001,Duality between integrable Stackel systems,4.66335662349208e-06,9.986558840071883e-06,1.0,1.0
+hep-th/9810139,Resonance NLS Solitons as Black Holes in Madelung Fluid,4.65633676099245e-06,3.980365510320144e-06,4.0,3.0
+solv-int/9811002,"Bethe ansatz solution of the anisotropic correlated electron model
+  associated with the Temperley-Lieb algebra",4.64417109920356e-06,0.0,2.0,0.0
+solv-int/9701006,Aspects of Solitons in Affine Integrable Hierarchies,4.613273174877683e-06,0.0,11.0,0.0
+math-ph/9807020,Form factors of the XXZ Heisenberg spin-1/2 finite chain,4.5389330781002885e-06,0.0,9.0,25.0
+hep-th/9905088,"Renormalization-group Method for Reduction of Evolution Equations;
+  invariant manifolds and envelopes",4.538658191442589e-06,3.25739325460633e-05,10.0,4.0
+hep-th/9801089,Boundary conditions changing operators in non conformal theories,4.5330252867897855e-06,0.0,3.0,2.0
+hep-th/9903168,Integrable theories in any dimension: a perspective,4.522520800021449e-06,3.1214676156085894e-06,5.0,2.0
+hep-th/9707155,Factorization of Multiparticle Scattering in the Heisenberg Spin Chain,4.515025475212901e-06,0.0,1.0,0.0
+hep-th/9312144,On Discrete Symmetries of the Multi-Boson KP Hierarchies,4.510776769095751e-06,0.0,15.0,5.0
+solv-int/9911009,"Equations and Integrals of Motion in Discrete Integrable $A_{k-1}$
+  Algebra Models",4.494862785596568e-06,0.0,10.0,0.0
+hep-th/9605052,Effective Field Theory for Coherent Optical Pulse Propagation,4.488361666701763e-06,0.0,2.0,2.0
+solv-int/9710016,"Bispectral Operators, Dual Isomonodromic Deformations and the
+  Riemann-Hilbert Dressing Method",4.394104875092506e-06,0.0,5.0,0.0
+hep-th/9512105,Affine Toda Systems Coupled to Matter Fields,4.3570314239593285e-06,2.194558204288292e-05,8.0,11.0
+q-alg/9706019,"Intertwining Operators for a Degenerate Double Affine Hecke Algebra and
+  Multivariable Orthogonal Polynomials",4.356557227890294e-06,4.2965032827283016e-08,7.0,3.0
+hep-th/9610003,Scaling Limit of the Ising Model in a Field,4.311832499909133e-06,0.0,5.0,1.0
+solv-int/9904007,Complex sine-Gordon Equation in Coherent Optical Pulse Propagation,4.30741915093782e-06,0.0,3.0,1.0
+hep-th/9909145,Boundary breathers in the sinh-Gordon model,4.306927604011007e-06,0.0,16.0,10.0
+solv-int/9801013,Particles and strings in a (2+1)-D integrable quantum model,4.303708709749448e-06,0.0,6.0,0.0
+q-alg/9709011,"Asymptotics of Jack polynomials as the number of variables goes to
+  infinity",4.302733679538038e-06,0.0,8.0,5.0
+math/9905084,The asymptotics of monotone subsequences of involutions,4.300704800151532e-06,8.45789404573028e-06,11.0,20.0
+solv-int/9907006,Integrable supersymmetric correlated electron chain with open boundaries,4.298678577244672e-06,0.0,4.0,1.0
+solv-int/9810016,"Asymptotics of the Fredholm determinant associated with the correlation
+  functions of the quantum Nonlinear Schrodinger equation",4.279701255672649e-06,1.4852110113134864e-08,4.0,2.0
+solv-int/9609008,N=2 KP and KdV hierarchies in extended superspace,4.263012815720232e-06,4.387548485830164e-05,3.0,18.0
+solv-int/9504001,Separation of Variables. New Trends.,4.210163628985291e-06,0.0,6.0,28.0
+solv-int/9710006,AKS scheme for face and Calogero-Moser-Sutherland type models,4.164717893663653e-06,0.0,3.0,2.0
+cond-mat/9803074,One-Dimensional XXZ Model for Particles Obeying Fractional Statistics,4.143288046955026e-06,0.0,3.0,0.0
+solv-int/9807002,"Extending Hamiltonian Operators to Get Bi-Hamiltonian Coupled KdV
+  Systems",4.137346715430839e-06,0.0,3.0,0.0
+solv-int/9704007,"The Correspondence between Discrete Surface and Difference Geometry of
+  the KP-hierarchy",4.132292129237838e-06,0.0,4.0,0.0
+hep-th/9904082,Angular Quantization of the Sine-Gordon Model at the Free Fermion Point,4.086248023578705e-06,1.992229680592331e-06,6.0,5.0
+solv-int/9802018,On gauge-equivalent formulations of N=4 SKdV hierarchy,4.0852778496294735e-06,0.0,9.0,1.0
+solv-int/9809011,The Generalised mKdV Equations for Level -3 of $\hat{sl}_2$,4.054727203914564e-06,0.0,6.0,0.0
+solv-int/9802016,What is the relativistic Volterra lattice?,4.009593088046567e-06,0.0,1.0,0.0
+math-ph/9909008,Nonabelian Toda equations associated with classical Lie groups,3.969194108485265e-06,7.953800035920824e-06,9.0,5.0
+cond-mat/9703073,"Elementary Excitations and Dynamical Correlation Functions of the
+  Calogero-Sutherland Model with Internal Symmetry",3.943683102398692e-06,0.0,3.0,0.0
+solv-int/9903004,Finite genus solutions for the Ablowitz-Ladik hierarchy,3.9396705279016014e-06,0.0,3.0,0.0
+solv-int/9510009,On Integrable Models and their Interrelations,3.922866830457141e-06,0.0,7.0,1.0
+math/9810138,"Induced surfaces and their integrable dynamics. II. Generalized
+  Weierstrass representations in 4D spaces and deformations via DS hierarchy",3.921992942572243e-06,0.0,5.0,3.0
+adap-org/9410001,"Belavkin-Kolokoltsov Watch-Dog Effects in Interactively Controlled
+  Stochastic Computer-Graphic Dynamical Systems. A Summary of Mathematical
+  Researches",3.895828764866227e-06,0.0,7.0,0.0
+cond-mat/9411064,"Superconductivity in an exactly solvable Hubbard model with bond-charge
+  interaction",3.893776289413273e-06,0.0,3.0,3.0
+solv-int/9906003,Reflection K-Matrices for 19-Vertex Models,3.887406267237428e-06,1.5685226808737764e-07,6.0,5.0
+cond-mat/9706133,Orthogonal Symmetric Polynomials Associated with the Calogero Model,3.871717765972791e-06,0.0,8.0,2.0
+solv-int/9802008,"A systematic construction of completely integrable Hamiltonians from
+  coalgebras",3.849294175153266e-06,0.0,3.0,3.0
+solv-int/9709005,"Integrable discretizations for lattice systems: local equations of
+  motion and their Hamiltonian properties",3.789131609752023e-06,0.0,1.0,2.0
+solv-int/9802014,3D symplectic map,3.788265565792024e-06,0.0,6.0,1.0
+math-ph/9810006,"Graded Lie algebras, representation theory, integrable mappings and
+  systems: nonabelian case",3.775192618615463e-06,5.970548265480216e-06,5.0,5.0
+cond-mat/9701067,"On Exact Solutions to the Cylindrical Poisson-Boltzmann Equation with
+  Applications to Polyelectrolytes",3.7216836098199406e-06,0.0,2.0,1.0
+solv-int/9804017,Travelling Wave Solutions in Nonlinear Diffusive and Dispersive Media,3.686543296132367e-06,0.0,4.0,1.0
+hep-th/9708080,The Dynamics of Classical Chiral $QCD_{2}$ Currents,3.670919484292037e-06,0.0,3.0,2.0
+solv-int/9801006,"Dirac Operator of a Conformal Surface Immersed in R^4: Further
+  Generalized Weierstrass Relation",3.656568675347268e-06,0.0,5.0,5.0
+hep-th/9705219,Hidden Algebras of the (super) Calogero and Sutherland models,3.654471011029489e-06,0.0,14.0,19.0
+solv-int/9902010,"Lax Pair Formulation and Multi-soliton Solution of the Integrable Vector
+  Nonlinear Schrodinger Equation",3.639501128747021e-06,0.0,5.0,2.0
+solv-int/9705002,Rational solutions to d-PIV,3.62335329328243e-06,0.0,2.0,0.0
+solv-int/9607005,"Some further curiosities from the world of integrable lattice systems
+  and their discretizations",3.62335329328243e-06,0.0,2.0,0.0
+solv-int/9911004,Integrable deformations of oscillator chains from quantum algebras,3.62335329328243e-06,0.0,2.0,2.0
+solv-int/9804013,"Higher Order Asymptotics of the Modified Non-Linear Schr\""{o}dinger
+  Equation",3.62335329328243e-06,0.0,2.0,0.0
+hep-th/9402043,A Dynamical System Connected with Inhomogeneous 6-Vertex Model,3.62335329328243e-06,0.0,4.0,1.0
+math/9801105,Deformed W_N algebras from elliptic sl(N) algebras,3.619062661582298e-06,7.354533368800163e-06,10.0,10.0
+hep-th/9307147,"Toda and Volterra Lattice Equations from Discrete Symmetries of KP
+  Hierarchies",3.614378975902999e-06,0.0,12.0,9.0
+math/9905021,"Twisted Quantum Affine Superalgebra $U_q[gl(m|n)^{(2)}]$ and New
+  $U_q[osp(m|n)]$ Invariant R-matrices",3.613775255739299e-06,0.0,2.0,0.0
+math/9907069,Algebraic Solutions of the Multicomponent KP Hierarchy,3.604402175989961e-06,0.0,4.0,2.0
+hep-th/9505122,"Topological Landau-Ginzburg theory with a rational potential and the
+  dispersionless KP hierarchy",3.5840273714728407e-06,0.0,7.0,9.0
+solv-int/9801017,The classical r-matrix in a geometric framework,3.568665467176001e-06,0.0,5.0,0.0
+solv-int/9906013,Factorization dynamics and Coxeter-Toda lattices,3.5686230482778126e-06,1.990182755160072e-06,1.0,1.0
+hep-th/9407017,"Two-Matrix String Model as Constrained (2+1)-Dimensional Integrable
+  System",3.562565200632545e-06,0.0,12.0,5.0
+math/9810013,"Point Processes and the Infinite Symmetric Group. Part IV: Matrix
+  Whittaker kernel",3.5624931242921063e-06,0.0001437313702211,9.0,10.0
+math-ph/9811009,"On the Riemann-Hilbert approach to the asymptotic analysis of the
+  correlation functions of the Quantum Nonlinear Schrodinger equation. Non-free
+  fermionic case",3.558880789471955e-06,0.0,1.0,1.0
+hep-th/9405011,"Generalized Hirota Equations and Representation Theory. I. The case of
+  $SL(2)$ and $SL_q(2)$""",3.5094026608455965e-06,0.0,8.0,18.0
+solv-int/9709004,"Solitons from Dressing in an Algebraic Approach to the Constrained KP
+  Hierarchy",3.504844761583964e-06,1.999774742941471e-06,7.0,6.0
+patt-sol/9904006,The moment method in general Nonlinear Schrodinger Equations,3.5022623774415745e-06,5.569541292425575e-08,4.0,8.0
+solv-int/9912015,"Vector NLS hierarchy solitons revisited: dressing transformation and tau
+  function approach",3.501333226337238e-06,3.7130275282837164e-09,2.0,1.0
+hep-th/9407098,"Symmetries and tau function of higher dimensional dispersionless
+  integrable hierarchies",3.497059846057504e-06,0.0,4.0,0.0
+hep-th/9709207,"Classical limit of the Knizhnik-Zamolodchikov-Bernard equations as
+  hierarchy of isomonodromic deformations. Free fields approach",3.4967302027402246e-06,4.656100945121639e-06,10.0,14.0
+hep-th/9710099,"Free Field Construction for Correlation Functions of the Eight-Vertex
+  Model",3.4758154735881237e-06,3.980365510320144e-06,8.0,3.0
+solv-int/9707005,Solvability of the G_2 Integrable System,3.4720683767472925e-06,0.0,7.0,12.0
+solv-int/9704013,"Some eigenstates for a model associated with solutions of tetrahedron
+  equation. IV. String-particle marriage",3.461522996399911e-06,0.0,4.0,1.0
+solv-int/9802005,Hierarchy of Higher Dimensional Integrable System,3.457722204197803e-06,0.0,3.0,2.0
+solv-int/9510001,On Integrable Doebner-Goldin Equations,3.431318266430716e-06,0.0,3.0,1.0
+solv-int/9909015,Discrete asymptotic nets and W-congruences in Plucker line geometry,3.3751541879289565e-06,0.0,1.0,0.0
+math/9802124,On Time-Dependant Symmetries of Schroedinger Equation,3.3749066596554898e-06,0.0,1.0,1.0
+hep-th/9510131,Exact Bethe ansatz solution of nonultralocal quantum mKdV model,3.369483825373819e-06,0.0,5.0,0.0
+solv-int/9702003,"On an integrable discretization of the modified Korteweg-de Vries
+  equation",3.361077106294319e-06,0.0,2.0,0.0
+quant-ph/9902057,"Systems with Higher-Order Shape Invariance: Spectral and Algebraic
+  Properties",3.3357976725234845e-06,2.1848527361077376e-06,3.0,7.0
+solv-int/9705001,"Hamiltonian structure and coset construction of the supersymmetric
+  extensions of N=2 KdV hierarchy",3.3340896348907164e-06,0.0,5.0,1.0
+cond-mat/9908114,The Hubbard chain: Lieb-Wu equations and norm of the eigenfunctions,3.332650101218105e-06,0.0,3.0,0.0
+hep-th/9903002,"Lax Pairs and Spectral Curves for Calogero-Moser and Spin Calogero-Moser
+  Systems",3.3158746763691123e-06,0.0005338510616938,25.0,13.0
+hep-ph/9909539,"Evolution equations for quark-gluon distributions in multi-color QCD and
+  open spin chains",3.302907662632964e-06,1.7225291927050963e-06,7.0,30.0
+hep-ph/9801377,WKB quantization of reggeon compound states in high-energy QCD,3.291866235354475e-06,4.642613298907488e-05,7.0,25.0
+hep-th/9711058,"Gaudin Model, KZ Equation, and Isomonodromic Problem on Torus",3.265146562509399e-06,1.3272152882134112e-06,5.0,1.0
+solv-int/9608005,Fusion Hierarchies with Open Boundaries and Exactly Solvable Models,3.2572846384069744e-06,0.0,4.0,0.0
+hep-th/9903068,Seiberg-Witten Theory and Integrable Systems,3.256715857428251e-06,1.4853550109716689e-05,32.0,16.0
+solv-int/9804016,"Elliptic solutions to difference non-linear equations and nested Bethe
+  ansatz equations",3.2537434499163933e-06,2.2222608182909688e-06,5.0,13.0
+hep-th/9911008,Backlund Transformations in 10D susy Yang-Mills Theories,3.2434137174698427e-06,0.0,5.0,0.0
+math/9808048,Frobenius Manifolds And Virasoro Constraints,3.239610502255232e-06,6.8340379216983456e-06,10.0,12.0
+chao-dyn/9909027,On the large time asymptotics of decaying Burgers turbulence,3.233001283505979e-06,0.0,5.0,0.0
+cond-mat/9610132,Bethe Ansatz and Classical Hirota Equation,3.225563180924533e-06,0.0,4.0,3.0
+cond-mat/9804207,"Connection between Calogero-Marchioro-Wolfes type few-body models and
+  free oscillators",3.225554432258711e-06,0.0,4.0,4.0
+solv-int/9911001,"Canonical transformations of the time for the Toda lattice and the Holt
+  system",3.2202489565573077e-06,1.990182755160072e-06,2.0,1.0
+hep-th/9902141,Toroidal solitons in 3+1 dimensional integrable theories,3.220209270641137e-06,2.5504712586661083e-05,9.0,15.0
+hep-th/9801044,On form-factors in Sin(h)-Gordon theory,3.19869753794862e-06,0.0,6.0,2.0
+solv-int/9711006,"Comment on ``Equal-time temperature correlators of the one-dimensional
+  Heisenberg XY chain'', preprint solv-int/9710028",3.1978754673078448e-06,0.0,2.0,0.0
+hep-th/9606144,Faces of Relativistic Toda Chain,3.1947870804115704e-06,0.0,7.0,8.0
+hep-th/9605165,"Complex structure and the construction of the $:\phi^4_4:$ quantum field
+  theory in four-dimensional space-time",3.189798327320794e-06,0.0,3.0,0.0
+cond-mat/9411051,"$XXZ$ model as effective Hamiltonian for generalized Hubbard models with
+  broken $\eta$-symmetry",3.1883583257969976e-06,0.0,3.0,4.0
+math/9810014,"Point processes and the infinite symmetric group. Part V: Analysis of
+  the matrix Whittaker kernel",3.1860504545325613e-06,2.356892046733178e-07,6.0,9.0
+hep-th/9606022,"The algebraic and Hamiltonian structure of the dispersionless Benney and
+  Toda hierarchies",3.184029519666228e-06,0.0,6.0,2.0
+math-ph/9901019,Painlev\'{e} type equations and Hitchin systems,3.180859996773832e-06,0.0,10.0,1.0
+hep-th/9509096,Constrained KP Models as Integrable Matrix Hierarchies,3.159794904773832e-06,0.0,10.0,18.0
+hep-th/9906104,Chern-Simons Solitons in Quantum Potential,3.1215004692770297e-06,0.0,2.0,0.0
+solv-int/9809008,"Linear r-Matrix Algebra for a Hierarchy of One-Dimensional Particle
+  Systems Separable in Parabolic Coordinates",3.102828644072934e-06,0.0,7.0,0.0
+hep-th/9401049,"Dynamical r-matrices and Separation of Variables: The Generalised
+  Calogero-Moser Model",3.097401908034585e-06,0.0,6.0,3.0
+solv-int/9808003,From One-Component KP Hierarchy to Two-Component KP Hierarchy and Back,3.092021515374e-06,0.0,3.0,5.0
+solv-int/9701015,The Yangian Symmetry in the Spin Calogero Model and its Applications,3.089561894970505e-06,0.0,6.0,0.0
+solv-int/9802011,Quadratic reductions of quadrilateral lattices,3.081342363921626e-06,0.0,2.0,1.0
+hep-th/9907130,Symmetry Algebras of Quantum Matrix Models in the Large-N Limit,3.074790702153324e-06,9.016324598719957e-09,3.0,1.0
+hep-th/9905103,"Non-local conservation laws and flow equations for supersymmetric
+  integrable hierarchies",3.061919420527545e-06,0.0,4.0,8.0
+solv-int/9603006,Dynamical r-matrix for the elliptic Ruijsenaars-Schneider system,3.0554120420794964e-06,0.0,5.0,9.0
+hep-th/9906114,Airy functions in the thermodynamic Bethe ansatz,3.052214414673365e-06,0.0,10.0,10.0
+cond-mat/9707227,"The Exact Ground State of the Frenkel-Kontorova Model with Repeated
+  Parabolic Potential: I. Basic Results",3.0472482127272877e-06,0.0,2.0,0.0
+solv-int/9712017,Transformations of Quadrilateral Lattices,3.03482588104594e-06,0.0,3.0,6.0
+cond-mat/9909308,Soliton Solutions of Integrable Hierarchies and Coulomb Plasmas,3.0204894114965637e-06,0.0,1.0,3.0
+math/9905189,"Z-Measures on partitions, Robinson-Schensted-Knuth correspondence, and
+  beta=2 random matrix ensembles",3.0182683959020056e-06,3.3937845977776096e-05,14.0,24.0
+solv-int/9901011,A note on the third family of N=2 supersymmetric KdV hierarchies,3.01320434759551e-06,0.0,3.0,2.0
+solv-int/9910011,The averaging of non-local Hamiltonian structures in Whitham's method,3.011753272288128e-06,0.0,3.0,4.0
+solv-int/9701013,The structures underlying soliton solutions in integrable hierarchies,2.998297054163005e-06,0.0,5.0,0.0
+hep-th/9705187,Simplified Calculation of Boundary S Matrices,2.9900907085936648e-06,0.0,1.0,1.0
+hep-th/9810067,Integrable theories in any dimension and homogenous spaces,2.987867538324722e-06,1.0678274022226176e-05,10.0,7.0
+solv-int/9812015,A Realization of Discrete Geometry by String Model,2.979459513321296e-06,0.0,5.0,0.0
+math/9912218,"Commuting difference operators with elliptic coefficients from Baxter's
+  vacuum vestors",2.951930461956153e-06,0.0,7.0,3.0
+cond-mat/9612077,Quantization of the Derivative Nonlinear Schrodinger Equation,2.921643150097173e-06,0.0,2.0,4.0
+solv-int/9805005,"Reduced Vectorial Ribaucour Transformation for the Darboux-Egoroff
+  Equations",2.912119012307352e-06,0.0,5.0,0.0
+math-ph/9907019,"Correlation functions of the XXZ Heisenberg spin-1/2 chain in a magnetic
+  field",2.8946983153745566e-06,0.0,5.0,21.0
+q-alg/9712050,Centralizer construction for twisted Yangians,2.887450849652076e-06,0.0,5.0,5.0
+cond-mat/9903112,Excited state TBA and functional relations in spinless Fermion model,2.8825462324266208e-06,0.0,3.0,1.0
+cond-mat/9809076,Correlations in the impenetrable electron gas,2.8823378698908707e-06,0.0,2.0,0.0
+hep-th/9608009,"Soliton equations and the zero curvature condition in noncommutative
+  geometry",2.8823378698908707e-06,0.0,2.0,0.0
+quant-ph/9811083,"Equivalence of Local and Separable Realizations of the
+  Discontinuity-Inducing Contact Interaction and Its Perturbative
+  Renormalizability",2.8823378698908707e-06,0.0,2.0,0.0
+solv-int/9909024,Dressing method and the coupled KP hierarchy,2.880317728305666e-06,0.0,3.0,0.0
+solv-int/9802007,Chiral Solutions to Generalized Burgers and Burgers-Huxley Equations,2.87201444810997e-06,0.0,4.0,3.0
+solv-int/9801003,"N Soliton Solutions to The Bogoyavlenskii-Schiff Equation and A Quest
+  for The Soliton Solution in (3 + 1) Dimensions",2.855213185875573e-06,0.0,2.0,2.0
+solv-int/9809005,"Elliptic Algebro-Geometric Solutions of the KdV and AKNS Hierarchies -
+  An Analytic Approach",2.8448668339832963e-06,2.0467238375546973e-07,4.0,1.0
+solv-int/9610011,"Solutions of Discretized Affine Toda Field Equations for A_{n}^{(1)},
+  B_{n}^{(1)}, C_{n}^{(1)}, D_{n}^{(1)}, A_{n}^{(2)} and D_{n+1}^{(2)}",2.84251167217964e-06,0.0,3.0,0.0
+hep-th/9510001,KdV type systems and W-algebras in the Drinfeld-Sokolov approach,2.8386111280119063e-06,0.0,4.0,8.0
+hep-th/9805094,Integrable Chiral Theories in 2+1 Dimensions,2.835571204219538e-06,0.0,4.0,7.0
+dg-ga/9409004,On the nonHamiltonian interaction of two rotators,2.833209880203161e-06,0.0,2.0,4.0
+solv-int/9711011,Vertex Operators and Solitons of Constrained KP Hierarchies,2.831548775587072e-06,0.0,5.0,1.0
+q-alg/9602023,"Separation of variables for A2 Ruijsenaars model and new integral
+  representation for A2 Macdonald polynomials",2.813805413604416e-06,0.0,2.0,2.0
+hep-th/9712232,"Bihamiltonian Hierarchies in 2D Topological Field Theory At One-Loop
+  Approximation",2.8137201700342294e-06,3.405483350285703e-05,8.0,15.0
+cond-mat/9806095,"Jack polynomials with prescribed symmetry and hole propagator of spin
+  Calogero-Sutherland model",2.795593984454665e-06,0.0,2.0,0.0
+solv-int/9811001,Hirota bilinear forms with 2-toroidal symmetry,2.7920939153394315e-06,0.0,1.0,0.0
+solv-int/9801005,"Statistical Mechanics of Non-stretching Elastica in Three Dimensional
+  Space",2.7888905294789416e-06,0.0,2.0,0.0
+solv-int/9611004,Spinless Calogero-Sutherland model with twisted boundary condition,2.7848953435571363e-06,0.0,3.0,0.0
+q-alg/9610009,Quantum Dynamical R-matrices and Quantum Frobenius Group,2.773745683544108e-06,0.0,11.0,5.0
+solv-int/9808005,"Relationship Between the Energy Eigenstates of Calogero-Sutherland
+  Models With Oscillator and Coulomb-like Potentials",2.764853659114092e-06,0.0,2.0,1.0
+solv-int/9704001,A survey of Hirota's difference equations,2.7526358651083064e-06,0.0,6.0,21.0
+hep-th/9802003,"The Determinant Representation for a Correlation Function in Scaling
+  Lee-Yang Model",2.7327494012969063e-06,0.0,5.0,3.0
+solv-int/9809003,Osp(1|2) Off-shell Bethe Ansatz Equations,2.7242513873682165e-06,0.0,4.0,0.0
+hep-th/9407037,Lagrangian Formalism Over Graded Algebras,2.7015851643942016e-06,0.0,2.0,5.0
+solv-int/9701011,Twisted Quantum Lax Equations,2.7015851643942016e-06,0.0,2.0,1.0
+solv-int/9708008,"Nonlocal extended conformal algebras associated with multi-constraint KP
+  hierarchy and their free-field realizations",2.6972679223957773e-06,0.0,3.0,0.0
+cond-mat/9810312,New solutions to the Reflection Equation and the projecting method,2.6879134106665894e-06,0.0,6.0,6.0
+solv-int/9808018,"On Explicit Parametrisation of Spectral Curves for Moser-Calogero
+  Particles and its Applications",2.6807967108787293e-06,0.0,6.0,3.0
+hep-th/9606101,The dispersive self-dual Einstein equations and the Toda lattice,2.680102529831607e-06,0.0,6.0,0.0
+solv-int/9704004,"Spectral Curves and Whitham Equations in Isomonodromic Problems of
+  Schlesinger Type",2.6778389625730158e-06,8.346374353691955e-06,5.0,7.0
+q-alg/9605011,General methods for constructing bispectral operators,2.6704691520910688e-06,0.0,2.0,2.0
+solv-int/9709002,Field Theory for Coherent Optical Pulse Propagation,2.669775765521707e-06,0.0,1.0,1.0
+hep-th/9807001,"Hungry Volterra equation, multi boson KP hierarchy and Two Matrix Models",2.6617078394010117e-06,0.0,3.0,0.0
+hep-th/9902157,Generalized statistics in one dimension,2.6536276523681813e-06,0.0,4.0,73.0
+solv-int/9802001,"Braid Structure and Raising-Lowering Operator Formalism in Sutherland
+  Model",2.649878090516444e-06,0.0,2.0,0.0
+math-ph/9809013,"On form-preserving transformations for the time-dependent Schr\""odinger
+  equation",2.646985915191053e-06,5.020705716318206e-05,2.0,3.0
+math/9904042,"On the Distributions of the Lengths of the Longest Monotone Subsequences
+  in Random Words",2.6469252152717024e-06,4.1845424289545145e-05,10.0,27.0
+solv-int/9802003,"Lax pairs for N=2,3 Supersymmetric KdV Equations and their Extensions",2.639684226704778e-06,9.876653225234686e-07,3.0,2.0
+solv-int/9801002,"A Symmetric Generalization of Linear B\""acklund Transformation
+  associated with the Hirota Bilinear Difference Equation",2.623609898223281e-06,0.0,3.0,1.0
+solv-int/9908007,Determinant Formulas for the Toda and Discrete Toda Equations,2.621770386752702e-06,0.0,1.0,4.0
+solv-int/9708002,Nonstandard Drinfeld-Sokolov reduction,2.615319065059619e-06,0.0,3.0,6.0
+solv-int/9701020,The Discrete Symmetries of the N=2 Supersymmetric GNLS Hierarchies,2.6142863043436938e-06,1.1941096530960432e-05,5.0,13.0
+hep-th/9805185,"Exact Form Factors in Integrable Quantum Field Theories: the Sine-Gordon
+  Model",2.6128568982405783e-06,2.369327465214607e-05,5.0,18.0
+math/9902103,Integrable Hierarchies and Wakimoto Modules,2.6092238142579225e-06,0.0,3.0,0.0
+solv-int/9902017,Vertex Operator Solutions of 2d Dimensionally Reduced Gravity,2.608871486657702e-06,0.0,3.0,3.0
+solv-int/9505001,"Topics in nonhamiltonian (magnetic-type) interaction of classical
+  hamiltonian dynamical systems. I",2.6023888900528582e-06,0.0,2.0,2.0
+solv-int/9908003,"Classical Solutions Generating Tree Form-Factors in Yang-Mills,
+  Sin(h)-Gordon and Gravity",2.5801911669173835e-06,0.0,3.0,0.0
+solv-int/9909026,On a Schwarzian PDE associated with the KdV Hierarchy,2.5800377656472966e-06,0.0,3.0,2.0
+solv-int/9703010,"Some eigenstates for a model associated with solutions of tetrahedron
+  equation. III. Tetrahedral Zamolodchikov algebras and perturbed strings",2.5628849443149583e-06,0.0,5.0,2.0
+hep-th/9303045,W-infinity structure of the $sl(N)$ conformal affine Toda theories,2.561802410888481e-06,0.0,3.0,1.0
+solv-int/9707007,"On Density of State of Quantized Willmore Surface-A Way to Quantized
+  Extrinsic String in R^3",2.5509150241545398e-06,0.0,5.0,2.0
+solv-int/9612004,"Riemannian Manifolds with Diagonal Metric. The Lam\'e and Bourlet
+  Systems",2.5479571429128302e-06,0.0,2.0,1.0
+solv-int/9804009,"The Davey Stewartson system and the B\""{a}cklund Transformations",2.544596002887911e-06,0.0,2.0,1.0
+solv-int/9802002,Chiral Solitons in Generalized Korteweg-de Vries Equations,2.543930657340261e-06,0.0,2.0,3.0
+hep-th/9704074,"On trigonometric intertwining vectors and non-dynamical R-matrix for the
+  Ruijsenaars model",2.5419209922397854e-06,0.0,4.0,1.0
+solv-int/9712012,A New ``Dual'' Symmetry Structure of the KP Hierarchy,2.538834500493831e-06,1.990182755160072e-06,2.0,8.0
+solv-int/9907016,"Symmetric Linear Backlund Transformation for Discrete BKP and DKP
+  equation",2.534219737849645e-06,0.0,2.0,1.0
+solv-int/9610003,Automorphisms of sl(2) and dynamical r-matrices,2.5270152114715237e-06,0.0,2.0,5.0
+hep-th/9909118,"Confinement, solitons and the equivalence between the sine-Gordon and
+  massive Thirring models",2.5264824184506565e-06,7.4260550565674335e-09,9.0,2.0
+hep-th/9905105,Yangian symmetry in the Non Linear Schrodinger hierarchy,2.524339511709124e-06,6.633942517200226e-07,5.0,5.0
+solv-int/9801015,Functional Tetrahedron Equation,2.5192937938490053e-06,0.0,6.0,9.0
+math-ph/9908012,Integrable systems in spaces of arbitrary dimension,2.4975635170548248e-06,0.0,3.0,0.0
+math/9810015,"Point processes and the infinite symmetric group. Part VI: Summary of
+  results",2.484131604167208e-06,2.762785954388713e-05,7.0,23.0
+hep-th/9604142,A Geometry for Multidimensional Integrable Systems,2.480616178827549e-06,0.0,5.0,11.0
+solv-int/9901010,"Multi-soliton Solution of the Integrable Coupled Nonlinear Schrodinger
+  Equation of Manakov Type",2.4781841822433672e-06,0.0,3.0,4.0
+solv-int/9907013,Lattice geometry of the Hirota equation,2.475111832450372e-06,0.0,2.0,1.0
+math/9909169,"Random Words, Toeplitz Determinants and Integrable Systems. I",2.4730302138910173e-06,4.12091696749653e-06,10.0,10.0
+solv-int/9906012,"Integrability of the higher-order nonlinear Schroedinger equation
+  revisited",2.4711431321721443e-06,0.0,1.0,0.0
+solv-int/9812003,The Coupled Modified Korteweg-de Vries Equations,2.4711431321721443e-06,0.0,1.0,0.0
+solv-int/9909021,Self-similar solutions of NLS-type dynamical systems,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/9606137,"The free energy singularity of the asymmetric 6--vertex model and the
+  excitations of the asymmetric XXZ chain",2.4711431321721443e-06,0.0,1.0,2.0
+cond-mat/9707301,Random Matrix Theories in Quantum Physics: Common Concepts,2.4711431321721443e-06,0.0,1.0,60.0
+solv-int/9610004,Contractions of Integrable Equations,2.4711431321721443e-06,0.0,1.0,0.0
+solv-int/9606004,Symmetries of KdV and Loop Groups,2.4711431321721443e-06,0.0,1.0,6.0
+solv-int/9909001,"Non-symmetry constraints of the AKNS system yielding integrable
+  Hamiltonian systems",2.4711431321721443e-06,0.0,1.0,0.0
+solv-int/9506003,"Algebraic integrable dynamical systems, 2+1-dimensional models in wholly
+  discrete space-time, and inhomogeneous models in 2-dimensional statistical
+  physics",2.4711431321721443e-06,0.0,2.0,23.0
+solv-int/9605002,Darboux Transformations for a Lax Integrable System in $2n$-Dimensions,2.4711431321721443e-06,0.0,1.0,0.0
+solv-int/9910005,"Lax pair, Darboux Transformations and solitonic solutions for a (2+1)
+  dimensional NLSE",2.4711431321721443e-06,0.0,1.0,2.0
+hep-th/9305171,The N to Infinity Limit of the Chiral Potts Model,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/9804212,"N Fermion Ground State of Calogero-Sutherland Type Models in Two and
+  Higher Dimensions",2.4711431321721443e-06,0.0,1.0,2.0
+hep-th/9810034,Parity and Charge Conjugation Symmetries and S Matrix of the XXZ Chain,2.4711431321721443e-06,0.0,1.0,3.0
+math/9802038,"More On Generalized Symmetries of Partial Differential Equations and
+  Quasiexact Solvability",2.4711431321721443e-06,0.0,1.0,1.0
+math-ph/9912014,"Thermodynamic Bethe ansatz equation from fusion hierarchy of osp(1|2)
+  integrable spin chain",2.461411655538664e-06,1.0214580752710475e-06,2.0,2.0
+solv-int/9705016,Dual Isomonodromic Problems and Whitham Equations,2.459307761298316e-06,1.6602232530201987e-06,5.0,3.0
+hep-th/9906060,"A Review of Symmetry Algebras of Quantum Matrix Models in the Large-N
+  Limit",2.4569380923980405e-06,4.6791959428139775e-08,2.0,3.0
+math/9807129,"Weierstrass representations for surfaces in 4D spaces and their
+  integrable deformations via DS hierarchy",2.445631768624088e-06,0.0,3.0,7.0
+hep-th/9910187,Quantum Field Theory of Topological Defects as Inhomogeneous Condensates,2.444430955267245e-06,0.0,2.0,1.0
+hep-th/9809126,"Equivalence Principle: Tunnelling, Quantized Spectra and Trajectories
+  from the Quantum HJ Equation",2.436543866210322e-06,2.2010396518098484e-09,8.0,14.0
+solv-int/9712002,"Extended N=2 supersymmetric matrix (1,s)-KdV hierarchies",2.43414540353405e-06,3.965513400207009e-06,3.0,6.0
+hep-th/9803101,Hitchin Systems at Low Genera,2.429735359900988e-06,0.0,2.0,5.0
+hep-th/9806002,"A Lie Algebra for Closed Strings, Spin Chains and Gauge Theories",2.4252438175865785e-06,7.180625989271133e-08,4.0,8.0
+hep-th/9809125,"Equivalence Principle, Planck Length and Quantum Hamilton-Jacobi
+  Equation",2.393812648086085e-06,2.2010396518098484e-09,8.0,11.0
+solv-int/9710005,"Binary Darboux-Backlund Transformations for the Manin-Radul Super KdV
+  Hierarchy",2.3866950483115275e-06,0.0,1.0,1.0
+hep-th/9711052,Symmetries of Large N Matrix Models for Closed Strings,2.376373771948165e-06,2.4753516855224776e-09,3.0,3.0
+cond-mat/9710033,"Exactly integrable family of generalized Hubbard models with twisted
+  Yangian symmetry",2.3568204957025096e-06,0.0,2.0,5.0
+solv-int/9909014,"The General Solution of the Complex Monge-Amp\`ere Equation in a space
+  of arbitrary dimension",2.35371669665229e-06,0.0,2.0,0.0
+math/9902068,"Spectral Curves, Opers and Integrable Systems",2.351610523621067e-06,1.8054583978843476e-05,4.0,7.0
+solv-int/9704002,"Extended matrix Gelfand-Dickey hierarchies: reduction to classical Lie
+  algebras",2.335477046099425e-06,3.1605290320750994e-05,4.0,1.0
+solv-int/9911006,Bicomplexes and finite Toda lattices,2.3168316779796927e-06,0.0,3.0,2.0
+hep-th/9212076,"Separation of variables in the quantum integrable models related to the
+  Yangian Y[sl(3)]",2.313979668904168e-06,0.0,3.0,6.0
+solv-int/9906004,"On the bilinear equations for Fredholm determinants appearing in random
+  matrices",2.298342810621645e-06,3.4125329694664576e-08,1.0,1.0
+funct-an/9605002,"The $:\phi^4_4:$ quantum field theory, I. Wave operator, holomorphity
+  and Wick kernel",2.295804179080275e-06,0.0,2.0,2.0
+hep-th/9807042,The Geometrodynamics of Sine-Gordon Solitons,2.2917491882835648e-06,4.420682188032684e-06,6.0,1.0
+hep-th/9910235,"Solution Generating in Ten Dimensional Supersymmetric Classical
+  Yang--Mills Theories",2.2725068683245985e-06,2.8027203275608112e-08,3.0,2.0
+math/9912093,Riemann-Hilbert problem and the discrete Bessel kernel,2.2715320569791e-06,5.173930859795152e-06,9.0,11.0
+hep-th/9710147,A New Approach to Integrable Theories in any Dimension,2.262873400464008e-06,0.0,6.0,39.0
+hep-th/9611185,A Nonrelativistic Chiral Soliton in One Dimension,2.245979448334096e-06,0.0,2.0,10.0
+hep-th/9702144,"On Infinite-Dimensional Algebras of Symmetries of the Self-Dual
+  Yang-Mills Equations",2.2404581378995567e-06,3.490649274625787e-08,6.0,7.0
+funct-an/9409003,"Classical and quantum dynamics of noncanonically coupled oscillators and
+  Lie superalgebras",2.236525333171024e-06,0.0,2.0,5.0
+math/9812161,On the spectral curve of the difference Lam\'e operator,2.219463233673724e-06,0.0,3.0,1.0
+hep-th/9905079,"Exact static soliton solutions of 3+1 dimensional integrable theory with
+  nonzero Hopf numbers",2.21259054052085e-06,1.3763278223676805e-06,7.0,13.0
+hep-th/9704079,Solitons in high-energy QCD,2.205433166539687e-06,2.13379799477644e-07,4.0,10.0
+hep-th/9711103,Multi-spin correlation functions for the Z-Invariant Ising model,2.2022940945797445e-06,0.0,3.0,0.0
+hep-th/9709073,Gauge Symmetry and Integrable Models,2.189859437713605e-06,0.0,4.0,0.0
+hep-th/9409190,"Quantum Deformations of $\tau$-functions, Bilinear Identities and
+  Representation Theory",2.1829405030886733e-06,0.0,7.0,5.0
+solv-int/9805003,Hidden Algebra of Three-Body Integrable Systems,2.180332066382989e-06,0.0,6.0,3.0
+hep-th/9709204,"Normal Ordering in the Theory of Correlation Functions of Exactly
+  Solvable Models",2.173337682807429e-06,2.22781651697023e-08,3.0,1.0
+cond-mat/9901073,"A Unified Algebraic Approach to Few and Many-Body Hamiltonians having
+  Linear Spectra",2.16855206378972e-06,2.0322071543468563e-06,5.0,3.0
+solv-int/9812017,"Hamiltonian Structures of Generalized Manin-Radul Super KdV and
+  Constrained Super KP Hierarchies",2.166428351644923e-06,0.0,2.0,0.0
+solv-int/9802012,Eigenvector and eigenvalue problem for 3D bosonic model,2.1649299213676617e-06,0.0,4.0,2.0
+hep-th/9509120,Complex sine-Gordon Theory for Coherent Optical Pulse Propagation,2.1624812338241745e-06,0.0,2.0,1.0
+solv-int/9707008,Functional representation of the Ablowitz-Ladik hierarchy,2.1254800838390582e-06,0.0,2.0,2.0
+hep-th/9704130,The Hamiltonian structure of the N=2 supersymmetric GNLS hierarchy,2.1108561453078605e-06,0.0,5.0,5.0
+hep-th/9810124,The Quantization of the Generalized mKdV Equations for $\hat {\SL}_2$,2.106686717157504e-06,0.0,4.0,0.0
+hep-th/9508084,The Hamiltonian Structure of Soliton Equations and Deformed W-Algebras,2.1007615721523425e-06,0.0,4.0,2.0
+hep-th/9701066,"Time and Temperature Dependent Correlation Functions of 1D Models of
+  Quantum Statistical Mechanics",2.087073078468716e-06,0.0,2.0,0.0
+cond-mat/9710083,Exact integrability of the su(n) Hubbard model,2.0704025952219805e-06,0.0,1.0,4.0
+hep-th/9902024,Fluid Dynamical Profiles and Constants of Motion from d-Branes,2.0682762622053418e-06,3.980365510320144e-06,2.0,8.0
+hep-th/9312213,On a c-number quantum $\tau$-function,2.068078861298835e-06,0.0,4.0,10.0
+cond-mat/9806227,"Integrable Impurity Model with Spin and Flavour: Model Inspired by
+  Resonant Tunneling in Quantum Dot",2.057727993696494e-06,0.0,2.0,0.0
+solv-int/9908002,Quantum Backlund transformation for the integrable DST model,2.0514094560726174e-06,2.786392163021184e-05,3.0,14.0
+solv-int/9610010,An orthogonal basis for the $B_N$-type Calogero model,2.0393835514293496e-06,2.104048932694106e-08,3.0,2.0
+hep-th/9602160,"Why are the rational and hyperbolic Ruijsenaars-Schneider hierarchies
+  governed by the same R-operators as the Calogero-Moser ones?",2.019847736276433e-06,0.0,4.0,14.0
+solv-int/9610002,Darboux Coverings and Rational Reductions of the KP Hierarchy,2.018184565457887e-06,0.0,4.0,0.0
+solv-int/9701008,"$P_\infty$ algebra of KP, free fermions and 2-cocycle in the Lie algebra
+  of pseudodifferential operators",2.016490805762481e-06,0.0,1.0,2.0
+hep-th/9711019,A Matrix Model Solution of Hirota Equation,2.0161560592781955e-06,0.0,4.0,3.0
+hep-th/9804125,"Calogero-Moser and Toda Systems for Twisted and Untwisted Affine Lie
+  Algebras",2.014136317740849e-06,9.769829303274776e-07,14.0,29.0
+hep-th/9805106,Calogero-Moser Models: A New Formulation,2.0132461086542406e-06,2.1298661974284003e-06,11.0,29.0
+solv-int/9603011,"Elliptic Ruijsenaars-Schneider and Calogero-Moser hierarchies are
+  governed by the same r-matrix",2.012738451717216e-06,0.0,5.0,11.0
+solv-int/9710008,On classical string configurations,2.0102590677280302e-06,0.0,2.0,0.0
+hep-th/9903066,Direct Calculation of Breather S Matrices,2.004257533926402e-06,0.0,1.0,0.0
+solv-int/9802009,"Multi-parameter deformed and nonstandard $Y(gl_M)$ Yangian symmetry in
+  integrable variants of Haldane-Shastry spin chain",2.003469176321638e-06,0.0,2.0,0.0
+solv-int/9809010,"Symmetries and exact solutions of some integrable Haldane-Shastry like
+  spin chains",2.003469176321638e-06,0.0,2.0,0.0
+solv-int/9802013,Supersymmetric Drinfeld-Sokolov reduction,2.003389717442103e-06,3.987791565376711e-06,3.0,13.0
+hep-th/9405096,Integrable Hierarchies and Dispersionless Limit,2.002339482819522e-06,0.0,6.0,29.0
+cond-mat/9902296,"Commuting quantum transfer matrix approach to intrinsic Fermion system:
+  Correlation length of a spinless Fermion model",1.9948921740128524e-06,0.0,2.0,2.0
+solv-int/9812016,"Finite-dimensional analogs of string s <-> t duality and pentagon
+  equation",1.994844052714628e-06,0.0,3.0,2.0
+hep-th/9809068,Calogero-Moser Models II: Symmetries and Foldings,1.9917997986590607e-06,1.3474929297284268e-07,14.0,24.0
+hep-th/9607099,"Integrable Quantum Field Theories in Finite Volume: Excited State
+  Energies",1.981228003565169e-06,0.0,4.0,34.0
+solv-int/9708009,"d=2, N=2 Superconformally Covariant Operators and Super W-Algebras",1.978810069774892e-06,0.0,2.0,0.0
+solv-int/9804015,"Knizhnik-Zamolodchikov-Bernard equations connected with the eight-vertex
+  model",1.9737361332188936e-06,0.0,3.0,3.0
+math/9912081,Frobenius submanifolds,1.9522522160366857e-06,0.0,3.0,0.0
+solv-int/9510002,Dispersionful analogues of Benney's equations and $N$-wave systems,1.945606497337052e-06,0.0,3.0,11.0
+cond-mat/9603173,"Dynamical Generation of Extended Objects in a $1+1$ Dimensional Chiral
+  Field Theory: Non-Perturbative Dirac Operator Resolvent Analysis",1.944069020877338e-06,7.4260550565674335e-09,1.0,5.0
+solv-int/9602001,Some Classes of Solutions to the Toda Lattice Hierarchy,1.9361182119571537e-06,0.0,1.0,3.0
+hep-th/9801079,General Solution of 7D Octonionic Top Equation,1.934229505410106e-06,1.8500428890882495e-06,6.0,12.0
+math-ph/9807017,"Riccati-type equations, generalised WZNW equations, and multidimensional
+  Toda systems",1.9334450569873443e-06,0.0,2.0,3.0
+hep-th/9812215,"Soliton Solution of the Integrable Coupled Nonlinear Schrodinger
+  Equation of Manakov Type",1.9334450569873443e-06,0.0,2.0,3.0
+hep-th/9808083,"Classification of Solutions to Reflection Equation of Two-Component
+  Systems",1.932569945870494e-06,0.0,2.0,4.0
+solv-int/9710011,A Conjectured R-Matrix,1.9300988596870942e-06,0.0,2.0,2.0
+math-ph/9808003,"Graded Lie algebras, representation theory, integrable mappings and
+  systems",1.9270438894256203e-06,0.0,3.0,1.0
+q-alg/9606018,Bispectral Darboux Transformations: The Generalized Airy Case,1.924988274043377e-06,0.0,1.0,3.0
+hep-th/9804112,"Super-Matrix KdV and Super-Generalized NS Equations from Self-Dual
+  Yang-Mills Systems with Supergauge Groups",1.923549066591572e-06,6.188379213806193e-09,4.0,1.0
+solv-int/9803010,The solution of the N=(0|2) superconformal f-Toda lattice,1.906720319013024e-06,7.960731020640288e-06,4.0,6.0
+solv-int/9912009,Quantum Lax Pair From Yang-Baxter Equations,1.898746780028136e-06,0.0,1.0,0.0
+solv-int/9804019,A nonlinear indentity for the scattering phase of integrable models,1.8950380516170012e-06,0.0,1.0,0.0
+solv-int/9610001,"Nonlocal quadratic Poisson algebras, monodromy map, and Bogoyavlensky
+  lattices",1.8950380516170012e-06,0.0,1.0,0.0
+solv-int/9305004,Lattice Virasoro from Lattice Kac-Moody,1.8950380516170012e-06,0.0,1.0,0.0
+quant-ph/9803020,"Double Spiral Energy Surface in One-dimensional Quantum Mechanics of
+  Generalized Pointlike Potentials",1.8950380516170012e-06,0.0,1.0,3.0
+math/9901086,Schrodinger flows on Grassmannians,1.8950380516170012e-06,0.0,1.0,5.0
+solv-int/9509008,BiHamiltonian Formulations of the Bateman Equation,1.8950380516170012e-06,0.0,1.0,0.0
+solv-int/9808007,Equations of Geodesic Deviation and the Inverse Scattering Transform,1.8950380516170012e-06,0.0,1.0,1.0
+solv-int/9909018,"Surfaces of Constant negative Scalar Curvature and the Correpondence
+  between the Liouvulle and the sine-Gordon Equations",1.8950380516170012e-06,0.0,1.0,0.0
+hep-th/9710164,Two-Component Reduction of Nahm's Equations and Hyper-elliptic Solution,1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/9803206,"Excitations in the dilute A_L lattice model: E_6, E_7 and E_8 mass
+  spectra",1.8950380516170012e-06,0.0,1.0,0.0
+solv-int/9804010,Determinant formula for the six-vertex model with reflecting end,1.8950380516170012e-06,0.0,1.0,3.0
+solv-int/9710013,Asymptotic dynamics of short-waves in nonlinear dispersive models,1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/9709236,Surface operator content of the A_L face models,1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/9707257,"The Exact Ground State of the Frenkel-Kontorova Model with Repeated
+  Parabolic Potential: II. Numerical Treatment",1.8950380516170012e-06,0.0,1.0,0.0
+hep-th/9608066,Maxwell-Bloch equation and Correlation function for penetrable Bose gas,1.8950380516170012e-06,0.0,1.0,0.0
+patt-sol/9904007,"Stability of Compacton Solutions of Fifth-Order Nonlinear Dispersive
+  Equations",1.8950380516170012e-06,0.0,1.0,0.0
+solv-int/9903002,Nambu--Poisson reformulation of the finite dimensional dynamical systems,1.8950380516170012e-06,0.0,1.0,0.0
+solv-int/9807010,An Approach to Master Symmetries of Lattice Equations,1.8950380516170012e-06,0.0,1.0,0.0
+solv-int/9902007,"Asymptotic approach for the rigid condition of appearance of the
+  oscillations in the solution of the Painleve-2 equation",1.8950380516170012e-06,0.0,1.0,1.0
+solv-int/9905006,"Coupled nonlinear Schrodinger equations with cubic-quintic nonlinearity:
+  Integrability and soliton interaction in non-Kerr media",1.8950380516170012e-06,0.0,1.0,0.0
+solv-int/9711007,A new class of completely integrable quantum spin chains,1.8950380516170012e-06,0.0,1.0,0.0
+solv-int/9709007,"Discrete Levy Transformations and Casorati Determinant Solutions of
+  Quadrilateral Lattices",1.8950380516170012e-06,0.0,1.0,0.0
+solv-int/9804018,On The Stability of the Compacton Solutions,1.8950380516170012e-06,0.0,1.0,0.0
+solv-int/9701003,Asymptotics of a Class of Solutions to the Cylindrical Toda Equations,1.888179334362736e-06,0.0,1.0,1.0
+solv-int/9702007,An Integral Operator Solution to the Matrix Toda Equations,1.888179334362736e-06,0.0,1.0,2.0
+math/9803106,Flat pencils of metrics and Frobenius manifolds,1.8868774985161236e-06,3.004756235760868e-05,4.0,21.0
+solv-int/9605007,"Higher Order SUSY in Quantum Mechanics and Integrability of
+  Two-dimensional Hamiltonians",1.8844500240088385e-06,0.0,1.0,13.0
+solv-int/9702004,"Some eigenstates for a model associated with solutions of tetrahedron
+  equation. II. A bit of algebraization",1.8840673714178475e-06,0.0,3.0,3.0
+solv-int/9806008,"M\""obius invariant integrable lattice equations associated with KP and
+  2DTL hierarchies",1.8826157199356543e-06,0.0,2.0,0.0
+solv-int/9807008,Separation of Variables in the Elliptic Gaudin Model,1.8781358856137653e-06,0.0,1.0,7.0
+solv-int/9701021,"Is the classical Bukhvostov-Lipatov model integrable? A Painlev\'e
+  analysis",1.877457746319769e-06,0.0,2.0,0.0
+solv-int/9701012,"Some comments on the bi(tri)-Hamiltonian structure of Generalized AKNS
+  and DNLS hierarchies",1.864249137261862e-06,0.0,2.0,1.0
+hep-th/9801046,"The determinant representation for quantum correlation functions of the
+  sinh-Gordon model",1.8539394216643672e-06,0.0,2.0,8.0
+cond-mat/9609041,"Rodrigues Formula for Hi-Jack Symmetric Polynomials Associated with the
+  Quantum Calogero Model",1.8521388935138813e-06,0.0,1.0,2.0
+math/9803115,Notes on the horizontal cohomology,1.8504854179747764e-06,0.0,3.0,1.0
+hep-th/9706080,Moving Frames Hierarchy and BF Theory,1.8484975749031832e-06,0.0,2.0,0.0
+hep-th/9806019,"Integrability of Supersymmetric Quantum Matrix Models in the Large-N
+  Limit",1.8348408535314493e-06,1.4258768585537908e-07,7.0,5.0
+solv-int/9804005,"On the relation between orthogonal, symplectic and unitary matrix
+  ensembles",1.8316292561449023e-06,8.249357027172209e-06,2.0,8.0
+hep-th/9710079,Higher-dimensional Generalisations of the Euler Top Equations,1.818047193487551e-06,4.2007173504789615e-06,6.0,12.0
+hep-th/9312042,The R-matrix structure of the Euler-Calogero-Moser model,1.8176477593783905e-06,0.0,4.0,8.0
+hep-th/9712090,Symmetry Algebras of Large-N Matrix Models for Open Strings,1.81720067627684e-06,1.379687598933484e-06,6.0,12.0
+solv-int/9704015,"Fusion rules for Quantum Transfer Matrices as a Dynamical System on
+  Grassmann Manifolds",1.8164368132434645e-06,0.0,3.0,3.0
+solv-int/9801022,"Vacuum curves of elliptic L-operators and representations of Sklyanin
+  algebra",1.815146998453494e-06,0.0,3.0,3.0
+math/9909056,"Bethe Equation at q=0, M\""obius Inversion Formula, and Weight
+  Multiplicities: I. sl(2) case",1.8072950591044932e-06,0.0,1.0,0.0
+hep-th/9905011,Generalised Calogero-Moser models and universal Lax pair operators,1.798460022980516e-06,1.5274185501555255e-05,5.0,26.0
+solv-int/9801012,Dynamical boundary conditions for integrable lattices,1.792920273913652e-06,0.0,2.0,0.0
+math/9804086,"Point processes and the infinite symmetric group. Part I: The general
+  formalism and the density function",1.789414871975879e-06,0.0,4.0,17.0
+adap-org/9907008,Autoregressive model of 1/f noise,1.7817587194323505e-06,0.0,2.0,6.0
+solv-int/9912006,Group Theoretical Properties and Band Structure of the Lame Hamiltonian,1.778316652055566e-06,0.0,1.0,0.0
+solv-int/9712006,Integrability in 3+1 Dimensions: Relaxing a Tetrahedron Relation,1.777078844033442e-06,0.0,3.0,5.0
+hep-th/9308060,Dynamical $r$-matrices for the Elliptic Calogero-Moser Model,1.77501615983468e-06,0.0,3.0,25.0
+hep-th/9907102,Calogero-Moser Models IV: Limits to Toda theory,1.7648628010597697e-06,9.829188232150122e-09,6.0,12.0
+cond-mat/9805129,Fermionic representations of integrable lattice systems,1.7632539265975102e-06,0.0,1.0,1.0
+math/9812084,"Level-One Representations and Vertex Operators of Quantum Affine
+  Superalgebra $U_q[\hat{gl(N|N)}]$",1.7617992779757843e-06,9.95091377580036e-06,3.0,3.0
+hep-th/9502089,Algebraic-geometrical formulation of two-dimensional quantum gravity,1.7616539677637832e-06,0.0,6.0,3.0
+solv-int/9907008,"Inter-relationships between orthogonal, unitary and symplectic matrix
+  ensembles",1.7610645173183098e-06,1.990182755160072e-06,2.0,5.0
+solv-int/9710004,"Two-body Elliptic Model in proper variables: Lie-algebraic forms and
+  their discretizations",1.7565554702053111e-06,0.0,4.0,0.0
+hep-ph/9902375,Baryon Distribution Amplitudes in QCD,1.754107462198647e-06,1.409106446204148e-05,4.0,79.0
+solv-int/9705004,On superintegrable systems closed to geodesic motion,1.7534351444146688e-06,0.0,1.0,1.0
+math-ph/9904033,"Supersymmetric Polychronakos Spin Chain: Motif, Distribution Function,
+  and Character",1.738679375899002e-06,0.0,1.0,2.0
+solv-int/9701018,"Symplectic Structures and Volume Elements in the Function Space for the
+  Cubic Schrodinger Equation",1.7348312793554133e-06,5.1982385395972036e-08,3.0,1.0
+solv-int/9701019,The Solution of the N=2 Supersymmetric f-Toda Chain with Fixed Ends,1.7309950812574174e-06,0.0,2.0,3.0
+solv-int/9705013,"Dispersionless Hierarchies, Hamilton-Jacobi Theory and Twistor
+  Correspondences",1.7288907956883348e-06,0.0,2.0,2.0
+solv-int/9909028,Matrix integrals and the geometry of spinors,1.72810756719538e-06,0.0,2.0,2.0
+solv-int/9710001,Susy Hierarchies and Affine Algebras,1.7201721748791538e-06,3.980365510320144e-06,2.0,1.0
+solv-int/9704010,"Krichever Maps, Faa' di Bruno Polynomials, and Cohomology in KP Theory",1.720139860627645e-06,0.0,1.0,0.0
+solv-int/9903006,Integrable mixed vertex models from braid-monoid algebra,1.7181944356106072e-06,0.0,2.0,6.0
+solv-int/9508005,Symmetry approach in boundary value problems,1.7181185963114754e-06,0.0,4.0,0.0
+solv-int/9708003,"Three Graded Modified Classical Yang-Baxter Equations and Integrable
+  Systems",1.7109469661903062e-06,0.0,2.0,0.0
+hep-th/9506007,Solution of the dispersionless Hirota equations,1.7059965762856582e-06,0.0,2.0,7.0
+math/9809156,Quasi-Hopf Superalgebras and Elliptic Quantum Supergroups,1.704195528335694e-06,1.3952147267006532e-05,4.0,10.0
+solv-int/9506005,"Iso-spectral deformations of general matrix and their reductions on Lie
+  algebras",1.703003024765287e-06,0.0,1.0,1.0
+solv-int/9710025,Self-duality of the SL_2 Hitchin integrable system at genus two,1.703003024765287e-06,0.0,1.0,2.0
+solv-int/9809001,"Bethe ansatz solution of a closed spin 1 XXZ Heisenberg chain with
+  quantum algebra symmetry",1.703003024765287e-06,0.0,1.0,0.0
+solv-int/9712004,"The Complex Toda Chains and the Simple Lie Algebras - Solutions and
+  Large Time Asymptotics",1.703003024765287e-06,0.0,1.0,1.0
+solv-int/9909020,"The complex Toda chains and the simple Lie algebras - solutions and
+  large time asymptotics -- II",1.703003024765287e-06,0.0,1.0,1.0
+solv-int/9707002,Trace Formula for a System of Particles with Elliptic Potential,1.703003024765287e-06,0.0,1.0,2.0
+solv-int/9907012,"The symmetric, D-invariant and Egorov reductions of the quadrilateral
+  lattice",1.703003024765287e-06,0.0,1.0,2.0
+solv-int/9310001,Deformations of Calogero-Moser Systems,1.703003024765287e-06,0.0,1.0,1.0
+hep-th/9612044,"Poisson Structures for Dispersionless Integrable Systems and Associated
+  W-Algebras",1.703003024765287e-06,0.0,1.0,0.0
+quant-ph/9903062,Stochastic resonance for quantum channels,1.703003024765287e-06,0.0,1.0,0.0
+dg-ga/9708004,The Symmetries of Solitons,1.703003024765287e-06,0.0,1.0,0.0
+cond-mat/9807165,"Nonlinear nonlocal diffusion of magnetic flux in thin type-II
+  superconductors and Josephson junction arrays: Exact solutions",1.703003024765287e-06,0.0,1.0,0.0
+hep-th/9806189,Generalized Calogero-Sutherland systems from many-matrix models,1.703003024765287e-06,0.0,1.0,6.0
+solv-int/9808010,"Binary Nonlinearization of AKNS Spectral Problem under Higher-Order
+  Symmetry Constraints",1.703003024765287e-06,0.0,1.0,0.0
+solv-int/9608003,Binary Nonlinearization of Lax pairs of Kaup-Newell Soliton Hierarchy,1.703003024765287e-06,0.0,1.0,0.0
+solv-int/9609006,Virasoro Symmetry Algebra of Dirac Soliton Hierarchy,1.703003024765287e-06,0.0,1.0,0.0
+solv-int/9505004,Toda Hierarchy with Indefinite Metric,1.703003024765287e-06,0.0,1.0,0.0
+hep-th/9602074,Multi-point Local Height Probabilities in the Integrable RSOS Model,1.6935545763348518e-06,0.0,5.0,14.0
+solv-int/9506004,Holomorphic Curves and Toda Systems,1.6934012734227016e-06,0.0,2.0,0.0
+solv-int/9711010,Few remarks on Baecklund transformations for many-body systems,1.6917385084146103e-06,0.0,3.0,7.0
+math-ph/9911010,Thermodynamic Bethe ansatz equation for osp(1|2) integrable spin chain,1.6844758781100686e-06,9.95091377580036e-07,1.0,2.0
+solv-int/9905004,"New integrable systems of derivative nonlinear Schr\""{o}dinger equations
+  with multiple components",1.6793057153565478e-06,0.0,1.0,1.0
+hep-th/9410147,Four Dimensional Integrable Theories,1.6738226748749283e-06,0.0,2.0,6.0
+funct-an/9512002,Hidden $sl_2$-algebra of finite-difference equations,1.6696287405658448e-06,0.0,2.0,3.0
+math/9804088,"Point processes and the infinite symmetric group. Part III: Fermion
+  point processes",1.6634050656338475e-06,8.066668989537375e-06,3.0,13.0
+hep-th/9611081,Hidden Symmetries of the Principal Chiral Model Unveiled,1.6615952524941305e-06,0.0,1.0,2.0
+solv-int/9709010,The Camassa-Holm Equation: A Loop Group Approach,1.6615952524941305e-06,0.0,1.0,1.0
+math/9910097,"Finite-gap difference opeators with elliptic coefficients and their
+  spectral curves",1.660012997480807e-06,0.0,2.0,0.0
+solv-int/9706008,"An Extension of the KdV Hierarchy Arising from a Representation of a
+  Toroidal Lie Algebra",1.6560764170020642e-06,1.990182755160072e-06,1.0,1.0
+solv-int/9803015,"Charged Free Fermions, Vertex Operators and Classical Theory of
+  Conjugate Nets",1.6521736877135973e-06,0.0,1.0,7.0
+solv-int/9701010,"A note on the integrable discretization of the nonlinear Schr\""odinger
+  equation",1.6520645367637653e-06,0.0,1.0,1.0
+cond-mat/9905179,Rodrigues Formula for the Nonsymmetric Multivariable Laguerre Polynomial,1.6480376411105609e-06,0.0,1.0,0.0
+cond-mat/9905178,Rodrigues Formula for the Nonsymmetric Multivariable Hermite Polynomial,1.6480376411105609e-06,0.0,1.0,0.0
+hep-th/9909128,"Vertex operators, semiclassical limit for soliton S-matrices and the
+  number of bound states in Affine Toda Field Theories",1.644831882218716e-06,0.0,1.0,0.0
+solv-int/9701016,"Some eigenstates for a model associated with solutions of tetrahedron
+  equation",1.6442642845742683e-06,0.0,2.0,6.0
+hep-th/9309033,$R$-matrices for Elliptic Calogero-Moser Models,1.64337912861253e-06,0.0,3.0,14.0
+hep-th/9906069,Soliton S matrices for the critical A_{N-1}^(1) chain,1.6377421842179574e-06,0.0,1.0,2.0
+cond-mat/9903274,Extended integrability regime for the supersymmetric U model,1.6314596258391127e-06,0.0,1.0,1.0
+hep-th/9710118,The N=2 supersymmetric Toda lattice and matrix models,1.6300574769408242e-06,9.95091377580036e-06,2.0,6.0
+solv-int/9711008,The nondynamical r-matrix structure of the elliptic Calogero-Moser model,1.6277701886835824e-06,0.0,3.0,3.0
+dg-ga/9702015,Conformal invariant functionals of immersions of tori into R^3,1.6261890140246016e-06,0.0,2.0,3.0
+solv-int/9901002,Unified algebraic Bethe ansatz for two-dimensional lattice models,1.6191452991917886e-06,1.096227175017097e-08,2.0,1.0
+solv-int/9905001,From Agmon-Kannai expansion to Korteweg-de Vries hierarchy,1.6136308313944546e-06,0.0,1.0,1.0
+hep-th/9705141,Exactly Solvable Models in Arbitrary Dimensions,1.6126434980038058e-06,0.0,1.0,2.0
+solv-int/9707013,"Algebra of non-local charges in the O(N) WZNW model at and beyond
+  criticality",1.6117436789343218e-06,0.0,2.0,1.0
+hep-th/9606077,"Symmetries, Currents and Conservation Laws of Self-Dual Gravity",1.6093109975060924e-06,2.0402058525066265e-06,5.0,9.0
+math/9806056,Monodromy of certain Painleve' VI transcendents and reflection groups,1.60698551133943e-06,0.0,1.0,5.0
+solv-int/9907015,"Discrete Dubrovin Equations and Separation of Variables for Discrete
+  Systems",1.60698551133943e-06,0.0,1.0,0.0
+physics/9707023,"The nonstandard constrained KP hierarchy and the generalized Miura
+  transformations",1.60698551133943e-06,0.0,1.0,0.0
+patt-sol/9705003,"Dynamical Reduction of Discrete Systems Based on the Renormalization
+  Group Method",1.60698551133943e-06,0.0,1.0,1.0
+solv-int/9704014,"Trilinear representation and the Moutard transformation for the
+  Tzitzeica equation",1.60698551133943e-06,0.0,1.0,0.0
+solv-int/9406002,Non-integrability of the mixmaster universe,1.60698551133943e-06,0.0,1.0,1.0
+hep-th/9909042,"Algebraic construction of quantum integrable models including
+  inhomogeneous models",1.60698551133943e-06,0.0,1.0,2.0
+solv-int/9511002,Constructive building of the Lax pair in the non-linear sigma model,1.60698551133943e-06,0.0,1.0,0.0
+hep-th/9810220,Algebraic approach in unifying quantum integrable models,1.60698551133943e-06,0.0,1.0,1.0
+solv-int/9707014,"The constrained modified KP hierarchy and the generalized Miura
+  transformations",1.60698551133943e-06,0.0,1.0,2.0
+solv-int/9812008,Various truncations in Painlev\'e analysis of PDEs,1.60698551133943e-06,0.0,1.0,1.0
+solv-int/9803002,Extension of Hereditary Symmetry Operators,1.60698551133943e-06,0.0,1.0,1.0
+solv-int/9912001,"Construction of variable mass sine-Gordon and other novel inhomogeneous
+  quantum integrable models",1.60698551133943e-06,0.0,1.0,0.0
+solv-int/9903017,Canonicity of Baecklund transformation: r-matrix approach. II,1.6037674454321682e-06,0.0,1.0,5.0
+solv-int/9903016,Canonicity of Baecklund transformation: r-matrix approach. I,1.6037674454321682e-06,0.0,1.0,5.0
+math-ph/9805007,Integrable Top Equations associated with Projective Geometry over Z_2,1.6022307199865065e-06,0.0,2.0,0.0
+hep-th/9403052,A time-discretized version of the Calogero-Moser model,1.5953703718996015e-06,0.0,3.0,1.0
+solv-int/9709013,"On a two dimensional system associated with the complex of the solutions
+  of the Tetrahedron equation",1.592700987734468e-06,0.0,2.0,5.0
+solv-int/9909002,Discrete Z^a and Painleve equations,1.5878823535274952e-06,0.0,2.0,0.0
+hep-th/9701109,Solitonic Integrable Perturbations of Parafermionic Theories,1.5816296425331162e-06,0.0,2.0,4.0
+hep-th/9812232,Calogero-Moser Models III: Elliptic Potentials and Twisting,1.5747237910553404e-06,5.13171345857504e-06,5.0,20.0
+hep-th/9911030,On the quantum inverse scattering problem,1.570988341925254e-06,0.0,2.0,13.0
+solv-int/9609001,"Toda lattices with indefinite metric II: Topology of the iso-spectral
+  manifolds",1.56945863722799e-06,0.0,1.0,0.0
+math/9912021,Toda lattice and toric varieties for real split semisimple Lie algebras,1.56945863722799e-06,0.0,1.0,1.0
+hep-th/9603178,Affine Toda Solitons and Systems of Calogero-Moser Type,1.5661322823103568e-06,0.0,2.0,5.0
+quant-ph/9804052,Darboux-integrable nonlinear Liouville-von Neumann equation,1.5643687508332809e-06,4.45563303394046e-08,1.0,5.0
+solv-int/9806003,"Imprimitively generated Lie-algebraic Hamiltonians and separation of
+  variables",1.5634768755112695e-06,0.0,1.0,0.0
+hep-th/9810211,Generalized Calogero models through reductions by discrete symmetries,1.5611770827737587e-06,0.0,1.0,5.0
+solv-int/9811005,A unified treatment of cubic invariants at fixed and arbitrary energy,1.5611770827737587e-06,0.0,1.0,1.0
+solv-int/9904004,"Recurrent procedure for the determination of the Free Energy
+  $\epsilon^{2}$-expansion in the Topological String Theory",1.5589767546265015e-06,0.0,2.0,2.0
+solv-int/9909023,Orthogonal and symplectic matrix integrals and coupled KP hierarchy,1.5580917442278043e-06,1.990182755160072e-06,2.0,1.0
+quant-ph/9810070,"Quantum and classical stochastic dynamics: Exactly solvable models by
+  supersymmetric methods",1.5571263795060556e-06,4.024921840659549e-06,2.0,2.0
+solv-int/9905011,On the explicit solutions of the elliptic Calogero system,1.5553225153709854e-06,0.0,1.0,2.0
+solv-int/9710024,"Complete Nondiagonal Reflection Matrices of RSOS/SOS and Hard Hexagon
+  Models",1.5537424590364394e-06,0.0,1.0,0.0
+hep-th/9702013,Tetrahedron Reflection Equation,1.5536750784040843e-06,0.0,1.0,0.0
+solv-int/9706001,R-Matrices and Generalized Inverses,1.5529194568311272e-06,0.0,2.0,3.0
+math-ph/9902015,"Moduli Space of Self-Dual Gauge Fields, Holomorphic Bundles and
+  Cohomology Sets",1.550704206673115e-06,0.0,1.0,2.0
+quant-ph/9808034,"Some Aspects of Generalized Contact Interaction in One-Dimensional
+  Quantum Mechanics",1.5493750032839157e-06,0.0,1.0,1.0
+solv-int/9712015,The solution to the q-KdV equation,1.5493750032839157e-06,0.0,1.0,1.0
+solv-int/9710014,Vectorial Ribaucour Transformations for the Lame Equations,1.5493750032839157e-06,0.0,1.0,1.0
+cond-mat/9805192,"Time and temperature dependent correlation functions of the 1D
+  impenetrable electron gas",1.5493750032839157e-06,0.0,1.0,1.0
+solv-int/9705009,"Analytic-bilinear approach to integrable hierarchies. II. Multicomponent
+  KP and 2D Toda lattice hierarchies",1.5493750032839157e-06,0.0,1.0,4.0
+solv-int/9504002,"$V_{(1,1)}^{(t)}$-PERTURBED MODELS OF CFT AND THEIR QUANTUM GROUP
+  SYMMETRY",1.5493750032839157e-06,0.0,1.0,0.0
+solv-int/9912014,Vertex operator solutions to the discrete KP-hierarchy,1.5493750032839157e-06,0.0,1.0,0.0
+solv-int/9910012,"Form factors of the SU(2) invariant massive Thirring model with boundary
+  reflection",1.5493750032839157e-06,0.0,1.0,4.0
+solv-int/9808002,Polynomial rings of the chiral $SU(N)_{2}$ models,1.5406952370653752e-06,0.0,1.0,0.0
+solv-int/9808013,On fusion algebra of chiral $SU(N)_{k}$ models,1.5406952370653752e-06,0.0,1.0,0.0
+solv-int/9710017,"Jack polynomials, generalized binomial coefficients and polynomial
+  solutions of the generalized Laplace's equation",1.5376551146546075e-06,0.0,2.0,0.0
+cond-mat/9803284,"Symmetric Fock space and orthogonal symmetric polynomials associated
+  with the Calogero model",1.5376551146546075e-06,0.0,2.0,3.0
+cond-mat/9803283,"New Non-Symmetric Orthogonal Basis for the Calogero Model with
+  Distinguishable Particles",1.5376551146546075e-06,0.0,2.0,0.0
+math/9810105,"On the Distribution of the Length of the Longest Increasing Subsequence
+  of Random Permutations",1.5373650364804906e-06,3.980365510320144e-06,3.0,23.0
+math-ph/9909019,"Finding and solving Calogero-Moser type systems using Yang-Mills gauge
+  theories",1.5358651933560552e-06,4.6678060355566725e-08,2.0,2.0
+hep-th/9712254,"Twisted Self-Duality of Dimensionally Reduced Gravity and Vertex
+  Operators",1.5356080664251398e-06,0.0,2.0,13.0
+solv-int/9805010,"From Ramond Fermions to Lame Equations for Orthogonal Curvilinear
+  Coordinates",1.5320991031385534e-06,0.0,1.0,1.0
+alg-geom/9503010,"Hitchin systems, higher Gaudin operators and $r$-matrices",1.5276657849945244e-06,0.0,4.0,29.0
+math/9804087,"Point Processes and the Infinite Symmetric Group. Part II: Higher
+  Correlation Functions",1.5240167338199776e-06,1.990182755160072e-06,2.0,17.0
+chao-dyn/9805006,Algebraic entropy,1.52100981488561e-06,0.0,1.0,5.0
+solv-int/9902015,Baxter's Q-operator for the homogeneous XXX spin chain,1.5125810937315528e-06,3.775230355951714e-05,3.0,8.0
+hep-th/9711028,The Equivalence Principle of Quantum Mechanics: Uniqueness Theorem,1.5114495494091943e-06,0.0,2.0,22.0
+solv-int/9710002,Correlation functions for a strongly correlated boson system,1.5109679979135728e-06,0.0,1.0,1.0
+solv-int/9710012,"Hamiltonian Dynamics, Classical R-matrices and Isomonodromic
+  Deformations",1.5109679979135728e-06,0.0,1.0,0.0
+solv-int/9711003,"Additional symmetries of the Zakharov-Shabat hierarchy, String equation
+  and Isomonodromy",1.5109679979135728e-06,0.0,1.0,1.0
+hep-th/9911232,Nonstandard coproducts and the Izergin-Korepin open spin chain,1.5109679979135728e-06,0.0,1.0,0.0
+hep-th/9810189,"Quantum Exchange Algebra and Exact Operator Solution of $A_2$-Toda Field
+  Theory",1.5109679979135728e-06,0.0,1.0,1.0
+math-ph/9809012,"The exactly integrable systems connected with semisimple algebras of the
+  second rank $A_2,B_2,C_2,G_2$",1.5109679979135728e-06,0.0,1.0,6.0
+solv-int/9710028,"Equal-time temperature correlators of the one-dimensional Heisenberg XY
+  chain",1.5109679979135728e-06,0.0,1.0,1.0
+solv-int/9709011,"Determinant Structure of the Rational Solutions for the Painlev\'e IV
+  Equation",1.5109679979135728e-06,0.0,1.0,0.0
+hep-th/9807065,"Duality and quantum-algebra symmetry of the A_{N-1}^(1) open spin chain
+  with diagonal boundary fields",1.5109679979135728e-06,0.0,1.0,8.0
+solv-int/9909010,Pfaff tau-functions,1.5109679979135728e-06,0.0,1.0,6.0
+solv-int/9901003,Universality of the distribution functions of random matrix theory,1.5109679979135728e-06,0.0,1.0,1.0
+solv-int/9903015,On the Umemura Polynomials for the Painlev\'e III equation,1.5109679979135728e-06,0.0,1.0,1.0
+solv-int/9509001,Hidden symmetry of the quantum Calogero-Moser system,1.5109679979135728e-06,0.0,1.0,6.0
+hep-th/9612081,Maximally nonabelian Toda systems,1.5004933600852974e-06,0.0,2.0,9.0
+math-ph/9908015,Bi-differential calculi and integrable models,1.4961960727711334e-06,0.0,2.0,12.0
+hep-th/9609191,New Integrable Extensions of N=2 KdV and Boussinesq Hierarchies,1.4870872818681417e-06,0.0,1.0,16.0
+solv-int/9712010,"The averaging of Hamiltonian structures in discrete variant of Whitham
+  method",1.4835344226490424e-06,0.0,1.0,1.0
+gr-qc/9911045,"Monodromy Transform Approach to Solution of Some Field Equations in
+  General Relativity and String Theory",1.4835344226490424e-06,0.0,1.0,11.0
+hep-th/9412124,"Bispectral KP Solutions and Linearization of Calogero-Moser Particle
+  Systems",1.4835344226490424e-06,0.0,1.0,1.0
+hep-th/9312031,"$R$-matrices for the $n=2,3$ Elliptic Calogero-Moser Models",1.48158646238789e-06,0.0,2.0,2.0
+solv-int/9701009,Separation of variables for the Dn type periodic Toda lattice,1.4809063217617342e-06,0.0,1.0,3.0
+solv-int/9701004,Separation of variables for the Ruijsenaars system,1.4771784296429658e-06,0.0,1.0,8.0
+solv-int/9612005,"Difference Operator Approach to the Moyal Quantization and Its
+  Application to Integrable Systems",1.4738376897244234e-06,0.0,1.0,0.0
+hep-th/9910253,Solution of the quantum inverse problem,1.472429880677439e-06,0.0,2.0,10.0
+solv-int/9612006,Geometric Discretisation of the Toda System,1.4713997371129957e-06,0.0,2.0,1.0
+solv-int/9810015,"The Lax operators $\cal L$ of the Benney type equations bound with the
+  circle",1.471072423244163e-06,0.0,1.0,0.0
+solv-int/9907010,"A construction for R-matrices without difference property in the
+  spectral parameter",1.4707146056952911e-06,2.086798088603163e-08,1.0,2.0
+solv-int/9812021,Spontaneous magnetization of the XXZ Heisenberg spin-1/2 chain,1.4676114632903452e-06,0.0,1.0,6.0
+solv-int/9707003,"Statistical Mechanics of Elastica on Plane as a Model of Supercoiled
+  DNA-Origin of the MKdV hierarchy-",1.4629592412006444e-06,0.0,1.0,4.0
+solv-int/9906006,"On the discrete and continuous Miura Chain associated with the Sixth
+  Painlev\'e Equation",1.4629592412006444e-06,0.0,1.0,2.0
+cond-mat/9709252,The su(N) Hubbard model,1.4629592412006444e-06,0.0,1.0,5.0
+hep-th/9505017,Classical Matrix sine-Gordon Theory,1.4581138967097095e-06,0.0,1.0,4.0
+hep-th/9707151,"New Fundamental Symmetries of Integrable Systems and Partial Bethe
+  Ansatz",1.4550714700772298e-06,0.0,2.0,1.0
+hep-th/9511118,Regularization of Toda lattices by Hamiltonian reduction,1.446956322296335e-06,0.0,1.0,5.0
+hep-th/9712222,"Non-Linear Integral Equations for complex Affine Toda associated to
+  simply laced Lie algebras",1.445655667422073e-06,0.0,2.0,10.0
+solv-int/9905005,The KP Hierarchy in Miwa Coordinates,1.4438560833887097e-06,0.0,1.0,3.0
+cond-mat/9803159,Correlation amplitude for S=1/2 XXZ spin chain in the critical region,1.4401176446545011e-06,0.0,1.0,1.0
+hep-th/9408136,"Exceptional structure of the dilute A$_3$ model: E$_8$ and E$_7$
+  Rogers--Ramanujan identities",1.4398057660616904e-06,0.0,1.0,3.0
+gr-qc/9912109,"Monodromy transform approach to solution of the Ernst equations in
+  General Relativity",1.4354165380132268e-06,0.0,1.0,2.0
+solv-int/9703005,Non-autonomous H\'{e}non-Heiles Systems,1.4341539871728873e-06,0.0,1.0,2.0
+math-ph/9810007,On solutions of the Schlesinger Equations in Terms of $\Theta$-Functions,1.4341539871728873e-06,0.0,1.0,5.0
+hep-th/9406078,"Quantum Isomonodromic Deformations and the Knizhnik--Zamolodchikov
+  Equations",1.4243646878990007e-06,0.0,1.0,7.0
+solv-int/9510006,Toda Lattice Hierarchy and Zamolodchikov's Conjecture,1.423679349344612e-06,0.0,1.0,2.0
+alg-geom/9610021,Jack polynomials and Hilbert schemes of points on surfaces,1.423679349344612e-06,0.0,1.0,9.0
+solv-int/9509003,Proofs of Two Conjectures Related to the Thermodynamic Bethe Ansatz,1.423679349344612e-06,0.0,1.0,2.0
+math-ph/9902016,"An exact solution method for 1D polynomial Schr\""odinger equations",1.419551169273909e-06,0.0,2.0,0.0
+hep-th/9709183,Sine-Gordon Solitons and Black Holes,1.413945025513023e-06,9.95091377580036e-07,2.0,1.0
+hep-th/9707181,Solitons and Black Holes,1.413945025513023e-06,2.1974261107872023e-06,2.0,6.0
+hep-th/9904167,"Exact spectrum and partition function of SU(m|n) supersymmetric
+  Polychronakos model",1.4128167354287597e-06,0.0,2.0,3.0
+solv-int/9708007,Generating function of correlators in the sl_2 Gaudin model,1.408514194522159e-06,0.0,2.0,5.0
+solv-int/9709006,"Solutions of the functional tetrahedron equation connected with the
+  local Yang -- Baxter equation for the ferro-electric",1.4083231314354949e-06,0.0,1.0,7.0
+solv-int/9512005,"On Discrete 3-Dimensional Equations Associated with the Local
+  Yang-Baxter Relation",1.4083231314354949e-06,0.0,1.0,7.0
+solv-int/9906008,Paraconformal Structures and Integrable Systems,1.407564521916496e-06,0.0,1.0,0.0
+hep-th/9701107,"Non linear integral equation and excited--states scaling functions in
+  the sine-Gordon model",1.4033183577696046e-06,0.0,2.0,20.0
+hep-th/9802061,Boundary flows in minimal models,1.4014720477774663e-06,0.0,1.0,21.0
+hep-th/9706056,Group analysis and renormgroup symmetries,1.4012336968554504e-06,0.0,1.0,7.0
+solv-int/9710018,Unifying structures in quantum integrable systems,1.3958056128152634e-06,0.0,2.0,0.0
+solv-int/9804008,"On the exact solutions of the Bianchi IX cosmological model in the
+  proper time",1.3957469818025443e-06,0.0,1.0,1.0
+solv-int/9711014,Singularity confinement and chaos in discrete systems,1.3957469818025443e-06,0.0,1.0,6.0
+solv-int/9611003,Some explicit solutions of the Lam\'e and Bourlet type equations,1.3957469818025443e-06,0.0,1.0,0.0
+gr-qc/9811086,"Hamiltonian formulation and exact solutions of the Bianchi type I
+  space-time in conformal gravity",1.3957469818025443e-06,0.0,1.0,0.0
+solv-int/9812007,Perturbative methods for the Painlev\'e test,1.3957469818025443e-06,0.0,1.0,1.0
+hep-th/9608064,Scattering of Plane Waves in Self-Dual Yang-Mills Theory,1.3920648966879929e-06,2.2953261083935705e-08,1.0,12.0
+hep-th/9708114,Quantum Integrable Systems: Basic Concepts and Brief Overview,1.3909461061312514e-06,0.0,1.0,1.0
+hep-th/9801094,Quantization of the Nonlinear Schrodinger Equation on the Half Line,1.3909461061312514e-06,0.0,1.0,6.0
+math/9804144,"Generalized Weierstrass representation for surfaces in multidimensional
+  Riemann spaces",1.3909461061312514e-06,0.0,1.0,6.0
+math/9804027,Biorthogonal ensembles,1.3858714929033935e-06,1.5768228810717205e-05,1.0,7.0
+solv-int/9704008,Dual Resonance Model Solves the Yang-Baxter Equation,1.3820095767393597e-06,0.0,1.0,0.0
+solv-int/9704006,Complex Analysis of a Piece of Toda Lattice,1.3820095767393597e-06,0.0,1.0,0.0
+hep-th/9810176,"On the equivalence of the rational Calogero-Moser system to free
+  particles",1.3810508124170024e-06,0.0,1.0,1.0
+solv-int/9509005,Classical Poisson structures and r-matrices from constrained flows,1.3793309666914232e-06,0.0,1.0,0.0
+math/9912161,Calogero-Moser systems and Hitchin systems,1.3781534534351304e-06,5.912775301781748e-06,1.0,12.0
+math/9811154,"Random Unitary Matrices, Permutations and Painleve",1.3776425128818238e-06,0.0,1.0,12.0
+solv-int/9801026,Correlation Functions of Finite XXZ model with Boundaries,1.3730085011556487e-06,0.0,1.0,1.0
+solv-int/9608009,Common Algebraic Structure for the Calogero-Sutherland Models,1.3690290650231757e-06,0.0,1.0,2.0
+hep-th/9908127,Equivalence of the Sutherland Model to Free Particles on a Circle,1.3670837572832426e-06,1.0011503312628564e-05,2.0,2.0
+solv-int/9710009,A new explicit expression for the Korteweg-De Vries hierarchy,1.3528215052121612e-06,0.0,1.0,4.0
+solv-int/9912012,Whitham-Toda Hierarchy in the Laplacian Growth Problem,1.3517340024178223e-06,0.0,1.0,2.0
+hep-th/9909147,Conformal maps and dispersionless integrable hierarchies,1.3448207419849064e-06,0.0,1.0,36.0
+hep-th/9211126,Separation of Variables in the Classical Integrable SL(3) Magnetic Chain,1.343981018042517e-06,0.0,1.0,2.0
+solv-int/9711001,"Integrable Models and the Higher Dimensional Representations of Graded
+  Lie Algebras",1.3383287029602898e-06,0.0,1.0,0.0
+math-ph/9901017,Non-standard matrix formats of Lie superalgebras,1.3383287029602898e-06,0.0,1.0,1.0
+hep-th/9807220,Exact solutions of graded Temperley-Lieb Hamiltonians,1.3383287029602898e-06,0.0,1.0,0.0
+hep-th/9811108,"Progress in classically solving ten dimensional supersymmetric reduced
+  Yang-Mills theories",1.3306711565506114e-06,4.099595215959966e-06,3.0,6.0
+solv-int/9712011,Boundary K-matrices and the Lax pair for 1D open XYZ spin-chain,1.3270481188427538e-06,0.0,1.0,2.0
+solv-int/9805009,Multiplicity A_m Models,1.3270481188427538e-06,0.0,1.0,4.0
+hep-th/9712081,A Lax Representation for the Born-Infeld Equation,1.3211417706046876e-06,1.990182755160072e-06,1.0,1.0
+solv-int/9512004,Estabrook-Wahlquist Prolongations and Infinite-Dimensional Algebras,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9903198,"Odd Bihamiltonian Structure of New Supersymmetric N=2,4 KdV And Odd SUSY
+  Virasoro - Like Algebra",1.3189329710618589e-06,0.0,0.0,3.0
+solv-int/9608010,Nambu tensors and commuting vector fields,1.3189329710618589e-06,0.0,0.0,2.0
+q-alg/9504012,On the diagonalization of difference Calogero-Sutherland systems,1.3189329710618589e-06,0.0,0.0,5.0
+solv-int/9711005,"A Note on the Gauge Equivalence between the Manin-Radul and
+  Laberge-Mathieu Super KdV Hierarchies",1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9909016,Darboux Transformation for Supersymmetric KP Hierarchies,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/9506037,"Symmetry, Local Linearization, and Gauge Classification of the
+  Doebner-Goldin Equation",1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9909022,Self-similarity in Spectral Problems and q-special Functions,1.3189329710618589e-06,0.0,0.0,3.0
+solv-int/9710023,"Analytic and Asymptotic Methods for Nonlinear Singularity Analysis: a
+  Review and Extensions of Tests for the Painlev\'e Property",1.3189329710618589e-06,0.0,0.0,2.0
+hep-th/9312210,Generalized Kazakov-Migdal-Kontsevich Model: group theory aspects,1.3189329710618589e-06,0.0,0.0,6.0
+solv-int/9912016,"On the Miura map between the dispersionless KP and dispersionless
+  modified KP hierarchies",1.3189329710618589e-06,0.0,0.0,2.0
+hep-th/9209054,Algebraic Structures Related to Reflection Equations,1.3189329710618589e-06,0.0,0.0,6.0
+math/9911018,The structure of quotients of the Onsager algebra by closed ideals,1.3189329710618589e-06,0.0,0.0,7.0
+solv-int/9812022,Extension of the bilinear formalism to supersymmetric KdV-type equations,1.3189329710618589e-06,0.0,0.0,4.0
+hep-th/9112041,Area-Preserving Diffeomorphisms and Nonlinear Integrable Systems,1.3189329710618589e-06,0.0,0.0,2.0
+solv-int/9706004,An analytic description of the vector constrained KP hierarchy,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9112046,SDiff(2) KP hierarchy,1.3189329710618589e-06,0.0,0.0,3.0
+hep-th/9907213,The spectrum of coupled random matrices,1.3189329710618589e-06,0.0,0.0,4.0
+solv-int/9812031,"Two- and Many-Dimensional Quasi-Exactly Solvable Models With An
+  Inhomogeneous Magnetic Field",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9809365,Spectra of large random matrices: A method of study,1.3189329710618589e-06,0.0,0.0,11.0
+solv-int/9706005,A Lax Description for Polytropic Gas Dynamics,1.3189329710618589e-06,0.0,0.0,2.0
+solv-int/9612003,Solutions of (2+1)-dimensional spin systems,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9401005,A Novel Hierarchy of Integrable Lattices,1.3189329710618589e-06,0.0,0.0,5.0
+solv-int/9603008,Ferromagnetic ground states of the Hubbard model on a complete graph,1.3189329710618589e-06,0.0,0.0,3.0
+solv-int/9707001,The Distribution of the Largest Eigenvalue in the Gaussian Ensembles,1.3189329710618589e-06,0.0,0.0,3.0
+hep-th/9309007,"On the integrability of N=2 Landau-Ginzburg models: A graph
+  generalization of the Yang-Baxter equation",1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9506120,"A local and integrable lattice regularization of the massive Thirring
+  model",1.3189329710618589e-06,0.0,0.0,5.0
+solv-int/9910007,"Singularity confinement and algebraic entropy: the case of the discrete
+  Painlev\'e equations",1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9309017,Tau functions for the Dirac operator on the Poincare' disk,1.3189329710618589e-06,0.0,0.0,6.0
+solv-int/9806004,Pfaffian form of the Grammian determinant solutions of the BKP hierarchy,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9801008,Asymptotics of a class of Fredholm determinants,1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/9904003,"The 1999 Heineman Prize Address- Integrable models in statistical
+  mechanics: The hidden field with unsolved problems",1.3189329710618589e-06,0.0,0.0,3.0
+solv-int/9304001,q-Discrete Toda Molecule Equation,1.3189329710618589e-06,0.0,0.0,6.0
+solv-int/9804007,Novel integrable spin-particle models from gauge theories on a cylinder,1.3189329710618589e-06,0.0,0.0,3.0
+solv-int/9606009,"On a generalization of the Fay-Sato identity for KP Baker functions and
+  its application to constrained hierarchies",1.3189329710618589e-06,0.0,0.0,2.0
+solv-int/9902004,"The solution of the Painleve equations as special functions of
+  catastrophes, defined by a rejection in these equations of terms with
+  derivative",1.3189329710618589e-06,0.0,0.0,2.0
+dg-ga/9707004,Poisson Actions and Scattering Theory for Integrable Systems,1.3189329710618589e-06,0.0,0.0,3.0
+solv-int/9906011,"p-adic Difference-Difference Lotka-Volterra Equation and Ultra-Discrete
+  Limit",1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9806005,"Pfaffian Solutions for the Manin-Radul-Mathieu SUSY KdV and SUSY
+  sine-Gordon Equations",1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/9503142,"Integro-Difference Equation for a correlation function of the
+  spin-${1\over2}$ Heisenberg XXZ chain",1.3189329710618589e-06,0.0,0.0,2.0
+quant-ph/9506033,"Nonlinear Gauge Transformations and Exact Solutions of the
+  Doebner-Goldin Equation",1.3189329710618589e-06,0.0,0.0,3.0
+solv-int/9703001,Poisson brackets with divergence terms in field theories: two examples,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9807007,On the integrability of nonlinear partial differential equations,1.3189329710618589e-06,0.0,0.0,5.0
+hep-th/9706147,"The Riemann-Hilbert problem associated with the quantum Nonlinear
+  Schrodinger equation",1.3189329710618589e-06,0.0,0.0,3.0
+hep-th/9512007,Integrable Discretizations of Chiral Models,1.3189329710618589e-06,0.0,0.0,5.0
+hep-th/9808012,Discrete Symmetries and S Matrix of the XXZ Chain,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9509026,Phase diagram of the non-hermitean asymmetric XXZ spin chain,1.3189329710618589e-06,0.0,0.0,1.0
+math/9911121,"Einstein metrics, hypercomplex structures and the Toda field equation",1.3189329710618589e-06,0.0,0.0,15.0
+solv-int/9707012,"The Constrained MKP Hierarchy and the Generalized Kupershmidt-Wilson
+  Theorem",1.3189329710618589e-06,0.0,0.0,4.0
+funct-an/9306002,Commuting difference operators with polynomial eigenfunctions,1.3189329710618589e-06,0.0,0.0,3.0
+hep-th/9402139,Labeling Schemes for Tetrahedron Equations and Dualities between Them,1.3189329710618589e-06,0.0,0.0,6.0
+hep-th/9603039,Relation of The New Calogero Models and xxz Spin Chains,1.3189329710618589e-06,0.0,0.0,2.0
+solv-int/9611006,"The orthogonal eigenbasis and norms of eigenvectors in the Spin
+  Calogero-Sutherland Model",1.3189329710618589e-06,0.0,0.0,7.0
+solv-int/9712014,The Quantum Inverse Scattering Method for Hubbard-like Models,1.3189329710618589e-06,0.0,0.0,7.0
+solv-int/9606007,"Generalized integrable hierarchies and Combescure symmetry
+  transformations",1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9807004,"Degenerate Frobenius manifolds and the bi-Hamiltonian structure of
+  rational Lax equations",1.3189329710618589e-06,0.0,0.0,2.0
+hep-th/9811188,The Nonlinear Schrodinger Equation on the Half Line,1.3189329710618589e-06,0.0,0.0,9.0
+solv-int/9903005,The Pfaff lattice and skew-orthogonal polynomials,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9812010,Coverings and integrability of the Gauss-Mainardi-Codazzi equations,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9812023,Hamiltonian structure of real Monge-Amp\`ere equations,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9407001,Helicity Conservation via the Noether Theorem,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9804006,Modular Solutions to Equations of Generalized Halphen Type,1.3189329710618589e-06,0.0,0.0,9.0
+hep-th/9208058,Tau-Functions and Generalized Integrable Hierarchies,1.3189329710618589e-06,0.0,0.0,2.0
+patt-sol/9704003,"Compacton Solutions in a Class of Generalized Fifth Order Korteweg-de
+  Vries Equations",1.3189329710618589e-06,0.0,0.0,2.0
+solv-int/9510011,"Discrete Painleve equations: coalescences, limits and degeneracies",1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9401083,On the Symmetries of Hamiltonian Systems,1.3189329710618589e-06,0.0,0.0,3.0
+dg-ga/9703020,"Closed curves in R^3: a characterization in terms of curvature and
+  torsion, the Hasimoto map and periodic solutions of the Filament Equation",1.3189329710618589e-06,0.0,0.0,3.0
+hep-th/9402041,On the Duistermaat-Heckman Integration Formula And Integrable Models,1.3189329710618589e-06,0.0,0.0,6.0
+solv-int/9901006,The hunting for the discrete Painlev\'e VI is over,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9807201,Spontaneous Magnetization in the Finite XXZ Spin Chain with Boundaries,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9304112,Free Fermionic Elliptic Reflection Matrices and Quantum Group Invariance,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9301026,Solvable lattice models labelled by Dynkin diagrams,1.3189329710618589e-06,0.0,0.0,2.0
+solv-int/9811008,"Bi-Hamiltonian manifolds, quasi-bi-Hamiltonian systems and separation
+  variables",1.3189329710618589e-06,0.0,0.0,2.0
+solv-int/9404003,"Problem of Metrizability for the Dynamical Systems Accepting the Normal
+  Shift",1.3189329710618589e-06,0.0,0.0,13.0
+solv-int/9904022,Integrability Tests for Nonlinear Evolution Equations,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9810006,Classical Integrable 2-dim Models Inspired by SUSY Quantum Mechanics,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9401002,Algorithms for the Nonclassical Method of Symmetry Reductions,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9811012,Two Integrable Systems Related to Hyperbolic Monopoles,1.3189329710618589e-06,0.0,0.0,3.0
+solv-int/9612007,Multidimensional Quadrilateral Lattices are Integrable,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9304063,Level-Spacing Distributions and the Bessel Kernel,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9812006,"Random matrices, Virasoro algebras, and noncommutative KP",1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9810255,"Calogero model and sL(2,R) algebra",1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9607008,Gibbs' States for Moser-Calogero Potentials,1.3189329710618589e-06,0.0,0.0,3.0
+solv-int/9411003,Integrable Trilinear PDE's,1.3189329710618589e-06,0.0,0.0,3.0
+solv-int/9512002,Binary nonlinearization for the Dirac systems,1.3189329710618589e-06,0.0,0.0,3.0
+solv-int/9511009,Remarks on the Whitham equations,1.3189329710618589e-06,0.0,0.0,2.0
+solv-int/9606005,Some survey remarks on Whitham theory and EM duality,1.3189329710618589e-06,0.0,0.0,2.0
+hep-th/9307129,Correlation functions of the spin-1 analog of the XXZ model,1.3189329710618589e-06,0.0,0.0,5.0
+solv-int/9803009,A Class of Coupled KdV systems and Their Bi-Hamiltonian Formulations,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9807005,'Universality' of the Ablowitz-Ladik hierarchy,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9811014,"B\""acklund transformations for the second Painlev\'e hierarchy: a
+  modified truncation approach",1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9612011,Some kernels on a Riemann surface,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9509004,"Nonisospectral symmetries of the KdV equation and the corresponding
+  symmetries of the Whitham equations",1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9902006,"On the Hamiltonian and Lagrangian structures of time-dependent
+  reductions of evolutionary PDEs",1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9610006,On the solution of normality equations for the dimension $n\geq 3$,1.3189329710618589e-06,0.0,0.0,12.0
+solv-int/9412001,"B\""acklund transformation and the construction of the integrable
+  boundary-value problem for the equation $u_{xx}-u_{tt}=e^u-e^{-2u}$",1.3189329710618589e-06,0.0,0.0,4.0
+solv-int/9904006,"Suppression and Enhancement of Soliton Switching During Interaction in
+  Periodically Twisted Birefringent Fiber",1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9903010,Bethe ansatz for the three-layer Zamolodchikov model,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9803016,Integrable discretizations of the Euler top,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9901099,"Critical and off-critical studies of the Baxter-Wu model with general
+  toroidal boundary conditions",1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9904003,Backlund transformations for many-body systems related to KdV,1.3189329710618589e-06,0.0,0.0,3.0
+solv-int/9606002,"On completeness of the Ribaucour transformations for triply orthogonal
+  curvilinear coordinate systems in R^3",1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9510054,Exact Solutions To The Generalized Lienard Equations,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9805004,Long range integrable oscillator chains from quantum algebras,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9912003,"N=4 Sugawara construction on affine sl(2|1), sl(3) and mKdV-type
+  superhierarchies",1.3189329710618589e-06,0.0,0.0,2.0
+hep-th/9712249,"Vertex Operator Representation of the Soliton Tau Functions in the
+  $A_n^{(1)}$ Toda Models by Dressing Transformations",1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/9810023,Nonlinear von Neumann-type equations: Darboux invariance and spectra,1.3189329710618589e-06,0.0,0.0,2.0
+solv-int/9603007,The Hubbard model on a complete graph: Exact Analytical results,1.3189329710618589e-06,0.0,0.0,1.0
+gr-qc/9506016,The Robinson-Trautman Type III Prolongation Structure Contains K$_2$,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9706136,Integrable su(3) spin chain combining different representations,1.3189329710618589e-06,0.0,0.0,2.0
+solv-int/9705003,On equation of geodesic deviation and its solutions,1.3189329710618589e-06,0.0,0.0,2.0
+hep-th/9312141,Infinite dimensional symmetry of corner transfer matrices,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9801054,Exact solution for a quantum field with $\delta$-like interaction,1.3189329710618589e-06,0.0,0.0,7.0
+solv-int/9811009,Spectral Difference Equations Satisfied by KP Soliton Wavefunctions,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9807006,Dubrovin equations and integrable systems on hyperelliptic curves,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9706007,"On the Liouville transformation and exactly-solvable Schrodinger
+  equations",1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9612012,Bispectral Operators of Rank 1 and Dual Isomonodromic Deformations,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9709070,Nahm's equations and root systems,1.3189329710618589e-06,0.0,0.0,2.0
+solv-int/9812020,Functional representation of the Ablowitz-Ladik hierarchy. II,1.3189329710618589e-06,0.0,0.0,2.0
+hep-th/9604085,The symmetry structure of the heavenly equation,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9307103,Finite Chains with Quantum Affine Symmetries,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9311069,Quantum Groups,1.3189329710618589e-06,0.0,0.0,2.0
+math-ph/9902014,"On time evolutions associated with the nonstationary Schr\""{o}dinger
+  equation",1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9705017,"Laplace transformations of hydrodynamic type systems in Riemann
+  invariants: periodic sequences",1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9712005,The New Identity for the Scattering Matrx of Exactly Solvable Models,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9902269,Ground State and Excitations of Spin Chain with Orbital Degeneracy,1.3189329710618589e-06,0.0,0.0,2.0
+solv-int/9407003,"Invariant Integrability Criterion for the Equations of Hydrodynamical
+  Type",1.3189329710618589e-06,0.0,0.0,4.0
+hep-th/9312035,"Classical and Quantum Integrable Systems in $\wt{\gr{gl}}(2)^{+*}$ and
+  Separation of Variables",1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9911002,"Introduction to the functions on compact Riemann surfaces and
+  theta-functions",1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9305027,"Loop Algebra Moment Maps and Hamiltonian Models for the Painleve
+  Transcendants",1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9706003,"On the point transformations for the equation $y''= P + 3Qy' + 3R{y'}^2
+  + S{y'}^3$",1.3189329710618589e-06,0.0,0.0,6.0
+solv-int/9908004,Integrable ODEs on Associative Algebras,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9705018,A Characterization of All Elliptic Solutions of the AKNS Hierarchy,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9305145,Elliptic solution for modified tetrahedron equations,1.3189329710618589e-06,0.0,0.0,2.0
+solv-int/9508003,Non-Fuchsian extension to the Painlev\'e test,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9112042,"SDiff(2) Toda equation -- hierarchy, $\tau$ function, and symmetries",1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9801009,Systems of PDEs obtained from factorization in loop groups,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9604005,"Painlev\'e Transcendent Describes Quantum Correlation Function of the
+  XXZ Antiferromagnet away from the free-fermion point",1.3189329710618589e-06,0.0,0.0,2.0
+solv-int/9702006,Quasi-BiHamiltonian Systems and Separability,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9811004,"On Darboux-B\""acklund Transformations for the Q-Deformed Korteweg-de
+  Vries Hierarchy",1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9811010,"Q-deformed KP hierarchy: Its additional symmetries and infinitesimal
+  B\""acklund transformations",1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9409153,"Fusion of the $q$-Vertex Operators and its Application to Solvable
+  Vertex Models",1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9603004,Lax representation for two--particle dynamics splitting on two tori,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9306042,"Fredholm Determinants, Differential Equations and Matrix Models",1.3189329710618589e-06,0.0,0.0,7.0
+solv-int/9812025,The Cole-Hopf and Miura transformations revisited,1.3189329710618589e-06,0.0,0.0,2.0
+hep-th/9605038,phi^4 Kinks - Gradient Flow and Dynamics,1.3189329710618589e-06,0.0,0.0,4.0
+hep-th/9807045,Exact vortex solutions of the complex sine-Gordon theory on the plane,1.3189329710618589e-06,0.0,0.0,2.0
+solv-int/9902008,Modified KP and Discrete KP,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9612252,"Completely Integrable Equation for the Quantum Correlation Function of
+  Nonlinear Schr\""odinger Eqaution",1.3189329710618589e-06,0.0,0.0,2.0
+solv-int/9804002,"The system of three vortexes of two dimensional ideal hydrodinamics as a
+  new example of the (integrable) Nambu- Poisson mechanics",1.3189329710618589e-06,0.0,0.0,2.0
+solv-int/9703006,"Modified Korteweg-de Vries Hierachies in Multiple-Times Variables and
+  the Solutions of Modified Boussinesq Equations",1.3189329710618589e-06,0.0,0.0,2.0
+solv-int/9607001,"Exact Solution of Frenkel-Kontorova Models with a Complete Devil's
+  Staircase in Higher Dimensions",1.3189329710618589e-06,0.0,0.0,2.0
+solv-int/9808015,On the Solution of a Painlev\'e III Equation,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9512007,Discrete time Bogoyavlensky lattices,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9512001,A discrete time peakons lattice,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9706182,"String-Orthogonal Polynomials, String equations, and 2-Toda symmetries",1.3189329710618589e-06,0.0,0.0,7.0
+math/9909003,"Exploring Surfaces through Methods from the Theory of Integrable
+  Systems. lectures on the Bonnet problem",1.3189329710618589e-06,0.0,0.0,2.0
+hep-th/9811247,"Exact solution of double-delta function Bose gas through interacting
+  anyon gas",1.3189329710618589e-06,0.0,0.0,2.0
+solv-int/9701022,"Coupled Nonlinear Schr\""{o}dinger equation and Toda equation (the Root
+  of Integrability)",1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9904020,Compacton-like Solutions for Modified KdV and other Nonlinear Equations,1.3189329710618589e-06,0.0,0.0,3.0
+dg-ga/9707013,"Sequences of Levy Transformations and Multi-Wro\'nski Determinant
+  Solutions of the Darboux System",1.3189329710618589e-06,0.0,0.0,2.0
+hep-th/9605130,"Symmetry, Integrable Chain Models and Stochastic Processes",1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9808008,The construction of Frobenius manifolds from KP tau-functions,1.3189329710618589e-06,0.0,0.0,4.0
+solv-int/9803014,Rules of discretization for Painlev\'e equations,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9903043,"Systematic Analytical Approach to Correlation Functions of Resonances in
+  Quantum Chaotic Scattering",1.3189329710618589e-06,0.0,0.0,5.0
+hep-th/9509039,"Pfaffian and Determinant Solutions to A Discretized Toda Equation for
+  $B_r, C_r$ and $D_r$",1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9612001,Representations of Two-Colour BWM Algebras and Solvable Lattice Models,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9903007,Integrable vs Nonintegrable Geodesic Soliton Behavior,1.3189329710618589e-06,0.0,0.0,3.0
+hep-th/9405023,The Highest Weight Property for the $SU_{q}(n)$ Invariant Spin Chains,1.3189329710618589e-06,0.0,0.0,6.0
+hep-th/9611216,"Determinant representation for dynamical correlation functions of the
+  Quantum nonlinear Schr\""odinger equation",1.3189329710618589e-06,0.0,0.0,6.0
+solv-int/9603005,Hyperelliptic Kleinian functions and applications,1.3189329710618589e-06,0.0,0.0,4.0
+solv-int/9812011,"On Discrete Painleve Equations Associated with the Lattice KdV Systems
+  and the Painleve VI Equation",1.3189329710618589e-06,0.0,0.0,8.0
+hep-th/9602161,"Algebraic and Geometric Structure of the Integrable Models recently
+  Proposed by Calogero",1.3189329710618589e-06,0.0,0.0,1.0
+q-alg/9701008,"Factorization of differential operators, quasideterminants, and
+  nonabelian Toda field equations",1.3189329710618589e-06,0.0,0.0,11.0
+hep-th/9301051,Hamiltonian Structure of Equations Appearing in Random Matrices,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9605003,The Painlev\'e Test of Higher Dimensional KdV Equation,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9909003,On Construction of Recursion Operators From Lax Representation,1.3189329710618589e-06,0.0,0.0,2.0
+solv-int/9810014,On Discretizations of the Vector Nonlinear Schrodinger Equation,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9812030,The Lax pairs for the Holt system,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9606003,"On superposition of the autoBaecklund transformations for
+  (2+1)-dimensional integrable systems",1.3189329710618589e-06,0.0,0.0,5.0
+solv-int/9810020,On Integrability and Chaos in Discrete Systems,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9511006,"Classification of evolutionary equations on the lattice. I. The general
+  theory",1.3189329710618589e-06,0.0,0.0,2.0
+q-alg/9707011,The symplectic structure of the spin Calogero model,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9610007,A new method to test discrete Painlev\'e equations,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9908005,A Coupled AKNS-Kaup-Newell Soliton Hierarchy,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9810032,A Spin Chain Primer,1.3189329710618589e-06,0.0,0.0,2.0
+math-ph/9806001,Bispectrality of KP Solitons,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9901005,Coupled KdV equations of Hirota-Satsuma type,1.3189329710618589e-06,0.0,0.0,6.0
+quant-ph/9904110,Nonlinear von Neumann-type equations,1.3189329710618589e-06,0.0,0.0,11.0
+hep-th/9208057,Affine Toda Solitons and Automorphisms of Dynkin Diagrams,1.3189329710618589e-06,0.0,0.0,6.0
+solv-int/9810011,Lax pair tensors in arbitrary dimensions,1.3189329710618589e-06,0.0,0.0,2.0
+solv-int/9810013,Stochastic Soliton Lattices,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9904002,Discrete equations and the singular manifold method,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9904001,Pole Dynamics for Elliptic Solutions of the Korteweg-deVries Equation,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9904019,Optical solitons in higher order nonlinear Schrodinger equation,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9306001,"The upper triangular solutions to the three-state constant quantum
+  Yang-Baxter equation",1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9306002,"Symmetry Reductions and Exact Solutions of a class of Nonlinear Heat
+  Equations",1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9403134,"General solutions of the Monge-Amp\`{e}re equation in $n$-dimensional
+  space",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9802048,"Exact solution of diffusion limited aggregation in a narrow cylindrical
+  geometry",1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9204068,Corner Transfer Matrices and Quantum Affine Algebras,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9208067,Structure of the space of states in RSOS models,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9908008,"Towards the Lax formulation of SU(2) principal models with nonconstant
+  metric",1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9912005,"Generalized KP hierarchy: M\""obius Symmetry, Symmetry Constraints and
+  Calogero-Moser System",1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9308008,Bethe Ansatz and Quantum Groups,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9509007,On Orthogonal and Symplectic Matrix Ensembles,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9909083,"On the singular spectrum of the Almost Mathieu operator. Arithmetics and
+  Cantor spectra of integrable models",1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9910001,Dispersionless Fermionic KdV,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9603001,Darboux Coordinates on Coadjoint Orbits of Lie Algebras,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9506001,Separation of Variables in BC-type Gaudin Magnet,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9806002,"Bihamiltonian Geometry, Darboux Coverings, and Linearization of the KP
+  Hierarchy",1.3189329710618589e-06,0.0,0.0,3.0
+solv-int/9402002,Integrable systems and symmetric products of curves,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9912089,"Integrable structures in classical off-shell 10D supersymmetric
+  Yang-Mills theory",1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9803004,"On the Law of Transformation of Affine Connection and its Integration.
+  Part 1. Generalization of the Lame equations",1.3189329710618589e-06,0.0,0.0,2.0
+solv-int/9905008,Magnetization waves in Landau-Lifshitz Model,1.3189329710618589e-06,0.0,0.0,2.0
+solv-int/9404002,Dynamical Systems Accepting the Normal Shift,1.3189329710618589e-06,0.0,0.0,2.0
+hep-th/9403023,Deformation analysis of matrix models,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9806001,"Singular sector of the KP hierarchy, $\bar{\partial}$-operators of
+  non-zero index and associated integrable systems",1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9909009,"The motion of a rigid body in a quadratic potential: an integrable
+  discretization",1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9710021,The Discrete Painlev\'e I Hierarchy,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9810018,"Discrete time Lagrangian mechanics on Lie groups, with an application to
+  the Lagrange top",1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9809012,The complex geometry of Lagrange top,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9511007,Algebra of Non-Local Charges in Supersymmetric Non-Linear Sigma Models,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9708006,Introduction to the Hirota bilinear method,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9705014,"Time-Dependent Symmetries of Variable-Coefficient Evolution Equations
+  and Graded Lie Algebras",1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9905168,Discrete analogs of the Darboux-Egoroff metrics,1.3189329710618589e-06,0.0,0.0,3.0
+solv-int/9702008,"Symbolic Computation of Conserved Densities for Systems of Nonlinear
+  Evolution Equations",1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9510004,"Nontrivial scattering of localized solitons in a (2+1)-dimensional
+  integrable system",1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9803118,Bulk and Boundary S Matrices for the SU(N) Chain,1.3189329710618589e-06,0.0,0.0,11.0
+hep-th/9212007,Covariance Properties of Reflection Equation Algebras,1.3189329710618589e-06,0.0,0.0,11.0
+cond-mat/9809254,Correlation amplitude for the XXZ spin chain in the disordered regime,1.3189329710618589e-06,0.0,0.0,5.0
+solv-int/9808019,Hypercomplex Integrable Systems,1.3189329710618589e-06,0.0,0.0,13.0
+cond-mat/9707263,"Quantum integrability and exact solution of the supersymmetric U model
+  with boundary terms",1.3189329710618589e-06,0.0,0.0,8.0
+hep-th/9401165,Large Random Matrices: Eigenvalue Distribution,1.3189329710618589e-06,0.0,0.0,8.0
+q-alg/9501031,"Generalized Hirota bilinear identity and integrable q-difference and
+  lattice hierarchies.",1.3189329710618589e-06,0.0,0.0,2.0
+solv-int/9804004,"Correlation Functions, Cluster Functions and Spacing Distributions for
+  Random Matrices",1.3189329710618589e-06,0.0,0.0,6.0
+solv-int/9706002,Integrable Fredholm Operators and Dual Isomonodromic Deformations,1.3189329710618589e-06,0.0,0.0,6.0
+hep-th/9407117,"Unified Approach to Thermodynamic Bethe Ansatz and Finite Size
+  Corrections for Lattice Models and Field Theories",1.3189329710618589e-06,0.0,0.0,38.0
+solv-int/9711015,Integrable Coupled KdV Systems,1.3189329710618589e-06,0.0,0.0,4.0
+solv-int/9510007,A discrete time relativistic Toda lattice,1.3189329710618589e-06,0.0,0.0,2.0
+solv-int/9812014,Inhomogeneous Burgers Equation and the Feynman-Kac Path Integral,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9306155,Linear $r$-matrix algebra for classical separable systems,1.3189329710618589e-06,0.0,0.0,6.0
+hep-th/9510172,"Differential Geometry and Integrability of the Hamiltonian System of a
+  Closed Vortex Filament",1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9905009,$U_q(\hat{sl}_n)$-analog of the XXZ chain with a boundary,1.3189329710618589e-06,0.0,0.0,5.0
+solv-int/9801004,Temperature correlators in the two-component one-dimensional gas,1.3189329710618589e-06,0.0,0.0,5.0
+hep-th/9306089,"Boundary K-matrices for the XYZ, XXZ AND XXX spin chains",1.3189329710618589e-06,0.0,0.0,11.0
+dg-ga/9712004,"Generalized Symmetries of Partial Differential Equations and Quasiexact
+  Solvability",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9709163,The su(N) XX model,1.3189329710618589e-06,0.0,0.0,8.0
+solv-int/9909027,On two aspects of the Painleve analysis,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/9806041,"Fermion-Boson Duality of One-dimensional Quantum Particles with
+  Generalized Contact Interaction",1.3189329710618589e-06,0.0,0.0,5.0
+solv-int/9912008,"The Pfaff lattice, Matrix integrals and a map from Toda to Pfaff",1.3189329710618589e-06,0.0,0.0,3.0
+solv-int/9703008,"Inelastic Collision and Switching of Coupled Bright Solitons in Optical
+  Fibers",1.3189329710618589e-06,0.0,0.0,3.0
+solv-int/9304002,Casorati Determinant Solution for the Relativistic Toda Lattice Equation,1.3189329710618589e-06,0.0,0.0,3.0
+hep-th/9211066,"Difference equations for the correlation functions of the eight vertex
+  model",1.3189329710618589e-06,0.0,0.0,2.0
+solv-int/9801016,"Perturbation theory for the modified nonlinear Schr{\""o}dinger solitons",1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9803011,"On the simplest (2+1) dimensional integrable spin systems and their
+  equivalent nonlinear Schr\""odinger equations",1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9804003,Painlev\'e analysis for nonlinear partial differential equations,1.3189329710618589e-06,0.0,0.0,4.0
+hep-th/9607017,On Some Class of Multidimensional Nonlinear Integrable Systems,1.3189329710618589e-06,0.0,0.0,6.0
+solv-int/9605010,A new integrable system related to the Toda lattice,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9210073,Introduction to Random Matrices,1.3189329710618589e-06,0.0,0.0,3.0
+solv-int/9509002,The relativistic Calogero model in an external field,1.3189329710618589e-06,0.0,0.0,3.0
+hep-th/9307021,Two-Dimensional Integrable Systems and Self-Dual Yang-Mills Equations,1.3189329710618589e-06,0.0,0.0,3.0
+hep-th/9311119,On Soliton Content of Self Dual Yang-Mills Equations,1.3189329710618589e-06,0.0,0.0,3.0
+hep-th/9508093,"Symmetry Reductions of the Lax Pair of the Four-Dimensional Euclidean
+  Self-Dual Yang-Mills Equations",1.3189329710618589e-06,0.0,0.0,3.0
+solv-int/9707010,"A combined sine-Gordon and modified Korteweg-de Vries hierarchy and its
+  algebro-geometric solutions",1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9706067,Three-body Generalizations of the Sutherland Problem,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9211141,Level-Spacing Distributions and the Airy Kernel,1.3189329710618589e-06,0.0,0.0,4.0
+math-ph/9806002,Darboux Transformations of Bispectral Quantum Integrable Systems,1.3189329710618589e-06,0.0,0.0,1.0
+q-alg/9508001,Quantized Lax Equations and Their Solutions,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9812009,The symplectic structure of rational Lax pair systems,1.3189329710618589e-06,0.0,0.0,3.0
+hep-th/9305100,Vertex operators in solvable lattice models,1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/9608067,Reflection equations and surface critical phenomena,1.3189329710618589e-06,0.0,0.0,2.0
+hep-th/9507072,"Polynomial Identities, Indices, and Duality for the N=1 Superconformal
+  Model SM(2,4\nu)",1.3189329710618589e-06,0.0,0.0,4.0
+solv-int/9904014,"Invariant Modules and the Reduction of Nonlinear Partial Differential
+  Equations to Dynamical Systems",1.3189329710618589e-06,0.0,0.0,4.0
+solv-int/9706010,"Matrix Integrals, Toda symmetries, Virasoro constraints, and orthogonal
+  polynomials",1.3189329710618589e-06,0.0,0.0,2.0
+solv-int/9712001,"On the geometry of point-expansions for certain class of differential
+  equations of the second order",1.3189329710618589e-06,0.0,0.0,4.0
+solv-int/9703003,"On the point transformations for the second order differential
+  equations. I",1.3189329710618589e-06,0.0,0.0,4.0
+q-alg/9707017,"Nonabelian Integrable Systems, Quasideterminants, and Marchenko Lemma",1.3189329710618589e-06,0.0,0.0,4.0
+solv-int/9805011,"Connection formulae for degenerated asymptotic solutions of the fourth
+  Painleve equation",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9611007,Transport and conservation laws,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9401003,On a Shallow Water Wave Equation,1.3189329710618589e-06,0.0,0.0,2.0
+math/9805074,"B\""acklund Transformations and Loop Group Actions",1.3189329710618589e-06,0.0,0.0,2.0
+solv-int/9711002,Darboux Transformations for SUSY Integrable Systems,1.3189329710618589e-06,0.0,0.0,3.0
+math/9804082,On a Functional Differential Equation of Determinantal Type,1.3189329710618589e-06,0.0,0.0,2.0
+solv-int/9505003,Integrable boundary conditions for the Toda lattice,1.3189329710618589e-06,0.0,0.0,5.0
+solv-int/9707016,"Continuum limit of nonlinear discrete systems with long range
+  interaction potentials",1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9612100,The Multidimensional Darboux Transformation,1.3189329710618589e-06,0.0,0.0,6.0
+solv-int/9712016,Toda-Darboux maps and vertex operators,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9704012,"Huygens' Principle in Minkowski Spaces and Soliton Solutions of the
+  Korteweg-de Vries Equation",1.3189329710618589e-06,0.0,0.0,3.0
+hep-th/9205039,Constant Solutions of Reflection Equations and Quantum Groups,1.3189329710618589e-06,0.0,0.0,9.0
+hep-th/9609135,Correlation functions for the Z-invariant Ising model,1.3189329710618589e-06,0.0,0.0,3.0
+solv-int/9712020,Polarization scattering by soliton-soliton collisions,1.3189329710618589e-06,0.0,0.0,2.0
+solv-int/9808016,Legendre transformations on the triangular lattice,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9612010,The Whitham equations revisited,1.3189329710618589e-06,0.0,0.0,2.0
+solv-int/9907001,Classical skew orthogonal polynomials and random matrices,1.3189329710618589e-06,0.0,0.0,3.0
+hep-th/9510096,Exact Solution of a N-body Problem in One Dimension,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9707004,Nonlinear Quasiclassics and the Painlev\'e Equations,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9605174,Ernst Ising - physicist and teacher,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9703004,"A collection of integrable systems of the Toda type in continuous and
+  discrete time, with 2x2 Lax representations",1.3189329710618589e-06,0.0,0.0,3.0
+solv-int/9706006,The geometry of spinors and the multicomponent BKP and DKP hierarchies,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9409108,Painleve III and 2D Polymers,1.3189329710618589e-06,0.0,0.0,3.0
+cs/9811002,"Factorization of linear partial differential operators and Darboux
+  integrability of nonlinear PDEs",1.3189329710618589e-06,0.0,0.0,3.0
+hep-th/9506105,Exact Solvability of the Calogero and Sutherland Models,1.3189329710618589e-06,0.0,0.0,15.0
+solv-int/9708004,Criterion and Regions of Stability for Quasi-Equidistant Soliton Trains,1.3189329710618589e-06,0.0,0.0,3.0
+math/9905078,Integrable geodesic flow with positive topological entropy,1.3189329710618589e-06,0.0,0.0,2.0
+gr-qc/9707003,Lax pair tensors and integrable spacetimes,1.3189329710618589e-06,0.0,0.0,3.0
+solv-int/9502002,Discrete Toda Field Equations,1.3189329710618589e-06,0.0,0.0,2.0
+solv-int/9904017,"Quasi-Periodic and Periodic Solutions for Systems of Coupled Nonlinear
+  SCHR\""Odinger Equations",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9907202,Group Theory Approach to Band Structure: Scarf and Lame Hamiltonians,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9903009,Symmetric random matrices and the Pfaff lattice,1.3189329710618589e-06,0.0,0.0,6.0
+patt-sol/9903004,Extended parametric resonances in nonlinear Schrodinger systems,1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/9403085,A generalized ensemble of random matrices,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9801001,"Asymptotics of Solutions to the Modified Nonlinear Schr\""{o}dinger
+  Equation: Solitons on a Non-Vanishing Continuous Background",1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9804014,"The Gel'fand-Tsetlin Selection Rules and Representations of Quantum
+  Algebras",1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/9709021,"Supersymmetric Construction of Exactly Solvable Potentials and
+  Non-Linear Algebras",1.3189329710618589e-06,0.0,0.0,9.0
+solv-int/9811013,Integrable KdV Systems: Recursion Operators of Degree Four,1.3189329710618589e-06,0.0,0.0,2.0
+solv-int/9605006,New integrable systems related to the relativistic Toda lattice,1.3189329710618589e-06,0.0,0.0,1.0
+q-alg/9609032,"Confluent hypergeometric orthogonal polynomials related to the rational
+  quantum Calogero system with harmonic confinement",1.3189329710618589e-06,0.0,0.0,8.0
+solv-int/9608004,The Calogero-Sutherland Model and Generalized Classical Polynomials,1.3189329710618589e-06,0.0,0.0,23.0
+solv-int/9604001,Farey Tree and the Frenkel-Kontorova Model,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9311074,Integrability in Hamiltonian Chern-Simons theory,1.3189329710618589e-06,0.0,0.0,16.0
+solv-int/9702001,Rational Solutions for the Discrete Painlev\'e II Equation,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9205055,Correlation Functions of the XXZ model for $\Delta<-1$,1.3189329710618589e-06,0.0,0.0,10.0
+cond-mat/9804210,"Singularities in the Bethe solution of the XXX and XXZ Heisenberg spin
+  chains",1.3189329710618589e-06,0.0,0.0,10.0
+solv-int/9611008,"The conservation of the Hamiltonian structures in Whitham's method of
+  averaging",1.3189329710618589e-06,0.0,0.0,7.0
+solv-int/9609009,"Analytic-bilinear approach to integrable hierarchies. I.Generalized KP
+  hierarchy",1.3189329710618589e-06,0.0,0.0,5.0
+solv-int/9612009,"Irreducible Representations of an Algebra underlying Hidden Symmetries
+  of a class of Quasi Exactly Solvable Systems of Equations",1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9701001,"Leading Order Temporal Asymptotics of the Modified Non-Linear
+  Schrodinger Equation: Solitonless Sector",1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9906009,"Reduction of bihamiltonian systems and separation of variables: an
+  example from the Boussinesq hierarchy",1.3189329710618589e-06,0.0,0.0,4.0
+solv-int/9710020,The Painlev\'e approach to nonlinear ordinary differential equations,1.3189329710618589e-06,0.0,0.0,15.0
+math/9901118,"On the distribution of the length of the second row of a Young diagram
+  under Plancherel measure",1.3189329710618589e-06,0.0,0.0,21.0
+hep-th/9609031,Multidimensional Toda type systems,1.3189329710618589e-06,0.0,0.0,15.0
+hep-th/9608082,"Conformal internal symmetry of $2d$ $\sigma$-models coupled to gravity
+  and a dilaton",1.3189329710618589e-06,0.0,0.0,21.0
+hep-th/9310071,Integrability of N = 3 super Yang-Mills equations,1.3189329710618589e-06,0.0,0.0,8.0
+solv-int/9910006,"Beyond Nonlinear Schr\""odinger Equation Approximation for an Anharmonic
+  Chain with Harmonic Long Range Interaction",1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9505133,Negaton and Positon Solutions of the KDV Equation,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9412002,"Backlund Transformations and Hierarchies of Exact Solutions for the
+  Fourth Painleve Equation and their Application to Discrete Equations",1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9412003,Symmetries and Exact Solutions of a 2+1-dimensional Sine-Gordon System,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9411004,Variable Coefficient Third Order KdV Type of Equations,1.3189329710618589e-06,0.0,0.0,2.0
+solv-int/9505006,"Conditional Lie-B\""acklund symmetry and reduction of evolution
+  equations.",1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9211111,Quantum Inverse Scattering Method. Selected Topics,1.3189329710618589e-06,0.0,0.0,46.0
+solv-int/9508002,Separation of variables in the $A_2$ type Jack polynomials,1.3189329710618589e-06,0.0,0.0,6.0
+hep-th/9806035,"The Inverse Spectral Theory for the Ward Equation and for the 2+1 Chiral
+  Model",1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9506006,Fredholm determinants and the mKdV/sinh-Gordon hierarchies,1.3189329710618589e-06,0.0,0.0,11.0
+hep-th/9910265,"Integral representation for the eigenfunctions of quantum periodic Toda
+  chain",1.3189329710618589e-06,0.0,0.0,11.0
+hep-th/9805149,Explicit solution of the quantum three-body Calogero-Sutherland model,1.3189329710618589e-06,0.0,0.0,2.0
+solv-int/9710026,The sAKNS Hierarchy,1.3189329710618589e-06,0.0,0.0,7.0
+solv-int/9502006,"Explicit Integration of the Full Symmetric Toda Hierarchy and the
+  Sorting Property",1.3189329710618589e-06,0.0,0.0,3.0

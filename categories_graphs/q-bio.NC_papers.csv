@@ -1,0 +1,530 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+cs/9811018,P-model Alternative to the T-model,2.641625769192378e-05,0.0,6.0,1.0
+cs/9810012,Ultrametric Distance in Syntax,2.4311239297000843e-05,1.990182755160072e-06,6.0,1.0
+q-bio/0610037,"Brain, Music and non-Poisson Renewal Processes",2.366187390276618e-05,5.970548265480216e-06,6.0,2.0
+cond-mat/0501252,Strength Distribution in Derivative Networks,1.637582086900839e-05,0.0,11.0,0.0
+physics/0205030,Thinking about the brain,1.34689317241518e-05,0.0,16.0,5.0
+cond-mat/0504025,Point process model of 1/f noise versus a sum of Lorentzians,1.0893747286915562e-05,7.046440502284184e-06,12.0,3.0
+cond-mat/0401018,Reinforcing the Resilience of Complex Networks,8.645517393398944e-06,0.0,10.0,0.0
+q-bio/0612050,"Neural coding of a natural stimulus ensemble: Uncovering information at
+  sub-millisecond resolution",7.337573255669612e-06,0.0,6.0,0.0
+q-bio/0612025,Single neuron computation: from dynamical system to feature detector,7.033021752602266e-06,0.0,1.0,0.0
+q-bio/0402045,Performance of networks of artificial neurons: The role of clustering,6.855384263647168e-06,0.0,4.0,0.0
+q-bio/0605027,A new stimulus approach in the search for biological nonlocality,6.26289940795507e-06,0.0,3.0,0.0
+q-bio/0512026,A hypothesis on the selective advantage for sleep,5.746353796014907e-06,0.0,1.0,0.0
+q-bio/0505010,"The Dynamics of Image Processing by Feature Maps in the Primary Visual
+  Cortex",5.655144290770314e-06,0.0,1.0,1.0
+q-bio/0505011,"Receptive Field and Feature Map Formation in the Primary Visual Cortex
+  via Hebbian Learning with Inhibitory Feedback",5.655144290770314e-06,0.0,1.0,1.0
+nlin/0511040,"Distributed Sources, Accelerated Universe, Consciousness and Quantum
+  Entanglement",5.524948763467394e-06,0.0,6.0,1.0
+q-bio/0505003,Features and dimensions: Motion estimation in fly vision,5.278849498167516e-06,0.0,3.0,1.0
+q-bio/0411009,"Growth-Driven Percolations: The Dynamics of Community Formation in
+  Neuronal Systems",5.135019324994562e-06,3.929466436913029e-06,3.0,2.0
+nlin/0612053,Synchronized dynamics of cortical neurons with time-delay feedback,5.103221901320919e-06,0.0,3.0,0.0
+cond-mat/0202252,"Responses of Ensemble Neurons to Spike-Train Signals with Independent
+  Noises: Stochastic Resonance and Spike Variability",4.966907238954575e-06,0.0,1.0,2.0
+physics/0212110,"Analyzing neural responses to natural signals: Maximally informative
+  dimensions",4.141668955701076e-06,0.0,5.0,2.0
+q-bio/0310039,"Different ocular dominance map formation by influence of orientation
+  columns in visual cortices",4.063143711471229e-06,0.0,1.0,2.0
+cond-mat/0206135,"Dynamical mean-field theory of spiking neuron ensembles: response to a
+  single spike with independent noises",4.057098038694793e-06,0.0,1.0,1.0
+physics/0208057,"Maximally informative dimensions: Analyzing neural responses to natural
+  signals",4.026447939590048e-06,0.0,4.0,0.0
+quant-ph/0210176,Quantum Pattern Recognition,3.937127024872019e-06,4.084330281112088e-08,5.0,5.0
+physics/0212113,Computation in a single neuron: Hodgkin and Huxley revisited,3.882600579532245e-06,0.0,4.0,2.0
+q-bio/0609008,Discovering Functional Communities in Dynamical Networks,3.873945274331573e-06,0.0,2.0,0.0
+q-bio/0311026,"Brain neurons as quantum computers: {\it in vivo} support of background
+  physics",3.804863059458992e-06,0.0,2.0,0.0
+cond-mat/0609622,Maximum Performance at Minimum Cost in Network Synchronization,3.7107215323810425e-06,0.0,3.0,0.0
+q-bio/0611037,Adaptive Filtering Enhances Information Transmission in Visual Cortex,3.6108917312038793e-06,0.0,2.0,0.0
+cond-mat/0111546,"Stochastic Resonance of Ensemble Neurons for Transient Spike Trains: A
+  Wavelet Analysis",3.49912997646896e-06,0.0,2.0,1.0
+nlin/0307014,"A propensity criterion for networking in an array of coupled chaotic
+  systems",3.49912997646896e-06,0.0,2.0,0.0
+q-bio/0508044,Should you believe that this coin is fair?,3.4215376050071474e-06,0.0,1.0,0.0
+math/0309295,"A simple mechanism for balancing at the border of instability with
+  applications to persistent neural activity",3.3749066596554898e-06,0.0,1.0,0.0
+q-bio/0311030,"Comparation based bottom-up and top-down filtering model of the
+  hippocampus and its environment",3.3749066596554898e-06,0.0,1.0,0.0
+cond-mat/0703178,On the stationary state of a network of inhibitory spiking neurons,3.3749066596554898e-06,0.0,1.0,0.0
+q-bio/0311016,Superpositional Quantum Network Topologies,3.1134468767318288e-06,0.0,3.0,0.0
+physics/0301014,What causes a neuron to spike?,3.0445012460810084e-06,0.0,2.0,0.0
+q-bio/0405027,"General representation of collective neural dynamics with columnar
+  modularity",2.91697922313738e-06,0.0,1.0,1.0
+q-bio/0407001,"Quantum Brain: A Recurrent Quantum Neural Network Model to Describe Eye
+  Tracking of Moving Targets",2.598859106311196e-06,0.0,2.0,0.0
+cond-mat/0703507,A Generalized Rate Model for Neuronal Ensembles,2.581437883592785e-06,0.0,2.0,0.0
+q-bio/0703017,"Thermal Impact on Spiking Properties in Hodgkin-Huxley Neuron with
+  Synaptic Stimulus",2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0607021,"Activity-dependent self-wiring is a basis of structural plastisity in
+  neural networks",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/9907387,"A quantitative comparison between spike-train responses of the
+  Hodgkin-Huxley and integrate-and-fire neurons",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0308043,"Spike propagation for spatially correlated inputs through noisy
+  multilayer networks",2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0605006,The role of synaptic facilitation in coincidence spike detection,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0601003,Designing the Dynamics of Spiking Neural Networks,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0404001,Towards comparative theoretical neuroanatomy of the cerebral cortex,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0308025,"Controlled hierarchical filtering: Model of neocortical sensory
+  processing",2.4711431321721443e-06,0.0,1.0,1.0
+cond-mat/0608188,Desynchronized stable states in diluted neural networks,2.4711431321721443e-06,0.0,1.0,1.0
+nlin/0310033,Associative memory on a small-world neural network,2.4711431321721443e-06,0.0,1.0,3.0
+q-bio/0510003,Control of neural chaos by synaptic noise,2.4711431321721443e-06,0.0,1.0,1.0
+q-bio/0405002,A toy model of the brain,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0701053,Dissipation and spontaneous symmetry breaking in brain dynamics,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0703002,"Autonomous Dynamics in Neural networks: The dHAN Concept and Associative
+  Thought Processes",2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0702004,Brain as Quantum-like Machine for Transferring Time into Mind,2.3945400317335582e-06,0.0,2.0,0.0
+nlin/0502028,Imaginary Fields,2.3779400847889937e-06,0.0,3.0,3.0
+cond-mat/0605619,Synchronization is optimal in non-diagonalizable networks,2.3189319592894785e-06,0.0,2.0,0.0
+q-bio/0602021,"Structured thalamocortical connectivity revealed by random walks on
+  complex networks",2.300725523621532e-06,0.0,1.0,1.0
+cs/0505058,"The Cyborg Astrobiologist: Scouting Red Beds for Uncommon Features with
+  Geological Significance",2.2960610328299915e-06,0.0,2.0,1.0
+physics/0212114,"An information theoretic approach to the functional classification of
+  neurons",2.2407010999500875e-06,0.0,3.0,0.0
+physics/0306063,"Entropy and information in neural spike trains: Progress on the sampling
+  problem",2.1254800838390582e-06,0.0,2.0,1.0
+gr-qc/0403001,The Physics of 'Now',2.08252838370112e-06,0.0,3.0,1.0
+cond-mat/0409095,Geographical Coarsegraining of Complex Networks,2.040589691319667e-06,0.0,2.0,0.0
+q-bio/0309009,"Quantum noise, entanglement and chaos in the quantum field theory of
+  mind/brain states",2.0208099059400334e-06,1.0409330632377509e-07,1.0,2.0
+q-bio/0610013,"Toward an adequate mathematical model of mental space:
+  conscious/unconscious dynamics on $m$-adic trees",1.969157257496847e-06,0.0,1.0,0.0
+cond-mat/0109444,A Wavelet Analysis of Transient Spike Trains of Hodgkin-Huxley Neurons,1.8950380516170012e-06,0.0,1.0,1.0
+nlin/0309041,Synchronization in model networks of class I neurons,1.8950380516170012e-06,0.0,1.0,0.0
+q-bio/0612030,"Cognitive Maps of Complex Systems Show Hierarchical Structure and
+  Scale-Free Properties",1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/0511159,Learning by message-passing in networks of discrete synapses,1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/9905438,Chaos in neural networks with a nonmonotonic transfer function,1.8950380516170012e-06,0.0,1.0,0.0
+nlin/0403054,Manipulating Consciousness,1.836677351836284e-06,0.0,2.0,3.0
+quant-ph/0006066,"The dissipative quantum model of brain: how do memory localize in
+  correlated neuronal domains",1.713183406215969e-06,0.0,1.0,4.0
+q-bio/0401015,"Switching Time Statistics for Driven Neuron Models: Analytic Expressions
+  versus Numerics",1.703003024765287e-06,0.0,1.0,0.0
+q-bio/0610041,The brain near the edge,1.703003024765287e-06,0.0,1.0,0.0
+cond-mat/0302040,Associative Recall in Non-Randomly Diluted Neuronal Networks,1.703003024765287e-06,0.0,1.0,0.0
+q-bio/0410020,Neural Graphs and Category of Memory States,1.6845885338416714e-06,0.0,1.0,0.0
+q-bio/0411030,Statistical Mechanics Characterization of Neuronal Mosaics,1.60698551133943e-06,0.0,1.0,2.0
+quant-ph/0401127,Quantum computing in neural networks,1.60698551133943e-06,0.0,1.0,2.0
+cs/0410071,The Cyborg Astrobiologist: First Field Experience,1.60698551133943e-06,0.0,1.0,2.0
+cond-mat/0512341,Dynamical response of the Hodgkin-Huxley model in the high-input regime,1.5493750032839157e-06,0.0,1.0,0.0
+q-bio/0505009,Wiring cost in the organization of a biological network,1.538955146567322e-06,0.0,1.0,0.0
+nlin/0406053,Awaking and Sleeping a Complex Network,1.5109679979135728e-06,0.0,1.0,0.0
+cond-mat/0408700,"Self-organized Criticality and Scale-free Properties in Emergent
+  Functional Neural Networks",1.5109679979135728e-06,0.0,1.0,1.0
+nlin/0311047,Quaternion Dynamics of the Brain,1.5109679979135728e-06,0.0,1.0,4.0
+cond-mat/0501420,Spatial small-world networks: A wiring-cost perspective,1.493139308506125e-06,0.0,2.0,4.0
+cond-mat/0610186,Does dynamics reflect topology in directed networks?,1.4835344226490424e-06,0.0,1.0,0.0
+q-bio/0703050,"From a quantum mechanical description of the assembly processes in
+  microtubules to their semiclassical nonlinear dynamics",1.4629592412006444e-06,0.0,1.0,0.0
+physics/0201027,"Spike timing and the coding of naturalistic sounds in a central auditory
+  area of songbirds",1.4629592412006444e-06,0.0,1.0,0.0
+q-bio/0403026,"A Dynamical Similarity Approach to the Foundations of Complexity and
+  Coordination in Multiscale Systems",1.398951339365609e-06,0.0,1.0,0.0
+quant-ph/0002014,"Formation and life-time of memory domains in the dissipative quantum
+  model of brain",1.3517275050181357e-06,0.0,1.0,3.0
+cond-mat/9412030,Attractor Neural Networks,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0208414,Winner-Relaxing Self-Organizing Maps,1.3189329710618589e-06,0.0,0.0,3.0
+q-bio/0601032,"Fuzzy Cognitive Maps Of Local People Impacted By Dam Construction: Their
+  Demands Regarding Resettlement",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0306512,Topological Speed Limits to Network Synchronization,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0508013,Effects of fast presynaptic noise in attractor neural networks,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0212601,Efficient Hopfield pattern recognition on a scale-free neural network,1.3189329710618589e-06,0.0,0.0,3.0
+q-bio/0606027,"Conservation rules, their breakdown, and optimality in Caenorhabditis
+  sinusoidal locomotion",1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0205161,"Contextualizing Concepts using a Mathematical Generalization of the
+  Quantum Formalism",1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/0306625,"Heterogeneity in oscillator networks: Are smaller worlds easier to
+  synchronize?",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0204562,"Order-disorder transition in the Chialvo-Bak `minibrain' controlled by
+  network geometry",1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0201046,Intelligent systems in the context of surrounding environment,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0306018,"Processing of information in synchroneously firing chains in networks of
+  neurons",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9712132,"Threshold Noise as a Source of Volatility in Random Synchronous
+  Asymmetric Neural Networks",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0005043,Universality and individuality in a neural code,1.3189329710618589e-06,0.0,0.0,2.0
+q-bio/0607002,"Self-wiring in neural nets of point-like cortical neurons fails to
+  reproduce cytoarchitectural differences",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0606041,Designing Complex Networks,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0702013,Influence of Temperature on Neuronal Excitability in Cochlear Nucleus,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0701045,Modelling the brain as a n Apollonian network,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0302502,"Dynamical mean-field theory of noisy spiking neuron ensembles:
+  Application to the Hodgkin-Huxley model",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0310015,"How does connectivity between cortical areas depend on brain size?
+  Implications for efficient computation",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0508032,Self-Sustained Thought Processes in a Dense Associative Network,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9906020,"Responses of a Hodgkin-Huxley Neuron to Various Types of Spike-Train
+  Inputs",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0604019,"Competition between synaptic depression and facilitation in attractor
+  neural networks",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0502003,"Autoassociative Memory Retrieval and Spontaneous Activity Bumps in
+  Small-World Networks of Integrate-and-Fire Neurons",1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/0309092,Scale-free brain functional networks,1.3189329710618589e-06,0.0,0.0,6.0
+cond-mat/9902341,Predictive Information,1.3189329710618589e-06,0.0,0.0,3.0
+nlin/0309043,Towards Modeling of Consciousness,1.3189329710618589e-06,0.0,0.0,6.0
+quant-ph/0007044,The Violation of Bell Inequalities in the Macroworld,1.3189329710618589e-06,0.0,0.0,5.0
+cond-mat/0309266,What's in a name?,1.3189329710618589e-06,0.0,0.0,4.0
+chao-dyn/9505001,Pitch Perception of Complex Sounds: Nonlinearity Revisited,1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/9603127,Entropy and Information in Neural Spike Trains,1.3189329710618589e-06,0.0,0.0,5.0
+physics/0004060,"Real time encoding of motion: Answerable questions and questionable
+  answers from the fly's visual system",1.3189329710618589e-06,0.0,0.0,5.0
+q-bio/0403011,"Memorization in a neural network with adjustable transfer function and
+  conditional gating",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0311330,Dynamical Motifs: Building Blocks of Complex Network Dynamics,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0409032,Intensity Coding in Two-Dimensional Excitable Neural Networks,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0402029,Fluctuation-dissipation theorem and models of learning,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0307574,Neuromorphometric characterization with shape functionals,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0501017,"Active percolation analysis of pyramidal neurons of somatosensory
+  cortex: A comparison of wildtype and p21H-ras^Val12 transgenic mice",1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9806001,"Neural network design for J function approximation in dynamic
+  programming",,,,
+adap-org/9909005,Beyond Hebb: Exclusive-OR and Biological Learning,,,,
+chao-dyn/9903009,"Chaotic Dynamics in Iterated Map Neural Networks with Piecewise Linear
+  Activation Function",,,,
+chao-dyn/9907002,Nonlinear Dynamics of the Perceived Pitch of Complex Sounds,,,,
+cond-mat/0003263,"Random Networks of Spiking Neurons: Instability in the Xenopus tadpole
+  moto-neural pattern",,,,
+cond-mat/0003360,"Beyond storage capacity in a single model neuron: Continuous replica
+  symmetry breaking",,,,
+cond-mat/0007198,"An associative memory of Hodgkin-Huxley neuron networks with
+  Willshaw-type synaptic couplings",,,,
+cond-mat/0010025,"Techniques of replica symmetry breaking and the storage problem of the
+  McCulloch-Pitts neuron",,,,
+cond-mat/0011112,"Computational Capacity of an Odorant Discriminator: the Linear
+  Separability of Curves",,,,
+cond-mat/0012033,"Spike-Train Responses of a Pair of Hodgkin-Huxley Neurons with
+  Time-Delayed Couplings",,,,
+cond-mat/0012119,Redundancy and synergy arising from correlations in large ensembles,,,,
+cond-mat/0105127,Metabolically Efficient Information Processing,,,,
+cond-mat/0105128,Metabolically Efficient Codes in The Retina,,,,
+cond-mat/0109256,Self-organized critical neural networks,,,,
+cond-mat/0111034,Hebbian imprinting and retrieval in oscillatory neural networks,,,,
+cond-mat/0111150,Measuring information spatial densities,,,,
+cond-mat/0112395,"Physics of Psychophysics: Stevens and Weber-Fechner laws are transfer
+  functions of excitable media",,,,
+cond-mat/0202023,"Independent neurons representing a finite set of stimuli: dependence of
+  the mutual information on the number of units sampled",,,,
+cond-mat/0202190,"Threshold Disorder as a Source of Diverse and Complex Behavior in Random
+  Nets",,,,
+cond-mat/0202438,"Prevalence of unstable attractors in networks of pulse-coupled
+  oscillators",,,,
+cond-mat/0207313,"Coexistence of regular and irregular dynamics in complex networks of
+  pulse-coupled oscillators",,,,
+cond-mat/0209432,"Unstable attractors induce perpetual synchronization and
+  desynchronization",,,,
+cond-mat/0211122,Emergence of memory,,,,
+cond-mat/0211292,Response of Spiking Neurons to Correlated Inputs,,,,
+cond-mat/0301457,"A replica free evaluation of the neuronal population information with
+  mixed continuous and discrete stimuli: from the linear to the asymptotic
+  regime",,,,
+cond-mat/0303425,"Mean-field dynamics of sequence processing neural networks with finite
+  connectivity",,,,
+cond-mat/0308098,Population coding by globally coupled phase oscillators,,,,
+cond-mat/0308503,Neural network learning dynamics in a path integral framework,,,,
+cond-mat/0309103,Breaking Synchrony by Heterogeneity in Complex Networks,,,,
+cond-mat/0310669,An Analytical Approach to Connectivity in Regular Neuronal Networks,,,,
+cond-mat/0312539,Symmetry considerations and development of pinwheels in visual maps,,,,
+cond-mat/0401038,Long Chaotic Transients in Complex Networks,,,,
+cond-mat/0405505,"Analyzing Stability of Equilibrium Points in Neural Networks: A General
+  Approach",,,,
+cond-mat/0409528,"Point singularities and suprathreshold stochastic resonance in optimal
+  coding",,,,
+cond-mat/0501384,"Unstable Attractors: Existence and Robustness in Networks of Oscillators
+  With Delayed Pulse Coupling",,,,
+cond-mat/0610188,Revealing Network Connectivity From Dynamics,,,,
+cond-mat/9306039,Neural networks with high order connections,,,,
+cond-mat/9401003,Chaotic Dynamics of High Order Neural Networks,,,,
+cond-mat/9710352,Self-Wiring of Neural Networks,,,,
+cond-mat/9811403,"Response of an Excitatory-Inhibitory Neural Network to External
+  Stimulation: An Application to Image Segmentation",,,,
+cond-mat/9904271,"Robust gamma oscillations in networks of inhibitory Hippocampal
+  interneurons",,,,
+cs/0108009,Artificial Neurons with Arbitrarily Complex Internal Structures,,,,
+cs/0401020,"Presynaptic modulation as fast synaptic switching: state-dependent
+  modulation of task performance",,,,
+cs/0410042,Neural Architectures for Robot Intelligence,,,,
+math/0505161,Entrainment and chaos in a pulse-driven Hodgkin-Huxley oscillator,,,,
+math/0703010,Use of an Hourglass Model in Neuronal Coding,,,,
+nlin/0205026,"Dynamical model of sequential spatial memory: winnerless competition of
+  patterns",,,,
+nlin/0209011,"Spatial representation of temporal information through spike timing
+  dependent plasticity",,,,
+nlin/0210065,Pitch perception: A dynamical-systems perspective,,,,
+nlin/0308013,Emergence of scale-free properties in Hebbian networks,,,,
+nlin/0309067,Self-sustained activity in a small-world network of excitable neurons,,,,
+nlin/0310042,"Measurement of synchronization properties in systems with different
+  excitation levels",,,,
+nlin/0405014,"Stabilizing near-nonhyperbolic chaotic systems and its potential
+  applications in neuroscience",,,,
+nlin/0405029,"Rotating waves in the Theta model for a ring of synaptically connected
+  neurons",,,,
+nlin/0406008,"Pattern Formation in a Two-Dimensional Array of Oscillators with
+  Phase-Shifted Coupling",,,,
+nlin/0407044,From collective rhythm to adaptive synchronization,,,,
+nlin/0409052,"Periodic travelling waves in the theta model for synaptically connected
+  neurons",,,,
+nlin/0411011,A topological approach to neural complexity,,,,
+nlin/0608021,Reliable and unreliable dynamics in driven coupled oscillators,,,,
+nlin/0701020,Self-organising mechanism of neuronal avalanche activity,,,,
+physics/0001006,Temporal correlations and neural spike train entropy,,,,
+physics/0006081,"Synchronisation, binding and the role of correlated firing in fast
+  information transmission",,,,
+physics/0202014,Timing and Counting Precision in the Blowfly Visual System,,,,
+physics/0203014,Presynaptic calcium dynamics of learning neurons,,,,
+physics/0206007,"Spherical Harmonics Interpolation, Computation of Laplacians and Gauge
+  Theory",,,,
+physics/0208010,"A computational theory for the classification of natural biosonar
+  targets based on a spike code",,,,
+physics/0208040,Does Corticothalamic Feedback Control Cortical Velocity Tuning?,,,,
+physics/0208050,Spatiotemporal adaptation through corticothalamic loops: A hypothesis,,,,
+physics/0209008,"A quantitative model for presynaptic free calcium dynamics during
+  different stimulation protocols",,,,
+physics/0209065,"Signal detection by means of phase coherence induced through phase
+  resetting",,,,
+physics/0209093,"Subthreshold dynamics of the neural membrane potential driven by
+  stochastic synaptic input",,,,
+physics/0212070,"Robustness and Enhancement of Neural Synchronization by
+  Activity-Dependent Coupling",,,,
+physics/0301063,Alternative model of propagation of spikes along neurons,,,,
+physics/0302039,Branching Law for Axons,,,,
+physics/0304003,Reading Neural Encodings using Phase Space Methods,,,,
+physics/0306047,"Understanding visual map formation through vortex dynamics of spin
+  Hamiltonian models",,,,
+physics/0307072,Network information and connected correlations,,,,
+physics/0307135,The Intrinsic Time Scale of Transient Neuronal Responses,,,,
+physics/0308041,Ensembles of Protein Molecules as Statistical Analog Computers,,,,
+physics/0404023,"Steady-state visual evoked potentials and phase synchronization in
+  migraine",,,,
+physics/0511137,Complex networks in brain electrical activity,,,,
+physics/0701261,Measuring spike train synchrony,,,,
+physics/9902052,"Odor recognition and segmentation by coupled olfactory bulb and cortical
+  networks",,,,
+physics/9908027,"A unified approach to the study of temporal, correlational and rate
+  coding",,,,
+physics/9910025,"Fractal features of dark, maintained, and driven neural discharges in
+  the cat visual system",,,,
+q-bio/0309024,"Synchronization and oscillatory dynamics in heterogeneous mutually
+  inhibited neurons",,,,
+q-bio/0309025,Frequency control in synchronized networks of inhibitory neurons,,,,
+q-bio/0309026,Coding Strategies in Monkey V1 and Inferior Temporal Cortices,,,,
+q-bio/0309027,Measuring the dynamics of neural responses in primary auditory cortex,,,,
+q-bio/0309028,Analysis of Dynamic Brain Imaging Data,,,,
+q-bio/0309030,Synaptic Transmission: An Information-Theoretic Perspective,,,,
+q-bio/0309031,"Metric-space analysis of spike trains: theory, algorithms, and
+  application",,,,
+q-bio/0309032,"The power ratio and the interval map: spiking models and extracellular
+  data",,,,
+q-bio/0309033,Sensory Coding with Dynamically Competitive Networks,,,,
+q-bio/0309034,"Temporal structure in neuronal activity during working memory in Macaque
+  parietal cortex",,,,
+q-bio/0310011,"Complex Independent Component Analysis of Frequency-Domain
+  Electroencephalographic Data",,,,
+q-bio/0310025,Pattern Excitation-Based Processing: The Music of The Brain,,,,
+q-bio/0311027,"Ocular dominance patterns and the wire length minimization: a numerical
+  study",,,,
+q-bio/0312013,"Noise-driven transition to quasi-deterministic limit cycle dynamics in
+  excitable systems",,,,
+q-bio/0312025,Fast Computation with Neural Oscillators,,,,
+q-bio/0312038,Random Walks for Spike-Timing Dependent Plasticity,,,,
+q-bio/0401001,K-Winners-Take-All Computation with Neural Oscillators,,,,
+q-bio/0401005,How to find decision makers in neural circuits?,,,,
+q-bio/0401009,"Graded persisting activity of heterogeneous neuron ensembles subject to
+  white noises",,,,
+q-bio/0401039,"Regulation of Neuromodulator Receptor Efficacy - Implications for
+  Whole-Neuron and Synaptic Plasticity",,,,
+q-bio/0402022,Response variability in balanced cortical networks,,,,
+q-bio/0402023,Mean field methods for cortical network dynamics,,,,
+q-bio/0402026,High conductance states in a mean field cortical network model,,,,
+q-bio/0402031,Stability diagrams for bursting neurons modeled by three-variable maps,,,,
+q-bio/0403015,Edge vulnerability in neural and metabolic networks,,,,
+q-bio/0403022,Intelligent encoding and economical communication in the visual stream,,,,
+q-bio/0403025,Adaptivity and `Per learning',,,,
+q-bio/0403031,"The perception of melodic consonance: an acoustical and
+  neurophysiological explanation based on the overtone series",,,,
+q-bio/0403037,"Mean field theory for a balanced hypercolumn model of orientation
+  selectivity in primary visual cortex",,,,
+q-bio/0404007,Information Processing in Brain Microtubules,,,,
+q-bio/0404012,"Mathematical Analysis and Simulations of the Neural Circuit for
+  Locomotion in Lamprey",,,,
+q-bio/0404016,Effects of Noise in a Cortical Neural Model,,,,
+q-bio/0404021,Pulse-coupled resonate-and-fire models,,,,
+q-bio/0406007,Subthreshold oscillations in a map-based neuron model,,,,
+q-bio/0406010,"Role of calcium and noise in the persistent activity of an isolated
+  neuron",,,,
+q-bio/0406050,"Cortical Dynamics and Awareness State: An Interpretation of Observed
+  Interstimulus Interval Dependence in Apparent Motion",,,,
+q-bio/0406051,"Statistics of lines of natural images and implications for visual
+  detection",,,,
+q-bio/0407010,"Predicting spike times of a detailed conductance-based neuron model
+  driven by stochastic spike arrival",,,,
+q-bio/0407013,"Existence and Stability of Standing Pulses in Neural Networks : I
+  Existence",,,,
+q-bio/0407014,"Existence and Stability of Standing Pulses in Neural Networks: II
+  Stability",,,,
+q-bio/0408008,"A subjective distance between stimuli: quantifying the metric structure
+  of representations",,,,
+q-bio/0408022,Probabilistic pathway representation of cognitive information,,,,
+q-bio/0409004,"A neural mechanism for binaural pitch perception via ghost stochastic
+  resonance",,,,
+q-bio/0409012,How to compute using globally coupled oscillators,,,,
+q-bio/0410002,"Model of the early development of thalamo-cortical connections and area
+  patterning via signaling molecules",,,,
+q-bio/0410004,Can Neural Networks Recognize Parts?,,,,
+q-bio/0410005,Human and computer learning: An experimental study,,,,
+q-bio/0410014,Theory of localized synfire chain,,,,
+q-bio/0410029,"Effect of Synchronous Incoming Spikes on Activity Pattern in A Network
+  of Spiking Neurons",,,,
+q-bio/0411029,"Neurokinematic Modeling of Complex Swimming Patterns of the Larval
+  Zebrafish",,,,
+q-bio/0411042,"Action Potential Onset Dynamics and the Response Speed of Neuronal
+  Populations",,,,
+q-bio/0411043,Activity-dependent brain model explaining EEG spectra,,,,
+q-bio/0412036,Computational Models of Adult Neurogenesis,,,,
+q-bio/0501021,Spike timing precision and neural error correction: local behavior,,,,
+q-bio/0501026,Synaptic Plasticity with Discrete state synapses,,,,
+q-bio/0501038,"Comment on: ""Characterization of subthreshold voltage fluctuations in
+  neuronal membranes"" by M. Rudolph and A. Destexhe",,,,
+q-bio/0502023,Learning intrinsic excitability in medium spiny neurons,,,,
+q-bio/0502025,On the role of chemical synapses in coupled neurons with noise,,,,
+q-bio/0502030,"Transient Information Flow in a Network of Excitatory and Inhibitory
+  Model Neurons: Role of Noise and Signal Autocorrelation",,,,
+q-bio/0502031,"Signal buffering in random networks of spiking neurons: microscopic vs.
+  macroscopic phenomena",,,,
+q-bio/0502037,"Optimal Spike-Timing Dependent Plasticity for Precise Action Potential
+  Firing",,,,
+q-bio/0503019,Inhibitory synchrony as a mechanism for attentional gain modulation,,,,
+q-bio/0503031,Extracellular-to-intracellular signal transfer via G-proteins,,,,
+q-bio/0504024,"Comment on ``Critical branching captures activity in living neural
+  networks and maximizes the number of metastable states''",,,,
+q-bio/0504027,"Extraclassical receptive field phenomena & short-range connectivity in
+  V1",,,,
+q-bio/0505008,Noise-enhanced computation in a model of a cortical column,,,,
+q-bio/0505012,"Dynamics of learning in coupled oscillators tutored with delayed
+  reinforcements",,,,
+q-bio/0505021,"Characterizing Self-Developing Biological Neural Networks: A First Step
+  Towards their Application To Computing Systems",,,,
+q-bio/0505024,"Search for optimal measure for discriminating spike trains with
+  different randomness",,,,
+q-bio/0505029,"Postsynaptic mechanisms for the induction of long-term potentiation and
+  long-term depression of synaptic transmission in CA1 pyramidal neurons of the
+  hippocampus",,,,
+q-bio/0506005,"Asymptotic construction of pulses in the Hodgkin Huxley model for
+  myelinated nerves",,,,
+q-bio/0506009,"Measuring Shared Information and Coordinated Activity in Neuronal
+  Networks",,,,
+q-bio/0506015,Nonlinear aspects of the EEG during sleep in children,,,,
+q-bio/0507002,"A learning rule for place fields in a cortical model: theta phase
+  precession as a network effect",,,,
+q-bio/0507014,Nonlinear brain dynamics and many-body field dynamics,,,,
+q-bio/0507023,"Synchronization and spindle oscillation in noisy
+  integrate-and-fire-or-burst neurons with inhibitory coupling",,,,
+q-bio/0507037,Neuromodulation Influences Synchronization and Intrinsic Read-out,,,,
+q-bio/0508039,"Stimulus-invariant processing and spectrotemporal reverse correlation in
+  primary auditory cortex",,,,
+q-bio/0508040,"Identifying Biomagnetic Sources in the Brain by the Maximum Entropy
+  Approach",,,,
+q-bio/0509022,"A Cognitive Model of an Epistemic Community: Mapping the Dynamics of
+  Shallow Lake Ecosystems",,,,
+q-bio/0510007,The fitness value of information,,,,
+q-bio/0510026,Some Theoretical Investigations in EEG Studies,,,,
+q-bio/0510034,Bending a slab of neural tissue,,,,
+q-bio/0510036,"When Response Variability Increases Neural Network Robustness to
+  Synaptic Noise",,,,
+q-bio/0510040,"The role of inhibitory feedback for information processing in
+  thalamocortical circuits",,,,
+q-bio/0510046,"Speed of synchronization in complex networks of neural oscillators
+  Analytic results based on Random Matrix Theory",,,,
+q-bio/0510051,Stable Concurrent Synchronization in Dynamic System Networks,,,,
+q-bio/0511012,Temporal correlation based learning in neuron models,,,,
+q-bio/0511050,"Response of electrically coupled spiking neurons: a cellular automaton
+  approach",,,,
+q-bio/0512013,"Weak pairwise correlations imply strongly correlated network states in a
+  neural population",,,,
+q-bio/0512021,"Attentional modulation of firing rate and synchrony in a model cortical
+  network",,,,
+q-bio/0512031,"Egocentric Path Integration Models and their Application to Desert
+  Arthropods",,,,
+q-bio/0512034,Contextual Emergence of Mental States from Neurodynamics,,,,
+q-bio/0512040,Ambiguous model learning made unambiguous with 1/f priors,,,,
+q-bio/0601007,Waveform sample method of excitable sensory neuron,,,,
+q-bio/0601008,Sleep as the solution to an optimization problem,,,,
+q-bio/0601028,"Gradient learning in spiking neural networks by dynamic perturbation of
+  conductances",,,,
+q-bio/0601037,Optimal Dynamical Range of Excitable Networks at Criticality,,,,
+q-bio/0601038,Quantifying the information transmitted in a single stimulus,,,,
+q-bio/0602010,"On the use of analytic expressions for the voltage distribution to
+  analyze intracellular recordings",,,,
+q-bio/0602014,Self-Organized Criticality model for Brain Plasticity,,,,
+q-bio/0602026,"Instability of synchronized motion in nonlocally coupled neural
+  oscillators",,,,
+q-bio/0603014,Grandmother cells and the storage capacity of the human brain,,,,
+q-bio/0603022,"Ecosystems in the Mind: Fuzzy Cognitive Maps of the Kizilirmak Delta
+  Wetlands in Turkey",,,,
+q-bio/0603035,Synchronization in Electrically Coupled Neural Networks,,,,
+q-bio/0604018,Algorithms for identification and categorization,,,,
+q-bio/0604020,Chaotic hopping between attractors in neural networks,,,,
+q-bio/0605010,"Chaotic itinerancy, temporal segmentation and spatio-temporal
+  combinatorial codes",,,,
+q-bio/0605012,"Stable Propagation of a Burst Through a One-Dimensional Homogeneous
+  Excitatory Chain Model of Songbird Nucleus HVC",,,,
+q-bio/0605019,Episodic synchronization in dynamically driven neurons,,,,
+q-bio/0605022,Theory of Interaction of Memory Patterns in Layered Associative Networks,,,,
+q-bio/0606005,"Triangular lattice neurons may implement an advanced numeral system to
+  precisely encode rat position over large ranges",,,,
+q-bio/0606008,"Relevance of Quantum Mechanics in Circuit Implementation of Ion channels
+  in Brain Dynamics",,,,
+q-bio/0606019,Scaling law for the transient behavior of type-II neuron models,,,,
+q-bio/0607006,Temporal differentiation and the optimization of system output,,,,
+q-bio/0607013,"Pushing it to the Limit: Adaptation With Dynamically Switching Gain
+  Control",,,,
+q-bio/0607017,Synergy from Silence in a Combinatorial Neural Code,,,,
+q-bio/0607031,"From systems biology to dynamical neuropharmacology: proposal for a new
+  methodology",,,,
+q-bio/0608023,"Learning with incomplete information - and the mathematical structure
+  behind it",,,,
+q-bio/0608026,"Does the 1/f frequency-scaling of brain signals reflect self-organized
+  critical states?",,,,
+q-bio/0608034,"Frequency decomposition of conditional Granger causality and application
+  to multivariate neural field potential data",,,,
+q-bio/0609030,"Calculating event-triggered average synaptic conductances from the
+  membrane potential",,,,
+q-bio/0609034,"Evolution of cooperation and communication skills as a consequence of
+  environment fluctuations",,,,
+q-bio/0610019,Correlation entropy of synaptic input-output dynamics,,,,
+q-bio/0611002,"Coding static natural images using spiking event times: do neurons
+  cooperate?",,,,
+q-bio/0611003,Feature detection using spikes: the greedy approach,,,,
+q-bio/0611012,Mind model seems necessary for the emergence of communication,,,,
+q-bio/0611017,Physics of Psychophysics: it is critical to sense,,,,
+q-bio/0611030,"Attentional modulation in layer 4 of the visual cortex could be mediated
+  by interneurons with complex receptive field characteristics",,,,
+q-bio/0611040,"Capacitance fluctuations causing channel noise reduction in stochastic
+  Hodgkin-Huxley systems",,,,
+q-bio/0611064,"Frequency and phase synchronization of two coupled neurons with channel
+  noise",,,,
+q-bio/0611072,Ising models for networks of real neurons,,,,
+q-bio/0611089,"Simulation of networks of spiking neurons: A review of tools and
+  strategies",,,,
+q-bio/0612001,"Face Recognition in the Machine Reveals Properties of Human Face
+  Recognition",,,,
+q-bio/0612014,The astrocyte as a gatekeeper of synaptic information transfer,,,,
+q-bio/0612036,How behavioral constraints may determine optimal sensory representations,,,,
+q-bio/0612049,"Neuronal networks and controlled symmetries, a generic framework",,,,
+q-bio/0701017,Speculations on the emergence of self-awareness in big-brained organisms,,,,
+q-bio/0701022,High level modeling of tonic dopamine mechanisms in striatal neurons,,,,
+q-bio/0701042,Stochastic dynamics of a finite-size spiking neural network,,,,
+q-bio/0701047,"Many Attractors, Long Chaotic Transients, and Failure in Small-World
+  Networks of Excitable Neurons",,,,
+q-bio/0702019,"Corticothalamic projections control synchronization in locally coupled
+  bistable thalamic oscillators",,,,
+q-bio/0702052,Topological coding in hippocampus,,,,
+q-bio/0703004,Excitable Scale Free Networks,,,,
+q-bio/0703018,The functional structure of cortical neuronal networks grown in vitro,,,,
+q-bio/0703037,"Universal properties of correlation transfer in integrate-and-fire
+  neurons",,,,
+q-bio/0703046,Neural Decision Boundaries for Maximal Information Transmission,,,,
+quant-ph/0602144,Self-Reduction Rate of a Microtubule,,,,

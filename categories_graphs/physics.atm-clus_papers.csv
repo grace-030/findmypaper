@@ -1,0 +1,759 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+hep-ph/0611013,Ionic Binding in a Susy Background,1.491456713626023e-05,0.0,6.0,0.0
+nucl-th/0502039,Naive Dimensional Analysis for Three-Body Forces Without Pions,1.4630625923931e-05,5.029806370512393e-05,5.0,8.0
+quant-ph/0209119,A Renormalisation Approach to Effective Interactions in Hilbert Space,1.0349110012197376e-05,1.3251297716090763e-06,4.0,3.0
+hep-th/0505005,"New Directions in Non-Relativistic and Relativistic Rotational and
+  Multipole Kinematics for N-Body and Continuous Systems",9.66362106309618e-06,4.2547158944789535e-09,13.0,4.0
+physics/0512085,Large-N droplets in two dimensions,8.64232686948462e-06,9.890762611574046e-09,10.0,2.0
+nucl-th/0511039,How To Classify 3-Body Forces -- And Why,7.998803084004859e-06,0.0,5.0,0.0
+cond-mat/9905407,The Dynamics of Structural Transitions in Sodium Chloride Clusters,7.792391649233983e-06,0.0,5.0,0.0
+physics/9910016,Binding Energies and Scattering Observables in the 4^He_3 Atomic System,7.20062767979354e-06,1.1941096530960432e-05,9.0,7.0
+cond-mat/9808265,The double-funnel energy landscape of the 38-atom Lennard-Jones cluster,6.974654439285102e-06,0.0,7.0,2.0
+physics/0512035,Scattering length for helium atom-diatom collision,6.808404884296969e-06,0.0,2.0,0.0
+quant-ph/0503046,"Effect of phase relaxation on quantum superpositions in complex
+  collisions",6.345725781886271e-06,2.985274132740108e-06,2.0,3.0
+physics/0610214,"Ultracold atom-molecule collisions and bound states in magnetic fields:
+  tuning zero-energy Feshbach resonances in He-NH (3Sigma-)",5.729162451675133e-06,0.0,3.0,0.0
+cond-mat/0411144,"Characterizing the network topology of the energy landscapes of atomic
+  clusters",5.536177120501641e-06,6.028505387227953e-07,8.0,1.0
+physics/9901016,How harmonic is dipole resonance of metal clusters?,5.209308199805078e-06,0.0,2.0,1.0
+physics/0511238,"Explicit Representations for the T-Matrix on Unphysical Energy Sheets
+  and Resonances in Two- and Three-Body Systems",4.785928664261176e-06,0.0,4.0,1.0
+hep-th/0011014,"Dynamical Body Frames, Orientation-Shape Variables and Canonical Spin
+  Bases for the Non-Relativistic N-Body Problem",4.768204611872719e-06,0.0,5.0,11.0
+cond-mat/9903305,"Evolution of the Potential Energy Surface with Size for Lennard-Jones
+  Clusters",4.708638468522879e-06,0.0,1.0,3.0
+physics/0304048,The ^3He^4He_2$ trimer within the hard-core Faddeev approach,4.539766417224396e-06,0.0,5.0,0.0
+physics/0505131,"Long range intermolecular forces in triatomic systems: connecting the
+  atom-diatom and atom-atom-atom representations",4.4362403791882124e-06,0.0,1.0,1.0
+physics/0408019,Scattering length of the helium atom - helium dimer collision,4.425140402869522e-06,0.0,6.0,1.0
+physics/9810005,Scattering and resonances in the ^4He three-atomic system,4.409413469492901e-06,0.0,6.0,2.0
+cond-mat/0312202,Correlations in noisy Landau-Zener transitions,4.283288964980243e-06,0.0,1.0,1.0
+physics/0203019,Scissors modes in triaxial metal clusters,4.278670187138834e-06,0.0,1.0,0.0
+physics/0208080,Linking Ultracold Polar Molecules,4.18009309532364e-06,0.0,2.0,1.0
+cond-mat/0210095,Two-body correlations in N-body boson systems,4.076591341755463e-06,0.0,1.0,0.0
+nucl-th/9811046,The Three-Boson System with Short-Range Interactions,4.021959119276198e-06,1.5787161563096706e-05,22.0,39.0
+cond-mat/0501510,"Factorization in Break-up and Recombination Processes for Atoms with a
+  Large Scattering Length",3.813329961767304e-06,0.0,2.0,0.0
+cond-mat/0210448,"Comment on: ``Nonextensivity: from low-dimensional maps to Hamiltonian
+  systems'' by Tsallis et al",3.805822199063416e-06,0.0,5.0,2.0
+cond-mat/0108310,"Saddle Points and Dynamics of Lennard-Jones Clusters, Solids and
+  Supercooled Liquids",3.8019590689851e-06,6.809453792245518e-05,4.0,3.0
+physics/9612012,Three-Body Configuration Space Calculations with Hard Core Potentials,3.791047263525046e-06,0.0,4.0,6.0
+cond-mat/0612123,Efimov Physics in Cold Atoms,3.70729045688924e-06,3.219956634914e-07,5.0,2.0
+cond-mat/0306387,"Fragmentation of multiply charged simple metal clusters in liquid-drop
+  stabilized jellium model",3.62335329328243e-06,0.0,2.0,0.0
+physics/0110057,Electric multipole plasmons in deformed sodium clusters,3.62335329328243e-06,0.0,2.0,1.0
+cond-mat/0108375,Mechanism of Magnetism in Stacked Nanographite,3.49912997646896e-06,0.0,2.0,0.0
+physics/0703177,"On the occurrence of Balmer spectra in expanding microplasmas from laser
+  irradiated liquid hydrogen",3.49912997646896e-06,0.0,2.0,0.0
+physics/0308090,"Binding Energies and Scattering Observables in the ^3He^4He_2 Atomic
+  System",3.387556256114109e-06,0.0,4.0,0.0
+cond-mat/9802034,Classical Many-particle Clusters in Two Dimensions,3.307094949617245e-06,0.0,2.0,4.0
+cond-mat/9806020,Thermodynamics and the Global Optimization of Lennard-Jones clusters,3.1307257482540787e-06,0.0,2.0,2.0
+cond-mat/9801152,Structural Transitions and Global Minima of Sodium Chloride Clusters,3.1307257482540787e-06,0.0,2.0,2.0
+cond-mat/9711213,"Interaction-Driven Equilibrium and Statistical Laws in Small Systems.
+  The Cerium Atom",3.095079115793552e-06,0.0,1.0,2.0
+physics/0506215,Laser-cluster interaction: x-ray production by short laser pulses,3.0472482127272877e-06,0.0,2.0,0.0
+cond-mat/0108179,Effective action and density functional theory,2.9375139116691645e-06,0.0,3.0,5.0
+physics/0202049,"Toroidal configuration of the orbit of the electron of the hydrogen atom
+  under strong external magnetic fields",2.923429915274331e-06,0.0,2.0,0.0
+cond-mat/0112018,Entropic effects on the structure of Lennard-Jones clusters,2.759195672449716e-06,0.0,2.0,0.0
+physics/0109068,"The $^4$He tetramer ground state in the Faddeev-Yakubovsky differential
+  equations formalism",2.7274069794651544e-06,0.0,2.0,0.0
+cond-mat/0007338,Physical perspectives on the global optimization of atomic clusters,2.697084014042981e-06,0.0,2.0,0.0
+physics/0308004,Low-energy quadrupole modes in deformed clusters,2.689899798187394e-06,0.0,1.0,0.0
+physics/0606102,"Exploration of electronic quadrupole states in atomic clusters by
+  two-photon processes",2.689899798187394e-06,0.0,1.0,0.0
+physics/0009035,"Binding Energies and Scattering Observables in the 4Helium3 Atomic
+  System",2.531587501299412e-06,0.0,2.0,0.0
+physics/0301036,Temperature-induced pair correlations in clusters and nuclei,2.49094608549746e-06,0.0,2.0,0.0
+physics/9810006,"Structure of T- and S-matrices in unphysical sheets and resonances in
+  three-body systems",2.485970682320325e-06,0.0,4.0,1.0
+physics/0310166,Small rare gas clusters in XUV laser pulses,2.4711431321721443e-06,0.0,2.0,0.0
+cond-mat/0212281,Making sense of nanocrystal lattice fringes,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0103003,Quantum fluid-dynamics from density functional theory,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0403060,"Silicon clusters produced by femtosecond laser ablation: Non-thermal
+  emission and gas-phase condensation",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0301064,Localized helium excitations in 4He_N-benzene clusters,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0301039,"Two Avenues to Self-Interaction Correction within Kohn-Sham Theory:
+  Unitary Invariance is the Shortcut",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0211027,"Evolution of electronic and ionic structure of Mg-clusters with the
+  growth cluster size",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0107191,Crystallographic Method for Exact Describing Quasicrystal Structures,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/9807011,Pair-correlations and magnetic susceptibility of small Al-grains,2.4711431321721443e-06,0.0,1.0,2.0
+physics/0511034,"Finite size effects in the dynamics and thermodynamics of 2D Coulomb
+  clusters",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0302078,Negative heat capacity of sodium clusters,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0410027,Low-energy excitations of a linearly Jahn-Teller coupled orbital quintet,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0508157,"Exact exchange optimized effective potential and self-compression of
+  stabilized jellium clusters",2.4711431321721443e-06,0.0,1.0,0.0
+physics/9706040,"Time-Dependent Local Density Approximation for Collective Excitations of
+  Atomic Clusters",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0404096,"Weakly nonlinear vertical dust grain oscillations in dusty plasma
+  crystals in the presence of a magnetic field",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0109029,Positronium scattering by atoms and molecules at low energies,2.4711431321721443e-06,0.0,1.0,0.0
+nucl-th/9811028,Fermionic and Bosonic Bubbles and Foam,2.4711431321721443e-06,0.0,1.0,5.0
+cond-mat/0604255,The Three-Boson System at Next-To-Next-To-Leading Order,2.4148940719193816e-06,4.261583185923341e-06,2.0,7.0
+physics/0506159,"First principles electron transport: finite-element implementation for
+  nanostructures",2.3642110433836806e-06,7.4260550565674335e-09,1.0,1.0
+physics/0209025,Scaling limit of virtual states of triatomic systems,2.3486555497258798e-06,0.0,1.0,0.0
+physics/0206058,Ultra-low energy elastic scattering in a system of three He atoms,2.27910810532043e-06,0.0,2.0,0.0
+nucl-th/0012047,"Comment on ""Negative heat ..."" by Moretto et al",2.2377003330492736e-06,0.0,2.0,0.0
+cond-mat/0012333,Polytetrahedral Clusters,2.120978933487838e-06,0.0,1.0,0.0
+physics/0303031,Scaling predictions for radii of weakly bound triatomic molecules,2.120978933487838e-06,0.0,1.0,1.0
+cond-mat/0205040,"Internal Space Renormalization Group Methods for Atomic and Condensed
+  Matter Physics",2.0815089879057336e-06,5.786595415615415e-06,4.0,1.0
+cond-mat/0505450,A New Thermodynamics from Nuclei to Stars III,2.0731277190413432e-06,0.0,3.0,1.0
+cond-mat/0201430,"The network topology of a potential energy landscape: A static
+  scale-free network",2.070794094528149e-06,3.980365510320144e-06,3.0,2.0
+quant-ph/0401154,Optimal Database Search: Waves and Catalysis,2.028086997545696e-06,0.0,6.0,4.0
+cond-mat/9707100,"Fragmentation Phase Transition in Atomic Clusters IV -- Liquid-gas
+  transition in finite metal clusters and in the bulk --",1.9919356963017617e-06,0.0,2.0,14.0
+cond-mat/0107028,Quantized vortices in mixed 3He-4He drops,1.921564093680211e-06,0.0,2.0,0.0
+physics/0403016,"Small rare gas clusters in laser fields: ionisation and absorption at
+  long and short laser wavelengths",1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/0412052,Energetics of metal slabs and clusters: the rectangle-box model,1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/0012349,Mechanism of Magnetism in Stacked Nanographite: Theoretical Study,1.8950380516170012e-06,0.0,1.0,1.0
+physics/0603006,A versatile electrostatic trap,1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/0205374,The favoured cluster structures of model glass formers,1.8950380516170012e-06,0.0,1.0,4.0
+cond-mat/0011018,Global Optimization and the Energy Landscapes of Dzugutov Clusters,1.8950380516170012e-06,0.0,1.0,2.0
+cond-mat/0505363,"Hyperpolarizabilities for the one-dimensional infinite single-electron
+  periodic systems: I. Analytical solutions under dipole-dipole correlations",1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/0505364,"Hyperpolarizabilities for the one-dimensional infinite single-electron
+  periodic systems: II. Dipole-dipole versus current-current correlations",1.8950380516170012e-06,0.0,1.0,0.0
+physics/0005053,"An orbital-free molecular dynamics study of melting in K_20, K_55, K_92,
+  K_142, Rb_55 and Cs_55 clusters",1.8950380516170012e-06,0.0,1.0,0.0
+physics/0005045,Melting behavior of large disordered sodium clusters,1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/0012088,"An SU(4) Model of High-Temperature Superconductivity and
+  Antiferromagnetism",1.887874440082504e-06,0.0,1.0,0.0
+cond-mat/9911257,"Phase Transitions in ""Small"" systems",1.839660382020978e-06,0.0,3.0,6.0
+physics/0505029,The spectra of mixed $^3$He-$^4$He droplets,1.7383727857482604e-06,0.0,1.0,0.0
+nucl-th/9809025,Renormalization of the Three-Body System with Short-Range Interactions,1.730304267979745e-06,1.026459181926634e-05,4.0,56.0
+nucl-th/9902011,Shell correction energy for bubble nuclei,1.7301277087805848e-06,0.0,1.0,2.0
+cond-mat/0207432,The structure of small lead clusters,1.719955952274848e-06,0.0,1.0,0.0
+cond-mat/0301374,A model metal potential exhibiting polytetrahedral clusters,1.719955952274848e-06,0.0,1.0,0.0
+quant-ph/0412112,Renormalization of the singular attractive $1/r^4$ potential,1.7071420539591506e-06,0.0,1.0,0.0
+physics/0611171,On search for nuclear Schiff moment in liquid xenon,1.703003024765287e-06,0.0,1.0,0.0
+physics/0410025,Triatomic Molecular Systems and Three-body forces: The Ar_3 case,1.703003024765287e-06,0.0,1.0,0.0
+physics/0606120,A note about the ground state of the hydrogen molecule,1.703003024765287e-06,0.0,1.0,0.0
+physics/0507031,Differential Form of the Skornyakov--Ter-Martirosyan Equations,1.703003024765287e-06,0.0,1.0,0.0
+cond-mat/0002364,"Formation and control of electron molecules in artificial atoms:
+  Impurity and magnetic-field effects",1.703003024765287e-06,0.0,1.0,1.0
+physics/0412174,"Single-Particle Green Function Approach and Correlated Atomic or
+  Molecular Orbitals",1.703003024765287e-06,0.0,1.0,1.0
+physics/0109037,"Semiclassical analysis of the lowest-order multipole deformations of
+  simple metal clusters",1.703003024765287e-06,0.0,1.0,0.0
+physics/0303100,"Impact of Interatomic Electronic Decay Processes on Xe 4d Hole Decay in
+  the Xenon Fluorides",1.6990994447933085e-06,0.0,1.0,4.0
+cond-mat/9707016,"Statistical Theory of Finite Fermi-Systems Based on the Structure of
+  Chaotic Eigenstates",1.6754723489017648e-06,0.0,1.0,7.0
+cond-mat/0608250,Quantum fluids of self-assembled chains of polar molecules,1.66195931361303e-06,0.0,1.0,1.0
+cond-mat/0701760,Chiral Gauge Theory for Graphene,1.60698551133943e-06,0.0,1.0,0.0
+physics/0701215,"Electrostatic interaction energies of homogeneous cubic charge
+  distributions",1.60698551133943e-06,0.0,1.0,0.0
+physics/0512061,Electronic excitations in atomic clusters: beyond dipole plasmon,1.5980531366768588e-06,0.0,1.0,1.0
+physics/0212084,"Orbital magnetism in axially deformed sodium clusters: From scissors
+  mode to dia-para magnetic anisotropy",1.5980531366768588e-06,0.0,1.0,1.0
+physics/9808027,"On the mechanism of formation of the Efimov states in the helium ^4He
+  trimer",1.4835344226490424e-06,0.0,1.0,7.0
+physics/0407112,"Optimizing the photoassociation of cold atoms by use of chirped laser
+  pulses",1.4629592412006444e-06,0.0,1.0,0.0
+cond-mat/0107007,"Short-Range Correlations in He-4 Liquid and Small He-4 Droplets
+  described by the Unitary Correlation Operator Method",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0310123,Small rare gas clusters in soft X-ray pulses,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0403134,"Ab initio determination of the lifetime of the $6^2P_{3/2}$ state f or
+  $^{207}Pb^+$ by relativistic many-body theory",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0501053,"Wave-Function Reconstruction for the Determination of the Scattering
+  Length of Sr",1.3189329710618589e-06,0.0,0.0,2.0
+physics/9904017,A Variety of Giant Resonances in Metal Clusters,1.3189329710618589e-06,0.0,0.0,1.0
+nucl-th/0406056,Partial energies fluctuations and negative heat capacities,1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/0010043,Mechanism of magnetism in stacked nanographite: Theoretical study,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0204025,"Bound State Calculations for Three Atoms Without Explicit Partial Wave
+  Decomposition",1.3189329710618589e-06,0.0,0.0,3.0
+physics/9811023,Prismane C_8: A New Form of Carbon?,1.3189329710618589e-06,0.0,0.0,4.0
+physics/9807002,Super Shell Structure of the Magnetic Susceptibility,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0404028,"Photoassociation of cold atoms with chirped laser pulses: time-dependent
+  calculations and analysis of the adiabatic transfer within a two-state model",1.3189329710618589e-06,0.0,0.0,8.0
+cond-mat/0001066,The effect of compression on the global optimization of atomic clusters,1.3189329710618589e-06,0.0,0.0,2.0
+physics/9806020,The structure of the atomic helium trimers: Halos and Efimov states,1.3189329710618589e-06,0.0,0.0,7.0
+physics/9808015,"Application of the time-dependent local-density approximation to
+  conjugated molecules",1.3189329710618589e-06,0.0,0.0,2.0
+physics/9901008,Cluster ionization via two-plasmon excitation,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9903049,"Orbital Magnetic Dipole Mode in Deformed Clusters: A Fully Microscopic
+  Analysis",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0505307,"Breaking of the overall permutation symmetry in nonlinear optical
+  susceptibilities of one-dimensional periodic dimerized Huckel model",1.3189329710618589e-06,0.0,0.0,2.0
+physics/9911042,"Melting in large sodium clusters: An orbital-free molecular dynamics
+  study",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0012370,Fractional Electrons in Liquid Helium?,1.3189329710618589e-06,0.0,0.0,6.0
+physics/0104058,Metastability of the Three-Dimensional Carbon Cluster Prismane C$_8$,1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/9801008,"Anomalous diffusion as a signature of collapsing phase in two
+  dimensional self-gravitating systems",1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/0012498,"Quantization of Thermodynamics, Supersecondary Quantization, and a New
+  Variational Principle",1.3189329710618589e-06,0.0,0.0,1.0
+astro-ph/0010138,"Aromatic Hydrocarbons, Diamonds, and Fullerenes in Interstellar Space:
+  Puzzles to be Solved by Laboratory and Theoretical Astrochemistry",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0010025,"Photoabsorption spectra in the continuum of molecules and atomic
+  clusters",1.3189329710618589e-06,0.0,0.0,1.0
+nucl-th/0308072,Radii of weakly bound three-body systems: halo nuclei and molecules,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0307058,Xenon Clusters in Intense VUV Laser Fields,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9904019,Exact Quantum Solutions of Extraordinary N-body Problems,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0511231,"Statistical Mechanics of Dynamical Systems With Topological Phase
+  Transitions",1.3189329710618589e-06,0.0,0.0,1.0
+nucl-th/0102018,Casimir Interaction among Objects Immersed in a Fermionic Environment,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0611085,A Low-Noise High-Density Alkali Metal Scalar Magnetometer,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0108499,Mechanism of magnetism in stacked nanographite with open shell electrons,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0303029,"Binding energy of the ^3He^4He_2 trimer within the hard-core Faddeev
+  approach",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0106027,"I-V characteristics and differential conductance fluctuations of Au
+  nanowires",1.3189329710618589e-06,0.0,0.0,1.0
+physics/9909037,Carbon clusters near the crossover to fullerene stability,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9909006,"Density-functional Study of Small Molecules within the
+  Krieger-Li-Iafrate Approximation",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0212160,"Quantum size correction to the work function and the centroid of excess
+  charge in positively ionized simple metal clusters",1.3189329710618589e-06,0.0,0.0,1.0
+physics/9905053,"Alternative sets of hyperspherical harmonics: Satisfying cusp conditions
+  through frame transformations",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0306058,Variational RPA for the Mie resonance in jellium,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0305600,"Stabilized jellium model and structural relaxation effects on the
+  fragmentation energies of ionized silver clusters",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0310073,"Ionization of clusters in intense laser pulses through collective
+  electron dynamics",1.3189329710618589e-06,0.0,0.0,1.0
+nucl-th/9802083,New collective mode due to collisional coupling,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0306102,"Dynamics in a cluster under the influence of intense femtosecond hard
+  x-ray pulses",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0101069,Structure and Magnetism of Neutral and Anionic Palladium Clusters,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0105050,Energetic photoionization of neutral and ionic metal clusters,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0509334,Melting of aluminium clusters,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0311116,Cluster emission under femtosecond laser ablation of silicon,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0212426,"Simple iterative construction of the optimized effective potential for
+  orbital functionals, including exact exchange",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0406094,Fission of charged alanine dipeptides,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0207068,Melting of sodium clusters,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0406093,"Conformational properties of neutral and charged alanine and glycine
+  chains",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0508115,"Self-consistent iterative solution of the exchange-only OEP equations
+  for simple metal clusters in jellium model",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0207085,"On the applicability of jellium model to the description of alkali
+  clusters",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0412066,"Bond-order correlation energies for small Si-containing molecules
+  compared with ab initio results from low-order Moller-Plesset perturbation
+  theory",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0612161,"Theory of Small Para-Hydrogen Clusters: Magic Numbers and Superfluid
+  Sizes",1.3189329710618589e-06,0.0,0.0,1.0
+physics/9904037,High-quality variational wave functions for small 4He clusters,1.3189329710618589e-06,0.0,0.0,1.0
+nucl-th/0502069,"Multifragmentation, Clustering, and Coalescence in Nuclear Collisions",1.3189329710618589e-06,0.0,0.0,2.0
+astro-ph/0609186,"Formation and destruction of polycyclic aromatic hydrocarbon clusters in
+  the interstellar medium",,,,
+astro-ph/9807185,"Chaotic scattering on surfaces and collisional damping of collective
+  modes",,,,
+cond-mat/0001361,"Numerical Solution of the Two-Dimensional Gross-Pitaevskii Equation for
+  Trapped Interacting Atoms",,,,
+cond-mat/0003152,Hydrodynamic approach to TDDFT; response properties of metal clusters,,,,
+cond-mat/0003164,Classical mechanics technique for quantum linear response,,,,
+cond-mat/0003272,"Impurity Scattering in Carbon Nanotubes with Superconducting Pair
+  Correlations",,,,
+cond-mat/0010030,Twist Mode in Spherical Alkali Metal Clusters,,,,
+cond-mat/0010141,Volume change of bulk metals and metal clusters due to spin-polarization,,,,
+cond-mat/0010462,New type of antiferromagnetic state in stacked nanographite,,,,
+cond-mat/0011466,Entropic effects on the Size Evolution of Cluster Structure,,,,
+cond-mat/0012202,Multiply charged metal cluster anions,,,,
+cond-mat/0106637,Modelling the structure of clusters of C_60 molecules,,,,
+cond-mat/0109075,"Optical excitations in diphenylacetylene based dendrimers studied by a
+  coupled exciton model with off-diagonal disorder",,,,
+cond-mat/0109076,"Propagation of Cooper pairs in carbon nanotubes with superconducting
+  correlations",,,,
+cond-mat/0112023,Selected aspects of physics of fermionic bubbles,,,,
+cond-mat/0203125,"Deformed Harmonic Oscillators for Metal Clusters: Analytic Properties
+  and Supershells",,,,
+cond-mat/0204213,"Thermal quenching of electronic shells and channel competition in
+  cluster fission",,,,
+cond-mat/0207566,Surface-reconstructed Icosahedral Structures for Lead Clusters,,,,
+cond-mat/0208323,Novel electronic wave interference patterns in nanographene sheets,,,,
+cond-mat/0212167,Alkali-metal ion in rare gas clusters: global minima,,,,
+cond-mat/0302111,"Taming the rugged energy landscape: Techniques for the production,
+  reordering, and stabilization of selected cluster inherent structures",,,,
+cond-mat/0303396,"Optimized Effective Potential made simple: Orbital functionals, orbital
+  shifts, and the exact Kohn-Sham exchange potential",,,,
+cond-mat/0306225,Identifying structural patterns in `disordered' metal clusters,,,,
+cond-mat/0306301,"Electronic structure and rebonding in the onion-like As@Ni12@As20
+  cluster",,,,
+cond-mat/0309085,"Comment on ``Strontium clusters: Many-body potential, energetics, and
+  structural transitions'' [J. Chem. Phys. 115, 3640 (2001)]",,,,
+cond-mat/0312238,"Modified Statistical Treatment of Kinetic Energy in the Thomas-Fermi
+  Model",,,,
+cond-mat/0312291,Triatomic continuum resonances for large negative scattering lengths,,,,
+cond-mat/0312335,"Nanoscale Quantum Solvation of para-H$_2$ around the Linear OCS Molecule
+  inside $^4$He Droplets",,,,
+cond-mat/0404092,Phosphorus cluster production by laser ablation,,,,
+cond-mat/0405234,"Lead clusters: different potentials, different structures",,,,
+cond-mat/0406251,Production of Gas Phase Zinc Oxide Nanoclusters by Pulsed Laser Ablation,,,,
+cond-mat/0502074,"SU(4) Model of High-Temperature Superconductivity: Manifestation of
+  Dynamical Symmetry in Cuprates",,,,
+cond-mat/0504726,Mapping the magic numbers in binary Lennard-Jones clusters,,,,
+cond-mat/0506329,"Geometric magic numbers of sodium clusters: Interpretation of the
+  melting behaviour",,,,
+cond-mat/0510205,Electron-phonon coupling as an order-one problem,,,,
+cond-mat/0603312,Lattice fringe signatures of epitaxy on nanotubes,,,,
+cond-mat/0604250,"The structure of binary Lennard-Jones clusters: The effects of atomic
+  size ratio",,,,
+cond-mat/0606093,Unlayered graphenes in red-giant starsmoke,,,,
+cond-mat/0609165,"Molecular dynamics simulations of palladium cluster growth on flat and
+  rough graphite surfaces",,,,
+cond-mat/9604113,Electronic Structures in C60-Polymers (review),,,,
+cond-mat/9705028,"Stabilized Spin-Polarized Jellium Model and Odd-Even Alternations in
+  Jellium Metal Clusters",,,,
+cond-mat/9707328,Van der Waals Energies in Density Functional Theory,,,,
+cond-mat/9709201,"Structural Consequences of the Range of the Interatomic Potential: a
+  Menagerie of Clusters",,,,
+cond-mat/9709341,Rough droplet model for spherical metal clusters,,,,
+cond-mat/9710034,The onset of a liquid-vapour transition in metallic nanoparticles,,,,
+cond-mat/9711038,"Global Minima for Transition Metal Clusters Described by Sutton-Chen
+  Potentials",,,,
+cond-mat/9802143,"Long-range excitons in conjugated polymers with ring torsions:
+  poly(para-phenylene) and polyaniline",,,,
+cond-mat/9802144,"Coulomb interaction effects on nonlinear optical response in C60, C70,
+  and higher fullerenes",,,,
+cond-mat/9803344,"Global Optimization by Basin-Hopping and the Lowest Energy Structures of
+  Lennard-Jones Clusters Containing up to 110 Atoms",,,,
+cond-mat/9806021,"Microscopic description of the surface dipole plasmon in large Na_N
+  clusters (950 < N < 12050)",,,,
+cond-mat/9806089,"Molecular dynamics in shape space and femtosecond vibrational
+  spectroscopy of metal clusters",,,,
+cond-mat/9806167,d-electron induced icosahedral growth in strontium clusters,,,,
+cond-mat/9808289,"Formation of Clusters of Interstitial Carbon Atoms in Graphite due to
+  Deformation Interaction and their Spatial Arrangement",,,,
+cond-mat/9811126,Coupling between electron-spin and ferromagnetic clusters,,,,
+cond-mat/9901174,Molecular Chirality and Chiral Parameters,,,,
+cond-mat/9909384,"Finite-size effects and the stabilized spin-polarized jellium model for
+  metal clusters",,,,
+hep-ex/0411057,"Marked influence of the nature of chemical bond on CP-violating
+  signature in molecular ions $\mathrm{HBr}^{+}$ and $\mathrm{HI}^{+}$",,,,
+nlin/0606041,"Clusters die hard: Time-correlated excitation in the Hamiltonian Mean
+  Field model",,,,
+nucl-th/0003011,SU(3) Symmetry and Scissors Mode Vibrations in Nuclei,,,,
+nucl-th/0011009,Squeezing mode in nuclear collisions,,,,
+nucl-th/0311073,Gross shell structure at high spin in heavy nuclei,,,,
+nucl-th/9904073,Tri-axial Octupole Deformations and Shell Structure,,,,
+physics/0001024,"Scattering of positronium by H, He, Ne, and Ar",,,,
+physics/0001032,"Decay channels and appearance sizes of doubly anionic gold and silver
+  clusters",,,,
+physics/0002051,"Thermal expansion in small metal clusters and its impact on the electric
+  polarizability",,,,
+physics/0003042,"Electron correlation in C_(4N+2) carbon rings: aromatic vs. dimerized
+  structures",,,,
+physics/0003076,Nonlinear Modes of Liquid Drops as Solitary Waves,,,,
+physics/0003077,"Patterns on liquid surfaces: cnoidal waves, compactons and scaling",,,,
+physics/0004020,"CTMC calculations of electron capture and ionization in collisions of
+  multiply charged ions with elliptical Rydberg atoms",,,,
+physics/0004041,"Structures and Stabilities of CaO and MgO Clusters and Cluster Ions: An
+  alternative interpretation of the experimental mass spectra",,,,
+physics/0004066,"A transferable nonorthogonal tight-binding model of germanium:
+  application to small clusters",,,,
+physics/0007018,Ionic and electronic structure of sodium clusters up to N=59,,,,
+physics/0008235,Emergence of Bulk CsCl Structure in (CsCl)nCs+ Cluster Ions,,,,
+physics/0009011,"Orientational melting of two-shell carbon nanoparticles: molecular
+  dynamics study",,,,
+physics/0010066,"Optimization of ground and excited state wavefunctions and van der Waals
+  clusters",,,,
+physics/0011063,"Thermodynamics of Na_8 and Na_{20} clusters studied with ab-initio
+  electronic structure methods",,,,
+physics/0011068,Fast and stable method for simulating quantum electron dynamics,,,,
+physics/0011069,"Finite element approach for simulating quantum electron dynamics in a
+  magnetic field",,,,
+physics/0011070,"Time dependent energy absorption of atomic clusters from an intense
+  laser pulse",,,,
+physics/0012037,"Differential and partial cross sections of elastic and inelastic
+  positronium-helium-atom scattering",,,,
+physics/0012039,Positronium atom scattering by H_2 in a coupled-channel framework,,,,
+physics/0012040,"Differential cross sections for elastic and inelastic
+  positronium-hydrogen-atom scattering",,,,
+physics/0101043,"Quantum Evolution Supergenerator of Superparamagnetic System in Discrete
+  Orientation Model",,,,
+physics/0101092,"An Ab Initio Study of the Structures and Relative Stabilities of Doubly
+  Charged [(NaCl)m(Na)2]2+ Cluster Ions",,,,
+physics/0102037,"Equilibrium sizes of jellium metal clusters in the stabilized
+  spin-polarized jellium model",,,,
+physics/0102069,Trial function optimization for excited states of van der Waals clusters,,,,
+physics/0103017,Resonant radiation pressure on neutral particles in a waveguide,,,,
+physics/0103032,"Spurious oscillations from local self-interaction correction in high
+  energy photoionization calculations for metal clusters",,,,
+physics/0103035,"S-, P- and D-wave resonances in positronium-sodium and
+  positronium-potassium scattering",,,,
+physics/0104037,Resonances in positronium-rubidium and positronium-cesium scattering,,,,
+physics/0104071,"Adsorption of CO on a Platinum (111) surface - a study within a
+  four-component relativistic density functional approach",,,,
+physics/0105001,S-matrix poles and the second virial coefficient,,,,
+physics/0105014,"Two-step Liquid Drop Model for Binary, Metal-rich Clusters",,,,
+physics/0105033,Visualization of Coulomb Correlations in Finite Metallic Systems,,,,
+physics/0105041,"Analytical Expressions for a Hyperspherical Adiabatic Basis Three
+  Particles in 2 Dimensions",,,,
+physics/0105061,"Relaxation dynamics in the presence of unequally spaced attractors along
+  the reaction coordinate",,,,
+physics/0105073,"On the proximity relation between two surface-melted clusters involved
+  in inter-cluster mass-transfer",,,,
+physics/0105078,"Photoabsorption Spectra of Na_n+ clusters: Thermal Line-Broadening
+  Mechanisms",,,,
+physics/0105098,"Unified description of magic numbers of metal clusters in terms of the
+  3-dimensional q-deformed harmonic oscillator",,,,
+physics/0106030,Charge-Induced Fragmentation of Sodium Clusters,,,,
+physics/0106044,"C$_{60}$ in intense femtosecond laser pulses: nonlinear dipole response
+  and ionization",,,,
+physics/0106092,Multipole response of doped $^3$He drops,,,,
+physics/0107013,"Magic number behavior for heat capacities of medium sized classical
+  Lennard-Jones clusters",,,,
+physics/0107056,"Variational description of the Helium trimer using correlated
+  hyperspherycal harmonic basis functions",,,,
+physics/0108071,Collectivity in the optical response of small metal clusters,,,,
+physics/0109004,Importance Sampling in Rigid Body Diffusion Monte Carlo,,,,
+physics/0109028,Statics and dynamics of phase segregation in multicomponent fermion gas,,,,
+physics/0110072,Can optical spectroscopy directly elucidate the ground state of C20?,,,,
+physics/0112011,Comparative study of metal cluster fission in Hartree-Fock and LDA,,,,
+physics/0112012,New Approach to Nonlinear Dynamics of Fullerenes and Fullerites,,,,
+physics/0112015,"Efficient method for simulating quantum electron dynamics under the time
+  dependent Kohn-Sham equation",,,,
+physics/0112022,"Fragmentation of positively charged metal clusters in stabilized jellium
+  model with self-compression",,,,
+physics/0112038,Structure and properties of small sodium clusters,,,,
+physics/0112052,"A useful form of the recurrence relation between relativistic atomic
+  matrix elements of radial powers",,,,
+physics/0112053,"Density functional study of Au$_n$ (n=2-20) clusters: lowest-energy
+  structures and electronic properties",,,,
+physics/0112054,Mass spectrometric and first principles study of Al$_n$C$^-$ clusters,,,,
+physics/0112058,Ground state and excitation dynamics in Ag doped helium clusters,,,,
+physics/0112072,Polarizabilities of germanium clusters,,,,
+physics/0112075,"Novel structures of Co-Cu bimetallic clusters and their magnetic
+  properties",,,,
+physics/0201008,"Origin of anomalously long interatomic distances in suspended gold
+  chains",,,,
+physics/0201031,Orbiting Resonances and Bound States in Molecular Scattering,,,,
+physics/0201052,"Analytical Potential Energy Function for the Ground State X^{1} Sigma^+
+  of LaCl",,,,
+physics/0202032,Global Optimization by Adiabatic Switching,,,,
+physics/0202050,Laser Spinning of Nanotubes: A path to fast-rotating microdevices,,,,
+physics/0202066,Formalism for Multiphoton Plasmon Excitation in Jellium Clusters,,,,
+physics/0203054,"Parallel J-W Monte Carlo Simulations of Thermal Phase Changes in
+  Finite-size Systems",,,,
+physics/0203055,"Charge Dependence of Temperature-Driven Phase Transitions of Molecular
+  Nanoclusters: Molecular Dynamics Simulation",,,,
+physics/0203078,Chirality in Bare and Passivated Gold Nanoclusters,,,,
+physics/0205024,"Formation of an Icosahedral Structure during the Freezing of Gold
+  Nanoclusters: Surface-Induced Mechanism",,,,
+physics/0206023,"Structure and spectroscopy of doped helium clusters using quantum Monte
+  Carlo techniques",,,,
+physics/0206070,Electron release of rare gas atom clusters under an intense laser pulse,,,,
+physics/0206079,Ionization of clusters in strong X-ray laser pulses,,,,
+physics/0207007,A new vibrational level of the H$_2^+$ molecular ion,,,,
+physics/0207011,Enhanced ionization in small rare gas clusters,,,,
+physics/0207052,"Fringe Structure in the Phase-Space Dynamics of Atomic Stabilization in
+  An Intense Field",,,,
+physics/0207082,"Revisiting the Complexity of Finding Globally Minimum Energy
+  Configurations in Atomic Clusters",,,,
+physics/0207084,Cluster growing process and a sequence of magic numbers,,,,
+physics/0207116,"Work functions, ionization potentials, and in-between: Scaling relations
+  based on the image charge model",,,,
+physics/0207121,Wetting to Non-wetting Transition in Sodium-Coated C_60,,,,
+physics/0209031,Observation of Mammalian Similarity Through Allometric Scaling Laws,,,,
+physics/0209046,Global Optimization on an Evolving Energy Landscape,,,,
+physics/0209055,"Optimization of molecular clusters configurations using a Genetic
+  Algorithm",,,,
+physics/0209106,"The Determination of Microscopic Surface Tension of Liquids with a
+  Curved Interphase Boundary by Means of Positron Spectroscopy",,,,
+physics/0210042,"Asymmetric emission of high energy electrons in the two-dimensional
+  hydrodynamic expansion of large xenon clusters irradiated by intense laser
+  fields",,,,
+physics/0212062,"Theoretical study of finite temperature spectroscopy in van der Waals
+  clusters. I. Probing phase changes in CaAr_n",,,,
+physics/0212063,"Theoretical study of finite temperature spectroscopy in van der Waals
+  clusters. II Time-dependent absorption spectra",,,,
+physics/0212064,"Theoretical study of the finite temperature spectroscopy in van der
+  Waals clusters. III Solvated Chromophore as an effective diatomics",,,,
+physics/0301038,Statistical evaporation of rotating clusters,,,,
+physics/0301081,Optics of Nanostructured Fractal Silver Colloids,,,,
+physics/0302073,"Study of interaction of high-power Ar$^+$ laser beam with Ag$^+$-doped
+  glass",,,,
+physics/0303068,Coulombic Energy Transfer and Triple Ionization in Clusters,,,,
+physics/0303079,"Anisotropic ""charge-flipping"" acceleration of highly charged ions from
+  $(N_2)_n$ clusters in strong optical fields",,,,
+physics/0303080,Explosions of water clusters in intense laser fields,,,,
+physics/0303088,"Linking Vibrational Dynamics to Local Electronic Structure: Local
+  Analysis of Dynamics of the relaxed Si$_{87}$ Cluster",,,,
+physics/0304029,Optimal representations of quantum states by gaussians in phase space,,,,
+physics/0304057,"Dynamical ionization ignition of clusters in intense and short laser
+  pulses",,,,
+physics/0304073,Microcanonical Thermodynamic Properties of Helium Nanodroplets,,,,
+physics/0304081,Efimov states in asymmetric systems,,,,
+physics/0305103,"Ab initio density functional investigation of B_24 cluster: Rings,
+  Tubes, Planes, and Cages",,,,
+physics/0305127,Entanglement of two coupled molecules,,,,
+physics/0306027,Structure and energetics of Ni clusters with up to 150 atoms,,,,
+physics/0306154,"From ab initio quantum chemistry to molecular dynamics: The delicate
+  case of hydrogen bonding in ammonia",,,,
+physics/0306185,"Fusion process of Lennard-Jones clusters: global minima and magic
+  numbers formation",,,,
+physics/0308083,"Dual kinetic balance approach to basis set expansions for the Dirac
+  equation",,,,
+physics/0308088,"Coulomb three-body systems and charge transfer collisions in a
+  configuration-space approach",,,,
+physics/0309024,"Optical Manipulation of Long-range Interactions at the 3s+3p Asymptote
+  of Na$_2$",,,,
+physics/0309074,"OCS in small para-hydrogen clusters: energetics and structure with N=1-8
+  complexed hydrogen molecules",,,,
+physics/0309081,"Comparison of Rotational Energies and Rigidity of OCS-paraH_2 and
+  OCS-4He complexes",,,,
+physics/0309101,"Evolution in the structural and bonding properties of Aluminum-Lithium
+  clusters",,,,
+physics/0309103,Microscopic study of the He2-SF6 trimers,,,,
+physics/0309105,"Lowest Open Channels, Bound States, and Narrow Resonances of
+  Dipositronium",,,,
+physics/0310018,Close-Packing of Clusters: Application to Al_100,,,,
+physics/0310144,"Structure and stability of copper clusters : A tight-binding molecular
+  dynamics study",,,,
+physics/0311085,Structure and energetics of helium adsorption on nanosurfaces,,,,
+physics/0311088,Optical response of small magnesium clusters,,,,
+physics/0311097,Rules for Minimal Atomic Multipole Expansion of Molecular Fields,,,,
+physics/0311109,Rearrangement of cluster structure during fission processes,,,,
+physics/0312049,On the premelting features in sodium clusters,,,,
+physics/0312098,Can Small Free Methane Clusters Exhibit Phase-like Transitions?,,,,
+physics/0312110,Why do gallium clusters have a higher melting point than the bulk?,,,,
+physics/0401096,Sodium atoms and clusters on graphite: a density functional study,,,,
+physics/0401107,"Calculation of electron density of periodic systems using non-orthogonal
+  localised orbitals",,,,
+physics/0401108,"Comparison of localization procedures for applications in crystal
+  embedding",,,,
+physics/0402005,Momentum transfer to small particles by aloof electron beams,,,,
+physics/0402061,Relativistic recursion relations for transition matrix elements,,,,
+physics/0402086,"Broken-Symmetry Unrestricted Hybrid Density Functional Calculations on
+  Nickel Dimer and Nickel Hydride",,,,
+physics/0402102,"Molecular structures and vibrations of neutral and anionic CuOx (x =
+  1-3,6) clusters",,,,
+physics/0402103,Are hemispherical caps of boron-nitride nanotubes possible?,,,,
+physics/0402104,"Stability of As$_n$ [n=4, 8, 20, 28, 32, 36, 60] Cage Structures",,,,
+physics/0403048,Composition-induced structural transitions in mixed rare-gas clusters,,,,
+physics/0403071,Variational Estimates using a Discrete Variable Representation,,,,
+physics/0403101,"Taming the rugged landscape: production, reordering, and stabilization
+  of selected cluster inherent structures in the X_(13-n)Y_n system",,,,
+physics/0404069,Scanning tunneling microscopy and spectroscopy studies of graphite edges,,,,
+physics/0404143,"Stretched chemical bonds in Si6H6: A transition from ring currents to
+  localized pi-electrons?",,,,
+physics/0404144,"Equilibrium geometries of low-lying isomers of some Li clusters, within
+  Hartree-Fock theory plus bond order or MP2 correlation corrections",,,,
+physics/0404145,"Theoretical Study of Quantum Scattering Processes for Diatomic Hydrogen
+  $(^{2}S)$ and Oxygen $(^{3}P)$ Complex",,,,
+physics/0405004,Infrared electron modes in light deformed clusters,,,,
+physics/0406107,"Free Energy Approach to the Formation of an Icosahedral Structure during
+  the Freezing of Gold Nanoclusters",,,,
+physics/0407031,"Electronic structure, vibrational stability, infra-red, and Raman
+  spectra of B24N24 cages",,,,
+physics/0407039,Polarization forces in water deduced from single molecule data,,,,
+physics/0407086,Electron--phonon coupling and anharmonic effects in metal clusters,,,,
+physics/0407088,Discovery of dumbbell-shaped Cs*He_n exciplexes in solid He 4,,,,
+physics/0407106,"Global minima of Al_N, Au_N and Pt_N, N=2-80, clusters described by
+  Voter-Chen version of embedded-atom potentials",,,,
+physics/0407119,Stacked clusters of polycyclic aromatic hydrocarbon molecules,,,,
+physics/0407122,UV spectra of benzene isotopomers and dimers in helium nanodroplets,,,,
+physics/0408087,"Calculation of van der Walls coefficients of alkali metal clusters by
+  hydrodynamic approach to time-dependent density-functional theory",,,,
+physics/0408098,On the observed irregular melting temperatures of free sodium clusters,,,,
+physics/0408127,Minimal mass-size of a stable 3He cluster,,,,
+physics/0409126,"Surface plasma resonance in small rare gas clusters by mixing IR and VUV
+  laser pulses",,,,
+physics/0410010,"Structural and energetic properties of nickel clusters: $2 \le N \le
+  150$",,,,
+physics/0410014,"A joint theoretical and experimental study of phenylene-acetylene
+  molecular wires",,,,
+physics/0410049,Kinetic approach to the cluster liquid-gas transition,,,,
+physics/0410071,$e^+ + H$ direct annihilation above the positronium formation threshold,,,,
+physics/0411104,"Importance of electronic self-consistency in the TDDFT based treatment
+  of nonadiabatic molecular dynamics",,,,
+physics/0411106,Mechanical Resonance of embedded cluster,,,,
+physics/0411239,Photoionization of the fullerene ion C60+,,,,
+physics/0412023,"Melting and evaporation transitions in small Al clusters: canonical
+  Monte-Carlo simulations",,,,
+physics/0412077,"Novel Features in 2D and 3D Neutral, Cationic, and Anionic Gold Clusters
+  Au_{5 \leq n \leq 8}^Z (Z = 0, \pm)",,,,
+physics/0501023,"Accurate interaction energies from perturbation theory based on
+  Kohn-Sham model",,,,
+physics/0501069,Modeling Na clusters in Ar matrices,,,,
+physics/0501094,"Theoretical infra-red, Raman, and Optical spectra of the B36N36 cage",,,,
+physics/0501125,Geometrical and statistical factors in fission of small metal clusters,,,,
+physics/0502015,Stability of Small Neutral and Charged Strontium Clusters,,,,
+physics/0502022,Predicting atomic dopant solvation in helium clusters: the MgHe$_n$ case,,,,
+physics/0503009,"Large Magnetic Moments of Arsenic-Doped Mn Clusters and their Relevance
+  to Mn-Doped III-V Semiconductor Ferromagnetism",,,,
+physics/0503082,"On the crystal structure of lithium peroxide, Li2O2",,,,
+physics/0503092,"Electronic structure of clusters (LiBC)_n: n=1, 2, 4",,,,
+physics/0503100,Analysis of band-gap formation in squashed arm-chair CNT,,,,
+physics/0504090,"The planar-to-tubular structural transition in boron clusters from
+  optical absorption",,,,
+physics/0505012,"Study of coupled states for the (4s^{2})^{1}S + (4s4p)^{3}P asymptote of
+  Ca_{2}",,,,
+physics/0505109,"Path integral virial estimator based on the scaling of fluctuation
+  coordinates: Application to quantum clusters with fourth-order propagators",,,,
+physics/0505185,Electron dynamics in strong laser pulse illumination,,,,
+physics/0506047,"Neutral and ionic dopants in helium clusters: interaction forces for the
+  $Li_2(a^3\Sigma_u^+)-He$ and $Li_2^+(X^2\Sigma_g^+)-He$",,,,
+physics/0506048,"Microsolvation of Li$^+$ in small He Clusters. Li$^+$He$_n$ species from
+  Classical and Quantum Calculations",,,,
+physics/0506121,"Optical absorption by magnesia-supported gold clusters and
+  nanocatalysts: effects from the support, cluster and adsorbants",,,,
+physics/0507052,Equilibrium spherically curved 2D Lennard-Jones systems,,,,
+physics/0508085,"A simple and surprisingly accurate approach to the chemical bond
+  obtained from dimensional scaling",,,,
+physics/0509141,"Determination of the lowest energy structure of Ag$_8$ from
+  first-principles calculations",,,,
+physics/0509162,"Configuration interaction study of single and double dipole plasmon
+  excitations in Na_8",,,,
+physics/0510095,"Stability criterions of an oscillating tip-cantilever system in dynamic
+  force microscopy",,,,
+physics/0510096,"Stability of an oscillating tip in Non-Contact Atomic Force Microscopy:
+  theoretical and numerical investigations",,,,
+physics/0511027,T-shaped dimer of coronene,,,,
+physics/0511069,"Two-Photon Excitation of Low-Lying Electronic Quadrupole States in
+  Atomic Clusters",,,,
+physics/0511187,"Observation of individual molecules trapped on a nanostructured
+  insulator",,,,
+physics/0511190,"Isotopic replacement in ionic systems: the 4He2+ + 3He -> 3He4He+ + 4He
+  reaction",,,,
+physics/0512059,"Polyatomic Molecules Formed with a Rydberg Atom in an Ultracold
+  Environment",,,,
+physics/0512060,"Practicable factorized TDLDA for arbitrary density- and
+  current-dependent functionals",,,,
+physics/0512249,Nonlinear resonance absorption in laser-cluster interaction,,,,
+physics/0601209,Vibrational spectrum of the H5+ molecule using quantum Monte Carlo,,,,
+physics/0602021,A Density Functional Study of Bare and Hydrogenated Platinum Clusters,,,,
+physics/0602068,Compact in-place gate valve for molecular beam experiments,,,,
+physics/0602178,Diffusion-limited-aggregation on a directed small world network,,,,
+physics/0604090,Spectroscopy and dynamics in helium nanodroplets,,,,
+physics/0604128,Implicit Density Functional Theory,,,,
+physics/0604143,Wave packet dynamics of potassium dimers attached to helium nanodroplets,,,,
+physics/0605160,Unexpected Magnetism of Small Silver Clusters,,,,
+physics/0605202,Rotational Energy Transfer in H2+H2,,,,
+physics/0606032,"Structure, electronic properties and magnetic transition in manganese
+  clusters",,,,
+physics/0607184,Magnetism and Magnetic Isomers in Free Chromium Clusters,,,,
+physics/0607185,"Collisionless energy absorption in the short-pulse intense laser-cluster
+  interaction",,,,
+physics/0608305,"Characterization of doping levels in heteronuclear, gas-phase, van der
+  Waals clusters and their energy absorption from an intense optical field",,,,
+physics/0609052,"Spectroscopy of free radicals and radical containing entrance-channel
+  complexes in superfluid helium nano-droplets",,,,
+physics/0610015,Matrix formalism of synchrobetatron coupling,,,,
+physics/0610041,"A high-resolution infrared spectroscopic investigation of the halogen
+  atom-HCN entrance channel complexes solvated in superfluid helium droplets",,,,
+physics/0610055,"Magnetic structure of free cobalt clusters studied with Stern-Gerlach
+  deflection experiments",,,,
+physics/0610060,Is the Fermi field contact and isotropic?,,,,
+physics/0610079,"Ab initio potential energy surfaces, bound states and electronic
+  spectrum of the Ar-SH complex",,,,
+physics/0610245,"Lattice Parameters Modification of Para-Dichlorbenzol Nanodimension
+  Films",,,,
+physics/0610246,"Examination of the Allocations of Building Molecules in the Single
+  Crystal of the Para-Dichlorbenzol with the P-Dibromobenzene Solid Solution by
+  the Method of the Raman Effect of Light Depending on Requirements of
+  Selection",,,,
+physics/0612009,"Complex Dynamics of Correlated Electrons in Molecular Double Ionization
+  by an Ultrashort Intense Laser Pulse",,,,
+physics/0612061,"Tracing ultrafast interatomic electronic decay processes in real time
+  and space",,,,
+physics/0612093,"Two-photon double ionization of helium in the region of photon energies
+  42-50 eV",,,,
+physics/0612123,Multichannel Formalism for Positron-Hydrogen Scattering and Annihilation,,,,
+physics/0701028,Systematics of spin-polarized small Na clusters,,,,
+physics/0701292,Dynamics and Infrared Spectroscopy of the Protonated Water Dimer,,,,
+physics/0701343,"Noncontact atomic force microscopy simulator with phase-locked-loop
+  controlled frequency detection and excitation",,,,
+physics/0702238,"Structure and static response of small silver clusters to an external
+  electric field",,,,
+physics/0703267,"High activity of He droplets following ionization of systems inside
+  those droplets",,,,
+physics/9706021,Theoretical Study of Small (NaI)n Clusters,,,,
+physics/9706030,Structural and Electronic Properties of Small Neutral (MgO)n Clusters,,,,
+physics/9709032,Structure and Bonding in Small Neutral Alkali-Halide Clusters,,,,
+physics/9710026,Hydrolysis of ferric ion in water and conformational equilibrium,,,,
+physics/9711005,Influence of Dynamics on Magic Numbers for Silicon Clusters,,,,
+physics/9712008,"Charge Transfer in Cluster-Atom Collisions Studied with Non-Adiabatic
+  Quantum Molecular Dynamics",,,,
+physics/9712012,Excitation and relaxation in atom-cluster collisions,,,,
+physics/9801002,Nonradiative Electronic Deexcitation Time Scales in Metal Clusters,,,,
+physics/9802017,Oscillator strengths with pseudopotentials,,,,
+physics/9802020,"An ab initio path integral Monte Carlo simulation method for molecules
+  and clusters: application to Li_4 and Li_5^+",,,,
+physics/9806022,Ionic structure and photoabsorption in medium sized sodium clusters,,,,
+physics/9806024,"Non-adiabatic molecular Hamiltonian: Canonical transformation coupling
+  electronic and vibrational motions",,,,
+physics/9806025,"Ab initio calculations of structures and stabilities of (NaI)_nNa+ and
+  (CsI)_nCs+ cluster ions",,,,
+physics/9806035,Construction of Simulation Wavefunctions for Aqueous Species: D3O+,,,,
+physics/9808036,"Structures and Stabilities of Doubly-charged (MgO)nMg2+ (n=1-29) Cluster
+  Ions",,,,
+physics/9809006,The rovibrational kinetic energy for complexes of rigid molecules,,,,
+physics/9809013,"Coulomb and spin-orbit interaction matrix elements in d^2d'
+  configuration",,,,
+physics/9809019,"Orbital-Free Molecular Dynamics Simulations of Melting in Na8 and Na20:
+  Melting in Steps",,,,
+physics/9810001,Intensity of Two-Photon Absorption Transitions for Ni2+ in MgO,,,,
+physics/9810030,"Guided random walk calculation of energies and $<\sq {r^2} >$ values of
+  the $^1\Sigma_g$ state of H_2 in a magnetic field",,,,
+physics/9810031,Rearrangements of Water Dimer and Hexamer,,,,
+physics/9810032,Rearrangements and Tunneling Splittings in Small Water Clusters,,,,
+physics/9810047,Two-Photon Spectroscopy of Transition-Metal Ions in Cubical Symmetry,,,,
+physics/9810048,"Multi-Photon Laser Spectroscopy of Transition Ions in Crystals: Recent
+  Progress in the Use of Symmetry Considerations",,,,
+physics/9810055,Symmetry Adaptation Techniques in n-Photon Absorption Spectroscopy,,,,
+physics/9811032,Symmetry Adaptation in Two-Photon Spectroscopy,,,,
+physics/9811033,"Two-Photon Laser Spectroscopy of Transition Ions in Crystals: Inter-
+  Configurational Transitions",,,,
+physics/9811035,"Symmetry Adaptation and Two-Photon Spectroscopy of Ions in Molecular or
+  Solid-State Finite Symmetry",,,,
+physics/9811036,Sum Rules for Multi-Photon Spectroscopy of Ions in Finite Symmetry,,,,
+physics/9902019,The ground-state spectroscopic constants of Be_2 revisited,,,,
+physics/9902025,"Dissociative Autoionization in (1+2)-photon Above Threshold Excitation
+  of H2 Molecules",,,,
+physics/9902047,Noncollinear magnetic ordering in small Chromium Clusters,,,,
+physics/9903001,"Implications of non-feasible transformations among icosahedral $h$
+  orbitals",,,,
+physics/9903041,Optical response of small silver clusters,,,,
+physics/9903048,Underthreshold resonances in three-particle molecular systems,,,,
+physics/9904052,Incoherent Energy Transfer within Light-harvesting Complexes,,,,
+physics/9905016,"Parametric Resonance in the Drift Motion of an Ionic Bubble in near
+  critical Ar Gas",,,,
+physics/9905052,Geometry and symmetries of multi-particle systems,,,,
+physics/9906005,"Electronic entropy, shell structure, and size-evolutionary patterns of
+  metal clusters",,,,
+physics/9906026,"Comment on ""Density functional theory study of some structural and
+  energetic properties of small lithium clusters"" [J. Chem. Phys. 105, 9933
+  (1996)]",,,,
+physics/9907022,Quantum Monte Carlo study of the H- impurity in small helium clusters,,,,
+physics/9907050,"The dynamical Green's function and an exact optical potential for
+  electron-molecule scattering including nuclear dynamics",,,,
+physics/9908034,Tight-binding molecular dynamic study of silver clusters,,,,
+physics/9909022,"Dissociation, fragmentation and fission of simple metal clusters",,,,
+physics/9909058,"Photoelectron spectra of aluminum cluster anions: Temperature effects
+  and ab initio simulations",,,,
+physics/9910048,"Wild cables and survivability of macroscopic molecular structures in hot
+  tokamak plasmas",,,,
+physics/9911049,Symmetry in Order-Disorder Changes of Molecular Clusters,,,,
+physics/9911052,"Electron exchange model potential: Application to positronium-helium
+  scattering",,,,
+physics/9911053,Low-energy quenching of positronium by helium,,,,
+physics/9911054,Positronium-hydrogen-atom scattering in a five-state model,,,,
+physics/9911058,"Semiempirical charge distribution of clusters in the ion sputtering of
+  metal",,,,
+physics/9912045,Static Electric Dipole Polarizabilities of Na Clusters,,,,
+quant-ph/0002086,"Pressure dependence of the Mg $3s4s^3S_1 \to 3s3p^3P_{0,1,2}$ transition
+  in superfluid $^4$He",,,,
+quant-ph/0102057,"Interference of resonances and the double-pole of the S-matrix in a
+  double well system",,,,
+quant-ph/0402065,"Collective excitations in circular atomic configurations, and
+  single-photon traps",,,,
+quant-ph/0505021,"Inter-dimensional Degeneracies in van der Waals Clusters and Quantum
+  Monte Carlo Computation of Rovibrational States",,,,
+quant-ph/0609008,"Precise Control of Molecular Dynamics with a Femtosecond Frequency Comb
+  - A Weak Field Route to Strong Field Coherent Control",,,,
+quant-ph/9711007,"Symmetries in nuclear, atomic and molecular spectroscopy",,,,
+quant-ph/9712014,"On a Generalized Oscillator: Invariance Algebra and Interbasis
+  Expansions",,,,
+quant-ph/9911096,"The Van der Waals interaction of the hydrogen molecule - an exact local
+  energy density functional",,,,

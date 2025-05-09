@@ -1,0 +1,373 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+hep-ph/0606202,Mirror particles and mirror matter: 50 years of speculation and search,0.0001669248294362,1.3240829708807644e-05,138.0,6.0
+gr-qc/0506102,"Absolute Objects and Counterexamples: Jones-Geroch Dust, Torretti
+  Constant Curvature, Tetrad-Spinor, and Scalar Density",2.698517722201926e-05,1.815257902716484e-08,12.0,1.0
+physics/0509184,Creativity leading to discoveries in particle physics and relativity,2.628695371814842e-05,1.990182755160072e-06,16.0,1.0
+hep-th/0504206,"Two-dimensional models as testing ground for principles and concepts of
+  local quantum physics",2.449504925217136e-05,0.0003279106991419,13.0,5.0
+physics/0602172,Photon colliders: the first 25 years,2.335708128056616e-05,2.532365142850713e-08,27.0,1.0
+hep-ph/0505177,"Adventures in Theoretical Physics: Selected Papers of Stephen L. Adler
+  -- Commentaries",1.8436945510132355e-05,2.7616303296341463e-05,16.0,11.0
+hep-ex/0606035,Experimental Tests of Asymptotic Freedom,1.6539964481510017e-05,3.186397483260256e-05,23.0,19.0
+physics/0505172,Aristotle and Gautama on Logic and Physics,1.4252987930122809e-05,1.990182755160072e-06,9.0,1.0
+gr-qc/0507101,Black holes and fundamental physics,1.4158694357439089e-05,9.461590401332356e-07,17.0,1.0
+physics/0409076,On Dirac's incomplete analysis of gauge transformations,1.1695640139853954e-05,3.287102806972294e-08,15.0,1.0
+physics/0605078,The Issue of the Beginning in Quantum Gravity,1.0723089434043456e-05,3.3776240166449026e-07,18.0,1.0
+astro-ph/0310214,"Observational Cosmology: caveats and open questions in the standard
+  model",1.034275695132656e-05,4.641284410354646e-09,15.0,2.0
+hep-th/0405105,An anthology of non-local QFT and QFT on noncommutative spacetime,9.745129993180973e-06,9.28132953957146e-07,15.0,1.0
+physics/0605012,"Interpreting Mathematics in Physics: Charting the Applications of SU(2)
+  in 20th Century Physics",9.412937342446109e-06,0.0,4.0,0.0
+physics/0508036,"Lanczos - Einstein - Petiau: From Dirac's equation to nonlinear wave
+  mechanics",9.01822958609723e-06,7.94216588299887e-06,12.0,8.0
+physics/0310001,Indian Physics: Outline of Early History,9.016182894446985e-06,3.980365510320144e-06,10.0,1.0
+hep-th/0611132,String theory deconstructed,8.829897049955979e-06,6.099491585098795e-08,8.0,1.0
+physics/0311047,String Theory: a theory in search of an experiment,8.788639112379913e-06,0.0,15.0,1.0
+physics/0507107,Einstein's impact on the physics of the twentieth century,8.459802523798992e-06,2.068074130398591e-06,7.0,1.0
+physics/0605131,Bologna and the Cooperation with Developing Countries,7.913717343223983e-06,0.0,4.0,0.0
+astro-ph/9912039,Surprises of phase transition astrophysics,7.743687249821557e-06,0.0,2.0,0.0
+hep-th/0502125,Two-dimensional models,7.725478010757099e-06,0.0,2.0,1.0
+physics/0408079,"The relations of the homogeneous Maxwell's equations to the theory of
+  functions",7.614418516866532e-06,0.0006563977025627,5.0,9.0
+quant-ph/0604064,Relational EPR,7.557591610729676e-06,5.857449471102985e-06,2.0,12.0
+physics/0411127,Lorentz's electromagnetic mass: a clue for unification?,6.534433064770426e-06,0.0,1.0,0.0
+physics/0408100,More on the early interpretation of the Schwarzschild solution,6.393161712251494e-06,1.990182755160072e-06,2.0,1.0
+physics/0604064,Four variations on Theoretical Physics by Ettore Majorana,6.218005682376471e-06,0.0,7.0,0.0
+hep-th/0201062,M-theory on manifolds of G2 holonomy: the first twenty years,5.998726016452162e-06,5.681480466524131e-05,57.0,27.0
+physics/0611143,Holographic Views of the World,5.667495210332888e-06,6.618800255973785e-08,8.0,1.0
+gr-qc/9804006,Past and Future of Cosmic Topology,5.366368358679983e-06,0.0,8.0,17.0
+physics/0605214,"Historical and interpretative aspects of quantum mechanics: a
+  physicists' naive approach",5.270575365616079e-06,0.0,2.0,0.0
+physics/0406079,Feyerabend and physics,5.190149050155762e-06,0.0,5.0,0.0
+physics/9707014,The Weinberg Formalism and a New Look at the Electromagnetic Theory,4.932618313404507e-06,0.0,7.0,0.0
+physics/0508002,The tensor analytical relationships of Dirac's equation,4.563521551466737e-06,4.00635670301813e-06,9.0,10.0
+physics/0508163,On the discovery of Birkhoff's theorem,4.3096618796900175e-06,0.0,4.0,1.0
+physics/0609137,"Hole theory and Quantum Electrodynamics in an unknown French manuscript
+  by Ettore Majorana",4.219578365902143e-06,0.0,4.0,0.0
+physics/0607099,Un manoscritto inedito in francese di Ettore Majorana,4.219578365902143e-06,0.0,4.0,0.0
+physics/0402064,The Thermal Radiation Formula of Planck (1900),4.199458373837573e-06,0.0,3.0,1.0
+physics/0701340,E.C.G. Stueckelberg: a forerunner of modern physics,4.0721863941660025e-06,0.0,2.0,0.0
+physics/0406137,"The (absence of a) relationship between thermodynamic and logical
+  reversibility",4.0649192574113214e-06,0.0,4.0,2.0
+physics/0505090,Why Einstein (Had I been born in 1844!)?,3.8117317369447215e-06,0.0,7.0,0.0
+physics/0512101,On the origin of Special Relativity,3.731420942334916e-06,0.0,2.0,0.0
+physics/0507192,On Symmetry and Conserved Quantities in Classical Mechanics,3.72724656423951e-06,0.0,4.0,0.0
+physics/0409030,"Between Laws and Models: Some Philosophical Morals of Lagrangian
+  Mechanics",3.528129616807117e-06,2.1499524697439893e-06,4.0,3.0
+physics/0507132,"Antimatter weapons (1946-1986): From Fermi and Teller's speculations to
+  the first open scientific publications",3.514585972640807e-06,0.0,3.0,4.0
+physics/0207026,The Cyclic Universe: Some Historical Notes,3.459083919060167e-06,5.970548265480216e-06,6.0,1.0
+quant-ph/0403199,"The Role of the Exclusion Principle for Atoms to Stars: A Historical
+  Account",3.431318266430716e-06,0.0,3.0,0.0
+physics/0701125,Quantum Mechanics: Bell and Quantum Entropy for the Classroom,3.357655290751536e-06,0.0,4.0,0.0
+cond-mat/0606477,"Entropy, Nonequilibrium, Chaos and Infinitesimals",3.290670266787261e-06,0.0,2.0,2.0
+physics/0504179,Einstein and Hilbert: The Creation of General Relativity,3.0472482127272877e-06,0.0,2.0,0.0
+physics/0508009,"Dirac's wave mechanical theory of the electron and its field theoretical
+  interpretation",3.0104312580252743e-06,0.0,4.0,9.0
+physics/0508012,On the covariant formulation of Dirac's equation,3.0104312580252743e-06,0.0,4.0,9.0
+hep-th/0407175,Benchmarks on the brane,2.99428772770054e-06,2.1903692953863067e-06,97.0,6.0
+physics/0508013,"The conservation laws in the field theoretical representation of Dirac's
+  theory",2.934033988243272e-06,0.0,4.0,7.0
+hep-ph/9905430,Deformed Lorentz Symmetry and Ultra-High Energy Cosmic Rays,2.767457804656688e-06,3.6410446355121057e-06,8.0,25.0
+gr-qc/0409054,What is a particle?,2.750048247790643e-06,2.393576296226515e-07,1.0,4.0
+physics/0507194,On Symplectic Reduction in Classical Mechanics,2.716763194371024e-06,0.0,2.0,0.0
+hep-th/0405040,Anomalies to All Orders,2.707776718981473e-06,1.7868961920476485e-05,5.0,16.0
+physics/0603140,Majorana and the path-integral approach to Quantum Mechanics,2.693563489007369e-06,0.0,4.0,2.0
+physics/0602146,"Teaching Theoretical Physics: the cases of Enrico Fermi and Ettore
+  Majorana",2.6891628327128548e-06,0.0,4.0,2.0
+physics/0005051,"Fiber Bundle Gauge Theories and ""Field's Dilemma""",2.647674170966689e-06,0.0,3.0,2.0
+physics/0402094,"Antisymmetric Tensor Fields, 4-Potentials and Indefinite Metrics",2.5951882166299483e-06,0.0,3.0,0.0
+cond-mat/0409542,"Heat can flow from cold to hot in Microcanonical Thermodynamics of
+  finite systems. The microscopic origin of condensation and phase separations",2.5384626456976018e-06,0.0,3.0,1.0
+physics/0605226,"Majorana: from atomic and molecular, to nuclear physics",2.4755437884666587e-06,0.0,3.0,0.0
+physics/0612250,"The falling chain of Hopkins, Tait, Steele and Cayley",2.4711431321721443e-06,0.0,2.0,0.0
+physics/0612253,Goedel and Physics,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0701180,"Twenty years of magnon Bose condensation and spin current superfluidity
+  in 3He-B",2.4711431321721443e-06,0.0,1.0,1.0
+physics/0612159,"Einstein and the Early Theory of Superconductivity, 1919-1922",2.4711431321721443e-06,0.0,1.0,0.0
+quant-ph/0302041,P.A.M. Dirac and the Discovery of Quantum Mechanics,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0607137,On the Available Lunar and Solar Eclipses and Babylonian Chronology,2.4711431321721443e-06,0.0,1.0,0.0
+quant-ph/0509061,"From Einstein's Theorem to Bell's Theorem: A History of Quantum
+  Nonlocality",2.365092023674493e-06,7.428476167154587e-06,2.0,4.0
+physics/0310104,"David Hilbert and the origin of the ""Schwarzschild solution""",2.3015121917864635e-06,0.0,5.0,1.0
+physics/0309113,"Three Interesting 15th and 16th Century Comet Sightings in Kashmiri
+  Chronicles",2.27910810532043e-06,0.0,3.0,0.0
+physics/0604134,"The Landscape ""avant la lettre""",2.258891012187592e-06,3.8375228632003945e-07,9.0,6.0
+physics/0402105,The Many Dimensions of Dimension,2.2275386894807364e-06,2.0709954729222006e-06,3.0,1.0
+hep-ph/0412297,Remarks on the History of Quantum Chromodynamics,2.208237227394818e-06,2.6551023694865058e-08,2.0,5.0
+physics/0601023,"Les structures fines de l'\'{e}lectromagn\'{e}tisme classique et de la
+  relativit\'{e} restreinte (The fine structures of Classical Electromagnetism
+  and Special Relativity)",2.120978933487838e-06,0.0,1.0,2.0
+physics/0605001,Ettore Majorana: quantum mechanics of destiny,1.9910555650428585e-06,0.0,2.0,0.0
+physics/0407137,Citation Statistics From More Than a Century of Physical Review,1.9334450569873443e-06,0.0,2.0,14.0
+physics/0208068,Status of e-Print Servers,1.915868815634298e-06,0.0,3.0,0.0
+physics/0512200,On the electrodynamics of moving bodies at low velocities,1.8950380516170012e-06,0.0,1.0,2.0
+quant-ph/9806074,"On an attempt to resolve the EPR-Bell paradox via Reichenbachian concept
+  of common cause",1.8950380516170012e-06,0.0,2.0,2.0
+physics/0610154,"How Hilbert has found the Einstein equations before Einstein and
+  forgeries of Hilbert's page proofs",1.8950380516170012e-06,0.0,1.0,1.0
+astro-ph/0212511,"The Thermodynamical Arrow of Time: Reinterpreting the Boltzmann-Schuetz
+  Argument",1.8477453373106569e-06,0.0,1.0,0.0
+physics/0508195,Alexandru Proca (1897--1955) the Great Physicist,1.721831431587857e-06,0.0,1.0,1.0
+physics/0702069,Would Bohr be born if Bohm were born before Born?,1.7195834566000715e-06,0.0,2.0,0.0
+physics/0605007,"Singularity Theorems in General Relativity: Achievements and Open
+  Questions",1.7052121910747863e-06,0.0,1.0,0.0
+physics/0411042,The Particle Problem in Classical Gravity: A historical note on 1941,1.703003024765287e-06,0.0,1.0,0.0
+physics/0512259,"Again on Majorana and the Thomas-Fermi model: a comment to
+  physics/0511222",1.703003024765287e-06,0.0,1.0,3.0
+astro-ph/0305344,Gauge Symmetry of the N-body Problem in the Hamilton-Jacobi Approach,1.6684367964194165e-06,0.0,2.0,9.0
+astro-ph/0212245,"Implicit gauge symmetry emerging in the N-body problem of celestial
+  mechanics",1.6497684721570012e-06,0.0,2.0,8.0
+physics/0210005,"Notes on Landauer's principle, Reversible Computation and Maxwell's
+  Demon",1.646716896205302e-06,0.0,2.0,3.0
+physics/0612066,Cosmology in Portugal: The First 20 Years,1.640062481695145e-06,0.0,1.0,0.0
+physics/0503084,Ettore Majorana's course on Theoretical Physics: a recent discovery,1.60698551133943e-06,0.0,1.0,5.0
+hep-ph/0009044,Astrophysical neutrinos: 20th Century and Beyond,1.579847640071695e-06,0.0,3.0,5.0
+physics/0403088,Minkowski space-time: a glorious non-entity,1.5328797650542105e-06,4.386906852881468e-06,1.0,1.0
+physics/0103091,Neutrinos,1.5262891317958414e-06,2.019365848715705e-09,1.0,1.0
+hep-th/0610228,Homage to Ettore Majorana,1.5169570574975277e-06,0.0,1.0,0.0
+physics/9807044,"E. Noether's Discovery of the Deep Connection Between Symmetries and
+  Conservation Laws",1.5109679979135728e-06,0.0,1.0,5.0
+astro-ph/0209080,Solar Models: An Historical Overview,1.5090627444445068e-06,1.990182755160072e-06,3.0,8.0
+physics/9703005,The Quantum Field Theory of Physics and Mathematics,1.491692368308999e-06,0.0,2.0,0.0
+quant-ph/0404016,Einstein's Boxes,1.470666167924756e-06,0.0,1.0,3.0
+physics/0610054,"Julian Schwinger: Nuclear Physics, the Radiation Laboratory,
+  Renormalized QED, Source Theory, and Beyond",1.4588216079992058e-06,0.0,1.0,0.0
+physics/0408077,Henri Poincare and Relativity Theory,1.4341539871728873e-06,0.0,1.0,0.0
+physics/9807046,When an experiment is crucial?,1.4341539871728873e-06,0.0,1.0,1.0
+physics/0509080,The Fermi's Bayes Theorem,1.425872432718656e-06,0.0,1.0,1.0
+quant-ph/0408105,EPR and Bell Locality,1.4056030472869124e-06,0.0,1.0,4.0
+physics/0601167,The high energy frontier and the collaboration in collider experiments,1.4042075877396397e-06,0.0,2.0,0.0
+physics/0603039,Bruno Pontecorvo: mister neutrino,1.3827415082916478e-06,0.0,3.0,0.0
+gr-qc/0009087,Einstein and the Kaluza-Klein particle,1.3690290650231757e-06,0.0,1.0,3.0
+physics/0608067,Peter Bergmann and the invention of constrained Hamiltonian dynamics,1.3690290650231757e-06,0.0,1.0,0.0
+hep-th/0111237,The world in eleven dimensions: a tribute to Oskar Klein,1.3687951292424532e-06,0.0,1.0,3.0
+physics/0406009,On the Origin of Kaluza's Idea of Unification,1.3669417277747872e-06,0.0,1.0,0.0
+hep-ph/0404215,Fifty years of Yang-Mills Theories: a phenomenological point of view,1.3600833339586544e-06,0.0,1.0,2.0
+physics/0505095,Remembering Sergio Fubini,1.353848430489443e-06,0.0,1.0,0.0
+hep-th/0103017,Collaborating with David Gross; Descendants of the Chiral Anomaly,1.3419656783727915e-06,0.0,1.0,0.0
+physics/0101039,"Reductionism, Emergence, and Effective Field Theories",1.3304550726729616e-06,0.0,1.0,0.0
+gr-qc/0611006,On the Multiple Deaths of Whitehead's Theory of Gravity,1.3217392919381363e-06,0.0,1.0,0.0
+physics/0703037,Irving Kaplansky and Supersymmetry,1.319814400427812e-06,0.0,1.0,0.0
+astro-ph/0507686,Turbulence and Magnetic Fields in Astrophysical Plasmas,1.3189329710618589e-06,0.0,0.0,10.0
+gr-qc/9911008,Scalar mesostatic field with regard for gravitational effects,1.3189329710618589e-06,0.0,0.0,17.0
+hep-th/9805177,A Layman's Guide to M-theory,1.3189329710618589e-06,0.0,0.0,18.0
+physics/0002009,The singular points of Einstein's Universe,1.3189329710618589e-06,0.0,0.0,8.0
+physics/9910003,The factorization of the hypergeometric equation,1.3189329710618589e-06,0.0,0.0,3.0
+physics/9909061,"On some functional transformations relative to linear PDEs of second
+  order",1.3189329710618589e-06,0.0,0.0,2.0
+physics/9905030,"On the gravitational field of a mass point according to Einstein's
+  theory",1.3189329710618589e-06,0.0,0.0,36.0
+physics/9908019,Associated Sturm-Liouville systems,1.3189329710618589e-06,0.0,0.0,7.0
+physics/9908003,On a proposition relative to linear equations,1.3189329710618589e-06,0.0,0.0,4.0
+physics/0209108,"Lochlainn O'Raifeartaigh, Fluids, and Noncommuting Fields",1.3189329710618589e-06,0.0,0.0,5.0
+nlin/0411062,The Fermi-Pasta-Ulam problem: 50 years of progress,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0105242,Boltzmann's Approach to Statistical Mechanics,1.3189329710618589e-06,0.0,0.0,8.0
+physics/9906004,"On the analytic expression that must be given to the gravitational
+  tensor in Einstein's theory",1.3189329710618589e-06,0.0,0.0,10.0
+physics/0405075,How Were the Hilbert--Einstein Equations Discovered?,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0511222,"A forgotten publication of Ettore Majorana on the improvement of the
+  Thomas-Fermi statistical model",1.3189329710618589e-06,0.0,0.0,3.0
+physics/0403109,Fifty Years of Yang-Mills Theory and my Contribution to it,1.3189329710618589e-06,0.0,0.0,8.0
+physics/9912033,"On the gravitational field of a sphere of incompressible fluid according
+  to Einstein's theory",1.3189329710618589e-06,0.0,0.0,6.0
+physics/0405142,"Field equations in teleparallel spacetime: Einstein's Fernparallelismus
+  approach towards unified field theory",1.3189329710618589e-06,0.0,0.0,6.0
+physics/0311035,On the Astronomical Records and Babylonian Chronology,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0601210,Viscosity from Newton to Modern Non-equilibrium Statistical Mechanics,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0510251,Theoretical remark on the superconductivity of metals,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0105046,The Depth and Breadth of John Bell's Physics,1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/0101293,Planck's Legacy to Statistical Mechanics,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0106037,The invention of the quantum energy concept according to Planck,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0605038,Consequences of Dirac Theory of the Positron,1.3189329710618589e-06,0.0,0.0,10.0
+physics/0312087,An Elementary Treatment of the Reverse Sprinkler,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0111167,Majorana solution of the Thomas-Fermi equation,1.3189329710618589e-06,0.0,0.0,2.0
+hep-th/0212058,Dirac's Magnetic Monopoles (Again),1.3189329710618589e-06,0.0,0.0,3.0
+physics/0303001,Greek and Indian Cosmology: Review of Early History,1.3189329710618589e-06,0.0,0.0,4.0
+physics/0504043,On Wave-Particle Duality,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0504201,On Einstein's Doctoral Thesis,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0302071,Philosophical Implications of Inflationary Cosmology,1.3189329710618589e-06,0.0,0.0,3.0
+physics/0512174,Una lezione particolare di Ettore Majorana,1.3189329710618589e-06,0.0,0.0,5.0
+physics/9907032,"Study of the one-dimensional Schroedinger equation generated from the
+  hypergeometric equation",1.3189329710618589e-06,0.0,0.0,3.0
+physics/0403115,"From ""Not Wrong"" to (Maybe) Right",1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9709212,What is quantum field theory and why have some physicists abandoned it?,1.3189329710618589e-06,0.0,0.0,4.0
+physics/0503046,"Translation of Einstein's Attempt of a Unified Field Theory with
+  Teleparallelism",1.3189329710618589e-06,0.0,0.0,4.0
+quant-ph/9708012,The Discovery of Squeezed States - In 1927,1.3189329710618589e-06,0.0,0.0,4.0
+physics/9810023,"Catalog of the scientific manuscripts left by Ettore Majorana (with a
+  Recollection of E.Majorana, sixty years after his disappearance)",1.3189329710618589e-06,0.0,0.0,4.0
+physics/9806011,Dogmatism and Theoretical Pluralism in Modern Cosmology,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0008012,"The interpretations by experimenters of experiments on 'time dilation':
+  1940-1970 circa",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0207115,The dangerous misconceptions of Sir Karl Raimund Popper,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9305141,The 2(2S+1)- Formalism and Its Connection with Other Descriptions,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9903010,"Concepts of Space, Time, and Consciousness in Ancient India",1.3189329710618589e-06,0.0,0.0,3.0
+physics/9804020,The Speed of Light and Puranic Cosmology,1.3189329710618589e-06,0.0,0.0,3.0
+physics/0302016,"The Non Sequitur Mathematics and Physics of the 'New Electrodynamics' of
+  the AIAS Group",1.3189329710618589e-06,0.0,0.0,3.0
+physics/0406030,"Fermi, Majorana and the statistical model of atoms",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0412055,Arago (1810): the first experimental result against the ether,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9811050,"The Relativity of Discovery: Hilbert's First Note on the Foundations of
+  Physics",1.3189329710618589e-06,0.0,0.0,1.0
+physics/9903023,"The Road to Stueckelberg's Covariant Perturbation Theory as Illustrated
+  by Successive Treatments of Compton Scattering",1.3189329710618589e-06,0.0,0.0,1.0
+physics/9807012,Louis de Broglie und die Quantenmechanik,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0505027,"Whitehead's Principle of Relativity - Unpublished Lectures by J. L.
+  Synge, FRS",1.3189329710618589e-06,0.0,0.0,1.0
+astro-ph/0009259,How the sun shines,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0301078,Babylonian and Indian Astronomy: Early Connections,1.3189329710618589e-06,0.0,0.0,3.0
+physics/0306079,Physical Framework of Quantization Problem,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0403027,Dashen-Frautschi Fiasco and Historical Roadmap for Strings,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0008092,One Hundred Years of Quantum Physics,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0409158,"Local spinor structures in V. Fock's and H. Weyl's work on the Dirac
+  equation (1929)",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0206076,An Early History of Heavy Water,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9801025,Vladimir Gribov (BH),1.3189329710618589e-06,0.0,0.0,1.0
+physics/9803005,History and outlook of statistical physics,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0110029,On Aryabhata's Planetary Constants,1.3189329710618589e-06,0.0,0.0,2.0
+physics/9804021,Early Theories on the Distance to the Sun,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0101012,Yajnavalkya and the Origins of Puranic Cosmology,1.3189329710618589e-06,0.0,0.0,2.0
+physics/9704028,The third way to quantum mechanics is the forgotten first,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0010003,On Wolfgang Pauli's most important contributions to physics,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9710007,Ludwig Boltzmann -- A Pioneer of Modern Physics,1.3189329710618589e-06,0.0,0.0,2.0
+hep-th/0205086,"On the Theory of Collisions between Atoms and Electrically Charged
+  Particles",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0101063,Birth and Early Development of Indian Astronomy,1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/0409615,News and expectations in Thermostatistics,1.3189329710618589e-06,0.0,0.0,4.0
+hep-th/9911071,What good are quantum field theory infinities?,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0604027,"Einstein, Kant, and Taoism",1.3189329710618589e-06,0.0,0.0,1.0
+gr-qc/0301097,Some Remarks on Dirac's Contributions to General Relativity,1.3189329710618589e-06,0.0,0.0,1.0
+hep-ph/0012061,Historical roots of gauge invariance,1.3189329710618589e-06,0.0,0.0,7.0
+physics/0411045,"Special Relativity: Einstein's Spherical Waves versus Poincare's
+  Ellipsoidal Waves",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0402040,The Thermodynamic Arrow: Puzzles and Pseudo-puzzles,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0702221,"On the possibility of unifying the electromagnetic and the gravitational
+  fields",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0503066,Invariant Variation Problems,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0606153,Julian Schwinger (1918-1994),1.3189329710618589e-06,0.0,0.0,1.0
+physics/0407078,Mach's Principle,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0405131,The Classical Electron Problem,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9811040,The Solar Numbers in Angkor Wat,1.3189329710618589e-06,0.0,0.0,1.0
+astro-ph/0505005,The Anthropic Principle and the Duration of the Cosmological Past,,,,
+chao-dyn/9907004,Quasi periodic motions from Hipparchus to Kolmogorov,,,,
+hep-ph/0212174,From Wigner's Supermultiplet Theory to Quantum Chromodynamics,,,,
+hep-ph/9910468,The November $J/\Psi$ Revolution: Twenty-Five Years Later,,,,
+hep-th/9709090,Evolution of (Ward-)Takahashi Relations and How I Used Them,,,,
+math-ph/0405049,"Monopoles and Projective Representations: Two Areas of Influence of
+  Yang-Mills Theory on Mathematics",,,,
+math/0410397,"Kolmogorov and Aleksandrov in Sevan Monastery, Armenia, 1929",,,,
+nucl-th/0608030,David Brink: A long-standing teacher,,,,
+physics/0002042,"Heat and Kinetic Theory in 19th-Century Physics Textbooks: The Case of
+  Spain",,,,
+physics/0007009,"A Review Essay: ""Lise Meitner and the Dawn of the Nuclear Age"", by
+  Patricia Rife",,,,
+physics/0008229,"The birth of special relativity. ""One more essay on the subject""",,,,
+physics/0009021,Dirac and Majorana Constructs,,,,
+physics/0101010,A Natural Concept of Image in the Physics of fr. Alonso de la Veracruz,,,,
+physics/0107010,The Feynman Path Goes Monte Carlo,,,,
+physics/0110028,Marietta Blau's Work After World War II,,,,
+physics/0110031,Galileo's Discovery of Scaling Laws,,,,
+physics/0112077,Fermi and the Elucidation of Matter,,,,
+physics/0203001,Sur la solution de Sundman du probleme des trois corps,,,,
+physics/0209063,Aristotle: The first encyclopedist,,,,
+physics/0210097,"An investigation into a half page from Newton's Principia in the wake of
+  Chandra",,,,
+physics/0212090,Rejection of the Light Quantum: The Dark Side of Niels Bohr,,,,
+physics/0307104,"Comment on: ""Sadi Carnot on Carnot's theorem""",,,,
+physics/0307123,The Life and Legacy of Pomeranchuk,,,,
+physics/0309104,Democritus as Taoist,,,,
+physics/0310126,Analyzing shell structure from Babylonian and modern times,,,,
+physics/0311036,The Venus Tablet and Refraction,,,,
+physics/0311114,Astronomy and the Fall of Babylon,,,,
+physics/0401062,Following Weyl on Quantum Mechanics: the contribution of Ettore Majorana,,,,
+physics/0405066,Albert Einstein's 1916 Review Article on General Relativity,,,,
+physics/0405073,Halley's comet of 87 BC on the coins of Armenian king Tigranes?,,,,
+physics/0405110,Hilbert's 'World Equations' and His Vision of a Unified Science,,,,
+physics/0406033,Helicity Basis for Spin 1/2 and 1,,,,
+physics/0406099,"Rank distributions of words in additive many-step Markov chains and the
+  Zipf law",,,,
+physics/0408139,Classical electrodynamics from the motion of a relativistic fluid,,,,
+physics/0409073,Optical Velocimetry,,,,
+physics/0411199,"Il corso di Fisica teorica di Ettore Majorana: il ritrovamento del
+  Documento Moreno",,,,
+physics/0411240,Copernican Cosmography in the First Mexican Physics Treatise,,,,
+physics/0412078,Why does the meter beat the second?,,,,
+physics/0412134,"Surveying the solar system by measuring angles and times: from the solar
+  density to the gravitational constant",,,,
+physics/0412142,The Challenge of Editing Einstein's Scientific Manuscripts,,,,
+physics/0501083,Solar Oblateness from Archimedes to Dicke,,,,
+physics/0502142,Einsteinian blunders,,,,
+physics/0504093,Hooke's memorandum on the development of orbital dynamics,,,,
+physics/0507118,Light Quanta and Molecules: A Contribution to the Annus Mirabilis,,,,
+physics/0508199,A selected history of expectation bias in physics,,,,
+physics/0510015,"On Essential Incompleteness of Hertz's Experiments on Propagation of
+  Electromagnetic Interactions",,,,
+physics/0510124,"On the scientific method learned from Albert Einstein in 2005 -- the
+  World Year of Physics",,,,
+physics/0510128,The Beginning of Chiral Symmetry,,,,
+physics/0512034,"""Long live effrontery!"" Albert Einstein and the birth of Quantum Theory",,,,
+physics/0512204,"Comment on Frank Wilczek's essay ""Total Relativity: Mach 2004""",,,,
+physics/0512262,Hot water can freeze faster than cold?!?,,,,
+physics/0601154,"Einstein's ""Zur Elektrodynamik..."" (1905) Revisited, with Some
+  Consequences",,,,
+physics/0601156,Heisenberg and the Levels of Reality,,,,
+physics/0602043,Indian Contributions to High Energy Physics in the 20th Century,,,,
+physics/0602044,"Einstein et la mecanique quantique - Quelques reperes, quelques
+  surprises",,,,
+physics/0602050,The History of Nuclidic Masses and of their Evaluation,,,,
+physics/0602131,From Atoms to Quarks and Beyond: A historical panorama,,,,
+physics/0602185,MELENCOLIA I: The physics of Albrecht Duerer,,,,
+physics/0603016,"The Differential Geometry and Physical Basis for the Applications of
+  Feynman Diagrams",,,,
+physics/0603213,Bohr model without quantum jumps,,,,
+physics/0603219,"The scientific heritage of Richard Henry Dalitz, FRS (1925-2006)",,,,
+physics/0603263,Intelligent Design in the Physics Classroom?,,,,
+physics/0604152,"Introduction to the Workshop ""30 years of bubble chamber physics""",,,,
+physics/0604186,A Lighthouse Falls,,,,
+physics/0605258,Coulomb oscillation in the hydrogen atom and molecule ion,,,,
+physics/0607241,On the Nature of Science,,,,
+physics/0608101,The road not considered ... the question of photon mass,,,,
+physics/0608108,"The self-energy of the electron: a quintessential problem in the
+  development of QED",,,,
+physics/0608279,The Tenth Article of Ettore Majorana,,,,
+physics/0609047,Ludwig Edward Boltzmann,,,,
+physics/0609084,Yang-Mills redux,,,,
+physics/0610121,How to Derive the Schrodinger Equation,,,,
+physics/0610192,"On the verge of Umdeutung in Minnesota: Van Vleck and the correspondence
+  principle (Part One)",,,,
+physics/0610193,"On the verge of Umdeutung in Minnesota: Van Vleck and the correspondence
+  principle (Part Two)",,,,
+physics/0610201,"Pressure and Motion of Dry Sand -- Translation of Hagen's Paper from
+  1852",,,,
+physics/0611064,"Early Greek Thought and Perspectives for the Interpretation of Quantum
+  Mechanics: Preliminaries to an Ontological Approach",,,,
+physics/0611106,Remarks on the relation between physics and faith,,,,
+physics/0611119,The discovery of superfluidity,,,,
+physics/0611164,Quantum profiles and paradoxes,,,,
+physics/0611172,Probability as typicality,,,,
+physics/0701019,The hypernuclear physics heritage of Dick Dalitz (1925-2006),,,,
+physics/0701299,"Rosenfeld, Bergmann, Dirac and the Invention of Constrained Hamiltonian
+  Dynamics",,,,
+physics/0702072,Hempel's dilemma and the physics of computation,,,,
+physics/0702124,Probability as a physical motive,,,,
+physics/0702179,Majorana and the quasi-stationary states in Nuclear Physics,,,,
+physics/0702222,On a theory of electricity and gravitation,,,,
+physics/0702223,On a possible foundation of a theory of matter,,,,
+physics/0703260,Plasma: the genesis of the word,,,,
+physics/9703017,Wigner's Sisters,,,,
+physics/9709038,Subatomic Physics-100 Not Out and Still Going Strong!,,,,
+physics/9710027,Faster Than Light ?,,,,
+physics/9807009,Is Science going through a critical stage?,,,,
+physics/9808033,"The ""fingers"" of the physics",,,,
+physics/9808034,Short range gravitational fields: Rise and fall of the fifth force,,,,
+physics/9810042,Searching for Shakespeare in the Stars,,,,
+physics/9812014,A Formula for the Rotation Periods of the Planets & Asteroids,,,,
+physics/9901037,"Certainty and Uncertainty in the Practice of Science: Electrons, Muons,
+  and Taus",,,,
+physics/9904058,Supersymmetry : A new organizing principle for the microworld?,,,,
+quant-ph/0010008,""".. I didn't reflect much on what I was doing.."" How Planck discovered
+  his radiation formula",,,,
+quant-ph/0012007,Levels of Reality as Source of Quantum Indeterminacy,,,,
+quant-ph/0608140,1951 Lectures on Advanced Quantum Mechanics Second Edition,,,,
+quant-ph/9811023,A History of Feynman's Sum over Histories in Quantum Mechanics,,,,

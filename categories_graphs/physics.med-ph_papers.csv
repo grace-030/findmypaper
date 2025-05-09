@@ -1,0 +1,285 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+physics/0603025,Visual Saliency and Attention as Random Walks on Complex Networks,1.0695741557259216e-05,7.4260550565674335e-09,4.0,1.0
+physics/0512148,"Analytical expressions for the longitudinal evolution of nondiffracting
+  pulses truncated by finite apertures",3.62335329328243e-06,0.0,2.0,0.0
+quant-ph/0306021,"The Model of the Theory of the Quantum Brain Dynamics can be cast on the
+  Heisenberg Spin Hamiltonian",3.541461220115034e-06,0.0,3.0,0.0
+physics/0312114,Nonlinear optical contrast enhancement for optical coherence tomography,3.4930843036925227e-06,0.0,2.0,1.0
+physics/0310125,"Response of Autonomic Nervous System to Body Positions: Fourier and
+  Wavelet Analysis",3.3749066596554898e-06,0.0,1.0,0.0
+physics/0607024,"The dual-dose imaging technique: a way to enhance the dynamic range of
+  X-ray detectors",3.3749066596554898e-06,0.0,1.0,0.0
+physics/0205043,On the Kinematics of Protein Folding,3.035995336849235e-06,0.0,1.0,0.0
+physics/0303041,Non-linear and scale-invariant analysis of the Heart Rate Variability,2.7015851643942016e-06,0.0,2.0,0.0
+physics/0310118,"Direct reconstruction of the effective atomic number of materials by the
+  method of multi-energy radiography",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0108011,Algorithm for Finding Optimal Gene Sets in Microarray Prediction,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0503053,"Nonlinear Statistical Modelling and Model Discovery for
+  Cardiorespiratory Data",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0602183,Nonlinear parametric model for Granger causality of time series,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0607021,"The dual-gain mode: a way to enhance the dynamic range of X-ray
+  detectors",2.4711431321721443e-06,0.0,1.0,1.0
+physics/0008016,Heart Rate Variability: Measures and Models,2.4711431321721443e-06,0.0,1.0,1.0
+physics/0411141,Estimation of time delay by coherence analysis,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0311057,Coherent Anti-Stokes Raman Scattering Heterodyne Interferometry,2.4060086373771908e-06,0.0,1.0,2.0
+physics/9806032,Wavelet Analysis of Blood Pressure Waves in Vasovagal Syncope,2.117351529821976e-06,0.0,1.0,0.0
+physics/0406051,"Effects of T2 Relaxation and Diffusion on Longitudinal Magnetization
+  State and Signal Build for HOMOGENIZED Cross Peaks",1.8950380516170012e-06,0.0,1.0,0.0
+physics/0507103,Nuclear Magnetic Resonance with the Distant Dipolar Field,1.8950380516170012e-06,0.0,1.0,0.0
+physics/0101002,"Laser Induced Heat Diffusion Limited Tissue Coagulation: Problem and
+  General Properties",1.8295080725031696e-06,0.0,1.0,1.0
+physics/0610147,The thermodynamics of general anesthesia,1.703003024765287e-06,0.0,1.0,0.0
+physics/0610117,"On the action potential as a propagating density pulse and the role of
+  anesthetics",1.703003024765287e-06,0.0,1.0,1.0
+physics/0611297,"Relaxation and phase space singularities in time series of human
+  magnetoencephalograms as indicator of photosensitive epilepsy",1.703003024765287e-06,0.0,1.0,0.0
+physics/9909021,"Nuclear Data Requirements for the Production Of Medical Isotopes in
+  Fission Reactors and Particle Accelerators",1.5684066747354376e-06,0.0,1.0,1.0
+physics/0103034,Designer Gene Networks: Towards Fundamental Cellular Control,1.5493750032839157e-06,0.0,1.0,0.0
+physics/9809041,Entropy Index as a Measure of Heartbeat Irregularity,1.3189329710618589e-06,0.0,0.0,3.0
+physics/0301055,Fractal Rigidity in Migraine,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0111002,Phase Transition of DNA-Linked Gold Nanoparticle,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0406045,"Spatially Varying Steady State Longitudinal Magnetization in Distant
+  Dipolar Field-based Sequences",1.3189329710618589e-06,0.0,0.0,2.0
+patt-sol/9808009,Two boundary model for freezing front propagation in biological tissue,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0210071,"A comparison of delayed radiobiological effects of depleted-uranium
+  munitions versus fourth-generation nuclear weapons",1.3189329710618589e-06,0.0,0.0,3.0
+physics/0607018,"The geometric calibration of cone-beam imaging and delivery systems in
+  radiation therapy",1.3189329710618589e-06,0.0,0.0,1.0
+physics/9909029,"Scale Specific and Scale Independent Measures of Heart Rate Variability
+  as Risk Indicators",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0110075,Zipf's law in human heartbeat dynamics,1.3189329710618589e-06,0.0,0.0,5.0
+physics/0112031,What does the correlation dimension of the human heart rate measure?,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0506067,Diffraction-Attenuation Resistant Beams in Absorbing Media,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0006050,Shuffling Yeast Gene Expression Data,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0005365,Magnitude and Sign Correlations in Heartbeat Fluctuations,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0206014,X-ray multi-energy radiography with scintillator-photodiode detectors,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0402100,"Phase shifts of synchronized oscillators and the systolic/diastolic
+  blood pressure relation",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9910006,Theory of Coherent and Incoherent Nuclear Spin-Dephasing in the Heart,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0406157,Optimization and performance of an optical cardio-magnetometer,1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9711003,"Multiresolution wavelet analysis of heartbeat intervals discriminates
+  healthy patients from those with cardiac pathology",,,,
+chao-dyn/9810008,"Discrimination between Healthy and Sick Cardiac Autonomic Nervous System
+  by Detrended Heart Rate Variability Analysis",,,,
+cond-mat/0011367,Noise Effects on the Complex Patterns of Abnormal Heartbeats,,,,
+cond-mat/0210180,Transverse NMR relaxation as a probe of mesoscopic structure,,,,
+nlin/0109023,"On the performance of different synchronization measures in real data: a
+  case study on EEG signals",,,,
+nlin/0612050,"On-Off Intermittency in Time Series of Spontaneous Paroxysmal Activity
+  in Rats with Genetic Absence Epilepsy",,,,
+physics/0001069,"Nonlinear denoising of transient signals with application to event
+  related potentials",,,,
+physics/0003048,On the uniqueness of the surface sources of evoked potentials,,,,
+physics/0003094,Generalized Optimal Current Patterns and Electrical Safety in EIT,,,,
+physics/0003105,Noise-based switches and amplifiers for gene expression,,,,
+physics/0004011,Mechanism of Discordant Alternans in Spatially Homogeneous Tissue,,,,
+physics/0007067,"Scaling-violation phenomena and fractality in the human posture control
+  systems",,,,
+physics/0011002,A Historical Perspective on Cancer,,,,
+physics/0011046,Approximate 3-Dimensional Electrical Impedance Imaging,,,,
+physics/0101058,Image reconstruction without prior information,,,,
+physics/0102029,"Extraction of Cs-137 by alcohol-water solvents from plants containing
+  cardiac glycosides",,,,
+physics/0103047,"Military use of depleted uranium: assessment of prolonged population
+  exposure",,,,
+physics/0104020,"Information preserved guided scan pixel difference coding for medical
+  images",,,,
+physics/0104034,Prediction of stable walking for a toy that cannot stand,,,,
+physics/0105029,Fluctuation Analysis of Human Electroencephalogram,,,,
+physics/0109054,The Uncertainty Relationship In Magnetic Resonance Imaging (MRI),,,,
+physics/0110010,Non-Linear Dynamics In Patients With Stable Angina Pectoris,,,,
+physics/0112040,Scaling Properties of Fluctuations in Human Electroencephalogram,,,,
+physics/0201064,"Recurrence Plot Based Measures of Complexity and its Application to
+  Heart Rate Variability Data",,,,
+physics/0204010,The Loss of Multifractality in Migraines,,,,
+physics/0206007,"Spherical Harmonics Interpolation, Computation of Laplacians and Gauge
+  Theory",,,,
+physics/0206008,"Multi-energy techniques for radiographic monitoring of chemical
+  composition",,,,
+physics/0206057,Maximum-likelihood absorption tomography,,,,
+physics/0207129,"In-Vivo NMR of Hyperpolarized Helium-3 in the Human Lung at Very Low
+  Magnetic Fields",,,,
+physics/0208103,A stochastic model for heart rate fluctuations,,,,
+physics/0211064,"Non-linear quantization for arbitrary distributions and applications to
+  Medical Image Processing",,,,
+physics/0211085,"Threadlike bundle of tubules running inside blood vessels: New
+  anatomical structure",,,,
+physics/0211086,Method for Observing Intravascular BongHan Duct,,,,
+physics/0212029,"Changes in the Hurst exponent of heartbeat intervals during physical
+  activities",,,,
+physics/0301011,Spectral Statistics of RR Intervals in ECG,,,,
+physics/0301065,Wavelet analysis of epileptic spikes,,,,
+physics/0302050,Interplay between geometry and flow distribution in an airway tree,,,,
+physics/0302097,"Electron capture decay of indium-111 human carbonic anhydrase I: A time
+  differential K X ray coincidence perturbed angular correlation study",,,,
+physics/0305100,"A mathematical model for top-shelf vertigo: the role of sedimenting
+  otoconia in BPPV",,,,
+physics/0306181,"Interpretation of heart rate variability via detrended fluctuation
+  analysis and alpha-beta filter",,,,
+physics/0307143,Modeling Amyloid Beta Peptide Insertion into Lipid Bilayers,,,,
+physics/0307157,GPCALMA: a Grid Approach to Mammographic Screening,,,,
+physics/0308009,"Free ion yield observed in liquid isooctane irradiated by gamma rays.
+  Comparison with the Onsager theory",,,,
+physics/0308028,"Critical Behavior in a Cellular Automata Animal Disease Transmission
+  Model",,,,
+physics/0310150,Dosimetry for radiocolloid therapy of cystic craniopharyngiomas,,,,
+physics/0310151,"EIT Reconstruction Algorithms: Pitfalls, Challenges and Recent
+  Developments",,,,
+physics/0311004,3-Dimensional Mapping of Corneal Topography and Thickness,,,,
+physics/0311110,"Dosimetry characterization of $^{32}$P intravascular brachytherapy
+  source wires using Monte Carlo codes PENELOPE and GEANT4",,,,
+physics/0312019,"GePEToS : A Geant4 Monte Carlo simulation package for Positron Emission
+  Tomography",,,,
+physics/0312097,"Algorithm and performance of a clinical IMRT beam-angle optimization
+  system",,,,
+physics/0401030,Trends in Pixel Detectors: Tracking and Imaging,,,,
+physics/0402052,"Stratification of the phase clouds and statistical effects of the
+  non-Markovity in chaotic time series of human gait for healthy people and
+  Parkinson patients",,,,
+physics/0403041,"The influence of scattered photons on the accurate determination of
+  microcalcification thickness in digital mammography",,,,
+physics/0403095,"A simplified model of the source channel of the Leksell GammaKnife
+  tested with PENELOPE",,,,
+physics/0404018,Gauss-Hermite Approximation Formula,,,,
+physics/0404023,"Steady-state visual evoked potentials and phase synchronization in
+  migraine",,,,
+physics/0404033,"Diagnosis of human breast cancer through wavelet transform of polarized
+  fluorescence",,,,
+physics/0404054,Blind dispersion compensation for optical coherence tomography,,,,
+physics/0405009,Extending Granger causality to nonlinear systems,,,,
+physics/0406017,Open-source software for generating electrocardiogram signals,,,,
+physics/0406142,"A simplified model of the source channel of the Leksell Gamma
+  Knife$^(R)$: testing multisource configurations with PENELOPE",,,,
+physics/0407054,"FDTD Simulation of Exposure of Biological Material to Electromagnetic
+  Nanopulses",,,,
+physics/0408109,GATE : a simulation toolkit for PET and SPECT,,,,
+physics/0411048,Probabilistic two-stage model of cell inactivation by ionizing particles,,,,
+physics/0411206,"Leave-one-out prediction error of systolic arterial pressure time series
+  under paced breathing",,,,
+physics/0412003,"Development and operation of a pixel segmented liquid-filled linear
+  array for radiotherapy quality assurance",,,,
+physics/0412028,"The Unique Determination of Neuronal Currents in the Brain via
+  Magnetoencephalography",,,,
+physics/0412030,"Reconstruction Algorithms for Positron Emission Tomography and Single
+  Photon Emission Computed Tomography and their Numerical Implementation",,,,
+physics/0501077,"The effect of the primary collimator and flattening filter on asymmetric
+  fields for a Siemens PRIMUS linear accelerator",,,,
+physics/0501127,Polarized Helium to Image the Lung,,,,
+physics/0502105,Theory of Frozen Waves,,,,
+physics/0504212,"Local driving and global interactions in the progression of seizure
+  dynamics",,,,
+physics/0505168,Mammographic image restoration using maximum entropy deconvolution,,,,
+physics/0505196,"Multiple Projection Optical Diffusion Tomography with Plane Wave
+  Illumination",,,,
+physics/0506008,"Preliminary study of metabolic radiotherapy with 188Re via small animal
+  imaging",,,,
+physics/0506058,Influence of Correlated Noises on Growth of a Tumor,,,,
+physics/0506070,An X-ray vision of cataract,,,,
+physics/0506087,"Three-Dimensional FDTD Simulation of Biomaterial Exposure to
+  Electromagnetic Nanopulses",,,,
+physics/0507047,"Experimental demonstration of an analytic method for image
+  reconstruction in optical tomography with large data sets",,,,
+physics/0507049,"Superresolution and Corrections to the Diffusion Approximation in
+  Optical Tomography",,,,
+physics/0507083,Performance of three-photon PET imaging: Monte Carlo simulations,,,,
+physics/0507091,"Neutrons from fragmentation of light nuclei in tissue-like media: a
+  study with GEANT4 toolkit",,,,
+physics/0507135,Force Plate Monitoring of Human Hemodynamics,,,,
+physics/0508044,Noise-induced first-order transition in anti-tumor immunotherapy,,,,
+physics/0509053,"Detailed analysis of the cell-inactivation mechanism by accelerated
+  protons and light ions",,,,
+physics/0510173,"Effects of bone- and air-tissue inhomogeneities on the dose
+  distributions of the Leksell Gamma Knife$^{\circledR}$ calculated with
+  PENELOPE",,,,
+physics/0510259,"Multiscale analysis of heart rate, blood pressure and respiration time
+  series",,,,
+physics/0511065,Experimental study of a liquid Xenon PET prototype module,,,,
+physics/0511079,"Multifractal analysis of the long-range correlations in the cardiac
+  dynamics of Drosophila melanogaster",,,,
+physics/0511184,"Characterization of charge collection in CdTe and CZT using the
+  transient current technique",,,,
+physics/0512050,"Time delay and partial coherence analyses to identify cortical
+  connectivities",,,,
+physics/0603009,Niederhauser's model for epilepsy and wavelet methods,,,,
+physics/0603028,"Age-related alterations of relaxation processes and non-Markov effects
+  in stochastic dynamics of R-R intervals variability from human ECGs",,,,
+physics/0603030,"Regular and stochastic behavior of Parkinsonian pathological tremor
+  signals",,,,
+physics/0603032,"Manifestation of Chaos in Real Complex Systems: Case of Parkinson's
+  Disease",,,,
+physics/0603089,"Spatiotemporal Fluctuation Induced Transition in a Tumor Model with
+  Immune Surveillance",,,,
+physics/0603124,Application of Unit Time Block Entropy to Fetal Distress Heart Rate,,,,
+physics/0605142,"A generalized spatiotemporal covariance model for stationary background
+  in analysis of MEG data",,,,
+physics/0605182,"Time-invariant person-specific frequency templates in human brain
+  activity",,,,
+physics/0607201,A two phase harmonic model for left ventricular function,,,,
+physics/0608017,"Distributions of positron-emitting nuclei in proton and carbon-ion
+  therapy studied with GEANT4",,,,
+physics/0608278,Growth Laws in Cancer: Implications for Radiotherapy,,,,
+physics/0609104,FIRST: Fast Iterative Reconstruction Software for (PET) tomography,,,,
+physics/0610134,Simulation of Multicellular Tumor Spheroids Growth Dynamics,,,,
+physics/0610185,"Framework and Bio-Mechanical Model for a Per-Operative Image-Guided
+  Neuronavigator Including 'Brain-Shift' Compensation",,,,
+physics/0611011,Depth of Interaction Enhanced Gamma-Ray Imaging for Medical Applications,,,,
+physics/0611285,"Strong Memory in Time Series of Human Magnetoencephalograms Can Identify
+  Photosensitive Epilepsy",,,,
+physics/0612044,"Monte Carlo simulation of the electron transport through thin slabs: A
+  comparative study of PENELOPE, GEANT3, GEANT4, EGSnrc and MCNPX",,,,
+physics/0612045,"Dose distribution in water for monoenergetic photon point sources in the
+  energy range of interest in brachytherapy: Monte Carlo simulations with
+  PENELOPE and GEANT4",,,,
+physics/0701046,"A scalable Computer-Aided Detection system for microcalcification
+  cluster identification in a pan-European distributed database of mammograms",,,,
+physics/0701053,"An Automatic System to Discriminate Malignant from Benign Massive
+  Lesions on Mammograms",,,,
+physics/0701084,"A scalable system for microcalcification cluster automated detection in
+  a distributed mammographic database",,,,
+physics/0701196,"Application of Macro Response Monte Carlo method for electron spectrum
+  simulation",,,,
+physics/0701243,"A multi-scale approach to the computer-aided detection of
+  microcalcification clusters in digital mammograms",,,,
+physics/0701244,"An automatic system to discriminate malignant from benign massive
+  lesions in mammograms",,,,
+physics/0701245,Lung nodule detection in low-dose and high-resolution CT scans,,,,
+physics/0701326,"Experimental evidence for phase synchronization transitions in human
+  cardio-respiratory system",,,,
+physics/0702114,Detecting and localizing the foci in human epileptic seizures,,,,
+physics/0702241,"Imaging cardiac dynamics using low-cost ultra-high-power light emitting
+  diodes and voltage-sensitive dyes",,,,
+physics/0703077,"Emulsion Cloud Chamber technique to measure the fragmentation of a
+  high-energy carbon beam",,,,
+physics/0703118,Single-Scattering Optical Tomography,,,,
+physics/9708025,"The detective Modulation Transfer Function applied to scanned digital
+  radiographic detectors",,,,
+physics/9711006,An Uncontrolled Toy That Can Walk But Cannot Stand Still,,,,
+physics/9804030,"Discrimination of the Healthy and Sick Cardiac Autonomic Nervous System
+  by a New Wavelet Analysis of Heartbeat Intervals",,,,
+physics/9808008,"Quantitative analysis by renormalized entropy of invasive
+  electroencephalograph recordings in focal epilepsy",,,,
+physics/9810002,"Instability and `Sausage-String' Appearance in Blood Vessels during High
+  Blood Pressure",,,,
+physics/9812039,X-ray Imaging Using a Hybrid Photon Counting GaAs Pixel Detector,,,,
+physics/9901007,"Receiver-Operating-Characteristic Analysis Reveals Superiority of
+  Scale-Dependent Wavelet and Spectral Measures for Assessing Cardiac
+  Dysfunction",,,,
+physics/9902005,"A Bayesian test for the appropriateness of a model in the biomagnetic
+  inverse problem",,,,
+physics/9902030,"A Method to Determine the In-Air Spatial Spread of Clinical Electron
+  Beams",,,,
+physics/9904061,"Assessing the risk from the depleted uranium weapons used in Operation
+  Allied Force",,,,
+physics/9904065,"Estimation of light transport parameters in biological media using
+  coherent backscattering",,,,
+physics/9905013,Conditions for the Formation of Axisymmetric Biconcave Vesicles,,,,
+physics/9909017,"Kullback-Leibler and Renormalized Entropy: Applications to EEGs of
+  Epilepsy Patients",,,,
+physics/9911015,Is the best estimate of power equal to the power of the best estimate?,,,,
+physics/9911017,"The RR interval spectrum, the ECG signal and aliasing",,,,
+physics/9911018,"Dirac's Representation Theory as a Framework for Signal Theory. I.
+  Discrete Finite Signals",,,,
+physics/9911019,"Dirac's Representation Theory as a Framework for Signal Theory. II.
+  Infinite Duration and Continuous Signals",,,,
+physics/9911039,Correlation Dimension Maps of EEG from Epileptic Absences,,,,

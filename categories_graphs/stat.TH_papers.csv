@@ -1,0 +1,1408 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+nlin/0508001,"Automatic Filters for the Detection of Coherent Structure in
+  Spatiotemporal Systems",2.690560942894829e-05,0.0,16.0,0.0
+math/0512443,"Conciliation of Bayes and Pointwise Quantum State Estimation: Asymptotic
+  information bounds in quantum statistics",1.8824549279078044e-05,6.99878259327376e-06,11.0,3.0
+math/0406526,The empirical process on Gaussian spherical harmonics,1.674287292816554e-05,0.0,9.0,0.0
+math/0610115,Better Bell inequalities (passion at a distance),1.289761945800534e-05,1.0395199336880597e-07,14.0,1.0
+math/0611589,High Dimensional Statistical Inference and Random Matrices,1.1803089523260526e-05,0.0,8.0,0.0
+cond-mat/0504025,Point process model of 1/f noise versus a sum of Lorentzians,1.0893747286915562e-05,7.046440502284184e-06,12.0,3.0
+math/0701897,Record indices and age-ordered frequencies in Gibbs random partitions,1.0422675742783328e-05,0.0,4.0,0.0
+q-bio/0511009,"The identifiability of tree topology for phylogenetic models, including
+  covarion and mixture models",9.869783738819311e-06,1.930752561121069e-06,5.0,4.0
+math/0503056,"A Class of Generalized Hyperbolic Continuous Time Integrated Stochastic
+  Volatility Likelihood Models",9.591424812622478e-06,0.0,3.0,1.0
+math/0611213,A new method of normal approximation,9.431493999082915e-06,0.0,3.0,1.0
+math/0508446,On filtering of Markov chains in strong noise,9.087592082995425e-06,0.0,2.0,1.0
+math/0502432,A Bayes method for a monotone hazard rate via S-paths,8.587102227714017e-06,0.0,2.0,1.0
+math/0701854,Maximum Likelihood Estimation for q-Exponential (Tsallis) Distributions,7.98853296797724e-06,1.990182755160072e-06,10.0,1.0
+math/0506522,Inference Under Convex Cone Alternatives for Correlated Data,7.823249950624542e-06,0.0,2.0,1.0
+math-ph/0402005,"Estimators, escort probabilities, and phi-exponential families in
+  statistical physics",7.538937456707279e-06,1.083341907074371e-06,6.0,3.0
+math/0507452,Statistical duality of the Laplace distribution,7.473654530893044e-06,0.0,2.0,0.0
+math/0701181,Distances between time-series and their autocorrelation statistics,7.371368186882868e-06,0.0,2.0,0.0
+math/0505360,"On large-sample estimation and testing via quadratic inference functions
+  for correlated data",7.247144870069399e-06,0.0,1.0,1.0
+math/0407033,Phylogenetic Algebraic Geometry,7.23425425655091e-06,3.203217335499551e-05,7.0,5.0
+math/0601273,Free Exponential Families as Kernel Families,7.038216650909551e-06,6.633942517200226e-07,5.0,1.0
+math/0508299,"Linear Latent Structure Analysis: from Foundations to Algorithms and
+  Applications",6.740874060047072e-06,0.0,3.0,0.0
+math/0411462,Statistically dual distributions and estimation of the parameters,6.600078973232601e-06,1.990182755160072e-06,3.0,1.0
+math/0512224,"Approximation Operators, Exponential, q-Exponential, and Free
+  Exponential Families",6.521728728148855e-06,6.633942517200226e-07,4.0,2.0
+math/0507102,On the strong consistency of asymptotic M-estimators,6.4407301742166266e-06,0.0,1.0,0.0
+math/0212076,Two non-regular extensions of the large deviation bound,6.284980371035651e-06,1.990182755160072e-06,2.0,1.0
+math/0610451,Three Counterexamples on Semigraphoids,6.265747184575551e-06,9.38537283816614e-08,5.0,1.0
+math/0503109,"Tracy--Widom limit for the largest eigenvalue of a large class of
+  complex sample covariance matrices",6.220971014790308e-06,1.990182755160072e-06,3.0,2.0
+math/0212077,"Limiting behavior of relative R\'enyi entropy in a non-regular location
+  shift family",6.0207732049390815e-06,0.0,1.0,1.0
+math/0511141,On the enumeration of some D-optimal designs,5.923885406077568e-06,0.0,5.0,0.0
+math/0605555,"Ultrametric embedding: application to data fingerprinting and to fast
+  data clustering",5.693148251288895e-06,0.0,2.0,1.0
+math/0612507,"Asymptotic normality for estimators of the additive regression
+  components under random censorship",5.655144290770314e-06,0.0,1.0,1.0
+math/0702326,"Uniform limit laws of the logarithm for estimators of the additive
+  regression function in the presence of right censored data",5.655144290770314e-06,0.0,1.0,1.0
+math/0609549,Model selection for Poisson processes,5.430880348249121e-06,0.0,2.0,0.0
+math/0612691,Option pricing with log-stable L\'{e}vy processes,5.359508196557222e-06,0.0,1.0,0.0
+math/0410604,Phylogenetic ideals and varieties for the general Markov model,5.306812264770444e-06,1.1799493256577835e-05,4.0,7.0
+math/0502434,"High-resolution asymptotics for the angular bispectrum of spherical
+  random fields",5.065922094608398e-06,0.0,11.0,0.0
+quant-ph/0307191,"On Quantum Statistical Inference, II",4.395471748138973e-06,8.168660562224176e-08,1.0,4.0
+quant-ph/0110137,Accardi contra Bell (cum mundi): The Impossible Coupling,4.326169031857295e-06,5.744379408314617e-05,5.0,10.0
+math/0501298,On Mean Divergence Measures,4.199458373837573e-06,0.0,4.0,0.0
+math/0607044,"High-frequency asymptotics for subordinated isotropic fields on an
+  Abelian compact group",4.199458373837573e-06,0.0,3.0,0.0
+q-bio/0702050,"Identifying evolutionary trees and substitution parameters for the
+  general Markov model with invariable sites",4.150227814153213e-06,0.0,2.0,1.0
+math/0508297,Convergence of Estimators in LLS Analysis,4.137346715430839e-06,0.0,3.0,1.0
+math/0606160,Student's t-test without symmetry conditions,4.100798180806678e-06,0.0,3.0,0.0
+math/0509390,"Algebraic Factor Analysis: Tetrads, Pentads and Beyond",4.026104302891667e-06,5.970548265480216e-06,3.0,2.0
+math/0409132,The Mathematics of Phylogenomics,4.015220913326475e-06,8.236170153647516e-09,3.0,4.0
+math/0509430,"A Central Limit Theorem and Higher Order Results for the Angular
+  Bispectrum",3.986461853678461e-06,0.0,8.0,0.0
+math/0509160,"Conjecture of error boundedness in a new Hermite interpolation problem
+  via splines of odd-degree",3.924607802443545e-06,0.0,2.0,0.0
+nlin/0409024,Quantifying Self-Organization with Optimal Predictors,3.917103193666158e-06,1.9827567001035044e-06,4.0,3.0
+math/0703609,Algebraic statistical models,3.845978222793627e-06,0.0,1.0,0.0
+q-bio/0611032,Towards the Human Genotope,3.806942633572656e-06,0.0,2.0,0.0
+math/0401389,"Bivariate Uniqueness and Endogeny for the Logistic Recursive
+  Distributional Equation",3.762684255951876e-06,0.0,4.0,0.0
+physics/0602107,"The Exponent Expansion: An Effective Approximation of Transition
+  Probabilities of Diffusion Processes and Pricing Kernels of Financial
+  Derivatives",3.6672110930754415e-06,0.0,2.0,0.0
+math/0508268,Estimation of a Covariance Matrix with Zeros,3.62335329328243e-06,0.0,2.0,0.0
+math/0605292,Linear and convex aggregation of density estimators,3.62335329328243e-06,0.0,2.0,1.0
+math/0703871,A Latent Process Model for Dementia and Psychometric Tests,3.62335329328243e-06,0.0,2.0,0.0
+math/0605479,Saturation points on faces of a rational polyhedral cone,3.5324768517048674e-06,0.0,1.0,0.0
+astro-ph/0610865,Power Laws and the Cosmic Ray Energy Spectrum,3.4718492594993365e-06,0.0,3.0,0.0
+math/0206184,Fast algorithms of Bayesian Segmentation of Images,3.3749066596554898e-06,0.0,1.0,0.0
+math/0701314,Statistical eigen-inference from large Wishart matrices,3.334734468198438e-06,0.0,1.0,0.0
+math/0610218,"Gamma Tilting Calculus for GGC and Dirichlet means with applications to
+  Linnik processes and Occupation Time Laws for Randomly Skewed Bessel
+  Processes and Bridges",3.2851039614606538e-06,0.0,1.0,1.0
+physics/0309031,"The probability of making a correct decision in hypotheses testing as
+  estimator of quality of planned experiments",3.236525465180181e-06,1.990182755160072e-06,2.0,1.0
+math/0610679,Algebraic Techniques for Gaussian Models,3.1686962871804875e-06,1.990182755160072e-06,1.0,1.0
+math/0606243,Hyperanalytic Denoising,3.1564676950366884e-06,0.0,2.0,0.0
+math-ph/0702058,Inequalities for quantum Fisher information,3.1564676950366884e-06,0.0,2.0,0.0
+math/0701210,Undercomplete Blind Subspace Deconvolution,3.1564676950366884e-06,0.0,2.0,0.0
+quant-ph/0301059,"Time, Finite Statistics, and Bell's Fifth Position",3.0500854412407787e-06,5.977974320536784e-06,1.0,8.0
+math/0504058,"Minimax and adaptive estimation of the Wigner function in quantum
+  homodyne tomography with noisy data",3.0472482127272877e-06,0.0,2.0,3.0
+math/0606520,Multivariate risks and depth-trimmed regions,3.0472482127272877e-06,0.0,2.0,0.0
+math/0604246,Normalized information-based divergences,3.0457607762713908e-06,0.0,3.0,0.0
+math/0611130,"Probability distribution of distances between local extrema of random
+  number series",2.923024895913817e-06,0.0,1.0,0.0
+math/0204312,"On the universality of the probability distribution of the product
+  $B^{-1}X$ of random matrices",2.814864531334454e-06,0.0,2.0,1.0
+math/0608592,"Puzzles of Anthropic Reasoning Resolved Using Full Non-indexical
+  Conditioning",2.812327263159591e-06,4.035478496394065e-07,3.0,2.0
+math/0609224,Sharp probability estimates for generalized Smirnov statistics,2.759195672449716e-06,0.0,2.0,0.0
+cs/0306036,Sequence Prediction based on Monotone Complexity,2.7504423588240776e-06,0.0,2.0,0.0
+math/0406284,"Barvinok's Rational Functions: Algorithms and Applications to
+  Optimization, Statistics, and Algebra",2.7483505091801213e-06,0.0,3.0,0.0
+math/0504606,"Painleve formulas of the limiting distributions for non-null complex
+  sample covariance matrices",2.71052017275583e-06,7.4260550565674335e-09,3.0,2.0
+hep-ph/0207130,"Signal Significance in the Presence of Systematic and Statistical
+  Uncertainties",2.69796549044874e-06,1.2236652921786508e-05,3.0,2.0
+math/0503394,Baysian inference via classes of normalized random measures,2.6151694023109303e-06,0.0,2.0,2.0
+math/0602556,"Exact inequalities for sums of asymmetric random variables, with
+  applications",2.5280537625310805e-06,0.0,3.0,1.0
+physics/0703180,"A Closed-Form Approximation of Likelihood Functions for Discretely
+  Sampled Diffusions: the Exponent Expansion",2.515000931965156e-06,0.0,1.0,0.0
+math/0411128,Why Delannoy numbers?,2.4711431321721443e-06,0.0,1.0,0.0
+math/0301363,"Asymptotic equivalence of the jackknife and infinitesimal jackknife
+  variance estimators for some smooth statistics",2.4711431321721443e-06,0.0,1.0,0.0
+math/0503283,A dynamical system model of the traffic assignment problem,2.4711431321721443e-06,0.0,1.0,0.0
+math/0605740,Sharp thresholds for high-dimensional and noisy recovery of sparsity,2.4711431321721443e-06,0.0,1.0,0.0
+math/0609678,"Strong consistency of MLE for finite mixtures of location-scale
+  distributions when the ratios of the scale parameters are exponentially small",2.4711431321721443e-06,0.0,1.0,0.0
+math/0609514,"Sequential Monte Carlo smoothing with application to parameter
+  estimation in non-linear state space models",2.4711431321721443e-06,0.0,1.0,0.0
+math/0606576,"Hierarchical orbital decompositions and extended decomposable
+  distributions",2.4711431321721443e-06,0.0,1.0,0.0
+math/0601631,"Computing maximum likelihood estimates in recursive linear models with
+  correlated errors",2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0603031,"A Mutagenetic Tree Hidden Markov Model for Longitudinal Clonal HIV
+  Sequence Data",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0601161,"Monte Carlo Algorithm for Least Dependent Non-Negative Mixture
+  Decomposition",2.4711431321721443e-06,0.0,1.0,0.0
+nlin/0611044,"Why the Maxwellian Distribution is the Attractive Fixed Point of the
+  Boltzmann Equation",2.4711431321721443e-06,0.0,1.0,0.0
+math/0502535,"The empirical eigenvalue distribution of a Gram matrix: From
+  independence to stationarity",2.4711431321721443e-06,0.0,1.0,0.0
+math/0406603,"Convergence of the empirical process in Mallows distance, with an
+  application to bootstrap performance",2.4711431321721443e-06,0.0,1.0,0.0
+math-ph/0212005,Why Maximum Entropy? A Non-axiomatic Approach,2.4711431321721443e-06,0.0,1.0,1.0
+q-bio/0401033,Parametric Inference for Biological Sequence Analysis,2.4711431321721443e-06,0.0,1.0,1.0
+math/0502559,"Fisher Information Matrix of General Stable Distributions Close to the
+  Normal Distribution",2.4711431321721443e-06,0.0,1.0,0.0
+math/0610742,Clustering of spectra and fractals of regular graphs,2.4711431321721443e-06,0.0,1.0,1.0
+math/0511503,"Inference in Perturbation Models, Finite Mixtures and Scan Statistics:
+  The Volume-of-Tube Formula",2.4711431321721443e-06,0.0,1.0,2.0
+math/0412535,Compressed polytopes and statistical disclosure limitation,2.4711431321721443e-06,0.0,1.0,3.0
+math/0609789,State space description of national economies: the V4 countries,2.4711431321721443e-06,0.0,1.0,0.0
+math/0703731,"A characterization of ARMA and Fractional ARIMA models with infinitely
+  divisible innovations",2.4711431321721443e-06,0.0,1.0,0.0
+math/0702440,"Bahadur representation of sample quantiles for functional of Gaussian
+  dependent sequences under a minimal assumption",2.4711431321721443e-06,0.0,1.0,0.0
+math/0703341,"Large and moderate deviations principles for kernel estimators of the
+  multivariate regression",2.4711431321721443e-06,0.0,1.0,0.0
+math/0703903,Functional deconvolution in a periodic setting: Uniform case,2.4711431321721443e-06,0.0,1.0,0.0
+math/0701104,"Improving power in genome-wide association studies: weights tip the
+  scale",2.4711431321721443e-06,0.0,1.0,0.0
+math/0701331,On the non-arbitrary assignment of equi-probable priors,2.4711431321721443e-06,0.0,1.0,0.0
+math/0701290,"Adaptive procedures in convolution models with known or partially known
+  noise distribution",2.4711431321721443e-06,0.0,1.0,0.0
+math/0701429,"Minimal and minimal invariant Markov bases of decomposable models for
+  contingency tables",2.4711431321721443e-06,0.0,1.0,0.0
+math/0604513,"Resampling Based Empirical Prediction: An Application to Small Area
+  Estimation",2.4711431321721443e-06,0.0,1.0,0.0
+math/0510013,Network Kriging,2.4711431321721443e-06,0.0,1.0,0.0
+math/0510628,Towards Reconciliation between Bayesian and Frequentist Reasoning,2.4711431321721443e-06,0.0,1.0,0.0
+math/0607019,"Concentration for norms of infinitely divisible vectors with independent
+  components",2.4711431321721443e-06,0.0,1.0,0.0
+math/0611017,Efficient initial designs for binary response data,2.4711431321721443e-06,0.0,1.0,0.0
+math/0610233,Bounds on the number of inference functions of a graphical model,2.4711431321721443e-06,0.0,1.0,0.0
+math/0612811,Adaptive Allocation Theory in Clinical Trials,2.4711431321721443e-06,0.0,1.0,0.0
+math/0702485,Linear Prediction of Long-Range Dependent Time Series,2.4711431321721443e-06,0.0,1.0,0.0
+math/0702564,Convex Rank Tests and Semigraphoids,2.4534422059124376e-06,9.38537283816614e-08,2.0,1.0
+math/0603430,On the Inference of Spatial Continuity using Spartan Random Field Models,2.4060086373771908e-06,0.0,1.0,2.0
+cs/0606048,A New Quartet Tree Heuristic for Hierarchical Clustering,2.3936107127906745e-06,0.0,3.0,1.0
+cs/0510007,"Network Inference from TraceRoute Measurements: Internet Topology
+  `Species'",2.3879263448248617e-06,1.9827567001035044e-06,2.0,2.0
+cs/0406011,"Blind Construction of Optimal Nonlinear Recursive Predictors for
+  Discrete Sequences",2.3524240798252057e-06,0.0,2.0,2.0
+math/0606077,Model Building for Semiparametric Mixtures,2.3469198153586743e-06,0.0,1.0,0.0
+math/0703854,Fast learning rates in statistical inference through aggregation,2.27910810532043e-06,0.0,2.0,0.0
+math/0609418,"Spectrum estimation for large dimensional covariance matrices using
+  random matrix theory",2.2414509584843324e-06,1.990182755160072e-06,1.0,1.0
+math/0408270,Solving the Likelihood Equations,2.1647026198951348e-06,3.980365510320144e-06,2.0,1.0
+math/0508190,"On a simple strategy weakly forcing the strong law of large numbers in
+  the bounded forecasting game",2.087073078468716e-06,0.0,2.0,1.0
+math-ph/0008017,"Maximum entropy, fluctuations and priors",2.054945556686505e-06,0.0,2.0,11.0
+math/0511290,Indispensable monomials of toric ideals and Markov bases,2.004257533926402e-06,0.0,1.0,1.0
+math/0603108,A generalization of the integer linear infeasibility problem,2.004257533926402e-06,0.0,1.0,1.0
+math/0408165,"Eigenvalues of Large Sample Covariance Matrices of Spiked Population
+  Models",1.9928052983771373e-06,3.980365510320144e-06,2.0,2.0
+quant-ph/0307125,The statistical strength of nonlocality proofs,1.9910555650428585e-06,0.0,2.0,9.0
+math/0605173,Geometry of rank tests,1.9597766311743006e-06,0.0,2.0,4.0
+math/0503314,"A note on exact likelihoods of the Carr-Wu models for leverage effects
+  and volatility in financial economics",1.9515232720847105e-06,0.0,1.0,0.0
+math/0511226,"Asymptotic expansion for inverse moments of binomial and Poisson
+  distributions",1.9471678796179624e-06,0.0,1.0,1.0
+math/0609488,"Distributions of linear functionals of two parameter Poisson--Dirichlet
+  random measures",1.9392958497039126e-06,0.0,2.0,1.0
+math/0406533,The Maximum Likelihood Degree,1.9208472700474983e-06,1.1654770457394226e-05,2.0,3.0
+cs/0502076,Learning nonsingular phylogenies and hidden Markov models,1.8950380516170012e-06,0.0,1.0,0.0
+q-bio/0406048,"How much can evolved characters tell us about the tree that generated
+  them?",1.8950380516170012e-06,0.0,1.0,0.0
+math/0409436,"Causal Inference for Complex Longitudinal Data: The Continuous Time
+  g-Computation Formula",1.8950380516170012e-06,0.0,1.0,0.0
+math/0611473,Optimal rates for plug-in estimators of density level sets,1.8950380516170012e-06,0.0,1.0,0.0
+math/0302079,"Selection Criterion for Log-Linear Models Using Statistical Learning
+  Theory",1.8950380516170012e-06,0.0,1.0,0.0
+math/0410271,Statistical modeling of causal effects in continuous time,1.8950380516170012e-06,0.0,1.0,0.0
+math/0512141,"Asympyotic expansions for infinite weighted convolutions of light
+  subexponential distributions",1.8950380516170012e-06,0.0,1.0,1.0
+math/0604266,Spatial Neutral to the Right Species Sampling Mixture Models,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0111054,The similarity metric,1.8563310916148584e-06,0.0,2.0,3.0
+math/0506586,"Distribution Functions for Edge Eigenvalues in Orthogonal and Symplectic
+  Ensembles: Painlev\'e Representations II",1.8495878140511871e-06,0.0,2.0,1.0
+math/0405571,Asymptotics in Quantum Statistics,1.8373402587771173e-06,0.0,3.0,3.0
+math/0605340,"Toward the best constant factor for the Rademacher-Gaussian tail
+  comparison",1.8159675766053069e-06,0.0,2.0,1.0
+math/0607361,The structure of self-organized blogosphere,1.7097841957691115e-06,0.0,2.0,1.0
+math/0610438,Real and Complex Independent Subspace Analysis by Generalized Variance,1.703003024765287e-06,0.0,1.0,1.0
+math/0604634,Estimation in spin glasses: A first step,1.703003024765287e-06,0.0,1.0,0.0
+math/0509080,"Estimation of a k-monotone density, part 1: characterizations
+  consistency, and minimax lower bounds",1.703003024765287e-06,0.0,1.0,1.0
+math/0703706,Optimal rates and adaptation in the single-index model using aggregation,1.703003024765287e-06,0.0,1.0,0.0
+math/0703612,Independent Process Analysis without A Priori Dimensional Information,1.703003024765287e-06,0.0,1.0,0.0
+math/0703848,"No fast exponential deviation inequalities for the progressive mixture
+  rule",1.703003024765287e-06,0.0,1.0,0.0
+math/0702284,Localisation of Geometric Anisotropy,1.703003024765287e-06,0.0,1.0,0.0
+math/0605623,The Hyperanalytic Wavelet Transform,1.703003024765287e-06,0.0,1.0,1.0
+math/0507021,A New Efficient Algorithm for Construction of LLS Models,1.60698551133943e-06,0.0,1.0,1.0
+math/0507025,"Linear Latent Structure Analysis: Mixture Distribution Models with
+  Linear Constraints",1.60698551133943e-06,0.0,1.0,1.0
+math/0603543,Application of Random Matrix Theory to Multivariate Statistics,1.589953986931168e-06,0.0,2.0,1.0
+math/0603030,On inequalities for sums of bounded random variables,1.5855255443832496e-06,0.0,1.0,2.0
+cs/0101019,General Loss Bounds for Universal Sequence Prediction,1.5194444616683535e-06,0.0,1.0,0.0
+q-bio/0410012,Exact Asymptotic Results for a Model of Sequence Alignment,1.5109679979135728e-06,0.0,1.0,1.0
+quant-ph/9808009,Fisher information in quantum statistics,1.509964045366516e-06,0.0,1.0,4.0
+math/0401388,A survey of max-type recursive distributional equations,1.4835344226490424e-06,0.0,1.0,2.0
+math/0503055,"Analysis of a Class of Likelihood Based Continuous Time Stochastic
+  Volatility Models including Ornstein-Uhlenbeck Models in Financial Economics",1.4629592412006444e-06,0.0,1.0,2.0
+math/0508283,"Bayesian Poisson process partition calculus with an application to
+  Bayesian L\'evy moving averages",1.4629592412006444e-06,0.0,1.0,0.0
+math/0409610,"A rate of convergence result for the largest eigenvalue of complex white
+  Wishart matrices",1.4629592412006444e-06,0.0,1.0,1.0
+math/0507172,"Deterministic equivalents for certain functionals of large random
+  matrices",1.4341539871728873e-06,0.0,1.0,2.0
+math/0308077,On the Chernoff bound for efficiency of quantum hypothesis testing,1.423679349344612e-06,0.0,1.0,0.0
+math/0502099,Taking Bigger Metropolis Steps by Dragging Fast Variables,1.3651311064552068e-06,5.970548265480216e-06,1.0,2.0
+math/0511468,Learning by mirror averaging,1.3189329710618589e-06,0.0,0.0,3.0
+math/0412537,"Asymptotic expansions for infinite weighted convolutions of heavy tail
+  distributions and applications",1.3189329710618589e-06,0.0,0.0,2.0
+math/0009204,"Processes with Long Memory: Regenerative Construction and Perfect
+  Simulation",1.3189329710618589e-06,0.0,0.0,2.0
+math/0501302,"On a Difference of Jensen Inequality and its Applications to Mean
+  Divergence Measures",1.3189329710618589e-06,0.0,0.0,2.0
+math/0507180,Fast learning rates for plug-in classifiers under the margin condition,1.3189329710618589e-06,0.0,0.0,2.0
+math/0505683,Lower deviation probabilities for supercritical Galton-Watson processes,1.3189329710618589e-06,0.0,0.0,2.0
+math/0611117,"Minimax estimation of the Wigner function in quantum homodyne tomography
+  with ideal detectors",1.3189329710618589e-06,0.0,0.0,2.0
+math/0607364,"Counting faces of randomly-projected polytopes when the projection
+  radically lowers dimension",1.3189329710618589e-06,0.0,0.0,2.0
+math-ph/0009020,What is the question that MaxEnt answers? A probabilistic interpretation,1.3189329710618589e-06,0.0,0.0,5.0
+math/0509367,"Game theoretic derivation of discrete distributions and discrete pricing
+  formulas",1.3189329710618589e-06,0.0,0.0,3.0
+math/0307330,"Spectral measure of large random Hankel, Markov and Toeplitz matrices",1.3189329710618589e-06,0.0,0.0,1.0
+math/0405511,"The suppport reduction algorithm for computing nonparametric function
+  estimates in mixture models",1.3189329710618589e-06,0.0,0.0,3.0
+math/0403373,Grade of Membership Analysis: One Possible Approach to Foundations,1.3189329710618589e-06,0.0,0.0,4.0
+math/0509575,"Evolutionary Trees and the Ising Model on the Bethe Lattice: a Proof of
+  Steel's Conjecture",1.3189329710618589e-06,0.0,0.0,1.0
+math/9910011,Estimating the J function without edge correction,1.3189329710618589e-06,0.0,0.0,1.0
+math/0606154,"High Frequency Asymptotics for Wavelet-Based Tests for Gaussianity and
+  Isotropy on the Torus",1.3189329710618589e-06,0.0,0.0,2.0
+math/0701718,"Notes on the occupancy problem with infinitely many boxes: general
+  asymptotics and power laws",1.3189329710618589e-06,0.0,0.0,1.0
+math/0606599,Asymptotics for spherical needlets,1.3189329710618589e-06,0.0,0.0,2.0
+math/0511216,"Estimating Ratios of Normalizing Constants Using Linked Importance
+  Sampling",1.3189329710618589e-06,0.0,0.0,1.0
+math/0501301,Generalized Symmetric Divergence Measures and Inequalities,1.3189329710618589e-06,0.0,0.0,2.0
+math/0501303,Inequalities Among Symmetric Divergence Measures and Their Refinement,1.3189329710618589e-06,0.0,0.0,2.0
+math/0607378,"Non parametric threshold estimation for models with stochastic diffusion
+  coefficients and jumps",1.3189329710618589e-06,0.0,0.0,1.0
+math/0605600,Star-shaped distributions and their generalizations,1.3189329710618589e-06,0.0,0.0,1.0
+math/0605148,"Strong consistency of MLE for finite mixtures of location-scale
+  distributions when the scale parameters are exponentially small (full
+  version)",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0406015,"Information theory, multivariate dependence, and genetic network
+  inference",1.3189329710618589e-06,0.0,0.0,1.0
+math/0604075,"Nonnegative mean squared prediction error estimation in small area
+  estimation",1.3189329710618589e-06,0.0,0.0,1.0
+math/0604172,Weighted Hypothesis Testing,1.3189329710618589e-06,0.0,0.0,1.0
+math/0009129,"Minimax Entropy and Maximum Likelihood. Complementarity of tasks,
+  identity of solutions",1.3189329710618589e-06,0.0,0.0,1.0
+math/0409471,Sharp optimality for density deconvolution with dominating bias,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0412037,"A Statistical Framework for Efficient Monitoring of End-to-End Network
+  Properties",1.3189329710618589e-06,0.0,0.0,1.0
+math/0701668,Searching for a trail of evidence in a maze,1.3189329710618589e-06,0.0,0.0,1.0
+math/0505142,Deconvolution in white noise with a random blurring function,1.3189329710618589e-06,0.0,0.0,1.0
+math/0610578,"Approximate cost-efficient sequential designs for binary response models
+  with application to switching measurements",1.3189329710618589e-06,0.0,0.0,1.0
+math/0109002,"Asymptotic accuracy of the jackknife variance estimator for certain
+  smooth statistics",1.3189329710618589e-06,0.0,0.0,1.0
+math/0506290,"Hurst exponent estimation of locally self-similar Gaussian processes
+  using sample quantiles",1.3189329710618589e-06,0.0,0.0,1.0
+math/0507042,"Limit theorems for weighted samples with applications to Sequential
+  Monte Carlo Methods",1.3189329710618589e-06,0.0,0.0,1.0
+math/0610518,Asymptotic Properties of Covariate-Adjusted Adaptive Designs,1.3189329710618589e-06,0.0,0.0,1.0
+math/0703360,Likelihood ratio tests and singularities,1.3189329710618589e-06,0.0,0.0,1.0
+math/0703836,Forgetting of the initial distribution for Hidden Markov Models,1.3189329710618589e-06,0.0,0.0,1.0
+math/0408321,"Some improvements in numerical evaluation of symmetric stable density
+  and its derivatives",1.3189329710618589e-06,0.0,0.0,1.0
+math/9701205,"Confidence regions for means of multivariate normal distributions and a
+  non-symmetric correlation inequality for gaussian measure",1.3189329710618589e-06,0.0,0.0,1.0
+math/0612361,"Goodness-of-fit testing and quadratic functional estimation from
+  indirect observations",1.3189329710618589e-06,0.0,0.0,1.0
+math/0601429,"Large and moderate deviations principles for recursive kernel estimators
+  of a multivariate density and its partial derivatives",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0411003,Updating seismic hazard at Parkfield,1.3189329710618589e-06,0.0,0.0,1.0
+math/0608570,"Integral representations of one dimensional projections for multivariate
+  stable densities",1.3189329710618589e-06,0.0,0.0,1.0
+math/0410214,Aggregation for Regression Learning,1.3189329710618589e-06,0.0,0.0,1.0
+math/0605187,The Brouwer Lecture 2005: Statistical estimation with model selection,1.3189329710618589e-06,0.0,0.0,1.0
+math/0406218,Central Limit Theorem and convergence to stable laws in Mallows distance,1.3189329710618589e-06,0.0,0.0,1.0
+math/0411333,"The empirical distribution of the eigenvalues of a Gram matrix with a
+  given variance profile",1.3189329710618589e-06,0.0,0.0,1.0
+math/0002061,Is Bootstrap Really Helpful in Point Process Statistics?,1.3189329710618589e-06,0.0,0.0,2.0
+math/0003098,Reconstruction of Gray-scale Images,1.3189329710618589e-06,0.0,0.0,1.0
+math/0409045,Mimicking counterfactual outcomes to estimate causal effects,1.3189329710618589e-06,0.0,0.0,2.0
+math/0305053,Poisson calculus for spatial neutral to the right processes,1.3189329710618589e-06,0.0,0.0,2.0
+math/0510662,"Capital process and optimality properties of a Bayesian Skeptic in
+  coin-tossing games",1.3189329710618589e-06,0.0,0.0,3.0
+math/0511324,Multiple Multidimensional Morse Wavelets,1.3189329710618589e-06,0.0,0.0,3.0
+math/0511502,"The Volume-of-Tubes Formula: Computational Methods and Statistical
+  Applications",1.3189329710618589e-06,0.0,0.0,1.0
+math/0608100,"Separation Theorem for K-Independent Subspace Analysis with Sufficient
+  Conditions",1.3189329710618589e-06,0.0,0.0,3.0
+math/0405044,"Polyhedral conditions for the nonexistence of the MLE for hierarchical
+  log-linear models",1.3189329710618589e-06,0.0,0.0,1.0
+math/0309355,"On the largest eigenvalue of Wishart matrices with identity covariance
+  when n, p and p/n tend to infinity",1.3189329710618589e-06,0.0,0.0,8.0
+math/0406077,A tutorial introduction to the minimum description length principle,1.3189329710618589e-06,0.0,0.0,1.0
+math/0006233,Algorithmic Statistics,1.3189329710618589e-06,0.0,0.0,2.0
+math/0508267,Multiple Testing and Error Control in Gaussian Graphical Model Selection,1.3189329710618589e-06,0.0,0.0,1.0
+math/0508266,"Maximum Likelihood Estimation in Gaussian Chain Graph Models under the
+  Alternative Markov Property",1.3189329710618589e-06,0.0,0.0,1.0
+math/0405572,Teleportation into Quantum Statistics,1.3189329710618589e-06,0.0,0.0,2.0
+math/0610846,Frequentist statistics as a theory of inductive inference,1.3189329710618589e-06,0.0,0.0,1.0
+math/0110086,Randomness,1.3189329710618589e-06,0.0,0.0,1.0
+math/0405595,An invitation to quantum tomography (II),1.3189329710618589e-06,0.0,0.0,1.0
+math/0401379,A finiteness theorem for Markov bases of hierarchical models,1.3189329710618589e-06,0.0,0.0,1.0
+math/0507151,"Likelihood inference for incompletely observed stochastic processes:
+  ignorability conditions",1.3189329710618589e-06,0.0,0.0,1.0
+math/0610402,"A Newton-Like Algorithm for Likelihood Maximization: The Robust-Variance
+  Scoring Algorithm",1.3189329710618589e-06,0.0,0.0,1.0
+math/0106002,"Extension of Fill's perfect rejection sampling algorithm to general
+  chains (Extended abstract)",1.3189329710618589e-06,0.0,0.0,1.0
+math/0608663,"Estimating the intensity of a random measure by histogram type
+  estimators",1.3189329710618589e-06,0.0,0.0,1.0
+math/0509081,"Estimation of a $k$-monotone density: limit distribution theory and the
+  spline connection",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0410033,"Four basic symmetry types in the universal 7-cluster structure of 143
+  complete bacterial genomic sequences",1.3189329710618589e-06,0.0,0.0,1.0
+math/0606709,"Some characterizations of the spherical harmonics coefficients for
+  isotropic random fields",1.3189329710618589e-06,0.0,0.0,1.0
+math/0605791,Subgeometric rates of convergence of f-ergodic strong Markov processes,1.3189329710618589e-06,0.0,0.0,2.0
+math/0501297,"Generalized Arithmetic and Geometric Mean Divergence Measure and their
+  Statistical Aspects",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0112019,Distribution of Mutual Information,,,,
+cs/0305052,On the Existence and Convergence Computable Universal Priors,,,,
+cs/0403025,Distribution of Mutual Information from Complete and Incomplete Data,,,,
+cs/0404057,Convergence of Discrete MDL for Sequential Prediction,,,,
+cs/0506022,Asymptotics of Discrete MDL for Online Prediction,,,,
+cs/0507060,The Entropy of a Binary Hidden Markov Process,,,,
+cs/0602092,"Inconsistent parameter estimation in Markov random fields: Benefits in
+  the computation-limited setting",,,,
+cs/0605009,On the Foundations of Universal Sequence Prediction,,,,
+cs/0605047,"Generalized Entropy Power Inequalities and Monotonicity Properties of
+  Information",,,,
+cs/0608049,"Solving non-uniqueness in agglomerative hierarchical clustering using
+  multidendrograms",,,,
+cs/0610134,A Markov Chain based method for generating long-range dependence,,,,
+cs/0610135,"Markov-modulated on/off processes for long-range dependent internet
+  traffic",,,,
+cs/0612124,Highly robust error correction by convex programming,,,,
+cs/0701052,"Time Series Forecasting: Obtaining Long Term Trends with Self-Organizing
+  Maps",,,,
+cs/0702018,Estimation of the Rate-Distortion Function,,,,
+gr-qc/0604017,Detecting Highly Oscillatory Signals by Chirplet Path Pursuit,,,,
+math-ph/0109023,"The von Neumann entropy and information rate for ideal quantum Gibbs
+  ensembles",,,,
+math-ph/0305016,"The von Neumann entropy and information rate for integrable quantum
+  Gibbs ensembles, 2",,,,
+math-ph/0509046,Uncertainty Principle and Quantum Fisher Information,,,,
+math-ph/0612005,Dynamical behavior of a large complex system,,,,
+math-ph/0612006,Stability of the dynamics of an asymmetric neural network,,,,
+math-ph/0702041,"Universal Fluctuations in Response Parameters of Systems in Isotropic
+  Random Environments",,,,
+math/0011059,Statistical analysis of the inhomogeneous telegrapher's process,,,,
+math/0012098,"Estimating the p-variation index of a sample function: An application to
+  financial data set",,,,
+math/0104083,"Sparsity vs. Statistical Independence in Adaptive Signal
+  Representations: A Case Study of the Spike Process",,,,
+math/0105252,"Extension of Fill's perfect rejection sampling algorithm to general
+  chains",,,,
+math/0107135,Nonparametric Volatility Density Estimation,,,,
+math/0110103,"The Generalized Spike Process, Sparsity, and Statistical Independence",,,,
+math/0111020,Fisher Information inequalities and the Central Limit Theorem,,,,
+math/0111152,Approximating distribution functions by iterated function systems,,,,
+math/0111153,"Statistical analysis of stochastic resonance with ergodic diffusion
+  noise",,,,
+math/0112032,Asymptotic normality of kernel type deconvolution estimators,,,,
+math/0112298,Annuities under random rates of interest - revisited,,,,
+math/0201273,Entropy and a generalisation of `Poincare's Observation',,,,
+math/0202136,Interruptible exact sampling in the passive case,,,,
+math/0203080,Estimating a structural distribution function by grouping,,,,
+math/0206006,An Illuminating Counterexample,,,,
+math/0206142,Nonparametric volatility density estimation for discrete time models,,,,
+math/0207033,Stochastic apportionment,,,,
+math/0207044,On-line tracking of a smooth regression function,,,,
+math/0210068,"Nonlinear Filtering of Diffusion Processes in Correlated Noise: Analysis
+  by Separation of Variables",,,,
+math/0210425,Estimating the structural distribution function of cell probabilities,,,,
+math/0211079,Combining kernel estimators in the uniform deconvolution problem,,,,
+math/0212007,"Asymptotic Normality of Nonparametric Kernel Type Deconvolution Density
+  Estimators: crossing the Cauchy boundary",,,,
+math/0212350,"Asymptotically efficient estimation of linear functionals in inverse
+  regression models",,,,
+math/0212395,Emerging applications of geometric multiscale analysis,,,,
+math/0212400,Pattern theory: the mathematics of perception,,,,
+math/0212410,"Hidden Markov and state space models: asymptotic analysis of exact and
+  approximate methods for prediction, filtering, smoothing and statistical
+  inference",,,,
+math/0212411,Statistical equivalence and stochastic process limit theorems,,,,
+math/0302016,"Nonparametric estimation of distribution and density functions in
+  presence of missing data: an IFS approach",,,,
+math/0304041,"Efficient Determination of Gibbs Estimators with Submodular Energy
+  Functions",,,,
+math/0304311,Identifying several biased coins encountered by a hidden random walk,,,,
+math/0305121,Robust Estimators under the Imprecise Dirichlet Model,,,,
+math/0305234,"Efficient estimation in the accelerated failure time model under cross
+  sectional sampling",,,,
+math/0305273,Parametric Estimation of Diffusion Processes Sampled at First Exit Times,,,,
+math/0306237,Rates of convergence for constrained deconvolution problem,,,,
+math/0306326,Chernoff's bound forms,,,,
+math/0308280,Markov bases of binary graph models,,,,
+math/0310006,"The marginalization paradox does not imply inconsistency for improper
+  priors",,,,
+math/0310223,Consistent Estimation of Pricing Kernels from Noisy Price Data,,,,
+math/0312056,Nonparametric Estimation in the Model of Moving Average,,,,
+math/0312132,"Approximation of integrals over asymptotic sets with applications to
+  probability and statistics",,,,
+math/0312215,"Eigenvalue Spacing Distribution for the Ensemble of Real Symmetric
+  Toeplitz Matrices",,,,
+math/0404095,Towards a theory of negative dependence,,,,
+math/0404277,Tracking of Historical Volatility,,,,
+math/0405038,Small contingency tables with large gaps,,,,
+math/0405046,The space of compatible full conditionals is a unimodular toric variety,,,,
+math/0405051,"Explicit representation of finite predictor coefficients and its
+  applications",,,,
+math/0405345,"Bounding the generalization error of convex combinations of classifiers:
+  balancing the dimensionality and the margins",,,,
+math/0405425,Reductions of Hidden Information Sources,,,,
+math/0405521,"Moderate deviations for non-linear functionals and empirical spectral
+  density of moving average processes",,,,
+math/0406173,Symmetric measures via moments,,,,
+math/0406221,"Suboptimal behaviour of Bayes and MDL in classification under
+  misspecification",,,,
+math/0406237,Adjusted Viterbi training,,,,
+math/0406424,Multiscale likelihood analysis and complexity penalized estimation,,,,
+math/0406425,Confidence balls in Gaussian regression,,,,
+math/0406427,Minimax estimation of linear functionals over nonconvex parameter spaces,,,,
+math/0406430,Statistical inference for time-inhomogeneous volatility models,,,,
+math/0406431,Estimating invariant laws of linear processes by U-statistics,,,,
+math/0406432,The efficiency of the estimators of the parameters in GARCH processes,,,,
+math/0406433,"Selecting optimal multistep predictors for autoregressive processes of
+  unknown order",,,,
+math/0406446,Survey: Information flow on trees,,,,
+math/0406447,Robust reconstruction on trees is determined by the second eigenvalue,,,,
+math/0406451,"Missing at random, likelihood ignorability and model completeness",,,,
+math/0406452,Information bounds for Cox regression models with missing data,,,,
+math/0406453,Finite sample properties of multiple imputation estimators,,,,
+math/0406454,"Sufficient burn-in for Gibbs samplers for a hierarchical random effects
+  model",,,,
+math/0406455,Mean squared error of empirical predictor,,,,
+math/0406456,Least Angle Regression,,,,
+math/0406460,Training samples in objective Bayesian model selection,,,,
+math/0406462,Local Whittle estimation in nonstationary and unit root cases,,,,
+math/0406463,"Discussion of ""Least angle regression"" by Efron et al",,,,
+math/0406464,Optimal predictive model selection,,,,
+math/0406465,"Consistent covariate selection and post model selection inference in
+  semiparametric regression",,,,
+math/0406466,Nonconcave penalized likelihood with a diverging number of parameters,,,,
+math/0406467,"Discussion of ""Least angle regression"" by Efron et al",,,,
+math/0406468,"Discussion of ""Least angle regression"" by Efron et al",,,,
+math/0406469,"Discussion of ""Least angle regression"" by Efron et al",,,,
+math/0406470,"Discussion of ""Least angle regression"" by Efron et al",,,,
+math/0406471,"Discussion of ""Least angle regression"" by Efron et al",,,,
+math/0406472,"Discussion of ""Least angle regression"" by Efron et al",,,,
+math/0406473,"Discussion of ""Least angle regression"" by Efron et al",,,,
+math/0406474,"Rejoinder to ""Least angle regression"" by Efron et al",,,,
+math/0406518,Martingale transforms goodness-of-fit tests in regression models,,,,
+math/0406519,A stochastic process approach to false discovery control,,,,
+math/0406520,Testing predictor contributions in sufficient dimension reduction,,,,
+math/0406521,Density estimation for biased data,,,,
+math/0406522,Semiparametric density estimation by local L_2-fitting,,,,
+math/0406523,"Empirical-likelihood-based confidence interval for the mean with a
+  heavy-tailed distribution",,,,
+math/0406524,"Bounds on coverage probabilities of the empirical likelihood ratio
+  confidence regions",,,,
+math/0406525,"Estimation of fractal dimension for a class of Non-Gaussian stationary
+  processes and fields",,,,
+math/0406527,"Monomial ideals and the Scarf complex for coherent systems in
+  reliability theory",,,,
+math/0407281,"Improving Asymptotic Variance of MCMC Estimators: Non-reversible Chains
+  are Better",,,,
+math/0407396,Optimal change-point estimation from indirect observations,,,,
+math/0408057,Discussion on Benford's Law and its Application,,,,
+math/0409112,On the Markov chain central limit theorem,,,,
+math/0409165,"Estimating the causal effect of a time-varying treatment on
+  time-to-event using structural nested failure time models",,,,
+math/0409180,"Estimating marginal survival function by adjusting for dependent
+  censoring using many covariates",,,,
+math/0409197,"Strong consistency of MLE for finite uniform mixtures when the scale
+  parameters are exponentially small",,,,
+math/0409230,"A maximum likelihood algorithm for the estimation and renormalization of
+  exponential densities",,,,
+math/0409237,Random Variables with Completely Independent Subcollections,,,,
+math/0409429,Bounding Fastest Mixing,,,,
+math/0409548,"On mutual information, likelihood-ratios and estimation error for the
+  additive Gaussian channel",,,,
+math/0410012,Geometric Ergodicity and Perfect Simulation,,,,
+math/0410071,"Densities, spectral densities and modality",,,,
+math/0410072,Higher criticism for detecting sparse heterogeneous mixtures,,,,
+math/0410073,"Breakdown points for maximum likelihood estimators of location-scale
+  mixtures",,,,
+math/0410074,Asymptotic global robustness in bayesian decision theory,,,,
+math/0410076,"Game theory, maximum entropy, minimum discrepancy and robust Bayesian
+  decision theory",,,,
+math/0410079,"Uniform asymptotics for robust location estimates when the scale is
+  unknown",,,,
+math/0410081,"Robust Inference for Univariate Proportional Hazards Frailty Regression
+  Models",,,,
+math/0410083,A Bernstein-von Mises theorem in the nonparametric right-censoring model,,,,
+math/0410086,"Statistical estimation in the proportional hazards model with risk set
+  sampling",,,,
+math/0410087,Convergence rates for posterior distributions and adaptive estimation,,,,
+math/0410088,"Needles and straw in haystacks: Empirical Bayes estimates of possibly
+  sparse sequences",,,,
+math/0410089,Optimality of neighbor-balanced designs for total effects,,,,
+math/0410090,Construction of E(s^2)-optimal supersaturated designs,,,,
+math/0410091,Complexity regularization via localized random penalties,,,,
+math/0410092,Generalization bounds for averaged classifiers,,,,
+math/0410093,"Statistical properties of the method of regularization with periodic
+  Gaussian reproducing kernel",,,,
+math/0410094,Simultaneous prediction of independent Poisson observables,,,,
+math/0410095,Maximum Fisher information in mixed state quantum systems,,,,
+math/0410280,Improved Vapnik Cervonenkis bounds,,,,
+math/0410354,"Convergence rates for pointwise curve estimation with a degenerate
+  design",,,,
+math/0410385,A Generic Random Number Generator Test Suite,,,,
+math/0410411,"Maxwell's daemon, the Turing machine, and Jaynes' robot",,,,
+math/0410419,"An introduction to (smoothing spline) ANOVA models in RKHS with examples
+  in geographical data, medicine, atmospheric science and machine learning",,,,
+math/0410424,Direct pivotal predictive inference,,,,
+math/0411008,"On the reconstruction of the drift of a diffusion from transition
+  probabilities which are partially observed in space",,,,
+math/0411033,"A hierarchical technique for estimating location parameter in the
+  presence of missing data",,,,
+math/0411034,A selective overview of nonparametric methods in financial econometrics,,,,
+math/0411195,Average treatment effect estimation via random recursive partitioning,,,,
+math/0411276,Limiting Behaviour of the Mean Residual Life,,,,
+math/0411297,On Representing the Mean Residual Life in Terms of the Failure Rate,,,,
+math/0411298,"On the Distribution of the Sum of n Non-Identically Distributed Uniform
+  Random Variables",,,,
+math/0411397,"Efficient Estimation of Stochastic Volatility Using Noisy Observations:
+  A Multi-Scale Approach",,,,
+math/0411515,Fast Non-Parametric Bayesian Inference on Infinite Trees,,,,
+math/0411516,"On nonparametric maximum likelihood for a class of stochastic inverse
+  problems",,,,
+math/0411539,"An optimal series expansion of the multiparameter fractional Brownian
+  motion",,,,
+math/0412035,Simulations of Gaussian Processes and Neuronal Modeling,,,,
+math/0412203,Consistency of Bayes estimators of a binary regression function,,,,
+math/0412232,"The existence of maximum likelihood estimates in the Bradley-Terry model
+  and its extensions",,,,
+math/0412267,Empirical processes of dependent random variables,,,,
+math/0412268,M-estimation of linear models with dependent errors,,,,
+math/0412345,Stein Estimation for Infinitely Divisible Laws,,,,
+math/0412351,"Nonparametric estimation for Levy processes with a view towards
+  mathematical finance",,,,
+math/0501221,Kernel Estimation of Density Level Sets,,,,
+math/0501289,"Estimating the proportion of false null hypotheses among a large number
+  of independently tested hypotheses",,,,
+math/0501299,"On Unified Generalizations of Relative Jensen--Shannon and
+  Arithmetic--Geometric Divergence Measures, and Their Properties",,,,
+math/0501300,Generalized Non-Symmetric Divergence Measures and Inequalities,,,,
+math/0501360,A Reversion of the Chernoff Bound,,,,
+math/0501423,Parameter estimates for fractional autoregressive spatial processes,,,,
+math/0502020,Correlated samples with fixed and nonnormal latent variables,,,,
+math/0502033,Complexity regularization for nonlinear inverse problems,,,,
+math/0502091,Nonparametric regression estimation for random fields in a fixed-design,,,,
+math/0502285,The ARHD model,,,,
+math/0502315,"Strong Asymptotic Assertions for Discrete MDL in Regression and
+  Classification",,,,
+math/0502324,Limit laws for random vectors with an extreme component,,,,
+math/0502339,"Algebraic Characterizations of Consensus Problems for Networked Dynamic
+  Systems",,,,
+math/0502340,On Robust Stability of Multivariable Interval Control Systems,,,,
+math/0502341,Coordination of Multiple Dynamic Agents with Asymmetric Interactions,,,,
+math/0502342,"Flocking Control of Groups of Mobile Autonomous Agents via Local
+  Feedback",,,,
+math/0503434,"A stochastic approximation algorithm with multiplicative step size
+  adaptation",,,,
+math/0503495,On the shrinkage behavior of partial least squares regression,,,,
+math/0503662,An adaptation theory for nonparametric confidence intervals,,,,
+math/0503663,Periodic boxcar deconvolution and diophantine approximation,,,,
+math/0503665,Robust nonparametric inference for the median,,,,
+math/0503667,Sieve empirical likelihood ratio tests for nonparametric functions,,,,
+math/0503668,The Hough transform estimator,,,,
+math/0503669,Wavelet-based estimation with multiple sampling rates,,,,
+math/0503671,On optimal spatial subsample size for variance estimation,,,,
+math/0503672,New approaches to Bayesian consistency,,,,
+math/0503673,"On the posterior distribution of the number of components in a finite
+  mixture",,,,
+math/0503674,"Equivalence theory for density estimation, Poisson processes and
+  Gaussian white noise with drift",,,,
+math/0503675,Attributing a probability to the shape of a probability density,,,,
+math/0503676,Bump hunting with non-Gaussian kernels,,,,
+math/0503677,Optimal designs for a class of nonlinear regression models,,,,
+math/0503678,"Geometric isomorphism and minimum aberration for factorial designs with
+  quantitative factors",,,,
+math/0503679,"Estimators of diffusions with randomly spaced discrete observations: A
+  general theory",,,,
+math/0503680,"Nonparametric estimation of scalar diffusions based on low frequency
+  data",,,,
+math/0503681,"Asymptotic properties of the maximum likelihood estimator in
+  autoregressive models with Markov regime",,,,
+math/0503682,"Asymptotic operating characteristics of an optimal change point
+  detection in hidden Markov models",,,,
+math/0503712,"Bayesian alignment using hierarchical models, with applications in
+  protein bioinformatics",,,,
+math/0503715,On pointwise adaptive curve estimation with a degenerate random design,,,,
+math/0503737,On the testability of the CAR assumption,,,,
+math/0504064,A Statistical view of Iterative Methods for Linear Inverse Problems,,,,
+math/0504378,"A Short Proof that Phylogenetic Tree Reconstruction by Maximum
+  Likelihood is Hard",,,,
+math/0504382,Exact oracle inequality for a sharp adaptive kernel density estimator,,,,
+math/0504383,Exact minimax risk for density estimators in non-integer Sobolev classes,,,,
+math/0504477,On hybrid simulation schemes for stochastic reaction dynamics,,,,
+math/0504485,Some properties of the Lerch family of discrete distributions,,,,
+math/0504499,Analysis of variance--why it is more important than ever,,,,
+math/0504501,"General empirical Bayes wavelet methods and exactly adaptive minimax
+  estimation",,,,
+math/0504503,"Minimax estimation with thresholding and its application to wavelet
+  analysis",,,,
+math/0504505,Decision theory results for one-sided multiple comparison procedures,,,,
+math/0504506,"Characterization of Bayes procedures for multiple endpoint problems and
+  inadmissibility of the step-up procedure",,,,
+math/0504507,"Combining information from independent sources through confidence
+  distributions",,,,
+math/0504508,"Nonparametric estimation over shrinking neighborhoods: Superefficiency
+  and adaptation",,,,
+math/0504509,"Testing convex hypotheses on the mean of a Gaussian vector. Application
+  to testing qualitative hypotheses on a regression function",,,,
+math/0504510,"Efficient estimation of a semiparametric partially linear varying
+  coefficient model",,,,
+math/0504511,Bandwidth choice for nonparametric classification,,,,
+math/0504512,Efficient estimation of Banach parameters in semiparametric models,,,,
+math/0504513,A robust method for cluster analysis,,,,
+math/0504514,Depth weighted scatter estimators,,,,
+math/0504515,Generalized bootstrap for estimating equations,,,,
+math/0504516,"Iterated smoothed bootstrap confidence intervals for population
+  quantiles",,,,
+math/0505033,A symbolic method for k-statistics,,,,
+math/0505045,"On convergence of importance sampling and other properly weighted
+  samples to the target distribution",,,,
+math/0505053,"Asymptotic statistical equivalence for ergodic diffusions: the
+  multidimensional case",,,,
+math/0505081,Estimation in autoregressive models with Markov regime,,,,
+math/0505172,A Functional Wavelet-Kernel Approach for Continuous-time Prediction,,,,
+math/0505184,Volatility Estmators for Discretely Sampled L\'{e}vy Processses,,,,
+math/0505224,The Bezoutian and Fisher's information matrix of an ARMA process,,,,
+math/0505265,"Asymptotic results on the moments of the ratio of the random sum of
+  squares to the square of the random sum",,,,
+math/0505333,"Recursive Aggregation of Estimators by Mirror Descent Algorithm with
+  Averaging",,,,
+math/0505355,A kernel type nonparametric density estimator for decompounding,,,,
+math/0505374,Adapting to Unknown Sparsity by controlling the False Discovery Rate,,,,
+math/0505387,"Prospective survival analysis with a general semiparametric shared
+  frailty model - a pseudo full likelihood approach",,,,
+math/0505444,Skew convolution semigroups and affine Markov processes,,,,
+math/0505522,Perfectly random sampling of truncated multinormal distributions,,,,
+math/0505527,zoo: S3 Infrastructure for Regular and Irregular Time Series,,,,
+math/0505599,Selecting likelihood weights by cross-validation,,,,
+math/0505600,"Asymptotic results with generalized estimating equations for
+  longitudinal data",,,,
+math/0505602,Analysis of binary spatial data by quasi-likelihood estimating equations,,,,
+math/0505603,Default priors for Gaussian processes,,,,
+math/0505604,"Likelihood approach for marginal proportional hazards regression in the
+  presence of dependent censoring",,,,
+math/0505605,"Posterior propriety and admissibility of hyperpriors in normal
+  hierarchical models",,,,
+math/0505606,"Functionals of Dirichlet processes, the Cifarelli-Regazzini identity and
+  Beta-Gamma processes",,,,
+math/0505631,"Multiprocess parallel antithetic coupling for backward and forward
+  Markov Chain Monte Carlo",,,,
+math/0505632,Confidence sets for nonparametric wavelet regression,,,,
+math/0505633,Spike and slab variable selection: Frequentist and Bayesian strategies,,,,
+math/0505638,Generalized functional linear models,,,,
+math/0505639,Extremal quantile regression,,,,
+math/0505640,Data-driven rate-optimal specification testing in regression models,,,,
+math/0505641,"Optimal and efficient crossover designs for comparing test treatments
+  with a control treatment",,,,
+math/0505642,A general theory of minimum aberration and its applications,,,,
+math/0506027,"Modelling multivariate volatilies via conditionally uncorrelated
+  components",,,,
+math/0506028,"Assessing prediction error of nonparametric regression and
+  classification under Bregman divergence",,,,
+math/0506029,"Dynamic Integration of Time- and State-domain Methods for Volatility
+  Estimation",,,,
+math/0506080,Two new Markov order estimators,,,,
+math/0506081,"The Dantzig selector: Statistical estimation when $p$ is much larger
+  than $n$",,,,
+math/0506125,"A Fast Algorithm for Computing Expected Loan Portfolio Tranche Loss in
+  the Gaussian Factor Model",,,,
+math/0506163,Monotone invariants and embeddings of statistical manifolds,,,,
+math/0506296,Invariant Bayesian estimation on manifolds,,,,
+math/0506300,"Local central limit theorems, the high-order correlations of rejective
+  sampling and logistic likelihood asymptotics",,,,
+math/0506342,Rodeo: Sparse Nonparametric Regression in High Dimensions,,,,
+math/0506378,"Fast Computation of the Expected Loss of a Loan Portfolio Tranche in the
+  Gaussian Factor Model: Using Hermite Expansions for Higher Accuracy",,,,
+math/0506607,Independent Component Analysis by Wavelets,,,,
+math/0507080,"Equi-energy sampler with applications in statistical inference and
+  statistical mechanics",,,,
+math/0507082,"Fast Computation Of the Economic Capital, the Value at Risk and the
+  Greeks of a Loan Portfolio in the Gaussian Factor Model",,,,
+math/0507084,Central limit theorems for a class of irreducible multicolor urn models,,,,
+math/0507089,"Addendum to the discussion of ""Breakdown and groups""",,,,
+math/0507267,Stationarity of Switching VAR and Other Related Models,,,,
+math/0507367,Le Cam spacings theorem in dimension two,,,,
+math/0507415,Optimal testing of equivalence hypotheses,,,,
+math/0507416,Nonparametric checks for single-index models,,,,
+math/0507417,On Optimality of Stepdown and Stepup Multiple Test Procedures,,,,
+math/0507419,Testing for monotone increasing hazard rate,,,,
+math/0507420,Generalizations of the Familywise Error Rate,,,,
+math/0507421,Hierarchical testing designs for pattern recognition,,,,
+math/0507422,"Square Root Penalty: Adaptation to the Margin in Classification and in
+  Edge Estimation",,,,
+math/0507423,"Large sample theory of intrinsic and extrinsic sample means on
+  manifolds--II",,,,
+math/0507425,Bandwidth selection for smooth backfitting in additive models,,,,
+math/0507426,Nonparametric regression penalizing deviations from additivity,,,,
+math/0507427,"Estimation of a function under shape restrictions. Applications to
+  reliability",,,,
+math/0507428,Optimal smoothing in nonparametric mixed-effect models,,,,
+math/0507431,Uniform in bandwidth consistency of kernel-type function estimators,,,,
+math/0507432,"Approximating conditional distribution functions using dimension
+  reduction",,,,
+math/0507434,"Nonanticipating estimation applied to sequential analysis and
+  changepoint detection",,,,
+math/0507510,"LAD Regression and Nonparametric Methods for Detecting Outliers and
+  Leverage Points",,,,
+math/0507529,"The Geometry of Statistical Models for Two-Way Contingency Tables with
+  Fixed Odds Ratios",,,,
+math/0508060,The Short-Cut Metropolis Method,,,,
+math/0508073,CLT in Functional Linear Regression Models,,,,
+math/0508089,Position play in carom billiards as a Markov process,,,,
+math/0508219,"Marginal asymptotics for the ""large p, small n"" paradigm: with
+  applications to microarray data",,,,
+math/0508275,Local Rademacher complexities,,,,
+math/0508276,Boosting with early stopping: Convergence and consistency,,,,
+math/0508277,Contour regression: A general approach to dimension reduction,,,,
+math/0508278,Variable selection using MM algorithms,,,,
+math/0508279,Statistical analysis on high-dimensional spheres and shape spaces,,,,
+math/0508280,Directions and projective shapes,,,,
+math/0508281,Empirical Bayes selection of wavelet thresholds,,,,
+math/0508282,A new class of generalized Bayes minimax ridge regression estimators,,,,
+math/0508284,"Efficiency improvements in inference on stationary and nonstationary
+  fractional time series",,,,
+math/0508286,Exact local Whittle estimation of fractional integration,,,,
+math/0508313,"On the Bahadur representation of sample quantiles for dependent
+  sequences",,,,
+math/0508314,Ignorability for categorical data,,,,
+math/0508317,"Semiparametric estimation for stationary processes whose spectra have an
+  unknown pole",,,,
+math/0508437,"Computing all roots of the likelihood equations of seemingly unrelated
+  regressions",,,,
+math/0508497,Breakdown and groups,,,,
+math/0508499,"Discussion of ""Breakdown and groups"" by P. L. Davies and U. Gather",,,,
+math/0508500,"Discussion of ""Breakdown and groups"" by P. L. Davies and U. Gather",,,,
+math/0508501,"Discussion of ""Breakdown and groups"" by P. L. Davies and U. Gather",,,,
+math/0508502,"Discussion of ""Breakdown and groups"" by P. L. Davies and U. Gather",,,,
+math/0508503,"Discussion of ""Breakdown and groups"" by P. L. Davies and U. Gather",,,,
+math/0508504,"Discussion of ""Breakdown and groups"" by P. L. Davies and U. Gather",,,,
+math/0508505,"Rejoinder to ""Breakdown and groups"" by P. L. Davies and U. Gather",,,,
+math/0508526,"Discussion of ""Analysis of variance--why it is more important than ever""
+  by A. Gelman",,,,
+math/0508527,"Discussion of ""Analysis of variance--why it is more important than ever""
+  by A. Gelman",,,,
+math/0508528,"Discussion of ""Analysis of variance--why it is more important than ever""
+  by A. Gelman",,,,
+math/0508529,"Discussion of ""Analysis of variance--why it is more important than ever""
+  by A. Gelman",,,,
+math/0508530,"Rejoinder to ""Analysis of variance--why it is more important than ever""
+  by A. Gelman",,,,
+math/0508538,"A large deviation inequality for vector functions on finite reversible
+  Markov Chains",,,,
+math/0508592,Normalized random measures driven by increasing additive processes,,,,
+math/0508593,A Bayesian \chi^2 test for goodness-of-fit,,,,
+math/0508594,"Central limit theorem for sequential Monte Carlo methods and its
+  application to Bayesian inference",,,,
+math/0508595,Nonparametric Estimation of an Additive Model With a Link Function,,,,
+math/0508596,"From finite sample to asymptotics: A geometric bridge for selection
+  criteria in spline regression",,,,
+math/0508597,Local linear spatial regression,,,,
+math/0508598,Determining the dimension of iterative Hessian transformation,,,,
+math/0508599,"Hybrid Shrinkage Estimators Using Penalty Bases For The Ordinal One-Way
+  Layout",,,,
+math/0508600,Estimation of nonlinear models with Berkson measurement errors,,,,
+math/0508601,"Bayesian-motivated tests of function fit and their asymptotic
+  frequentist properties",,,,
+math/0508602,"Approximately unbiased tests of regions using multistep-multiscale
+  bootstrap resampling",,,,
+math/0508603,Rank-based optimal tests of the adequacy of an elliptic VARMA model,,,,
+math/0508604,"Saddlepoint approximation for Student's t-statistic with no moment
+  conditions",,,,
+math/0508605,"Saddlepoint approximation for moment generating functions of truncated
+  random variables",,,,
+math/0508606,Tusnady's inequality revisited,,,,
+math/0508607,Approximating a sequence of observations by a simple process,,,,
+math/0509028,A comparative study of two stochastic mode reduction methods,,,,
+math/0509084,"Inconsistency of the MLE for the joint distribution of interval censored
+  survival times and continuous marks",,,,
+math/0509132,"Two likelihood-based semiparametric estimation methods for panel count
+  data with covariates",,,,
+math/0509230,"Stein Shrinkage and Second-Order Efficiency for semiparametric
+  estimation of the shift",,,,
+math/0509256,Weak convergence in the functional autoregressive model,,,,
+math/0509280,Parameter estimation in pair hidden Markov models,,,,
+math/0509308,Disaggregation of Long Memory Processes on C^{\infty} Class,,,,
+math/0509317,Stationary processes whose filtrations are standard,,,,
+math/0509371,"Estimation of the Memory Parameter of the Infinite Source Poisson
+  Process",,,,
+math/0509423,"Precise finite-sample quantiles of the Jarque-Bera adjusted Lagrange
+  multiplier test",,,,
+math/0509493,"Nonparametric estimation of mean-squared prediction error in
+  nested-error regression models",,,,
+math/0509634,Sharp estimation in sup norm with random design,,,,
+math/0509696,"Simultaneous adaptation to the margin and to complexity in
+  classification",,,,
+math/0509698,A Derivation of the Pythagorean Won-Loss Formula in Baseball,,,,
+math/0510153,q-Gaussian distributions. Simplifications and simulations,,,,
+math/0510188,Mass spectrometry proteomic diagnosis: enacting the validation paradigm,,,,
+math/0510242,Two choice optimal stopping,,,,
+math/0510271,Thresholding in Learning Theory,,,,
+math/0510276,An algorithmic and a geometric characterization of Coarsening At Random,,,,
+math/0510311,Adaptive density estimation under dependence,,,,
+math/0510436,"Estimating high-dimensional directed acyclic graphs with the
+  PC-algorithm",,,,
+math/0510449,"Improving Classification When a Class Hierarchy is Available Using a
+  Hierarchy-Based Prior",,,,
+math/0510521,On surrogate loss functions and $f$-divergences,,,,
+math/0510558,"Asymptotic Expansion of the Risk Difference of the Bayesian Spectral
+  Density in the ARMA model",,,,
+math/0511082,"Asymptotic analysis for the ratio of the random sum of squares to the
+  square of the random sum with applications to risk measures",,,,
+math/0511105,"New $M$-estimators in semi-parametric regression with errors in
+  variables",,,,
+math/0511111,"Nonparametric Estimation of the Regression Function in an
+  Errors-in-Variables Model",,,,
+math/0511140,Condorcet Winner Probabilities - A Statistical Perspective,,,,
+math/0511234,"Nonlinearity, correlation and the valuation of employee stock options",,,,
+math/0511299,Iterative Feature Selection In Least Square Regression Estimation,,,,
+math/0511356,The distribution of rationals in residue classes,,,,
+math/0511389,"Weighted Likelihood for Semiparametric Models and Two-phase Stratified
+  Samples, with Application to Cox Regression",,,,
+math/0511427,A permutation test for matching and its asymptotic distribution,,,,
+math/0511506,Estimation in a class of semiparametric transformation models,,,,
+math/0511507,Estimation in a semiparametric modulated renewal process,,,,
+math/0511508,Quantile regression in transformation models,,,,
+math/0511522,On-line predictive linear regression,,,,
+math/0511631,"Non singularity of the asymptotic Fisher information matrix in hidden
+  Markov models",,,,
+math/0512068,Minimizing Squared Vertical and Squared Horizontal Errors,,,,
+math/0512069,Minimizing Squared Perpendicular Errors,,,,
+math/0512181,"Accompanying document to ""Point Estimation with Exponentially Tilted
+  Empirical Likelihood""",,,,
+math/0512427,"Generalized probabilities taking values in non-Archimedean fields and
+  topological groups",,,,
+math/0512444,"Closed-Form Bayesian Inferences for the Logit Model via Polynomial
+  Expansions",,,,
+math/0512601,"Nonparametric inference of photon energy distribution from indirect
+  measurements",,,,
+math/0512635,"On the spectral density of the wavelet coefficients of long memory time
+  series with application to the log-regression estimation of the memory
+  parameter",,,,
+math/0512641,Entropy Estimate For High Dimensional Monotonic Functions,,,,
+math/0601048,Conditioning by rare sources,,,,
+math/0601065,"Maximum pseudo-likelihood estimator for nearest-neighbours Gibbs point
+  processes",,,,
+math/0601070,"A Wavelet Whittle estimator of the memory parameter of a non-stationary
+  Gaussian time series",,,,
+math/0601091,Penalized contrast estimator for adaptive density deconvolution,,,,
+math/0601098,Finite sample penalization in adaptive density deconvolution,,,,
+math/0601099,Poisson inverse problems,,,,
+math/0601135,On Sample Functions Behavior of Stable Processes,,,,
+math/0601346,Simultaneous confidence bands for the integrated hazard function,,,,
+math/0601446,Fixed-width output analysis for Markov chain Monte Carlo,,,,
+math/0601448,"On the Quality of a Semidefinite Programming Bound for Sparse Principal
+  Component Analysis",,,,
+math/0601548,"Uniform in bandwidth consistency of local polynomial regression function
+  estimators",,,,
+math/0601742,Propagation of Memory Parameter from Durations to Counts,,,,
+math/0602013,A data-reconstructed fractional volatility model,,,,
+math/0602121,Les p-values comme votes d'experts,,,,
+math/0602133,"Statistical Challenges with High Dimensionality: Feature Selection in
+  Knowledge Discovery",,,,
+math/0602211,Recursive Monte Carlo filters: Algorithms and theoretical analysis,,,,
+math/0602214,Estimation of sums of random variables: Examples and information bounds,,,,
+math/0602217,Nonparametric estimation of mixing densities for discrete distributions,,,,
+math/0602238,The topography of multivariate normal mixtures,,,,
+math/0602239,"Asymptotic behavior of the unconditional NPMLE of the length-biased
+  survivor function from right censored prevalent cohort data",,,,
+math/0602240,"Asymptotic results for maximum likelihood estimators in joint analysis
+  of repeated measurements and survival time",,,,
+math/0602241,Wavelet thresholding for nonnecessarily Gaussian noise: functionality,,,,
+math/0602242,Estimation of the density of regression errors,,,,
+math/0602243,"Penalized log-likelihood estimation for partly linear transformation
+  models with current status data",,,,
+math/0602244,Asymptotic normality of the $L_k$-error of the Grenander estimator,,,,
+math/0602253,"Pseudo full likelihood estimation for prospective survival analysis with
+  a general semiparametric shared frailty model: asymptotic theory",,,,
+math/0602254,"Empirical Bayes estimators for the reproduction parameter of
+  Borel-Tanner distribution",,,,
+math/0602276,A Sub-Gaussian Berry-Esseen Theorem for the Hypergeometric Distribution,,,,
+math/0602292,Cross-validation in nonparametric regression with outliers,,,,
+math/0602299,On adaptive estimation of linear functionals,,,,
+math/0602302,"Fixed-domain asymptotics for a subclass of Mat\'{e}rn-type Gaussian
+  random fields",,,,
+math/0602311,"Asymptotic minimaxity of False Discovery Rate thresholding for sparse
+  exponential data",,,,
+math/0602325,"High moment partial sum processes of residuals in GARCH models and their
+  applications",,,,
+math/0602326,"Order selection for same-realization predictions in autoregressive
+  processes",,,,
+math/0602328,"Consistency of the jackknife-after-bootstrap variance estimator for the
+  bootstrap quantiles of a studentized statistic",,,,
+math/0602346,"Goodness-of-Fit Tests for Symmetric Stable Distributions -- Empirical
+  Characteristic Function Approach",,,,
+math/0602377,A frequentist framework of inductive reasoning,,,,
+math/0602429,"Small time asymptotics in local limit theorems for Markov chains
+  converging to diffusions",,,,
+math/0602430,Accuracy of Diffusion Approximations for High Frequency Markov Data,,,,
+math/0602455,Simulation of conditioned diffusions,,,,
+math/0602505,MDL Convergence Speed for Bernoulli Sequences,,,,
+math/0602611,Expertises : proc\'{e}dures statistiques d'aide \`{a} la d\'{e}cision,,,,
+math/0602629,Improved Second-Order Bounds for Prediction with Expert Advice,,,,
+math/0602659,Sharp adaptive estimation of the drift function for ergodic diffusions,,,,
+math/0602663,Estimation of anisotropic Gaussian fields through Radon transform,,,,
+math/0603040,Testing for a linear MA model against threshold MA models,,,,
+math/0603043,Distribution free goodness-of-fit tests for linear processes,,,,
+math/0603047,On recursive estimation for time varying autoregressive processes,,,,
+math/0603058,"Design Flaws in the Implementation of the Ziggurat and Monty Python
+  methods (and some remarks on Matlab randn)",,,,
+math/0603071,Identification of multitype branching processes,,,,
+math/0603073,"Partially observed information and inference about non-Gaussian mixed
+  linear models",,,,
+math/0603075,"Optimal designs for three-dimensional shape analysis with spherical
+  harmonic descriptors",,,,
+math/0603078,On the two-phase framework for joint model and design-based inference,,,,
+math/0603079,Construction of optimal multi-level supersaturated designs,,,,
+math/0603082,Majorization framework for balanced lattice designs,,,,
+math/0603083,Universal optimality of Patterson's crossover designs,,,,
+math/0603084,Advances on nonparametric regression for functional variables,,,,
+math/0603123,Ranking and empirical minimization of U-statistics,,,,
+math/0603130,"Nonparametric methods for inference in the presence of instrumental
+  variables",,,,
+math/0603132,Functional linear regression analysis for longitudinal data,,,,
+math/0603134,Nonquadratic estimators of a quadratic functional,,,,
+math/0603135,"Sobolev tests of goodness of fit of distributions on compact Riemannian
+  manifolds",,,,
+math/0603136,Multivariate Bayesian function estimation,,,,
+math/0603221,An invariance principle for weakly dependent stationary general models,,,,
+math/0603228,Nonparametric Bayesian Classification,,,,
+math/0603238,Goodness-of-fit tests via phi-divergences,,,,
+math/0603254,Convergence rates for density estimators of weakly dependent time series,,,,
+math/0603271,Spherical Slepian functions and the polar gap in geodesy,,,,
+math/0603349,Density estimation with quadratic loss: a confidence intervals method,,,,
+math/0603378,"Testing statistical hypothesis on random trees and applications to the
+  protein classification problem",,,,
+math/0603447,"Optimal rates of aggregation in classification under low noise
+  assumption",,,,
+math/0603448,Lower bounds and aggregation in density estimation,,,,
+math/0603495,"Iterative proportional scaling via decomposable submodels for
+  contingency tables",,,,
+math/0603497,"A Comparison of Information Concerning the Regression Parameter in The
+  Accelerated Failure Time Model under Current Duration and Length Biased
+  Sampling: Does it Pay to be Patient?",,,,
+math/0603526,"Optimal oracle inequality for aggregation of classifiers under low noise
+  condition",,,,
+math/0603535,"Separation Theorem for Independent Subspace Analysis with Sufficient
+  Conditions",,,,
+math/0603603,"Conditions for swappability of records in a microdata set when some
+  marginals are fixed",,,,
+math/0603609,"Evaluation of per-record identification risk and swappability of records
+  in a microdata set via decomposable models",,,,
+math/0603636,"Linear Stochastic Differential Equations Driven by a Fractional Brownian
+  Motion with Hurst Parameter less than 1/2",,,,
+math/0603644,Approximation of the Multiplication Table Function,,,,
+math/0603668,Parameter Estimation for Multiscale Diffusions,,,,
+math/0603719,On the asymptotic distribution of certain bivariate reinsurance treaties,,,,
+math/0604064,High-Dimensional Data Clustering,,,,
+math/0604205,"Pattern Recognition Approaches to Solving Combinatorial Problems in Free
+  Groups",,,,
+math/0604214,"Exponential inequalities and functional estimations for weak dependent
+  datas ; applications to dynamical systems",,,,
+math/0604225,"Incidence-based Estimates of Healthy Life Expectancy for the United
+  Kingdom: Coherence between Transition Probabilities and Aggregate Life Tables",,,,
+math/0604233,"Generalization error bounds in semi-supervised classification under the
+  cluster assumption",,,,
+math/0604367,Network Delay Inference from Additive Metrics,,,,
+math/0604410,Discrete Component Analysis,,,,
+math/0604417,"Admissibility and minimaxity of generalized Bayes estimators for
+  spherically symmetric family",,,,
+math/0604488,Moments of minors of Wishart matrices,,,,
+math/0604627,"A new correlation coefficient, its orthogonal decomposition and
+  associated tests of independence",,,,
+math/0604640,A Delayed Black and Scholes Formula I,,,,
+math/0604641,A Delayed Black and Scholes Formula II,,,,
+math/0605007,Generalization of the Borel-Cantelli Lemma,,,,
+math/0605134,"Higher order semiparametric frequentist inference with the profile
+  sampler",,,,
+math/0605146,Effective support size,,,,
+math/0605224,Measuring Large Scale Space Perception in Literary Texts,,,,
+math/0605263,"Selection of a MCMC simulation strategy via an entropy convergence
+  criterion",,,,
+math/0605282,"Bahadur--Kiefer theory for sample quantiles of weakly dependent linear
+  processes",,,,
+math/0605283,Optimal rates in the Bahadur-Kiefer representation for GARCH sequences,,,,
+math/0605322,"Sequential change-point detection when unknown parameters are present in
+  the pre-change distribution",,,,
+math/0605323,Consistent estimation of the basic neighborhood of Markov random fields,,,,
+math/0605432,Improved minimax predictive densities under Kullback--Leibler loss,,,,
+math/0605433,"Sufficient Conditions for the Invertibility of Adapted Perturbations of
+  Identity on the Wiener Space",,,,
+math/0605436,Spatial extremes: Models for the stationary case,,,,
+math/0605437,Penalized maximum likelihood and semiparametric second-order efficiency,,,,
+math/0605452,Resampling from the past to improve on MCMC algorithms,,,,
+math/0605462,Adaptive confidence balls,,,,
+math/0605473,Adaptive nonparametric confidence sets,,,,
+math/0605498,"Cross-Entropic Learning of a Machine for the Decision in a Partially
+  Observable Universe",,,,
+math/0605506,"Serial and nonserial sign-and-rank statistics: asymptotic representation
+  and asymptotic normality",,,,
+math/0605511,Local partial-likelihood estimation for lifetime data,,,,
+math/0605513,"Adaptive multiscale detection of filamentary structures in a background
+  of uniform random points",,,,
+math/0605582,Bayesian analysis for reversible Markov chains,,,,
+math/0605607,"False discovery and false nondiscovery rates in single-step multiple
+  testing procedures",,,,
+math/0605609,Nonsubjective priors via predictive relative entropy regret,,,,
+math/0605612,"Asymptotic normality of extreme value estimators on $C[0,1]$",,,,
+math/0605613,"Stable limits of martingale transforms with application to the
+  estimation of GARCH parameters",,,,
+math/0605615,Sequential importance sampling for multiway tables,,,,
+math/0605616,"Doubling and projection: a method of constructing two-level designs of
+  resolution iv",,,,
+math/0605617,Large deviations for sums defined on a Galton-Watson process,,,,
+math/0605699,"On the Average Number of Sharp Crossings of Certain Gaussian Random
+  Polynomials",,,,
+math/0605751,Boosting for Functional Data,,,,
+math/0605778,"Semiparametric estimation of volatility functions of diffusion processes
+  from discretely observed data",,,,
+math/0605793,PAC-Bayesian inductive and transductive learning,,,,
+math/0605794,Independent Component Analysis and estimation of a quadratic functional,,,,
+math/0606068,The knee-jerk mapping,,,,
+math/0606080,Walking into an absolute sum,,,,
+math/0606166,Adaptive density deconvolution with dependent inputs,,,,
+math/0606192,"Semi-parametric estimation of the hazard function in a model with
+  covariate measurement error",,,,
+math/0606219,Significant edges in the case of a non-stationary Gaussian noise,,,,
+math/0606238,On the Generalized Poisson Distribution,,,,
+math/0606278,"Network-Based Marketing: Identifying Likely Adopters via Consumer
+  Networks",,,,
+math/0606315,Bayesian Regression of Piecewise Constant Functions,,,,
+math/0606392,"Domain of attraction of the quasi-stationary distributions for the
+  Ornstein-Uhlenbeck process",,,,
+math/0606441,Classifier Technology and the Illusion of Progress,,,,
+math/0606447,Comment: Classifier Technology and the Illusion of Progress,,,,
+math/0606452,"Comment: Classifier Technology and the Illusion of Progress--Credit
+  Scoring",,,,
+math/0606455,"Elaboration on Two Points Raised in ``Classifier Technology and the
+  Illusion of Progress''",,,,
+math/0606457,Comment: Classifier Technology and the Illusion of Progress,,,,
+math/0606461,Rejoinder: Classifier Technology and the Illusion of Progress,,,,
+math/0606471,"An Algorithmic Approach to Non-self-financing Hedging in a Discrete-Time
+  Incomplete Market",,,,
+math/0606491,General Design Bayesian Generalized Linear Mixed Models,,,,
+math/0606497,Analyzing Incomplete Discrete Longitudinal Clinical Trial Data,,,,
+math/0606526,"Confidence bands for densities, logarithmic point of view",,,,
+math/0606533,The Sources of Kolmogorov's Grundbegriffe,,,,
+math/0606550,A Conversation with Yuan Shih Chow,,,,
+math/0606557,"Comment on ""Sequential Monte Carlo for Bayesian Computation"" (P. Del
+  Moral, A. Doucet, A. Jasra)",,,,
+math/0606650,"Negative Examples for Sequential Importance Sampling of Binary
+  Contingency Tables",,,,
+math/0606739,Asymptotic expansions for sums of block-variables under weak dependence,,,,
+math/0606789,Boosting for high-dimensional linear models,,,,
+math/0607010,"Inference for covariate adjusted regression via varying coefficient
+  models",,,,
+math/0607013,Adaptive goodness-of-fit tests in a density model,,,,
+math/0607014,Tailor-made tests for goodness of fit to semiparametric hypotheses,,,,
+math/0607015,"The behavior of the NPMLE of a decreasing density near the boundaries of
+  the support",,,,
+math/0607018,"Frequentist optimality of Bayesian wavelet shrinkage rules for Gaussian
+  and non-Gaussian noise",,,,
+math/0607021,Shrinkage priors for Bayesian prediction,,,,
+math/0607023,Misspecification in infinite-dimensional Bayesian statistics,,,,
+math/0607032,"An iterative procedure for general probability measures to obtain
+  I-projections onto intersections of convex sets",,,,
+math/0607033,"Asymptotic theory for the Cox model with missing time-dependent
+  covariate",,,,
+math/0607036,"Product-limit estimators of the survival function with twice censored
+  data",,,,
+math/0607037,On the structure of essential graphs for AMP chain graph models,,,,
+math/0607040,Fitting an error distribution in some heteroscedastic time series models,,,,
+math/0607046,"Strong invariance principles for sequential Bahadur--Kiefer and Vervaat
+  error processes of long-range dependent sequences",,,,
+math/0607078,Correction. Efficient parameter estimation for self-similar processes,,,,
+math/0607089,Transportation Distance and the Central Limit Theorem,,,,
+math/0607150,Polynomial Cointegration among Stationary Processes with Long Memory,,,,
+math/0607232,"Weighted uniform consistency of kernel density estimators with general
+  bandwidth sequences",,,,
+math/0607340,"On the (ab)use of statistics in the legal case against the nurse Lucia
+  de B",,,,
+math/0607342,"Asymptotic equivalence for nonparametric regression with multivariate
+  and random design",,,,
+math/0607439,"Classification with Minimax Fast Rates for Classes of Bayes Rules with
+  Sparse Representation",,,,
+math/0607623,"A unifying framework for $k$-statistics, polykays and their multivariate
+  generalizations",,,,
+math/0607633,"Parametric estimation for the standard and geometric telegraph process
+  observed at discrete times",,,,
+math/0607634,A statistical approach to persistent homology,,,,
+math/0607798,Pseudo-maximum likelihood estimation of ARCH$(\infty)$ models,,,,
+math/0607799,Statistical inference for time-varying ARCH processes,,,,
+math/0607802,Estimation for almost periodic processes,,,,
+math/0607803,On discriminating between long-range dependence and changes in mean,,,,
+math/0607806,Testing the order of a model,,,,
+math/0607812,Semiparametric estimation of a two-component mixture model,,,,
+math/0607818,Closed form expressions for Bayesian sample size,,,,
+math/0608011,"Convergence of algorithms for reconstructing convex bodies and
+  directional measures",,,,
+math/0608012,Recovering convex boundaries from blurred and noisy observations,,,,
+math/0608017,High-dimensional graphs and variable selection with the Lasso,,,,
+math/0608022,"Properties of principal component methods for functional and
+  longitudinal data analysis",,,,
+math/0608025,Assessing extrema of empirical principal component functions,,,,
+math/0608028,Generalized score test of homogeneity for mixed effects models,,,,
+math/0608046,"Comments on ""A note on optimal detection of a change in distribution,""
+  by Benjamin Yakir",,,,
+math/0608053,Estimation in semiparametric spatial regression,,,,
+math/0608054,On the toric algebra of graphical models,,,,
+math/0608061,Correlation-sharing for detection of differential gene expression,,,,
+math/0608088,"Information bounds and efficient estimation in a class of censored
+  transformation models",,,,
+math/0608116,Conflict Free Rule for Combining Evidences,,,,
+math/0608176,Negative Surveys,,,,
+math/0608223,Invariance principles for fractionally integrated nonlinear processes,,,,
+math/0608242,Markovianity in space and time,,,,
+math/0608417,Conjunctive Bayesian networks,,,,
+math/0608499,Skewness and kurtosis as locally best invariant tests of normality,,,,
+math/0608522,Graph Laplacians and their convergence on random neighborhood graphs,,,,
+math/0608556,"On optimal quantization rules for some problems in sequential
+  decentralized detection",,,,
+math/0608576,Penalized Partial Least Squares Based on B-Splines Transformations,,,,
+math/0608613,Simulation of Gegenbauer Processes using Wavelet Packets,,,,
+math/0608631,"Fast Poisson Noise Removal by Biorthogonal Haar Domain Hypothesis
+  Testing",,,,
+math/0608665,Uniform uncertainty principle for Bernoulli and subgaussian ensembles,,,,
+math/0608713,"Occam's hammer: a link between randomized learning and multiple testing
+  FDR control",,,,
+math/0608737,Densities for random balanced sampling,,,,
+math/0609020,"Current status data with competing risks: Consistency and rates of
+  Convergence of the MLE",,,,
+math/0609021,"Current status data with competing risks: Limiting distribution of the
+  MLE",,,,
+math/0609042,"Model averaging and dimension selection for the singular value
+  decomposition",,,,
+math/0609056,"Bayesian Nonparametric Estimation of a Unimodal Density via two
+  $\mathbf{S}$-paths",,,,
+math/0609100,The conjugate prior for discrete hierarchical log-linear models,,,,
+math/0609136,"Moving from Data-Constrained to Data-Enabled Research: Experiences and
+  Challenges in Collecting, Validating and Analyzing Large-Scale e-Commerce
+  Data",,,,
+math/0609163,Estimating heavy-tail exponents through max self-similarity,,,,
+math/0609168,"A Special Issue on Statistical Challenges and Opportunities in
+  Electronic Commerce Research",,,,
+math/0609170,"Evaluating Pricing Strategy Using e-Commerce Data: Evidence and
+  Estimation Challenges",,,,
+math/0609173,Functional Data Analysis in Electronic Commerce Research,,,,
+math/0609176,"Opportunities and Challenges Applying Functional Data Analysis to the
+  Study of Open Source Software Evolution",,,,
+math/0609194,"The Timing of Bid Placement and Extent of Multiple Bidding: An Empirical
+  Investigation Using eBay Online Auctions",,,,
+math/0609199,Do CRM Systems Cause One-to-One Marketing Effectiveness?,,,,
+math/0609201,"Estimating the Causal Effects of Marketing Interventions Using
+  Propensity Score Methodology",,,,
+math/0609204,Data Mining in Electronic Commerce,,,,
+math/0609226,Household-Specific Regressions Using Clickstream Data,,,,
+math/0609228,"A Statistical Measure of a Population's Propensity to Engage in
+  Post-Purchase Online Word-of-Mouth",,,,
+math/0609259,A quadratic measure of dependence,,,,
+math/0609275,"Asymptotic Distribution of Wishart Matrix for Block-wise Dispersion of
+  Population Eigenvalues",,,,
+math/0609277,Marshall's lemma for convex density estimation,,,,
+math/0609285,Confidence bands for convex median curves using sign-tests,,,,
+math/0609288,"Privacy and Confidentiality in an e-Commerce World: Data Mining, Data
+  Warehousing, Matching and Disclosure Limitation",,,,
+math/0609292,Modeling On-Line Art Auction Dynamics Using Functional Data Analysis,,,,
+math/0609295,Statistical aspects of the fractional stochastic calculus,,,,
+math/0609333,"Cohort sampling schemes for the Mantel-Haenszel estimator: Extensions to
+  multilevel covariates, stratified models, and robust variance estimators",,,,
+math/0609340,Interpolation of Random Hyperplanes,,,,
+math/0609347,"Scale space consistency of piecewise constant least squares estimators
+  -- another look at the regressogram",,,,
+math/0609377,Prediction of missing observations by a control method,,,,
+math/0609431,"Optimal strategies for a class of sequential control problems with
+  precedence relations",,,,
+math/0609457,"Defining and Estimating Intervention Effects for Groups that will
+  Develop an Auxiliary Outcome",,,,
+math/0609461,Cross-Entropy method: convergence issues for extended implementation,,,,
+math/0609467,"Asymptotic Optimality in Bayesian Change-Point Detection Problems Under
+  Global False Alarm Probability Constraint",,,,
+math/0609577,Estimating abundance-based generalized species accumulation curves,,,,
+math/0609579,Logistic regression with unknown sizes,,,,
+math/0609581,Double-mixing semiparametric logistic regression with unknown sizes,,,,
+math/0609582,"Semiparametric logistic regression with unknown sizes, and its
+  application to bioassays",,,,
+math/0609590,"Efficiency of a class of unbiased estimators for the invariant
+  distribution function of a diffusion process",,,,
+math/0609625,"Sums of extreme values of subordinated long-range dependent sequences:
+  moving averages with finite variance",,,,
+math/0609745,Adaptive density estimation for general ARCH models,,,,
+math/0609758,On the strong law of large numbers for L-statistics with dependent data,,,,
+math/0609780,"Asymptotic Exponentiality of the Distribution of First Exit Times for a
+  Class of Markov Processes with Applications to Quickest Change Detection",,,,
+math/0609812,First-order methods for sparse covariance selection,,,,
+math/0610034,"Bayesian variable selection and data integration for biological
+  regulatory networks",,,,
+math/0610088,Untangling the SVD's of Random Matrix Sample Paths,,,,
+math/0610113,Uniform estimation of a signal based on inhomogeneous data,,,,
+math/0610184,Adaptive Poisson disorder problem,,,,
+math/0610221,Functional linear regression with derivatives,,,,
+math/0610243,The Palm measure and the Voronoi tessellation for the Ginibre process,,,,
+math/0610413,Extending the rank likelihood for semiparametric copula estimation,,,,
+math/0610487,"A companion for the Kiefer--Wolfowitz--Blum stochastic approximation
+  algorithm",,,,
+math/0610561,Batch and median neural gas,,,,
+math/0610654,Graphical modelling of multivariate time series,,,,
+math/0610655,Bayesian Clustering of Transcription Factor Binding Motifs,,,,
+math/0610667,On testing the significance of sets of genes,,,,
+math/0610747,"Uniform bound for strong mixing coefficient and maximum of residual
+  empirical process of ARCH sequence",,,,
+math/0610755,"A set theoretic framework for enumerating matches in surveys and its
+  application to reducing inaccuracies in vehicle roadside surveys",,,,
+math/0610756,A practical guide to measuring the Hurst parameter,,,,
+math/0610757,Selection of variables for cluster analysis and classification rules,,,,
+math/0610810,"Computing the distribution of the maximum in balls-and-boxes problems,
+  with application to clusters of disease cases",,,,
+math/0610824,L-Divergence Consistency for a Discrete Prior,,,,
+math/0610835,On likelihood ratio tests,,,,
+math/0610838,Student's $t$-test for scale mixture errors,,,,
+math/0610841,Recent developments towards optimality in multiple hypothesis testing,,,,
+math/0610843,On stepdown control of the false discovery proportion,,,,
+math/0610845,"An adaptive significance threshold criterion for massive multiple
+  hypotheses testing",,,,
+math/0610849,"Where do statistical models come from? Revisiting the problem of
+  specification",,,,
+math/0610852,Modeling inequality and spread in multiple regression,,,,
+math/0610916,"LASSO-Patternsearch algorithm with application to ophthalmology and
+  genomic data",,,,
+math/0610961,Hypotheses Testing: Poisson Versus Self-correcting,,,,
+math/0611029,Asymptotic spectral theory for nonlinear time series,,,,
+math/0611043,"Estimation of the Location of a 0-type or $\infty$-type Singularity by
+  Poisson Observations",,,,
+math/0611088,A Kiefer--Wolfowitz comparison theorem for Wicksell's problem,,,,
+math/0611108,"Estimating the Null and the Proportion of non-Null effects in
+  Large-scale Multiple Comparisons",,,,
+math/0611133,Ranking the best instances,,,,
+math/0611164,Bayesian transformation hazard models,,,,
+math/0611166,"Characterizations of joint distributions, copulas, information,
+  dependence and decoupling, with applications to time series",,,,
+math/0611170,On competing risk and degradation processes,,,,
+math/0611176,"Restricted estimation of the cumulative incidence functions
+  corresponding to competing risks",,,,
+math/0611179,"Comparison of robust tests for genetic association using case-control
+  studies",,,,
+math/0611186,"The distribution of a linear predictor after model selection:
+  Unconditional finite-sample distributions and asymptotic approximations",,,,
+math/0611187,"Local asymptotic minimax risk bounds in a locally asymptotically mixture
+  of normal experiments under asymmetric loss",,,,
+math/0611190,On moment-density estimation in some biased models,,,,
+math/0611191,Optimal sampling strategies for multiscale stochastic processes,,,,
+math/0611192,Regression tree models for designed experiments,,,,
+math/0611193,"A note on the asymptotic distribution of the minimum density power
+  divergence estimator",,,,
+math/0611195,"Brief history of the Lehmann Symposia: Origins, goals and motivation",,,,
+math/0611217,"Discussion of ""Equi-energy sampler"" by Kou, Zhou and Wong",,,,
+math/0611219,"Discussion of ""EQUI-energy sampler"" by Kou, Zhou and Wong",,,,
+math/0611221,"Discussion of ""EQUI-energy sampler"" by Kou, Zhou and Wong",,,,
+math/0611222,"Discussion of ""EQUI-energy sampler"" by Kou, Zhou and Wong",,,,
+math/0611224,"Rejoinder to ""Equi-energy sampler with applications in statistical
+  inference and statistical mechanics""",,,,
+math/0611228,"Risk hull method and regularization by projections of ill-posed inverse
+  problems",,,,
+math/0611230,The Bernstein--von Mises theorem for the proportional hazard model,,,,
+math/0611257,"Asymptotic equivalence of nonparametric autoregression and nonparametric
+  regression",,,,
+math/0611258,Texture synthesis and nonparametric resampling of random fields,,,,
+math/0611261,"Resampling methods for spatial regression models under a class of
+  stochastic designs",,,,
+math/0611263,"Affinely invariant matching methods with discriminant mixtures of
+  proportional ellipsoidally symmetric distributions",,,,
+math/0611265,On the Benjamini--Hochberg method,,,,
+math/0611266,"Stepup procedures for control of generalizations of the familywise error
+  rate",,,,
+math/0611270,A general asymptotic scheme for inference under order restrictions,,,,
+math/0611273,"Estimation of the volume of an excursion set of a Gaussian process using
+  intrinsic Kriging",,,,
+math/0611274,ANOVA for diffusions and It\^{o} processes,,,,
+math/0611275,"Quasi-arithmetic means of covariance functions with potential
+  applications to space-time data",,,,
+math/0611276,Hilbert Bases for Orthogonal Arrays,,,,
+math/0611278,Confidence regions for high quantiles of a heavy tailed distribution,,,,
+math/0611339,On the existence of some ARCH($\infty$) processes,,,,
+math/0611370,"Weighted approximations of tail copula processes with application to
+  testing the bivariate extreme value condition",,,,
+math/0611372,Optimal designs which are efficient for lack of fit tests,,,,
+math/0611376,Efficient likelihood estimation in state space models,,,,
+math/0611417,Smoothing under diffeomorphic constraints with homeomorphic splines,,,,
+math/0611419,"Computing Bayesian predictive distributions: The K-square and K-prime
+  distributions",,,,
+math/0611463,Markov chain Monte Carlo tests for designed experiments,,,,
+math/0611479,An Auto-validating Rejection Sampler,,,,
+math/0611512,"Nonparametric estimation of the purity of a quantum state in quantum
+  homodyne tomography with noisy data",,,,
+math/0611544,Model selection in High-Dimensions: A Quadratic-risk based approach,,,,
+math/0611567,Estimation of Parameters of Stable Distributions,,,,
+math/0611645,"Nonparametric estimation of the stationary density and the transition
+  density of a Markov chain",,,,
+math/0611652,"Linear and quadratic functionals of random hazard rates: an asymptotic
+  analysis",,,,
+math/0611671,On the false discovery rates of a frequentist: Asymptotic expansions,,,,
+math/0611675,Group invariant inferred distributions via noncommutative probability,,,,
+math/0611676,Random walk on a polygon,,,,
+math/0611677,Bias correction and confidence intervals following sequential tests,,,,
+math/0611678,Multivariate sequential analysis with linear boundaries,,,,
+math/0611680,Adaptive estimation of the transition density of a Markov chain,,,,
+math/0611681,"Adaptive estimation of the transition density of a particular hidden
+  Markov chain",,,,
+math/0611682,"Corrected confidence intervals for secondary parameters following
+  sequential tests",,,,
+math/0611683,Efficient three-stage $t$-tests,,,,
+math/0611684,"On the behavior of Bayesian credible intervals for some restricted
+  parameter space problems",,,,
+math/0611685,Existence of the signal in the signal plus background model,,,,
+math/0611691,"A test for equality of multinomial distributions vs increasing convex
+  order",,,,
+math/0611692,Rates of convergence for nonparametric deconvolution,,,,
+math/0611693,"Nonlinear renewal theorems for random walks with perturbations of
+  intermediate order",,,,
+math/0611695,"A non-linear Renewal Theorem with stationary and slowly changing
+  perturbations",,,,
+math/0611722,Spatial-temporal data mining procedure: LASR,,,,
+math/0611725,Sieve estimates for biased survival data,,,,
+math/0611781,"Parametric estimation for partially hidden diffusion processes sampled
+  at discrete times",,,,
+math/0611905,Recent Developments in Nonparametric Inference and Probability,,,,
+math/0611914,Estimation of bivariate excess probabilities for elliptical models,,,,
+math/0611957,Sparsity and Incoherence in Compressive Sampling,,,,
+math/0612040,Computable exponential bounds for screened estimation and simulation,,,,
+math/0612066,Robust Estimation and Wavelet Thresholding in Partial Linear Models,,,,
+math/0612140,Smooth tail index estimation,,,,
+math/0612163,A Statistical Characterization of Regular Simplices,,,,
+math/0612191,General frequentist properties of the posterior profile distribution,,,,
+math/0612248,Selecting Local Models in Multiple Regression by Maximizing Power,,,,
+math/0612258,Error structures and parameter estimation,,,,
+math/0612260,"Functional limit laws for the increments of the quantile process; with
+  applications",,,,
+math/0612324,"Numerical Methods for the Stochastic Landau-Lifshitz Navier-Stokes
+  Equations",,,,
+math/0612422,Does median filtering truly preserve edges better than linear filtering?,,,,
+math/0612470,Capital allocation for credit portfolios with kernel estimators,,,,
+math/0612476,A discrete-time Markov modulated queuing system with batched arrivals,,,,
+math/0612488,"Sequential Implementation of Monte Carlo Tests with Uniformly Bounded
+  Resampling Risk",,,,
+math/0612523,"Multi-step Richardson-Romberg Extrapolation: Remarks on Variance Control
+  and complexity",,,,
+math/0612546,"Adapting to Unknown Smoothness by Aggregation of Thresholded Wavelet
+  Estimators",,,,
+math/0612594,"Stochastic integrals and asymptotic analysis of canonical von Mises
+  statistics based on dependent observations",,,,
+math/0612623,Estimation and confidence sets for sparse normal mixtures,,,,
+math/0612674,Multivariate Lag-Windows and Group Representations,,,,
+math/0612677,"Spline-backfitted kernel smoothing of nonlinear additive autoregression
+  model",,,,
+math/0612681,Higher-Order estimation of s-th order spectra with flat-top lag-windows,,,,
+math/0612697,Risk bounds for the non-parametric estimation of L\'{e}vy processes,,,,

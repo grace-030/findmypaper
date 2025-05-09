@@ -1,0 +1,76 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+physics/0605146,A Non-Gaussian Approach to Risk Measures,3.0676551746868706e-06,1.990182755160072e-06,3.0,1.0
+math/0606520,Multivariate risks and depth-trimmed regions,3.0472482127272877e-06,0.0,2.0,0.0
+physics/0608035,Risk Minimization through Portfolio Replication,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0305038,A traffic lights approach to PD validation,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0606071,Validation of internal rating systems and PD estimates,2.4711431321721443e-06,0.0,1.0,0.0
+math/0605049,Pricing with coherent risk,1.8950380516170012e-06,0.0,1.0,0.0
+math/0605062,Coherent measurement of factor risks,1.8950380516170012e-06,0.0,1.0,0.0
+physics/0301009,"VaR-Efficient Portfolios for a Class of Super- and Sub-Exponentially
+  Decaying Assets Return Distributions",1.703003024765287e-06,0.0,1.0,0.0
+physics/0509102,"Firm Projects, NPV and Risk",1.703003024765287e-06,0.0,1.0,0.0
+cond-mat/9808295,Probability distribution of drawdowns in risky investments,1.6385912514352436e-06,0.0,1.0,1.0
+cond-mat/0401378,"Long range Ising model for credit risk modeling in homogeneous
+  portfolios",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0102304,Expected Shortfall as a Tool for Financial Risk Management,1.3189329710618589e-06,0.0,0.0,2.0
+math/0605065,"CAPM, rewards, and empirical asset pricing with coherent risk",1.3189329710618589e-06,0.0,0.0,1.0
+math/0410453,Dynamic monetary risk measures for bounded discrete-time processes,1.3189329710618589e-06,0.0,0.0,2.0
+nlin/0108022,Forecasting Portfolio Risk in Normal and Stressed Markets,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0207555,Remarks on the monotonicity of default probabilities,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0302402,Calculating credit risk capital charges with the one-factor model,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0012514,Corporate Default Behavior: A Simple Stochastic Model,,,,
+cond-mat/0103107,"Evaluating the RiskMetrics Methodology in Measuring Volatility and
+  Value-at-Risk in Financial Markets",,,,
+cond-mat/0104295,On the coherence of Expected Shortfall,,,,
+cond-mat/0105191,Expected Shortfall: a natural coherent alternative to Value at Risk,,,,
+cond-mat/0107190,"Risk Aversion and Coherent Risk Measures: a Spectral Representation
+  Theorem",,,,
+cond-mat/0107208,Introducing Variety in Risk Management,,,,
+cond-mat/0112045,Calculating Value-at-Risk contributions in CreditRisk+,,,,
+cond-mat/0203558,Expected Shortfall and Beyond,,,,
+cond-mat/0204593,A shortcut to sign Incremental Value-at-Risk for risk allocation,,,,
+cond-mat/0207750,Credit Risk Contributions to Value-at-Risk and Expected Shortfall,,,,
+cond-mat/0309003,"Calculating Concentration-Sensitive Capital Charges with Conditional
+  Value-at-Risk",,,,
+cond-mat/0402390,"The single risk factor approach to capital charges in case of correlated
+  loss given default rates",,,,
+cond-mat/0411699,Estimating Probabilities of Default for Low Default Portfolios,,,,
+cond-mat/0501320,Basel II for Physicists: A Discussion Paper,,,,
+math/0305010,Measuring and hedging financial risks in dynamical world,,,,
+math/0309211,"Value-at-Risk and expected shortfall for linear portfolios with
+  elliptically distributed risk factors",,,,
+math/0402456,"VaR and ES for linear portfolios with mixture of elliptic distributed
+  Risk Factors",,,,
+math/0407060,Modeling Credit Risk with Partial Information,,,,
+math/0407127,"On the Neyman-Pearson problem for law-invariant risk measures and robust
+  utility functionals",,,,
+math/0506127,A Note on the Ruin Problem with Risky Investments,,,,
+math/0506378,"Fast Computation of the Expected Loss of a Loan Portfolio Tranche in the
+  Gaussian Factor Model: Using Hermite Expansions for Higher Accuracy",,,,
+math/0507082,"Fast Computation Of the Economic Capital, the Value at Risk and the
+  Greeks of a Loan Portfolio in the Gaussian Factor Model",,,,
+math/0601627,Capital Requirement for Achieving Acceptability,,,,
+math/0603041,On decomposing risk in a financial-intermediate market and reserving,,,,
+math/0605051,Equilibrium with coherent risk,,,,
+math/0605064,Pricing and hedging in incomplete markets with coherent risk,,,,
+math/0607212,"Time Consistent Dynamic Risk Processes, Cadlag Modification",,,,
+math/0610489,Error calculus and path sensitivity in financial models,,,,
+math/0611187,"Local asymptotic minimax risk bounds in a locally asymptotically mixture
+  of normal experiments under asymmetric loss",,,,
+math/0612470,Capital allocation for credit portfolios with kernel estimators,,,,
+math/0703811,Suboptimality of Penalized Empirical Risk Minimization in Classification,,,,
+math/0703824,Minimizing the Lifetime Shortfall or Shortfall at Death,,,,
+math/0703850,Minimizing the Probability of Lifetime Ruin under Borrowing Constraints,,,,
+math/0703862,"Optimal Deferred Life Annuities to Minimize the Probability of Lifetime
+  Ruin",,,,
+math/9806030,"Insurance policy value and Pareto-optimal retention in the hypothesis of
+  rare loss events",,,,
+nlin/0209010,"Implications of Correlated Default For Portfolio Allocation To Corporate
+  Bonds",,,,
+physics/0512155,Effects of Economic Interactions on Credit Risk,,,,
+physics/0608190,On Value at Risk for foreign exchange rates - the copula approach,,,,
+physics/0609130,Phase Transitions in Operational Risk,,,,
+physics/0609164,Credit contagion and credit risk,,,,
+physics/0610047,Volatility and dividend risk in perpetual American options,,,,
+physics/0610162,Downside Risk analysis applied to Hedge Funds universe,,,,
+physics/0611027,Noise sensitivity of portfolio selection under various risk measures,,,,

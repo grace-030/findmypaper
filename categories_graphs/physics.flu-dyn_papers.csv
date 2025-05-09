@@ -1,0 +1,1379 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+physics/0508215,The hydraulic jump as a white hole,3.507218448616137e-05,8.547092653076202e-08,8.0,1.0
+cond-mat/0508388,Hydraulic Jump in One-dimensional Flow,2.745068383724543e-05,0.0,2.0,1.0
+physics/0510164,Acoustic horizons for axially and spherically symmetric fluid flow,2.039389467641573e-05,0.0,19.0,0.0
+hep-th/0607239,Topics in particle physics and cosmology beyond the standard model,1.836665290338149e-05,0.0,96.0,0.0
+gr-qc/0603093,Horizons and Ergoregions in Superfluids,1.664082009423885e-05,1.1338935042804795e-06,7.0,2.0
+physics/0506123,Superstatistical turbulence models,1.6270744178798078e-05,0.0,4.0,0.0
+physics/0504204,"Intermittency of Height Fluctuations and Velocity Increment of The
+  Kardar-Parisi-Zhang and Burgers Equations with infinitesimal surface tension
+  and Viscosity in 1+1 Dimensions",1.6231511032780502e-05,0.0,29.0,0.0
+cond-mat/0606619,Dynamics of vortices and interfaces in superfluid 3He,1.5480144989441718e-05,1.8379596418326743e-06,5.0,2.0
+physics/0509241,"A Flux-Conservative Formalism for Convective and Dissipative Multi-Fluid
+  Systems, with Application to Newtonian Superfluid Neutron Stars",1.53948241264895e-05,1.371948483140876e-05,6.0,3.0
+gr-qc/0601034,"Massive particles in acoustic space-times emergent inertia and passive
+  gravity",1.479066945367316e-05,0.0,12.0,0.0
+cond-mat/0204221,"Power laws and stretched exponentials in a noisy finite-time-singularity
+  model",1.4548659144094214e-05,0.0,10.0,0.0
+astro-ph/0205286,MHD Turbulence: Scaling Laws and Astrophysical Implications,1.353522274472162e-05,5.765923004238475e-05,14.0,21.0
+gr-qc/0409014,Vortex geometry for the equatorial slice of the Kerr black hole,1.3529402022257378e-05,0.0002202906602558,27.0,9.0
+hep-th/0406164,A Fluid Generalization of Membranes,1.3240236056557522e-05,8.911266067880921e-09,8.0,1.0
+astro-ph/0108300,Kolmogorov-Burgers Model for Star Forming Turbulence,1.2298724984555696e-05,1.1941983531981076e-05,17.0,3.0
+astro-ph/0308336,Critical Magnetic Prandtl Number for Small-Scale Dynamo,1.199111616484847e-05,4.062629372828047e-06,3.0,3.0
+astro-ph/0111345,"Scaling relations of supersonic turbulence in star-forming molecular
+  clouds",1.087935225771764e-05,0.0,11.0,4.0
+astro-ph/0203452,Supersonic turbulence and structure of interstellar molecular clouds,1.0406104617004036e-05,2.190176731798789e-05,6.0,5.0
+astro-ph/0211031,The Properties of Compressible MHD and Cosmic Ray Transport,1.0080846169862348e-05,4.549750827551517e-06,9.0,6.0
+comp-gas/9905002,"Construction of Molecular Dynamics Like Cellular Automata Models for
+  Simulation of Compressible Fluid Dynamic Systems",9.47540792109486e-06,0.0,13.0,0.0
+physics/0503042,Acoustic black holes,9.339143459956222e-06,4.193770672335011e-06,13.0,6.0
+nlin/0102038,Covariant Time Derivatives for Dynamical Systems,9.3004659300517e-06,0.0,2.0,1.0
+hep-ph/0305047,A New Method to Infere Which Type of Neutralinos Make Up Galactic Halos,9.039331723681213e-06,0.0,6.0,0.0
+cond-mat/0105199,Particles and fields in fluid turbulence,9.027460122569796e-06,0.0,8.0,4.0
+astro-ph/0301062,"Compressible Magnetohydrodynamic Turbulence: mode coupling, scaling
+  relations, anisotropy, new regime and astrophysical implications",8.797142057766043e-06,3.980365510320144e-06,7.0,6.0
+cond-mat/0409315,"Standing and travelling waves in the shallow-water circular hydraulic
+  jump",8.742668549011014e-06,7.733870559254492e-07,1.0,1.0
+astro-ph/0201466,MHD inverse cascade in the early Universe,8.498935210461519e-06,7.988552205477213e-06,21.0,1.0
+astro-ph/0509541,"On the relevance of subcritical hydrodynamic turbulence to accretion
+  disk transport",8.498545092934706e-06,0.0,10.0,0.0
+cond-mat/0305599,Quasi-Equilibrium Closure Hierarchies for The Boltzmann Equation,8.049067980330248e-06,4.97545688790018e-06,7.0,3.0
+physics/0512206,Large amplitude of the internal motion of DNA immersed in bio-fluid,8.02483129404579e-06,0.0,5.0,0.0
+gr-qc/0212072,"Averaging out Inhomogeneous Newtonian Cosmologies: III. The Averaged
+  Navier-Stokes-Poisson Equations",8.013269753217442e-06,0.0,2.0,1.0
+physics/0412153,"Notes on dispersionful and dispersionless vortex filament equations in
+  1+1 and 2+1 dimensions",8.013235176259739e-06,0.0,8.0,0.0
+gr-qc/0212070,"Averaging out Inhomogeneous Newtonian Cosmologies: I. Fluid Mechanics
+  and the Navier-Stokes Equation",7.90276076567639e-06,9.95091377580036e-07,2.0,2.0
+math-ph/0503027,"Relativistic particle, fluid and plasma mechanics coupled to gravity",7.479423954049739e-06,0.0,4.0,0.0
+hep-th/0406079,Fluid Dynamics of NSR Strings,7.445735488119768e-06,6.847670743658714e-08,6.0,1.0
+gr-qc/0410107,"Quasinormal modes and stability of the rotating acoustic black hole:
+  numerical analysis",7.353806237851088e-06,3.147100112960898e-06,5.0,6.0
+astro-ph/0103159,Gravitational instability of finite isothermal spheres,7.348036427881776e-06,0.0,8.0,4.0
+cond-mat/0303288,Superstatistics: Theory and Applications,7.274344320686168e-06,4.424645384675459e-05,9.0,8.0
+physics/0701201,"Signatures of two-dimensionalisation of 3D turbulence in presence of
+  rotation",7.260405680789332e-06,0.0,3.0,0.0
+nlin/0308008,Variational method for finding periodic orbits in a general flow,7.255311934396184e-06,0.0,5.0,2.0
+hep-th/0107190,"""Gauging"" the Fluid",7.116848619198301e-06,4.055175214537061e-06,6.0,3.0
+physics/0106090,The Kraichnan-Kazantsev dynamo,7.041455526678515e-06,0.0,3.0,0.0
+nlin/0501006,Anomalous scaling of passive scalar in turbulence and in equilibrium,6.799293554845351e-06,0.0,2.0,1.0
+physics/0703216,Parametric instability of the helical dynamo,6.68313113506713e-06,0.0,2.0,0.0
+cond-mat/0208540,Quantum Necking in Stressed Metallic Nanowires,6.55890781825366e-06,0.0,1.0,1.0
+hep-th/0408194,Chiral actions from phase space (quantum Hall) droplets,6.532942717310617e-06,1.7316938793316582e-05,27.0,11.0
+astro-ph/0310780,On magnetic field generation in Kolmogorov turbulence,6.367728915104639e-06,0.0,2.0,1.0
+physics/0004056,Statistical mechanics of the shallow water system,6.225203698549021e-06,0.0,1.0,1.0
+hep-th/0602017,Rayleigh-Plateau and Gregory-Laflamme instabilities of black strings,6.170879455423169e-06,3.11162958468746e-08,3.0,3.0
+hep-th/0605204,Yang-Mills Magneto-Fluid Unification,6.012982955605963e-06,3.986526149105381e-07,9.0,1.0
+physics/0507144,The imprint of large-scale flows on turbulence,5.937599821830193e-06,0.0,2.0,0.0
+physics/0507071,Separable unsteady nonparallel flow stability problems,5.927773615503002e-06,0.0,4.0,0.0
+nlin/0603003,"Topology, Braids, and Mixing in Fluids",5.920139435744325e-06,0.0,3.0,0.0
+physics/0509118,Why dynamos are prone to reversals,5.909289359817755e-06,1.967661152967682e-06,5.0,4.0
+physics/0005003,M\'etodos Estoc\'asticos em Turbul\^encia Desenvolvida,5.79773476389785e-06,0.0,6.0,0.0
+physics/0404114,"The ""zeroth law"" of turbulence: Isotropic turbulence simulations
+  revisited",5.720547234151209e-06,1.8780882522261222e-05,2.0,3.0
+astro-ph/0103333,"Spectra and Growth Rates of Fluctuating Magnetic Fields in the Kinematic
+  Dynamo Theory with Large Magnetic Prandtl Numbers",5.691202196336668e-06,0.0,6.0,10.0
+physics/0601130,Heat equilibrium distribution in a turbulent flow,5.679549276929074e-06,0.0,7.0,0.0
+physics/0407101,Sharp vorticity gradients in two-dimensional hydrodynamic turbulence,5.679326981876062e-06,0.0,3.0,0.0
+nlin/0609061,"""Stokes' Second Problem in High Frequency Limit. Application to Micro
+  (Nano)- Resonators",5.655144290770314e-06,0.0,1.0,1.0
+physics/0008236,Equilibrium solutions of the shallow water equations,5.655144290770314e-06,0.0,1.0,0.0
+physics/0407044,On-Shell Description of Stationary Flames,5.655144290770314e-06,0.0,1.0,0.0
+cond-mat/0703230,"High-Frequency Nanofluidics: An Experimental Study using Nanomechanical
+  Resonators",5.655144290770314e-06,0.0,1.0,1.0
+gr-qc/0408099,Quasinormal modes and classical wave propagation in analogue black holes,5.628623707299705e-06,3.171582797777273e-06,6.0,12.0
+cond-mat/9801258,"Shape-Dependent Thermodynamics and Non-Local Hydrodynamics in a
+  Non-Gibbsian Steady-State of a Drift-Diffusion System",5.279135134102134e-06,0.0,2.0,1.0
+astro-ph/0205282,Compressible Sub-Alfvenic MHD turbulence in Low-beta Plasmas,5.220711219127985e-06,1.990182755160072e-06,2.0,2.0
+nlin/0506058,Phenomenology of Wall Bounded Newtonian Turbulence,5.084617106288551e-06,0.0,4.0,0.0
+physics/0409035,"On a multi-scale approach to analyze the joint statistics of
+  longitudinal and transverse increments experimentally in small scale
+  turbulence",5.079039210215171e-06,0.0,1.0,1.0
+nlin/0601013,"Weakly nonlinear stability of convective magnetohydrodynamic systems
+  without alpha-effect to perturbations involving large scales",5.03065162052725e-06,0.0,4.0,0.0
+gr-qc/0212071,"Averaging out Inhomogeneous Newtonian Cosmologies: II. Newtonian
+  Cosmology and the Navier-Stokes-Poisson Equations",4.99002105727761e-06,9.95091377580036e-07,2.0,1.0
+math-ph/0601066,"Non-Laplacian growth, algebraic domains and finite reflection groups",4.973045147379138e-06,0.0,5.0,0.0
+cond-mat/0505742,"Evolution of a Network of Vortex Loops in HeII. Exact Solution of the
+  ""Rate Equation""",4.958910253923682e-06,0.0,2.0,0.0
+quant-ph/9910079,Transition Radiation and the Origin of Sonoluminescence,4.927754898090547e-06,0.0,5.0,0.0
+physics/0111133,"A characteristic frequency of two mutually interacting gas bubbles in an
+  acoustic field",4.922302499547841e-06,0.0,4.0,0.0
+physics/0702034,"In a book ""Tsunami and Nonlinear Waves"": Numerical Verification of the
+  Hasselmann equation",4.881437893292031e-06,0.0,7.0,0.0
+physics/0702145,Numerical Verification of the Weak Turbulent Model for Swell Evolution,4.881437893292031e-06,0.0,7.0,0.0
+nucl-th/0605070,A New Family of Simple Solutions of Perfect Fluid Hydrodynamics,4.874390157490937e-06,9.1468168589819e-07,7.0,4.0
+physics/0701052,"On the third order structure function for rotating 3D homogeneous
+  turbulent flow",4.852368310650602e-06,0.0,4.0,1.0
+physics/0605167,Essence of inviscid shear instability: a point view of vortex dynamics,4.775563454392716e-06,0.0,3.0,0.0
+nlin/0605013,A mesoscopic approach for multi-phase flows in nano-corrugated channels,4.741716490327581e-06,0.0,3.0,0.0
+physics/0012007,Finite time singularities in a class of hydrodynamic models,4.722180660842877e-06,0.0,5.0,0.0
+physics/0503217,"Variational description of multi-fluid hydrodynamics: Coupling to gauge
+  fields",4.713646363144909e-06,1.84460480363604e-06,4.0,3.0
+cond-mat/0107345,Thermodynamics of self-gravitating systems,4.666472748641665e-06,0.0,2.0,12.0
+physics/0507066,"Turbulent Friction in Rough Pipes and the Energy Spectrum of the
+  Phenomenological Theory",4.5416931407488425e-06,0.0,2.0,2.0
+cond-mat/0601330,Dynamical model of steadily forced isotropic turbulence,4.5066939502503176e-06,0.0,1.0,0.0
+physics/0603115,Simplified Variational Principles for Barotropic Magnetohydrodynamics,4.4311897898614005e-06,0.0,3.0,0.0
+nlin/0601027,Dynamics and statistics of heavy particles in turbulent flows,4.390802158399432e-06,0.0,1.0,0.0
+physics/0506099,"Statistical properties of an ensemble of vortices interacting with a
+  turbulent field",4.382537488591462e-06,0.0,2.0,0.0
+hep-th/0411065,Kac-Moody theories for colored phase space (quantum Hall) droplets,4.340277022693421e-06,5.340350090794755e-07,15.0,5.0
+nlin/0110040,"Nonlinear Analysis of the Eckhaus Instability: Modulated Amplitude Waves
+  and Phase Chaos with Non-zero Average Phase Gradient",4.335081793914062e-06,0.0,3.0,0.0
+cond-mat/0202445,On Kelvin-Helmholtz instability in superfluids,4.300795333258002e-06,0.0,2.0,4.0
+nlin/0605003,Differential models for 2D turbulence,4.229814325148799e-06,0.0,3.0,0.0
+chao-dyn/9810019,Notes about Passive Scalar in Large-Scale Velocity Field,4.069189384247665e-06,0.0,2.0,0.0
+physics/0502146,Quasi-planar steep water waves,4.060231222520034e-06,0.0,2.0,0.0
+physics/0311130,Simulation of induction at low magnetic Prandtl number,4.0532002175722434e-06,0.0,1.0,1.0
+cond-mat/9807412,Finite-Temperature Collective Excitation of a Bose-Einstein Condensate,4.003095073940578e-06,1.4852110113134864e-08,4.0,2.0
+hep-ph/0111139,"Simple solutions of fireball hydrodynamics for self-similar, ellipsoidal
+  flows",3.936589194772186e-06,6.590445126805391e-06,8.0,16.0
+cond-mat/0402035,On developed superfluid turbulence,3.898007787646928e-06,3.980365510320144e-06,3.0,2.0
+math/0510070,DSC Approach to Computational Fluid Dynamics,3.894315655251025e-06,0.0,3.0,0.0
+nlin/0305014,Velocity and velocity-difference distributions in Burgers turbulence,3.8038080206917487e-06,0.0,3.0,1.0
+hep-ph/0609056,"Derivation of Covariant Dissipative Fluid Dynamics in the
+  Renormalization-group Method",3.7996929484125983e-06,4.009262807348132e-06,8.0,2.0
+astro-ph/0312505,Self-similar scaling in decaying numerical turbulence,3.765325505598814e-06,2.276124803258137e-05,3.0,3.0
+astro-ph/0301026,Structure Function Scaling in Compressible Super-Alfvenic MHD Turbulence,3.7613522243113295e-06,3.980365510320144e-06,2.0,5.0
+astro-ph/0301432,"Understanding Helical Magnetic Dynamo Spectra with a Nonlinear
+  Four-Scale Theory",3.7424315620371258e-06,0.0,6.0,0.0
+math-ph/0207008,Extra Dimensions and Nonlinear Equations,3.697677880828464e-06,5.415739095818913e-06,4.0,4.0
+cond-mat/0208423,Onset of thermal convection in a horizontal layer of granular gas,3.663731428056144e-06,0.0,3.0,0.0
+gr-qc/0703083,"Hydrodynamic Flow as Congruence of Geodesic Lines in Riemannian
+  Space-Time",3.658932290419172e-06,0.0,2.0,0.0
+chao-dyn/9809010,Passive advection in nonlinear medium,3.6408282232936815e-06,0.0,4.0,0.0
+physics/0412025,"Numerical solutions of the three-dimensional magnetohydrodynamic
+  alpha-model",3.638378866143773e-06,0.0,3.0,0.0
+cond-mat/0506685,"Correlated particle dynamics in concentrated quasi-two-dimensional
+  suspensions",3.62335329328243e-06,0.0,2.0,0.0
+physics/0601105,"Dynamo action at low magnetic Prandtl numbers: mean flow vs. fully
+  turbulent motion",3.62335329328243e-06,0.0,2.0,2.0
+cond-mat/9702029,Patterns and Long Range Correlations in Idealized Granular Flows,3.62335329328243e-06,0.0,2.0,3.0
+physics/0108039,A lattice Boltzmann study of reactive microflows,3.62335329328243e-06,0.0,2.0,0.0
+physics/0505183,"Shell to shell energy transfer in MHD, Part I: steady state turbulence",3.6040767868199328e-06,9.95091377580036e-07,3.0,1.0
+math/0611785,"The classification of nonsingular multidimensional Dubrovin-Novikov
+  brackets",3.585519365376831e-06,0.0,6.0,0.0
+astro-ph/0402640,"Lagrangian perturbation theory of nonrelativistic rotating superfluid
+  stars",3.5718975451194345e-06,0.0,4.0,1.0
+nlin/0308006,Turbulent fields and their recurrences,3.557108962579861e-06,0.0,2.0,2.0
+nlin/0511006,Drag Reduction by Bubble Oscillations,3.5019336686816883e-06,0.0,2.0,0.0
+physics/0612072,"An exact pressure evolution equation for the incompressible
+  Navier-Stokes equations",3.49912997646896e-06,0.0,2.0,0.0
+physics/0608259,"Dynamics of propagating turbulent pipe flow structures. Part II:
+  Relaminarization",3.49912997646896e-06,0.0,2.0,0.0
+physics/0606170,"Two-dimensional flow of foam around a circular obstacle: local
+  measurements of elasticity, plasticity and flow",3.49912997646896e-06,0.0,2.0,1.0
+physics/0402015,On the intermittency exponent of the turbulent energy cascade,3.4930843036925227e-06,0.0,1.0,0.0
+astro-ph/0512373,"Turbulent Origin of the Galactic-Center Magnetic Field: Nonthermal Radio
+  Filaments",3.476369675435344e-06,0.0,3.0,0.0
+nlin/0001039,"Persistence of small-scale anisotropies and anomalous scaling in a model
+  of magnetohydrodynamics turbulence",3.468611788838012e-06,0.0,4.0,2.0
+physics/0508086,Gauge invariant fluid lagrangian and its application to cosmology,3.392744401482232e-06,3.980365510320144e-06,2.0,2.0
+astro-ph/0507046,"Growth of Hydrodynamic Perturbations in Accretion Disks: Possible Route
+  to Non-Magnetic Turbulence",3.392289896051936e-06,0.0,3.0,0.0
+cond-mat/0604085,Slip vs viscoelasticity in dewetting thin films,3.3749066596554898e-06,0.0,1.0,0.0
+physics/9903047,On some dynamical problems related to boundary layer turbulence,3.3749066596554898e-06,0.0,1.0,0.0
+nlin/0610056,"Energy Conservation and Second-Order Statistics in Stably Stratified
+  Turbulent Boundary Layers",3.3749066596554898e-06,0.0,1.0,0.0
+nlin/0302042,Strong Universality in Forced and Decaying Turbulence,3.3749066596554898e-06,0.0,1.0,0.0
+physics/0505125,The return branch of viscous fingers,3.3749066596554898e-06,0.0,1.0,0.0
+physics/0512228,Induced radiation processes in single-bubble sonoluminescence,3.3749066596554898e-06,0.0,1.0,0.0
+physics/0505102,The Rate of Expansion of Spherical Flames,3.3749066596554898e-06,0.0,1.0,0.0
+nlin/0608057,Geometry of intensive scalar dissipation events in turbulence,3.3749066596554898e-06,0.0,1.0,0.0
+physics/0207034,Closed Description of Stationary Flames,3.3749066596554898e-06,0.0,1.0,1.0
+physics/0508155,Mesoscopic wave turbulence,3.2392832395790016e-06,0.0,5.0,3.0
+cond-mat/0304586,Transition to superfluid turbulence governed by an intrinsic parameter,3.20805459980317e-06,0.0,1.0,1.0
+nlin/0612001,Clustering of matter in waves and currents,3.184136626732937e-06,0.0,2.0,0.0
+physics/0210046,"An integrable localized approximation for interaction of two nearly
+  anti-parallel sheets of the generalized vorticity in 2D ideal
+  electron-magnetohydrodynamic flows",3.1564676950366884e-06,0.0,2.0,0.0
+astro-ph/0407616,"Numerical dissipation and the bottleneck effect in simulations of
+  compressible isotropic turbulence",3.154308898921852e-06,5.568350796549024e-06,1.0,3.0
+hep-th/0106166,Integrability in Fluid Dynamics,3.112588127963489e-06,0.0,4.0,1.0
+gr-qc/0603009,An introduction to relativistic hydrodynamics,3.1049380349932023e-06,8.367108248199114e-08,2.0,3.0
+cond-mat/9902247,"Punctuated vortex coalescence and discrete scale invariance in
+  two-dimensional turbulence",3.082981655557948e-06,0.0,4.0,0.0
+physics/0510003,"Liquid interfaces in viscous straining flows: Numerical studies of the
+  selective withdrawal transition",3.0472482127272877e-06,0.0,2.0,0.0
+physics/0605106,"Consequences of Symmetries on the Analysis and Construction of
+  Turbulence Models",3.0472482127272877e-06,0.0,2.0,0.0
+nlin/0502060,"Mesoscopic modeling of heterogeneous boundary conditions for
+  microchannel flows",3.0472482127272877e-06,0.0,2.0,0.0
+nlin/0306059,Self-similar turbulent dynamo,3.040840064785733e-06,0.0,1.0,0.0
+physics/0508088,Rough-conduit flows and the existence of fully developed turbulence,3.032691549564768e-06,0.0,1.0,0.0
+astro-ph/0110488,Mode Switching Time Scales in the Classical Variable Stars,2.9851365543205523e-06,0.0,2.0,0.0
+physics/0508092,Lagrangian dynamics of the Navier-Stokes equation,2.932150598120831e-06,0.0,1.0,1.0
+astro-ph/9712013,"Kinetic Energy Decay Rates of Supersonic and Super-Alfvenic Turbulence
+  in Star-Forming Clouds",2.931826208502846e-06,0.0,2.0,3.0
+chao-dyn/9706013,An Exact Renormalization Group analysis of 3-d Well Developed turbulence,2.9275038064260554e-06,0.0,5.0,2.0
+physics/0512038,Opportunities for use of exact statistical equations,2.8823378698908707e-06,0.0,2.0,0.0
+cond-mat/0308540,Front propagation into unstable states,2.8771453478020502e-06,0.0,2.0,1.0
+physics/0307031,A Possible Mechanism of Biological Memories in terms of Quantum Fluids,2.875130123543238e-06,0.0,1.0,2.0
+cond-mat/0106255,Wave Equation for Sound in Fluids with Vorticity,2.8715645579110625e-06,5.0768502370882645e-06,5.0,13.0
+physics/0411011,"Water waves over a time-dependent bottom: Exact description for 2D
+  potential flows",2.855213185875573e-06,0.0,2.0,1.0
+nlin/0210045,Finite Extension of Polymers in Turbulent Flow,2.855213185875573e-06,0.0,2.0,1.0
+physics/0703210,"Asymmetric, helical and mirror-symmetric travelling waves in pipe flow",2.855213185875573e-06,0.0,2.0,0.0
+physics/0703072,Lower branch coherent states in shear flows: transition and control,2.855213185875573e-06,0.0,2.0,0.0
+nlin/0101012,"Derivatives and Constraints in Chaotic Flows: Asymptotic Behaviour and a
+  Numerical Method",2.849791457967317e-06,0.0,3.0,2.0
+hep-th/9811150,Galileo invariant system and the motion of relativistic d-branes,2.8412151536354363e-06,0.0,6.0,2.0
+astro-ph/0412194,"Bypass to Turbulence in Hydrodynamic Accretion: Lagrangian Analysis of
+  Energy Growth",2.838288648792526e-06,0.0,3.0,7.0
+physics/0410046,Numerical study of dynamo action at low magnetic Prandtl numbers,2.831005156609744e-06,9.95091377580036e-06,2.0,3.0
+cond-mat/0505643,Enstrophy dissipation in two-dimensional turbulence,2.788049981342989e-06,0.0,1.0,0.0
+astro-ph/0602382,Dynamic Alignment in Driven Magnetohydrodynamic Turbulence,2.77239764133326e-06,0.0,1.0,1.0
+physics/0703196,"Efficient form of the LANS-alpha turbulence model in a
+  primitive-equation ocean model",2.77239764133326e-06,0.0,1.0,0.0
+astro-ph/0303416,The origin of cores and density profiles of gaseous baryonic structures,2.7632713133220253e-06,4.991415831861714e-07,1.0,1.0
+astro-ph/0207435,A New Dynamical Mean-Field Dynamo Theory and Closure Approach,2.756089949254252e-06,0.0,3.0,0.0
+astro-ph/0105322,Structure of Small-Scale Magnetic Fields in the Kinematic Dynamo Theory,2.7236212393267037e-06,0.0,4.0,4.0
+astro-ph/9910154,Post Newtonian SPH,2.7177274900326284e-06,1.666769714673128e-06,4.0,6.0
+astro-ph/0005038,"The exact solution of the Riemann problem with non-zero tangential
+  velocities in relativistic hydrodynamics",2.7076854398622013e-06,0.0,1.0,1.0
+gr-qc/0103005,An Improved Exact Riemann Solver for Relativistic Hydrodynamics,2.7076854398622013e-06,0.0,1.0,1.0
+nlin/0503007,"Joint statistics of acceleration and vorticity in fully developed
+  turbulence",2.697084014042981e-06,0.0,1.0,0.0
+physics/0601087,"Statistical mechanics of 2D turbulence with a prior vorticity
+  distribution",2.687213837433021e-06,5.970548265480216e-06,3.0,3.0
+cond-mat/0010374,Rotating Hele-Shaw cells with ferrofluids,2.651895837668813e-06,0.0,1.0,0.0
+cond-mat/0505441,"Reconnections of Vortex Loops in the Superfluid Turbulent HeII. Rates of
+  the Breakdown and Fusion processes",2.651613709384027e-06,0.0,1.0,1.0
+physics/0405045,Convective plan-form two-scale dynamos in a plane layer,2.6424742728882804e-06,0.0,2.0,0.0
+physics/0201001,Dynamics of nanojets,2.6171986449253435e-06,0.0,1.0,1.0
+astro-ph/0112366,Scaling of ISM Turbulence: Implications for HI,2.601457225905912e-06,0.0,2.0,3.0
+astro-ph/0611692,"Exact scaling laws and the local structure of isotropic
+  magnetohydrodynamic turbulence",2.586364148283173e-06,0.0,2.0,0.0
+physics/0306029,"Toroidal bubbles with circulation in ideal hydrodynamics. A variational
+  approach",2.5758895104548974e-06,0.0,2.0,0.0
+math-ph/0407061,"Symmetries of Discontinuous Flows and the Dual Rankine-Hugoniot
+  Conditions in Fluid Dynamics",2.570031608225769e-06,0.0,3.0,0.0
+nlin/0406061,"Drag Reduction by Microbubbles in Turbulent Flows: the Limit of Minute
+  Bubbles",2.5680702192126422e-06,0.0,2.0,0.0
+physics/0501015,Cluster formation in complex multi-scale systems,2.5533034528524485e-06,0.0,1.0,0.0
+astro-ph/0001001,Statistics of Turbulence from Spectral-Line Data Cubes,2.5220823962103437e-06,2.0668118494594585e-05,2.0,10.0
+astro-ph/0611894,On the Nature of Incompressible Magnetohydrodynamic Turbulence,2.5073290078438697e-06,0.0,2.0,1.0
+patt-sol/9611001,Vortex Dynamics in Dissipative Systems,2.5026770430984795e-06,0.0,2.0,0.0
+cond-mat/0610297,Observation of gravity-capillary wave turbulence,2.475056787527118e-06,0.0,1.0,0.0
+nlin/0202049,"Quasi-Gaussian Statistics of Hydrodynamic Turbulence in 3/4+\epsilon
+  dimensions",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/9903336,Shear induced alignment in a model of a block copolymer,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0105023,"Forces at the Sea Bed using a Finite Element Solution of the Mild Slope
+  Wave Equation",2.4711431321721443e-06,0.0,1.0,0.0
+nlin/0204022,"The clustering instability of inertial particles spatial distribution in
+  turbulent flows",2.4711431321721443e-06,0.0,1.0,1.0
+physics/0201045,"Phenomenological model of propagation of the elastic waves in a
+  fluid-saturated porous solid with non-zero boundary slip velocity",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0605134,"Shear-induced crystallization of a dense rapid granular flow:
+  hydrodynamics beyond the melting point?",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0606655,Statistics of 3-dimensional Lagrangian turbulence,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0307144,Light Propagation in Turbulent Media,2.4711431321721443e-06,0.0,1.0,3.0
+physics/0503162,"Orientation changes of the large-scale circulation in turbulent
+  Rayleigh-Benard convection",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0111171,Scaling of acceleration in locally isotropic turbulence,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0408113,"A Dynamic model for the Lagrangian Averaged Navier-Stokes-$\alpha$
+  Equations",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0312038,"Large-scale grid-enabled lattice-Boltzmann simulations of complex fluid
+  flow in porous media and under shear",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0408093,Retarded Many-Sphere Hydrodynamic Interactions in a Viscous Fluid,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0501021,"Large-scale lattice Boltzmann simulations of complex fluids: advances
+  through the advent of computational grids",2.4711431321721443e-06,0.0,1.0,0.0
+patt-sol/9908005,Longwave Interface Instability In Two-Fluid Vibrational Flow,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0007005,"Comment on ``Air bubbles in water: A strongly multiple scattering medium
+  for acoustic waves"" [Phys. Rev. Lett. 84, 6050, 2000]",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0010021,"Measurements of the instantaneous velocity difference and local velocity
+  with a fiber-optic coupler",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0302092,"Experimental Observation of Differences in the Dynamic Response of
+  Newtonian and Viscoelastic Fluids",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0703100,"Microbubbly drag reduction in Taylor-Couette flow in the wavy vortex
+  regime",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0503142,"Multifractality of Inverse Statistics of Exit Distances in 3D Fully
+  Developed Turbulence",2.4711431321721443e-06,0.0,1.0,0.0
+nlin/0507052,Thin front propagation in random shear flows,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0103084,Measurement of Lagrangian velocity in fully developed turbulence,2.4711431321721443e-06,0.0,1.0,7.0
+math/0606445,On a differential equation for a gas bubbles collapse mathematical model,2.4711431321721443e-06,0.0,1.0,0.0
+nlin/0110003,Hydrodynamics of thermal granular convection,2.4711431321721443e-06,0.0,2.0,0.0
+nlin/0009049,"Outliers, Extreme Events and Multiscaling",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0609189,On the parabolic equation method in internal wave propagation,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0512198,Intermittency via Self-Similarity -- An Analytic Example,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0510059,Contact line motion for partially wetting fluids,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0511183,"Transport coefficients for electrolytes in arbitrarily shaped nano and
+  micro-fluidic channels",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0607060,A Note on the Regularity of Inviscid Shell Model of Turbulence,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0505129,On the mechanism of branching in negative ionization fronts,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0506165,"New Stabilization of the Burnett Equations when Entropy Change to $Kn^0$
+  Vanishes",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0611042,"A note on the effective slip properties for microchannel flows with
+  ultra-hydrophobic surfaces",2.4711431321721443e-06,0.0,1.0,0.0
+physics/9902010,"Experimental evidence of a phase transition to fully developed
+  turbulence in a wake flow",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0608220,Multiscale modelling of liquids with molecular specificity,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0606136,"Rayleigh-Taylor turbulence is nothing like Kolmogorov turbulence in the
+  self similar regime",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0609240,"An expansion based on Reynolds number powers for the velocity field of
+  elementary analytical flows",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0612131,Generation of small-scale structures in the developed turbulence,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0607269,"Small scale structures in three-dimensional magnetohydrodynamic
+  turbulence",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0611207,A constitutive model for volume-based descriptions of gas flows,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0703240,"Swimming, Pumping and Gliding at low Reynolds numbers",2.4711431321721443e-06,0.0,1.0,0.0
+astro-ph/0606473,"Experimental evidence for magnetorotational instability in a helical
+  magnetic field",2.4711431321721443e-06,0.0,1.0,1.0
+physics/9709002,On the decay of Burgers turbulence,2.4711431321721443e-06,0.0,1.0,1.0
+physics/0209047,Vortex line representation for flows of ideal and viscous fluids,2.4711431321721443e-06,0.0,1.0,1.0
+hep-th/9711195,Towards a String Formulation of Vortex Dynamics,2.4711431321721443e-06,0.0,1.0,1.0
+physics/0609042,"Miscible displacement fronts of shear thinning fluids inside rough
+  fractures",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0502036,"Detailed analysis of a pseudoresonant interaction between cellular
+  flames and velocity turbulence",2.4711431321721443e-06,0.0,1.0,1.0
+physics/0508151,Multiscale Mixing Efficiencies for Steady Sources,2.4711431321721443e-06,0.0,1.0,1.0
+nlin/0104067,"Composite ""zigzag"" structures in the 1D complex Ginzburg-Landau equation",2.4711431321721443e-06,0.0,1.0,0.0
+nlin/0407018,Active and passive fields face to face,2.4711431321721443e-06,0.0,1.0,0.0
+nlin/0612018,Bottleneck crossover between classical and quantum superfluid turbulence,2.4711431321721443e-06,0.0,1.0,1.0
+nlin/0404016,Diffusion of passive scalar in a finite-scale random flow,2.4711431321721443e-06,0.0,1.0,0.0
+nlin/0307048,"Whirling Hexagons and Defect Chaos in Hexagonal Non-Boussinesq
+  Convection",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0108057,Nonlinear Theory of Flame Front Instability,2.4711431321721443e-06,0.0,1.0,1.0
+nlin/0612052,Growing condensate in two-dimensional turbulence,2.4711431321721443e-06,0.0,1.0,0.0
+nlin/0702034,"Colloquium: Theory of Drag Reduction by Polymers in Wall Bounded
+  Turbulence",2.4711431321721443e-06,0.0,1.0,0.0
+nlin/0703054,"Fluid-particle separation in a random flow described by the telegraph
+  model",2.4711431321721443e-06,0.0,1.0,0.0
+nlin/0104024,Turbulence and passive scalar transport in a free-slip surface,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0212151,Water spring: a model for bouncing drops,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0602140,"Unique representation of an inverse-kinetic theory for incompressible
+  Newtonian fluids",2.4711431321721443e-06,0.0,1.0,2.0
+cond-mat/0511225,"Pearling instability of nanoscale fluid flow confined to a chemical
+  channel",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0303631,"Local induction approximation in the theory of superfluid turbulence.
+  Numerical consideration",2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9911014,On the Turbulent Dynamics of Polymer Solutions,2.4711431321721443e-06,0.0,1.0,0.0
+math/0410380,On some dyadic models of the Euler equations,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0002426,"Monte Carlo simulation of a hard-sphere gas in the planar Fourier flow
+  with a gravity field",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0503187,"Reply to comment on `A simple model for the short-time evolution of
+  near-surface current and temperature profiles'",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0502305,Application of superstatistics to atmospheric turbulence,2.427700007296066e-06,5.645965723267536e-06,2.0,7.0
+hep-th/0104104,Superhydrodynamics,2.424731604738024e-06,1.7019629323990853e-05,3.0,4.0
+cond-mat/9912222,"Numerical renormalization group of vortex aggregation in 2D decaying
+  turbulence: the role of three-body interactions",2.4060086373771908e-06,0.0,1.0,2.0
+cond-mat/9911032,"The statistics of velocity fluctuations arising from a random
+  distribution of point vortices: the speed of fluctuations and the diffusion
+  coefficient",2.4060086373771908e-06,0.0,1.0,2.0
+physics/0201041,Resonant Laser Cooling of Relativistic Charges Beams,2.3837580599822973e-06,0.0,3.0,0.0
+physics/0108056,"Number of Transition Frequencies of a System Containing an Arbitrary
+  Number of Gas Bubbles",2.379526275040802e-06,0.0,2.0,1.0
+physics/0304035,A model for rapid stochastic distortions of small-scale turbulence,2.351106830767793e-06,0.0,2.0,5.0
+math/0406087,"Ergodicity of the 2D Navier-Stokes Equations with Degenerate Stochastic
+  Forcing",2.3469198153586743e-06,0.0,1.0,2.0
+cond-mat/0310021,Classical and quantum regimes of the superfluid turbulence,2.33588261484934e-06,0.0,2.0,0.0
+math/0607108,Higher order Mori-Zwanzig models for the Euler equations,2.330990582901687e-06,1.4852110113134864e-08,1.0,1.0
+cond-mat/0012316,Phonons and Forces: Momentum versus Pseudomomentum in Moving Fluids,2.323093364029606e-06,5.581433464500479e-06,2.0,7.0
+cond-mat/0612553,"Coupling between aging and convective motion in a colloidal glass of
+  Laponite",2.3040612043803813e-06,0.0,3.0,0.0
+physics/0307039,"Passive tracer patchiness and particle trajectory stability in
+  incompressible two-dimensional flows",2.27910810532043e-06,0.0,2.0,0.0
+physics/0211073,Model Flames in the Boussinesq Limit: The Effects of Feedback,2.27910810532043e-06,0.0,2.0,0.0
+hep-th/0502206,Superradiant instabilities of rotating black branes and strings,2.2447262839439657e-06,1.1610372502539582e-05,5.0,8.0
+physics/0411064,Hawking radiation in sonic black holes,2.219400238433575e-06,0.0,1.0,0.0
+patt-sol/9706007,"Phenomenological Theory for Spatiotemporal Chaos in Rayleigh-Benard
+  Convection",2.2158564365873934e-06,0.0,2.0,1.0
+cond-mat/0111343,Shear flow and Kelvin-Helmholtz instability in superfluids,2.2100700305534976e-06,0.0,1.0,4.0
+gr-qc/0205034,An Improved Exact Riemann Solver for Multidimensional Relativistic Flows,2.2038337811282137e-06,0.0,2.0,0.0
+physics/0305121,Generalized Additive Entropies in Fully Developed Turbulence,2.197405988169038e-06,0.0,4.0,0.0
+physics/0203074,"An improved unified solver for compressible and incompressible fluids
+  involving free surfaces. II. Multi-time-step integration and applications",2.187491248189088e-06,0.0,2.0,0.0
+astro-ph/0212558,Realizability of stationary spherically symmetric transonic accretion,2.1871855762666745e-06,1.990182755160072e-06,1.0,3.0
+physics/0606159,The Cascade of Circulations in Fluid Turbulence,2.183090591894573e-06,0.0,2.0,0.0
+physics/0605016,Is the Kelvin Theorem Valid for High-Reynolds-Number Turbulence?,2.183090591894573e-06,0.0,2.0,1.0
+physics/0208038,Self-duality of the asymptotic relaxation states of fluids and plasmas,2.167833799140284e-06,0.0,3.0,0.0
+astro-ph/0407073,Bihelical Magnetic Relaxation and Large Scale Magnetic Field Growth,2.1449113650259595e-06,0.0,2.0,0.0
+physics/0011031,"Waves attractors in rotating fluids: a paradigm for ill-posed Cauchy
+  problems",2.1431908026554573e-06,0.0,2.0,0.0
+astro-ph/0106329,Chaos in the Music of the Spheres,2.1254800838390582e-06,0.0,2.0,3.0
+physics/0312113,Data-driven derivation of the turbulent energy cascade generator,2.120978933487838e-06,0.0,1.0,1.0
+physics/0409135,"Various Newtonian stresses from macroscopic fluid to microscopic celled
+  fluid",2.120978933487838e-06,0.0,1.0,1.0
+nlin/0303013,"The Kolmogorov turbulence theory in the light of six-dimensional
+  Navier-Stokes' equation",2.120978933487838e-06,0.0,1.0,0.0
+physics/9710011,Nonuniqueness and Turbulence,2.087073078468716e-06,0.0,2.0,0.0
+hep-th/0610004,"Equilibrium configurations of fluids and their stability in higher
+  dimensions",2.081577526864316e-06,0.0,3.0,2.0
+physics/9909013,"Rigorous estimates of the tails of the probability distribution function
+  for the random linear shear model",2.072098618475257e-06,0.0,2.0,0.0
+hep-th/9902024,Fluid Dynamical Profiles and Constants of Motion from d-Branes,2.0682762622053418e-06,3.980365510320144e-06,2.0,8.0
+physics/0611165,"Statistical mechanics of the shallow-water system with a prior potential
+  vorticity distribution",2.068145465680793e-06,0.0,1.0,0.0
+physics/0505084,Dynamics and thermodynamics of axisymmetric flows: I. Theory,2.068145465680793e-06,1.990182755160072e-06,1.0,2.0
+physics/0505192,Low magnetic Prandtl number dynamos with helical forcing,2.0677965720062183e-06,0.0,1.0,0.0
+physics/0505189,"Shell to shell energy transfer in MHD, Part II: Kinematic dynamo",2.0677965720062183e-06,9.95091377580036e-07,1.0,1.0
+cond-mat/9708083,Forces on Bins - The Effect of Random Friction,2.0507548724452214e-06,0.0,1.0,1.0
+hep-th/0210242,Quaternionic Madelung Transformation and Non-Abelian Fluid Dynamics,2.049984753063081e-06,3.707458333025432e-06,2.0,2.0
+nlin/0001029,Intermittency effects in Burgers equation driven by thermal noise,2.047092709268079e-06,0.0,1.0,0.0
+physics/0701026,Reversals in nature and the nature of reversals,2.0456653061975597e-06,0.0,1.0,1.0
+nlin/0601012,"Weakly nonlinear stability of magnetohydrodynamic systems with a center
+  of symmetry to perturbations, involving large scales",2.0287123786879982e-06,0.0,2.0,1.0
+cond-mat/0212566,Lagrangian acceleration statistics in turbulent flows,2.011829409539821e-06,3.980365510320144e-06,4.0,15.0
+nlin/0506044,Estimating von-Karman's constant from Homogeneous Turbulence,2.00711121225376e-06,0.0,1.0,0.0
+physics/0512014,A model of laminated wave turbulence,2.005619550469016e-06,0.0,1.0,0.0
+physics/0702203,"A Riemannian geometrical method to classify tearing instabilities in
+  plasmas",1.9812331808400884e-06,0.0,1.0,0.0
+astro-ph/0701806,Topology and existence of three-dimensional kinematic dynamos,1.9812331808400884e-06,0.0,1.0,0.0
+astro-ph/0611481,"Hydrodynamic turbulence cannot transport angular momentum effectively in
+  astrophysical disks",1.9803101477411127e-06,0.0,1.0,0.0
+physics/0602096,Fractional Hydrodynamic Equations for Fractal Media,1.974150676508235e-06,1.480532640317148e-06,3.0,9.0
+math-ph/0312058,"Constrained Reductions of 2D dispersionless Toda Hierarchy, Hamiltonian
+  Structure and Interface Dynamics",1.972063647877465e-06,3.980365510320144e-06,2.0,1.0
+hep-th/0004084,Chern-Simons Reduction and non-Abelian Fluid Mechanics,1.938365337326861e-06,8.152289703514476e-06,2.0,9.0
+astro-ph/0205284,MHD Turbulence as a Foreground for CMB Studies,1.9289004998814365e-06,2.6727183023500513e-08,2.0,2.0
+hep-th/0106044,"Testing Non-commutative QED, Constructing Non-commutative MHD",1.920720986693676e-06,2.311184538553233e-05,10.0,55.0
+physics/0102063,Equations relating structure functions of all orders,1.8950380516170012e-06,0.0,1.0,0.0
+physics/0006038,Mathematical investigation of the Boltzmann collisional operator,1.8950380516170012e-06,0.0,2.0,0.0
+physics/0104055,Anomalous self-similarity in two-dimensional turbulence,1.8950380516170012e-06,0.0,1.0,0.0
+physics/0305006,Paradoxical aspects of the kinetic equations,1.8950380516170012e-06,0.0,2.0,0.0
+physics/0407019,"Variational principle for the relativistic hydrodynamic flows with
+  discontinuities, and local invariants of motion",1.8950380516170012e-06,0.0,2.0,0.0
+physics/0310112,Note on the typhoon eye trajectory,1.8950380516170012e-06,0.0,1.0,0.0
+physics/0310135,"Synthetic Turbulence, Fractal Interpolation and Large-Eddy Simulation",1.8950380516170012e-06,0.0,1.0,0.0
+physics/0312078,"Sensitive dependence on initial conditions in transition to turbulence
+  in pipe flow",1.8950380516170012e-06,0.0,1.0,0.0
+physics/0702098,Controlling the direction and amount of a splash with textured surface,1.8950380516170012e-06,0.0,1.0,0.0
+physics/0407068,Structure of the most singular vortices in fully developed turbulence,1.8950380516170012e-06,0.0,1.0,0.0
+physics/0207108,"Richardson's pair diffusion and the stagnation point structure of
+  turbulence",1.8950380516170012e-06,0.0,1.0,2.0
+physics/0406061,"Relativistic least action principle for discontinuous hydrodynamic
+  flows, Hamiltonian variables, helicity and Ertel invariant",1.8950380516170012e-06,0.0,2.0,0.0
+physics/0304091,"Shell Model for Drag Reduction with Polymer Additive in Homogeneous
+  Turbulence",1.8950380516170012e-06,0.0,1.0,1.0
+nlin/0401020,"Anomalous scaling and universality in hydrodynamic systems with
+  power-law forcing",1.8950380516170012e-06,0.0,1.0,0.0
+nlin/0507023,Topological Chaos in Spatially Periodic Mixers,1.8950380516170012e-06,0.0,1.0,3.0
+nlin/0210064,"Drag Reduction by Polymers in Turbulent Channel Flows: Energy
+  Redistribution Between Invariant Empirical Modes",1.8950380516170012e-06,0.0,1.0,0.0
+math-ph/0501049,Pushmepullyou: An efficient micro-swimmer,1.8950380516170012e-06,0.0,1.0,0.0
+nlin/0105034,Derivative moments in stationary homogeneous shear turbulence,1.8950380516170012e-06,0.0,1.0,0.0
+physics/0602126,"Numerical simulations of current generation and dynamo excitation in a
+  mechanically-forced, turbulent flow",1.8950380516170012e-06,0.0,1.0,1.0
+nlin/0406009,"A lattice Boltzmann study of non-hydrodynamic effects in shell models of
+  turbulence",1.8950380516170012e-06,0.0,1.0,0.0
+physics/0006012,A new approach to study energy transfer in turbulence,1.8950380516170012e-06,0.0,1.0,1.0
+physics/0312043,Paradoxes in the Boltzmann kinetic theory,1.8950380516170012e-06,0.0,2.0,4.0
+nlin/0602008,"Mesoscopic modeling of a two-phase flow in the presence of boundaries:
+  the Contact Angle",1.8950380516170012e-06,0.0,1.0,1.0
+cond-mat/0204266,"Symmetry breaking and coarsening of clusters in a prototypical driven
+  granular gas",1.8950380516170012e-06,0.0,1.0,1.0
+physics/0602148,"Large scale flow effects, energy transfer, and self-similarity on
+  turbulence",1.8950380516170012e-06,0.0,1.0,0.0
+physics/0602024,"Piecewise continuous distribution function method and ultrasound at half
+  space",1.8950380516170012e-06,0.0,1.0,0.0
+physics/9904002,What caused the onset of the 1997-1998 El Nino?,1.8950380516170012e-06,0.0,1.0,0.0
+physics/0608258,"Dynamics of propagating turbulent pipe flow structures. Part I: Effect
+  of drag reduction by spanwise wall oscillation",1.8950380516170012e-06,0.0,1.0,1.0
+physics/0512095,"Sink flow deforms the interface between a viscous liquid and air into a
+  tip singularity",1.8950380516170012e-06,0.0,1.0,0.0
+physics/0608133,"Fluid dynamics at arbitrary Knudsen on a base of Alexeev-Boltzmann
+  equation: sound in a rarefied gas",1.8950380516170012e-06,0.0,1.0,0.0
+physics/0612042,"Extreme Value Statistics of the Total Energy in an Intermediate
+  Complexity Model of the Mid-latitude Atmospheric Jet. Part II: trend
+  detection and assessment",1.8950380516170012e-06,0.0,1.0,0.0
+physics/0702080,"Liquid drop splashing on smooth, rough and textured surfaces",1.8950380516170012e-06,0.0,1.0,0.0
+gr-qc/9910101,"Interface of General Relativity, Quantum Physics and Statistical
+  Mechanics: Some Recent Developments",1.8826705844894885e-06,0.0,7.0,12.0
+nlin/0501027,"Additive Equivalence in Turbulent Drag Reduction by Flexible and Rodlike
+  Polymers",1.8694755640153795e-06,0.0,1.0,2.0
+cond-mat/0110073,Generalized statistical mechanics and fully developed turbulence,1.85752213187544e-06,0.0,2.0,10.0
+nlin/0510075,Topological Mixing with Ghost Rods,1.8536302793458448e-06,0.0,1.0,1.0
+nlin/0405022,The Polymer Stress Tensor in Turbulent Shear Flows,1.851615055087032e-06,0.0,1.0,0.0
+nlin/0402027,Saturation of Turbulent Drag Reduction in Dilute Polymer Solutions,1.851615055087032e-06,0.0,1.0,3.0
+nlin/0401005,Drag Reduction by a Linear Viscosity Profile,1.851615055087032e-06,0.0,1.0,2.0
+hep-th/0007199,"The Maximal Kinematical Invariance Group of Fluid Dynamics and
+  Explosion-Implosion Duality",1.851588395512548e-06,1.0227576840461688e-06,3.0,10.0
+physics/0006056,Clebsch (String) Parameterization of 3-Vectors and Their Actions,1.8475943245161743e-06,2.8621203480549155e-05,2.0,5.0
+chao-dyn/9810028,Fluctuations in 2D reversibly-damped turbulence,1.8374275435614872e-06,0.0,2.0,3.0
+physics/0411050,"Asymmetric polarity reversals, bimodal field distribution, and coherence
+  resonance in a spherically symmetric mean-field dynamo model",1.828009924107344e-06,4.8789705798419686e-08,1.0,8.0
+nucl-th/9805006,New analytic solutions of the non-relativistic hydrodynamical equations,1.8169126189293056e-06,0.0,3.0,9.0
+nlin/0211036,Chaotic Mixing in a Torus Map,1.803421194485659e-06,0.0,1.0,0.0
+cond-mat/0509536,Galilean invariance and homogeneous anisotropic randomly stirred flows,1.803421194485659e-06,0.0,1.0,0.0
+physics/0412019,Two-loop calculation of the turbulent Prandtl number,1.803421194485659e-06,0.0,1.0,0.0
+math/0603704,Large eddy approximation of turbulent flow in DSC schemes,1.803421194485659e-06,0.0,1.0,1.0
+physics/0303003,"Experimental Lagrangian Acceleration Probability Density Function
+  Measurement",1.7743159430472937e-06,2.1761326506507693e-06,3.0,10.0
+cond-mat/0306005,Lagrangian Vorticity and Velocity Measurements in Turbulent Jets,1.7411293338069303e-06,0.0,1.0,1.0
+physics/0209024,Variational description of multi-fluid hydrodynamics: Uncharged fluids,1.7396790744318089e-06,6.116126217004247e-06,1.0,6.0
+physics/0010079,"Description of Vorticity by Grassmann Variables and an Extension to
+  Supersymmetry",1.73608145024157e-06,2.722886854074725e-08,3.0,3.0
+astro-ph/0412193,"Bypass to Turbulence in Hydrodynamic Accretion Disks: An Eigenvalue
+  Approach",1.7274862599533968e-06,0.0,1.0,3.0
+physics/0311120,Boltzmann's H-theorem and time irreversibility,1.719955952274848e-06,0.0,1.0,1.0
+physics/0010042,"A Particle Field Theorist's Lectures on Supersymmetric, Non-Abelian
+  Fluid Mechanics and d-Branes",1.7130487429306367e-06,1.981121204241272e-05,2.0,65.0
+physics/0512242,"Scaling and self-similarity in an unforced flow of inviscid fluid
+  trapped inside a viscous fluid in a Hele-Shaw cell",1.703003024765287e-06,0.0,1.0,0.0
+physics/0610103,"Self-similar asymptotics for a class of Hele-Shaw flows driven solely by
+  surface tension",1.703003024765287e-06,0.0,1.0,0.0
+physics/0601125,"Physical foundation of the mathematical concepts in the nonstandard
+  analysis theory of turbulence",1.703003024765287e-06,0.0,1.0,0.0
+physics/0605112,Self-similar relaxation dynamics of a fluid wedge in a Hele-Shaw cell,1.703003024765287e-06,0.0,1.0,0.0
+physics/0304101,"Variational principle for frozen-in vortex structures interacting with
+  sound waves",1.703003024765287e-06,0.0,1.0,0.0
+physics/0112008,Dynamics of immersed molecules in superfluids,1.703003024765287e-06,0.0,1.0,0.0
+astro-ph/0302013,A New Approach to Turbulent Transport of a Mean Scalar,1.703003024765287e-06,0.0,1.0,1.0
+cond-mat/0012441,Granular fingers in Hele-Shaw experiments,1.703003024765287e-06,0.0,1.0,1.0
+physics/0608096,"Global Well-posedness of the Three-dimensional Viscous and Inviscid
+  Simplified Bardina Turbulence Models",1.703003024765287e-06,0.0,1.0,1.0
+physics/0411251,"Some Important Concepts in Nonstandard Analysis Theory of Turbulence(The
+  revised)",1.703003024765287e-06,0.0,1.0,0.0
+physics/0603085,On the effects of turbulence on a screw dynamo,1.703003024765287e-06,0.0,1.0,1.0
+nlin/0105026,Advection-Diffusion in Lagrangian Coordinates,1.703003024765287e-06,0.0,1.0,3.0
+physics/0109005,"Alternative interpretation of the sign reversal of secondary Bjerknes
+  force acting between two pulsating gas bubbles",1.703003024765287e-06,0.0,1.0,3.0
+nlin/0312041,"Scaling anomalies in the coarsening dynamics of fractal viscous
+  fingering patterns",1.703003024765287e-06,0.0,1.0,0.0
+physics/0412083,Governing Equations of Compressible Turbulence,1.703003024765287e-06,0.0,1.0,0.0
+hep-th/9709185,On the ERG approach in $3 - d$ Well Developed Turbulence,1.703003024765287e-06,0.0,1.0,3.0
+physics/0102003,Topology and Turbulence,1.703003024765287e-06,0.0,1.0,0.0
+nlin/0008026,Solitons and wavelets: Scale analysis and bases,1.703003024765287e-06,0.0,1.0,1.0
+physics/0406059,"Canonical description of ideal magnetohydrodynamic flows and integrals
+  of motion",1.703003024765287e-06,0.0,1.0,1.0
+cond-mat/0006063,Non-Newtonian Poiseuille flow of a gas in a pipe,1.703003024765287e-06,0.0,1.0,0.0
+physics/0701016,"Interfusion, labeling and stream lines in flow of inviscid barotropic
+  fluid",1.6822991386297089e-06,0.0,1.0,0.0
+physics/0310027,Exact vortex solution of the Jacobs-Rebbi equation for ideal fluids,1.6529568840997648e-06,0.0,1.0,1.0
+nlin/0703055,Inertial particles driven by a telegraph noise,1.6521736877135973e-06,0.0,1.0,1.0
+cond-mat/0506137,Continuous Medium Model for Fractal Media,1.652086242938898e-06,4.727748466574595e-06,1.0,11.0
+physics/0110027,Measurement of Particle Accelerations in Fully Developed Turbulence,1.6126434980038058e-06,0.0,1.0,9.0
+astro-ph/0110076,Nonlinear Beat Cepheid and RR Lyrae Models,1.60698551133943e-06,0.0,1.0,1.0
+nlin/0501041,Acceleration and vortex filaments in turbulence,1.60698551133943e-06,0.0,1.0,1.0
+nlin/0312033,Entropy production away from the equilibrium,1.60698551133943e-06,0.0,1.0,4.0
+astro-ph/0101392,Strange Cepheids and RR Lyrae,1.60698551133943e-06,0.0,1.0,0.0
+astro-ph/0612180,"On self-sustaining processes in Rayleigh-stable rotating plane Couette
+  flows and subcritical transition to turbulence in accretion disks",1.60698551133943e-06,0.0,1.0,1.0
+astro-ph/0511343,"Computation of Fluid Flows in Non-inertial Contracting, Expanding, and
+  Rotating Reference Frames",1.60698551133943e-06,0.0,1.0,0.0
+astro-ph/0302527,"Diffusion in supersonic, turbulent, compressible flows",1.5929263674548356e-06,0.0,1.0,0.0
+hep-th/0004083,Supersymmetric Fluid Mechanics,1.578466186471623e-06,5.6336129678576776e-08,2.0,5.0
+physics/0303061,Superstatistics in hydrodynamic turbulence,1.5657696517791687e-06,0.0,3.0,1.0
+physics/0105058,On the small-scale statistics of Lagrangian turbulence,1.5493750032839157e-06,0.0,1.0,0.0
+physics/0209027,Exact Second-Order Structure-Function Relationships,1.5493750032839157e-06,0.0,1.0,0.0
+physics/0601198,"Anisotropy, inhomogeneity and inertial range scalings in turbulent
+  convection",1.5493750032839157e-06,0.0,1.0,0.0
+cs/0502045,Adaptive grids as parametrized scale-free networks,1.5295226748816362e-06,0.0,1.0,0.0
+physics/0208037,On the nature of intermittency in weakly dissipative systems,1.5218375533736645e-06,0.0,3.0,0.0
+physics/0309106,"On different cascade-speeds for longitudinal and transverse velocity
+  increments",1.5109679979135728e-06,0.0,1.0,2.0
+nlin/0005025,"Analytic Calculation of the Anomalous Exponents in Turbulence: Using the
+  Fusion Rules to Flush Out a Small Parameter",1.5109679979135728e-06,0.0,1.0,1.0
+physics/0206083,A Model of Two Dimensional Turbulence Using Random Matrix Theory,1.5109679979135728e-06,0.0,1.0,1.0
+astro-ph/9708019,A Vorticity-Magnetic Field Dynamo Instability,1.5109679979135728e-06,0.0,1.0,0.0
+hep-th/0105124,Gauge Theoretic Approach to Fluid Dynamics,1.50645305140223e-06,9.913783500517522e-07,1.0,1.0
+physics/0207015,Lagrangian Probability Distributions of Turbulent Flows,1.4974960232264646e-06,0.0,1.0,1.0
+physics/0212080,"Comment on ``Dynamical Foundations of Nonextensive Statistical
+  Mechanics""",1.4889347823851904e-06,7.960731020640288e-06,2.0,17.0
+cond-mat/0409279,"Phase diagram of van der Waals-like phase separation in a driven
+  granular gas",1.4835344226490424e-06,0.0,1.0,0.0
+physics/0007007,"Inertial waves in a rotating spherical shell: attractors and asymptotic
+  spectrum",1.4741819792348252e-06,0.0,1.0,2.0
+nlin/0404014,Anisotropy in Turbulent Flows and in Turbulent Transport,1.446956322296335e-06,0.0,1.0,5.0
+nlin/0507034,"On the Two-point Correlation of Potential Vorticity in Rotating and
+  Stratified Turbulence",1.446956322296335e-06,0.0,1.0,0.0
+physics/0402028,Atmospheric turbulence within and above an Amazon forest,1.446956322296335e-06,0.0,1.0,0.0
+cond-mat/9802158,Magnetic Force Exerted by the Aharonov-Bohm Line,1.4341539871728873e-06,0.0,1.0,4.0
+cond-mat/0506212,"Brownian motion near a partial-slip boundary: A local probe of the
+  no-slip condition",1.4341539871728873e-06,0.0,1.0,2.0
+physics/0504056,Faraday Instability in a Surface-Frozen Liquid,1.4341539871728873e-06,0.0,1.0,0.0
+physics/0507026,"Mesoscopic two-phase model for describing apparent slip in micro-channel
+  flows",1.4341539871728873e-06,0.0,1.0,1.0
+physics/0503225,A note on the stability of slip channel flows,1.4341539871728873e-06,0.0,1.0,0.0
+nlin/0112050,Topological Shocks in Burgers Turbulence,1.4270940493683312e-06,0.0,1.0,1.0
+physics/0609138,Simple Viscous Flows: from Boundary Layers to the Renormalization Group,1.423679349344612e-06,0.0,1.0,0.0
+nlin/0512076,"On linear stability of steady space-periodic magnetohydrodynamic systems
+  to perturbations involving large periods",1.4149504844877158e-06,0.0,1.0,2.0
+physics/0207112,"Generation of multiscale magnetic field by parity-invariant
+  time-periodic flows",1.4149504844877158e-06,0.0,1.0,1.0
+nlin/0511020,Eddy diffusivity in convective hydromagnetic systems,1.4149504844877158e-06,0.0,1.0,1.0
+cond-mat/0410212,The Exotic Statistics of Leapfrogging Smoke Rings,1.4012336968554504e-06,0.0,1.0,1.0
+physics/0407025,Thermodynamics of MHD flows with axial symmetry,1.3874597873045716e-06,0.0,1.0,0.0
+cond-mat/0411611,"Numerical Simulation of Vortex Crystals and Merging in N-Point Vortex
+  Systems with Circular Boundary",1.3874597873045716e-06,0.0,1.0,0.0
+hep-th/0110057,Physical Instances of Noncommuting Coordinates,1.378866391994268e-06,8.546201805880958e-06,2.0,56.0
+hep-th/0210143,Non-Abelian Fluid Dynamics in Lagrangian Formulation,1.3762363290410373e-06,2.9409216820657974e-05,1.0,9.0
+physics/0509069,On the inverse cascade of magnetic helicity,1.3189329710618589e-06,0.0,0.0,2.0
+math/0106037,Tails of probability density for sums of random independent variables,1.3189329710618589e-06,0.0,0.0,2.0
+astro-ph/9811037,Reconnection in a Weakly Stochastic Field,1.3189329710618589e-06,0.0,0.0,3.0
+physics/0103083,"Time resolved tracking of a sound scatterer in a turbulent flow:
+  non-stationary signal analysis and applications",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9712020,"First principle basis of the direct numerical simulation for turbulence
+  of inert and reactive gases",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0209108,"Lochlainn O'Raifeartaigh, Fluids, and Noncommuting Fields",1.3189329710618589e-06,0.0,0.0,5.0
+physics/0111138,"Investigation of transition frequencies of two acoustically coupled
+  bubbles using a direct numerical simulation technique",1.3189329710618589e-06,0.0,0.0,3.0
+physics/0212023,"Canonical description of ideal magnetohydrodynamics and integrals of
+  motion",1.3189329710618589e-06,0.0,0.0,3.0
+physics/0303112,A modified SPH approach for fluids with large density differences,1.3189329710618589e-06,0.0,0.0,3.0
+physics/0512120,"The mean electromotive force due to turbulence of a conducting fluid in
+  the presence of mean flow",1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/0310618,"Kinetic Theory of Turbulence Modeling: Smallness Parameter, Scaling and
+  Microscopic Derivation of Smagorinsky Model",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0605014,Turbulent Cascade of Circulations,1.3189329710618589e-06,0.0,0.0,2.0
+math/0507254,On the True Nature of Turbulence,1.3189329710618589e-06,0.0,0.0,1.0
+math/9907132,Bulk Burning Rate in Passive - Reactive Diffusion,1.3189329710618589e-06,0.0,0.0,2.0
+nlin/0204069,Stretching and Curvature of Material Lines in Chaotic Flows,1.3189329710618589e-06,0.0,0.0,3.0
+astro-ph/0306521,Non-Fickian diffusion and tau approximation from numerical turbulence,1.3189329710618589e-06,0.0,0.0,3.0
+nlin/0310022,Effects of forcing in three dimensional turbulent flows,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0008301,"Highly localized clustering states in a granular gas driven by a
+  vibrating wall",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0007010,"Slow inviscid flows of a compressible fluid in spatially inhomogeneous
+  systems",1.3189329710618589e-06,0.0,0.0,3.0
+nlin/0110010,Markov-chain approach to a process with long-time memory,1.3189329710618589e-06,0.0,0.0,1.0
+astro-ph/0606753,"Supersonic turbulence in shock-bound interaction zones I: symmetric
+  settings",1.3189329710618589e-06,0.0,0.0,3.0
+physics/0604219,"Convergence and round-off errors in a two-dimensional eigenvalue problem
+  using spectral methods and Arnoldi-Chebyshev algorithm",1.3189329710618589e-06,0.0,0.0,2.0
+nlin/0006024,Quenching of flames by fluid advection,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0611009,Recurrence of Travelling Waves in Transitional Pipe Flow,1.3189329710618589e-06,0.0,0.0,3.0
+physics/0108067,"Eigenfrequencies of two mutually interacting gas bubbles in an acoustic
+  field",1.3189329710618589e-06,0.0,0.0,2.0
+nucl-th/0012040,Space-time versus particle-hole symmetry in quantum Enskog equations,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0005004,An inertial range length scale in structure functions,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0204045,Velocity and Pressure Fields Induced by Spheres in an Unbounded Fluid,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0003025,Entropy driven intermitency,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0612207,Scaling and energy transfer in rotating turbulence,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0201037,"Scaling dependence on the fluid viscosity ratio in the selective
+  withdrawal transition",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0701076,Magnetic field reversals in an experimental turbulent dynamo,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0008020,Turbulence in a free surface,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0202018,Noncoaxial multivortices in the complex sine-Gordon theory on the plane,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0505027,"Singular limit of Hele-Shaw flow and dispersive regularization of shock
+  waves",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0410161,"Extraction of coherent structures in a rotating turbulent flow
+  experiment",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0407111,Vortex Tubes in Turbulence Velocity Fields at Reynolds Numbers 300-1300,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0410070,The 3D structure of the Lagrangian acceleration in turbulent flows,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0405001,"Relation between shear parameter and Reynolds number in statistically
+  stationary turbulent shear flows",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0201569,Symmetry-breaking instability in a prototypical driven granular gas,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0608079,"Splashing of liquids: interplay of surface roughness with surrounding
+  gas",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0511208,"Physical and Mathematical Properties of a Quasi-Geostrophic Model of
+  Intermediate Complexity of the Mid-Latitudes Atmospheric Circulation",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0503233,"Piecewise continuous distribution function method: Fluid equations and
+  wave disturbances at stratified gas",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0111211,Searching for vortex structures in high Reynolds number turbulence,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0305419,Irreversibility in the short memory approximation,1.3189329710618589e-06,0.0,0.0,4.0
+physics/0503094,Navier-Stokes' equations for radial and tangential accelerations,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0410054,"On Optimal Canonical Variables in the Theory of Ideal Fluid with Free
+  Surface",1.3189329710618589e-06,0.0,0.0,3.0
+nlin/0209039,"Lyapunov spectra and nonequilibrium ensembles equivalence in 2D fluid
+  mechanics",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0511204,Fluctuation of magnetic induction in von K\'arm\'an swirling flows,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0601062,Influence of turbulence on the dynamo threshold,1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/9807010,"The Exact Solution of one Fokker-Planck Type Equation used by R.
+  Friedrich and J. Peinke in the Stochastic Model of a Turbulent Cascade",1.3189329710618589e-06,0.0,0.0,4.0
+physics/0304090,Induced-Charge Electro-Osmosis,1.3189329710618589e-06,0.0,0.0,1.0
+gr-qc/9710069,Ideal gas sources for the Lemaitre-Tolman-Bondi metrics,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9911024,Quasilinear theory of the 2D Euler equation,1.3189329710618589e-06,0.0,0.0,1.0
+astro-ph/0002067,Fast Turbulent Reconnection,1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/0405268,"Slip behavior in liquid films on surfaces of patterned wettability:
+  Comparison between continuum and molecular dynamics simulations",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0608257,Dynamical Eigenfunction Decomposition of Turbulent Pipe Flow,1.3189329710618589e-06,0.0,0.0,2.0
+astro-ph/0404108,The turbulent dynamo as an instability in a noisy medium,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0209062,Penta-hepta defect chaos in a model for rotating hexagonal convection,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0303085,A singular integrable equation from short capillary-gravity waves,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0101036,Non-locality and Intermittency in 3D Turbulence,1.3189329710618589e-06,0.0,0.0,7.0
+astro-ph/0005230,Hydrodynamical Survey of First Overtone Cepheids,1.3189329710618589e-06,0.0,0.0,2.0
+nlin/0208032,"Hamiltonian fractals and chaotic scattering of passive particles by a
+  topographical vortex and an alternating current",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0209560,"Hydrodynamics from Grad's equations: What can we learn from exact
+  solutions?",1.3189329710618589e-06,0.0,0.0,2.0
+nlin/0104029,"Modulated Amplitude Waves and Defect Formation in the One-Dimensional
+  Complex Ginzburg-Landau Equation",1.3189329710618589e-06,0.0,0.0,2.0
+nlin/0005021,On statistically stationary homogeneous shear turbulence,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0503424,Intermittency in Two-Dimensional Turbulence with Drag,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0606002,Energy Spectra of Developed Turbulencein Helium Superfluids,1.3189329710618589e-06,0.0,0.0,3.0
+physics/0312087,An Elementary Treatment of the Reverse Sprinkler,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0308099,Weak Turbulent Kolmogorov Spectrum for Surface Gravity Waves,1.3189329710618589e-06,0.0,0.0,3.0
+physics/9905044,Integration of Complete System of Dynamic Equations for Ideal Fluid,1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/0105374,Dynamical foundations of nonextensive statistical mechanics,1.3189329710618589e-06,0.0,0.0,6.0
+physics/0006033,A path-integral approach to the collisionless Boltzmann gas,1.3189329710618589e-06,0.0,0.0,4.0
+physics/0010015,A path-integral approach to the collisional Boltzmann gas,1.3189329710618589e-06,0.0,0.0,4.0
+physics/0607148,Computational Euler History,1.3189329710618589e-06,0.0,0.0,3.0
+physics/0511075,Analytic Study of Shell Models of Turbulence,1.3189329710618589e-06,0.0,0.0,1.0
+astro-ph/0505628,"Polarized Cosmological Gravitational Waves from Primordial Helical
+  Turbulence",1.3189329710618589e-06,0.0,0.0,4.0
+math-ph/0208005,"Equivalence of Q-Conditional Symmetries under Group of Local
+  Transformation",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0206013,"Long time correlations in Lagrangian dynamics: a key to intermittency in
+  turbulence",1.3189329710618589e-06,0.0,0.0,7.0
+astro-ph/0503053,On the Spectrum of Magnetohydrodynamic Turbulence,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0009017,"Geometrical Constraints on Finite-time Lyapunov Exponents in Two and
+  Three Dimensions",1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/0207016,Symmetry reduction and exact solutions of the Navier-Stokes equations,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0311001,The shell model approach to the rotating turbulence,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0605171,Coupled applications on distributed resources,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0511056,Universal dynamics in the onset of a Hagen-Poiseuille flow,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0208078,Possible Gigantic Variations on the Width of Viscoelastic Fingers,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9705005,Singularities in droplet pinching with vanishing viscosity,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0509035,"Lattice Boltzmann simulations of apparent slip in hydrophobic
+  microchannels",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0607003,Effective velocity boundary condition at a mixed slip surface,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0505203,"On Landau's prediction for large-scale fluctuation of turbulence energy
+  dissipation",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0211121,"On the interaction between velocity increment and energy dissipation in
+  the turbulent cascade",1.3189329710618589e-06,0.0,0.0,6.0
+physics/0603185,A Theory of Inertial Range Similarity in Isotropic Turbulence,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0603058,Flow channelling in a single fracture induced by shear displacement,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0410130,"Lagrangian Velocity Correlations and Absolute Dispersion in the
+  Midlatitude Troposphere",1.3189329710618589e-06,0.0,0.0,1.0
+physics/9610014,Uniqueness in Relativistic Hydrodynamics,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0701221,Scattering of internal waves from small sea bottom inhomogeneities,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0606527,"Experimental Investigations of Elastic Tail Propulsion at Low Reynolds
+  Number",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0611206,"A volume-based description of gas flows with localised mass-density
+  variations",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0610101,Blow Ups of Complex Solutions of the 3D-Navier-Stokes System,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0312095,"Estimation of the linear transient growth of perturbations of cellular
+  flames",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0106076,Nonlinear equation for curved stationary flames,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0504005,Power laws and self-similar behavior in negative ionization fronts,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0504012,Autocatalytic reaction front in a pulsative periodic flow,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0608272,"On the notion of laminar and weakly turbulent elementary fluid flows: a
+  simple mathematical model",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0703437,Renormalization of the Lattice Boltzmann Hierarchy,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0607255,"Quantifying microbubble clustering in turbulent flow from single-point
+  measurements",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0603225,"A dynamical equation for the distribution of a scalar advected by
+  turbulence",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0311086,Lagrangian Averaging for Compressible Fluids,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0612035,Energy and enstrophy fluxes in the double cascade of 2d turbulence,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0604072,Asymptotic Exponents from Low-Reynolds-Number Flows,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0609035,"Maximum complexity distribution of a monodimensional ideal gas out of
+  equilibrium",1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0607006,Reynolds number dependence of drag reduction by rod-like polymers,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0510069,Introduction to Statstical Theory of Fluid Turbulence,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0305052,Linear Stability and Subcritical Turbulence in Rotating Shear Flows,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0305058,"Going forth and back in time: a fast and parsimonious algorithm for
+  mixed initial/final-value problems",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0102056,Alternative to R_lambda-scaling of Small-Scale Turbulence Statistics,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0610034,"On the effect of surfactant adsorption and viscosity change on apparent
+  slip in hydrophobic microchannels",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0012051,"Universal Distribution of Centers and Saddles in Two-Dimensional
+  Turbulence",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0509260,Asymptotic theory for a moving droplet driven by a wettability gradient,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0309026,Dynamics of Immobilized Flagella,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9712097,The Sound of Sonoluminescence,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0512043,"How a Long Bubble Shrinks: a Numerical Method for an Unforced Hele-Shaw
+  Flow",1.3189329710618589e-06,0.0,0.0,3.0
+physics/0308012,Nonstandard picture of turbulence(the second revised),1.3189329710618589e-06,0.0,0.0,3.0
+astro-ph/0406603,Self-similar imploding relativistic shock waves,1.3189329710618589e-06,0.0,0.0,2.0
+astro-ph/0408114,'Swing Absorption' of fast magnetosonic waves in inhomogeneous media,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0304030,"Red solitons: evidence of spatio--temporal instability in $\chi^{(2)}$
+  spatial-soliton dynamics",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0512102,Probability Densities in Strong Turbulence,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0006026,"Inertial effects in three dimensional spinodal decomposition of a
+  symmetric binary fluid mixture: A lattice Boltzmann study",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0607270,"Stirring up trouble: Multi-scale mixing measures for steady scalar
+  sources",1.3189329710618589e-06,0.0,0.0,1.0
+astro-ph/0606125,Helical Magnetorotational Instability in Magnetized Taylor-Couette Flow,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9705020,Boundary-layer control by electric fields: A feasibility study,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0503186,"A simple model for the short-time evolution of near-surface current and
+  temperature profiles",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0302144,Local induction approximation in the theory of superfluid turbulence,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0005058,"Simulating Complex Dynamics In Intermediate And Large-Aspect-Ratio
+  Convection Systems",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9903067,Hysteresis at low Reynolds number: the onset of 2D vortex shedding,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0407041,"Exactly Integrable Dynamics of Interface between Ideal Fluid and Light
+  Viscous Fluid",1.3189329710618589e-06,0.0,0.0,1.0
+math/0409310,Remarks on a quasi-linear model of the Navier-Stokes Equations,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9908007,Stability of Plane-Parallel Vibrational Flow In a Two-Layer System,1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/0210018,"Integrable Dynamics of Charges Related to Bilinear Hypergeometric
+  Equation",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0406034,Water waves over a strongly undulating bottom,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0007092,Threshold amplitudes for transition to turbulence in a pipe,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0212057,Flame Enhancement and Quenching in Fluid Flows,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0404088,"Free Surface Deformation and Cusp Formation During the Drainage of a
+  Very Viscous Fluid",1.3189329710618589e-06,0.0,0.0,2.0
+physics/9906003,Scaling properties of three-dimensional magnetohydrodynamic turbulence,1.3189329710618589e-06,0.0,0.0,2.0
+nlin/0210069,Effect of particle inertia on the turbulence in a suspension,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9904044,Vorticity statistics in the two-dimensional enstrophy cascade,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0411688,The 'Cheerios effect',1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0201035,Stretching of polymers in a turbulent environment,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0401016,"Probability Density Functions of Decaying Passive Scalars in Periodic
+  Domains : An Application of Sinai-Yakhot Theory",1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0407013,Clustering and collisions of heavy particles in random smooth flows,1.3189329710618589e-06,0.0,0.0,1.0
+astro-ph/9803258,Fluid dynamics of partially radiative blast waves,1.3189329710618589e-06,0.0,0.0,2.0
+astro-ph/9810336,Particle Aggregation in a turbulent Keplerian flow,1.3189329710618589e-06,0.0,0.0,1.0
+gr-qc/9810089,The Quantum Commutator of a Perfect Fluid,1.3189329710618589e-06,0.0,0.0,5.0
+cond-mat/0003364,Monte Carlo simulation of nonlinear Couette flow in a dilute gas,1.3189329710618589e-06,0.0,0.0,3.0
+physics/0110004,Matrix Fluid Dynamics,1.3189329710618589e-06,0.0,0.0,1.0
+astro-ph/0002045,Conservation of Circulation in Magnetohydrodynamics,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0001071,"Non equilibrium in statistical and fluid mechanics. Ensembles and their
+  equivalence. Entropy driven intermittency",1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0112047,Two and three-dimensional oscillons in nonlinear Faraday resonance,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0304076,Non-stationary Spectra of Local Wave Turbulence,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0508012,Acceleration statistics of heavy particles in turbulence,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0510059,Nature of complex singularities for the 2D Euler equation,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9901014,Interfacial tension in water at solid surfaces,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0410007,Shear effects on passive scalar spectra,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0106347,Dynamical random multiplicative cascade model in 1+1 dimensions,1.3189329710618589e-06,0.0,0.0,1.0
+astro-ph/0210185,Continuum Equations for Stellar Dynamics,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0104514,"Reply to Comment on ""Pipe network model for scaling of dynamic
+  interfaces in porous media''",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0005280,Dynamics of vortex tangle without mutual friction in superfluid $^4$He,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9809024,A necessary and sufficient instability condition for inviscid shear flow,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9905056,Exact statistical properties of the Burgers equation,1.3189329710618589e-06,0.0,0.0,6.0
+physics/0308101,Weak turbulence of gravity waves,1.3189329710618589e-06,0.0,0.0,3.0
+physics/0308100,Decay of the monochromatic capillary wave,1.3189329710618589e-06,0.0,0.0,3.0
+math/0002175,"Enhancement of the Traveling Front Speeds in Reaction-Diffusion
+  Equations with Advection",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0410159,"A numerical study of the alpha model for two-dimensional
+  magnetohydrodynamic turbulent flows",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0306100,"Induced-charge Electrokinetic Phenomena: Theory and Microfluidic
+  Applications",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0010047,Magnetic Field Saturation in the Riga Dynamo Experiment,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0110046,Numerical evidence of breaking of vortex lines in an ideal fluid,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0601112,Long-wave instability and growth rate of the inviscid shear flows,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0512208,General stability criterion of two-dimensional inviscid parallel flow,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0601043,General stability criterion of inviscid parallel flow,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0107219,"Kinetic theory of point vortices: diffusion coefficient and systematic
+  drift",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0002397,On the influence of gravity on the thermal conductivity,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0606122,"Paradox of inductionless magnetorotational instability in a
+  Taylor-Couette flow with a helical magnetic field",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0405123,"Numerical and Experimental Investigation of Circulation in Short
+  Cylinders",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0310008,Most singular vortex structures in fully developed turbulence,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0508219,Magnetofluid Unification in the Yang-Mills Lagrangian,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0003079,"Emergence of intense jets and Jupiter Great Red Spot as maximum entropy
+  structures",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0611520,"On the use of Kolmogorov-Landau approach in deriving various correlation
+  functions in 2-D incompressible turbulence",1.3189329710618589e-06,0.0,0.0,1.0
+hep-ph/9912267,Hydrodynamics of nuclear matter in the chiral limit,1.3189329710618589e-06,0.0,0.0,3.0
+physics/0508200,The Hydraulic Jump in Liquid Helium,1.3189329710618589e-06,0.0,0.0,2.0
+nlin/0207024,"Contact Line Instability and Pattern Selection in Thermally Driven
+  Liquid Films",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0109052,On the universality of small scale turbulence,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0611113,"On the uniqueness of continuous inverse kinetic theory for
+  incompressible fluids",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0501557,Microfluidics: The no-slip boundary condition,1.3189329710618589e-06,0.0,0.0,10.0
+physics/0701337,The dynamics of transition to turbulence in plane Couette flow,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0012005,"Dynamo effect in parity-invariant flow with large and moderate
+  separation of scales",1.3189329710618589e-06,0.0,0.0,12.0
+nlin/0402032,Lagrangian statistics in fully developed turbulence,1.3189329710618589e-06,0.0,0.0,4.0
+physics/0103041,"Chemical efficiency of reactive microflows with heterogeneus catalysis:
+  a lattice Boltzmann study",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0611020,Statistical analysis of coherent structures in transitional pipe flow,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0208286,Giant fluctuations at a granular phase separation threshold,1.3189329710618589e-06,0.0,0.0,7.0
+physics/0206034,"The Approach of Turbulence to the Locally Homogeneous Asymptote as
+  Studied using Exact Structure-Function Equations",1.3189329710618589e-06,0.0,0.0,5.0
+physics/0207076,"The fractional Brownian motion property of the turbulent refractive
+  index and the Fermat's Extremal Principle",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0201405,Energy Spectrum of Superfluid Turbulence without Normal Fluid,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0504207,On spectral scaling laws for incompressible anisotropic MHD turbulence,1.3189329710618589e-06,0.0,0.0,3.0
+ao-sci/9609001,Sub-Suns and Low Reynolds Number Flow,,,,
+astro-ph/0012138,"Chemical equilibrium and stable stratification of a multi-component
+  fluid: thermodynamics and application to neutron stars",,,,
+astro-ph/0101224,Spatio-Temporal Scaling of Solar Surface Flows,,,,
+astro-ph/0109282,"Hydrodynamic Interaction of Strong Shocks with Inhomogeneous Media - I:
+  Adiabatic Case",,,,
+astro-ph/0110171,The effect of hyperdiffusivity on turbulent dynamos with helicity,,,,
+astro-ph/0201150,"Thermal Instability in a Cooling and Expanding Medium Including
+  Self-Gravity and Conduction",,,,
+astro-ph/0207617,On the thickness of a mildly relativistic collisional shock wave,,,,
+astro-ph/0305146,"A Laboratory Investigation of Supersonic Clumpy Flows: Experimental
+  Design and Theoretical Analysis",,,,
+astro-ph/0312644,Nuclear hydrodynamics in the inner crust of neutron stars,,,,
+astro-ph/0404272,"Dust in Brown Dwarfs IV. Dust formation and driven turbulence on
+  mesoscopic scales",,,,
+astro-ph/0406083,"On self-similarity properties of isotropic turbulence in numerical
+  simulations of the compressible Euler equations",,,,
+astro-ph/0409193,"On the Saturation of Astrophysical Dynamos: Numerical Experiments with
+  the No-cosines flow",,,,
+astro-ph/0501041,A unified description of anti-dynamo conditions for incompressible flows,,,,
+astro-ph/0501527,Non-Gaussian Radio-Wave Scattering in the Interstellar Medium,,,,
+astro-ph/0503252,"Self-Similar Evolution of Relativistic Shock Waves Emerging from
+  Plane-Parallel Atmospheres",,,,
+astro-ph/0504588,Magnetic-field generation in helical turbulence,,,,
+astro-ph/0509001,"Route of hydrodynamic turbulence in rotating shear flow: Secondary
+  perturbation triggers growing eigenmodes through the elliptical instability",,,,
+astro-ph/0601224,"Low-Redshift Cosmic Baryon Fluid on Large Scales and She-Leveque
+  Universal Scaling",,,,
+astro-ph/0605233,Dynamic Alignment and Exact Scaling Laws in MHD Turbulence,,,,
+astro-ph/0608402,"Growing hydrodynamic modes in Keplerian accretion disks during secondary
+  perturbations: Elliptical vortex effects",,,,
+astro-ph/0701796,"Twist, writhe and energy from the helicity of magnetic perturbed vortex
+  filaments",,,,
+astro-ph/0702114,"On the intermittent character of interplanetary magnetic field
+  fluctuations",,,,
+astro-ph/0703079,Multi-scale theory of rotating turbulence,,,,
+astro-ph/0703201,"Secondary Perturbation Effects in Keplerian Accretion Disks: Elliptical
+  Instability",,,,
+astro-ph/0703525,Traveling waves in magnetized Taylor-Couette flow,,,,
+astro-ph/9708246,"Was The Electromagnetic Spectrum A Blackbody Spectrum In The Early
+  Universe?",,,,
+astro-ph/9708251,"The Magnetic Field Spectrum in a Plasma in Thermal Equilibrium in the
+  Epoch of Primordial Nucleosynthesis",,,,
+astro-ph/9802149,"Exact Solution of the Kompaneets Equation for Strong Explosion in Medium
+  with Inverse-Square Decreasing Density",,,,
+astro-ph/9904009,"Structures Produced by the Collision of Extragalactic Jets with Dense
+  Clouds",,,,
+astro-ph/9906018,The Energy of a Plasma in the Classical Limit,,,,
+chao-dyn/9410005,Passive Scalars and Three-Dimensional Liouvillian Maps,,,,
+chao-dyn/9504012,"Chaotic advection in three-dimensional unsteady incompressible laminar
+  flow",,,,
+chao-dyn/9510007,"Global Diffusion in a Realistic Three-Dimensional Time-Dependent
+  Nonturbulent Fluid Flow",,,,
+chao-dyn/9602016,Metric structures of inviscid flows,,,,
+chao-dyn/9603019,Energy-Conserving Truncations for Convection with Shear Flow,,,,
+chao-dyn/9701013,"Dispersion of passive tracers in closed basins: beyond the diffusion
+  coefficient",,,,
+chao-dyn/9707022,Nonlinear hydrodynamic stability,,,,
+chao-dyn/9805016,Analysis of Rayleigh-Plesset dynamics for sonoluminescing bubbles,,,,
+chao-dyn/9908010,"Evolution of the vorticity-area density during the formation of coherent
+  structures in two-dimensional flows",,,,
+chao-dyn/9912017,Differential light scattering: probing the sonoluminescence collapse,,,,
+comp-gas/9702001,A New Fast Method for Determining Local Properties of Striped Patterns,,,,
+comp-gas/9810001,"Inverse Chapman-Enskog Derivation of the Thermohydrodynamic Lattice-BGK
+  Model for the Ideal Gas",,,,
+comp-gas/9810002,"Lattice-Gas Simulations of Ternary Amphiphilic Fluid Flow in Porous
+  Media",,,,
+cond-mat/0002398,Non-Newtonian shear viscosity in a dense system of hard disks,,,,
+cond-mat/0006237,Quantum Suppression of the Rayleigh Instability in Nanowires,,,,
+cond-mat/0006287,Permeability of self-affine rough fractures,,,,
+cond-mat/0006459,Pipe network model for scaling of dynamic interfaces in porous media,,,,
+cond-mat/0007344,Hysteretic transition from laminar to vortex shedding flow in soap films,,,,
+cond-mat/0009241,"""Barber pole turbulence"" in large aspect ratio Taylor-Couette flow",,,,
+cond-mat/0009299,"Intermittent Switching between Potential Flow and Turbulence in
+  Superfluid Helium at mK Temperatures",,,,
+cond-mat/0010224,Gravity-driven instability in a spherical Hele-Shaw cell,,,,
+cond-mat/0010369,Tracer dispersion in two-dimensional rough fractures,,,,
+cond-mat/0012020,The Saffman-Taylor problem on a sphere,,,,
+cond-mat/0101356,"Slip, concentration fluctuations and flow instability in sheared polymer
+  solutions",,,,
+cond-mat/0102061,"Interparticle force in polydisperse electrorheological fluids: Beyond
+  the dipole approximation",,,,
+cond-mat/0105415,"Deterministic and stochastic behaviour of non-Brownian spheres in
+  sheared suspensions",,,,
+cond-mat/0106580,Fluctuations in viscous fingering,,,,
+cond-mat/0109428,"Theory of Suspension Segregation in Partially Filled Horizontal Rotating
+  Cylinders",,,,
+cond-mat/0110213,Transport in rough self-affine fractures,,,,
+cond-mat/0201589,Analytical approach to viscous fingering in a cylindrical Hele-Shaw cell,,,,
+cond-mat/0203499,Comments on nonlinear viscosity and Grad's moment method,,,,
+cond-mat/0204434,Statistical mechanics of strong and weak point vortices in a cylinder,,,,
+cond-mat/0206235,"Adsorption phenomena in the transport of a colloidal particle through a
+  nanochannel containing a partially wetting fluid",,,,
+cond-mat/0207515,"Statistical properties of one dimensional ""turbulence""",,,,
+cond-mat/0209260,"An Alternative Method to Deduce Bubble Dynamics in Single Bubble
+  Sonoluminescence Experiments",,,,
+cond-mat/0210534,Molecular scale contact line hydrodynamics of immiscible flows,,,,
+cond-mat/0212478,Mode-coupling approach to non-Newtonian Hele-Shaw flow,,,,
+cond-mat/0302200,Maxwellian gas undergoing a stationary Poiseuille flow in a pipe,,,,
+cond-mat/0302276,"Shear-dependent apparent slip on hydrophobic surfaces: The Mattress
+  Model",,,,
+cond-mat/0303482,Numerical simulation of stochastic vortex tangles,,,,
+cond-mat/0306555,"""Turbulent"" electrical transport in Copper powders",,,,
+cond-mat/0306572,Three-dimensional flows in slowly-varying planar geometries,,,,
+cond-mat/0307478,Microstructure and velocity fluctuations in sheared suspensions,,,,
+cond-mat/0310017,"Weakly nonlinear subcritical instability of visco-elastic Poiseuille
+  flow",,,,
+cond-mat/0405555,Thermodynamic Theory of Incompressible Hydrodynamics,,,,
+cond-mat/0405669,"On the correspondence between a screw dislocation in gradient elasticity
+  and a regularized vortex",,,,
+cond-mat/0407160,"Electro-hydrodynamics of binary electrolytes driven by modulated surface
+  potentials",,,,
+cond-mat/0411080,Drag Reduction by Polymer Additives in Decaying Turbulence,,,,
+cond-mat/0411243,"Subcritical finite-amplitude solutions in plane Couette flow of
+  visco-elastic fluids",,,,
+cond-mat/0412081,"Hydrodynamic singularities and clustering in a freely cooling inelastic
+  gas",,,,
+cond-mat/0501745,"Ultimate Regime of Convection: robustness to poor thermal properties of
+  the plates",,,,
+cond-mat/0506675,Swimming in circles: Motion of bacteria near solid boundaries,,,,
+cond-mat/0507421,"Structural Studies of Decaying Fluid Turbulence: Effect of Initial
+  Conditions",,,,
+cond-mat/0507447,Surface relaxation of lyotropic lamellar phases,,,,
+cond-mat/0508168,Rossby wave equilibria and zonal jets,,,,
+cond-mat/0509283,A note on the lattice Boltzmann method beyond the Chapman Enskog limits,,,,
+cond-mat/0509781,Surfactant Driven Fracture of Interfacial Particle Rafts,,,,
+cond-mat/0510361,A minimal model for chaotic shear banding in shear-thickening fluids,,,,
+cond-mat/0511614,"Statistics of Pressure Fluctuations in Decaying, Isotropic Turbulence",,,,
+cond-mat/0601541,Drop dynamics on chemically patterned surfaces,,,,
+cond-mat/0603013,Frequency response in surface-potential driven electro-hydrodynamics,,,,
+cond-mat/0603500,Boundary induced non linearities at small Reynolds Numbers,,,,
+cond-mat/0605634,Thermal collapse of a granular gas under gravity,,,,
+cond-mat/0608019,Accumulating Particles at the Boundaries of a Laminar Flow,,,,
+cond-mat/0608363,"Tuning gastropod locomotion: Modeling the influence of mucus rheology on
+  the cost of crawling",,,,
+cond-mat/0608426,Relaxation time of the topological T1 process in a two-dimensional foam,,,,
+cond-mat/0609062,"Steady Stokes flow with long-range correlations, fractal Fourier
+  spectrum, and anomalous transport",,,,
+cond-mat/0610154,Floppy swimming: Viscous locomotion of actuated elastica,,,,
+cond-mat/0610603,"Formation and evolution of density singularities in hydrodynamics of
+  inelastic gases",,,,
+cond-mat/0611055,"Controlling drop size and polydispersity using chemically patterned
+  surfaces",,,,
+cond-mat/0701443,"Acoustic Analogue of Bloch Oscillations and Resonant Zener Tunneling in
+  Ultrasonic Superlattices",,,,
+cond-mat/0702449,Rate-dependent slip boundary conditions for simple fluids,,,,
+cond-mat/0703440,"Hydrodynamics beyond Navier-Stokes: Exact solution to the lattice
+  Boltzmann hierarchy",,,,
+cond-mat/0703488,"Linear shear flow past a hemispherical droplet adhering to a solid
+  surface",,,,
+cond-mat/0703548,Propulsion in a viscoelastic fluid,,,,
+cond-mat/0703598,"Lattice Boltzmann method for thermal flow simulation on standard
+  lattices",,,,
+cond-mat/9708037,Radial fingering in a Hele-Shaw cell: a weakly nonlinear analysis,,,,
+cond-mat/9708040,Stability analysis of polarized domains,,,,
+cond-mat/9802194,Viscous fingering patterns in ferrofluids,,,,
+cond-mat/9805286,The Johnson-Segalman model with a diffusion term in Couette flow,,,,
+cond-mat/9808130,"Finite-difference methods for simulation models incorporating
+  non-conservative forces",,,,
+cond-mat/9812161,Self-Organized States in Cellular Automata: Exact Solution,,,,
+cond-mat/9903171,"Phase-field model for Hele-Shaw flows with arbitrary viscosity contrast.
+  I. Theoretical approach",,,,
+cond-mat/9903173,"Phase-field model for Hele-Shaw flows with arbitrary viscosity contrast.
+  II. Numerical study",,,,
+cond-mat/9907207,Physics of rapidly expanding supercritical solutions: A first approach,,,,
+cond-mat/9908328,Reversible electrowetting and trapping of charge: model and experiments,,,,
+cond-mat/9908377,Parallel flow in Hele-Shaw cells with ferrofluids,,,,
+cond-mat/9909312,"Wall bounded turbulent shear flow: Analytic result for an universal
+  amplitude",,,,
+cond-mat/9909416,Dewetting on porous media with aspiration,,,,
+cond-mat/9912312,"Viscous fingering in liquid crystals: Anisotropy and morphological
+  transitions",,,,
+cs/0411047,"Numerical Solutions of 2-D Steady Incompressible Driven Cavity Flow at
+  High Reynolds Numbers",,,,
+cs/0411048,Discussions on Driven Cavity Flow,,,,
+cs/0411049,"Fourth Order Compact Formulation of Navier-Stokes Equations and Driven
+  Cavity Flow at High Reynolds Numbers",,,,
+gr-qc/0012025,Extended Kelvin theorem in relativistic magnetohydrodynamics,,,,
+gr-qc/0204073,"New Relativistic Effects in the Dynamics of Nonlinear Hydrodynamical
+  Waves",,,,
+gr-qc/0703070,"Quasinormal ringing of acoustic black holes in Laval nozzles: Numerical
+  simulations",,,,
+gr-qc/9810027,Exact solutions of Einstein's equations with ideal gas sources,,,,
+hep-ph/9910208,Variational Principle for Relativistic Fluid Dynamics,,,,
+hep-th/0512108,"Application of the Renormalization-group Method to the Reduction of
+  Transport Equations",,,,
+math-ph/0012027,"Monotone Solutions of a Nonautonomous Differential Equation for a
+  Sedimenting Sphere",,,,
+math-ph/0302021,"Phase turbulence in the Complex Ginzburg--Landau equation via
+  Kuramoto--Sivashinsky phase dynamics",,,,
+math-ph/0302048,"About new quasilinear model of heat conduction with finite velocity of
+  heat front movement",,,,
+math-ph/0307020,"Energy spectra of the ocean's internal wave field: theory and
+  observations",,,,
+math-ph/0404044,Optimal Swimming at low Reynolds numbers,,,,
+math-ph/0411015,"Downstream asymptotics in exterior domains: from stationary wakes to
+  time periodic flows",,,,
+math-ph/0509052,Symmetric flows and Darcy's law in Curved Spaces,,,,
+math-ph/0608007,Lyapunov Functionals for the Enskog Equation,,,,
+math-ph/0611065,A DLA model for Turbulence,,,,
+math-ph/9807011,"The Exact Solutions of Some Multidimensional Generalizations of the
+  Fokker-Planck Equation used by R. Friedrich and J. Peinke for the Description
+  of a Turbulent Cascade",,,,
+math-ph/9912008,"Vortices and invariants surfaces generated by symmetries for the 3D
+  Navier-Stokes equations",,,,
+math/0010256,"Averaging Principle for Quasi-Geostrophic Motions under Rapidly
+  Oscillating Forcing",,,,
+math/0101001,The 3D Quasigeostrophic Fluid Dynamics under Random Forcing on Boundary,,,,
+math/0104143,Probabilistic Dynamics of Two-Layer Geophysical Flows,,,,
+math/0108086,"Enstrophy Dynamics of Stochastically Forced Large-Scale Geophysical
+  Flows",,,,
+math/0505390,"Invariant Manifolds and Their Zero-Viscosity Limits for Navier-Stokes
+  Equations",,,,
+math/0606723,"Exact solution of a differential problem in analytical fluid dynamics:
+  use of Airy's functions",,,,
+math/0607506,Incompressible viscous fluid flows in a thin spherical shell,,,,
+math/0611875,Two-dimensional Euler flows in slowly deforming domains,,,,
+math/0702169,A non-linear observer for unsteady three-dimensional flows,,,,
+math/0703448,A matrix generalization of Euler identity e^(ix) = cosx + i sinx,,,,
+math/9903042,"An Elementary Proof of the Existence and Uniqueness Theorem for the
+  Navier-Stokes Equations",,,,
+nlin/0001021,"Fluctuations and entropy driven space-time intermittency in
+  Navier-Stokes fluids",,,,
+nlin/0001023,Large negative velocity gradients in Burgers turbulence,,,,
+nlin/0001050,Flow induced by a randomly vibrating boundary,,,,
+nlin/0001068,Modulated Amplitude Waves and the Transition from Phase to Defect Chaos,,,,
+nlin/0005024,"Proof of the marginal stability bound for the Swift-Hohenberg equation
+  and related equations",,,,
+nlin/0005034,Stretching of polymers in a random three-dimensional flow,,,,
+nlin/0006019,Chaotic Advection near 3-Vortex Collapse,,,,
+nlin/0007033,"Dynamics of a small neutrally buoyant sphere in a fluid and targeting in
+  Hamiltonian systems",,,,
+nlin/0010043,Local log-law of the wall: numerical evidences and reasons,,,,
+nlin/0101010,Evolution of turbulent spots in a parallel shear flow,,,,
+nlin/0101016,Effect of Noise on Excursions To and Back From Infinity,,,,
+nlin/0101044,"Nonlinear Pattern Selection in Binary Mixture Convection with
+  Through-Flow",,,,
+nlin/0104013,Holder regularity and chaotic attractors,,,,
+nlin/0104049,"Onset of Wave Drag due to Generation of Capillary-Gravity Waves by a
+  Moving Object as a Critical Phenomenon",,,,
+nlin/0104050,Efficient Mixing at low Reynolds numbers using polymer additives,,,,
+nlin/0104052,Elastic turbulence in a polymer solution flow,,,,
+nlin/0105015,Quasi-solitons and asymptotic multiscaling in shell models of turbulence,,,,
+nlin/0110034,Transient vortex events in the initial value problem for turbulence,,,,
+nlin/0111008,"Noise and Inertia-Induced Inhomogeneity in the Distribution of Small
+  Particles in Fluid Flows",,,,
+nlin/0111050,Turbulent boundary layer equations,,,,
+nlin/0111053,"Analysis of cancellation in two-dimensional magnetohydrodynamic
+  turbulence",,,,
+nlin/0111054,Shape transformations in rotating ferrofluid drops,,,,
+nlin/0202036,Polymer transport by laminar flows,,,,
+nlin/0202062,Leray simulation of turbulent shear layers,,,,
+nlin/0202064,Buoyant turbulent mixing in shear layers,,,,
+nlin/0204002,Surface Quasigeostrophic Turbulence : The Study of an Active Scalar,,,,
+nlin/0204004,"Bailout Embeddings and Neutrally Buoyant Particles in Three-Dimensional
+  Flows",,,,
+nlin/0205042,Transition between Two Oscillation Modes,,,,
+nlin/0205058,Clustering dynamics of Lagrangian tracers in free-surface flows,,,,
+nlin/0207012,"The Decay of Passive Scalars Under the Action of Single Scale Smooth
+  Velocity Fields in Bounded 2D Domains : From non self similar pdf's to self
+  similar eigenmodes",,,,
+nlin/0207056,"Induced defect nucleation and side-band instabilities in hexagons with
+  rotation and mean flow",,,,
+nlin/0209048,Thermosolutal and binary fluid convection as a 2 x 2 matrix problem,,,,
+nlin/0210010,Derivative moments in turbulent shear flows,,,,
+nlin/0210023,Lattice Dynamics and Melting of a Nonequilibrium Pattern,,,,
+nlin/0212052,Parametrically Driven Dark Solitons,,,,
+nlin/0303039,Fluctuations of energy injection rate in a shear flow,,,,
+nlin/0304029,Travelling waves in pipe flow,,,,
+nlin/0304049,Multi-frequency Craik-Criminale solutions of the Navier-Stokes equations,,,,
+nlin/0305055,"Large-Eddy Simulation closures of passive scalar turbulence: a
+  systematic approach",,,,
+nlin/0308025,Energy dissipation in body-forced plane shear flow,,,,
+nlin/0309010,"Geometric features of the mixing of passive scalars at high Schmidt
+  numbers",,,,
+nlin/0309064,"Nonlinear spherical gravitational downfall of gas onto a solid ball:
+  analytic and numerical results",,,,
+nlin/0312006,Anisotropy in Homogeneous Rotating Turbulence,,,,
+nlin/0401015,Study of scalar gradient fields by geometric measure theory,,,,
+nlin/0402031,Dispersion of tracer particles in a compressible flow,,,,
+nlin/0402054,Anisotropic fluctuations in turbulent sheared flows,,,,
+nlin/0403027,The Strange Eigenmode in Lagrangian Coordinates,,,,
+nlin/0408031,Lagrangian tracers on a surface flow: the role of time correlations,,,,
+nlin/0409041,Measuring Topological Chaos,,,,
+nlin/0410010,"Rayleigh and Prandtl number scaling in the bulk of Rayleigh-Benard
+  turbulence",,,,
+nlin/0411004,Dynamical scaling and intermittency in shell models of turbulence,,,,
+nlin/0411029,"Codimension-two points in annular electroconvection as a function of
+  aspect ratio",,,,
+nlin/0411058,Lattice Boltzmann method at finite-Knudsen numbers,,,,
+nlin/0501054,"Lagrangian statistics of particle pairs in homogeneous isotropic
+  turbulence",,,,
+nlin/0502011,Scalar Decay in Chaotic Mixing,,,,
+nlin/0502036,Very fine structures in scalar mixing,,,,
+nlin/0503070,Multi-particle dispersion in fully developed turbulence,,,,
+nlin/0504056,Reentrant Hexagons in non-Boussinesq Convection,,,,
+nlin/0506021,"Exact Equal Time Statistics of Orszag-McLaughlin Dynamics By The Hopf
+  Characteristic Functional Approach",,,,
+nlin/0506050,Intermittency in the homopolar disk-dynamo,,,,
+nlin/0509023,"K""ahler Geometry and the Navier-Stokes Equations",,,,
+nlin/0509052,Asymmetry of temporal cross-correlations in turbulent shear flows,,,,
+nlin/0510049,Fjords in viscous fingering: Selection of width and opening angle,,,,
+nlin/0510052,Statistics and geometry of passive scalars in turbulence,,,,
+nlin/0510063,Stability of a nonlinear oscillator with random damping,,,,
+nlin/0510067,Rayleigh--Taylor turbulence in two dimensions,,,,
+nlin/0511016,Geometric Diagnostics of Complex Patterns: Spiral Defect Chaos,,,,
+nlin/0512039,Statistical Equilibria of Uniformly Forced Advection Condensation,,,,
+nlin/0601004,"Stretching of polymers around the Kolmogorov scale in a turbulent shear
+  flow",,,,
+nlin/0601025,"Strongly nonlinear nature of interfacial-surfactant instability of
+  Couette flow",,,,
+nlin/0602002,On the Anomalous Scaling Exponents in Nonlinear Models of Turbulence,,,,
+nlin/0602012,"Non-Boussinesq Convection at Low Prandtl Numbers: Hexagons and Spiral
+  Defect Chaos",,,,
+nlin/0603049,"Quantitative laboratory observations of internal wave reflection on
+  ascending slopes",,,,
+nlin/0605053,"Shear-Improved Smagorinsky Model for Large-Eddy Simulation of
+  Wall-Bounded Turbulent Flows",,,,
+nlin/0606035,Analytic Model of the Universal Structure of Turbulent Boundary Layers,,,,
+nlin/0607034,Gaussian paradox and clustering in intermittent turbulent signals,,,,
+nlin/0607075,Transport in Thin Gravity-driven Flow over a Curved Substrate,,,,
+nlin/0608034,Persistent localized states for a chaotically mixed bistable reaction,,,,
+nlin/0609066,"Manifestations of Drag Reduction by Polymer Additives in Decaying,
+  Homogeneous, Isotropic Turbulence",,,,
+nlin/0610060,Single particle Lagrangian dispersion in Bolgiano turbulence,,,,
+nlin/0611021,On the Dynamics of Navier-Stokes and Euler Equations,,,,
+nlin/0702052,A possible mechanism of generation of extreme waves in shallow water,,,,
+nlin/0703007,Reentrant and Whirling Hexagons in Non-Boussinesq convection,,,,
+nlin/0703019,Weak compressibility of surface wave turbulence,,,,
+patt-sol/9610005,Direct Transition to Spatiotemporal Chaos in Low Prandtl Number Fluids,,,,
+patt-sol/9612002,"Geometric Stability Analysis for Periodic Solutions of the
+  Swift-Hohenberg Equation",,,,
+patt-sol/9710005,Annular electroconvection with shear,,,,
+patt-sol/9806003,Velocity correlations in granular materials,,,,
+patt-sol/9806005,"Electrically driven convection in a thin annular film undergoing
+  circular Couette flow",,,,
+patt-sol/9807001,Benard-Marangoni Convection in Two Layered Liquids,,,,
+patt-sol/9905008,Logarithmically Slow Expansion of Hot Bubbles in Gases,,,,
+patt-sol/9909006,A Particle Model of Rolling Grain Ripples Under Waves,,,,
+physics/0001001,Capillary-gravity wave transport over spatially random drift,,,,
+physics/0001070,Interaction of a vortex ring with the free surface of ideal fluid,,,,
+physics/0002018,"Relationships between a roller and a dynamic pressure distribution in
+  circular hydraulic jumps",,,,
+physics/0002043,"The decay of multiscale signals - deterministic model of the Burgers
+  turbulence",,,,
+physics/0003029,"Wavelet Cross-Correlation Analysis of Turbulent Mixing from
+  Large-Eddy-Simulations",,,,
+physics/0003051,Symmetry breaking of vibrating interfaces: a mechanism for morphogenesis,,,,
+physics/0003052,"Nature of Sonoluminescence: Noble Gas Radiation Excited by Hot Electrons
+  in ""Cold"" Water",,,,
+physics/0003076,Nonlinear Modes of Liquid Drops as Solitary Waves,,,,
+physics/0003077,"Patterns on liquid surfaces: cnoidal waves, compactons and scaling",,,,
+physics/0003102,Transition from the Couette-Taylor system to the plane Couette system,,,,
+physics/0004065,Surface waves at the interface between two viscous fluids,,,,
+physics/0005030,The modifications of customary filtrational equation,,,,
+physics/0005054,A Numerical Study of Capillary and Viscous Drainage in Porous Media,,,,
+physics/0005063,Scaling properties of an inviscid mean-motion fluid model,,,,
+physics/0005065,"Kinetic Slip Condition, van der Waals Forces, and Dynamic Contact Angle",,,,
+physics/0005066,"Disjoining Potential and Spreading of Thin Liquid Layers in the Diffuse
+  Interface Model Coupled to Hydrodynamics",,,,
+physics/0005075,"Solitary coherent structures in viscoelastic shear flow: computation and
+  mechanism",,,,
+physics/0006067,Radial Viscous Flow between Two Parallel Annular Plates,,,,
+physics/0008219,Integral methods for shallow free-surface flows with separation,,,,
+physics/0008223,New complex variables for equations of ideal barotropic fluid,,,,
+physics/0008247,"Optimal Control of Molecular Motion Expressed Through Quantum Fluid
+  Dynamics",,,,
+physics/0009007,Breaking of vortex lines - a new mechanism of collapse in hydrodynamics,,,,
+physics/0009041,"Charged-Surface Instability Development in Liquid Helium; Exact
+  Solutions",,,,
+physics/0009050,"Formation of Root Singularities on the Free Surface of a Conducting
+  Fluid in an Electric Field",,,,
+physics/0009097,Passive Tracer Dynamics in 4 Point-Vortex Flow,,,,
+physics/0010034,"The decay of plane wave pulses with complex structure in a nonlinear
+  dissipative medium",,,,
+physics/0010057,Vortex tubes in velocity fields of laboratory isotropic turbulence,,,,
+physics/0011017,Fluid Particle Accelerations in Fully Developed Turbulence,,,,
+physics/0011018,Pressure determinations for incompressible fluids and magnetofluids,,,,
+physics/0011026,Air entrainment through free-surface cusps,,,,
+physics/0011048,The Case for 2-D Turbulence in Antarctic Data,,,,
+physics/0011076,"The Numerical Solution of Nekrasov's Equation in the Boundary Layer near
+  the Crest, for Waves near the Maximum Height",,,,
+physics/0012047,Anomalous scaling in homogeneous isotropic turbulence,,,,
+physics/0101018,Critical curves of plane Poiseuille flow with slip boundary conditions,,,,
+physics/0101025,Global stability of systems related to the Navier-Stokes equations,,,,
+physics/0101027,Remarks on unsolved basic problems of the Navier-Stokes equations,,,,
+physics/0101037,"Fast Numerical simulations of 2D turbulence using a dynamic model for
+  Subgrid Motions",,,,
+physics/0101061,Analytic solution for a class of turbulence problems,,,,
+physics/0101103,"Hydrodynamic Waves in Regions with Smooth Loss of Convexity of
+  Isentropes. General Phenomenological Theory",,,,
+physics/0101106,Intermittency and turbulence in a magnetically confined fusion plasma,,,,
+physics/0102002,Some closed form solutions to the Navier Stokes equations,,,,
+physics/0102026,On the thermocapillary motion of deformable droplets,,,,
+physics/0102040,Coherent structures in a turbulent environment,,,,
+physics/0102055,Mathematics of Structure-Function Equations of All Orders,,,,
+physics/0102058,Velocity field distributions due to ideal line vortices,,,,
+physics/0102072,"Interaction of two deformable viscous drops under external temperature
+  gradient",,,,
+physics/0103050,The Inverse Energy Cascade of Two-Dimensional Turbulence,,,,
+physics/0104002,"Hydrodynamical interaction between a shock wave and a cloud. One
+  dimensional approach",,,,
+physics/0104019,Relativistic Mechanics of Continuous Media,,,,
+physics/0104036,"Quasiperiodic waves at the onset of zero Prandtl number convection with
+  rotation",,,,
+physics/0104084,"Three-Dimensional Morphology of Vortex Interfaces Driven by
+  Rayleigh-Taylor or Richtmyer-Meshkov Instability",,,,
+physics/0105100,"Dynamic Model for LES Without Test Filtering: Quantifying the Accuracy
+  of Taylor Series Approximations",,,,
+physics/0106014,"Passive scalar anisotropy in a heated turbulent wake: new observations
+  and implications for LES",,,,
+physics/0106075,The statistical dynamics of thin vortex line,,,,
+physics/0106086,Edge waves along a sloping beach,,,,
+physics/0107029,"A route to magnetic field reversals: an example of an ABC-forced
+  non-linear dynamo",,,,
+physics/0107033,Temperature behavior of vortices of a 3D thermoconducting viscous fluid,,,,
+physics/0107041,"Particles, fluids and vortices",,,,
+physics/0107058,Mean flow in hexagonal convection: stability and nonlinear dynamics,,,,
+physics/0107076,Non-Newtonian effects in the peristaltic flow of a Maxwell fluid,,,,
+physics/0109021,Self Gravitating Instability of a Compressible Fluid Cylinder,,,,
+physics/0109066,Weak magnetohydrodynamic turbulence of magnetized plasma,,,,
+physics/0109073,Suspension Flows in a Pipeline with Partial Phase Separation,,,,
+physics/0110009,On the Doppler distortion of the sea-wave spectra,,,,
+physics/0110065,On the Dirac Approach to Constrained Dissipative Dynamics,,,,
+physics/0110070,"Turbulent Drag Reduction of polyelectrolyte (DNA) solutions: relation
+  with the elongational viscosity",,,,
+physics/0110073,On the miscible Rayleigh-Taylor instability: two and three dimensions,,,,
+physics/0110081,"Drop Formation in a One-Dimensional Approximation of the Navier-Stokes
+  Equation",,,,
+physics/0110087,Hydrodynamic Singularities,,,,
+physics/0111003,Theory of Drop Formation,,,,
+physics/0111107,Wavelet Analysis of Vortex Tubes in Experimental Turbulence,,,,
+physics/0111143,Steep sharp-crested gravity waves on deep water,,,,
+physics/0112028,"Toward a structural understanding of turbulent drag reduction: nonlinear
+  coherent states in viscoelastic shear flows",,,,
+physics/0201036,Scaling at the selective withdrawal transition,,,,
+physics/0202047,"Statistics of temperature fluctuations in a buoyancy dominated boundary
+  layer flow simulated by a Large-eddy simulation model",,,,
+physics/0203028,Probability density function of turbulent velocity fluctuation,,,,
+physics/0203031,"Non-white noise and a multiple-rate Markovian closure theory for
+  turbulence",,,,
+physics/0203041,Non-premixed Flame-Turbulence Interaction in Compressible Turbulent Flow,,,,
+physics/0203052,Water wave propagation and scattering over topographical bottoms,,,,
+physics/0203070,Two dimensional incompressible ideal flow around a small obstacle,,,,
+physics/0204002,Weakly non-linear analysis of wind-driven gravity waves,,,,
+physics/0204012,"Stochastic Transition between Turbulent Branch and Thermodynamic Branch
+  of an Inhomogeneous Plasma",,,,
+physics/0204014,Transition Probability to Turbulent Transport Regime,,,,
+physics/0204028,"Constant-temperature molecular-dynamics algorithms for mixed
+  hard-core/continuous potentials",,,,
+physics/0204046,New method for the Numerical Calculation of Hydrodynamics Shocks,,,,
+physics/0204080,Towards a sufficient criterion for collapse in 3D Euler equations,,,,
+physics/0205019,"The alpha effect and its saturation in a turbulent swirling flow
+  generated in the VKS experiment",,,,
+physics/0205067,Oscillations of a solid sphere falling through a wormlike micellar fluid,,,,
+physics/0206085,Tidal theory of the thermal wind,,,,
+physics/0206094,Large time behavior for vortex evolution in the half-plane,,,,
+physics/0207036,"Tollmien-Shlichting and sound waves interaction: general description and
+  nonlinear resonances",,,,
+physics/0208023,Contributions to the theory of a two-scale homogeneous dynamo experiment,,,,
+physics/0208079,The Hydraulic Jump In Two Dimensions,,,,
+physics/0208091,"Reaction-diffusion dynamics: confrontation between theory and experiment
+  in a microfluidic reactor",,,,
+physics/0209003,"Mechanism of finite-amplitude double-component convection due to
+  different boundary conditions",,,,
+physics/0209014,Vortex Ring Reconnections,,,,
+physics/0209029,Length Scales of Acceleration for Locally Isotropic Turbulence,,,,
+physics/0209053,"Compressibility effects on the scalar mixing in reacting homogeneous
+  turbulence",,,,
+physics/0210008,Large Scale Weather Control Using Nuclear Reactors,,,,
+physics/0210009,Transient growth in Taylor-Couette flow,,,,
+physics/0210050,Pattern of Reaction Diffusion Front in Laminar Flows,,,,
+physics/0210054,A Lattice Boltzmann method for simulations of liquid-vapor thermal flows,,,,
+physics/0210101,"Characteristic lengths at moving contact lines for a perfectly wetting
+  fluid: the influence of speed on the dynamic contact angle",,,,
+physics/0211024,"Alternative statistical-mechanical descriptions of decaying
+  two-dimensional turbulence in terms of ""patches"" and ""points""",,,,
+physics/0211044,"Vortex tubes in velocity fields of laboratory isotropic turbulence:
+  dependence on the Reynolds number",,,,
+physics/0212075,Inviscid coalescence of drops,,,,
+physics/0212101,"The evolution of three-dimensionally localized vortices in shear flows.
+  Linear theory",,,,
+physics/0301021,Higher-order Continuum Approximation for Rarefied Gases,,,,
+physics/0301029,"Effects of curvature on hydrothermal waves instability of radial
+  thermocapillary flows",,,,
+physics/0301032,"Numerical study of homogeneous dynamo based on experimental von Karman
+  type flows",,,,
+physics/0301043,Transition to turbulence in particulate pipe flow,,,,
+physics/0301066,"Investigation of Self-Preservation Theory in Two Dimensional Turbulent
+  Mixing Layers",,,,
+physics/0301071,Large Scale Features of Rotating Forced Turbulence,,,,
+physics/0301076,"Mini-Conference on Hamiltonian and Lagrangian Methods in Fluid and
+  Plasma Physics",,,,
+physics/0302007,Using data assimilation in laboratory experiments of geophysical flows,,,,
+physics/0302010,Incompressible Couette Flow,,,,
+physics/0302050,Interplay between geometry and flow distribution in an airway tree,,,,
+physics/0302051,Transient growth and instability in rotating boundary layers,,,,
+physics/0302064,"The hodograph method applicability in the problem of long-scale
+  nonlinear dynamics of a thin vortex filament near a flat boundary",,,,
+physics/0302085,Laser-induced hydrodynamic instability of fluid interfaces,,,,
+physics/0302099,"Nonlinear phenomena in fluids with temperature-dependent viscosity: an
+  hysteresis model for magma flow in conduits",,,,
+physics/0302100,"Viscous heating in fluids with temperature-dependent viscosity:
+  implications for magma flows",,,,
+physics/0303009,"Interaction of a rotational motion and an axial flow in small geometries
+  for a Couette-Taylor problem",,,,

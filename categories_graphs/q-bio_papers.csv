@@ -1,0 +1,1305 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+cond-mat/0106144,Evolution of networks,8.310458642176169e-05,0.0006643328842099,135.0,46.0
+cond-mat/0302514,Poland-Scheraga models and the DNA denaturation transition,1.8343377194393355e-05,0.0,16.0,3.0
+quant-ph/9907009,The importance of quantum decoherence in brain processes,1.438953358328472e-05,9.920160359714877e-06,16.0,9.0
+cond-mat/0004407,Random networks created by biological evolution,9.373335874308709e-06,0.0,13.0,5.0
+cond-mat/0305049,Bubble dynamics in DNA,9.234691633794632e-06,0.0,3.0,0.0
+cond-mat/0210132,Managing catastrophic changes in a collective,8.419459361182768e-06,0.0,3.0,0.0
+adap-org/9708004,Symmetry Breaking and Adaptation: Evidence from a Toy Model of a Virus,8.305722970597898e-06,0.0,4.0,0.0
+physics/0003037,Crystalizing the genetic code,8.082271815887208e-06,0.0,6.0,5.0
+cond-mat/0304080,On the role of mismatches in DNA denaturation,7.250726746920528e-06,0.0,2.0,3.0
+cond-mat/9906164,An evolutionary model for simple ecosystems,7.191656188338087e-06,0.0,8.0,0.0
+cond-mat/9903390,Thermal Noise Can Facilitate Energy Conversion by Ratchet System?,7.099016873132105e-06,0.0,3.0,0.0
+cond-mat/9805061,"Linking Rates of Folding in Lattice Models of Proteins with Underlying
+  Thermodynamic Characteristics",6.617996640272177e-06,0.0,1.0,0.0
+cond-mat/0009211,Adaptive learning by extremal dynamics and negative feedback,6.542580001780634e-06,0.0,3.0,0.0
+cond-mat/0207212,Self-organization and Mechanical Properties of Active Filament Bundles,6.513256238826592e-06,0.0,2.0,1.0
+cond-mat/0101409,Biological Evolution and Statistical Physics,6.408849095774855e-06,0.0,6.0,7.0
+math-ph/0111006,"Wigner-Eckart Theorem in the crystal and the organisation of the genetic
+  code",6.291809208526281e-06,0.0,2.0,0.0
+cond-mat/0305549,"Recoverable prevalence in growing scale-free networks and the effective
+  immunization",6.170295314652777e-06,0.0,2.0,1.0
+cond-mat/0307135,"Mechanisms of recoverable prevalence and extinction of viruses on
+  linearly growing scale-free networks",6.170295314652777e-06,0.0,2.0,1.0
+cond-mat/9912328,Three-state neural network: from mutual information to the hamiltonian,6.119117400064861e-06,0.0,2.0,0.0
+cond-mat/0306610,Systematic identification of statistically significant network measures,5.8624123852448e-06,5.977974320536784e-06,2.0,5.0
+physics/0004039,Quasispecies evolution on a fitness landscape with a fluctuating peak,5.791267799676029e-06,0.0,2.0,2.0
+cond-mat/9811252,The role of the energy gap in protein folding dynamics,5.785545697284649e-06,0.0,4.0,0.0
+cond-mat/0203155,"Comment on "" A simple model for DNA denaturation""",5.73883696579153e-06,0.0,3.0,0.0
+physics/0207104,Representative Pathways of Excitation Migration in Photosystem I,5.655144290770314e-06,0.0,1.0,1.0
+physics/9912053,Effective interaction between helical bio-molecules,5.411975690850669e-06,0.0,5.0,0.0
+cond-mat/0210079,Force-induced unzipping of DNA with long-range correlated sequence,5.178373091780056e-06,0.0,5.0,0.0
+cond-mat/0301149,Epidemic spreading in complex networks with degree correlations,4.952287382849558e-06,6.025589478316168e-06,4.0,5.0
+cond-mat/9708071,Non-Hermitian Localization and Population Biology,4.937461662070833e-06,0.0010343422379562,8.0,21.0
+cond-mat/9905158,Protein Ground State Candidates in a Simple Model: An Exact Enumeration,4.896844895259359e-06,0.0,6.0,0.0
+cond-mat/0208163,"Absence of epidemic threshold in scale-free networks with connectivity
+  correlations",4.836150299883752e-06,2.111262814749057e-06,6.0,9.0
+cond-mat/0102253,"Nucleation of the crystalline phase of proteins in the presence of
+  semidilute non-adsorbing polymer",4.829522331710565e-06,0.0,3.0,0.0
+cond-mat/9701210,"Comment on ""Chain Length Scaling of Protein Folding Time"", PRL 77, 5433
+  (1996)",4.690428369914042e-06,0.0,1.0,0.0
+cond-mat/0007409,Actively Contracting Bundles of Polar Filaments,4.667140897136778e-06,0.0,2.0,0.0
+quant-ph/0202016,Neural Networks with c-NOT Gated Nodes,4.648085672191587e-06,0.0,3.0,1.0
+adap-org/9708001,Emergence of Algorithmic Languages in Genetic Systems,4.463257124271671e-06,0.0,5.0,1.0
+cond-mat/0212457,Reparametrizing loop entropy weights: Effect on DNA melting curves,4.459300304995253e-06,0.0,2.0,2.0
+cond-mat/0003511,"Elastic property of single double-stranded DNA molecules: Theoretical
+  study and comparison with experiments",4.376489566185219e-06,0.0,2.0,0.0
+cond-mat/0102296,"Free-Energy Calculations in Protein Folding by Generalized-Ensemble
+  Algorithms",4.354464223011815e-06,1.3931279286120504e-05,3.0,4.0
+cond-mat/9710030,Testing a new Monte Carlo Algorithm for Protein Folding,4.352034721423622e-06,7.4260550565674335e-09,3.0,1.0
+math-ph/0102022,"A Mathematical Model Accounting for the Organisation in Multiplets of
+  the Genetic Code",4.18112933693616e-06,0.0,4.0,1.0
+cond-mat/9910188,A Simple Model for the DNA Denaturation Transition,4.137483383146077e-06,7.249638054219448e-05,4.0,2.0
+nlin/0205053,"Exact Solutions and hypothesis on Phase Transition in the
+  Polyelectrolite Model of DNA",4.137346715430839e-06,0.0,3.0,0.0
+cond-mat/9904426,Phase behaviour of a simple model of globular proteins,4.095593322014754e-06,0.0,1.0,0.0
+nlin/0009025,Diversity patterns from ecological models at dynamical equilibrium,4.094931331030275e-06,0.0,2.0,2.0
+cond-mat/0109521,"Mechanical denaturation of DNA: existence of a low temperature
+  denaturation",4.087924548450814e-06,0.0,7.0,2.0
+cond-mat/9706050,Elasticity model of a supercoiled DNA molecule,4.033797897757315e-06,0.0,2.0,3.0
+cond-mat/0205125,"Scaling in DNA unzipping models: denaturated loops and end-segments as
+  branches of a block copolymer network",4.021304638148504e-06,0.0,4.0,2.0
+cond-mat/0205621,Epidemic spreading in correlated complex networks,3.949411761398274e-06,1.5907670796175486e-06,5.0,4.0
+cond-mat/0307104,Multi-state neural networks based upon spin-glasses: a biased overview,3.841792257901232e-06,0.0,3.0,1.0
+cond-mat/0307132,"Synchronous Dynamics of a Hopfield Model with Random Asymmetric
+  Interactions",3.830954185878455e-06,0.0,1.0,0.0
+cond-mat/0307380,Helicase activity on DNA as a propagating front,3.761940723517022e-06,0.0,2.0,0.0
+nlin/0108020,"Self-localization of laser induced tumor coagulation limited by heat
+  diffusion through active tissue",3.7596760329735306e-06,0.0,2.0,0.0
+cond-mat/9911112,Self-localization of directed polymers and oppressive population control,3.649757231049517e-06,0.0,2.0,0.0
+physics/0102043,Statistical Approach to Gene Evolution,3.62335329328243e-06,0.0,2.0,0.0
+cond-mat/0201374,Folding dynamics of the helical structures in a minimal model,3.62335329328243e-06,0.0,2.0,0.0
+cond-mat/0304231,"Contact Order Dependent Protein Folding Rates: Kinetic Consequences of a
+  Cooperative Interplay Between Favorable Nonlocal Interactions and Local
+  Conformational Preferences",3.62335329328243e-06,0.0,2.0,0.0
+physics/0302103,Unbiased simulation of structural transitions in calmodulin,3.62335329328243e-06,0.0,2.0,0.0
+cond-mat/0105189,Efficiency and persistence in models of adaptation,3.569797159030161e-06,0.0,2.0,1.0
+cond-mat/0207122,"A simple model of DNA denaturation and mutually avoiding walks
+  statistics",3.538756161131137e-06,0.0,1.0,1.0
+cond-mat/0010394,"Statistical Analysis of Native Contact Formation in the Folding of
+  Designed Model Proteins",3.49912997646896e-06,0.0,2.0,0.0
+cond-mat/9912101,"Mutual information and self-control of a fully-connected low-activity
+  neural network",3.49912997646896e-06,0.0,2.0,1.0
+cond-mat/0212268,A model for the force stretching double-stranded chain molecules,3.49912997646896e-06,0.0,2.0,2.0
+adap-org/9911002,Mathematical description of the heat transfer in living tissue (Part II),3.424427428955529e-06,0.0,5.0,0.0
+physics/9907042,Some Exact Results of Hopfield Neural Networks and Applications,3.405032110571601e-06,0.0,1.0,0.0
+cond-mat/0202298,Epidemic dynamics in finite size scale-free networks,3.335721241370242e-06,1.383197115436403e-05,3.0,3.0
+cond-mat/0001393,Exact solution of site and bond percolation on small-world networks,3.3299341785727757e-06,0.0,4.0,8.0
+cond-mat/0004169,"Exactness of the Annealed and the Replica Symmetric Approximations for
+  Random Heteropolymers",3.316656291705518e-06,6.851601503187435e-05,2.0,3.0
+cond-mat/0212481,Evolutionary Minority Games: the benefits of imitation,3.279327628681817e-06,1.990536376829432e-06,5.0,2.0
+nlin/0101026,The shape of ecological networks,3.2738510855826016e-06,0.0,1.0,4.0
+physics/0302043,The R0 Approach to Epidemic-non-Epidemic Phases Revisited,3.2392832395790016e-06,0.0,3.0,0.0
+cond-mat/0112050,"Numerical comparison of two approaches for the study of phase
+  transitions in small systems",3.204817008155877e-06,0.0,2.0,0.0
+cond-mat/0306589,Biased Metropolis Sampling for Rugged Free Energy Landscapes,3.181591034299867e-06,0.0,2.0,1.0
+cond-mat/9908428,Reentrant Condensation of DNA induced by Multivalent Counterions,3.177852274883629e-06,0.0,3.0,2.0
+cond-mat/0212203,A nonlinear dynamical model of human gait,3.1564676950366884e-06,0.0,2.0,0.0
+cond-mat/0212366,A constant extension ensembles model of double-stranded chain molecules,3.1429201050082166e-06,0.0,1.0,0.0
+cond-mat/0107066,Immunization of complex networks,3.121905640372362e-06,6.942122085600158e-05,2.0,5.0
+cond-mat/0205175,"Inversion of DNA charge by a positive polymer via fractionalization of
+  the polymer charge",3.071077946452348e-06,0.0,1.0,0.0
+cond-mat/9807394,Life and Death near a Windy Oasis,3.0655397478584933e-06,2.832148393885793e-05,2.0,8.0
+cond-mat/0106359,RNA Folding and Large N Matrix Theory,3.056224916064305e-06,2.304603672545922e-05,2.0,5.0
+cond-mat/0107269,Diploid versus Haploid Organisms,3.0537731450753967e-06,0.0,2.0,0.0
+nlin/0205009,Spatial Patterns in Chemically and Biologically Reacting Flows,3.0472482127272877e-06,0.0,2.0,3.0
+cond-mat/9607060,"Reply to Comment on ""Criterion that Determines the Foldability of
+  Proteins""",3.0472482127272877e-06,0.0,2.0,1.0
+cond-mat/0301627,Combining Hebbian and reinforcement learning in a minibrain model,3.0472482127272877e-06,0.0,2.0,0.0
+cond-mat/0305056,Particle Dispersion on Rapidly Folding Random Hetero-Polymers,3.0472482127272877e-06,0.0,2.0,0.0
+cond-mat/0003450,Generic Criticality in a Model of Evolution,2.9819040138794623e-06,0.0,3.0,0.0
+cond-mat/0105258,"Predictability of large future changes in a competitive evolving
+  population",2.9566140106346204e-06,0.0,2.0,0.0
+cond-mat/0109002,"A model of inversion of DNA charge by a positive polymer:
+  fractionization of the polymer charge",2.933204028409142e-06,0.0,1.0,2.0
+cond-mat/0108323,Melting and unzipping of DNA,2.9278375048393925e-06,0.0,4.0,7.0
+cond-mat/0107112,"Connectivity of neutral networks and structural conservation in protein
+  evolution",2.923024895913817e-06,0.0,1.0,1.0
+cond-mat/0307079,Adsorption of mono- and multivalent cat- and anions on DNA molecules,2.923024895913817e-06,0.0,1.0,0.0
+chao-dyn/9805007,A simplified model for red cell dynamics in small blood vessels,2.91697922313738e-06,0.0,1.0,0.0
+adap-org/9911001,Mathematical description of the heat transfer in living tissue (Part I),2.913852327514218e-06,0.0,4.0,5.0
+cond-mat/0303183,Properties of highly clustered networks,2.882515711470305e-06,4.60627586508797e-07,3.0,1.0
+cond-mat/0211105,Structure of the Energy Landscape of Short Peptides,2.878386609657197e-06,0.0,2.0,0.0
+cond-mat/9704054,"Actin, a model semi-flexible polymer",2.877586675125036e-06,0.0,1.0,1.0
+cond-mat/0110350,Emergence of Hierarchy on a Network of Complementary Agents,2.8760789094425297e-06,7.4260550565674335e-09,2.0,1.0
+physics/0307031,A Possible Mechanism of Biological Memories in terms of Quantum Fluids,2.875130123543238e-06,0.0,1.0,2.0
+adap-org/9610001,"Symmetry Breaking and Adaptation: The Genetic Code of Retroviral Env
+  Proteins",2.855213185875573e-06,0.0,3.0,3.0
+cond-mat/0007310,Controlling chaos in diluted networks with continuous neurons,2.855213185875573e-06,0.0,2.0,0.0
+physics/9705008,A Simple Model of Evolution with Variable System Size,2.855213185875573e-06,0.0,3.0,0.0
+cond-mat/9902195,SOC in a population model with global control,2.855213185875573e-06,0.0,2.0,2.0
+cond-mat/9903276,Population Dynamics and Non-Hermitian Localization,2.832076860004594e-06,0.0001229723561353,3.0,6.0
+cond-mat/0102065,Free Energy Self-Averaging in Protein-Sized Random Heteropolymers,2.815702985403e-06,0.0,1.0,0.0
+cond-mat/9707040,Elasticity Theory of a Twisted Stack of Plates,2.790390542215992e-06,0.0,2.0,1.0
+cond-mat/0007015,"Force-Induced Melting and Thermal Melting of a Double-Stranded
+  Biopolymer",2.775140987829871e-06,0.0,2.0,9.0
+cond-mat/0210528,Colloid-polymer mixtures in the protein limit,2.77239764133326e-06,0.0,1.0,0.0
+cond-mat/9910500,Generalization in the Hopfield Model,2.7460525945201583e-06,0.0,2.0,0.0
+adap-org/9805002,Extinction events and species lifetimes in a simple ecological model,2.7015851643942016e-06,0.0,2.0,0.0
+cond-mat/0107499,"The future is noisy: on the role of spatial fluctuations in genetic
+  switching",2.7015851643942016e-06,0.0,2.0,0.0
+physics/0303041,Non-linear and scale-invariant analysis of the Heart Rate Variability,2.7015851643942016e-06,0.0,2.0,0.0
+cond-mat/0207319,"Epidemic thresholds on scale-free graphs: the interplay between exponent
+  and preferential choice",2.681732835991922e-06,1.9715354004805328e-05,2.0,7.0
+cond-mat/0112090,"Temperature- and Force-Induced beta-Sheet Unfolding in an Exactly
+  Solvable Model",2.6548002743949e-06,1.990182755160072e-06,1.0,2.0
+physics/0009063,A minimum principle in mRNA editing ?,2.607192308477306e-06,0.0,2.0,0.0
+cond-mat/0104467,Extinctions in the random replicator model,2.5853638926495685e-06,0.0,2.0,0.0
+cond-mat/0204612,"How the Quasispecies Evolution Depends on the Topology of the Genome
+  Space",2.5610162095279742e-06,0.0,4.0,0.0
+cond-mat/0205367,Backbone-induced semiconducting behavior in short DNA wires,2.5533034528524485e-06,0.0,1.0,0.0
+cond-mat/0107420,Halting viruses in scale-free networks,2.517588272045842e-06,1.1841788399203958e-05,1.0,6.0
+cond-mat/9901251,Fixed points of Hopfield type neural networks,2.5095501375424877e-06,0.0,3.0,1.0
+cond-mat/9906197,Fixed Points of Hopfield Type Neural Networks,2.5095501375424877e-06,0.0,3.0,2.0
+physics/0212001,Hierarchical population model with a carrying capacity distribution,2.493549687048268e-06,2.22781651697023e-08,2.0,1.0
+cond-mat/0203136,"Gauged Neural Network: Phase Structure, Learning, and Associative Memory",2.476637522501305e-06,6.10698461011259e-06,4.0,3.0
+cond-mat/0103142,Dynamical scaling of the DNA unzipping transition,2.473455398276098e-06,0.0,4.0,4.0
+cond-mat/0301371,Information weights of nucleotides in DNA sequences,2.4711431321721443e-06,0.0,1.0,1.0
+physics/0208100,Equilibrium correlations in a model for multidimensional epistasis,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0111151,Neural Networks with Finite Width Action Potentials,2.4711431321721443e-06,0.0,1.0,1.0
+cond-mat/0211347,Dependence of folding rates on protein length,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0301257,Dynamin recruitment by clathrin coats: a physical step?,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0304113,Epidemic processes with immunization,2.4711431321721443e-06,0.0,1.0,3.0
+cond-mat/0301406,"Coarse-grained simulation of polymer translocation through an artificial
+  nanopore",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0108011,Algorithm for Finding Optimal Gene Sets in Microarray Prediction,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0203091,"Collective Properties of the Exactly Solvable Model of Ion-Channel
+  Assemblies in a Biological Cell Membrane",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0211031,"Simplified amino acid alphabets based on deviation of conditional
+  probability from random background",2.4711431321721443e-06,0.0,1.0,0.0
+physics/9701012,Hamiltonian Dynamics of Darwin Systems,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/9711262,Elastically coupled molecular motors,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/9801018,Hydrophobicity and Unique Folding of Selected Polymers,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/9907191,"Monte Carlo procedure for protein folding in lattice model.
+  Conformational rigidity",2.4711431321721443e-06,0.0,1.0,1.0
+cond-mat/9804028,Soliton mediated protein folding,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/9901301,Oscillator neural network model with distributed native frequencies,2.4711431321721443e-06,0.0,1.0,1.0
+cond-mat/0306015,"Modeling DNA Structure, Elasticity and Deformations at the Base-pair
+  Level",2.4711431321721443e-06,0.0,1.0,0.0
+math/0208167,Automated tuning of bifurcations via feedback,2.4711431321721443e-06,0.0,1.0,1.0
+physics/0203092,"Class of self-limiting growth models in the presence of nonlinear
+  diffusion",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/9908171,Delineation of the Native Basin in Continuum Models of Proteins,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/9911187,Mixed state on a sparsely encoded associative memory model,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/9906428,"From Car Parking to Protein Adsorption: An Overview of Sequential
+  Adsorption Processes",2.4711431321721443e-06,0.0,1.0,0.0
+nlin/0306057,Deterministic uncertainty,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0306224,"The Error and Repair Catastrophes: A Two-Dimensional Phase Diagram in
+  the Quasispecies Model",2.4711431321721443e-06,0.0,1.0,1.0
+adap-org/9907011,Phase Transition in Random Networks with Multiple States,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0001006,Condensed Matter Physics - Biology Resonance,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0008169,On pinning and snapping of elastic strands,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0008435,"Coiling Instability of Multilamellar Membrane Tubes with Anchored
+  Polymers",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0102298,"Macroscopic equations for pattern formation in mixtures of microtubules
+  and motors",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0009398,Structural Susceptibilities in Toy Models of Proteins,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0103625,"Defensive alliances in spatial models of cyclical population
+  interactions",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/9704167,Stability Threshold as a Selection Principle for Protein Design,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0102009,Self-adaptive exploration in evolutionary search,2.4711431321721443e-06,0.0,1.0,0.0
+adap-org/9609001,Ecological model of extinctions,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/9912331,"Structurally constrained protein evolution: results from a lattice
+  simulation",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0102481,"Decomposition of Heartbeat Time Series: Scaling Analysis of the Sign
+  Sequence",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0103156,"Topological entropy of a stiff ring polymer and its connection to DNA
+  knots",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0110210,Identifying Proteins of High Designability via Surface-Exposure Patterns,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0109381,The binding dynamics of tropomyosin on actin,2.4711431321721443e-06,0.0,1.0,0.0
+physics/9904028,Molecular Evolution in Time Dependent Environments,2.4711431321721443e-06,0.0,1.0,1.0
+math/0009223,The Dynamics of a Vertically Transmitted Disease,2.4711431321721443e-06,0.0,1.0,0.0
+math/0106166,A Note on Applications of Support Vector Machine,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0304202,An Effective Membrane Model of the Immunological Synapse,2.4711431321721443e-06,0.0,1.0,1.0
+cond-mat/0305515,Recurrent biological neural networks: The weak and noisy limit,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0307667,"Bidirectional communication in neural networks moderated by a Hebb-like
+  learning rule",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0305230,Theory of Melting and the Optical Properties of Gold/DNA Nanocomposites,2.4711431321721443e-06,0.0,1.0,0.0
+math/0210410,A Model of Blood Flow in a Circulation Network,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0101207,Phase diagram of force-induced DNA unzipping in exactly solvable models,2.467253645337036e-06,0.0,3.0,5.0
+physics/0001066,The Genetic Code as a Periodic Table: Algebraic Aspects,2.46316603833852e-06,0.0,1.0,1.0
+cond-mat/9812316,The Origin of the Designability of Protein Structures,2.441797318458229e-06,0.0,2.0,0.0
+cond-mat/9712053,Twist dynamics of semiflexible polymer,2.4372961681070087e-06,0.0,1.0,1.0
+cond-mat/0205260,Epidemics and immunization in scale-free networks,2.41960824051677e-06,5.622584542829635e-07,4.0,2.0
+cond-mat/0201433,Exact solutions of epidemic models on networks,2.397827285019426e-06,1.4211759644727828e-05,3.0,4.0
+cond-mat/0211029,"Solution effects and the order of the helix-coil transition in
+  polyalanine",2.392494120778517e-06,0.0,1.0,0.0
+cond-mat/0106110,DNA sequence from the unzipping force? : one mutation problem,2.391789237739279e-06,0.0,4.0,4.0
+cond-mat/9811225,Optimizing Smith-Waterman alignments,2.345632713337661e-06,0.0,1.0,0.0
+cond-mat/9708101,"Speciation as Pattern Formation by Competition in a Smooth Fitness
+  Landscape",2.336218485559142e-06,0.0,3.0,2.0
+cond-mat/0201002,Self-Segregation vs. Clustering in the Evolutionary Minority Game,2.3161204905456384e-06,0.0,5.0,0.0
+cond-mat/0112179,"Reply to the Comment by A. Hanke and R. Metzler on ""Why is the DNA
+  Denaturation Transition First Order?""",2.3077752635657667e-06,0.0,3.0,2.0
+cond-mat/0305316,A spherical Hopfield model,2.299572137882465e-06,0.0,2.0,0.0
+cond-mat/0006005,Network of Hydrogen Bonds as a Medium for DNA Interaction in Solvents,2.27910810532043e-06,0.0,2.0,0.0
+adap-org/9708002,Self-Adaptation in Evolving Systems,2.1412341768730405e-06,0.0,1.0,0.0
+cond-mat/9903394,Cold and Warm Denaturation of Hydrophobic Polymers,2.1309374023216702e-06,2.22781651697023e-08,1.0,3.0
+cond-mat/0102028,Epidemic dynamics and endemic states in complex networks,2.1287114813096105e-06,0.0,5.0,7.0
+cond-mat/0305322,"A food-web based unified model of ""macro""- and ""micro-"" evolution",2.1254800838390582e-06,0.0,4.0,3.0
+cond-mat/9811127,Geometrically Reduced Number of Protein Ground State Candidates,2.1254800838390582e-06,0.0,3.0,2.0
+physics/9806032,Wavelet Analysis of Blood Pressure Waves in Vasovagal Syncope,2.117351529821976e-06,0.0,1.0,0.0
+cond-mat/0301110,"Identification of essential and functionally moduled genes through the
+  microarray assay",2.087569760082219e-06,1.2401511944467612e-06,1.0,2.0
+cond-mat/0305587,"A layered neural network with three-state neurons optimizing the mutual
+  information",2.087073078468716e-06,0.0,2.0,1.0
+cond-mat/0107267,Epidemic outbreaks in complex heterogeneous networks,2.0842093048819707e-06,1.4557896884227108e-05,2.0,7.0
+cond-mat/0306271,"Electrokinetic behavior of two touching inhomogeneous biological cells
+  and colloidal particles: Effects of multipolar interactions",2.0732704877116634e-06,0.0,2.0,0.0
+cond-mat/0101259,"Warm and Cold Denaturation in the Phase Diagram of a Protein Lattice
+  Model",2.056780931276195e-06,0.0,1.0,0.0
+cond-mat/0107597,"Memory beyond memory in heart beating: an efficient way to detect
+  pathological conditions",2.04077433724524e-06,0.0,2.0,0.0
+cond-mat/0102378,"An Unusual Antagonistic Pleiotropy in the Penna Model for Biological
+  Ageing",2.00800849255242e-06,0.0,1.0,0.0
+cond-mat/0010343,"Predicting and generating time series by neural networks: An
+  investigation using statistical physics",1.9976746915166136e-06,0.0,1.0,0.0
+cond-mat/0102006,Nondiffusive heat transfer in muscle tissue. Preliminary results,1.9941095240903533e-06,0.0,2.0,0.0
+quant-ph/0202015,Semiclassical Neural Network,1.990213450659572e-06,0.0,1.0,3.0
+cond-mat/0209396,Multifractal analysis of DNA walks and trails,1.989657670966268e-06,0.0,1.0,0.0
+cond-mat/0010132,Unzipping DNA : A hypothesis on correlation during replication,1.988435621138544e-06,0.0,3.0,7.0
+cond-mat/0210271,The Renormalization Group and the Dynamics of Genetic Systems,1.9877793357183173e-06,0.0,1.0,0.0
+cond-mat/0111359,Realistic modellization for the growth of a yeast colony,1.9877793357183173e-06,0.0,1.0,0.0
+nlin/0107038,"Large extinctions in an evolutionary model: The role of innovation and
+  keystone species",1.957903899222944e-06,1.5994522421332058e-07,4.0,2.0
+cond-mat/0103361,Topological Properties of Citation and Metabolic Networks,1.95133588191775e-06,0.0,1.0,4.0
+cond-mat/9708059,Dynamics of unbinding of polymers in a random medium,1.922797105418414e-06,0.0,2.0,0.0
+physics/0011006,"Spherical harmonic decomposition applied to spatial-temporal analysis of
+  human high-density EEG",1.915415597794137e-06,0.0,1.0,0.0
+cond-mat/0012390,Characterization of Sleep Stages by Correlations of Heartbeat Increments,1.8976784453937103e-06,0.0,2.0,0.0
+cond-mat/0109442,Estimating the Strength of an Elastic Network Using Linear Response,1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/0104469,Understanding hierarchical protein evolution from first principles,1.8950380516170012e-06,0.0,1.0,1.0
+cond-mat/0004010,"Energy Storage in a Hamiltonian System in Partial Contact with a Heat
+  Bath",1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/0102217,Using Nonlinear Response to Estimate the Strength of an Elastic Network,1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/0105041,L\'evy statistics in coding and non-coding nucleotide sequences,1.8950380516170012e-06,0.0,1.0,5.0
+cond-mat/9912297,Unzipping DNA - towards the first step of replication,1.8950380516170012e-06,0.0,1.0,12.0
+cond-mat/9908170,Folding in two-dimenensional off-lattice models of proteins,1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/9612085,Twist-Stretch Elasticity of DNA,1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/9705309,Viscosity Dependence of the Folding Rates of Proteins,1.8950380516170012e-06,0.0,1.0,0.0
+nlin/0111033,"Small-scale structure of nonlinearly interacting species advected by
+  chaotic flows",1.8950380516170012e-06,0.0,1.0,0.0
+cs/0306097,A family of metrics on contact structures based on edge ideals,1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/0012288,Thermodynamically Important Contacts in Folding of Model Proteins,1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/0009256,Geometry Selects Highly Designable Structures,1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/0107629,"On Synchronization, Persistence and Seasonality in some Spatially
+  Inhomogeneous Models in Epidemics and Ecology",1.8950380516170012e-06,0.0,1.0,0.0
+math/0008052,"Destruction of CD4 T Lymphocytes Alone Cannot Account for their
+  Long-term Decrease in AIDS",1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/0208079,"Robustness of retrieval properties against imbalance between long-term
+  potentiation and depression of spike-timing-dependent plasticity",1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/0305517,"Storage Capacity Diverges with Synaptic Efficiency in an Associative
+  Memory Model with Synaptic Delay and Pruning",1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/9906271,Self-Assembly in Mixtures of Polymers and Small Associating Molecules,1.8950380516170012e-06,0.0,1.0,1.0
+cond-mat/9909443,Thresholds in layered neural networks with variable activity,1.8950380516170012e-06,0.0,1.0,1.0
+cond-mat/0206299,"The range of the contact interactions and the kinetics of the Go models
+  of proteins",1.8950380516170012e-06,0.0,1.0,1.0
+cond-mat/0005150,"Reading the three-dimensional structure of a protein from its amino acid
+  sequence",1.8950380516170012e-06,0.0,1.0,1.0
+cond-mat/9803293,Nonstationary Stochastic Resonance,1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/9803282,Nonstationary Stochastic Resonance in a Single Neuron-Like System,1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/9803323,A Deterministic Approach to the Protein Design Problem,1.8950380516170012e-06,0.0,1.0,0.0
+nlin/0108013,An Epidemic Model on Small-World Networks and Ring Vaccination,1.8950380516170012e-06,0.0,1.0,1.0
+physics/0208089,Dynamical Monte Carlo method for stochastic epidemic models,1.8950380516170012e-06,0.0,1.0,0.0
+physics/0306177,Noise in an insect outbreak model,1.8950380516170012e-06,0.0,1.0,0.0
+physics/0306178,Noise in Genotype Selection Model,1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/0007141,Why is the DNA Denaturation Transition First Order?,1.8950380516170012e-06,0.0,1.0,6.0
+cond-mat/0111462,Unzipping dsDNA with a force: scaling theory,1.8785657777513535e-06,0.0,2.0,0.0
+cond-mat/0205439,Epidemic threshold in structured scale-free networks,1.8715482998884376e-06,2.599119269798601e-08,2.0,5.0
+adap-org/9907010,Scaling in a Multispecies Network Model Ecosystem,1.836677351836284e-06,0.0,2.0,1.0
+cond-mat/0201057,"Anomalous properties of heat diffusion in living tissue caused by
+  branching artery network. Qualitative description",1.8295080725031696e-06,0.0,1.0,0.0
+physics/0101002,"Laser Induced Heat Diffusion Limited Tissue Coagulation: Problem and
+  General Properties",1.8295080725031696e-06,0.0,1.0,1.0
+cond-mat/9804036,Species Formation in Simple Ecosystems,1.795806577536146e-06,0.0,2.0,1.0
+cond-mat/9909379,"Fast Response and Temporal Coding on Coherent Oscillations in
+  Small-World Networks",1.7758546039785223e-06,0.0,3.0,2.0
+cond-mat/0207352,"Power of the power-laws: lessons from unification of small and large
+  time scales for evolution",1.767014700382525e-06,0.0,2.0,1.0
+physics/0106071,Mechanical oscillations at the cellular scale,1.7337585430319004e-06,0.0,2.0,0.0
+physics/9802023,Scaling Laws and Similarity Detection in Sequence Alignment with Gaps,1.7298040892779342e-06,0.0,1.0,3.0
+cond-mat/0205009,The spread of epidemic disease on networks,1.7247835989114528e-06,0.0,2.0,1.0
+cond-mat/0111317,Mechanical response of random heteropolymers,1.7207370327400908e-06,0.0,1.0,2.0
+cond-mat/0001023,Extinction transition in bacterial colonies under forced convection,1.718444534080739e-06,0.0,1.0,2.0
+adap-org/9912005,The Importance of Being Discrete - Life Always Wins on the Surface,1.718444534080739e-06,7.426055056567433e-08,1.0,3.0
+adap-org/9611003,A model of macroevolution with a natural system size,1.7130915270505389e-06,0.0,2.0,1.0
+cond-mat/9808022,"Physics of Solutions and Networks of Semiflexible Macromolecules and the
+  Control of Cell Function",1.703003024765287e-06,0.0,1.0,1.0
+cond-mat/9909222,"The role of long-range forces in the phase behavior of colloids and
+  proteins",1.703003024765287e-06,0.0,1.0,0.0
+physics/0205031,"A study of accuracy and precision in oligonucleotide arrays: extracting
+  more signal at large concentrations",1.703003024765287e-06,0.0,1.0,0.0
+cond-mat/9905299,Capture of the Lamb: Diffusing Predators Seeking a Diffusing Prey,1.703003024765287e-06,0.0,1.0,1.0
+cond-mat/0105078,"Complexation of DNA with positive spheres: phase diagram of charge
+  inversion and reentrant condensation",1.703003024765287e-06,0.0,1.0,1.0
+cond-mat/0001043,Escape of a chain molecule over a barrier - the kink mechanism,1.703003024765287e-06,0.0,1.0,1.0
+cond-mat/0002117,"Role of Secondary Motifs in Fast Folding Polymers: A Dynamical
+  Variational Principle",1.703003024765287e-06,0.0,1.0,0.0
+cond-mat/0105209,Geometrical aspects of protein folding,1.703003024765287e-06,0.0,1.0,3.0
+cond-mat/0102329,Heat Capacity of Protein Folding,1.703003024765287e-06,0.0,1.0,0.0
+cond-mat/0303240,Dipole relaxation losses in DNA,1.703003024765287e-06,0.0,1.0,1.0
+physics/0111199,DNA hybridization to mismatched templates: a chip study,1.703003024765287e-06,0.0,1.0,0.0
+cond-mat/0205551,"Non-monotonic variation with salt concentration of the second virial
+  coefficient in protein solutions",1.703003024765287e-06,0.0,1.0,0.0
+cond-mat/0108447,Phase diagram for unzipping DNA with long-range interactions,1.6984821039787876e-06,0.0,1.0,4.0
+cond-mat/0202431,Transient dynamics for sequence processing neural networks,1.6934012734227016e-06,0.0,2.0,0.0
+adap-org/9803001,"Large-scale evolution and extinction in a hierarchically structured
+  environment",1.6746845216801955e-06,0.0,2.0,0.0
+cond-mat/0110521,Generalized Ensemble Simulations for Complex Systems,1.638006554138553e-06,0.0,2.0,0.0
+cond-mat/9810012,Cellular Automata,1.632090053769523e-06,0.0,1.0,0.0
+physics/9610017,Note on the dynamic instability of microtubules,1.6259224231493676e-06,0.0,1.0,0.0
+cond-mat/0208552,Selective advantage of topological disorder in biological evolution,1.6106728460629577e-06,0.0,2.0,0.0
+cond-mat/0011499,Simulated emergence of cyclic sexual-asexual reproduction,1.60698551133943e-06,0.0,1.0,1.0
+cond-mat/0103286,"A theoretical model of neuronal population coding of stimuli with both
+  continuous and discrete dimensions",1.60698551133943e-06,0.0,1.0,1.0
+cond-mat/0102176,Justification of Sexual Reproduction by Modified Penna Model of Ageing,1.60698551133943e-06,0.0,1.0,2.0
+cond-mat/9503173,Protein Folding and Spin Glass,1.60698551133943e-06,0.0,1.0,0.0
+cond-mat/0106302,"The Mathematical Theory of Molecular Motor Movement and Chemomechanical
+  Energy Transduction",1.60698551133943e-06,0.0,1.0,0.0
+cond-mat/0205254,Helicase on DNA: A Phase coexistence based mechanism,1.5874126399255546e-06,0.0,1.0,1.0
+cond-mat/0301004,"Phase transitions in some epidemic models defined on small-world
+  networks",1.5855255443832496e-06,0.0,1.0,0.0
+quant-ph/0002076,"Fast Quantum Search Algorithms in Protein Sequence Comparison - Quantum
+  Biocomputing",1.572482250986432e-06,0.0,2.0,2.0
+cond-mat/0010278,The large-scale organization of metabolic networks,1.5696157487180897e-06,0.0,2.0,4.0
+cond-mat/0207311,A model of large-scale proteome evolution,1.5686601584299967e-06,0.0,1.0,1.0
+cond-mat/0305305,Information Flow in Social Groups,1.5678621448156374e-06,2.22781651697023e-08,1.0,3.0
+cond-mat/0207233,"Damage spreading in the Bak-Sneppen model: Sensitivity to the initial
+  conditions and equilibration dynamics",1.5547649927735596e-06,0.0,1.0,0.0
+physics/0103034,Designer Gene Networks: Towards Fundamental Cellular Control,1.5493750032839157e-06,0.0,1.0,0.0
+cond-mat/9911492,Epidemics and percolation in small-world networks,1.5493750032839157e-06,0.0,1.0,5.0
+nlin/0107073,Dynamics of a simple evolutionary process,1.5493750032839157e-06,0.0,1.0,0.0
+cond-mat/0302589,"Reply to a revised comment on ""Why is the DNA denaturation transition
+  first order?""",1.5493750032839157e-06,0.0,1.0,1.0
+physics/0005018,Optimal Mutation Rates on Static Fitness Landscpes,1.5493750032839157e-06,0.0,1.0,0.0
+nlin/0212010,HebbNets: Dynamic network with Hebbian learning rule,1.538955146567322e-06,0.0,1.0,0.0
+cond-mat/0102127,Analytical solution of a model for complex food webs,1.5295226748816362e-06,0.0,1.0,2.0
+cond-mat/0303106,Networks in life: Scaling properties and eigenvalue spectra,1.5227855380275249e-06,0.0,2.0,0.0
+adap-org/9710001,Evolution and extinction dynamics in rugged fitness landscapes,1.5109679979135728e-06,0.0,1.0,1.0
+cond-mat/9902364,"Determination of optimal effective interactions between amino acids in
+  globular proteins",1.5109679979135728e-06,0.0,1.0,0.0
+cond-mat/9902228,Folding Lennard-Jones proteins by a contact potential,1.5109679979135728e-06,0.0,1.0,0.0
+cond-mat/0108542,Percolation and epidemics in a two-dimensional small world,1.5109679979135728e-06,0.0,1.0,0.0
+cond-mat/9901215,Protein folding using contact maps,1.5109679979135728e-06,0.0,1.0,1.0
+adap-org/9811001,"Distributed Self-regulation Induced by Negative Feedbacks in Ecological
+  and Economic Systems",1.4835344226490424e-06,0.0,1.0,3.0
+cond-mat/0002175,"Temporal correlations versus noise in the correlation matrix formalism:
+  an example of the brain auditory response",1.4835344226490424e-06,0.0,1.0,0.0
+cond-mat/0108097,A new monte carlo algorithm for growing compact Self Avoiding Walks,1.4835344226490424e-06,0.0,1.0,1.0
+adap-org/9909003,"Analysis of the optimality principles responsible for vascular network
+  architectonics",1.4835344226490424e-06,0.0,1.0,1.0
+cond-mat/9708215,Attractors in fully asymmetric neural networks,1.4831682170115858e-06,0.0,1.0,0.0
+cond-mat/0202054,Punctuated evolution for the quasispecies model,1.4826494948284814e-06,0.0,1.0,0.0
+cond-mat/0208328,The Tangled Nature model as an evolving quasi-species model,1.4826494948284814e-06,0.0,1.0,0.0
+cond-mat/9709247,Error threshold in finite populations,1.4826494948284814e-06,0.0,1.0,0.0
+math-ph/9808001,"Lie Superalgebras and the Multiplet Structure of the Genetic Code I:
+  Codon Representations",1.4823549730990751e-06,0.0,2.0,2.0
+physics/9812041,Symmetry and Codon Usage Correlations in the Genetic Code,1.4629592412006444e-06,0.0,1.0,1.0
+cond-mat/9702134,Competition in a Fitness Landscape,1.446956322296335e-06,0.0,1.0,4.0
+adap-org/9506003,"Self-Organization in Models of Populations with Two-Parent Reproduction
+  on a Rugged Fitness Landscape",1.446956322296335e-06,0.0,1.0,0.0
+physics/0109036,Species Orthogonalization,1.446956322296335e-06,0.0,1.0,0.0
+cond-mat/0008123,Four-state quantum chain as a model of sequence evolution,1.446956322296335e-06,0.0,1.0,1.0
+cond-mat/9910428,Simulated Coevolution in a Mutating Ecology,1.446956322296335e-06,0.0,1.0,0.0
+cond-mat/9701164,"Statics, metastable states and barriers in protein folding: A replica
+  variational approach",1.421971544643544e-06,0.0,1.0,0.0
+cond-mat/0012021,Generalized-Ensemble Algorithms for Molecular Simulations of Biopolymers,1.407564521916496e-06,0.0,1.0,3.0
+cond-mat/0009119,"Replica-exchange multicanonical algorithm and multicanonical
+  replica-exchange method for simulating systems with rough energy landscape",1.407564521916496e-06,0.0,1.0,0.0
+cond-mat/0111588,Generalized-ensemble simulations of spin systems and protein systems,1.407564521916496e-06,0.0,1.0,0.0
+nlin/0202034,Modelling Food Webs,1.382944646679097e-06,0.0,1.0,5.0
+adap-org/9910003,Simple models of evolution and extinction,1.382944646679097e-06,0.0,1.0,1.0
+cond-mat/0202076,"Anomalous relaxation kinetics of biological lattice-ligand binding
+  models",1.3713061602032352e-06,0.0,1.0,0.0
+cond-mat/0206238,"Theoretical models for single-molecule DNA and RNA experiments: from
+  elasticity to unzipping",1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/0101048,Introducing Protein Folding Using Simple Models,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0205380,Specificity and stability in topology of protein networks,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0207409,"Extreme self-organization in networks constructed from gene expression
+  data",1.3189329710618589e-06,0.0,0.0,1.0
+physics/9801026,Universal Statistical Behavior of Neural Spike Trains,1.3189329710618589e-06,0.0,0.0,1.0
+hep-lat/9411059,Gauge theory of things alive and universal dynamics,1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9712005,Effects of neutral selection on the evolution of molecular species,1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9607002,"Self-organized criticality, evolution and the fossil extinction record",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9705146,A New Monte Carlo Algorithm for Protein Folding,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0103119,A Stochastic Model of Human Gait Dynamics,1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/0207236,Time delay as a key to Apoptosis Induction in the p53 Network,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0207110,A steepest descent calculation of RNA pseudoknots,1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/9706125,Protein folding and heteropolymers,1.3189329710618589e-06,0.0,0.0,4.0
+adap-org/9808003,Cooperative mechanism of self-regulation in hierarchical living systems,1.3189329710618589e-06,0.0,0.0,7.0
+cond-mat/0210188,Phase transitions in homogeneous biopolymers: basic concepts and methods,1.3189329710618589e-06,0.0,0.0,5.0
+cond-mat/9705020,An exactly solved model of biological evolution,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9609178,Factors Governing the Foldability of Proteins,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9610126,Conformations of Linear DNA,1.3189329710618589e-06,0.0,0.0,5.0
+cond-mat/0011195,Small world patterns in food webs,1.3189329710618589e-06,0.0,0.0,13.0
+adap-org/9908002,Models of Extinction: A Review,1.3189329710618589e-06,0.0,0.0,18.0
+physics/9801027,A crystal base for the genetic code,1.3189329710618589e-06,0.0,0.0,8.0
+cond-mat/0101161,"Mutual Information of Population Codes and Distance Measures in
+  Probability Space",1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/0305010,Characterizing Width Uniformity by Wave Propagation,1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/0101058,A simple model for DNA denaturation,1.3189329710618589e-06,0.0,0.0,3.0
+physics/0007017,"Equations for Stochastic Macromolecular Mechanics of Single Proteins:
+  Equilibrium Fluctuations, Transient Kinetics and Nonequilibrium Steady-State",1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/0011524,Computer Simulations for Biological Ageing and Sexual Reproduction,1.3189329710618589e-06,0.0,0.0,4.0
+physics/0004042,Optimal Mutation Rates in Dynamic Environments,1.3189329710618589e-06,0.0,0.0,5.0
+cond-mat/9912199,"Metastability and nucleation in the dilute fluid phase of a simple model
+  of globular proteins",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9906077,Self-Organization of Complex Systems,1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/9905106,Random walks in the space of conformations of toy proteins,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0111299,Electrons on the double helix: optical experiments on native DNA,1.3189329710618589e-06,0.0,0.0,3.0
+physics/0004044,Contraction of a Bundle of Actin Filaments: 50 years after Szent-Gyorgyi,1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/9801137,"Determination of Interaction Potentials of Amino Acids from Native
+  Protein Structures: Test on Simple Lattice Models",1.3189329710618589e-06,0.0,0.0,6.0
+cond-mat/0006011,Statistical Mechanics of Recurrent Neural Networks II. Dynamics,1.3189329710618589e-06,0.0,0.0,8.0
+cond-mat/0108308,Roles of stiffness and excluded volume in DNA denaturation,1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/9812291,"Discrete molecular dynamics studies of the folding of a protein-like
+  model",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9708188,Parisi Phase in a Neuron,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9601006,Interactions between Membrane Inclusions on Fluctuating Membranes,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9905074,Statistics of DNA sequences: a low frequency analysis,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0108285,Relaxation kinetics of biological dimer adsorption models,1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9708003,Codon Bias and Mutability in HIV Sequences,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9809001,"Expansion-modificaction systems: an explanation for long range
+  correlations in DNA",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0211236,Inter-strand distance distribution of DNA near melting,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0211468,Entropy loss in long-distance DNA looping,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0306432,DNA Spools under Tension,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9606136,Cooperativity of Protein Folding and the Random-Field Ising Model,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0307666,A novel stochastic Hebb-like learning rule for neural networks,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9906274,The Ashkin-Teller neural network near saturation,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9603027,Kinetics of Phase Ordering in a Two-Component Fluid Membrane,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9905309,"Hiking in the energy landscape in sequence space: a bumpy road to good
+  folders",1.3189329710618589e-06,0.0,0.0,1.0
+math/0101051,Multiple Equilibria for an SIRS Epidemiological System,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9909276,"Bi-stability of mixed states in neural network storing hierarchical
+  patterns",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0207079,Hamiltonian model for multidimensional epistasis,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9802043,"First experimental tests of the Peyrard-Bishop model applied to the
+  melting of very short DNAs",1.3189329710618589e-06,0.0,0.0,1.0
+physics/9712025,Do Topological Charge Solitons Participate in DNA Activity?,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0304047,"Diffusion limited friendship network: A model for six degrees of
+  separation",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0109305,"Emergence of highly-designable protein-backbone conformations in an
+  off-lattice model",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0306517,Folding Mechanism of Small Proteins,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0006166,Pulling Hairpinned Polymers,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0005365,Magnitude and Sign Correlations in Heartbeat Fluctuations,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0110128,Thermodynamic control and dynamical regimes in protein folding,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0003460,"Topological and energetic factors: what determines the structural
+  details of the transition state ensemble and ""on-route"" intermediates for
+  protein folding? An investigation for small globular proteins",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0212541,Parametrical Neural Network,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9811267,"Neutral evolution of model proteins: diffusion in sequence space and
+  overdispersion",1.3189329710618589e-06,0.0,0.0,1.0
+physics/9807001,Hydrophobic Effects on a Molecular Scale,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0302002,"On Design of Optimal Nonlinear Kernel Potential Function for Protein
+  Folding and Protein Design",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0107391,Growing random networks under constraints,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0210093,"A model of memory, learning and recognition",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0301012,A model of population dynamics - further investigations,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0111002,Phase Transition of DNA-Linked Gold Nanoparticle,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0301055,Fractal Rigidity in Migraine,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0104116,Tangled Nature: a model of evolutionary ecology,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0304108,"Analytical description of finite size effects for RNA secondary
+  structures",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9806113,From Neurons to Brain: Adaptive Self-Wiring of Neurons,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9910219,"Evolution of Fragments Formed at the Rupture of a Knotted Alkane
+  Molecule",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0211606,"Self-Organization, Active Brownian Dynamics, and Biological Applications",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0002466,Random deaths in a computational model for age-structured populations,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0006010,Statistical Mechanics of Recurrent Neural Networks I. Statics,1.3189329710618589e-06,0.0,0.0,3.0
+adap-org/9904005,Lattice three-species models of the spatial spread of rabies among foxes,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0108237,Molecular theory of hydrophobic mismatch between lipids and peptides,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0011196,Complexity and fragility in ecological networks,1.3189329710618589e-06,0.0,0.0,10.0
+cond-mat/9904277,Statistical Mechanics of Torque Induced Denaturation of DNA,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0206056,Cluster Analysis of Gene Expression Data,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9606037,"Comment on ""A Criterion that determines foldability of proteins"" by D.
+  Klimov and D. Thirumalai (PRL,v.76, p.4070 (1996))",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0110599,Tautomeric Transitions in DNA,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9807398,Eigen's Error Threshold and Mutational Meltdown in a Quasispecies Model,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9906007,Models for energy and charge transport and storage in biomolecules,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0105054,Effect of defects on thermal denaturation of DNA Oligomers,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0107562,"Statistical and Dynamical Study of Disease Propagation in a Small World
+  Network",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9808317,"Selection, Mutations and Codon Usage in Bacterial Model",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9807155,"Levy-flight spreading of epidemic processes leading to percolating
+  clusters",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0001028,Protein Folding Simulations in a Deformed Energy Landscape,1.3189329710618589e-06,0.0,0.0,2.0
+adap-org/9811003,"Extinction, diversity and survivorship of taxa in the fossil record",1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9809004,Decline in extinction rates and scale invariance in the fossil record,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0303467,Epidemic spreading with immunization and mutations,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9803019,Master equation approach to protein folding and kinetic traps,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9908132,"Comment on `Glassy Transition in a Disordered Model for the RNA
+  Secondary Structure'",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0007242,Coherence in a coupled network: Implication for brain function,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9803033,Immune Network: An Example of Complex Adaptive Systems,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0210538,An Electrical Network Model of Plant Intelligence,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0010155,Putting Proteins back into Water,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9401072,Statistical Mechanics and Visual Signal Processing,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9701075,A hierarchical scheme for cooperativity and folding in proteins,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9607029,Traveling-Wave Chemotaxis,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9812284,Identifying the protein folding nucleus using molecular dynamics,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0302041,The Predictive Power of R0 in an Epidemic Probabilistic System,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0209098,"Rapid Determination of Multiple Reaction Pathways in Molecular Systems:
+  The Soft-Ratcheting Algorithm",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9903003,"Multi-Self-Overlap Ensemble for protein folding: ground state search and
+  thermodynamics",1.3189329710618589e-06,0.0,0.0,1.0
+physics/9810052,Stochastic dynamics simulations in a new generalized ensemble,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0108357,Sidechain Dynamics and Protein Folding,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0302545,Structure optimization in an off-lattice protein model,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0102021,Codon Distributions in DNA,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0103038,Excluded Volume in Protein Sidechain Packing,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0106507,The Web of Human Sexual Contacts,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0107367,Reversible stretching of homopolymers and random heteropolymers,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9910045,A biological junction with quantum-like characteristics,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0206093,Quantum Game Theory,1.3189329710618589e-06,0.0,0.0,3.0
+chao-dyn/9903005,"Energy Absorption and Storage in a Hamiltonian System in Partial Contact
+  with a Heat Bath",1.3189329710618589e-06,0.0,0.0,2.0
+patt-sol/9307001,A quantitative measurement of spatial order in ventricular fibrillation,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9605110,Monte Carlo Simulations of Sexual Reproduction,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9904377,An Analytical Approach to the Protein Designability Problem,1.3189329710618589e-06,0.0,0.0,2.0
+math-ph/9905017,"Lie Superalgebras and the Multiplet Structure of the Genetic Code II:
+  Branching Schemes",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9802230,Conformational transitions of heteropolymers in dilute solutions,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9611224,Direct Determination of DNA Twist-Stretch Coupling,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0201289,A non extensive approach for DNA breaking by ionizing radiation,1.3189329710618589e-06,0.0,0.0,2.0
+nlin/0207048,Individual-based lattice model for spatial spread of epidemics,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9810285,Statistical Properties of Contact Maps,1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/0304613,Multicanonical Chain Growth Algorithm,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0008311,Phase transition in a spatial Lotka-Volterra model,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0209620,Statistical mechanics of RNA folding: importance of alphabet size,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9902021,Collective motion of organisms in three dimensions,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0204546,Molecular dynamics simulation of polymer insertion into lipid bilayers,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0009002,"Statistically Significant Strings are Related to Regulatory Elements in
+  the Promoter Regions of Saccharomyces cerevisiae",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9703227,"On the Kinetic Behavior and Folding Properties of an Off-Lattice
+  Heteropolymer Model",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0011369,"The Folding Thermodynamics and Kinetics of Crambin Using an All-Atom
+  Monte Carlo Simulation",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0207514,Cytoskeleton confinement of red blood cell membrane fluctuations,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0104015,"Application of Support Vector Machine to detect an association between a
+  disease or trait and multiple SNP variations",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0207609,Slow nucleic acid unzipping kinetics from sequence-defined barriers,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0010130,Dynamic concentration of motors in microtubule arrays,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0103028,"Compositional representation of protein sequences and the number of
+  Eulerian loops",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0110088,Correlated noise induced control of prey extinction,1.3189329710618589e-06,0.0,0.0,2.0
+math/0305222,On Reidys and Stadler's metrics for RNA secondary structures,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0009221,A Model for Bone Strength and Osteoporotic Fractures,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0201404,"Electronic properties of DNA: structural and chemical influence on the
+  quest for high conductance and charge transfer",1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/9611065,"Protein Folding Kinetics: Time Scales, Pathways, and Energy Landscapes
+  in Terms of Sequence Dependent Properties",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0112031,What does the correlation dimension of the human heart rate measure?,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0207545,"Synapse efficiency diverges due to synaptic pruning following
+  over-growth",1.3189329710618589e-06,0.0,0.0,2.0
+adap-org/9508002,"Smoothing representation of fitness landscapes - the genotype-phenotype
+  map of evolution",1.3189329710618589e-06,0.0,0.0,3.0
+physics/9904023,Error Thresholds on Dynamic Fittness-Landscapes,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9806313,Master equation approach to protein folding,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9901321,"Entropic Elasticity, Cooperative Extensibility and Supercoiling Property
+  of DNA: A Unified Viewpoint",1.3189329710618589e-06,0.0,0.0,2.0
+nlin/0002032,"The Influence of Predator-Prey Population Dynamics on the Long-term
+  Evolution of Food Web Structure",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0306530,A Complex Network Approach to Topographical Connections,1.3189329710618589e-06,0.0,0.0,6.0
+cond-mat/0112463,Gauge Symmetry and Neural Networks,1.3189329710618589e-06,0.0,0.0,2.0
+patt-sol/9808009,Two boundary model for freezing front propagation in biological tissue,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0007078,Thermodynamical implications of a protein model with water interactions,1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/9806197,"Designability, thermodynamic stability, and dynamics in protein folding:
+  a lattice model study",1.3189329710618589e-06,0.0,0.0,5.0
+cond-mat/9905306,Early Stages of Homopolymer Collapse,1.3189329710618589e-06,0.0,0.0,3.0
+adap-org/9702003,A model of mass extinction,1.3189329710618589e-06,0.0,0.0,6.0
+cond-mat/0305577,Phase field approach for modeling intracellular dynamics,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9608088,Landscape Paradigms in Physics and Biology: Introduction and Overview,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0010286,Stability Puzzles in Phage Lambda,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9606180,Chain length scaling of protein folding time,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0208144,The human family tree and the Neandertal branch,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0006055,Evolution: The Case of the Glyceraldehyde-3-Phosphate Dehydrogenase Gene,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9908129,"Can pulling cause right- to left-handed structural transitions in
+  negatively supercoiled DNA double-helix?",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0212124,"Design of Toy Proteins Capable to Rearrange Conformations in a
+  Mechanical Fashion",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0302306,"Simple Two-State Protein Folding Kinetics Requires Near-Levinthal
+  Thermodynamic Cooperativity",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9804102,"Environmental changes, co-extinction, and patterns in the fossil record",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0001195,"Glass Transition Temperature and Fractal Dimension of Protein Free
+  Energy Landscapes",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0303226,"RNA denaturation: excluded volume, pseudoknots and transition scenarios",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9806078,"Mutual Information of Three-State Low Activity Diluted Neural Networks
+  with Self-Control",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9907013,"A Robust Method for Detecting Interdependences: Application to
+  Intracranially Recorded EEG",1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/0203057,Behavior of tumors under nonstationary theraphy,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0209103,Zipf's Law in Gene Expression,1.3189329710618589e-06,0.0,0.0,2.0
+adap-org/9811002,A simple model for the formation of a complex organism,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9710328,Equilibrium Chemical Engines,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9503099,A Bit-String Model for Biological Aging,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0103015,Fitness Uniform Selection to Preserve Genetic Diversity,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0302037,Long range interaction yields a new kind of phase transition,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0007034,"Theoretical prevision of physical chemical properties of amino acids
+  from genetic code",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0302305,Origins of Chevron Rollovers in Non-Two-State Protein Folding Kinetics,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9902061,"Statistical properties of spike trains: universal and stimulus-dependent
+  aspects",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9701117,Denaturation of Heterogeneous DNA,1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9805001,Statistics of extinction and survival in Lotka-Volterra systems,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9904304,Energy Landscape of a Model Protein,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9611005,Energetics of thermal ratchet models,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9512019,"Entropic Barriers, Frustration and Order: Basic Ingredients in Protein
+  Folding",1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9901017,Characterization and control of small-world networks,1.3189329710618589e-06,0.0,0.0,5.0
+cs/0302005,"Barnacle: An Assembly Algorithm for Clone-based Sequences of Whole
+  Genomes",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0207198,Effect of Variable Surrounding on Species Creation,1.3189329710618589e-06,0.0,0.0,3.0
+physics/0301001,Physical limits to biochemical signaling,1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/9607066,Simple Model of Large Scale Organization in Evolution,1.3189329710618589e-06,0.0,0.0,6.0
+physics/0102010,"From features to expression: High-density oligonucleotide array analysis
+  revisited",1.3189329710618589e-06,0.0,0.0,3.0
+adap-org/9801003,Modelling coevolution in multispecies communities,1.3189329710618589e-06,0.0,0.0,5.0
+cond-mat/9701040,Conformations of Circular DNA,1.3189329710618589e-06,0.0,0.0,2.0
+astro-ph/0104209,Intermittent Jolts of Galactic UV Radiation: Mutagenetic Effects,1.3189329710618589e-06,0.0,0.0,3.0
+math/9912237,"Global Stability of McKeithan's Kinetic Proofreading Model for T-Cell
+  Receptor Signal Transduction",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0003096,Why does a protein fold?,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0110075,Zipf's law in human heartbeat dynamics,1.3189329710618589e-06,0.0,0.0,5.0
+physics/9909029,"Scale Specific and Scale Independent Measures of Heart Rate Variability
+  as Risk Indicators",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0304596,Equilibrium Distribution of Mutators in the Single Fitness Peak Model,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0110164,"Comment on ""Why is the DNA denaturation transition first order?""",1.3189329710618589e-06,0.0,0.0,5.0
+cond-mat/0103114,Robust Patterns in Food Web Structure,1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/9706197,Wilson renormalization of a reaction-diffusion process,1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/9601082,"Experimental Realizations of Integrable Reaction-Diffusion Processes in
+  Biological and Chemical Systems",1.3189329710618589e-06,0.0,0.0,2.0
+adap-org/9401002,Learning and Complexity in Genetic Auto-Adaptive Systems,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0301214,"Correlation between mutation pressure, selection pressure and occurrence
+  of amino acids",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0007084,Understanding conserved amino acids in proteins,1.3189329710618589e-06,0.0,0.0,2.0
+physics/9902067,Symbols and synergy in a neural code,1.3189329710618589e-06,0.0,0.0,8.0
+adap-org/9305002,"Biased Random-Walk Learning: A Neurobiological Correlate to
+  Trial-and-Error",,,,
+adap-org/9311001,"Cell Division, Differentiation and Dynamic Clustering",,,,
+adap-org/9311002,Imitation Games,,,,
+adap-org/9311003,Chaos as a Source of Complexity and Diversity in Evolution,,,,
+adap-org/9401001,Self-organized Criticality in Living Systems,,,,
+adap-org/9405002,On Modelling Life,,,,
+adap-org/9405003,"Evolutionary Learning in the 2D Artificial Life System ""Avida""",,,,
+adap-org/9406001,Study of a New Neuron,,,,
+adap-org/9410004,"Mass-extinction: Evolution and the effects of external influences on
+  unfit species",,,,
+adap-org/9411003,"An Evolutionary Approach to Associative Memory in Recurrent Neural
+  Networks",,,,
+adap-org/9503002,"Comment on ""Linguistic Features of Noncoding DNA Sequences""",,,,
+adap-org/9504001,A Theory of Differentiation with Dynamic Clustering,,,,
+adap-org/9505002,"Evolutionary Dynamics and Optimization: Neutral Networks as
+  Model-Landscapes for RNA Secondary-Structure Folding-Landscapes",,,,
+adap-org/9507004,Mutation Accumulation and the Catastrophic Senescence of Pacific Salmon,,,,
+adap-org/9507005,Long Range Anticorrelations and Non-Gaussian Behavior of a Leaky Faucet,,,,
+adap-org/9507007,"Dynamic Entropies, Long--Range Correlations and Fluctuations in Complex
+  Linear Structures",,,,
+adap-org/9507008,"Evolving Neural Networks with Iterative Learning Scheme for Associative
+  Memory",,,,
+adap-org/9508001,A model for evolution and extinction,,,,
+adap-org/9509002,Exact Results of the Bit-String Model for Catastrophic Senescence,,,,
+adap-org/9511004,Dynamical Model for Virus Spread,,,,
+adap-org/9606002,Isologous Diversification: A Theory of Cell Differentiation,,,,
+adap-org/9606004,Coupled Maps with Growth and Death: An Approach to Cell Differentiation,,,,
+adap-org/9610003,"Spontaneous Origin of Topological Complexity in Self-Organizing Neural
+  Networks",,,,
+adap-org/9611008,Coevolution of Symbiotic Species,,,,
+adap-org/9702002,Evolution on a Rugged Landscape:Pinning and Aging,,,,
+adap-org/9702004,Mass Extinction in a Simple Mathematical Biological Model,,,,
+adap-org/9705004,Modeling diffusion of innovations with probabilistic cellular automata,,,,
+adap-org/9707003,"Stochastic calculus: application to dynamic bifurcations and threshold
+  crossings",,,,
+adap-org/9707005,Coherence and clustering in ensembles of neural networks,,,,
+adap-org/9707006,Learning from Mistakes,,,,
+adap-org/9709004,"Coevolution of membranes and channels: A possible step in the origin of
+  life",,,,
+adap-org/9711001,A condition for the genotype-phenotype mapping: Causality,,,,
+adap-org/9711003,"Multiresolution wavelet analysis of heartbeat intervals discriminates
+  healthy patients from those with cardiac pathology",,,,
+adap-org/9712004,Sentient Networks,,,,
+adap-org/9802002,"Emergence of Rules in Cell Society: Differentiation, Hierarchy, and
+  Stability",,,,
+adap-org/9802003,"Diversity, Stability, Recursivity, and Rule Generation in Biological
+  System: Intra-inter Dynamics Approach",,,,
+adap-org/9807002,Coupled Oscillators with Chemotaxis,,,,
+adap-org/9807005,A dynamical theory of speciation on holey adaptive landscapes,,,,
+adap-org/9807006,Rapid parapatric speciation on holey adaptive landscapes,,,,
+adap-org/9808001,Life as Complex Systems --- Viewpoint from Intra-Inter Dynamics,,,,
+adap-org/9809002,Dynamics of clade diversification on the morphological hypercube,,,,
+adap-org/9812001,Power spectra of extinction in the fossil record,,,,
+adap-org/9901004,Stochastic group selection model for the evolution of altruism,,,,
+adap-org/9901005,"A Mathematical Model with Modified Logistic Approach for Singly-Peaked
+  Population Processes",,,,
+adap-org/9904004,Evolution dynamics in terraced NK landscapes,,,,
+adap-org/9905001,Extremal Coupled Map Lattices,,,,
+adap-org/9905002,Model of self-replicating cell capable of self-maintenance,,,,
+adap-org/9905003,Noise-induced memory in extended excitable systems,,,,
+adap-org/9907006,Functional Dynamics I : Articulation Process,,,,
+adap-org/9907009,"Cumulant Dynamics of a Population under Multiplicative Selection,
+  Mutation and Drift",,,,
+chao-dyn/9311008,Relevance of Dynamic Clustering to Biological Networks,,,,
+chao-dyn/9408002,Weakly Chaotic Population Dynamics in Random Ecological Networks,,,,
+chao-dyn/9503003,Controlling Neuronal Noise Using Chaos Control,,,,
+chao-dyn/9612003,On the Integrability and Chaotic behaviour of an ecological model,,,,
+chao-dyn/9701004,"Transition between immune and disease states in a cellular automaton
+  model of clonal immune response",,,,
+chao-dyn/9708015,Strange Attractor in Immunology of Tumor Growth,,,,
+chao-dyn/9805011,"Cross-spectral analysis of physiological tremor and muscle activity. I.
+  Theory and application to unsynchronized EMG",,,,
+chao-dyn/9805012,"Cross-spectral analysis of physiological tremor and muscle activity. II.
+  Application to synchronized EMG",,,,
+chao-dyn/9806022,ROC Analysis and a Realistic Model of Heart Rate Variability,,,,
+chao-dyn/9810008,"Discrimination between Healthy and Sick Cardiac Autonomic Nervous System
+  by Detrended Heart Rate Variability Analysis",,,,
+chao-dyn/9811010,Synchronous Behavior of Two Coupled Biological Neurons,,,,
+chao-dyn/9901020,"Adaptive estimation and control of unstable periodic dynamics in
+  excitable biological systems",,,,
+chao-dyn/9904032,Helicoidal model for DNA opening,,,,
+chao-dyn/9905004,"Stationarity and Redundancy of Multichannel EEG Data Recorded During
+  Generalized Tonic-Clonic Seizures",,,,
+chao-dyn/9906039,Evolution of Multispecificity in an Immune Network,,,,
+chao-dyn/9910019,Topology of Central Pattern Generators: Selection by Chaotic Neurons,,,,
+cmp-lg/9503012,"A Note on Zipf's Law, Natural Languages, and Noncoding DNA regions",,,,
+comp-gas/9811001,Cellular Automaton Model for Immunology of Tumor Growth,,,,
+cond-mat/0002054,High Reproduction Rate versus Sexual Fidelity,,,,
+cond-mat/0002098,"Partition Function Zeros and Finite Size Scaling of Helix-Coil
+  Transitions in a Polypeptide",,,,
+cond-mat/0002148,Shape anisotropy and Voids,,,,
+cond-mat/0002230,Charge-Reversal Instability in Mixed Bilayer Vesicles,,,,
+cond-mat/0002289,Odor recognition and segmentation by a model olfactory bulb and cortex,,,,
+cond-mat/0002358,Probing the basins of attraction of a recurrent neural network,,,,
+cond-mat/0002360,A recurrent neural network with ever changing synapses,,,,
+cond-mat/0003128,"Structural Properties of the Sliding Columnar Phase in Layered Liquid
+  Crystalline Systems",,,,
+cond-mat/0003154,Structure Factor of a Lamellar Smectic Phase with Inclusions,,,,
+cond-mat/0003263,"Random Networks of Spiking Neurons: Instability in the Xenopus tadpole
+  moto-neural pattern",,,,
+cond-mat/0003307,Hydrogen Bonds in Polymer Folding,,,,
+cond-mat/0003438,"Investigation of routes and funnels in protein folding by free energy
+  functional methods",,,,
+cond-mat/0003461,"How native state topology affects the folding of Dihydrofolate Reductase
+  and Interleukin-1beta",,,,
+cond-mat/0003479,Polymer Principles of Protein Calorimetric Two-State Cooperativity,,,,
+cond-mat/0004278,Analysis of Oscillator Neural Networks for Sparsely Coded Phase Patterns,,,,
+cond-mat/0004492,Noise in neurons is message-dependent,,,,
+cond-mat/0005099,Random replicators with high-order interactions,,,,
+cond-mat/0005200,Fluctuation-Facilitated Charge Migration along DNA,,,,
+cond-mat/0005252,Correlated percolation patterns in PEF damaged cellular material,,,,
+cond-mat/0005265,Time evolution of the Partridge-Barton Model,,,,
+cond-mat/0005284,Scale Invariance in the Nonstationarity of Physiological Signals,,,,
+cond-mat/0006002,"Stabilization/destabilization of cell membranes by multivalent ions:
+  Implications for membrane fusion and division",,,,
+cond-mat/0006118,A Novel Method for Sampling Alpha-Helical Protein Backbones,,,,
+cond-mat/0006202,"Dynamical chaos and power spectra in toy models of heteropolymers and
+  proteins",,,,
+cond-mat/0006228,Statistical Analysis of Genealogical Trees for Polygamic Species,,,,
+cond-mat/0006304,"Parametrization of Multiple Pathways in Proteins: Fast Folding versus
+  Tight Transitions",,,,
+cond-mat/0007075,Learning and generation of long-range correlated sequences,,,,
+cond-mat/0007130,A protein model exhibiting three folding transitions,,,,
+cond-mat/0007392,Equilibrium Properties of Temporally Asymmetric Hebbian Plasticity,,,,
+cond-mat/0007416,Bubble propagation in a helicoidal molecular chain,,,,
+cond-mat/0007455,Extended Kinetic Models with Waiting-Time Distributions: Exact Results,,,,
+cond-mat/0008081,On the Dynamics of the Evolution of the HIV Infection,,,,
+cond-mat/0008203,A Cellular Automata Model for Citrus Variagated Chlorosis,,,,
+cond-mat/0008250,Entropy concepts and DNA investigations,,,,
+cond-mat/0008454,"Microscopic Theory of Protein Folding Rates.I: Fine Structure of the
+  Free Energy Profile and Folding Routes from a Variational Approach",,,,
+cond-mat/0008455,"Microscopic Theory of Protein Folding Rates.II: Local Reaction
+  Coordinates and Chain Dynamics",,,,
+cond-mat/0008474,Thermodynamic Capacity of a Protein,,,,
+cond-mat/0008475,Kinetic Capacity of a Protein,,,,
+cond-mat/0009159,"New approach to Monte Carlo calculation of buckling of supercoiled DNA
+  loops",,,,
+cond-mat/0009162,Group selection models in prebiotic evolution,,,,
+cond-mat/0009167,Active Fusion and Fission Processes on a Fluid Membrane,,,,
+cond-mat/0009243,A Statistical Mechanical Approach to Combinatorial Chemistry,,,,
+cond-mat/0009267,"Theory of tunable pH sensitive vesicles of anionic and cationic lipids
+  or anionic and neutral lipids",,,,
+cond-mat/0009274,Phase Behavior of a Simple Model for Membrane Proteins,,,,
+cond-mat/0009412,Structural and Energetic Heterogeneity in Protein Folding,,,,
+cond-mat/0009413,"Speeding protein folding beyond the Go model: How a little frustration
+  sometimes helps",,,,
+cond-mat/0010029,Scaling in a continuous time model for biological aging,,,,
+cond-mat/0010055,"Application of two-parameter dynamical replica theory to retrieval
+  dynamics of associative memory with non-monotonic neurons",,,,
+cond-mat/0010167,Energetic Components of Cooperative Protein Folding,,,,
+cond-mat/0010231,"Comparative statistical analysis of bacteria genomes in ""word"" context",,,,
+cond-mat/0010244,Amino acid classes and the protein folding problem,,,,
+cond-mat/0010288,"Simplification of protein representation from the contact potentials
+  between residues",,,,
+cond-mat/0011024,Protein Unfolding and the Diffusion Collision Model,,,,
+cond-mat/0011035,"Novel Cholesteric Phase in Dispersions of Nucleic Acids due to Polymeric
+  Chelate Bridges",,,,
+cond-mat/0011367,Noise Effects on the Complex Patterns of Abnormal Heartbeats,,,,
+cond-mat/0011458,Simulated ecology-driven sympatric speciation,,,,
+cond-mat/0012093,"Yang-Lee zeros and the helix-coil transition in a continuum model of
+  polyalanine",,,,
+cond-mat/0012243,"Twirling Elastica: Kinks, Viscous Drag, and Torsional Stress",,,,
+cond-mat/0012461,Rheology of Semi-dilute Solutions of Calf-thymus DNA,,,,
+cond-mat/0101018,"Swarming ring patterns in bacterial colonies exposed to ultraviolet
+  radiation",,,,
+cond-mat/0101165,"Comment on ""Elasticity Model of a Supercoiled DNA Molecule""",,,,
+cond-mat/0101372,Concerted motion of protons in hydrogen bonds of DNA-type molecules,,,,
+cond-mat/0102267,Dynamic modeling of gene expression data,,,,
+cond-mat/0102273,Bacterial evolution and the Bak-Sneppen model,,,,
+cond-mat/0102280,"Automated assignment of SCOP and CATH protein structure classification
+  from FSSP scores",,,,
+cond-mat/0102316,Kinetic non-optimality and vibrational stability of proteins,,,,
+cond-mat/0102348,"Long-Tail Feature of DNA Words Over- and Under-Representation in Coding
+  Sequences",,,,
+cond-mat/0102426,Neural Propagation of Beliefs,,,,
+cond-mat/0103385,Modeling two-state cooperativity in protein folding,,,,
+cond-mat/0103506,Dielectric Behavior of Nonspherical Cell Suspensions,,,,
+cond-mat/0103627,Deciphering the folding kinetics of transmembrane helical proteins,,,,
+cond-mat/0104016,"A Multicanonical Molecular Dynamics Study on a Simple Bead-Spring Model
+  for Protein Folding",,,,
+cond-mat/0104065,Mechanisms underlying sequence-independent beta-sheet formation,,,,
+cond-mat/0104437,"Spectral Representation Theory for Dielectric Behavior of Nonspherical
+  Cell Suspensions",,,,
+cond-mat/0104440,"A Study of Sequence Distribution of a Painted Globule as a Model for
+  Proteins with Good Folding Properties",,,,
+cond-mat/0104482,"Catastrophic senescence of the Pacific salmon without
+  mutation-accumulation",,,,
+cond-mat/0104495,Self-consistent Treatment of Copolymers with Arbitrary Sequences,,,,
+cond-mat/0105070,Unsupervised learning and adaptation in a model of adult neurogenesis,,,,
+cond-mat/0105097,On a common circle: natural scenes and Gestalt rules,,,,
+cond-mat/0105099,Efficiency of DNA replication in the Polymerase Chain Reactio,,,,
+cond-mat/0105115,Field theory for a reaction-diffusion model of quasispecies dynamics,,,,
+cond-mat/0105226,A Cooperative Stochastic Model of Gene Expression,,,,
+cond-mat/0105340,Designability of lattice model heteropolymers,,,,
+cond-mat/0105479,Comparative genomics study of inverted repeats in bacteria,,,,
+cond-mat/0105494,Tilt Texture Domains on a Membrane and Chirality induced Budding,,,,
+cond-mat/0106409,"A Stochastic Analysis of a Brownian Ratchet Model for Actin-Based
+  Motility and Integrate-and-Firing Neurons",,,,
+cond-mat/0106449,"With a little help of DNA: Morphological diversity of colloidal
+  self-assembly",,,,
+cond-mat/0106508,Behavioral-Independent Features of Complex Heartbeat Dynamics,,,,
+cond-mat/0106557,"Specific Heat upon Aqueous Unfolding of the Protein Interior: A
+  Theoretical Approach",,,,
+cond-mat/0106649,"Response to Invasion by Antigen and Effects of Threshold in an Immune
+  Network Dynamical System Model with a Small Number of Degrees of Freedom",,,,
+cond-mat/0107076,"Linearity and Scaling of a Statistical Model for the Species Abundance
+  Distribution",,,,
+cond-mat/0107107,Gompertz law in simple computer model of aging of biological population,,,,
+cond-mat/0107251,The Onset of Mackey-Glass Leukemia at the Edge of Chaos,,,,
+cond-mat/0107394,Nonlinear Relaxation in Population Dynamics,,,,
+cond-mat/0107456,Diluted neural networks with adapting and correlated synapses,,,,
+cond-mat/0107467,The Heumann-Hotzel model for aging revisited,,,,
+cond-mat/0107576,"Green fluorescent proteins as optically-controllable elements in
+  bioelectronics",,,,
+cond-mat/0107602,Elementary Derivative Tasks and Neural Net Multiscale Analysis of Tasks,,,,
+cond-mat/0108122,"Echinocyte Shapes: Bending, Stretching and Shear Determine Spicule Shape
+  and Spacing",,,,
+cond-mat/0108201,Sampling rare events: statistics of local sequence alignments,,,,
+cond-mat/0108362,"Nonlinearity-induced conformational instability and dynamics of
+  biopolymers",,,,
+cond-mat/0108401,Thermodynamics and Kinetics of Folding of a Small Peptide,,,,
+cond-mat/0108404,Extended dynamical range as a collective property of excitable cells,,,,
+cond-mat/0108425,Neural Representation of Probabilistic Information,,,,
+cond-mat/0108440,"Comparison of the energy histograms and conformations between different
+  models of copolymers on lattice",,,,
+cond-mat/0108467,Social Effects in Simple Computer Model of Ageing,,,,
+cond-mat/0108493,Applications and Sexual Version of a Simple Model for Biological Ageing,,,,
+cond-mat/0109042,Statistical properties of contact vectors,,,,
+cond-mat/0109044,"Proteinlike behavior of a spin system near the transition between
+  ferromagnet and spin glass",,,,
+cond-mat/0109053,"Higher-Order Neutral Networks, Polya Polynomials, and Fermi Cluster
+  Diagrams",,,,
+cond-mat/0109171,"Monte Carlo simulation of the transmission of measles: Beyond the mass
+  action principle",,,,
+cond-mat/0109299,Analysis of DNA chains by means of factorial moments,,,,
+cond-mat/0109332,"Synchronous phase clustering in a network of neurons with spatially
+  decaying excitatory coupling",,,,
+cond-mat/0109416,"Coil-Globule Transition for Regular, Random and Specially Designed
+  Copolymers: Monte Carlo Simulation and Self-Consistent Field Theory",,,,
+cond-mat/0109427,"Discrete charge patterns, Coulomb correlations and interactions in
+  protein solutions",,,,
+cond-mat/0110198,Protein threading by learning,,,,
+cond-mat/0110207,New mechanism of membrane fusion,,,,
+cond-mat/0110222,"Shake-up and shake-off excitations with associated electron losses in
+  X-ray studies of proteins",,,,
+cond-mat/0110530,Theoretical modeling of prion disease incubation,,,,
+cond-mat/0110554,"Correlation Differences in Heartbeat Fluctuations During Rest and
+  Exercise",,,,
+cond-mat/0110581,Single Chain Force Spectroscopy: Sequence Dependence,,,,
+cond-mat/0112021,Protein folding simulations with Interacting Growth Walk model,,,,
+cond-mat/0112076,Compact phases of polymers with hydrogen bonding,,,,
+cond-mat/0112093,An optimal Q-state neural network using mutual information,,,,
+cond-mat/0201053,"Towards A Consistent Modeling Of Protein Thermodynamic And Kinetic
+  Cooperativity: How Applicable Is The Transition State Picture To Folding and
+  Unfolding?",,,,
+cond-mat/0201075,Base pair dynamic assisted charge transport in DNA,,,,
+cond-mat/0201129,"A simple model for the kinetics of packaging of DNA in to a capsid
+  against an external force",,,,
+cond-mat/0201271,Cold and Warm Denaturation of Proteins,,,,
+cond-mat/0201370,"Interaction of proteins in solution from small angle scattering: a
+  perturbative approach",,,,
+cond-mat/0201498,"Structural transitions in biomolecules - a numerical comparison of two
+  approaches for the study of phase transitions in small systems",,,,
+cond-mat/0201530,Statistical Physics of Feedforward Neural Networks,,,,
+cond-mat/0201588,Representational capacity of a set of independent neurons,,,,
+cond-mat/0202097,Retrieval and Chaos in Extremely Diluted Non-Monotonic Neural Networks,,,,
+cond-mat/0202145,Anomalous Response Variability in a Balanced Cortical Network Model,,,,
+cond-mat/0202458,"Dielectric behavior of oblate spheroidal particles: Application to
+  erythrocytes suspensions",,,,
+cond-mat/0202466,Force and kinetic barriers in unzipping of DNA,,,,
+cond-mat/0203200,Non-native beta-sheet formation: insights into protein amyloidosis,,,,
+cond-mat/0203384,"Neural Network Model for Apparent Deterministic Chaos in Spontaneously
+  Bursting Hippocampal Slices",,,,
+cond-mat/0203386,Complementarity and diversity in a soluble model ecosystem,,,,
+cond-mat/0204014,"Protein folding mediated by solvation: water expelling and formation of
+  the hydrophobic core occurs after the structure collapse",,,,
+cond-mat/0204173,Killer Geometries in Competing Species Dynamics,,,,
+cond-mat/0204518,Design and Folding of Dimeric Proteins,,,,
+cond-mat/0205144,The unbinding transition of mixed fluid membranes,,,,
+cond-mat/0205155,"Topological and geometrical entanglement in a model of circular DNA
+  undergoing denaturation",,,,
+cond-mat/0205277,A simple model for the relative stabilities of DNA hairpin structure,,,,
+cond-mat/0205550,"Learning by a nerual net in a noisy environment - The pseudo-inverse
+  solution revisited",,,,
+cond-mat/0205559,Helix Formation and Folding in an Artificial Peptide,,,,
+cond-mat/0205631,"Topological complexity, contact order and protein folding rates",,,,
+cond-mat/0205646,Exact Solution of the Munoz-Eaton Model for Protein Folding,,,,
+cond-mat/0206277,"Coupled dynamics of sequence selection and compactification in
+  mean-field hetero-polymers",,,,
+cond-mat/0206443,Bacterial Evolution and Bak-Sneppen Model,,,,
+cond-mat/0206559,Mixed states on neural network with structural learning,,,,
+cond-mat/0207255,"Morphology of axisymmetric vesicles with encapsulated filaments and
+  impurities",,,,
+cond-mat/0207499,Unzipping Dynamics of Long DNAs,,,,
+cond-mat/0208085,The role of body rotation in bacterial flagellar bundling,,,,
+cond-mat/0208148,"Reply to ``Comments on Kullback-Leibler and renormalized entropies:
+  Applications to electroencephalograms of epilepsy patients""",,,,
+cond-mat/0208184,Atomic Scale Fractal Dimensionality in Proteins,,,,
+cond-mat/0208382,"Anomalous diffusion on dynamical networks: A model for interacting
+  epithelial cell migration",,,,
+cond-mat/0208415,"Fractal noise maps reveal human brain activity: a key for unbiased fMRI
+  analysis",,,,
+cond-mat/0208447,Structural Determinant of Protein Designability,,,,
+cond-mat/0208557,Simulating Male Selfish Strategy in Reproduction Dispute,,,,
+cond-mat/0209035,"Short- and Long-Term Statistical Properties of Heartbeat Time-Series in
+  Healthy and Pathological Subjects",,,,
+cond-mat/0209038,"Real event detection and the treatment of congestive heart failure: an e
+  fficient technique to help cardiologists to make crucial decisions",,,,
+cond-mat/0209258,Associative Memory by Recurrent Neural Networks with Delay Elements,,,,
+cond-mat/0209408,"Survival-extinction phase transition in a bit-string population with
+  mutation",,,,
+cond-mat/0209452,Conductivity and Thickness of DNAs,,,,
+cond-mat/0209686,"Linear stability analysis of retrieval state in associative memory
+  neural networks of spiking neurons",,,,
+cond-mat/0210028,"Power-law temporal auto-correlations in day-long records of human
+  physical activity and their alteration with disease",,,,
+cond-mat/0210183,Stochastic Simulation of Gene Expression in a Single Cell,,,,
+cond-mat/0210184,"Resistance proof, folding-inhibitor drugs",,,,
+cond-mat/0210189,"Hydrophobic interaction in the liquid phases of globular protein
+  solutions: structure factor parameters",,,,
+cond-mat/0210500,Adaptation using hybridized genetic crossover strategies,,,,
+cond-mat/0211068,A Simple Chaotic Neuron Model : Stochastic Behavior of Neural Networks,,,,
+cond-mat/0211109,"Role of bulk and of interface contacts in the behaviour of model dimeric
+  proteins",,,,
+cond-mat/0211197,Oscillations and dynamics in a two-dimensional prey-predator system,,,,
+cond-mat/0211283,A new dimension to Turing patterns,,,,
+cond-mat/0211287,Critical dynamics of DNA denaturation,,,,
+cond-mat/0211348,Folding in lattice models with side chains,,,,
+cond-mat/0211428,"Mixed states in a sparsely encoded associative memory model storing
+  ultrametric patterns",,,,
+cond-mat/0211463,"Morphological Instability and Dynamics of Fronts in Bacterial Growth
+  Models with Nonlinear Diffusion",,,,
+cond-mat/0211503,"Impact of deviation from precise balance of spike-timing-dependent
+  plasticity",,,,
+cond-mat/0211505,"Liquid-liquid phase separation of a surfactant-solubilized membrane
+  protein",,,,
+cond-mat/0212064,The Social Behavior and the Evolution of Sexually Transmitted Diseases,,,,
+cond-mat/0212105,"Solvation Effects and Driving Forces for Protein Thermodynamic And
+  Kinetic Cooperativity: How Adequate Is Native-Centric Topological Modeling?",,,,
+cond-mat/0212174,"Conservation laws in biology and evolution, their singularities and bans",,,,
+cond-mat/0212175,DNA denaturation as a new kind of phase transition,,,,
+cond-mat/0212379,"Contact Pair Dynamics During Folding of a Model Globular Protein, Hp-36",,,,
+cond-mat/0212402,The evolutionary advantage of diploid sex,,,,
+cond-mat/0212440,DNA uptake into nuclei: Numerical and analytical results,,,,
+cond-mat/0212639,A possible mechanism for cold denaturation of proteins at high pressure,,,,
+cond-mat/0301034,Random Networks Growing Under a Diameter Constraint,,,,
+cond-mat/0301085,"Origin of Scaling Behavior of Protein Packing Density: A Sequential
+  Monte Carlo Study of Compact Long Chain Polymers",,,,
+cond-mat/0301144,Interactions between proteins bound to biomembranes,,,,
+cond-mat/0301145,On the formation of caveolae and similar membrane invaginations,,,,
+cond-mat/0301220,From polymers to proteins -- novel phases of short compact tubes,,,,
+cond-mat/0301306,"Buffed energy landscapes: Another solution to the kinetic paradoxes of
+  protein folding",,,,
+cond-mat/0301322,"Distribution of infected mass in disease spreading in scale-free
+  networks",,,,
+cond-mat/0301582,"Understanding the determinants of stability and folding of small
+  globular proteins from their energetics",,,,
+cond-mat/0302188,Chromatin dynamics: Nucleosomes go mobile through twist defects,,,,
+cond-mat/0302239,"Elastic interaction between ""hard'' or ""soft"" pointwise inclusions on
+  biological membranes",,,,
+cond-mat/0302447,Stochastic Modelling Approach to the Incubation Time of Prionic Diseases,,,,
+cond-mat/0303221,Biology helps you to win a game,,,,
+cond-mat/0303280,"Sex and recombination in the H\""otzel aging model",,,,
+cond-mat/0303596,Outbreaks of Hantavirus induced by seasonality,,,,
+cond-mat/0303604,"Mean first passage time analysis reveals rate-limiting steps, parallel
+  pathways and dead ends in a simple model of protein folding",,,,
+cond-mat/0304002,"Onset of DNA Aggregation in Presence of Monovalent and Multivalent
+  Counterions",,,,
+cond-mat/0304140,Nonuniform Donnan Equilibrium within Bacteriophages Packed with Dna,,,,
+cond-mat/0304326,Correlation matrix for quartet codon usage,,,,
+cond-mat/0304577,Universality and Shannon entropy of codon usage,,,,
+cond-mat/0305074,A chemically driven fluctuating ratchet model for actomyosin interaction,,,,
+cond-mat/0305115,A stochastic model for the stepwise motion in actomyosin dynamics,,,,
+cond-mat/0305354,Statics and Dynamics of Condensed DNA within Phages and Globules,,,,
+cond-mat/0305650,Biologically inspired learning in a layered neural net,,,,
+cond-mat/0305660,"Quantification of Sleep Fragmentation Through the Analysis of
+  Sleep-Stage Transitions",,,,
+cond-mat/0305677,"On ""Sexual contacts and epidemic thresholds,"" models and inference for
+  Sexual partnership distributions",,,,
+cond-mat/0306116,Focal adhesion: Physics of a Biological Mechano-Sensor,,,,
+cond-mat/0306476,Strand separation in negatively supercoiled dna,,,,
+cond-mat/0306494,Topological thermal instability and the length of proteins,,,,
+cond-mat/0306506,Folding of Proteins in Go Models with Angular Interactions,,,,
+cond-mat/0306539,"Correspondence between time-evolution dynamics of a tumor and an
+  attractively interacting Bose-Einstein Condensate with feeding and
+  dissipation",,,,
+cond-mat/0306543,An Analytical Approach to Neuronal Connectivity,,,,
+cond-mat/0306599,When translocation dynamics becomes anomalous,,,,
+cond-mat/0306626,"The internal states of active inclusions and the dynamics of an active
+  membrane",,,,
+cond-mat/0306636,"Sum rules for free energy and frequency distribution of DNA
+  dinucleotides",,,,
+cond-mat/0306738,Simple Models of Plant Learning and Memory,,,,
+cond-mat/0307006,"Energetics of Protein Thermodynamic Cooperativity: Contributions of
+  Local and Nonlocal Interactions",,,,
+cond-mat/0307567,Maximisation Principles and Daisyworld,,,,
+cond-mat/0307747,Towards the Understanding of Stability Puzzles in Phage lambda,,,,
+cond-mat/9303024,Prediction of Peptide Conformation by the Multicanonical Algorithm,,,,
+cond-mat/9304034,Solitons and 1/f Noise in Molecular Chains,,,,
+cond-mat/9402076,A Growth Model for Dna Evolution (submitted to Nature),,,,
+cond-mat/9402096,"Response Functions Improving Performance in Analog Attractor Neural
+  Networks",,,,
+cond-mat/9406071,Solvent-induced organization: A physical model of folding myoglobin,,,,
+cond-mat/9407107,Nonlinear Localized Excitations and the Dynamics of H-Bonds in DNA,,,,
+cond-mat/9407110,Protein-Machine model of a single enzymatic reaction,,,,
+cond-mat/9409074,Criticality in Simple Models of Evolution,,,,
+cond-mat/9411001,Self-organized Critical Model Of Biological Evolution,,,,
+cond-mat/9503100,Efficient Monte Carlo Simulation of Biological Aging,,,,
+cond-mat/9507093,Elasticity of Semiflexible Biopolymer Networks,,,,
+cond-mat/9508077,Effective Breather Trapping Mechanism for DNA Transcription,,,,
+cond-mat/9508092,Influence of Refractory Periods in the Hopfield model,,,,
+cond-mat/9508127,A New Algorithm for Protein Design,,,,
+cond-mat/9509020,"Self-Organized Criticality in the Model of Biological Evolution
+  Describing Interaction of ""Coenophilous"" and "" Coenophobous"" Species",,,,
+cond-mat/9510019,"On the kinks and dynamical phase transitions of alpha-helix protein
+  chains",,,,
+cond-mat/9510123,"How Accurate Must Potentials Be for Successful Modeling of Protein
+  Folding?",,,,
+cond-mat/9511052,"Dynamics of Random Networks: Connectivity and First Order Phase
+  Transitions",,,,
+cond-mat/9512058,"Phase diagram of a semiflexible polymer chain in a $\theta$ solvent:
+  application to protein folding",,,,
+cond-mat/9512176,"Multifractal Analysis of the Coupling Space of Feed-Forward Neural
+  Networks",,,,
+cond-mat/9601088,"Diffusion on a hypercubic lattice with pinning potential: exact results
+  for the error-catastrophe problem in biological evolution",,,,
+cond-mat/9601113,Democratic Reinforcement: Learning via Self-Organization,,,,
+cond-mat/9601120,Design of Proteins with Specified Thermal Properties,,,,
+cond-mat/9601135,Competing Patterns of Signaling Activity in Dictyostelium discoideum,,,,
+cond-mat/9602012,Mass Extinctions vs. Uniformitarianism in Biological Evolution,,,,
+cond-mat/9604110,Growth in systems of vesicles and membranes,,,,
+cond-mat/9604147,Is Heteropolymer Freezing Well Described by the Random Energy Model?,,,,
+cond-mat/9605022,Branching Processes and Evolution at the Ends of a Food Chain,,,,
+cond-mat/9605160,A Population Genetic Approach to the Quasispecies Model,,,,
+cond-mat/9606101,"Relationship Between Structural Fractal and Possible Dynamic Scaling
+  Properties in Protein Folding",,,,
+cond-mat/9606159,"Statistical mechanics of a correlated energy landscape model for protein
+  folding funnels",,,,
+cond-mat/9606191,"Theory of Kinetic Partitioning in Protein Folding (With Application to
+  Prions)",,,,
+cond-mat/9607024,"How to derive a protein folding potential? A new approach to the old
+  problem",,,,
+cond-mat/9607086,Entropic Sampling and Natural Selection in Biological Evolution,,,,
+cond-mat/9607174,Evolution on a smooth landscape,,,,
+cond-mat/9608014,Why DNA ?,,,,
+cond-mat/9608163,Electrostatics of Lipid Bilayer Bending,,,,
+cond-mat/9609044,"Solution of the Master Equation for Bak-Sneppen Model of Biological
+  Evolution in Finite Ecosystem",,,,
+cond-mat/9609062,Freezing Transition of Compact Polyampholytes,,,,
+cond-mat/9610070,Spontaneous Expulsion of Giant Lipid Vesicles Induced by Laser Tweezers,,,,
+cond-mat/9610072,Dynamically-Stabilized Pores in Bilayer Membranes,,,,
+cond-mat/9610105,Cooperativity and Stability in a Langevin Model of Protein Folding,,,,
+cond-mat/9611189,"Morphological Instabilities in a growing Yeast Colony: Experiment and
+  Theory",,,,
+cond-mat/9612081,Error threshold in the evolution of diploid organisms,,,,
+cond-mat/9612151,"Mapping vesicle shapes into the phase diagram: A comparison of
+  experiment and theory",,,,
+cond-mat/9612196,"Sensitivity to Initial Conditions and Nonextensivity in Biological
+  Evolution",,,,
+cond-mat/9702154,Gel-Electrophoresis and Diffusion of Ring-Shaped DNA,,,,
+cond-mat/9703089,Suggested Model for the Origin of Mosaic Structure of DNA,,,,
+cond-mat/9703197,"Theory for Characterization of Hippocampal Long-Term Potentiation
+  Induced by Time-Structured Stimuli",,,,
+cond-mat/9703212,Neuro-flow Dynamics and the Learning Processes,,,,
+cond-mat/9704067,"Kinetic Partitioning Mechanism as a Unifying Theme in the Folding of
+  Biomolecules",,,,
+cond-mat/9704098,Phase Transitions of Neural Networks,,,,
+cond-mat/9704158,Categorization by a three-state attractor neural network,,,,
+cond-mat/9704227,Quantitative analysis of a Schaffer collateral model,,,,
+cond-mat/9705182,Stochastic learning in a neural network with adapting synapses,,,,
+cond-mat/9705184,Folding and Misfolding of Designed Heteropolymer Chains with Mutations,,,,
+cond-mat/9705211,Recovery of Protein Structure from Contact Maps,,,,
+cond-mat/9705270,Neural Networks,,,,
+cond-mat/9706043,"An exact learning algorithm for autoassociative neural networks with
+  binary couplings",,,,
+cond-mat/9706112,"Time ordering in the evolution of information processing and modulation
+  systems",,,,
+cond-mat/9707178,Multifractal analysis of perceptron learning with errors,,,,
+cond-mat/9707259,"A coarse-grained, ``realistic'' model for Protein Folding",,,,
+cond-mat/9707346,Flexive and Propulsive Dynamics of Elastica at Low Reynolds Numbers,,,,
+cond-mat/9708107,New Measurements of DNA Twist Elasticity,,,,
+cond-mat/9708137,Testing the helix model for protein folding on four simple proteins,,,,
+cond-mat/9708214,The Modular Structure of Kauffman Networks,,,,
+cond-mat/9708223,How fast can fluids squeeze through micro-pores?,,,,
+cond-mat/9709078,Thermodynamic stability of folded proteins against mutations,,,,
+cond-mat/9709219,"Stability of the replica symmetric solution for the information conveyed
+  by by a neural network",,,,
+cond-mat/9709220,Phase-locking in weakly heterogeneous neuronal networks,,,,
+cond-mat/9709227,The topological structure of 2D disordered cellular systems,,,,
+cond-mat/9709330,A Configurational Bias Monte Carlo Method for Linear and Cyclic Peptides,,,,
+cond-mat/9710016,"Hard Spheres in Vesicles: Curvature-Induced Forces and Particle-Induced
+  Curvature",,,,
+cond-mat/9710028,Highly Designable Protein Structures and Inter Monomer Interactions,,,,
+cond-mat/9710131,"Kinetics, Hydrodynamics and Stochastodynamics of Cellular Structure
+  Coarsening",,,,
+cond-mat/9710248,"A simple ansatz to describe thermodynamic quantities of peptides and
+  proteins at low temperatures",,,,
+cond-mat/9710269,Dynamics of bilayer membranes. 1. Isolated membrane,,,,
+cond-mat/9710325,Stochastic Feedback and the Regulation of Biological Rhythms,,,,
+cond-mat/9711230,"Non-Markovian Configurational Diffusion and Reaction Coordinates for
+  Protein Folding",,,,
+cond-mat/9711278,Topological interactions in DNA catenanes,,,,
+cond-mat/9711291,Statistical mechanics of warm and cold unfolding in proteins,,,,
+cond-mat/9712004,Entropic Elasticity of Twist-Storing Polymers,,,,
+cond-mat/9712049,Sliding Columnar Phase of DNA-Lipid Complexes,,,,
+cond-mat/9801013,Elusive Unfoldability: Learning a Contact Potential to Fold Crambin,,,,
+cond-mat/9801026,Fixation in a cyclic Lotka-Volterra model,,,,
+cond-mat/9801069,Genetic Polymorphism in Evolving Population,,,,
+cond-mat/9801124,Critical aspects of hierarchical protein folding,,,,
+cond-mat/9801260,Effects of Noise in Symmetric Two-Species Competition,,,,
+cond-mat/9801261,Noise and Periodic Modulations in Neural Excitable Media,,,,
+cond-mat/9801273,Self-control in Sparsely Coded Networks,,,,
+cond-mat/9801284,Statics and dynamics of an Ashkin-Teller neural network with low loading,,,,
+cond-mat/9801312,Inference and Chaos by a Network of Non-monotonic Neurons,,,,
+cond-mat/9802225,"The Lack of Long Range Correlations is a Necessary Condition for a
+  Functional Biologically Active Protein",,,,
+cond-mat/9802269,"Folding, Design and Determination of Interaction Potentials Using
+  Off-Lattice Dynamics of Model Heteropolymers",,,,
+cond-mat/9803005,"Bending and Twisting Elasticity: a Revised Marko-Siggia Model on DNA
+  Chirality",,,,
+cond-mat/9803262,Protein Adsorption on Lipid Monolayers at their Coexistence Region,,,,
+cond-mat/9803264,Theory and Phenomenology of Mixed Amphiphilic Aggregates,,,,
+cond-mat/9803343,Mapping of mutation-sensitive sites in protein-like chains,,,,
+cond-mat/9803370,Non-Arrhenius modes in the relaxation of model proteins,,,,
+cond-mat/9804142,Folding and Aggregation of Designed Proteins,,,,
+cond-mat/9804165,Highly Symmetric Neural Networks of Hopfield Type (exact results),,,,
+cond-mat/9804199,Protein design: A perspective from simple tractable models,,,,
+cond-mat/9804243,"Cooperativity in Protein Folding: From Lattice Models with Side Chains
+  to Real Proteins",,,,
+cond-mat/9804273,STM Studies of Synthetic Peptide Monolayers,,,,
+cond-mat/9805034,Factors that Affect the Folding Ability of Proteins,,,,
+cond-mat/9805073,"Phase Diagram and Storage Capacity of Sequence Processing Neural
+  Networks",,,,
+cond-mat/9805135,"Retrieval dynamics of neural networks for sparsely coded sequential
+  patterns",,,,
+cond-mat/9805366,"Variational theory for site resolved protein folding free energy
+  surfaces",,,,
+cond-mat/9806128,Motor Proteins Have Highly Correlated Brownian Engines,,,,
+cond-mat/9806217,A Minimal Off-Lattice Model for Alpha-helical Proteins,,,,
+cond-mat/9806323,Testing a New Monte Carlo Strategy for Folding Model Proteins,,,,
+cond-mat/9807007,"Statistical Mechanics of Membrane Protein Conformation: A Homopolymer
+  Model",,,,
+cond-mat/9807089,Generic Modeling of Chemotactic Based Self-Wiring of Neural Networks,,,,
+cond-mat/9807101,"Attractor neural networks storing multiple space representations: a
+  model for hippocampal place fields",,,,
+cond-mat/9808154,A study of energy minimization techniques applied to protein design,,,,
+cond-mat/9808202,Fractal Analysis of Protein Potential Energy Landscapes,,,,
+cond-mat/9808281,Fractional Populations in Sex-linked Inheritance,,,,
+cond-mat/9808324,"Simple model of self-organized biological evolution as completely
+  integrable dissipative system",,,,
+cond-mat/9809143,"Analysis of a Population Genetics Model with Mutation, Selection, and
+  Pleiotropy",,,,
+cond-mat/9809164,A Self-Assembled Microlensing Rotational Probe,,,,
+cond-mat/9809185,Lubricating Bacteria Model for Branching growth of Bacterial Colonies,,,,
+cond-mat/9809196,The kinesin walk: a dynamic model with elastically coupled heads,,,,
+cond-mat/9809209,"Finite-size scaling of the error threshold transition in finite
+  population",,,,
+cond-mat/9809338,Immunization and Aging: a Learning Process in the Immune Network,,,,
+cond-mat/9809410,Stability of Designed Proteins Against Mutations,,,,
+cond-mat/9809415,"Design of Sequences with Good Folding Properties in Coarse-Grained
+  Protein Models",,,,
+cond-mat/9810021,Lattice-gas model for collective biological motion,,,,
+cond-mat/9810104,Stretching DNA: Role of electrostatic interaction,,,,
+cond-mat/9810132,"Bending and Base-Stacking Interactions in Double-Stranded Semiflexible
+  Polymer",,,,
+cond-mat/9810254,Optimally adapted multi-state neural networks trained with noise,,,,
+cond-mat/9810326,Realistic Models of Biological Motion,,,,
+cond-mat/9810340,Dynamic Properties of Random Heteropolymer with Correlations in Sequence,,,,
+cond-mat/9810397,The Folding Funnel Landscape of the Peptide Met-enkephalin,,,,
+cond-mat/9811244,A replica approach to the state-dependent synapses neural network,,,,
+cond-mat/9811247,Hydrodynamics of bacterial motion,,,,
+cond-mat/9811355,"Protein Foldability and Designability: General Physics and Pretty
+  Chemistry",,,,
+cond-mat/9812198,An Oscillator Neural Network Retrieving Sparsely Coded Phase Patterns,,,,
+cond-mat/9812238,"Mean-Field HP Model, Designability and Alpha-Helices in Protein
+  Structures",,,,
+cond-mat/9812361,Competing Species Dynamics: Qualitative Advantage versus Geography,,,,
+cond-mat/9901134,Collectivity in the Brain Sensory Response,,,,
+cond-mat/9901242,Modelling Molecular Motors as Folding-Unfolding Cycles,,,,
+cond-mat/9901264,Derivation of Hebb's rule,,,,
+cond-mat/9902011,Cortical Potential Distributions and Cognitive Information Processing,,,,
+cond-mat/9902033,Statistical properties of genealogical trees,,,,
+cond-mat/9902069,"Attractive forces between anisotropic inclusions in the membrane of a
+  vesicle",,,,
+cond-mat/9902135,Punctuated equilibrium in an evolving bacterial population,,,,
+cond-mat/9902227,Protein Design is a Key Factor for Subunit-subunit Association,,,,
+cond-mat/9903114,"Dynamical properties of a randomly diluted neural network with variable
+  activity",,,,
+cond-mat/9903310,A Hierarchical Approach to Protein Molecular Evolution,,,,
+cond-mat/9903365,Inclusions induced phase separation in mixed lipid film,,,,
+cond-mat/9904085,Synchronous clusters in a noisy inhibitory neural network,,,,
+cond-mat/9904278,"Fast global oscillations in networks of integrate-and-fire neurons with
+  low firing rates",,,,
+cond-mat/9904338,Coiling of Cylindrical Membrane Stacks with Anchored Polymers,,,,
+cond-mat/9904367,Modelling of spatio-temporal patterns in bacterial colonies,,,,
+cond-mat/9904421,Simple models of proteins with repulsive non-native contacts,,,,
+cond-mat/9904447,Complexation of DNA with Cationic Surfactant,,,,
+cond-mat/9905127,"Coexistence of native and denatured phases in a single protein-like
+  molecule",,,,
+cond-mat/9905329,Multifractality in Human Heartbeat Dynamics,,,,
+cond-mat/9905355,"Stretching Single Domain Proteins: Phase Diagram and Kinetics of
+  Force-Induced Unfolding",,,,
+cond-mat/9905357,A Model for the Thermodynamics of Globular Proteins,,,,
+cond-mat/9906181,"Simulation and Experimental Investigation of Cellular Material Breakage
+  Using the Pulsed Electric Field Treatment",,,,
+cond-mat/9906206,"Ocular dominance patterns in mammalian visual cortex: A wire length
+  minimization approach",,,,
+cond-mat/9906207,Optimal sizes of dendritic and axonal arbors in a topographic projection,,,,
+cond-mat/9906208,"Binocular disparity can explain the orientation of ocular dominance
+  stripes in primate V1",,,,
+cond-mat/9906232,"N-body Study of Anisotropic Membrane Inclusions: Membrane Mediated
+  Interactions and Ordered Aggregation",,,,
+cond-mat/9906234,Multiscale analysis of blood pressure signals,,,,
+cond-mat/9906352,"Capture on High Curvature Region: Aggregation of Colloidal Particle
+  Bound to Giant Phospholipid Vesicles",,,,
+cond-mat/9907208,Generic growth instabilities in one-layered tissue sheets,,,,
+cond-mat/9907432,Origin of Native Driving Force in Protein Folding,,,,
+cond-mat/9908079,"A History-Dependent Stochastic Predator-Prey Model : Chaos and its
+  Elimination",,,,
+cond-mat/9908148,Exact Solution of an Evolutionary Model without Ageing,,,,
+cond-mat/9909338,"Charge inversion in DNA-amphiphile complexes: Possible application to
+  gene therapy",,,,
+cond-mat/9910005,A novel iterative strategy for protein design,,,,
+cond-mat/9910095,Oscillatory behaviour in a lattice prey-predator system,,,,
+cond-mat/9910217,"Stable integration of isolated cell membrane patches in a nanomachined
+  aperture: a step towards a novel device for membrane physiology",,,,
+cond-mat/9910248,Emergence of stable and fast folding protein structures,,,,

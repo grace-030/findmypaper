@@ -1,0 +1,1387 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+q-bio/0702029,"Graph animals, subgraph sampling and motif search in large networks",2.489817500909067e-05,6.167478536544831e-07,6.0,1.0
+q-bio/0607009,Probability distribution of bubble lengths in DNA,2.0919753463784173e-05,0.0,2.0,0.0
+physics/0611251,"Realistic boundary conditions for stochastic simulations of
+  reaction-diffusion processes",1.6430265910378095e-05,0.0,5.0,1.0
+quant-ph/9907009,The importance of quantum decoherence in brain processes,1.438953358328472e-05,9.920160359714877e-06,16.0,9.0
+cond-mat/0602232,Low frequency limit for thermally activated escape with periodic driving,1.3598057420063996e-05,0.0,3.0,0.0
+physics/0205030,Thinking about the brain,1.34689317241518e-05,0.0,16.0,5.0
+physics/0603035,Simulations in statistical physics and biology: some applications,1.154778784901404e-05,0.0,10.0,1.0
+q-bio/0506019,"Hierarchy, Fractality, Small-World and Resilience of Haversian Bone
+  Structure: A Complex Network Study",1.1170658396830089e-05,0.0,4.0,0.0
+cond-mat/0701043,Random matrix analysis of complex networks,1.078339310859252e-05,0.0,2.0,1.0
+physics/0111108,Distances in plane membranes,1.0564562812898814e-05,3.306936015771812e-06,17.0,2.0
+physics/0509025,"Physics of Transport and Traffic Phenomena in Biology: from molecular
+  motors and cells to organisms",1.0538693111680735e-05,1.5872156351965602e-07,3.0,1.0
+physics/0609139,Single DNA conformations and biological function,9.700175958974429e-06,0.0,7.0,0.0
+physics/0211057,Hydration and mobility of HO-(aq),8.40540070395612e-06,0.0,4.0,3.0
+physics/0501118,"Natural entropy fluctuations discriminate similar looking electric
+  signals emitted from systems of different dynamics",8.302447049782907e-06,0.0,3.0,0.0
+physics/0003037,Crystalizing the genetic code,8.082271815887208e-06,0.0,6.0,5.0
+physics/0512206,Large amplitude of the internal motion of DNA immersed in bio-fluid,8.02483129404579e-06,0.0,5.0,0.0
+physics/9912012,Dynamic Fitness Landscapes in Molecular Evolution,7.821502457253823e-06,0.0,3.0,3.0
+q-bio/0612025,Single neuron computation: from dynamical system to feature detector,7.033021752602266e-06,0.0,1.0,0.0
+physics/0010045,Dynamic fitness landscapes: Expansions for small mutation rates,6.930536386555109e-06,0.0,3.0,0.0
+quant-ph/0007088,Quantum Brain?,6.8036903982389775e-06,4.132151175863526e-06,5.0,7.0
+q-bio/0604014,A composite model for DNA torsion dynamics,6.656727197300043e-06,0.0,2.0,2.0
+cond-mat/0502113,"Rugged Metropolis Sampling with Simultaneous Updating of Two Dynamical
+  Variables",6.609482223099967e-06,0.0,1.0,1.0
+cond-mat/0207212,Self-organization and Mechanical Properties of Active Filament Bundles,6.513256238826592e-06,0.0,2.0,1.0
+math-ph/0111006,"Wigner-Eckart Theorem in the crystal and the organisation of the genetic
+  code",6.291809208526281e-06,0.0,2.0,0.0
+physics/0004049,"Molecular Dynamics Studies of Sequence-directed Curvature in Bending
+  Locus of Trypanosome Kinetoplast DNA",6.156494723818392e-06,0.0,3.0,0.0
+cond-mat/0301619,Evolutionary Stability of Ecological Hierarchy,6.120590128688668e-06,0.0,1.0,0.0
+physics/0004039,Quasispecies evolution on a fitness landscape with a fluctuating peak,5.791267799676029e-06,0.0,2.0,2.0
+quant-ph/0110084,"From Davydov solitons to decoherence-free subspaces: self-consistent
+  propagation of coherent-product states",5.7170404237507866e-06,7.4260550565674335e-09,8.0,1.0
+physics/0207104,Representative Pathways of Excitation Migration in Photosystem I,5.655144290770314e-06,0.0,1.0,1.0
+physics/0207005,Reaction Pathways Based on the Gradient of the Mean First-Passage Time,5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0603697,Floppy modes and non-affine deformations in random fiber networks,5.655144290770314e-06,0.0,1.0,1.0
+physics/9912053,Effective interaction between helical bio-molecules,5.411975690850669e-06,0.0,5.0,0.0
+q-bio/0411009,"Growth-Driven Percolations: The Dynamics of Community Formation in
+  Neuronal Systems",5.135019324994562e-06,3.929466436913029e-06,3.0,2.0
+physics/0501099,"Euler buckling in red blood cells: An optically driven biological
+  micromotor",5.014592991626998e-06,0.0,1.0,0.0
+physics/0611095,Epidemic spreading and immunization with identical infectivity,4.8950650803987055e-06,0.0,1.0,0.0
+physics/0601145,"A Second Look at Canonical Sampling of Biomolecules using Replica
+  Exchange Simulation",4.863752581202303e-06,0.0,2.0,0.0
+cond-mat/9904153,"Energy Transduction of Isothermal Ratchets: Generic Aspects and Specific
+  Examples Close to and Far from Equilibrium",4.775563454392716e-06,0.0,3.0,1.0
+physics/9812016,Lifetimes of agents under external stress,4.775563454392716e-06,0.0,3.0,0.0
+cond-mat/0601165,Dynamical contribution into enzyme catalytic efficiency,4.761121651128886e-06,0.0,1.0,1.0
+physics/0305113,The hydration state of HO$^-$(aq),4.748468274335773e-06,0.0,3.0,1.0
+physics/9805029,Hierarchical noise in large systems of independent agents,4.717476312318796e-06,0.0,1.0,0.0
+physics/0610138,Immunization of Susceptible-Infected Model on Scale-Free networks,4.70465545608345e-06,1.990182755160072e-06,2.0,1.0
+cond-mat/0007409,Actively Contracting Bundles of Polar Filaments,4.667140897136778e-06,0.0,2.0,0.0
+astro-ph/9702026,"Reply to astro-ph/9612003 (""Comments on 'Biological Effects of Stellar
+  Collapse Neutrinos'"") and astro-ph/9612214 (""Volcanogenic Dark Matter and
+  Mass Extinctions"")",4.596730396424545e-06,0.0,5.0,0.0
+physics/0612076,"Electromagnetic shape resonances of a dielectric sphere and radiation of
+  portable telephones",4.497377155857017e-06,0.0,2.0,0.0
+cond-mat/0003511,"Elastic property of single double-stranded DNA molecules: Theoretical
+  study and comparison with experiments",4.376489566185219e-06,0.0,2.0,0.0
+math-ph/0102022,"A Mathematical Model Accounting for the Organisation in Multiplets of
+  the Genetic Code",4.18112933693616e-06,0.0,4.0,1.0
+physics/0212110,"Analyzing neural responses to natural signals: Maximally informative
+  dimensions",4.141668955701076e-06,0.0,5.0,2.0
+physics/0607020,"Phase separation of bacterial colonies in a limit of high degradation.
+  Analogy with Jupiter's great red spot",4.059271200469109e-06,1.990182755160072e-06,3.0,1.0
+physics/0208057,"Maximally informative dimensions: Analyzing neural responses to natural
+  signals",4.026447939590048e-06,0.0,4.0,0.0
+quant-ph/0101019,A review of Johnjoe McFadden's book ``Quantum Evolution'',3.969326201524303e-06,0.0,4.0,1.0
+physics/0212113,Computation in a single neuron: Hodgkin and Huxley revisited,3.882600579532245e-06,0.0,4.0,2.0
+physics/0604183,Interplay between function and structure in complex networks,3.820071535747693e-06,0.0,4.0,0.0
+q-bio/0408027,Analysis of evolution through competitive selection,3.813106013653212e-06,0.0,2.0,0.0
+cond-mat/0212055,Time-Dependent Random Walks and the Theory of Complex Adaptive Systems,3.781835593850283e-06,1.990182755160072e-06,8.0,3.0
+cond-mat/0307380,Helicase activity on DNA as a propagating front,3.761940723517022e-06,0.0,2.0,0.0
+physics/0601093,Resolution exchange simulation with incremental coarsening,3.642477345740537e-06,1.990182755160072e-06,3.0,1.0
+q-bio/0609040,Aging and Immortality in a Cell Proliferation Model,3.62335329328243e-06,0.0,2.0,0.0
+physics/0007050,Clustering and Signalling of Cell Receptors,3.62335329328243e-06,0.0,2.0,0.0
+physics/0102043,Statistical Approach to Gene Evolution,3.62335329328243e-06,0.0,2.0,0.0
+physics/0609109,"Self-Organized Formation of Retinotopic Projections Between Manifolds of
+  Different Geometries -- Part 3: Spherical Geometries",3.62335329328243e-06,0.0,2.0,0.0
+physics/0302103,Unbiased simulation of structural transitions in calmodulin,3.62335329328243e-06,0.0,2.0,0.0
+physics/0703222,"Demonstrated convergence of the equilibrium ensemble for a fast
+  united-residue protein model",3.62335329328243e-06,0.0,2.0,0.0
+cond-mat/9910162,Binding of molecules to DNA and other semiflexible polymers,3.6143509925799886e-06,0.0,3.0,1.0
+physics/0310158,"Inner Shell Definition and Absolute Hydration Free Energy of K+(aq) on
+  the Basis of Quasi-chemical Theory and Ab Initio Molecular Dynamics",3.5962581132254863e-06,0.0,1.0,0.0
+physics/0307017,"Free energy of liquid water on the basis of quasi-chemical theory and ab
+  initio molecular dynamics",3.5962581132254863e-06,0.0,1.0,2.0
+cond-mat/0107423,Single Molecule Statistics and the Polynucleotide Unzipping Transition,3.544734056389326e-06,0.0,4.0,8.0
+quant-ph/0103085,Darwinism in quantum systems?,3.507364633975921e-06,3.56939620245536e-06,4.0,6.0
+physics/0011020,Life in Silico - Simulation of Complex Systems by Enzymatic Computation,3.506921410250512e-06,0.0,2.0,0.0
+astro-ph/0606593,Asymmetric Spatiotemporal Evolution of Prebiotic Homochirality,3.49912997646896e-06,0.0,2.0,0.0
+cond-mat/0007400,"Renormalization Group Analysis of a Quivering String Model of Posture
+  Control",3.49912997646896e-06,0.0,2.0,0.0
+physics/9907042,Some Exact Results of Hopfield Neural Networks and Applications,3.405032110571601e-06,0.0,1.0,0.0
+physics/0310125,"Response of Autonomic Nervous System to Body Positions: Fourier and
+  Wavelet Analysis",3.3749066596554898e-06,0.0,1.0,0.0
+physics/0203045,The relation of morphology and affinity maturation in germinal centers,3.3749066596554898e-06,0.0,1.0,0.0
+physics/0302043,The R0 Approach to Epidemic-non-Epidemic Phases Revisited,3.2392832395790016e-06,0.0,3.0,0.0
+cond-mat/9908428,Reentrant Condensation of DNA induced by Multivalent Counterions,3.177852274883629e-06,0.0,3.0,2.0
+physics/0703022,"The influence of anesthetics, neurotransmitters and antibiotics on the
+  relaxation processes in lipid membranes",3.1564676950366884e-06,0.0,2.0,0.0
+cond-mat/0604356,"Bottleneck-induced transitions in a minimal model for intracellular
+  transport",3.1564676950366884e-06,0.0,2.0,0.0
+q-bio/0605040,Epidemic outbreaks on structured populations,3.1309699778075498e-06,0.0,2.0,0.0
+q-bio/0605001,"Spreading of infectious diseases on heterogeneous populations:
+  multi-type network approach",3.11120978073715e-06,1.990182755160072e-06,2.0,2.0
+physics/0004040,The Physical Origin of Intrinsic Bends in Double Helical DNA,3.111029474247907e-06,0.0,2.0,1.0
+physics/0602113,"Facilitated diffusion of DNA-binding proteins: Simulation of large
+  systems",3.105860482651132e-06,0.0,1.0,1.0
+cond-mat/0106359,RNA Folding and Large N Matrix Theory,3.056224916064305e-06,2.304603672545922e-05,2.0,5.0
+physics/9810035,"The Scaling Behaviour of Stochastic Minimization Algorithms in a Perfect
+  Funnel Landscape",3.0472482127272877e-06,0.0,2.0,0.0
+physics/0609184,Impact of non-Poisson activity patterns on spreading processes,3.0472482127272877e-06,0.0,2.0,0.0
+cond-mat/0512009,"Boundary-bulk interplay of molecular motor traffic flow through a
+  compartment",3.0472482127272877e-06,0.0,2.0,0.0
+physics/0301014,What causes a neuron to spike?,3.0445012460810084e-06,0.0,2.0,0.0
+physics/0205043,On the Kinematics of Protein Folding,3.035995336849235e-06,0.0,1.0,0.0
+quant-ph/0105001,Why Genetic Information Processing could have a Quantum Basis,2.9733268359828585e-06,0.0,5.0,4.0
+cond-mat/0701130,Universal Extremal Statistics in a Freely Expanding Jepsen Gas,2.9534056767508e-06,0.0,3.0,1.0
+physics/0605235,Clustering as a measure of the local topology of networks,2.931104322204516e-06,0.0,2.0,1.0
+physics/0504051,"Power-law rheology and mechano-sensing in a cytoskeleton model with
+  forced protein unfolding",2.923024895913817e-06,0.0,1.0,0.0
+physics/0307031,A Possible Mechanism of Biological Memories in terms of Quantum Fluids,2.875130123543238e-06,0.0,1.0,2.0
+physics/9705008,A Simple Model of Evolution with Variable System Size,2.855213185875573e-06,0.0,3.0,0.0
+physics/0212045,"Opening of DNA double strands by helicases. Active versus passive
+  opening",2.8460343500822632e-06,0.0,1.0,1.0
+physics/0609150,Epidemic spreading on heterogeneous networks with identical infectivity,2.845696044364726e-06,0.0,2.0,0.0
+cond-mat/0406736,On supercorrelated systems and phase space entrainment,2.780344524401344e-06,0.0,4.0,0.0
+q-bio/0411039,Emergence of Complex Dynamics in a Simple Model of Signaling Networks,2.77239764133326e-06,0.0,1.0,0.0
+physics/0608098,"Traffic of interacting ribosomes on mRNA during protein synthesis:
+  effects of chemo-mechanics of individual ribosomes",2.691038341266544e-06,0.0,1.0,0.0
+physics/0205087,"Spacetime differential elements and the distribution of bio-Hamiltonian
+  components",2.646628192510191e-06,0.0,5.0,1.0
+quant-ph/0202022,Mathematical Physics and Life,2.6369064079171844e-06,0.0,4.0,0.0
+physics/0009063,A minimum principle in mRNA editing ?,2.607192308477306e-06,0.0,2.0,0.0
+q-bio/0607018,A p-Adic Model of DNA Sequence and Genetic Code,2.607192308477306e-06,0.0,2.0,5.0
+cond-mat/0212518,Electrorotation in graded colloidal suspensions,2.5991664834066204e-06,0.0,2.0,1.0
+physics/0212095,On the writhe of non-closed curves,2.584113573107563e-06,0.0,1.0,2.0
+quant-ph/0503233,Classical and Quantum Contents of Solvable Game Theory on Hilbert Space,2.580374305475467e-06,5.940844045253947e-08,1.0,4.0
+physics/0602001,"Dynamics of polydisperse irreversible adsorption: a pharmacological
+  example",2.572874046642726e-06,5.970548265480216e-06,1.0,4.0
+physics/0302032,"Distance, dissimilarity index, and network community structure",2.565201628384005e-06,0.0,1.0,1.0
+cond-mat/0204612,"How the Quasispecies Evolution Depends on the Topology of the Genome
+  Space",2.5610162095279742e-06,0.0,4.0,0.0
+cond-mat/0504551,Clique percolation in random networks,2.5597388501564694e-06,0.0,3.0,0.0
+physics/0212001,Hierarchical population model with a carrying capacity distribution,2.493549687048268e-06,2.22781651697023e-08,2.0,1.0
+q-bio/0404037,How does the chromatin fiber deal with topological constraints?,2.4894346673033504e-06,0.0,1.0,0.0
+physics/9907028,A Minimal Model of B-DNA,2.4711431321721443e-06,0.0,1.0,3.0
+q-bio/0508020,"Glassy Dynamics in the Adaptive Immune Response Prevents Autoimmune
+  Disease",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/9803164,Brownian motion in fluctuating periodic potentials,2.4711431321721443e-06,0.0,1.0,0.0
+physics/9909004,Quasi-Chemical Theory and Implicit Solvent Models for Simulations,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0303600,Designability and Thermal Stability of Protein Structures,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0308163,Suppression of Ecological Competition by Apex Predator,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0304202,An Effective Membrane Model of the Immunological Synapse,2.4711431321721443e-06,0.0,1.0,1.0
+q-bio/0411026,Geometry of Axoneme-like Filament Bundles,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0703032,Dynamics of Microtubule Instabilities,2.4711431321721443e-06,0.0,1.0,0.0
+nlin/0511018,The Role of Redundancy in the Robustness of Random Boolean Networks,2.4711431321721443e-06,0.0,1.0,1.0
+physics/9806036,"Theories of Hydrophobic Effects and the Description of Free Volume in
+  Complex Liquids",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0203092,"Class of self-limiting growth models in the presence of nonlinear
+  diffusion",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0111291,"Folding of a Small Helical Protein Using Hydrogen Bonds and
+  Hydrophobicity Forces",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0108275,Anomalous Dynamics of Translocation,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0404018,"Active Brownian Particle and Random Walk Theories of the Motions of
+  Zooplankton: Application to Experiments with Swarms of Daphnia",2.4711431321721443e-06,0.0,1.0,2.0
+q-bio/0405017,Kinetic barriers in RNA unzipping,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0108011,Algorithm for Finding Optimal Gene Sets in Microarray Prediction,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0109381,The binding dynamics of tropomyosin on actin,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0101021,Adaptive evolution on neutral networks,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0107191,Crystallographic Method for Exact Describing Quasicrystal Structures,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0203088,Traveling waves of infection in the Hantavirus epidemics,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0505009,Scaling in Complex Systems: Analytical Theory of Charged Pores,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0211031,"Simplified amino acid alphabets based on deviation of conditional
+  probability from random background",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0508102,"Cross-Correlation of Instantaneous Phase Increments in Pressure-Flow
+  Fluctuations: Applications to Cerebral Autoregulation",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0601185,DNA entropic elasticity for short molecules attached to beads,2.4711431321721443e-06,0.0,2.0,3.0
+cond-mat/0610671,Effect of Anomalous Dynamics on Unbiased Polymer Translocation,2.4711431321721443e-06,0.0,1.0,2.0
+physics/0505001,A model for codon position bias in RNA editing,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0511026,Conformational changes in glycine tri- and hexapeptide,2.4711431321721443e-06,0.0,2.0,0.0
+physics/0511058,"Conditions for propagation and block of excitation in an asymptotic
+  model of atrial tissue",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0608220,Multiscale modelling of liquids with molecular specificity,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0608226,"A generic model for lipid monolayers, bilayers, and membranes",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0612101,"Investigating Diffusion Coefficient Using Dynamic Light Scattering
+  Technique",2.4711431321721443e-06,0.0,2.0,0.0
+physics/0612054,"Intra-cellular transport by single-headed kinesin KIF1A: effects of
+  single-motor mechano-chemistry and steric interactions",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0702094,Dynamical hysteresis in multisite protein modification,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0510146,"Facilitated diffusion of DNA-binding proteins: Efficient simulation with
+  the method of excess collisions (MEC)",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0511036,Ab initio study of alanine polypeptide chains twisting,2.4711431321721443e-06,0.0,2.0,0.0
+physics/0208100,Equilibrium correlations in a model for multidimensional epistasis,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0303121,"On physical nature of radiation regulating quantity of cells in
+  population",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0603142,"Brownian Motion after Einstein: Some new applications and new
+  experiments",2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0703033,"Complex population dynamics as a competition between multiple time-scale
+  phenomena",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0603001,"Fine-grained Delaunay triangulation in a simulation of tumor spheroid
+  growth",2.4711431321721443e-06,0.0,1.0,0.0
+physics/9701012,Hamiltonian Dynamics of Darwin Systems,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0703256,General multistate models for agents with internal bias,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0008016,Heart Rate Variability: Measures and Models,2.4711431321721443e-06,0.0,1.0,1.0
+physics/0302018,Kinetic and Dynamic Delaunay tetrahedralizations in three dimensions,2.4711431321721443e-06,0.0,1.0,1.0
+physics/9904028,Molecular Evolution in Time Dependent Environments,2.4711431321721443e-06,0.0,1.0,1.0
+cond-mat/0203008,Dielectric behaviors of corrugated membranes,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0203091,"Collective Properties of the Exactly Solvable Model of Ion-Channel
+  Assemblies in a Biological Cell Membrane",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0201033,"Finding regulatory sites from statistical analysis of nucleotide
+  frequencies in the upstream region of eukaryotic genes",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0204070,A Simple Model for the Evolution of Evolution,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0102009,Self-adaptive exploration in evolutionary search,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0406303,"Inter-filament Attractions Narrow the Length Distribution of Actin
+  Filaments",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0001066,The Genetic Code as a Periodic Table: Algebraic Aspects,2.46316603833852e-06,0.0,1.0,1.0
+q-bio/0412020,The Logic Backbone of a Transcription Network,2.429735359900988e-06,0.0,2.0,0.0
+cond-mat/0211029,"Solution effects and the order of the helix-coil transition in
+  polyalanine",2.392494120778517e-06,0.0,1.0,0.0
+physics/0702194,Traffic phenomena in biology: from molecular motors to organisms,2.3469198153586743e-06,0.0,1.0,0.0
+q-bio/0410035,Advantages of Hopping on a Zig-zag Course,2.3469198153586743e-06,0.0,1.0,0.0
+physics/0406068,Resonant light interaction with plasmonic nanowire systems,2.3469198153586743e-06,0.0,1.0,0.0
+cond-mat/9811225,Optimizing Smith-Waterman alignments,2.345632713337661e-06,0.0,1.0,0.0
+cond-mat/0302603,Localization of Denaturation Bubbles in Random DNA Sequences,2.338850175992856e-06,7.4260550565674335e-09,1.0,7.0
+cond-mat/9708101,"Speciation as Pattern Formation by Competition in a Smooth Fitness
+  Landscape",2.336218485559142e-06,0.0,3.0,2.0
+cond-mat/0201002,Self-Segregation vs. Clustering in the Evolutionary Minority Game,2.3161204905456384e-06,0.0,5.0,0.0
+q-bio/0404041,Fast DNA translocation through a solid-state nanopore,2.305512043087517e-06,0.0,1.0,0.0
+astro-ph/9805317,Anoxia duirng the Late Permian Binary Mass Extinction and Dark Matter,2.2960610328299915e-06,0.0,2.0,0.0
+physics/0308040,Application of Coarse Integration to Bacterial Chemotaxis,2.276508744003596e-06,0.0,3.0,3.0
+physics/0212114,"An information theoretic approach to the functional classification of
+  neurons",2.2407010999500875e-06,0.0,3.0,0.0
+q-bio/0411047,"Path integral formulation and Feynman rules for phylogenetic branching
+  models",2.219301452820475e-06,2.239382109191938e-06,1.0,1.0
+cond-mat/0301372,Simulation and analysis of in vitro DNA evolution,2.2060433116964646e-06,0.0,2.0,1.0
+cond-mat/0401444,"Spin-boson models for quantum decoherence of electronic excitations of
+  biomolecules and quantum dots in a solvent",2.150523344497096e-06,0.0,1.0,4.0
+nlin/0306023,"Punctuated equilibria and 1/f noise in a biological coevolution model
+  with individual-based dynamics",2.144323213400125e-06,0.0,2.0,3.0
+physics/0306063,"Entropy and information in neural spike trains: Progress on the sampling
+  problem",2.1254800838390582e-06,0.0,2.0,1.0
+physics/0604083,"Behaviors of susceptible-infected epidemics on scale-free networks with
+  identical infectivity",2.120978933487838e-06,0.0,1.0,3.0
+physics/9806032,Wavelet Analysis of Blood Pressure Waves in Vasovagal Syncope,2.117351529821976e-06,0.0,1.0,0.0
+q-bio/0311039,Hierarchical Clustering Based on Mutual Information,2.0996441857736717e-06,0.0,2.0,5.0
+physics/0509242,"Mathematical methods of factorization and a feedback approach for
+  biological systems",2.094498535193777e-06,0.0,2.0,0.0
+q-bio/0605020,Laws in Darwinian Evolutionary Theory,2.087073078468716e-06,0.0,2.0,0.0
+cond-mat/0306271,"Electrokinetic behavior of two touching inhomogeneous biological cells
+  and colloidal particles: Effects of multipolar interactions",2.0732704877116634e-06,0.0,2.0,0.0
+quant-ph/0106123,Genetic information and quantum gas,2.070770872770521e-06,0.0,2.0,0.0
+cond-mat/9911386,Asymmetric exclusion process and extremal statistics of random sequences,2.0181586372094664e-06,1.990182755160072e-06,2.0,1.0
+physics/0607267,Entropic elasticity of DNA with a permanent kink,2.004257533926402e-06,0.0,1.0,0.0
+physics/0002010,A-Tract Induced DNA Bending is A Local Non-Electrostatic Effect,2.004257533926402e-06,0.0,1.0,2.0
+cond-mat/0010132,Unzipping DNA : A hypothesis on correlation during replication,1.988435621138544e-06,0.0,3.0,7.0
+cond-mat/0111359,Realistic modellization for the growth of a yeast colony,1.9877793357183173e-06,0.0,1.0,0.0
+astro-ph/0505472,"Gamma-Ray Bursts and the Earth: Exploration of Atmospheric, Biological,
+  Climatic and Biogeochemical Effects",1.9428198551632724e-06,0.0,2.0,0.0
+quant-ph/0102034,Testing Quantum Dynamics in Genetic Information Processing,1.9409765640077197e-06,0.0,4.0,2.0
+physics/0011006,"Spherical harmonic decomposition applied to spatial-temporal analysis of
+  human high-density EEG",1.915415597794137e-06,0.0,1.0,0.0
+cond-mat/0012390,Characterization of Sleep Stages by Correlations of Heartbeat Increments,1.8976784453937103e-06,0.0,2.0,0.0
+cond-mat/0409003,Exact theory of kinkable elastic polymers,1.8950380516170012e-06,0.0,1.0,3.0
+physics/0407083,"Structural Effects of Small Molecules on Phospholipid Bilayers
+  Investigated by Molecular Simulations",1.8950380516170012e-06,0.0,1.0,0.0
+physics/0306177,Noise in an insect outbreak model,1.8950380516170012e-06,0.0,1.0,0.0
+physics/0306178,Noise in Genotype Selection Model,1.8950380516170012e-06,0.0,1.0,0.0
+physics/0406051,"Effects of T2 Relaxation and Diffusion on Longitudinal Magnetization
+  State and Signal Build for HOMOGENIZED Cross Peaks",1.8950380516170012e-06,0.0,1.0,0.0
+physics/0211006,"Stability of charge inversion, Thomson problem and application to
+  electrophoresis",1.8950380516170012e-06,0.0,1.0,1.0
+physics/0602173,"Interplay between HIV/AIDS Epidemics and Demographic Structures Based on
+  Sexual Contact Networks",1.8950380516170012e-06,0.0,1.0,2.0
+q-bio/0507040,"Effects of correlated interactions in a biological coevolution model
+  with individual-based dynamics",1.8950380516170012e-06,0.0,1.0,1.0
+q-bio/0610014,Stochastic effects on biodiversity in cyclic coevolutionary dynamics,1.8950380516170012e-06,0.0,1.0,0.0
+q-bio/0702043,"Spatial Constraint Corrections to the Elasticity of dsDNA Measured with
+  Magnetic Tweezers",1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/0112288,Metastable Intermediates in the Condensation of Semiflexible Polymers,1.8950380516170012e-06,0.0,1.0,0.0
+physics/0208089,Dynamical Monte Carlo method for stochastic epidemic models,1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/9905438,Chaos in neural networks with a nonmonotonic transfer function,1.8950380516170012e-06,0.0,1.0,0.0
+physics/0303120,"Analytical study of the effect of recombination on evolution via DNA
+  shuffling",1.8688318635532767e-06,0.0,1.0,0.0
+quant-ph/0007100,Evolutionarily Stable Strategies in Quantum Games,1.867404941636027e-06,1.9827567001035044e-06,5.0,7.0
+q-bio/0608009,Does mobility decrease cooperation?,1.8624315919348735e-06,0.0,1.0,0.0
+astro-ph/9910192,"First Characterization of the Ultra-Shielded Chamber in the Low-noise
+  Underground Laboratory (LSBB) of Rustrel Pays d'Apt",1.8536302793458448e-06,0.0,1.0,1.0
+cond-mat/9712081,Optimal Detection of Sequence Similarity by Local Alignment,1.8416565862532e-06,0.0,1.0,4.0
+quant-ph/0103017,Carbon--The First Frontier of Information Processing,1.8112335669455085e-06,0.0,3.0,5.0
+cond-mat/0211415,Functionals linear in curvature and statistics of helical proteins,1.803421194485659e-06,0.0,1.0,1.0
+q-bio/0408018,"5,6-dihydroxyindole-2-carboxylic acid (DHICA): a First Principles
+  Density-Functional Study",1.7912133782471866e-06,0.0,1.0,0.0
+physics/0106071,Mechanical oscillations at the cellular scale,1.7337585430319004e-06,0.0,2.0,0.0
+physics/9802023,Scaling Laws and Similarity Detection in Sequence Alignment with Gaps,1.7298040892779342e-06,0.0,1.0,3.0
+quant-ph/0006066,"The dissipative quantum model of brain: how do memory localize in
+  correlated neuronal domains",1.713183406215969e-06,0.0,1.0,4.0
+physics/0206031,Process Pathway Inference via Time Series Analysis,1.703003024765287e-06,0.0,1.0,0.0
+physics/0205031,"A study of accuracy and precision in oligonucleotide arrays: extracting
+  more signal at large concentrations",1.703003024765287e-06,0.0,1.0,0.0
+physics/0309117,"Prediction and statistics of pseudoknots in RNA structures using exactly
+  clustered stochastic simulations",1.703003024765287e-06,0.0,1.0,0.0
+physics/0610147,The thermodynamics of general anesthesia,1.703003024765287e-06,0.0,1.0,0.0
+astro-ph/9612003,Comments on Biological Effects of Stellar Collapse Neutrinos,1.703003024765287e-06,0.0,1.0,1.0
+cond-mat/0501116,"Direct observation of large temperature fluctuations during DNA thermal
+  denaturation",1.703003024765287e-06,0.0,1.0,0.0
+cond-mat/0312098,Polyelectrolytes Adsorption: Chemical and Electrostatic Interactions,1.703003024765287e-06,0.0,1.0,0.0
+physics/0111199,DNA hybridization to mismatched templates: a chip study,1.703003024765287e-06,0.0,1.0,0.0
+physics/0610117,"On the action potential as a propagating density pulse and the role of
+  anesthetics",1.703003024765287e-06,0.0,1.0,1.0
+physics/0004009,Coupled Two-Way Clustering Analysis of Gene Microarray Data,1.703003024765287e-06,0.0,1.0,1.0
+physics/0512077,"Comment on ""Can one predict DNA Transcription Start Sites by Studying
+  Bubbles?""",1.703003024765287e-06,0.0,1.0,1.0
+q-bio/0601048,Taxis Equations for Amoeboid Cells,1.703003024765287e-06,0.0,1.0,1.0
+cond-mat/0503027,"Transport in one dimensional Coulomb gases: From ion channels to
+  nanopores",1.6806766581025326e-06,0.0,1.0,5.0
+adap-org/9803001,"Large-scale evolution and extinction in a hierarchically structured
+  environment",1.6746845216801955e-06,0.0,2.0,0.0
+q-bio/0412042,The complex channel networks of bone structure,1.6533601125823191e-06,0.0,1.0,1.0
+quant-ph/0306158,Information Processing beyond Quantum Computation,1.640779631657619e-06,0.0,1.0,0.0
+cond-mat/0207345,Gene networks from DNA microarray data: centrality and lethality,1.6361791823990817e-06,3.2637511973613865e-06,2.0,2.0
+physics/9610017,Note on the dynamic instability of microtubules,1.6259224231493676e-06,0.0,1.0,0.0
+cond-mat/0609494,Violation of the fluctuation-dissipation theorem in a protein system,1.6236198199475067e-06,0.0,1.0,0.0
+q-bio/0508010,First passage times and asymmetry of DNA translocation,1.6173655559692317e-06,0.0,1.0,0.0
+cond-mat/0208552,Selective advantage of topological disorder in biological evolution,1.6106728460629577e-06,0.0,2.0,0.0
+cond-mat/0609378,"Single-molecule experiments in biological physics: methods and
+  applications",1.607833726890716e-06,0.0,2.0,0.0
+physics/0609172,Evolving networks through deletion and duplication,1.60698551133943e-06,0.0,1.0,0.0
+q-bio/0411030,Statistical Mechanics Characterization of Neuronal Mosaics,1.60698551133943e-06,0.0,1.0,2.0
+physics/0406058,"Generic theory of active polar gels: a paradigm for cytoskeletal
+  dynamics",1.60698551133943e-06,0.0,1.0,1.0
+astro-ph/9805142,Double Mass Extinctions and the Volcanogenic Dark Matter Scenario,1.60698551133943e-06,0.0,1.0,2.0
+q-bio/0403028,Base sequence dependent sliding of proteins on DNA,1.60698551133943e-06,0.0,1.0,0.0
+physics/0504061,The Reversible Phase Transition of DNA-Linked Colloidal Gold Assemblies,1.60698551133943e-06,0.0,1.0,0.0
+cond-mat/0403752,"Complete Phase Diagram of DNA Unzipping: Eye, Y-fork and triple point",1.5874126399255546e-06,0.0,1.0,1.0
+cond-mat/0205254,Helicase on DNA: A Phase coexistence based mechanism,1.5874126399255546e-06,0.0,1.0,1.0
+cond-mat/0101149,"Elastically-Driven Linker Aggregation between Two Semi-Flexible
+  Polyelectrolytes",1.5862816252038515e-06,0.0,1.0,0.0
+quant-ph/0002076,"Fast Quantum Search Algorithms in Protein Sequence Comparison - Quantum
+  Biocomputing",1.572482250986432e-06,0.0,2.0,2.0
+cond-mat/0411188,"Nonlinear structures and thermodynamic instabilities in a
+  one-dimensional lattice system",1.5493750032839157e-06,0.0,1.0,0.0
+physics/0005018,Optimal Mutation Rates on Static Fitness Landscpes,1.5493750032839157e-06,0.0,1.0,0.0
+physics/0103034,Designer Gene Networks: Towards Fundamental Cellular Control,1.5493750032839157e-06,0.0,1.0,0.0
+q-bio/0401036,Homochiral growth through enantiomeric cross-inhibition,1.5493750032839157e-06,0.0,1.0,4.0
+physics/0109064,"Alteration of Chemical Concentrations through Discreteness-Induced
+  Transitions in Small Autocatalytic Systems",1.5493750032839157e-06,0.0,1.0,0.0
+physics/9611022,Information physics: From energy to codes,1.5395345165557325e-06,0.0,1.0,0.0
+physics/9708026,"Neutral Mutations and Punctuated Equilibrium in Evolving Genetic
+  Networks",1.5109679979135728e-06,0.0,1.0,1.0
+cond-mat/0002175,"Temporal correlations versus noise in the correlation matrix formalism:
+  an example of the brain auditory response",1.4835344226490424e-06,0.0,1.0,0.0
+cond-mat/0204117,Dynamics of Competitive Evolution on a Smooth Landscape,1.4826494948284814e-06,0.0,1.0,2.0
+cond-mat/9709247,Error threshold in finite populations,1.4826494948284814e-06,0.0,1.0,0.0
+physics/0201027,"Spike timing and the coding of naturalistic sounds in a central auditory
+  area of songbirds",1.4629592412006444e-06,0.0,1.0,0.0
+physics/9812041,Symmetry and Codon Usage Correlations in the Genetic Code,1.4629592412006444e-06,0.0,1.0,1.0
+cond-mat/0004423,Pulling Pinned Polymers and Unzipping DNA,1.4526072981328553e-06,0.0,1.0,1.0
+physics/0308091,Symmetry Scheme for Amino Acid Codons,1.4499921809450502e-06,0.0,1.0,0.0
+cond-mat/9702134,Competition in a Fitness Landscape,1.446956322296335e-06,0.0,1.0,4.0
+physics/0109036,Species Orthogonalization,1.446956322296335e-06,0.0,1.0,0.0
+cond-mat/0405502,"Dielectric behaviour of graded spherical cells with an intrinsic
+  dispersion",1.446956322296335e-06,0.0,1.0,0.0
+physics/0501133,Autonomous free-energy transducer working under thermal fluctuations,1.4457060027543292e-06,0.0,1.0,0.0
+quant-ph/0204021,"QED-Cavity model of microtubules implies dissipationless energy transfer
+  and biological quantum teleportation",1.4399678135889064e-06,0.0,1.0,3.0
+cond-mat/0508623,Extremal dynamics on complex networks: Analytic solutions,1.4149504844877158e-06,0.0,1.0,2.0
+cond-mat/0202076,"Anomalous relaxation kinetics of biological lattice-ligand binding
+  models",1.3713061602032352e-06,0.0,1.0,0.0
+quant-ph/0002014,"Formation and life-time of memory domains in the dissipative quantum
+  model of brain",1.3517275050181357e-06,0.0,1.0,3.0
+quant-ph/0002037,Quantum Algorithms and the Genetic Code,1.351174941359052e-06,0.0,2.0,9.0
+physics/0103042,Information transport by sine-Gordon solitons in microtubules,1.3206739599156945e-06,0.0,1.0,0.0
+physics/0507105,Lancret helices,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0311012,Transverse fluctuations of grafted polymers,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0504030,Modeling of negative autoregulated genetic networks in single cells,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0607457,"Randomness enhances cooperation: a resonance type phenomenon in
+  evolutionary games",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0209098,"Rapid Determination of Multiple Reaction Pathways in Molecular Systems:
+  The Soft-Ratcheting Algorithm",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0108357,Sidechain Dynamics and Protein Folding,1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9809001,The Evolutionary Design of Collective Computation in Cellular Automata,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0107210,"Statistical mechanics of secondary structures formed by random RNA
+  sequences",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9712132,"Threshold Noise as a Source of Volatility in Random Synchronous
+  Asymmetric Neural Networks",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0108285,Relaxation kinetics of biological dimer adsorption models,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0106029,Glass transition in secondary structures formed by random RNA sequences,1.3189329710618589e-06,0.0,0.0,2.0
+physics/9902061,"Statistical properties of spike trains: universal and stimulus-dependent
+  aspects",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0402100,"Phase shifts of synchronized oscillators and the systolic/diastolic
+  blood pressure relation",1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9805001,Statistics of extinction and survival in Lotka-Volterra systems,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9801026,Universal Statistical Behavior of Neural Spike Trains,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0005043,Universality and individuality in a neural code,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0410033,Brownian motors,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0209103,Zipf's Law in Gene Expression,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0001028,Protein Folding Simulations in a Deformed Energy Landscape,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0507056,Facilitated diffusion of DNA-binding proteins,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9810052,Stochastic dynamics simulations in a new generalized ensemble,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9803014,"Charge Deficiency, Charge Transport and Comparison of Dimensions",1.3189329710618589e-06,0.0,0.0,1.0
+astro-ph/0012399,"An Estimate of the Age Distribution of Terrestrial Planets in the
+  Universe: Quantifying Metallicity as a Selection Effect",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0007034,"Theoretical prevision of physical chemical properties of amino acids
+  from genetic code",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0311483,Phase-Transition in Binary Sequences with Long-Range Correlations,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0607259,"Solutions of the Haeussler-von der Malsburg Equations in Manifolds with
+  Constant Curvatures",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0607253,"Synergetic Analysis of the Haeussler-von der Malsburg Equations for
+  Manifolds of Arbitrary Geometry",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0410171,"Diversity-induced synchronized oscillations in close-to-threshold
+  excitable elements arranged on regular networks: effects of network topology",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0102021,Codon Distributions in DNA,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0204562,"Order-disorder transition in the Chialvo-Bak `minibrain' controlled by
+  network geometry",1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0208104,Quantum mechanics and free will: counter-arguments,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0601057,Comparison and validation of community structures in complex networks,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0302041,The Predictive Power of R0 in an Epidemic Probabilistic System,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9808011,A Rational Approach to Ring Flexibility in Internal Coordinate Dynamics,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0402091,Symmetry-breaking in chiral polymerisation,1.3189329710618589e-06,0.0,0.0,5.0
+cond-mat/0004487,Order of the phase transition in models of DNA thermal denaturation,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0202432,"Mutation-Selection Balance: Ancestry, Load, and Maximum Principle",1.3189329710618589e-06,0.0,0.0,5.0
+cond-mat/0101426,Strategies for the evolution of sex,1.3189329710618589e-06,0.0,0.0,4.0
+nlin/0106028,Introduction to Spin and Lattice Models in the Social Sciences,1.3189329710618589e-06,0.0,0.0,5.0
+physics/0007017,"Equations for Stochastic Macromolecular Mechanics of Single Proteins:
+  Equilibrium Fluctuations, Transient Kinetics and Nonequilibrium Steady-State",1.3189329710618589e-06,0.0,0.0,4.0
+physics/9902067,Symbols and synergy in a neural code,1.3189329710618589e-06,0.0,0.0,8.0
+physics/0004042,Optimal Mutation Rates in Dynamic Environments,1.3189329710618589e-06,0.0,0.0,5.0
+physics/0309063,Probing complex RNA structures by mechanical force,1.3189329710618589e-06,0.0,0.0,3.0
+physics/0401159,An analytical analysis of vesicle tumbling under a shear flow,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0305577,Phase field approach for modeling intracellular dynamics,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0006050,Shuffling Yeast Gene Expression Data,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0006055,Evolution: The Case of the Glyceraldehyde-3-Phosphate Dehydrogenase Gene,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9908129,"Can pulling cause right- to left-handed structural transitions in
+  negatively supercoiled DNA double-helix?",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0312315,"Adsorption Transition of a Polyelectrolyte on a High-dielectric Charged
+  Substrate",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0004044,Contraction of a Bundle of Actin Filaments: 50 years after Szent-Gyorgyi,1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/0207711,"Structure and evolution of protein interaction networks: A statistical
+  model for link dynamics and gene duplications",1.3189329710618589e-06,0.0,0.0,7.0
+physics/0505179,"An equation-free computational approach for extracting population-level
+  behavior from individual-based models of biological dispersal",1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/0401348,Method for Computing Protein Binding Affinity,1.3189329710618589e-06,0.0,0.0,3.0
+physics/0207110,A steepest descent calculation of RNA pseudoknots,1.3189329710618589e-06,0.0,0.0,4.0
+nlin/0303010,Flicker Noise in a Model of Coevolving Biological Populations,1.3189329710618589e-06,0.0,0.0,5.0
+physics/0603037,"Calibration of optical tweezers with positional detection in the
+  back-focal-plane",1.3189329710618589e-06,0.0,0.0,1.0
+physics/9712025,Do Topological Charge Solitons Participate in DNA Activity?,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9802043,"First experimental tests of the Peyrard-Bishop model applied to the
+  melting of very short DNAs",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0207079,Hamiltonian model for multidimensional epistasis,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0206055,Graph-driven features extraction from microarray data,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9807001,Hydrophobic Effects on a Molecular Scale,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0505337,"Application of a two-length scale field theory to the solvation of
+  charged molecules: I. Hydrophobic effect revisited",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0402065,"Efficient use of non-equilibrium measurement to estimate free energy
+  differences for molecular systems",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0005365,Magnitude and Sign Correlations in Heartbeat Fluctuations,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0409032,Intensity Coding in Two-Dimensional Excitable Neural Networks,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0510005,Chaotic desynchronization of multi-strain diseases,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0410490,"Introduction to Markov Chain Monte Carlo Simulations and their
+  Statistical Analysis",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0103360,"Statistical Mechanics of Canonical-Dissipative Systems and Applications
+  to Swarm Dynamics",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0206056,Cluster Analysis of Gene Expression Data,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0006015,"The Architecture of Idiotypic Networks: Percolation and Scaling
+  Behaviour",1.3189329710618589e-06,0.0,0.0,1.0
+physics/9910045,A biological junction with quantum-like characteristics,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0001195,"Glass Transition Temperature and Fractal Dimension of Protein Free
+  Energy Landscapes",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0108016,"Self-organizing Approach for Automated Gene Identification in Whole
+  Genomes",1.3189329710618589e-06,0.0,0.0,1.0
+physics/9906007,Models for energy and charge transport and storage in biomolecules,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0304060,Nonlinear elastodynamics and energy transport in biopolymers,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9803019,Master equation approach to protein folding and kinetic traps,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0009089,Cell Microtubules as Cavities: Quantum Coherence and Energy Transfer?,1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/9904034,"On separable Fokker-Planck equations with a constant diagonal diffusion
+  matrix",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0209099,"Probability of fixation of an advantageous mutant in a viral
+  quasispecies",1.3189329710618589e-06,0.0,0.0,1.0
+physics/9901052,Cooperative Model of Bacterial Sensing,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9901053,Adaptive Ising Model and Bacterial Chemotactic Receptor Network,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0007023,What can biology bestow to quantum mechanics?,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9806046,Statistics of Certain Models of Evolution,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0405068,Homochirality proliferation in space,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9910006,Theory of Coherent and Incoherent Nuclear Spin-Dephasing in the Heart,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0302037,Long range interaction yields a new kind of phase transition,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0304301,SIS epidemics with household structure: the self-consistent field method,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9709083,Are Protein Folds Atypical?,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0202035,Spatio-temporal patterns in the Hantavirus infection,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0111187,Ion channel gating: a first passage time analysis of the Kramers type,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0212074,"Using nonlocal electrostatics for solvation free energy computations:
+  ions and small molecules",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0212032,The bend stiffness of S-DNA,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0301012,A model of population dynamics - further investigations,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0111002,Phase Transition of DNA-Linked Gold Nanoparticle,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0301055,Fractal Rigidity in Migraine,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0301072,Autoregulation of the total number of cells in culture,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0106074,Entropic Approach for Reduction of Amino Acid Alphabets,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0104029,How Many Genes Are Needed for a Discriminant Microarray Data Analysis ?,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0609295,"Biological and synthetic membranes: What can be learned from a
+  coarse-grained description?",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0304108,"Analytical description of finite size effects for RNA secondary
+  structures",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9711055,Noise induced transport at zero temperature,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0305351,Altruistic Duality in Evolutionary Game Theory,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9707008,"Common Molecular Dynamics Algorithms Revisited: Accuracy and Optimal
+  Time Steps of Stoermer-Leapfrog Integrators",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0505051,"Min-protein oscillations in Escherichia coli with spontaneous formation
+  of two-stranded filaments in a three-dimensional stochastic
+  reaction-diffusion model",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0309674,Polymer Induced Bundling of F-actin and the Depletion Force,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0409034,"Exons, introns and DNA thermodynamics",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0504081,"Quantification of the differences between quenched and annealed
+  averaging for RNA secondary structures",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0508032,Self-Sustained Thought Processes in a Dense Associative Network,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0608146,"Structure of symmetric and asymmetric ""ripple"" phases in lipid bilayers",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0609227,Dynamics of allosteric action in multisite protein modification,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0407018,Tumor Gompertzian growth by cellular energetic balance,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0307295,Nonequilibrium statistical mechanics of swarms of driven particles,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0306517,Folding Mechanism of Small Proteins,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9702011,"Interpretation of a low-lying excited state of the reaction center of
+  Rb.sphaeroides as a double triplet",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0402005,"Kinetics of protein-DNA interaction: facilitated target location in
+  sequence-dependent potential",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9807088,"Studies of Bacterial Branching Growth using Reaction-Diffusion Models
+  for Colonial Development",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0310009,Quantum circa-rhythms,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0211606,"Self-Organization, Active Brownian Dynamics, and Biological Applications",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0210093,"A model of memory, learning and recognition",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9903005,"Energy Absorption and Storage in a Hamiltonian System in Partial Contact
+  with a Heat Bath",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0107547,Electrorotation of a pair of spherical particles,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0104028,"Zipf's Law in Importance of Genes for Cancer Classification Using
+  Microarray Data",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9903364,Conformations of closed DNA,1.3189329710618589e-06,0.0,0.0,3.0
+math-ph/0503012,Geometry of Calugareanu's theorem,1.3189329710618589e-06,0.0,0.0,3.0
+physics/9902021,Collective motion of organisms in three dimensions,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0210703,"Membrane bound protein diffusion viewed by fluorescence recovery after
+  bleaching experiments : models analysis",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0209620,Statistical mechanics of RNA folding: importance of alphabet size,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0512018,Collective dynamics of molecular motors pulling on fluid membranes,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0006026,The hydration number of Na+ in liquid water,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0310062,Model reconstruction of nonlinear dynamical systems driven by noise,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0509577,Passage Times for Unbiased Polymer Translocation through a Narrow Pore,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0007055,Interaction between directional epistasis and average mutational effects,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0309026,Dynamics of Immobilized Flagella,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0703001,Dynamics of Microtubule Growth and Catastrophe,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0009002,"Statistically Significant Strings are Related to Regulatory Elements in
+  the Promoter Regions of Saccharomyces cerevisiae",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0307109,"Scaled-Particle Theory and the Length-scales Involved in Hydrophobic
+  Hydration of Aqueous Biomolecular Assemblies",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0307076,Protein secondary structure prediction based on quintuplets,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0605042,"Coexistence versus extinction in the stochastic cyclic Lotka-Volterra
+  model",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9610209,A nonequilibrium equality for free energy differences,1.3189329710618589e-06,0.0,0.0,4.0
+physics/0310102,Helical filaments with varying cross section radius,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9806313,Master equation approach to protein folding,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9908022,Density functional calculations of planar DNA base-pairs,1.3189329710618589e-06,0.0,0.0,3.0
+patt-sol/9808009,Two boundary model for freezing front propagation in biological tissue,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0102024,On the Compatibility Between Physics and Intelligent Organisms,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0112029,DNA Sequence Evolution with Neighbor-Dependent Mutation,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0601104,Ensemble based convergence assessment of biomolecular trajectories,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0302005,Quantum Zeno Features of Bistable Perception,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0211055,Dielectrophoresis of charged colloidal suspensions,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0108237,Molecular theory of hydrophobic mismatch between lipids and peptides,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0401016,"Extinction times for birth-death processes: exact results, continuum
+  asymptotics, and the failure of the Fokker-Planck approximation",1.3189329710618589e-06,0.0,0.0,2.0
+q-bio/0310032,"Localization and extinction of bacterial populations under inhomogeneous
+  growth conditions",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9512111,"Nature of Driving Force for Protein Folding -- A Result From Analyzing
+  the Statistical Potential",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0110088,Correlated noise induced control of prey extinction,1.3189329710618589e-06,0.0,0.0,2.0
+q-bio/0310008,The long reach of DNA sequence heterogeneity in diffusive processes,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0103028,"Compositional representation of protein sequences and the number of
+  Eulerian loops",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9901321,"Entropic Elasticity, Cooperative Extensibility and Supercoiling Property
+  of DNA: A Unified Viewpoint",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0103018,Effect of Trends on Detrended Fluctuation Analysis,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0305054,Self Consistent Molecular Field Theory for Packing in Classical Liquids,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0303062,"Absolute Hydration Free Energies of Ions, Ion-Water Clusters, and
+  Quasi-chemical Theory",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0508112,"Gene regulatory networks: a coarse-grained, equation-free approach to
+  multiscale computation",1.3189329710618589e-06,0.0,0.0,1.0
+physics/9904023,Error Thresholds on Dynamic Fittness-Landscapes,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0510106,The stability of solitons in biomembranes and nerves,1.3189329710618589e-06,0.0,0.0,3.0
+physics/0406045,"Spatially Varying Steady State Longitudinal Magnetization in Distant
+  Dipolar Field-based Sequences",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0005235,Stability and noise in biochemical switches,1.3189329710618589e-06,0.0,0.0,5.0
+physics/0303053,"A maximum principle for the mutation-selection equilibrium of nucleotide
+  sequences",1.3189329710618589e-06,0.0,0.0,5.0
+physics/0402072,Two complementary representations of a scale-free network,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9911038,Super-paramagnetic clustering of yeast gene expression profiles,1.3189329710618589e-06,0.0,0.0,3.0
+astro-ph/0104209,Intermittent Jolts of Galactic UV Radiation: Mutagenetic Effects,1.3189329710618589e-06,0.0,0.0,3.0
+astro-ph/9612214,Volcanogenic Dark Matter and Mass Extinctions,1.3189329710618589e-06,0.0,0.0,4.0
+physics/0102010,"From features to expression: High-density oligonucleotide array analysis
+  revisited",1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/0511128,Lengthscales and Cooperativity in DNA Bubble Formation,1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/0003333,Robustness as an Evolutionary Principle,1.3189329710618589e-06,0.0,0.0,4.0
+chao-dyn/9505001,Pitch Perception of Complex Sounds: Nonlinearity Revisited,1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/0309157,"Structurally specific thermal fluctuations identify functional sites for
+  DNA transcription",1.3189329710618589e-06,0.0,0.0,3.0
+physics/9909029,"Scale Specific and Scale Independent Measures of Heart Rate Variability
+  as Risk Indicators",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0301001,Physical limits to biochemical signaling,1.3189329710618589e-06,0.0,0.0,3.0
+math/9912237,"Global Stability of McKeithan's Kinetic Proofreading Model for T-Cell
+  Receptor Signal Transduction",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0306126,Translocation of structured polynucleotides through nanopores,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0004060,"Real time encoding of motion: Answerable questions and questionable
+  answers from the fly's visual system",1.3189329710618589e-06,0.0,0.0,5.0
+hep-lat/9909080,Simulations of Protein Folding,1.3189329710618589e-06,0.0,0.0,2.0
+physics/9801027,A crystal base for the genetic code,1.3189329710618589e-06,0.0,0.0,8.0
+cond-mat/0211532,Dielectric response of spherical particles of graded materials,1.3189329710618589e-06,0.0,0.0,9.0
+cond-mat/9904277,Statistical Mechanics of Torque Induced Denaturation of DNA,1.3189329710618589e-06,0.0,0.0,2.0
+adap-org/9902002,A General Approach to the Modelling of Trophic Chains,,,,
+adap-org/9903005,Replication Error and Time Evolution of a Self-Replicating System,,,,
+adap-org/9909005,Beyond Hebb: Exclusive-OR and Biological Learning,,,,
+astro-ph/0107313,"Available Energy for Life on a Planet, with or without Stellar Radiation",,,,
+chao-dyn/9806015,Chemical or Biological Activity in Open Chaotic Flows,,,,
+chao-dyn/9810008,"Discrimination between Healthy and Sick Cardiac Autonomic Nervous System
+  by Detrended Heart Rate Variability Analysis",,,,
+chao-dyn/9907002,Nonlinear Dynamics of the Perceived Pitch of Complex Sounds,,,,
+cond-mat/0001164,Adhesion-Induced Lateral Phase Separation in Membranes,,,,
+cond-mat/0002098,"Partition Function Zeros and Finite Size Scaling of Helix-Coil
+  Transitions in a Polypeptide",,,,
+cond-mat/0003263,"Random Networks of Spiking Neurons: Instability in the Xenopus tadpole
+  moto-neural pattern",,,,
+cond-mat/0004073,"The Functional Form of Angular Forces around Transition Metal Ions in
+  Biomolecules",,,,
+cond-mat/0005284,Scale Invariance in the Nonstationarity of Physiological Signals,,,,
+cond-mat/0007120,Testing a hypothesis for the evolution of sex,,,,
+cond-mat/0007473,Stochastic Penna model for biological aging,,,,
+cond-mat/0008081,On the Dynamics of the Evolution of the HIV Infection,,,,
+cond-mat/0008446,"Orientation field model for chiral branching growth of bacterial
+  colonies",,,,
+cond-mat/0009159,"New approach to Monte Carlo calculation of buckling of supercoiled DNA
+  loops",,,,
+cond-mat/0009224,Supported Membranes on Chemically Structured and Rough Surfaces,,,,
+cond-mat/0010481,Probing Pores Using Elementary Quantum Mechanics,,,,
+cond-mat/0011367,Noise Effects on the Complex Patterns of Abnormal Heartbeats,,,,
+cond-mat/0102478,On the statistical mechanics of prion diseases,,,,
+cond-mat/0103506,Dielectric Behavior of Nonspherical Cell Suspensions,,,,
+cond-mat/0104046,"Rowers coupled hydrodynamically. Modeling possible mechanisms for the
+  cooperation of cilia",,,,
+cond-mat/0104437,"Spectral Representation Theory for Dielectric Behavior of Nonspherical
+  Cell Suspensions",,,,
+cond-mat/0104482,"Catastrophic senescence of the Pacific salmon without
+  mutation-accumulation",,,,
+cond-mat/0105102,Effects of mechanical strain on thermal denaturation of DNA,,,,
+cond-mat/0107192,First-Principles Approach to Electrorotation Assay,,,,
+cond-mat/0107315,A Thermodynamic Model for Prebiotic Protein Function,,,,
+cond-mat/0107554,Fast Tree Search for Enumeration of a Lattice Model of Protein Folding,,,,
+cond-mat/0108122,"Echinocyte Shapes: Bending, Stretching and Shear Determine Spicule Shape
+  and Spacing",,,,
+cond-mat/0108362,"Nonlinearity-induced conformational instability and dynamics of
+  biopolymers",,,,
+cond-mat/0109001,"Surface-dependent Coagulation Enzymes: Flow Kinetics of Factor Xa
+  Generation on Live Membranes",,,,
+cond-mat/0109187,Detachment of molecular motors under tangential loading,,,,
+cond-mat/0110207,New mechanism of membrane fusion,,,,
+cond-mat/0110272,Fluctuating-friction molecular motors,,,,
+cond-mat/0110530,Theoretical modeling of prion disease incubation,,,,
+cond-mat/0110606,Strong electron correlations in cobalt valence tautomers,,,,
+cond-mat/0112053,Phase Behavior of Columnar DNA Assemblies,,,,
+cond-mat/0112395,"Physics of Psychophysics: Stevens and Weber-Fechner laws are transfer
+  functions of excitable media",,,,
+cond-mat/0201009,Enumerating Designing Sequences in the HP Model,,,,
+cond-mat/0202145,Anomalous Response Variability in a Balanced Cortical Network Model,,,,
+cond-mat/0202458,"Dielectric behavior of oblate spheroidal particles: Application to
+  erythrocytes suspensions",,,,
+cond-mat/0203230,Walks of molecular motors in two and three dimensions,,,,
+cond-mat/0203384,"Neural Network Model for Apparent Deterministic Chaos in Spontaneously
+  Bursting Hippocampal Slices",,,,
+cond-mat/0205144,The unbinding transition of mixed fluid membranes,,,,
+cond-mat/0207651,"Cohesive energy, stability and structural transitions in polyelectrolyte
+  bundles",,,,
+cond-mat/0208148,"Reply to ``Comments on Kullback-Leibler and renormalized entropies:
+  Applications to electroencephalograms of epilepsy patients""",,,,
+cond-mat/0208382,"Anomalous diffusion on dynamical networks: A model for interacting
+  epithelial cell migration",,,,
+cond-mat/0209332,Raft Instability of Biopolymer Gels,,,,
+cond-mat/0211463,"Morphological Instability and Dynamics of Fronts in Bacterial Growth
+  Models with Nonlinear Diffusion",,,,
+cond-mat/0211650,"Molecular Dynamics Simulations of Lipid Bilayers: Major Artifacts due to
+  Truncating Electrostatic Interactions",,,,
+cond-mat/0212005,"Theory of ac electrokinetic behavior of spheroidal cell suspensions with
+  an intrinsic dispersion",,,,
+cond-mat/0212174,"Conservation laws in biology and evolution, their singularities and bans",,,,
+cond-mat/0212175,DNA denaturation as a new kind of phase transition,,,,
+cond-mat/0212240,Self-Assembling of Networks in an Agent-Based Model,,,,
+cond-mat/0212310,"A New Mechanism of Model Membrane Fusion Determined from Monte Carlo
+  Simulation",,,,
+cond-mat/0301094,Wave nucleation rate in excitable systems in the low noise limit,,,,
+cond-mat/0302409,"Pattern formation inside bacteria: fluctuations due to low copy number
+  of proteins",,,,
+cond-mat/0303413,Non-Markovian Stochastic Resonance,,,,
+cond-mat/0303468,"Percolation, Morphogenesis, and Burgers Dynamics in Blood Vessels
+  Formation",,,,
+cond-mat/0304002,"Onset of DNA Aggregation in Presence of Monovalent and Multivalent
+  Counterions",,,,
+cond-mat/0304326,Correlation matrix for quartet codon usage,,,,
+cond-mat/0305137,"Self-assembled aggregates in the gravitational field: growth and nematic
+  order",,,,
+cond-mat/0305279,A computational approach to regulatory element discovery in eukaryotes,,,,
+cond-mat/0306476,Strand separation in negatively supercoiled dna,,,,
+cond-mat/0306539,"Correspondence between time-evolution dynamics of a tumor and an
+  attractively interacting Bose-Einstein Condensate with feeding and
+  dissipation",,,,
+cond-mat/0306595,"Conformational space annealing and an off-lattice frustrated model
+  protein",,,,
+cond-mat/0306628,Global Spread of Infectious Diseases,,,,
+cond-mat/0307105,"Simultaneous surface acoustic wave and surface plasmon resonance
+  measurements: electrodeposition and biological interactions monitoring",,,,
+cond-mat/0307242,Dynamics of Pulsed Flow in an Elastic Tube,,,,
+cond-mat/0308128,Statistical linguistic study of DNA sequences,,,,
+cond-mat/0308417,Helix vs. Sheet Formation in a Small Peptide,,,,
+cond-mat/0309486,"Full Optimization of Linear Parameters of a United Residue Protein
+  Potential",,,,
+cond-mat/0310553,"Generalized-Ensemble Simulations of the Human Parathyroid Hormone
+  Fragment PTH(1-34)",,,,
+cond-mat/0311577,"Comment on 'A Wave Traveling over a Hopf Instability Shapes the Cochlear
+  Tuning Curve'",,,,
+cond-mat/0311620,Soft Listeria: actin-based propulsion of liquid drops,,,,
+cond-mat/0312364,"Exact solution of a linear molecular motor model driven by two-step
+  fluctuations and subject to protein friction",,,,
+cond-mat/0312400,Cationic DMPC/DMTAP Lipid Bilayers: Molecular Dynamics Study,,,,
+cond-mat/0312422,"Random walks of molecular motors arising from diffusional encounters
+  with immobilized filaments",,,,
+cond-mat/0401291,Freezing and folding behavior in simple off-lattice heteropolymers,,,,
+cond-mat/0401588,Spiral wave drift in an electric field and scroll wave instabilities,,,,
+cond-mat/0402252,Lateral phase separation in mixtures of lipids and cholesterol systems,,,,
+cond-mat/0403419,Topologically Driven Swelling of a Polymer Loop,,,,
+cond-mat/0403702,Multiple stalk formation as a pathway of defect-induced membrane fusion,,,,
+cond-mat/0406562,"Reply to Comment on ""Why is the DNA Transition First Order?"" and
+  ""Griffiths Singularities in Unbinding of Strongly Disordered Polymers"" by M.
+  Ya. Azbel",,,,
+cond-mat/0407344,"Competition between condensation of monovalent and multivalent ions in
+  DNA aggregation",,,,
+cond-mat/0409468,Universal Critical Behavior of Noisy Coupled Oscillators,,,,
+cond-mat/0411621,Nonlinear waves in double-stranded DNA,,,,
+cond-mat/0504107,Optimal search strategies for hidden targets,,,,
+cond-mat/0506675,Swimming in circles: Motion of bacteria near solid boundaries,,,,
+cond-mat/0507542,"TransPath: A Computational Method to Study the Ion Transit Pathways in
+  Membrane Channels",,,,
+cond-mat/0507584,"Structure and stability of self-assembled actin-lysozyme complexes in
+  salty water",,,,
+cond-mat/0507659,"Generalized Haldane Equation and Fluctuation Theorem in the Steady State
+  Cycle Kinetics of Single Enzymes",,,,
+cond-mat/0510820,"Dielectrophoresis of nanoscale dsDNA and humidity effects on its
+  electrical conductivity",,,,
+cond-mat/0511255,"Reversible mesoscopic model of protein adsorption: From equilibrium to
+  dynamics",,,,
+cond-mat/0601244,CSAW: a dynamical model of protein folding,,,,
+cond-mat/0601348,"Inferring the effective thickness of polyelectrolytes from stretching
+  measurements at various ionic strengths: applications to DNA and RNA",,,,
+cond-mat/0603828,"Entropy and Barrier-Hopping Determine Conformational Viscoelasticity in
+  Single Biomolecules",,,,
+cond-mat/0605737,"Condensation transition in DNA-polyaminoamide dendrimer fibers studied
+  using optical tweezers",,,,
+cond-mat/0606254,Force dependent fragility in RNA hairpins,,,,
+cond-mat/0606333,Excited state dynamics in DNA double helices,,,,
+cond-mat/0608363,"Tuning gastropod locomotion: Modeling the influence of mucus rheology on
+  the cost of crawling",,,,
+cond-mat/0610154,Floppy swimming: Viscous locomotion of actuated elastica,,,,
+cond-mat/0612433,"Measuring the energy landscape roughness and the transition state
+  location of biomolecules using single molecule mechanical unfolding
+  experiments",,,,
+cond-mat/0612516,Generic principles of active transport,,,,
+cond-mat/0612588,Thermal Denaturation of Fluctuating DNA Driven by Bending Entropy,,,,
+cond-mat/0701368,"Statistical mechanics of coil-hairpin transition in a single stranded
+  DNA oligomer",,,,
+cond-mat/0701679,"Does changing the pulling direction give better insight into
+  biomolecules?",,,,
+cond-mat/0703387,"Molecular Dynamics Simulation of Folding and Diffusion of Proteins in
+  Nanopores",,,,
+cond-mat/0703404,"Anomalous Dynamics of Unbiased Polymer Translocation through a Narrow
+  Pore",,,,
+cond-mat/0703548,Propulsion in a viscoelastic fluid,,,,
+cond-mat/9611204,Spontaneous Oscillations of Collective Molecular Motors,,,,
+cond-mat/9612081,Error threshold in the evolution of diploid organisms,,,,
+cond-mat/9709220,Phase-locking in weakly heterogeneous neuronal networks,,,,
+cond-mat/9712200,"Mechanisms of synchronization and pattern formation in a lattice of
+  pulse-coupled oscillators",,,,
+cond-mat/9803259,Shape of Mixed Micelles: Cylinders or Spheres? Theoretical Analysis,,,,
+cond-mat/9807191,DNA-Protein Cooperative Binding through Long-Range Elastic Coupling,,,,
+cond-mat/9809185,Lubricating Bacteria Model for Branching growth of Bacterial Colonies,,,,
+cond-mat/9809415,"Design of Sequences with Good Folding Properties in Coarse-Grained
+  Protein Models",,,,
+cond-mat/9810132,"Bending and Base-Stacking Interactions in Double-Stranded Semiflexible
+  Polymer",,,,
+cond-mat/9810279,Self-organized Beating and Swimming of Internally Driven Filaments,,,,
+cond-mat/9811208,Spatio-selection in Expanding Bacterial Colonies,,,,
+cond-mat/9811247,Hydrodynamics of bacterial motion,,,,
+cond-mat/9812017,Monte Carlo Study of the Phase Structure of Compact Polymer Chains,,,,
+cond-mat/9812184,Genetic Correlations in Mutation Processes,,,,
+cond-mat/9902011,Cortical Potential Distributions and Cognitive Information Processing,,,,
+cond-mat/9902049,"Theory of Lipid Polymorphism: Application to Phosphatidylethanolamine
+  and Phosphatidylserine",,,,
+cond-mat/9903089,"RNA secondary structure formation: a solvable model of heteropolymer
+  folding",,,,
+cond-mat/9903310,A Hierarchical Approach to Protein Molecular Evolution,,,,
+cond-mat/9903382,"Modeling branching and chiral colonial patterning of lubricating
+  bacteria",,,,
+cond-mat/9906206,"Ocular dominance patterns in mammalian visual cortex: A wire length
+  minimization approach",,,,
+cond-mat/9906207,Optimal sizes of dendritic and axonal arbors in a topographic projection,,,,
+cond-mat/9906208,"Binocular disparity can explain the orientation of ocular dominance
+  stripes in primate V1",,,,
+cond-mat/9907208,Generic growth instabilities in one-layered tissue sheets,,,,
+cond-mat/9910309,Distribution of lipids in non-lamellar phases of their mixtures,,,,
+cond-mat/9910354,Stochastic Resonance in Ion Channels Characterized by Information Theory,,,,
+cond-mat/9912465,Brownian Particles far from Equilibrium,,,,
+math-ph/0212035,"Information Loss in Coarse Graining of Polymer Configurations via
+  Contact Matrices",,,,
+nlin/0006027,Obtaining single stimulus evoked potentials with Wavelet Denoising,,,,
+nlin/0007032,"Emergent global oscillations in heterogeneous excitable media: The
+  example of pancreatic beta cells",,,,
+nlin/0108007,Competing Populations in Flows with Chaotic Mixing,,,,
+nlin/0109019,Olfactory search at high Reynolds number,,,,
+nlin/0109023,"On the performance of different synchronization measures in real data: a
+  case study on EEG signals",,,,
+nlin/0203038,"Symbiotic Sympatric Speciation: Compliance with Interaction-driven
+  Phenotype Differentiation from a Single Genotype",,,,
+nlin/0203040,From Coupled Dynamical Systems to Biological Irreversibility,,,,
+nlin/0209011,"Spatial representation of temporal information through spike timing
+  dependent plasticity",,,,
+nlin/0210065,Pitch perception: A dynamical-systems perspective,,,,
+nlin/0211001,Labyrinthine Turing Pattern Formation in the Cerebral Cortex,,,,
+nlin/0502018,Self-tuning to the Hopf bifurcation in fluctuating systems,,,,
+nlin/0602024,"Detecting synchronization of self-sustained oscillators by external
+  driving with varying frequency",,,,
+nlin/0611031,"New aspects of the continuous phase transition in the scalar noise model
+  (SNM) of collective motion",,,,
+nlin/0612029,A Kinetic Theory of Coupled Oscillators,,,,
+nlin/0612050,"On-Off Intermittency in Time Series of Spontaneous Paroxysmal Activity
+  in Rats with Genetic Absence Epilepsy",,,,
+physics/0001006,Temporal correlations and neural spike train entropy,,,,
+physics/0001011,The Hydration Number of Li+ in Liquid Water,,,,
+physics/0001014,Photo-induced intermolecular charge transfer in porphyrin complexes,,,,
+physics/0001021,Evolution in the Multiverse,,,,
+physics/0001049,"Statistical mechanics of neocortical interactions: Reaction time
+  correlates of the g factor",,,,
+physics/0001050,"Statistical mechanics of neocortical interactions: EEG eigenfunctions of
+  short-term memory",,,,
+physics/0001052,"Statistical mechanics of neocortical interactions: Canonical momenta
+  indicators of electroencephalography",,,,
+physics/0001053,"Statistical mechanics of neocortical interactions: Training and testing
+  canonical momenta indicators of EEG",,,,
+physics/0001054,"Statistical mechanics of neocortical interactions: High resolution
+  path-integral calculation of short-term memory",,,,
+physics/0002001,A Simple Explanation for Taxon Abundance Patterns,,,,
+physics/0002012,Rupture of multiple parallel molecular bonds under dynamic loading,,,,
+physics/0002016,Formalizing the gene centered view of evolution,,,,
+physics/0002050,"Scaling in dynamical Turing pattern formation: density of defects frozen
+  into permanent patterns",,,,
+physics/0002053,"Sampling Properties of the Spectrum and Coherency of Sequences of Action
+  Potentials",,,,
+physics/0002054,Evolution of differentiated expression patterns in digital organisms,,,,
+physics/0003016,On the genealogy of a population of biparental individuals,,,,
+physics/0003038,The Force-Velocity Relation for Growing Biopolymers,,,,
+physics/0003048,On the uniqueness of the surface sources of evoked potentials,,,,
+physics/0003051,Symmetry breaking of vibrating interfaces: a mechanism for morphogenesis,,,,
+physics/0003084,"Spatial-temporal correlations in the process to self-organized
+  criticality",,,,
+physics/0003100,"Auditory Sensitivity Provided by Self-tuned Critical Oscillations of
+  Hair Cells",,,,
+physics/0003101,Physical Aspects of Axonemal Beating and Swimming,,,,
+physics/0003105,Noise-based switches and amplifiers for gene expression,,,,
+physics/0004011,Mechanism of Discordant Alternans in Spatially Homogeneous Tissue,,,,
+physics/0004019,Signal Selection Based on Stochastic Resonance,,,,
+physics/0004025,"Symmetry breaking and coarsening in spatially distributed evolutionary
+  processes including sexual reproduction and disruptive selection",,,,
+physics/0004075,Stochastic Resonance in Neuron Models: Endogenous Stimulation Revisited,,,,
+physics/0005029,"Large Scale-Invariant Fluctuations in Normal Blood Cell Counts: A sign
+  of criticality?",,,,
+physics/0005074,Evolution of Biological Complexity,,,,
+physics/0005080,"Damage of cellular material under simultaneous application of pressure
+  and pulsed electric field",,,,
+physics/0006045,A Novel Approach to Structure Alignment,,,,
+physics/0006059,"Modeling study on the validity of a possibly simplified representation
+  of proteins",,,,
+physics/0006071,Time series model based on global structure of complete genome,,,,
+physics/0006079,"Correlation property of length sequences based on global structure of
+  complete genome",,,,
+physics/0006080,A time series model of CDS sequences in complete genome,,,,
+physics/0006081,"Synchronisation, binding and the role of correlated firing in fast
+  information transmission",,,,
+physics/0007067,"Scaling-violation phenomena and fractality in the human posture control
+  systems",,,,
+physics/0007087,"Theory of periodic swarming of bacteria: application to Proteus
+  mirabilis",,,,
+physics/0007096,"Re-examination of the ""3/4-law"" of Metabolism",,,,
+physics/0008221,"Investigations of Amplitude and Phase Excitation Profiles in Femtosecond
+  Coherence Spectroscopy",,,,
+physics/0008231,"Purine-pyrimidine symmetry, determinative degree and DNA",,,,
+physics/0008232,Minimum Entropy Aproach to Word Segmentation Problems,,,,
+physics/0008238,"Transitions Induced by the Discreteness of Molecules in a Small
+  Autocatalytic System",,,,
+physics/0009003,Noise Delays Bifurcation in a Positively Coupled Neural Circuit,,,,
+physics/0009008,One way to Characterize the compact structures of lattice protein model,,,,
+physics/0009048,Balanced Branching in Transcription Termination,,,,
+physics/0010041,On Optimality in Auditory Information Processing,,,,
+physics/0011002,A Historical Perspective on Cancer,,,,
+physics/0011061,Predicting Optimal Lengths of Random Knots,,,,
+physics/0011067,Ideal-Chain Collapse in Biopolymers,,,,
+physics/0011071,"Compound Poisson Statistics and Models of Clustering of Radiation
+  Induced DNA Double Strand Breaks",,,,
+physics/0012003,Evolutionary conservation of the folding nucleus,,,,
+physics/0012036,"Biology and Thermodynamics: Seemingly-Opposite Phenomena in Search of a
+  Unified Paradigm",,,,
+physics/0101015,"Recycling probability and dynamical properties of germinal center
+  reactions",,,,
+physics/0101067,Nonlinear Dynamics in the Binary DNA/RNA Coding Problem,,,,
+physics/0101071,Elastic wave propagation along DNA,,,,
+physics/0101087,Kinetic model of DNA replication in eukaryotic organisms,,,,
+physics/0102029,"Extraction of Cs-137 by alcohol-water solvents from plants containing
+  cardiac glycosides",,,,
+physics/0102044,"Optimality of the genetic code with respect to protein stability and
+  amino acid frequencies",,,,
+physics/0102048,Self-Organizing Approach for Finding Borders of DNA Coding Regions,,,,
+physics/0102059,The coherent dynamics of photoexcited green fluorescent proteins,,,,
+physics/0102062,Does Recycling in Germinal Centers Exist?,,,,
+physics/0102076,Errors drive the evolution of biological signalling to costly codes,,,,
+physics/0103022,"Selection for Fitness vs. Selection for Robustness in RNA Secondary
+  Structure Folding",,,,
+physics/0104015,"Geometric and Statistical Properties of the Mean-Field HP Model, the LS
+  Model and Real Protein Sequences",,,,
+physics/0104024,"Large deformation of spherical vesicle studied by perturbation theory
+  and Surface evolver",,,,
+physics/0104026,New stopping criteria for segmenting DNA sequences,,,,
+physics/0104027,DNA Segmentation as A Model Selection Process,,,,
+physics/0104052,"A simple atomistic model for the simulation of the gel phase of lipid
+  bilayers",,,,
+physics/0104065,"From Discrete Protein Kinetics to Continuous Brownian Dynamics: A New
+  Perspective",,,,
+physics/0104080,Nonequilibrium phase transitions in a model for the origin of life,,,,
+physics/0104085,"An Analysis of the Thermodynamics of Hydrophobic Solvation Based on
+  Scaled Particle Theory",,,,
+physics/0105029,Fluctuation Analysis of Human Electroencephalogram,,,,
+physics/0105062,On the Doublet Formation in the Flocculation Process of the Yeast Cells,,,,
+physics/0106036,Stochastic resonance as a collective property of ion channel assemblies,,,,
+physics/0106042,Phase-Transitions in a model for the formation of herpes simplex ulcers,,,,
+physics/0106043,"Influence of Static and Dynamic Disorder on the Anisotropy of Emission
+  in the Ring Antenna Subunits of Purple Bacteria Photosynthetic Systems",,,,
+physics/0106093,Maternal effects in molecular evolution,,,,
+physics/0107039,"Rippling patterns in aggregates of myxobacteria arise from cell-cell
+  collisions",,,,
+physics/0107047,Quantum Field Theory and Phylogenetic Branching,,,,
+physics/0107064,"Excitons in a Photosynthetic Light-Harvesting System: A Combined
+  Molecular Dynamics/Quantum Chemistry and Polaron Model Study",,,,
+physics/0108008,Folding DNA into nucleosome and chromatin: dynamics,,,,
+physics/0108014,Model of separated form factors for unilamellar vesicles,,,,
+physics/0108038,"Simulated and Experimental Bending Dynamics in DNA with and without
+  A-Tracts",,,,
+physics/0108053,"Multifractal characterisation of length sequences of coding and
+  noncoding segments in a complete genome",,,,
+physics/0108054,Multifractal characterisation of complete genomes,,,,
+physics/0108055,Measure representation and multifractal analysis of complete genomes,,,,
+physics/0109011,Exciton scattering in light-harvesting systems of purple bacteria,,,,
+physics/0109014,"Modeling the effects of tetanus vaccination on chronically infected HIV
+  patients",,,,
+physics/0109020,Optimal adaptive performance and delocalization in NK fitness landscapes,,,,
+physics/0109058,Finite genome size can halt Muller's ratchet,,,,
+physics/0110011,Maximum pull out force on DNA hybrids,,,,
+physics/0110021,"Molecular Theory of Hydrophobic Effects: ``She is too mean to have her
+  name repeated.''",,,,
+physics/0110037,"Coordinated Slowing of Metabolism in Enteric Bacteria under Nitrogen
+  Limitation: A Perspective",,,,
+physics/0110067,"Hamming distance geometry of a protein conformational space. Application
+  to the clustering of a 4 ns molecular dynamics trajectory of the HIV-1
+  integrase catalytic core",,,,
+physics/0110074,Information loss in an optimal maximum likelihood decoding,,,,
+physics/0111137,Intercellular Communication Via Intracellular Calcium Oscillations,,,,
+physics/0111204,The Cochlear Tuning Curve,,,,
+physics/0111205,Statistics of selectively neutral genetic variation,,,,
+physics/0112007,A Model of Sequence Dependent Protein Diffusion Along Dna,,,,
+physics/0112039,On the Selection and Evolution of Regulatory DNA Motifs,,,,
+physics/0112040,Scaling Properties of Fluctuations in Human Electroencephalogram,,,,
+physics/0112070,Adaptive sampling by information maximization,,,,
+physics/0112083,"Physical Constraints and Functional Characteristics of Transcription
+  Factor-DNA Interaction",,,,
+physics/0201054,Global Optimization by Energy Landscape Paving,,,,
+physics/0202014,Timing and Counting Precision in the Blowfly Visual System,,,,
+physics/0202026,The control of phenotype: connecting enzyme variation to physiology,,,,
+physics/0202034,Solvation model dependency of helix-coil transition in polyalanine,,,,
+physics/0202039,"Microspectroscopy and Imaging in the THz Range Using Coherent CW
+  Radiation",,,,
+physics/0202056,"Translocation Properties of Primitive Molecular Machines and Their
+  Relevance to the Structure of the Genetic Code",,,,
+physics/0202075,Long range correlations in DNA sequences,,,,
+physics/0203007,"FAST CARS: Engineering a Laser Spectroscopic Technique for Rapid
+  Identification of Bacterial Spores",,,,
+physics/0203013,"Correlating overrepresented upstream motifs to gene expression: a
+  computational approach to regulatory element discovery in eukaryotes",,,,
+physics/0203014,Presynaptic calcium dynamics of learning neurons,,,,
+physics/0203015,"Statistical Geometry of Packing Defects of Lattice Chain Polymer from
+  Enumeration and Sequential Monte Carlo Method",,,,
+physics/0203021,"A mathematical model for the germinal center morphology and affinity
+  maturation",,,,
+physics/0203054,"Parallel J-W Monte Carlo Simulations of Thermal Phase Changes in
+  Finite-size Systems",,,,
+physics/0203055,"Charge Dependence of Temperature-Driven Phase Transitions of Molecular
+  Nanoclusters: Molecular Dynamics Simulation",,,,
+physics/0203073,Geometry of compact tubes and protein structures,,,,
+physics/0203087,Recoiling DNA Molecule: Simulation & Experiment,,,,
+physics/0204001,DNA Dynamics in A Water Drop,,,,
+physics/0204006,"Numerical estimation of entropy loss on dimerization: improved
+  prediction of the quaternary structure of the GCN4 leucine zipper",,,,
+physics/0204010,The Loss of Multifractality in Migraines,,,,
+physics/0204035,"A central partition of molecular conformational space. I. Basic
+  structures",,,,
+physics/0204047,"Proton Wires in an Electric Field: the Impact of Grotthuss Mechanism on
+  Charge Translocation",,,,
+physics/0204052,A lattice model for the kinetics of rupture of fluid bilayer membranes,,,,
+physics/0204065,"A Non-equilibrium Thermodynamic Framework for the Dynamics and Stability
+  of Ecosystems",,,,
+physics/0204088,On the nonlinear dynamics of topological solitons in DNA,,,,
+physics/0205003,"Determination of Functional Network Structure from Local Parameter
+  Dependence Data",,,,
+physics/0205005,"Simple Mechanical Equivalents of Stepping Rotary Dynamics in
+  F$_1$-ATPase",,,,
+physics/0205008,Molecular gyroscopes and biological effects of weak ELF magnetic fields,,,,
+physics/0205013,Sum rules of codon usage probabilities,,,,
+physics/0205016,Insulating behavior of lambda-DNA on the micron scale,,,,
+physics/0206024,Minimal model for genome evolution and growth,,,,
+physics/0206026,A possible role of chemotaxis in germinal center formation,,,,
+physics/0206030,"Comment on ""Swarming Ring Patterns in Bacterial Colonies Exposed to
+  Ultraviolet Radiation""",,,,
+physics/0206042,A model for mutation in bacterial populations,,,,
+physics/0206045,"Probabilistic Clustering of Sequences: Inferring new bacterial regulons
+  by comparative genomics",,,,
+physics/0206060,"Coupled Two-Way Clustering Analysis of Breast Cancer and Colon Cancer
+  Gene Expression Data",,,,
+physics/0206074,Physical Chirality. It Feeds on Negative Entropy,,,,
+physics/0206075,"Sensitivity Analysis of Stoichiometric Networks: An Extension of
+  Metabolic Control Analysis to Non-equilibrium Trajectories",,,,
+physics/0206080,Classifying ancient texts by inter-word spacing,,,,
+physics/0206084,Nucleosome repositioning via loop formation,,,,
+physics/0206088,Theory of High-Force DNA Stretching and Overstretching,,,,
+physics/0207024,"Clustering of SNPs along a chromosome: can the neutral model be
+  rejected?",,,,
+physics/0207039,Structure Space of Model Proteins --A Principle Component Analysis,,,,
+physics/0207044,The Asymptotic Number of Attractors in the Random Map Model,,,,
+physics/0207049,"Thermodynamic and Kinetic Analysis of Sensitivity Amplification in
+  Biological Signal Transduction",,,,
+physics/0207060,Recognition of an organism from fragments of its complete genome,,,,
+physics/0207064,Dynamical investigation of macromolecular hybridization bioassays,,,,
+physics/0207070,"Robustness and Optimality of Light Harvesting in Cyanobacterial
+  Photosystem I",,,,
+physics/0207102,"Global Spatiotemporal Order and Induced Stochastic Resonance due to a
+  Locally Applied Signal",,,,
+physics/0207113,Simplifying the mosaic description of DNA sequences,,,,
+physics/0207123,"Low Temperature Electronic Transport and Electron Transfer through
+  Organic Macromolecules",,,,
+physics/0208010,"A computational theory for the classification of natural biosonar
+  targets based on a spike code",,,,
+physics/0208022,"A simulation study of the dynamics of a driven filament in an
+  Aristotelian fluid",,,,
+physics/0208029,Information Optimization in Coupled Audio-Visual Cortical Maps,,,,
+physics/0208040,Does Corticothalamic Feedback Control Cortical Velocity Tuning?,,,,
+physics/0208043,On the origin of plankton patchiness,,,,
+physics/0208044,Mechanisms of noise-resistance in genetic oscillators,,,,
+physics/0208050,Spatiotemporal adaptation through corticothalamic loops: A hypothesis,,,,
+physics/0208095,"Solving the riddle of the bright mismatches: hybridization in
+  oligonucleotide arrays",,,,
+physics/0208103,A stochastic model for heart rate fluctuations,,,,
+physics/0209005,Protein induced morphological transitions in KCl crystal growth,,,,
+physics/0209007,Atomic Force Microscopy of height fluctuations of fibroblast cells,,,,
+physics/0209008,"A quantitative model for presynaptic free calcium dynamics during
+  different stimulation protocols",,,,
+physics/0209009,"The type of seeder cells determines the efficiency of germinal center
+  reactions",,,,
+physics/0209018,"A continuous isotropic-nematic liquid crystalline transition of F-actin
+  solutions",,,,
+physics/0209031,Observation of Mammalian Similarity Through Allometric Scaling Laws,,,,
+physics/0209048,"Dynamical transitions in the evolution of learning algorithms by
+  selection",,,,
+physics/0209054,Solving the boundary value problem for finite Kirchhoff rods,,,,
+physics/0209065,"Signal detection by means of phase coherence induced through phase
+  resetting",,,,
+physics/0209076,"An evolution equation of the population genetics: relation to the
+  density-matrix theory of quasiparticles with general dispersion laws",,,,
+physics/0209080,Isochores Merit the Prefix 'Iso',,,,
+physics/0209081,Ab Initio Modeling of Ecosystems with Artificial Life,,,,
+physics/0209093,"Subthreshold dynamics of the neural membrane potential driven by
+  stochastic synaptic input",,,,
+physics/0210030,Modeling oscillatory Microtubule--Polymerization,,,,
+physics/0210038,"The Iterative Signature Algorithm for the analysis of large scale gene
+  expression data",,,,
+physics/0210044,Self-assembly in the major ampullate gland of Nephila clavipes,,,,
+physics/0210113,The Biosynthetic Order of Amino Acid Addition to the Genetic Code,,,,
+physics/0210118,Resonant helical deformations in nonhomogeneous Kirchhoff filaments,,,,
+physics/0210120,"Brownian motion, ionic flux, catalytic reaction and heterogeneous
+  nucleation in biological systems",,,,
+physics/0210125,Ownership and Trade from Evolutionary Games,,,,
+physics/0211011,"Monitoring of the Membrane Potential in Proteoliposomes with
+  Incorporated Cytochrome-c Oxidase Using the Fluorescent Dye Indocyanine",,,,
+physics/0211016,"Hydration of Krypton and Consideration of Clathrate Models of
+  Hydrophobic Effects from the Perspective of Quasi-Chemical Theory",,,,
+physics/0211033,"Distances and classification of amino acids for different protein
+  secondary structures",,,,
+physics/0211058,Red herrings and rotten fish,,,,
+physics/0211059,"Systematic comparison of force fields for microscopic simulations of
+  NaCl in aqueous solutions: Diffusion, free energy of hydration and structural
+  properties",,,,
+physics/0211061,Gauge Poisson representations for birth/death master equations,,,,
+physics/0211085,"Threadlike bundle of tubules running inside blood vessels: New
+  anatomical structure",,,,
+physics/0211086,Method for Observing Intravascular BongHan Duct,,,,
+physics/0211090,A Problem in Paleobiology,,,,
+physics/0211094,Perfect and near perfect adaptation in a model of bacterial chemotaxis,,,,
+physics/0212038,"Effective spring constants for the elastically coupled insertions in
+  membranes",,,,
+physics/0212039,"A Diffusion-Based Approach to Geminate Recombination of Heme Proteins
+  with Small Ligands",,,,
+physics/0212065,Prediction of protein secondary structure based on residue pairs,,,,
+physics/0212070,"Robustness and Enhancement of Neural Synchronization by
+  Activity-Dependent Coupling",,,,
+physics/0212082,Extended Recurrence Plot Analysis and its Application to ERP Data,,,,
+physics/0212088,Adsorption-desorption noise can be used for improving selectivity,,,,
+physics/0212091,Self-Similarity Limits of Genomic Signatures,,,,
+physics/0212097,"Evidence for Bound and Free Water Species in the Hydration Shell of an
+  Aqueous Micelle",,,,
+physics/0301006,Modeling DNA loops using the theory of elasticity,,,,
+physics/0301028,Writhing Geometry of Open DNA,,,,
+physics/0301031,"Investigation by physical methods of the possible role of telomeres in
+  DNA in aging process",,,,
+physics/0301041,"Electronic Properties of Random Polymers: Modelling Optical Spectra of
+  Melanins",,,,
+physics/0301042,"Fundamental building blocks of eumelanins: electronic properties of
+  indolequinone-dimers",,,,
+physics/0301061,"Metachronal wave and hydrodynamic interaction for deterministic
+  switching rowers",,,,
+physics/0301063,Alternative model of propagation of spikes along neurons,,,,
+physics/0301065,Wavelet analysis of epileptic spikes,,,,
+physics/0301075,Treatment of skin deseases in humans by a new method,,,,
+physics/0302009,"Anisotropic coarse-grained statistical potentials improve the ability to
+  identify native-like protein structures",,,,
+physics/0302012,"Reversible B/A Transitions in Single DNA Molecule Immersed in A Water
+  Drop",,,,
+physics/0302030,Network Landscape from a Brownian Particle's Perspective,,,,
+physics/0302031,Evidence for growth of microbial genomes by short segmental duplications,,,,
+physics/0302039,Branching Law for Axons,,,,
+physics/0302046,Does the Red Queen reign in the kingdom of digital organisms?,,,,
+physics/0302050,Interplay between geometry and flow distribution in an airway tree,,,,
+physics/0302082,"Simplicial edge representation of protein structures and alpha contact
+  potential with confidence measure",,,,
+physics/0302088,Growth Velocities of Branched Actin Networks,,,,
+physics/0303024,The Active Traveling Wave in the Cochlea,,,,
+physics/0303027,Redundancies in Large-scale Protein Interaction Networks,,,,
+physics/0303038,"Motion of an Adhesive Gel in a Swelling Gradient: a Mechanism for Cell
+  Locomotion",,,,
+physics/0303057,"Modeling extracellular field potentials and the frequency-filtering
+  properties of extracellular space",,,,
+physics/0303074,"Long-Bone Allometry of Terrestrial Mammals and the Geometric-Shape and
+  Elastic-Force Constraints of Bone Evolution",,,,
+physics/0303087,Instabilities in the transient response of muscle,,,,
+physics/0303089,An Estimate of the Vibrational Frequencies of Spherical Virus Particles,,,,
+physics/0303096,Liquid-vapor oscillations of water in hydrophobic nanopores,,,,
+physics/0303099,Control of cardiac alternans in a mapping model with memory,,,,
+physics/0304003,Reading Neural Encodings using Phase Space Methods,,,,
+physics/0304016,"Genetic Algorithms for the Imitation of Genomic Styles in Protein
+  Backtranslation",,,,
+physics/0304032,Molecular Mechanism for Nitrogen fixation: first steps,,,,
+physics/0304050,"Universal behavior of localization of residue fluctuations in globular
+  proteins",,,,
+physics/0304062,"Stability of Negative Image Equilibria in Spike-Timing Dependent
+  Plasticity",,,,
+physics/0304075,"Analysis of the intraspinal calcium dynamics and its implications on the
+  plasticity of spiking neurons",,,,
+physics/0305001,Modeling stochastic clonal interference,,,,
+physics/0305022,Analytic solution of Hubbell's model of local community dynamics,,,,
+physics/0305041,Nematic Ordering of Rigid Rods in a Gravitational Field,,,,
+physics/0305059,"Two adaptation processes in auditory hair cells together can provide an
+  active amplifier",,,,
+physics/0305087,Multiple Folding Pathways of the SH3 domain,,,,
+physics/0305135,"Electric field-controlled water permeation coupled to ion transport
+  through a nanopore",,,,
+physics/0306030,An Inverse Equilibrium Maximum Entropy Algorithm Applied to Proteins,,,,
+physics/0306044,"Two-vibron bound states in alpha-helix proteins : the interplay between
+  the intramolecular anharmonicity and the strong vibron-phonon coupling",,,,
+physics/0306047,"Understanding visual map formation through vortex dynamics of spin
+  Hamiltonian models",,,,
+physics/0306056,Spike sorting in the frequency domain with overlap detection,,,,
+physics/0306065,Motion of rotatory molecular motor and chemical reaction rate,,,,
+physics/0306118,"On the origin of the deviation from the first order kinetics in
+  inactivation of microbial cells by pulsed electric fields",,,,
+physics/0306121,A theory of Plasma Membrane Calcium Pump stimulation and activity,,,,
+physics/0306163,"Current Reversals in a inhomogeneous system with asymmetric unbiased
+  fluctuations",,,,
+physics/0306175,Efficiency and Current in a correlated ratchet,,,,
+physics/0306192,Sliding Mechanism for Actin Myosin System,,,,
+physics/0306200,"Folding of Cu, Zn superoxide dismutase and Familial Amyotrophic Lateral
+  Sclerosis",,,,
+physics/0307001,Scaling laws in the functional content of genomes,,,,
+physics/0307012,"Efficiency optimization in a correlation ratchet with asymmetric
+  unbiased fluctuations",,,,
+physics/0307013,A Microscopic Mechanism for Muscle's Motion,,,,
+physics/0307014,Internal Motility in Stiffening Actin-Myosin Networks,,,,
+physics/0307043,Unexpected trends in termite survival,,,,
+physics/0307051,Simulations of Oligomeric Intermediates in Prion Diseases,,,,
+physics/0307072,Network information and connected correlations,,,,
+physics/0307077,"Mechano-chemical coupling in growth process of actin gels and a symmetry
+  breaking instability",,,,
+physics/0307122,"Influence of electromagnetic interferences on the gravimetric
+  sensitivity of surface acoustic waveguides",,,,
+physics/0307135,The Intrinsic Time Scale of Transient Neuronal Responses,,,,
+physics/0307143,Modeling Amyloid Beta Peptide Insertion into Lipid Bilayers,,,,
+physics/0307155,Synchronization of active mechanical oscillators by an inertial load,,,,
+physics/0308011,Scale Invariance and Nonlinear Patterns of Human Activity,,,,
+physics/0308041,Ensembles of Protein Molecules as Statistical Analog Computers,,,,
+physics/0308085,"Increased Concentration of Polyvalent Phospholipids in the Adsorption
+  Domain of a Charged Protein",,,,
+physics/0308089,Spatial curvature effects on molecular transport by diffusion,,,,
+physics/0309006,Quasireplicas and universal lengths of microbial genomes,,,,
+physics/0310031,"Alternans amplification following a two-stimulations protocol in a
+  one-dimensional cardiac ionic model of reentry: from annihilation to
+  double-wave quasiperiodic reentry",,,,
+physics/0310040,All-optical switching with bacteriorhodopsin,,,,
+physics/0310070,Relaxation channels of two-vibron bound states in \alpha-helix proteins,,,,
+physics/0310075,"Control of catalytic activity of proteins in vivo by nanotube ropes
+  excited with infrared light",,,,
+physics/0310083,"Molecular Discreteness in Reaction-Diffusion Systems Yields Steady
+  States Not Seen in the Continuum Limit",,,,
+physics/0310096,"Combined surface acoustic wave and surface plasmon resonance measurement
+  of collagen and fibrinogen layers",,,,
+physics/0310136,Flashing motor at high transition rate,,,,
+physics/0310142,"Complete homochirality induced by the nonlinear autocatalysis and
+  recycling",,,,
+physics/0310146,"In-silico folding of a three helix protein and characterization of its
+  free-energy landscape in an all-atom forcefield",,,,
+physics/0310157,Large phenotype jumps in biomolecular evolution,,,,
+physics/0311028,"Protein folding in high-dimensional spaces:hypergutters and the role of
+  non-native interactions",,,,
+physics/0311097,Rules for Minimal Atomic Multipole Expansion of Molecular Fields,,,,
+physics/0312062,The Inverse Variational Problem and Logistic Self-Regulated Systems,,,,
+physics/0312121,Electrostatic colloid-membrane complexation,,,,
+physics/0401079,"Optimizing the vertebrate vestibular semicircular canal: could we
+  balance any better?",,,,
+physics/0401100,The prosody and the music of the human speech,,,,
+physics/0401127,"A general expression for bimolecular association rates with
+  orientational constraints",,,,
+physics/0402076,Fastest learning in small world neural networks,,,,
+physics/0403040,Molecular Dynamics Simulation of Amyloid Beta Dimer Formation,,,,
+physics/0404023,"Steady-state visual evoked potentials and phase synchronization in
+  migraine",,,,
+physics/0404033,"Diagnosis of human breast cancer through wavelet transform of polarized
+  fluorescence",,,,
+physics/0404086,Fission of a multiphase membrane tube,,,,
+physics/0404089,Dynamics of Human Walking,,,,
+physics/0404093,"Discerning Aggregation in Homogeneous Ensembles: A General Description
+  of Photon Counting Spectroscopy in Diffusing Systems",,,,
+physics/0405048,Coupled dynamics of voltage and calcium in paced cardiac cells,,,,
+physics/0405152,"Mechanisms of DNA separation in entropic trap arrays: A Brownian
+  dynamics simulation",,,,
+physics/0405155,"Different Particle Sizes Obtained from Static and Dynamic Laser Light
+  Scattering",,,,
+physics/0406008,Two-State Migration of DNA in a structured Microchannel,,,,
+physics/0406017,Open-source software for generating electrocardiogram signals,,,,
+physics/0406043,"An Anderson Impurity Model for Efficient Sampling of Adiabatic Potential
+  Energy Surfaces of Transition Metal Complexes",,,,
+physics/0406044,"Conformational Dependence of a Protein Kinase Phosphate Transfer
+  Reaction",,,,
+physics/0407001,Size Information Obtained by Using Static Light Scattering Technique,,,,
+physics/0407039,Polarization forces in water deduced from single molecule data,,,,
+physics/0407054,"FDTD Simulation of Exposure of Biological Material to Electromagnetic
+  Nanopulses",,,,
+physics/0407105,Fractional diffusion modeling of ion channel gating,,,,
+physics/0407115,"Statistical evaporation of rotating clusters. IV. Alignment effects in
+  the dissociation of nonspherical clusters",,,,
+physics/0407121,"Where To Go and How To Go: a Theoretical Study of Different Leader Roles
+  in Networked Systems",,,,
+physics/0408041,"Quantitative photoluminescence of broad band absorbing melanins: A
+  procedure to correct for inner filter and re-absorption effects",,,,
+physics/0408058,Engines at molecular scales,,,,
+physics/0408063,Statistical mechanics of columnar DNA assemblies,,,,
+physics/0408071,"Rotational friction on small globular proteins: Combined dielectric and
+  hydrodynamic effect",,,,
+physics/0408085,"Phase Separation of Saturated and Mono-unsaturated Lipids as determined
+  from a Microscopic Model",,,,
+physics/0408105,Chirality Selection Models in a Closed System,,,,
+physics/0408109,GATE : a simulation toolkit for PET and SPECT,,,,
+physics/0409004,On Chemotaxis,,,,
+physics/0409027,"Discreteness-induced Stochastic Steady State in Reaction Diffusion
+  Systems: Self-consistent Analysis and Stochastic Simulations",,,,
+physics/0409085,Counterion density profiles at charged flexible membranes,,,,
+physics/0409128,The Scaling of Maximum and Basal Metabolic Rates of Mammals and Birds,,,,
+physics/0410024,Scaling of the Background Brain Dynamics and Alpha Rhythm,,,,
+physics/0410076,Multifractal Analysis of Human Retinal Vessels,,,,
+physics/0410096,"Nonlinear software sensor for monitoring genetic regulation processes
+  with noise and modeling errors",,,,
+physics/0410254,Fluctuation-Driven Molecular Transport in an Asymmetric Membrane Channel,,,,
+physics/0411017,"Non-exponential relaxation and hierarchically constrained dynamics in a
+  protein",,,,
+physics/0411048,Probabilistic two-stage model of cell inactivation by ionizing particles,,,,
+physics/0411061,Pump process of the rotatory molecular motor and its energy efficiency,,,,
+physics/0411091,Spatial snowdrift game with myopic agents,,,,
+physics/0411126,"Transition from local to global phase synchrony in small world neural
+  network and its possible implications for epilepsy",,,,
+physics/0411206,"Leave-one-out prediction error of systolic arterial pressure time series
+  under paced breathing",,,,
+physics/0411225,Stochastic Dynamics of Magnetosomes in Cytoskeleton,,,,
+physics/0412037,"Noise-Induced Transition from Translational to Rotational Motion of
+  Swarms",,,,
+physics/0412116,"Peptide Conformational Equilibria Computed via a Single-Stage Shifting
+  Protocol",,,,
+physics/0412156,"Investigating Interactions of Biomembranes and Alcohols: A Multiscale
+  Approach",,,,
+physics/0412158,"Stochastic dynamics of magnetic nanoparticles and a mechanism of
+  biological orientation in the geomagnetic field",,,,
+physics/0412163,"Thermostats for ""slow"" configurational modes",,,,
+physics/0412183,"Negative capacitance and related instabilities in theoretical models of
+  the electric double layer and membrane capacitors",,,,
+physics/0501016,Molecular recognition in a lattice model: An enumeration study,,,,
+physics/0501017,Discreteness-Induced Transitions in Autocatalytic Systems,,,,
+physics/0501055,Analysis of PIN1 WW domain through a simple Statistical Mechanics Model,,,,
+physics/0501070,Inter-base Electronic Coupling for transport through DNA,,,,
+physics/0501117,Entropy in the natural time-domain,,,,
+physics/0501123,"Asymmetric spreading in highly advective, disordered environments",,,,
+physics/0502029,Vibron-polaron in alpha-helices. I. Single-vibron states,,,,
+physics/0503057,Chirality Selection in Open Flow Systems and in Polymerization,,,,
+physics/0503090,Melting Transition of Directly-Linked Gold Nanoparticle DNA Assembly,,,,
+physics/0503097,Gel Electrophoresis of DNA Knots in Weak and Strong Electric Fields,,,,
+physics/0503109,Elastic lever arm model for myosin V,,,,
+physics/0503127,Tumor growth instability and the onset of invasion,,,,
+physics/0503144,"The effect of the range of interaction on the phase diagram of a
+  globular protein",,,,
+physics/0504058,Budding and Fission of a multiphase vesicle,,,,
+physics/0504084,Fluctuations in type IV pilus retraction,,,,
+physics/0504117,Transport Reversal in a Thermal Ratchet,,,,
+physics/0504118,Heat Flow and Efficiency in a Microscopic Engine,,,,
+physics/0504140,Model for Folding and Aggregation in RNA Secondary Structures,,,,
+physics/0504146,"Smooth/rough layering in liquid-crystalline/gel state of dry
+  phospholipid film, in relation to its ability to generate giant vesicles",,,,
+physics/0504177,Process Flow Diagram of an Ammonia Plant as a Complex Network,,,,
+physics/0504211,"Solving the Advection-Diffusion Equations in Biological Contexts using
+  the Cellular Potts Model",,,,
+physics/0504212,"Local driving and global interactions in the progression of seizure
+  dynamics",,,,
+physics/0504213,"Influence of subunit structure on the oligomerization state of light
+  harvesting complexes: a free energy calculation study",,,,
+physics/0505002,Scale dependence of branching in arterial and bronchial trees,,,,
+physics/0505107,"Alice in a micro-factory: modeling materials and mechanisms of natural
+  nano-machines",,,,
+physics/0505191,Filament attachment dynamics in actin-based propulsion,,,,
+physics/0505196,"Multiple Projection Optical Diffusion Tomography with Plane Wave
+  Illumination",,,,
+physics/0505212,"The use of a syncytium model of the crystalline lens of the human eye to
+  study the light flashes seen by astronauts",,,,
+physics/0506014,Intra-cellular transport of single-headed molecular motors KIF1A,,,,
+physics/0506058,Influence of Correlated Noises on Growth of a Tumor,,,,
+physics/0506070,An X-ray vision of cataract,,,,
+physics/0506087,"Three-Dimensional FDTD Simulation of Biomaterial Exposure to
+  Electromagnetic Nanopulses",,,,
+physics/0507014,Disorder in DNA-Linked Gold Nanoparticle Assemblies,,,,
+physics/0507059,A modelling approach towards Epidermal homoeostasis control,,,,
+physics/0507069,Extracellular polymeric bacterial coverages as minimal area surfaces,,,,
+physics/0507091,"Neutrons from fragmentation of light nuclei in tissue-like media: a
+  study with GEANT4 toolkit",,,,
+physics/0507128,"Low energy electron scattering from DNA and RNA bases: shape resonances
+  and radiation damage",,,,
+physics/0508011,"Phase diagram of a ternary mixture of cholesterol and saturated and
+  unsaturated lipids calculated from a microscopic model",,,,
+physics/0508033,Oscillations in molecular motor assemblies,,,,
+physics/0508083,On correlations and fractal characteristics of time series,,,,
+physics/0508094,Can one predict DNA Transcription Start Sites by studying bubbles?,,,,
+physics/0508095,Simple estimation of absolute free energies for biomolecules,,,,
+physics/0509044,"Comparison of metal-amino acid interaction in Phe-Ag and Tyr-Ag
+  complexes by spectroscopic measurements",,,,
+physics/0509053,"Detailed analysis of the cell-inactivation mechanism by accelerated
+  protons and light ions",,,,
+physics/0509062,Role of network connectivity in intercellular calcium oscillations,,,,
+physics/0509083,"An elasticity theory for self-assembled protein lattices with
+  application to the martensitic phase transition in bacteriophage T4 tail
+  sheath",,,,
+physics/0509138,"Velocity and processivity of helicase unwinding of double-stranded
+  nucleic acids",,,,
+physics/0509140,Vibron-polaron in alpha-helices. II. Two-vibron bound states,,,,
+physics/0509148,Influence of fluctuations in actin structure on myosin V step size,,,,
+physics/0509243,Characteristic Length Scale of Electric Transport Properties of Genomes,,,,
+physics/0510004,Monte Carlo simulation of melting transition on DNA nanocompartment,,,,
+physics/0510017,Coarse-graining protein energetics in sequence variables,,,,

@@ -1,0 +1,1356 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+quant-ph/0012089,"Bibliographic guide to the foundations of quantum mechanics and quantum
+  information",0.0052024630298989,0.018930204478485,4862.0,7.0
+quant-ph/0407110,Maximal violation of the Ardehali's inequality of $n$ qubits,0.0009093675149222,0.0,3.0,1.0
+quant-ph/0302186,Direction Cryptography in Quantum Communications,0.0007045935811306,0.0,4.0,0.0
+quant-ph/0702225,Quantum entanglement,0.0006340077756336,0.002243350360692,608.0,14.0
+quant-ph/0202122,Fundamentals of Quantum Information Theory,0.0005610231463584,0.0189108251834824,16.0,19.0
+quant-ph/0207102,"On Geometric Realization of Quantum Computations in Externally Driven
+  4-Level System",0.0005587653230089,0.0,4.0,0.0
+quant-ph/0210190,Measurement and Physical Content of Quantum Information,0.0005585181813604,0.0,5.0,0.0
+quant-ph/0407029,Maximal violation of Mermin's inequalities,0.0005584664708616,0.0,2.0,2.0
+quant-ph/0206038,Spatial antibunching of photons with parametric down-conversion,0.0005578903657811,1.990182755160072e-06,1.0,1.0
+quant-ph/0612072,"Entanglement Distillation; A Discourse on Bound Entanglement in Quantum
+  Information Theory",0.0001629314294819,4.643366465148314e-06,248.0,2.0
+hep-th/0406024,The Casimir effect: Recent controversies and progress,0.0001334966807302,0.0011336120088899,193.0,26.0
+quant-ph/0410036,"Informal Resource Letter - Nonlinear quantum mechanics on arXiv up to
+  August 2004",0.0001027148630164,0.000338552582253,122.0,9.0
+hep-th/0702159,"Deformed Special Relativity and Deformed Symmetries in a Canonical
+  Framework",9.923390119200172e-05,0.0,28.0,0.0
+quant-ph/0703044,Entanglement in Many-Body Systems,9.60997531994056e-05,0.0001067060995236,26.0,9.0
+quant-ph/0612105,"Numerical Bayesian state assignment for a three-level quantum system. I.
+  Absolute-frequency data; constant and Gaussian-like priors",8.659885349415206e-05,2.418966422278609e-06,36.0,3.0
+cond-mat/0606771,"Ultracold atomic gases in optical lattices: mimicking condensed matter
+  physics and beyond",7.970681459008962e-05,0.000176218172033,70.0,37.0
+quant-ph/0506126,Towards Large-Scale Quantum Computation,7.474296946831349e-05,0.0,145.0,0.0
+hep-th/0609075,Entanglement and Nonunitary Evolution,7.468247612459961e-05,1.1592489713815726e-06,46.0,1.0
+quant-ph/0702069,Entanglement of Gaussian states,7.087483376295203e-05,6.911855839937879e-07,45.0,1.0
+quant-ph/0605224,Reexamination of Quantum Bit Commitment: the Possible and the Impossible,7.020541567552839e-05,1.208916090634341e-05,37.0,5.0
+quant-ph/0701221,"Entanglement in continuous variable systems: Recent advances and current
+  perspectives",6.902398812265861e-05,2.498256512854964e-05,20.0,4.0
+quant-ph/0608251,"Probability Representation of Quantum Mechanics: Comments and
+  Bibliography",6.67073340606102e-05,0.0,57.0,0.0
+hep-th/0612067,Quantum Entanglement of Baby Universes,6.664143546943237e-05,5.594876299459025e-08,31.0,1.0
+quant-ph/0605009,"The Information-Disturbance Tradeoff and the Continuity of Stinespring's
+  Representation",6.651629102210748e-05,2.025352531815853e-05,21.0,2.0
+quant-ph/0702134,Qubit-Qubit and Qubit-Qutrit Separability Functions and Probabilities,6.472988988220338e-05,2.501039943166904e-06,10.0,1.0
+cond-mat/0702620,"Long-range coupling and scalable architecture for superconducting flux
+  qubits",6.334675799107252e-05,1.968210794208611e-06,44.0,1.0
+quant-ph/0609102,Entanglement and local information access for graph states,6.186217315756173e-05,3.376543967097538e-06,8.0,4.0
+quant-ph/0702255,"The Jamio{\l}kowski isomorphism and a conceptionally simple proof for
+  the correspondence between vectors having Schmidt number $k$ and $k$-positive
+  maps",6.0311369567572304e-05,0.0,2.0,0.0
+math-ph/0610024,"Non-linear Supersymmetry for non-Hermitian, non-diagonalizable
+  Hamiltonians: I. General properties",5.861393341719914e-05,3.470755954416184e-07,9.0,1.0
+gr-qc/0606091,Probing the cosmological singularity with a particle,5.633017233349121e-05,8.04695997556055e-07,25.0,1.0
+quant-ph/0511088,Quantum cloning,5.500068239234266e-05,0.0,11.0,1.0
+quant-ph/0609071,"Optical state engineering, quantum communication, and robustness of
+  entanglement promiscuity in three-mode Gaussian states",5.377908440475896e-05,0.0,6.0,2.0
+math-ph/0610022,"Non-linear Supersymmetry for non-Hermitian, non-diagonalizable
+  Hamiltonians: II. Rigorous results",5.369724942158053e-05,0.0,4.0,1.0
+quant-ph/0408094,Measures of entanglement in quantum mechanics,5.352634511629505e-05,1.223196862537766e-05,69.0,4.0
+math-ph/0702034,H = x p with interaction and the Riemann zeros,5.202224370334766e-05,0.0,23.0,0.0
+quant-ph/0701085,A Dirac sea pilot-wave model for quantum field theory,5.120406426958695e-05,0.0,21.0,0.0
+hep-th/0408028,"Non-Hermitian Quantum Theory and its Holomorphic Representation:
+  Introduction and Some Applications",4.99260700990761e-05,7.562389019912034e-05,59.0,17.0
+gr-qc/0110034,Introduction to Modern Canonical Quantum General Relativity,4.971829053364679e-05,0.000917367405873,220.0,232.0
+hep-th/0502134,The Cocycle of the Quantum HJ Equation and the Stress Tensor of CFT,4.8593131874039263e-05,4.118284273356369e-06,28.0,3.0
+quant-ph/0502106,Quantum Channels with Memory,4.803228509552287e-05,0.0001798160916203,32.0,13.0
+quant-ph/0604183,"The Structure of Bipartite Quantum States - Insights from Group Theory
+  and Cryptography",4.728794541558457e-05,0.0001250543761067,111.0,8.0
+quant-ph/0609178,"Coexistence of unlimited bipartite and genuine multipartite
+  entanglement: Promiscuous quantum correlations arising from discrete to
+  continuous variable systems",4.720848124746504e-05,1.852810879226397e-05,5.0,4.0
+hep-th/0605142,"Entanglement-Entropy for Groundstates, Low-lying and Highly Excited
+  Eigenstates of General (Lattice) Hamiltonians",4.68045241899141e-05,3.898439859746586e-07,23.0,1.0
+quant-ph/0311037,Tema Con Variazioni: Quantum Channel Capacity,4.665369852585199e-05,0.004783251921455,36.0,8.0
+quant-ph/0610018,Optimal quantum chain communication by end gates,4.546299325897943e-05,0.0,6.0,0.0
+quant-ph/0304183,On entanglement at tripartite states,4.429900144479242e-05,0.0,11.0,0.0
+gr-qc/0508085,Quantum Black Holes: Entropy and Entanglement on the Horizon,4.381477347316018e-05,0.0124540305815942,18.0,11.0
+quant-ph/0612059,"Some thoughts on an information-theoretic motivated nonlinear
+  Schrodinger equation",4.379083781422497e-05,0.0,4.0,0.0
+hep-th/0610173,Casimir piston for massless scalar fields in three dimensions,4.342001359925139e-05,2.508028281639844e-06,6.0,3.0
+math-ph/0703041,"The spherically symmetric alpha2-dynamo and some of its spectral
+  peculiarities",4.335022354711507e-05,0.0,24.0,0.0
+cond-mat/9912459,Fractons and high-$T_{c}$ superconductivity,4.301186862557745e-05,6.742505775842128e-05,45.0,4.0
+quant-ph/0702116,Fundamentals of universality in one-way quantum computation,4.293402141541981e-05,3.906340707534042e-08,28.0,1.0
+quant-ph/0312188,"A discrete approach to the vacuum Maxwell equations and the fine
+  structure constant",4.212063609622143e-05,0.0,6.0,0.0
+hep-th/0101126,M(atrix) Theory: Matrix Quantum Mechanics as a Fundamental Theory,4.2040360088139445e-05,0.0006557002943782,275.0,110.0
+quant-ph/0605219,Classical simulators of quantum computers and no-go theorems,4.192703788960801e-05,0.0,13.0,0.0
+cond-mat/0703075,Incomplete pure dephasing of N-qubit entangled W states,4.1898608679540206e-05,3.980365510320144e-06,4.0,2.0
+cond-mat/0703005,Phase-space theory for dispersive detectors of superconducting qubits,4.130040039038486e-05,2.4753516855224776e-09,6.0,1.0
+quant-ph/0511145,Semantics and simulation of communication in quantum programming,4.011662524909751e-05,0.0,6.0,0.0
+quant-ph/0206086,How to correct small quantum errors,4.009861647503513e-05,0.0012848565036907,5.0,4.0
+quant-ph/0703277,"Strong Monogamy of Bipartite and Genuine Multipartite Entanglement: The
+  Gaussian Case",4.008789908415268e-05,1.527454408018397e-05,4.0,1.0
+math-ph/0607019,"Properties of probability measures on the set of quantum states and
+  their applications",3.990394346929994e-05,4.706859817682484e-06,7.0,1.0
+hep-th/0407077,Nonlinear Supersymmetry for Spectral Design in Quantum Mechanics,3.976997377001184e-05,6.665525786920046e-06,19.0,7.0
+quant-ph/0206088,An introduction to quantum coin-tossing,3.927740558760403e-05,2.274042286220029e-05,6.0,4.0
+quant-ph/0611035,"Determination of ground state properties in quantum spin systems by
+  single qubit unitary operations and entanglement excitation energies",3.926335865251154e-05,0.0,2.0,1.0
+quant-ph/0405096,Witnessed Entanglement,3.9162160250694925e-05,0.0001106119465858,5.0,9.0
+quant-ph/0611187,Philosophical Aspects of Quantum Information Theory,3.9009625123535305e-05,2.1052564976842155e-06,42.0,1.0
+hep-ph/0612092,"Sterile neutrino production via active-sterile oscillations: the quantum
+  Zeno effect",3.891463563107944e-05,3.597463253987063e-07,18.0,2.0
+quant-ph/0401041,"Quantum Watermarking by Frequency of Error when Observing Qubits in
+  Dissimilar Bases",3.87655033506555e-05,0.0,4.0,0.0
+math-ph/0207041,"Entropy production rates of bistochastic strictly contractive quantum
+  channels on a matrix algebra",3.84056369936268e-05,1.990182755160072e-06,1.0,1.0
+gr-qc/9412012,Classical and quantum inertia: A matter of principles,3.831044912651539e-05,3.2868802569893664e-06,69.0,1.0
+quant-ph/0703025,"Weighted complex projective 2-designs from bases: optimal state
+  determination by orthogonal measurements",3.8247395833527815e-05,0.0,10.0,0.0
+quant-ph/0512255,"Applications of coherent classical communication and the Schur transform
+  to quantum information theory",3.80723835396302e-05,6.467235765159621e-05,116.0,2.0
+quant-ph/0207045,A discrete and finite approach to past proper time,3.799946818088913e-05,1.990182755160072e-06,33.0,1.0
+cond-mat/0512586,Entanglement Entropy dynamics in Heisenberg chains,3.759645744280023e-05,8.191952116440294e-06,49.0,4.0
+quant-ph/0605112,Area law and vacuum reordering in harmonic networks,3.671368393967909e-05,0.0001198259834895,57.0,4.0
+quant-ph/0609163,Quantum mechanics: Myths and facts,3.631507669829961e-05,5.0936099066084e-06,29.0,4.0
+quant-ph/0508144,Quantum measurement of a mesoscopic spin ensemble,3.61050168599526e-05,9.910764125709416e-05,30.0,10.0
+quant-ph/0506243,The de Broglie-Bohm pilot-wave interpretation of quantum theory,3.607024913790137e-05,2.617734737436917e-06,48.0,5.0
+math-ph/0702088,Exact propagators for SUSY partners,3.572119978034615e-05,0.0,10.0,0.0
+quant-ph/0607124,"The ""Unromantic Pictures"" of Quantum Theory",3.563777801108523e-05,1.1123708285163329e-07,37.0,1.0
+quant-ph/0608190,Subjective probability and quantum certainty,3.515534511111524e-05,1.4203772077556728e-05,5.0,3.0
+quant-ph/0701149,Conditional Entanglement,3.499389404517219e-05,0.0,7.0,1.0
+quant-ph/0409009,Comparison of the relative entropy of entanglement and negativity,3.490738542741903e-05,0.0020808233280087,2.0,1.0
+quant-ph/0601093,"Tensor Universality, Quantum Information Flow, Coecke's Theorem, and
+  Generalizations",3.4137312097058506e-05,7.833884555778705e-07,7.0,1.0
+quant-ph/0604109,"Universal observable detecting all two-qubit entanglement and
+  determinant based separability tests",3.392430997075888e-05,0.0001021077098592,3.0,9.0
+quant-ph/0703097,Separability in terms of a single entanglement witness,3.357586277901993e-05,0.0,3.0,1.0
+hep-th/0503040,"Infinite-dimensional representations of the rotation group and Dirac's
+  monopole problem",3.346501018852585e-05,2.704794259531393e-07,23.0,1.0
+quant-ph/0703241,"Irreversible decay of nonlocal entanglement via a reservoir of a single
+  degree of freedom",3.3456499547593144e-05,0.0,2.0,1.0
+quant-ph/0606173,"Krein-Space Formulation of PT-Symmetry, CPT-Inner Products, and
+  Pseudo-Hermiticity",3.3403743507715734e-05,2.1926317669870304e-06,41.0,2.0
+math/0702188,"Higher Dimensional Unitary Braid Matrices: Construction, Associated
+  Structures and Entanglements",3.330901707595927e-05,0.0,13.0,0.0
+hep-ph/0307359,Flavor Mixing and CP Violation of Massive Neutrinos,3.318149821025765e-05,0.0001485707681837,54.0,22.0
+quant-ph/0606103,Survival of entanglement in thermal states,3.314596775193665e-05,4.9257878785790256e-06,2.0,3.0
+quant-ph/0604145,Strengthened Bell inequalities for orthogonal spin directions,3.307242949388972e-05,1.2617573911140187e-05,1.0,6.0
+hep-th/0512221,One loop boundary effects: techniques and applications,3.298860894348222e-05,3.2223995094470315e-06,20.0,3.0
+math-ph/0501069,"MHD alpha^2-dynamo, Squire equation and PT-symmetric interpolation
+  between square well and harmonic oscillator",3.2687250390917074e-05,3.576220582223331e-05,49.0,8.0
+quant-ph/0703088,"Exact Master Equation and Quantum Decoherence of Two Coupled Harmonic
+  Oscillators in a General Environment",3.253358636589743e-05,0.0,8.0,0.0
+quant-ph/0701194,Computation at a distance,3.243582429609468e-05,0.0,2.0,0.0
+quant-ph/0610078,"Effective Quantum Dynamics of Interacting Systems with Inhomogeneous
+  Coupling",3.2426036225202184e-05,2.014936272015297e-06,4.0,1.0
+physics/0210027,Wavelength-Dependent Effects in Maxwell Optics,3.240729282834866e-05,0.0,12.0,1.0
+physics/0210028,Analogies between light optics and charged-particle optics,3.240729282834866e-05,0.0,12.0,1.0
+quant-ph/0409153,"A comparative study of relative entropy of entanglement, concurrence and
+  negativity",3.217084442796205e-05,0.0020788331452536,1.0,2.0
+gr-qc/0610076,Topological charges and quasi-charges in Absolute Parallelism,3.2056761949874424e-05,0.0,18.0,0.0
+gr-qc/0610072,Hamiltonian and physical Hilbert space in polymer quantum mechanics,3.1937297694387387e-05,0.0,11.0,0.0
+cond-mat/0601372,Quantum phase transitions from topology in momentum space,3.1877638424797416e-05,6.901020500629588e-05,21.0,13.0
+hep-th/0703052,Dual oscillators and Quantum Pendulums: spectrum and correlators,3.175464885779325e-05,0.0,2.0,0.0
+math-ph/0703085,PT Symmetry on the Lattice: The Quantum Group Invariant XXZ Spin-Chain,3.175464885779325e-05,0.0,2.0,0.0
+gr-qc/0505019,"Planck Fluctuations, Measurement Uncertainties and the Holographic
+  Principle",3.172529445106314e-05,2.757629770942913e-07,14.0,1.0
+quant-ph/0503053,Moduli of Quanta,3.1578871245477884e-05,0.0,11.0,0.0
+quant-ph/0703131,"Exact solutions of the Schrodinger equation in D-dimensions for the
+  pseudoharmonic potential plus ring-shaped potential",3.144973708320859e-05,0.0,12.0,0.0
+quant-ph/0605097,On connection between purity and fidelity of quantum channels,3.134908916439183e-05,0.0,4.0,0.0
+quant-ph/0605005,Thermal corrections to the Casimir effect,3.109552349698936e-05,8.053637155939345e-06,29.0,6.0
+hep-th/0605035,"General Aspects of PT-Symmetric and P-Self-Adjoint Quantum Theory in a
+  Krein Space",3.076121598265733e-05,9.854685064134128e-06,35.0,6.0
+quant-ph/0703243,Ensemble averaged entanglement of two-particle states in Fock space,3.06875102365303e-05,0.0,8.0,0.0
+hep-th/0503034,"Nonassociativity, Dirac monopoles and Aharonov-Bohm effect",3.068271520554885e-05,0.0,12.0,1.0
+hep-th/0701284,Quantization of the Riemann Zeta-Function and Cosmology,3.0195277160457743e-05,3.578789955445424e-07,23.0,1.0
+quant-ph/0608142,The Learnability of Quantum States,2.9945473490907715e-05,1.8858740241051435e-06,15.0,1.0
+quant-ph/0510234,"Quantization of the canonically conjugate pair angle and orbital angular
+  momentum",2.991114289730689e-05,5.721351075081976e-06,7.0,5.0
+quant-ph/0703037,Efficient quantum processing of 3-manifold topological invariants,2.9900214090145048e-05,0.0,18.0,0.0
+hep-th/0612299,Local and Global Casimir Energies in a Green's Function Approach,2.9860421252782272e-05,0.0,19.0,0.0
+quant-ph/0511219,Time reversal and exchange symmetries of unitary gate capacities,2.9741638976751317e-05,9.919181785692423e-06,31.0,3.0
+quant-ph/0607111,`Plausibilities of plausibilities': an approach through circumstances,2.9490507598205e-05,2.392319834497903e-06,14.0,3.0
+hep-th/0511056,Scalar Casimir effect between Dirichlet spheres or a plate and a sphere,2.9469249447483498e-05,8.206717307101855e-06,24.0,6.0
+hep-th/0405186,"Self-Gravitational Corrections to the Cardy-Verlinde Formula and the FRW
+  Brane Cosmology in SdS_5 Bulk",2.9332121387475456e-05,1.042645514290262e-05,86.0,12.0
+quant-ph/0607065,"Architecture of a Quantum Multicomputer Optimized for Shor's Factoring
+  Algorithm",2.930941567873998e-05,3.980365510320144e-06,56.0,2.0
+hep-th/0610317,"Bosonized supersymmetry of anyons and supersymmetric exotic particle on
+  the non-commutative plane",2.9218520050792185e-05,7.204098055205758e-06,19.0,1.0
+quant-ph/0501108,Fault testing quantum switching circuits,2.8964195661673582e-05,0.0,4.0,0.0
+quant-ph/0602012,Nonlinear Quantum Gravity,2.8933496722867288e-05,2.414685016473306e-06,10.0,1.0
+math-ph/0611036,"A globally diagonalizable alpha^2-dynamo operator, SUSY QM and the Dirac
+  equation",2.883711557079506e-05,1.2654032284563352e-06,5.0,2.0
+hep-th/0510268,"Extension of the Poincar\'e Symmetry and Its Field Theoretical
+  Implementation",2.856637996197041e-05,0.0,21.0,0.0
+quant-ph/0504166,Some Open Problems in Quantum Information Theory,2.846473565900145e-05,0.0001461349270972,124.0,15.0
+hep-th/0008222,"Fractal statistics, fractal index and fractons",2.8286897607004105e-05,6.779994806793523e-05,6.0,1.0
+quant-ph/0609022,Information transfer rates in spin quantum channels,2.806849251796854e-05,5.776939848396074e-07,8.0,1.0
+quant-ph/0506082,Between classical and quantum,2.8023627677735243e-05,3.433899330460482e-06,18.0,3.0
+quant-ph/0412196,Algorithmic approach to quantum physics,2.799261790556405e-05,3.7612931638180426e-06,15.0,2.0
+hep-th/0607154,"Local and Global Casimir Energies for a Semitransparent Cylindrical
+  Shell",2.7930805570261707e-05,2.1883003365784575e-07,25.0,3.0
+math-ph/0703030,Complex WKB Analysis of a PT Symmetric Eigenvalue Problem,2.7854030242884743e-05,0.0,6.0,0.0
+quant-ph/0701043,Communication Links for Distributed Quantum Computation,2.762518150483023e-05,3.286687519182272e-06,15.0,2.0
+quant-ph/0412143,Limits on Efficient Computation in the Physical World,2.7521244920157797e-05,0.0029479994478036,100.0,3.0
+hep-th/0605104,Hidden supersymmetry in quantum bosonic systems,2.715396439815789e-05,5.213915300045686e-06,1.0,3.0
+quant-ph/0605148,"On the Relationship between Convex Bodies Related to Correlation
+  Experiments with Dichotomic Observables",2.7101047547332137e-05,0.0,11.0,1.0
+quant-ph/0612229,Decoherence vs entanglement in coined quantum walks,2.7100757828689455e-05,0.0019432409167341,31.0,2.0
+hep-th/0202077,Nonlinear Holomorphic Supersymmetry on Riemann Surfaces,2.6796526841133693e-05,8.30330479912582e-06,41.0,6.0
+hep-th/0203101,The holographic principle,2.6792731942989708e-05,0.0012590856524727,151.0,153.0
+quant-ph/0611045,Entanglement properties in the Inhomogeneous Tavis-Cummings model,2.6606457911606767e-05,2.4753516855224774e-08,2.0,1.0
+quant-ph/0511188,Spatial Degrees of Freedom in Everett Quantum Mechanics,2.657041188715381e-05,0.0,20.0,0.0
+quant-ph/0603170,Supersymmetric Biorthogonal Quantum Systems,2.651513499510356e-05,1.2170933579680675e-06,36.0,2.0
+quant-ph/0602177,Nonlinear Pseudo-Supersymmetry in the Framework of N-fold Supersymmetry,2.6415753979830133e-05,8.535887644292904e-06,26.0,4.0
+cond-mat/0503393,Evolution of Entanglement Entropy in One-Dimensional Systems,2.636293790144465e-05,1.4702083283136426e-05,43.0,6.0
+quant-ph/0508211,Information processing in generalized probabilistic theories,2.6290391592681025e-05,0.0001409846154468,13.0,8.0
+math-ph/0307044,Mathematics of the Quantum Zeno Effect,2.61452811850518e-05,2.0978605534803e-06,25.0,2.0
+cond-mat/0702377,A symmetry principle for Topological Quantum Order,2.6012945790067054e-05,6.612540766820622e-06,12.0,2.0
+quant-ph/0608167,Natural Philosophy and Quantum Theory,2.597129781849388e-05,0.0,8.0,0.0
+quant-ph/0504115,"Logical analysis of the Bohr Complementarity Principle in Afshar's
+  experiment under the NAFL interpretation",2.595032726541794e-05,3.980365510320144e-06,9.0,2.0
+math/0510572,The Riemann zeros and the cyclic Renormalization Group,2.572480989432688e-05,7.713413065315143e-07,24.0,2.0
+quant-ph/0703014,Quantum Capacity of a dephasing channel with memory,2.5572794952459527e-05,1.990182755160072e-06,6.0,1.0
+quant-ph/0701087,"Numerical Bayesian quantum-state assignment for a three-level quantum
+  system. II. Average-value data with a constant, a Gaussian-like, and a Slater
+  prior",2.543142061413375e-05,2.365728968020768e-08,7.0,3.0
+quant-ph/0607188,Symmetries and noise in quantum walk,2.541999862143836e-05,1.990182755160072e-06,5.0,1.0
+hep-th/0606256,Universal terms for the entanglement entropy in 2+1 dimensions,2.535054771216607e-05,2.667851963595028e-05,40.0,5.0
+quant-ph/0605123,Exact Solutions of a Non-Polynomially Nonlinear Schrodinger Equation,2.5279784747736336e-05,0.0,7.0,1.0
+quant-ph/0508147,Fault Models for Quantum Mechanical Switching Networks,2.519417089588332e-05,1.8774658480514592e-06,47.0,1.0
+gr-qc/0409090,Some Thoughts on Energy Conditions and Wormholes,2.5057722029140792e-05,5.357432399675685e-05,53.0,17.0
+quant-ph/0511271,"Quantum thermodynamics with missing reference frames: Decompositions of
+  free energy into non-increasing components",2.492592121685153e-05,3.765383753557684e-06,9.0,2.0
+hep-th/0407109,"Planar Supersymmetric Quantum Mechanics of a Charged Particle in an
+  External Electromagnetic Field",2.4853606746989596e-05,3.553897777071557e-08,19.0,1.0
+math-ph/0405065,Quantization Methods: A Guide for Physicists and Analysts,2.47129562554361e-05,8.672879663207532e-06,32.0,4.0
+quant-ph/0612004,"Error-detection-based quantum fault tolerance against discrete Pauli
+  noise",2.47059267988969e-05,6.76279449593308e-06,61.0,3.0
+quant-ph/0404087,Position Uncertainty Measures on the Sphere,2.460276306527154e-05,2.256749199008804e-08,13.0,1.0
+quant-ph/0608074,Optimal estimation of qubit states with continuous time measurements,2.4536567177265894e-05,1.600508011479449e-06,5.0,1.0
+hep-th/0504206,"Two-dimensional models as testing ground for principles and concepts of
+  local quantum physics",2.449504925217136e-05,0.0003279106991419,13.0,5.0
+quant-ph/0506026,"Standard and Non-Standard Quantum Models : A Non-Commutative Version of
+  the Classical System of SU(2) and SU(1,1) Arising from Quantum Optics",2.441855079245103e-05,0.0,16.0,0.0
+hep-th/0402025,Nonlinear supersymmetry: from classical to quantum mechanics,2.434753370005096e-05,5.401196394110647e-06,35.0,1.0
+quant-ph/0611271,Entanglement entropy and the simulation of Quantum Mechanics,2.406752181665348e-05,0.0,20.0,0.0
+quant-ph/0210072,Combined Error Correction Techniques for Quantum Computing Architectures,2.40527624851176e-05,3.928842916530315e-05,46.0,2.0
+cond-mat/0303629,Evolution of the macroscopically entangled states in optical lattices,2.397923542013128e-05,1.8492987423955008e-06,9.0,1.0
+quant-ph/0509132,N-fold Supersymmetry in Quantum Systems with Position-dependent Mass,2.3943055934098124e-05,0.0,27.0,2.0
+quant-ph/0405168,Rethinking Renormalization for Quantum Phase Transitions,2.361285151560411e-05,2.7833124114212274e-05,72.0,2.0
+quant-ph/0607069,Spatial Entanglement of a Free Bosonic Field,2.3598055237315268e-05,1.709026242410768e-05,6.0,9.0
+quant-ph/0605142,Into the Fold: Searching for a Theory of Natural Inference,2.308236712161412e-05,7.4260550565674335e-09,8.0,1.0
+hep-th/0703038,Cryptoreality of nonanticommutative Hamiltonians,2.292154566576993e-05,0.0,24.0,0.0
+cond-mat/0509161,"Extended Bose Hubbard model of interacting bosonic atoms in optical
+  lattices: from superfluidity to density waves",2.2876563503584783e-05,1.883739282218597e-06,7.0,1.0
+cs/0607036,Combinatorial laplacians and positivity under partial transpose,2.281742582748254e-05,1.990182755160072e-06,21.0,1.0
+quant-ph/0609162,A Quantum Broadcasting Problem in Classical Low Power Signal Processing,2.279358738767343e-05,0.0,8.0,0.0
+hep-th/9908149,Casimir Effect: The Classical Limit,2.279002845135685e-05,1.0483804371132428e-05,30.0,6.0
+quant-ph/0610203,"Security of quantum key distribution using weak coherent states with
+  nonrandom phases",2.2402816940206787e-05,2.44669599442045e-06,35.0,2.0
+quant-ph/0605120,"Interference, reduced action, and trajectories",2.2348203753675597e-05,2.227444283634061e-08,23.0,1.0
+quant-ph/0507015,Biorthogonal Quantum Systems,2.226766093058756e-05,0.0006267113523599,46.0,10.0
+quant-ph/0506122,A Quantum-Classical Brackets from p-Mechanics,2.219891532634544e-05,0.0,12.0,0.0
+hep-th/0309077,Affine Toda-Sutherland Systems,2.2089077001803637e-05,3.41774098290059e-08,15.0,1.0
+quant-ph/0701244,"GHZ States, Almost-Complex Structure and Yang--Baxter Equation (I)",2.1884032266412956e-05,8.627163219779175e-07,16.0,1.0
+quant-ph/0401031,Quantum wave packet revivals,2.1820607395539963e-05,1.3931279286120504e-05,27.0,3.0
+nucl-th/0509038,"Unusual photon isospin mixing and instantaneous Coulomb effects on the
+  thermodynamics of compact matter",2.1773411044473262e-05,1.3739411425512132e-05,9.0,4.0
+quant-ph/0606213,Local asymptotic normality in quantum statistics,2.169615868993776e-05,0.0,4.0,1.0
+quant-ph/0612107,"How a Clebsch-Gordan Transform Helps to Solve the Heisenberg Hidden
+  Subgroup Problem",2.157632942233928e-05,0.0,18.0,0.0
+quant-ph/0703264,Accuracy threshold for postselected quantum computation,2.1572283088702896e-05,3.982974140964669e-06,17.0,2.0
+quant-ph/0602126,Optimization and Realization of Quantum Devices,2.156696826082669e-05,0.0,31.0,0.0
+hep-th/0605073,Aspects of Holographic Entanglement Entropy,2.1539730622958735e-05,0.0001775911696064,79.0,14.0
+quant-ph/0307168,"Cavity QED and Quantum Computation in the Strong Coupling Regime II :
+  Two Atoms Case",2.148857127398937e-05,0.0,20.0,0.0
+hep-th/0611098,"The arrow of time, black holes, and quantum mixing of large N Yang-Mills
+  theories",2.142403223918929e-05,1.727620484028373e-06,43.0,6.0
+quant-ph/0607144,"The basic principles to construct a generalized state-locking pulse
+  field and simulate efficiently the reversible and unitary halting protocol of
+  a universal quantum computer",2.1404457593472104e-05,0.0,24.0,0.0
+quant-ph/0503230,Programmable Quantum Networks with Pure States,2.13489929815028e-05,1.93454984705114e-06,34.0,3.0
+quant-ph/0702094,Generalising Landauer's Principle,2.1292225320421533e-05,1.990182755160072e-06,10.0,2.0
+astro-ph/0510763,"On possible manifestation of feedback coupling between geometry and
+  matter in a phenomenon of an accelerating expansion of the Universe",2.1287911444747368e-05,0.0,30.0,0.0
+quant-ph/0611106,Pauli Diagonal Channels Constant on Axes,2.1269663032701248e-05,3.980365510320144e-06,20.0,1.0
+quant-ph/0506005,"Common Axioms for Inferring Classical Ensemble Dynamics and Quantum
+  Theory",2.123728825865472e-05,8.050395133909907e-06,11.0,3.0
+quant-ph/0701112,Fault-Tolerant Quantum Computation,2.122082832246173e-05,7.537181884928618e-06,10.0,4.0
+hep-th/0608213,AdS/CFT and Strong Subadditivity of Entanglement Entropy,2.1128781892760686e-05,2.913840794070237e-06,39.0,6.0
+cond-mat/0306401,All-Electrical Quantum Computation with Mobile Spin Qubits,2.1047147224424804e-05,0.0001810231193308,23.0,4.0
+quant-ph/0609118,Entangling spins by measuring charge: a parity-gate toolbox,2.097632943718752e-05,0.0,15.0,0.0
+quant-ph/0407252,"Generalized Coherent States for q-oscillator connected with discrete
+  q-Hermite polynomials",2.0898248991081292e-05,1.990182755160072e-06,22.0,1.0
+quant-ph/0610262,"An application of renormalization in Hilbert space at phase transition
+  points in strongly interacting systems",2.089643844347483e-05,0.0,7.0,0.0
+hep-th/0508001,Local Casimir Energies for a Thin Spherical Shell,2.0837963463432537e-05,1.0454697822760071e-05,15.0,6.0
+quant-ph/0502097,"Simple examples of position-momentum correlated Gaussian free-particle
+  wavepackets in one-dimension with the general form of the time-dependent
+  spread in position",2.0713831063922317e-05,7.960731020640288e-06,5.0,3.0
+quant-ph/0605141,Worldline algorithms for Casimir configurations,2.0618360630804253e-05,1.857744113254152e-07,14.0,2.0
+hep-th/0611340,"Towards a universal set of topologically protected gates for quantum
+  computation with Pfaffian qubits",2.05486232214824e-05,0.0,29.0,0.0
+hep-th/0611176,"Boundary one-point function, Casimir energy and boundary state formalism
+  in D+1 dimensional QFT",2.050499972548432e-05,3.729909882285108e-06,20.0,2.0
+quant-ph/0610030,"Reference frames, superselection rules, and quantum information",2.0462334577716103e-05,8.008193375004005e-06,21.0,6.0
+cond-mat/0411007,"Resolving the order parameter of High-T$_{c}$ Superconductors through
+  quantum pumping spectroscopy",2.040257645806273e-05,0.0,11.0,0.0
+quant-ph/0610243,"Global stability criterion for a quantum feedback control process on a
+  single qubit and exponential stability in case of perfect detection
+  efficiency",2.0357104101980425e-05,0.0,13.0,0.0
+hep-th/0507038,"Title Area density of localization-entropy I: the case of
+  wedge-localization",2.030854862969041e-05,0.0009720945838158,8.0,2.0
+quant-ph/0612169,Gradient Echo Quantum Memory for Light using Two-level Atoms,2.0301939083509544e-05,1.990182755160072e-06,2.0,1.0
+quant-ph/0501110,Entanglement and majorization in (1+1)-dimensional quantum systems,2.027357375110605e-05,0.0001816731246919,18.0,8.0
+quant-ph/0304062,Weakly nonlocal fluid mechanics - the Schrodinger equation,2.0246079150786195e-05,1.5023862150768109e-05,9.0,4.0
+cond-mat/0303628,"Quantum corrections to the dynamics of interacting bosons: beyond the
+  truncated Wigner approximation",2.022392650380669e-05,0.0,3.0,1.0
+quant-ph/0612032,A New Look at the Quantum Mechanics of the Harmonic Oscillator,2.019527788076137e-05,5.543834974602737e-07,11.0,1.0
+gr-qc/0601028,Constrained Mechanics and Noiseless Subsystems,2.016555222200716e-05,7.927088525079281e-06,28.0,5.0
+quant-ph/0507145,"Explanation of the Gibbs paradox within the framework of quantum
+  thermodynamics",2.0136027556676496e-05,0.0,10.0,1.0
+hep-th/0511285,Quantum degrees of freedom of a region of spacetime,2.00925286118961e-05,0.0007460252965615,20.0,1.0
+cond-mat/0409771,Coherent and Collective Quantum Optical Effects in Mesoscopic Systems,1.996216974645058e-05,2.3408839160347147e-05,14.0,4.0
+quant-ph/0512224,Are quantum correlations symmetric ?,1.9962023937656463e-05,4.3191079241778365e-06,19.0,3.0
+quant-ph/0607222,"Universality in an Information-theoretic Motivated Nonlinear Schrodinger
+  Equation",1.9954815402111634e-05,1.945430290366792e-06,4.0,2.0
+quant-ph/0608085,Quantum universality by state distillation,1.993120985530972e-05,1.6885479689330396e-06,19.0,2.0
+hep-th/0610138,"Bohmian mechanics in relativistic quantum mechanics, quantum field
+  theory and string theory",1.9908058189811188e-05,0.0,9.0,0.0
+hep-ph/0501268,Relativistic Harmonic Oscillator,1.9770132113706767e-05,0.0,26.0,1.0
+math/0703751,Noncommutative Spectral Decomposition with Quasideterminant,1.974606132436628e-05,0.0,8.0,0.0
+cond-mat/0703311,"Coherence and Entanglement in Two-Qubit Dynamics: Interplay of the
+  Induced Exchange Interaction and Quantum Noise due to Thermal Bosonic
+  Environment",1.9735105628616856e-05,0.0,2.0,0.0
+gr-qc/0510042,Quantum mechanics without spacetime: a case for noncommutative geometry,1.971379177761442e-05,2.117635218872196e-06,14.0,2.0
+quant-ph/0606016,Decoherence in quantum walks - a review,1.9656914491426964e-05,0.0009735723763983,11.0,9.0
+quant-ph/0702264,Entanglement of thermal scalar fields in a compact space space,1.9554118723963816e-05,0.0,4.0,0.0
+quant-ph/0702231,Pre- and post-selected ensembles and time-symmetry in quantum mechanics,1.9549846488517345e-05,0.0,6.0,0.0
+quant-ph/0609205,Group Theoretical Formulation of Quantum Partial Search Algorithm,1.954294572487797e-05,1.990182755160072e-06,11.0,1.0
+quant-ph/0607160,Arithmetic on a Distributed-Memory Quantum Multicomputer,1.9514649164177545e-05,1.990182755160072e-06,16.0,1.0
+quant-ph/0611209,"Exponential separations for one-way quantum communication complexity,
+  with applications to cryptography",1.945663178237001e-05,4.950703371044955e-09,4.0,1.0
+hep-th/0506121,Simultaneous Type A N-fold Supersymmetry with Two Different Values of N,1.9383781079221257e-05,9.859817526903826e-09,15.0,2.0
+quant-ph/0507208,Topology of the three-qubit space of entanglement types,1.9379314202700488e-05,9.634068760053485e-07,13.0,1.0
+quant-ph/0602096,Entanglement in Graph States and its Applications,1.913911785362329e-05,0.0001410577228169,35.0,36.0
+gr-qc/0506026,Minkowski Vacuum Stress Tensor Fluctuations,1.9117575121566507e-05,7.225712032398238e-08,23.0,2.0
+hep-th/0506242,"Liouville Decoherence in a Model of Flavour Oscillations in the presence
+  of Dark Energy",1.909168781130834e-05,2.040513953373105e-06,52.0,5.0
+quant-ph/0504010,Quantum Games and Programmable Quantum Systems,1.8988114885976554e-05,0.0,20.0,0.0
+math/0512443,"Conciliation of Bayes and Pointwise Quantum State Estimation: Asymptotic
+  information bounds in quantum statistics",1.8824549279078044e-05,6.99878259327376e-06,11.0,3.0
+hep-ph/0108236,Supersymmetry Structure and Phenomena,1.882314141830108e-05,0.0001360458226487,74.0,19.0
+quant-ph/0209027,A measurement-based approach to quantum arrival times,1.880762613267728e-05,7.957732036867444e-06,11.0,1.0
+hep-th/0511114,Lectures on Fuzzy and Fuzzy SUSY Physics,1.8778661105064527e-05,7.16116259757987e-05,85.0,17.0
+quant-ph/0606244,"Entropic uncertainty relations and locking: tight bounds for mutually
+  unbiased bases",1.877346823402639e-05,0.0,11.0,2.0
+quant-ph/0506201,"Internal Consistency of Fault-Tolerant Quantum Error Correction in Light
+  of Rigorous Derivations of the Quantum Markovian Limit",1.8720812648980345e-05,1.272631784982804e-05,42.0,5.0
+quant-ph/0501135,A theory of quantum gravity based on quantum computation,1.864887042314275e-05,7.905529329170799e-05,37.0,19.0
+cond-mat/0112439,On the Emergence of the Microcanonical Description from a Pure State,1.8627592790707254e-05,2.0242319379348717e-06,25.0,2.0
+quant-ph/0604043,Coherent imaging of a pure phase object with classical incoherent light,1.8606102829911216e-05,0.0,9.0,0.0
+quant-ph/0703007,Remarks on Duality Transformations and Generalized Stabilizer States,1.8574801777128494e-05,0.0,6.0,0.0
+hep-th/0601211,"Evaluation of the Casimir Force for a Dielectric-diamagnetic Cylinder
+  with Light Velocity Conservation Condition and the Analogue of Sellmeir's
+  Dispersion Law",1.851786620825969e-05,5.17890301264304e-06,4.0,2.0
+hep-ph/0505177,"Adventures in Theoretical Physics: Selected Papers of Stephen L. Adler
+  -- Commentaries",1.8436945510132355e-05,2.7616303296341463e-05,16.0,11.0
+quant-ph/0611139,"Fields of quantum reference frames based on different representations of
+  rational numbers as states of qubit strings",1.839098380290465e-05,0.0,6.0,0.0
+quant-ph/0612155,A father protocol for quantum broadcast channels,1.8387895569737142e-05,0.0,19.0,0.0
+quant-ph/0512116,Spintronic devices as quantum networks,1.829712296789263e-05,0.0,7.0,0.0
+cond-mat/0602257,"Quantum Adiabatic Evolution Algorithm and Quantum Phase Transition in
+  3-Satisfiability Problem",1.819848450441023e-05,0.0,5.0,0.0
+hep-th/0412019,New variational perturbation theory based on $q-$deformed oscillator,1.818436516497076e-05,1.990182755160072e-06,8.0,1.0
+hep-th/0506124,Glimmers of a pre-geometric perspective,1.817787665250557e-05,9.82059861718136e-07,18.0,1.0
+quant-ph/0610081,Teleporting a qubit a la Everett,1.8110038055003828e-05,0.0,6.0,0.0
+quant-ph/0609001,Shor's algorithm on a nearest-neighbor machine,1.795277975466037e-05,0.0,8.0,1.0
+quant-ph/0703276,"An exercise in ""anhomomorphic logic""",1.7951149728027236e-05,0.0,3.0,0.0
+hep-th/0308052,Quantum & Classical Eigenfunctions in Calogero & Sutherland Systems,1.791920577507283e-05,7.001709053335009e-08,10.0,2.0
+quant-ph/0606029,"Dynamic generation of entangling wave packets in XY spin system with
+  decaying long range couplings",1.7899663846628546e-05,0.0,6.0,0.0
+quant-ph/0409014,Kochen-Specker Vectors,1.7850914305599073e-05,5.1982385395972036e-08,25.0,2.0
+quant-ph/0607168,Description of resonances within the rigged Hilbert space,1.7844794858681835e-05,1.9976088102166394e-06,5.0,2.0
+cond-mat/0304678,Quantum pumping and dissipation: from closed to open systems,1.7819320498060586e-05,9.46029575633412e-06,2.0,3.0
+hep-ph/0306164,Dissipative dynamics in particle physics,1.781690669673898e-05,5.2297300804913887e-05,34.0,4.0
+quant-ph/0611295,Cloning and Broadcasting in Generic Probabilistic Theories,1.7772311839591145e-05,0.0,23.0,0.0
+quant-ph/0701006,Quasi-hermitian Quantum Mechanics in Phase Space,1.7762516266657527e-05,1.848255218040871e-07,13.0,1.0
+math-ph/0608064,"What do quantum particles do, being under potential barrier? Tunnelling
+  time. A Virtual Experiment Standpoint",1.7718411726632333e-05,0.0,9.0,0.0
+cond-mat/0611454,"A note on the high temperature expansion of the density matrix for the
+  isotropic Heisenberg chain",1.7705253439440388e-05,0.0,15.0,0.0
+quant-ph/0606226,Scalable Error Correction in Distributed Ion Trap Computers,1.7688480752711963e-05,1.2027474899684366e-07,18.0,1.0
+quant-ph/0611284,Finding flows in the one-way measurement model,1.768622143637595e-05,3.304477491592412e-07,6.0,3.0
+quant-ph/0701014,Dynamical Reduction Models: present status and future developments,1.7667461749366996e-05,1.990182755160072e-06,5.0,1.0
+cond-mat/0311056,Universality of Entropy Scaling in 1D Gap-less Models,1.7640984169884596e-05,0.0007499957845154,20.0,12.0
+quant-ph/0611021,Merlin-Arthur Games and Stoquastic Complexity,1.761667652666611e-05,2.4753516855224776e-09,10.0,1.0
+quant-ph/0605040,"The Dynamics of Entanglement in the Adiabatic Search and Deutsch
+  Algorithms",1.754935683597637e-05,0.0,22.0,0.0
+quant-ph/0610189,Complementarity in quantum systems,1.7506519357621753e-05,1.97780599673246e-06,8.0,1.0
+hep-th/0410013,Beyond the WKB approximation in PT-symmetric quantum mechanics,1.7480990280535357e-05,9.55089114478503e-08,32.0,4.0
+quant-ph/0609090,"Zero-Error Attacks and Detection Statistics in the Coherent One-Way
+  Protocol for Quantum Cryptography",1.7458480658941744e-05,5.49385523440686e-07,6.0,2.0
+hep-th/0212267,Classical and Quantum Nambu Mechanics,1.7453085825926173e-05,3.940472283981935e-06,26.0,13.0
+cond-mat/0112315,"Continuous quantum measurement of a Bose-Einstein condensate: a
+  stochastic Gross-Pitaevskii equation",1.741764573963254e-05,0.0,3.0,0.0
+quant-ph/0604008,The mathematical basis for deterministic quantum mechanics,1.7363310707134954e-05,2.7527035878104995e-06,8.0,4.0
+quant-ph/0608106,Quantum Partial Search of a Database with Several Target Items,1.733830135782045e-05,0.0,7.0,1.0
+hep-th/0605036,Quantum Fields on Star Graphs,1.7316462509423763e-05,4.897537120986118e-07,18.0,4.0
+quant-ph/0610148,"Teleportation, Braid Group and Temperley--Lieb Algebra",1.731339229263053e-05,6.099044022621824e-06,22.0,4.0
+hep-th/0204178,Relativity of $\hbar$,1.7291608360268294e-05,8.805545627888263e-07,30.0,1.0
+quant-ph/0503091,"The generalized coherent states for oscillators, Connected with Meixner
+  and Meixner-Pollaczek polynomials % %",1.727601658786939e-05,0.0,21.0,0.0
+quant-ph/9506010,Sensible Quantum Mechanics: Are Only Perceptions Probabilistic?,1.7257186394323334e-05,0.001536691382398,48.0,25.0
+quant-ph/0303084,Projection evolution in quantum mechanics,1.7233624941178148e-05,0.0,8.0,1.0
+quant-ph/0702249,Time-dependent density-functional theory for open systems,1.72305191244225e-05,0.0,3.0,0.0
+quant-ph/0505208,Multimode entanglement and telecloning in a noisy environment,1.7182184897424834e-05,0.0,8.0,1.0
+hep-th/0304066,"Effective Actions, Boundaries and Precision Calculations of Casimir
+  Energies",1.717378617578981e-05,9.165673192181708e-06,25.0,6.0
+quant-ph/0308040,Classical vs Quantum Mechanics: role of elementary excitations,1.7148430136425056e-05,1.5880618738469454e-05,8.0,3.0
+quant-ph/0403081,Quantum dwell times,1.713901899554414e-05,5.967549281707371e-06,3.0,3.0
+hep-th/0505132,"Extended supersymmetry and its reduction on a circle with point
+  singularities",1.712784070790222e-05,0.0,26.0,0.0
+quant-ph/0701230,SU(2) nonstandard bases: the case of mutually unbiased bases,1.7083933708876633e-05,0.0,32.0,0.0
+quant-ph/0511131,"Adiabatic Quantum Computing in systems with constant inter-qubit
+  couplings",1.7056875599223556e-05,1.990182755160072e-06,6.0,1.0
+quant-ph/0703209,Bounds on Information Propagation in Disordered Quantum Spin Chains,1.7025104586019573e-05,0.0,15.0,0.0
+hep-th/0509020,"Simultaneous Ordinary and Type A N-fold Supersymmetries in Schroedinger,
+  Pauli, and Dirac Equations",1.7021521872195793e-05,7.4260550565674335e-09,18.0,1.0
+hep-th/0603144,Scalar Casimir densities for cylindrically symmetric Robin boundaries,1.696430636425668e-05,9.966864550867248e-06,5.0,6.0
+quant-ph/0507073,Optimal estimation of SU(d) using exact and approximate 2-designs,1.685100752520022e-05,3.980365510320144e-06,18.0,2.0
+quant-ph/0703227,Regional versus Global Entanglement in Resonating-Valence-Bond states,1.6766802359107193e-05,0.0,3.0,0.0
+quant-ph/0612133,"Entanglement and its applications in systems with many degrees of
+  freedom",1.671815704354967e-05,0.0,11.0,0.0
+quant-ph/0306007,A Stern-Gerlach Experiment in Time,1.6717718285083406e-05,0.0,17.0,0.0
+quant-ph/0612122,A q-Oscillator with 'Accidental' Degeneracy of Energy Levels,1.6694995359547273e-05,0.0,5.0,0.0
+quant-ph/0603266,Phase map decompositions for unitaries,1.6681509647862966e-05,4.957918240049069e-07,19.0,7.0
+nlin/0701063,Complex trajectories in chaotic dynamical tunneling,1.6665381345595856e-05,0.0,11.0,0.0
+quant-ph/0609113,"Discrete time quantum walk model for single and entangled particles to
+  retain entanglement in coin space",1.6623181874157004e-05,0.0,1.0,1.0
+quant-ph/0701186,"Phase Space Representations and Perturbation Theory for Continuous-time
+  Histories",1.661710205323747e-05,0.0,16.0,0.0
+hep-th/0508223,"On hidden broken nonlinear superconformal symmetry of conformal
+  mechanics and nature of double nonlinear superconformal symmetry",1.6602571917194997e-05,0.0,22.0,0.0
+hep-th/0601201,"SL(3|N) Wigner quantum oscillators: examples of ferromagnetic-like
+  oscillators with noncommutative, square-commutative geometry",1.6588555889001955e-05,3.980365510320144e-06,14.0,2.0
+math-ph/0701035,"The Significance of the $C$-Numerical Range and the Local $C$-Numerical
+  Range in Quantum Control and Quantum Information",1.653465023657295e-05,1.990182755160072e-06,5.0,1.0
+quant-ph/0603065,A Bayesian Analogue of Gleason's Theorem,1.653089681384366e-05,1.0804116475453967e-06,22.0,3.0
+quant-ph/0410230,Nonlinear Quantum Mechanics at the Planck Scale,1.651740489001742e-05,0.0002067413516033,14.0,6.0
+quant-ph/0611260,Symmetric Informationally Complete Measurements of Arbitrary Rank,1.649545356547702e-05,2.1277544998411847e-07,30.0,1.0
+quant-ph/0302198,Quantum Computers and Decoherence: Exorcising the Demon from the Machine,1.648890068082349e-05,1.720229799522322e-05,7.0,5.0
+cond-mat/0612011,"Mapping of Coulomb gases and sine-Gordon models to statistics of random
+  surfaces",1.646812431256405e-05,0.0,1.0,1.0
+quant-ph/0502018,"Semiclassical Expansions, the Strong Quantum Limit, and Duality",1.6401033814441506e-05,0.0,2.0,0.0
+quant-ph/0610204,Quantum Dynamics without the Wave Function,1.6390955705642904e-05,1.576058469562956e-06,11.0,1.0
+quant-ph/0611032,"What you always wanted to know about Bohmian mechanics but were afraid
+  to ask",1.637582607408883e-05,0.0,4.0,0.0
+quant-ph/0212101,p-Mechanics as a Physical Theory. An Introduction,1.6319663932805748e-05,2.504409541883486e-06,14.0,6.0
+cond-mat/0506438,Anyons in an exactly solved model and beyond,1.6317267097349002e-05,6.099381678279848e-05,38.0,23.0
+quant-ph/0611233,Conditional Density Operators and the Subjectivity of Quantum Operations,1.6279768112293298e-05,2.3610834295034177e-05,10.0,2.0
+hep-ph/0001233,Particle Interferometry from 40 MeV to 40 TeV,1.6263216532205537e-05,4.280210808237621e-05,28.0,49.0
+quant-ph/0506241,Classification of n-qubit states with minimum orbit dimension,1.6223972640954526e-05,0.0,7.0,1.0
+quant-ph/0605121,"Welcher Weg? A trajectory representation of a quantum Young's
+  diffraction experiment",1.6216808313437944e-05,0.0,5.0,1.0
+quant-ph/0703210,A most compendious and facile quantum de Finetti theorem,1.6177906162617457e-05,0.0,12.0,0.0
+quant-ph/0501087,"Exactly solvable non-Hermitian Jaynes-Cummings-type Hamiltonian
+  admitting entirely real spectra from supersymmetry",1.6167871940054037e-05,0.0008108718271947,11.0,7.0
+cond-mat/9911245,Quantum Computation and Spin Electronics,1.6064992089504783e-05,0.0015076372282895,26.0,15.0
+quant-ph/0512217,Efficient Simulation of Random Quantum States and Operators,1.6059487981796847e-05,6.1771926867952215e-06,29.0,4.0
+quant-ph/0504028,"A new approximation method for time-dependent problems in quantum
+  mechanics",1.5998287999986183e-05,0.0,1.0,0.0
+quant-ph/0703072,"Non-relativistic Schroedinger theory on q-deformed quantum spaces II,
+  The free non-relativistic particle and its interactions",1.5908575752434855e-05,0.0,20.0,0.0
+hep-th/0201108,The ODE/IM correspondence and PT-symmetric quantum mechanics,1.5883565668456524e-05,1.0214366259327406e-05,38.0,3.0
+quant-ph/0612034,"Distinguishing Arbitrary Multipartite Basis Unambiguously Using Local
+  Operations and Classical Communication",1.5873757165698377e-05,3.8863807688934166e-08,4.0,1.0
+quant-ph/0601112,Frequency Spectra and Probability Distributions for Quantum Fluctuations,1.5829411239199036e-05,1.0096829243578523e-09,13.0,1.0
+quant-ph/0310114,"The Contextual Quantization and the Principle of Complementarity of
+  Probabilities",1.5812963938598752e-05,0.0,9.0,0.0
+quant-ph/0606140,The Complexity of Stoquastic Local Hamiltonian Problems,1.5796439001185477e-05,1.8071257323010025e-06,10.0,1.0
+gr-qc/0005092,Quantum Geometrodynamics in the Bohm-de Broglie Interpretation,1.5792510002550093e-05,6.035113688610927e-06,10.0,4.0
+cond-mat/0505089,Momentum space topology and quantum phase transitions,1.577190538186155e-05,0.0006898400068545,17.0,3.0
+quant-ph/0304139,Quantum hamiltonians and prime numbers,1.5770017299973645e-05,3.668824819613672e-08,17.0,2.0
+quant-ph/0610255,"Comments on Proposed Gravitational Modifications of Schrodinger Dynamics
+  and their Experimental Implications",1.5752681094216603e-05,0.0,4.0,0.0
+gr-qc/0305080,"The Phoenix Project: Master Constraint Programme for Loop Quantum
+  Gravity",1.574060102532067e-05,3.165408221016732e-05,77.0,47.0
+quant-ph/0608117,Quantum fractals on n-spheres. Clifford Algebra approach,1.567838463954774e-05,0.0,6.0,0.0
+quant-ph/0505006,"Dynamical phase transitions and temperature induced quantum correlations
+  in an infinite spin chain",1.5648613121705567e-05,9.966849581686053e-06,14.0,4.0
+quant-ph/0612064,Concurrence of Lorentz-positive maps,1.5633392689979425e-05,0.0,1.0,1.0
+quant-ph/0508164,Models of Quantum Cellular Automata,1.561624228577311e-05,6.426393815295262e-06,9.0,2.0
+quant-ph/0309124,NuRules and Objective/Observer Measurement,1.5590183880077616e-05,0.0,5.0,1.0
+gr-qc/0509120,"Probability Theories with Dynamic Causal Structure: A New Framework for
+  Quantum Gravity",1.5558619251211757e-05,2.9804753106153365e-05,7.0,6.0
+quant-ph/0606198,Delta-Function Potential with a Complex Coupling,1.5497165433641786e-05,0.0,3.0,0.0
+quant-ph/0611082,Comment on the sign of the Casimir force,1.540262294795796e-05,3.0453205727922085e-07,17.0,1.0
+quant-ph/0607025,Deformed Heisenberg algebra with upper bound of momentum value,1.538017422547712e-05,0.0,2.0,0.0
+quant-ph/0210136,"Entanglement generation and Hamiltonian simulation in
+  Continuous-Variable Systems",1.5369552897335267e-05,4.7540409650891765e-06,34.0,4.0
+quant-ph/0511237,"Detection of multipartite entanglement in the vicinity of symmetric
+  Dicke states",1.5350700351572675e-05,3.0487248480912628e-06,4.0,3.0
+quant-ph/0602229,A new pilot-wave model for quantum field theory,1.533125352566531e-05,2.001674192090247e-06,15.0,5.0
+hep-th/0508185,"Bulk Casimir densities and vacuum interaction forces in higher
+  dimensional brane models",1.5293404805340382e-05,2.0383892165419877e-06,2.0,2.0
+quant-ph/0605239,Quantum Entanglement and Projective Ring Geometry,1.5282004293226955e-05,6.274501435800394e-06,11.0,3.0
+quant-ph/0602214,Reply to Andrew Hodges,1.527429793153514e-05,0.0,7.0,0.0
+gr-qc/0601137,"Spectral Line Broadening and Angular Blurring due to Spacetime Geometry
+  Fluctuations",1.5253848581251424e-05,7.860681365513544e-07,11.0,1.0
+quant-ph/0505188,Lower Bounds on Matrix Rigidity via a Quantum Argument,1.5170246019152643e-05,1.990182755160072e-06,10.0,1.0
+quant-ph/0609106,Quantum games via search algorithms,1.5107043292930162e-05,0.0,3.0,0.0
+quant-ph/0301032,Decoherence-Free Subspaces and Subsystems,1.5102565464832456e-05,0.0001517967878177,7.0,32.0
+quant-ph/0510232,Typical entanglement of stabilizer states,1.5101995359747009e-05,1.1781855388753864e-05,24.0,5.0
+hep-th/0512200,Observables in effective gravity,1.5099375441310237e-05,3.268908153037477e-05,41.0,20.0
+quant-ph/0609055,"Characterizing multiparticle entanglement in symmetric N-qubit states
+  via negativity of covariance matrices",1.5095781500521223e-05,1.979943800460865e-06,4.0,1.0
+quant-ph/0607056,"Security proof of a three-state quantum key distribution protocol
+  without rotational symmetry",1.5077647512097044e-05,1.440454180780322e-06,13.0,1.0
+hep-th/9903130,Hidden nonlinear supersymmetries in pure parabosonic systems,1.5044448003270302e-05,2.7898318347932105e-05,35.0,23.0
+quant-ph/0309188,Correlation Functions in Spin Chains and Information Theory,1.5024430929532528e-05,0.0012747563419089,27.0,3.0
+quant-ph/0405174,Reversible quantum cellular automata,1.50130966511603e-05,3.956641826055657e-05,11.0,17.0
+quant-ph/0511233,Cross-Kerr-based information transfer processes,1.497003418182096e-05,0.0,5.0,0.0
+quant-ph/0606235,Casimir edge effects,1.4969489223190074e-05,8.26079650559193e-07,6.0,1.0
+quant-ph/0605045,"Bound-States of the Spinless Salpeter Equation for the PT-Symmetric
+  Generalized Hulthen Potential by the Nikiforov-Uvarov Method",1.4966440750905837e-05,2.025139823132044e-06,10.0,4.0
+quant-ph/0703073,"Non-relativistic Schroedinger theory on q-deformed quantum spaces III,
+  Scattering theory",1.493600199059749e-05,0.0,18.0,0.0
+hep-th/0606205,Entanglement entropy of black holes and AdS/CFT correspondence,1.4885929726297234e-05,8.483050181907539e-07,7.0,3.0
+quant-ph/0703023,"On the Exact Evaluation of Certain Instances of the Potts Partition
+  Function by Quantum Computers",1.4879711853533748e-05,0.0,11.0,0.0
+quant-ph/0703196,Topological-Like Features in Diagrammatical Quantum Circuits,1.486227632744012e-05,0.0,17.0,0.0
+math-ph/0603077,"Separation of unistochastic matrices from the double stochastic ones.
+  Recovery of a 3 x 3 unitary matrix from experimental data",1.4842638480147136e-05,0.0,9.0,0.0
+quant-ph/0611002,Evenly distributed unitaries: on the structure of unitary designs,1.4833411763448982e-05,4.481442633901695e-06,11.0,6.0
+hep-th/0611034,The Stabilized Poincare-Heisenberg algebra: a Clifford algebra viewpoint,1.4816227165280729e-05,0.0,11.0,0.0
+cond-mat/0702569,"Quantum rearrangement and self-consistent BCS-BEC crossover
+  thermodynamics",1.4801978493155025e-05,0.0,7.0,0.0
+quant-ph/0606012,"PT-symmetric quartic anharmonic oscillator and position-dependent mass
+  in a perturbative approach",1.4772357529928704e-05,0.0,12.0,0.0
+hep-th/0203259,Quantum Spacetimes in the Year 1,1.4730078723276404e-05,4.176363994140593e-06,22.0,19.0
+quant-ph/0701092,"Exponentiation of certain Matrices related to the Four Level System by
+  use of the Magic Matrix",1.4693439300867762e-05,0.0,11.0,0.0
+cond-mat/0411176,"Partition Functions for Statistical Mechanics With MicroPartitions and
+  Phase Transitions",1.4670270674672353e-05,9.552205343596562e-09,8.0,1.0
+quant-ph/0610268,Macroscopic Entanglement and Phase Transitions,1.465572501903962e-05,7.973002851132185e-07,9.0,1.0
+hep-th/0007123,Fractal Statistics and Quantum Black Hole Entropy,1.462764339079561e-05,1.8680191526516012e-06,5.0,3.0
+quant-ph/0403227,"Coherence protection by the quantum Zeno effect and non-holonomic
+  control in a Rydberg Rubidium isotope",1.4589173822546833e-05,2.599119269798601e-08,1.0,1.0
+hep-th/0008171,Fractal distribution function and fractal-deformed Heisenberg algebras,1.4588806725936551e-05,0.0,3.0,2.0
+quant-ph/0702190,Local encoding of classical information onto quantum states,1.4578303608117606e-05,0.0,2.0,0.0
+quant-ph/0610192,"(p,q)-Deformations and (p,q)-Vector Coherent States of the
+  Jaynes-Cummings Model in the Rotating Wave Approximation",1.457549108550619e-05,0.0,4.0,0.0
+quant-ph/0603102,Geometric multipartite entanglement measures,1.457522433695883e-05,1.007221011907651e-05,5.0,5.0
+quant-ph/0602167,Selective recoupling and stochastic dynamical decoupling,1.45423402711619e-05,0.0,13.0,0.0
+quant-ph/0507218,Can We Believe in a Purely Unitary Quantum Dynamics?,1.452994840654548e-05,0.0,2.0,0.0
+cond-mat/0204153,"Quantum Codes for Simplifying Design and Suppressing Decoherence in
+  Superconducting Phase-Qubits",1.450283373155085e-05,1.2600743060736047e-05,39.0,3.0
+quant-ph/0603263,Quantum Noise Randomized Ciphers,1.4473363090080697e-05,0.0,7.0,3.0
+cond-mat/0506368,"Stability of quasi-two-dimensional Bose-Einstein condensates with
+  dominant dipole-dipole interactions",1.4470033327988297e-05,3.980365510320144e-06,2.0,2.0
+quant-ph/0610088,Quantum Error Correcting Subsystem Codes From Two Classical Linear Codes,1.445638232088757e-05,0.0,24.0,0.0
+quant-ph/0702121,Certainty and Uncertainty in Quantum Information Processing,1.4443602883150326e-05,0.0,10.0,0.0
+hep-th/0512236,"Positronium collapse in hypercritical magnetic field and restructuring
+  of the vacuum in QED",1.443505402457174e-05,4.837214833297618e-07,4.0,4.0
+quant-ph/0407148,"Collective attacks and unconditional security in continuous variable
+  quantum key distribution",1.4427618825095754e-05,1.4368008393547545e-06,19.0,3.0
+quant-ph/0610195,"Concatenated Quantum Codes Constructible in Polynomial Time: Efficient
+  Decoding and Error Correction",1.4426570027737085e-05,0.0,3.0,1.0
+quant-ph/0602147,"A possible general approach regarding the conformability of angular
+  observables with mathematical rules of quantum mechanics",1.4412851980962974e-05,0.0,8.0,0.0
+quant-ph/9907009,The importance of quantum decoherence in brain processes,1.438953358328472e-05,9.920160359714877e-06,16.0,9.0
+quant-ph/0611224,Compatibility conditions from multipartite entanglement measures,1.4382711097954684e-05,0.0,5.0,0.0
+quant-ph/0702059,Spin chains and channels with memory,1.4380737842153943e-05,0.0,1.0,1.0
+physics/0703126,The Laplace-Jaynes approach to induction,1.4367904520523772e-05,0.0,9.0,2.0
+quant-ph/0603228,Decoherence effects on the quantum spin channels,1.4356181650595464e-05,2.379625162934687e-06,3.0,2.0
+quant-ph/0508111,Thin layer quantization in higher dimensions and codimensions,1.433912903711157e-05,5.862251629238608e-06,5.0,1.0
+quant-ph/0112090,Introduction to Coherent States and Quantum Information Theory,1.4336784111725412e-05,1.5202415249027812e-05,24.0,17.0
+hep-th/0410064,Quasi-exact solvability and intertwining relations,1.4307421373144136e-05,4.32167282507689e-08,16.0,2.0
+hep-th/0605066,"Equivalence of a Complex $\cP\cT$-Symmetric Quartic Hamiltonian and a
+  Hermitian Quartic Hamiltonian with an Anomaly",1.429361290074015e-05,2.15532072801276e-06,10.0,2.0
+quant-ph/0701239,Quantum Repeaters with Photon Pair Sources and Multi-Mode Memories,1.4278637723014754e-05,0.0,2.0,0.0
+cond-mat/0612590,"Ground-State Fidelity and Bipartite Entanglement in the Bose-Hubbard
+  Model",1.4241990537988e-05,0.0,7.0,0.0
+hep-th/0601027,Quantum Determinism from Quantum General Covariance,1.4230756706439362e-05,2.87619588815474e-06,7.0,4.0
+quant-ph/0503159,"Abstract algebra, projective geometry and time encoding of quantum
+  information",1.4207123629558882e-05,5.2340718597856655e-06,10.0,3.0
+cond-mat/0703527,Entanglement entropy in aperiodic singlet phases,1.4200997883692864e-05,0.0,7.0,0.0
+math-ph/0602013,"Krein space related perturbation theory for MHD alpha-2-dynamos and
+  resonant unfolding of diabolical points",1.418068021468458e-05,1.0767779832022776e-08,18.0,3.0
+quant-ph/0510186,"Energy and multipartite entanglement in multidimensional and frustrated
+  spin models",1.4160091520223444e-05,4.030431595121125e-06,6.0,3.0
+quant-ph/9909062,"Essentially All Gaussian Two-Party Quantum States are a priori
+  Nonclassical but Classically Correlated",1.4123641921481214e-05,5.119352417722674e-05,10.0,2.0
+quant-ph/0602224,"Anomalously Slow Cross Symmetry Phase Relaxation, Thermalized
+  Non-Equilibrated Matter and Quantum Computing Beyond the Quantum Chaos Border",1.409971636486497e-05,0.0,9.0,2.0
+quant-ph/0404126,"Lieb's simple proof of concavity of Tr A^p K^* B^(1-p) K and remarks on
+  related inequalities",1.407697817399888e-05,3.729166545959198e-05,2.0,6.0
+quant-ph/0606131,How many copies are needed for state discrimination?,1.4072130001852028e-05,1.826201721845017e-05,3.0,2.0
+quant-ph/0510016,Understanding entangled spins in QED,1.4064453796900484e-05,7.163430735527069e-06,3.0,4.0
+quant-ph/0507264,Quantum walk on the line: entanglement and non-local initial conditions,1.4016201141725316e-05,1.0645604368161782e-05,9.0,4.0
+hep-th/0602134,"Entanglement Entropy in Critical Phenomena and Analogue Models of
+  Quantum Gravity",1.4006013147975568e-05,0.0001296719651417,19.0,8.0
+quant-ph/0308018,Time operator within projection evolution model,1.400464823006378e-05,1.9827567001035044e-06,9.0,1.0
+quant-ph/0701246,Genuine tripartite entanglement in the non-interacting Fermi gas,1.3956183871122783e-05,1.4169008253764717e-08,7.0,1.0
+hep-ph/0211364,"Free parameters in quantum field theories: an analysis of the
+  variational approach",1.3948732701385756e-05,0.0,9.0,0.0
+quant-ph/0609006,Two-Qubit Separability Probabilities and Beta Functions,1.3924735781678932e-05,6.387623959636681e-06,7.0,4.0
+hep-th/0506089,Casimir force between planes as a boundary finite size effect,1.384469007906511e-05,9.489698369473469e-06,12.0,2.0
+quant-ph/0701109,Modified Two-Slit Experiments and Complementarity,1.377361467522005e-05,1.990182755160072e-06,5.0,2.0
+cond-mat/0606413,"Electronic Hong-Ou-Mandel interferometer for multi-mode entanglement
+  detection",1.376752653424326e-05,0.0,5.0,1.0
+quant-ph/0411037,The Hidden Subgroup Problem - Review and Open Problems,1.3729118294249344e-05,4.401717986905107e-06,40.0,7.0
+quant-ph/0508044,Dirac quantization of free motion on curved surfaces,1.3698611801508069e-05,3.960562696835965e-06,5.0,3.0
+quant-ph/0606088,"Conclusive quantum-state transfer with a single randomly coupled spin
+  chain",1.36904690626806e-05,7.150756377863247e-07,6.0,1.0
+quant-ph/0606217,"Concatenated beam splitters, optical feed-forward and the nonlinear sign
+  gate",1.365750484160093e-05,0.0,3.0,0.0
+quant-ph/0608018,Postselection threshold against biased noise,1.3646480092555432e-05,0.0,20.0,1.0
+hep-th/0604018,"On the Inequivalence of Renormalization and Self-Adjoint Extensions for
+  Quantum Singular Interactions",1.3639015848709827e-05,0.0,2.0,0.0
+math/0011063,Gromov-Hausdorff Distance for Quantum Metric Spaces,1.363510534443608e-05,0.0010135540796759,30.0,24.0
+cond-mat/0207289,BEC Collapse and Dynamical Squeezing of Vacuum Fluctuations,1.363014047842144e-05,0.0001396198298919,20.0,8.0
+quant-ph/0506168,Local vs Nonlocal cloning in a noisy environment,1.3615222982749064e-05,0.0,4.0,1.0
+cond-mat/0309060,"Bose-Einstein Condensation Temperature of Homogenous Weakly Interacting
+  Bose Gas in Variational Perturbation Theory Through Seven Loops",1.3608858811181549e-05,9.813589626209062e-05,34.0,10.0
+cond-mat/0510801,"Applications of exact solution for strongly interacting one dimensional
+  bose-fermi mixture: low-temperature correlation functions, density profiles
+  and collective modes",1.360198299664967e-05,5.158595383749808e-05,12.0,7.0
+quant-ph/9912026,"On stimulated transitions between the self-trapped states of the
+  nonlinear Schrodinger equation",1.358691632072982e-05,4.826935786768832e-08,1.0,1.0
+cond-mat/0401526,"Magnetization plateaus for spin-one bosons in optical lattices:
+  Stern-Gerlach experiments with strongly correlated atoms",1.358055542680282e-05,6.82814258105722e-06,7.0,3.0
+quant-ph/0609213,"Wigner functions, contact interactions, and matching",1.3578500896720656e-05,0.0,13.0,0.0
+quant-ph/0608014,State Discrimination with Post-Measurement Information,1.356788985003393e-05,1.7130731167566885e-06,11.0,1.0
+hep-th/0603096,PT-Symmetric Quantum Theory Defined in a Krein Space,1.3509495497177469e-05,5.616839186662049e-07,18.0,7.0
+quant-ph/0504082,Coherent imaging with pseudo-thermal incoherent light,1.349344181938579e-05,0.0,11.0,1.0
+hep-th/0702060,"Boson-fermion unification, superstrings, and Bohmian mechanics",1.346924582987847e-05,1.8984531436606053e-07,6.0,1.0
+quant-ph/0611294,Quantum Lower Bounds by Entropy Numbers,1.3459122404129289e-05,0.0,15.0,0.0
+hep-th/0511302,"A Novel ""Magnetic"" Field And Its Dual Non-Commutative Phase Space",1.3437289995115214e-05,8.702377309534203e-06,15.0,6.0
+quant-ph/0609098,Ellipses of Constant Entropy in the XY Spin Chain,1.3425324787515765e-05,2.336998897185757e-06,15.0,2.0
+quant-ph/0606070,"On some meaningful inner product for real Klein-Gordon fields with
+  positive semi-definite norm",1.342102312361676e-05,0.0,16.0,0.0
+quant-ph/0611103,The Casimir effect within scattering theory,1.3408680490081208e-05,0.0,12.0,0.0
+cond-mat/0703037,Quantum Impurity Entanglement,1.3403714256732215e-05,0.0,10.0,0.0
+quant-ph/0609029,Anzatz of quantum correlation and disentanglement problem,1.3395717348899337e-05,0.0,10.0,0.0
+quant-ph/0004064,Theory of Decoherence-Free Fault-Tolerant Universal Quantum Computation,1.3389907264584473e-05,0.0002760478292212,33.0,23.0
+quant-ph/0604137,State Transfer and Spin Measurement,1.3331116637670755e-05,1.7052676743983035e-06,3.0,1.0
+quant-ph/9712009,Questions on quantization,1.3251000734833088e-05,9.954007965407263e-07,14.0,18.0
+quant-ph/0606178,Entropy of XY Spin Chain and Block Toeplitz Determinants,1.3223733019736497e-05,3.3861644881134027e-06,26.0,5.0
+hep-th/0112158,"Nonlinear holomorphic supersymmetry, Dolan-Grady relations and Onsager
+  algebra",1.320675588945831e-05,5.923805288162291e-06,20.0,11.0
+quant-ph/0405115,"Simulating Hamiltonian dynamics using many-qudit Hamiltonians and local
+  unitary control",1.316815122774488e-05,3.4840392869508665e-06,32.0,2.0
+quant-ph/0310152,"A quantitative model for the effective decoherence of a quantum computer
+  with imperfect unitary operations",1.3167718737740618e-05,1.6462414541921012e-05,25.0,3.0
+quant-ph/0703256,Quantum Circuit Placement,1.31645054397162e-05,0.0,16.0,0.0
+math-ph/0610036,Quantum Algebras Associated With Bell States,1.3156792923750604e-05,8.359182250702063e-07,12.0,3.0
+cond-mat/0703630,Integrable spin-boson models descending from rational six-vertex models,1.3153533195690536e-05,0.0,5.0,0.0
+quant-ph/0702229,An extremal result for geometries in the one-way measurement model,1.313795071612509e-05,0.0,6.0,1.0
+cond-mat/0511014,"Entanglement and alpha entropies for a massive scalar field in two
+  dimensions",1.3135424102587772e-05,2.1225345501651653e-05,25.0,7.0
+cond-mat/0604313,"On the generation of multipartite entangled states in Josephson
+  architectures",1.3131166472506538e-05,1.990182755160072e-06,3.0,1.0
+quant-ph/0607169,"Quantum mechanics as a consistency condition on initial and final
+  boundary conditions",1.3111643286130372e-05,1.838625657284776e-06,6.0,1.0
+quant-ph/0310064,Entanglement measure for the universal classes of fractons,1.3109401307072813e-05,6.661762139146403e-06,16.0,2.0
+quant-ph/0603077,"Generalized Deformed Commutation Relations with Nonzero Minimal
+  Uncertainties in Position and/or Momentum and Applications to Quantum
+  Mechanics",1.3091499445074484e-05,1.990182755160072e-06,30.0,1.0
+gr-qc/0701124,Hubble Meets Planck: A Cosmic Peek at Quantum Foam,1.307589534558653e-05,1.2251755590337006e-08,1.0,1.0
+quant-ph/0402141,"Some Novel Thought Experiments Involving Foundations of Quantum
+  Mechanics and Quantum Information",1.305589937335332e-05,1.9728552933614145e-07,32.0,1.0
+quant-ph/0204058,Quantum Entanglement in Second-quantized Condensed Matter Systems,1.304007464533111e-05,0.0010686790631187,17.0,13.0
+quant-ph/0310079,Comparative study of quantum anharmonic potentials,1.3034290013370863e-05,0.0,7.0,0.0
+quant-ph/0404156,"Unknown Quantum States and Operations, a Bayesian View",1.3031814064121635e-05,2.584091152480767e-05,19.0,11.0
+quant-ph/0509166,Quantum states on Harmonic lattices,1.3017767373578388e-05,2.281752402721028e-05,26.0,7.0
+quant-ph/0612013,Local Distinguishability of Any Three Quantum States,1.3008021796776543e-05,7.531475295096307e-07,9.0,1.0
+quant-ph/0507152,Playing games with EPR-type experiments,1.2990768756330576e-05,0.0,6.0,0.0
+quant-ph/0603017,"Feats, Features and Failures of the PR-box",1.2982304024623275e-05,0.0,12.0,0.0
+quant-ph/0503226,"Robust Hadamard gate for optical and ion trap holonomic quantum
+  computers",1.2963674390746708e-05,1.4656597526243653e-06,13.0,1.0
+hep-th/0303134,"On the Time Dependent Oscillator and the Nonlinear Realizations of the
+  Virasoro Group",1.2941094072063707e-05,0.0,16.0,0.0
+quant-ph/9711066,"Barut-Girardello coherent states for u(p,q) and sp(N,R) and their
+  macroscopic superpositions",1.2940691049995144e-05,0.0,14.0,2.0
+quant-ph/0503074,On the limit cycle for the 1/r^2 potential in momentum space,1.2937656834350382e-05,1.457114712057773e-07,22.0,1.0
+quant-ph/0602114,"The quantum measurement problem and physical reality: a computation
+  theoretic perspective",1.292949649198721e-05,0.0,17.0,0.0
+quant-ph/0611219,On experimental procedures for entanglement verification,1.2921824167136588e-05,9.928573286505023e-07,10.0,1.0
+gr-qc/0611037,"Cosmological constant, semiclassical gravity, and foundations of quantum
+  mechanics",1.2917459667094791e-05,6.874076901658834e-06,6.0,2.0
+quant-ph/0610210,Quantum State Transfer in Spin-1 Chains,1.2907010617042016e-05,2.0169286086478973e-06,3.0,4.0
+math/0610115,Better Bell inequalities (passion at a distance),1.289761945800534e-05,1.0395199336880597e-07,14.0,1.0
+quant-ph/0702076,Classification of two-particle quantum channels of information transfer,1.2884947116962197e-05,0.0,6.0,0.0
+quant-ph/0507219,"Large alphabet quantum key distribution with two-mode coherently
+  correlated beams",1.2883330102862796e-05,0.0,10.0,0.0
+hep-th/0106284,"Holography&Transplantation and All That (The tip of an iceberg for a
+  paradigmatic change in QFT?)",1.2850789900167238e-05,1.8072399809214003e-06,12.0,1.0
+astro-ph/0610700,Pointer states for primordial fluctuations in inflationary cosmology,1.2850684290944726e-05,1.8783829594801008e-06,8.0,3.0
+quant-ph/0702052,"On the solutions of the Schrodinger equation with some molecular
+  potentials: wave function ansatz",1.28482694643499e-05,2.861661815673223e-06,10.0,5.0
+quant-ph/0607021,How Quantum Computers Can Fail,1.2837790210516883e-05,0.0,17.0,0.0
+quant-ph/0504163,An introduction to entanglement measures,1.28263340951259e-05,0.000208207803542,15.0,41.0
+quant-ph/0703272,Optimal Resources for Topological 2D Stabilizer Codes: Comparative Study,1.2817455948133112e-05,0.0,10.0,0.0
+quant-ph/0304098,Ground state entanglement in quantum spin chains,1.2814061221833324e-05,0.0007585764478445,45.0,60.0
+quant-ph/0607078,Environment assisted entanglement enhancement,1.2790387821852633e-05,0.0,3.0,0.0
+hep-ph/0612234,Casimir forces and non-Newtonian gravitation,1.2783068476847124e-05,0.0,3.0,0.0
+quant-ph/0506025,What is the Temperature Dependence of the Casimir Effect?,1.2782104068334022e-05,2.364581358802986e-05,10.0,7.0
+quant-ph/0702005,A decoupling approach to the quantum capacity,1.2764836515916317e-05,5.161474966211098e-08,11.0,2.0
+quant-ph/0612020,"Maximal violation of the CGLMP inequality for infinite dimensional
+  states",1.2760400552282054e-05,2.9703819924585628e-06,8.0,3.0
+quant-ph/0512168,"Can relativity be considered complete ? From Newtonian nonlocality to
+  quantum nonlocality and beyond",1.2757786377073872e-05,2.433350879947097e-05,23.0,13.0
+quant-ph/0512015,A Resource Framework for Quantum Shannon Theory,1.2673431209329108e-05,1.816020913033127e-05,41.0,11.0
+hep-th/0610314,"Strings, black holes, the tripartite entanglement of seven qubits and
+  the Fano plane",1.2660306805749428e-05,7.11955782330273e-07,16.0,4.0
+quant-ph/0311158,On the Work of Henry P. Stapp,1.2611079571712307e-05,0.0,22.0,1.0
+hep-ph/0402101,"Isospin Squeezed States, Disoriented Chiral condensates and Pion
+  Production: A Dynamic Group Theoretical Approach",1.2608019610809975e-05,0.0,10.0,1.0
+quant-ph/0608176,"Transition of D- Level Quantum Systems Through Quantum Channels with
+  Correlated Noise",1.2552650633931534e-05,0.0,13.0,0.0
+quant-ph/0308027,The next stage: quantum game theory,1.2504640004961275e-05,2.641737707281361e-05,26.0,12.0
+hep-th/0407032,"Black Holes, Information Loss, and Hidden Variables",1.2501418363227577e-05,6.451102641294243e-06,19.0,6.0
+hep-th/0510236,Surface Divergences and Boundary Energies in the Casimir Effect,1.245445983776956e-05,0.0,14.0,0.0
+quant-ph/0412148,Quantum Mechanics and Reality,1.2442590893817212e-05,5.970548265480216e-06,3.0,3.0
+quant-ph/0609063,"Studies on Entanglement in Nuclear and Electron Spin Systems for Quantum
+  Computing",1.2424780847708709e-05,0.0,8.0,0.0
+quant-ph/0612058,Exposed-key weakness of $\alpha \eta$,1.2411066691892149e-05,0.0,8.0,0.0
+quant-ph/0505229,"On distinguishability, orthogonality, and violations of the second law:
+  contradictory assumptions, contrasting pieces of knowledge",1.2378665968108182e-05,7.786843660601058e-08,21.0,1.0
+cond-mat/0610530,Matrix Product States Algorithms and Continuous Systems,1.2349161685252707e-05,3.2179571911792213e-09,12.0,1.0
+quant-ph/0605228,Purification of large bicolorable graph states,1.234761468474086e-05,2.7032612661462745e-05,9.0,6.0
+quant-ph/0512181,Detecting entanglement with a thermometer,1.233949717792518e-05,1.6837032791614373e-06,3.0,3.0
+quant-ph/0412187,"Quantum Computing, Postselection, and Probabilistic Polynomial-Time",1.2313305327060553e-05,1.974005740999684e-05,15.0,11.0
+quant-ph/0606056,"Application of a renormalization algorithm in Hilbert space to the study
+  of many-body quantum systems",1.2311944589787346e-05,0.0,4.0,1.0
+quant-ph/0607057,Against `Realism',1.2304452309727164e-05,8.168660562224176e-08,3.0,2.0
+quant-ph/0604174,"Quantum Measurements for Hidden Subgroup Problems with Optimal Sample
+  Complexity",1.2298267483110036e-05,1.4281651708130032e-05,10.0,2.0
+hep-th/9711061,Renormalization Group Transformation for the Wave Function,1.2291916771422464e-05,7.4260550565674335e-09,9.0,2.0
+quant-ph/0503141,A new local invariant for quantum gates,1.2273282438475244e-05,0.0,13.0,0.0
+quant-ph/0508219,A Representation of Real and Complex Numbers in Quantum Theory,1.2254414297090065e-05,0.0,8.0,1.0
+quant-ph/0608243,"Relational physics with real rods and clocks and the measurement problem
+  of quantum mechanics",1.2250946111832028e-05,3.3275799086809315e-08,11.0,1.0
+quant-ph/0612185,Approaches to Quantum Error Correction,1.222456033100919e-05,0.0,9.0,0.0
+quant-ph/0608198,Quantum estimation and the quantum central limit theorem,1.2216581705234843e-05,5.352162937450828e-07,24.0,3.0
+quant-ph/0608013,"Entanglement, quantum phase transitions and quantum algorithms",1.2211136558212548e-05,0.0,25.0,0.0
+quant-ph/0507206,Combinatorics of boson normal ordering and some applications,1.2207616658067185e-05,0.0,17.0,6.0
+quant-ph/0511185,Excitation and Entanglement Transfer Versus Spectral Gap,1.2190560841766998e-05,1.3206645856422697e-05,10.0,6.0
+quant-ph/0606114,"$q$ - Deformed Spin Networks, Knot Polynomials and Anyonic Topological
+  Quantum Computation",1.218453500434265e-05,2.967986561481067e-06,18.0,5.0
+cond-mat/0605147,Stretching the electron as far as it will go,1.217388582220506e-05,0.0,24.0,0.0
+quant-ph/0509212,Unambiguous unitary quantum channels,1.2153224453331567e-05,0.0,24.0,0.0
+quant-ph/0609110,"Weak Fourier-Schur sampling, the hidden subgroup problem, and the
+  quantum collision problem",1.2116890506500253e-05,5.258566929520854e-07,26.0,1.0
+cond-mat/0605597,"Classical simulation of infinite-size quantum lattice systems in one
+  spatial dimension",1.209452801570285e-05,1.399622300378322e-05,17.0,9.0
+quant-ph/0703254,The quantum brachistochrone problem for non-Hermitian Hamiltonians,1.208489961504487e-05,0.0,3.0,0.0
+hep-th/0407019,Quantum field theory on a growing lattice,1.2068331788838014e-05,4.829099729561906e-06,16.0,4.0
+hep-th/0605277,Remarks on the Noncommutative Gravitational Quantum Well,1.2064589750488645e-05,2.0325617682376424e-07,12.0,4.0
+math/0108005,"Matrix algebras converge to the sphere for quantum Gromov--Hausdorff
+  distance",1.2064109247017616e-05,0.0001073349912812,34.0,17.0
+math-ph/0303003,Morphing quantum mechanics and fluid dynamics,1.2049528436650331e-05,4.069030633472854e-07,8.0,2.0
+quant-ph/0501121,"Tradeoff between extractable mechanical work, accessible entanglement,
+  and ability to act as a reference system, under arbitrary superselection
+  rules",1.2047396644560802e-05,3.973553707777624e-06,7.0,6.0
+quant-ph/0604023,"Quantum Fractals. Geometric modeling of quantum jumps with conformal
+  maps",1.204540708238379e-05,3.252400777814841e-07,11.0,1.0
+hep-th/0412135,Casimir Energy for a Dielectric Cylinder,1.2043601839122077e-05,5.915178602526957e-06,17.0,6.0
+quant-ph/0603148,Quantum Communication in Spin Systems With Long-Range Interactions,1.2039190090999949e-05,2.9383051080523875e-06,18.0,2.0
+gr-qc/0404102,Understanding Quantum Theory in Terms of Geometry,1.2030418122255352e-05,0.0,11.0,0.0
+quant-ph/0310193,A size criterion for macroscopic superposition states,1.202213708257586e-05,1.990182755160072e-06,12.0,2.0
+quant-ph/0503001,"Testing Gravity-Driven Collapse of the Wavefunction via Cosmogenic
+  Neutrinos",1.1987010844933012e-05,1.944300343560566e-06,4.0,1.0
+quant-ph/0606187,Quantum control by von Neumann measurements,1.1985783894259532e-05,0.0,2.0,0.0
+quant-ph/0412119,Why isn't every physicist a Bohmian?,1.1981784907013694e-05,3.176946349867832e-06,32.0,4.0
+quant-ph/0304029,The Brody-Hughston Fisher Information Metric,1.196436769776598e-05,0.0,5.0,0.0
+hep-th/0602047,Hamilton's equations in a non-associative quantum theory,1.191460928053958e-05,1.072305257235991e-06,6.0,1.0
+quant-ph/0608227,Complementary reductions for two qubits,1.187160406639558e-05,0.0,2.0,1.0
+quant-ph/0502048,"Note on Possibility of obtaining a non-relativistic proof of the
+  spin-statistics theorem in the Galilean frame",1.1853355470971556e-05,0.0,4.0,1.0
+quant-ph/0603075,"On Existence of a Biorthonormal Basis Composed of Eigenvectors of
+  Non-Hermitian Operators",1.1828803556479514e-05,3.784440311620068e-06,9.0,3.0
+quant-ph/0601047,"Universal destabilization and slowing of spin transfer functions by a
+  bath of spins",1.1827269369809451e-05,3.2191587283276267e-06,7.0,2.0
+math-ph/0611008,"Optimized basis expansion as an extremely accurate technique for solving
+  time-independent Schr\""odinger equation",1.181971147785192e-05,0.0,2.0,2.0
+quant-ph/0502072,NP-complete Problems and Physical Reality,1.1813775888480143e-05,6.745354401851358e-05,32.0,5.0
+quant-ph/0303071,Unambiguous discrimination of mixed states,1.180757594635061e-05,6.897995238527299e-06,1.0,4.0
+quant-ph/0601063,"Dynamics of Open Bosonic Quantum Systems in Coherent State
+  Representation",1.1778509156574705e-05,0.0,2.0,0.0
+quant-ph/0606099,"Prospects of employing superconducting stripline resonators for studying
+  the dynamical Casimir effect experimentally",1.17676616909386e-05,1.1941096530960432e-05,6.0,3.0
+quant-ph/0612126,Dynamics of a Quantum Reference Frame,1.1758021335746597e-05,4.983733403510871e-06,5.0,2.0
+gr-qc/0302117,Entropy bounds for charged and rotating systems,1.1757934370925586e-05,2.042079132095793e-08,24.0,1.0
+quant-ph/0605233,Pseudo-Hermitian Interactions in Dirac Theory: Examples,1.1739787284999609e-05,0.0,5.0,0.0
+quant-ph/0703177,Transport and Entanglement Generation in the Bose-Hubbard Model,1.1724329629143335e-05,1.608895709226938e-06,5.0,1.0
+quant-ph/0606166,Spiked potentials and quantum toboggans,1.1713807459515405e-05,0.0,4.0,0.0
+quant-ph/0612173,"Quantum kinematics on q-deformed quantum spaces I, Mathematical
+  Framework",1.1708713332718408e-05,1.0309070808280188e-07,22.0,2.0
+quant-ph/0409130,"Quantum X-waves in Kerr media and the progressive undistorted squeezed
+  vacuum",1.1698036362575029e-05,0.0,5.0,0.0
+hep-th/9912223,"Regularized Casimir energy for an infinite dielectric cylinder subject
+  to light-velocity conservation",1.1696834771523918e-05,3.889413594251605e-05,9.0,7.0
+quant-ph/0701086,"Effect of system level structure and spectral distribution of the
+  environment on the decoherence rate",1.1691394020731668e-05,0.0,3.0,0.0
+quant-ph/0508204,"Resonant States of Wave Propagation in Disordered System of Bosonic
+  Particles",1.167804338765267e-05,0.0,10.0,0.0
+quant-ph/0611242,Decoherence induced by interacting quantum spin baths,1.1671254087974231e-05,5.9884676592036725e-06,9.0,2.0
+quant-ph/0610144,"Driven single-band tight-binding dynamics, mesoscopic quantum circuits
+  and realization of generalized parafermionic polynomial algebrasDeformed
+  parafermionic algebra from single-band tight-binding dynamics",1.1665730438209737e-05,0.0,5.0,0.0
+quant-ph/0701099,Revised Geometric Measure of Entanglement,1.166082334724042e-05,0.0,7.0,0.0
+quant-ph/0410065,"About phase transitions in Bose gases at constant density and constant
+  pressure",1.1659922472416282e-05,0.0,7.0,0.0
+quant-ph/0502167,"Quantum phase uncertainty in mutually unbiased measurements and Gauss
+  sums",1.1659537225331732e-05,5.2641167124885015e-06,18.0,1.0
+hep-th/0205168,"Wormhole Spaces, Connes' ""Points, Speaking to Each Other"", and the
+  Translocal Structure of Quantum Theory",1.1647807205082545e-05,5.513175468551066e-06,20.0,4.0
+quant-ph/0603283,"A (5,5) and (6,6) PPT edge state",1.1646382108098645e-05,0.0,28.0,1.0
+quant-ph/0604117,"Tomography of one and two qubit states and factorisation of the Wigner
+  distribution in prime power dimensions",1.1640458541390244e-05,3.003518271732524e-06,13.0,3.0
+quant-ph/0102005,"Generalizations of Kijowski's time-of-arrival distribution for
+  interaction potentials",1.1629295575556052e-05,2.6743535163944142e-06,20.0,3.0
+quant-ph/0503015,"Exploring super-radiant phase transitions via coherent control of a
+  multi-qubit--cavity system",1.162326197825974e-05,0.0,12.0,0.0
+quant-ph/0606102,Hypersensitivity and chaos signatures in the quantum baker's maps,1.160337312662833e-05,9.264230079618656e-07,4.0,1.0
+quant-ph/0306101,p-Mechanics and De Donder-Weyl Theory,1.1587422510722172e-05,0.0,17.0,1.0
+quant-ph/0402035,p-Mechanics and Field Theory,1.1587422510722172e-05,1.1830942479107309e-07,17.0,1.0
+quant-ph/0302157,"Development of an approximation scheme for quasi-exactly solvable
+  double-well potentials",1.158330956261314e-05,0.0,3.0,0.0
+quant-ph/0703190,Decoherence of an $n$-qubit quantum memory,1.158165210129678e-05,0.0,6.0,0.0
+quant-ph/0406124,Stability of Quantum Dynamics,1.1551466924244655e-05,1.5346605140361735e-05,10.0,3.0
+math-ph/0602066,Large-j Expansion Method for Two-Body Dirac Equation,1.154521386383858e-05,0.0,6.0,0.0
+quant-ph/0310047,Single spin measurement using spin-orbital entanglement,1.1530066589133836e-05,0.0001752726909913,8.0,6.0
+physics/0112085,Quantum mechanical formalism of particle beam optics,1.1528397248240938e-05,0.0,8.0,4.0
+quant-ph/0010014,"Feynman Clocks, Casual Networks, and the Origin of Hierarchical 'Arrows
+  of Time' in Complex Systems from the Big Bang to the Brain",1.1523299922163829e-05,0.0,18.0,0.0
+quant-ph/0607167,Quantitative entanglement witnesses,1.1518164297045506e-05,7.951092658344719e-05,10.0,12.0
+quant-ph/0702267,"Measurement of EPR-type flavour entanglement in Upsilon(4S)->B0 B0bar
+  decays",1.1504104615500325e-05,1.990182755160072e-06,3.0,1.0
+quant-ph/0703122,Quantum key distribution with entangled photon sources,1.1498442169705853e-05,0.0,9.0,0.0
+quant-ph/0510017,Entanglement-induced state ordering under local operations,1.1484143032078412e-05,0.0,6.0,0.0
+quant-ph/0506219,An Introduction to Quantum Game Theory,1.1472824391642024e-05,8.48089092638738e-06,24.0,5.0
+quant-ph/0305155,Cavity QED and Quantum Computation in the Strong Coupling Regime,1.1472040294366488e-05,0.0,18.0,1.0
+quant-ph/0611230,"Tensor Product Structures, Entanglement, and Particle Scattering",1.1446050129648176e-05,0.0,3.0,0.0
+gr-qc/0402008,A class of nonunitary models of Newtonian gravity and its unicity,1.1443185532996835e-05,0.0,9.0,0.0
+quant-ph/0609226,"General Classes of Impossible Operations through the Existence of
+  Incomparable States",1.1435315609155863e-05,0.0,2.0,0.0
+quant-ph/0609027,Information-Theoretic Measure of Genuine Multi-Qubit Entanglement,1.1423892928329412e-05,1.9821894320089058e-06,10.0,1.0
+quant-ph/0608067,"When are correlations quantum? -- Verification and quantification of
+  entanglement by simple measurements",1.138991576105289e-05,1.0327148416154082e-06,8.0,3.0
+quant-ph/0505097,Unmodulated spin chains as universal quantum wires,1.1369997119716545e-05,9.249002828077893e-06,10.0,4.0
+quant-ph/0609204,Quantum speedup of classical mixing processes,1.1347394570296124e-05,0.0009716709786665,23.0,3.0
+quant-ph/0412047,Modal logic approach to preferred bases in the quantum universe,1.1343867686366826e-05,0.0,5.0,0.0
+quant-ph/0505082,Entanglement from thermal black body radiation,1.1334658117243672e-05,2.424584249789496e-06,5.0,2.0
+quant-ph/0610183,"Exact Solution of the Klein-Gordon Equation for the PT-Symmetric
+  Generalized Woods-Saxon Potential by the Nikiforov-Uvarov Method",1.1334171351148962e-05,5.787498053463145e-07,9.0,2.0
+quant-ph/0608027,Catalytic quantum error correction,1.1324991151727726e-05,3.93946783839047e-06,20.0,3.0
+quant-ph/0403233,"Spatial structures and localization of vacuum entanglement in the linear
+  harmonic chain",1.130533422635895e-05,1.2268787192926466e-05,28.0,3.0
+quant-ph/0701168,Using quantum key distribution for cryptographic purposes: a survey,1.1301313514556956e-05,0.0,13.0,0.0
+quant-ph/0506266,The Second Quantized Quantum Turing Machine and Kolmogorov Complexity,1.129459436675708e-05,0.0,3.0,1.0
+hep-th/0401172,"The LQG -- String: Loop Quantum Gravity Quantization of String Theory I.
+  Flat Target Space",1.1294228800073704e-05,4.0854352946743696e-05,51.0,19.0
+quant-ph/0601035,Constraints on the uncertainties of entangled symmetric qubits,1.1277994104189484e-05,0.0,2.0,1.0
+quant-ph/0605253,Popescu-Rohrlich Boxes in Quantum Measure Theory,1.1266958690249518e-05,0.0,8.0,0.0
+quant-ph/0407208,"Possibility of obtaining a non-relativistic proof of the spin-statistics
+  theorem in the Galilean frame",1.1252997145289588e-05,0.0,3.0,2.0
+quant-ph/0309129,Certain conclusions of Gordon decomposition,1.1245764228682128e-05,0.0,4.0,0.0
+hep-th/0505229,Unitary Evolution on a Phase Space with Power of Two Discretization,1.1235057967912673e-05,5.744410325300827e-07,23.0,1.0
+cond-mat/0412229,Entanglement distillation by adiabatic passage in coupled quantum dots,1.1233170660257192e-05,5.52718642919393e-06,5.0,3.0
+quant-ph/0207053,"Lorentz covariant reduced-density-operator theory for relativistic
+  quantum information processing",1.1231248808719075e-05,8.581235206760032e-06,5.0,1.0
+quant-ph/0703011,"Stochastic particle annihilation: a model of state reduction in
+  relativistic quantum field theory",1.123059898517763e-05,0.0,5.0,0.0
+quant-ph/0508184,Decoherence from spin environments,1.1222869171824703e-05,3.815039985986547e-06,6.0,2.0
+quant-ph/0612010,Information gain in quantum continual measurements,1.1208765773829722e-05,0.0,6.0,0.0
+cond-mat/0108339,Decoherence and dephasing in spin-based solid state quantum computers,1.1205232396753416e-05,2.510326788535671e-05,9.0,17.0
+quant-ph/0611059,Experimental quantum key distribution with active phase randomization,1.1201854801399792e-05,0.0,7.0,1.0
+quant-ph/0610002,New perturbation theory in QED,1.1196985770410867e-05,0.0,4.0,0.0
+quant-ph/0302015,Dynamical aspects of quantum entanglement for coupled mapping systems,1.118730969878758e-05,0.0,3.0,0.0
+quant-ph/0612079,Narrow entanglement beats,1.1165984497039524e-05,0.0,3.0,0.0
+quant-ph/0702212,"Generalized Flow and Determinism in Measurement-based Quantum
+  Computation",1.1151056714368569e-05,3.066576472409368e-06,13.0,2.0
+quant-ph/0608028,"On the Security of Y-00 under Fast Correlation and Other Attacks on the
+  Key",1.1147667795632088e-05,0.0,6.0,2.0
+quant-ph/0607158,"Ordering ambiguity revisited via position dependent mass pseudo-momentum
+  operators",1.1132183137986026e-05,0.0,7.0,0.0
+quant-ph/0701189,"Background Independent Quantum Mechanics, Metric of Quantum States, and
+  Gravity: A Comprehensive Perspective",1.1127013651099613e-05,0.0,11.0,0.0
+quant-ph/0506069,"Algebraic and information-theoretic conditions for operator quantum
+  error-correction",1.111599086647484e-05,7.70360251956076e-06,11.0,11.0
+cond-mat/0609768,Dipole transitions and Stark effect in the charge-dyon system,1.1111471164960028e-05,1.990182755160072e-06,2.0,1.0
+quant-ph/0605024,"Entanglement-assisted Enhanced Information Transmission Over a Quantum
+  Channel with Correlated Noise; A General Expression",1.1098927377356671e-05,1.6929637420626943e-08,12.0,1.0
+gr-qc/0310007,Is a classical Euclidean TOE reasonable?,1.1080405678924594e-05,0.0,24.0,0.0
+hep-ph/0408184,Facets of the spinless Salpeter equation,1.1076695734048818e-05,0.0,22.0,4.0
+chao-dyn/9712015,"Quantum Mechanics and Semiclassics of Hyperbolic n-Disk Scattering
+  Systems",1.1067148833794452e-05,0.0,10.0,2.0
+quant-ph/0611248,"Entanglement, avoided crossings and quantum chaos in an Ising model with
+  a tilted magnetic field",1.1053782814408572e-05,0.0,7.0,0.0
+nucl-th/0409023,Renormalization of $NN$ scattering: contact potential,1.1045920418102917e-05,5.453833993520378e-06,15.0,4.0
+quant-ph/0209164,Relativistic entanglement and Bell's inequality,1.1037218388489794e-05,6.625707375197276e-06,5.0,3.0
+cond-mat/0205666,"Hidden gauge structure and derivation of microcanonical ensemble theory
+  of bosons from quantum principles",1.1036755850249546e-05,0.0,1.0,0.0
+cond-mat/0402368,"Electrical current noise of a beam splitter as a test of
+  spin-entanglement",1.1030023907235855e-05,1.953052479877235e-06,13.0,1.0
+gr-qc/0507054,"Accelerated Detector - Quantum Field Correlations: From Vacuum
+  Fluctuations to Radiation Flux",1.1013517673812043e-05,2.530040147032295e-06,4.0,2.0
+gr-qc/0408010,On the interaction of mesoscopic quantum systems with gravity,1.1012574685669424e-05,1.2918997199513367e-05,8.0,7.0
+quant-ph/0412063,Quantum Information Theory and the Foundations of Quantum Mechanics,1.1006421123877275e-05,9.854923538010463e-06,41.0,7.0
+hep-th/0109215,"Geometry of Generalized Coherent States : Some Calculations of Chern
+  Characters",1.1004081230541263e-05,0.0,14.0,0.0
+quant-ph/0612218,Universality and optimality of programmable quantum processors,1.09976177201005e-05,0.0,5.0,0.0
+quant-ph/0702186,Polynomial Solution of Non-Central Potentials,1.0993440149647267e-05,0.0,5.0,1.0
+quant-ph/0401188,"Vacuum fluctuations and moving atoms/detectors: From Casimir-Polder to
+  Unruh effect",1.0977999650828386e-05,2.0746848763428282e-07,5.0,2.0
+quant-ph/0608090,"The Convex Closure of the Output Entropy of Infinite Dimensional
+  Channels and the Additivity Problem",1.0941897625291271e-05,2.802661750879008e-06,16.0,1.0
+hep-th/0602236,Approaching quantum behavior with classical fields,1.09365379166817e-05,2.6129035825901e-07,6.0,2.0
+quant-ph/0606123,The hidden geometric character of relativistic quantum mechanics,1.0933373802853468e-05,0.0,7.0,0.0
+quant-ph/0609094,"Sequential attacks against differential-phase-shift quantum key
+  distribution with weak coherent states",1.0930617268944336e-05,1.991667966171385e-06,9.0,2.0
+quant-ph/0406067,Entanglement in a Valence-Bond-Solid State,1.0917487811860591e-05,3.955644887946228e-05,20.0,11.0
+quant-ph/0602022,"Single-qubit operations in the double-donor structure driven by strongly
+  detuned optical pulses",1.0883640894159195e-05,0.0,5.0,0.0
+quant-ph/0510035,The distillability problem revisited,1.087288394996911e-05,0.0,40.0,2.0
+cond-mat/0203263,"Quantum Hall states and boson triplet condensate for rotating spin-1
+  bosons",1.0847984989575583e-05,0.0,5.0,0.0
+hep-ph/0308192,Entropy for Colored Quark States at Finite Temperature,1.0845756638994112e-05,0.0001252514432583,8.0,10.0
+quant-ph/0702263,Observables and unobservables in a non-associative quantum theory,1.0828018321536491e-05,0.0,4.0,0.0
+hep-th/0012084,Precanonical Quantization and the Schroedinger Wave Functional,1.0813820775179008e-05,1.7839515296977114e-07,19.0,8.0
+quant-ph/0610031,Compatibility of subsystem states and convex geometry,1.0806742434720244e-05,1.483430928609574e-06,23.0,1.0
+quant-ph/0507124,Real trajectories in the semiclassical coherent state propagator,1.0803815979107977e-05,0.0,3.0,1.0
+gr-qc/0509082,"Gravitationally-Induced Quantum Superpopsition Reduction with Large
+  Extra Dimensions",1.0794040463800102e-05,0.0,6.0,0.0
+cond-mat/0501493,"Efficient evaluation of partition functions of frustrated and
+  inhomogeneous spin systems",1.0791582195951734e-05,2.041387172883451e-06,10.0,2.0
+quant-ph/0506270,"Spin-1/2 particles moving on a 2D lattice with nearest-neighbor
+  interactions can realize an autonomous quantum computer",1.0778564458536484e-05,4.729421932490672e-08,5.0,1.0
+quant-ph/0608186,More on the Isomorphism $SU(2)\otimes SU(2)\cong SO(4)$,1.0775639804667668e-05,3.6243670621316807e-06,11.0,3.0
+math-ph/0703045,Qualitative Analysis of the Classical and Quantum Manakov Top,1.0727451734008933e-05,0.0,8.0,0.0
+quant-ph/0302192,Semiclassical evaluation of quantum fidelity,1.0719601158863947e-05,9.955555060210714e-06,6.0,8.0
+quant-ph/0605048,"Tavis-Cummings model and collective multi-qubit entanglement in trapped
+  ions",1.0712626011262464e-05,8.261697952982772e-07,4.0,2.0
+quant-ph/0609164,Quantum Key Distribution with Screening and Analyzing,1.0707220969971392e-05,0.0,5.0,0.0
+quant-ph/0703070,"Non-relativistic Schroedinger theory on q-deformed quantum spaces I,
+  Mathematical framework and equations of motion",1.0693101228130112e-05,0.0,18.0,0.0
+quant-ph/0111025,"Time and Information, The Origins of 'Time' from Information Flow In
+  Causal Networks and Complex Systems",1.0689627536069448e-05,0.0,8.0,1.0
+cond-mat/0605316,Symmetry and Topological Order,1.0686109447470908e-05,4.540850268209734e-06,2.0,5.0
+quant-ph/0507220,When champions meet: Rethinking the Bohr--Einstein debate,1.0678795440117316e-05,9.913783500517523e-08,2.0,2.0
+gr-qc/0503116,"Quantum Mechanics without spacetime V - Why a quantum theory of gravity
+  should be non-linear-",1.0677543703755208e-05,1.3931088967885208e-05,7.0,8.0
+quant-ph/0603207,Many-fingered time Bohmian mechanics,1.0674230484361024e-05,1.6655580626872672e-08,7.0,1.0
+quant-ph/0601034,Direct Characterization of Quantum Dynamics: General Theory,1.0672291508916704e-05,5.755873905914329e-06,5.0,3.0
+quant-ph/0702239,Deriving a Fault-Tolerant Threshold for a Global Control Scheme,1.0667304629631114e-05,0.0,7.0,0.0
+quant-ph/0412140,Entanglement and its Role in Shor's Algorithm,1.06561792582066e-05,9.636865128074284e-06,21.0,5.0
+quant-ph/0509085,Improving the purity of one- and two-qubit gates by AC fields,1.065044536583748e-05,1.990182755160072e-06,2.0,1.0
+math-ph/9810011,"Projective Systems of Noncommutative Lattices as a Pregeometric
+  Substratum",1.0636169054885672e-05,7.679010179522487e-07,5.0,3.0
+hep-th/0309239,A General Theory of Quantum Relativity,1.0635767430097686e-05,9.906297218879572e-06,17.0,8.0
+quant-ph/0610099,A class of quantum many-body states that can be efficiently simulated,1.0623780207577292e-05,2.643296547394233e-05,18.0,4.0
+quant-ph/0507272,"Polynomial Solution of PT-/Non-PT-Symmetric and Non-Hermitian
+  Generalized Woods-Saxon Potential via Nikiforov-Uvarov Method",1.0621348367302664e-05,2.075174036019767e-06,11.0,6.0
+quant-ph/0409174,Deterministic Local Conversion of Incomparable States by Collective LOCC,1.0610202332508653e-05,2.6154721505274874e-06,6.0,1.0
+quant-ph/0702102,A statistical mechanics view on Kitaev's proposal for quantum memories,1.0606598472102704e-05,0.0,14.0,0.0
+quant-ph/0501059,Star clusters dynamics in a laboratory: electrons in an ultracold plasma,1.0605812393060847e-05,0.0,8.0,0.0
+quant-ph/0309125,NuRule (4) and the 3-Level Atom,1.0600977565012324e-05,0.0,2.0,1.0
+quant-ph/0504198,Quantum vs. Classical Read-once Branching Programs,1.0595146826373528e-05,0.0,8.0,0.0
+hep-th/0412160,"Pseudo-hermitian interaction between an oscillator and a spin half
+  particle in the external magnetic field",1.0586176284079377e-05,0.0008032894364962,18.0,3.0
+quant-ph/0401144,Quantum Phase Transitions in Anti-ferromagnetic Planar Cubic Lattices,1.057404841245627e-05,1.7445840133280037e-06,22.0,3.0
+quant-ph/0307137,On the position uncertainty measure on the circle,1.0573726632721344e-05,9.826527353602854e-06,9.0,2.0
+quant-ph/0703042,"Exact solutions of the pseudo-Coulomb potential plus ring-shaped
+  potential in the D-dimensional Schrodinger equation by the Nikiforov-Uvarov
+  method",1.0569425835249868e-05,0.0,6.0,1.0
+astro-ph/0612067,Decoherence from Isocurvature Perturbations in Inflation,1.0568014666847458e-05,0.0,19.0,0.0
+quant-ph/0606206,"No-Cloning and No-Deleting theorems through the existence of
+  Incomparable states under LOCC",1.0566398087477504e-05,9.795756296898729e-07,3.0,1.0
+hep-th/9910033,Calogero-Moser Models V: Supersymmetry and Quantum Lax Pair,1.056200389986743e-05,1.2276197850365417e-05,25.0,21.0
+quant-ph/0109148,"Classical Communication via the Einstein-Podolsky-Rosen Channel Alone: A
+  Proposed Experimental Test",1.0552799372289114e-05,1.9827567001035044e-06,10.0,2.0
+quant-ph/0609217,Resonant Scattering Can Enhance the Degree of Entanglement,1.0551178396792596e-05,0.0,2.0,0.0
+quant-ph/9601002,"Quantum Mechanics as a Classical Theory X: Quantization in Generalized
+  Coordinates",1.05406684978493e-05,0.0,9.0,0.0
+quant-ph/0410090,"Local versus non-local information in quantum information theory:
+  formalism and phenomena",1.0538776081686073e-05,8.580525188088313e-06,48.0,9.0
+quant-ph/0606011,"Dynamical Entanglement in Non-Relativistic, Elastic Scattering",1.0536378346165971e-05,0.0,5.0,1.0
+cond-mat/0610833,Entanglement entropy in collective models,1.0535127561849538e-05,0.0,2.0,0.0
+quant-ph/0401101,"Phase Structure of the Random-Plaquette Z_2 Gauge Model: Accuracy
+  Threshold for a Toric Quantum Memory",1.0526904004997372e-05,2.264421910924029e-05,11.0,4.0
+hep-th/0502129,"Effective local geometric quantities in fuzzy spaces from heat kernel
+  expansions",1.0517489521838524e-05,3.003820019411629e-07,16.0,2.0
+quant-ph/0408125,"Environment as a Witness: Selective Proliferation of Information and
+  Emergence of Objectivity in a Quantum Universe",1.0514601617433324e-05,8.449354854917259e-05,18.0,7.0
+quant-ph/0606015,Majorization in Quantum Adiabatic Algorithms,1.0489105003360422e-05,0.0,14.0,0.0
+quant-ph/0209055,"Relative Frequency and Probability in the Everett Interpretation of
+  Heisenberg-Picture Quantum Mechanics",1.047953327554067e-05,4.867814292756862e-06,14.0,3.0
+math/0408219,A holomorphic representation of the Jacobi algebra,1.0478040444814353e-05,0.0,5.0,1.0
+quant-ph/0307129,"Controllability, Observability and Parameter Identification of two
+  coupled spin 1's",1.047133703800102e-05,3.2839058178259256e-06,10.0,2.0
+quant-ph/0612127,Violation of monogamy inequality for higher-dimensional objects,1.0470721724417912e-05,0.0,3.0,1.0
+hep-th/0112125,Nonlinear Supersymmetry,1.0452411499464738e-05,4.0748887223115774e-08,28.0,2.0
+quant-ph/0702189,Unbounded violation of tripartite Bell inequalities,1.043108183064974e-05,3.956974343614187e-07,8.0,2.0
+quant-ph/0610098,On strong superadditivity for a class of quantum channels,1.0425097576676236e-05,0.0,8.0,0.0
+quant-ph/0506160,"Mutual Information of Bipartite States and Quantum Discord in Terms of
+  Coherence Information",1.0405544466763766e-05,1.428306285928959e-06,18.0,1.0
+cond-mat/0605683,"Entanglement entropy of 2D conformal quantum critical points: hearing
+  the shape of a quantum drum",1.0395529555758529e-05,4.660609855192512e-07,4.0,3.0
+quant-ph/0304043,A new method for the solution of the Schrodinger equation,1.0375122752318287e-05,1.990182755160072e-06,12.0,1.0
+math/0011208,Quantum Logic in Intuitionistic Perspective,1.0368528539631717e-05,0.0,4.0,2.0
+quant-ph/0611220,"Complete ""Born's rule"" from ""environment-assisted invariance"" in terms
+  of pure-state twin unitaries",1.0366154655842166e-05,0.0,15.0,0.0
+quant-ph/0209119,A Renormalisation Approach to Effective Interactions in Hilbert Space,1.0349110012197376e-05,1.3251297716090763e-06,4.0,3.0
+quant-ph/0612174,"Quantum kinematics on q-deformed quantum spaces II, Wave functions on
+  position and momentum space",1.0337835155499828e-05,9.17086547989297e-08,18.0,2.0
+hep-th/0502139,Black-hole concept of a point-like nucleus with supercritical charge,1.033304739050534e-05,2.4354682831970504e-06,7.0,1.0
+quant-ph/0512078,Roots and Fruits of Decoherence,1.0315007738000125e-05,7.009634926544136e-06,7.0,4.0
+quant-ph/0606234,"Experimental Observation of Four-Photon Entangled Dicke State with High
+  Fidelity",1.0307427194011133e-05,4.393984987212483e-06,3.0,1.0
+quant-ph/0609002,"A simple nearest-neighbor two-body Hamiltonian system for which the
+  ground state is a universal resource for quantum computation",1.0306287271992087e-05,0.0,18.0,0.0
+quant-ph/0506260,"Random subspaces for encryption based on a private shared Cartesian
+  frame",1.029997029933455e-05,1.954935284191113e-05,23.0,2.0
+quant-ph/0406088,Reconstruction of superoperators from incomplete measurements,1.0291145803365046e-05,4.41112275233996e-06,3.0,5.0
+cond-mat/0103005,Dynamics of a mesoscopic qubit under continuous quantum measurement,1.028523915209928e-05,1.9105287568258803e-06,13.0,1.0
+quant-ph/0605015,Applications of Feedback Control in Quantum Systems,1.0273223686582372e-05,6.011568379126017e-09,6.0,1.0
+quant-ph/0511217,"The entangling and disentangling power of unitary transformations are
+  unequal",1.0272324050114192e-05,2.0074483331665914e-06,1.0,4.0
+hep-th/0103051,"Spectral equivalences, Bethe Ansatz equations, and reality properties in
+  PT-symmetric quantum mechanics",1.027135778964746e-05,5.438067409899798e-05,25.0,34.0
+quant-ph/0510107,Error Analysis For Encoding A Qubit In An Oscillator,1.026343005392807e-05,0.0,15.0,0.0
+quant-ph/0604167,Features of Moyal Trajectories,1.0260178742527864e-05,0.0,3.0,0.0
+quant-ph/0611063,Projective Ring Line Encompassing Two-Qubits,1.0253309939146952e-05,4.22626380909258e-06,6.0,3.0
+quant-ph/0503136,Quantum Cooperation of Two Insects,1.0253205762640806e-05,8.672271631386483e-07,9.0,2.0
+hep-th/0510267,"Quantum fields, cosmological constant and symmetry doubling",1.0245563471878195e-05,1.1934236450048158e-06,10.0,3.0
+quant-ph/0604055,About mathematical apparatus of many body quantum dynamics,1.0244489700846404e-05,0.0,5.0,0.0
+quant-ph/0701004,The geometry of quantum computation,1.0206116637017526e-05,2.985274132740108e-06,12.0,2.0
+math-ph/0702005,"Relative $C$""-Numerical Ranges for Applications in Quantum Control and
+  Quantum Information",1.0202903143229382e-05,0.0,1.0,1.0
+quant-ph/0608247,Quantum many-body simulations using Gaussian phase-space representations,1.0200524303603633e-05,0.0,3.0,0.0
+cond-mat/0502071,Realizing non-Abelian statistics,1.0199719674449603e-05,8.34641306975827e-06,26.0,4.0
+quant-ph/0605223,Entanglement and statistics in Hong-Ou-Mandel interferometry,1.0191442870538302e-05,0.0,3.0,1.0
+quant-ph/0608080,Multipartite purification protocols: upper and optimal bounds,1.0186209642271549e-05,4.525672727568658e-07,5.0,3.0
+quant-ph/0203135,"Mathematical Structure of Rabi Oscillations in the Strong Coupling
+  Regime",1.0182507479665682e-05,7.021360813439321e-06,20.0,10.0
+quant-ph/0607050,Dynamics of Loschmidt echoes and fidelity decay,1.0174778620068097e-05,7.7829240127169e-06,10.0,5.0
+quant-ph/0605191,Atomic entanglement mediated by a squeezed cavity field,1.0174656691118536e-05,1.0157986464877722e-06,7.0,1.0
+quant-ph/0609108,Foundation q-rules,1.0147121141840914e-05,0.0,7.0,0.0
+gr-qc/0308021,Lorentz invariant intrinsic decoherence,1.0145490949931567e-05,7.090856063306574e-06,4.0,12.0
+gr-qc/0602013,Generalizing Quantum Mechanics for Quantum Spacetime,1.0143406608142754e-05,7.705474419326368e-06,16.0,5.0
+quant-ph/0507012,"Abelian and non-Abelian geometric phases in adiabatic open quantum
+  systems",1.0133474330688716e-05,9.00441201035591e-06,3.0,4.0
+gr-qc/0501081,Stochastic Spacetime and Brownian Motion of Test Particles,1.0131641863094097e-05,2.22781651697023e-08,22.0,1.0
+hep-th/0112263,"Geometric (pre)quantization in the polysymplectic approach to field
+  theory",1.0113352562430837e-05,4.957970928558868e-06,22.0,6.0
+cond-mat/0502534,Universality in Phase Transitions for Ultracold Fermionic Atoms,1.0111554115581582e-05,1.1669105781700182e-06,9.0,3.0
+quant-ph/0210107,Entanglement properties of composite quantum systems,1.0111194607003405e-05,1.0136480616143096e-05,28.0,6.0
+quant-ph/0701125,Emergence of typical entanglement in two-party random processes,1.0100354955903925e-05,6.163558665257092e-06,12.0,3.0
+quant-ph/0108133,On Classical and Quantum Cryptography,1.0099544495258373e-05,2.654781833862902e-05,26.0,5.0
+quant-ph/0702021,"Bell inequalities: many questions, a few answers",1.008679337774592e-05,3.545845616981625e-06,9.0,3.0
+hep-th/0212117,Dolan-Grady Relations and Noncommutative Quasi-Exactly Solvable Systems,1.0081868050075815e-05,6.532742775244515e-05,26.0,3.0
+nucl-th/0406008,"Effective theories of scattering with an attractive inverse-square
+  potential and the three-body problem",1.008144447329025e-05,1.6306771144634963e-06,29.0,5.0
+quant-ph/0702011,The quantum theory of measurement within dynamical reduction models,1.0069906334899897e-05,0.0,1.0,1.0
+quant-ph/0310092,Duality and Quantum Mechanics,1.0068400038388577e-05,5.346913508743191e-09,8.0,3.0
+quant-ph/0611030,Casimir Force on Real Materials - the Slab and Cavity Geometry,1.00625050809244e-05,0.0,3.0,0.0
+quant-ph/0503237,Gaussian states in continuous variable quantum information,1.004496641047762e-05,1.1571896346366516e-05,10.0,9.0
+hep-th/0507126,Classical Simulation of Quantum Fields I,1.0044467221185329e-05,2.1427474445104026e-07,5.0,2.0
+quant-ph/0410238,Qubit-Qutrit Separability-Probability Ratios,1.0042910033533447e-05,4.549360106774914e-06,9.0,3.0
+quant-ph/0703082,On the Quantum Circuit Complexity Equivalence,1.0033023216536163e-05,0.0,6.0,0.0
+quant-ph/0612071,"Comment on ""Quantum string seal is insecure""",1.0029835837877732e-05,0.0,5.0,0.0
+quant-ph/0507214,"Dialogue Concerning Two Views on Quantum Coherence: Factist and
+  Fictionist",1.002085351058445e-05,8.306653990546085e-05,11.0,6.0
+quant-ph/0612108,"Nonlinear entanglement witnesses, covariance matrices and the geometry
+  of separable states",1.0003155460046704e-05,3.7130275282837164e-09,7.0,2.0
+nucl-th/0405011,Exactly solvable Richardson-Gaudin models for many-body quantum systems,9.987666365033515e-06,3.836504828113588e-06,4.0,11.0
+quant-ph/0210166,"N-Level System Interacting with Single Radiation Mode and Multi Cat
+  States of Schrodinger in the Strong Coupling Regime",9.987445017961285e-06,1.617647621130079e-05,25.0,11.0
+quant-ph/0702131,Quantum Process Tomography: Resource Analysis of Different Strategies,9.980558297091816e-06,7.59078107826378e-06,9.0,1.0
+quant-ph/0610017,A pairwise additive strategy for quantifying multipartite entanglement,9.969227449658069e-06,6.952229744050877e-07,4.0,2.0
+quant-ph/0608093,A gauge theory of quantum mechanics,9.956330606465143e-06,2.174490121942808e-08,2.0,3.0
+quant-ph/0509201,Qubits entanglement dynamics modified by an effective atomic environment,9.886906982354682e-06,0.0,3.0,0.0
+gr-qc/0611135,Quantum causal histories in the light of quantum information,9.884468677728289e-06,1.901321600802252e-08,11.0,2.0
+hep-lat/0507014,Classical Simulation of Quantum Fields II,9.882368597887004e-06,0.0,4.0,2.0
+cond-mat/0703366,Renormalisation Flow and Universality for Ultracold Fermionic Atoms,9.873049655289465e-06,0.0,4.0,0.0
+quant-ph/0703029,Scalable Quantum Networks based on Few-Qubit Registers,9.87141213509219e-06,0.0,1.0,0.0
+quant-ph/0005085,Fulfillment of expectations of precise measurements of the Casimir force,9.87010938115936e-06,7.803652269568332e-06,11.0,2.0
+cond-mat/0604464,"Quantum theory of an atom laser originating from a Bose-Einstein
+  condensate or a Fermi gas in the presence of gravity",9.869394816815324e-06,0.0,3.0,0.0
+quant-ph/0407049,Aspects of generic entanglement,9.868686408643364e-06,8.605750101154072e-05,30.0,21.0
+quant-ph/0503229,On the plasticity of nonlocal quantum correlations,9.854062717793513e-06,0.0,5.0,0.0
+quant-ph/0211121,Mixed quantum state detection with inconclusive results,9.853922667921589e-06,8.88817799368737e-06,8.0,1.0
+quant-ph/0603130,"Error tolerance and tradeoffs in loss- and failure-tolerant quantum
+  computing schemes",9.84823343957493e-06,1.083436635094598e-07,4.0,2.0
+hep-th/0612076,Probabilities in the general boundary formulation,9.838503240758945e-06,0.0,9.0,0.0
+quant-ph/0702178,Resonances of Multichannel Systems,9.83450425368016e-06,0.0,6.0,0.0
+quant-ph/0703047,Quantum Brachistochrone for Mixed States,9.82130714740878e-06,0.0,5.0,0.0
+quant-ph/0507022,From Dirac to Diffusion: Decoherence in Quantum Lattice Gases,9.820274409313688e-06,3.445734096495683e-06,14.0,2.0
+quant-ph/0509126,"Properties of Conjugate Channels with Applications to Additivity and
+  Multiplicativity",9.813490776893498e-06,2.861714056941674e-05,15.0,13.0
+quant-ph/0601050,"Braid Group, Temperley--Lieb Algebra, and Quantum Information and
+  Computation",9.810125496835164e-06,2.163375355223924e-06,18.0,7.0
+quant-ph/9912021,"Overview of ""Structure behind Mechanics""",9.799320583627054e-06,0.0,3.0,1.0
+quant-ph/0001015,Structure behind Mechanics II: Deduction,9.799320583627054e-06,0.0,3.0,1.0
+quant-ph/0511055,Towards quantum mechanics from a theory of experiments,9.792565203558874e-06,0.0,6.0,0.0
+quant-ph/0205057,On the capacities of bipartite Hamiltonians and unitary gates,9.791457719713707e-06,8.172608718740807e-05,51.0,24.0
+quant-ph/0509091,"On the security of AlphaEta: Response to `Some attacks on quantum-based
+  cryptographic protocols'",9.789093916001563e-06,9.960196344621068e-07,6.0,4.0
+quant-ph/0601094,Casimir effect for curved geometries: PFA validity limits,9.775614780818229e-06,1.065294228283544e-06,5.0,5.0
+hep-th/0311150,"Nonlinear superconformal symmetry of a fermion in the field of a Dirac
+  monopole",9.762658376109087e-06,3.2111934233054907e-06,13.0,8.0
+quant-ph/0503201,The GRA Beam-Splitter Experiments and Particle-Wave Duality of Light,9.759767765997216e-06,0.0,3.0,0.0
+physics/0210001,An alternate way to obtain the aberration expansion in Helmholtz Optics,9.75948565204792e-06,0.0,10.0,2.0
+hep-th/0702157,A new variational perturbation method for double well oscillators,9.749531205770714e-06,0.0,6.0,0.0
+quant-ph/0411058,Conditions for optimal construction of two-qubit non-local gates,9.737731315306303e-06,9.044342265005224e-07,4.0,2.0
+quant-ph/0505081,Toy Model for a Relational Formulation of Quantum Theory,9.736838202374969e-06,9.569436301291643e-05,24.0,11.0
+quant-ph/0406094,A Relativistic Version of the Ghirardi-Rimini-Weber Model,9.731369775161012e-06,3.0816335662797936e-05,15.0,10.0
+quant-ph/0508005,Star-quantization of an infinite wall,9.709580936459057e-06,1.990182755160072e-06,2.0,2.0
+cond-mat/0605194,"A Renormalisation-Group Algorithm for Eigenvalue Density Functions of
+  Interacting Quantum Systems",9.69672701899444e-06,2.950530803725453e-08,16.0,3.0
+quant-ph/0607059,Bell's inequalities in the tomographic representation,9.693361081526395e-06,4.1622605531241307e-07,4.0,1.0
+quant-ph/0701051,"Canonical and micro-canonical typical entanglement of continuous
+  variable systems",9.678543086692872e-06,3.276617409390341e-06,8.0,4.0
+quant-ph/0602038,Multi-photon entanglement from distant single photon sources on demand,9.647266576218156e-06,5.973023617165739e-06,1.0,4.0
+hep-th/0412192,"Finite size effects in quantum field theories with boundary from
+  scattering data",9.646928009444086e-06,3.661155910094968e-06,15.0,4.0
+quant-ph/0606177,Optimal purification of thermal graph states,9.645957981373616e-06,6.4516546216596456e-06,10.0,4.0
+quant-ph/0601151,Quantum Adiabatic Computation and the Travelling Salesman Problem,9.641354902232133e-06,5.914779160235338e-07,12.0,2.0
+quant-ph/0701019,"Quantum gravity computers: On the theory of computation with indefinite
+  causal structure",9.628405789931308e-06,0.0,5.0,0.0
+quant-ph/0605044,"Information Extraction from Decohering Systems via Indirect Continuous
+  Measurement",9.624318198419477e-06,0.0,3.0,1.0
+hep-th/0512186,"Strings, world-sheet covariant quantization and Bohmian mechanics",9.618542813142396e-06,1.515647760485909e-08,3.0,2.0
+quant-ph/0604188,Investigations in quantum games using EPR-type set-ups,9.606229033273437e-06,7.37339461815743e-07,18.0,1.0
+quant-ph/0611117,"Decay and storage of multiparticle entangled states of atoms in
+  collective thermostat",9.603751600419547e-06,0.0,2.0,0.0
+quant-ph/0502174,"From Quantum Optics to Non-Commutative Geometry : A Non-Commutative
+  Version of the Hopf Bundle, Veronese Mapping and Spin Representation",9.589446592420436e-06,0.0,9.0,1.0
+quant-ph/0603282,"Decoherence induced by squeezing control errors in optical and ion trap
+  holonomic quantum computations II",9.587977064930794e-06,5.245230025357064e-07,11.0,1.0
+quant-ph/0601099,"Decoherence induced by squeezing control errors in optical and ion trap
+  holonomic quantum computations",9.587977064930794e-06,0.0,11.0,0.0
+quant-ph/0210019,Induced vortex tunneling in a superconducting wire,9.58177392951313e-06,0.0,4.0,1.0
+quant-ph/0403185,"First-order super-radiant phase transitions in a multi-qubit--cavity
+  system",9.581514444655612e-06,0.0,10.0,0.0
+quant-ph/0411151,Quantum Walks with Entangled Coins,9.577674272759416e-06,3.80028918544453e-06,10.0,3.0
+quant-ph/0409216,Stairway Quantum Computer,9.576947118982267e-06,3.367150923322732e-06,15.0,1.0
+quant-ph/0512027,Validity of adiabaticity in Cavity QED,9.559596178067928e-06,0.0,5.0,0.0
+quant-ph/0512071,Review article: Linear optical quantum computing,9.55923684647102e-06,4.265963268616709e-05,13.0,23.0
+quant-ph/0610007,"Quantum Entanglement under Non-Markovian Dynamics of Two Qubits
+  Interacting with a common Electromagnetic Field",9.555939831544944e-06,1.5598564970614183e-06,7.0,1.0
+quant-ph/0407121,Quantum information and triangular optical lattices,9.554116207853524e-06,7.310310679392046e-05,17.0,3.0
+quant-ph/0701156,MLC No-go Theorems: Reinterpretation and Extension,9.548065214965089e-06,0.0,13.0,0.0
+quant-ph/0606084,Counter-Factual Meaningfulness and the Bell and CHSH Inequalities,9.5373623765312e-06,2.0963751011260746e-07,3.0,1.0
+cs/0302012,The New AI: General & Sound & Relevant for Physics,9.529117872953568e-06,2.985274132740108e-06,6.0,3.0
+quant-ph/0604201,Partial Observers,9.524274270582796e-06,0.0,5.0,1.0
+quant-ph/0311017,Universality of Entanglement and Quantum Computation Complexity,9.50340546941044e-06,0.0001172377727991,36.0,10.0
+cond-mat/0411617,"Squeezing of a nanomechanical resonator by quantum nondemolition
+  measurement and feedback",9.502444308292406e-06,0.0,5.0,0.0
+quant-ph/0702199,"New Bell inequalities for the singlet state: Going beyond the
+  Grothendieck bound",9.492234322520847e-06,0.0,2.0,1.0
+quant-ph/0310186,There Is No Basis Ambiguity in Everett Quantum Mechanics,9.489153453345188e-06,7.4260550565674335e-09,10.0,2.0
+quant-ph/0610162,On measurement-based quantum computation with the toric code states,9.487745625914024e-06,1.0434545891813205e-07,10.0,2.0
+quant-ph/0405059,Consistency of the Adiabatic Theorem,9.472794126995086e-06,1.5484182681881147e-05,12.0,6.0
+quant-ph/0404175,3D Quantum Trajectories. Quantum orbits of the Hydrogen's electron,9.469749585147097e-06,0.0,8.0,1.0
+gr-qc/0608028,Quantum Radiation Reaction and the Green's Function Decomposition,9.453872989608572e-06,0.0,12.0,0.0
+hep-th/0010107,"Jacobson generators, Fock representations and statistics of sl(n+1)",9.446730213544422e-06,1.587690571094117e-05,19.0,6.0
+quant-ph/0506037,Suppressing decoherence of quantum algorithms by jump codes,9.44323731140548e-06,0.0,11.0,0.0
+quant-ph/0409027,Entanglement in XY Spin Chain,9.442324785565669e-06,1.931713092045032e-05,19.0,14.0
+astro-ph/0407013,"Quantum cosmological effects from the high redshift supernova
+  observations",9.433561705475551e-06,1.8565137641418582e-09,17.0,1.0
+quant-ph/0302197,Hilbert--Schmidt volume of the set of mixed quantum states,9.415636953167113e-06,9.356829371274965e-08,7.0,2.0
+quant-ph/0111017,Simulation of many-body interactions by conditional geometric phases,9.40752858852722e-06,1.990182755160072e-06,14.0,1.0
+nlin/0305060,On the canonically invariant calculation of Maslov indices,9.396541986175156e-06,0.0,2.0,1.0
+quant-ph/0303113,"Heralded Two-Photon Entanglement from Probabilistic Quantum Logic
+  Operations on Multiple Parametric Down-Conversion Sources",9.392767630096031e-06,0.000257580988998,8.0,4.0
+quant-ph/0603115,Fast rate estimation of an unitary operation in SU(d),9.376975238629192e-06,8.19641396102049e-08,2.0,1.0
+quant-ph/0510108,Multiplayer quantum Minority game with decoherence,9.370808379731284e-06,0.0,3.0,0.0
+quant-ph/0607003,Imaginary Entanglement as Cost of Unitarity,9.364551436636586e-06,1.8837426326826051e-06,6.0,1.0
+quant-ph/0507215,Atemporal diagrams for quantum circuits,9.361886779659158e-06,2.098091767648728e-07,13.0,5.0
+hep-th/0311064,Covariant Hamiltonian evolution in supersymmetric quantum systems,9.348333986327544e-06,6.890496275848734e-06,22.0,4.0
+quant-ph/0503176,Studies in the Theory of Quantum Games,9.3426095190312e-06,1.03933988036431e-05,12.0,8.0
+quant-ph/0109133,Quantum times of arrival for multiparticle states,9.342055617908384e-06,0.0,11.0,2.0
+hep-th/0305100,Non-linear quantum mechanics and high energy cosmic rays,9.332360744876952e-06,9.903430987768804e-05,21.0,5.0
+quant-ph/9908042,On the Way to Submicroscopic Description of Nature,9.3301363798445e-06,6.71023010120068e-06,9.0,8.0
+quant-ph/0607053,Error-Resistant Distributed Quantum Computation in Trapped Ion Chain,9.293926181374205e-06,2.1525016788268648e-06,18.0,2.0
+quant-ph/0210156,Entangling power and operator entanglement in qudit systems,9.2920949561431e-06,6.747243792456783e-06,15.0,3.0
+quant-ph/0508109,The Analogue of Bohm-Bell Processes on a Graph,9.286676595132218e-06,0.0,10.0,1.0
+hep-th/0204034,Entangled Quantum Fields near the Event Horizon and Entropy,9.271294491018302e-06,1.5439415397331068e-05,13.0,5.0
+quant-ph/0703237,The Multiplicative Quantum Adversary,9.25994413860989e-06,0.0,2.0,0.0
+math/0011209,Disjunctive Quantum Logic in Dynamic Perspective,9.25957048522244e-06,0.0,7.0,1.0
+quant-ph/0602188,Effects of non-local initial conditions in the Quantum Walk on the line,9.24324922416956e-06,0.0,5.0,0.0
+quant-ph/0607107,Degradation of a quantum directional reference frame as a random walk,9.239186892107065e-06,1.8547456557950566e-07,4.0,2.0
+quant-ph/0607123,Towards optimization of quantum circuits,9.231945791232746e-06,0.0,1.0,0.0
+quant-ph/0606225,"The mother of all protocols: Restructuring quantum information's family
+  tree",9.22819390011396e-06,7.552905806303078e-06,23.0,7.0
+quant-ph/0702250,"Upper bounds of eavesdropper's performances in finite-length code with
+  decoy method",9.21977070925728e-06,0.0,6.0,1.0
+hep-th/0110151,The Geometry of Quantum Mechanics,9.21826024509912e-06,2.899853928744041e-06,16.0,6.0
+quant-ph/0401156,Entanglement bases and general structures of orthogonal complete bases,9.214788294328383e-06,0.0,7.0,0.0
+quant-ph/0702065,Noise thresholds for entanglement purification,9.21072880831184e-06,0.0,5.0,0.0
+quant-ph/0603227,"Creation of entanglement in a scalable spin quantum computer with
+  long-range dipole-dipole interaction between qubits",9.210351807183085e-06,1.6089785955896105e-08,4.0,1.0
+quant-ph/0702157,Quantum Mechanical Heat Transport in Disordered Harmonic Chains,9.205074084816304e-06,0.0,13.0,0.0
+quant-ph/0205156,Empirical Determination of Bang-Bang Operations,9.192506265195555e-06,1.2465959230292565e-05,10.0,2.0
+gr-qc/0606120,A possible experimental test of quantized gravity,9.17596850219425e-06,1.883364467026336e-06,7.0,1.0
+math-ph/0410040,Geometric and Algebraic Topological Methods in Quantum Mechanics,9.173943871053126e-06,1.990182755160072e-06,14.0,1.0
+quant-ph/0702125,"Probing quantum phases of ultracold atoms in optical lattices by
+  transmission spectra in cavity QED",9.173401746607796e-06,2.996413215324959e-06,4.0,2.0
+quant-ph/0612166,"Coherent States for generalized oscillator with finite-dimensional
+  Hilbert space",9.171198263123342e-06,0.0,13.0,0.0
+quant-ph/0610235,"BQP-complete Problems Concerning Mixing Properties of Classical Random
+  Walks on Sparse Graphs",9.16928304062555e-06,0.0,7.0,0.0
+quant-ph/0611121,"A measurement-based measure of the size of macroscopic quantum
+  superpositions",9.158076903390094e-06,8.435157167627067e-06,9.0,2.0
+quant-ph/0204056,"Quantum Jumps, EEQT and the Five Platonic Fractals",9.14994792459978e-06,1.079765869809575e-05,14.0,3.0
+quant-ph/0701016,"Reply to Comments of Bassi, Ghirardi, and Tumulka on the Free Will
+  Theorem",9.140105663984534e-06,1.1757920506231768e-08,2.0,1.0
+quant-ph/0112071,"A simple way to detect the state transition caused by the nondiagonal
+  abelian Berry phase",9.130696101902456e-06,0.0,2.0,0.0
+quant-ph/0012117,"Exactly Solvable Three-body SUSY Systems with Internal Degrees of
+  Freedom",9.119254952611117e-06,0.0,9.0,0.0
+cond-mat/0607254,Dark state cooling of atoms by superfluid immersion,9.113090086139683e-06,0.0,7.0,0.0
+quant-ph/0612131,"Einstein-Podolsky-Rosen correlations of Dirac particles - quantum field
+  theory approach",9.111159923662916e-06,0.0,5.0,0.0
+quant-ph/0511178,"Universal Quantum Computation with the nu=5/2 Fractional Quantum Hall
+  State",9.10741608321444e-06,6.582047667543989e-06,25.0,1.0
+hep-th/0601017,"$\eta$-weak-pseudo-Hermiticity generators and radially symmetric
+  Hamiltonians",9.106144263087222e-06,2.918734911408585e-06,4.0,5.0
+physics/0308016,Modes of wave-chaotic dielectric resonators,9.094172148923114e-06,0.0,8.0,2.0
+quant-ph/0603237,State estimation from pair of conjugate qudits,9.091328160694072e-06,7.401570373879777e-06,4.0,3.0
+quant-ph/9702026,"Spontaneous Symmetry Breaking, Off-diagonal Long-range Order, and
+  Nucleation of Quantum State",9.087592082995425e-06,0.0,2.0,1.0
+cond-mat/0610767,"Universality in nonadiabatic behaviour of classical actions in nonlinear
+  models with separatrix crossings",9.087592082995425e-06,0.0,2.0,1.0
+quant-ph/0302086,"On entanglement capabilities in infinite dimensions or multi-dimensional
+  entangled coherent states",9.075873841687934e-06,0.0,8.0,1.0
+hep-th/0005277,Quantum Calogero-Moser Models: Integrability for all Root Systems,9.072683347892195e-06,1.4411773661488148e-05,27.0,18.0
+quant-ph/9912107,Quantum feedback control and classical control theory,9.070935637285974e-06,0.0,11.0,7.0
+quant-ph/0610253,Entanglement in quantum information theory,9.069380876416195e-06,8.343997973282018e-09,46.0,3.0
+hep-th/0204039,Quantum vs Classical Integrability in Calogero-Moser Systems,9.068460093535506e-06,1.1745956834745778e-06,16.0,6.0
+quant-ph/0610100,A special simplex in the state space for entangled qudits,9.06828019676758e-06,7.607027085246739e-06,10.0,1.0
+gr-qc/0311092,Histories Electromagnetism,9.065903464793682e-06,4.2080978653882115e-09,15.0,1.0
+quant-ph/0301168,Real clocks and the Zeno effect,9.061923311916352e-06,4.358919487999829e-07,8.0,1.0
+cond-mat/0601448,Spin-detection in a quantum electromechanical shuttle system,9.055367050355283e-06,0.0,4.0,0.0
+quant-ph/0110015,On non-Adiabatic Holonomoic Quantum Computer,9.053498507593423e-06,0.0,14.0,1.0
+quant-ph/0410003,Quantum Diagonalization Method in the Tavis-Cummings Model,9.050399437816177e-06,3.243759184199941e-07,15.0,4.0
+cond-mat/0006030,Squeezed Condensates,9.049287371086324e-06,6.071431829278991e-07,9.0,4.0
+quant-ph/0403032,"Multimode Interference: Identifying Channels and Ridges in Quantum
+  Probability Distributions",9.048477031529448e-06,0.0,9.0,0.0
+quant-ph/0504151,"Entanglement entropy of fermions in any dimension and the Widom
+  conjecture",9.047879559361024e-06,0.0006429610727877,4.0,13.0
+gr-qc/0408037,"Classical and Quantum Causality in Quantum Field Theory. Or, ""The
+  Quantum Universe""",9.043847400468168e-06,0.0,12.0,0.0
+quant-ph/0512126,Study on Dynamics of N Level System of Atom by Laser Fields,9.04059242853056e-06,4.917421277527739e-07,19.0,3.0
+quant-ph/0701213,Infinite plane wave evolution in a 1-D square quantum barrier,9.027012466460591e-06,0.0,1.0,0.0
+quant-ph/0406133,Quantum Information Processing in Nanostructures,9.015776807287512e-06,1.0825460759239489e-05,7.0,6.0
+quant-ph/0610131,Quantum Physics and Human Language,9.006881944351803e-06,0.0,15.0,0.0
+cond-mat/0504026,"Dissipative quantum dynamics of bosonic atoms in a shallow 1D optical
+  lattice",9.000601641079608e-06,2.8337956264046816e-05,9.0,4.0
+cond-mat/9901317,`Baryonic' bound-state instability in trapped fermionic atoms,8.99025328579595e-06,2.629408709335552e-07,6.0,5.0
+quant-ph/0501122,"Van der Waals interaction between microparticle and uniaxial crystal
+  with application to hydrogen atoms and multiwall carbon nanotubes",8.98972252945699e-06,0.0,3.0,0.0
+math-ph/0207009,Pseudo-Hermiticity for a Class of Nondiagonalizable Hamiltonians,8.977231780107587e-06,8.12510065125507e-06,6.0,11.0
+math-ph/0506021,"Third order spectral branch points in Krein space related setups:
+  PT-symmetric matrix toy model, MHD alpha^2-dynamo, and extended Squire
+  equation",8.976416269641285e-06,3.90412708440144e-06,15.0,4.0
+quant-ph/0612050,The exact cost of redistributing multipartite quantum states,8.97377806154108e-06,0.0,11.0,1.0
+quant-ph/0610085,A lower bound on entanglement-assisted quantum communication complexity,8.972292194114619e-06,0.0,12.0,0.0
+quant-ph/0408182,Exact results for `bouncing' Gaussian wave packets,8.964760050631301e-06,9.95091377580036e-06,2.0,1.0
+quant-ph/9904101,"Hall Normalization Constants for the Bures Volumes of the n-State
+  Quantum Systems",8.9620482629383e-06,0.0020474541549801,8.0,3.0
+hep-th/0505218,Casimir effect for thin films from imperfect materials,8.961261605126368e-06,1.990182755160072e-06,1.0,1.0
+cond-mat/0406167,"Single-qubit gates and measurements in the surface acoustic wave quantum
+  computer",8.960137134729029e-06,0.0,8.0,0.0
+quant-ph/0511141,"Perturbative Analysis of Possible Failures in the Traditional Adiabatic
+  Conditions",8.945012750163296e-06,0.0,7.0,2.0
+quant-ph/0504143,The Electromagnetic Field Stress Tensor between Dielectric Half-Spaces,8.940226733753846e-06,2.0009425499866577e-06,8.0,2.0
+quant-ph/0311058,Ground-State Entanglement in Interacting Bosonic Graphs,8.937432108580475e-06,1.2691938167211527e-05,9.0,9.0
+hep-ph/0611202,Time-to-Space Conversion in Neutrino Oscillations,8.936689921015273e-06,9.704546713748985e-08,11.0,1.0
+quant-ph/0702251,"General theory for decoy-state quantum key distribution with arbitrary
+  number of intensities",8.93634450327573e-06,0.0,5.0,1.0
+quant-ph/0611283,"Comment on ""The Free Will Theorem""",8.929443005524825e-06,1.0713556267175796e-06,7.0,1.0
+quant-ph/0610132,Entanglement of Collaboration,8.92278610313143e-06,0.0,4.0,0.0
+quant-ph/0601019,Simulating adiabatic evolution of gapped spin systems,8.919761359882789e-06,9.051064936735144e-06,24.0,8.0
+hep-th/0301007,Structures of q-Deformed Currents,8.912808461331728e-06,0.0,9.0,0.0
+math-ph/0603067,Nonholonomic Constraints with Fractional Derivatives,8.903204684573277e-06,0.0,16.0,0.0
+quant-ph/0605008,A Bell Inequality Analog in Quantum Measure Theory,8.89777049110446e-06,2.820780921680101e-07,15.0,1.0
+quant-ph/0701211,On the Pauli graphs of N-qudits,8.894428827190014e-06,0.0,4.0,0.0
+quant-ph/0303063,Programmable networks for quantum algorithms,8.89431805719607e-06,0.0,18.0,0.0
+quant-ph/0702215,"Experimental Demonstration of Macroscopic Quantum Coherence in Gaussian
+  States",8.89420975909672e-06,0.0,3.0,0.0
+quant-ph/0508187,"Relative states, quantum axes and quantum references",8.891760837489673e-06,1.413219305548313e-05,4.0,2.0
+quant-ph/9911058,"Exact Bures Probabilities that Two Quantum Bits are Classically
+  Correlated",8.890155717948682e-06,5.012029680870949e-05,7.0,2.0
+quant-ph/0501137,"Multi-Instantons and Exact Results II: Specific Cases, Higher-Order
+  Effects, and Numerical Calculations",8.889869499317979e-06,1.8999164127510413e-06,4.0,1.0
+quant-ph/0408140,Limit Theorem for Continuous-Time Quantum Walk on the Line,8.888604122568472e-06,1.0156297241364854e-05,6.0,4.0
+quant-ph/0602109,"Analytic Fits to Separable Volumes and Probabilities for Qubit-Qubit and
+  Qubit-Qutrit Systems",8.882924834936786e-06,1.9785486022381163e-06,9.0,2.0
+quant-ph/0604037,Universal Approach to Optimal Photon Storage in Atomic Media,8.878009354073086e-06,0.0,4.0,8.0
+quant-ph/0501127,"Nonequilibrium dynamics of moving mirrors in quantum fields: Influence
+  functional and Langevin equation",8.872659463351027e-06,1.3857911485343052e-08,6.0,1.0
+quant-ph/0610073,"Cavity enhanced light scattering in optical lattices to probe atomic
+  quantum statistics",8.871769471038414e-06,0.0,3.0,3.0
+quant-ph/0610161,Mubs and Hadamards of Order Six,8.869368929842035e-06,4.036558805379346e-08,5.0,5.0
+quant-ph/0703004,"Reply to ""The three-box paradox revisited"" by Ravon and Vaidman",8.843478059129412e-06,0.0,11.0,0.0
+quant-ph/0507042,"Casimir Effects: an Optical Approach II. Local Observables and Thermal
+  Corrections",8.838329495515766e-06,5.429429444441581e-06,13.0,7.0
+quant-ph/0606125,Entanglement Purification of Any Stabilizer State,8.836084951590577e-06,3.1369507461759114e-06,18.0,6.0
+quant-ph/0406028,Geometric Dequantization,8.82254292332098e-06,8.097835618468406e-06,12.0,4.0
+quant-ph/0601001,The Quantum Schur Transform: I. Efficient Qudit Circuits,8.822057535634598e-06,2.6238942608891545e-06,23.0,4.0
+quant-ph/0403192,Decoherence in the quantum walk on the line,8.811103810177464e-06,3.8857640263386543e-08,17.0,2.0
+quant-ph/0703206,"A local hidden variables model for the measured EPR-type flavour
+  entanglement in upsilon(4S)->B0B0bar decays",8.808731468153046e-06,0.0,1.0,1.0
+quant-ph/9707053,Approximate Consistency and Prediction Algorithms in Quantum Mechanics,8.806758346996203e-06,0.0,21.0,0.0
+quant-ph/0702030,"Exact diagonalization for spin-1/2 chains and the first order quantum
+  phase transitions of the XXX chain in a uniform transverse field",8.80427409536953e-06,0.0,5.0,0.0
+quant-ph/0306097,Quantum freeze of fidelity decay for a class of integrable dynamics,8.802375011813032e-06,1.1945737815370786e-05,5.0,1.0
+quant-ph/0602145,"On the identification of the ground state based on occupation
+  probabilities: An investigation of Smith's apparent counterexamples",8.801984453919826e-06,2.3584837840398755e-07,4.0,2.0
+quant-ph/0204024,Locality in the Everett Interpretation of Quantum Field Theory,8.798540710825824e-06,4.70495974406111e-07,19.0,4.0
+quant-ph/0004041,"Fibre bundle formulation of nonrelativistic quantum mechanics (full
+  version)",8.796766181783263e-06,6.965639643060252e-06,19.0,8.0
+quant-ph/0604001,Quantum Circuit Simplification and Level Compaction,8.791318833081868e-06,1.990182755160072e-06,15.0,1.0
+quant-ph/0609097,Teaching the Environment to Control Quantum Systems,8.788142787803275e-06,1.990182755160072e-06,2.0,1.0
+quant-ph/0604075,"Weyl's symbols of Heisenberg operators of canonical coordinates and
+  momenta as quantum characteristics",8.776033298620755e-06,1.990182755160072e-06,3.0,1.0
+quant-ph/0609149,Novel schemes for measurement-based quantum computation,8.772051849191361e-06,9.975936917565568e-05,14.0,10.0
+quant-ph/0507118,Quantum Relative States,8.77145308181589e-06,5.083339827638059e-06,3.0,4.0
+cond-mat/0411012,Spin-Based Quantum Dot Quantum Computing,8.771235568063543e-06,1.7868152376855006e-05,7.0,10.0
+hep-th/9909201,"Equivalence Principle, Higher Dimensional Moebius Group and the Hidden
+  Antisymmetric Tensor of Quantum Mechanics",8.763577213962224e-06,4.933295045987589e-06,27.0,14.0
+quant-ph/0608145,Stabilizer state breeding,8.755225094911043e-06,2.497247604113704e-08,9.0,1.0
+quant-ph/0511144,Classical Phase Space Density for the Relativistic Hydrogen Atom,8.746321107504196e-06,0.0,6.0,0.0
+quant-ph/0308050,Quantum Decoys,8.742853205387186e-06,2.024150081066964e-06,8.0,1.0
+quant-ph/0609076,Maximum observable correlation for a bipartite quantum system,8.740821119768479e-06,2.01078350956336e-08,5.0,1.0
+quant-ph/0501030,"The simplest Bell's theorem, with or without locality",8.740257874293155e-06,0.0,2.0,2.0
+quant-ph/0408059,Detection of vacuum entanglement in a linear ion trap,8.722521979021115e-06,3.621246286533655e-06,5.0,2.0
+quant-ph/9902050,On the volume of the set of mixed entangled states II,8.715673536882374e-06,0.0020456116564811,13.0,13.0
+quant-ph/0606038,"Remarks on an attempted axiomatisation of Quantum Mechanics, due to
+  Lucien Hardy, and Ten Theses on Hilbert's Sixth Problem and Quantum
+  Measurement",8.708577594186562e-06,0.0,5.0,0.0
+math/0605301,A Classification of the Projective Lines over Small Rings,8.703158459442009e-06,1.990182755160072e-06,5.0,2.0
+nlin/0312046,"Piecewise Deterministic Quantum Dynamics and Quantum Fractals on the
+  Poincare Disk",8.701439268637086e-06,0.0,5.0,0.0
+quant-ph/0610240,Optimal computation with non-unitary quantum walks,8.678547905460482e-06,2.047303678459804e-06,5.0,1.0
+quant-ph/0401181,"Signatures of wave packet revival phenomena in the expectation values of
+  observables",8.67670751035373e-06,0.0,1.0,0.0
+quant-ph/0411172,Information and Entropy in Quantum Theory,8.676250272973518e-06,5.1301663682453354e-08,24.0,4.0
+quant-ph/0607046,Quantum Hidden Subgroup Algorithms: An Algorithmic Toolkit,8.66476986982223e-06,0.0,19.0,0.0
+cond-mat/0602299,"Entanglement production with multimode Bose-Einstein condensates in
+  optical lattices",8.654404912909585e-06,0.0,4.0,0.0
+quant-ph/0508125,A Physical Axiomatic Approach to Schrodinger's Equation,8.64639129405881e-06,2.8200738762039294e-07,1.0,2.0
+quant-ph/0504042,Entanglement in coined quantum walks on regular graphs,8.643997153013899e-06,6.814725474233346e-06,22.0,3.0
+quant-ph/0212035,Entanglement capability of self-inverse Hamiltonian evolution,8.632091255676426e-06,5.721000019068442e-06,6.0,2.0
+hep-th/0310016,A non-commutative n-particle 3D Wigner quantum oscillator,8.61862589810742e-06,0.0,4.0,1.0
+quant-ph/0604054,On the quantum master equation for fermions,8.61271928058768e-06,0.0,2.0,0.0
+quant-ph/0306005,Some prospects for ensemble solid-state NMR quantum computers,8.59132835252704e-06,0.0,6.0,0.0
+quant-ph/0505059,On the Everett programme and the Born rule,8.586327221237977e-06,0.0,8.0,1.0
+quant-ph/0603112,Aspects of multistation quantum information broadcasting,8.580622871443878e-06,2.140118342968862e-08,4.0,1.0
+quant-ph/0305028,Polynomial degree vs. quantum query complexity,8.580318411269921e-06,6.280679278711842e-06,22.0,9.0
+quant-ph/0605183,"Trade-off between the tolerance of located and unlocated errors in
+  nondegenerate quantum error-correcting codes",8.576425569210838e-06,1.0183868336205753e-07,7.0,1.0
+quant-ph/0601109,On optimum Hamiltonians for state transformations,8.562711856779125e-06,0.0,2.0,0.0

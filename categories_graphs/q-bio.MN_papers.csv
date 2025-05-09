@@ -1,0 +1,393 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+cond-mat/0505086,Collective Chaos Induced by Structures of Complex Networks,3.229393606028533e-05,3.955859528633472e-06,6.0,2.0
+q-bio/0702029,"Graph animals, subgraph sampling and motif search in large networks",2.489817500909067e-05,6.167478536544831e-07,6.0,1.0
+q-bio/0503041,"Morphological complex networks: Can individual morphology determine the
+  general connectivity and dynamics of networks?",1.656017445778808e-05,2.91766361054897e-06,16.0,2.0
+cond-mat/0404593,The shortest path to complex networks,1.6529934134427936e-05,0.0001083482457285,19.0,12.0
+q-bio/0701025,Evolution of Canalizing Boolean Networks,1.0985905968009431e-05,0.0,10.0,0.0
+nlin/0608028,Universality in Complex Networks: Random Matrix Analysis,1.078339310859252e-05,0.0,2.0,1.0
+q-bio/0502005,Cliques and duplication-divergence network growth,8.701130740940533e-06,0.0,8.0,0.0
+q-bio/0402017,Discriminative Topological Features Reveal Biological Network Mechanisms,7.0403123732167736e-06,2.789703668500364e-05,7.0,2.0
+q-bio/0406039,Modeling of microarray data with zippering,6.98534239360574e-06,7.960731020640288e-06,1.0,4.0
+cond-mat/0610023,Some measure theory on stacks of graphs,6.936223577431442e-06,7.960731020640288e-06,6.0,1.0
+q-bio/0703053,Global statistical analysis of the protein homology network,6.87835388512957e-06,1.990182755160072e-06,1.0,1.0
+q-bio/0502013,"Accelerating, hyper-accelerating, and decelerating probabilistic
+  networks",6.5751848245131785e-06,0.0,6.0,0.0
+cond-mat/0203167,"Infinite-Order Percolation and Giant Fluctuations in a Protein
+  Interaction Network",6.118953176034621e-06,4.9643178053153285e-06,3.0,8.0
+cond-mat/0501169,"Towards a Theory of Scale-Free Graphs: Definition, Properties, and
+  Implications (Extended Version)",6.056313659559851e-06,1.0115762658074322e-05,4.0,4.0
+q-bio/0502007,"Some Properties of the Speciation Model for Food-Web Structure -
+  Mechanisms for Degree Distributions and Intervality",5.655144290770314e-06,0.0,1.0,1.0
+q-bio/0407031,Dynamics and coding of a biologically-motivated network,4.813778316247126e-06,1.990182755160072e-06,2.0,1.0
+cond-mat/0205589,Correlated random networks,4.631655950129107e-06,1.1008618692054262e-05,3.0,8.0
+q-bio/0312021,"Inherent size constraints on prokaryote gene networks due to
+  ""accelerating"" growth",4.582237593858069e-06,4.524335633767218e-06,5.0,3.0
+cond-mat/0304207,Investigation of a Protein Complex Network,4.527116820765776e-06,0.0,2.0,1.0
+q-bio/0412035,Counting attractors in synchronously updated random Boolean networks,4.492463227838026e-06,0.0,3.0,0.0
+q-bio/0312022,"Failed ""nonaccelerating"" models of prokaryote gene regulatory networks",4.12971795399622e-06,0.0,5.0,2.0
+q-bio/0701002,The role of input noise in transcriptional regulation,3.805607658710576e-06,0.0,2.0,0.0
+q-bio/0412027,An RNA-centered view of eukaryotic cells,3.760693637525763e-06,0.0,1.0,1.0
+physics/0007050,Clustering and Signalling of Cell Receptors,3.62335329328243e-06,0.0,2.0,0.0
+q-bio/0410003,Chemical models of genetic toggle switches,3.6053486918775466e-06,0.0,2.0,0.0
+q-bio/0506038,Some protein interaction data do not exhibit power law statistics,3.581486868827098e-06,0.0,2.0,0.0
+q-bio/0606023,"Subgraph Ensembles and Motif Discovery Using a New Heuristic for Graph
+  Isomorphism",3.529016989101264e-06,0.0,2.0,1.0
+q-bio/0604005,"Diffusion of transcription factors can drastically enhance the noise in
+  gene expression",3.49912997646896e-06,0.0,2.0,0.0
+q-bio/0701018,Oscillations in I/O monotone systems under negative feedback,3.3749066596554898e-06,0.0,1.0,0.0
+q-bio/0510022,Content based network model with duplication and divergence,3.1564676950366884e-06,0.0,2.0,0.0
+q-bio/0411052,Duplication-divergence model of protein interaction network,3.052903680119102e-06,1.990182755160072e-06,1.0,2.0
+cond-mat/0308251,Local graph alignment and motif search in biological networks,3.0472482127272877e-06,0.0,2.0,2.0
+cond-mat/0512089,Computational core and fixed-point organisation in Boolean networks,2.855213185875573e-06,0.0,2.0,0.0
+q-bio/0405011,Coarse-Graining and Self-Dissimilarity of Complex Networks,2.7028834076248736e-06,7.099910746650619e-08,2.0,1.0
+cond-mat/0410660,Quantum transport through a DNA wire in a dissipative environment,2.676100638015795e-06,0.0,2.0,3.0
+physics/0302032,"Distance, dissimilarity index, and network community structure",2.565201628384005e-06,0.0,1.0,1.0
+q-bio/0502040,A new model for the immune clonal networks,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0611070,"Asymptotic Evolution of Protein-Protein Interaction Networks for General
+  Duplication-Divergence Models",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0702094,Dynamical hysteresis in multisite protein modification,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0406040,Michaelis-Menten Dynamics in Complex Heterogeneous Networks,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0404006,Bifurcation analysis of a model of the budding yeast cell cycle,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0312033,Specific protein-protein binding in many-component mixtures of proteins,2.4711431321721443e-06,0.0,1.0,0.0
+nlin/0511018,The Role of Redundancy in the Robustness of Random Boolean Networks,2.4711431321721443e-06,0.0,1.0,1.0
+q-bio/0406006,Sampling rare switching events in biochemical networks,2.4711431321721443e-06,0.0,1.0,1.0
+q-bio/0403045,"Clustering under the line graph transformation: Application to reaction
+  network",2.4711431321721443e-06,0.0,1.0,1.0
+q-bio/0601015,A dichotomy for a class of cyclic delay systems,2.4711431321721443e-06,0.0,1.0,1.0
+q-bio/0510002,A p53 Oscillator Model of DNA Break Repair Control,2.4711431321721443e-06,0.0,1.0,3.0
+q-bio/0510030,"Genome-wide discovery of modulators of transcriptional interactions in
+  human B lymphocytes",2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0703030,Deterministic and Stochastic Simulations of Simple Genetic Circuits,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0401024,Morphogenesis by coupled regulatory networks,2.4711431321721443e-06,0.0,1.0,1.0
+q-bio/0408010,"Inferring Network Mechanisms: The Drosophila melanogaster Protein
+  Interaction Network",2.439690714520796e-06,7.4260550565674335e-09,2.0,2.0
+q-bio/0412020,The Logic Backbone of a Transcription Network,2.429735359900988e-06,0.0,2.0,0.0
+q-bio/0703047,Oscillations and temporal signalling in cells,2.4257049113833638e-06,0.0,1.0,0.0
+q-bio/0411033,An Information-Theoretic Approach to Network Modularity,2.3903102790446403e-06,0.0,2.0,0.0
+cond-mat/0212306,Scaling in ordered and critical random Boolean networks,2.270159316161916e-06,0.0,2.0,1.0
+cond-mat/0302375,Subgraphs in random networks,2.207726309076184e-06,3.371461049666795e-07,5.0,1.0
+q-bio/0604006,Graph Theory and Networks in Biology,2.1909092032080005e-06,0.0,2.0,0.0
+q-bio/0405021,"Spectral Analysis of Protein-Protein Interactions in Drosophila
+  melanogaster",2.106079859437563e-06,0.0,1.0,0.0
+q-bio/0612041,Optimal signal processing in small stochastic biochemical networks,2.1011217123199947e-06,0.0,2.0,0.0
+q-bio/0310041,"Enhancement of the stability of genetic switches by overlapping upstream
+  regulatory domains",1.9334450569873443e-06,0.0,2.0,0.0
+q-bio/0512041,"Exact results for noise power spectra in linear biochemical reaction
+  networks",1.8950380516170012e-06,0.0,1.0,1.0
+q-bio/0410011,"Co-expression of statistically over-represented peptides in proteomes: a
+  key to phylogeny ?",1.8950380516170012e-06,0.0,1.0,0.0
+q-bio/0603038,"Currency and commodity metabolites: Their identification and relation to
+  the modularity of metabolic networks",1.7406598384104268e-06,0.0,1.0,4.0
+math/0602139,"Global existence results for complex hyperbolic models of bacterial
+  chemotaxis",1.703003024765287e-06,0.0,1.0,0.0
+cond-mat/0404054,Fitness for Synchronization of Network Motifs,1.703003024765287e-06,0.0,1.0,0.0
+physics/0506133,"Uncovering the overlapping community structure of complex networks in
+  nature and society",1.703003024765287e-06,0.0,1.0,0.0
+q-bio/0504003,Metabolic Network Modelling: Including Stochastic Effects,1.703003024765287e-06,0.0,1.0,0.0
+q-bio/0601001,"Cooperativity, sensitivity and noise in biochemical signaling",1.703003024765287e-06,0.0,1.0,0.0
+cond-mat/0412443,Core percolation and onset of complexity in Boolean networks,1.703003024765287e-06,0.0,1.0,2.0
+q-bio/0309011,Discovery and analysis of biochemical subnetwork hierarchies,1.6993782473373209e-06,0.0,1.0,0.0
+q-bio/0702059,Representing perturbed dynamics in biological network models,1.6940542356067734e-06,0.0,1.0,0.0
+cond-mat/0009124,Small Cycles in Small Worlds,1.664269138375876e-06,0.0,2.0,7.0
+cond-mat/0207345,Gene networks from DNA microarray data: centrality and lethality,1.6361791823990817e-06,3.2637511973613865e-06,2.0,2.0
+cond-mat/0312028,"On the uniform generation of random graphs with prescribed degree
+  sequences",1.6294176556909576e-06,1.3684448054274744e-05,2.0,11.0
+cond-mat/0308339,Hierarchy Measures in Complex Networks,1.6143235936453534e-06,6.136219994941225e-06,2.0,6.0
+physics/0609172,Evolving networks through deletion and duplication,1.60698551133943e-06,0.0,1.0,0.0
+physics/0406058,"Generic theory of active polar gels: a paradigm for cytoskeletal
+  dynamics",1.60698551133943e-06,0.0,1.0,1.0
+cond-mat/0003215,"Topological Evolution of Dynamical Networks: Global Criticality from
+  Local Dynamics",1.60698551133943e-06,0.0,1.0,3.0
+q-bio/0312009,"Evolution of the Protein Interaction Network of Budding Yeast: Role of
+  the Protein Family Compatibility Constraint",1.60698551133943e-06,0.0,1.0,0.0
+q-bio/0311031,"Homogeneous and Scalable Gene Expression Regulatory Networks with Random
+  Layouts of Switching Parameters",1.561475348673565e-06,3.980365510320144e-06,1.0,1.0
+q-bio/0410024,"Offdiagonal Complexity: A computationally quick complexity measure for
+  graphs and networks",1.5493750032839157e-06,0.0,1.0,2.0
+physics/9708026,"Neutral Mutations and Punctuated Equilibrium in Evolving Genetic
+  Networks",1.5109679979135728e-06,0.0,1.0,1.0
+q-bio/0605045,"Spontaneous Self-Assembly of Transcription Factor Based Gene Regulation
+  Networks",1.4944048890051102e-06,0.0,1.0,0.0
+cond-mat/0303490,Preferential attachment in the protein network evolution,1.4835344226490424e-06,0.0,1.0,0.0
+nlin/0402006,Updating Schemes in Random Boolean Networks: Do They Really Matter?,1.4835344226490424e-06,0.0,1.0,0.0
+nlin/0408006,Introduction to Random Boolean Networks,1.4835344226490424e-06,0.0,1.0,3.0
+q-bio/0309013,"Robust gene regulation: Deterministic dynamics from asynchronous
+  networks with delay",1.3189329710618589e-06,0.0,0.0,7.0
+cond-mat/0207711,"Structure and evolution of protein interaction networks: A statistical
+  model for link dynamics and gene duplications",1.3189329710618589e-06,0.0,0.0,7.0
+cond-mat/0407055,Hide and seek on complex networks,1.3189329710618589e-06,0.0,0.0,2.0
+q-bio/0502017,"The large-scale logico-chemical structure of a transcriptional
+  regulation network",1.3189329710618589e-06,0.0,0.0,3.0
+physics/9901052,Cooperative Model of Bacterial Sensing,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0506013,Statistical model selection methods applied to biological networks,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0504030,Modeling of negative autoregulated genetic networks in single cells,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0404029,Scale-Free topologies and Activatory-Inhibitory interactions,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0206055,Graph-driven features extraction from microarray data,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0606036,"Evolution of Protein Interaction Networks by Whole Genome Duplication
+  and Domain Shuffling",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0312366,"Self-organized pattern formation and noise-induced control from particle
+  computation",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0611014,"Modeling for evolving biological networks with scale-free connectivity,
+  hierarchical modularity, and disassortativity",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0310029,"Statistical analysis of the spatial distribution of operons in the
+  transcriptional regulation network of Escherichia coli",1.3189329710618589e-06,0.0,0.0,3.0
+q-bio/0510009,Network growth models and genetic regulatory networks,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0312019,Topological Generalizations of network motifs,1.3189329710618589e-06,0.0,0.0,2.0
+q-bio/0404002,"Green's Function Reaction Dynamics: a new approach to simulate
+  biochemical networks at the particle level and in time and space",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0409022,"Topology of biological networks and reliability of information
+  processing",1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/0003333,Robustness as an Evolutionary Principle,1.3189329710618589e-06,0.0,0.0,4.0
+q-bio/0508027,"Signal detection, modularity and the correlation between extrinsic and
+  intrinsic noise in biochemical networks",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0508112,"Gene regulatory networks: a coarse-grained, equation-free approach to
+  multiscale computation",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0312032,"Modularity ""for free"" in genome architecture?",1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/0005235,Stability and noise in biochemical switches,1.3189329710618589e-06,0.0,0.0,5.0
+q-bio/0406049,Analytical Solution of a Stochastic Content Based Network Model,1.3189329710618589e-06,0.0,0.0,3.0
+q-bio/0311019,"The topology of the regulatory interactions predics the expression
+  pattern of the segment polarity genes in Drosophila melanogaster",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0412005,Genetic networks with canalyzing Boolean rules are always stable,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0401002,Random Boolean Network Models and the Yeast Transcriptional Network,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0605020,Emergent Criticality from Co-evolution in Random Boolean Networks,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0501004,"Binding properties and evolution of homodimers in protein-protein
+  interaction networks",1.3189329710618589e-06,0.0,0.0,1.0
+physics/9901053,Adaptive Ising Model and Bacterial Chemotactic Receptor Network,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0202192,Biological Networks,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9412018,Complexity in Biology,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0411006,"Lethality and synthetic lethality in the genome-wide metabolic network
+  of Escherichia coli",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0312012,"Dynamic receptor team formation can explain the high signal transduction
+  gain in E. coli",1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9706001,Adaptation and Optimal Chemotactic Strategy for E. Coli,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0505006,"Yeast Protein Interactome Topology Provides Framework for
+  Coordinated-Functionality",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0311012,The Role of Computation in Complex Regulatory Networks,1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9903002,The Origin of the RNA World: a Kinetic Model,,,,
+cond-mat/0303473,"Global Snapshot of Protein Interaction Network -- A Percolation Based
+  Approach",,,,
+cond-mat/0307717,Some asymptotic properties of duplication graphs,,,,
+cond-mat/0310656,Sensitivity of Phage Lambda upon Variations of the Gibbs Free Energy,,,,
+cond-mat/0510456,Evolving networks by merging cliques,,,,
+cond-mat/0605387,The sloppy model universality class and the Vandermonde matrix,,,,
+cond-mat/0611088,Finite size corrections to random Boolean networks,,,,
+cond-mat/0701601,Damage Spreading and Criticality in Finite Random Dynamical Networks,,,,
+cs/0503008,"Approximation of dynamical systems using S-systems theory : application
+  to biological systems",,,,
+math/0311357,"Optimal length and signal amplification in weakly activated signal
+  transduction cascades",,,,
+math/0505044,Discrete time piecewise affine models of genetic regulatory networks,,,,
+math/0608061,Correlation-sharing for detection of differential gene expression,,,,
+math/0610034,"Bayesian variable selection and data integration for biological
+  regulatory networks",,,,
+math/0610667,On testing the significance of sets of genes,,,,
+nlin/0406043,Spectral Analysis and the Dynamic Response of Complex Networks,,,,
+nlin/0602021,Synchronization of Coupled Nonidentical Genetic Oscillators,,,,
+physics/0011002,A Historical Perspective on Cancer,,,,
+physics/0110037,"Coordinated Slowing of Metabolism in Enteric Bacteria under Nitrogen
+  Limitation: A Perspective",,,,
+physics/0203013,"Correlating overrepresented upstream motifs to gene expression: a
+  computational approach to regulatory element discovery in eukaryotes",,,,
+physics/0208044,Mechanisms of noise-resistance in genetic oscillators,,,,
+physics/0303027,Redundancies in Large-scale Protein Interaction Networks,,,,
+physics/0410096,"Nonlinear software sensor for monitoring genetic regulation processes
+  with noise and modeling errors",,,,
+physics/0609126,Synchronization Properties of Network Motifs,,,,
+physics/0612060,"Switching Dynamics in Reaction Networks Induced by Molecular
+  Discreteness",,,,
+physics/0702160,Structure of n-clique networks embedded in a complex network,,,,
+physics/9907049,Error Propagation in the Hypercycle,,,,
+q-bio/0309001,Monotone Systems with Inputs and Outputs,,,,
+q-bio/0309002,Multi-Stability in Monotone Input/Output Systems,,,,
+q-bio/0309003,Adaptation and regulation with signal detection implies internal model,,,,
+q-bio/0309019,"Scaling in Counter Expressed Gene Networks Constructed from Gene
+  Expression Data",,,,
+q-bio/0310018,Fold-Hopf Bursting in a Model for Calcium Signal Transduction,,,,
+q-bio/0310028,"Upstream Plasticity and Downstream Robustness in Evolution of Molecular
+  Networks",,,,
+q-bio/0311013,"Adaptive walks in a gene network model of morphogenesis: insights into
+  the Cambrian explosion",,,,
+q-bio/0312020,The stochastic behavior of a molecular switching circuit with feedback,,,,
+q-bio/0312026,"A Computational Algebra Approach to the Reverse Engineering of Gene
+  Regulatory Networks",,,,
+q-bio/0401005,How to find decision makers in neural circuits?,,,,
+q-bio/0401039,"Regulation of Neuromodulator Receptor Efficacy - Implications for
+  Whole-Neuron and Synaptic Plasticity",,,,
+q-bio/0402021,An Exact Model of Fluctuations in Gene Expression,,,,
+q-bio/0403012,Large-scale reverse engineering by the Lasso,,,,
+q-bio/0403015,Edge vulnerability in neural and metabolic networks,,,,
+q-bio/0403027,On the stability of Murray's testosterone model,,,,
+q-bio/0403033,Graphic requirements for multistationarity,,,,
+q-bio/0404009,Fluctuations and noise in cancer development,,,,
+q-bio/0404036,"Model evaluation for glycolytic oscillations in yeast biotransformations
+  of xenobiotics",,,,
+q-bio/0405022,"Scaling laws in the functional content of genomes: Fundamental constants
+  of evolution?",,,,
+q-bio/0406008,Optimal Path to Epigenetic Switching,,,,
+q-bio/0406018,"Fluctuations of Complex Networks: Electrical Properties of Single
+  Protein Nanodevices",,,,
+q-bio/0406035,Spatio-temporal Dynamics in the Origin of Genetic Information,,,,
+q-bio/0406043,"The statistical mechanics of complex signaling networks : nerve growth
+  factor signaling",,,,
+q-bio/0406044,Random autocatalytic networks,,,,
+q-bio/0407034,Biological Profiling of Gene Groups utilizing Gene Ontology,,,,
+q-bio/0407041,Self consistent proteomic field theory of stochastic gene switches,,,,
+q-bio/0408009,Network properties of protein structures,,,,
+q-bio/0409036,High-gain nonlinear observer for simple genetic regulation process,,,,
+q-bio/0410002,"Model of the early development of thalamo-cortical connections and area
+  patterning via signaling molecules",,,,
+q-bio/0410009,Scale-rich metabolic networks: background and introduction,,,,
+q-bio/0410017,High-dimensional switches and the modeling of cellular differentiation,,,,
+q-bio/0410023,Network of tRNA Gene Sequences,,,,
+q-bio/0411013,Noise Characteristics of Feed Forward Loops,,,,
+q-bio/0411035,"Length, Protein-Protein Interactions, and Complexity",,,,
+q-bio/0501016,"Chemical organization theory: towards a theory of constructive dynamical
+  systems",,,,
+q-bio/0501027,Are scale-free regulatory networks larger than random ones?,,,,
+q-bio/0501037,"Robustness and fragility of Boolean models for genetic regulatory
+  networks",,,,
+q-bio/0501039,"Functionality Encoded In Topology? Discovering Macroscopic Regulatory
+  Modules from Large-Scale Protein-DNA Interaction Networks",,,,
+q-bio/0502018,Graph theoretic analysis of protein interaction networks of eukaryotes,,,,
+q-bio/0502033,The use of oscillatory signals in the study of genetic networks,,,,
+q-bio/0502035,Functional cartography of complex metabolic networks,,,,
+q-bio/0502036,Morphogen Gradient from a Noisy Source,,,,
+q-bio/0503005,Robustness in Gene Circuits: Clustering of Functional Responses,,,,
+q-bio/0503008,"Comparative Analysis of the Saccharomyces cerevisiae and Caenorhabditis
+  elegans Protein Interaction Network",,,,
+q-bio/0503010,"Role-similarity based functional prediction in networked systems:
+  Application to the yeast proteome",,,,
+q-bio/0503018,"Probabilistic methods for predicting protein functions in
+  protein-protein interaction networks",,,,
+q-bio/0503028,Computational Theory of Biological Function I,,,,
+q-bio/0503031,Extracellular-to-intracellular signal transfer via G-proteins,,,,
+q-bio/0503040,Ubiquity of Log-normal Distributions in Intra-cellular Reaction Dynamic,,,,
+q-bio/0504005,Geometrical constraints in a gene network model and pattern formation,,,,
+q-bio/0504015,"Evidence of a universal power law characterizing the evolution of
+  metabolic networks",,,,
+q-bio/0504016,"On Recursive Production and Evolvabilty of Cells: Catalytic Reaction
+  Network Approach",,,,
+q-bio/0504026,"Low Degree Metabolites Explain Essential Reactions and Enhance
+  Modularity in Biological Networks",,,,
+q-bio/0504032,"Evolutionary origin of power-laws in Biochemical Reaction Network;
+  embedding abundance distribution into topology",,,,
+q-bio/0507005,"Probability Models for Degree Distributions of Protein Interaction
+  Networks",,,,
+q-bio/0507010,Integrin activation - the importance of a positive feedback,,,,
+q-bio/0507015,Differential gene expression in Bacillus subtilis,,,,
+q-bio/0507044,A core genetic module : the Mixed Feedback Loop,,,,
+q-bio/0508021,"Connectivity and expression in protein networks: Proteins in a complex
+  are uniformly expressed",,,,
+q-bio/0509005,Networks of Mobile Elements for Biological Systems,,,,
+q-bio/0509017,Spiky oscillations in NF-kB signalling,,,,
+q-bio/0509025,Weighted and unweighted network of amino acids within protein,,,,
+q-bio/0509040,"Algorithmic and Complexity Results for Decompositions of Biological
+  Networks into Monotone Subsystems",,,,
+q-bio/0509042,Comparative analysis of some models of mixed-substrate microbial growth,,,,
+q-bio/0510012,Gene Copy Number and Cell Cycle Arrest,,,,
+q-bio/0510055,Signal Propagation in Nonlinear Stochastic Gene Regulatory Networks,,,,
+q-bio/0511005,"Metabolic Futile Cycles and Their Functions: A Systems Analysis of
+  Energy and Control",,,,
+q-bio/0511038,Absolute Rate Theories of Epigenetic Stability,,,,
+q-bio/0511047,Functional alignment of regulatory networks: A study of temperate phages,,,,
+q-bio/0512038,Finding mesoscopic communities in sparse networks,,,,
+q-bio/0512046,Uniqueness of steady states for a certain chemical reaction,,,,
+q-bio/0601025,"Towards an understanding of lineage specification in hematopoietic stem
+  cells: A mathematical model for the interaction of transcription factors
+  GATA-1 and PU.1",,,,
+q-bio/0602002,Structural Kinetic Modeling of Metabolic Networks,,,,
+q-bio/0602004,CFinder: Locating cliques and overlapping modules in biological networks,,,,
+q-bio/0602009,Intracellular delay limits cyclic changes in gene expression,,,,
+q-bio/0603023,Diffusion and interfaces in pattern formation,,,,
+q-bio/0603026,Genetic Toggle Switch Without Cooperative Binding,,,,
+q-bio/0604026,Cross-species analysis of biological networks by Bayesian alignment,,,,
+q-bio/0604029,"Structure and function of negative feedback loops at the interface of
+  genetic and metabolic networks",,,,
+q-bio/0605004,"Methods of robustness analysis for Boolean models of gene control
+  networks",,,,
+q-bio/0605009,"Superstability of the yeast cell cycle dynamics: Ensuring causality in
+  the presence of biochemical stochasticity",,,,
+q-bio/0605011,Stochastic Model of Yeast Cell Cycle Network,,,,
+q-bio/0605016,How T-cells use large deviations to recognize foreign antigens,,,,
+q-bio/0605032,Reverse-engineering of polynomial dynamical systems,,,,
+q-bio/0605033,"Impact of observational incompleteness on the structural properties of
+  protein interaction networks",,,,
+q-bio/0605049,"Sequential recruitment and combinatorial assembling of multiprotein
+  complexes in transcriptional activation",,,,
+q-bio/0606039,"Randomization and Feedback Properties of Directed Graphs Inspired by
+  Gene Networks",,,,
+q-bio/0607006,Temporal differentiation and the optimization of system output,,,,
+q-bio/0607008,"A quantitative study of the benefits of co-regulation using the spoIIA
+  operon as an example",,,,
+q-bio/0607017,Synergy from Silence in a Combinatorial Neural Code,,,,
+q-bio/0607025,"A variational approach to the stochastic aspects of cellular signal
+  transduction",,,,
+q-bio/0607028,"The interplay between discrete noise and nonlinear chemical kinetics in
+  a signal amplification cascade",,,,
+q-bio/0608010,"Transient Resetting: A Novel Mechanism for Synchrony and Its Biological
+  Examples",,,,
+q-bio/0608019,"A Petri Net approach to the study of persistence in chemical reaction
+  networks",,,,
+q-bio/0608021,Bacterial gene regulation in diauxic and nondiauxic growth,,,,
+q-bio/0608022,The synchronization of stochastic oscillators,,,,
+q-bio/0609014,Dynamic re-wiring of protein interaction: The case of transactivation,,,,
+q-bio/0609015,Dynamic Studies of Scaffold-dependent Mating Pathway in Yeast,,,,
+q-bio/0609033,"Comparative study of the transcriptional regulatory networks of E. coli
+  and yeast: Structural characteristics leading to marginal dynamic stability",,,,
+q-bio/0609050,"Bayesian analysis of biological networks: clusters, motifs,
+  cross-species correlations",,,,
+q-bio/0610008,"Dynamical Structure Functions for the Estimation of LTI Networks with
+  Limited Information",,,,
+q-bio/0610024,"Optimal experimental design in an EGFR signaling and down-regulation
+  model",,,,
+q-bio/0610025,"Function Constrains Network Architecture and Dynamics: A Case Study on
+  the Yeast Cell Cycle Boolean Network",,,,
+q-bio/0611022,"Variable-free exploration of stochastic models: a gene regulatory
+  network example",,,,
+q-bio/0611026,"Propagation of fluctuations in interaction networks governed by the law
+  of mass action",,,,
+q-bio/0611038,Oscillation patterns in negative feedback loops,,,,
+q-bio/0611069,Efficient Degradation and Expression Prioritization with Small RNAs,,,,
+q-bio/0611071,Encoding folding paths of RNA switches,,,,
+q-bio/0612011,"Stochastic approach to molecular interactions and computational theory
+  of metabolic and genetic regulations",,,,
+q-bio/0612017,The Regularizing Capacity of Metabolic Networks,,,,
+q-bio/0612018,The Berry phase and the pump flux in stochastic chemical kinetics,,,,
+q-bio/0612029,Sensitivity dependent model of protein-protein interaction networks,,,,
+q-bio/0612032,Monotone and near-monotone network structure (part I),,,,
+q-bio/0612033,Monotone and near-monotone network structure (part II),,,,
+q-bio/0701004,Directionality is an inherent property of biochemical networks,,,,
+q-bio/0701009,Attribute Exploration of Discrete Temporal Transitions,,,,
+q-bio/0701011,"Designing sequential transcription logic: a simple genetic circuit for
+  conditional memory",,,,
+q-bio/0701020,"Dynamical robustness of biological networks with hierarchical
+  distribution of time scales",,,,
+q-bio/0701035,"Hierarchy and Feedback in the Evolution of the E. coli Transcription
+  Network",,,,
+q-bio/0701039,Universally Sloppy Parameter Sensitivities in Systems Biology,,,,
+q-bio/0701052,Attractors in continuous and Boolean networks,,,,
+q-bio/0702001,"Comparing Protein Interaction Networks via a Graph Match-and-Split
+  Algorithm",,,,
+q-bio/0702003,Stochastic Simulations of Genetic Switch Systems,,,,
+q-bio/0702011,Bistability preserving model reduction in apoptosis,,,,
+q-bio/0702016,"Compositionality, stochasticity and cooperativity in dynamic models of
+  gene regulation",,,,
+q-bio/0702025,Stochastic Synchronization of Genetic Oscillator Networks,,,,
+q-bio/0702039,Effect of DNA looping on the induction kinetics of the lac operon,,,,
+q-bio/0702042,"Satisfiability, sequence niches, and molecular codes in cellular
+  signaling",,,,
+q-bio/0702046,microRNAs may sharpen spatial expression patterns,,,,
+q-bio/0702051,"On the equilibria of the MAPK cascade: cooperativity, modularity and
+  bistability",,,,
+q-bio/0702057,"Detection of the dominant direction of information flow in densely
+  interconnected regulatory networks",,,,
+q-bio/0703009,An allosteric model of KaiC phosphorylation,,,,
+q-bio/0703022,"Are Genetically Robust Regulatory Networks Dynamically Different from
+  Random Ones?",,,,
+q-bio/0703042,"An allosteric model for circadian KaiC phosphorylation - Supporting
+  Information",,,,
+q-bio/0703044,"On the existence of potential landscape in the evolution of complex
+  systems",,,,
+q-bio/0703059,"The regulatory network of E. coli metabolism as a boolean dynamical
+  system exhibits both homeostasis and flexibility of response",,,,

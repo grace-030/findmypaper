@@ -1,0 +1,87 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+cond-mat/9906196,"Stochastic relaxational dynamics applied to finance: towards
+  non-equilibrium option pricing theory",4.643673039211921e-06,1.5728132221010513e-05,5.0,1.0
+math/0703782,"A Proof of the Smoothness of the Finite Time Horizon American Put Option
+  for Jump Diffusions",2.4711431321721443e-06,0.0,1.0,0.0
+math/0509016,"Absolutely continuous laws of Jump-Diffusions in finite and infinite
+  dimensions with applications to mathematical Finance",2.4711431321721443e-06,0.0,1.0,0.0
+math/0602592,"On the density of properly maximal claims in financial markets with
+  transaction costs",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/9802136,"``String'' formulation of the Dynamics of the Forward Interest Rate
+  Curve",1.746325120276972e-06,0.0,3.0,4.0
+cond-mat/9901279,"A Path Integral Approach to Derivative Security Pricing: II. Numerical
+  Methods",1.3189329710618589e-06,0.0,0.0,3.0
+math/9805014,Time Dynamics of Probability Measure and Hedging of Derivatives,1.3189329710618589e-06,0.0,0.0,1.0
+math/0611869,"Reflected BSDE with a Constraint and a New Doob-Meyer Nonlinear
+  Decomposition",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0006454,"Fractional calculus and continuous-time finance II: the waiting-time
+  distribution",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9901277,"A Path Integral Approach to Derivative Security Pricing: I. Formalism
+  and Analytical Results",1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/0110285,Self-similar approach to market analysis,,,,
+cond-mat/0111563,An application of Malliavin Calculus to Finance,,,,
+cond-mat/0207750,Credit Risk Contributions to Value-at-Risk and Expected Shortfall,,,,
+cond-mat/0302579,Financial Probabilities from Fisher Information,,,,
+cond-mat/0307226,"Modelling and computer simulation of an insurance policy: A search for
+  maximum profit",,,,
+cond-mat/0404107,Consistency conditions for affine term structure models,,,,
+math/0004016,On the valuation of Paris options: foundational results,,,,
+math/0211383,A Monte Carlo method for exponential hedging of contingent claims,,,,
+math/0305017,"A numeraire-free and original probability based framework for financial
+  markets",,,,
+math/0305274,State Tameness: A New Approach for Credit Constrains,,,,
+math/0307197,Wiener Chaos and the Cox-Ingersoll-Ross model,,,,
+math/0405290,"Dual formulation of the utility maximization problem: the case of
+  nonsmooth utility",,,,
+math/0412332,On the asymptotic free boundary for the American put option problem,,,,
+math/0501045,"No-arbitrage in discrete-time markets with proportional transaction
+  costs and general information structure",,,,
+math/0503013,"The Shannon information of filtrations and the additional logarithmic
+  utility of insiders",,,,
+math/0503473,Characterization of arbitrage-free markets,,,,
+math/0503516,"Utility Maximization with a Stochastic Clock and an Unbounded Random
+  Endowment",,,,
+math/0505208,"Classical solutions to reaction-diffusion systems for hedging problems
+  with interacting Ito and point processes",,,,
+math/0505243,On utility maximization in discrete-time financial market models,,,,
+math/0506125,"A Fast Algorithm for Computing Expected Loan Portfolio Tranche Loss in
+  the Gaussian Factor Model",,,,
+math/0506378,"Fast Computation of the Expected Loss of a Loan Portfolio Tranche in the
+  Gaussian Factor Model: Using Hermite Expansions for Higher Accuracy",,,,
+math/0507082,"Fast Computation Of the Economic Capital, the Value at Risk and the
+  Greeks of a Loan Portfolio in the Gaussian Factor Model",,,,
+math/0508448,Utility maximization in incomplete markets,,,,
+math/0508489,Dynamic exponential utility indifference valuation,,,,
+math/0602451,"Optimal consumption in discrete-time financial models with industrial
+  investment opportunities and nonlinear returns",,,,
+math/0602462,Maturity randomization for stochastic control problems,,,,
+math/0602521,Atlas models of equity markets,,,,
+math/0602532,A theory of stochastic integration for bond markets,,,,
+math/0603284,"Constructive no-arbitrage criterion under transaction costs in the case
+  of finite discrete time",,,,
+math/0604316,Localizing Volatilities,,,,
+math/0607112,"Variance-optimal hedging for processes with stationary independent
+  increments",,,,
+math/0607775,Mean-variance Hedging in the Discontinuous Case,,,,
+math/0609402,"Geometry of polar wedges and super-replication prices in incomplete
+  financial markets",,,,
+math/0610324,On the value of optimal stopping games,,,,
+math/0612034,Exponential Martingales and Time integrals of Brownian Motion,,,,
+math/0612341,"What is the natural scale for a L\'evy process in modelling term
+  structure of interest rates?",,,,
+math/0702058,Mixtures in non stable Levy processes,,,,
+math/0702405,"Bounded solutions to backward SDE's with jumps for utility optimization
+  and indifference hedging",,,,
+math/0702409,Market free lunch and large financial markets,,,,
+math/0702413,"Sensitivity analysis of utility-based prices and risk-tolerance wealth
+  processes",,,,
+math/0702423,Correction. Error estimates for binomial approximations of game options,,,,
+math/0702435,Convexity theory for the term structure equation,,,,
+math/0702828,"Price systems for markets with transaction costs and control problems
+  for some finance problems",,,,
+math/0703424,Mean-variance Hedging Under Partial Information,,,,
+math/0703828,Optimal Time to Change Premiums,,,,
+math/9801057,"Valuation of path-dependent American options using a Monte Carlo
+  approach",,,,
+physics/0602102,Unifying the BGM and SABR Models: A short Ride in Hyperbolic Geometry,,,,
+physics/0703181,Least Squares Importance Sampling for Monte Carlo Security Pricing,,,,

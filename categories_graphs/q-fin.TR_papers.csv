@@ -1,0 +1,212 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+cond-mat/0010211,On the nature of the stock market: Simulations and experiments,1.6820966316451584e-05,0.0,24.0,2.0
+cond-mat/0211082,"Limit order market analysis and modelling: on an universal cause for
+  over-diffusive prices",1.5594606851532255e-05,0.0,13.0,0.0
+cond-mat/0207376,Excess Demand Financial Market Model,1.5555726884957196e-05,0.0,14.0,0.0
+cond-mat/0307170,On Simple Mean-Field Stochastic Model of Market Dynamics,9.965804644092863e-06,0.0,2.0,0.0
+cond-mat/0303222,Long Memory in Stock Trading,9.377987305389554e-06,2.6659537653077024e-06,14.0,3.0
+cond-mat/0104341,"A Nonlinear Super-Exponential Rational Model of Speculative Financial
+  Bubbles",8.608694068979442e-06,3.286527808347765e-05,7.0,4.0
+cond-mat/0012497,The waiting-time distribution of LIFFE bond futures,8.13237648989176e-06,2.22781651697023e-08,1.0,3.0
+physics/0601106,"An interacting-agent model of financial markets from the viewpoint of
+  nonextensive statistical mechanics",7.263894683836344e-06,0.0,2.0,0.0
+physics/0608091,"Anomalous fluctuations in Minority Games and related multi-agent models
+  of financial markets",7.1924219236361785e-06,0.0,4.0,0.0
+cond-mat/0202479,Colored minority games,7.010580562874252e-06,3.7130275282837164e-09,10.0,1.0
+cond-mat/0112422,A quantitative model of trading and price formation in financial markets,6.902582383559051e-06,2.3882193061920743e-06,8.0,8.0
+cond-mat/0201192,Sornette-Ide model for markets: Trader expectations as imaginary part,6.5514775124781285e-06,0.0,4.0,0.0
+cond-mat/0210475,Statistical theory of the continuous double auction,6.113849809811117e-06,1.7599750484064818e-07,7.0,5.0
+cond-mat/0104547,Mean-field approximation for a limit order driven market model,5.952484806846285e-06,8.281536599084037e-06,8.0,4.0
+cond-mat/0406224,"Random walks, liquidity molasses and critical response in financial
+  markets",5.739959454176982e-06,4.0051190271753685e-06,7.0,3.0
+cond-mat/0106401,"Inner Market as a ""Black Box""",5.583040733007253e-06,0.0,5.0,0.0
+cond-mat/9906435,"Analysis of the phenomenon of speculative trading in one of its basic
+  manifestations: postage stamp bubbles",5.381804135442906e-06,0.0,11.0,0.0
+cond-mat/0101326,Stylized facts of financial markets and market crashes in Minority Games,5.244986400151416e-06,9.532084270609907e-06,17.0,7.0
+cond-mat/0106114,Analyzing and modelling 1+1d markets,4.7961634621089925e-06,1.1235621300586494e-06,7.0,5.0
+cond-mat/0103024,Minority Games and stylized facts,4.666263452018586e-06,1.3614434270373628e-07,13.0,1.0
+cond-mat/9906249,Capital flow in a two-component dynamical system,4.459220157990226e-06,0.0,12.0,2.0
+nlin/0311055,Induced Minority Dynamics in a Stock Market Model,4.444182528342459e-06,0.0,6.0,0.0
+physics/0612016,"Limit order placement as an utility maximization problem and the origin
+  of power law distribution of limit order prices",4.399058159106375e-06,0.0,4.0,0.0
+physics/0602015,"Market efficiency and the long-memory of supply and demand: Is price
+  impact variable and permanent or fixed and temporary?",4.3989374850278e-06,1.990182755160072e-06,3.0,1.0
+cond-mat/0309233,The Predictive Power of Zero Intelligence in Financial Markets,4.1529539561111605e-06,7.960731020640288e-06,4.0,3.0
+physics/0702210,"The tick-by-tick dynamical consistency of price impact in limit order
+  books",4.070538334710745e-06,0.0,3.0,0.0
+cond-mat/0107600,Dynamical Solution of the On-Line Minority Game,4.0692352466521325e-06,0.0,3.0,1.0
+cond-mat/9909265,Modeling Market Mechanism with Minority Game,3.854106738136608e-06,0.0001282425250532,13.0,19.0
+cond-mat/9910502,Simple model of a limit order-driven market,3.793835628200605e-06,0.0,3.0,4.0
+cond-mat/0508413,Stationary states of a spherical Minority Game with ergodicity breaking,3.772265321962509e-06,0.0,3.0,1.0
+cond-mat/0012045,"Generating Functional Analysis of the Dynamics of the Batch Minority
+  Game with Random External Information",3.770318454937448e-06,0.0,11.0,9.0
+physics/0701335,"Diffusive behavior and the modeling of characteristic times in limit
+  order executions",3.677900444004311e-06,0.0,3.0,0.0
+cond-mat/0212393,Dynamical Behavior of Continuous Tick Data in Futures Exchange Market,3.62335329328243e-06,0.0,2.0,2.0
+cond-mat/0011042,From Minority Games to real markets,3.57827707972238e-06,3.316971258600132e-06,15.0,7.0
+cond-mat/0307332,"Fluctuations and response in financial markets: the subtle nature of
+  `random' price changes",3.4335883077945915e-06,4.065765143470664e-05,3.0,6.0
+physics/0608032,"Market reaction to temporary liquidity crises and the permanent market
+  impact",3.332635110424964e-06,0.0,3.0,2.0
+cond-mat/0207428,"Single Curve Collapse of the Price Impact Function for the New York
+  Stock Exchange",3.28097558166978e-06,6.185854355086998e-05,4.0,9.0
+physics/0503016,Dynamical Minority Games in Futures Exchange Markets,3.195218251140492e-06,0.0,3.0,0.0
+cond-mat/9907339,Transaction costs: a new point of view,2.9821137179323337e-06,0.0,1.0,1.0
+cond-mat/0303089,Multiplicative point process as a model of trading activity,2.8183614485973225e-06,4.885753495776897e-07,4.0,5.0
+cond-mat/0206446,"Exact Hurst exponent and crossover behavior in a limit order market
+  model",2.807324141160416e-06,0.0,3.0,2.0
+cond-mat/0403649,Generalized minority games with adaptive trend-followers and contrarians,2.8069759548859484e-06,0.0,2.0,0.0
+cond-mat/0306507,Dynamics of multi-frequency minority games,2.7701849870693894e-06,0.0,2.0,0.0
+nlin/0102016,Bid distributions of competing agents in simple models of auctions,2.738613447783412e-06,0.0,5.0,0.0
+physics/0603152,Multi-asset minority games,2.683826076232908e-06,1.990182755160072e-06,2.0,3.0
+physics/0608013,"The demise of constant price impact functions and single-time step
+  models of speculation",2.6161869241522733e-06,0.0,4.0,0.0
+cond-mat/0312703,What really causes large price changes?,2.587952801650048e-06,3.980365510320144e-06,1.0,7.0
+cond-mat/0102518,"Price fluctuations from the order book perspective - empirical facts and
+  a simple model",2.575920108091092e-06,7.512296309291044e-05,5.0,6.0
+cond-mat/0404264,"Price return auto-correlation and predictability in agent-based models
+  of financial markets",2.4863623759513243e-06,2.0198869753863417e-06,3.0,3.0
+cond-mat/0406326,Global Optimization of Minority Game by Smart Agents,2.4711431321721443e-06,0.0,1.0,0.0
+nlin/0403056,Majority Orienting Model for the Oscillation of Market Price,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0702029,Correlation of coming limit price with order book in stock markets,2.4711431321721443e-06,0.0,1.0,0.0
+math/0703827,Interacting Agent Feedback Finance Model,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0406168,Study on Evolvement Complexity in an Artificial Stock Market,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0403723,Market depth and price dynamics: A note,2.401822026865206e-06,0.0,2.0,0.0
+cond-mat/9903079,A prognosis oriented microscopic stock market model,2.388852566129577e-06,0.0,5.0,3.0
+cond-mat/9902044,How to reconcile Market Efficiency and Technical Analysis,2.2078114054805964e-06,0.0,3.0,1.0
+physics/0603084,"Relation between Bid-Ask Spread, Impact and Volatility in Double Auction
+  Markets",2.1879342854687336e-06,0.0,3.0,3.0
+cond-mat/9811114,Reaction-Diffusion-Branching Models of Stock Price Fluctuations,2.119761705711622e-06,0.0,1.0,1.0
+cond-mat/0005430,"A Continuous Time Asynchronous Model of the Stock Market; Beyond the LLS
+  Model",2.09384809404345e-06,0.0,2.0,0.0
+cond-mat/0603134,Effects of Tobin Taxes in Minority Game markets,2.0614223254024968e-06,0.0,1.0,1.0
+cond-mat/9806138,Electrodynamical model of quasi-efficient financial market,2.0437737782166924e-06,0.0,2.0,6.0
+cond-mat/0207523,Designing agent-based market models,2.0020447029076854e-06,0.0,4.0,4.0
+cond-mat/0311257,Real payoffs and virtual trading in agent based market models,1.99599853028221e-06,0.0,2.0,2.0
+cond-mat/0501413,"Master equation for a kinetic model of trading market and its analytic
+  solution",1.9304335281122978e-06,4.714401641428478e-06,2.0,5.0
+cond-mat/0004001,"Stock Market Speculation: Spontaneous Symmetry Breaking of Economic
+  Valuation",1.8950380516170012e-06,0.0,2.0,1.0
+cond-mat/0204574,"Price Drops, Fluctuations, and Correlation in a Multi-Agent Model of
+  Stock Markets",1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/0102301,A process-reconstruction analysis of market fluctuations,1.8950380516170012e-06,0.0,1.0,1.0
+cond-mat/0006463,"Diffusion and Aggregation in an Agent Based Model of Stock Market
+  Fluctuations",1.8746287976359307e-06,2.9704220226269734e-08,3.0,1.0
+cond-mat/0210549,"Criticality and finite size effects in a simple realistic model of stock
+  market",1.867338702416297e-06,0.0,3.0,3.0
+cond-mat/0211317,"Multiplicative Stochastic Model of the Time Interval between Trades in
+  Financial Markets",1.856134043952471e-06,3.1430090399637734e-08,2.0,3.0
+cond-mat/9901243,Toward a Theory of Marginally Efficient Markets,1.8553914003939124e-06,0.0,3.0,13.0
+cond-mat/0304685,Analytic treatment of a trading market model,1.8448726225774303e-06,0.0,1.0,1.0
+cond-mat/0105303,"Application of multi-agent games to the prediction of financial
+  time-series",1.8131109166227543e-06,0.0,2.0,0.0
+cond-mat/0401422,"The Opinion Game: Stock price evolution from microscopic market
+  modelling",1.7655564980601534e-06,0.0,1.0,0.0
+cond-mat/0501002,Topology and Behaviour of Agents: Capital Markets,1.703003024765287e-06,0.0,1.0,1.0
+cond-mat/0009222,Determining bottom price-levels after a speculative peak,1.703003024765287e-06,0.0,1.0,0.0
+cond-mat/0207253,"Dynamics of price and trading volume in a spin model of stock markets
+  with heterogeneous agents",1.6962217168370824e-06,0.0,1.0,0.0
+physics/0505210,Anomalous waiting times in high-frequency financial data,1.6946095713346197e-06,0.0,2.0,0.0
+cond-mat/0002331,"From naive to sophisticated behavior in multiagents based financial
+  market models",1.6754612126118354e-06,0.0,2.0,2.0
+cond-mat/0311581,Tobin tax and market depth,1.6593326725245678e-06,1.990182755160072e-06,1.0,2.0
+cond-mat/9810162,A generalized spin model of financial markets,1.6265903683576063e-06,0.0,2.0,6.0
+physics/0508077,Application of Zhangs Square Root Law and Herding to Financial Markets,1.60698551133943e-06,0.0,1.0,0.0
+cond-mat/0111349,Symmetry Breaking in Stock Demand,1.5896984083887216e-06,0.0,2.0,1.0
+cond-mat/9910047,Fundamental Framework for Technical Analysis,1.5600109138788598e-06,0.0,2.0,0.0
+cond-mat/0004314,Self-organized model for information spread in financial markets,1.5167162602826574e-06,0.0,2.0,0.0
+cond-mat/0107150,The Dynamics of the Linear Random Farmer Model,1.5109679979135728e-06,0.0,1.0,0.0
+cond-mat/9903220,Correlations in the Bond-Future Market,1.4629592412006444e-06,0.0,1.0,0.0
+cond-mat/0310305,Anomalous waiting times in high-frequency financial data,1.4629592412006444e-06,0.0,1.0,6.0
+cond-mat/0208310,The Interactive Minority Game: Instructions for Experts,1.456942246443838e-06,0.0,1.0,1.0
+cond-mat/0106657,Quantifying Stock Price Response to Demand Fluctuations,1.4344379735839949e-06,0.0,1.0,8.0
+cond-mat/9908253,Financial Friction and Multiplicative Markov Market Game,1.4344379735839949e-06,0.0,1.0,3.0
+cond-mat/0004376,Trading behavior and excess volatility in toy markets,1.4304130333299736e-06,0.0,1.0,15.0
+cond-mat/0004308,Comment on: Thermal model for Adaptive Competition in a Market,1.4021456446483483e-06,0.0,1.0,11.0
+cond-mat/0105573,Time-reversal asymmetry in Cont-Bouchaud stock market model,1.3521148086954738e-06,0.0,1.0,0.0
+nlin/0211010,Evolution and anti-evolution in a minimal stock market model,1.3521148086954738e-06,0.0,1.0,0.0
+cond-mat/0110480,The domino effect for markets,1.3521148086954738e-06,0.0,1.0,0.0
+cond-mat/0203596,"Waiting-times and returns in high-frequency financial data: an empirical
+  study",1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/0207280,Volatility Cluster and Herding,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9709118,A Prototype Model of Stock Exchange,1.3189329710618589e-06,0.0,0.0,5.0
+physics/0509194,An empirical behavioral model of price formation,1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/0503532,"Reply to cond-mat/0503325: Comment on `Generating functional analysis of
+  Minority Games with real merket histories' by KH Ho, WC Man, FK Chow and HF
+  Chau",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0205262,Non-equilibrium statistical mechanics of Minority Games,1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/0105373,Why Financial Markets Will Remain Marginally Inefficient?,1.3189329710618589e-06,0.0,0.0,2.0
+math/0602178,"No-arbitrage and closure results for trading cones with transaction
+  costs",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0203038,Time series analysis for minority game simulations of financial markets,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0202391,Triangular arbitrage as an interaction among foreign exchange rates,1.3189329710618589e-06,0.0,0.0,1.0
+math/0509367,"Game theoretic derivation of discrete distributions and discrete pricing
+  formulas",1.3189329710618589e-06,0.0,0.0,3.0
+math/0510662,"Capital process and optimality properties of a Bayesian Skeptic in
+  coin-tossing games",1.3189329710618589e-06,0.0,0.0,3.0
+math/0409076,Uncertainty relations in models of market microstructure,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0410762,A Mechanism for Pockets of Predictability in Complex Adaptive Systems,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0106635,Dynamics of the Batch Minority Game with Inhomogeneous Decision Noise,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0503762,"Coordination, intermittency and trends in generalized Minority Games",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0506151,Phase coexistence in a forecasting game,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0101351,Statistical mechanics of asset markets with private information,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0505032,Automated Trading Systems: Developed and Emerging Capital Markets,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0008466,Life in the Stockmarket - a Realistic Model for Trading,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0310351,Modeling of waiting times and price changes in currency exchange data,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0410335,"Generating functional analysis of Minority Games with real market
+  histories",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0011337,Moving averages and markets inefficiency,,,,
+cond-mat/0012405,A Self-organising Model of Market with Single Commodity,,,,
+cond-mat/0103600,Agent-based simulation of a financial market,,,,
+cond-mat/0104337,Market ecology of active and passive investors,,,,
+cond-mat/0108066,Broken ergodicity and memory in the minority game,,,,
+cond-mat/0109139,"Artificial market model based on deterministic agents and derivation of
+  limit of GARCH type process",,,,
+cond-mat/0110354,Microscopic Models of Financial Markets,,,,
+cond-mat/0205636,Hedging Extreme Co-Movements,,,,
+cond-mat/0212641,Generalized Technical Analysis. Effects of transaction volume and risk,,,,
+cond-mat/0304331,Market Simulation Displaying Multifractality,,,,
+cond-mat/0308548,Could short selling make financial markets tumble?,,,,
+cond-mat/0309549,Cooperativity in a trading model with memory and production,,,,
+cond-mat/0312547,Traders' strategy with price feedbacks in financial market,,,,
+cond-mat/0403067,On the Origin of Power-Law Fluctuations in Stock Prices,,,,
+cond-mat/0403621,Limited profit in predictable stock markets,,,,
+cond-mat/0406365,Mathew Effect in Artificial Stock Market,,,,
+cond-mat/0406556,Extreme times in financial markets,,,,
+cond-mat/0408531,"Need, Greed and Noise: Competing Strategies in a Trading Model",,,,
+cond-mat/0412708,A theory for long-memory in supply and demand,,,,
+cond-mat/0502662,"On the interplay between fluctuations and efficiency in a model economy
+  with heterogeneous adaptive consumers",,,,
+cond-mat/0512308,The Minority Game: a statistical physics perspective,,,,
+cond-mat/9808305,The Uneven Distribution of Numbers in Nature,,,,
+cond-mat/9910376,Speculative trading: the price multiplier effect,,,,
+cs/0612065,"An equilibrium model for matching impatient demand and patient supply
+  over time",,,,
+math/0703085,Donsker theorem for the Rosenblatt process and a binary market model,,,,
+math/0703833,The Effects of Implementation Delay on Decision-Making Under Uncertainty,,,,
+nlin/0312040,"Speculative bubbles and fat tail phenomena in a heterogeneous agent
+  model",,,,
+nlin/0312065,"Intermittent chaos in a model of financial markets with heterogeneous
+  agents",,,,
+physics/0502045,Macro-players in stock markets,,,,
+physics/0504143,"The law of large numbers for completely random behavior of market
+  participants. Quantum economics",,,,
+physics/0504150,Investment horizons : A time-dependent measure of asset performance,,,,
+physics/0510257,"News and price returns from threshold behaviour and vice-versa: exact
+  solution of a simple agent-based market model",,,,
+physics/0512163,"Characteristic time scales of tick quotes on foreign currency markets:
+  an empirical study and agent-based model",,,,
+physics/0601089,Hidden Forces and Fluctuations from Moving Averages: A Test Study,,,,
+physics/0602171,A microscopic model of triangular arbitrage,,,,
+physics/0606078,"The Apparent Madness of Crowds: Irrational collective behavior emerging
+  from interactions among rational agents",,,,
+physics/0607290,Stylized facts from a threshold-based heterogeneous agent model,,,,
+physics/0608191,The average behaviour of financial market by 2 scale homogenisation,,,,
+physics/0608271,Mechanical vs. informational components of price impact,,,,
+physics/0609038,"Detecting the traders' strategies in Minority-Majority games and real
+  stock-prices",,,,
+physics/0610026,The value of information in a multi-agent market model,,,,
+physics/0611023,Trading strategies in the Italian interbank market,,,,
+physics/0701140,Agent-based Models of Financial Markets,,,,
+physics/0703156,"Strategy bifurcation and spatial inhomogeneity in a simple model of
+  competing sellers",,,,

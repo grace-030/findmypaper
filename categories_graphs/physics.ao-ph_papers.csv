@@ -1,0 +1,649 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+astro-ph/0612745,Splitting neutrino masses and showering into Sky,2.576001713549483e-05,0.0,12.0,0.0
+astro-ph/0602092,Do extragalactic cosmic rays induce cycles in fossil diversity?,1.5808809605568053e-05,0.0,7.0,0.0
+astro-ph/0610725,UHE Cosmic Rays and Neutrinos Showering on Planet Edges,1.4106254320979078e-05,2.059115113305794e-06,9.0,2.0
+astro-ph/0205286,MHD Turbulence: Scaling Laws and Astrophysical Implications,1.353522274472162e-05,5.765923004238475e-05,14.0,21.0
+astro-ph/0610954,Updated Z-Burst Neutrinos at Horizons,1.230380113342513e-05,1.128455947177213e-07,11.0,1.0
+physics/0611103,"Predicting hurricane regional landfall rates: comparing local and
+  basin-wide track model approaches",9.471441537761233e-06,0.0,2.0,0.0
+astro-ph/0307485,The Rise of High Energy Neutrino Astronomy at Horizon,9.106347845225946e-06,7.38559477218974e-07,20.0,1.0
+physics/0410053,"Probabilistic temperature forecasting: a comparison of four
+  spread-regression models",8.87222899488306e-06,0.0,6.0,0.0
+nlin/0606058,A Model of Intra-seasonal Oscillations in the Earth atmosphere,7.94172350681534e-06,1.990182755160072e-06,2.0,3.0
+physics/0512135,Statistical modelling of tropical cyclone tracks: non-normal innovations,7.911747879052413e-06,0.0,5.0,2.0
+physics/0508226,"Sensitivity of ray dynamics in an underwater sound channel to vertical
+  scale of longitudinal sound-speed variations",7.000799622209383e-06,0.0,6.0,1.0
+physics/0409096,"Probabilistic temperature forecasting: a summary of our recent research
+  results",6.919872552598118e-06,0.0,7.0,4.0
+physics/0403005,"Modeling turbulent wave-front phase as a fractional Brownian motion: a
+  new approach",6.189841599054301e-06,0.0,2.0,2.0
+physics/0701175,"Correlations between hurricane numbers and sea surface temperature: why
+  does the correlation disappear at landfall?",5.9805420987033565e-06,0.0,2.0,0.0
+physics/0407082,A link between an ice age era and a rapid polar shift,5.951706370833511e-06,0.0,4.0,0.0
+physics/0702067,"Explicit wave-averaged primitive equations using a Generalized
+  Lagrangian Mean",5.655144290770314e-06,0.0,1.0,1.0
+physics/0008236,Equilibrium solutions of the shallow water equations,5.655144290770314e-06,0.0,1.0,0.0
+physics/0604023,The multiscale nature of streamers,5.655144290770314e-06,0.0,2.0,1.0
+physics/0111110,"Metastability in simple climate models: Pathwise analysis of slowly
+  driven Langevin equations",5.593374608800041e-06,0.0,4.0,1.0
+physics/0409097,"Making use of the information in ensemble weather forecasts: comparing
+  the end to end and full statistical modelling approaches",5.477474002378405e-06,0.0,4.0,0.0
+physics/0406084,On the GNSS-R Interferometric Complex Field Coherence Time,5.4398385099767525e-06,0.0,4.0,0.0
+astro-ph/0601711,Gamma-ray bursts and terrestrial planetary atmospheres,5.438825304404756e-06,0.0,4.0,0.0
+physics/0611006,"Comparing classical and Bayesian methods for predicting hurricane
+  landfall rates",5.264078317386516e-06,0.0,1.0,1.0
+physics/0111133,"A characteristic frequency of two mutually interacting gas bubbles in an
+  acoustic field",4.922302499547841e-06,0.0,4.0,0.0
+physics/0702034,"In a book ""Tsunami and Nonlinear Waves"": Numerical Verification of the
+  Hasselmann equation",4.881437893292031e-06,0.0,7.0,0.0
+physics/0702145,Numerical Verification of the Weak Turbulent Model for Swell Evolution,4.881437893292031e-06,0.0,7.0,0.0
+physics/0605167,Essence of inviscid shear instability: a point view of vortex dynamics,4.775563454392716e-06,0.0,3.0,0.0
+physics/0312150,"Ocean acoustic wave propagation and ray method correspondence: internal
+  wave fine structure",4.694741598934279e-06,0.0,4.0,0.0
+chao-dyn/9905022,Noise-induced flow in quasigeostrophic turbulence with bottom friction,4.527116820765776e-06,0.0,3.0,0.0
+physics/0307052,"A fractional Brownian motion model for the turbulent refractive index in
+  lightwave propagation",4.51301025095409e-06,0.0,2.0,1.0
+physics/0311138,"Notes on a possible phenomenology of internal transport barriers in
+  tokamak",4.372201195666494e-06,0.0,3.0,0.0
+nlin/0605003,Differential models for 2D turbulence,4.229814325148799e-06,0.0,3.0,0.0
+physics/0502146,Quasi-planar steep water waves,4.060231222520034e-06,0.0,2.0,0.0
+physics/0701170,"Predicting basin and landfalling hurricane numbers from sea surface
+  temperature",3.964257947761864e-06,0.0,4.0,3.0
+physics/0512091,"Statistical modelling of tropical cyclone tracks: modelling cyclone
+  lysis",3.8515256738171375e-06,0.0,4.0,1.0
+physics/0701166,"Predicting landfalling hurricane numbers from basin hurricane numbers:
+  statistical analysis and predictions",3.838360034759058e-06,0.0,4.0,0.0
+physics/0410039,"Probabilistic forecasts of temperature: measuring the utility of the
+  ensemble spread",3.59569620305516e-06,0.0,2.0,1.0
+physics/0501020,"The asymptotic quasi-stationary states of the two-dimensional
+  magnetically confined plasma and of the planetary atmosphere",3.5816623865110502e-06,3.980365510320144e-06,8.0,2.0
+physics/0409127,"Probabilistic forecasting of temperature: comments on the Bayesian Model
+  Averaging approach",3.538085694999646e-06,0.0,2.0,0.0
+physics/0701173,"Statistical Modelling of the Relationship Between Main Development
+  Region Sea Surface Temperature and \emph{Landfalling} Atlantic Basin
+  Hurricane Numbers",3.408709818902323e-06,0.0,3.0,1.0
+physics/0401078,"Linear waves and baroclinic instability in an inhomogeneous-density
+  layered primitive-equation ocean model",3.3749066596554898e-06,0.0,1.0,0.0
+nlin/0610056,"Energy Conservation and Second-Order Statistics in Stably Stratified
+  Turbulent Boundary Layers",3.3749066596554898e-06,0.0,1.0,0.0
+physics/0702131,Changes in number and intensity of world-wide tropical cyclones,3.3030645010996213e-06,0.0,1.0,0.0
+physics/0503155,Describing two-dimensional vortical flows : the typhoon case,3.230327327481176e-06,0.0,1.0,0.0
+astro-ph/0606226,Anti-Neutrino Imprint in Solar Neutrino Flare,3.158603895934462e-06,0.0,3.0,0.0
+physics/0402026,"Improving probabilistic weather forecasts using seasonally varying
+  calibration parameters",2.9416289479588443e-06,0.0,5.0,2.0
+physics/0701176,"Predicting landfalling hurricane numbers from sea surface temperature:
+  theoretical comparisons of direct and indirect approaches",2.912006170016791e-06,0.0,2.0,0.0
+astro-ph/0201018,Evidence for Nearby Supernova Explosions,2.855213185875573e-06,0.0,2.0,0.0
+physics/0411011,"Water waves over a time-dependent bottom: Exact description for 2D
+  potential flows",2.855213185875573e-06,0.0,2.0,1.0
+physics/0606192,"Year ahead prediction of US landfalling hurricane numbers: the optimal
+  combination of long and short baselines for intense hurricanes",2.8492499021832324e-06,0.0,3.0,0.0
+physics/0510203,"Statistical modelling of tropical cyclone genesis: a non-parametric
+  model for the annual distribution",2.8114989404504844e-06,0.0,4.0,2.0
+physics/0703196,"Efficient form of the LANS-alpha turbulence model in a
+  primitive-equation ocean model",2.77239764133326e-06,0.0,1.0,0.0
+physics/0401143,"Volcanic forcing improves Atmosphere-Ocean Coupled General Circulation
+  Model scaling performance",2.697084014042981e-06,0.0,1.0,0.0
+cond-mat/0208117,Statistical analysis of air and sea temperature anomalies,2.6631781590238582e-06,0.0,3.0,0.0
+physics/0606185,"Year-ahead Prediction of Hurricane Season Sea Surface Temperature in the
+  Tropical Atlantic",2.640598793575272e-06,0.0,3.0,5.0
+astro-ph/0001001,Statistics of Turbulence from Spectral-Line Data Cubes,2.5220823962103437e-06,2.0668118494594585e-05,2.0,10.0
+physics/0609189,On the parabolic equation method in internal wave propagation,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0307144,Light Propagation in Turbulent Media,2.4711431321721443e-06,0.0,1.0,3.0
+physics/0209047,Vortex line representation for flows of ideal and viscous fluids,2.4711431321721443e-06,0.0,1.0,1.0
+physics/0312133,"Electromagnetic wave scattering from a random layer with rough
+  interfaces I: Coherent field",2.4711431321721443e-06,0.0,1.0,2.0
+physics/0503187,"Reply to comment on `A simple model for the short-time evolution of
+  near-surface current and temperature profiles'",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0501087,"A Bayesian Estimator for Linear Calibration Error Effects in Thermal
+  Remote Sensing",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0503119,Global Warming: some back-of-the-envelope calculations,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0510150,"Current effects on scattering of surface gravity waves by bottom
+  topography",2.4711431321721443e-06,0.0,1.0,0.0
+nlin/0404016,Diffusion of passive scalar in a finite-scale random flow,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0312057,"A theory of growth by differential sedimentation with application to
+  snowflake formation",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0306043,"Characteristics of Aerosol Spectral Optical Depths over Manora Peak,
+  Nainital $-$ A High Altitude Station in the Central Himalayas",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0105023,"Forces at the Sea Bed using a Finite Element Solution of the Mild Slope
+  Wave Equation",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0312083,Multilayer shallow-water model with stratification and shear,2.4711431321721443e-06,0.0,1.0,1.0
+physics/0511236,"Efficient Data Assimilation for Spatiotemporal Chaos: a Local Ensemble
+  Transform Kalman Filter",2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9802003,Noise rectification in quasigeostrophic forced turbulence,2.4711431321721443e-06,0.0,2.0,1.0
+physics/0611107,"Change-point detection in the historical hurricane number time-series:
+  why can't we detect change-points at US landfall?",2.429735359900988e-06,0.0,2.0,0.0
+physics/0407037,"The Eddy Experiment: GNSS-R speculometry for directional sea-roughness
+  retrieval from low altitude aircraft",2.386312363371018e-06,0.0,1.0,0.0
+physics/0108056,"Number of Transition Frequencies of a System Containing an Arbitrary
+  Number of Gas Bubbles",2.379526275040802e-06,0.0,2.0,1.0
+physics/0304035,A model for rapid stochastic distortions of small-scale turbulence,2.351106830767793e-06,0.0,2.0,5.0
+astro-ph/9805317,Anoxia duirng the Late Permian Binary Mass Extinction and Dark Matter,2.2960610328299915e-06,0.0,2.0,0.0
+physics/0307039,"Passive tracer patchiness and particle trajectory stability in
+  incompressible two-dimensional flows",2.27910810532043e-06,0.0,2.0,0.0
+physics/0406025,"The Eddy Experiment: accurate GNSS-R ocean altimetry from low altitude
+  aircraft",2.237700333049273e-06,0.0,2.0,1.0
+physics/0406029,Sea state monitoring using coastal GNSS-R,2.237700333049273e-06,0.0,2.0,2.0
+nlin/0605040,Sling effect in collisions of water droplets in turbulent clouds,2.2282787682687407e-06,0.0,2.0,1.0
+physics/0701167,"Predicting hurricane numbers from Sea Surface Temperature: closed form
+  expressions for the mean, variance and standard error of the number of
+  hurricanes",2.1734386985133746e-06,0.0,2.0,2.0
+nlin/0109028,Du chaos dans la musique des etoiles,2.1254800838390582e-06,0.0,2.0,0.0
+physics/0310079,"Do medium range ensemble forecasts give useful predictions of temporal
+  correlations?",2.0774713271261303e-06,0.0,3.0,2.0
+physics/0701345,"On the changes in number and intensity of North Atlantic tropical
+  cyclones",2.0456653061975597e-06,0.0,1.0,1.0
+astro-ph/0505472,"Gamma-Ray Bursts and the Earth: Exploration of Atmospheric, Biological,
+  Climatic and Biogeochemical Effects",1.9428198551632724e-06,0.0,2.0,0.0
+physics/0509024,"Statistical modelling of tropical cyclone tracks: modelling the
+  autocorrelation in track shape",1.927803896309822e-06,0.0,2.0,3.0
+physics/9904002,What caused the onset of the 1997-1998 El Nino?,1.8950380516170012e-06,0.0,1.0,0.0
+physics/0207108,"Richardson's pair diffusion and the stagnation point structure of
+  turbulence",1.8950380516170012e-06,0.0,1.0,2.0
+physics/0306157,Electron gas oscillations in plasma. Theory and applications,1.8950380516170012e-06,0.0,1.0,0.0
+physics/0310112,Note on the typhoon eye trajectory,1.8950380516170012e-06,0.0,1.0,0.0
+physics/0612042,"Extreme Value Statistics of the Total Energy in an Intermediate
+  Complexity Model of the Mid-latitude Atmospheric Jet. Part II: trend
+  detection and assessment",1.8950380516170012e-06,0.0,1.0,0.0
+physics/0602024,"Piecewise continuous distribution function method and ultrasound at half
+  space",1.8950380516170012e-06,0.0,1.0,0.0
+physics/9708037,Tracking down the ENSO delayed oscillator with an adjoint OGCM,1.8950380516170012e-06,0.0,1.0,0.0
+physics/0701022,"Humidity contribution to C_n^2 over a 600m pathlength in a tropical
+  marine environment",1.8950380516170012e-06,0.0,1.0,0.0
+physics/0505103,"Statistical modelling of tropical cyclone tracks: a comparison of models
+  for the variance of trajectories",1.8950380516170012e-06,0.0,1.0,5.0
+physics/0212055,PARIS Altimetry with L1 Frequency Data from the Bridge 2 Experiment,1.8950380516170012e-06,0.0,1.0,0.0
+physics/0311052,PARFAIT: GNSS-R coastal altimetry,1.8950380516170012e-06,0.0,1.0,3.0
+physics/9907033,"A possible explanation for Earth's climatic changes in the past few
+  million years",1.887874440082504e-06,0.0,1.0,3.0
+astro-ph/0411284,Terrestrial Ozone Depletion Due to a Milky Way Gamma-Ray Burst,1.8159862139197536e-06,1.8863518129660008e-06,1.0,2.0
+physics/0701162,"Five year prediction of Sea Surface Temperature in the Tropical
+  Atlantic: a comparison of simple statistical methods",1.8156366199473909e-06,0.0,1.0,5.0
+nlin/0306056,Ray chaos and ray clustering in an ocean waveguide,1.7589966134979032e-06,0.0,1.0,1.0
+physics/0401046,The problem with the Brier score,1.751011781478216e-06,0.0,2.0,1.0
+physics/0611086,"An objective change point analysis of landfalling historical Atlantic
+  hurricane numbers",1.703003024765287e-06,0.0,1.0,2.0
+physics/0109005,"Alternative interpretation of the sign reversal of secondary Bjerknes
+  force acting between two pulsating gas bubbles",1.703003024765287e-06,0.0,1.0,3.0
+physics/0701165,"Five year ahead prediction of Sea Surface Temperature in the Tropical
+  Atlantic: a comparison between IPCC climate models and simple statistical
+  methods",1.6767350496278424e-06,0.0,1.0,0.0
+physics/0611070,"Year ahead prediction of US landfalling hurricane numbers: the optimal
+  combination of multiple levels of activity since 1900",1.663470731807139e-06,0.0,1.0,2.0
+physics/0310027,Exact vortex solution of the Jacobs-Rebbi equation for ideal fluids,1.6529568840997648e-06,0.0,1.0,1.0
+physics/0506055,"Improving on the empirical covariance matrix using truncated PCA with
+  white noise residuals",1.6397513560322505e-06,0.0,1.0,0.0
+cond-mat/0202100,"Nonlinearity and Multifractality of Climate Change in the Past 420,000
+  Years",1.6096259051161389e-06,0.0,1.0,0.0
+physics/0512092,"Year-ahead prediction of US landfalling hurricane numbers: intense
+  hurricanes",1.60698551133943e-06,0.0,1.0,2.0
+physics/0512113,"Year ahead prediction of US landfalling hurricane numbers: the optimal
+  combination of long and short baselines",1.60698551133943e-06,0.0,1.0,4.0
+physics/0205071,"Problem of water vapor absorption continuum in atmospheric windows.
+  Return of dimer hypothesis",1.5808204065471895e-06,0.0,1.0,1.0
+nlin/0109027,Ray dynamics in ocean acoustics,1.5413909343054622e-06,0.0,1.0,3.0
+physics/0402027,"Singular vector ensemble forecasting systems and the prediction of flow
+  dependent uncertainty",1.4629592412006444e-06,0.0,1.0,1.0
+physics/0312125,"Weather forecasts, Weather derivatives, Black-Scholes, Feynmann-Kac and
+  Fokker-Planck",1.4629592412006444e-06,0.0,1.0,1.0
+physics/0402028,Atmospheric turbulence within and above an Amazon forest,1.446956322296335e-06,0.0,1.0,0.0
+physics/9909001,"Using Rigorous Ray Tracing to Incorporate Reflection into the Parabolic
+  Approximation",1.376543479117373e-06,0.0,1.0,0.0
+physics/0308046,Use of the likelihood for measuring the skill of probabilistic forecasts,1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/0201468,A Complexity View of Rainfall,1.3189329710618589e-06,0.0,0.0,3.0
+physics/0606075,"Humidity's influence on visible region refractive index structure
+  parameter $C_n^2$",1.3189329710618589e-06,0.0,0.0,2.0
+physics/9706007,The El Nino Stochastic Oscillator,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0511208,"Physical and Mathematical Properties of a Quasi-Geostrophic Model of
+  Intermediate Complexity of the Mid-Latitudes Atmospheric Circulation",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0203044,Approximate Solutions of Quantum Equations for Electron Gas in Plasma,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0011027,"PARIS Interferometric Processor Analysis and Experimental Results:
+  Theoretical Feasibility Analysis",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0207076,"The fractional Brownian motion property of the turbulent refractive
+  index and the Fermat's Extremal Principle",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0507165,Year-ahead prediction of US landfalling hurricane numbers,1.3189329710618589e-06,0.0,0.0,4.0
+physics/0310020,A note on the use of the word 'likelihood' in statistics and meteorology,1.3189329710618589e-06,0.0,0.0,2.0
+physics/9905044,Integration of Complete System of Dynamic Equations for Ideal Fluid,1.3189329710618589e-06,0.0,0.0,3.0
+physics/0611071,"An objective change-point analysis of historical Atlantic hurricane
+  numbers",1.3189329710618589e-06,0.0,0.0,3.0
+physics/0309042,Moment based methods for ensemble assessment and calibration,1.3189329710618589e-06,0.0,0.0,8.0
+nlin/0408005,Small and Large Scale Fluctuations in Atmospheric Wind Speeds,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0310060,"Do probabilistic medium-range temperature forecasts need to allow for
+  non-normality?",1.3189329710618589e-06,0.0,0.0,5.0
+chao-dyn/9902014,"Drifters dispersion in the Adriatic Sea: Lagrangian data and chaotic
+  model",1.3189329710618589e-06,0.0,0.0,3.0
+physics/0503231,"Statistical modelling of tropical cyclone tracks: a semi-parametric
+  model for the mean trajectory",1.3189329710618589e-06,0.0,0.0,4.0
+physics/0307141,Constrained-Hamiltonian Shallow-Water Dynamics on the Sphere,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0204011,Chaotic stirring by a mesoscale surface-ocean flow,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0310093,"The GNSS-R Eddy Experiment II: L-band and Optical Speculometry for
+  Directional Sea-Roughness Retrieval from Low Altitude Aircraft",1.3189329710618589e-06,0.0,0.0,3.0
+nlin/0410054,"On Optimal Canonical Variables in the Theory of Ideal Fluid with Free
+  Surface",1.3189329710618589e-06,0.0,0.0,3.0
+physics/0208019,Power-Law Persistence in the Atmosphere: Analysis and Applications,1.3189329710618589e-06,0.0,0.0,3.0
+nlin/0507010,Noise-induced clustering in Hamiltonian systems,1.3189329710618589e-06,0.0,0.0,2.0
+nlin/0105007,"Hamiltonian formalism and the Garrett-Munk spectrum of internal waves in
+  the ocean",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0411115,"Indian monsoon rainfall is higher in epochs of higher solar activity: a
+  wavelet cross-spectral analysis",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0103367,"Power law correlations in the Southern Oscillation Index fluctuations
+  characterizing El Nino",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9911012,"Forecasting the SST space-time variability of the Alboran Sea with
+  genetic algorithms",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0308065,"The Assessment and Calibration of Ensemble Seasonal Forecasts of
+  Equatorial Pacific Ocean Temperature and the Predictability of Uncertainty",1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0507020,"Nonlinear Hamiltonian dynamics of Lagrangian transport and mixing in the
+  ocean",1.3189329710618589e-06,0.0,0.0,1.0
+ao-sci/9605001,"Kardar-Parisi-Zhang model for the fractal structure of cumulus cloud
+  fields",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0605155,"On the Lagrangian Dynamics of Atmospheric Zonal Jets and the
+  Permeability of the Stratospheric Polar Vortex",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0601112,Long-wave instability and growth rate of the inviscid shear flows,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0512208,General stability criterion of two-dimensional inviscid parallel flow,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0003079,"Emergence of intense jets and Jupiter Great Red Spot as maximum entropy
+  structures",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0101036,Non-locality and Intermittency in 3D Turbulence,1.3189329710618589e-06,0.0,0.0,7.0
+nlin/0208032,"Hamiltonian fractals and chaotic scattering of passive particles by a
+  topographical vortex and an alternating current",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0406137,"The large-scale organization of chemical reaction networks in
+  astrophysics",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0305129,Pole dynamics for the Flierl-Petviashvili equation and zonal flow,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0310059,"Comparing the ensemble mean and the ensemble standard deviation as
+  inputs for probabilistic medium-range temperature forecasts",1.3189329710618589e-06,0.0,0.0,3.0
+physics/0210095,Global warming: What does the data tell us?,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0203058,A Local Ensemble Kalman Filter for Atmospheric Data Assimilation,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0308101,Weak turbulence of gravity waves,1.3189329710618589e-06,0.0,0.0,3.0
+physics/0308099,Weak Turbulent Kolmogorov Spectrum for Surface Gravity Waves,1.3189329710618589e-06,0.0,0.0,3.0
+physics/0605014,Turbulent Cascade of Circulations,1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9701009,Noise-Sustained currents in quasigeostrophic turbulence over topography,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0310164,Universality in snowflake aggregation,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0211040,Aerosol contents at an altitude of ~2 km in central Himalayas,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0402099,"Bayesian Estimation for Land Surface Temperature Retrieval: The Nuisance
+  of Emissivities",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0312136,"Electromagnetic wave scattering from a random layer with rough
+  interfaces II: Diffusive intensity",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0104048,"A study of the link between cosmic rays and clouds with a cloud chamber
+  at the CERN PS",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0410130,"Lagrangian Velocity Correlations and Absolute Dispersion in the
+  Midlatitude Troposphere",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0503186,"A simple model for the short-time evolution of near-surface current and
+  temperature profiles",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0701221,Scattering of internal waves from small sea bottom inhomogeneities,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0504148,Topographical scattering of waves: a spectral approach,1.3189329710618589e-06,0.0,0.0,1.0
+astro-ph/0612660,Modeling atmospheric effects of the September 1859 Solar Flare,1.3189329710618589e-06,0.0,0.0,1.0
+ao-sci/9502001,"North Atlantic thermohaline circulation predictability in a coupled
+  ocean-atmosphere model",,,,
+ao-sci/9502002,"A linear thermohaline oscillator driven by stochastic atmospheric
+  forcing",,,,
+ao-sci/9503001,"A Scaling Theory for Horizontally Homogeneous, Baroclinically Unstable
+  Flow on a Beta-Plane",,,,
+ao-sci/9504001,The stability of a zonally averaged thermohaline circulation model,,,,
+ao-sci/9505001,"Interpretation of TOVS Water Vapor Radiances Using a Random Strong Line
+  Model",,,,
+ao-sci/9508001,Mechanisms of Seasonal - ENSO interaction,,,,
+ao-sci/9509001,"Hadley circulations and large scale motions of moist convection in the
+  two dimensional numerical model",,,,
+ao-sci/9510001,A Stochastic Diffusion Model of Climate Change,,,,
+ao-sci/9605002,Analysis and modeling of scale-invariance in plankton abundance,,,,
+ao-sci/9606001,"Entropic ""sound"" in the atmosphere",,,,
+ao-sci/9608001,Interdecadal variability and oceanic thermohaline adjustment,,,,
+ao-sci/9609001,Sub-Suns and Low Reynolds Number Flow,,,,
+astro-ph/0012138,"Chemical equilibrium and stable stratification of a multi-component
+  fluid: thermodynamics and application to neutron stars",,,,
+astro-ph/0110585,The core structure of presolar graphite onions,,,,
+astro-ph/0207637,"Cosmic Ray Diffusion from the Galactic Spiral Arms, Iron Meteorites, and
+  a possible climatic connection?",,,,
+astro-ph/0412264,Detection of the N2+ First Negative System in a Bright Leonid Fireball,,,,
+astro-ph/0505245,A climatic thermostat making Earth habitable,,,,
+astro-ph/0509001,"Route of hydrodynamic turbulence in rotating shear flow: Secondary
+  perturbation triggers growing eigenmodes through the elliptical instability",,,,
+astro-ph/0509846,Surface gravity waves in deep fluid at vertical shear flows,,,,
+astro-ph/0601151,Spectral analysis of extinguished sunlight,,,,
+astro-ph/0601152,Spectral analysis of red scattered sunlight at sunrise,,,,
+chao-dyn/9701013,"Dispersion of passive tracers in closed basins: beyond the diffusion
+  coefficient",,,,
+chao-dyn/9810014,Is Weather Chaotic?,,,,
+chao-dyn/9812024,The dynamics of a low-order coupled ocean-atmosphere model,,,,
+cond-mat/0007076,"Statistics of velocity gradients in two-dimensional Navier-Stokes and
+  ocean turbulence",,,,
+cond-mat/0108056,"Some Statistical Physics Approaches for Trends and Predictions in
+  Meteorology",,,,
+cond-mat/0111202,"Time dependent correlations in marine stratocumulus cloud base height
+  records",,,,
+cond-mat/0204109,Rain: Relaxations in the sky,,,,
+cond-mat/0206040,"Global climate models violate scaling of the observed atmospheric
+  variability",,,,
+cond-mat/0206349,"Statistical Derivation of the Evolution Equation of Liquid Water Path
+  Fluctuations in Clouds",,,,
+cond-mat/0210327,"Rain, power laws, and advection",,,,
+cond-mat/0301197,"Time correlations and 1/f behavior in backscattering radar reflectivity
+  measurements from cirrus cloud ice fluctuations",,,,
+math-ph/0208022,A Hamiltonian Formulation for Long Internal Waves,,,,
+math-ph/0307020,"Energy spectra of the ocean's internal wave field: theory and
+  observations",,,,
+math-ph/0505050,Oceanic Internal Wave Field: Theory of Scale-invariant Spectra,,,,
+math/0010256,"Averaging Principle for Quasi-Geostrophic Motions under Rapidly
+  Oscillating Forcing",,,,
+math/0101001,The 3D Quasigeostrophic Fluid Dynamics under Random Forcing on Boundary,,,,
+math/0104142,Ergodicity of Stochastically Forced Large Scale Geophysical Flows,,,,
+math/0104143,Probabilistic Dynamics of Two-Layer Geophysical Flows,,,,
+math/0107025,Hybrid-Cubic-Rational Semi-Lagrangian Method with the Optimal Mixing,,,,
+math/0108085,Dynamics of the Thermohaline Circulation under Wind forcing,,,,
+math/0108086,"Enstrophy Dynamics of Stochastically Forced Large-Scale Geophysical
+  Flows",,,,
+math/0110111,"A conservative semi-Lagrangian method for oscillation-free computation
+  of advection processes",,,,
+math/0701227,Influence of Bottom Topography on Long Water Waves,,,,
+nlin/0009039,"Low-dimensional dynamical system model for observed coherent structures
+  in ocean satellite data",,,,
+nlin/0010043,Local log-law of the wall: numerical evidences and reasons,,,,
+nlin/0101013,"Inverse statistics of smooth signals: the case of two dimensional
+  turbulence",,,,
+nlin/0104055,Freak Waves in Random Oceanic Sea States,,,,
+nlin/0111022,Baroclinic flow and the Lorenz-84 model,,,,
+nlin/0202061,"Universal behaviour of entrainment due to coherent structures in
+  turbulent shear flow",,,,
+nlin/0202064,Buoyant turbulent mixing in shear layers,,,,
+nlin/0203044,Inverse cascade in Charney-Hasegawa-Mima turbulence,,,,
+nlin/0203054,"Instabilities and Spatio-temporal Chaos of Long-wave Hexagon Patterns in
+  Rotating Marangoni Convection",,,,
+nlin/0203056,"Cuspons, peakons and regular gap solitons between three dispersion
+  curves",,,,
+nlin/0204002,Surface Quasigeostrophic Turbulence : The Study of an Active Scalar,,,,
+nlin/0207012,"The Decay of Passive Scalars Under the Action of Single Scale Smooth
+  Velocity Fields in Bounded 2D Domains : From non self similar pdf's to self
+  similar eigenmodes",,,,
+nlin/0209029,"Jets, Stickiness and Anomalous Transport",,,,
+nlin/0209049,Air parcel random walk and droplet spectra broadening in clouds,,,,
+nlin/0303056,"Comparing modern and Pleistocene ENSO-like influences in NW Argentina
+  using nonlinear time series analysis methods",,,,
+nlin/0305055,"Large-Eddy Simulation closures of passive scalar turbulence: a
+  systematic approach",,,,
+nlin/0404041,"Mixing structures in the Mediterranean Sea from Finite-Size Lyapunov
+  Exponents",,,,
+nlin/0505031,"The recurrence time of Dansgaard-Oeschger events and limits on the
+  possible periodic component",,,,
+nlin/0512039,Statistical Equilibria of Uniformly Forced Advection Condensation,,,,
+nlin/0602046,Evidence of fractional transport in point-vortex flow,,,,
+nlin/0605051,"Kinematic studies of transport across an island wake, with application
+  to the Canary islands",,,,
+nlin/0606035,Analytic Model of the Universal Structure of Turbulent Boundary Layers,,,,
+nlin/0607016,Chaotic mixing and transport in a meandering jet flow,,,,
+nlin/0610038,1/f noise and multifractality in atmospheric-CO2 records,,,,
+nlin/0612043,Predictability of El Ni\~no as a Nonlinear Stochastic Limit Cycle,,,,
+physics/0001001,Capillary-gravity wave transport over spatially random drift,,,,
+physics/0001072,Monodisperse approximation in the metastable phase decay,,,,
+physics/0003009,"On the effect of small-scale oceanic variability on topography-generated
+  currents",,,,
+physics/0003010,"A non-linear optimal estimation inverse method for radio occultation
+  measurements of temperature, humidity and surface pressure",,,,
+physics/0003028,"A New Hypothesis for Layers of High Reflectivity Seen in MST Radar
+  Observations",,,,
+physics/0003039,"A fully {\it ab initio} potential curve of near-spectroscopic quality
+  for the OH^- anion: importance of connected quadruple excitations and scalar
+  relativistic effects",,,,
+physics/0005072,Low cloud properties influenced by cosmic rays,,,,
+physics/0006028,"A collision-induced satellite in the Lyman Beta profile due to H-H
+  collisions",,,,
+physics/0006060,Remote sensing of bubble clouds in seawater,,,,
+physics/0006061,"Monte Carlo study of the scattering error of a quartz reflective
+  absorption tube",,,,
+physics/0006063,Asymptotic light field in the presence of a bubble-layer,,,,
+physics/0006064,Improvements of the Discrete Dipole Approximation method,,,,
+physics/0006076,Radiometric force in dusty plasmas,,,,
+physics/0007032,"Chapman's model for ozone concentration: earth`s slowing rotation effect
+  in the atmospheric past",,,,
+physics/0011048,The Case for 2-D Turbulence in Antarctic Data,,,,
+physics/0011074,"Modelling horizontal and vertical concentration profiles of ozone and
+  oxides of nitrogen within high-latitude urban area",,,,
+physics/0101037,"Fast Numerical simulations of 2D turbulence using a dynamic model for
+  Subgrid Motions",,,,
+physics/0103070,Acoustic scattering by a cylinder near a pressure release surface,,,,
+physics/0104041,Beam Measurements of a CLOUD (Cosmics Leaving OUtdoor Droplets) Chamber,,,,
+physics/0104068,Addendum to the CLOUD proposal,,,,
+physics/0104076,CLOUD: an atmospheric research facility at CERN,,,,
+physics/0105006,Statistics of Atmospheric Correlations,,,,
+physics/0106033,"A selection of papers with some relevance to the investigation of the
+  Sun-Climate link: Papers on Data, Methods and Commentary",,,,
+physics/0106038,"Radar equations in the problem of radio wave backscattering during
+  bistatic soundings",,,,
+physics/0106086,Edge waves along a sloping beach,,,,
+physics/0107045,"Wave duration/persistence statistics, recording interval, and fractal
+  dimension",,,,
+physics/0108035,"Evaluating the quality of ground-based microwave radiometer measurements
+  and retrievals using detrended fluctuation and spectral analysis methods",,,,
+physics/0108036,"The heats of formation of the haloacetylenes XCCY [X, Y = H, F, Cl]:
+  basis set limit ab initio results and thermochemical analysis",,,,
+physics/0110009,On the Doppler distortion of the sea-wave spectra,,,,
+physics/0110083,"Relationship between sunspot number and total annual precipitation at
+  Izana (Tenerife): Maximum precipitation prediction with three year lagged
+  sunspots?",,,,
+physics/0111143,Steep sharp-crested gravity waves on deep water,,,,
+physics/0112063,On the statistics of wind gusts,,,,
+physics/0201032,"Solar Activity and Cloud Opacity Variations: A Modulated Cosmic-Ray
+  Ionization Model",,,,
+physics/0202007,Universality and Scale Invariance in Hourly Rainfall,,,,
+physics/0202008,The stochastic resonance mechanism in the Aerosol Index dynamics,,,,
+physics/0202012,Temperature reconstruction analysis,,,,
+physics/0202047,"Statistics of temperature fluctuations in a buoyancy dominated boundary
+  layer flow simulated by a Large-eddy simulation model",,,,
+physics/0203052,Water wave propagation and scattering over topographical bottoms,,,,
+physics/0204002,Weakly non-linear analysis of wind-driven gravity waves,,,,
+physics/0204050,Soliton self-modulation of the turbulence amplitude and plasma rotation,,,,
+physics/0206085,Tidal theory of the thermal wind,,,,
+physics/0207036,"Tollmien-Shlichting and sound waves interaction: general description and
+  nonlinear resonances",,,,
+physics/0207097,A Kalman Filter for Ocean Monitoring,,,,
+physics/0208001,"Towards a model of incoherent scatter signal spectra without averaging
+  over sounding runs",,,,
+physics/0208003,Towards a new technique of incoherent scatter signal processing,,,,
+physics/0208032,Stability of Rossby waves in the beta-plane approximation,,,,
+physics/0208043,On the origin of plankton patchiness,,,,
+physics/0209095,Model for optical forward scattering by nonspherical raindrops,,,,
+physics/0210008,Large Scale Weather Control Using Nuclear Reactors,,,,
+physics/0211070,"Temperature, precipitation and extreme events during the last century in
+  Italy",,,,
+physics/0211092,Phase Synchronization in Temperature and Precipitation Records,,,,
+physics/0211115,"Atmospheric Gravity Perturbations Measured by Ground-Based
+  Interferometer with Suspended Mirrors",,,,
+physics/0212042,"Power-law persistence and trends in the atmosphere: A detailed study of
+  long temperature records",,,,
+physics/0212096,"Submarine landslides and local tsunami waves (Corinthos Gulf, Greece)",,,,
+physics/0302007,Using data assimilation in laboratory experiments of geophysical flows,,,,
+physics/0304037,Scattering of the acoustic waves on finite cylindrical covers,,,,
+physics/0304080,"Forced Stratified Turbulence: Successive Transitions with Reynolds
+  Number",,,,
+physics/0304114,"Stability of Semi-Implicit and Iterative Centred-Implicit Time
+  Discretizations for Various Equation Systems Used in NWP",,,,
+physics/0305028,"Fractional Fourier approximations for potential gravity waves on deep
+  water",,,,
+physics/0305071,"Relation of Atmosphere Surface Pressure Fluctuations with Geomagnetic
+  and Cosmic Factors",,,,
+physics/0305080,"Comment on ""Scaling of atmosphere and ocean temperature correlations in
+  observations and climate models""",,,,
+physics/0306183,"The fractional Brownian motion property of the turbulent refractive
+  within Geometric Optics",,,,
+physics/0307142,Deep ocean influence on upper ocean baroclinic instability saturation,,,,
+physics/0308057,"A New Framework for the Assessment and Calibration of Medium Range
+  Ensemble Temperature Forecasts",,,,
+physics/0309047,The Richardson's Law in Large-Eddy Simulations of Boundary Layer flows,,,,
+physics/0309073,"Lagrangian turbulence in the Adriatic Sea as computed from drifter data:
+  effects of inhomogeneity and nonstationarity",,,,
+physics/0310021,"Five guidelines for the evaluation of site-specific medium range
+  probabilistic temperature forecasts",,,,
+physics/0310092,The GNSS-R Eddy Experiment I: Altimetry from Low Altitude Aircraft,,,,
+physics/0310103,"The dependence of relative dispersion on turbulence scales in Lagrangian
+  Stochastic Models",,,,
+physics/0311083,Fractal rain distributions and chaotic advection,,,,
+physics/0311123,"Stability of leap-frog constant-coefficients semi-implicit schemes for
+  the fully elastic system of Euler equations. Flat-terrain case",,,,
+physics/0311124,"On the Use of a Wider Class of Linear Systems for the Design of
+  Constant-Coefficients Semi-Implicit Time-Schemes in NWP",,,,
+physics/0312077,"Evidence for a k^{-5/3} spectrum from the EOLE Lagrangian balloons in
+  the low stratosphere",,,,
+physics/0312122,On electromagnetic models of ball lightning with topological structure,,,,
+physics/0401066,Statistical Physics in Meteorology,,,,
+physics/0401119,"On the sensitivity of coastal quasigeostrophic edge wave interaction to
+  bottom boundary characteristics: possible implications for eddy
+  parameterizations",,,,
+physics/0402047,Effective viscosity of grease ice in linearized gravity waves,,,,
+physics/0403120,"Detrended fluctuation analysis of daily temperature records: Geographic
+  dependence over Australia",,,,
+physics/0404094,The Molecular Diffusion of Ice Crystals of Various Shapes,,,,
+physics/0404099,Critical Exponents and Universality in Fully Developed Turbulence,,,,
+physics/0407005,The glacial cycles and cosmic rays,,,,
+physics/0407052,"Force measurements in positive unipolar wire-to-plane corona discharges
+  in air",,,,
+physics/0407066,"Latitudinal dependence of low cloud amount on cosmic ray induced
+  ionization",,,,
+physics/0407091,Detection of coherent reflections with GPS bipath interferometry,,,,
+physics/0407145,"Statistics of the seasonal cycle of the 1951-2000 surface temperature
+  records in Italy",,,,
+physics/0407147,"Destabilization of the thermohaline circulation by transient
+  perturbations to the hydrological cycle",,,,
+physics/0408004,"Flux scaling and plume structure in high Ra - high Sc turbulent
+  convection",,,,
+physics/0408061,"Solution of a Model for the Oceanic Pycnocline Depth: Scaling of
+  Overturning Strength and Meridional Pressure Difference",,,,
+physics/0409001,"Exact periodic solutions of the Liouville equation and the ""snake"" of
+  density in JET",,,,
+physics/0409012,A Gauge Condition for Studying the Origin of Intrinsic Magnetospheres,,,,
+physics/0409123,"On climate response to changes in the cosmic ray flux and radiative
+  budget",,,,
+physics/0410003,"Leaking method approach to surface transport in the Mediterranean Sea
+  from a numerical ocean model",,,,
+physics/0411201,Rain initiation time in turbulent warm clouds,,,,
+physics/0411248,"Piecewise continuous partition function method in the theory of wave
+  perturbations of inhomogeneous gas",,,,
+physics/0412170,"Ray-based description of normal mode amplitudes in a range-dependent
+  waveguide",,,,
+physics/0501104,"Characterization of laser propagation through turbulent media by
+  quantifiers based on the wavelet transform: dynamic study",,,,
+physics/0501105,Wavelet entropy and fractional Brownian motion time series,,,,
+physics/0501158,"On the dependence of third- and fourth-order moments on stability in the
+  turbulent boundary layer",,,,
+physics/0502085,"Global monitoring of tropospheric water vapor with GPS radio occultation
+  aboard CHAMP",,,,
+physics/0502134,"Large-Eddy Simulation of Stably Stratified Atmospheric Boundary Layer
+  Turbulence: A Scale-Dependent Dynamic Modeling Approach",,,,
+physics/0503073,Generalized Set of Boussinesq equations for Surf Zone Region,,,,
+physics/0503201,Steady f-plane circulation in basins with saddle-point bathymetry,,,,
+physics/0503241,On Holmboe's instability for smooth shear and density profiles,,,,
+physics/0504108,"Observation of the atmospheric sodium layer with a magneto-optical
+  filter (MOF)",,,,
+physics/0504203,Fine structure generation in double-diffusive system,,,,
+physics/0505083,Radar scattering by aggregate snowflakes,,,,
+physics/0506080,"Avoided crossings in three coupled oscillators as a model system of
+  acoustic bubbles",,,,
+physics/0506116,"Persistence in a Simple Model for the Earth's Atmosphere Temperature
+  Fluctuations",,,,
+physics/0507057,"Numerical integration of the discrete-ordinate radiative transfer
+  equation in strongly non homogeneous media",,,,
+physics/0508141,"Automated Chirp Detection with Diffusion Entropy: Application to
+  Infrasound from Sprites",,,,
+physics/0509086,"Revisiting the Local Scaling Hypothesis in Stably Stratified Atmospheric
+  Boundary Layer Turbulence: an Integration of Field and Laboratory
+  Measurements with Large-eddy Simulations",,,,
+physics/0509088,"On the Role of Global Warming on the Statistics of Record-Breaking
+  Temperatures",,,,
+physics/0509248,"Estimate solar contribution to the global surface warming using the
+  ACRIM TSI satellite composite",,,,
+physics/0510042,Atmospheric hypotheses' of Earth's global warming,,,,
+physics/0510211,Seasonal Change of the Ozone Layer State over Yakutia,,,,
+physics/0511203,"Subgrid-scale modeling of reacting scalar fluxes in large-eddy
+  simulations of atmospheric boundary layers",,,,
+physics/0512241,"Appropriateness of correlated first order auto-regressive processes for
+  modeling daily temperature records",,,,
+physics/0601182,"Raman observations of quantum interference in the $\nu_1 / 2\nu_2$ Fermi
+  dyad region of carbon dioxide",,,,
+physics/0603083,El Nino and the Delayed Action Oscillator,,,,
+physics/0603177,General stability criteria for inviscid rotating flow,,,,
+physics/0603195,An explanation for the lack of trend in the hurricane frequency,,,,
+physics/0604022,A Qualitative Description of Boundary Layer Wind Speed Records,,,,
+physics/0604059,"Scaling laws for the tropical cyclone derived from the stationary
+  atmospheric vortex equation",,,,
+physics/0604158,"Rainfall Advection using Velocimetry by Multiresolution Viscous
+  Alignment",,,,
+physics/0605050,Humidity contribution to the refractive index structure function C_n^2,,,,
+physics/0605059,"Applying the Hilbert--Huang Decomposition to Horizontal Light
+  Propagation C_n^2 data",,,,
+physics/0605177,"Impact of Boundary Conditions on Entrainment and Transport in Gravity
+  Currents",,,,
+physics/0606099,Technical Note on POlarimetric Phase Interferometry (POPI),,,,
+physics/0606114,Approximate Equations for Large Scale Atmospheric Motions,,,,
+physics/0607045,Self-Similarity in Decaying Two-Dimensional Stably Stratified Adjustment,,,,
+physics/0607146,High-Frequency Acoustic Sediment Classification in Shallow Water,,,,
+physics/0607243,The remapped particle-mesh advection scheme,,,,
+physics/0608077,Persistent Transport Barrier on the West Florida Shelf,,,,
+physics/0608105,"Lagrangian transport through an ocean front in the North-Western
+  Mediterranean Sea",,,,
+physics/0608144,"Theory and observations of ice particle evolution in cirrus using
+  Doppler radar: evidence for aggregation",,,,
+physics/0608159,"Comparison of Two Scale-Dependent Dynamic Subgrid-Scale Models for
+  Simulations of Neutrally Buoyant Shear-Driven Atmospheric Boundary Layer
+  Flows",,,,
+physics/0608167,Electricity Real Options Valuation,,,,
+physics/0608178,Evolution of surface gravity waves over a submarine canyon,,,,
+physics/0609005,Single Member Selection in Ensemble Forecasting,,,,
+physics/0609132,Atmosphere-like turbulence generation with surface-etched phase-screens,,,,
+physics/0609247,"Photoionization in negative streamers: fast computations and two
+  propagation modes",,,,
+physics/0609256,A novel internal waves generator,,,,
+physics/0610016,Zonal flow generation by modulational instability,,,,
+physics/0610038,The capacitance of pristine ice crystals and aggregate snowflakes,,,,
+physics/0610070,Numerical analysis of frazil ice formation in turbulent convection,,,,
+physics/0611053,"Spatial Correlation Functions of Random Electromagnetic Fields in the
+  Presence of a Semi-Infinite Isotropic Medium",,,,
+physics/0611054,Unbalanced instabilities of rapidly rotating stratified shear flows,,,,
+physics/0611111,Bifurcation and Stability of Two-Dimensional Double-Diffusive Convection,,,,
+physics/0611123,Dynamics of tsunami waves,,,,
+physics/0611140,"Comparison between three-dimensional linear and nonlinear tsunami
+  generation models",,,,
+physics/0611182,Linear theory of wave generation by a moving bottom,,,,
+physics/0611228,Water waves generated by a moving bottom,,,,
+physics/0612094,Can we believe in high climate sensitivity?,,,,
+physics/0612145,The Antarctic climate anomaly and galactic cosmic rays,,,,
+physics/0701103,"Super-Droplet Method for the Numerical Simulation of Clouds and
+  Precipitation: a Particle-Based Microphysics Model Coupled with
+  Non-hydrostatic Model",,,,
+physics/0701219,"Estimating Intermittency Exponent in Neutrally Stratified Atmospheric
+  Surface Layer Flows: A Robust Framework based on Magnitude Cumulant and
+  Surrogate Analyses",,,,
+physics/0701301,Tidal pattern instabilities on multi-moon planets,,,,
+physics/0702002,"Perfect energy transfer and mean-eddy interaction in incompressible
+  fluid flows",,,,
+physics/0702037,Onset of unsteady horizontal convection in rectangle tank at $Pr=1$,,,,
+physics/0702081,Universality of the rainfall phenomenon,,,,
+physics/0702083,"The sensitivity and stability of the ocean's thermohaline circulation to
+  finite amplitude perturbations",,,,
+physics/0702125,Clustering of Aerosols in Atmospheric Turbulent Flow,,,,
+physics/0702133,"A Comparison of Two Shallow Water Models with Non-Conforming Adaptive
+  Grids: classical tests",,,,
+physics/0702229,Acceleration of hydrodynamic vortices in open systems,,,,
+physics/0703192,Dissipative Boussinesq equations,,,,
+physics/0703195,"Implementation of the LANS-alpha turbulence model in a primitive
+  equation ocean model",,,,
+physics/9610002,Comment on Enhanced TKE Dissipation under Breaking Waves,,,,
+physics/9610011,The Non-Organic Theory of the Genesis of Petroleum,,,,
+physics/9610021,"On the mechanism of decadal oscillations in a coarse resolution ocean
+  model",,,,
+physics/9703026,A comparison of two operational wave assimilation methods,,,,
+physics/9707022,Buoyancy driven rotating boundary currents,,,,
+physics/9712007,Chemical dynamics versus transport dynamics in a simple model,,,,
+physics/9803031,A model study of corona emission from hydrometeors,,,,
+physics/9807026,"A PIM-aided Kalman Filter for GPS Tomography of the Ionospheric Electron
+  Content",,,,
+physics/9812040,On the El-Nino Teleconnection to Spring Precipitation in Europe,,,,
+physics/9901004,4D Tropospheric Tomography using GPS Estimated Slant Delays,,,,
+physics/9904060,"The Energetic Implications of Using Deforming Reference Descriptions to
+  Simulate the Motion of Incompressible, Newtonian Fluids",,,,
+physics/9905001,"Finite Element Simulation of the Motion of a Rigid Body in a Fluid with
+  Free Surface",,,,
+physics/9907006,"Analysis of Water Vapor spatio-temporal structure over the Madrid Area
+  using GPS data",,,,
+physics/9908064,"The Energetic Implications of the Time Discretisation in Implementations
+  of the A.L.E. Equations",,,,
+physics/9908065,Incipient Motion Criteria for a Rigid Sediment Grain on a Rigid Surface,,,,
+physics/9911072,On acoustic cavitation of slightly subcritical bubbles,,,,
+physics/9912030,"Radiation of mixed layer near-inertial oscillations into the ocean
+  interior",,,,

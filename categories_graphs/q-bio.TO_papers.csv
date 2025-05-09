@@ -1,0 +1,116 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+q-bio/0506019,"Hierarchy, Fractality, Small-World and Resilience of Haversian Bone
+  Structure: A Complex Network Study",1.1170658396830089e-05,0.0,4.0,0.0
+q-bio/0510044,Long-range dependencies in heart rate signals- revisited,3.62335329328243e-06,0.0,2.0,0.0
+q-bio/0507001,Characterizing Polygonality in Biological Structures,3.431182950920907e-06,0.0,2.0,0.0
+physics/0310125,"Response of Autonomic Nervous System to Body Positions: Fourier and
+  Wavelet Analysis",3.3749066596554898e-06,0.0,1.0,0.0
+q-bio/0404001,Towards comparative theoretical neuroanatomy of the cerebral cortex,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0008016,Heart Rate Variability: Measures and Models,2.4711431321721443e-06,0.0,1.0,1.0
+nlin/0207061,Termination of Reentry in an Inhomogeneous Ring of Model Cardiac Cells,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0412040,Energetic model of tumor growth,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0601009,"Adhesion between cells, diffusion of growth factors, and elasticity of
+  the AER produce the paddle shape of the chick limb",2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0411048,"Evolutionary dynamics of adult stem cells: Comparison of random and
+  immortal strand segregation mechanisms",2.042326787929842e-06,0.0,1.0,0.0
+q-bio/0312001,"A continuum treatment of growth in biological tissue: The coupling of
+  mass transport and mechanics",1.8950380516170012e-06,0.0,1.0,0.0
+q-bio/0506023,"Biological remodelling: Stationary energy, configurational change,
+  internal variables and dissipation",1.8950380516170012e-06,0.0,1.0,0.0
+q-bio/0412042,The complex channel networks of bone structure,1.6533601125823191e-06,0.0,1.0,1.0
+nlin/0107070,Spatiotemporal dynamics of pacing in models of anatomical reentry,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0312002,Material forces in the context of biotissue remodelling,1.3189329710618589e-06,0.0,0.0,2.0
+q-bio/0409032,Intensity Coding in Two-Dimensional Excitable Neural Networks,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0402100,"Phase shifts of synchronized oscillators and the systolic/diastolic
+  blood pressure relation",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0507016,"Spectral Detrended Fluctuation Analysis and Its Application to Heart
+  Rate Variability Assessment",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0604008,Tumors under periodic therapy -- Role of the immune response time delay,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0109472,A reaction-diffusion model for the growth of avascular tumor,,,,
+cond-mat/0111346,Williams and Bjerknes model with growth limitation,,,,
+cond-mat/0111552,"Instability and Spatiotemporal Dynamics of Alternans in Paced Cardiac
+  Tissue",,,,
+cond-mat/0212634,"Morphology transitions induced by chemotherapy in carcinomas ""in situ""",,,,
+cond-mat/0307242,Dynamics of Pulsed Flow in an Elastic Tube,,,,
+cond-mat/0309239,Fighting cancer with virus,,,,
+cond-mat/0402551,Pacman percolation: a model for enzyme gel degradation,,,,
+cond-mat/0608363,"Tuning gastropod locomotion: Modeling the influence of mucus rheology on
+  the cost of crawling",,,,
+math/0702886,"Travelling-wave analysis of a model describing tissue degradation by
+  bacteria",,,,
+nlin/0104011,"Defibrillation via the Elimination of Spiral Turbulence in a Model for
+  Ventricular Fibrillation",,,,
+nlin/0406046,"Terminating ventricular tachycardia by pacing induced dynamical
+  inhomogeneities in the reentry circuit",,,,
+nlin/0406047,"Controlling spatiotemporal chaos in excitable media by local biphasic
+  stimulation",,,,
+nlin/0606026,"Spiral-wave Dynamics Depends Sensitively on nhomogeneities in
+  Mathematical Models of Ventricular Tissue",,,,
+physics/0011002,A Historical Perspective on Cancer,,,,
+physics/0310031,"Alternans amplification following a two-stimulations protocol in a
+  one-dimensional cardiac ionic model of reentry: from annihilation to
+  double-wave quasiperiodic reentry",,,,
+physics/0401079,"Optimizing the vertebrate vestibular semicircular canal: could we
+  balance any better?",,,,
+physics/9904067,Dynamics of lattice spins as a model of arrhythmia,,,,
+q-bio/0310002,"Deriving the respiratory sinus arrhythmia from the heartbeat time series
+  using Empirical Mode Decomposition",,,,
+q-bio/0311029,"Dynamical Systems Basis of Metamorphosis: Diversity and Plasticity of
+  Cellular States in Reaction Diffusion Network",,,,
+q-bio/0402032,Complex dynamics of the biological rhythms: gallbladder and heart cases,,,,
+q-bio/0403006,"An ordinary differential equation model for the multistep transformation
+  to cancer",,,,
+q-bio/0404034,Dynamics of Acute Inflammation,,,,
+q-bio/0406001,On tumor development: fractional transport approach,,,,
+q-bio/0407016,An ionically based mapping model with memory for cardiac restitution,,,,
+q-bio/0407027,"The role of M cells and the long QT syndrome in cardiac arrhythmias:
+  simulation studies of reentrant excitations using a detailed
+  electrophysiological model",,,,
+q-bio/0407029,"Multicellular Tumor Spheroid in an off-lattice Voronoi/Delaunay cell
+  model",,,,
+q-bio/0409002,"Periodic Oscillations of Blood Cell Populations in Chronic Myelogenous
+  Leukemia",,,,
+q-bio/0409003,Oscillations in a maturation model of blood cell production,,,,
+q-bio/0409039,Critical Scale-invariance in Healthy Human Heart Rate,,,,
+q-bio/0411020,A Field Approach to 3D Gene Expression Pattern Characterization,,,,
+q-bio/0411032,"Signal processing of acoustic signals in the time domain with an active
+  nonlinear nonlocal cochlear model",,,,
+q-bio/0411037,"Remodeling of biological tissue: Mechanically induced reorientation of a
+  transversely isotropic chain network",,,,
+q-bio/0502004,Telomere loss limits the rate of human epithelial tumor formation,,,,
+q-bio/0502036,Morphogen Gradient from a Noisy Source,,,,
+q-bio/0503021,"Comments on ""Structural dynamics and resonance in plants with nonlinear
+  stiffness""",,,,
+q-bio/0504009,Dynamics of conduction blocks in a model of paced cardiac tissue,,,,
+q-bio/0507042,"Signal analysis of impulse response functions in MR- and CT-measurements
+  of cerebral blood flow",,,,
+q-bio/0507043,Flow correlated percolation during vascular network formation in tumors,,,,
+q-bio/0510034,Bending a slab of neural tissue,,,,
+q-bio/0511011,"Finding the center reliably: robust patterns of developmental gene
+  expression",,,,
+q-bio/0511023,Mathematical modeling of the GnRH pulse and surge generator,,,,
+q-bio/0603009,Stochastic models for tumoral growth,,,,
+q-bio/0603016,"Influence of stochastic delays in Seidel-Herzel model of human
+  cardiorespiratory system",,,,
+q-bio/0603032,"Feedback Medicine: Control Systems Concepts in Personalised, Predictive
+  Medicine and Combinatorial Intervention",,,,
+q-bio/0605035,A continuous model for cell sorting,,,,
+q-bio/0607019,"Evidence for an unfolded border-collision bifurcation in paced cardiac
+  tissue",,,,
+q-bio/0607030,Multi-scale modeling of follicular ovulation as a reachability problem,,,,
+q-bio/0607041,"Amplitude equation approach to spatiotemporal dynamics of cardiac
+  alternans",,,,
+q-bio/0607047,"Asymptotic analysis and analytical solutions of a model of cardiac
+  excitation",,,,
+q-bio/0608031,Geometrical approach to tumor growth,,,,
+q-bio/0611045,"Phase transition in the collective migration of tissue cells: experiment
+  and model",,,,
+q-bio/0611046,An analysis of B cell selection mechanisms in germinal centers,,,,
+q-bio/0611057,"Modeling emergent tissue organization involving high-speed migrating
+  cells in a flow equilibrium",,,,
+q-bio/0611058,Mechanisms of organogenesis of primary lymphoid follicles,,,,
+q-bio/0701003,"The micromechanics of fluid-solid interactions during growth in porous
+  soft biological tissue",,,,
+q-bio/0701006,Elastica-based strain energy functions for soft biological tissue,,,,
+q-bio/0703007,"Simcluster: clustering enumeration gene expression data on the simplex
+  space",,,,

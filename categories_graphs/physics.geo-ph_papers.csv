@@ -1,0 +1,633 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+physics/0505008,Socioeconomic development and stability: A complex network blueprint,3.870907628082788e-05,0.0,29.0,0.0
+hep-ph/0612002,On in situ Determination of Earth Matter Density in Neutrino Factory,2.053931707855313e-05,6.73256265619632e-07,54.0,2.0
+physics/0602049,"Neutrino tomography - Learning about the Earth's interior using the
+  propagation of neutrinos",1.6366307619284377e-05,7.933752108188866e-08,45.0,2.0
+astro-ph/0602092,Do extragalactic cosmic rays induce cycles in fossil diversity?,1.5808809605568053e-05,0.0,7.0,0.0
+astro-ph/0610725,UHE Cosmic Rays and Neutrinos Showering on Planet Edges,1.4106254320979078e-05,2.059115113305794e-06,9.0,2.0
+astro-ph/0205286,MHD Turbulence: Scaling Laws and Astrophysical Implications,1.353522274472162e-05,5.765923004238475e-05,14.0,21.0
+astro-ph/0308336,Critical Magnetic Prandtl Number for Small-Scale Dynamo,1.199111616484847e-05,4.062629372828047e-06,3.0,3.0
+gr-qc/0410110,"Some comments about a recent paper on the measurement of the general
+  relativistic Lense-Thirring effect in the gravitational field of the Earth
+  with the laser-ranged LAGEOS and LAGEOS II satellites",1.0912384095351636e-05,7.960731020640288e-06,10.0,2.0
+physics/0606001,Theory of Earthquake Recurrence Times,8.574983071483941e-06,3.980365510320144e-06,2.0,1.0
+hep-ph/0501111,"How much Uranium is in the Earth? Predictions for geo-neutrinos at
+  KamLAND",8.319587764718592e-06,2.947516201637666e-06,16.0,4.0
+math-ph/0702063,"Dirichlet integral point-source harmonic interpolation over
+  ${\mathbb{R}}^3$ spherical interiors: DIDACKS II",7.436101577256827e-06,1.990182755160072e-06,4.0,1.0
+hep-ph/0207238,Tomography of the Earth's Core Using Supernova Neutrinos,7.228415292155637e-06,4.060055349589186e-06,35.0,9.0
+astro-ph/0506427,"The theory of canonical perturbations applied to attitude dynamics and
+  to the Earth rotation. Osculating and nonosculating Andoyer variables",7.133469941690306e-06,0.0,7.0,3.0
+physics/0507024,"Renormalization of the ETAS branching model of triggered seismicity from
+  total to observable seismicity",6.666210752195625e-06,5.970548265480216e-06,5.0,1.0
+cond-mat/0406198,Scaling and precursor motifs in earthquake networks,6.565376694987771e-06,1.7938696854146713e-05,3.0,4.0
+physics/0509118,Why dynamos are prone to reversals,5.909289359817755e-06,1.967661152967682e-06,5.0,4.0
+physics/0005003,M\'etodos Estoc\'asticos em Turbul\^encia Desenvolvida,5.79773476389785e-06,0.0,6.0,0.0
+hep-ph/0502154,Geotomography with solar and supernova neutrinos,5.66973106763302e-06,9.588020871647159e-10,19.0,2.0
+astro-ph/0601711,Gamma-ray bursts and terrestrial planetary atmospheres,5.438825304404756e-06,0.0,4.0,0.0
+physics/0412043,Power law distribution of seismic rates: theory and data,5.404701147581345e-06,5.970548265480216e-06,7.0,4.0
+gr-qc/0408091,Geophysical studies with laser-beam detectors of gravitational waves,5.240762905933321e-06,1.945630958431813e-06,3.0,1.0
+astro-ph/0205282,Compressible Sub-Alfvenic MHD turbulence in Low-beta Plasmas,5.220711219127985e-06,1.990182755160072e-06,2.0,2.0
+gr-qc/0701159,"Reply to ``On the Systematic Errors in the Detection of the
+  Lense-Thirring Effect with a Mars Orbiter '', by Giampiero Sindoni, Claudio
+  Paris and Paolo Ialongo",5.201573552372713e-06,0.0,3.0,2.0
+physics/0501102,"Distribution of the Largest Aftershocks in Branching Models of Triggered
+  Seismicity: Theory of the Universal Bath's law",5.130685208194862e-06,0.0,5.0,1.0
+cond-mat/0306561,"Detecting mirror matter on Earth via its thermal imprint on ordinary
+  matter",4.98130650213454e-06,2.3433888117359695e-07,20.0,10.0
+hep-ph/0508048,KamLAND results and the radiogenic terrestrial heat,4.899697501726562e-06,0.0,5.0,2.0
+cond-mat/0505274,Realistic time correlations in sandpiles,4.887897699676504e-06,6.217935082459405e-06,2.0,4.0
+physics/0702145,Numerical Verification of the Weak Turbulent Model for Swell Evolution,4.881437893292031e-06,0.0,7.0,0.0
+hep-ph/0409152,Geo-Neutrinos: a short review,4.734319876841041e-06,1.6850560667817312e-06,13.0,3.0
+astro-ph/9702026,"Reply to astro-ph/9612003 (""Comments on 'Biological Effects of Stellar
+  Collapse Neutrinos'"") and astro-ph/9612214 (""Volcanogenic Dark Matter and
+  Mass Extinctions"")",4.596730396424545e-06,0.0,5.0,0.0
+gr-qc/0701146,"On the Lense-Thirring test with the Mars Global Surveyor in the
+  gravitational field of Mars",4.537994401142542e-06,5.426802287670563e-07,2.0,1.0
+gr-qc/0608119,"An assessment of the measurement of the Lense-Thirring effect in the
+  Earth gravity field, in reply to: ``On the measurement of the Lense-Thirring
+  effect using the nodes of the LAGEOS satellites, in reply to ``On the
+  reliability of the so far performed tests for measuring the Lense-Thirring
+  effect with the LAGEOS satellites'' by L. Iorio,'' by I. Ciufolini and E.
+  Pavlis",4.397801212448987e-06,0.0,8.0,0.0
+astro-ph/0409282,"On the theory of canonical perturbations and its application to Earth
+  rotation",4.155752087286715e-06,0.0,5.0,2.0
+cond-mat/0507559,Mechanical Spectroscopy on Volcanic Glasses,4.112851992002675e-06,0.0,2.0,0.0
+physics/0408018,Complex networks of earthquakes and aftershocks,3.84947242949996e-06,2.22781651697023e-08,2.0,4.0
+physics/0411114,"Constraints on the Size of the Smallest Triggering Earthquake from the
+  ETAS Model, Baath's Law, and Observed Aftershock Sequences",3.8102872171856233e-06,0.0,5.0,5.0
+hep-ph/0105293,"Reconstruction of the Earth's matter density profile using a single
+  neutrino baseline",3.792618384355552e-06,9.111531455050376e-07,21.0,11.0
+physics/0603205,"Electro-Magnetic Earthquake Bursts and Critical Rupture of Peroxy Bond
+  Networks in Rocks",3.79188226127184e-06,0.0,2.0,0.0
+physics/0212046,"Degradation of signals and operation failures of radio engineering
+  satellite systems during geospace disturbances accompanied by abrupt changes
+  in the geomagnetic field",3.7325727755918313e-06,0.0,3.0,0.0
+physics/0501049,"Apparent Clustering and Apparent Background Earthquakes Biased by
+  Undetected Seismicity",3.6714325477469887e-06,0.0,3.0,3.0
+gr-qc/0203050,"The impact of the static part of the Earth's gravity field on some tests
+  of General Relativity with Satellite Laser Ranging",3.579667812285033e-06,2.0520665472981337e-06,2.0,2.0
+physics/0609071,"Fast Spatial Prediction from Inhomogeneously Sampled Data Based on
+  Generalized Random Fields with Gibbs Energy Functionals",3.4930843036925227e-06,0.0,2.0,0.0
+hep-ph/0308175,Discriminating among Earth composition models using geo-antineutrinos,3.3349815211843576e-06,6.06912635758434e-07,7.0,8.0
+cond-mat/0603335,Spatiotemporal Correlations of Earthquakes,3.248926929025669e-06,9.95091377580036e-06,3.0,4.0
+physics/0303075,Are Aftershocks of Large Californian Earthquakes Diffusing?,3.227767881192724e-06,0.0,3.0,0.0
+physics/0607230,A geoneutrino experiment at Homestake,3.187996163750563e-06,0.0,1.0,0.0
+nlin/0612001,Clustering of matter in waves and currents,3.184136626732937e-06,0.0,2.0,0.0
+physics/0601011,A paradigmatic model of Earth's magnetic field reversals,3.021458149491422e-06,0.0,3.0,1.0
+physics/0007095,"Re-examination of log-periodicity observed in the seismic precursors of
+  the 1989 Loma Prieta earthquake",2.9592221093737703e-06,0.0,2.0,0.0
+cond-mat/0605014,"Rate- and State-Dependent Friction Law and Statistical Properties of
+  Earthquakes",2.907256108341601e-06,0.0,2.0,0.0
+astro-ph/0201018,Evidence for Nearby Supernova Explosions,2.855213185875573e-06,0.0,2.0,0.0
+physics/0410046,Numerical study of dynamo action at low magnetic Prandtl numbers,2.831005156609744e-06,9.95091377580036e-06,2.0,3.0
+physics/0412050,Power Law Distributions of Seismic Rates,2.792128819767028e-06,0.0,2.0,0.0
+hep-ph/0301042,"KamLAND, terrestrial heat sources and neutrino oscillations",2.741482853651527e-06,3.928415465786496e-06,10.0,14.0
+gr-qc/0411024,"On the reliability of the so far performed tests for measuring the
+  Lense-Thirring effect with the LAGEOS satellites",2.724378429663423e-06,3.161952475848935e-06,3.0,3.0
+hep-ph/0406001,"Imaging the Earth's Interior: the Angular Distribution of Terrestrial
+  Neutrinos",2.6991724346710696e-06,5.290429210237983e-07,10.0,5.0
+hep-ph/0502097,"Probing the absolute density of the Earth's core using a vertical
+  neutrino beam",2.668004913842741e-06,1.0404458111060367e-07,5.0,9.0
+physics/0307134,Intercluster Correlation in Seismicity,2.651662800637581e-06,3.980365510320144e-06,2.0,2.0
+physics/0405045,Convective plan-form two-scale dynamos in a plane layer,2.6424742728882804e-06,0.0,2.0,0.0
+physics/0210130,Foreshocks Explained by Cascades of Triggered Seismicity,2.523923163327424e-06,9.95091377580036e-06,3.0,3.0
+cond-mat/0310479,Binomial multiplicative model of critical fragmentation,2.4711431321721443e-06,0.0,1.0,3.0
+physics/0510043,"Dynamics of the Markov Time Scale of Seismic Activity May Provide a
+  Short-Term Alert for Earthquakes",2.4711431321721443e-06,0.0,1.0,3.0
+physics/0201045,"Phenomenological model of propagation of the elastic waves in a
+  fluid-saturated porous solid with non-zero boundary slip velocity",2.4711431321721443e-06,0.0,1.0,0.0
+nlin/0411054,Anomalous transport in Charney-Hasegawa-Mima flows,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0611145,Statistical mechanics of interacting fiber bundles,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0105023,"Forces at the Sea Bed using a Finite Element Solution of the Mild Slope
+  Wave Equation",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0609228,"Seismic motion in urban sites consisting of blocks in welded contact
+  with a soft layer overlying a hard half space: I. Finite set of blocks",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0412008,On the Conductivity of a Magnetoactive Turbulent Plasma,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0501087,"A Bayesian Estimator for Linear Calibration Error Effects in Thermal
+  Remote Sensing",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0410018,A 15.2 TFlops Simulation of Geodynamo on the Earth Simulator,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0502048,The occupation of a box as a toy model for the seismic cycle of a fault,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0204004,An additional planet as a model for the Pleistocene Ice Age,2.45681590910315e-06,0.0,2.0,2.0
+astro-ph/9910265,Signals of Supersymmetric Dark Matter,2.454248668607861e-06,0.0,1.0,0.0
+physics/0209070,"A correlation between Earth's inclinations and the times of the cold
+  events recorded in Devils Hole climate data",2.4496522975686527e-06,0.0,1.0,1.0
+hep-ph/0111247,Could One Find Petroleum Using Neutrino Oscillations in Matter?,2.407867292462932e-06,1.0874379202210909e-07,11.0,6.0
+astro-ph/9910187,Evidence for Compact Dark Matter in Galactic Halos,2.361384404329988e-06,9.400197662613386e-05,7.0,2.0
+physics/0304035,A model for rapid stochastic distortions of small-scale turbulence,2.351106830767793e-06,0.0,2.0,5.0
+cond-mat/0409770,"Crossover of the weighted mean fragment mass scaling in 2D brittle
+  fragmentation",2.3250759188967937e-06,0.0,2.0,0.0
+cond-mat/0507287,Explosive fragmentation of thin ceramic tube using pulsed power,2.3250759188967937e-06,0.0,2.0,0.0
+astro-ph/9805317,Anoxia duirng the Late Permian Binary Mass Extinction and Dark Matter,2.2960610328299915e-06,0.0,2.0,0.0
+physics/0404111,Interevent time distribution in seismicity: a theoretical approach,2.1301094369203035e-06,0.0,2.0,0.0
+gr-qc/0701042,"Testing frame-dragging with the Mars Global Surveyor spacecraft in the
+  gravitational field of Mars",2.0782213872530173e-06,5.4153653085093165e-06,2.0,6.0
+physics/0701026,Reversals in nature and the nature of reversals,2.0456653061975597e-06,0.0,1.0,1.0
+physics/0210056,Is Earthquake Triggering Driven by Small Earthquakes?,2.039666735822465e-06,0.0,1.0,3.0
+gr-qc/0412044,"The challenge to reliably measure the general relativistic
+  Lense-Thirring effect with a few percent accuracy",2.0236968259447022e-06,0.0,1.0,0.0
+physics/0305075,Neutrinos from San Marco and Below,2.0136626595567925e-06,2.884158905879673e-07,4.0,2.0
+hep-ph/0401085,"Geo-neutrinos, Mantle Circulation and Silicate Earth",1.977249452554116e-06,1.613085804794412e-06,5.0,7.0
+physics/0608025,Geo-neutrinos: A systematic approach to uncertainties and correlations,1.970748801435869e-06,0.0,2.0,0.0
+physics/0612081,"Comment on ""Universal Distribution of Interearthquake Times""",1.943682084212356e-06,0.0,1.0,0.0
+astro-ph/0505472,"Gamma-Ray Bursts and the Earth: Exploration of Atmospheric, Biological,
+  Climatic and Biogeochemical Effects",1.9428198551632724e-06,0.0,2.0,0.0
+astro-ph/0205284,MHD Turbulence as a Foreground for CMB Studies,1.9289004998814365e-06,2.6727183023500513e-08,2.0,2.0
+gr-qc/0609097,"A comment on the paper ""On the orbit of the LARES satellite"", by I.
+  Ciufolini",1.8950380516170012e-06,0.0,1.0,0.0
+physics/0601081,"Extreme Value Statistics of the Total Energy in an Intermediate
+  Complexity Model of the Mid-latitude Atmospheric Jet. Part I: Stationary case",1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/0507616,"Simulation of the Burridge-Knopoff Model of Earthquakes with Variable
+  Range Stress Transfer",1.8950380516170012e-06,0.0,1.0,0.0
+physics/0612042,"Extreme Value Statistics of the Total Energy in an Intermediate
+  Complexity Model of the Mid-latitude Atmospheric Jet. Part II: trend
+  detection and assessment",1.8950380516170012e-06,0.0,1.0,0.0
+physics/0212055,PARIS Altimetry with L1 Frequency Data from the Bridge 2 Experiment,1.8950380516170012e-06,0.0,1.0,0.0
+physics/0311052,PARFAIT: GNSS-R coastal altimetry,1.8950380516170012e-06,0.0,1.0,3.0
+physics/0301050,"Solving seismic wave propagation in elastic media using the matrix
+  exponential approach",1.8950380516170012e-06,0.0,1.0,0.0
+gr-qc/0505106,"The impact of the new Earth gravity model EIGEN-CG03C on the measurement
+  of the Lense-Thirring effect with some existing Earth satellites",1.893260267238004e-06,0.0,3.0,2.0
+physics/0411189,"On a possible new approach for investigating the secular variations of
+  the low-degree geopotential coefficients",1.893260267238004e-06,0.0,3.0,0.0
+gr-qc/0308022,"The new Earth gravity models and the measurement of the Lense-Thirring
+  effect",1.8710791294175256e-06,2.0432155613451483e-05,2.0,6.0
+cond-mat/0305509,Aging and scaling of aftershocks,1.854061852169564e-06,7.900579974682091e-06,2.0,1.0
+physics/0411050,"Asymmetric polarity reversals, bimodal field distribution, and coherence
+  resonance in a spherically symmetric mean-field dynamo model",1.828009924107344e-06,4.8789705798419686e-08,1.0,8.0
+astro-ph/0411284,Terrestrial Ozone Depletion Due to a Milky Way Gamma-Ray Burst,1.8159862139197536e-06,1.8863518129660008e-06,1.0,2.0
+gr-qc/0608105,The Lense-Thirring effect and the Pioneer anomaly: Solar System tests,1.745495041897924e-06,0.0,2.0,2.0
+gr-qc/0105014,"Testing General Relativity with LAGEOS, LAGEOS II and Ajisai
+  laser-ranged satellites",1.7276074393785775e-06,0.0,2.0,0.0
+physics/0202052,"A case study of the mid-latitude GPS performance at nighttime during the
+  magnetic storm of July 15, 2000",1.703003024765287e-06,0.0,1.0,0.0
+physics/0005047,"Geometry of River Networks I: Scaling, Fluctuations, and Deviations",1.703003024765287e-06,0.0,1.0,0.0
+physics/0005048,"Geometry of River Networks II: Distributions of Component Size and
+  Number",1.703003024765287e-06,0.0,1.0,0.0
+astro-ph/9612003,Comments on Biological Effects of Stellar Collapse Neutrinos,1.703003024765287e-06,0.0,1.0,1.0
+physics/0211015,Degradation of GPS performance in geomagnetically disturbed conditions,1.703003024765287e-06,0.0,1.0,1.0
+physics/0005049,"Geometry of River Networks III: Characterization of Component
+  Connectivity",1.703003024765287e-06,0.0,1.0,0.0
+cond-mat/0402555,"Universal local versus unified global scaling laws in the statistics of
+  seismicity",1.703003024765287e-06,0.0,1.0,0.0
+physics/0502028,"Networks as Renormalized Models for Emergent Behavior in Physical
+  Systems",1.703003024765287e-06,0.0,1.0,0.0
+physics/0410274,Recurrence intervals between earthquakes strongly depend on history,1.703003024765287e-06,0.0,1.0,0.0
+physics/0407053,Multifractal Scaling of Thermally-Activated Rupture Processes,1.6822991386297089e-06,0.0,1.0,0.0
+astro-ph/9805142,Double Mass Extinctions and the Volcanogenic Dark Matter Scenario,1.60698551133943e-06,0.0,1.0,2.0
+cond-mat/0509226,Universal mean moment rate profiles of earthquake ruptures,1.60698551133943e-06,0.0,1.0,0.0
+physics/0609250,On data analysis and variable selection: the minimum entropy analysis,1.6015607488300431e-06,0.0,1.0,0.0
+cond-mat/0309485,Scale free networks of earthquakes and aftershocks,1.5493750032839157e-06,0.0,1.0,3.0
+astro-ph/9902310,"Constraints on Exotic Heavily Ionizing Particles from the Geological
+  Abundance of Fullerenes",1.5493750032839157e-06,0.0,1.0,0.0
+gr-qc/0512003,"On the use of Ajisai and Jason-1 satellites for tests of General
+  Relativity",1.5254996420722951e-06,0.0,1.0,0.0
+gr-qc/0111086,"Recent Improvements in Testing General Relativity with Satellite Laser
+  Ranging",1.4971654071565207e-06,0.0,1.0,1.0
+physics/0307083,"Bath's law Derived from the Gutenberg-Richter law and from Aftershock
+  Properties",1.4835344226490424e-06,0.0,1.0,0.0
+physics/0404019,"Anomalous Power Law Distribution of Total Lifetimes of Branching
+  Processes Relevant to Earthquakes",1.4835344226490424e-06,0.0,1.0,3.0
+gr-qc/0304011,"The impact of the new Earth gravity models on the measurement of the
+  Lense-Thirring effect",1.4474313265989603e-06,0.0,1.0,12.0
+gr-qc/0205081,"Is it possible to improve the present LAGEOS-LAGEOS II Lense-Thirring
+  experiment?",1.4474313265989603e-06,0.0,1.0,1.0
+astro-ph/0202100,Temporal and Spectral Properties of Gamma-Ray Flashes,1.376543479117373e-06,0.0,1.0,0.0
+cond-mat/0411297,How far away is the next earthquake?,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0604018,"""Universal"" Distribution of Inter-Earthquake Times Explained",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0407018,"Importance of small earthquakes for stress transfers and earthquake
+  triggering",1.3189329710618589e-06,0.0,0.0,3.0
+gr-qc/0203099,The LARES mission revisited: an alternative scenario,1.3189329710618589e-06,0.0,0.0,4.0
+physics/9811024,A brief History of the Earth,1.3189329710618589e-06,0.0,0.0,1.0
+gr-qc/0309092,"The impact of the new CHAMP and GRACE Earth gravity models on the
+  measurement of the general relativistic Lense--Thirring effect with the
+  LAGEOS and LAGEOS II satellites",1.3189329710618589e-06,0.0,0.0,6.0
+physics/0511208,"Physical and Mathematical Properties of a Quasi-Geostrophic Model of
+  Intermediate Complexity of the Mid-Latitudes Atmospheric Circulation",1.3189329710618589e-06,0.0,0.0,2.0
+nucl-ex/9710001,Antineutrino Geophysics with Liquid Scintillator Detectors,1.3189329710618589e-06,0.0,0.0,14.0
+cond-mat/0210289,Scale-Free Network of Earthquakes,1.3189329710618589e-06,0.0,0.0,5.0
+gr-qc/0007057,"Satellite non-gravitational orbital perturbations and the detection of
+  the gravitomagnetic clock effect",1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/0307756,Scaling of impact fragmentation near the critical point,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0505015,"Scaling of earthquake waiting times and the Olami-Feder-Christensen
+  model",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9911421,"Artifactual log-periodicity in finite size data: Relevance for
+  earthquake aftershocks",1.3189329710618589e-06,0.0,0.0,5.0
+cond-mat/0101380,Minimal Model for Sand Dunes,1.3189329710618589e-06,0.0,0.0,5.0
+gr-qc/0007014,"Satellite gravitational orbital perturbations and the gravitomagnetic
+  clock effect",1.3189329710618589e-06,0.0,0.0,4.0
+physics/0310087,Dynamics of Crystal Formation in the Greenland NorthGRIP Ice Core,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0310407,Time-Decreasing Hazard and Increasing Time until the Next Earthquake,1.3189329710618589e-06,0.0,0.0,3.0
+astro-ph/9612214,Volcanogenic Dark Matter and Mass Extinctions,1.3189329710618589e-06,0.0,0.0,4.0
+astro-ph/0002067,Fast Turbulent Reconnection,1.3189329710618589e-06,0.0,0.0,4.0
+physics/0601062,Influence of turbulence on the dynamo threshold,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0504218,"Simulation Study of the One-Dimensional Burridge-Knopoff Model of
+  Earthquakes",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0310093,"The GNSS-R Eddy Experiment II: L-band and Optical Speculometry for
+  Directional Sea-Roughness Retrieval from Low Altitude Aircraft",1.3189329710618589e-06,0.0,0.0,3.0
+physics/0009027,"Magnetospheric disturbances, and the GPS operation",1.3189329710618589e-06,0.0,0.0,3.0
+physics/0305078,"Long-term persistence and multifractality of river runoff records:
+  Detrended fluctuation studies",1.3189329710618589e-06,0.0,0.0,3.0
+astro-ph/0612660,Modeling atmospheric effects of the September 1859 Solar Flare,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9701025,Optical Properties of Deep Ice at the South Pole - Absorption,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9804035,"First principles simulations of liquid Fe-S under Earth's core
+  conditions",1.3189329710618589e-06,0.0,0.0,1.0
+gr-qc/0007015,"The impact of tidal errors on the determination of the Lense-Thirring
+  effect from satellite laser ranging",1.3189329710618589e-06,0.0,0.0,1.0
+gr-qc/9908081,Earth tides and Lense-Thirring effect,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0311049,"Spontaneous Channelization in Permeable Ground: Theory, Experiment, and
+  Observation",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0411115,"Indian monsoon rainfall is higher in epochs of higher solar activity: a
+  wavelet cross-spectral analysis",1.3189329710618589e-06,0.0,0.0,1.0
+astro-ph/9811042,Inelastic Dissipation in Wobbling Asteroids and Comets,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0509249,"Multiscaling comparative analysis of time series and geophysical
+  phenomena",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0612099,"A Dirichlet-integral based dual-access collocation-kernel approach to
+  point-source gravity-field modleing",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0512208,General stability criterion of two-dimensional inviscid parallel flow,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0311001,The shell model approach to the rotating turbulence,1.3189329710618589e-06,0.0,0.0,2.0
+astro-ph/0403393,Shock Compression of Deuterium and the Interiors of Jupiter and Saturn,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0010047,Magnetic Field Saturation in the Riga Dynamo Experiment,1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9701009,Noise-Sustained currents in quasigeostrophic turbulence over topography,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0605239,"Amplification and Increased Duration of Earthquake Motion on Uneven
+  Stress-Free Ground",1.3189329710618589e-06,0.0,0.0,1.0
+physics/9705033,Why is topography fractal?,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0411003,Updating seismic hazard at Parkfield,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0403123,"The ""Yin-Yang Grid"": An Overset Grid in Spherical Geometry",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0402099,"Bayesian Estimation for Land Surface Temperature Retrieval: The Nuisance
+  of Emissivities",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0509061,"Comment on ""Earthquakes Descaled""",1.3189329710618589e-06,0.0,0.0,1.0
+physics/9909023,"Some Wave-Related, Heavy Mineral Placer Deposits",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0104048,"A study of the link between cosmic rays and clouds with a cloud chamber
+  at the CERN PS",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0107078,"Properties of Elastic Waves in a non-Newtonian (Maxwell) Fluid-Saturated
+  Porous Medium",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0203058,A Local Ensemble Kalman Filter for Atmospheric Data Assimilation,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0208078,Possible Gigantic Variations on the Width of Viscoelastic Fingers,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0606118,"Analysis of Self-Organized Criticality in the Olami-Feder-Christensen
+  model and in real earthquakes",1.3189329710618589e-06,0.0,0.0,1.0
+physics/9705035,"Scale-invariance of soil moisture variability and its implications for
+  the frequency-size distribution of landslides",1.3189329710618589e-06,0.0,0.0,2.0
+physics/9905049,The Past Earth's Rotation,1.3189329710618589e-06,0.0,0.0,1.0
+astro-ph/9811037,Reconnection in a Weakly Stochastic Field,1.3189329710618589e-06,0.0,0.0,3.0
+physics/0204055,Physical Properties of Iron in the Inner Core,1.3189329710618589e-06,0.0,0.0,1.0
+astro-ph/0004177,"The Chandra X-Ray Observatory's Radiation Environment and the AP-8/AE-8
+  Model",,,,
+astro-ph/0110171,The effect of hyperdiffusivity on turbulent dynamos with helicity,,,,
+astro-ph/0112054,"Euler, Jacobi, and Missions to Comets and Asteroids",,,,
+astro-ph/0407306,"Gamma-ray bursts and X-ray melting of material to form chondrules and
+  planets",,,,
+astro-ph/0409193,"On the Saturation of Astrophysical Dynamos: Numerical Experiments with
+  the No-cosines flow",,,,
+astro-ph/0410487,The Earth's Gamma-ray Albedo as observed by EGRET,,,,
+astro-ph/0411467,"Did Open Solar Magnetic Field Increase during the Last 100 Years: A
+  Reanalysis of Geomagnetic Activity",,,,
+astro-ph/0509001,"Route of hydrodynamic turbulence in rotating shear flow: Secondary
+  perturbation triggers growing eigenmodes through the elliptical instability",,,,
+astro-ph/0605521,The Theory of Bodily Tides. The Models and the Physics,,,,
+astro-ph/0610122,Radius and Structure models for the First Super-Earth Planet,,,,
+astro-ph/9701104,"The ""human"" statistics of terrestrial impact cratering rate",,,,
+astro-ph/9805124,"On the airbursts of large meteoroids in the Earth's atmosphere. The Lugo
+  bolide: reanalysis of a case study",,,,
+astro-ph/9811040,"Inelastic Dissipation in a Freely Rotating Body. Application to
+  Cosmic-Dust Alignment",,,,
+astro-ph/9907286,"An Amended Formula for the Decay of Radioactive Material for Cosmic
+  Times",,,,
+astro-ph/9911072,"Relaxation of Wobbling Asteroids and Comets. Theoretical Problems.
+  Perspectives of Experimental Observation",,,,
+chao-dyn/9708008,Burridge-Knopoff Models as Elastic Excitable Media,,,,
+cond-mat/0001302,Acoustic fluidization for earthquakes?,,,,
+cond-mat/0006287,Permeability of self-affine rough fractures,,,,
+cond-mat/0009383,Basins of attraction on random topography,,,,
+cond-mat/0010369,Tracer dispersion in two-dimensional rough fractures,,,,
+cond-mat/0010481,Probing Pores Using Elementary Quantum Mechanics,,,,
+cond-mat/0110213,Transport in rough self-affine fractures,,,,
+cond-mat/0209567,Law for the distance between successive earthquakes,,,,
+cond-mat/0301321,"Local Distributions and Rate Fluctuations in a Unified Scaling Law for
+  Earthquakes",,,,
+cond-mat/0310215,"Long-Term Clustering, Scaling, and Universality in the Temporal
+  Occurrence of Earthquakes",,,,
+cond-mat/0403013,"Heterogeneity, and the secret of the sea",,,,
+cond-mat/0403037,Scaling law for seismic hazard after a main shock,,,,
+cond-mat/0408396,"Simulation study of spatio-temporal correlations of earthquakes as a
+  stick-slip frictional instability",,,,
+cond-mat/0409124,"Correlations and invariance of seismicity under renormalization-group
+  transformations",,,,
+cond-mat/0410444,Are seismic waiting time distributions universal?,,,,
+cond-mat/0412441,"Comment on ""Do Earthquakes Exhibit Self-Organized Criticality?""",,,,
+cond-mat/0507643,The Olami-Feder-Christensen model on a small-world topology,,,,
+cond-mat/0508476,Earthquake forecasting and its verification,,,,
+cond-mat/0511344,Nonextensive models for earthquakes,,,,
+cond-mat/9803217,Dynamics of Dry Friction: A Numerical Investigation,,,,
+cond-mat/9805082,The first principles calculation of transport coefficients,,,,
+cond-mat/9911075,Hierarchical model for the scale-dependent velocity of seismic waves,,,,
+cond-mat/9911444,"New Evidence of Earthquake Precursory Phenomena in the 17 Jan. 1995 Kobe
+  Earthquake, Japan",,,,
+gr-qc/0011022,Solid and ocean tides and the detection of some gravitomagnetic effects,,,,
+gr-qc/0101030,Tidal satellite perturbations and the Lense-Thirring effect,,,,
+gr-qc/0602005,"On the impossibility of measuring the general relativistic part of the
+  terrestrial acceleration of gravity with superconducting gravimeters",,,,
+gr-qc/9908080,"An alternative derivation of the Lense-Thirring drag on the orbit of a
+  test body",,,,
+hep-ph/9709269,A New Signature of Dark Matter,,,,
+math/0010256,"Averaging Principle for Quasi-Geostrophic Motions under Rapidly
+  Oscillating Forcing",,,,
+math/0101001,The 3D Quasigeostrophic Fluid Dynamics under Random Forcing on Boundary,,,,
+nlin/0303056,"Comparing modern and Pleistocene ENSO-like influences in NW Argentina
+  using nonlinear time series analysis methods",,,,
+nlin/0410002,Line Structures in Recurrence Plots,,,,
+nlin/0510067,Rayleigh--Taylor turbulence in two dimensions,,,,
+nlin/0601028,Dynamics of precipitation pattern formation at geothermal hot springs,,,,
+nlin/0611034,Magnetic field gradients in solar wind plasma and geophysics periods,,,,
+nlin/0703019,Weak compressibility of surface wave turbulence,,,,
+physics/0004021,"Influence of Random Irregularities on Quasi-Thermal Noise Spectrum of
+  Plasma",,,,
+physics/0007006,"Instantaneous response of the ionosphere to a sudden commencement of the
+  strong magnetic storm of April 6, 2000",,,,
+physics/0007024,"Effects of the August 11, 1999 total solar eclipse as deduced from total
+  electron content measurements at the GPS network",,,,
+physics/0007026,The GPS global detection of the ionospheric response to solar flares,,,,
+physics/0007032,"Chapman's model for ozone concentration: earth`s slowing rotation effect
+  in the atmospheric past",,,,
+physics/0007036,"Ionospheric effects of the solar flares of September 23, 1998 and July
+  29, 1999 as deduced from global GPS network data",,,,
+physics/0007041,The shock-acoustic waves generated by earthquakes,,,,
+physics/0007043,"The use of GPS-arrays in detecting shock-acoustic waves generated during
+  rocket launchings",,,,
+physics/0007099,"Formation of Structure in Snowfields: Penitentes, Suncups, and Dirt
+  Cones",,,,
+physics/0010083,"Pressure-volume-temperature equation of state of MgSiO3 perovskite from
+  molecular dynamics and constraints on lower mantle composition",,,,
+physics/0011048,The Case for 2-D Turbulence in Antarctic Data,,,,
+physics/0011065,Aircraft Hazard related to gas emission from the Earth,,,,
+physics/0012006,"Geomagnetic control of the spectrum of traveling ionospheric
+  disturbances based on data from a global GPS network",,,,
+physics/0104023,Energy Distribution in Earthquakes: A Non-Extensive Approach,,,,
+physics/0104041,Beam Measurements of a CLOUD (Cosmics Leaving OUtdoor Droplets) Chamber,,,,
+physics/0104068,Addendum to the CLOUD proposal,,,,
+physics/0104070,"Radio and optical observations of large-scale traveling ionospheric
+  disturbances during a strong geomagnetic storm of 6-8 April 2000",,,,
+physics/0104076,CLOUD: an atmospheric research facility at CERN,,,,
+physics/0106033,"A selection of papers with some relevance to the investigation of the
+  Sun-Climate link: Papers on Data, Methods and Commentary",,,,
+physics/0106069,Modeling eruptions of Karymsky volcano,,,,
+physics/0107029,"A route to magnetic field reversals: an example of an ABC-forced
+  non-linear dynamo",,,,
+physics/0107030,Ionospheric manifestations of geomagnetic pulsations at high latitudes,,,,
+physics/0107031,"Inhomogeneous structure of the high-latitude ionosphere as observed at
+  Norilsk",,,,
+physics/0107077,"Enhacement in the dymanic response of a viscoelastic fluid flowing
+  through a longitudinally vibrating tube",,,,
+physics/0110009,On the Doppler distortion of the sea-wave spectra,,,,
+physics/0110048,Magnetosphere-Ionosphere Coupling in the Region of Auroral Electrojets,,,,
+physics/0110063,"Ionospheric effects of the solar flares as deduced from global GPS
+  network data",,,,
+physics/0111188,Rate of steady-state reconnection in an incompressible plasma,,,,
+physics/0201047,"Ionospheric response to the total solar eclipse of June 21, 2001",,,,
+physics/0201061,Nonlinear analysis of bivariate data with cross recurrence plots,,,,
+physics/0201062,Cross Recurrence Plot Based Synchronization of Time Series,,,,
+physics/0202072,"Estimating the contribution from different ionospheric regions to the
+  TEC response to the solar flares using data from the international GPS
+  network",,,,
+physics/0204002,Weakly non-linear analysis of wind-driven gravity waves,,,,
+physics/0208023,Contributions to the theory of a two-scale homogeneous dynamo experiment,,,,
+physics/0209085,"The calculation of a normal force between multiparticle contacts using
+  fractional operators",,,,
+physics/0210008,Large Scale Weather Control Using Nuclear Reactors,,,,
+physics/0210048,"Testing of the transionospheric radiochannel using data from the global
+  GPS network",,,,
+physics/0211046,"Traveling wave packets of total electron content disturbances as deduced
+  from global GPS network data",,,,
+physics/0211060,"Earthquake behaviour and large-event predictability in a sheared
+  granular stick-slip system",,,,
+physics/0211069,An Fe-Si-Ni solidification model of the Earth's layering,,,,
+physics/0211070,"Temperature, precipitation and extreme events during the last century in
+  Italy",,,,
+physics/0212021,Isolated ionospheric disturbances as deduced from global GPS network,,,,
+physics/0212096,"Submarine landslides and local tsunami waves (Corinthos Gulf, Greece)",,,,
+physics/0302007,Using data assimilation in laboratory experiments of geophysical flows,,,,
+physics/0302099,"Nonlinear phenomena in fluids with temperature-dependent viscosity: an
+  hysteresis model for magma flow in conduits",,,,
+physics/0302100,"Viscous heating in fluids with temperature-dependent viscosity:
+  implications for magma flows",,,,
+physics/0303066,"Dynamical analysis of the nonlinear growth of the m=n=1 resistive
+  internal mode",,,,
+physics/0303070,Importance of direct and indirect triggered seismicity,,,,
+physics/0304054,"Long-range Static Directional Stress Transfer in a Cracked, Nonlinear
+  Elastic Crust",,,,
+physics/0304060,"Absolute palaeointensity of Oligocene (28-30 Ma) lava flows from the
+  Kerguelen Archipelago (southern Indian Ocean)",,,,
+physics/0304061,"Mono Lake or Laschamp geomagnetic event recorded from lava flows in
+  Amsterdam Island (southeastern Indian Ocean)",,,,
+physics/0304080,"Forced Stratified Turbulence: Successive Transitions with Reynolds
+  Number",,,,
+physics/0305033,"The particle-in-cell model for ab initio thermodynamics: implications
+  for the elastic anisotropy of the Earth's inner core",,,,
+physics/0305055,Forecasting characteristic earthquakes in a minimalist model,,,,
+physics/0305067,Towards Landslide Predictions: Two Case Studies,,,,
+physics/0305071,"Relation of Atmosphere Surface Pressure Fluctuations with Geomagnetic
+  and Cosmic Factors",,,,
+physics/0305079,"Multifractality of river runoff and precipitation: Comparison of
+  fluctuation analysis and wavelet methods",,,,
+physics/0305099,"Dynamical system analysis and forecasting of deformation produced by an
+  earthquake fault",,,,
+physics/0305108,"Neutron-gravity interferometry experiment: testing Earth's rotating
+  frequency fluctuations via neutron Berry's phases due to spin-rotation
+  couplings",,,,
+physics/0308082,"Spatial and Temporal Variability of the Gamma Radiation from Earth's
+  Atmosphere during a Solar Cycle",,,,
+physics/0308102,"Spectral element modeling of three dimensional wave propagation in a
+  self-gravitating Earth with an arbitrarily stratified outer core",,,,
+physics/0310092,The GNSS-R Eddy Experiment I: Altimetry from Low Altitude Aircraft,,,,
+physics/0311096,Study of the atmospheric pressure loading signal in VLBI observations,,,,
+physics/0311134,The Subgrid Problem of the Thermal Convection in the Earth's Liquid Core,,,,
+physics/0312066,"Viscous heating effects in fluids with temperature-dependent viscosity:
+  triggering of secondary flows",,,,
+physics/0312129,Quasi-geostrophic model of the instabilities of the Stewartson layer,,,,
+physics/0401066,Statistical Physics in Meteorology,,,,
+physics/0401097,"2D ground motion at a soft viscoelastic layer/hard substratum site in
+  response to SH cylindrical seismic waves radiated by deep and shallow line
+  sources",,,,
+physics/0401117,Atmospheric pressure loading for routine data analysis,,,,
+physics/0401118,Using a Numerical Weather Model to Improve Geodesy,,,,
+physics/0402125,"Experimental observation and characterization of the magnetorotational
+  instability",,,,
+physics/0403003,Mid-Infrared Radiation as a Short-Term Earthquake Precursor,,,,
+physics/0403085,"Strain-induced kinetics of intergrain defects as the mechanism of slow
+  dynamics in the nonlinear resonant response of humid sandstone bars",,,,
+physics/0404036,"Using the fractional interaction law to model the impact dynamics in
+  arbitrary form of multiparticle collisions",,,,
+physics/0404068,Earthquakes temporal occurrence: a statistical study,,,,
+physics/0404130,Frozen water waves over rough topographical bottoms,,,,
+physics/0405115,"Application of the Yin-Yang grid to a thermal convection of a Boussinesq
+  fluid with infinite Prandtl number in a three-dimensional spherical shell",,,,
+physics/0405145,"Seismic Activity in Tucunduba Reservoir, Senador Sa-CE, Brazil,
+  1997-1998",,,,
+physics/0406119,"Frictional sliding modes along an interface between identical elastic
+  plates subject to shear impact loading",,,,
+physics/0406156,Direct measurement of diurnal polar motion by ring laser gyroscopes,,,,
+physics/0407005,The glacial cycles and cosmic rays,,,,
+physics/0407091,Detection of coherent reflections with GPS bipath interferometry,,,,
+physics/0407143,"Computation of a homogeneous coordinate time series for European GPS
+  stations by reprocessing of the weekly EPN solutions",,,,
+physics/0407145,"Statistics of the seasonal cycle of the 1951-2000 surface temperature
+  records in Italy",,,,
+physics/0407147,"Destabilization of the thermohaline circulation by transient
+  perturbations to the hydrological cycle",,,,
+physics/0407153,A New Free Core Nutation Model with Variable Amplitude and Period,,,,
+physics/0408026,"Detection of Phase Jumps of Free Core Nutation of the Earth and their
+  Concurrence with Geomagnetic Jerks",,,,
+physics/0408061,"Solution of a Model for the Oceanic Pycnocline Depth: Scaling of
+  Overturning Strength and Meridional Pressure Difference",,,,
+physics/0408133,A Note on the Dipole Coordinates,,,,
+physics/0409032,"GPS radio occultation with GRACE: Atmospheric profiling utilizing the
+  zero difference technique",,,,
+physics/0409109,The axial ratio of hcp iron at the conditions of the Earth's inner core,,,,
+physics/0409145,"Kinematic dynamo action in a sphere: Effects of periodic time-dependent
+  flows on solutions with axial dipole symmetry",,,,
+physics/0410060,On the Quantum Aspects of Geophysics,,,,
+physics/0410134,Quasi-geostrophic kinematic dynamos at low magnetic Prandtl number,,,,
+physics/0410249,"Multigrid iterative algorithm using pseudo-compressibility for
+  three-dimensional mantle convection with strongly variable viscosity",,,,
+physics/0411144,"A new parallel strategy for two-dimensional incompressible flow
+  simulations using pseudo-spectral methods",,,,
+physics/0411157,From normal state to magnetic storms in terms of fractal dynamics,,,,
+physics/0411201,Rain initiation time in turbulent warm clouds,,,,
+physics/0411235,On linear coupling of acoustic and cyclotron waves in plasma flows,,,,
+physics/0412063,"Scaling and a Fokker-Planck model for fluctuations in geomagnetic
+  indices and comparison with solar wind epsilon as seen by WIND and ACE",,,,
+physics/0412074,Accurate discretization of advection-diffusion equations,,,,
+physics/0501022,Study of the collapse of granular columns using DEM numerical simulation,,,,
+physics/0501139,Deghosting of Ocean Bottom Cable Data:Two approaches,,,,
+physics/0503038,Visco-magnetic torque at the core mantle boundary,,,,
+physics/0504049,Numerical simulation of lava flows based on depth-averaged equations,,,,
+physics/0505033,"A physical model for aftershocks triggered by dislocation on a
+  rectangular fault",,,,
+physics/0505083,Radar scattering by aggregate snowflakes,,,,
+physics/0505208,"First principles study of density, viscosity, and diffusion coefficients
+  of liquid MgSiO3 at conditions of the Earth's deep mantle",,,,
+physics/0506192,"Geodynamo and mantle convection simulations on the Earth Simulator using
+  the Yin-Yang grid",,,,
+physics/0507082,Earthquake recurrence as a record breaking process,,,,
+physics/0507164,"A way to synchronize models with seismic faults for earthquake
+  forecasting: Insights from a simple stochastic model",,,,
+physics/0507197,"Magnitude clustering and dynamical scaling in trigger models for
+  earthquake forecasting",,,,
+physics/0508050,A model for the distribution of aftershock waiting times,,,,
+physics/0508154,"Modification of the pattern informatics method for forecasting large
+  earthquake events using complex eigenvectors",,,,
+physics/0509004,Eulerian Derivation of the Coriolis Force,,,,
+physics/0509248,"Estimate solar contribution to the global surface warming using the
+  ACRIM TSI satellite composite",,,,
+physics/0509252,"Relation between stress heterogeneity and aftershock rate in the
+  rate-and-state model",,,,
+physics/0509258,Impact of global seismicity on sea level change assessment,,,,
+physics/0510147,Molecular-Dynamics Simulation of Vulcanian Eruption,,,,
+physics/0510180,A RELM earthquake forecast based on pattern informatics,,,,
+physics/0510191,Viscosity of high crystal content melts: dependence on solid fraction,,,,
+physics/0510213,Similarity of fluctuations in correlated systems: The case of seismicity,,,,
+physics/0510215,"Entropy of seismic electric signals: Analysis in natural time under
+  time-reversal",,,,
+physics/0511142,Withdrawal,,,,
+physics/0512066,"Tutorial introduction to Virtual Reality: What possibility are offered
+  to our field?",,,,
+physics/0512103,"Meteor generated plasma columns in E-region ionosphere: fields and
+  diffusion",,,,
+physics/0512125,"Lava channel formation during the 2001 eruption on Mount Etna: evidence
+  for mechanical erosion",,,,
+physics/0512168,Gravity currents in a porous medium at an inclined plane,,,,
+physics/0512173,"Comments on ""Viscosity of high crystal content melts: dependence on
+  solid fraction""",,,,
+physics/0512180,"Low-degree mantle convection with strongly temperature- and
+  depth-dependent viscosity in a three-dimensional spherical shell",,,,
+physics/0512217,"Experimental study of super-rotation in a magnetostrophic spherical
+  Couette flow",,,,
+physics/0512241,"Appropriateness of correlated first order auto-regressive processes for
+  modeling daily temperature records",,,,
+physics/0512247,Virtual Reality Visualization by CAVE with VFIVE and VTK,,,,
+physics/0601067,"The Electrostatic Gravimeter: An Alternate Way of Measuring
+  Gravitational Acceleration",,,,
+physics/0601178,"Additional information for the paper `Entropy of seismic electric
+  signals: Analysis in natural time under time-reversal'",,,,
+physics/0601184,Controlled Irradiative Formation of Penitentes,,,,
+physics/0601211,MovieMaker: A Parallel Movie-Making Software for Large Scale Simulations,,,,
+physics/0602147,Magnetohydrodynamic activity inside a sphere,,,,
+physics/0603083,El Nino and the Delayed Action Oscillator,,,,
+physics/0603086,The clustering of polarity reversals of the geomagnetic field,,,,
+physics/0603094,"A cellular automaton for the factor of safety field in landslides
+  modeling",,,,
+physics/0603100,Finite driving rate and anisotropy effects in landslide modeling,,,,
+physics/0603251,"Comment on ""A statistical comparison of solar wind sources of moderate
+  and intense geomagnetic storms at solar minimum and maximum"" by Zhang, J.-C.,
+  M. W. Liemohn, J. U. Kozyra, M. F. Thomsen, H. A. Elliott, and J. M. Weygand,
+  JGR, 2006",,,,
+physics/0604158,"Rainfall Advection using Velocimetry by Multiresolution Viscous
+  Alignment",,,,
+physics/0605090,Energy and enstrophy dissipation in steady state 2-d turbulence,,,,
+physics/0605117,"Three methods for the description of the temporal response to a SH plane
+  impulsive seismic wave in a soft elastic layer overlying a hard elastic
+  substratum",,,,
+physics/0606074,"Computation of a combined spherical-elastic and viscous-half-space earth
+  model for ice sheet simulation",,,,
+physics/0607157,DNS of bifurcations in an air-filled rotating baroclinic annulus,,,,
+physics/0608064,"The application of the modified form of Bath's law to the North
+  Anatolian Fault Zone",,,,
+physics/0608094,"Tomographic inversion using $\ell_1$-norm regularization of wavelet
+  coefficients",,,,
+physics/0608161,"Comment on ""Analysis of the Spatial Distribution between Successive
+  Earthquakes"" by Davidsen and Paczuski",,,,
+physics/0609005,Single Member Selection in Ensemble Forecasting,,,,
+physics/0609179,"Multifractal Omori Law for Earthquake Triggering: New Tests on the
+  California, Japan and Worldwide Catalogs",,,,
+physics/0609252,"Variable selection based on entropic criterion and its application to
+  the debris-flow triggering",,,,
+physics/0610038,The capacitance of pristine ice crystals and aggregate snowflakes,,,,
+physics/0610070,Numerical analysis of frazil ice formation in turbulent convection,,,,
+physics/0610106,"On exact solutions and numerics for cold, shallow, and thermocoupled ice
+  sheets",,,,
+physics/0610251,On Computation of Combined IVS EOP Series,,,,
+physics/0610258,Marginally unstable Holmboe modes,,,,
+physics/0610277,"Seismic motion in urban sites consisting of blocks in welded contact
+  with a soft layer overlying a hard half space: II. large and infinite number
+  of identical equispaced blocks",,,,
+physics/0611083,Fractal Dimensionof the El Salvador Earthquake (2001) time Series,,,,
+physics/0612058,Dynamical evolution of clustering in complex network of earthquakes,,,,
+physics/0701190,"Networks of Recurrent Events, a Theory of Records, and an Application to
+  Finding Causal Signatures in Seismicity",,,,
+physics/0702068,Turbulent Diamagnetism in Flowing Liquid Sodium,,,,
+physics/0702082,"Hydrodynamic and magnetohydrodynamic computations inside a rotating
+  sphere",,,,
+physics/0702152,Parameters of the Free Core Nutation from VLBI Data,,,,
+physics/0702228,Spherical Couette flow in a dipolar magnetic field,,,,
+physics/0703035,On accuracy assessment of celestial reference frame VLBI realizations,,,,
+physics/0703084,"Automatic Reconstruction of Fault Networks from Seismicity Catalogs: 3D
+  Optimal Anisotropic Dynamic Clustering",,,,
+physics/0703235,Dynamo action in cylindrical annulus,,,,
+physics/0703249,Afterslip and aftershocks in the rate-and-state friction law,,,,
+physics/9610011,The Non-Organic Theory of the Genesis of Petroleum,,,,
+physics/9610023,"Prediction of Phase Transition in CaSiO$_3$ Perovskite and Implications
+  for Lower Mantle Structure",,,,
+physics/9705034,"Statistical analysis and modeling of variations of the earth's magnetic
+  field",,,,
+physics/9705038,Self-affine time series: applications and models,,,,
+physics/9803031,A model study of corona emission from hydrometeors,,,,
+physics/9806031,"Earthquake source parameters and fault kinematics in the Eastern
+  California Shear Zone",,,,
+physics/9806041,"An Automatic Method for Determination of Lg Arrival Times Using Wavelet
+  Transforms",,,,
+physics/9807026,"A PIM-aided Kalman Filter for GPS Tomography of the Ionospheric Electron
+  Content",,,,
+physics/9807031,"Application of numerical methods to modeling the stellar wind and
+  interstellar medium interaction",,,,
+physics/9809036,Oxygen in the Earth's core: a first principles study,,,,
+physics/9901004,4D Tropospheric Tomography using GPS Estimated Slant Delays,,,,
+physics/9903013,"GIST: A tool for Global Ionospheric Tomography using GPS ground and LEO
+  d ata and sources of opportunity with applications in instrument calibration",,,,
+physics/9908064,"The Energetic Implications of the Time Discretisation in Implementations
+  of the A.L.E. Equations",,,,
+physics/9908065,Incipient Motion Criteria for a Rigid Sediment Grain on a Rigid Surface,,,,
+physics/9910020,"A Model for Generating Relativistic Electrons in the Earth's Inner
+  Magnetosphere Based on Gyroresonant Wave-Particle Interactions",,,,
+physics/9910029,Parametric Excitation of Alfven Waves by Gravitational Radiation,,,,
+physics/9912026,"Detection of a flow induced magnetic field eigenmode in the Riga dynamo
+  facility",,,,

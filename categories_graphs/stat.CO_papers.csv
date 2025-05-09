@@ -1,0 +1,4 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+math/0603108,A generalization of the integer linear infeasibility problem,2.004257533926402e-06,0.0,1.0,1.0
+math/0612040,Computable exponential bounds for screened estimation and simulation,,,,
+math/0703746,Markov Chain Monte Carlo: Can We Trust the Third Significant Figure?,,,,

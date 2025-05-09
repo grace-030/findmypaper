@@ -1,0 +1,950 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+astro-ph/0602092,Do extragalactic cosmic rays induce cycles in fossil diversity?,1.5808809605568053e-05,0.0,7.0,0.0
+math/0702368,"Toric ideals of phylogenetic invariants for the general group-based
+  model on claw trees $K_{1,n}$",1.3535395446420692e-05,0.0,6.0,0.0
+q-bio/0508025,"Self-optimization, community stability, and fluctuations in two
+  individual-based models of biological coevolution",1.2648720357828202e-05,0.0,3.0,2.0
+q-bio/0701025,Evolution of Canalizing Boolean Networks,1.0985905968009431e-05,0.0,10.0,0.0
+q-bio/0702002,Ancestral processes with selection: Branching and Moran models,1.0082916589125576e-05,0.0,4.0,0.0
+q-bio/0511009,"The identifiability of tree topology for phylogenetic models, including
+  covarion and mixture models",9.869783738819311e-06,1.930752561121069e-06,5.0,4.0
+q-bio/0311020,An asymptotic maximum principle for essentially linear evolution models,8.135349315004193e-06,0.0,6.0,4.0
+q-bio/0611023,"An individual-based predator-prey model for biological coevolution:
+  Fluctuations, stability, and community structure",7.86667294715451e-06,0.0,3.0,1.0
+physics/9912012,Dynamic Fitness Landscapes in Molecular Evolution,7.821502457253823e-06,0.0,3.0,3.0
+math/0407033,Phylogenetic Algebraic Geometry,7.23425425655091e-06,3.203217335499551e-05,7.0,5.0
+physics/0010045,Dynamic fitness landscapes: Expansions for small mutation rates,6.930536386555109e-06,0.0,3.0,0.0
+q-bio/0611018,"Mutation, selection, and ancestry in branching models: a variational
+  approach",6.86239523172318e-06,0.0,5.0,1.0
+q-bio/0509041,Sexual replication in the quasispecies model,6.71856670205093e-06,0.0,5.0,0.0
+q-bio/0609013,Complex Behavior in Simple Models of Biological Coevolution,6.714462786044225e-06,0.0,2.0,1.0
+q-bio/0703054,A simple stochastic model for the evolution of protein lengths,6.518870666192596e-06,0.0,1.0,0.0
+cond-mat/9606069,Spatial organization in cyclic Lotka-Volterra systems,6.387322794242829e-06,0.0,7.0,1.0
+cond-mat/0312035,"Fluctuations impact on a pattern-forming model of population dynamics
+  with non-local interactions",5.953576064723976e-06,0.0,4.0,0.0
+q-bio/0401006,"Self-organized patterns and traffic flow in colonies of organisms: from
+  bacteria and social insects to vertebrates",5.952265340212541e-06,7.4260550565674335e-09,2.0,1.0
+math/0601357,On phylogenetic trees - a geometer's view,5.798428432399696e-06,1.0886574959341372e-05,4.0,4.0
+q-bio/0701032,Desynchronization and sustainability of noisy metapopulation cycles,5.794033157178685e-06,0.0,4.0,0.0
+q-bio/0410030,An explanatory model for food-web structure and evolution,5.655144290770314e-06,0.0,1.0,1.0
+q-bio/0502007,"Some Properties of the Speciation Model for Food-Web Structure -
+  Mechanisms for Degree Distributions and Intervality",5.655144290770314e-06,0.0,1.0,1.0
+astro-ph/0601711,Gamma-ray bursts and terrestrial planetary atmospheres,5.438825304404756e-06,0.0,4.0,0.0
+math/0410604,Phylogenetic ideals and varieties for the general Markov model,5.306812264770444e-06,1.1799493256577835e-05,4.0,7.0
+q-bio/0505056,"Error thresholds in a mutation-selection model with Hopfield-type
+  fitness",5.23650054080221e-06,0.0,2.0,1.0
+cond-mat/0111323,Human Sexual Contact Network as a Bipartite Graph,5.113562906897532e-06,4.084330281112088e-08,5.0,2.0
+q-bio/0510005,Pair Approximation Models for Disease Spread,4.943350509059715e-06,0.0,5.0,0.0
+nlin/0105057,Food Web Structure and the Evolution of Ecological Communities,4.913779839230756e-06,0.0,3.0,1.0
+cond-mat/0406425,Modelling Selforganization and Innovation Processes in Networks,4.85098277583261e-06,0.0,18.0,0.0
+q-bio/0612024,Single-crossover dynamics: finite versus infinite populations,4.750235746183614e-06,0.0,3.0,0.0
+cond-mat/9712027,Introduction to the statistical theory of Darwinian evolution,4.734155682121559e-06,0.0,5.0,25.0
+q-bio/0407035,Phylogenetic invariants for stationary base composition,4.557198357691865e-06,0.0,3.0,1.0
+q-bio/0608001,"Fisher Waves and Front Roughening in a Two-Species Invasion Model with
+  Preemptive Competition",4.527116820765776e-06,0.0,2.0,0.0
+cond-mat/0209453,Lack of self-averaging in neutral evolution of proteins,4.515025475212901e-06,0.0,1.0,0.0
+q-bio/0608004,"Correlation, selection and the evolution of species networks",4.2890845933420646e-06,0.0,2.0,0.0
+q-bio/0703034,Metric learning for phylogenetic invariants,4.282267868204236e-06,0.0,2.0,1.0
+q-bio/0406011,Imperfect DNA Repair and the Error Catastrophe,4.21043244778407e-06,0.0,2.0,0.0
+q-bio/0702050,"Identifying evolutionary trees and substitution parameters for the
+  general Markov model with invariable sites",4.150227814153213e-06,0.0,2.0,1.0
+math/0406216,Power laws for family sizes in a duplication model,4.1349858700270974e-06,0.0,1.0,3.0
+cond-mat/0607344,Evolutionary games on graphs,4.007423346985859e-06,0.0,3.0,6.0
+q-bio/0502020,Pairwise alignment incorporating dipeptide covariation,3.956802304515989e-06,0.0,1.0,0.0
+cond-mat/0310038,The Complexity of Biological Ageing,3.911405833560001e-06,0.0,3.0,1.0
+q-bio/0408027,Analysis of evolution through competitive selection,3.813106013653212e-06,0.0,2.0,0.0
+q-bio/0611032,Towards the Human Genotope,3.806942633572656e-06,0.0,2.0,0.0
+q-bio/0412027,An RNA-centered view of eukaryotic cells,3.760693637525763e-06,0.0,1.0,1.0
+q-bio/0504020,"Evolutionary ecology in-silico: Does mathematical modelling help in
+  understanding the ""generic"" trends?",3.723058141431815e-06,0.0,5.0,0.0
+q-bio/0601023,"Effects of Noise on Ecological Invasion Processes:
+  Bacteriophage-mediated Competition in Bacteria",3.62335329328243e-06,0.0,2.0,0.0
+q-bio/0609009,"Neutral Evolution as Diffusion in phenotype space: reproduction with
+  mutation but without selection",3.62335329328243e-06,0.0,2.0,0.0
+math/0411069,"Random partitions approximating the coalescence of lineages during a
+  selective sweep",3.5324768517048674e-06,0.0,1.0,1.0
+q-bio/0312030,Extinction dynamics of Lotka-Volterra ecosystems on evolving networks,3.4822687450094496e-06,0.0,3.0,0.0
+q-bio/0311035,Cellular automaton for bacterial towers,3.4635398926832645e-06,1.4852110113134864e-08,1.0,1.0
+q-bio/0510019,Species Numbers versus Area in Chowdhury Ecosystems,3.3749066596554898e-06,0.0,1.0,0.0
+q-bio/0512006,Transient pattern formation in a stochastic model of cancer growth,3.3749066596554898e-06,0.0,1.0,0.0
+cond-mat/0309642,Semiconservative Replication in the Quasispecies Model,3.3749066596554898e-06,0.0,1.0,2.0
+cond-mat/0307046,"Unified ""micro""- and ""macro-"" evolution of eco-systems:
+  Self-organization of a dynamic network",3.31449588373019e-06,0.0,5.0,0.0
+q-bio/0505054,Maximum Likelihood Jukes-Cantor Triplets: Analytic Solutions,3.3030645010996213e-06,1.990182755160072e-06,1.0,2.0
+q-bio/0509011,Freely forming groups: Trying to be rare,3.299880646834423e-06,0.0,3.0,0.0
+adap-org/9907002,"Metastable Evolutionary Dynamics: Crossing Fitness Barriers or Escaping
+  via Neutral Paths?",3.231781322326967e-06,0.0,3.0,1.0
+q-bio/0410015,Recombination dramatically speeds up evolution of finite populations,3.152437246519064e-06,0.0,1.0,0.0
+q-bio/0605040,Epidemic outbreaks on structured populations,3.1309699778075498e-06,0.0,2.0,0.0
+q-bio/0609039,Spatial stochastic predator-prey models,3.123003167340551e-06,0.0,2.0,0.0
+q-bio/0605001,"Spreading of infectious diseases on heterogeneous populations:
+  multi-type network approach",3.11120978073715e-06,1.990182755160072e-06,2.0,2.0
+q-bio/0609021,Stochasticity and evolutionary stability,3.0485868203489326e-06,0.0,3.0,0.0
+cs/9811004,Does Meaning Evolve?,3.0472482127272877e-06,0.0,2.0,2.0
+math/0604366,"The Kesten-Stigum Reconstruction Bound Is Tight for Roughly Symmetric
+  Binary Channels",3.0472482127272877e-06,0.0,2.0,0.0
+q-bio/0508016,Phase transition in a mean-field model for sympatric speciation,3.0472482127272877e-06,0.0,2.0,0.0
+physics/0609184,Impact of non-Poisson activity patterns on spreading processes,3.0472482127272877e-06,0.0,2.0,0.0
+math/0602113,Beta-coalescents and continuous stable random trees,3.0472482127272877e-06,0.0,2.0,1.0
+nlin/0307006,Crossover Behaviour of 3-Species Systems with Mutations or Migrations,3.023451447311061e-06,0.0,1.0,0.0
+q-bio/0601031,Evolutionary dynamics on degree-heterogeneous graphs,3.0146809653298105e-06,0.0,2.0,0.0
+cond-mat/0701130,Universal Extremal Statistics in a Freely Expanding Jepsen Gas,2.9534056767508e-06,0.0,3.0,1.0
+q-bio/0612027,"Phase Diagrams of Quasispecies Theory with Recombination and Horizontal
+  Gene Transfer",2.9534056767508e-06,0.0,2.0,0.0
+q-bio/0501028,Evolutionary trajectories in rugged fitness landscapes,2.929437128564448e-06,0.0,2.0,1.0
+physics/0512062,"A Solution to the Fermi Paradox: The Solar System, part of a Galactic
+  Hypercivilization?",2.9255807147019253e-06,0.0,3.0,0.0
+q-bio/0406041,"Maximum principle and mutation thresholds for four-letter sequence
+  evolution",2.9247989158735005e-06,0.0,2.0,1.0
+q-bio/0510008,"The Tangled nature model with inheritance and constraint: Evolutionary
+  ecology restricted by a conserved resource",2.923024895913817e-06,0.0,1.0,2.0
+q-bio/0702007,"Predicting the size and probability of epidemics in a population with
+  heterogeneous infectiousness and susceptibility",2.91697922313738e-06,0.0,1.0,0.0
+q-bio/0505055,"Hadamard Conjugation for the Kimura 3ST Model: Combinatorial Proof using
+  Pathsets",2.91697922313738e-06,0.0,1.0,0.0
+cond-mat/0004072,Evolution and Ageing,2.887219023684192e-06,0.0,3.0,1.0
+math/0411071,"A coalescent model for the effect of advantageous mutations on the
+  genealogy of a population",2.7643367442980106e-06,0.0,1.0,1.0
+q-bio/0508023,Rank Statistics in Biological Evolution,2.7643367442980106e-06,0.0,1.0,0.0
+cond-mat/0510650,"Complex networks generated by the Penna bit-string model: Emergence of
+  small-world and assortative mixing",2.7421074294303462e-06,0.0,1.0,0.0
+q-bio/0402007,Entanglement Invariants and Phylogenetic Branching,2.685210373030583e-06,4.54991922713857e-06,1.0,3.0
+cond-mat/0401527,"Dynamical interplay between local connectivity and global competition in
+  a networked population",2.6812443655909416e-06,0.0,3.0,3.0
+q-bio/0403021,Efficient local strategies for vaccination and network attack,2.677622481198159e-06,0.0,1.0,0.0
+cond-mat/0007458,Small world effects in evolution,2.593409487821196e-06,0.0,3.0,1.0
+math/0702834,Geometry of the Kimura 3-parameter model,2.573735378896149e-06,1.990182755160072e-06,1.0,1.0
+cond-mat/0606809,"Influence of local carrying capacity restrictions on stochastic
+  predator-prey models",2.556415228296256e-06,0.0,2.0,2.0
+cond-mat/0001172,Fluctuations and correlations in population models with age structure,2.523516321313521e-06,0.0,2.0,0.0
+math/0702367,A population model for $\Lambda$-coalescents with neutral mutations,2.5035143077421823e-06,0.0,1.0,0.0
+q-bio/0602018,"Determinism, Noise, and Spurious Estimations in a Generalised Model of
+  Population Growth",2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0611065,"An axiomatic theory for interaction between species in ecology: Gause's
+  exclusion conjecture",2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0612012,Habitat width along a latitudinal gradient,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0505523,Invasive Allele Spread under Preemptive Competition,2.4711431321721443e-06,0.0,1.0,1.0
+q-bio/0611070,"Asymptotic Evolution of Protein-Protein Interaction Networks for General
+  Duplication-Divergence Models",2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0703019,"Robustness of Cooperation in the Evolutionary Prisoner's Dilemma on
+  Complex Networks",2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0703033,"Complex population dynamics as a competition between multiple time-scale
+  phenomena",2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0408005,Competing associations in six-species predator-prey models,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0407021,The effect of biodiversity on the Hantavirus epizootic,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0503036,"On the Genealogy of Populations: Trees, Branches and Offsprings",2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0610048,Cucker-Smale Flocking under Hierarchical Leadership,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0609038,"Phylogeny of Mixture Models: Robustness of Maximum Likelihood and
+  Non-identifiable Distributions",2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0603031,"A Mutagenetic Tree Hidden Markov Model for Longitudinal Clonal HIV
+  Sequence Data",2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0402019,"The Spread of Infectious Disease with Household-Structure on the Complex
+  Networks",2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0404018,"Active Brownian Particle and Random Walk Theories of the Motions of
+  Zooplankton: Application to Experiments with Swarms of Daphnia",2.4711431321721443e-06,0.0,1.0,2.0
+cond-mat/0309631,The properties of quasispecies dynamics in molecular evolution,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0204070,A Simple Model for the Evolution of Evolution,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0203088,Traveling waves of infection in the Hantavirus epidemics,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0202047,"Aging and species abundance in the Tangled Nature model of biological
+  evolution",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0101021,Adaptive evolution on neutral networks,2.4711431321721443e-06,0.0,1.0,0.0
+adap-org/9903006,Neutral Evolution of Mutational Robustness,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0306113,"Long Term and Short Term Effects of Perturbations in a Immune Network
+  Model",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0504329,Multi-state epidemic processes on complex networks,2.4711431321721443e-06,0.0,1.0,1.0
+q-bio/0312029,Plausible models for propagation of the SARS virus,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0305262,A predator-prey model based on fully parallel cellular automata,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0509032,"Speciational view of macroevolution: are micro and macroevolution
+  decoupled?",2.4711431321721443e-06,0.0,1.0,1.0
+q-bio/0509035,Analytic approach to the evolutionary effects of genetic exchange,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0702041,"Inbreeding and outbreeding depressions in the Penna model as a result of
+  crossover frequency",2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0703067,Evolutionary and Ecological Trees and Networks,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0508020,"Glassy Dynamics in the Adaptive Immune Response Prevents Autoimmune
+  Disease",2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0507033,Simulation of Rapoport's rule for latitudinal species spread,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0301394,"Epidemics, disorder, and percolation",2.461853549879541e-06,5.963122210423648e-06,2.0,2.0
+nlin/0510031,"On the attractors of two-dimensional Rayleigh oscillators including
+  noise",2.3469198153586743e-06,0.0,1.0,0.0
+q-bio/0410035,Advantages of Hopping on a Zig-zag Course,2.3469198153586743e-06,0.0,1.0,0.0
+q-bio/0407033,"Evolution of Spatially Inhomogeneous Eco-Systems: An Unified Model Based
+  Approach",2.335617863685633e-06,0.0,2.0,0.0
+adap-org/9903001,The Evolutionary Unfolding of Complexity,2.27910810532043e-06,0.0,2.0,2.0
+q-bio/0403040,"Evolutionary ecology in-silico:evolving foodwebs, migrating population
+  and speciation",2.27910810532043e-06,0.0,2.0,2.0
+q-bio/0405023,Evolving eco-system: a network of networks,2.2716061880683958e-06,0.0,1.0,0.0
+cond-mat/0307114,"Network properties, species abundance and evolution in a model of
+  evolutionary ecology",2.271465944293314e-06,0.0,2.0,0.0
+cond-mat/0605041,"Towards Classification of Phase Transitions in Reaction--Diffusion
+  Models",2.268888412198628e-06,0.0,2.0,0.0
+q-bio/0512039,"Phase Transitions and Spatio-Temporal Fluctuations in Stochastic Lattice
+  Lotka-Volterra Models",2.2356851087904607e-06,0.0,1.0,3.0
+q-bio/0402042,The spread of disease with birth and death on networks,2.228461047951033e-06,0.0,1.0,0.0
+q-bio/0512048,Two-state dynamics for replicating two-strand systems,2.225745927512535e-06,0.0,2.0,0.0
+q-bio/0411047,"Path integral formulation and Feynman rules for phylogenetic branching
+  models",2.219301452820475e-06,2.239382109191938e-06,1.0,1.0
+q-bio/0509008,Fixation of strategies for an evolutionary game in finite populations,2.215988834784289e-06,0.0,1.0,4.0
+cond-mat/0301372,Simulation and analysis of in vitro DNA evolution,2.2060433116964646e-06,0.0,2.0,1.0
+nlin/0310011,"Equation-free modeling of evolving diseases: Coarse-grained computations
+  with individual-based models",2.2015701073695168e-06,1.990182755160072e-06,1.0,3.0
+nlin/0306023,"Punctuated equilibria and 1/f noise in a biological coevolution model
+  with individual-based dynamics",2.144323213400125e-06,0.0,2.0,3.0
+math/0608041,"Discrete versus continuous models in evolutionary dynamics: from simple
+  to simpler -- and even simpler -- models",2.120978933487838e-06,0.0,1.0,0.0
+cond-mat/0201482,"From HIV infection to AIDS: A dynamically induced percolation
+  transition?",2.1088536526148814e-06,0.0,2.0,0.0
+q-bio/0605020,Laws in Darwinian Evolutionary Theory,2.087073078468716e-06,0.0,2.0,0.0
+q-bio/0411031,Abstract DNA-type systems,2.0773352732963763e-06,1.988933078581925e-06,1.0,3.0
+cond-mat/9810142,Self-Organized Segregation within an Evolving Population,2.0758009323722715e-06,0.0001074698687786,5.0,5.0
+cond-mat/9905039,Evolutionary freezing in a competitive population,2.0712112795359484e-06,1.990182755160072e-06,5.0,3.0
+cond-mat/0301503,Equilibrium state of molecular breeding,2.042326787929842e-06,0.0,1.0,3.0
+q-bio/0411048,"Evolutionary dynamics of adult stem cells: Comparison of random and
+  immortal strand segregation mechanisms",2.042326787929842e-06,0.0,1.0,0.0
+q-bio/0311002,"Computer simulations of history of life: speciation, emergence of
+  complex species from simpler organisms, and extinctions",2.041023912071257e-06,0.0,1.0,1.0
+cond-mat/0310384,"Clustering, advection and patterns in a model of population dynamics
+  with neighborhood-dependent rates",2.037600862269944e-06,1.990182755160072e-06,1.0,1.0
+cond-mat/0109273,Effects of immunization in small-world epidemics,1.995202554347935e-06,0.0,1.0,0.0
+q-bio/0508043,"Fluctuations and Correlations in Lattice Models for Predator-Prey
+  Interaction",1.9803101477411127e-06,0.0,1.0,2.0
+q-bio/0402015,Toric ideals of phylogenetic invariants,1.9208472700474983e-06,9.782439710647602e-06,2.0,6.0
+cond-mat/0310585,Noise Induced Phenomena in Lotka-Volterra Systems,1.918036313509949e-06,0.0,1.0,0.0
+cond-mat/0310582,"Stochastic resonance and noise delayed extinction in a model of two
+  competing species",1.918036313509949e-06,0.0,1.0,0.0
+q-bio/0310017,"Phase transition and selection in a four-species cyclic Lotka-Volterra
+  model",1.913881181178068e-06,0.0,1.0,0.0
+q-bio/0612021,"Angular velocity variations and stability of spatially explicit
+  prey-predator systems",1.8950380516170012e-06,0.0,1.0,1.0
+math/0602530,"The continuous limit of the Moran process and the diffusion of mutant
+  genes in infinite populations",1.8950380516170012e-06,0.0,1.0,2.0
+q-bio/0611074,"Percolation on fitness landscapes: effects of correlation, phenotype,
+  and incompatibilities",1.8950380516170012e-06,0.0,1.0,0.0
+q-bio/0611063,Asexual and sexual replication in sporulating organisms,1.8950380516170012e-06,0.0,1.0,0.0
+q-bio/0404035,"Pair approximation of the stochastic
+  susceptible-infected-recovered-susceptible epidemic model on the hypercubic
+  lattice",1.8950380516170012e-06,0.0,1.0,1.0
+cond-mat/0309187,"Evolution of population with sexual and asexual reproduction in changing
+  environment",1.8950380516170012e-06,0.0,2.0,1.0
+q-bio/0502046,Fluctuations in models of biological macroevolution,1.8950380516170012e-06,0.0,1.0,3.0
+q-bio/0402001,Size of Outbreaks Near the Epidemic Threshold,1.8950380516170012e-06,0.0,1.0,0.0
+q-bio/0410011,"Co-expression of statistically over-represented peptides in proteomes: a
+  key to phylogeny ?",1.8950380516170012e-06,0.0,1.0,0.0
+q-bio/0510004,"The simplest model of spatially distributed population with reasonable
+  migration of organisms",1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/0703478,"Stochastic Models of Evolution in Genetics, Ecology and Linguistics",1.8950380516170012e-06,0.0,1.0,0.0
+q-bio/0406048,"How much can evolved characters tell us about the tree that generated
+  them?",1.8950380516170012e-06,0.0,1.0,0.0
+cs/0502076,Learning nonsingular phylogenies and hidden Markov models,1.8950380516170012e-06,0.0,1.0,0.0
+q-bio/0507040,"Effects of correlated interactions in a biological coevolution model
+  with individual-based dynamics",1.8950380516170012e-06,0.0,1.0,1.0
+q-bio/0610014,Stochastic effects on biodiversity in cyclic coevolutionary dynamics,1.8950380516170012e-06,0.0,1.0,0.0
+q-bio/0603029,"Thermodynamic behavior of a phase transition in a model for sympatric
+  speciation",1.8950380516170012e-06,0.0,1.0,0.0
+q-bio/0604024,The transposition distance for phylogenetic trees,1.8950380516170012e-06,0.0,1.0,0.0
+physics/0303120,"Analytical study of the effect of recombination on evolution via DNA
+  shuffling",1.8688318635532767e-06,0.0,1.0,0.0
+math/0506099,Recombination semigroups on measure spaces,1.8644990992398877e-06,0.0,2.0,1.0
+q-bio/0609020,Stochastic Dynamics of Invasion and Fixation,1.8624708042195248e-06,0.0,1.0,0.0
+cond-mat/0612316,"Cyclical interactions with alliance-specific heterogeneous invasion
+  rates",1.8624315919348735e-06,0.0,1.0,0.0
+q-bio/0610001,"Cooperation enhanced by inhomogeneous activity of teaching for
+  evolutionary Prisoner's Dilemma games",1.8624315919348735e-06,0.0,1.0,1.0
+q-bio/0608009,Does mobility decrease cooperation?,1.8624315919348735e-06,0.0,1.0,0.0
+q-bio/0703062,Evolutionary game theory and population dynamics,1.8624315919348735e-06,0.0,1.0,0.0
+astro-ph/0411284,Terrestrial Ozone Depletion Due to a Milky Way Gamma-Ray Burst,1.8159862139197536e-06,1.8863518129660008e-06,1.0,2.0
+q-bio/0608029,Quasispecies Theory for Multiple-Peak Fitness Landscapes,1.8011955156405142e-06,0.0,1.0,0.0
+cond-mat/0108494,The Bak-Sneppen Model on Scale-Free Networks,1.7993456927872388e-06,0.0,3.0,1.0
+adap-org/9910002,A Simple Model of the Evolution of Simple Models of Evolution,1.782070753635231e-06,0.0,1.0,0.0
+cond-mat/0503421,"Influence of Local Interactions in the Bak-Sneppen Model and Economic
+  Applications",1.7439867501152788e-06,0.0,1.0,0.0
+q-bio/0603010,"Spreading dynamics on small-world networks with connectivity
+  fluctuations and correlations",1.7119639001713334e-06,1.3931279286120504e-05,1.0,3.0
+q-bio/0702014,Stochastic Models for Phylogenetic Trees on Higher-order Taxa,1.703003024765287e-06,0.0,1.0,0.0
+math/0602139,"Global existence results for complex hyperbolic models of bacterial
+  chemotaxis",1.703003024765287e-06,0.0,1.0,0.0
+cond-mat/0209086,Evolutionary games and quasispecies,1.703003024765287e-06,0.0,1.0,0.0
+q-bio/0403009,"A Stochastic Model for the Species Abundance Problem in an Ecological
+  Community",1.6307137207574166e-06,0.0,1.0,0.0
+cond-mat/0607691,"Revisiting the nonequilibrium phase transition of the triplet-creation
+  model",1.624473900189323e-06,0.0,1.0,0.0
+cond-mat/0411729,Periodicity of mass extinctions without an extraterrestrial cause,1.6234284958731911e-06,0.0,2.0,0.0
+quant-ph/0406157,Altruistic Contents of Quantum Prisoner's Dilemma,1.6178708227136482e-06,0.0,1.0,0.0
+q-bio/0501035,Power-law scaling in dimension-to-biomass relationship of fish schools,1.6172899098835133e-06,0.0,1.0,0.0
+q-bio/0402003,Space-irrelevant scaling law for fish school sizes,1.6172899098835133e-06,0.0,1.0,0.0
+cond-mat/0308532,"Positive mutations and mutation-dependent Verhulst factor in Penna
+  ageing model",1.60698551133943e-06,0.0,1.0,0.0
+math/0703081,"Partitioning the Sample Space on Five Taxa for the Neighbor Joining
+  Algorithm",1.60698551133943e-06,0.0,1.0,0.0
+chao-dyn/9906029,"Chaotic advection of reacting substances: Plankton dynamics on a
+  meandering jet",1.60698551133943e-06,0.0,1.0,1.0
+q-bio/0610020,Quartet consistency count method for reconstructing phylogenetic trees,1.60698551133943e-06,0.0,1.0,0.0
+nlin/0210026,Diversity Evolution,1.559416820255953e-06,0.0,1.0,0.0
+q-bio/0601039,Food-chain competition influences gene's size,1.5493750032839157e-06,0.0,1.0,1.0
+q-bio/0410007,"Self-Organized Criticality, Optimization and Biodiversity",1.5493750032839157e-06,0.0,1.0,0.0
+math/0302049,"Supercritical multitype branching processes: the ancestral types of
+  typical individuals",1.5493750032839157e-06,0.0,1.0,3.0
+q-bio/0401008,"Fluctuations and correlations in an individual-based model of biological
+  coevolution",1.5493750032839157e-06,0.0,1.0,0.0
+math/0402351,Unequal Crossover Dynamics in Discrete and Continuous Time,1.5493750032839157e-06,0.0,1.0,1.0
+nlin/0204012,Contact tracing and epidemics control in social networks,1.5295226748816362e-06,0.0,1.0,0.0
+adap-org/9804002,Critical Exponent of Species-Size Distribution in Evolution,1.5109679979135728e-06,0.0,1.0,0.0
+q-bio/0512037,Epidemic dynamics on an adaptive network,1.5109679979135728e-06,0.0,1.0,0.0
+q-bio/0508008,Adaptation in simple and complex fitness landscapes,1.4826494948284814e-06,0.0,1.0,3.0
+q-bio/0401026,"Host-Parasite Co-evolution and Optimal Mutation Rates for
+  Semi-conservative Quasispecies",1.4826494948284814e-06,0.0,1.0,0.0
+cond-mat/0204117,Dynamics of Competitive Evolution on a Smooth Landscape,1.4826494948284814e-06,0.0,1.0,2.0
+cond-mat/0101170,Why do Evolutionary Systems Stick to the Edge of Chaos,1.4826494948284814e-06,0.0,1.0,1.0
+q-bio/0409019,Breaking records in the evolutionary race,1.4826494948284814e-06,0.0,1.0,1.0
+q-bio/0401022,A Selective Advantage for Conservative Viruses,1.4826494948284814e-06,0.0,1.0,0.0
+cond-mat/9806240,A solvable model of the evolutionary loop,1.4826494948284814e-06,0.0,1.0,0.0
+cond-mat/0207387,Efficient Immunization Strategies for Computer Networks and Populations,1.4629592412006444e-06,0.0,1.0,1.0
+cond-mat/0404167,A Generalized Epidemic Process and Tricritical Dynamic Percolation,1.446956322296335e-06,0.0,1.0,1.0
+cond-mat/0508623,Extremal dynamics on complex networks: Analytic solutions,1.4149504844877158e-06,0.0,1.0,2.0
+q-bio/0606021,"Heterogeneous animal group models and their group-level alignment
+  dynamics; an equation-free approach",1.4097107293941726e-06,0.0,1.0,0.0
+q-bio/0608037,Network growth approach to macroevolution,1.382944646679097e-06,0.0,1.0,0.0
+math/0311156,Reconstructing Trees from Subtree Weights,1.3713061602032352e-06,0.0,1.0,1.0
+q-bio/0506040,"Symbology from set theory applied to ecological systems: Gause's
+  exclusion principle and applications",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0504001,A nonlocal continuum model for biological aggregation,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0505016,Simulation of geographical trends in Chowdhury ecosystem model,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0504022,Density-Dependence as a Size-Independent Regulatory Mechanism,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0410013,Synonymous codon usage and selection on proteins,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0106450,"Firewalls, Disorder, and Percolation in Epidemics",1.3189329710618589e-06,0.0,0.0,6.0
+physics/0303053,"A maximum principle for the mutation-selection equilibrium of nucleotide
+  sequences",1.3189329710618589e-06,0.0,0.0,5.0
+q-bio/0402014,Topological structure and interaction strengths in model food webs,1.3189329710618589e-06,0.0,0.0,3.0
+math/0312496,The spread of a rumor or infection in a moving population,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0202432,"Mutation-Selection Balance: Ancestry, Load, and Maximum Principle",1.3189329710618589e-06,0.0,0.0,5.0
+adap-org/9810004,Optimizing Epochal Evolutionary Search: Population-Size Dependent Theory,1.3189329710618589e-06,0.0,0.0,3.0
+q-bio/0505017,"Evolution of polymorphism and sympatric speciation through competition
+  in a unimodal distribution of resources",1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0406020,"Three Logistic Models for the Two-Species Interactions: Symbiosis,
+  Predator-Prey and Competition",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0403004,Noise in ecosystems: a short review,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0303010,Flicker Noise in a Model of Coevolving Biological Populations,1.3189329710618589e-06,0.0,0.0,5.0
+q-bio/0403042,A Biological Coevolution Model with Correlated Individual-Based Dynamics,1.3189329710618589e-06,0.0,0.0,2.0
+math/0511246,Probabilities on cladograms: introduction to the alpha model,1.3189329710618589e-06,0.0,0.0,3.0
+q-bio/0505002,"Limitations of Markov chain Monte Carlo algorithms for Bayesian
+  Inference of phylogeny",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0311501,"Velocity and hierarchical spread of epidemic outbreaks in scale-free
+  networks",1.3189329710618589e-06,0.0,0.0,2.0
+q-bio/0408011,Unidentifiable divergence times in rates-across-sites models,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0101426,Strategies for the evolution of sex,1.3189329710618589e-06,0.0,0.0,4.0
+q-bio/0611015,"Phylogenetic tree constructing algorithms fit for grid computing with
+  SVD",1.3189329710618589e-06,0.0,0.0,1.0
+math/0509575,"Evolutionary Trees and the Ising Model on the Bethe Lattice: a Proof of
+  Steel's Conjecture",1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0507054,A Model of Coupled-Maps for Economic Dynamics,1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9912004,Fitness versus Longevity in Age-Structured Population Dynamics,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0501023,"Predator-prey cycles from resonant amplification of demographic
+  stochasticity",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0608008,"Damage segregation at fissioning may increase growth rates: A
+  superprocess model",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0502010,Sympatric Speciation in a Simple Food Web,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0305277,Prediction of the human life expectancy,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0310032,"Localization and extinction of bacterial populations under inhomogeneous
+  growth conditions",1.3189329710618589e-06,0.0,0.0,2.0
+q-bio/0401016,"Extinction times for birth-death processes: exact results, continuum
+  asymptotics, and the failure of the Fokker-Planck approximation",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0405451,Selection theorem for systems with inheritance,1.3189329710618589e-06,0.0,0.0,2.0
+nlin/0210027,Open-Ended Artificial Evolution,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0311230,Pattern formation and nonlocal logistic growth,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0611049,"Extinction Rates for Fluctuation-Induced Metastabilities : A Real-Space
+  WKB Approach",1.3189329710618589e-06,0.0,0.0,1.0
+math/0502226,Subtree prune and regraft: a reversible real tree-valued Markov process,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0202212,"Diffusion, peer pressure and tailed distributions",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0209099,"Probability of fixation of an advantageous mutant in a viral
+  quasispecies",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0311012,The Role of Computation in Complex Regulatory Networks,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0603034,Epistasis and Shapes of Fitness Landscapes,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0606101,"Exact solution of a model of time-dependent evolutionary dynamics in a
+  rugged fitness landscape",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0510035,"Using the tangle: a consistent construction of phylogenetic distance
+  matrices for quartets",1.3189329710618589e-06,0.0,0.0,1.0
+physics/9806046,Statistics of Certain Models of Evolution,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9903085,Critical and Near-Critical Branching Processes,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0603013,"Fisher Waves and the Velocity of Front Propagation in a Two-Species
+  Invasion Model with Preemptive Competition",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0603023,"Nonequilibrium phase transition in the coevolution of networks and
+  opinions",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0507038,Bacteriophage-mediated competition in Bordetella bacteria,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0509002,Quasispecies can exist under neutral drift at finite population sizes,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0607012,"Schwinger Boson Formulation and Solution of the Crow-Kimura and Eigen
+  Models of Quasispecies Theory",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0607457,"Randomness enhances cooperation: a resonance type phenomenon in
+  evolutionary games",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0403699,Universal behavior in a generalized model of contagion,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0508045,Exact Solution of the Multi-Allelic Diffusion Model,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0608033,"Longevity of orders is related to the longevity of their constituent
+  genera rather than genus richness",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0612124,"Mesoscopic structure conditions the emergence of cooperation on social
+  networks",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0610030,"Performance of a new invariants method on homogeneous and
+  non-homogeneous quartet trees",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0308502,Epidemics and Dimensionality in Hierarchical Networks,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0309300,"Who runs fastest in an adaptive landscape: Sexual versus asexual
+  reproduction",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0408026,"Does telomere elongation in cloned organisms lead to a longer lifespan
+  if cancer is considered ?",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0408006,Why Two Sexes?,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0308600,Penna bit-string model with constant population,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0305285,On the Aging Dynamics in an Immune Network Model,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0312016,Modelling of SARS for Hong Kong,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9807088,"Studies of Bacterial Branching Growth using Reaction-Diffusion Models
+  for Colonial Development",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0304301,SIS epidemics with household structure: the self-consistent field method,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0611717,Non-equilibrium phase transition in negotiation dynamics,1.3189329710618589e-06,0.0,0.0,1.0
+math/0310229,Hierarchical equilibria of branching populations,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0511039,Evolution on distributive lattices,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0007055,Interaction between directional epistasis and average mutational effects,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0612023,Quantifying the taxonomic diversity in real species communities,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0408002,Recurrent epidemics in small world networks,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0407003,The criticality of the Hantavirus infected phase at Zuni,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0609051,Search for bottleneck effects in Penna ageing and Schulze language model,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0202035,Spatio-temporal patterns in the Hantavirus infection,1.3189329710618589e-06,0.0,0.0,1.0
+math/0503485,An approximate sampling formula under genetic hitchhiking,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0401037,Deleting species from model food webs,1.3189329710618589e-06,0.0,0.0,2.0
+q-bio/0605042,"Coexistence versus extinction in the stochastic cyclic Lotka-Volterra
+  model",1.3189329710618589e-06,0.0,0.0,2.0
+nlin/0006023,"HIV time hierarchy: Winning the war while, loosing all the battles",1.3189329710618589e-06,0.0,0.0,2.0
+q-bio/0504006,Computer Simulations to Study Sympatric Speciation Processes,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0309568,Extinction in population dynamics,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0404010,Mutual information for examining correlations in DNA,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0401028,"Cluster approximations for probabilistic systems: a new perspective of
+  epidemiological modelling",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0608108,"Amplitude dependent frequency, desynchronization, and stabilization in
+  noisy metapopulation dynamics",1.3189329710618589e-06,0.0,0.0,2.0
+q-bio/0606025,"Deterministic and stochastic regimes of asexual evolution on rugged
+  fitness landscapes",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0301574,Adaptive evolution of transcription factor binding sites,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0412003,"A Structured-Population Model of Proteus mirabilis Swarm-Colony
+  Development",1.3189329710618589e-06,0.0,0.0,2.0
+q-bio/0403020,Mathematical Structure of Evolutionary Theory,1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/0009440,Phase Transitions and Oscillations in a Lattice Prey-Predator Model,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0311212,"Efficiency and reliability of epidemic data dissemination in complex
+  networks",1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9810003,"Optimizing Epochal Evolutionary Search: Population-Size Independent
+  Theory",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9505003,Fitness landscapes and evolution,1.3189329710618589e-06,0.0,0.0,9.0
+cond-mat/9907372,"Biological evolution through mutation, selection, and drift: An
+  introductory review",1.3189329710618589e-06,0.0,0.0,9.0
+cond-mat/9905066,Evolutionary dynamics in the Bak-Sneppen model on small-world networks,1.3189329710618589e-06,0.0,0.0,12.0
+adap-org/9303002,Evolution to the Edge of Chaos in Imitation Game,,,,
+adap-org/9503004,"Abundance Distributions in Artificial Life and Stochastic Models: ""Age
+  and Area"" revisited",,,,
+adap-org/9605001,Propagation of Information in Populations of Self-Replicating Code,,,,
+adap-org/9611006,The selection of altruistic behaviour,,,,
+adap-org/9611007,Dynamical Equilibrium of Interacting Ant Societies,,,,
+adap-org/9709001,Theoretical approach to biological aging,,,,
+adap-org/9709002,"Search for an unitary mortality law through a theoretical model for
+  biological ageing",,,,
+adap-org/9807003,Development and Evolution of Neural Networks in an Artificial Chemistry,,,,
+adap-org/9902002,A General Approach to the Modelling of Trophic Chains,,,,
+adap-org/9903002,The Origin of the RNA World: a Kinetic Model,,,,
+adap-org/9903003,Evolution of genetic organization in digital organisms,,,,
+adap-org/9906004,Noise-induced breakdown of coherent collective motion in swarms,,,,
+adap-org/9908001,A Complete Enumeration and Classification of Two-Locus Disease Models,,,,
+astro-ph/0308311,"Transport of Ionizing Radiation in Terrestrial-like Exoplanet
+  Atmospheres",,,,
+cond-mat/0007120,Testing a hypothesis for the evolution of sex,,,,
+cond-mat/0007473,Stochastic Penna model for biological aging,,,,
+cond-mat/0009252,"Sympatric speciation: compliance with phenotype diversification from a
+  single genotype",,,,
+cond-mat/0012366,"On the Influence of Noise on the Critical and Oscillatory Behavior of a
+  Predator-Prey Model: Coherent Stochastic Resonance at the Proper Frequency",,,,
+cond-mat/0104197,On the critical behavior of a lattice prey-predator model,,,,
+cond-mat/0105379,Quasispecies evolution in general mean-field landscapes,,,,
+cond-mat/0107277,"Scaling in the growth of geographically subdivided populations:
+  invariant patterns from a continent-wide biological survey",,,,
+cond-mat/0107315,A Thermodynamic Model for Prebiotic Protein Function,,,,
+cond-mat/0107565,Disordered Environments in Spatial Games,,,,
+cond-mat/0108234,Evolutionary Computer Simulations,,,,
+cond-mat/0108353,"Co-Evolution of quasispecies: B-cell mutation rates maximize viral error
+  catastrophes",,,,
+cond-mat/0110509,Generic model of morphological changes in growing colonies of fungi,,,,
+cond-mat/0201559,"At the boundary between biological and cultural evolution: The origin of
+  surname distributions",,,,
+cond-mat/0209049,Statistical properties of neutral evolution,,,,
+cond-mat/0209613,"Viral evolution under the pressure of an adaptive immune system -
+  optimal mutation rates for viral escape",,,,
+cond-mat/0210094,Statistical mechanics of spatial evolutionary games,,,,
+cond-mat/0301246,Darwinian Selection and Non-existence of Nash Equilibria,,,,
+cond-mat/0305241,Power-law versus exponential distributions of animal group sizes,,,,
+cond-mat/0306628,Global Spread of Infectious Diseases,,,,
+cond-mat/0307317,Modes of speciation in heterogeneous space,,,,
+cond-mat/0307742,Nonlinear Voter Models: The Transition from Invasion to Coexistence,,,,
+cond-mat/0308248,Should retirement age be coupled to life expectancy ?,,,,
+cond-mat/0308613,"Sequence Space Localization in the Immune System Response to Vaccination
+  and Disease",,,,
+cond-mat/0308617,Simple Bit-String Model for Lineage Branching,,,,
+cond-mat/0310208,"Comments on evolution of cooperation: assortative encounters with
+  selfknowledge",,,,
+cond-mat/0310266,"Comments on evolution of cooperation: evolutionary stability in enhanced
+  Dove-Hawk model",,,,
+cond-mat/0310372,Immunization Dynamics on a 2-layer Network Model,,,,
+cond-mat/0310444,Analysis of Norms Game in networked societies,,,,
+cond-mat/0311521,Opinion formation in networked societies with strong leaders,,,,
+cond-mat/0311566,Effect of leader's strategy on opinion formation in networked societies,,,,
+cond-mat/0312002,Critical behavior of an epidemic model of drug resistant diseases,,,,
+cond-mat/0401598,"Transmission of severe acute respiratory syndrome in dynamical
+  small-world networks",,,,
+cond-mat/0402065,"Behavior of susceptible-infected-susceptible epidemics on heterogeneous
+  networks with saturation",,,,
+cond-mat/0402222,"Simulations of assortative matching: complexity of cooperation emergence
+  process",,,,
+cond-mat/0409457,Transient behavior of a population dynamical model,,,,
+cond-mat/0409647,Stochastic stability in spatial games,,,,
+cond-mat/0412180,"Population Dynamics in Spatially Heterogeneous Systems with Drift: the
+  generalized contact process",,,,
+cond-mat/0502389,Stationary distributions of a noisy logistic process,,,,
+cond-mat/0504107,Optimal search strategies for hidden targets,,,,
+cond-mat/0507418,"Birth, death and diffusion of interacting particles",,,,
+cond-mat/0510763,"Effects of Preference for Attachment to Low-degree Nodes on the Degree
+  Distributions of a Growing Directed Network and a Simple Food-Web Model",,,,
+cond-mat/0511474,A Simple Noise Model with Memory for Biological Systems,,,,
+cond-mat/0601167,"Evolution of the most recent common ancestor of a population with no
+  selection",,,,
+cond-mat/0606210,"Spectral formulation and WKB approximation for rare-event statistics in
+  reaction systems",,,,
+cond-mat/0606378,"Complex noise in diffusion-limited reactions of replicating and
+  competing species",,,,
+cond-mat/0607559,Stochastic resonance due to internal noise in reaction kinetics,,,,
+cond-mat/0610415,Spectral theory of metastability and extinction in birth-death systems,,,,
+cond-mat/0612157,"Spectral theory of metastability and extinction in a
+  branching-annihilation reaction",,,,
+cond-mat/0612381,"Rate Equation Approaches to Amplification of Enantiomeric Excess and
+  Chiral Symmetry Breaking",,,,
+cond-mat/0612385,"Stochastic Approach to Enantiomeric Excess Amplification and Chiral
+  Symmetry Breaking",,,,
+cond-mat/9610028,Error threshold in simple landscapes,,,,
+cond-mat/9811208,Spatio-selection in Expanding Bacterial Colonies,,,,
+cond-mat/9901272,Does Good Mutation Help You Live Longer?,,,,
+cond-mat/9903076,Genetic algorithm dynamics on a rugged landscape,,,,
+cond-mat/9903077,Annealing schedule from population dynamics,,,,
+cs/0109040,"The Building of BODHI, a Bio-diversity Database System",,,,
+cs/0309016,"Using Simulated Annealing to Calculate the Trembles of Trembling Hand
+  Perfection",,,,
+math/0308094,"Steady state coexistence solutions of reaction-diffusion competition
+  models",,,,
+math/0308129,Uniqueness of coexistence state with small perturbation,,,,
+math/0308282,More rigorous results on the Kauffman-Levin model of evolution,,,,
+math/0309255,"Catastrophe Management and Inter-Reserve Distance for Marine Reserve
+  Networks",,,,
+math/0410402,A critical branching process model for biodiversity,,,,
+math/0504378,"A Short Proof that Phylogenetic Tree Reconstruction by Maximum
+  Likelihood is Hard",,,,
+math/0510453,"Individual-based probabilistic models of adaptive evolution and various
+  scaling approximations",,,,
+math/0511743,The process of most recent common ancestors in an evolving coalescent,,,,
+math/0512063,"A microscopic interpretation for adaptive dynamics trait substitution
+  sequence models",,,,
+math/0601643,"Evolution of discrete populations and the canonical diffusion of
+  adaptive dynamics",,,,
+math/0604041,"Invasion and adaptive evolution for individual-based spatially
+  structured populations",,,,
+math/0609264,Combinatorics of pedigrees,,,,
+math/0610840,"Estimating the relative order of speciation or coalescence events on a
+  given phylogeny",,,,
+math/0610919,Stochastic Models for Speciation Events in Phylogenetic trees,,,,
+math/0701917,"Proliferating parasites in dividing cells : Kimmel's branching model
+  revisited",,,,
+math/0703135,Equilibrium States of Two Stochastic Models in Mathematical Ecology,,,,
+nlin/0001009,Some Techniques for the Measurement of Complexity in Tierra,,,,
+nlin/0004026,An Ecolab Perspective on the Bedau Evolutionary Statistics,,,,
+nlin/0009037,A mean field stochastic theory for species-rich assembled communities,,,,
+nlin/0203038,"Symbiotic Sympatric Speciation: Compliance with Interaction-driven
+  Phenotype Differentiation from a Single Genotype",,,,
+nlin/0208023,Survival and Extinction in Cyclic and Neutral Three--Species Systems,,,,
+nlin/0209044,Intrinsic chaos and external noise in population dynamics,,,,
+nlin/0306030,Swarming dynamics of a model for biological groups in two dimensions,,,,
+nlin/0311054,Sustained plankton blooms under open chaotic flows,,,,
+nlin/0311056,Reactive dynamics of inertial particles in nonhyperbolic chaotic flows,,,,
+nlin/0312070,A renormalization group theory of cultural evolution,,,,
+nlin/0401039,The case of the missing neutrality,,,,
+nlin/0404011,"Ecolab, Webworld and self-organisation",,,,
+nlin/0404012,Tierra's missing neutrality: case solved,,,,
+nlin/0404021,"On Persistence and Stability of some Biological Systems with Cross
+  Diffusion",,,,
+nlin/0405011,Evolution of Robust Developmental Neural Networks,,,,
+nlin/0406012,Pursuit-evasion predator-prey waves in two spatial dimensions,,,,
+nlin/0408008,Chaos induced coherence in two independent food chains,,,,
+nlin/0409033,Species Abundance Patterns in Complex Evolutionary Dynamics,,,,
+nlin/0410052,On Multiobjective Evolution Model,,,,
+nlin/0605046,"Spatial organization and evolutional period of the epidemic model using
+  cellular automata",,,,
+nlin/0612004,Emergence of Chaotic Itinerancy in Simple Ecological Systems,,,,
+patt-sol/9711001,Mutator Dynamics on a Smooth Evolutionary Landscape,,,,
+physics/0002001,A Simple Explanation for Taxon Abundance Patterns,,,,
+physics/0002054,Evolution of differentiated expression patterns in digital organisms,,,,
+physics/0005074,Evolution of Biological Complexity,,,,
+physics/0011002,A Historical Perspective on Cancer,,,,
+physics/0103022,"Selection for Fitness vs. Selection for Robustness in RNA Secondary
+  Structure Folding",,,,
+physics/0106093,Maternal effects in molecular evolution,,,,
+physics/0109014,"Modeling the effects of tetanus vaccination on chronically infected HIV
+  patients",,,,
+physics/0109020,Optimal adaptive performance and delocalization in NK fitness landscapes,,,,
+physics/0111205,Statistics of selectively neutral genetic variation,,,,
+physics/0112039,On the Selection and Evolution of Regulatory DNA Motifs,,,,
+physics/0204065,"A Non-equilibrium Thermodynamic Framework for the Dynamics and Stability
+  of Ecosystems",,,,
+physics/0208043,On the origin of plankton patchiness,,,,
+physics/0209081,Ab Initio Modeling of Ecosystems with Artificial Life,,,,
+physics/0210125,Ownership and Trade from Evolutionary Games,,,,
+physics/0211061,Gauge Poisson representations for birth/death master equations,,,,
+physics/0302046,Does the Red Queen reign in the kingdom of digital organisms?,,,,
+physics/0305001,Modeling stochastic clonal interference,,,,
+physics/0305022,Analytic solution of Hubbell's model of local community dynamics,,,,
+physics/0308028,"Critical Behavior in a Cellular Automata Animal Disease Transmission
+  Model",,,,
+physics/0310142,"Complete homochirality induced by the nonlinear autocatalysis and
+  recycling",,,,
+physics/0310157,Large phenotype jumps in biomolecular evolution,,,,
+physics/0408105,Chirality Selection Models in a Closed System,,,,
+physics/0409128,The Scaling of Maximum and Basal Metabolic Rates of Mammals and Birds,,,,
+physics/0412037,"Noise-Induced Transition from Translational to Rotational Motion of
+  Swarms",,,,
+physics/0501123,"Asymmetric spreading in highly advective, disordered environments",,,,
+physics/0503057,Chirality Selection in Open Flow Systems and in Polymerization,,,,
+physics/0510063,"On the Distribution of State Values of Reproducing Cells: the General
+  Evolution Equation and its Applications",,,,
+physics/0702168,A Toy Model of the Rat Race,,,,
+physics/9903024,Adaptive walks on time-dependent fitness landscapes,,,,
+physics/9909012,Pattern formation by competition: a biological example,,,,
+q-bio/0309015,A Quasispecies on a Moving Oasis,,,,
+q-bio/0310004,Complexity and hierarchical game of life,,,,
+q-bio/0310006,Dynamics of Fixation of Advantageous Mutations,,,,
+q-bio/0310019,Complexity in the Immune System,,,,
+q-bio/0310028,"Upstream Plasticity and Downstream Robustness in Evolution of Molecular
+  Networks",,,,
+q-bio/0310035,Why humans die -- an unsolved biological problem,,,,
+q-bio/0310036,"""Junk"" DNA as a genetic decoy",,,,
+q-bio/0310037,"U(1)xU(1)xU(1) symmetry of the Kimura 3ST model and phylogenetic
+  branching processes",,,,
+q-bio/0311013,"Adaptive walks in a gene network model of morphogenesis: insights into
+  the Cambrian explosion",,,,
+q-bio/0311025,Evolutionary tradeoff and equilibrium in an aquatic predator-prey system,,,,
+q-bio/0312014,Adaptation and enslavement in endosymbiont-host associations,,,,
+q-bio/0312018,"Evolutionary model with genetics, aging and knowledge",,,,
+q-bio/0401023,Quantitative patterns in the structure of model and empirical food webs,,,,
+q-bio/0401025,"The impact of non-linear functional responses on the long-term evolution
+  of food web structure",,,,
+q-bio/0402004,Mathematical modeling of filamentous microorganisms,,,,
+q-bio/0402006,"Functional Bias and Spatial Organization of Genes in Mutational Hot and
+  Cold Regions in the Human Genome",,,,
+q-bio/0402009,The Speed of Adaptation in Large Asexual Populations,,,,
+q-bio/0402010,"Replication at periodically changing multiplicity of infection promotes
+  stable coexistence of competing viral populations",,,,
+q-bio/0402016,"Size of the stable population in the Penna bit-string model of
+  biological aging",,,,
+q-bio/0402028,The role of mutation rate in a simple colonization model,,,,
+q-bio/0402038,A model of sympatric speciation through assortative mating,,,,
+q-bio/0402047,Gene-history correlation and population structure,,,,
+q-bio/0403002,"A generalized model of mutation-selection balance with applications to
+  aging",,,,
+q-bio/0403014,A Theoretical Framework for the Analysis of the West Nile Virus Epidemic,,,,
+q-bio/0403023,Altruism may arise from individual selection,,,,
+q-bio/0403039,Alternative Splicing and Genomic Stability,,,,
+q-bio/0403041,Population growth and control in stochastic models of cancer development,,,,
+q-bio/0403043,"The dauer mutation of the caenorhabditis elegans, simulated with the
+  Penna and the Stauffer model",,,,
+q-bio/0403044,Variations in Substitution Rate in Human and Mouse Genomes,,,,
+q-bio/0404008,Stochastic evolution and multifractal classification of prokaryotes,,,,
+q-bio/0404020,"On the effect of fluctuating recombination rates on the decorrelation of
+  gene histories in the human genome",,,,
+q-bio/0404022,"Modulation of Base Specific Mutation and Recombination Rates Enables
+  Functional Adaptation within the Context of the Genetic Code",,,,
+q-bio/0404028,Modeling Vortex Swarming In Daphnia,,,,
+q-bio/0405004,Information theory in molecular biology,,,,
+q-bio/0405005,Self Trapping of a Single Bacterium in its Own Chemoattractant,,,,
+q-bio/0405018,"Effects of neighbourhood size and connectivity on spatial Continuous
+  Prisoner's Dilemma",,,,
+q-bio/0405025,"Universal Mortality Law, Life Expectancy and Immortality",,,,
+q-bio/0406005,War of attrition with implicit time cost,,,,
+q-bio/0406012,"A computational study of the statistical mechanics of antibody-antigen
+  conformations",,,,
+q-bio/0406014,"Evolution at the Edge of Chaos: A Paradigm for the Maturation of the
+  Humoral Immune Response",,,,
+q-bio/0406017,The emergence of prime numbers as the result of evolutionary strategy,,,,
+q-bio/0406020,Organization of Ecosystems in the Vicinity of a Novel Phase Transition,,,,
+q-bio/0406027,Altruism and Antagonistic Pleiotropy in Penna Ageing Model,,,,
+q-bio/0406035,Spatio-temporal Dynamics in the Origin of Genetic Information,,,,
+q-bio/0406038,Sympatric speciation in an age-structured population living on a lattice,,,,
+q-bio/0406044,Random autocatalytic networks,,,,
+q-bio/0407004,"Semiconservative replication in the quasispecies model II:
+  Generalization to arbitrary lesion repair probabilities",,,,
+q-bio/0407007,Flexible Foraging of Ants under Unsteadily Varying Environment,,,,
+q-bio/0407012,Evolvability is a Selectable Trait,,,,
+q-bio/0407020,Effects of internal fluctuations on the spreading of Hantavirus,,,,
+q-bio/0407025,Simulation and Experiment of Extinction or Adaptation,,,,
+q-bio/0407032,An Alternative Model of Amino Acid Replacement,,,,
+q-bio/0407042,Statistics of infections with diversity in the pathogenicity,,,,
+q-bio/0408019,"Collective Dynamics of Active Elements: Task Allocation and Pheromone
+  Trailing",,,,
+q-bio/0408020,A microscopic model of evolution of recombination,,,,
+q-bio/0408021,Cooperation driven by mutations in multi-person Prisoner's Dilemma,,,,
+q-bio/0409013,Thermodynamic Prediction of Protein Neutrality,,,,
+q-bio/0409024,"Stability of evolutionarily stable strategies in discrete replicator
+  dynamics with time delay",,,,
+q-bio/0409026,"Equilibrium selection in evolutionary games with random matching of
+  players",,,,
+q-bio/0409027,Characterizing large scale base composition structures of genomes,,,,
+q-bio/0409028,Evolutionary and asymptotic stability in symmetric multi-player games,,,,
+q-bio/0409033,A more comprehensive formulation of evolutionary equations,,,,
+q-bio/0409035,Probabilistic pairwise sequence alignment,,,,
+q-bio/0410021,"Prediction of site-specific amino acid distributions and limits of
+  divergent evolutionary changes in protein sequences",,,,
+q-bio/0410022,A Unified Model of Codon Reassignment in Alternative Genetic Codes,,,,
+q-bio/0410023,Network of tRNA Gene Sequences,,,,
+q-bio/0410027,Inter-species regression analysis,,,,
+q-bio/0411002,Solvable senescence model with positive mutations,,,,
+q-bio/0411007,Analytical solution of a generalized Penna model,,,,
+q-bio/0411008,Population Dynamics in the Penna Model,,,,
+q-bio/0411040,"Opportunistic infection as a cause of transient viremia in chronically
+  infected HIV patients under treatment with HAART",,,,
+q-bio/0411051,Scaling effects in the Penna ageing model,,,,
+q-bio/0412004,"Looking at structure, stability, and evolution of proteins through the
+  principal eigenvector of contact matrices and hydrophobicity profiles",,,,
+q-bio/0412024,The species-area relationship and evolution,,,,
+q-bio/0412028,"Forcing reversibility in the no strand-bias substitution model allows
+  for the theoretical and practical identifiability of its 5 parameters from
+  pairwise DNA sequence comparisons",,,,
+q-bio/0412029,"Tradeoff between short-term and long-term adaptation in a changing
+  environment",,,,
+q-bio/0412038,Equilibrium transitions in finite populations of players,,,,
+q-bio/0412041,Stochastic stability in three-player games,,,,
+q-bio/0412049,Particle Statistics and Population Dynamics,,,,
+q-bio/0501003,"An approximate threshold condition for non-autonomous system: an
+  application to a vector-borne infection",,,,
+q-bio/0501009,"A schematic age-structured compartment model of the impact of
+  antiretroviral therapy on HIV incidence and prevalence",,,,
+q-bio/0501022,Stochastic models in population biology and their deterministic analogs,,,,
+q-bio/0502021,"Biodiversity in model ecosystems, I: Coexistence conditions for
+  competing species",,,,
+q-bio/0502022,"Biodiversity in model ecosystems, II: Species assembly and food web
+  structure",,,,
+q-bio/0502026,Stochastic gene expression in switching environments,,,,
+q-bio/0502027,"Simulations of a mortality plateau in the sexual Penna model for
+  biological ageing",,,,
+q-bio/0503008,"Comparative Analysis of the Saccharomyces cerevisiae and Caenorhabditis
+  elegans Protein Interaction Network",,,,
+q-bio/0503015,Sociophysics Simulations III: Retirement Demography,,,,
+q-bio/0503020,"Long-term evolution of an ecosystem with spontaneous periodicity of mass
+  extinctions",,,,
+q-bio/0503024,"Altruistic behavior pays, or the importance of fluctuations in
+  evolutionary game theory",,,,
+q-bio/0503026,Species Abundances Distribution in Neutral Community Models,,,,
+q-bio/0504015,"Evidence of a universal power law characterizing the evolution of
+  metabolic networks",,,,
+q-bio/0504018,Neutral Theory and Relative Species Abundance in Ecology,,,,
+q-bio/0504019,Scaling properties of the Penna model,,,,
+q-bio/0504021,"Sharp gene pool transition in a population affected by phenotype-based
+  selective hunting",,,,
+q-bio/0504032,"Evolutionary origin of power-laws in Biochemical Reaction Network;
+  embedding abundance distribution into topology",,,,
+q-bio/0505001,"Study of Arbitrary Nonlinearities in Convective Population Dynamics with
+  Small Diffusion",,,,
+q-bio/0505019,Diversity as a product of interspecial interactions,,,,
+q-bio/0505020,The contact network of patients in a regional healthcare system,,,,
+q-bio/0505026,A Predation Behavior Model Based on Game Theory,,,,
+q-bio/0505035,A minimal stochastic model for influenza evolution,,,,
+q-bio/0505048,Template coexistence in prebiotic vesicle models,,,,
+q-bio/0506004,Robustness and Evolvability of the B Cell Mutator Mechanism,,,,
+q-bio/0506017,Built to evolve,,,,
+q-bio/0506018,"Spontaneous natural selection in a model for spatially distributed
+  interacting populations",,,,
+q-bio/0506027,Statistical Mechanics of Two-player Iterated Games,,,,
+q-bio/0506034,The Shapley Value of Phylogenetic Trees,,,,
+q-bio/0507006,"Does telomere elongation lead to a longer lifespan if cancer is
+  considered?",,,,
+q-bio/0507013,Does host contact structure reduce pathogen diversity?,,,,
+q-bio/0507018,"Bayesian Method for Disease QTL Detection and Mapping, using a Case and
+  Control Design and DNA Pooling",,,,
+q-bio/0508002,Food Webs: Experts Consuming Families of Experts,,,,
+q-bio/0508011,"Time Reversal of the Increasing Geometrical Progression of the
+  Population of a Simple Biological Specie",,,,
+q-bio/0508014,"Selective advantage for multicellular replicative strategies: A two-cell
+  example",,,,
+q-bio/0508017,Monte carlo simulations of parapatric speciation,,,,
+q-bio/0508022,"Sensitive predators and endurant preys in an ecosystem driven by
+  correlated noises",,,,
+q-bio/0508026,Shock waves in virus fitness evolution,,,,
+q-bio/0508033,Spatial Scaling in Model Plant Communities,,,,
+q-bio/0509006,"Modeling viral coevolution: HIV multi-clonal persistence and competition
+  dynamics",,,,
+q-bio/0509012,"Pure competition of multiple species during mixed-substrate microbial
+  growth: Extending the resource-based theory",,,,
+q-bio/0509014,"Fermentation kinetics including product and substrate inhibitions plus
+  biomass death: a mathematical analysis",,,,
+q-bio/0509023,"Cyclic Fluctuations, Climatic Changes and Role of Noise in Planktonic
+  Foraminifera in the Mediterranean Sea",,,,
+q-bio/0509031,Population genetics of translational robustness,,,,
+q-bio/0509037,"A probabilistic model for gene content evolution with duplication, loss,
+  and horizontal transfer",,,,
+q-bio/0509044,Epidemics in small world networks,,,,
+q-bio/0510001,Implications of Aging in Bacteria,,,,
+q-bio/0510007,The fitness value of information,,,,
+q-bio/0510014,Predictive Models for Characterization of Ecological Data,,,,
+q-bio/0510018,A Model Analyzing Life Cycle of Periodical Cicadas,,,,
+q-bio/0510020,$C_{E}PT$ Symmetry of the Simple Ecological Dynamical Equations,,,,
+q-bio/0511002,Species lifetime distribution for simple models of ecologies,,,,
+q-bio/0511010,Monte Carlo simulations of the inside-intron recombination,,,,
+q-bio/0511024,"Theory of Hantavirus Infection Spread Incorporating Localized Adult and
+  Itinerant Juvenile Mice",,,,
+q-bio/0511025,"Diffusion and Home Range Parameters from Rodent Population Measurements
+  in Panama",,,,
+q-bio/0511026,"Theory of Home Range Estimation from Mark-Recapture Measurements of
+  Animal Populations",,,,
+q-bio/0511028,"Diffusion and Home Range Parameters for Rodents: Peromyscus maniculatus
+  in New Mexico",,,,
+q-bio/0511031,"Divergent evolution paths of different genetic families in the Penna
+  model",,,,
+q-bio/0511044,Quasi-Species and Aggregate Dynamics,,,,
+q-bio/0511048,Gompertz mortality law and scaling behaviour of the Penna model,,,,
+q-bio/0511051,Quasispecies and recombination,,,,
+q-bio/0512002,Characterization of a Branch of the Phylogenetic Tree,,,,
+q-bio/0512003,Optimal strategies for fighting persistent bugs,,,,
+q-bio/0512009,A geometric approach to tree shape statistics,,,,
+q-bio/0512010,"Ubiquity of synonymity: almost all large binary trees are not uniquely
+  identified by their spectra or their immanantal polynomials",,,,
+q-bio/0512014,"Dynamics of networking agents competing for high centrality and low
+  degree",,,,
+q-bio/0512030,"Effect of Predators of Juvenile Rodents on the Spread of the Hantavirus
+  Epidemic",,,,
+q-bio/0512044,"Short and Long-Term Dynamics of Childhood Diseases on Dynamic
+  Small-World Networks",,,,
+q-bio/0512045,The importance of selection rate in the evolution of cooperation,,,,
+q-bio/0601036,Extinction in genetic bit-string model with sexual recombination,,,,
+q-bio/0601050,Exploitation dynamics of fish stocks,,,,
+q-bio/0602003,"The Bacterial Chemotactic Response Reflects a Compromise Between
+  Transient and Steady State Behavior",,,,
+q-bio/0602007,"Realization of features of immune response by dynamical system models
+  and a possible mechanism of memory of antigen invasion",,,,
+q-bio/0602015,"Co-occurrence of resonant activation and noise-enhanced stability in a
+  model of cancer growth in the presence of immune response",,,,
+q-bio/0602016,"Coexistence of resonant activation and noise enhanced stability in a
+  model of tumor-host interaction: Statistics of extinction times",,,,
+q-bio/0603003,Mathematical Model of HIV superinfection dynamics and R5 to X4 switch,,,,
+q-bio/0604010,Non-equilibrium theory of the allele frequency spectrum,,,,
+q-bio/0604030,"Self-organized patterns of coexistence out of a predator-prey cellular
+  automaton",,,,
+q-bio/0604035,"On the weak solutions of the McKendrick equation: Existence of
+  demography cycles",,,,
+q-bio/0605002,Pattern-based phylogenetic distance estimation and tree reconstruction,,,,
+q-bio/0605014,Complex reaction noise in molecular quasispecies model,,,,
+q-bio/0605024,"Shorelines of islands of tractability: Algorithms for parsimony and
+  minimum perfect phylogeny haplotyping problems",,,,
+q-bio/0605025,A method for representing and developing process models,,,,
+q-bio/0605034,Optimization over a class of tree shape statistics,,,,
+q-bio/0605036,Collective evolution and the genetic code,,,,
+q-bio/0605041,Thermodynamics of Neutral Protein Evolution,,,,
+q-bio/0605043,Dynamic scaling regimes of collective decision making,,,,
+q-bio/0605047,When does division of labor lead to increased system output?,,,,
+q-bio/0606011,Simulation in Biology,,,,
+q-bio/0606033,Time Scales in Evolutionary Dynamics,,,,
+q-bio/0606034,Why are diploid genomes widespread and dominant mutations rare?,,,,
+q-bio/0606037,"The propagation of a cultural or biological trait by neutral genetic
+  drift in a subdivided population",,,,
+q-bio/0607005,Mitochondrial Dna Replacement Versus Nuclear Dna Persistence,,,,
+q-bio/0607008,"A quantitative study of the benefits of co-regulation using the spoIIA
+  operon as an example",,,,
+q-bio/0607010,The influence of risk perception in epidemics: a cellular agent model,,,,
+q-bio/0607011,Statistical mechanics of relative species abundance,,,,
+q-bio/0607015,Sex and hermaphroditism in the Penna model,,,,
+q-bio/0607016,"Toxin-allelopathy among phytoplankton species prevents competitive
+  exclusion",,,,
+q-bio/0607033,"A ""Quasi-Rapid"" Extinction Population Dynamics and Mammoths Overkill",,,,
+q-bio/0607045,The risk of extinction - the mutational meltdown or the overpopulation,,,,
+q-bio/0608013,Linear model of tumor growth in a changing environment,,,,
+q-bio/0608014,"The effect of finite population size on the evolutionary dynamics in
+  multi-person Prisoner's Dilemma",,,,
+q-bio/0608016,"Inductive Reasoning Games as Influenza Vaccination Models: Mean Field
+  Analysis",,,,
+q-bio/0608018,Clone size distributions in networks of genetic similarity,,,,
+q-bio/0608026,"Does the 1/f frequency-scaling of brain signals reflect self-organized
+  critical states?",,,,
+q-bio/0608028,"Incubation periods under various anti-retroviral therapies in
+  homogeneous mixing and age-structured dynamical models: A theoretical
+  approach",,,,
+q-bio/0608032,"Two-population replicator dynamics and number of Nash equilibria in
+  random matrix games",,,,
+q-bio/0609002,"Functional Integration of Ecological Networks through Pathway
+  Proliferation",,,,
+q-bio/0609010,Analytic Behaviour of Competition among Three Species,,,,
+q-bio/0609012,Species-area relationship for power-law species abundance distribution,,,,
+q-bio/0609027,Coevolution. Extending Prigogine Theorem,,,,
+q-bio/0609028,"Living beings as informed systems: towards a physical theory of
+  information",,,,
+q-bio/0609031,Network Models of Phage-Bacteria Coevolution,,,,
+q-bio/0609032,Effects of rapid prey evolution on predator-prey cycles,,,,
+q-bio/0609034,"Evolution of cooperation and communication skills as a consequence of
+  environment fluctuations",,,,
+q-bio/0609046,A mutation-selection model for general genotypes with recombination,,,,
+q-bio/0609047,"Formation of regular spatial patterns in ratio-dependent predator-prey
+  model driven by spatial colored-noise",,,,
+q-bio/0609052,"The maintenance of sex in bacteria is ensured by its potential to reload
+  genes",,,,
+q-bio/0610002,The dynamics of Machiavellian intelligence,,,,
+q-bio/0610004,Sea urchin feeding fronts,,,,
+q-bio/0610006,"Formation of spatial patterns in epidemic model with constant removal
+  rate of the infectives",,,,
+q-bio/0610018,"A Physical Theory of the Competition that Allows HIV to Escape from the
+  Immune System",,,,
+q-bio/0610033,"The Vaccinee's Dilemma: Individual-level Decisions, Self- Organization &
+  Influenza Epidemics",,,,
+q-bio/0610034,"Population size effects in evolutionary dynamics on neutral networks and
+  toy landscapes",,,,
+q-bio/0610042,"An effective model for flocculating bacteria with density-dependent
+  growth dynamics",,,,
+q-bio/0611007,The Bayesian `star paradox' persists for long finite sequences,,,,
+q-bio/0611012,Mind model seems necessary for the emergence of communication,,,,
+q-bio/0611024,Spontaneous emergence of spatial patterns ina a predator-prey model,,,,
+q-bio/0611025,Individual-based model for coevolving competing populations,,,,
+q-bio/0611029,"Approximating genealogies for partially linked neutral loci under a
+  selective sweep",,,,
+q-bio/0611031,"Evolution Equation of Phenotype Distribution: General Formulation and
+  Application to Error Catastrophe",,,,
+q-bio/0611067,Periodical cicadas: a minimal automaton model,,,,
+q-bio/0611084,"A Novel Test for Host-Symbiont Codivergence Indicates Ancient Origin of
+  Fungal Endophytes in Grasses",,,,
+q-bio/0611087,Microcolony and Biofilm Formation as a Survival Strategy for Bacteria,,,,
+q-bio/0611091,Population models with singular equilibrium,,,,
+q-bio/0612005,Allee Effects and Extinction in a Lattice Model,,,,
+q-bio/0612016,"Beneficial mutation-selection balance and the effect of linkage on
+  positive selection",,,,
+q-bio/0612019,"Insects, Trees, and Climate: The Bioacoustic Ecology of Deforestation
+  and Entomogenic Climate Change",,,,
+q-bio/0612047,Preservation of information in a prebiotic package model,,,,
+q-bio/0701005,Reaction-noise induced homochirality,,,,
+q-bio/0701008,"Co-evolution of strategy and structure in complex networks with
+  dynamical linking",,,,
+q-bio/0701012,Spatiotemporal complexity of a ratio-dependent predator-prey system,,,,
+q-bio/0701017,Speculations on the emergence of self-awareness in big-brained organisms,,,,
+q-bio/0701024,Solution of an infection model near threshold,,,,
+q-bio/0701031,Lotka-Volterra population model of genetic evolution,,,,
+q-bio/0701044,"Oscillations in two-species models: tying the stochastic and
+  deterministic approaches",,,,
+q-bio/0702005,In search of lost introns,,,,
+q-bio/0702015,Biology's next revolution,,,,
+q-bio/0702035,Species clustering in competitive Lotka-Volterra models,,,,
+q-bio/0702038,"Modelling Sex Ratio and Numbers for Translocation in Meta-Population
+  Management",,,,
+q-bio/0702048,"The Time Invariance Principle, Ecological (Non)Chaos, and A Fundamental
+  Pitfall of Discrete Modeling",,,,
+q-bio/0703005,"Evolution of Robustness to Noise and Mutation in Gene Expression
+  Dynamics",,,,
+q-bio/0703016,A model for rolling swarms of locusts,,,,
+q-bio/0703020,"Chromosome Length Scaling in Haploid, Asexual Reproduction",,,,
+q-bio/0703021,"The Origin of 2 Sexes Through Optimization of Recombination Entropy
+  Against Time and Energy",,,,
+q-bio/0703031,Monte Carlo Simulation of Medical Resource Allocation,,,,
+q-bio/0703039,Bounding biomass in the Fisher equation,,,,
+q-bio/0703040,Gene surfing,,,,
+q-bio/0703045,Monte Carlo Simulation of Age-Dependent Host-Parasite Relations,,,,
+q-bio/0703051,"Is Adaptive Landscape in Biology a Metaphor or a Quantitative Concept?
+  or Both?",,,,
+q-bio/0703057,Population dynamics with a stable efficient equilibrium,,,,
+q-bio/0703058,A mathematical model for the therapy of the HIV infection,,,,
+quant-ph/0206014,Survival of the Fittest and Zero Sum Games,,,,
+quant-ph/0301075,Selective pressures on genomes in molecular evolution,,,,

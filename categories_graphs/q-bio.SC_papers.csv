@@ -1,0 +1,194 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+q-bio/0401042,Mechanisms of pattern formation during T cell adhesion,3.3749066596554898e-06,0.0,1.0,0.0
+cond-mat/0512009,"Boundary-bulk interplay of molecular motor traffic flow through a
+  compartment",3.0472482127272877e-06,0.0,2.0,0.0
+physics/0504051,"Power-law rheology and mechano-sensing in a cytoskeleton model with
+  forced protein unfolding",2.923024895913817e-06,0.0,1.0,0.0
+physics/0608098,"Traffic of interacting ribosomes on mRNA during protein synthesis:
+  effects of chemo-mechanics of individual ribosomes",2.691038341266544e-06,0.0,1.0,0.0
+q-bio/0404037,How does the chromatin fiber deal with topological constraints?,2.4894346673033504e-06,0.0,1.0,0.0
+q-bio/0605013,A model of hyphal tip growth involving microtubule-based transport,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0612054,"Intra-cellular transport by single-headed kinesin KIF1A: effects of
+  single-motor mechano-chemistry and steric interactions",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0308529,Rheology of Active-Particle Suspensions,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0502034,"Kinetics of target site localization of a protein on DNA: a stochastic
+  approach",2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0511049,"A stochastic model of Min oscillations in Escherichia coli and Min
+  protein segregation during cell division",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0309387,"Ribosome recycling, diffusion, and mRNA loop formation in translational
+  regulation",2.419152571823881e-06,0.0,2.0,0.0
+cond-mat/0505490,"Conductance of ion channels and nanopores with charged walls: a toy
+  model",1.979109243009905e-06,0.0,2.0,0.0
+cond-mat/0604129,Finite-size effects in intracellular microrheology,1.8950380516170012e-06,0.0,1.0,0.0
+q-bio/0512041,"Exact results for noise power spectra in linear biochemical reaction
+  networks",1.8950380516170012e-06,0.0,1.0,1.0
+q-bio/0601001,"Cooperativity, sensitivity and noise in biochemical signaling",1.703003024765287e-06,0.0,1.0,0.0
+q-bio/0504003,Metabolic Network Modelling: Including Stochastic Effects,1.703003024765287e-06,0.0,1.0,0.0
+q-bio/0508010,First passage times and asymmetry of DNA translocation,1.6173655559692317e-06,0.0,1.0,0.0
+physics/0109064,"Alteration of Chemical Concentrations through Discreteness-Induced
+  Transitions in Small Autocatalytic Systems",1.5493750032839157e-06,0.0,1.0,0.0
+quant-ph/0007023,What can biology bestow to quantum mechanics?,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0309683,Membrane fluctuations around inclusions,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0502024,"Self-organized density patterns of molecular motors in arrays of
+  cytoskeletal filaments",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0311574,Gating-by-tilt of mechanosensitive membrane channels,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0505051,"Min-protein oscillations in Escherichia coli with spontaneous formation
+  of two-stranded filaments in a three-dimensional stochastic
+  reaction-diffusion model",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0504023,On Myosin II dynamics in the presence of external loads,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0307720,Self-organized Pattern Formation in Motor-Microtubule Mixtures,1.3189329710618589e-06,0.0,0.0,2.0
+q-bio/0601045,"Thresholds, long delays and stability from generalized allosteric effect
+  in protein networks",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0502527,"Movements of molecular motors: Ratchets, random walks and traffic
+  phenomena",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9501076,Amphiphilic Membranes,1.3189329710618589e-06,0.0,0.0,7.0
+q-bio/0402040,Turbulence near cyclic fold bifurcations in birhythmic media,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0309026,Dynamics of Immobilized Flagella,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0512018,Collective dynamics of molecular motors pulling on fluid membranes,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0112125,Dynamic compartmentalization of bacteria: accurate division in E. coli,,,,
+cond-mat/0203230,Walks of molecular motors in two and three dimensions,,,,
+cond-mat/0211501,Pore Stability and Dynamics in Polymer Membranes,,,,
+cond-mat/0212452,A Simple Kinetic Model Describes the Processivity of Myosin-V,,,,
+cond-mat/0302313,"Recursiveness, Switching, and Fluctuations in a Replicating Catalytic
+  Network",,,,
+cond-mat/0302409,"Pattern formation inside bacteria: fluctuations due to low copy number
+  of proteins",,,,
+cond-mat/0304188,Dynamics of non-equilibrium membrane bud formation,,,,
+cond-mat/0307060,"Single Stranded DNA Translocation Through A Nanopore: A Master Equation
+  Approach",,,,
+cond-mat/0308199,"Translocation of a Single Stranded DNA Through a Conformationally
+  Changing Nanopore",,,,
+cond-mat/0309322,Indirect interactions of membrane-adsorbed cylinders,,,,
+cond-mat/0309495,"Autonomous Energy Transducer: Proposition, Example, Basic
+  Characteristics",,,,
+cond-mat/0310546,"Dynamic instability of microtubules: effect of catastrophe-suppressing
+  drugs",,,,
+cond-mat/0310682,Clustered bottlenecks in mRNA translation and protein synthesis,,,,
+cond-mat/0401533,Stability of adhesion clusters under constant force,,,,
+cond-mat/0402195,Phase transitions in systems with two species of molecular motors,,,,
+cond-mat/0403702,Multiple stalk formation as a pathway of defect-induced membrane fusion,,,,
+cond-mat/0404557,Rupture of a liposomal vesicle,,,,
+cond-mat/0407467,Self-assembly of polyhedral shells: A molecular dynamics study,,,,
+cond-mat/0412293,DNA in nanopore-counterion condensation and coion depletion,,,,
+cond-mat/0412493,Active transport: A kinetic description based on thermodynamic grounds,,,,
+cond-mat/0503086,Dynamics of membranes driven by actin polymerization,,,,
+cond-mat/0503692,Non-equilibrium raft-like membrane domains under continuous recycling,,,,
+cond-mat/0505704,Renewal processes and fluctuation analysis of molecular motor stepping,,,,
+cond-mat/0507637,Spicules and the effect of rigid rods on enclosing membrane tubes,,,,
+cond-mat/0512119,Traffic of Molecular Motors,,,,
+cond-mat/0512514,Adhesion of membranes via actively switched receptors,,,,
+cond-mat/0607538,Effective charge and free energy of DNA inside an ion channel,,,,
+cond-mat/0612457,Impact of receptor-ligand distance on adhesion cluster stability,,,,
+cond-mat/0612516,Generic principles of active transport,,,,
+cond-mat/9905001,Entropy-driven pumping across zeolites and biological channels,,,,
+cond-mat/9908106,A Thermodynamic Model for Receptor Clustering,,,,
+math-ph/0412089,Stochastic Chemical Reactions in Micro-domains,,,,
+nlin/0203039,"Kinetic Origin of Heredity in a Replicating System with a Catalytic
+  Network",,,,
+patt-sol/9910001,Discrete stochastic modeling of calcium channel dynamics,,,,
+physics/0008238,"Transitions Induced by the Discreteness of Molecules in a Small
+  Autocatalytic System",,,,
+physics/0308085,"Increased Concentration of Polyvalent Phospholipids in the Adsorption
+  Domain of a Charged Protein",,,,
+physics/0308089,Spatial curvature effects on molecular transport by diffusion,,,,
+physics/0310083,"Molecular Discreteness in Reaction-Diffusion Systems Yields Steady
+  States Not Seen in the Continuum Limit",,,,
+physics/0404086,Fission of a multiphase membrane tube,,,,
+physics/0409027,"Discreteness-induced Stochastic Steady State in Reaction Diffusion
+  Systems: Self-consistent Analysis and Stochastic Simulations",,,,
+physics/0501017,Discreteness-Induced Transitions in Autocatalytic Systems,,,,
+physics/0504058,Budding and Fission of a multiphase vesicle,,,,
+physics/0504084,Fluctuations in type IV pilus retraction,,,,
+physics/0505191,Filament attachment dynamics in actin-based propulsion,,,,
+physics/0506014,Intra-cellular transport of single-headed molecular motors KIF1A,,,,
+physics/0508033,Oscillations in molecular motor assemblies,,,,
+physics/0605053,"Collective effects in intra-cellular molecular motor transport:
+  coordination, cooperation and competetion",,,,
+physics/0609035,Dwell time of a Brownian interacting molecule in a cellular microdomain,,,,
+physics/0702149,Modeling protein synthesis from a physicist's perspective: a toy model,,,,
+q-bio/0309010,Force steps during viral DNA packaging ?,,,,
+q-bio/0312008,"Stabilization of microtubules due to microtubule-associated proteins: A
+  simple model",,,,
+q-bio/0312015,A mechanism for polar protein localization in bacteria,,,,
+q-bio/0312028,Bi-Phasic Vesicles: instability induced by adsorption of proteins,,,,
+q-bio/0401004,Novel steady state of a microtubule assembly in a confined geometry,,,,
+q-bio/0402041,"The influence of geometry, surface character and flexibility on the
+  permeation of ions and water through biological pores",,,,
+q-bio/0404007,Information Processing in Brain Microtubules,,,,
+q-bio/0405024,"Modeling stochastic Ca$^{2+}$ release from a cluster of IP$_3$-sensitive
+  receptors",,,,
+q-bio/0406036,"Nucleosome interactions in chromatin: fiber stiffening and hairpin
+  formation",,,,
+q-bio/0406037,"Theory of Nucleosome Corkscrew Sliding in the Presence of Synthetic DNA
+  Ligands",,,,
+q-bio/0407011,Phase Transition in Reconstituted Chromatin,,,,
+q-bio/0409006,"Pattern formation within Escherichia coli: diffusion, membrane
+  attachment, and self-interaction of MinD molecules",,,,
+q-bio/0411038,Collective charge excitations along cell membranes,,,,
+q-bio/0412026,Force generation in small ensembles of Brownian motors,,,,
+q-bio/0501024,"Competing Polymerization of Actin Skeleton explains Relation between
+  Network Polarity and Cell Movements",,,,
+q-bio/0501032,Filament depolymerization by motor molecules,,,,
+q-bio/0503013,"Non-Maxwellian velocity distribution and anomalous diffusion of {\it in
+  vitro} kidney cells",,,,
+q-bio/0503022,Spontaneous flow transition in active polar gels,,,,
+q-bio/0504008,"L-selectin mediated leukocyte tethering in shear flow is controlled by
+  multiple contacts and cytoskeletal anchorage facilitating fast rebinding
+  events",,,,
+q-bio/0504017,"Min-oscillations in Escherichia coli induced by interactions of
+  membrane-bound proteins",,,,
+q-bio/0506030,Budded membrane microdomains as regulators for cellular tension,,,,
+q-bio/0507010,Integrin activation - the importance of a positive feedback,,,,
+q-bio/0507015,Differential gene expression in Bacillus subtilis,,,,
+q-bio/0507031,"Detection of confinement and jumps in single molecule membrane
+  trajectories",,,,
+q-bio/0507046,Chromosome Oscillations in Mitosis,,,,
+q-bio/0509018,"A Hydrophobic Gate in an Ion Channel: The Closed State of the Nicotinic
+  Acetylcholine Receptor",,,,
+q-bio/0510050,"Continuum Description of the Cytoskeleton: Ring Formation in the Cell
+  Cortex",,,,
+q-bio/0511005,"Metabolic Futile Cycles and Their Functions: A Systems Analysis of
+  Energy and Control",,,,
+q-bio/0511008,"Modelling and simulation of polycomb-dependent chromosomal interactions
+  in drosophila",,,,
+q-bio/0511013,"Incorporating expression data in metabolic modeling: a case study of
+  lactate dehydrogenase",,,,
+q-bio/0512011,Cooperative Cargo Transport by Several Molecular Motors,,,,
+q-bio/0512043,"Non-meanfield deterministic limits in chemical reaction kinetics far
+  from equilibrium",,,,
+q-bio/0601013,"Effect of channel block on the spiking activity of excitable membranes
+  in a stochastic Hodgkin-Huxley model",,,,
+q-bio/0601022,"Embryonic Pattern Scaling Achieved by Oppositely Directed Morphogen
+  Gradients",,,,
+q-bio/0602009,Intracellular delay limits cyclic changes in gene expression,,,,
+q-bio/0603012,A Chemical Kinetic Model of Transcriptional Elongation,,,,
+q-bio/0603019,The Water Circuit of the Plants - Do Plants have Hearts ?,,,,
+q-bio/0603020,Multiprotein DNA looping,,,,
+q-bio/0603036,Dynamic stability of spindles controlled by molecular motor kinetics,,,,
+q-bio/0605016,How T-cells use large deviations to recognize foreign antigens,,,,
+q-bio/0605017,Kinetic Accessibility of Buried DNA Sites in Nucleosomes,,,,
+q-bio/0607032,Topological classification of RNA structures,,,,
+q-bio/0608006,Focal adhesions as mechanosensors: the two-spring model,,,,
+q-bio/0608007,"Bistability of cell-matrix adhesions resulting from non-linear
+  receptor-ligand dynamics",,,,
+q-bio/0608030,"Model for Osteosarcoma-9 as a Potent Factor in Cell Survivor and
+  Resistance to Apoptosis",,,,
+q-bio/0610054,Modeling Dual Pathways for the Metazoan Spindle Assembly Checkpoint,,,,
+q-bio/0611040,"Capacitance fluctuations causing channel noise reduction in stochastic
+  Hodgkin-Huxley systems",,,,
+q-bio/0611085,Finite-size domains in membranes with active two-state inclusions,,,,
+q-bio/0611092,"Genotype-based Case-Control Analysis, Violation of Hardy-Weinberg
+  Equilibrium, and Phase Diagrams",,,,
+q-bio/0612003,Cooperative transport by small teams of molecular motors,,,,
+q-bio/0701043,"Macroscopic consequences of calcium signaling in microdomains: A first
+  passage time approach",,,,
+q-bio/0701046,"Mobility of Min-proteins in Escherichia coli measured by fluorescence
+  correlation spectroscopy",,,,
+q-bio/0702021,"Duality, thermodynamics, and the linear programming problem in
+  constraint-based models of metabolism",,,,
+q-bio/0702030,The Role of Lipid Bilayer Mechanics in Mechanosensation,,,,
+q-bio/0702031,"Cooperative Gating and Spatial Organization of Membrane Proteins through
+  Elastic Interactions",,,,
+q-bio/0703008,The stochastic entry of enveloped viruses: Fusion vs. endocytosis,,,,
+q-bio/0703055,The microtubule transistor,,,,
+quant-ph/0602144,Self-Reduction Rate of a Microtubule,,,,

@@ -1,0 +1,21 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+cond-mat/0505232,Statistical properties of sampled networks,2.6266336024133077e-06,1.990182755160072e-06,2.0,1.0
+math/0611017,Efficient initial designs for binary response data,2.4711431321721443e-06,0.0,1.0,0.0
+math/0612811,Adaptive Allocation Theory in Clinical Trials,2.4711431321721443e-06,0.0,1.0,0.0
+math/0610518,Asymptotic Properties of Covariate-Adjusted Adaptive Designs,1.3189329710618589e-06,0.0,0.0,1.0
+math/0503712,"Bayesian alignment using hierarchical models, with applications in
+  protein bioinformatics",,,,
+math/0510276,An algorithmic and a geometric characterization of Coarsening At Random,,,,
+math/0609457,"Defining and Estimating Intervention Effects for Groups that will
+  Develop an Auxiliary Outcome",,,,
+math/0610655,Bayesian Clustering of Transcription Factor Binding Motifs,,,,
+math/0612140,Smooth tail index estimation,,,,
+math/0701405,Characterizing the generalized lambda distribution by L-moments,,,,
+math/0702703,"Can one estimate the conditional distribution of post-model-selection
+  estimators?",,,,
+math/0702781,"The distribution of model averaging estimators and an impossibility
+  result regarding its estimation",,,,
+math/0702804,The Loss Rank Principle for Model Selection,,,,
+math/0703229,"Sample size and positive false discovery rate control for multiple
+  testing",,,,
+physics/0703160,SigSpec - I. Frequency- and Phase-Resolved Significance in Fourier Space,,,,

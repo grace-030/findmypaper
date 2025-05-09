@@ -1,0 +1,691 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+cond-mat/0610446,"Link and subgraph likelihoods in random undirected networks with fixed
+  and partially fixed degree sequence",2.5328108552484752e-05,2.555794034190541e-07,7.0,1.0
+cond-mat/0508614,Fluctuation pressure of a fluid membrane between walls through six loops,2.2985570603437165e-05,0.0,17.0,0.0
+nlin/0307015,Methods and Techniques of Complex Systems Science: An Overview,1.8215884515668904e-05,1.9827567001035044e-06,22.0,1.0
+physics/0611251,"Realistic boundary conditions for stochastic simulations of
+  reaction-diffusion processes",1.6430265910378095e-05,0.0,5.0,1.0
+physics/0611252,What is the time scale of random sequential adsorption?,1.2945436959895385e-05,0.0,3.0,1.0
+cond-mat/0111172,Zero Temperature Properties of RNA Secondary Structures,1.2776791735726514e-05,1.5271967912557248e-06,4.0,1.0
+q-bio/0702049,"The Cyclohedron Test for Finding Periodic Genes in Time Course
+  Expression Studies",1.1270091633965842e-05,0.0,5.0,0.0
+q-bio/0512033,"Explicit factorization of external coordinates in constrained
+  Statistical Mechanics models",1.0828916672836616e-05,0.0,3.0,1.0
+q-bio/0601042,"Quantum mechanical calculation of the effects of stiff and rigid
+  constraints in the conformational equilibrium of the Alanine dipeptide",1.0828916672836616e-05,0.0,3.0,1.0
+cond-mat/0701043,Random matrix analysis of complex networks,1.078339310859252e-05,0.0,2.0,1.0
+cond-mat/0508100,"Avoiding unphysical kinetic traps in Monte Carlo simulations of strongly
+  attractive particles",1.0375425664182196e-05,0.0,3.0,0.0
+q-bio/0402030,A Barrier Penetration Model for DNA Double Strand Separation,8.149099087174581e-06,0.0,5.0,0.0
+q-bio/0703036,"Morphological relationship between axon and dendritic arborizations as
+  revealed by Minkowski functionals",7.819530957556917e-06,0.0,1.0,0.0
+q-bio/0612050,"Neural coding of a natural stimulus ensemble: Uncovering information at
+  sub-millisecond resolution",7.337573255669612e-06,0.0,6.0,0.0
+physics/0702015,Size reduction of complex networks preserving modularity,7.1630014451197145e-06,0.0,2.0,0.0
+q-bio/0703053,Global statistical analysis of the protein homology network,6.87835388512957e-06,1.990182755160072e-06,1.0,1.0
+cond-mat/0308360,"Generalized-Ensemble Algorithms: Enhanced Sampling Techniques for Monte
+  Carlo and Molecular Dynamics Simulations",6.768537586645667e-06,3.980365510320144e-06,6.0,2.0
+q-bio/0504013,PCA and K-Means decipher genome,6.705636886823234e-06,0.0,3.0,0.0
+q-bio/0502013,"Accelerating, hyper-accelerating, and decelerating probabilistic
+  networks",6.5751848245131785e-06,0.0,6.0,0.0
+q-bio/0703054,A simple stochastic model for the evolution of protein lengths,6.518870666192596e-06,0.0,1.0,0.0
+cond-mat/0412761,Hierarchical characterization of complex networks,6.2719207890784005e-06,2.593039376388184e-05,12.0,12.0
+cond-mat/0312556,"Memory and self-induced shocks in an evolutionary population competing
+  for limited resources",6.22958390589562e-06,1.990182755160072e-06,3.0,1.0
+cond-mat/0301619,Evolutionary Stability of Ecological Hierarchy,6.120590128688668e-06,0.0,1.0,0.0
+q-bio/0505010,"The Dynamics of Image Processing by Feature Maps in the Primary Visual
+  Cortex",5.655144290770314e-06,0.0,1.0,1.0
+q-bio/0505011,"Receptive Field and Feature Map Formation in the Primary Visual Cortex
+  via Hebbian Learning with Inhibitory Feedback",5.655144290770314e-06,0.0,1.0,1.0
+q-bio/0311014,Determinative degree and nucleotide sequence analysis by trianders,4.8370326599021295e-06,0.0,3.0,0.0
+quant-ph/0211105,Quantum morphogenesis: A variation on Thom's catastrophe theory,4.5836379981179125e-06,2.4354835212541385e-07,1.0,1.0
+math/0702515,The Neighbor-Net Algorithm,4.389578162543914e-06,0.0,2.0,1.0
+cond-mat/0309488,Defining and identifying communities in networks,4.0823836317670185e-06,5.374981214119021e-06,7.0,9.0
+q-bio/0610057,Second look at the spread of epidemics on networks,4.063143711471229e-06,0.0,1.0,2.0
+math/0409132,The Mathematics of Phylogenomics,4.015220913326475e-06,8.236170153647516e-09,3.0,4.0
+q-bio/0609008,Discovering Functional Communities in Dynamical Networks,3.873945274331573e-06,0.0,2.0,0.0
+q-bio/0611032,Towards the Human Genotope,3.806942633572656e-06,0.0,2.0,0.0
+q-bio/0606023,"Subgraph Ensembles and Motif Discovery Using a New Heuristic for Graph
+  Isomorphism",3.529016989101264e-06,0.0,2.0,1.0
+q-bio/0606026,Parametrization of the Hybrid Potential for Pairs of Neutral Atoms,3.49912997646896e-06,0.0,2.0,0.0
+q-bio/0511043,Information based clustering,3.49912997646896e-06,0.0,2.0,0.0
+cond-mat/0507648,"Extended morphometric analysis of neuronal cells with Minkowski
+  valuations",3.453475295732201e-06,0.0,1.0,0.0
+q-bio/0701007,Genetic code on the dyadic plane,3.4300570441027854e-06,0.0,5.0,0.0
+q-bio/0508044,Should you believe that this coin is fair?,3.4215376050071474e-06,0.0,1.0,0.0
+q-bio/0507036,A helicoidal transfer matrix model for inhomogeneous DNA melting,3.3769895408961352e-06,0.0,2.0,0.0
+nlin/0411063,"Detecting synchronization in spatially extended discrete systems by
+  complexity measurements",3.3749066596554898e-06,0.0,1.0,0.0
+q-bio/0701018,Oscillations in I/O monotone systems under negative feedback,3.3749066596554898e-06,0.0,1.0,0.0
+cond-mat/0608695,Local symmetries in complex networks,3.2470180502915738e-06,0.0,1.0,0.0
+q-bio/0605040,Epidemic outbreaks on structured populations,3.1309699778075498e-06,0.0,2.0,0.0
+cond-mat/0106326,High precision simulations of the longest common subsequence problem,3.1186964009459863e-06,0.0,1.0,0.0
+cond-mat/0506221,Inferring DNA sequences from mechanical unzipping: an ideal-case study,3.0535276958556e-06,0.0,1.0,0.0
+q-bio/0702007,"Predicting the size and probability of epidemics in a population with
+  heterogeneous infectiousness and susceptibility",2.91697922313738e-06,0.0,1.0,0.0
+q-bio/0702027,"Network-based analysis of stochastic SIR epidemic models with random and
+  proportionate mixing",2.91697922313738e-06,0.0,1.0,1.0
+q-bio/0507009,Quantitative Measure of Stability in Gene Regulatory Networks,2.77239764133326e-06,0.0,1.0,0.0
+q-bio/0606006,"Spatially Distributed Stochastic Systems: equation-free and
+  equation-assisted preconditioned computation",2.77239764133326e-06,0.0,1.0,2.0
+q-bio/0311009,Tropical Geometry of Statistical Models,2.5842735651951256e-06,3.4394724634059154e-05,5.0,6.0
+nlin/0410062,"A method to discern complexity in two-dimensional patterns generated by
+  coupled map lattices",2.4711431321721443e-06,0.0,1.0,1.0
+cond-mat/0308163,Suppression of Ecological Competition by Apex Predator,2.4711431321721443e-06,0.0,1.0,0.0
+nlin/0511018,The Role of Redundancy in the Robustness of Random Boolean Networks,2.4711431321721443e-06,0.0,1.0,1.0
+physics/0008016,Heart Rate Variability: Measures and Models,2.4711431321721443e-06,0.0,1.0,1.0
+cond-mat/0304702,"Inter-layer slide and stress relaxation in a bilayer fluid membrane in
+  the patch-clamp setting",2.4711431321721443e-06,0.0,1.0,0.0
+math/0610233,Bounds on the number of inference functions of a graphical model,2.4711431321721443e-06,0.0,1.0,0.0
+math/0701104,"Improving power in genome-wide association studies: weights tip the
+  scale",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/9807121,"Continuous and discrete models of cooperation in complex bacterial
+  colonies",2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0411026,Geometry of Axoneme-like Filament Bundles,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0502034,"Kinetics of target site localization of a protein on DNA: a stochastic
+  approach",2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0505043,"Probing the Effects of the Well-mixed Assumption on Viral Infection
+  Dynamics",2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0502040,A new model for the immune clonal networks,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0409010,Dependence of RNA secondary structure on the energy model,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0602018,"Determinism, Noise, and Spurious Estimations in a Generalised Model of
+  Population Growth",2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0510030,"Genome-wide discovery of modulators of transcriptional interactions in
+  human B lymphocytes",2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0610048,Cucker-Smale Flocking under Hierarchical Leadership,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0703032,Dynamics of Microtubule Instabilities,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0703030,Deterministic and Stochastic Simulations of Simple Genetic Circuits,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0602183,Nonlinear parametric model for Granger causality of time series,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0703067,Evolutionary and Ecological Trees and Networks,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0603011,PFMFind: a system for discovery of peptide homology and function,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0408010,"Inferring Network Mechanisms: The Drosophila melanogaster Protein
+  Interaction Network",2.439690714520796e-06,7.4260550565674335e-09,2.0,2.0
+cs/0606048,A New Quartet Tree Heuristic for Hierarchical Clustering,2.3936107127906745e-06,0.0,3.0,1.0
+q-bio/0411033,An Information-Theoretic Approach to Network Modularity,2.3903102790446403e-06,0.0,2.0,0.0
+physics/0702194,Traffic phenomena in biology: from molecular motors to organisms,2.3469198153586743e-06,0.0,1.0,0.0
+cond-mat/0302603,Localization of Denaturation Bubbles in Random DNA Sequences,2.338850175992856e-06,7.4260550565674335e-09,1.0,7.0
+q-bio/0602005,Optimized parallel tempering simulations of proteins,2.334834744631072e-06,0.0,1.0,0.0
+q-bio/0403040,"Evolutionary ecology in-silico:evolving foodwebs, migrating population
+  and speciation",2.27910810532043e-06,0.0,2.0,2.0
+nlin/0311008,"Phase Transitions in Random Boolean Networks with Different Updating
+  Schemes",2.247923571429882e-06,0.0,2.0,0.0
+q-bio/0512039,"Phase Transitions and Spatio-Temporal Fluctuations in Stochastic Lattice
+  Lotka-Volterra Models",2.2356851087904607e-06,0.0,1.0,3.0
+cond-mat/0401434,The role of clustering and gridlike ordering in epidemic spreading,2.229023009010094e-06,3.754082096208691e-07,4.0,2.0
+q-bio/0411047,"Path integral formulation and Feynman rules for phylogenetic branching
+  models",2.219301452820475e-06,2.239382109191938e-06,1.0,1.0
+q-bio/0604006,Graph Theory and Networks in Biology,2.1909092032080005e-06,0.0,2.0,0.0
+physics/0306063,"Entropy and information in neural spike trains: Progress on the sampling
+  problem",2.1254800838390582e-06,0.0,2.0,1.0
+q-bio/0612041,Optimal signal processing in small stochastic biochemical networks,2.1011217123199947e-06,0.0,2.0,0.0
+q-bio/0311039,Hierarchical Clustering Based on Mutual Information,2.0996441857736717e-06,0.0,2.0,5.0
+q-bio/0605020,Laws in Darwinian Evolutionary Theory,2.087073078468716e-06,0.0,2.0,0.0
+q-bio/0411031,Abstract DNA-type systems,2.0773352732963763e-06,1.988933078581925e-06,1.0,3.0
+cond-mat/0603437,Dynamic model and stationary shapes of fluid vesicles,2.0700804722071624e-06,0.0,1.0,0.0
+cond-mat/9911386,Asymmetric exclusion process and extremal statistics of random sequences,2.0181586372094664e-06,1.990182755160072e-06,2.0,1.0
+q-bio/0602001,"New Computational Approaches to Analysis of Interbeat Intervals in Human
+  Subjects",2.004257533926402e-06,0.0,1.0,0.0
+q-bio/0508043,"Fluctuations and Correlations in Lattice Models for Predator-Prey
+  Interaction",1.9803101477411127e-06,0.0,1.0,2.0
+q-bio/0410018,Rydberg-London Potential for Diatomic Molecules and Unbonded Atom Pairs,1.8950380516170012e-06,0.0,1.0,1.0
+cond-mat/0310419,"Competition between Diffusion and Fragmentation: An Important
+  Evolutionary Process of Nature",1.8950380516170012e-06,0.0,1.0,1.0
+q-bio/0510004,"The simplest model of spatially distributed population with reasonable
+  migration of organisms",1.8950380516170012e-06,0.0,1.0,0.0
+q-bio/0511042,Information based clustering: Supplementary material,1.8950380516170012e-06,0.0,1.0,1.0
+q-bio/0503023,"Computational Methods and Results for Structured Multiscale Models of
+  Tumor Invasion",1.8950380516170012e-06,0.0,1.0,0.0
+q-bio/0601033,Perceptions of Complex Systems Are Governed by Power Laws,1.8950380516170012e-06,0.0,1.0,0.0
+q-bio/0312001,"A continuum treatment of growth in biological tissue: The coupling of
+  mass transport and mechanics",1.8950380516170012e-06,0.0,1.0,0.0
+q-bio/0507027,"Modeling the Role of the Cell Cycle in Regulating Proteus mirabilis
+  Swarm-Colony Development",1.8950380516170012e-06,0.0,1.0,0.0
+cs/0312044,Clustering by compression,1.8935506151611049e-06,0.0,2.0,5.0
+cond-mat/9712081,Optimal Detection of Sequence Similarity by Local Alignment,1.8416565862532e-06,0.0,1.0,4.0
+cond-mat/0302128,"The totally asymmetric exclusion process with extended objects, a model
+  for protein synthesis",1.7985175560532417e-06,0.0,3.0,3.0
+q-bio/0603010,"Spreading dynamics on small-world networks with connectivity
+  fluctuations and correlations",1.7119639001713334e-06,1.3931279286120504e-05,1.0,3.0
+physics/0004009,Coupled Two-Way Clustering Analysis of Gene Microarray Data,1.703003024765287e-06,0.0,1.0,1.0
+physics/0206031,Process Pathway Inference via Time Series Analysis,1.703003024765287e-06,0.0,1.0,0.0
+q-bio/0409023,"The Shift-Match Number and String Matching Probabilities for Binary
+  Sequences",1.703003024765287e-06,0.0,1.0,1.0
+physics/0405044,Least Dependent Component Analysis Based on Mutual Information,1.7015155883093906e-06,0.0,1.0,0.0
+q-bio/0412042,The complex channel networks of bone structure,1.6533601125823191e-06,0.0,1.0,1.0
+cond-mat/0511119,Electronic transport and localization in short and long DNA,1.625476857803216e-06,0.0,1.0,0.0
+q-bio/0411030,Statistical Mechanics Characterization of Neuronal Mosaics,1.60698551133943e-06,0.0,1.0,2.0
+q-bio/0612046,An introduction to reconstructing ancestral genomes,1.60698551133943e-06,0.0,1.0,0.0
+q-bio/0311037,Hierarchical Clustering Using Mutual Information,1.5493750032839157e-06,0.0,1.0,0.0
+q-bio/0410024,"Offdiagonal Complexity: A computationally quick complexity measure for
+  graphs and networks",1.5493750032839157e-06,0.0,1.0,2.0
+q-bio/0504029,"A physically meaningful method for the comparison of potential energy
+  functions",1.5493750032839157e-06,0.0,1.0,1.0
+physics/9611022,Information physics: From energy to codes,1.5395345165557325e-06,0.0,1.0,0.0
+nlin/0408006,Introduction to Random Boolean Networks,1.4835344226490424e-06,0.0,1.0,3.0
+nlin/0402006,Updating Schemes in Random Boolean Networks: Do They Really Matter?,1.4835344226490424e-06,0.0,1.0,0.0
+cond-mat/0403523,"Mean field approaches to the totally asymmetric exclusion process with
+  quenched disorder and large particles",1.4629592412006444e-06,0.0,1.0,1.0
+q-bio/0606021,"Heterogeneous animal group models and their group-level alignment
+  dynamics; an equation-free approach",1.4097107293941726e-06,0.0,1.0,0.0
+cond-mat/9511072,Similarity-Detection and Localization,1.407564521916496e-06,0.0,1.0,0.0
+q-bio/0403026,"A Dynamical Similarity Approach to the Foundations of Complexity and
+  Coordination in Multiscale Systems",1.398951339365609e-06,0.0,1.0,0.0
+physics/9911038,Super-paramagnetic clustering of yeast gene expression profiles,1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/0204134,"SYNTAX: A computer program to compress a sequence and to estimate its
+  information content",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0401348,Method for Computing Protein Binding Affinity,1.3189329710618589e-06,0.0,0.0,3.0
+physics/9809041,Entropy Index as a Measure of Heartbeat Irregularity,1.3189329710618589e-06,0.0,0.0,3.0
+q-bio/0504006,Computer Simulations to Study Sympatric Speciation Processes,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0104028,"Zipf's Law in Importance of Genes for Cancer Classification Using
+  Microarray Data",1.3189329710618589e-06,0.0,0.0,2.0
+q-bio/0312002,Material forces in the context of biotissue remodelling,1.3189329710618589e-06,0.0,0.0,2.0
+q-bio/0401028,"Cluster approximations for probabilistic systems: a new perspective of
+  epidemiological modelling",1.3189329710618589e-06,0.0,0.0,2.0
+q-bio/0601032,"Fuzzy Cognitive Maps Of Local People Impacted By Dam Construction: Their
+  Demands Regarding Resettlement",1.3189329710618589e-06,0.0,0.0,2.0
+q-bio/0312005,Computational Consequences of Neglected First-Order van der Waals Forces,1.3189329710618589e-06,0.0,0.0,2.0
+q-bio/0403020,Mathematical Structure of Evolutionary Theory,1.3189329710618589e-06,0.0,0.0,3.0
+physics/9908022,Density functional calculations of planar DNA base-pairs,1.3189329710618589e-06,0.0,0.0,3.0
+physics/0310009,Quantum circa-rhythms,1.3189329710618589e-06,0.0,0.0,1.0
+math/0502226,Subtree prune and regraft: a reversible real tree-valued Markov process,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0408004,"Characterizing neuromorphologic alterations with additive shape
+  functionals",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0507016,"Spectral Detrended Fluctuation Analysis and Its Application to Heart
+  Rate Variability Assessment",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0607037,"The structural de-correlation time: A robust statistical measure of
+  convergence of biomolecular simulations",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0312012,"Dynamic receptor team formation can explain the high signal transduction
+  gain in E. coli",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0006050,Shuffling Yeast Gene Expression Data,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0305351,Altruistic Duality in Evolutionary Game Theory,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0509499,"Simulating rare events in equilibrium or non-equilibrium stochastic
+  systems",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0206099,"Lipids diffusion mechanism of stress relaxation in a bilayer fluid
+  membrane under pressure",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0703001,Dynamics of Microtubule Growth and Catastrophe,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0309026,Dynamics of Immobilized Flagella,1.3189329710618589e-06,0.0,0.0,1.0
+math/0412193,"Explicit formulas for a continuous stochastic maturation model.
+  Application to anticancer drug pharmacokinetics/pharmacodynamics",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0106074,Entropic Approach for Reduction of Amino Acid Alphabets,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0104029,How Many Genes Are Needed for a Discriminant Microarray Data Analysis ?,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0210441,Self-Dual Bending Theory for Vesicles,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0506040,"Symbology from set theory applied to ecological systems: Gause's
+  exclusion principle and applications",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0406015,"Information theory, multivariate dependence, and genetic network
+  inference",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0310015,"How does connectivity between cortical areas depend on brain size?
+  Implications for efficient computation",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0402012,A Simple Cellular Automaton Model for Influenza A Viral Infections,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0603037,"Calibration of optical tweezers with positional detection in the
+  back-focal-plane",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0005043,Universality and individuality in a neural code,1.3189329710618589e-06,0.0,0.0,2.0
+q-bio/0611015,"Phylogenetic tree constructing algorithms fit for grid computing with
+  SVD",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0606041,Designing Complex Networks,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0102478,On the statistical mechanics of prion diseases,,,,
+cond-mat/0108301,"Hydrodynamic fluctuations and instabilities in ordered suspensions of
+  self-propelled particles",,,,
+cond-mat/0109001,"Surface-dependent Coagulation Enzymes: Flow Kinetics of Factor Xa
+  Generation on Live Membranes",,,,
+cond-mat/0205225,How to decide whether small samples comply with an equidistribution,,,,
+cond-mat/0212310,"A New Mechanism of Model Membrane Fusion Determined from Monte Carlo
+  Simulation",,,,
+cond-mat/0306346,"Measurements of Protein-Protein Interactions by Size Exclusion
+  Chromatography",,,,
+cond-mat/0306581,"Influence of progressive central hypovolemia on multifractal dimension
+  of cardiac interbeat intervals",,,,
+cond-mat/0307105,"Simultaneous surface acoustic wave and surface plasmon resonance
+  measurements: electrodeposition and biological interactions monitoring",,,,
+cond-mat/0311183,"An augmented moment method for stochastic ensembles with delayed
+  couplings: II. FitzHugh-Nagumo model",,,,
+cond-mat/0312364,"Exact solution of a linear molecular motor model driven by two-step
+  fluctuations and subject to protein friction",,,,
+cond-mat/0312453,"Field theoretic study of bilayer membrane fusion: I. Hemifusion
+  mechanism",,,,
+cond-mat/0401257,Moving and staying together without a leader,,,,
+cond-mat/0403309,Geometric theory on the elasticity of bio-membranes,,,,
+cond-mat/0407224,Two-Channel Totally Asymmetric Simple Exclusion Processes,,,,
+cond-mat/0412183,Modelling tubular shapes in the inner mitochondrial membrane,,,,
+cond-mat/0507464,"Field Theoretic Study of Bilayer Membrane Fusion: II. Mechanism of a
+  Stalk-Hole Complex",,,,
+cond-mat/0511630,Kernel method for clustering based on optimal target vector,,,,
+cond-mat/0601244,CSAW: a dynamical model of protein folding,,,,
+cond-mat/9903382,"Modeling branching and chiral colonial patterning of lubricating
+  bacteria",,,,
+cs/0310005,Using Artificial Intelligence for Model Selection,,,,
+cs/0406053,"Approximation Algorithms for Minimum PCR Primer Set Selection with
+  Amplification Length and Uniqueness Constraints",,,,
+cs/0505028,A linear memory algorithm for Baum-Welch training,,,,
+cs/0601116,"A unifying framework for seed sensitivity and its application to subset
+  seeds",,,,
+hep-lat/9207011,On Heteropolymer Shape Dynamics,,,,
+hep-lat/9208001,"Non-Exponential Relaxation Time Scales in Disordered Systems: an
+  Application to Protein Dynamics",,,,
+math/0111004,About periodic solutions of a planar system modelling neural activity,,,,
+math/0308130,"The existence, nonexistence and uniqueness of global positive
+  coexistence of a nonlinear elliptic biological interacting model",,,,
+math/0309255,"Catastrophe Management and Inter-Reserve Distance for Marine Reserve
+  Networks",,,,
+math/0312062,"An Analysis of a Circadian Model Using The Small-Gain Approach to
+  Monotone Systems",,,,
+math/0504477,On hybrid simulation schemes for stochastic reaction dynamics,,,,
+math/0510188,Mass spectrometry proteomic diagnosis: enacting the validation paradigm,,,,
+math/0603369,"Applications of Finite Fields to Dynamical Systems and Reverse
+  Engineering Problems",,,,
+math/0605719,Digital search trees and chaos game representation,,,,
+math/0611496,The fractional Keller-Segel model,,,,
+math/0703292,Nonlinear Models Using Dirichlet Process Mixtures,,,,
+nlin/0105058,Steady State of an Inhibitory Neural Network,,,,
+nlin/0210013,The impressive complexity in the Nautilus pompilius shell,,,,
+nlin/0210014,Fractal dimension and self-similarity in Asparagus plumosus,,,,
+nlin/0308032,"Estimating the distribution of dynamic invariants: Illustrated with an
+  application to human photo-plethysmographic time series",,,,
+nlin/0311032,Mathematical Models of Bipolar Disorder,,,,
+nlin/0311056,Reactive dynamics of inertial particles in nonhyperbolic chaotic flows,,,,
+nlin/0312027,"Hierarchical Structure in Healthy and Diseased Heart Rate Variability in
+  Humans",,,,
+nlin/0312056,"Shannon information, LMC complexity and Renyi entropies: a
+  straightforward approach",,,,
+nlin/0405039,Energy Localization in the Peyrard-Bishop DNA model,,,,
+nlin/0502018,Self-tuning to the Hopf bifurcation in fluctuating systems,,,,
+nlin/0604042,Universal Scaling Laws for Large Events in Driven Nonequilibrium Systems,,,,
+physics/0101087,Kinetic model of DNA replication in eukaryotic organisms,,,,
+physics/0102048,Self-Organizing Approach for Finding Borders of DNA Coding Regions,,,,
+physics/0105029,Fluctuation Analysis of Human Electroencephalogram,,,,
+physics/0110074,Information loss in an optimal maximum likelihood decoding,,,,
+physics/0112007,A Model of Sequence Dependent Protein Diffusion Along Dna,,,,
+physics/0201064,"Recurrence Plot Based Measures of Complexity and its Application to
+  Heart Rate Variability Data",,,,
+physics/0206045,"Probabilistic Clustering of Sequences: Inferring new bacterial regulons
+  by comparative genomics",,,,
+physics/0211061,Gauge Poisson representations for birth/death master equations,,,,
+physics/0212082,Extended Recurrence Plot Analysis and its Application to ERP Data,,,,
+physics/0304003,Reading Neural Encodings using Phase Space Methods,,,,
+physics/0304016,"Genetic Algorithms for the Imitation of Genomic Styles in Protein
+  Backtranslation",,,,
+physics/0306030,An Inverse Equilibrium Maximum Entropy Algorithm Applied to Proteins,,,,
+physics/0306056,Spike sorting in the frequency domain with overlap detection,,,,
+physics/0306181,"Interpretation of heart rate variability via detrended fluctuation
+  analysis and alpha-beta filter",,,,
+physics/0308011,Scale Invariance and Nonlinear Patterns of Human Activity,,,,
+physics/0310096,"Combined surface acoustic wave and surface plasmon resonance measurement
+  of collagen and fibrinogen layers",,,,
+physics/0405009,Extending Granger causality to nonlinear systems,,,,
+physics/0405152,"Mechanisms of DNA separation in entropic trap arrays: A Brownian
+  dynamics simulation",,,,
+physics/0411027,Energy controlled insertion of polar molecules in dense fluids,,,,
+physics/0411048,Probabilistic two-stage model of cell inactivation by ionizing particles,,,,
+physics/0411061,Pump process of the rotatory molecular motor and its energy efficiency,,,,
+physics/0411206,"Leave-one-out prediction error of systolic arterial pressure time series
+  under paced breathing",,,,
+physics/0504211,"Solving the Advection-Diffusion Equations in Biological Contexts using
+  the Cellular Potts Model",,,,
+physics/0510259,"Multiscale analysis of heart rate, blood pressure and respiration time
+  series",,,,
+physics/0601217,"A ""partitioned leaping"" approach for multiscale modeling of chemical
+  reaction dynamics",,,,
+physics/0605229,"Competition of coarsening and shredding of clusters in a driven
+  diffusive lattice gas",,,,
+physics/0703128,Fluctuation scaling versus gap scaling,,,,
+physics/0703218,"Analysis of the structure of complex networks at different resolution
+  levels",,,,
+physics/9807059,"Oligopeptides' frequencies in the classification of proteins' primary
+  structures",,,,
+physics/9910025,"Fractal features of dark, maintained, and driven neural discharges in
+  the cat visual system",,,,
+q-bio/0309001,Monotone Systems with Inputs and Outputs,,,,
+q-bio/0309002,Multi-Stability in Monotone Input/Output Systems,,,,
+q-bio/0309003,Adaptation and regulation with signal detection implies internal model,,,,
+q-bio/0309006,"Probabilistic estimation of microarray data reliability and underlying
+  gene expression",,,,
+q-bio/0309023,Idl Signal Processing Library 1.0,,,,
+q-bio/0309028,Analysis of Dynamic Brain Imaging Data,,,,
+q-bio/0309031,"Metric-space analysis of spike trains: theory, algorithms, and
+  application",,,,
+q-bio/0309032,"The power ratio and the interval map: spiking models and extracellular
+  data",,,,
+q-bio/0310002,"Deriving the respiratory sinus arrhythmia from the heartbeat time series
+  using Empirical Mode Decomposition",,,,
+q-bio/0310007,"Response kinetics of tethered bacteria to stepwise changes in nutrient
+  concentration",,,,
+q-bio/0310011,"Complex Independent Component Analysis of Frequency-Domain
+  Electroencephalographic Data",,,,
+q-bio/0310035,Why humans die -- an unsolved biological problem,,,,
+q-bio/0310037,"U(1)xU(1)xU(1) symmetry of the Kimura 3ST model and phylogenetic
+  branching processes",,,,
+q-bio/0311001,Mathematical models of haploinsufficiency,,,,
+q-bio/0311015,Stretching of Proteins in the Entropic Limit,,,,
+q-bio/0311017,"Finding regulatory modules through large-scale gene-expression data
+  analysis",,,,
+q-bio/0311022,"Solvent content of protein crystals from diffraction intensities by
+  Independent Component Analysis",,,,
+q-bio/0311025,Evolutionary tradeoff and equilibrium in an aquatic predator-prey system,,,,
+q-bio/0312013,"Noise-driven transition to quasi-deterministic limit cycle dynamics in
+  excitable systems",,,,
+q-bio/0312026,"A Computational Algebra Approach to the Reverse Engineering of Gene
+  Regulatory Networks",,,,
+q-bio/0401014,"Lattice gas cellular automata model for rippling and aggregation in
+  myxobacteria",,,,
+q-bio/0401043,Molecular Signatures from Gene Expression Data,,,,
+q-bio/0401044,A Fast Reconstruction Algorithm for Gene Networks,,,,
+q-bio/0403023,Altruism may arise from individual selection,,,,
+q-bio/0403038,"Extreme Value Distribution Based Gene Selection Criteria for
+  Discriminant Microarray Data Analysis Using Logistic Regression",,,,
+q-bio/0404004,"Actin Polymerization Kinetics, Cap Structure and Fluctuations",,,,
+q-bio/0404023,Correlations in the T Cell Response to Altered Peptide Ligands,,,,
+q-bio/0404036,"Model evaluation for glycolytic oscillations in yeast biotransformations
+  of xenobiotics",,,,
+q-bio/0405001,Resultants in Genetic Linkage Analysis,,,,
+q-bio/0405007,Predicting protein functions with message passing algorithms,,,,
+q-bio/0405012,Technique(s) for Spike - Sorting,,,,
+q-bio/0405015,"A statistical framework for the design of microarray experiments and
+  effective detection of differential gene expression",,,,
+q-bio/0405025,"Universal Mortality Law, Life Expectancy and Immortality",,,,
+q-bio/0406009,Finite Width Model Sequence Comparison,,,,
+q-bio/0406012,"A computational study of the statistical mechanics of antibody-antigen
+  conformations",,,,
+q-bio/0406014,"Evolution at the Edge of Chaos: A Paradigm for the Maturation of the
+  Humoral Immune Response",,,,
+q-bio/0406016,"Predicting Genetic Regulatory Response using Classification: Yeast
+  Stress Response",,,,
+q-bio/0406024,"Projective geometry for human motion, with an application to injury risk",,,,
+q-bio/0406025,"Unbound Protein-Protein Docking Selections by the DFIRE-based
+  Statistical Pair Potential",,,,
+q-bio/0407013,"Existence and Stability of Standing Pulses in Neural Networks : I
+  Existence",,,,
+q-bio/0407014,"Existence and Stability of Standing Pulses in Neural Networks: II
+  Stability",,,,
+q-bio/0407016,An ionically based mapping model with memory for cardiac restitution,,,,
+q-bio/0407019,"Three-body Interactions Improve the Prediction of Rate and Mechanism in
+  Protein Folding Models",,,,
+q-bio/0407022,Protein folding rates correlate with heterogeneity of folding mechanism,,,,
+q-bio/0407038,"Rate-dependent propagation of cardiac action potentials in a
+  one-dimensional fiber",,,,
+q-bio/0407042,Statistics of infections with diversity in the pathogenicity,,,,
+q-bio/0408012,"Computation of amplification for systems arising from cellular signaling
+  pathways",,,,
+q-bio/0408016,Epitope analysis for influenza vaccine design,,,,
+q-bio/0409036,High-gain nonlinear observer for simple genetic regulation process,,,,
+q-bio/0410006,Inverted Repeats in Viral Genomes,,,,
+q-bio/0410010,Nonstationary time series analysis of heart rate variability,,,,
+q-bio/0411010,"Stretching single RNAs: exact numerical and stochastic simulation
+  methods",,,,
+q-bio/0411015,"An Unusual 500,000 Bases Long Oscillation of Guanine and Cytosine
+  Content in Human Chromosome 21",,,,
+q-bio/0411028,Predicting Genetic Regulatory Response Using Classification,,,,
+q-bio/0411032,"Signal processing of acoustic signals in the time domain with an active
+  nonlinear nonlocal cochlear model",,,,
+q-bio/0411037,"Remodeling of biological tissue: Mechanically induced reorientation of a
+  transversely isotropic chain network",,,,
+q-bio/0411040,"Opportunistic infection as a cause of transient viremia in chronically
+  infected HIV patients under treatment with HAART",,,,
+q-bio/0411049,"A Statistical Analysis of RNA Folding Algorithms Through Thermodynamic
+  Parameter Perturbation",,,,
+q-bio/0411050,Finite size effects on thermal denaturation of globular proteins,,,,
+q-bio/0412008,Finite size effects on calorimetric cooperativity of two-state proteins,,,,
+q-bio/0412009,Off-lattice simulation of the solid phase DNA amplification,,,,
+q-bio/0412012,Subtree power analysis finds optimal species for comparative genomics,,,,
+q-bio/0412021,Multiple sequence alignment based on set covers,,,,
+q-bio/0412049,Particle Statistics and Population Dynamics,,,,
+q-bio/0501003,"An approximate threshold condition for non-autonomous system: an
+  application to a vector-borne infection",,,,
+q-bio/0501009,"A schematic age-structured compartment model of the impact of
+  antiretroviral therapy on HIV incidence and prevalence",,,,
+q-bio/0501026,Synaptic Plasticity with Discrete state synapses,,,,
+q-bio/0502011,"Determination of barrier heights and prefactors from protein folding
+  rate data",,,,
+q-bio/0502012,"Short-range spectroscopic ruler based on a single-molecule optical
+  switch",,,,
+q-bio/0503014,Estimation of protein folding probability from equilibrium simulations,,,,
+q-bio/0503022,Spontaneous flow transition in active polar gels,,,,
+q-bio/0503025,"Variable selection from random forests: application to gene expression
+  data",,,,
+q-bio/0503026,Species Abundances Distribution in Neutral Community Models,,,,
+q-bio/0503029,Mechanical unfolding of RNA hairpins,,,,
+q-bio/0504002,"Brush Effects on DNA Chips: Thermodynamics, Kinetics and Design
+  Guidlines",,,,
+q-bio/0504007,"A methodology for determining amino-acid substitution matrices from set
+  covers",,,,
+q-bio/0504018,Neutral Theory and Relative Species Abundance in Ecology,,,,
+q-bio/0504027,"Extraclassical receptive field phenomena & short-range connectivity in
+  V1",,,,
+q-bio/0504028,Modeling multi-cellular systems using sub-cellular elements,,,,
+q-bio/0505022,Modelization of Thermal Fluctuations in G Protein-Coupled Receptors,,,,
+q-bio/0505027,Combinatorial rules of icosahedral capsid growth,,,,
+q-bio/0505047,"Deconstructing the energy landscape: new algorithms for folding
+  heteropolymers",,,,
+q-bio/0505050,"HLA and HIV Infection Progression: Application of the Minimum
+  Description Length Principle to Statistical Genetics",,,,
+q-bio/0505053,"Efficient spike-sorting of multi-state neurons using inter-spike
+  intervals information",,,,
+q-bio/0506004,Robustness and Evolvability of the B Cell Mutator Mechanism,,,,
+q-bio/0506005,"Asymptotic construction of pulses in the Hodgkin Huxley model for
+  myelinated nerves",,,,
+q-bio/0506009,"Measuring Shared Information and Coordinated Activity in Neuronal
+  Networks",,,,
+q-bio/0506027,Statistical Mechanics of Two-player Iterated Games,,,,
+q-bio/0506034,The Shapley Value of Phylogenetic Trees,,,,
+q-bio/0507018,"Bayesian Method for Disease QTL Detection and Mapping, using a Case and
+  Control Design and DNA Pooling",,,,
+q-bio/0507023,"Synchronization and spindle oscillation in noisy
+  integrate-and-fire-or-burst neurons with inhibitory coupling",,,,
+q-bio/0507031,"Detection of confinement and jumps in single molecule membrane
+  trajectories",,,,
+q-bio/0508001,Neighbor joining with phylogenetic diversity estimates,,,,
+q-bio/0508002,Food Webs: Experts Consuming Families of Experts,,,,
+q-bio/0508012,On the Complexity of the Single Individual SNP Haplotyping Problem,,,,
+q-bio/0508033,Spatial Scaling in Model Plant Communities,,,,
+q-bio/0508037,"Expanding the Temporal Analysis in Single-Molecule Switching Experiments
+  Through the Auto-Correlation Function: Mathematical Framework",,,,
+q-bio/0508039,"Stimulus-invariant processing and spectrotemporal reverse correlation in
+  primary auditory cortex",,,,
+q-bio/0508040,"Identifying Biomagnetic Sources in the Brain by the Maximum Entropy
+  Approach",,,,
+q-bio/0509014,"Fermentation kinetics including product and substrate inhibitions plus
+  biomass death: a mathematical analysis",,,,
+q-bio/0509023,"Cyclic Fluctuations, Climatic Changes and Role of Noise in Planktonic
+  Foraminifera in the Mediterranean Sea",,,,
+q-bio/0509029,Glucose metabolism and oscillatory behavior of pancreatic islets,,,,
+q-bio/0509036,"Collective synchronization in populations of globally coupled phase
+  oscillators with drifting frequencies",,,,
+q-bio/0509037,"A probabilistic model for gene content evolution with duplication, loss,
+  and horizontal transfer",,,,
+q-bio/0510014,Predictive Models for Characterization of Ecological Data,,,,
+q-bio/0510024,"Effect of pooling samples on the efficiency of comparative studies using
+  microarrays",,,,
+q-bio/0510025,NF-kappa B oscillations and cell-to-cell variability,,,,
+q-bio/0510026,Some Theoretical Investigations in EEG Studies,,,,
+q-bio/0510031,"Statistical Predictive Models in Ecology: Comparison of Performances and
+  Assessment of Applicability",,,,
+q-bio/0510032,Kernel methods in genomics and computational biology,,,,
+q-bio/0510052,Alignment Metric Accuracy,,,,
+q-bio/0510055,Signal Propagation in Nonlinear Stochastic Gene Regulatory Networks,,,,
+q-bio/0511013,"Incorporating expression data in metabolic modeling: a case study of
+  lactate dehydrogenase",,,,
+q-bio/0511027,Persistence Length Changes Dramatically as RNA Folds,,,,
+q-bio/0511034,"Maximum likelihood estimation of phylogenetic tree and substitution
+  rates via generalized neighbor-joining and the EM algorithm",,,,
+q-bio/0511045,"The use of the GARP genetic algorithm and internet grid computing in the
+  Lifemapper world atlas of species biodiversity",,,,
+q-bio/0512008,Parametric Alignment of Drosophila Genomes,,,,
+q-bio/0512013,"Weak pairwise correlations imply strongly correlated network states in a
+  neural population",,,,
+q-bio/0512019,Parametric inference of recombination in HIV genomes,,,,
+q-bio/0512023,"Co-transport-induced instability of membrane voltage in tip-growing
+  cells",,,,
+q-bio/0512043,"Non-meanfield deterministic limits in chemical reaction kinetics far
+  from equilibrium",,,,
+q-bio/0512045,The importance of selection rate in the evolution of cooperation,,,,
+q-bio/0601006,Surprises in approximating Levenshtein distances,,,,
+q-bio/0601025,"Towards an understanding of lineage specification in hematopoietic stem
+  cells: A mathematical model for the interaction of transcription factors
+  GATA-1 and PU.1",,,,
+q-bio/0601038,Quantifying the information transmitted in a single stimulus,,,,
+q-bio/0601049,Thermal unfolding of proteins,,,,
+q-bio/0601051,"Statistical Properties of the Interbeat Interval Cascade in Human
+  Subjects",,,,
+q-bio/0602006,Stochastic model of transcription factor-regulated gene expression,,,,
+q-bio/0602009,Intracellular delay limits cyclic changes in gene expression,,,,
+q-bio/0602010,"On the use of analytic expressions for the voltage distribution to
+  analyze intracellular recordings",,,,
+q-bio/0602013,"The evaluation of protein folding rate constant is improved by
+  predicting the folding kinetic order with a SVM-based method",,,,
+q-bio/0602026,"Instability of synchronized motion in nonlocally coupled neural
+  oscillators",,,,
+q-bio/0603001,"A quantitative model for refilling of the sarcoplasmic reticulum during
+  vascular smooth muscle asynchronous [Ca2+] oscillations",,,,
+q-bio/0603002,Mining Mass Spectra: Metric Embeddings and Fast Near Neighbor Search,,,,
+q-bio/0603006,"The pharmacophore kernel for virtual screening with support vector
+  machines",,,,
+q-bio/0603007,"Compression ratios based on the Universal Similarity Metric still yield
+  protein distances far from CATH distances",,,,
+q-bio/0603009,Stochastic models for tumoral growth,,,,
+q-bio/0603030,Spectral analysis of gene expression profiles using gene networks,,,,
+q-bio/0603032,"Feedback Medicine: Control Systems Concepts in Personalised, Predictive
+  Medicine and Combinatorial Intervention",,,,
+q-bio/0605002,Pattern-based phylogenetic distance estimation and tree reconstruction,,,,
+q-bio/0605004,"Methods of robustness analysis for Boolean models of gene control
+  networks",,,,
+q-bio/0605023,"Form follows function -- how PufX increases the efficiency of the
+  light-harvesting complexes of Rhodobacter sphaeroides",,,,
+q-bio/0605025,A method for representing and developing process models,,,,
+q-bio/0605028,"Targeted Projection Pursuit for Gene Expression Data Classification and
+  Visualisation",,,,
+q-bio/0605032,Reverse-engineering of polynomial dynamical systems,,,,
+q-bio/0606011,Simulation in Biology,,,,
+q-bio/0606013,"Nested Canalyzing, unate cascade, and polynomial functions",,,,
+q-bio/0606017,"Overlapping Probabilities of Top Ranking Gene Lists, Hypergeometric
+  Distribution, and Stringency of Gene Selection Criterion",,,,
+q-bio/0606018,"Does Logarithm Transformation of Microarray Data Affect Ranking Order of
+  Differentially Expressed Genes?",,,,
+q-bio/0606022,Mean Field Model of Genetic Regulatory Networks,,,,
+q-bio/0606028,Does the dynamics of sine-Gordon solitons predict active regions of DNA?,,,,
+q-bio/0606033,Time Scales in Evolutionary Dynamics,,,,
+q-bio/0606039,"Randomization and Feedback Properties of Directed Graphs Inspired by
+  Gene Networks",,,,
+q-bio/0607007,Response and fluctuations of a two-state signaling module with feedback,,,,
+q-bio/0607025,"A variational approach to the stochastic aspects of cellular signal
+  transduction",,,,
+q-bio/0607026,"Distance based Inference for Gene-Ontology Analysis of Microarray
+  Experiments",,,,
+q-bio/0607028,"The interplay between discrete noise and nonlinear chemical kinetics in
+  a signal amplification cascade",,,,
+q-bio/0607030,Multi-scale modeling of follicular ovulation as a reachability problem,,,,
+q-bio/0607031,"From systems biology to dynamical neuropharmacology: proposal for a new
+  methodology",,,,
+q-bio/0607033,"A ""Quasi-Rapid"" Extinction Population Dynamics and Mammoths Overkill",,,,
+q-bio/0607038,"Scaling graphs of heart rate time series in athletes demonstrate the
+  VLF, LF and HF regions",,,,
+q-bio/0607042,A Simple Solution of the Lotka-Volterra Equations,,,,
+q-bio/0608005,"Estimating the Number of Essential Genes in Random Transposon
+  Mutagenesis Libraries",,,,
+q-bio/0608012,The Discretizable Molecular Distance Geometry Problem,,,,
+q-bio/0608018,Clone size distributions in networks of genetic similarity,,,,
+q-bio/0608022,The synchronization of stochastic oscillators,,,,
+q-bio/0608028,"Incubation periods under various anti-retroviral therapies in
+  homogeneous mixing and age-structured dynamical models: A theoretical
+  approach",,,,
+q-bio/0608031,Geometrical approach to tumor growth,,,,
+q-bio/0608034,"Frequency decomposition of conditional Granger causality and application
+  to multivariate neural field potential data",,,,
+q-bio/0608035,Granger Causality: Basic Theory and Application to Neuroscience,,,,
+q-bio/0608038,"A versatile maskless microscope projection photolithography system and
+  its application in light-directed fabrication of DNA microarrays",,,,
+q-bio/0608042,"Nearest neighbour spacing distribution of basis in some intron-less and
+  intron-containing DNA sequences",,,,
+q-bio/0609001,"Lagrangian Approaches for a class of Matching Problems in Computational
+  Biology",,,,
+q-bio/0609002,"Functional Integration of Ecological Networks through Pathway
+  Proliferation",,,,
+q-bio/0609016,Dynamic behaviors in directed networks,,,,
+q-bio/0609024,Graph kernels based on tree patterns for molecules,,,,
+q-bio/0609029,"Mechanical unfolding of RNA: From hairpins to structures with internal
+  multiloops",,,,
+q-bio/0609032,Effects of rapid prey evolution on predator-prey cycles,,,,
+q-bio/0609037,"Comparison of amino acid occurrence and composition for predicting
+  protein folds",,,,
+q-bio/0609049,"An algorithm for real-time estimation of Mezcal fermentation parameters
+  based on redox potential measurements",,,,
+q-bio/0609050,"Bayesian analysis of biological networks: clusters, motifs,
+  cross-species correlations",,,,
+q-bio/0610003,A family tree of Markov models in systems biology,,,,
+q-bio/0610007,Elementary simulation of tethered Brownian motion,,,,
+q-bio/0610011,"Canalization and Symmetry in Boolean Models for Genetic Regulatory
+  Networks",,,,
+q-bio/0610016,Migration and proliferation dichotomy in tumor cell invasion,,,,
+q-bio/0610024,"Optimal experimental design in an EGFR signaling and down-regulation
+  model",,,,
+q-bio/0610032,A domain wall model for spectral reflectance of plant leaves,,,,
+q-bio/0610038,The minimal molecular surface,,,,
+q-bio/0610040,Metric learning pairwise kernel for graph inference,,,,
+q-bio/0610050,Perfect Sampling of the Master Equation for Gene Regulatory Networks,,,,
+q-bio/0610052,"Stochastic kinetics of viral capsid assembly based on detailed protein
+  structures",,,,
+q-bio/0610053,A Dynamical Model of Lipoprotein Metabolism,,,,
+q-bio/0610058,Estimating degrees of freedom in motor systems,,,,
+q-bio/0611001,"Heterogeneous Cell Population Dynamics: Equation-Free Uncertainty
+  Quantification Computations",,,,
+q-bio/0611016,"How Xenopus laevis replicates DNA reliably even though its origins of
+  replication are located and initiated stochastically",,,,
+q-bio/0611022,"Variable-free exploration of stochastic models: a gene regulatory
+  network example",,,,
+q-bio/0611028,"Periodic solutions of piecewise affine gene network models: the case of
+  a negative feedback loop",,,,
+q-bio/0611039,"Protein structural variation in computational models and
+  crystallographic data",,,,
+q-bio/0611045,"Phase transition in the collective migration of tissue cells: experiment
+  and model",,,,
+q-bio/0611084,"A Novel Test for Host-Symbiont Codivergence Indicates Ancient Origin of
+  Fungal Endophytes in Grasses",,,,
+q-bio/0611087,Microcolony and Biofilm Formation as a Survival Strategy for Bacteria,,,,
+q-bio/0611091,Population models with singular equilibrium,,,,
+q-bio/0611092,"Genotype-based Case-Control Analysis, Violation of Hardy-Weinberg
+  Equilibrium, and Phase Diagrams",,,,
+q-bio/0611093,"Effective Sample Size: Quick Estimation of the Effect of Related Samples
+  in Genetic Case-Control Association Analyses",,,,
+q-bio/0612011,"Stochastic approach to molecular interactions and computational theory
+  of metabolic and genetic regulations",,,,
+q-bio/0612018,The Berry phase and the pump flux in stochastic chemical kinetics,,,,
+q-bio/0612033,Monotone and near-monotone network structure (part II),,,,
+q-bio/0612044,A complete classification of epistatic two-locus models,,,,
+q-bio/0701005,Reaction-noise induced homochirality,,,,
+q-bio/0701006,Elastica-based strain energy functions for soft biological tissue,,,,
+q-bio/0701009,Attribute Exploration of Discrete Temporal Transitions,,,,
+q-bio/0701019,"Comparative analysis of protein structure using multiscale additive
+  functionals",,,,
+q-bio/0701028,Quantitative Protein Dynamics from Dominant Folding Pathways,,,,
+q-bio/0701035,"Hierarchy and Feedback in the Evolution of the E. coli Transcription
+  Network",,,,
+q-bio/0701039,Universally Sloppy Parameter Sensitivities in Systems Biology,,,,
+q-bio/0702008,Epitope prediction improved by multitask support vector machines,,,,
+q-bio/0702010,"The electrophysiology of the betacell based on single transmembrane
+  protein characteristics",,,,
+q-bio/0702024,"Coincident Frequencies and Relative Phases Among Female-Brain Signals
+  and Progesterone-Estrogen levels",,,,
+q-bio/0702030,The Role of Lipid Bilayer Mechanics in Mechanosensation,,,,
+q-bio/0702031,"Cooperative Gating and Spatial Organization of Membrane Proteins through
+  Elastic Interactions",,,,
+q-bio/0702038,"Modelling Sex Ratio and Numbers for Translocation in Meta-Population
+  Management",,,,
+q-bio/0702047,"Multifractal analysis of normal RR heart-interbeat signals in power
+  spectra ranges",,,,
+q-bio/0702052,Topological coding in hippocampus,,,,
+q-bio/0702054,Kernel matrix regression,,,,
+q-bio/0702055,"Positive Feedback, Stochasticity and Genetic Competence",,,,
+q-bio/0702058,"Symbolic Reachability Analysis of Genetic Regulatory Networks using
+  Qualitative Abstractions",,,,
+q-bio/0702060,Toll Based Measures for Dynamical Graphs,,,,
+q-bio/0703007,"Simcluster: clustering enumeration gene expression data on the simplex
+  space",,,,
+q-bio/0703022,"Are Genetically Robust Regulatory Networks Dynamically Different from
+  Random Ones?",,,,
+q-bio/0703028,Dynamics of RNA Translocation through a Nanopore,,,,
+q-bio/0703043,"Effects of Langmuir Kinetics of Two-Lane Totally Asymmetric Exclusion
+  Processes in Protein Traffic",,,,
+q-bio/0703044,"On the existence of potential landscape in the evolution of complex
+  systems",,,,
+q-bio/0703048,"An ""All Possible Steps"" Approach to the Accelerated Use of Gillespie's
+  Algorithm",,,,
+q-bio/0703058,A mathematical model for the therapy of the HIV infection,,,,
+q-bio/0703065,"A network model to investigate structural and electrical properties of
+  proteins",,,,

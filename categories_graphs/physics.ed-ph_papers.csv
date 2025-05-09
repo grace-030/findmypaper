@@ -1,0 +1,586 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+physics/0609181,Unveiling the dynamics of the universe,3.780869333410054e-05,0.0,18.0,0.0
+quant-ph/0609163,Quantum mechanics: Myths and facts,3.631507669829961e-05,5.0936099066084e-06,29.0,4.0
+cond-mat/0411007,"Resolving the order parameter of High-T$_{c}$ Superconductors through
+  quantum pumping spectroscopy",2.040257645806273e-05,0.0,11.0,0.0
+gr-qc/0409033,Clock rate comparison in a uniform gravitational field,1.5335739816805085e-05,0.0,1.0,1.0
+physics/0001033,Dream of a Christmas lecture,1.5283241191274553e-05,0.0,10.0,0.0
+gr-qc/0503092,Measures and metrics in uniform gravitational fields,1.466495587726456e-05,0.0,3.0,1.0
+physics/0103038,Mecanica Relacional: A proposito de uma resenha,9.353816835779527e-06,0.0,3.0,0.0
+physics/0310001,Indian Physics: Outline of Early History,9.016182894446985e-06,3.980365510320144e-06,10.0,1.0
+physics/0703062,How to Create Black Holes on Earth?,7.077970675088961e-06,0.0,22.0,0.0
+astro-ph/0209504,The picture of our universe: A view from modern cosmology,6.992295233728764e-06,8.25191824750586e-08,14.0,2.0
+physics/0608059,"Cinema Fiction vs Physics Reality: Ghosts, Vampires and Zombies",6.894650563261414e-06,0.0,5.0,0.0
+physics/0211021,Analise Termodinamica da aceleracao de uma massa,6.777219174635051e-06,0.0,5.0,0.0
+physics/0703141,Research News -- Meson scattering at high precision,6.413219104010443e-06,0.0,12.0,0.0
+gr-qc/0105116,"Obtention of a Gravitational Force from a Relativistic Solution to
+  Binet's Equation: The Schwarzschild's Case",6.203080408131958e-06,0.0,2.0,0.0
+physics/0110020,"Modernizing Newton, to work at any speed",5.8672139077499215e-06,0.0,3.0,0.0
+physics/0507172,Moments of inertia for solids of revolution and variational methods,5.655144290770314e-06,0.0,1.0,1.0
+physics/0402058,All electromagnetic form factors,5.312127975347266e-06,0.0,4.0,2.0
+physics/0502123,Study of the Pioneer Anomaly: A Problem Set,5.259792360551463e-06,2.266902756542852e-06,17.0,5.0
+cond-mat/0306062,Methods of nonlinear kinetics,4.772180462670082e-06,5.970548265480216e-06,4.0,2.0
+physics/9704018,Some minimally-variant map-based rules of motion at any speed,4.730566560926921e-06,0.0,3.0,2.0
+physics/0502154,Ordinary Differential Equations through Dimensional Analysis,4.683771379783472e-06,3.938022276361234e-06,4.0,2.0
+physics/0509108,A tool for teaching General Relativity,4.558247820649137e-06,0.0,4.0,0.0
+hep-ph/0202063,The Phase of Neutrino Oscillations,4.524308068480204e-06,3.763375622858739e-06,13.0,12.0
+physics/0006023,Astrophysical Dynamics 1999/2000: Merging Research and Education,4.511183159451421e-06,0.0,3.0,0.0
+physics/0207096,Infinite square well and periodic trajectories in classical mechanics,4.2247795837003335e-06,0.0,2.0,0.0
+physics/0609117,Dimensional Analysis and Physical Laws,4.194645939370164e-06,0.0,1.0,0.0
+physics/0606228,On some applications of Galilean electrodynamics of moving bodies,4.13432387904262e-06,0.0,3.0,0.0
+gr-qc/9905046,Fock-Lorentz transformations and time-varying speed of light,4.064954117246871e-06,4.440174344051613e-07,14.0,20.0
+gr-qc/0302049,Morris-Thorne wormholes with a cosmological constant,4.04976864876864e-06,8.902187835397597e-07,7.0,16.0
+astro-ph/0702298,Missing Pages in Our Photo Album of the Infant Universe,3.741479014892824e-06,0.0,3.0,0.0
+physics/9912037,In search of fundamental laws,3.713729646030765e-06,0.0,2.0,0.0
+astro-ph/0411295,Phase Transitions In Compact Stars,3.702546085092122e-06,0.0,5.0,3.0
+quant-ph/0204088,The Wave Function: It or Bit?,3.697060511604968e-06,6.724953500811402e-05,6.0,10.0
+physics/0302008,"Tracing a planet's orbit with a straight hedge and a compass with the
+  help of the hodograph and the Hamilton vector",3.62335329328243e-06,0.0,2.0,0.0
+physics/9710013,Teaching Newton with anticipation(...),3.483567162181676e-06,0.0,1.0,3.0
+physics/0303116,Neutrino Oscillations for Dummies,3.417155115241653e-06,2.956245008428072e-08,3.0,1.0
+physics/0701125,Quantum Mechanics: Bell and Quantum Entropy for the Classroom,3.357655290751536e-06,0.0,4.0,0.0
+physics/0411057,Influence and Inference in Bell's Theorem,3.325414195019063e-06,7.4260550565674335e-09,3.0,1.0
+physics/9908043,"Do Zero-Energy Solutions of Maxwell Equations Have the Physical Origin
+  Suggested by A. E. Chubykalo? [Comment on the paper in Mod. Phys. Lett. A13
+  (1998) 2139-2146]",3.236380318919056e-06,0.0,3.0,0.0
+physics/0605140,"About the proof of the so called exact classical confidence intervals.
+  Where is the trick?",3.1822234953904627e-06,0.0,3.0,0.0
+physics/0105048,Carnot cycle for an oscillator,3.1030396121628343e-06,0.0,4.0,3.0
+quant-ph/0212054,Spin 1/2 Particle on a Cylinder with Radial Magnetic Field,3.078617464316684e-06,1.990182755160072e-06,2.0,1.0
+physics/0405133,"Distributions in spherical coordinates with applications to classical
+  electrodynamics",2.994388384546076e-06,1.0025174326366031e-06,2.0,4.0
+quant-ph/0211072,A simple quantum heat engine,2.9637990606204223e-06,0.0,2.0,4.0
+physics/0311095,On negative streamers: a deterministic approach,2.91697922313738e-06,0.0,1.0,0.0
+physics/0405007,"The resemblances in mathematical structures between the optical
+  constants of artificial electromagnetic media and some physical phenomena in
+  field theory",2.890496860800991e-06,0.0,2.0,0.0
+physics/0702089,Better Physics Teaching Can Increase Physics Enrollment,2.77239764133326e-06,0.0,1.0,0.0
+physics/0603140,Majorana and the path-integral approach to Quantum Mechanics,2.693563489007369e-06,0.0,4.0,2.0
+physics/0602146,"Teaching Theoretical Physics: the cases of Enrico Fermi and Ettore
+  Majorana",2.6891628327128548e-06,0.0,4.0,2.0
+cond-mat/9711074,Heat capacity in bits,2.5503695555198186e-06,0.0,1.0,0.0
+physics/0309029,On vector potential of the Coulomb gauge,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0304051,"Comment on ""Phase Transition-Like Behavior in a Low-Pass Filter""",2.4711431321721443e-06,0.0,1.0,0.0
+gr-qc/9908019,Towards a physical interpretation for the Stephani Universes,2.4711431321721443e-06,0.0,1.0,2.0
+physics/0608071,Study of the Damped Pendulum,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0612202,"Relativistic momentum and kinetic energy, and $E=mc^2$",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0404104,Playing Games with the Quantum Three-Body Problem,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0208087,Measuring the Earth with Traceroute,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0605057,Test problems in mechanics and special relativity,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0506100,Do we really need the weight force?,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0112056,Linearisation of Simple Pendulum,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0504055,Of Connections and Fields,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0608152,"Research News -- Progess in determination of neutrino oscillation
+  parameters",2.4465415145195203e-06,0.0,8.0,0.0
+physics/0004072,Elementary Nonrelativistic Quantum Mechanics,2.427776732747237e-06,0.0,3.0,0.0
+physics/0003106,Elementary Quantum Mechanics,2.427776732747237e-06,0.0,3.0,0.0
+physics/0504111,On the Use of Relativistic Mass in Various Published Works,2.4060086373771908e-06,0.0,1.0,2.0
+physics/0504110,On the Abuse and Use of Relativistic Mass,2.4060086373771908e-06,0.0,1.0,2.0
+physics/9906066,Mecanica Clasica (Classical Mechanics),2.362754768939812e-06,0.0,3.0,0.0
+physics/9909035,Classical Mechanics,2.362754768939812e-06,0.0,3.0,0.0
+physics/0608058,"Cinema, Fermi Problems, & General Education",2.2158564365873934e-06,0.0,2.0,1.0
+physics/0108066,A Dynamical Study of the Friedmann Equations,2.1396032386445564e-06,0.0,4.0,0.0
+physics/0503228,"A Formula for Gauge Invariant Reduction of Electromagnetic Multipole
+  Tensors",2.120978933487838e-06,0.0,1.0,0.0
+physics/0404134,An Introduction to Logical Operations on Classical and Quantum Bits,1.933681623711194e-06,0.0,2.0,0.0
+physics/0404133,Considerations on Classical and Quantum Bits,1.902829715445472e-06,0.0,1.0,0.0
+physics/9811046,Bayesian reasoning versus conventional statistics in High Energy Physics,1.8950380516170012e-06,0.0,1.0,15.0
+physics/0310064,Expressing the electromagnetic interaction energy,1.8950380516170012e-06,0.0,1.0,0.0
+physics/0403002,"General-Relativistic Equations of Motion in terms of Energy and Angular
+  Momentum",1.8950380516170012e-06,0.0,1.0,0.0
+physics/0511185,"Introducing the notion of bare and effective mass via Newton's second
+  law of motion",1.8950380516170012e-06,0.0,1.0,0.0
+physics/0302044,"Abstract Applets: a Method for Integrating Numerical Problem-Solving
+  into the Undergraduate Physics Curriculum",1.8950380516170012e-06,0.0,1.0,0.0
+physics/9907017,On the Interpretation of the Redshift in a Static Gravitational Field,1.8950380516170012e-06,0.0,1.0,5.0
+physics/0407049,Circular Orbits under Central Forces in Special Relativity,1.8950380516170012e-06,0.0,1.0,1.0
+physics/0503164,Some Aspects of the Electromagnetic Multipole Expansions,1.8950380516170012e-06,0.0,1.0,2.0
+physics/9611011,"A one-map two-clock approach to teaching relativity in introductory
+  physics",1.8950380516170012e-06,0.0,1.0,1.0
+physics/0405029,Quantum Mechanics Another Way,1.890236042285424e-06,6.084030768686319e-06,6.0,5.0
+physics/0409103,"Derivation of the Lorentz Force Law, the Magnetic Field Concept and the
+  Faraday-Lenz Law using an Invariant Formulation of the Lorentz Transformation",1.791904210983811e-06,0.0,1.0,1.0
+math-ph/0402038,Theory of resistor networks: The two-point resistance,1.7636456648237234e-06,0.0,2.0,1.0
+physics/0102031,"Two particle states, lepton mixing and oscillations",1.7360569466591715e-06,0.0,2.0,0.0
+physics/9907046,Classical Electrodynamics: A Tutorial on its Foundations,1.721831431587857e-06,0.0,1.0,5.0
+physics/9909009,"Fundamental Physical Constants and the Principle of Parametric
+  Incompleteness",1.7163727455284231e-06,1.8104311798979032e-08,6.0,11.0
+physics/0501095,Innovative Experimental Particle Physics through Technological Advances,1.703003024765287e-06,0.0,1.0,0.0
+physics/0509206,The Decrease in Physics Enrollment,1.703003024765287e-06,0.0,1.0,1.0
+physics/0506001,"On the Energy-Time Uncertainty Relations: A didactical note for
+  undergraduate students",1.6583858967194102e-06,0.0,1.0,0.0
+astro-ph/0409348,Compact objects for everyone: I. White dwarf stars,1.6496599617509222e-06,0.0,2.0,3.0
+physics/0105022,The Phase Diagram of QCD,1.649456229424388e-06,4.676446873681163e-08,3.0,2.0
+physics/0305122,Lorentz Invariance of Neutrino Oscillations,1.647276507536315e-06,2.426815703979956e-07,3.0,5.0
+physics/0703064,"The gravitational analogue to the hydrogen atom (A summer study at the
+  borders of quantum mechanics and general relativity)",1.6389913491480492e-06,0.0,2.0,0.0
+physics/9908014,"Teaching statistics in the physics curriculum: Unifying and clarifying
+  role of subjective probability",1.6092079147805454e-06,0.0,2.0,5.0
+physics/0404064,Physics in Films: A New Approach to Teaching Science,1.5493750032839157e-06,0.0,1.0,2.0
+physics/0608061,Is Peudoscience the Solution to Science Literacy?,1.5493750032839157e-06,0.0,1.0,1.0
+physics/0508122,"Teaching the hidden symmetry of the Kepler problem in relativistic
+  quantum mechanics - from Pauli to Dirac electron",1.5493750032839157e-06,0.0,1.0,0.0
+gr-qc/0010085,On the use of algebraic programming in the general relativity,1.5429322164479666e-06,1.990182755160072e-06,1.0,1.0
+physics/9611022,Information physics: From energy to codes,1.5395345165557325e-06,0.0,1.0,0.0
+physics/0103091,Neutrinos,1.5262891317958414e-06,2.019365848715705e-09,1.0,1.0
+cond-mat/0006359,Bose-Einstein condensation of two interacting particles,1.522861855669524e-06,0.0,1.0,0.0
+hep-ph/9912546,Quantum Transparency of Barriers for Structure Particles,1.5093144242035985e-06,0.0,3.0,0.0
+gr-qc/0211079,Relativity theory of clocks and rulers,1.4891495929893124e-06,0.0,1.0,0.0
+physics/0212025,QCD and Natural Philosophy,1.479070282416478e-06,6.617136096855382e-06,1.0,4.0
+quant-ph/9907069,Mathematical surprises and Dirac's formalism in quantum mechanics,1.464759509684764e-06,0.0,1.0,9.0
+physics/0310069,Fundamental units: physics and metrology,1.430171432050036e-06,1.0011547426274633e-07,1.0,3.0
+physics/0510275,A Simple Derivation of Schroedinger Uncertainty Relation,1.423679349344612e-06,0.0,1.0,0.0
+physics/9908041,Gravitational Waves: An Introduction,1.3909461061312514e-06,0.0,1.0,0.0
+physics/9712053,Importance of an Astrophysical Perspective for Textbook Relativity,1.382944646679097e-06,0.0,1.0,0.0
+physics/0006030,A new solution for inflation,1.3768048102202963e-06,7.779879086692799e-07,1.0,2.0
+physics/9901021,Four-Spinor Reference Sheets,1.3189329710618589e-06,0.0,0.0,1.0
+hep-ph/0010120,Photons and static gravity,1.3189329710618589e-06,0.0,0.0,5.0
+physics/0511047,"On the physical meaning of the gauge conditions of Classical
+  Electromagnetism : the hydrodynamics analogue viewpoint",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0303005,"Physical Science: A revitalization of the traditional course by avatars
+  of Hollywood in the physics classroom",1.3189329710618589e-06,0.0,0.0,5.0
+physics/0005019,Classical Electrodynamics,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0309059,"On an Elementary Derivation of the Hamilton-Jacobi Equation from the
+  Second Law of Newton",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0308003,Biopolymer Elasticity,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0510204,On Virtual Displacement and Virtual Work in Lagrangian Dynamics,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0109032,Trajectory of the harmonic oscillator in the Schreodinger wave,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0106097,How simple is simple pendulum,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0201053,Speed of light measurement using ping,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0201055,Complexity: An Introduction,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/0605061,Perturbation theory via Feynman diagrams in classical mechanics,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0312087,An Elementary Treatment of the Reverse Sprinkler,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0404139,Linear Momentum Density in Quasistatic Electromagnetic Systems,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0106037,The invention of the quantum energy concept according to Planck,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/9908078,"Identity, Geometry, Permutation And The Spin-Statistics Theorem",1.3189329710618589e-06,0.0,0.0,3.0
+quant-ph/0502021,Why the Afshar Experiment Does Not Refute Complementarity,1.3189329710618589e-06,0.0,0.0,3.0
+gr-qc/0211091,"Universal one-way light speed from a universal light speed over closed
+  paths",1.3189329710618589e-06,0.0,0.0,3.0
+gr-qc/9607038,Non-coordinate time/velocity pairs in special relativity,1.3189329710618589e-06,0.0,0.0,2.0
+physics/9806013,Density Functional Theory -- an introduction,1.3189329710618589e-06,0.0,0.0,3.0
+physics/0311011,Classical Electrodynamics and Theory of Relativity,1.3189329710618589e-06,0.0,0.0,17.0
+physics/0307113,Expressing the power radiated by electric charged systems,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0703214,Representation-independent manipulations with Dirac matrices and spinors,1.3189329710618589e-06,0.0,0.0,1.0
+astro-ph/0309756,Cosmology calculations almost without general relativity,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9905019,"The evolution and revival structure of angular momentum quantum wave
+  packets (Tutorial)",1.3189329710618589e-06,0.0,0.0,1.0
+hep-ph/0412245,Simple derivation of general Fierz-type identities,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0410490,"Introduction to Markov Chain Monte Carlo Simulations and their
+  Statistical Analysis",1.3189329710618589e-06,0.0,0.0,1.0
+nucl-th/0508030,A simple analytical calculation of mean-field potential in heavy nuclei,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9906028,MY LIFE AS TUTOR: Reflections on Two Recent Experiences,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0410149,Orbits in a central force field: Bounded orbits,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0303106,Vector constants of the motion and orbits in the Coulomb/Kepler problem,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0212010,The hydrogen atom in electric and magnetic fields : Pauli's 1926 article,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9810034,"From circular paths to elliptic orbits: A geometric approach to Kepler's
+  motion",1.3189329710618589e-06,0.0,0.0,1.0
+physics/9810041,"Minimizing postulation in a senior undergraduate course in
+  electromagnetism",1.3189329710618589e-06,0.0,0.0,1.0
+physics/9812004,The use of the algebraic programming in teaching general relativity,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9807056,When a mass term does not represent a mass,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0003008,"Electromagnetic interaction between two uniformly moving charged
+  particles: a geometrical derivation using Minkowski diagrams",1.3189329710618589e-06,0.0,0.0,1.0
+physics/9807012,Louis de Broglie und die Quantenmechanik,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9805024,Statistical Mechanics in a Nutshell,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0311079,Collapsing the Wavefunction of a Baseball,1.3189329710618589e-06,0.0,0.0,1.0
+gr-qc/0407022,Spacetime and Euclidean Geometry,1.3189329710618589e-06,0.0,0.0,1.0
+hep-ph/0012061,Historical roots of gauge invariance,1.3189329710618589e-06,0.0,0.0,7.0
+physics/0101063,Birth and Early Development of Indian Astronomy,1.3189329710618589e-06,0.0,0.0,4.0
+physics/0206086,Initial-amplitude dependence in weakly damped oscillators,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0505193,Advantages of adopting the operational definition of weight,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9904003,Gauge Invariance and Canonical Variables,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9903033,Notes on Brownian motion and related phenomena,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0606109,Electromagnetics from a quasistatic perspective,1.3189329710618589e-06,0.0,0.0,1.0
+gr-qc/0506075,General Relativity in the Undergraduate Physics Curriculum,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0109030,An experience model for anyspeed motion,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9804018,Introduction to the Fock Quantization of the Maxwell Field,1.3189329710618589e-06,0.0,0.0,2.0
+physics/9804021,Early Theories on the Distance to the Sun,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0409113,"Coordinate Conditions for a Uniformly Accelerated or Static Plane
+  Symmetric Metric",1.3189329710618589e-06,0.0,0.0,1.0
+physics/9806004,From Newton's Laws to the Wheeler-DeWitt Equation,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0003030,Can spontaneous symmetry breaking occur in potential with one minima?,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0612191,"Relativistic addition of perpendicular velocity components from the
+  constancy of the speed of light",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0411190,Solar Neutrinos: A Popular Account,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0406158,Relativity in Introductory Physics,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/9911101,"Quantum Coins, Dice and Children: Probability and Quantum Statistics",1.3189329710618589e-06,0.0,0.0,2.0
+physics/9809028,"Newtonian approach for the Kepler-Coulomb problem from the point of view
+  of velocity space",1.3189329710618589e-06,0.0,0.0,1.0
+physics/9808001,Lengths on rotating platforms,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0001030,Simple quantum systems in the momentum representation,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0505108,The Image of a Wormhole,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0505134,Visualizing proper-time in Special Relativity,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0007020,The decoherence criterion,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0302089,Mona Lisa - ineffable smile of quantum mechanics,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0411081,Vectorlike representation of one-dimensional scattering,1.3189329710618589e-06,0.0,0.0,1.0
+astro-ph/0209265,Ex-nihilo: Obstacles Surrounding Teaching the Standard Model,,,,
+astro-ph/0606601,"Gravity's Relentless Pull: An interactive, multimedia website about
+  black holes for Education and Public Outreach",,,,
+cond-mat/0206110,Propagating and evanescent waves in absorbing media,,,,
+cond-mat/0207246,"Brownian Motion in a Classical Ideal Gas: a Microscopic Approach to
+  Langevin's Equation",,,,
+gr-qc/0703090,Two Examples of Circular Motion for Introductory Courses in Relativity,,,,
+math-ph/0309061,"Imaginary in all directions: an elegant formulation of special
+  relativity and classical electrodynamics",,,,
+physics/0001005,"An asymptotic form of the reciprocity theorem with applications in x-ray
+  scattering",,,,
+physics/0001061,"Teaching ""Symmetry"" in the Introductory Physics Curriculum",,,,
+physics/0002007,Teaching the EPR-Paradox at High School?,,,,
+physics/0002021,"Averages of static electric and magnetic fields over a spherical region:
+  a derivation based on the mean-value theorem",,,,
+physics/0002025,The oscillations in the lossy medium,,,,
+physics/0002042,"Heat and Kinetic Theory in 19th-Century Physics Textbooks: The Case of
+  Spain",,,,
+physics/0003012,Effective Field Theory for Pedestrians,,,,
+physics/0004028,Revitalization of an undergraduate physics program,,,,
+physics/0004029,Lagrangians and Hamiltonians for High School Students,,,,
+physics/0004064,Matching Conditions on Capillary Ripples: Polarization,,,,
+physics/0005025,The Precessing Top,,,,
+physics/0005028,Coriolis force in Geophysics: an elementary introduction and examples,,,,
+physics/0006073,"Work performed by a Classical-""reversible""-Carnot cycle: Raising's
+  distribution for the small ""driving weights""",,,,
+physics/0007077,The Nobel Prize in Physics 1999,,,,
+physics/0008053,The Physicist's Guide to the Orchestra,,,,
+physics/0008244,"Compactification of the moduli space in symplectization and hidden
+  symmetries of its boundary",,,,
+physics/0009021,Dirac and Majorana Constructs,,,,
+physics/0010035,"Comment on ``Do Zero-energy Solutions of Maxwell Equations Have the
+  Physical Origin Suggested by A. E. Chubykalo?"" by V.V. Dvoeglazov",,,,
+physics/0010053,"Maple procedures in teaching the canonical formalism of general
+  relativity",,,,
+physics/0102019,"Fermat's principle and variational analysis of an optical model for
+  light propagation exhibiting a critical radius",,,,
+physics/0102052,"A simple Solvable Model of Body Motion in a One-dimensional Resistive
+  Medium",,,,
+physics/0102053,The attractive nonlinear delta-function potential,,,,
+physics/0103069,Adding Resistances and Capacitances in Introductory Electricity,,,,
+physics/0104002,"Hydrodynamical interaction between a shock wave and a cloud. One
+  dimensional approach",,,,
+physics/0105039,"Generic Smooth Connection Functions - A New Analytic Approach to
+  Interpolation",,,,
+physics/0105052,On the interaction of point charges in an arbitrary domain,,,,
+physics/0105082,Addition Laws in Introductory Physics,,,,
+physics/0106088,Introducing Time Dependence into the Static Maxwell Equations,,,,
+physics/0106091,Exploring closed-loop feedback control using experiments in optics,,,,
+physics/0107074,"How to Introduce A World Time to A Part of Two Dimensional de Sitter
+  Manifold",,,,
+physics/0108013,Direction dependency of extraordinary refraction index,,,,
+physics/0111016,"Electromagnetic induction and damping - quantitative experiments using
+  PC interface",,,,
+physics/0111195,Kinematics on oblique axes,,,,
+physics/0112034,"Hadron spectra from a non-relativistic model with confining harmonic
+  potential",,,,
+physics/0201042,"Relativistic Causality and Conservation of Energy in Classical
+  Electromagnetic Theory",,,,
+physics/0201043,"How Is Nature Asymmetric ? 1. Discrete Symmetries in Particle Physics
+  and Parity Violation",,,,
+physics/0201044,"How Is Nature Asymmetric 2 CP and T Violation in Elementary Particle
+  Physics",,,,
+physics/0202003,Trotter formula and thermodynamic limits,,,,
+physics/0204060,Flatness of the setting Sun,,,,
+physics/0205046,A Hundred Years of Larmor Formula,,,,
+physics/0206022,Can we derive the Lorentz force from Maxwell's equations?,,,,
+physics/0206025,"""Bernoulli"" Levitation",,,,
+physics/0207004,"Education Curricula of the Regional Centres for Space Science and
+  Technology Education (Affiliated to the United Nations)",,,,
+physics/0207012,"Schwinger's oscillator method, supersymmetric quantum mechanics and
+  massless particles",,,,
+physics/0207025,Application of Pad\'{e} interpolation to stationary state problems,,,,
+physics/0207037,Body Motion in a Resistive Medium at Temperature T,,,,
+physics/0207106,"Effectiveness of group interaction on conceptual standardized test
+  performance",,,,
+physics/0210015,The physics of stone skipping,,,,
+physics/0210033,Toy models for the falling chimney,,,,
+physics/0210055,Elementary thermodynamics of trapped particles,,,,
+physics/0210066,"A dipole in a dielectric: Intriguing results and shape dependence of the
+  distant electric field",,,,
+physics/0210074,Short Proof of Jacobi's Identity for Poisson Brackets,,,,
+physics/0210092,"Listening to the coefficient of restitution and the gravitational
+  acceleration of a bouncing ball",,,,
+physics/0210097,"An investigation into a half page from Newton's Principia in the wake of
+  Chandra",,,,
+physics/0211004,Stress in Rotating Disks and Cylinders,,,,
+physics/0211022,"Generic composition of boosts: an elementary derivation of the Wigner
+  rotation",,,,
+physics/0211026,The Nobel Prize in Physics 2002 for the observation of cosmic neutrinos,,,,
+physics/0211047,The Driven Pendulum at Arbitrary Drive Angle,,,,
+physics/0211075,Mass redistribution in variable mass systems,,,,
+physics/0211079,Supercritical bifurcation of a hula hoop,,,,
+physics/0212061,Wick Calculus,,,,
+physics/0212085,Fundamental Research and Developing Countries,,,,
+physics/0301002,"Random sampling of an AC source: A tool to teach probabilistic
+  observations",,,,
+physics/0301033,Effect of the spherical Earth on a simple pendulum,,,,
+physics/0302102,A Note on Derivation of Rutherford Formula within Born Approximation,,,,
+physics/0303036,"An Approximate Expression for the Large Angle Period of a Simple
+  Pendulum",,,,
+physics/0303064,"Brownian Motion: Theory and Experiment:: A simple Classroom Measurement
+  of the Diffusion Coefficient",,,,
+physics/0303076,"Ex-nihilo II: Examination Syllabi and the Sequencing of Cosmology
+  Education",,,,
+physics/0303110,Particle in a box at high temperature,,,,
+physics/0304010,Wave propagation in a chiral fluid: an undergraduate study,,,,
+physics/0304036,Random Walk with Shrinking Steps,,,,
+physics/0304067,"Quantum Statistics: Is there an effective fermion repulsion or boson
+  attraction?",,,,
+physics/0304113,Some Remarks about Variable Mass Systems,,,,
+physics/0305095,Visualizing the Mass and Width Spectrum of Unstable Particles,,,,
+physics/0306042,"Analisi dimensionale: due interessanti applicazioni (Dimensional
+  analysis: two interesting applications)",,,,
+physics/0306078,Nonholonomic Constraints and Voronec's Equations,,,,
+physics/0306119,"A comment on W. Greiner's ""Quantum Mechanics -- An Introduction""",,,,
+physics/0306153,The Pedagogy of the p-n Junction: Diffusion or Drift?,,,,
+physics/0307033,Textos de f\'{\i}sica para professores e estudantes,,,,
+physics/0307037,Comment on Perturbation theory for Heisenberg Operators,,,,
+physics/0307075,"A ""poor man's approach"" to modelling of micro-structured optical fibres",,,,
+physics/0307106,"The Lorentz Group, a Galilean Approach",,,,
+physics/0307118,Fermi and Bose pressures in statistical mechanics,,,,
+physics/0307133,"Derivation of the Lorentz Force Law and the Magnetic Field Concept using
+  an Invariant Formulation of the Lorentz Transformation",,,,
+physics/0307145,Classroom computer animations of relativistic objects,,,,
+physics/0309041,Complex functions as lumps of energy,,,,
+physics/0309087,"Celestial mechanics, from high-school to Newton's Principia",,,,
+physics/0310010,Comparative kinetics of the snowball respect to other dynamical objects,,,,
+physics/0310015,"A microscopic, mechanical derivation for the adiabatic gas relation",,,,
+physics/0310049,"Ballistic trajectory: parabola, ellipse, or what?",,,,
+physics/0310107,The rules of coherence and other habits,,,,
+physics/0310140,Steppingstones in Hamiltonian dynamics,,,,
+physics/0311038,A Newtonian pre-introduction to gravitational lenses,,,,
+physics/0311100,WALTA school-network cosmic ray detectors,,,,
+physics/0401035,A Didactic Approach to Linear Waves in the Ocean,,,,
+physics/0401063,Inaccurate use of asymptotic formulas,,,,
+physics/0401067,Expressing Maxwell's equations independently of the unit system,,,,
+physics/0402020,An elliptic property of parabolic trajectories,,,,
+physics/0402036,The Hertz contact in chain elastic collisions,,,,
+physics/0402048,A Billiard-Theoretic Approach to Elementary 1d Elastic Collisions,,,,
+physics/0402096,"Finite Difference Time Domain (FDTD) Simulations of Electromagnetic Wave
+  Propagation Using a Spreadsheet",,,,
+physics/0405006,Physics Education Research: Or it's so hard to find good help these days,,,,
+physics/0405122,"The electrostatic field of a point charge and an electrical dipole in
+  the presence of a conducting sphere",,,,
+physics/0405143,Energy conservation laws in classical electrodynamics,,,,
+physics/0406085,Electrodynamics of a Magnet Moving through a Conducting Pipe,,,,
+physics/0406150,"A spaceship with a thruster - one body, one force",,,,
+physics/0407126,Tangent planes and the mean-field approximation,,,,
+physics/0407154,A Scaling Approach to Ideal Quantum Gases,,,,
+physics/0408101,Tacoma Bridge Failure-- a Physical Model,,,,
+physics/0408118,"Braving the Challenges of Being Small--The Unique Physics Program at
+  Manhattanville College",,,,
+physics/0409007,Suppressing and restoring constants in physical equations,,,,
+physics/0409086,Simple Pendulum Revisited,,,,
+physics/0409105,"Spectroscopy in the Presence of Geometrical Constraints: A Torsional
+  Pendulum",,,,
+physics/0409154,Where will a pen fall to?,,,,
+physics/0410034,Safe domain and elementary geometry,,,,
+physics/0410037,Parity and the Spin-Statistics Connection,,,,
+physics/0410123,Virtual Displacement in Lagrangian Dynamics,,,,
+physics/0410150,Simple 8085 microprocessor compatible I/O card,,,,
+physics/0411161,"Understanding the temperature and the chemical potential using computer
+  simulations",,,,
+physics/0412078,Why does the meter beat the second?,,,,
+physics/0412087,A transfer matrix method for the analysis of fractal quantum potentials,,,,
+physics/0412107,Introductory physics: The new scholasticism,,,,
+physics/0412127,"Transverse Solutions of the Vector Laplace and Helmholtz Equations for
+  Spherical Coordinates and Boundary Conditions with Azimuthal Symmetry",,,,
+physics/0412132,Brownian Motion for the School-Going Child,,,,
+physics/0412134,"Surveying the solar system by measuring angles and times: from the solar
+  density to the gravitational constant",,,,
+physics/0501012,"Approximation of the energy levels of the particle on a segment by
+  energy levels of the particle in monomial potential well",,,,
+physics/0501111,"Classical position probability densities for spherically symmetric
+  potentials",,,,
+physics/0502054,Snell's Law from an Elementary Particle Viewpoint,,,,
+physics/0502103,"A Compact Apparatus for Muon Lifetime Measurement and Time Dilation
+  Demonstration in the Undergraduate Laboratory",,,,
+physics/0503069,Images in Christmas Balls,,,,
+physics/0503071,"Macroscopic coherence effects in a mesoscopic system: Weak localization
+  of thin silver films in an undergraduate lab",,,,
+physics/0503107,"Renormalization Theory in the Electrostatic and Vector Potential
+  Calculation",,,,
+physics/0503129,Symmetry in a Perturbed Optical System,,,,
+physics/0503171,"Numerical Solution of the 1D Schr\""odinger Equation: Bloch Wavefunctions",,,,
+physics/0503198,"Science Icebreaker Activities: An Example from Gravitational Wave
+  Astronomy",,,,
+physics/0503227,How Ampere could have derived the Lorentz Transformations,,,,
+physics/0504016,"Hamilton's principle: why is the integrated difference of kinetic and
+  potential energy minimized?",,,,
+physics/0504107,The conceptualization of time and the constancy of the speed of light,,,,
+physics/0504192,"On the transformation of torques between the laboratory and center of
+  mass reference frames",,,,
+physics/0505007,Taking nanotechnology to schools,,,,
+physics/0505069,"A Simple General Solution for Maximal Horizontal Range of Projectile
+  Motion",,,,
+physics/0505116,Numerical Methods as an Integrated Part of Physics Education,,,,
+physics/0506046,Is the Bohr's quantization hypothesis necessary ?,,,,
+physics/0506143,Mesoscale Quantization and Self-Organized Stability,,,,
+physics/0506195,"Bead, Hoop, and Spring as a Classical Spontaneous Symmetry Breaking
+  Problem",,,,
+physics/0506205,A unified model for the long and high jump,,,,
+physics/0506214,"Relativistic Temperature Transformation Revisited, One hundred years
+  after Relativity Theory",,,,
+physics/0507055,Introduction to thermodynamics of spin models in the Hamiltonian limit,,,,
+physics/0507064,"Conceptual and Epistemological discussions on Quantum Mechanics in a
+  Virtual Laboratory",,,,
+physics/0507065,Nanotechnology and Society: A discussion-based undergraduate course,,,,
+physics/0507099,Relativistic force transformation,,,,
+physics/0507110,Misconceptions on Relativity Gravitation and Cosmology,,,,
+physics/0507115,"Evaluating the Root-Mean-Squared of a Sinusoidal Signal Without Using
+  Calculus",,,,
+physics/0507116,Thermal Expansion Puzzles,,,,
+physics/0507131,"Quantization of conductivity of nanotechnological point contact. Simple
+  derivation of the Landauer formula",,,,
+physics/0507133,"LC sine-wave oscillators using general-purpose voltage
+  operational-amplifiers",,,,
+physics/0507203,Textos de Fisica para professores e estudantes--II,,,,
+physics/0508022,Fundamental particles and their interactions,,,,
+physics/0508047,"Physical intuition and time-dependent generalization of the Coulomb and
+  Biot-Savart laws",,,,
+physics/0508101,Compton effect: interacting particles or interacting waves,,,,
+physics/0508114,Designing Effective Questions for Classroom Response System Teaching,,,,
+physics/0508146,"Bringing Science into Schools through Astronomy. Project ASTRO, Tucson",,,,
+physics/0508179,Concepts of Renormalization in Physics,,,,
+physics/0508186,Rutherford scattering with radiation damping,,,,
+physics/0508201,The Zeta Function Method and the Harmonic Oscillator Propagator,,,,
+physics/0508202,Path Integral and the Induction Law,,,,
+physics/0509201,Gravitational Waves: new observatories for new astronomy,,,,
+physics/0510080,Student understanding of rotational and rolling motion concepts,,,,
+physics/0510206,"An accurate formula for the period of a simple pendulum oscillating
+  beyond the small-angle regime",,,,
+physics/0510209,"A Map of the Nanoworld: Sizing up the Science, Politics, and Business of
+  the Infinitesimal",,,,
+physics/0511032,Charges suspended by strings: a new twist to an old problem,,,,
+physics/0511120,Introduction to Quantum Cryptography,,,,
+physics/0511207,"Simple derivation of dyadic Green functions of a simply moving,
+  isotropic, dielectric-magnetic medium",,,,
+physics/0511254,Comunicare Fisica all'americana,,,,
+physics/0512122,An inverted pendulum with a springy control as a model of human standing,,,,
+physics/0512158,Observations on teaching first-year physics,,,,
+physics/0512196,"Is the assumption of a special system of reference consistent with
+  Special Relativity?",,,,
+physics/0512202,"Is it time for a science counterpart of the Benezet-Berman mathematics
+  teaching experiment of the 1930's?",,,,
+physics/0512209,Estimating gas mileage: An example of order-of-magnitude physics,,,,
+physics/0512274,A radioactive decay simulation (For Education),,,,
+physics/0601154,"Einstein's ""Zur Elektrodynamik..."" (1905) Revisited, with Some
+  Consequences",,,,
+physics/0601179,Observer with a constant proper acceleration,,,,
+physics/0601214,Observable Effects of Noncommutative Spacetime on the Hydrogen Atom,,,,
+physics/0602061,Visualisation of Cherenkov Radiation and the Fields of a Moving Charge,,,,
+physics/0602073,A revisitation of the 1888 H.Hertz experiment,,,,
+physics/0602078,"An Instructional Scaffolding for Intuitive Explanation of ""Why does not
+  a spinning top collapse?""",,,,
+physics/0603026,"Elements, topology, and T-shirts",,,,
+physics/0603087,Cooling in the Universe,,,,
+physics/0603219,"The scientific heritage of Richard Henry Dalitz, FRS (1925-2006)",,,,
+physics/0603270,Electromagnetic braking: a simple quantitative model,,,,
+physics/0605031,Measuring complexity with zippers,,,,
+physics/0605085,"Educational studies of cosmic rays with telescope of Geiger-Muller
+  counters",,,,
+physics/0605100,"Reflection of light from a moving mirror: derivation of the relativistic
+  Doppler formula without Lorentz transformations",,,,
+physics/0605210,"Comparing a current-carrying circular wire with polygons of equal
+  perimeter; Magnetic field versus magnetic flux",,,,
+physics/0606124,"Measurement of mutual inductance from frequency dependence of impedance
+  of AC coupled circuit using digital dual-phase lock-in amplifier",,,,
+physics/0606225,Understanding the tsunami with a simple model,,,,
+physics/0607051,A Home Experiment in Elasticity,,,,
+physics/0607164,Dynamics and (de)localization in a one-dimensional tight-binding chain,,,,
+physics/0607204,"The Effect of Electric Fields In A Classic Introductory Physics
+  Treatment of Eddy Current Forces",,,,
+physics/0608040,"Intergalactic spaceflight: an uncommon way to relativistic kinematics
+  and dynamics",,,,
+physics/0608239,"Reforming a large lecture modern physics course for engineering majors
+  using a PER-based design",,,,
+physics/0608244,"Exploring Student Understanding of Energy through the Quantum Mechanics
+  Conceptual Survey",,,,
+physics/0608246,Some rules of good scientific writing,,,,
+physics/0608296,Assessing the Impact of Student Learning Style Preferences,,,,
+physics/0609156,Air resistance,,,,
+physics/0610028,"Hands-on Gravitational Wave Astronomy: Extracting astrophysical
+  information from simulated signals",,,,
+physics/0610062,Graduate Program in Astrophysics in Split,,,,
+physics/0610121,How to Derive the Schrodinger Equation,,,,
+physics/0610189,On the equipartition of kinetic energy in an ideal gas mixture,,,,
+physics/0610190,The Red Queen visits Minkowski Space,,,,
+physics/0611046,Life on Both Sides of the Fence: Mentoring Versus Being Mentored,,,,
+physics/0611089,Should there be more women in science and engineering?,,,,
+physics/0611192,Using ordinary multiplication to do relativistic velocity addition,,,,
+physics/0611202,"On an identity for the volume integral of the square of a vector field.
+  Remark on a paper by A. M. Stewart",,,,
+physics/0611222,"Comment on Development and assessment of research-based tutorials on
+  heat engines and the second law of thermodynamics, by Matthew J. Cochran and
+  Paula R. L. Heron, Am. J. Phys. 74, 734--741 (2006)",,,,
+physics/0612029,Dynamics of a liquid dielectric attracted by a cylindrical capacitor,,,,
+physics/0612109,Working with simple machines,,,,
+physics/0612126,A trip to the end of the universe and the twin paradox,,,,
+physics/0612162,Tasting edge effects,,,,
+physics/0612199,"Oscillations bounded by the simple pendulum and the oscillating rigid
+  rod",,,,
+physics/0701200,Real Time Relativity: exploration learning of special relativity,,,,
+physics/0701344,"A Physics Show Performed by Students for Kids: From Mechanics to
+  Elementary Particle Physics",,,,
+physics/0702046,Project-based assessment for graduate coursework in physics,,,,
+physics/0702101,Verification of the Rayleigh Scattering Cross Section,,,,
+physics/0702153,"Two-Particle Models, Diagrams and Graphs as Aids to Understanding
+  Internal Energy",,,,
+physics/0702253,"The geometrical nature and some properties of the capacitance
+  coefficients based on Laplace's Equation",,,,
+physics/0703108,"From E=mc^2 to the Lorentz transformations via the law of addition of
+  relativistic velocities",,,,
+physics/0703145,"Force Equation That Describes the Quantum States of a Relativistic
+  Spinless Particle",,,,
+physics/0703224,Emerging technologies in physics education,,,,
+physics/0703277,"Lessons Drawn from Implementation of Online Tutoring System in Physics
+  Courses",,,,
+physics/9612007,A dynamical model of the chemical bond,,,,
+physics/9704006,Ideal Gas in a Finite Container,,,,
+physics/9705003,A Elasticidade Relativista,,,,
+physics/9705025,Renormalizing Recitation Grades,,,,
+physics/9709036,Excitons with anisotropic effective mass,,,,
+physics/9709038,Subatomic Physics-100 Not Out and Still Going Strong!,,,,
+physics/9710029,Simple Linearizations of the Simple Pendulum for Any Amplitude,,,,
+physics/9710039,Have We At Last Found The A-toms?,,,,
+physics/9711008,"On the difference between the charge-free and the charge-neutral
+  solutions of Maxwell equations",,,,
+physics/9803023,"Potential Momentum, Gauge Theory, and Electromagnetism in Introductory
+  Physics",,,,
+physics/9804005,The Living Network of Schools Owned by Teachers and Students,,,,
+physics/9804007,The Quantized Hall Effect. (Lab Tutorial. In German.),,,,
+physics/9805014,"On the Physical Origin of the Oppenheimer-Ahluwalia Zero-Energy
+  Solutions",,,,
+physics/9806044,World Wide Student Laboratory. Description of Project,,,,
+physics/9807019,The Quantum Mechanical Current of the Pauli Equation,,,,
+physics/9808031,Quantum Mechanics: I,,,,
+physics/9808038,The finite one-dimensional wire problem,,,,
+physics/9808040,"Some Remarks on the Question of Charge Densities in
+  Stationary-Current-Carrying Conductors",,,,
+physics/9808049,"A Problem of Relative, Constrained Motion",,,,
+physics/9809015,On the relativistic L-S coupling,,,,
+physics/9810039,Is the number of Photons a Classical Invariant?,,,,
+physics/9811029,Finite Rotations,,,,
+physics/9811042,Hydrodynamic interactions betweem many spheres,,,,
+physics/9812014,A Formula for the Rotation Periods of the Planets & Asteroids,,,,
+physics/9901012,"Behind the shirts, is symmetry",,,,
+physics/9903021,Universality of the Hohenberg-Kohn functional,,,,
+physics/9905017,Intrinsic Kinematics,,,,
+physics/9905018,Difficult Problems Having Easy Solutions,,,,
+physics/9905023,"Progetto per la costituzione del centro di divulgazione della cultura
+  scientifica a Sesto Fiorentino",,,,
+physics/9905056,Post-Gaussian variational method for quantum anharmonic oscillator,,,,
+physics/9905057,A Piecewise-Conserved Constant of Motion for a Dissipative System,,,,
+physics/9907020,Synchronization and Inertial Frames,,,,
+physics/9908046,"How to teach statistical thermal physics in the introductory physics
+  course",,,,
+physics/9908053,Oscar's Physics Phaire: A Collection of Problems,,,,
+physics/9910038,Crater Property in Two-Particle Bound States: When and Why,,,,
+physics/9910041,"Regional Centres for Space Science and Technology Education (Affiliated
+  to the United Nations)",,,,
+physics/9911057,Solidification pipes: from solder pots to igneous rocks,,,,
+physics/9912001,The Variant Principle,,,,
+physics/9912017,"An elementary quantum mechanics calculation for the Casimir effect in
+  one dimension",,,,
+physics/9912031,Hydrogen atom in a spherical well: linear approximation,,,,
+quant-ph/0606196,Playing Quantum Physics Jeopardy with zero-energy eigenstates,,,,
+quant-ph/9905016,A simple formula for ground state energy of a two-electron atom,,,,
+quant-ph/9906061,Causation & Physics,,,,
+quant-ph/9908069,Relativistic quantum mechanics of a Dirac oscillator,,,,

@@ -1,0 +1,268 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+cond-mat/9502025,Neutron scattering and superconducting order parameter in YBa2Cu3O7,4.29547588726343e-06,0.0,4.0,1.0
+cond-mat/9501088,Gapless Time-Reversal Symmetry Breaking Superconductivity,3.911405833560001e-06,0.0,3.0,0.0
+cond-mat/9411064,"Superconductivity in an exactly solvable Hubbard model with bond-charge
+  interaction",3.893776289413273e-06,0.0,3.0,3.0
+hep-th/9505094,Theoretical analysis of a reported weak gravitational shielding effect,3.781695813349124e-06,0.0,3.0,3.0
+cond-mat/9604002,Coherent transport in a normal diffusive wire between two reservoirs,3.62335329328243e-06,0.0,2.0,0.0
+cond-mat/9511018,Spectral Flow in Josephson Junctions and Effective Magnus Force,3.602649407146852e-06,0.0,4.0,0.0
+cond-mat/9512054,Thermal Conductivity of Superconducting UPt$_3$ at Low Temperatures,3.527335779856573e-06,0.0,5.0,1.0
+cond-mat/9504076,"""Chain scenario"" for Josephson tunneling with pi-shift in YBa2Cu3O7",3.0472482127272877e-06,0.0,2.0,1.0
+cond-mat/9507045,"Magnetic and pair correlations of the Hubbard model with
+  next-nearest-neighbor hopping",3.0472482127272877e-06,0.0,2.0,1.0
+cond-mat/9604182,"On the Decoupling of Layered Superconducting Films in Parallel Magnetic
+  Field",2.7412866436134728e-06,0.0,2.0,3.0
+cond-mat/9506127,"Finite-Band-width Effects on the Transition Temperature and NMR
+  Relaxation Rate of Impure Superconductors",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/9512105,"Non-magnetic impurity scattering in a $d_{x^2 - y^2}$ superconductor
+  near a van Hove point: Zn versus Ni in the cuprates",2.4711431321721443e-06,0.0,1.0,1.0
+supr-con/9607007,Towards a Microscopic Theory for Metallic Heavy-Fermion Point Contacts,2.4711431321721443e-06,0.0,1.0,0.0
+supr-con/9607003,Flux flow resistivity and vortex viscosity of high-Tc films,2.4711431321721443e-06,0.0,1.0,0.0
+supr-con/9508001,Nucleation and Growth of Normal Phase in Thin Superconducting Strips,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/9510100,"Antiferromagnetic Excitations and Van Hove Singularities in
+  YBa$_2$Cu$_3$O$_{6+x}$",2.4711431321721443e-06,0.0,3.0,0.0
+cond-mat/9511041,"On the Stereochemistry of the Cations in the Doping Block of
+  Superconducting Copper-Oxides",2.4711431321721443e-06,0.0,1.0,0.0
+supr-con/9601001,"Updating the theoretical analysis of the weak gravitational shielding
+  experiment",2.3671750587438765e-06,0.0,1.0,3.0
+cond-mat/9502095,Renormalization group analysis of electrons near a Van Hove singularity.,2.27910810532043e-06,0.0,2.0,6.0
+supr-con/9505001,Superconductivity from correlated hopping,1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/9603044,ARPES Study of the Superconducting Gap Anisotropy in Bi_2Sr_2CaCu_2O_8+x,1.8950380516170012e-06,0.0,1.0,1.0
+cond-mat/9606099,The Magnus force in superfluids and superconductors,1.6822991386297089e-06,0.0,1.0,7.0
+cond-mat/9505158,"Adiabatic Effective Action for Vortices in Neutral and Charged
+  Superfluids",1.6404814871408405e-06,0.0,1.0,0.0
+cond-mat/9604152,"Critical Behavior of the Flux-line Tension in Extreme Type-II
+  Superconductors",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9607142,"Irreversibility, Mechanical Entanglement and Thermal Melting in
+  Superconducting Vortex Crystals with Point Impurities",1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/9603041,Anti-phase locking in a two-dimensional Josephson junction array,1.3189329710618589e-06,0.0,0.0,1.0
+supr-con/9501001,"Phonon Assisted Multimagnon Optical Absorption and Long Lived Two-Magnon
+  States in Undoped Lamellar Copper Oxides",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9507124,"Intercalation and Staging Behavior in Super-Oxygenated $La_2CuO_{4 +
+  \delta}$",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9507020,"Electronic excitations in Bi$_2$Sr$_2$CaCu$_2$O$_8$ : Fermi surface,
+  dispersion, and absence of bilayer splitting",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9502039,PHASE TRANSITION OF N-COMPONENT SUPERCONDUCTORS,1.3189329710618589e-06,0.0,0.0,8.0
+supr-con/9606001,New Universality Class in the Superconductive Phase Transition,1.3189329710618589e-06,0.0,0.0,3.0
+hep-th/9510058,"Deviations from Fermi-Liquid behaviour in (2+1)-dimensional Quantum
+  Electrodynamics and the normal phase of high-$T_c$ Superconductors",1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/9506043,Heavy Fermion Superconductivity,1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/9508139,Phase transitions in a Kagome lattice of Josephson junctions,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9505106,Novel Phases of Planar Fermionic Systems,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9608098,Supercurrent in a mesoscopic proximity wire,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9503019,Critical Exponents of the Superconducting Phase Transition,1.3189329710618589e-06,0.0,0.0,2.0
+supr-con/9608005,"Evidence for Quasiparticle Decay in Photoemission from Underdoped
+  Cuprates",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9602119,"Direct observation of particle-hole mixing in the superconducting state
+  by angle-resolved photoemission",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9507095,"Comment on ``Quantitative Model for the Superconductivity Suppression in
+  R$_{1-x}$Pr$_x$Ba$_2$Cu$_3$O$_7$ with Different Rare Earths''",1.3189329710618589e-06,0.0,0.0,2.0
+supr-con/9608004,"Ginzburg-Landau-Gor'kov Theory of Magnetic oscillations in a type-II
+  2-dimensional Superconductor",1.3189329710618589e-06,0.0,0.0,3.0
+supr-con/9411003,Density of states of a layered S/N d-wave superconductor,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9411042,Two-Dimensional t-J Model at Low Electron Density,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9607023,Velocity Selection for Propagating Fronts in Superconductors,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9604178,"Comment on ""Voltage-Current Characteristics of the Two-Dimensional Gauge
+  Glass Model""",1.3189329710618589e-06,0.0,0.0,3.0
+supr-con/9608002,"c-Axis Infrared Conductivity of a d_{x^2-y^2}-Wave Superconductor with
+  Impurity and Spin-Fluctuation Scattering",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9601085,Charge Transport in Superconductor - Normal Metal Proximity Structures,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9605039,"Local Density of States in a Dirty Normal Metal connected to a
+  Superconductor",1.3189329710618589e-06,0.0,0.0,1.0
+supr-con/9507006,Screening current effects in Josephson junction arrays,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9509046,"Electronic thermal conductivity and the Wiedemann-Franz law for
+  unconventional superconductors",1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/9507027,Fundamental properties of a vortex in a d-wave superconductor,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9605113,Coherent Charge Transport in Metallic Proximity Structures,1.3189329710618589e-06,0.0,0.0,1.0
+supr-con/9506003,The Flux-Line Lattice in Superconductors,1.3189329710618589e-06,0.0,0.0,1.0
+supr-con/9608001,Topology and Phase Transitions in the Little-Parks Experiment,1.3189329710618589e-06,0.0,0.0,1.0
+supr-con/9507003,"Low-Field Phase Diagram of Layered Superconductors: The Role of
+  Electromagnetic Coupling",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9503153,"Coupling between planes and chains in YBa2Cu3O7 : a possible solution
+  for the order parameter controversy",1.3189329710618589e-06,0.0,0.0,1.0
+supr-con/9507004,Vortex Dynamics and the Hall-Anomaly: a Microscopic Analysis,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9411071,Symmetries and Mean-Field Phases of the Extended Hubbard Model,,,,
+cond-mat/9411121,"Deviations from Fermi-liquid behavior above $T_c$ in 2D short coherence
+  length superconductors",,,,
+cond-mat/9411125,"Universality Classes, Statistical Exclusion Principle and Properties of
+  Interacting Fermions",,,,
+cond-mat/9412064,"Phenomenological Models for the Gap Anisotropy of Bi-2212 as Measured by
+  ARPES",,,,
+cond-mat/9412065,"Theory of Electronic Raman Scattering in Disordered $d-$wave
+  Superconductors",,,,
+cond-mat/9412067,Phenomenological BCS theory of the high-$T_c$ cuprates,,,,
+cond-mat/9501110,"Linear Response of Thin Superconductors in Perpendicular Magnetic
+  Fields: An Asymptotic Analysis",,,,
+cond-mat/9502009,"Raman spectrum and charge fluctuations in the copper-oxide
+  superconductors",,,,
+cond-mat/9502010,"The effect of large $U_d$ on the Raman spectrum in the copper-oxide
+  superconductors",,,,
+cond-mat/9502110,The Nonlinear Meissner Effect in Unconventional Superconductors,,,,
+cond-mat/9503004,"Crossover from BCS to Composite Boson (Local Pair) Superconductivity in
+  Quasi-2D systems",,,,
+cond-mat/9503025,"Quantum critical phenomena in ladders of Josephson junctions in a
+  magnetic field",,,,
+cond-mat/9503037,GINZBURG-LANDAU THEORY OF VORTICES IN $d$-WAVE SUPERCONDUCTORS,,,,
+cond-mat/9503054,Superconductivity in the two dimensional Hubbard Model.,,,,
+cond-mat/9503125,Doping Effects and Electronic States in C60-Polymers,,,,
+cond-mat/9503164,"INTERLAYER COUPLING AND THE METAL-INSULATOR TRANSITION IN Pr-SUBSTITUTED
+  Bi(2)Sr(2)CaCu(2)O(8+y)",,,,
+cond-mat/9504109,Peak Effect in Superconductors: Melting of Larkin Domains,,,,
+cond-mat/9505030,Parity Fluctuations Between Coulomb Blockaded Superconducting Islands,,,,
+cond-mat/9505067,Umklapp scattering from spin fluctuations in Copper-Oxides,,,,
+cond-mat/9505070,Magnetic Behavior of the Cuprate Superconductors,,,,
+cond-mat/9506064,Odd Parity and Line Nodes in Heavy Fermion Superconductors,,,,
+cond-mat/9506094,Spin-Charge Separated Luttinger Liquid in Arbitrary Spatial Dimensions,,,,
+cond-mat/9507021,"Polarization Selection Rules and Superconducting Gap Anisotropy in
+  $Bi_2Sr_2CaCu_2O_8$",,,,
+cond-mat/9507078,Electromagnetic Absorption in an Anisotropic Layered Superconductor,,,,
+cond-mat/9508015,"Non linear dynamics of vortices in superconductors with short coherence
+  length",,,,
+cond-mat/9508027,"Optical phonons along the c axis of YBa_2Cu_3O_{6+x}, for x=0.5 -> 0.95",,,,
+cond-mat/9508085,"Superheating fields of superconductors: Asymptotic analysis and
+  numerical results",,,,
+cond-mat/9508094,Magnetic pair breaking in disordered superconducting films,,,,
+cond-mat/9509017,"Superconductivity of Quasi-One-Dimensional Electrons in Strong Magnetic
+  Field",,,,
+cond-mat/9509037,"Microscopic Derivation of Magnetic Flux Density Profiles, Magnetization
+  Hysteresis Loops, and Critical Currents in Strongly Pinned Superconductors",,,,
+cond-mat/9509072,Surface superconductivity and $H_{c3}$ in UPt$_3$,,,,
+cond-mat/9509086,Superconducting Order Parameter Symmetry in Multi-layer Cuprates,,,,
+cond-mat/9509128,"Optical properties along the c axis of YBa_2Cu_3O_{6+x}, for x=0.50 ->
+  0.95: evolution of the pseudogap",,,,
+cond-mat/9509132,Collective Particle Flow through Random Media,,,,
+cond-mat/9510167,Vortex reflection at boundaries of Josephson-junction arrays,,,,
+cond-mat/9511071,"Influence of oxygen ordering kinetics on Raman and optical response in
+  YBa_2Cu_3O_{6.4}",,,,
+cond-mat/9511080,"Resonant Two-Magnon Raman Scattering in Cuprate Antiferromagnetic
+  Insulators",,,,
+cond-mat/9512097,"Mechanism of thermally activated c-axis dissipation in layered
+  High-T$_c$ superconductors at high fields",,,,
+cond-mat/9512178,"Ginzburg-Landau Expansion and the Slope of the Upper Critical Field in
+  Disordered Superconductors with Anisotropic Pairing",,,,
+cond-mat/9601051,"Comparison of local structure measurements from c-axis polarized XAFS
+  between a film and a single crystal of YBCO as a function of temperature",,,,
+cond-mat/9601090,"Transmission Electron Study of Heteroepitaxial Growth in the BiSrCaCuO
+  System",,,,
+cond-mat/9602040,Interaction of Ultrasound with Vortices in Type-II Superconductors,,,,
+cond-mat/9603040,"The London penetration depth of strongly coupled isotropic
+  superconductors : low temperature behaviour",,,,
+cond-mat/9603131,"Plane-chain coupling in YBa$_{2}$Cu$_{3}$O$_{7}$ : impurity effect on
+  the critical temperature",,,,
+cond-mat/9604180,Current-Induced Chiral Phase Transition in a Josephson-Junction Array,,,,
+cond-mat/9604183,"A Microscopic Derivation of the Critical Magnetic Field in a
+  Superconductor",,,,
+cond-mat/9604186,"Nonlocal Conductivity in the Vortex-Liquid Regime of a Two-Dimensional
+  Superconductor",,,,
+cond-mat/9605067,"Plasma resonance and remaining Josephson coupling in the ``decoupled
+  vortex liquid phase'' in layered superconductors",,,,
+cond-mat/9605159,Theory of phase-locking in generalized hybrid Josephson junction arrays,,,,
+cond-mat/9605190,"Coupling to optical phonons in the one-dimensional t-J model: Effects on
+  superconducting fluctuations and phase separation",,,,
+cond-mat/9606162,The Current Carried by Bound States of a Superconducting Vortex,,,,
+cond-mat/9607092,"Local Electronic Structure of a Single Magnetic Impurity in a
+  Superconductor",,,,
+cond-mat/9607095,Transport properties of a quantum dot with superconducting leads,,,,
+cond-mat/9607151,"Microscopic Oscillations in the Quantum Nucleation of Vortices Subject
+  to Periodic Pinning Potential in a Thin Superconductor",,,,
+cond-mat/9608059,Edge Tunneling of Vortices in Superconducting Thin Films,,,,
+cond-mat/9608131,Mechanism for Magnetic Flux Generation in Grain Boundaries of YBCO,,,,
+cond-mat/9608132,"Interplay among critical temperature, hole content, and pressure in the
+  cuprate superconductors",,,,
+cond-mat/9609102,"Pairing Constraint on the Real Space Formalism of the Theory of
+  Superconductivity",,,,
+cond-mat/9609130,"Supercurrent Decay by Vortex Nucleation in the Presence of an Array of
+  Pinning Centres: A Renormalization Group Approach",,,,
+hep-th/9606131,"Vortices, flux tubes and other structures in the Ginzburg-Landau model:
+  a possible fine structure of the mixed state?",,,,
+hep-th/9607128,Regular solutions in Abelian gauge model,,,,
+quant-ph/9504011,"The N-representability problem, the pseudo-spectral decomposition of
+  antisymmetric 1-body operators, and collective behaviour",,,,
+quant-ph/9508018,Aharonov-Bohm Type Forces Between Magnetic Fluxons,,,,
+supr-con/9411001,"Spin pseudo-gap and interplane coupling in Y_2Ba_4Cu_7O_{15}: a ^{63}Cu
+  nuclear spin-spin relaxation study",,,,
+supr-con/9411002,Spin Dynamics of La_2CuO_4 and the Two-Dimensional Heisenberg Model,,,,
+supr-con/9412001,Onset of Vortices in Thin Superconducting Strips and Wires,,,,
+supr-con/9412002,Multiple Scattering Analysis of Cu-K EXAFS in Bi_2Sr_1.5Ca_1.5Cu_2O_8+d,,,,
+supr-con/9502001,"Anomalous Normal-State Properties of High-T$_c$ Superconductors --
+  Intrinsic Properties of Strongly Correlated Electron Systems?",,,,
+supr-con/9502002,"Verification of a New Non-Linear IV-exponent: Simulation of the 2D
+  Coulomb Gas with Langevin Dynamics.",,,,
+supr-con/9502003,Two-hole bound states in modified t-J model,,,,
+supr-con/9503001,"Self-Organized Criticality Effect on Stability: Magneto-Thermal
+  Oscillations in a Granular YBCO Superconductor",,,,
+supr-con/9504001,"Microwave Properties of Borocarbide Superconductors LnNi2B2C (Ln = Y,
+  Er, Tm, Ho)",,,,
+supr-con/9504002,"Microwave Surface Impedance of YBCO:123 crystals: Experiment and
+  comparison to a d-wave model",,,,
+supr-con/9505002,"Neutron Scattering Study of Crystal Field Energy Levels and Field
+  Dependence of the Magnetic Order in Superconducting HoNi2B2C",,,,
+supr-con/9506001,"Quantum Resistive Transition in Type II Superconductors under Magnetic
+  Field",,,,
+supr-con/9506002,"First-Order Vortex Lattice Melting and Magnetization of
+  YBa$_2$Cu$_3$O$_{7-\delta}",,,,
+supr-con/9506004,Flux Creep and Flux Jumping,,,,
+supr-con/9507001,"Percolation transition of the vortex lattice and c-axis resistivity in
+  high-temperature superconductors",,,,
+supr-con/9507002,Renormalization group approach to layered superconductors,,,,
+supr-con/9507005,Constants of motion in the dynamics of a 2N-junction SQUID,,,,
+supr-con/9507007,Nonlinear optical response in doped conjugated polymers,,,,
+supr-con/9508002,"$s$- and $d_{xy}$-wave components induced around a vortex in
+  $d_{x^2-y^2}$-wave superconductors",,,,
+supr-con/9508003,"Superconducting, magnetic, and charge correlations in the doped
+  two-chain Hubbard model",,,,
+supr-con/9508004,The Bean Critical State: Infinitely Unstable,,,,
+supr-con/9508005,"Nonlinear Flux Diffusion and ac Susceptibility of Superconductors -
+  Exact Numerical Results",,,,
+supr-con/9508006,"Magnetostriction of a Superconductor: -Results from the Critical-State
+  Model",,,,
+supr-con/9509001,"Langevin Simulations of Two Dimensional Vortex Fluctuations: Anomalous
+  Dynamics and a New $IV$-exponent",,,,
+supr-con/9510001,The string model of the Cooper pair in the anisotropic superconductor,,,,
+supr-con/9510002,Polaronic optical absorption in electron-doped and hole-doped cuprates,,,,
+supr-con/9511001,"Synchronization in one-dimensional array of Josephson coupled thin
+  layers",,,,
+supr-con/9511002,"S-35 Beta Irradiation of a Tin Strip in a State of Superconducting
+  Geometrical Metastability",,,,
+supr-con/9512001,Vortex structure in $d$-wave superconductors,,,,
+supr-con/9512002,"Beta Irradiation of a Geometrically Metastable Superconducting Strip
+  Detector with a Magnetic Flux Penetration Read-Out",,,,
+supr-con/9512003,Vortex structure and resistive transitions in high-Tc superconductors,,,,
+supr-con/9602001,"Vortex Plastic Flow, $B(x,y,H(t)), M(H(t)), J_c(B(t))$, Deep in the Bose
+  Glass and Mott-Insulator Regimes",,,,
+supr-con/9602002,s and d-wave symmetries of the solutions of the Eliashberg equations,,,,
+supr-con/9602003,"Vortex Response and Critical Fields observed via rf penetration depth
+  measurements on the superconductor YNi_2B_2C",,,,
+supr-con/9604001,Vortex loops entry into type--II superconductors,,,,
+supr-con/9604002,"Low temperature thermal conductivity of Zn-doped YBCO: evidence for
+  impurity-induced electronic bound states",,,,
+supr-con/9605001,"Irreversible magnetization in thin YBCO films rotated in external
+  magnetic field",,,,
+supr-con/9605002,Coupling of Josephson flux-flow oscillators to an external RC load,,,,
+supr-con/9606002,"Star-shaped Local Density of States around Vortices in a Type II
+  Superconductor",,,,
+supr-con/9606003,Plastic vortex-creep in YBa$_2$Cu$_3$O$_{7-x}$ crystals,,,,
+supr-con/9607001,"On Mean-Field Theory of Quantum Phase Transition in Granular
+  Superconductors",,,,
+supr-con/9607002,Ginzburg-Landau Theory of Josephson Field Effect Transistors,,,,
+supr-con/9607004,"Comments on ""Vortex Glass and Lattice Melting Transitions in a YNi_2B_2C
+  Single Crystal""",,,,
+supr-con/9607005,"Spatio-temporal dynamics and plastic flow of vortices in superconductors
+  with periodic arrays of pinning sites",,,,
+supr-con/9607006,Strong Pinning and Plastic Deformations of the Vortex Lattice,,,,
+supr-con/9608003,"Extended bound states and resonances of two fermions on a periodic
+  lattice",,,,
+supr-con/9608006,"Strong coupling theory of the interlayer tunneling model for high
+  temperature superconductors",,,,
+supr-con/9608007,"The Fluctuation Induced Pseudogap in the Infrared Optical Conductivity
+  of High Temperature Superconductors",,,,
+supr-con/9608008,"On the origin of the irreversibility line in thin YBaCuO7 films with and
+  without columnar defects",,,,
+supr-con/9609001,"Nonlinear Response of HTSC Thin Film Microwave Resonators in an Applied
+  DC Magnetic Field",,,,
+supr-con/9609002,"Critical State Flux Penetration and Linear Microwave Vortex Response in
+  YBa_2Cu_3O_{7-x} Films",,,,
+supr-con/9609003,"Density of States and NMR Relaxation Rate in Anisotropic
+  Superconductivity with Intersecting Line Nodes",,,,
+supr-con/9609004,"Ginzburg Landau theory for d-wave pairing and fourfold symmetric vortex
+  core structure",,,,

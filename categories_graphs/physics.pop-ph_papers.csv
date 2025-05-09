@@ -1,0 +1,247 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+physics/0505042,Zeno meets modern science,2.742051205138347e-05,0.0,11.0,0.0
+physics/0509184,Creativity leading to discoveries in particle physics and relativity,2.628695371814842e-05,1.990182755160072e-06,16.0,1.0
+physics/0608188,"Unification, the Big Bang, and the Cosmological Constant",2.58526682384496e-05,0.0,36.0,0.0
+physics/0507182,"On simulations of the classical harmonic oscillator equation by
+  difference equations",1.2499674253980368e-05,1.990182755160072e-06,1.0,1.0
+physics/0612171,Three Questions on Lorentz Violation,1.1525272878498498e-05,0.0,2.0,0.0
+astro-ph/0310214,"Observational Cosmology: caveats and open questions in the standard
+  model",1.034275695132656e-05,4.641284410354646e-09,15.0,2.0
+astro-ph/0612266,The twin paradox on the photon sphere,9.35386173070371e-06,0.0,1.0,0.0
+hep-th/0205259,Inflationary Theory versus Ekpyrotic/Cyclic Scenario,9.03483047634861e-06,2.625959493604511e-05,75.0,26.0
+physics/0106053,The Dark Universe: The First Molecules,7.652733008906002e-06,0.0,3.0,0.0
+physics/0311037,Quantum Gravity Phenomenology,7.190270889021792e-06,2.2882127656369495e-07,38.0,2.0
+physics/0703062,How to Create Black Holes on Earth?,7.077970675088961e-06,0.0,22.0,0.0
+physics/0608059,"Cinema Fiction vs Physics Reality: Ghosts, Vampires and Zombies",6.894650563261414e-06,0.0,5.0,0.0
+physics/0401142,Magnetic Backgrounds and Noncommutative Field Theory,6.8546737562940135e-06,1.2887845734000783e-05,52.0,11.0
+physics/0703141,Research News -- Meson scattering at high precision,6.413219104010443e-06,0.0,12.0,0.0
+physics/0604064,Four variations on Theoretical Physics by Ettore Majorana,6.218005682376471e-06,0.0,7.0,0.0
+physics/9702014,Aging Random Walks,5.138220726616036e-06,0.0,6.0,0.0
+gr-qc/0605124,New 'phase' of quantum gravity,4.967339487081527e-06,1.0151037184056145e-07,3.0,1.0
+physics/0006023,Astrophysical Dynamics 1999/2000: Merging Research and Education,4.511183159451421e-06,0.0,3.0,0.0
+physics/0006024,The quest for the neutrino mass spectrum,4.300590441868335e-06,7.150540898694408e-06,16.0,6.0
+physics/0512098,Interdisciplinary Monte Carlo Simulations,4.2828738829633365e-06,0.0,3.0,0.0
+physics/0609137,"Hole theory and Quantum Electrodynamics in an unknown French manuscript
+  by Ettore Majorana",4.219578365902143e-06,0.0,4.0,0.0
+physics/0607099,Un manoscritto inedito in francese di Ettore Majorana,4.219578365902143e-06,0.0,4.0,0.0
+hep-th/0503069,Determinism and a supersymmetric classical model of quantum fields,3.875200048851571e-06,0.0,7.0,0.0
+hep-th/0211048,"Inflation, Quantum Cosmology and the Anthropic Principle",3.783209228588805e-06,0.000110029124102,29.0,31.0
+physics/0507192,On Symmetry and Conserved Quantities in Classical Mechanics,3.72724656423951e-06,0.0,4.0,0.0
+quant-ph/0204088,The Wave Function: It or Bit?,3.697060511604968e-06,6.724953500811402e-05,6.0,10.0
+physics/0508123,The importance of the observer in science,3.4738430408456984e-06,0.0,3.0,0.0
+physics/0303116,Neutrino Oscillations for Dummies,3.417155115241653e-06,2.956245008428072e-08,3.0,1.0
+physics/0505071,"How does Europe Make Its Mind Up? Connections, cliques, and
+  compatibility between countries in the Eurovision Song Contest",3.1256142672014795e-06,1.3931279286120504e-05,2.0,3.0
+physics/0511135,The Real Message in the Sky,3.107107116560178e-06,2.1279736382525235e-06,2.0,2.0
+hep-ph/0110122,The Enigma of the Dark Matter,2.985809729434276e-06,2.1181214572598497e-06,8.0,15.0
+physics/0605096,"The Fermi Paradox in the light of the Inflationary and Brane World
+  Cosmologies",2.9255807147019253e-06,0.0,3.0,0.0
+physics/0512062,"A Solution to the Fermi Paradox: The Solar System, part of a Galactic
+  Hypercivilization?",2.9255807147019253e-06,0.0,3.0,0.0
+physics/0111134,"Photons, Clocks, Gravity and the Concept of Mass",2.8823378698908707e-06,0.0,2.0,1.0
+physics/0605105,Superstring theories,2.862797276067219e-06,0.0,11.0,0.0
+physics/0510102,Message in the Sky,2.714389169958406e-06,0.0,1.0,2.0
+physics/0603140,Majorana and the path-integral approach to Quantum Mechanics,2.693563489007369e-06,0.0,4.0,2.0
+physics/0602146,"Teaching Theoretical Physics: the cases of Enrico Fermi and Ettore
+  Majorana",2.6891628327128548e-06,0.0,4.0,2.0
+quant-ph/0303176,Quantum spin pumping with adiabatically modulated magnetic barrier's,2.4840364310923274e-06,0.0,2.0,0.0
+physics/0101108,Superluminal motions? A bird-eye view of the experimental situation,2.474996757929328e-06,3.1842924082561154e-05,4.0,7.0
+physics/0212072,"The Peculiarities of the Interaction of Phobos with the Solar Wind are
+  Evidence of the Phobos Magnetic Obstacle (from Phobos-2 Data)",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0503229,The Improbability Scale,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0612253,Goedel and Physics,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0208087,Measuring the Earth with Traceroute,2.4711431321721443e-06,0.0,1.0,0.0
+physics/9709017,What was the fastest 100m final?,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0310148,Random Walker Ranking for NCAA Division I-A Football,2.4711431321721443e-06,0.0,1.0,2.0
+physics/0608152,"Research News -- Progess in determination of neutrino oscillation
+  parameters",2.4465415145195203e-06,0.0,8.0,0.0
+physics/0403049,The Bowl Championship Series: A Mathematical Review,2.3469198153586743e-06,0.0,1.0,0.0
+physics/0309113,"Three Interesting 15th and 16th Century Comet Sightings in Kashmiri
+  Chronicles",2.27910810532043e-06,0.0,3.0,0.0
+physics/0201056,Short popular review of quantum electromagnetodynamics,2.27910810532043e-06,0.0,2.0,0.0
+physics/0604134,"The Landscape ""avant la lettre""",2.258891012187592e-06,3.8375228632003945e-07,9.0,6.0
+physics/0608058,"Cinema, Fermi Problems, & General Education",2.2158564365873934e-06,0.0,2.0,1.0
+astro-ph/0102032,In Support of Inflation,2.126058150305905e-06,0.0,6.0,0.0
+gr-qc/0403001,The Physics of 'Now',2.08252838370112e-06,0.0,3.0,1.0
+physics/0510050,Staging quantum cryptography with chocolate balls,1.944488890714926e-06,1.990182755160072e-06,3.0,2.0
+physics/0308078,"Brane Worlds, the Subanthropic Principle and the Undetectability
+  Conjecture",1.9073282177716687e-06,0.0,1.0,2.0
+physics/0701240,Albert Einstein: His Annus Mirabilis 1905,1.8950380516170012e-06,0.0,1.0,0.0
+physics/0702250,Quantum-like Probabilistic Models outside Physics,1.8950380516170012e-06,0.0,1.0,0.0
+physics/0410056,"Quantitative analysis of directional spontaneous emission spectra from
+  light sources in photonic crystals",1.8950380516170012e-06,0.0,1.0,0.0
+quant-ph/9806074,"On an attempt to resolve the EPR-Bell paradox via Reichenbachian concept
+  of common cause",1.8950380516170012e-06,0.0,2.0,2.0
+physics/0004012,"Two Novel Special Relativistic Effects: Space Dilatation and Time
+  Contraction",1.8950380516170012e-06,0.0,1.0,0.0
+hep-th/0206088,Inflationary Theory and Alternative Cosmology,1.866708595074972e-06,1.2206055561729328e-06,8.0,16.0
+physics/0511209,"The LHC, shining light on the Dark Side",1.8205040615289195e-06,0.0,1.0,0.0
+physics/0003035,Will the Population of Humanity in the Future be Stabilized?,1.785162396109869e-06,0.0,4.0,2.0
+gr-qc/9909075,Introduction to causal sets: an alternate view of spacetime structure,1.7388106156161642e-06,2.0178986536492045e-06,4.0,9.0
+physics/0602051,A Tempt To Measure Reality,1.7162436594469266e-06,0.0,1.0,0.0
+physics/0511067,The Universe is a Strange Place,1.703003024765287e-06,0.0,1.0,0.0
+physics/0411216,The Neutrino Matrix,1.691180754438857e-06,3.116050671790356e-05,1.0,10.0
+physics/0606186,Alice and Bob Get Away With It: a playlet,1.6536247414283374e-06,0.0,2.0,0.0
+physics/0105022,The Phase Diagram of QCD,1.649456229424388e-06,4.676446873681163e-08,3.0,2.0
+physics/0703064,"The gravitational analogue to the hydrogen atom (A summer study at the
+  borders of quantum mechanics and general relativity)",1.6389913491480492e-06,0.0,2.0,0.0
+physics/9901034,"How to quantify deterministic and random influences on the statistics of
+  the foreign exchange market",1.60698551133943e-06,0.0,1.0,1.0
+physics/0510188,"On Math, Matter and Mind",1.5719681439020428e-06,0.0,2.0,0.0
+physics/0503150,Einstein y la Geometria,1.5493750032839157e-06,0.0,1.0,0.0
+physics/0404064,Physics in Films: A New Approach to Teaching Science,1.5493750032839157e-06,0.0,1.0,2.0
+physics/0608061,Is Peudoscience the Solution to Science Literacy?,1.5493750032839157e-06,0.0,1.0,1.0
+physics/0608187,High Impact but Less Popular,1.5493750032839157e-06,0.0,1.0,0.0
+physics/0404078,Cinema as a tool for science literacy,1.5493750032839157e-06,0.0,1.0,1.0
+physics/0007025,"Basic Constituents of the Visible and Invisible Matter - A Microscopic
+  View of the Universe",1.5343725158124753e-06,6.6399702351649e-08,1.0,7.0
+astro-ph/0110497,Anthropic Reasons for Non-Zero Flatness and Lambda,1.4965873218823155e-06,3.5397529102971435e-08,2.0,2.0
+physics/0605068,Quantum mechanics from a universal action reservoir,1.4868060237996629e-06,0.0,2.0,0.0
+physics/0212025,QCD and Natural Philosophy,1.479070282416478e-06,6.617136096855382e-06,1.0,4.0
+astro-ph/0303048,A Preposterous Universe,1.4681924378410514e-06,0.0,3.0,0.0
+physics/9908041,Gravitational Waves: An Introduction,1.3909461061312514e-06,0.0,1.0,0.0
+physics/0210088,Science In Trauma,1.3675326824766015e-06,4.089997899583157e-06,2.0,3.0
+physics/0505088,Aesthetic complexity,1.3632487464891771e-06,0.0,1.0,0.0
+astro-ph/0401213,What We Know and What We Don't Know About the Universe,1.355551632411395e-06,4.248283407829051e-07,1.0,1.0
+physics/0208096,"Research News : Direct observation of neutrino oscillations at the
+  Sudbury Neutrino Observatory",1.3369066290445343e-06,0.0,1.0,0.0
+physics/9704002,"Book Review: The Quantum Theory of Fields, Vol. I and II by S. Weinberg",1.3362532768689594e-06,0.0,1.0,0.0
+cond-mat/0504610,"100 years of Einstein's theory of Brownian motion: from pollen grains to
+  protein trains",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0503245,Neutron Stars,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0201055,Complexity: An Introduction,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/9805061,"Electron acceleration due to photon absorption: A possible origin of the
+  infinity problems in relativistic quantum fields",1.3189329710618589e-06,0.0,0.0,1.0
+physics/9910015,Blind spot may reveal vacuum radiation,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9906028,MY LIFE AS TUTOR: Reflections on Two Recent Experiences,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0003030,Can spontaneous symmetry breaking occur in potential with one minima?,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9804021,Early Theories on the Distance to the Sun,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0101012,Yajnavalkya and the Origins of Puranic Cosmology,1.3189329710618589e-06,0.0,0.0,2.0
+quant-ph/0208104,Quantum mechanics and free will: counter-arguments,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9807012,Louis de Broglie und die Quantenmechanik,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9702005,Book Review of Quantum Field Theory by Lewis H. Ryder,1.3189329710618589e-06,0.0,0.0,5.0
+physics/0604027,"Einstein, Kant, and Taoism",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0301078,Babylonian and Indian Astronomy: Early Connections,1.3189329710618589e-06,0.0,0.0,3.0
+astro-ph/0009259,How the sun shines,1.3189329710618589e-06,0.0,0.0,2.0
+physics/9804020,The Speed of Light and Puranic Cosmology,1.3189329710618589e-06,0.0,0.0,3.0
+physics/9903010,"Concepts of Space, Time, and Consciousness in Ancient India",1.3189329710618589e-06,0.0,0.0,3.0
+quant-ph/9904050,"A Computer Scientist's View of Life, the Universe, and Everything",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0012041,On the Twin Non-paradox,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9705004,What really are the best 100m performances?,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0502021,Why the Afshar Experiment Does Not Refute Complementarity,1.3189329710618589e-06,0.0,0.0,3.0
+physics/0403115,"From ""Not Wrong"" to (Maybe) Right",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0512174,Una lezione particolare di Ettore Majorana,1.3189329710618589e-06,0.0,0.0,5.0
+physics/0303001,Greek and Indian Cosmology: Review of Early History,1.3189329710618589e-06,0.0,0.0,4.0
+physics/9803020,On the Dynamical Stability of the Hovering Magnetic Top,1.3189329710618589e-06,0.0,0.0,4.0
+physics/9902048,Space Time Measurements in Special Relativity,1.3189329710618589e-06,0.0,0.0,2.0
+nlin/0106028,Introduction to Spin and Lattice Models in the Social Sciences,1.3189329710618589e-06,0.0,0.0,5.0
+quant-ph/0101077,100 Years of the Quantum,1.3189329710618589e-06,0.0,0.0,9.0
+physics/9403001,Desperately Seeking Superstrings,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9906040,Night Thoughts of a Quantum Physicist,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9811040,The Solar Numbers in Angkor Wat,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0302089,Mona Lisa - ineffable smile of quantum mechanics,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0402040,The Thermodynamic Arrow: Puzzles and Pseudo-puzzles,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0408109,Cramer's Transactional Interpretation and Causal Loop Problems,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0001027,"Newtownian Relativity, Gravity, and Cosmology",1.3189329710618589e-06,0.0,0.0,1.0
+astro-ph/0203466,"Two emission line objects with z>0.2 in the optical filament apparently
+  connecting the Seyfert galaxy NGC 7603 to its companion",,,,
+astro-ph/0411466,"Systematically Asymmetric Heliospheric Magnetic Field: Evidence for a
+  Quadrupole Mode and Non-axisymmetry with Polarity Flip-flops",,,,
+astro-ph/0606601,"Gravity's Relentless Pull: An interactive, multimedia website about
+  black holes for Education and Public Outreach",,,,
+cond-mat/0201273,Can randomness alone tune the fractal dimension?,,,,
+cond-mat/9610035,"A Possible Nanometer-scale Computing Device Based on an Adding Cellular
+  Automaton",,,,
+nlin/0009015,Opportunities Knocking: Residual Income Valuation of an Adaptive Firm,,,,
+nlin/0405003,A Graphical User Interface to Simulate Classical Billiard Systems,,,,
+physics/0001029,The New Science of Complexity,,,,
+physics/0001061,"Teaching ""Symmetry"" in the Introductory Physics Curriculum",,,,
+physics/0002007,Teaching the EPR-Paradox at High School?,,,,
+physics/0005033,The INT at Age Ten,,,,
+physics/0007042,A realistic quasi-physical model of the 100 metre dash,,,,
+physics/0008053,The Physicist's Guide to the Orchestra,,,,
+physics/0102039,The Legality of Wind and Altitude Assisted Performances in the Sprints,,,,
+physics/0110041,A precursor of the sciences of complexity in the XIX century,,,,
+physics/0110043,Some simple physical facts about the collapse of the Twin Towers,,,,
+physics/0201043,"How Is Nature Asymmetric ? 1. Discrete Symmetries in Particle Physics
+  and Parity Violation",,,,
+physics/0201044,"How Is Nature Asymmetric 2 CP and T Violation in Elementary Particle
+  Physics",,,,
+physics/0204060,Flatness of the setting Sun,,,,
+physics/0206025,"""Bernoulli"" Levitation",,,,
+physics/0206093,The quantum mechanical foundations of philosophy,,,,
+physics/0211114,"From Wormholes to the Warp Drive: Using theoretical physics to place
+  ultimate bounds on technology",,,,
+physics/0212085,Fundamental Research and Developing Countries,,,,
+physics/0305120,Uranio impoverito: perch\'e? (Depleted uranium: why?),,,,
+physics/0310086,Physics of Skiing: The Ideal-Carving Equation and Its Applications,,,,
+physics/0312016,Point-Contact Spectroscopy,,,,
+physics/0402005,Momentum transfer to small particles by aloof electron beams,,,,
+physics/0403083,Man-made climate change:Facts and fiction,,,,
+physics/0412132,Brownian Motion for the School-Going Child,,,,
+physics/0501097,Interlinguistic similarity and language death dynamics,,,,
+physics/0503210,From Baking a Cake to Solving the Schrodinger Equation,,,,
+physics/0503216,"Geometric visualization of the Brewster angle from dielectric--magnetic
+  interface",,,,
+physics/0505085,Ground Control to Niels Bohr: Exploring Outer Space with Atomic Physics,,,,
+physics/0505107,"Alice in a micro-factory: modeling materials and mechanisms of natural
+  nano-machines",,,,
+physics/0505117,Multifractal Fingerprints in the Visual Arts,,,,
+physics/0505118,"The Effects of Temperature, Pressure, and Humidity Variations on 100
+  Meter Sprint Performances",,,,
+physics/0506063,On Multifractal Structure in Non-Representational Art,,,,
+physics/0507131,"Quantization of conductivity of nanotechnological point contact. Simple
+  derivation of the Landauer formula",,,,
+physics/0507133,"LC sine-wave oscillators using general-purpose voltage
+  operational-amplifiers",,,,
+physics/0508022,Fundamental particles and their interactions,,,,
+physics/0508223,"The Effects of Temperature, Humidity and Barometric Pressure on Short
+  Sprint Race Times",,,,
+physics/0510036,"E=mc^2, \Delta H = D(H-H)$, and the end of civilization",,,,
+physics/0511018,Self-Organized Control of Irregular or Perturbed Network Traffic,,,,
+physics/0511032,Charges suspended by strings: a new twist to an old problem,,,,
+physics/0511228,Cosmological Singularities,,,,
+physics/0511254,Comunicare Fisica all'americana,,,,
+physics/0512054,"Gamow's bicycle: The Appearance of Bodies at Relativistic Speeds and
+  Apparent Superluminal Velocities",,,,
+physics/0512263,The Uniqueness of the World,,,,
+physics/0603063,Unified Theory of Allometric Scaling,,,,
+physics/0603263,Intelligent Design in the Physics Classroom?,,,,
+physics/0604153,"Induced order and reentrant melting in classical two-dimensional binary
+  clusters",,,,
+physics/0604224,When hot water freezes before cold,,,,
+physics/0605040,Scattering of a Baseball by a Bat,,,,
+physics/0606227,Friendly units for coldness,,,,
+physics/0607241,On the Nature of Science,,,,
+physics/0608228,"Predicting Baseball Home Run Records Using Exponential Frequency
+  Distributions",,,,
+physics/0609062,String Theory and Einstein's Dream,,,,
+physics/0609105,"Mathematical Models of Progressive Collapse and the Question of How Did
+  the World Trade Centers Perish",,,,
+physics/0611046,Life on Both Sides of the Fence: Mentoring Versus Being Mentored,,,,
+physics/0701344,"A Physics Show Performed by Students for Kids: From Mechanics to
+  Elementary Particle Physics",,,,
+physics/0702028,Rocking and rolling: a can that appears to rock might actually roll,,,,
+physics/0703193,Network Topology of the Austrian Airline Flights,,,,
+physics/9610013,Life and Water,,,,
+physics/9703014,Quantum-Classical System: Simple Harmonic Oscillator,,,,
+physics/9704022,"A Simple Model for Predicting Sprint Race Times Accounting for Energy
+  Loss on the Curve",,,,
+physics/9704023,And the Winner Is . . . Predicting the Outcome of the 150m Showdown,,,,
+physics/9706023,Testing the Sprint Curve Model using the 150m Bailey-Johnson Showdown,,,,
+physics/9709020,Another Dash into the Record Books (wind: -2.1 m/s),,,,
+physics/9710003,It's a Wrap! Reviewing the 1997 Outdoor Season,,,,
+physics/9710027,Faster Than Light ?,,,,
+physics/9803034,"How Good Can We Get? Using mathematical models to predict the future of
+  athletics",,,,
+physics/9810059,From the Field Electron Model to the Unified Field Theory,,,,
+physics/9811004,Integers and Fractions,,,,
+physics/9812014,A Formula for the Rotation Periods of the Planets & Asteroids,,,,
+physics/9901012,"Behind the shirts, is symmetry",,,,
+physics/9902049,Physics in a Mirror: The TRIUMF 221 MeV pp Parity Violation Experiment,,,,
+physics/9904058,Supersymmetry : A new organizing principle for the microworld?,,,,
+physics/9905041,Quiet Violin,,,,
+physics/9911036,9.84 vs. 9.84: The Battle of Bruny and Bailey,,,,
+physics/9912003,"A simple scaling law between the total energy of a free atom and its
+  atomic number",,,,
+physics/9912047,Determination of meteor showers on other planets using comet ephemerides,,,,

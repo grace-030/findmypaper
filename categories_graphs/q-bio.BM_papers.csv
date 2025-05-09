@@ -1,0 +1,921 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+q-bio/0607009,Probability distribution of bubble lengths in DNA,2.0919753463784173e-05,0.0,2.0,0.0
+cond-mat/0108374,Nature of the glassy phase of RNA secondary structure,1.1650874020388464e-05,2.745602160515763e-08,4.0,1.0
+q-bio/0601042,"Quantum mechanical calculation of the effects of stiff and rigid
+  constraints in the conformational equilibrium of the Alanine dipeptide",1.0828916672836616e-05,0.0,3.0,1.0
+physics/0609139,Single DNA conformations and biological function,9.700175958974429e-06,0.0,7.0,0.0
+cond-mat/0012070,"Reply to the Comment on `Glassy Transition in a Disordered Model for the
+  RNA Secondary Structure'",8.573993518761223e-06,0.0,4.0,0.0
+cond-mat/0306135,Discrete breathers in protein secondary structure,7.825559241310054e-06,0.0,6.0,2.0
+q-bio/0503003,"Symmetry and Dynamics in living organisms: The self-similarity principle
+  governs gene expression dynamics",7.82324995062454e-06,0.0,2.0,1.0
+q-bio/0503004,"Universal collective fluctuations in gene expression dynamics from yeast
+  to human",7.82324995062454e-06,0.0,2.0,1.0
+q-bio/0504004,Electronic Transport in DNA,7.533323202403175e-06,0.0,5.0,1.0
+cond-mat/9708158,"Torsional Directed Walks, Entropic Elasticity, and DNA Twist Stiffness",7.210644227495529e-06,0.0,3.0,0.0
+q-bio/0406039,Modeling of microarray data with zippering,6.98534239360574e-06,7.960731020640288e-06,1.0,4.0
+q-bio/0604014,A composite model for DNA torsion dynamics,6.656727197300043e-06,0.0,2.0,2.0
+cond-mat/0306586,"Winding angle distribution for planar random walk, polymer ring
+  entangled with an obstacle, and all that: Spitzer-Edwards-Prager-Frisch model
+  revisited",6.5530431977323e-06,0.0,3.0,0.0
+cond-mat/0309638,"Uniqueness of thermodynamic projector and kinetic basis of molecular
+  individualism",6.438586898991408e-06,9.95091377580036e-07,5.0,3.0
+physics/0004049,"Molecular Dynamics Studies of Sequence-directed Curvature in Bending
+  Locus of Trypanosome Kinetoplast DNA",6.156494723818392e-06,0.0,3.0,0.0
+q-bio/0506010,Mutation model for nucleotide sequences based on crystal basis,5.927773615503002e-06,0.0,4.0,2.0
+q-bio/0505041,Uni-directional polymerization leading to homochirality in the RNA world,5.660585396269106e-06,0.0,3.0,0.0
+cond-mat/0507477,Analytic theory of DNA condensation,5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0603697,Floppy modes and non-affine deformations in random fiber networks,5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0512092,"Low energy states of a semiflexible polymer chain with attraction and
+  the whip-toroid transitions",5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0412238,Influence of supercoiling on the disruption of dsDNA,5.155788498468326e-06,0.0,2.0,0.0
+cond-mat/0001001,"Statistical thermodynamics of membrane bending mediated protein-protein
+  attraction",5.057283591702909e-06,0.0,1.0,0.0
+cond-mat/0601165,Dynamical contribution into enzyme catalytic efficiency,4.761121651128886e-06,0.0,1.0,1.0
+q-bio/0701049,Random RNA under tension,4.720429924862225e-06,0.0,3.0,0.0
+q-bio/0601034,"Time-dependent perturbation theory for vibrational energy relaxation and
+  dephasing in peptides and proteins",4.651340137579245e-06,0.0,3.0,0.0
+cond-mat/0412504,Inequivalence of Statistical Ensembles in Single Molecule Measurements,4.489180517229029e-06,0.0,3.0,0.0
+hep-th/0702213,"A symmetry breaking mechanism for selecting the speed of relativistic
+  solitons",4.462506195071651e-06,1.990182755160072e-06,3.0,1.0
+cond-mat/0105140,"Low temperature physics at room temperature in water: Charge inversion
+  in chemical and biological systems",4.415323134414348e-06,0.0,4.0,2.0
+cond-mat/9804054,"Variational approach to protein design and extraction of interaction
+  potentials",4.391493400689288e-06,0.0,4.0,0.0
+q-bio/0406011,Imperfect DNA Repair and the Error Catastrophe,4.21043244778407e-06,0.0,2.0,0.0
+q-bio/0510028,"Classification of capped tubular viral particles in the family of
+  Papovaviridae",4.199458373837573e-06,0.0,3.0,0.0
+cond-mat/0203483,Elasticity of semi-flexible polymers,4.19654001589777e-06,0.0,3.0,3.0
+cond-mat/0308119,Metropolis Algorithms in Generalized Ensemble,4.079708514381692e-06,3.980365510320144e-06,3.0,3.0
+q-bio/0501015,"Predicting Residue-wise Contact Orders of Native Protein Structure from
+  Amino Acid Sequence",4.063143711471229e-06,0.0,1.0,2.0
+q-bio/0502020,Pairwise alignment incorporating dipeptide covariation,3.956802304515989e-06,0.0,1.0,0.0
+q-bio/0503009,New symmetry in nucleotide sequences,3.826788423397162e-06,0.0,1.0,0.0
+q-bio/0604003,"Solitons in the Yakushevich model of DNA beyond the contact
+  approximation",3.748900592064857e-06,0.0,1.0,1.0
+cond-mat/9711285,Sequence Effects on DNA Entropic Elasticity,3.712158671104221e-06,0.0,2.0,0.0
+q-bio/0412015,"The Mystery of Two Straight Lines in Bacterial Genome Statistics.
+  Release 2007",3.702565106583692e-06,0.0,1.0,2.0
+cond-mat/0310521,Anomalous Dynamics of Forced Translocation,3.62335329328243e-06,0.0,2.0,3.0
+q-bio/0412016,Correlations in Systems of Complex Directed Macromolecules,3.62335329328243e-06,0.0,2.0,0.0
+physics/0703222,"Demonstrated convergence of the equilibrium ensemble for a fast
+  united-residue protein model",3.62335329328243e-06,0.0,2.0,0.0
+cond-mat/9910162,Binding of molecules to DNA and other semiflexible polymers,3.6143509925799886e-06,0.0,3.0,1.0
+cond-mat/0107423,Single Molecule Statistics and the Polynucleotide Unzipping Transition,3.544734056389326e-06,0.0,4.0,8.0
+q-bio/0606026,Parametrization of the Hybrid Potential for Pairs of Neutral Atoms,3.49912997646896e-06,0.0,2.0,0.0
+q-bio/0603024,Thermodynamics of aggregation of two proteins,3.49912997646896e-06,0.0,2.0,0.0
+cond-mat/0207510,Universality classes in folding times of proteins,3.49912997646896e-06,0.0,2.0,0.0
+astro-ph/0606593,Asymmetric Spatiotemporal Evolution of Prebiotic Homochirality,3.49912997646896e-06,0.0,2.0,0.0
+cond-mat/0203482,Triple minima in free energy of semiflexible polymers,3.4795788573217505e-06,0.0,3.0,1.0
+q-bio/0604032,Dynamics of Semiflexible Polymers in a Flow Field,3.431318266430716e-06,0.0,3.0,0.0
+q-bio/0507036,A helicoidal transfer matrix model for inhomogeneous DNA melting,3.3769895408961352e-06,0.0,2.0,0.0
+q-bio/0610017,"Number sequence representation of protein structures based on the second
+  derivative of a folded tetrahedron sequence",3.3749066596554898e-06,0.0,1.0,0.0
+cond-mat/0305053,Remarks on homo- and hetero-polymeric aspects of protein folding,3.3353007530048587e-06,0.0,3.0,2.0
+q-bio/0407036,Generalized Poland-Scheraga model for supercoiled DNA,3.2280009182239564e-06,0.0,2.0,2.0
+q-bio/0502008,Dissociation in a polymerization model of homochirality,3.170955298694093e-06,0.0,3.0,1.0
+physics/0004040,The Physical Origin of Intrinsic Bends in Double Helical DNA,3.111029474247907e-06,0.0,2.0,1.0
+cond-mat/0306741,Virus shapes and buckling transitions in spherical shells,3.1019330125897075e-06,0.0,2.0,3.0
+q-bio/0411004,Enumeration of RNA structures by Matrix Models,3.079036619709387e-06,0.0,3.0,0.0
+q-bio/0411052,Duplication-divergence model of protein interaction network,3.052903680119102e-06,1.990182755160072e-06,1.0,2.0
+q-bio/0511006,Dynamic Pathways for Viral Capsid Assembly,3.0472482127272877e-06,0.0,2.0,0.0
+q-bio/0501011,Information Capacity of Biological Macromoleculae Reloaded,3.0472482127272877e-06,0.0,2.0,1.0
+q-bio/0409029,"Representation of protein structure based on frequency distributions of
+  oriented cycles in contact graphs",3.036761880714111e-06,0.0,2.0,0.0
+physics/0205043,On the Kinematics of Protein Folding,3.035995336849235e-06,0.0,1.0,0.0
+q-bio/0407008,How Long can Left and Right Handed Life Forms Coexist?,3.03482588104594e-06,0.0,3.0,2.0
+q-bio/0605007,Effective affinities in microarray data,3.029374075184255e-06,0.0,2.0,0.0
+q-bio/0411011,"Thermodynamics of RNA/DNA hybridization in high density oligonucleotide
+  microarrays",3.029374075184255e-06,0.0,2.0,0.0
+cond-mat/0310091,Functionals linear in curvature and statistics of helical proteins,3.025757378123796e-06,0.0,1.0,0.0
+q-bio/0503032,"Predicting Secondary Structures, Contact Numbers, and Residue-wise
+  Contact Orders of Native Protein Structure from Amino Acid Sequence by
+  Critical Random Networks",2.91697922313738e-06,0.0,1.0,0.0
+q-bio/0501005,"Recoverable One-dimensional Encoding of Three-dimensional Protein
+  Structures",2.91697922313738e-06,0.0,1.0,1.0
+q-bio/0511004,"Definition of Systematic, Approximately Separable and Modular Internal
+  Coordinates (SASMIC) for macromolecular simulation",2.8823378698908707e-06,0.0,2.0,2.0
+cond-mat/0203491,Molecular elasticity and the geometric phase,2.855213185875573e-06,0.0,2.0,0.0
+physics/0212045,"Opening of DNA double strands by helicases. Active versus passive
+  opening",2.8460343500822632e-06,0.0,1.0,1.0
+cond-mat/9907125,Glassy transition in a disordered model for the RNA secondary structure,2.8328282537079824e-06,0.0,1.0,0.0
+q-bio/0508042,The Topology of Pseudoknotted Homopolymers,2.790984079431816e-06,0.0,2.0,0.0
+cond-mat/0303421,Statistical mechanics of RNA folding: a lattice approach,2.759195672449716e-06,0.0,2.0,0.0
+cond-mat/0305234,Electrostatic Contribution to Twist Rigidity of DNA,2.691038341266544e-06,0.0,1.0,0.0
+cond-mat/0410660,Quantum transport through a DNA wire in a dissipative environment,2.676100638015795e-06,0.0,2.0,3.0
+q-bio/0507041,"A base pairing model of duplex formation I: Watson-Crick pairing
+  geometries",2.6453040214808263e-06,0.0,1.0,0.0
+q-bio/0612043,"Hybridization to surface-bound oligonucleotide probes: Influence of
+  point defects",2.6453040214808263e-06,0.0,1.0,0.0
+quant-ph/0202022,Mathematical Physics and Life,2.6369064079171844e-06,0.0,4.0,0.0
+math/0501173,"Classification of Tangle Solutions for Integrases, A Protein Family that
+  Changes DNA Topology",2.5664300470550702e-06,0.0,2.0,0.0
+q-bio/0607044,Systematic Field Theory of the RNA Glass Transition,2.566354765501213e-06,0.0,2.0,3.0
+q-bio/0402036,Getting DNA twist rigidity from single molecule experiments,2.4894346673033504e-06,0.0,1.0,0.0
+cond-mat/9909350,"Dissipative Dynamics and the Statistics of Energy States of a Hookean
+  Model for Protein Folding",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0303600,Designability and Thermal Stability of Protein Structures,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0111291,"Folding of a Small Helical Protein Using Hydrogen Bonds and
+  Hydrophobicity Forces",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0101286,"Pulling hairpinned polynucleotide chains: Does base-pair stacking
+  interaction matter?",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0309662,Design of a Protein Potential Energy Landscape by Parameter Optimization,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0405017,Kinetic barriers in RNA unzipping,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0207477,"Nonlinear Mechanical Response of DNA due to Anisotropic Bending
+  Elasticity",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0208202,Mechanically probing the folding pathway of single RNA molecules,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0310026,"Protein secondary structure prediction by combining hidden Markov models
+  and sliding window scores",2.4711431321721443e-06,0.0,1.0,0.0
+nlin/0307031,"Effect of base-pair inhomogeneities on charge transport along DNA
+  mediated by twist and radial polarons",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0408153,Phase diagram of solution of oppositely charged polyelectrolytes,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0406303,"Inter-filament Attractions Narrow the Length Distribution of Actin
+  Filaments",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0403353,Unwrapping of DNA-protein complexes under external stretching,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0601185,DNA entropic elasticity for short molecules attached to beads,2.4711431321721443e-06,0.0,2.0,3.0
+cond-mat/0610671,Effect of Anomalous Dynamics on Unbiased Polymer Translocation,2.4711431321721443e-06,0.0,1.0,2.0
+physics/9907028,A Minimal Model of B-DNA,2.4711431321721443e-06,0.0,1.0,3.0
+cond-mat/0504652,"A ""Burnt Bridge'' Brownian Ratchet",2.4711431321721443e-06,0.0,1.0,2.0
+cond-mat/0402059,A simple model of the charge transfer in DNA-like substances,2.4711431321721443e-06,0.0,1.0,1.0
+q-bio/0506014,Folding of small proteins: A matter of geometry?,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0312033,Specific protein-protein binding in many-component mixtures of proteins,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0404019,"Partly melted DNA conformations obtained with a probability peak finding
+  method",2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0611066,Kinetics of viral self-assembly: the role of ss RNA antenna,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0703032,Dynamics of Microtubule Instabilities,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0409025,A model for the accidental catalysis of protein unfolding in vivo,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0407030,"Potential function of simplified protein models for discriminating
+  native proteins from decoys: Combining contact interaction and local
+  sequence-dependent geometry",2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0406021,Membrane-protein interactions in mechanosensitive channels,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0605193,Analytical First Derivatives of the RE-squared Interaction Potential,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0407002,"Nonlinear excitations in DNA: Aperiodic models vs actual genome
+  sequences",2.429735359900988e-06,0.0,2.0,0.0
+q-bio/0403036,The Triplet Genetic Code had a Doublet Predecessor,2.3926175333662813e-06,0.0,3.0,0.0
+q-bio/0404041,Fast DNA translocation through a solid-state nanopore,2.305512043087517e-06,0.0,1.0,0.0
+cond-mat/9904018,Elastic Rod Model of a Supercoiled DNA Molecule,2.27910810532043e-06,0.0,2.0,1.0
+cond-mat/0605086,Anisotropic Elastic Model for Short DNA Loops,2.2576172707169384e-06,0.0,1.0,0.0
+q-bio/0703026,Role of boundary constraints in DNA cyclization,2.2576172707169384e-06,0.0,1.0,1.0
+cond-mat/0401444,"Spin-boson models for quantum decoherence of electronic excitations of
+  biomolecules and quantum dots in a solvent",2.150523344497096e-06,0.0,1.0,4.0
+q-bio/0405014,Prediction of RNA pseudoknots by Monte Carlo simulations,2.1487272905332e-06,0.0,2.0,2.0
+cond-mat/0405035,Thermodynamic and kinetic aspects of RNA pulling experiments,2.146318476674228e-06,1.990182755160072e-06,2.0,1.0
+cond-mat/0310505,An Algorithm for RNA Pseudoknots,2.130550868173004e-06,7.960731020640288e-06,2.0,4.0
+cond-mat/0406246,Pause Point Spectra in DNA Constant-Force Unzipping,2.087073078468716e-06,0.0,2.0,0.0
+quant-ph/0106123,Genetic information and quantum gas,2.070770872770521e-06,0.0,2.0,0.0
+cond-mat/0108218,Proteins Wriggle,2.0390643217557878e-06,0.0,2.0,1.0
+q-bio/0608020,Ground state and glass transition of the RNA secondary structure,2.0366339875860763e-06,0.0,1.0,2.0
+physics/0002010,A-Tract Induced DNA Bending is A Local Non-Electrostatic Effect,2.004257533926402e-06,0.0,1.0,2.0
+q-bio/0510049,Stretching short biopolymers by fields and forces,2.004257533926402e-06,0.0,1.0,0.0
+q-bio/0510043,"How do proteins search for their specific sites on coiled or globular
+  DNA",1.979109243009905e-06,0.0,2.0,1.0
+cond-mat/0409003,Exact theory of kinkable elastic polymers,1.8950380516170012e-06,0.0,1.0,3.0
+q-bio/0702043,"Spatial Constraint Corrections to the Elasticity of dsDNA Measured with
+  Magnetic Tweezers",1.8950380516170012e-06,0.0,1.0,0.0
+q-bio/0410018,Rydberg-London Potential for Diatomic Molecules and Unbonded Atom Pairs,1.8950380516170012e-06,0.0,1.0,1.0
+cond-mat/0409198,"Dynamics of Molecular Motors with Finite Processivity on Heterogeneous
+  Tracks",1.8950380516170012e-06,0.0,1.0,0.0
+q-bio/0611090,Breathing dynamics in heteropolymer DNA,1.8950380516170012e-06,0.0,1.0,0.0
+q-bio/0611021,A Note on Genome Organisation in RNA Viruses with Icosahedral Symmetry,1.8950380516170012e-06,0.0,1.0,0.0
+q-bio/0502043,Helices in Biomolecules,1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/0310707,Thermodynamics of Lattice Heteropolymers,1.8950380516170012e-06,0.0,1.0,0.0
+astro-ph/0601399,Prebiotic Homochirality as a Critical Phenomenon,1.8950380516170012e-06,0.0,1.0,1.0
+q-bio/0408023,Probing vibrational energy relaxation in proteins using normal modes,1.8950380516170012e-06,0.0,1.0,1.0
+cond-mat/9603016,Why Do Proteins Look Like Proteins?,1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/0206348,The secondary structure of RNA under tension,1.8950380516170012e-06,0.0,1.0,1.0
+q-bio/0505040,Spatial dynamics of homochiralization,1.8826157199356543e-06,0.0,2.0,0.0
+cond-mat/0411723,"Distribution Functions, Loop Formation Probabilities and Force-Extension
+  Relations in a Model for Short Double-Stranded DNA Molecules",1.8536302793458448e-06,0.0,1.0,1.0
+cond-mat/0410591,Effects of Kinks on DNA Elasticity,1.8536302793458448e-06,0.0,1.0,0.0
+quant-ph/0103017,Carbon--The First Frontier of Information Processing,1.8112335669455085e-06,0.0,3.0,5.0
+cond-mat/0206394,Designability of alpha-helical Proteins,1.803421194485659e-06,0.0,1.0,0.0
+cond-mat/0211415,Functionals linear in curvature and statistics of helical proteins,1.803421194485659e-06,0.0,1.0,1.0
+quant-ph/0412170,"Criteria for quantum coherent transfer of excitons between chromophores
+  in a polar solvent",1.7912133782471866e-06,0.0,1.0,2.0
+q-bio/0408018,"5,6-dihydroxyindole-2-carboxylic acid (DHICA): a First Principles
+  Density-Functional Study",1.7912133782471866e-06,0.0,1.0,0.0
+cond-mat/0309360,Charge Transfer and Charge Transport on the Double Helix,1.703003024765287e-06,0.0,1.0,0.0
+cond-mat/0209563,Electrons in Dry DNA from Density Functional Calculations,1.703003024765287e-06,0.0,1.0,0.0
+cond-mat/0207293,Distribution of the second virial coefficients of globular proteins,1.703003024765287e-06,0.0,1.0,0.0
+cond-mat/0206067,"On the electrical double layer contribution to the interfacial tension
+  of protein crystals",1.703003024765287e-06,0.0,1.0,0.0
+physics/0309117,"Prediction and statistics of pseudoknots in RNA structures using exactly
+  clustered stochastic simulations",1.703003024765287e-06,0.0,1.0,0.0
+cond-mat/0402496,Probing molecular free energy landscapes by periodic loading,1.703003024765287e-06,0.0,1.0,3.0
+q-bio/0403003,Disorder and fluctuations in nonlinear excitations in DNA,1.703003024765287e-06,0.0,1.0,2.0
+nlin/0404029,Moving breathers in bent DNA with realistic parameters,1.703003024765287e-06,0.0,1.0,1.0
+q-bio/0512047,"A new series of polyhedra as blueprints for viral capsids in the family
+  of Papovaviridae",1.703003024765287e-06,0.0,1.0,0.0
+q-bio/0605008,Physics-based analysis of Affymetrix microarray data,1.703003024765287e-06,0.0,1.0,0.0
+q-bio/0508029,"Directed motion emerging from two coupled random processes:
+  Translocation of a chain through a membrane nanopore driven by binding
+  proteins",1.703003024765287e-06,0.0,1.0,0.0
+q-bio/0506025,Stochastic approach to DNA breathing dynamics,1.703003024765287e-06,0.0,1.0,0.0
+q-bio/0508010,First passage times and asymmetry of DNA translocation,1.6173655559692317e-06,0.0,1.0,0.0
+cond-mat/0609378,"Single-molecule experiments in biological physics: methods and
+  applications",1.607833726890716e-06,0.0,2.0,0.0
+cond-mat/9708049,"Local Interactions and Protein Folding: A Model Study on the Square and
+  Triangular Lattices",1.60698551133943e-06,0.0,1.0,0.0
+q-bio/0403028,Base sequence dependent sliding of proteins on DNA,1.60698551133943e-06,0.0,1.0,0.0
+cond-mat/0403752,"Complete Phase Diagram of DNA Unzipping: Eye, Y-fork and triple point",1.5874126399255546e-06,0.0,1.0,1.0
+cond-mat/0607512,Randomly forced DNA,1.5874126399255546e-06,0.0,1.0,0.0
+q-bio/0401036,Homochiral growth through enantiomeric cross-inhibition,1.5493750032839157e-06,0.0,1.0,4.0
+cond-mat/0309454,Thermal denaturation of an helicoidal DNA model,1.5493750032839157e-06,0.0,1.0,1.0
+q-bio/0409031,"Relevant distance between two different instances of the same potential
+  energy in protein folding",1.5493750032839157e-06,0.0,1.0,0.0
+q-bio/0504029,"A physically meaningful method for the comparison of potential energy
+  functions",1.5493750032839157e-06,0.0,1.0,1.0
+math-ph/0309056,From quantum groups to genetic mutations,1.5493750032839157e-06,0.0,1.0,0.0
+math/0306197,Bounds for DNA codes with constant GC-content,1.5493750032839157e-06,0.0,1.0,0.0
+q-bio/0703050,"From a quantum mechanical description of the assembly processes in
+  microtubules to their semiclassical nonlinear dynamics",1.4629592412006444e-06,0.0,1.0,0.0
+cond-mat/0004423,Pulling Pinned Polymers and Unzipping DNA,1.4526072981328553e-06,0.0,1.0,1.0
+cond-mat/0601426,Kinetics of Interior Loop Formation in Semiflexible Chains,1.4341539871728873e-06,0.0,1.0,0.0
+q-bio/0503034,Study of a model for the folding of a small protein,1.3690290650231757e-06,0.0,1.0,0.0
+cond-mat/0112200,"Thermal Folding and Mechanical Unfolding Pathways of Protein Secondary
+  Structures",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0112201,Folding and Stretching in a Go-like Model of Titin,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0211626,Solitons on H-bonds in proteins,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0508030,Master equation approach to the assembly of viral capsids,1.3189329710618589e-06,0.0,0.0,2.0
+q-bio/0601017,"Force Modulating Dynamic Disorder: Physical Theory of Catch-slip bond
+  Transitions in Receptor-Ligand Forced Dissociation Experiments",1.3189329710618589e-06,0.0,0.0,2.0
+q-bio/0511032,The Freezing of Random RNA,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0201196,Folding Pathways of Prion and Doppel,1.3189329710618589e-06,0.0,0.0,2.0
+q-bio/0312005,Computational Consequences of Neglected First-Order van der Waals Forces,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0606634,"Reversible self-assembly of patchy particles into monodisperse
+  icosahedral clusters",1.3189329710618589e-06,0.0,0.0,3.0
+q-bio/0310008,The long reach of DNA sequence heterogeneity in diffusive processes,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0309559,Statistical Physics of Unzipping DNA,1.3189329710618589e-06,0.0,0.0,6.0
+q-bio/0403019,"Vibrational energy relaxation (VER) of a CD stretching mode in
+  cytochrome c",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9512111,"Nature of Driving Force for Protein Folding -- A Result From Analyzing
+  the Statistical Potential",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0310455,"Dynamics of Molecular Motors and Polymer Translocation with Sequence
+  Heterogeneity",1.3189329710618589e-06,0.0,0.0,4.0
+q-bio/0411005,"Adsorption models of hybridization and post-hybridisation behaviour on
+  oligonucleotide microarrays",1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/9903364,Conformations of closed DNA,1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/0603556,Stretching dynamics of semiflexible polymers,1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/0511128,Lengthscales and Cooperativity in DNA Bubble Formation,1.3189329710618589e-06,0.0,0.0,3.0
+nlin/0308003,Charge transport in poly(dG)-poly(dC) and poly(dA)-poly(dT) DNA polymers,1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/0201418,Simple models for charge and salt effects in protein crystallisation,1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/9904060,"Energy landscapes, supergraphs, and ""folding funnels"" in spin systems",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0107210,"Statistical mechanics of secondary structures formed by random RNA
+  sequences",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0106029,Glass transition in secondary structures formed by random RNA sequences,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9711092,Monte Carlo Procedure for Protein Design,1.3189329710618589e-06,0.0,0.0,2.0
+q-bio/0409034,"Exons, introns and DNA thermodynamics",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0609227,Dynamics of allosteric action in multisite protein modification,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0405009,Exact Sequence Analysis for Three-Dimensional HP Lattice Proteins,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0411044,Native geometry and the dynamics of protein folding,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0503030,Quantifying Influenza Vaccine Efficacy and Antigenic Distance,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0309674,Polymer Induced Bundling of F-actin and the Depletion Force,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0310321,The pulling force of a single DNA molecule condensed by spermidine,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0507022,Dynamics of DNA Ejection From Bacteriophage,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0402005,"Kinetics of protein-DNA interaction: facilitated target location in
+  sequence-dependent potential",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9907397,Glassy Dynamics of Protein Folding,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0304250,Unfolding and unzipping of single-stranded DNA by stretching,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0306440,"Solution stability, neutral evolution and variability in a simple model
+  of globular proteins",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0511532,Modelling Disorder: the Cases of Wetting and DNA Denaturation,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0107177,"Hydrogen Bonds, Hydrophobicity Forces and the Character of the Collapse
+  Transition",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0603409,Curvature of the energy landscape and folding of model proteins,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0212032,The bend stiffness of S-DNA,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0703001,Dynamics of Microtubule Growth and Catastrophe,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0309005,"Indexing Schemes for Similarity Search In Datasets of Short Protein
+  Fragments",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0307076,Protein secondary structure prediction based on quintuplets,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0602308,Coarse-grained Interaction Potentials for Anisotropic Molecules,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0509577,Passage Times for Unbiased Polymer Translocation through a Narrow Pore,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0210703,"Membrane bound protein diffusion viewed by fluorescence recovery after
+  bleaching experiments : models analysis",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0303499,Deformation of crosslinked semiflexible polymer networks,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0303455,The physics of chromatin,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0409071,"Quantum spin model fitting the Yule distribution of oligonucleotides in
+  DNA",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0412006,Mutation model for oligonucleotides fitting a Yule distribution,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0610009,Electrostatic theory of viral self-assembly: a toy model,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9709083,Are Protein Folds Atypical?,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9907040,Transport of Torsional Stress in DNA,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9909367,Conserved Linking in Single- and Double-Stranded Polymers,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0206225,Statistical Physics of RNA-folding,1.3189329710618589e-06,0.0,0.0,2.0
+physics/9808011,A Rational Approach to Ring Flexibility in Internal Coordinate Dynamics,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0508028,"Excluded-Volume Effects in Tethered-Particle Experiments: Bead Size
+  Matters",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0309063,Probing complex RNA structures by mechanical force,1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/0004487,Order of the phase transition in models of DNA thermal denaturation,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0501171,"Entropic Elasticity of Double-Strand DNA Subject to Simple Spatial
+  Constraints",1.3189329710618589e-06,0.0,0.0,2.0
+q-bio/0407024,Do theoretical physicists care about the protein-folding problem?,1.3189329710618589e-06,0.0,0.0,5.0
+cond-mat/0101250,Force-induced denaturation of RNA,1.3189329710618589e-06,0.0,0.0,2.0
+hep-lat/9909080,Simulations of Protein Folding,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0304567,Duplex-single strand denaturing transition in DNA oligomers,1.3189329710618589e-06,0.0,0.0,4.0
+q-bio/0402037,Generalized Poland-Scheraga model for DNA hybridization,1.3189329710618589e-06,0.0,0.0,2.0
+q-bio/0502015,A stochastic approach to multi-gene expression dynamics,1.3189329710618589e-06,0.0,0.0,2.0
+q-bio/0411053,"Coupled dynamics of DNA-breathing and single-stranded DNA binding
+  proteins",1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/0306126,Translocation of structured polynucleotides through nanopores,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0503037,Elastic properties of grafted microtubules,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0508015,"A toolkit for the construction of icosahedral particles with local
+  symmetry axes",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0412048,Vibrational energy relaxation in proteins,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0508031,Assembly Models for Papovaviridae based on Tiling Theory,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9712124,Inverse design of proteins with hydrophobic and polar amino acids,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0504654,Elasticity of semiflexible polymers in two dimensions,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0206395,"First-Passage Time Distribution and Non-Markovian Diffusion Dynamics of
+  Protein Folding",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9712277,Steric constraints in model proteins,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0410031,Lattice tube model of proteins,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0408024,"Medium effects on the selection of sequences folding into stable
+  proteins in a simple model",1.3189329710618589e-06,0.0,0.0,1.0
+math/0412467,Tangle Solutions for a Family of DNA-Rearranging Proteins,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0607037,"The structural de-correlation time: A robust statistical measure of
+  convergence of biomolecular simulations",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0004073,"The Functional Form of Angular Forces around Transition Metal Ions in
+  Biomolecules",,,,
+cond-mat/0006372,Symmetry and designability for lattice protein models,,,,
+cond-mat/0008201,Sequencing of folding events in Go-like proteins,,,,
+cond-mat/0010210,Optimal shapes of compact strings,,,,
+cond-mat/0010289,"Recurrent oligomers in proteins - an optimal scheme reconciling accurate
+  and concise backbone representations in automated folding and design studies",,,,
+cond-mat/0010390,On Hydrophobicity Correlations in Protein Chains,,,,
+cond-mat/0011079,Three-helix-bundle Protein in a Ramachandran Model,,,,
+cond-mat/0012057,"Force Dependence of the Michaelis Constant in a Two-State Ratchet Model
+  for Molecular Motors",,,,
+cond-mat/0012292,"Learning effective amino acid interactions through iterative stochastic
+  techniques",,,,
+cond-mat/0101229,"Molecular Dynamics Studies on HIV-1 Protease: Drug Resistance and
+  Folding Pathways",,,,
+cond-mat/0102126,"Studies of a weak polyampholyte at the air-buffer interface: The effect
+  of varying pH and ionic strength",,,,
+cond-mat/0102130,"DNA folding: structural and mechanical properties of the two-angle model
+  for chromatin",,,,
+cond-mat/0102133,Polymer reptation and nucleosome repositioning,,,,
+cond-mat/0102180,"Primary Sequences of Protein-Like Copolymers: Levy Flight Type Long
+  Range Correlations",,,,
+cond-mat/0103021,Electrostatically induced undulations of lamellar DNA-lipid complexes,,,,
+cond-mat/0104483,Chromatin: a tunable spring at work inside chromosomes,,,,
+cond-mat/0105102,Effects of mechanical strain on thermal denaturation of DNA,,,,
+cond-mat/0105276,"Diffusion Dynamics, Moments, and Distribution of First Passage Time on
+  the Protein-Folding Energy Landscape, with Applications to Single Molecules",,,,
+cond-mat/0105561,"Positional, Reorientational and Bond Orientational Order in DNA
+  Mesophases",,,,
+cond-mat/0107554,Fast Tree Search for Enumeration of a Lattice Model of Protein Folding,,,,
+cond-mat/0107624,Conformations of Proteins in Equilibrium,,,,
+cond-mat/0108439,Unfolding Rates for the Diffusion-Collision Model,,,,
+cond-mat/0110032,"How short-ranged electrostatics controls the chromatin structure on much
+  larger scales",,,,
+cond-mat/0110260,Photocontrol of Protein Conformation in a Langmuir Monolayer,,,,
+cond-mat/0112053,Phase Behavior of Columnar DNA Assemblies,,,,
+cond-mat/0201009,Enumerating Designing Sequences in the HP Model,,,,
+cond-mat/0201311,Prediction of Protein Secondary Structures From Conformational Biases,,,,
+cond-mat/0202090,"Optimal prediction of folding rates and transition state placement from
+  native state geometry",,,,
+cond-mat/0202419,"Molecular dynamics simulation of polymer helix formation using
+  rigid-link methods",,,,
+cond-mat/0204400,"Elastic properties of proteins: insight on the folding process and
+  evolutionary selection of native structures",,,,
+cond-mat/0207651,"Cohesive energy, stability and structural transitions in polyelectrolyte
+  bundles",,,,
+cond-mat/0207654,"Two-level system with a thermally fluctuating transfer matrix element:
+  Application to the problem of DNA charge transfer",,,,
+cond-mat/0209312,"The effects of added salt on the second virial coefficients of the
+  complete proteome of E. coli",,,,
+cond-mat/0209325,"Crucial stages of protein folding through a solvable model: predicting
+  target sites for enzyme-inhibiting drugs",,,,
+cond-mat/0209332,Raft Instability of Biopolymer Gels,,,,
+cond-mat/0209595,"Flexibility of $\alpha$-helices: Results of a statistical analysis of
+  database protein structures",,,,
+cond-mat/0211176,Adaptive elastic properties of chromatin fiber,,,,
+cond-mat/0211177,"Intercalation and buckling instability of DNA linker within locked
+  chromatin fiber",,,,
+cond-mat/0212431,A length-dynamic Tonks gas theory of histone isotherms,,,,
+cond-mat/0302612,"Elucidation of the disulfide folding pathway of hirudin by a
+  topology-based approach",,,,
+cond-mat/0303076,Electrostatic effects in DNA stretching,,,,
+cond-mat/0304369,"Protein crystals and charged surfaces: interactions and heterogeneous
+  nucleation",,,,
+cond-mat/0304429,"A new perspective on the analysis of helix-helix packing preferences in
+  globular proteins",,,,
+cond-mat/0305288,Mean Field Approach for a Statistical Mechanical Model of Proteins,,,,
+cond-mat/0306021,"Thermodynamics of DNA packaging inside a viral capsid: the role of DNA
+  intrinsic thickness",,,,
+cond-mat/0306546,"Diffusion-limited loop formation of semiflexible polymers: Kramers
+  theory and the intertwined time scales of chain relaxation and closing",,,,
+cond-mat/0306595,"Conformational space annealing and an off-lattice frustrated model
+  protein",,,,
+cond-mat/0307319,Dynamics of polymer chain collapse into compact states,,,,
+cond-mat/0307577,Thermally activated processes in polymer dynamics,,,,
+cond-mat/0308128,Statistical linguistic study of DNA sequences,,,,
+cond-mat/0308417,Helix vs. Sheet Formation in a Small Peptide,,,,
+cond-mat/0309110,"Optimization of protein force-field parameters with the Protein Data
+  Bank",,,,
+cond-mat/0309119,"Flexibility of beta-sheets: Principal-component analysis of database
+  protein structures",,,,
+cond-mat/0309149,"Molecular dynamics of C-peptide of ribonuclease A studied by
+  replica-exchange Monte Carlo method and diffusion theory",,,,
+cond-mat/0309207,"Network rigidity at finite temperature: Relationships between
+  thermodynamic stability, the non-additivity of entropy and cooperativity in
+  molecular systems",,,,
+cond-mat/0309338,"Prediction of transmembrane helix configurations by replica-exchange
+  simulations",,,,
+cond-mat/0309373,Protein crystallization in confined geometries,,,,
+cond-mat/0309463,"Long range correlations in DNA : scaling properties and charge transfer
+  efficiency",,,,
+cond-mat/0309486,"Full Optimization of Linear Parameters of a United Residue Protein
+  Potential",,,,
+cond-mat/0309497,Teaching computers to fold proteins,,,,
+cond-mat/0310415,"Sensitivity, Specificity and the Hybridization Isotherms of DNA Chips",,,,
+cond-mat/0310553,"Generalized-Ensemble Simulations of the Human Parathyroid Hormone
+  Fragment PTH(1-34)",,,,
+cond-mat/0311551,A Finite-Size Scaling Study of a Model of Globular Proteins,,,,
+cond-mat/0312198,Twist-bend instability for toroidal DNA condensates,,,,
+cond-mat/0312207,Shape Selection in Chiral Self-Assembly,,,,
+cond-mat/0312400,Cationic DMPC/DMTAP Lipid Bilayers: Molecular Dynamics Study,,,,
+cond-mat/0312562,A macroscopic scale model of bacterial flagellar bundling,,,,
+cond-mat/0312563,Dynamic supercoiling bifurcations of growing elastic filaments,,,,
+cond-mat/0312702,Discrete molecular dynamics simulations of peptide aggregation,,,,
+cond-mat/0401291,Freezing and folding behavior in simple off-lattice heteropolymers,,,,
+cond-mat/0401489,"Correlated and Decorrelated Positional and Orientational Order in the
+  Nucleosomal Core Particle Mesophases",,,,
+cond-mat/0402048,"Collective Dynamics of Lipid Membranes studied by Inelastic Neutron
+  Scattering",,,,
+cond-mat/0402067,"Collective dynamics in phospholipid bilayers investigated by inelastic
+  neutron scattering: Exploring the dynamics of biological membranes with
+  neutrons",,,,
+cond-mat/0402220,Simple Growth Models of Rigid Multifilament Biopolymers,,,,
+cond-mat/0402252,Lateral phase separation in mixtures of lipids and cholesterol systems,,,,
+cond-mat/0402680,Feedback control in a collective flashing ratchet,,,,
+cond-mat/0403025,The Writhe Distribution Of Stretched Polymers,,,,
+cond-mat/0403419,Topologically Driven Swelling of a Polymer Loop,,,,
+cond-mat/0403552,Adhesion clusters under shared linear loading: a stochastic analysis,,,,
+cond-mat/0404389,"Optimized Baxter Model of Protein Solutions: Electrostatics versus
+  Adhesion",,,,
+cond-mat/0405145,"Accurate and efficient description of protein vibrational dynamics:
+  comparing molecular dynamics and Gaussian models",,,,
+cond-mat/0406578,"Understanding Mechanochemical Coupling in Kinesins Using First-Passage
+  Time Processes",,,,
+cond-mat/0407467,Self-assembly of polyhedral shells: A molecular dynamics study,,,,
+cond-mat/0407480,"Linear response of a grafted semiflexible polymer to a uniform force
+  field",,,,
+cond-mat/0409492,"Three Bead Rotating Chain model shows universality in the stretching of
+  proteins",,,,
+cond-mat/0410291,Unified perspective on proteins: A physics approach,,,,
+cond-mat/0411498,"Polymerization dynamics of double-stranded biopolymers: chemical kinetic
+  approach",,,,
+cond-mat/0411621,Nonlinear waves in double-stranded DNA,,,,
+cond-mat/0412128,"Study of the Villin Headpiece folding dynamics by combining
+  coarse-grained Monte Carlo evolution and all-atom Molecular Dynamics",,,,
+cond-mat/0412538,Hierarchical Chain Model of Spider Capture Silk Elasticity,,,,
+cond-mat/0412591,Theory of Bubble Nucleation and Cooperativity in DNA Melting,,,,
+cond-mat/0412661,Modeling truncated hemoglobin vibrational dynamics,,,,
+cond-mat/0501285,"Structure and stability of chiral beta-tapes: a computational
+  coarse-grained approach",,,,
+cond-mat/0501546,"Bimodality in the transverse fluctuations of a grafted semiflexible
+  polymer and the diffusion-convection analogue: an effective-medium approach",,,,
+cond-mat/0503436,Slow energy relaxation of macromolecules and nano-clusters in solution,,,,
+cond-mat/0504508,Inferring the diameter of a biopolymer from its stretching response,,,,
+cond-mat/0506797,Sequence heterogeneity and the dynamics of molecular motors,,,,
+cond-mat/0507542,"TransPath: A Computational Method to Study the Ion Transit Pathways in
+  Membrane Channels",,,,
+cond-mat/0507625,"ATP hydrolysis stimulates large length fluctuations in single actin
+  filaments",,,,
+cond-mat/0507659,"Generalized Haldane Equation and Fluctuation Theorem in the Steady State
+  Cycle Kinetics of Single Enzymes",,,,
+cond-mat/0508446,Physics of thick polymers,,,,
+cond-mat/0508610,"Exploring the energy landscape of model proteins: a metric criterion for
+  the determination of dynamical connectivity",,,,
+cond-mat/0509457,Dynamic Phase Transitions in Coupled Motor Proteins,,,,
+cond-mat/0510820,"Dielectrophoresis of nanoscale dsDNA and humidity effects on its
+  electrical conductivity",,,,
+cond-mat/0511255,"Reversible mesoscopic model of protein adsorption: From equilibrium to
+  dynamics",,,,
+cond-mat/0601129,"Long-Range Order and Interactions of Macroscopic Objects in Polar
+  Liquids",,,,
+cond-mat/0601348,"Inferring the effective thickness of polyelectrolytes from stretching
+  measurements at various ionic strengths: applications to DNA and RNA",,,,
+cond-mat/0602444,"How does a protein search for the specific site on DNA: the role of
+  disorder",,,,
+cond-mat/0603828,"Entropy and Barrier-Hopping Determine Conformational Viscoelasticity in
+  Single Biomolecules",,,,
+cond-mat/0605246,Helical structures from an isotropic homopolymer model,,,,
+cond-mat/0605275,"Threshold feedback control for a collective flashing ratchet: threshold
+  dependence",,,,
+cond-mat/0605408,Generalized Ensemble and Tempering Simulations: A Unified View,,,,
+cond-mat/0605737,"Condensation transition in DNA-polyaminoamide dendrimer fibers studied
+  using optical tweezers",,,,
+cond-mat/0606254,Force dependent fragility in RNA hairpins,,,,
+cond-mat/0606774,Kinetics of the Wako-Saito-Munoz-Eaton Model of Protein Folding,,,,
+cond-mat/0607572,"There and (slowly) back again: Entropy-driven hysteresis in a model of
+  DNA overstretching",,,,
+cond-mat/0611003,An Ising-Like model for protein mechanical unfolding,,,,
+cond-mat/0701737,DNA toroid condensation as analytic solutions,,,,
+cond-mat/0701738,Effect of interaction shape on the condensed DNA toroid,,,,
+cond-mat/0702356,Structure and Aggregation of a Helix-Forming Polymer,,,,
+cond-mat/0703370,Mechanical limits of viral capsids,,,,
+cond-mat/0703387,"Molecular Dynamics Simulation of Folding and Diffusion of Proteins in
+  Nanopores",,,,
+cond-mat/0703404,"Anomalous Dynamics of Unbiased Polymer Translocation through a Narrow
+  Pore",,,,
+cond-mat/0703583,"Interaction Between Motor Domains Can Explain the Complex Dynamics of
+  Heterodimeric Kinesins",,,,
+cond-mat/0703742,"Exact steady-state velocity of ratchets driven by random sequential
+  adsorption",,,,
+cond-mat/9402010,Properties and Origins of Protein Secondary Structure,,,,
+cond-mat/9404001,Folding Kinetics of Protein Like Heteropolymers,,,,
+cond-mat/9601091,"Diffusive Dynamics of the Reaction Coordinate for Protein Folding
+  Funnels",,,,
+cond-mat/9706101,"Protein folding, anisotropic collapse and blue phases",,,,
+cond-mat/9711222,Protein design in a lattice model of hydrophobic and polar amino acids,,,,
+cond-mat/9806178,Coarse grained description of the protein folding,,,,
+cond-mat/9806182,Protein folding and models of dynamics on the lattice,,,,
+cond-mat/9807191,DNA-Protein Cooperative Binding through Long-Range Elastic Coupling,,,,
+cond-mat/9811246,"Protein structures and optimal folding emerging from a geometrical
+  variational principle",,,,
+cond-mat/9903089,"RNA secondary structure formation: a solvable model of heteropolymer
+  folding",,,,
+cond-mat/9907269,Scaling of folding properties in simple models of proteins,,,,
+cond-mat/9908108,Two State Behavior in a Solvable Model of $\beta$-hairpin folding,,,,
+cond-mat/9909309,"The Extension of Rod-Coil Multiblock Copolymers and the Effect of the
+  Helix-Coil Transition",,,,
+cond-mat/9911184,On the Helix-Coil transition in grafted chains,,,,
+cond-mat/9911285,"Spin analogs of proteins: scaling of ""folding"" properties",,,,
+cond-mat/9911488,"Molecular dynamics of folding of secondary structures in Go-type models
+  of proteins",,,,
+cond-mat/9912450,Simple Models of the Protein Folding Problem,,,,
+cs/0101015,"Combinatorial Toolbox for Protein Sequence Design and Landscape Analysis
+  in the Grand Canonical Model",,,,
+cs/0201018,Long Proteins with Unique Optimal Foldings in the H-P Model,,,,
+hep-lat/9302008,"Prediction of Peptide Conformation by Multicanonical Algorithm: A New
+  Approach to the Multiple-Minima Problem",,,,
+math/0308237,"Asymptotic hitting time for a simple evolutionary model of protein
+  folding",,,,
+nlin/0301047,Multi-site H-bridge breathers in a DNA--shaped double strand,,,,
+nlin/0306019,Stretching and relaxation dynamics in double stranded DNA,,,,
+physics/0011067,Ideal-Chain Collapse in Biopolymers,,,,
+physics/0104085,"An Analysis of the Thermodynamics of Hydrophobic Solvation Based on
+  Scaled Particle Theory",,,,
+physics/0108038,"Simulated and Experimental Bending Dynamics in DNA with and without
+  A-Tracts",,,,
+physics/0112007,A Model of Sequence Dependent Protein Diffusion Along Dna,,,,
+physics/0112083,"Physical Constraints and Functional Characteristics of Transcription
+  Factor-DNA Interaction",,,,
+physics/0204001,DNA Dynamics in A Water Drop,,,,
+physics/0204006,"Numerical estimation of entropy loss on dimerization: improved
+  prediction of the quaternary structure of the GCN4 leucine zipper",,,,
+physics/0206088,Theory of High-Force DNA Stretching and Overstretching,,,,
+physics/0207039,Structure Space of Model Proteins --A Principle Component Analysis,,,,
+physics/0212038,"Effective spring constants for the elastically coupled insertions in
+  membranes",,,,
+physics/0302009,"Anisotropic coarse-grained statistical potentials improve the ability to
+  identify native-like protein structures",,,,
+physics/0302012,"Reversible B/A Transitions in Single DNA Molecule Immersed in A Water
+  Drop",,,,
+physics/0306121,A theory of Plasma Membrane Calcium Pump stimulation and activity,,,,
+physics/0307051,Simulations of Oligomeric Intermediates in Prion Diseases,,,,
+physics/0307143,Modeling Amyloid Beta Peptide Insertion into Lipid Bilayers,,,,
+physics/0310075,"Control of catalytic activity of proteins in vivo by nanotube ropes
+  excited with infrared light",,,,
+physics/0310146,"In-silico folding of a three helix protein and characterization of its
+  free-energy landscape in an all-atom forcefield",,,,
+physics/0311028,"Protein folding in high-dimensional spaces:hypergutters and the role of
+  non-native interactions",,,,
+physics/0401127,"A general expression for bimolecular association rates with
+  orientational constraints",,,,
+physics/0406008,Two-State Migration of DNA in a structured Microchannel,,,,
+physics/0407105,Fractional diffusion modeling of ion channel gating,,,,
+physics/0410254,Fluctuation-Driven Molecular Transport in an Asymmetric Membrane Channel,,,,
+physics/0411017,"Non-exponential relaxation and hierarchically constrained dynamics in a
+  protein",,,,
+physics/0411027,Energy controlled insertion of polar molecules in dense fluids,,,,
+physics/0503109,Elastic lever arm model for myosin V,,,,
+physics/0504140,Model for Folding and Aggregation in RNA Secondary Structures,,,,
+physics/0504213,"Influence of subunit structure on the oligomerization state of light
+  harvesting complexes: a free energy calculation study",,,,
+physics/0509138,"Velocity and processivity of helicase unwinding of double-stranded
+  nucleic acids",,,,
+physics/0509148,Influence of fluctuations in actin structure on myosin V step size,,,,
+physics/0601128,Topological features of proteins from amino acid residue networks,,,,
+physics/0603049,Stepwise bending of DNA by a single TATA-box Binding Protein,,,,
+physics/0609135,RNA secondary structure design,,,,
+physics/0702149,Modeling protein synthesis from a physicist's perspective: a toy model,,,,
+physics/0703089,A non-equilibrium dynamic mechanism for the allosteric effect,,,,
+physics/9812033,Electrostatic Edge Instability of Lipid Membranes,,,,
+physics/9902041,Driven Polymer Translocation Through a Narrow Pore,,,,
+physics/9909049,Visualizing Conformations in Molecular Dynamics,,,,
+q-bio/0309007,The Inter-Strand Modes of the DNA as a Probe into MW-Radiation,,,,
+q-bio/0309010,Force steps during viral DNA packaging ?,,,,
+q-bio/0310020,"Thermal denaturation and folding rates of single domain proteins: size
+  matters",,,,
+q-bio/0310023,Asymmetry in the shapes of folded and denatured states of proteins,,,,
+q-bio/0310034,"Protein secondary structure: Entropy, correlations and prediction",,,,
+q-bio/0311003,"Relaxation of DNA curvature by single stranded breaks: Simulations and
+  experiments",,,,
+q-bio/0311004,Cooperativity in two-state protein folding kinetics,,,,
+q-bio/0311008,Complex folding pathways in a simple beta-hairpin,,,,
+q-bio/0311010,"Analytic models for mechanotransduction: gating a mechanosensitive
+  channel",,,,
+q-bio/0311011,Are residues in a protein folding nucleus evolutionarily conserved?,,,,
+q-bio/0311015,Stretching of Proteins in the Entropic Limit,,,,
+q-bio/0311023,Coarse-Grained Model of Entropic Allostery,,,,
+q-bio/0311033,"Localization of DNA damage by current exchanging repair enzymes: effects
+  of cooperativity on detection time",,,,
+q-bio/0311036,Peptide size dependent active transport in the proteasome,,,,
+q-bio/0312010,"Correlation between sequence hydrophobicity and surface-exposure pattern
+  of database proteins",,,,
+q-bio/0312034,Modeling DNA Conformational Transformations on the Mesoscopic Scales,,,,
+q-bio/0312042,Folding thermodynamics of three beta-sheet peptides: A model study,,,,
+q-bio/0312045,Thermodynamics of alpha- and beta-structure formation in proteins,,,,
+q-bio/0312046,Two-state folding over a weak free-energy barrier,,,,
+q-bio/0312047,"Sequence-based study of two related proteins with different folding
+  behaviors",,,,
+q-bio/0312048,Coupled folding-binding versus docking: A lattice model study,,,,
+q-bio/0401004,Novel steady state of a microtubule assembly in a confined geometry,,,,
+q-bio/0401012,"Temperature Dependent Conformational Transitions and Hydrogen Bond
+  Dynamics of the Elastin-Like Octapeptide GVG(VPGVG): a Molecular Dynamics
+  Study",,,,
+q-bio/0401017,Cooperativity and Contact Order in Protein Folding,,,,
+q-bio/0401021,Helix-coil Transition in Closed Circular DNA,,,,
+q-bio/0401030,"A First Principles Density-Functional Calculation of the Electronic and
+  Vibrational Structure of the Key Melanin Monomers",,,,
+q-bio/0401034,"Realistic protein-protein association rates from a simple diffusional
+  model neglecting long-range interactions, free energy barriers, and landscape
+  ruggedness",,,,
+q-bio/0401038,Stability and the Evolvability of Function in a Model Protein,,,,
+q-bio/0402008,Physics of RecA-mediated homologous recognition,,,,
+q-bio/0402033,Inhibition of protein crystallization by evolutionary negative design,,,,
+q-bio/0403034,The protein folding network,,,,
+q-bio/0404004,"Actin Polymerization Kinetics, Cap Structure and Fluctuations",,,,
+q-bio/0404005,Searching low-energy conformations of two elastin sequences,,,,
+q-bio/0404011,"Lever-arm and Washboard-potential theories jointly account for Myosin II
+  dynamics",,,,
+q-bio/0404013,"Importance of chirality and reduced flexibility of protein side chains:
+  A study with square and tetrahedral lattice models",,,,
+q-bio/0404015,Reconstruction of protein structures from a vectorial representation,,,,
+q-bio/0404023,Correlations in the T Cell Response to Altered Peptide Ligands,,,,
+q-bio/0405004,Information theory in molecular biology,,,,
+q-bio/0405006,"Proteins associated with diseases show enhanced sequence correlation
+  between charged residues",,,,
+q-bio/0405010,Topological thermal instability and length of proteins,,,,
+q-bio/0405013,What one can learn from experiments about the elusive transition state?,,,,
+q-bio/0405019,Geometry and symmetry presculpt the free-energy landscape of proteins,,,,
+q-bio/0406003,"The principal eigenvector of contact matrices and hydrophobicity
+  profiles in proteins",,,,
+q-bio/0406012,"A computational study of the statistical mechanics of antibody-antigen
+  conformations",,,,
+q-bio/0406019,"Untangling influences of hydrophobicity on protein sequences and
+  structures",,,,
+q-bio/0406022,Forces During Bacteriophage DNA Packaging and Ejection,,,,
+q-bio/0406025,"Unbound Protein-Protein Docking Selections by the DFIRE-based
+  Statistical Pair Potential",,,,
+q-bio/0406029,Thermodynamics of beta-amyloid fibril formation,,,,
+q-bio/0406030,"Deriving amino acid contact potentials from their frequencies of
+  occurence in proteins: a lattice model study",,,,
+q-bio/0406031,Simple models of protein folding and of non--conventional drug design,,,,
+q-bio/0406032,Amino acid substitution matrices for protein conformation identification,,,,
+q-bio/0406034,Modeling the thermal evolution of enzyme-created bubbles in DNA,,,,
+q-bio/0406036,"Nucleosome interactions in chromatin: fiber stiffening and hairpin
+  formation",,,,
+q-bio/0406037,"Theory of Nucleosome Corkscrew Sliding in the Presence of Synthetic DNA
+  Ligands",,,,
+q-bio/0406052,A Constructive Approach to Gene Expression Dynamics,,,,
+q-bio/0407017,Dynamics of force-induced DNA slippage,,,,
+q-bio/0407019,"Three-body Interactions Improve the Prediction of Rate and Mechanism in
+  Protein Folding Models",,,,
+q-bio/0407022,Protein folding rates correlate with heterogeneity of folding mechanism,,,,
+q-bio/0407023,"The effects of non-native interactions on protein folding rates: Theory
+  and simulation",,,,
+q-bio/0407028,"The Effects of Stacking on the Configurations and Elasticity of Single
+  Stranded Nucleic Acids",,,,
+q-bio/0407032,An Alternative Model of Amino Acid Replacement,,,,
+q-bio/0407039,Order independent structural alignment of circularly permuted proteins,,,,
+q-bio/0407040,Developing optimal nonlinear scoring function for protein design,,,,
+q-bio/0408009,Network properties of protein structures,,,,
+q-bio/0408013,Design of a folding inhibitor of the HIV-1 Protease,,,,
+q-bio/0408016,Epitope analysis for influenza vaccine design,,,,
+q-bio/0408025,"Sequence-dependent B-A transitions in DNA in silico: Electrostatic
+  condensation mechanism",,,,
+q-bio/0409005,"Oligomerization of amyloid Abeta peptides using hydrogen bonds and
+  hydrophobicity forces",,,,
+q-bio/0409013,Thermodynamic Prediction of Protein Neutrality,,,,
+q-bio/0409017,FSSP to SCOP and CATH (F2CS) Prediction Server,,,,
+q-bio/0409021,"Replica exchange molecular dynamics simulations of amyloid peptide
+  aggregation",,,,
+q-bio/0410021,"Prediction of site-specific amino acid distributions and limits of
+  divergent evolutionary changes in protein sequences",,,,
+q-bio/0411010,"Stretching single RNAs: exact numerical and stochastic simulation
+  methods",,,,
+q-bio/0411014,"Hybridization Isotherms of DNA Microarrays and the Quantification of
+  Mutation Studies",,,,
+q-bio/0411016,"Universal 1/f noise, cross-overs of scaling exponents, and chromosome
+  specific patterns of GC content in DNA sequences of the human genome",,,,
+q-bio/0411017,"Spectral Analysis of Guanine and Cytosine Fluctuations of Mouse Genomic
+  DNA",,,,
+q-bio/0411022,Mechanical properties of the domains of titin in a Go-like model,,,,
+q-bio/0411025,"A Phenomenological model of Myosin II dynamics in the presence of
+  external loads",,,,
+q-bio/0411046,"The Go model revisited: Native structure and the geometric coupling
+  between local and long-range contacts",,,,
+q-bio/0411049,"A Statistical Analysis of RNA Folding Algorithms Through Thermodynamic
+  Parameter Perturbation",,,,
+q-bio/0411050,Finite size effects on thermal denaturation of globular proteins,,,,
+q-bio/0412001,Chirality and Protein Folding,,,,
+q-bio/0412004,"Looking at structure, stability, and evolution of proteins through the
+  principal eigenvector of contact matrices and hydrophobicity profiles",,,,
+q-bio/0412007,Folding thermodynamics of peptides,,,,
+q-bio/0412008,Finite size effects on calorimetric cooperativity of two-state proteins,,,,
+q-bio/0412009,Off-lattice simulation of the solid phase DNA amplification,,,,
+q-bio/0412022,Ion-Phosphate Mode in the DNA Low-Frequency Spectra,,,,
+q-bio/0412032,Mechanical Stretching of Proteins: Calmodulin and Titin,,,,
+q-bio/0412039,"DNA condensation and redissolution: Interaction between overcharged DNA
+  molecules",,,,
+q-bio/0412046,A protein structural alphabet and its substitution matrix CLESUM,,,,
+q-bio/0501006,The posterior-Viterbi: a new decoding algorithm for hidden Markov models,,,,
+q-bio/0501031,"Heisenberg uncertainty principle for thermal response of the
+  microtubules excited by ultra-short laser pulses",,,,
+q-bio/0502011,"Determination of barrier heights and prefactors from protein folding
+  rate data",,,,
+q-bio/0502012,"Short-range spectroscopic ruler based on a single-molecule optical
+  switch",,,,
+q-bio/0502014,Resolution exchange simulation,,,,
+q-bio/0502016,"Loop-closure events during protein folding: Rationalizing the shape of
+  Phi-value distributions",,,,
+q-bio/0502019,"Early events in insulin fibrillization studied by time-lapse atomic
+  force microscopy",,,,
+q-bio/0503007,Controlled DNA compaction within chromatin: the tail-bridging effect,,,,
+q-bio/0503014,Estimation of protein folding probability from equilibrium simulations,,,,
+q-bio/0503029,Mechanical unfolding of RNA hairpins,,,,
+q-bio/0503039,Free energy adopted stochastic optimization protein folding,,,,
+q-bio/0504011,"Design of HIV-1-PR inhibitors which do not create resistance: blocking
+  the folding of single monomers",,,,
+q-bio/0505014,"Structure calculation strategies for helical membrane proteins; a
+  comparison study",,,,
+q-bio/0505030,Design of amino acid sequences to fold into C_alpha-model proteins,,,,
+q-bio/0505032,Geometrical model for the native-state folds of proteins,,,,
+q-bio/0505042,The effect of genome length on ejection forces in bacteriophage lambda,,,,
+q-bio/0505047,"Deconstructing the energy landscape: new algorithms for folding
+  heteropolymers",,,,
+q-bio/0505052,"Geometry of proteins: hydrogen bonding, sterics and marginally compact
+  tubes",,,,
+q-bio/0506012,The prion-like folding behavior in aggregated proteins,,,,
+q-bio/0506026,DNA as a programmable viscoelastic nanoelement,,,,
+q-bio/0506031,Allostery in a Coarse-Grained Model of Protein Dynamics,,,,
+q-bio/0507012,"Activation and Protonation of Dinitrogen at the FeMo-Cofactor of
+  Nitrogenase",,,,
+q-bio/0507025,"Phi-values in protein folding kinetics have energetic and structural
+  components",,,,
+q-bio/0507039,A complex adaptive systems approach to the kinetic folding of RNA,,,,
+q-bio/0508004,Coupled dynamics of RNA folding and nanopore translocation,,,,
+q-bio/0508009,Proteins and polymers,,,,
+q-bio/0508037,"Expanding the Temporal Analysis in Single-Molecule Switching Experiments
+  Through the Auto-Correlation Function: Mathematical Framework",,,,
+q-bio/0509003,Equation of state of looped DNA,,,,
+q-bio/0509015,An intermediate phase in DNA melting,,,,
+q-bio/0509018,"A Hydrophobic Gate in an Ion Channel: The Closed State of the Nicotinic
+  Acetylcholine Receptor",,,,
+q-bio/0509020,Functional modes of proteins are among the most robust ones,,,,
+q-bio/0509025,Weighted and unweighted network of amino acids within protein,,,,
+q-bio/0509031,Population genetics of translational robustness,,,,
+q-bio/0510006,Protein crystallization in vivo,,,,
+q-bio/0510011,"A new formalism for calculation of the partition function of single
+  stranded nucleic acids",,,,
+q-bio/0510038,"Are structural biases at protein termini a signature of vectorial
+  folding?",,,,
+q-bio/0510045,Dominant Pathways in Protein Folding,,,,
+q-bio/0510048,"Solvent and mutation effects on the nucleation of amyloid
+  $\beta$-protein folding",,,,
+q-bio/0511014,"Conservation of statistical results under the reduction of pair-contact
+  interactions to solvation interactions",,,,
+q-bio/0511027,Persistence Length Changes Dramatically as RNA Folds,,,,
+q-bio/0512004,Stretching of proteins in a force-clamp,,,,
+q-bio/0512011,Cooperative Cargo Transport by Several Molecular Motors,,,,
+q-bio/0512020,"Diversity in Free Energy Landscape of Proteins with the Same Native
+  Topology",,,,
+q-bio/0512029,"What thermodynamic features characterize good and bad folders? Results
+  from a simplified off-lattice protein model",,,,
+q-bio/0512035,An irreversible growth model for virus capsid assembly,,,,
+q-bio/0601018,"Protein folding dynamics via quantification of kinematic energy
+  landscape",,,,
+q-bio/0601019,"Estimation of Amino Acid Residue Substitution Rates at Local Spatial
+  Regions and Application in Protein Function Inference: A Bayesian Monte Carlo
+  Approach",,,,
+q-bio/0601020,"Computation of protein geometry and its applications: Packing and
+  function prediction",,,,
+q-bio/0601026,Knowledge-based energy functions for computational studies of proteins,,,,
+q-bio/0601027,"Interstrand pairing patterns in $\beta$-barrel membrane proteins: the
+  positive-outside rule, aromatic rescue, and strand registration prediction",,,,
+q-bio/0601029,"Empirical Potential Function for Simplified Protein Models: Combining
+  Contact and Local Sequence-Structure Descriptors",,,,
+q-bio/0601043,Forced-unfolding and force-quench refolding of RNA hairpins,,,,
+q-bio/0601046,"Substructural cooperativity and parallel versus sequential events during
+  protein unfolding",,,,
+q-bio/0601047,"A simple measure of native-state topology and chain connectivity
+  predicts the folding rates of two-state proteins with and without crosslinks",,,,
+q-bio/0601049,Thermal unfolding of proteins,,,,
+q-bio/0602008,Wringing out DNA,,,,
+q-bio/0602011,Dynamics of an inchworm nano-walker,,,,
+q-bio/0602013,"The evaluation of protein folding rate constant is improved by
+  predicting the folding kinetic order with a SVM-based method",,,,
+q-bio/0602019,"Salerno's model of DNA reanalysed: could solitons have biological
+  significance?",,,,
+q-bio/0602022,"Effects of constraints in general branched molecules: A quantitative ab
+  initio study in HCO-L-Ala-NH2",,,,
+q-bio/0602024,Towards a model for protein production rates,,,,
+q-bio/0603004,A two stage model for quantitative PCR,,,,
+q-bio/0603012,A Chemical Kinetic Model of Transcriptional Elongation,,,,
+q-bio/0603018,Protein folding in a force-clamp,,,,
+q-bio/0603020,Multiprotein DNA looping,,,,
+q-bio/0603033,"Integrity of H1 helix in prion protein revealed by molecular dynamic
+  simulations to be especially vulnerable to changes in the relative
+  orientation of H1 and its S1 flank",,,,
+q-bio/0604001,Amplified biochemical oscillations in cellular systems,,,,
+q-bio/0604013,"CRNPRED: Highly Accurate Prediction of One-dimensional Protein
+  Structures by Large-scale Critical Random Networks",,,,
+q-bio/0605018,PIPER: An FFT-based Protein Docking Program with Pairwise Potentials,,,,
+q-bio/0605031,Structural Change of Myosin Motor Domain and Nucleotide Dissociation,,,,
+q-bio/0605037,"Mass Fractal Dimension of the Ribosome and Implication of its Dynamic
+  Characteristics",,,,
+q-bio/0605039,A toy model of polymer stretching,,,,
+q-bio/0605041,Thermodynamics of Neutral Protein Evolution,,,,
+q-bio/0605048,"Transition States in Protein Folding Kinetics: The Structural
+  Interpretation of Phi-values",,,,
+q-bio/0606012,Protein Structure Prediction: The Next Generation,,,,
+q-bio/0606014,A Kinetic Model Describing the Processivity of Myosin-V,,,,
+q-bio/0606015,"Ab initio simulations of Cu binding sites in the N-terminal region of
+  PrP",,,,
+q-bio/0606031,Simple solvation potential for coarse-grained models of proteins,,,,
+q-bio/0607023,"Comment on: ``Solving the riddle of the bright mismatches: Labeling and
+  effective binding in oligonucleotide arrays""",,,,
+q-bio/0607027,"Minimal model of self-replicating nanocells: a physically embodied
+  information-free scenario",,,,
+q-bio/0607032,Topological classification of RNA structures,,,,
+q-bio/0608006,Focal adhesions as mechanosensors: the two-spring model,,,,
+q-bio/0608007,"Bistability of cell-matrix adhesions resulting from non-linear
+  receptor-ligand dynamics",,,,
+q-bio/0608012,The Discretizable Molecular Distance Geometry Problem,,,,
+q-bio/0608019,"A Petri Net approach to the study of persistence in chemical reaction
+  networks",,,,
+q-bio/0608036,Sequence sensitivity of breathing dynamics in heteropolymer DNA,,,,
+q-bio/0608038,"A versatile maskless microscope projection photolithography system and
+  its application in light-directed fabrication of DNA microarrays",,,,
+q-bio/0608041,"Scenarios for protein aggregation: Molecular Dynamics simulations and
+  Bioinformatic Analysis",,,,
+q-bio/0609025,Convergent dynamics in the protease enzymatic superfamily,,,,
+q-bio/0609029,"Mechanical unfolding of RNA: From hairpins to structures with internal
+  multiloops",,,,
+q-bio/0609035,"Size, shape, and flexibility of RNA structures",,,,
+q-bio/0609037,"Comparison of amino acid occurrence and composition for predicting
+  protein folds",,,,
+q-bio/0610007,Elementary simulation of tethered Brownian motion,,,,
+q-bio/0610032,A domain wall model for spectral reflectance of plant leaves,,,,
+q-bio/0610038,The minimal molecular surface,,,,
+q-bio/0610045,Kinesin as an electrostatic machine,,,,
+q-bio/0610046,Stretching of proteins in a uniform flow,,,,
+q-bio/0610052,"Stochastic kinetics of viral capsid assembly based on detailed protein
+  structures",,,,
+q-bio/0611008,Effect of supercoiling on formation of protein mediated DNA loops,,,,
+q-bio/0611011,Manipulating single enzymes by an external harmonic force,,,,
+q-bio/0611039,"Protein structural variation in computational models and
+  crystallographic data",,,,
+q-bio/0611044,DNA: From rigid base-pairs to semiflexible polymers,,,,
+q-bio/0611050,"Pathways and kinetic barriers in mechanical unfolding and refolding of
+  RNA and proteins",,,,
+q-bio/0611051,"Back-stepping, hidden substeps, and conditional dwell times in molecular
+  motors",,,,
+q-bio/0611061,"Nucleation phenomena in protein folding: The modulating role of protein
+  sequence",,,,
+q-bio/0611062,"Cooperativity and the origins of rapid, single-exponential kinetics in
+  protein folding",,,,
+q-bio/0611071,Encoding folding paths of RNA switches,,,,
+q-bio/0611080,"Refolding upon force quench and pathways of mechanical and thermal
+  unfolding of ubiquitin",,,,
+q-bio/0611094,Dynamics of allosteric transitions in GroEL,,,,
+q-bio/0612003,Cooperative transport by small teams of molecular motors,,,,
+q-bio/0612020,"Anharmonicity and self-similarity of the free energy landscape of
+  protein G",,,,
+q-bio/0612026,Dwell time symmetry in random walks and molecular motors,,,,
+q-bio/0612031,Folding of the Protein Domain hbSBD,,,,
+q-bio/0612039,Effect of finite size on cooperativity and rates of protein folding,,,,
+q-bio/0612040,"Survey of the didemnins: A class of depsipeptide natural products with
+  promising biomedical applications",,,,
+q-bio/0701014,Elastic Correlations in Nucleosomal DNA Structure,,,,
+q-bio/0701028,Quantitative Protein Dynamics from Dominant Folding Pathways,,,,
+q-bio/0701036,Parametrized Stochastic Grammars for RNA Secondary Structure Prediction,,,,
+q-bio/0701037,"Role of electrostatic interactions in amyloid beta-protein (Abeta)
+  oligomer formation: A discrete molecular dynamics study",,,,
+q-bio/0701046,"Mobility of Min-proteins in Escherichia coli measured by fluorescence
+  correlation spectroscopy",,,,
+q-bio/0702012,"Internal strain regulates the nucleotide binding site of the kinesin
+  leading head",,,,
+q-bio/0702042,"Satisfiability, sequence niches, and molecular codes in cellular
+  signaling",,,,
+q-bio/0702061,Continuum model of actin-mediated bacterial propulsion,,,,
+q-bio/0703003,"Effect of Internal Viscosity on Brownian Dynamics of DNA Molecules in
+  Shear Flow",,,,
+q-bio/0703027,Elasticity of strongly stretched ssDNA,,,,
+q-bio/0703028,Dynamics of RNA Translocation through a Nanopore,,,,
+q-bio/0703043,"Effects of Langmuir Kinetics of Two-Lane Totally Asymmetric Exclusion
+  Processes in Protein Traffic",,,,
+q-bio/0703049,Shapes of Semiflexible Polymer Rings,,,,

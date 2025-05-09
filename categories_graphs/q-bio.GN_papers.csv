@@ -1,0 +1,272 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+q-bio/0502005,Cliques and duplication-divergence network growth,8.701130740940533e-06,0.0,8.0,0.0
+q-bio/0504004,Electronic Transport in DNA,7.533323202403175e-06,0.0,5.0,1.0
+cond-mat/0302544,Connectivity Distribution of Spatial Networks,7.091575935056103e-06,1.991667966171385e-06,7.0,2.0
+q-bio/0507030,Conspiracy in bacterial genomes,6.784848700124495e-06,0.0,2.0,0.0
+q-bio/0504013,PCA and K-Means decipher genome,6.705636886823234e-06,0.0,3.0,0.0
+q-bio/0311014,Determinative degree and nucleotide sequence analysis by trianders,4.8370326599021295e-06,0.0,3.0,0.0
+q-bio/0312021,"Inherent size constraints on prokaryote gene networks due to
+  ""accelerating"" growth",4.582237593858069e-06,4.524335633767218e-06,5.0,3.0
+cond-mat/0207321,Data compression and learning in time sequences analysis,4.552510898179494e-06,0.0,1.0,0.0
+q-bio/0406011,Imperfect DNA Repair and the Error Catastrophe,4.21043244778407e-06,0.0,2.0,0.0
+q-bio/0312022,"Failed ""nonaccelerating"" models of prokaryote gene regulatory networks",4.12971795399622e-06,0.0,5.0,2.0
+q-bio/0503009,New symmetry in nucleotide sequences,3.826788423397162e-06,0.0,1.0,0.0
+q-bio/0412015,"The Mystery of Two Straight Lines in Bacterial Genome Statistics.
+  Release 2007",3.702565106583692e-06,0.0,1.0,2.0
+cond-mat/0108043,Modeling of protein interaction networks,3.4879926473252784e-06,0.0001006867766265,3.0,15.0
+q-bio/0402044,Solution of the Quasispecies Model for an Arbitrary Gene Network,3.4870386309160864e-06,0.0,1.0,0.0
+q-bio/0501011,Information Capacity of Biological Macromoleculae Reloaded,3.0472482127272877e-06,0.0,2.0,1.0
+quant-ph/0105001,Why Genetic Information Processing could have a Quantum Basis,2.9733268359828585e-06,0.0,5.0,4.0
+q-bio/0508023,Rank Statistics in Biological Evolution,2.7643367442980106e-06,0.0,1.0,0.0
+q-bio/0607029,Modeling gene's length distribution in genomes,2.651895837668813e-06,0.0,1.0,0.0
+q-bio/0612043,"Hybridization to surface-bound oligonucleotide probes: Influence of
+  point defects",2.6453040214808263e-06,0.0,1.0,0.0
+q-bio/0607018,A p-Adic Model of DNA Sequence and Genetic Code,2.607192308477306e-06,0.0,2.0,5.0
+q-bio/0311009,Tropical Geometry of Statistical Models,2.5842735651951256e-06,3.4394724634059154e-05,5.0,6.0
+q-bio/0509043,"Statistical Indicators of Collective Behavior and Functional Clusters in
+  Gene Networks of Yeast",2.50983732247804e-06,0.0,2.0,0.0
+q-bio/0401033,Parametric Inference for Biological Sequence Analysis,2.4711431321721443e-06,0.0,1.0,1.0
+q-bio/0510030,"Genome-wide discovery of modulators of transcriptional interactions in
+  human B lymphocytes",2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0603011,PFMFind: a system for discovery of peptide homology and function,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0606032,Probabilistic Regulatory Networks: Modeling Genetic Networks,2.4711431321721443e-06,0.0,1.0,0.0
+math/0411128,Why Delannoy numbers?,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0404019,"Partly melted DNA conformations obtained with a probability peak finding
+  method",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0201033,"Finding regulatory sites from statistical analysis of nucleotide
+  frequencies in the upstream region of eukaryotic genes",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0601135,Strategies of Loop Recombination in Ciliates,2.4711431321721443e-06,0.0,1.0,1.0
+q-bio/0407002,"Nonlinear excitations in DNA: Aperiodic models vs actual genome
+  sequences",2.429735359900988e-06,0.0,2.0,0.0
+q-bio/0403036,The Triplet Genetic Code had a Doublet Predecessor,2.3926175333662813e-06,0.0,3.0,0.0
+q-bio/0411033,An Information-Theoretic Approach to Network Modularity,2.3903102790446403e-06,0.0,2.0,0.0
+quant-ph/0102034,Testing Quantum Dynamics in Genetic Information Processing,1.9409765640077197e-06,0.0,4.0,2.0
+q-bio/0410011,"Co-expression of statistically over-represented peptides in proteomes: a
+  key to phylogeny ?",1.8950380516170012e-06,0.0,1.0,0.0
+cs/0312044,Clustering by compression,1.8935506151611049e-06,0.0,2.0,5.0
+cs/0111054,The similarity metric,1.8563310916148584e-06,0.0,2.0,3.0
+q-bio/0409023,"The Shift-Match Number and String Matching Probabilities for Binary
+  Sequences",1.703003024765287e-06,0.0,1.0,1.0
+q-bio/0403003,Disorder and fluctuations in nonlinear excitations in DNA,1.703003024765287e-06,0.0,1.0,2.0
+physics/0206031,Process Pathway Inference via Time Series Analysis,1.703003024765287e-06,0.0,1.0,0.0
+q-bio/0612046,An introduction to reconstructing ancestral genomes,1.60698551133943e-06,0.0,1.0,0.0
+q-bio/0402046,Sublinear Growth of Information in DNA Sequences,1.5855255443832496e-06,0.0,1.0,1.0
+q-bio/0410012,Exact Asymptotic Results for a Model of Sequence Alignment,1.5109679979135728e-06,0.0,1.0,1.0
+q-bio/0403018,The Importance of DNA Repair in Tumor Suppression,1.4826494948284814e-06,0.0,1.0,2.0
+physics/0308091,Symmetry Scheme for Amino Acid Codons,1.4499921809450502e-06,0.0,1.0,0.0
+quant-ph/0002037,Quantum Algorithms and the Genetic Code,1.351174941359052e-06,0.0,2.0,9.0
+q-bio/0406049,Analytical Solution of a Stochastic Content Based Network Model,1.3189329710618589e-06,0.0,0.0,3.0
+q-bio/0408011,Unidentifiable divergence times in rates-across-sites models,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0311483,Phase-Transition in Binary Sequences with Long-Range Correlations,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0312032,"Modularity ""for free"" in genome architecture?",1.3189329710618589e-06,0.0,0.0,4.0
+cs/0601122,Reducibility of Gene Patterns in Ciliates using the Breakpoint Graph,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0310029,"Statistical analysis of the spatial distribution of operons in the
+  transcriptional regulation network of Escherichia coli",1.3189329710618589e-06,0.0,0.0,3.0
+physics/0112029,DNA Sequence Evolution with Neighbor-Dependent Mutation,1.3189329710618589e-06,0.0,0.0,1.0
+math/0511346,"Sequential and asynchronous processes driven by stochastic or quantum
+  grammars and their application to genomics: a survey",1.3189329710618589e-06,0.0,0.0,1.0
+math/0506082,"Discrete differential geometry of proteins: a new method for encoding
+  three-dimensional structures of proteins",1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9605002,Physical Complexity of Symbolic Sequences,1.3189329710618589e-06,0.0,0.0,6.0
+q-bio/0505002,"Limitations of Markov chain Monte Carlo algorithms for Bayesian
+  Inference of phylogeny",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0510021,"Non-extensive Trends in the Size Distribution of Coding and Non-coding
+  DNA Sequences in the Human Genome",1.3189329710618589e-06,0.0,0.0,1.0
+math/0603302,"Probabilistic Gene Regulatory Networks, isomorphisms of Markov Chains",1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9704003,The Study of Correlation Structures of DNA Sequences: A Critical Review,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0410013,Synonymous codon usage and selection on proteins,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0406015,"Information theory, multivariate dependence, and genetic network
+  inference",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0508720,Sequence Dependence of Electronic Transport in DNA,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0204076,"Dynamic entropies, long-range correlations, and fluctuations in complex
+  linear structures",1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/0309157,"Structurally specific thermal fluctuations identify functional sites for
+  DNA transcription",1.3189329710618589e-06,0.0,0.0,3.0
+physics/0108016,"Self-organizing Approach for Automated Gene Identification in Whole
+  Genomes",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0501004,"Binding properties and evolution of homodimers in protein-protein
+  interaction networks",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0606027,"Conservation rules, their breakdown, and optimality in Caenorhabditis
+  sinusoidal locomotion",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0311012,The Role of Computation in Complex Regulatory Networks,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0410033,"Four basic symmetry types in the universal 7-cluster structure of 143
+  complete bacterial genomic sequences",1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9506004,Chromosome mapping: radiation hybrid data and stochastic spin models,,,,
+adap-org/9709007,"The Measure of Compositional Heterogeneity in DNA Sequences Is Related
+  to Measures of Complexity",,,,
+cond-mat/0204044,On the Hypercube Structure of the Genetic Code,,,,
+cond-mat/0204045,"Entropy, Transinformation and Word Distribution of Information-Carrying
+  Sequences",,,,
+cond-mat/0204078,"The Hypercube Structure of the Genetic Code Explains Conservative and
+  Non-Conservative Aminoacid Substitutions in vivo and in vitro",,,,
+cond-mat/0205525,"L\'{e}vy scaling: the Diffusion Entropy Analysis applied to DNA
+  sequences",,,,
+cond-mat/0305279,A computational approach to regulatory element discovery in eukaryotes,,,,
+cond-mat/0306611,"Global protein function prediction in protein-protein interaction
+  networks",,,,
+cond-mat/0310649,"In the search for the low-complexity sequences in prokaryotic and
+  eukaryotic genomes: how to derive a coherent picture from global and local
+  entropy measures",,,,
+cond-mat/0402581,Dictionary based methods for information extraction,,,,
+cond-mat/9601043,A Growth model for DNA evolution,,,,
+cond-mat/9812184,Genetic Correlations in Mutation Processes,,,,
+cs/0410017,"Automated Pattern Detection--An Algorithm for Constructing Optimally
+  Synchronizing Multi-Regular Language Filters",,,,
+cs/0512052,High-Throughput SNP Genotyping by SBE/SBH,,,,
+math/0011146,A Distribution Function Arising in Computational Biology,,,,
+math/0411197,"Expected number of inversions after a sequence of random adjacent
+  transpositions",,,,
+math/0503659,"Confidence intervals for nonhomogeneous branching processes and
+  polymerase chain reactions",,,,
+math/0510034,Solvable models of neighbor-dependent nucleotide substitution processes,,,,
+math/0510036,Invariance principle for the coverage rate of genomic physical mappings,,,,
+math/0510037,Asymptotics of iterated branching processes,,,,
+math/0603291,Special homomorphisms between Probabilistic Gene Regulatory Networks,,,,
+math/0604534,"Finite Dynamical Systems, Linear Automata, and Finite Fields",,,,
+math/0610655,Bayesian Clustering of Transcription Factor Binding Motifs,,,,
+math/0701656,"Splitting pairs and the number of clusters generated by random pair
+  incompatibilities",,,,
+nlin/0308004,"Temporal patterns of gene expression via nonmetric multidimensional
+  scaling analysis",,,,
+physics/0008231,"Purine-pyrimidine symmetry, determinative degree and DNA",,,,
+physics/0011002,A Historical Perspective on Cancer,,,,
+physics/0102048,Self-Organizing Approach for Finding Borders of DNA Coding Regions,,,,
+physics/0104026,New stopping criteria for segmenting DNA sequences,,,,
+physics/0104027,DNA Segmentation as A Model Selection Process,,,,
+physics/0206024,Minimal model for genome evolution and growth,,,,
+physics/0206045,"Probabilistic Clustering of Sequences: Inferring new bacterial regulons
+  by comparative genomics",,,,
+physics/0206060,"Coupled Two-Way Clustering Analysis of Breast Cancer and Colon Cancer
+  Gene Expression Data",,,,
+physics/0207113,Simplifying the mosaic description of DNA sequences,,,,
+physics/0209080,Isochores Merit the Prefix 'Iso',,,,
+physics/0210038,"The Iterative Signature Algorithm for the analysis of large scale gene
+  expression data",,,,
+physics/0302031,Evidence for growth of microbial genomes by short segmental duplications,,,,
+physics/0307001,Scaling laws in the functional content of genomes,,,,
+physics/0309006,Quasireplicas and universal lengths of microbial genomes,,,,
+q-bio/0309020,Human housekeeping genes are compact,,,,
+q-bio/0310022,A covariance kernel for proteins,,,,
+q-bio/0310027,Random model for RNA interference yields scale free network,,,,
+q-bio/0310036,"""Junk"" DNA as a genetic decoy",,,,
+q-bio/0310040,"Computational identification of transcription factor binding sites by
+  functional analysis of sets of genes sharing overrepresented upstream motifs",,,,
+q-bio/0311013,"Adaptive walks in a gene network model of morphogenesis: insights into
+  the Cambrian explosion",,,,
+q-bio/0311017,"Finding regulatory modules through large-scale gene-expression data
+  analysis",,,,
+q-bio/0311018,MAVID: Constrained ancestral alignment of multiple sequences,,,,
+q-bio/0312006,"Relevance Vector Machines for classifying points and regions in
+  biological sequences",,,,
+q-bio/0312007,What can we learn from noncoding regions of similarity between genomes?,,,,
+q-bio/0312017,"Clone-array pooled shotgun mapping and sequencing: design and analysis
+  of experiments",,,,
+q-bio/0312027,Genetic Paralog Analysis and Simulations,,,,
+q-bio/0401041,Online tool for the discrimination of equi-distributions,,,,
+q-bio/0401043,Molecular Signatures from Gene Expression Data,,,,
+q-bio/0401044,A Fast Reconstruction Algorithm for Gene Networks,,,,
+q-bio/0402006,"Functional Bias and Spatial Organization of Genes in Mutational Hot and
+  Cold Regions in the Human Genome",,,,
+q-bio/0402008,Physics of RecA-mediated homologous recognition,,,,
+q-bio/0402047,Gene-history correlation and population structure,,,,
+q-bio/0403024,"A Machine Learning Strategy to Identity Exonic Splice Enhancers in Human
+  Protein-coding Sequence",,,,
+q-bio/0403032,"Statistical analysis of the distribution of amino acids in Borrelia
+  burgdorferi genome under different genetic codes",,,,
+q-bio/0403038,"Extreme Value Distribution Based Gene Selection Criteria for
+  Discriminant Microarray Data Analysis Using Logistic Regression",,,,
+q-bio/0403039,Alternative Splicing and Genomic Stability,,,,
+q-bio/0403044,Variations in Substitution Rate in Human and Mouse Genomes,,,,
+q-bio/0404022,"Modulation of Base Specific Mutation and Recombination Rates Enables
+  Functional Adaptation within the Context of the Genetic Code",,,,
+q-bio/0404024,Statistical analysis of Gene and Intergenic DNA Sequences,,,,
+q-bio/0405015,"A statistical framework for the design of microarray experiments and
+  effective detection of differential gene expression",,,,
+q-bio/0405022,"Scaling laws in the functional content of genomes: Fundamental constants
+  of evolution?",,,,
+q-bio/0407004,"Semiconservative replication in the quasispecies model II:
+  Generalization to arbitrary lesion repair probabilities",,,,
+q-bio/0407034,Biological Profiling of Gene Groups utilizing Gene Ontology,,,,
+q-bio/0407037,"Relational patterns of gene expression via nonmetric multidimensional
+  scaling analysis",,,,
+q-bio/0407041,Self consistent proteomic field theory of stochastic gene switches,,,,
+q-bio/0408017,"Monte Carlo Simulation and Statistical Analysis of Genetic Information
+  Coding",,,,
+q-bio/0409027,Characterizing large scale base composition structures of genomes,,,,
+q-bio/0409035,Probabilistic pairwise sequence alignment,,,,
+q-bio/0410006,Inverted Repeats in Viral Genomes,,,,
+q-bio/0411014,"Hybridization Isotherms of DNA Microarrays and the Quantification of
+  Mutation Studies",,,,
+q-bio/0411015,"An Unusual 500,000 Bases Long Oscillation of Guanine and Cytosine
+  Content in Human Chromosome 21",,,,
+q-bio/0411016,"Universal 1/f noise, cross-overs of scaling exponents, and chromosome
+  specific patterns of GC content in DNA sequences of the human genome",,,,
+q-bio/0411017,"Spectral Analysis of Guanine and Cytosine Fluctuations of Mouse Genomic
+  DNA",,,,
+q-bio/0411020,A Field Approach to 3D Gene Expression Pattern Characterization,,,,
+q-bio/0412012,Subtree power analysis finds optimal species for comparative genomics,,,,
+q-bio/0412037,Divergence and Shannon information in genomes,,,,
+q-bio/0501006,The posterior-Viterbi: a new decoding algorithm for hidden Markov models,,,,
+q-bio/0501010,A Solvable Sequence Evolution Model and Genomic Correlations,,,,
+q-bio/0501012,"A New Simulated Annealing Algorithm for the Multiple Sequence Alignment
+  Problem: The approach of Polymers in a Random Media",,,,
+q-bio/0501018,"Identification and Measurement of Neighbor Dependent Nucleotide
+  Substitution Processes",,,,
+q-bio/0501027,Are scale-free regulatory networks larger than random ones?,,,,
+q-bio/0501030,Molecular Phylogenetic Analyses and Real Life Data,,,,
+q-bio/0501033,"Global divergence of microbial genome sequences mediated by propagating
+  fronts",,,,
+q-bio/0502009,Statistical analysis of simple repeats in the human genome,,,,
+q-bio/0504002,"Brush Effects on DNA Chips: Thermodynamics, Kinetics and Design
+  Guidlines",,,,
+q-bio/0505023,On the Complexity of Several Haplotyping Problems,,,,
+q-bio/0507018,"Bayesian Method for Disease QTL Detection and Mapping, using a Case and
+  Control Design and DNA Pooling",,,,
+q-bio/0507032,"Parameters of proteome evolution from histograms of amino-acid sequence
+  identities of paralogous proteins",,,,
+q-bio/0508012,On the Complexity of the Single Individual SNP Haplotyping Problem,,,,
+q-bio/0509027,"Universality of Long-Range Correlations in Expansion-Randomization
+  Systems",,,,
+q-bio/0509031,Population genetics of translational robustness,,,,
+q-bio/0510024,"Effect of pooling samples on the efficiency of comparative studies using
+  microarrays",,,,
+q-bio/0510047,An Algorithm for Missing Value Estimation for DNA Microarray Data,,,,
+q-bio/0511047,Functional alignment of regulatory networks: A study of temperate phages,,,,
+q-bio/0511051,Quasispecies and recombination,,,,
+q-bio/0512001,Quantitative modeling and data analysis of SELEX experiments,,,,
+q-bio/0512008,Parametric Alignment of Drosophila Genomes,,,,
+q-bio/0512019,Parametric inference of recombination in HIV genomes,,,,
+q-bio/0601002,"Regularization Strategies for Hyperplane Classifiers: Application to
+  Cancer Classification with Gene Expression Data",,,,
+q-bio/0602004,CFinder: Locating cliques and overlapping modules in biological networks,,,,
+q-bio/0604026,Cross-species analysis of biological networks by Bayesian alignment,,,,
+q-bio/0605015,"Gene Function Classification Using Bayesian Models with Hierarchy-Based
+  Priors",,,,
+q-bio/0606016,"Large-scale Oscillation of Structure-Related DNA Sequence Features in
+  Human Chromosome 21",,,,
+q-bio/0606022,Mean Field Model of Genetic Regulatory Networks,,,,
+q-bio/0606028,Does the dynamics of sine-Gordon solitons predict active regions of DNA?,,,,
+q-bio/0607026,"Distance based Inference for Gene-Ontology Analysis of Microarray
+  Experiments",,,,
+q-bio/0607039,Mathematic principles underlying genetic structures,,,,
+q-bio/0608017,Invertibility of the TKF model of sequence evolution,,,,
+q-bio/0608042,"Nearest neighbour spacing distribution of basis in some intron-less and
+  intron-containing DNA sequences",,,,
+q-bio/0609022,Reconsidering the significance of genomic word frequency,,,,
+q-bio/0610039,"Asterias: a parallelized web-based suite for the analysis of expression
+  and aCGH data",,,,
+q-bio/0610050,Perfect Sampling of the Master Equation for Gene Regulatory Networks,,,,
+q-bio/0611026,"Propagation of fluctuations in interaction networks governed by the law
+  of mass action",,,,
+q-bio/0611042,Proteomic nonlinear waves in networks of transcriptional regulators,,,,
+q-bio/0611043,"Networks from gene expression time series: characterization of
+  correlation patterns",,,,
+q-bio/0612010,"Linguistic mechanism of the evolution of amino acid frequencies and
+  genomic GC content",,,,
+q-bio/0612016,"Beneficial mutation-selection balance and the effect of linkage on
+  positive selection",,,,
+q-bio/0701021,Motif Discovery through Predictive Modeling of Gene Regulation,,,,
+q-bio/0702005,In search of lost introns,,,,
+q-bio/0702022,Finding Sequence Features in Tissue-specific Sequences,,,,
+q-bio/0703063,"Noise-filtering features of transcription regulation in the yeast S.
+  cerevisiae",,,,

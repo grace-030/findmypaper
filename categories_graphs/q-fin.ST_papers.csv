@@ -1,0 +1,669 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+physics/0702035,"Endogenous and exogenous dynamics in the fluctuations of capital fluxes:
+  An empirical analysis of the Chinese stock market",2.079731735103131e-05,0.0,8.0,0.0
+cond-mat/0409179,"On distribution of number of trades in different time windows in the
+  stock market",1.8919052887321655e-05,0.0,15.0,0.0
+physics/0611147,Networks of companies and branches in Poland,1.3263990084013435e-05,0.0,2.0,0.0
+physics/0612170,Volatility Dynamics of Wavelet-Filtered Stock Prices,1.1720169139709936e-05,0.0,7.0,0.0
+cond-mat/0312149,Antibubble and Prediction of China's stock market and Real-Estate,1.0359762460106902e-05,0.0,5.0,0.0
+math/0605421,Imbalance attractors for a strategic model of market microstructure,1.0211252336982677e-05,0.0,5.0,0.0
+physics/0503024,"Power-law distributions in economics: a nonextensive statistical
+  approach",9.72785936069951e-06,9.048773108722806e-06,8.0,2.0
+cond-mat/0403469,On non-markovian nature of stock trading,9.177813998616086e-06,0.0,10.0,1.0
+physics/0701158,"Market Mill Dependence Pattern in the Stock Market: Modeling of
+  Predictability and Asymmetry via Multi-Component Conditional Distribution",9.028313784350022e-06,0.0,5.0,0.0
+physics/0609209,Boltzmann Distribution and Temperature of Stock Markets,8.877301494910126e-06,0.0,3.0,0.0
+physics/0701156,Structurally dynamic spin market networks,8.85090144726908e-06,0.0,2.0,0.0
+cond-mat/0402389,An analysis of Cross-correlations in South African Market data,8.576389794101851e-06,0.0,9.0,0.0
+cond-mat/0403624,"On anomalous distributions in intra-day financial time series and
+  Non-extensive Statistical Mechanics",8.283595128720137e-06,0.0,2.0,0.0
+physics/0305089,"Empirical Distributions of Log-Returns: between the Stretched
+  Exponential and the Power Law?",8.186970730309757e-06,0.0,9.0,4.0
+cond-mat/0111257,"Power law relaxation in a complex system: Omori law after a financial
+  market crash",7.880966336530496e-06,0.0001098406512514,2.0,4.0
+cond-mat/0007385,Scaling and Multi-scaling in Financial Markets,7.538513450361774e-06,2.9704220226269734e-08,8.0,1.0
+cond-mat/0309404,"Langevin processes, agent models and socio-economic systems",7.322811490226784e-06,1.990182755160072e-06,7.0,1.0
+cond-mat/0312357,"Effects of Randomness on Power Law Tails in Multiplicatively Interacting
+  Stochastic Processes",7.036787139190186e-06,0.0,2.0,0.0
+cond-mat/0102423,"Power Laws of Wealth, Market Order Volumes and Market Returns",6.89343501795801e-06,5.1982385395972036e-08,7.0,4.0
+physics/0506098,"Stock mechanics: predicting recession in S&P500, DJIA, and NASDAQ",6.850656904011768e-06,0.0,9.0,0.0
+physics/0702003,"Waiting time analysis of foreign currency exchange rates: Beyond the
+  renewal-reward theorem",6.831537142986348e-06,0.0,5.0,0.0
+cond-mat/0311103,Time scales involved in market emergence,6.7095350728342165e-06,0.0,1.0,0.0
+math/0703079,Least-Squares Prices of Games,6.614429212452857e-06,0.0,2.0,2.0
+cond-mat/0305475,Estimated Correlation Matrices and Portfolio Optimization,6.589448319716948e-06,1.4469831673620554e-06,5.0,3.0
+cond-mat/0301543,Critical Market Crashes,6.552831108727321e-06,1.1190622928341231e-06,8.0,1.0
+physics/0612059,Risk evaluation with enhaced covariance matrix,6.423806498012442e-06,0.0,5.0,0.0
+cond-mat/0108023,A Random Matrix Approach to Cross-Correlations in Financial Data,6.214884675239623e-06,0.0002471124075417,10.0,9.0
+physics/0508218,Waiting-time distribution for a stock-market index,6.092306510372159e-06,0.0,3.0,0.0
+cond-mat/0206577,A New Method to Estimate the Noise in Financial Correlation Matrices,6.08006394942481e-06,0.0002232535894256,8.0,2.0
+cond-mat/0303099,"Wavelet Correlation Coefficient of 'strongly correlated' financial time
+  series",6.060896361724061e-06,0.0,7.0,0.0
+cond-mat/0312560,Power law for the calm-time interval of price changes,5.979336069436741e-06,0.0,3.0,0.0
+physics/0608299,"Stochastic volatility of financial markets as the fluctuating rate of
+  trading: an empirical study",5.906975554218009e-06,1.990182755160072e-06,2.0,1.0
+physics/0610165,Non-Stationary Covariance Matrices And Noise,5.849033693207738e-06,0.0,4.0,0.0
+cond-mat/9808240,"Scaling Laws for the Market Microstructure of the Interdealer Broker
+  Markets",5.822641024316142e-06,0.0,13.0,11.0
+cond-mat/0501292,"The Dynamics of Financial Markets -- Mandelbrot's multifractal cascades,
+  and beyond",5.805149581249298e-06,8.970674508333458e-06,5.0,6.0
+cond-mat/0305004,The US 2000-2003 Market Descent: Clarifications,5.7540994067042125e-06,0.0,5.0,0.0
+cond-mat/9804111,Are Financial Crashes Predictable?,5.751161351402107e-06,0.0,6.0,4.0
+cond-mat/0411112,Components of multifractality in high-frequency stock returns,5.735015444302079e-06,0.0,3.0,0.0
+cond-mat/0406225,Properties of low variability periods in financial time series,5.633673021103656e-06,0.0,3.0,0.0
+cond-mat/0502337,"On the distribution of high-frequency stock market traded volume: a
+  dynamical scenario",5.617476133432654e-06,6.68344955091069e-08,3.0,2.0
+physics/0603012,The Process of price formation and the skewness of asset returns,5.610720987134145e-06,0.0,1.0,0.0
+nlin/0507037,"Forecasting non-stationary financial time series through genetic
+  algorithm",5.516608381742631e-06,0.0,2.0,1.0
+physics/0603103,"Market Mill Dependence Pattern in the Stock Market: Distribution
+  Geometry, Moments and Gaussization",5.48076346219653e-06,0.0,7.0,3.0
+physics/0507111,Financial Applications of Random Matrix Theory: Old Laces and New Pieces,5.4681757000812965e-06,9.149226621488856e-07,4.0,2.0
+physics/0606213,Self-organization of price fluctuation distribution in evolving markets,5.46088801725726e-06,0.0,4.0,0.0
+cond-mat/0010112,"""Slimming"" of power law tails by increasing market returns",5.437072252575069e-06,7.960731020640288e-06,4.0,2.0
+cond-mat/0205531,Non-Parametric Analyses of Log-Periodic Precursors to Financial Crashes,5.418835903907808e-06,1.155989237138997e-07,3.0,6.0
+cond-mat/0412526,A multi-time scale non-Gaussian model of stock returns,5.36530637568105e-06,2.1684080765176904e-06,2.0,3.0
+physics/0507073,"On a multi-timescale statistical feedback model for volatility
+  fluctuations",5.354340513947864e-06,1.4656705681551646e-05,4.0,7.0
+physics/0606164,Analysis of aggregated tick returns: evidence for anomalous diffusion,5.30918567877667e-06,0.0,3.0,0.0
+cond-mat/0304132,Causalities of the Taiwan Stock Market,5.295247239606113e-06,0.0,4.0,0.0
+physics/0506072,"On collective non-gaussian dependence patterns in high frequency
+  financial data",5.230085611911097e-06,0.0,7.0,4.0
+physics/0601222,A nonextensive approach to the dynamics of financial observables,5.216664122306096e-06,0.0,2.0,0.0
+cond-mat/0402573,"Exponential Weighting and Random-Matrix-Theory-Based Filtering of
+  Financial Covariance Matrices for Portfolio Optimization",5.215413371203818e-06,3.4284695950798792e-06,4.0,3.0
+cond-mat/0210509,Endogenous versus Exogenous Crashes in Financial Markets,5.159714829160085e-06,3.774515264152094e-05,5.0,17.0
+physics/0510058,"Scaling theory of temporal correlations and size dependent fluctuations
+  in the traded value of stocks",5.103556674732633e-06,3.980365510320144e-06,4.0,2.0
+physics/0510112,On statistical properties of traded volume in financial markets,5.0924746877928255e-06,1.970256174091616e-06,2.0,1.0
+physics/0607247,Risk measures with non-Gaussian fluctuations,5.082800963165829e-06,0.0,3.0,0.0
+physics/0609088,The Why of the Applicability of Statistical Physics to Economics,5.0148492531880494e-06,0.0,4.0,1.0
+cond-mat/0309416,On the origin of power law tails in price fluctuations,4.959224905694089e-06,0.0,4.0,3.0
+physics/0601098,"Market Mill Dependence Pattern in the Stock Market: Asymmetry Structure,
+  Nonlinear Correlations and Predictability",4.82265070529581e-06,0.0,7.0,4.0
+cond-mat/0207156,Dissecting financial markets: Sectors and states,4.803078015490473e-06,0.0,2.0,0.0
+cond-mat/0306608,"Alternation of different fluctuation regimes in the stock market
+  dynamics",4.71915184761749e-06,0.0,4.0,1.0
+cond-mat/0011088,"Fokker-Planck equation of distributions of financial returns and power
+  laws",4.647431400170003e-06,0.0,3.0,3.0
+cond-mat/0401360,Best linear forecast of volatility in financial time series,4.610144287456384e-06,0.0,5.0,0.0
+cond-mat/0109410,"Imitation and contrarian behavior: hyperbolic bubbles, crashes and chaos",4.502037128411548e-06,0.0,5.0,0.0
+cond-mat/0210513,A continuous time random walk model for financial distributions,4.417637547502711e-06,1.3218378000690005e-06,1.0,2.0
+cond-mat/0108017,Financial Market Dynamics,4.361387580091172e-06,0.0,4.0,8.0
+cond-mat/0312658,"Causal Slaving of the U.S. Treasury Bond Yield Antibubble by the Stock
+  Market Antibubble of August 2000",4.341687431207479e-06,0.0,3.0,0.0
+cond-mat/0307323,Another type of log-periodic oscillations on Polish stock market?,4.295140607104076e-06,0.0,4.0,2.0
+cond-mat/9903142,Critical Crashes?,4.206534334391468e-06,0.0,3.0,1.0
+cond-mat/0203046,"Probability distribution of returns in the Heston model with stochastic
+  volatility",4.152862996803988e-06,0.0,4.0,9.0
+physics/0512193,Limitations of scaling and universality in stock market data,4.129135605668807e-06,0.0,3.0,1.0
+physics/0511119,Dynamics of the return distribution in the Korean financial market,4.118792677180494e-06,0.0,3.0,0.0
+cond-mat/0212010,"Evidence of a Worldwide Stock Market Log-Periodic Anti-Bubble Since
+  Mid-2000",4.059707996508058e-06,1.9822616297664e-06,2.0,7.0
+cond-mat/0311627,"Can One Make Any Crash Prediction in Finance Using the Local Hurst
+  Exponent Idea?",4.040301055480448e-06,0.0,2.0,0.0
+physics/0503230,Self-fulfilling Ising Model of Financial Markets,4.038238775752466e-06,5.1982385395972036e-08,3.0,1.0
+cond-mat/0105076,Microscopic Models for Long Ranged Volatility Correlations,4.024793322002668e-06,3.984078537848427e-06,10.0,3.0
+physics/0504210,"What can we see from Investment Simulation based on Generalized
+  (m,2)-Zipf law?",4.007541128893831e-06,0.0,1.0,0.0
+cond-mat/0409375,A Theory of Fluctuations in Stock Prices,3.8993902691145846e-06,0.0,3.0,1.0
+cond-mat/0406704,"Stock markets are not what we think they are: the key roles of
+  cross-ownership and corporate treasury stock",3.871947154294337e-06,0.0,3.0,0.0
+cond-mat/0008026,"Power, Levy, Exponential and Gaussian Regimes in Autocatalytic Financial
+  Systems",3.85502057117074e-06,0.0,4.0,2.0
+physics/0603098,"Why do Hurst exponents of traded value increase as the logarithm of
+  company size?",3.8410830653912354e-06,0.0,2.0,1.0
+physics/0505079,"Fundamental Factors versus Herding in the 2000-2005 US Stock Market and
+  Prediction",3.814796179077803e-06,0.0,1.0,0.0
+cond-mat/0209065,The US 2000-2002 Market Descent: How Much Longer and Deeper?,3.802338243911348e-06,1.4951124180555766e-07,3.0,3.0
+physics/0503139,Non-trivial scaling of fluctuations in the trading activity of NYSE,3.800384485630076e-06,0.0,2.0,2.0
+cond-mat/0101371,"Multi-dimensional Rational Bubbles and fat tails: application of
+  stochastic regression equations to financial speculation",3.755545767456546e-06,0.0,2.0,0.0
+cond-mat/0102305,From Rational Bubbles to Crashes,3.755545767456546e-06,3.980365510320144e-06,2.0,2.0
+cond-mat/0005441,Algorithmic Complexity of Real Financial Markets,3.753301788886302e-06,0.0,7.0,0.0
+physics/0606161,"Liquidity and the multiscaling properties of the volume traded on the
+  stock market",3.709221612376583e-06,1.990182755160072e-06,4.0,2.0
+cond-mat/0006034,Correlation structure of extreme stock returns,3.695617009556856e-06,0.000216249486427,3.0,3.0
+physics/0602107,"The Exponent Expansion: An Effective Approximation of Transition
+  Probabilities of Diffusion Processes and Pricing Kernels of Financial
+  Derivatives",3.6672110930754415e-06,0.0,2.0,0.0
+math/0605457,Hybrid dynamics for currency modeling,3.62335329328243e-06,0.0,2.0,0.0
+cond-mat/0503607,"Importance of Positive Feedbacks and Over-confidence in a
+  Self-Fulfilling Ising Model of Financial Markets",3.598540842625248e-06,1.4852110113134864e-08,2.0,1.0
+cond-mat/0004263,"The Nasdaq crash of April 2000: Yet another example of log-periodicity
+  in a speculative bubble ending in a crash",3.58272515821347e-06,0.0,3.0,5.0
+cond-mat/0310092,"Testing the Stability of the 2000-2003 US Stock Market ""Antibubble""",3.562973157962909e-06,0.0,3.0,2.0
+cond-mat/0110273,Stochastic Multiplicative Processes for Financial Markets,3.4184257411701027e-06,0.0,2.0,0.0
+cond-mat/9901268,Financial ``Anti-Bubbles'': Log-Periodicity in Gold and Nikkei collapses,3.400616842527311e-06,0.0,4.0,5.0
+cond-mat/0403177,Removing noise from correlations in multivariate stock price data,3.3811560354403764e-06,0.0,4.0,0.0
+cond-mat/0412723,Modelling financial markets by the multiplicative sequence of trades,3.348758391394161e-06,4.885753495776897e-07,5.0,4.0
+physics/0602097,"An elementary model of price dynamics in a financial market:
+  Distribution, Multiscaling & Entropy",3.300183903803593e-06,0.0,1.0,1.0
+cond-mat/0009401,"Empirical properties of the variety of a financial portfolio and the
+  single-index model",3.250133064967116e-06,0.0,3.0,0.0
+physics/0611048,Multiple time scales and the empirical models for stochastic volatility,3.210137481043816e-06,0.0,1.0,0.0
+cond-mat/0405646,Volatility smile and stochastic arbitrage returns,3.1181807224880305e-06,0.0,3.0,0.0
+cond-mat/0211108,Reconstructing an economic space from a market metric,3.1004653928335046e-06,0.0,2.0,0.0
+cond-mat/0408277,"Multifractality in the stock market: price increments versus waiting
+  times",2.9990091104356128e-06,1.990182755160072e-06,3.0,1.0
+physics/0702185,"Yet on statistical properties of traded volume: correlation and mutual
+  information at different value magnitudes",2.9843223074616733e-06,0.0,1.0,0.0
+cond-mat/0206047,Endogeneous Versus Exogeneous Shocks in Systems with Memory,2.9779215227772813e-06,0.0,4.0,2.0
+cond-mat/0403767,Multifractal model of asset returns with leverage effect,2.955339128536057e-06,3.147672038467689e-05,3.0,3.0
+physics/0505047,Analyzing money distributions in `ideal gas' models of markets,2.940290098553592e-06,0.0,5.0,0.0
+physics/0504158,Detecting subtle effects of persistence in the stock market dynamics,2.923024895913817e-06,0.0,1.0,0.0
+cond-mat/0110120,Ordered phase and non-equilibrium fluctuation in stock market,2.923024895913817e-06,0.0,1.0,0.0
+cond-mat/0204295,Predicting critical crashes? A new restriction for the free variables,2.9155135996707008e-06,0.0,4.0,1.0
+cond-mat/0301307,Nonextensive statistical mechanics and economics,2.8928011107265413e-06,6.442869050953456e-06,5.0,4.0
+cond-mat/0412014,Power Law Distributions for Stock Prices in Financial Markets,2.855213185875573e-06,0.0,3.0,0.0
+cond-mat/0405390,Zipf's Law Distributions for Korean Stock Prices,2.855213185875573e-06,0.0,3.0,0.0
+cond-mat/0408143,A Guided Walk Down Wall Street: an Introduction to Econophysics,2.8406403066079806e-06,0.0,2.0,0.0
+cond-mat/0212338,"Degree stability of a minimum spanning tree of price return and
+  volatility",2.8200698235160123e-06,0.0,3.0,0.0
+cond-mat/0402185,Common Underlying Dynamics in an Emerging Market: From Minutes to Months,2.815795643245286e-06,0.0,3.0,4.0
+cond-mat/9712005,Stock market crashes are outliers,2.809570795295814e-06,0.0,7.0,4.0
+cond-mat/0208528,Comparison of Field Theory Models of Interest Rates with Market Data,2.7974671785916763e-06,0.0,2.0,1.0
+cond-mat/0405172,Herd Behaviors in Financial Markets,2.759195672449716e-06,0.0,2.0,2.0
+physics/0503076,Systematic analysis of group identification in stock markets,2.759195672449716e-06,0.0,2.0,0.0
+physics/0601205,Level Crossing Analysis of the Stock Markets,2.759195672449716e-06,0.0,2.0,0.0
+physics/0605115,Asymmetric matrices in an analysis of financial correlations,2.727903758705974e-06,0.0,1.0,0.0
+cond-mat/0208574,"Statistical properties of the Jakarta and Kuala Lumpur stock exchange
+  indices before and after crash",2.7015851643942016e-06,0.0,2.0,0.0
+cond-mat/0311089,Fearless versus Fearful Speculative Financial Bubbles,2.697084014042981e-06,0.0,1.0,0.0
+physics/0607250,On the maximum drawdown during speculative bubbles,2.6774044099453106e-06,0.0,2.0,0.0
+cond-mat/0510154,Role of Noise in a Market Model with Stochastic Volatility,2.668592233077577e-06,0.0,2.0,0.0
+physics/0702106,"Emergence of time-horizon invariant correlation structure in financial
+  returns by subtraction of the market mode",2.661493930257285e-06,0.0,1.0,0.0
+cond-mat/0103397,"Measures of globalization based on cross-correlations of world financial
+  indices",2.642309260752744e-06,8.696327442246313e-09,3.0,1.0
+physics/0502119,"Additive-multiplicative stochastic models of financial mean-reverting
+  processes",2.6399404929002595e-06,3.9224762970817565e-06,3.0,1.0
+cond-mat/0209685,Dynamics of a financial market index after a crash,2.6289266828598087e-06,0.0,1.0,1.0
+cond-mat/0204626,Volatility fingerprints of large shocks: Endogeneous versus exogeneous,2.6289266828598087e-06,0.0001038701029859,1.0,9.0
+physics/0605251,"Correlation based networks of equity returns sampled at different time
+  horizons",2.6170118159972782e-06,1.990182755160072e-06,2.0,2.0
+cond-mat/0106520,Significance of log-periodic precursors to financial crashes,2.6006992208088835e-06,7.4260550565674335e-09,3.0,2.0
+cond-mat/0109026,Asset-asset interactions and clustering in financial markets,2.600252207526908e-06,0.0,1.0,0.0
+cond-mat/0110124,Nucleation of Market Shocks in Sornette-Ide model,2.595305797955476e-06,0.0,3.0,1.0
+cond-mat/0502151,"On the connection between financial processes with stochastic volatility
+  and nonextensive statistical mechanics",2.5838854745525314e-06,0.0,4.0,1.0
+physics/0607282,Minimum Entropy Density Method for the Time Series Analysis,2.5831994830851163e-06,0.0,1.0,0.0
+cond-mat/0308012,Multifractal Properties of Price Fluctuations of Stocks and Commodities,2.5657627515214103e-06,0.0,2.0,1.0
+cond-mat/0406696,Short-term market reaction after extreme price changes of liquid stocks,2.564434171811609e-06,7.960731020640288e-06,2.0,2.0
+cond-mat/0003025,Statistical characterization of the fixed income market efficiency,2.5252170220945565e-06,0.0,3.0,2.0
+cond-mat/0401300,Networks of equities in financial markets,2.5224558222994147e-06,0.0,1.0,2.0
+cond-mat/0104369,Levels of complexity in financial markets,2.5224558222994147e-06,0.0,1.0,1.0
+physics/0703180,"A Closed-Form Approximation of Likelihood Functions for Discretely
+  Sampled Diffusions: the Exponent Expansion",2.515000931965156e-06,0.0,1.0,0.0
+physics/0507006,Cluster analysis for portfolio optimization,2.49927668110523e-06,7.97187010322514e-06,1.0,4.0
+cond-mat/9709141,From turbulence to financial time series,2.489960191279502e-06,0.0,6.0,1.0
+physics/0609053,"Random matrix ensembles of time-lagged correlation matrices: Derivation
+  of eigenvalue spectra and analysis of financial time-series",2.4879718183337096e-06,0.0,2.0,0.0
+physics/0609046,Fear and its implications for stock markets,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0502084,Statistical Properties of Demand Fluctuation in the Financial Market,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0304451,Herd Behaviors in the Stock and Foreign Exchange Markets,2.4711431321721443e-06,0.0,1.0,1.0
+physics/0608016,Market Efficiency in Foreign Exchange Markets,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0601002,Optimal Investment Horizons for Stocks and Markets,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0110201,Stability of money: Phase transitions in an Ising economy,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0701008,"Fluctuations in time intervals of financial data from the view point of
+  the Gini index",2.4711431321721443e-06,0.0,2.0,1.0
+cond-mat/0203166,Investigating Extreme Dependences: Concepts and Tools,2.4711431321721443e-06,0.0,1.0,3.0
+physics/0701110,On the origin of the Epps effect,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0611281,"Forecasting extreme events in collective dynamics: an analytic signal
+  approach to detecting discrete scale invariance",2.4711431321721443e-06,0.0,1.0,0.0
+math/0610621,"Identifying the covariation between the diffusion parts and the co-jumps
+  given discrete observations",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0602052,Roughness and Finite Size Effect in the NYSE Stock-Price Fluctuations,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0503156,Simulations of financial markets in a Potts-like model,2.4711431321721443e-06,0.0,1.0,2.0
+physics/0701302,Power Law in Firms Bankruptcy,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0702029,Correlation of coming limit price with order book in stock markets,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0101001,A simple model of price formation,2.4711431321721443e-06,0.0,1.0,2.0
+cond-mat/9905305,Scaling of the distribution of fluctuations of financial market indices,2.4070317911376333e-06,0.0,4.0,11.0
+physics/0511129,Description of dynamics of stock prices by a Langevin approach,2.349234127848281e-06,0.0,1.0,0.0
+physics/0503242,Application of noise level estimation for portfolio optimization,2.3469198153586743e-06,0.0,1.0,0.0
+physics/0601171,Scale-free avalanche dynamics in the stock market,2.3259364393314887e-06,2.473868169791898e-07,1.0,1.0
+physics/0507020,"Volatility, Persistence, and Survival in Financial Markets",2.2960610328299915e-06,0.0,2.0,0.0
+cond-mat/0306605,Risk aversion in financial decisions: A nonextensive approach,2.2795361450131744e-06,0.0,1.0,0.0
+physics/0509250,"An econophysics approach to analyse uncertainty in financial markets: an
+  application to the Portuguese stock market",2.277620668864533e-06,0.0,2.0,0.0
+cond-mat/0312496,Signal and Noise in Financial Correlation Matrices,2.24233146314582e-06,6.375581505068922e-07,2.0,3.0
+physics/0701179,The market efficiency in the stock markets,2.2324665403864744e-06,0.0,1.0,0.0
+cond-mat/9909439,"Market Fluctuations: multiplicative and percolation models, size effects
+  and predictions",2.228574980343099e-06,0.0002179562076593,5.0,10.0
+cond-mat/0006065,Variety and Volatility in Financial Markets,2.206429169599337e-06,0.0,3.0,3.0
+cond-mat/9901035,Critical Crashes,2.202058282434353e-06,0.0,2.0,4.0
+cond-mat/9912076,A model for correlations in stock markets,2.189165721318842e-06,0.0,4.0,2.0
+cond-mat/0312568,Superstatistics in Econophysics,2.142057915486018e-06,0.0,2.0,5.0
+cond-mat/9802234,The sharp peak-flat trough pattern and critical speculation,2.1161342300950843e-06,0.0,4.0,1.0
+cond-mat/0301268,"Deterministic and stochastic influences on Japan and US stock and
+  foreign exchange markets. A Fokker-Planck approach",2.1092781905709486e-06,0.0,2.0,2.0
+cond-mat/0102402,Quantifying dynamics of the financial correlations,2.1056159906246584e-06,4.057604289139982e-06,3.0,5.0
+cond-mat/0410079,"Experts' earning forecasts: bias, herding and gossamer information",2.0721425709842646e-06,0.0,1.0,0.0
+physics/0608201,Hitting Time Distributions in Financial Markets,2.072080190562851e-06,0.0,1.0,0.0
+physics/0203006,Quantum Finance,2.0596395032041853e-06,0.0,2.0,1.0
+physics/0509014,Transfer Entropy Analysis of the Stock Market,2.0456653061975597e-06,0.0,1.0,0.0
+physics/0606041,Correlation matrix decomposition of WIG20 intraday fluctuations,2.0456653061975597e-06,0.0,1.0,0.0
+cond-mat/0210115,"Collective Origin of the Coexistence of Apparent RMT Noise and Factors
+  in Large Sample Correlation Matrices",2.00800849255242e-06,0.0,1.0,4.0
+physics/0502150,"A Multifractal Detrended Fluctuation Description of Iranian Rial-US
+  Dollar Exchange Rate",1.9910555650428585e-06,0.0,2.0,0.0
+cond-mat/0111503,Noisy Covariance Matrices and Portfolio Optimization,1.989179046707956e-06,0.0,1.0,2.0
+physics/0007075,Optimization of Trading Physics Models of Markets,1.955466569203392e-06,0.0,1.0,0.0
+cond-mat/0612077,Mean Escape Time in a System with Stochastic Volatility,1.9515232720847105e-06,0.0,1.0,0.0
+physics/0507054,Scaling and data collapse for the mean exit time of asset prices,1.9515232720847105e-06,0.0,1.0,0.0
+math/0503314,"A note on exact likelihoods of the Carr-Wu models for leverage effects
+  and volatility in financial economics",1.9515232720847105e-06,0.0,1.0,0.0
+physics/0701017,"Quantifying bid-ask spreads in the Chinese stock market using
+  limit-order book data: Intraday pattern, probability distribution, long
+  memory, and multifractal nature",1.9489168663122257e-06,0.0,1.0,1.0
+cond-mat/0401225,"Exponential distribution of financial returns at mesoscopic time lags: a
+  new stylized fact",1.9385956717733915e-06,0.0,1.0,2.0
+cond-mat/0501639,"Multiple time scales and the exponential Ornstein-Uhlenbeck stochastic
+  volatility model",1.9385956717733915e-06,0.0,1.0,1.0
+cond-mat/0402654,"Value-at-Risk and Tsallis statistics: risk analysis of the aerospace
+  sector",1.938389985138481e-06,0.0,2.0,0.0
+cond-mat/9902283,"Universal and non-universal properties of cross-correlations in
+  financial time series",1.922229931295482e-06,0.0,4.0,5.0
+physics/0605149,Optimal approximations of power-laws with exponentials,1.9154450135765847e-06,0.0,1.0,0.0
+cond-mat/9903334,Clustering of volatility as a multiscale phenomenon,1.9014951777690245e-06,0.0,2.0,4.0
+cond-mat/9901225,Efficiency in foreign exchange markets,1.8950380516170012e-06,0.0,1.0,4.0
+cond-mat/0004001,"Stock Market Speculation: Spontaneous Symmetry Breaking of Economic
+  Valuation",1.8950380516170012e-06,0.0,2.0,1.0
+cond-mat/0302095,"Multiple time scales in volatility and leverage correlations: An
+  stochastic volatility model",1.8950380516170012e-06,0.0,1.0,5.0
+physics/0205053,A Quantum Approach to Stock Price Fluctuations,1.8950380516170012e-06,0.0,1.0,1.0
+physics/0603139,"Statistical properties of absolute log-returns and a stochastic model of
+  stock markets with heterogeneous agents",1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/0011149,Hamiltonian in Financial Markets,1.8950380516170012e-06,0.0,1.0,1.0
+cond-mat/0501513,Self-Similar Log-Periodic Structures in Western Stock Markets from 2000,1.8950380516170012e-06,0.0,1.0,1.0
+cond-mat/0508451,Eigenvalue density of empirical covariance matrix for correlated samples,1.8950380516170012e-06,0.0,1.0,1.0
+physics/0603036,"Moody's Correlated Binomial Default Distributions for Inhomogeneous
+  Portfolios",1.8950380516170012e-06,0.0,1.0,3.0
+physics/0603040,Evaluation of Tranche in Securitization and Long-range Ising Model,1.8950380516170012e-06,0.0,1.0,1.0
+cond-mat/0209103,Kinematics of stock prices,1.8950380516170012e-06,0.0,1.0,2.0
+cond-mat/9907421,Minimal Variance Hedging of Options with Student-t Underlying,1.8950380516170012e-06,0.0,1.0,0.0
+physics/0606012,Econophysics of Stock and Foreign Currency Exchange Markets,1.8921121996013688e-06,0.0,1.0,0.0
+physics/0609093,"Correlation Structures of Correlated Binomial Models and Implied Default
+  Distribution",1.8536302793458448e-06,0.0,1.0,1.0
+physics/0612221,"Characterizing and modeling cyclic behavior in non-stationary time
+  series through multi-resolution analysis",1.8416565862532e-06,0.0,1.0,0.0
+physics/0505115,Money Exchange Model and a general Outlook,1.823848366775554e-06,0.0,2.0,2.0
+cond-mat/0010455,Statistical physics of adaptive correlation of agents in a market,1.795264052201197e-06,0.0,3.0,2.0
+cond-mat/0312489,"Activity autocorrelation in financial markets. A comparative study
+  between several models",1.783777626171036e-06,0.0,2.0,1.0
+physics/0603076,"Living in an Irrational Society: Wealth Distribution with Correlations
+  between Risk and Expected Profits",1.74141003013563e-06,0.0,2.0,0.0
+cond-mat/9903144,Markovian approximation in foreign exchange markets,1.719955952274848e-06,0.0,1.0,1.0
+physics/0509090,Effects of the globalization in the Korean financial markets,1.703003024765287e-06,0.0,1.0,1.0
+physics/0607014,Inverse cubic law of index fluctuation distribution in Indian markets,1.703003024765287e-06,0.0,1.0,1.0
+physics/0504009,Characteristics of the Korean stock market correlations,1.703003024765287e-06,0.0,1.0,2.0
+physics/0603071,"Nonextensive statistical features of the Polish stock market
+  fluctuations",1.703003024765287e-06,0.0,1.0,2.0
+physics/0612068,"Topological Properties of the Minimal Spanning Tree in Korean and
+  American Stock Markets",1.703003024765287e-06,0.0,1.0,0.0
+cond-mat/9907217,"Have your cake and eat it too: increasing returns while lowering large
+  risks!",1.703003024765287e-06,0.0,1.0,2.0
+physics/0505074,The bulk of the stock market correlation matrix is not pure noise,1.703003024765287e-06,0.0,1.0,0.0
+cond-mat/0401009,Modeling stylized facts for financial time series,1.703003024765287e-06,0.0,1.0,2.0
+physics/0412067,Application of Multifractal Measures to Tehran Price Index,1.6974643593225347e-06,0.0,2.0,0.0
+nlin/0601074,Difference in nature of correlation between NASDAQ and BSE indices,1.6822991386297089e-06,0.0,1.0,3.0
+cond-mat/0108068,Decomposing the stock market intraday dynamics,1.682134126494172e-06,0.0,1.0,0.0
+cond-mat/9906343,Indeterminacy in foreign exchange market,1.671053145546967e-06,0.0,1.0,0.0
+physics/0508164,Correlation Networks Among Currencies,1.6678596624057268e-06,1.990182755160072e-06,1.0,1.0
+cond-mat/9705087,Scaling in stock market data: stable laws and beyond,1.6591238874411007e-06,0.0,3.0,12.0
+cond-mat/0312121,A comparison between several correlated stochastic volatility models,1.6397513560322505e-06,0.0,1.0,2.0
+cond-mat/0106317,Empirical investigation of a quantum field theory of forward rates,1.638006554138553e-06,0.0,2.0,2.0
+physics/0701171,"A case study of speculative financial bubbles in the South African stock
+  market 2003-2006",1.6321193364524709e-06,0.0,1.0,0.0
+cond-mat/0304601,Predictability of large future changes in major financial indices,1.6321193364524709e-06,1.990182755160072e-06,1.0,7.0
+cond-mat/9903369,The statistical properties of the volatility of price fluctuations,1.6282994825591605e-06,0.0,2.0,4.0
+cond-mat/9708143,Volatility distribution in the S&P500 Stock Index,1.609027793479784e-06,0.0,2.0,6.0
+cond-mat/0311053,The long memory of the efficient market,1.6088304359027522e-06,1.990182755160072e-06,1.0,6.0
+cond-mat/0407418,Scaling Properites of Price Changes for Korean Stock Indices,1.60698551133943e-06,0.0,1.0,1.0
+cond-mat/0405173,Multifractal Measures for the Yen-Dollar Exchange Rate,1.60698551133943e-06,0.0,1.0,0.0
+cond-mat/0402591,Inverse Statistics in the Foreign Exchange Market,1.60698551133943e-06,0.0,1.0,0.0
+physics/0508156,Size matters: some stylized facts of the stock market revisited,1.60698551133943e-06,0.0,1.0,7.0
+nlin/0412038,Multifractal Behavior of the Korean Stock-market Index KOSPI,1.60698551133943e-06,0.0,1.0,2.0
+physics/0510047,"Time series of stock price and of two fractal overlap: Anticipating
+  market crashes?",1.60698551133943e-06,0.0,1.0,0.0
+physics/0506224,"Impact of Investor's Varying Risk Aversion on the Dynamics of Asset
+  Price Fluctuations",1.60698551133943e-06,0.0,1.0,0.0
+cond-mat/0501325,Scaling analysis of multivariate intermittent time series,1.5493750032839157e-06,0.0,1.0,0.0
+physics/0506101,"Underlying Dynamics of Typical Fluctuations of an Emerging Market Price
+  Index: The Heston Model from Minutes to Months",1.5493750032839157e-06,0.0,1.0,0.0
+cond-mat/0002438,"Symmetry alteration of ensemble return distribution in crash and rally
+  days of financial markets",1.5493750032839157e-06,0.0,1.0,3.0
+cond-mat/9705075,Scaling and correlation in financial data,1.5301033142045391e-06,0.0,1.0,17.0
+cond-mat/9907161,"Scaling of the distribution of price fluctuations of individual
+  companies",1.5247906058871483e-06,0.0,1.0,7.0
+physics/0512090,Large dimension forecasting models and random singular value spectra,1.5205248911918096e-06,6.805301228309473e-09,1.0,2.0
+cond-mat/0311372,Stochastic Cellular Automata Model for Stock Market Dynamics,1.5158354458553522e-06,0.0,1.0,0.0
+physics/0608018,The dynamics of traded value revisited,1.5158116914877331e-06,0.0,1.0,1.0
+cond-mat/9801209,"Rational Decisions, Random Matrices and Spin Glasses",1.5109679979135728e-06,0.0,1.0,2.0
+cond-mat/0101143,"Liquid markets and market liquids: collective and single-asset dynamics
+  in financial markets",1.4835344226490424e-06,0.0,1.0,1.0
+cond-mat/0009260,A multivariate multifractal model for return fluctuations,1.4835344226490424e-06,0.0,1.0,0.0
+math/0503055,"Analysis of a Class of Likelihood Based Continuous Time Stochastic
+  Volatility Models including Ornstein-Uhlenbeck Models in Financial Economics",1.4629592412006444e-06,0.0,1.0,2.0
+nlin/0402012,Analysis of Data Clusters Obtained by Self-Organizing Methods,1.4629592412006444e-06,0.0,1.0,0.0
+cond-mat/0501261,Five Years of Continuous-time Random Walks in Econophysics,1.4629592412006444e-06,0.0,1.0,2.0
+cond-mat/0008113,Statistical Properties of Share Volume Traded in Financial Markets,1.4500731245571247e-06,0.0,1.0,3.0
+cond-mat/0011145,Identifying Business Sectors from Stock Price Fluctuations,1.4344379735839949e-06,0.0,1.0,7.0
+cond-mat/0004179,A Stochastic Cascade Model for FX Dynamics,1.4272515372002773e-06,0.0,1.0,2.0
+nlin/0107057,On multifractality and fractional derivatives,1.4270940493683312e-06,0.0,1.0,0.0
+cond-mat/0401443,An interest rates cluster analysis,1.407564521916496e-06,0.0,1.0,1.0
+physics/0511101,"Scaling and memory of intraday volatility return intervals in stock
+  market",1.3978574503371032e-06,0.0,1.0,0.0
+physics/0611093,"Are volatility correlations in financial markets related to Omori
+  processes occurring on all scales?",1.3978574503371032e-06,0.0,1.0,0.0
+cond-mat/9712318,Herd behavior and aggregate fluctuations in financial markets,1.3978574503371032e-06,0.0,1.0,37.0
+cond-mat/9803374,"Inverse Cubic Law for the Probability Distribution of Stock Price
+  Variations",1.3978574503371032e-06,0.0,1.0,1.0
+cond-mat/0007267,Modelling High-frequency Economic Time Series,1.3690290650231757e-06,0.0,1.0,1.0
+cond-mat/9708012,"Causal cascade in the stock market from the ``infrared'' to the
+  ``ultraviolet''",1.3690290650231757e-06,0.0,1.0,11.0
+physics/0509257,Small scale behavior of financial data,1.3690290650231757e-06,0.0,1.0,0.0
+cond-mat/0102494,Markov properties of high frequency exchange rate data,1.3521148086954738e-06,0.0,1.0,2.0
+cond-mat/0006145,The first 20 minutes in the Hong Kong stock market,1.3521148086954738e-06,0.0,1.0,1.0
+cond-mat/9912051,Economic Fluctuations and Diffusion,1.3521148086954738e-06,0.0,1.0,9.0
+cond-mat/0406310,Volatility of Linear and Nonlinear Time Series,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0312643,Random Matrix Theory Analysis of Cross Correlations in Financial Markets,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0603147,"Statistical properties of daily ensemble variables in the Chinese stock
+  markets",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0208464,Long-Time Fluctuations in a Dynamical Model of Stock Market Indices,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0001293,Domino effect for world market fluctuations,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0303568,"Fitting the Power-law Distribution to the Mexican Stock Market index
+  data",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0211162,"Analysis of high-resolution foreign exchange data of USD-JPY for 13
+  years",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0606057,Aging in Financial Market,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0401181,Bridging the ARCH model for finance and nonextensive entropy,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0104318,Market price simulator based on analog electrical circuit,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0401210,Origin of Crashes in 3 US stock markets: Shocks and Bubbles,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0608115,Analysis of price diffusion in financial markets using PUCK model,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0407471,Price Clustering and Discreteness: Is there Chaos behind the Noise?,1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/0208240,Are the contemporary financial fluctuations sooner converging to normal?,1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/0009350,High-frequency Cross-correlation in a Set of Stocks,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0412411,"Detecting a Currency's Dominance or Dependence using Foreign Exchange
+  Network Trees",1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/9810232,"Multiscale behaviour of volatility autocorrelations in a financial
+  market",1.3189329710618589e-06,0.0,0.0,5.0
+cond-mat/9911168,"Dynamics of competition between collectivity and noise in the stock
+  market",1.3189329710618589e-06,0.0,0.0,7.0
+cond-mat/9711008,Statistical Analysis of the Stock Index of the Budapest Stock Exchange,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0606020,Complexity characteristics of currency networks,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0607202,Stock price fluctuations and the mimetic behaviors of traders,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0410225,Inverse statistics in stock markets: Universality and idiosyncracy,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0511091,Inverse Statistics for Stocks and Markets,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0303306,Time-scale dependence of correlations among foreign currencies,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0001324,"Increments of Uncorrelated Time Series Can Be Predicted With a Universal
+  75% Probability of Success",1.3189329710618589e-06,0.0,0.0,1.0
+math/0509232,Properties of option prices in models with jumps,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0601174,"Long-term Memory and Volatility Clustering in Daily and High-frequency
+  Price Changes",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0009287,Money and Goldstone modes,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9803059,Fixed Points in Self-Similar Analysis of Time Series,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0401445,On pricing of interest rate derivatives,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0404416,"Serial Correlation, Periodicity and Scaling of Eigenmodes in an Emerging
+  Market",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0605247,"The Power (Law) of Indian Markets: Analysing NSE and BSE trading
+  statistics",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0302470,Scaling behavior in land markets,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0504187,"Accounting for outliers and calendar effects in surrogate simulations of
+  stock return sequences",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0607268,Mean Exit Time and Survival Probability within the CTRW Formalism,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0107256,Ensemble properties of securities traded in the NASDAQ market,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9910433,"Systems with Correlations in the Variance: Generating Power-Law Tails in
+  Probability Distributions",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9903221,Volatility in the Italian Stock Market: an Empirical Study,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0401503,A perturbative moment approach to option pricing,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0510007,There's more to volatility than volume,1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/0203256,"Time dependent cross correlations between different stock returns: A
+  directed network of influence",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0001268,Taxonomy of Stock Market Indices,1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/9903203,"""Nonlinear"" covariance matrix and portfolio theory for non-Gaussian
+  multivariate distributions",1.3189329710618589e-06,0.0,0.0,3.0
+physics/0509235,Random Matrix Filtering in Portfolio Optimization,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0112271,Identifying Complexity by Means of Matrices,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0512240,On the multi-fractal structure of traded volume in financial markets,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0603061,The Power-law Tail Exponent of Income Distributions,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0606005,"On the gap between an empirical distribution and an exponential
+  distribution of waiting times for price changes in a financial market",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9706021,Correlations in Economic Time Series,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0606040,Queueing theoretical analysis of foreign currency exchange rates,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0604137,Synchronization Model for Stock Market Asymmetry,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0407769,How the trading activity scales with the company sizes in the FTSE 100,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9710336,Renormalization Group Analysis of October Market Crashes,1.3189329710618589e-06,0.0,0.0,4.0
+physics/0503157,"Conditional Probability as a Measure of Volatility Clustering in
+  Financial Time Series",1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/0001120,Fractional calculus and continuous-time finance,1.3189329710618589e-06,0.0,0.0,4.0
+physics/0601126,"Statistical Properties of the Returns of Stock Prices of International
+  Markets",1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/0201514,Modelling share volume traded in financial markets,1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/0011488,"Towards identifying the world stock market cross-correlations: DAX
+  versus Dow Jones",1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/0308013,Scale-Dependent Price Fluctuations for the Indian Stock Market,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0202028,Non-L\'evy Distribution of Commodity Price Fluctuations,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9912006,Dynamics of the Number of Trades of Financial Securities,1.3189329710618589e-06,0.0,0.0,7.0
+cond-mat/0112484,The origin of fat tailed distributions in financial time series,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0210090,"Dynamical model of financial markets: fluctuating `temperature' causes
+  intermittent behavior of price changes",1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/9804126,"Modeling of Financial Data: Comparison of the Truncated L\'evy Flight
+  and the ARCH(1) and GARCH(1,1) processes",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0304143,Herd Behavior of Returns in the Futures Exchange Market,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0408409,"Multiscaling and non-universality in fluctuations of driven complex
+  systems",1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/0403681,"Long term memories of developed and emerging markets: using the scaling
+  analysis to characterize their stage of development",1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/9910141,On Rational Bubbles and Fat Tails,1.3189329710618589e-06,0.0,0.0,6.0
+cond-mat/0305270,Multifractal Features in the Foreign Exchange and Stock Markets,1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/0401140,Inflation and deflation in stock markets,1.3189329710618589e-06,0.0,0.0,2.0
+math/0302243,Static Arbitrage Bounds on Basket Option Prices,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0111310,Testing the Gaussian Copula Hypothesis for Financial Assets Dependences,1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/0202203,Stochastic volatility and leverage effect,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9811292,Minimizing volatility increases large risks,1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/9909302,Statistical Properties of Statistical Ensembles of Stock Returns,1.3189329710618589e-06,0.0,0.0,5.0
+cond-mat/0405257,Self-Organized Criticality and Stock Market Dynamics: an Empirical Study,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0401055,Large price changes on small scales,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0508203,Impact of Stock Market Structure on Intertrade Time and Price Dynamics,1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/9905169,"Scaling transformation and probability distributions for financial time
+  series",1.3189329710618589e-06,0.0,0.0,7.0
+cond-mat/9802256,Hierarchical Structure in Financial Markets,1.3189329710618589e-06,0.0,0.0,8.0
+cond-mat/9712164,Phenomenology of the Interest Rate Curve,1.3189329710618589e-06,0.0,0.0,13.0
+cond-mat/0202527,Volatility in Financial Markets: Stochastic Models and Empirical Results,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0308017,"The CTRW in finance: Direct and inverse problems with some
+  generalizations and extensions",1.3189329710618589e-06,0.0,0.0,8.0
+cond-mat/0001117,"On the Consistency of the Deterministic Local Volatility Function Model
+  ('implied tree')",,,,
+cond-mat/0003357,A dynamical model describing stock market price distributions,,,,
+cond-mat/0010190,"Fluctuations Of WIG-the index of Warsaw Stock Exchange. Preliminary
+  studies",,,,
+cond-mat/0011295,Microstructure Effects on Daily Return Volatility in Financial Markets,,,,
+cond-mat/0101175,Coarse-graining and Self-similarity of Price Fluctuations,,,,
+cond-mat/0102042,To sell or not to sell? Behavior of shareholders during price collapses,,,,
+cond-mat/0102369,Multifractal fluctuations in finance,,,,
+cond-mat/0103033,"False EUR exchange rates vs. DKK, CHF, JPY and USD. What is a strong
+  currency?",,,,
+cond-mat/0104260,"Correlations Between Reconstructed EUR Exchange Rates vs. CHF, DKK, GBP,
+  JPY and USD",,,,
+cond-mat/0104313,"Derivation of ARCH(1) process from market price changes based on
+  deterministic microscopic multi-agent",,,,
+cond-mat/0104362,"Variety of Stock Returns in Normal and Extreme Market Days: The August
+  1998 Crisis",,,,
+cond-mat/0105162,Heterogeneous volatility cascade in financial markets,,,,
+cond-mat/0107593,Correlation Structure and Fat Tails in Finance: a New Mechanism,,,,
+cond-mat/0108033,"Measuring Anti-Correlations in the Nordic Electricity Spot Market by
+  Wavelets",,,,
+cond-mat/0108452,Scaling in the Bombay Stock Exchange Index,,,,
+cond-mat/0110285,Self-similar approach to market analysis,,,,
+cond-mat/0111529,Return or stock price differences,,,,
+cond-mat/0201219,"Firms Growth Dynamics, Competition and Power Law Scaling",,,,
+cond-mat/0202352,Optimal Investment Horizons,,,,
+cond-mat/0205083,Market simulation with hierarchical information flux,,,,
+cond-mat/0205320,Cont-Bouchaud percolation model including Tobin tax,,,,
+cond-mat/0205482,Financial multifractality and its subtleties: an example of DAX,,,,
+cond-mat/0207227,Stock Market Scale by Artificial Insymmetrised Patterns,,,,
+cond-mat/0209446,Statistical Bounds on Equity,,,,
+cond-mat/0209591,Log-periodic self-similarity: an emerging financial law?,,,,
+cond-mat/0211039,Inverse Statistics in Economics : The gain-loss asymmetry,,,,
+cond-mat/0301068,"The average shape of a fluctuation: universality in excursions of
+  stochastic processes",,,,
+cond-mat/0302342,"Long-range correlations and nonstationarity in the Brazilian stock
+  market",,,,
+cond-mat/0302434,Using the Scaling Analysis to Characterize Financial Markets,,,,
+cond-mat/0302468,Scaling Law for the Distribution of Fluctuations of Share Volume,,,,
+cond-mat/0302507,Significance of log-periodic signatures in cumulative noise,,,,
+cond-mat/0307226,"Modelling and computer simulation of an insurance policy: A search for
+  maximum profit",,,,
+cond-mat/0311594,Ehrenfest Model with Large Jumps in Finance,,,,
+cond-mat/0311646,Motion in random fields - an application to stock market data,,,,
+cond-mat/0312404,A mechanism leading bubbles to crashes: the case of Japan's land markets,,,,
+cond-mat/0312406,Power law for ensembles of stock prices,,,,
+cond-mat/0312413,"Asymptotic behavior of the Daily Increment Distribution of the IPC, the
+  Mexican Stock Market Index",,,,
+cond-mat/0401329,Modelling Correlations in Portfolio Credit Risk,,,,
+cond-mat/0402511,Critical Ising Model and Financial Market,,,,
+cond-mat/0403662,Common Scaling Patterns in Intertrade Times of U. S. Stocks,,,,
+cond-mat/0404497,Clustering stock market companies via chaotic map synchronization,,,,
+cond-mat/0408166,"Non-parametric Determination of Real-Time Lag Structure between Two Time
+  Series: the ""Optimal Thermal Causal Path"" Method",,,,
+cond-mat/0410289,Statistical analysis of the price index of Tehran Stock Exchange,,,,
+cond-mat/0411161,"On fitting the Pareto-Levy distribution to stock market index data:
+  selecting a suitable cutoff value",,,,
+cond-mat/0412754,"Investment strategy due to the minimization of portfolio noise level by
+  observations of coarse-grained entropy",,,,
+cond-mat/0501699,Volatility conditional on price trends,,,,
+cond-mat/0508122,"Sector identification in a set of stock return time series traded at the
+  London Stock Exchange",,,,
+cond-mat/0605623,Statistical mechanics of combinatorial auctions,,,,
+cond-mat/0607478,"On the integrated behaviour of non-stationary volatility in stock
+  markets",,,,
+cond-mat/0610022,Detecting long and short memory via spectral methods,,,,
+cond-mat/0702607,Geometrical Brownian Motion Driven by Color Noise,,,,
+cond-mat/9710290,Resummation Methods for Analyzing Time Series,,,,
+cond-mat/9810092,Booms and Crashes in Self-Similar Markets,,,,
+cond-mat/9906381,Scale-invariant Truncated L\'evy Process,,,,
+cond-mat/9910213,Identifying the bottom line after a stock market crash,,,,
+math-ph/0607066,Analysis of Stochstic Evolution,,,,
+math/0310223,Consistent Estimation of Pricing Kernels from Noisy Price Data,,,,
+math/0406067,Short-term equity dynamics and endogenous market fluctuations,,,,
+math/0509503,"A filtering approach to tracking volatility from prices observed at
+  random times",,,,
+math/0511234,"Nonlinearity, correlation and the valuation of employee stock options",,,,
+math/0512181,"Accompanying document to ""Point Estimation with Exponentially Tilted
+  Empirical Likelihood""",,,,
+math/0602013,A data-reconstructed fractional volatility model,,,,
+math/0610219,"The minimal entropy martingale measure for general
+  Barndorff-Nielsen/Shephard models",,,,
+math/0611186,"The distribution of a linear predictor after model selection:
+  Unconditional finite-sample distributions and asymptotic approximations",,,,
+math/0611274,ANOVA for diffusions and It\^{o} processes,,,,
+math/0612212,"A filtering approach to tracking volatility from prices observed at
+  random times",,,,
+math/0702249,Continuous-time mean-variance efficiency: the 80% rule,,,,
+math/0702473,"Some applications and methods of large deviations in finance and
+  insurance",,,,
+math/0702812,"Estimation errors of the Sharpe ratio for long-memory stochastic
+  volatility models",,,,
+math/0702814,"Combining domain knowledge and statistical models in time series
+  analysis",,,,
+math/0702815,Multivariate volatility models,,,,
+math/0702849,"Asymptotic arbitrage and num\'eraire portfolios in large financial
+  markets",,,,
+math/0703022,Tails of random sums of a heavy-tailed number of light-tailed terms,,,,
+math/0703831,A Limit Theorem for Financial Markets with Inert Investors,,,,
+math/0703832,Queueing Theoretic Approaches to Financial Price Fluctuations,,,,
+math/0703834,"Estimating the Fractal Dimension of the S&P 500 Index using Wavelet
+  Analysis",,,,
+nlin/0511048,Persistence Probabilities of the German DAX and Shanghai Index,,,,
+physics/0112045,"Dynamics of market indices, Markov chains, and random walking problem",,,,
+physics/0301007,Finite-Time Singularity Signature of Hyperinflation,,,,
+physics/0308062,"Foreign exchange market fluctuations as random walk in demarcated
+  complex plane",,,,
+physics/0503006,"Prediction oriented variant of financial log-periodicity and speculating
+  about the stock market development until 2010",,,,
+physics/0503014,"What shakes the FX tree? Understanding currency dominance, dependence
+  and dynamics",,,,
+physics/0504014,Hausdorff clustering of financial time series,,,,
+physics/0504100,Time and foreign exchange markets,,,,
+physics/0504122,Leptokurtic Portfolio Theory,,,,
+physics/0505170,Recurrence analysis of the NASDAQ crash of April 2000,,,,
+physics/0506071,"Increasing market efficiency: Evolution of cross-correlations of stock
+  returns",,,,
+physics/0506103,"Boltzmann-Gibbs Distribution of Fortune and Broken Time-Reversible
+  Symmetry in Econodynamics",,,,
+physics/0508159,Dynamic instability in a phenomenological model of correlated assets,,,,
+physics/0509142,A characteristic time scale of tick quotes on foreign currency markets,,,,
+physics/0509256,Analysis of Binarized High Frequency Financial Data,,,,
+physics/0510028,Financial Markets and Persistence,,,,
+physics/0510055,A Precursor of Market Crashes,,,,
+physics/0511224,Grouping in the stock markets of Japan and Korea,,,,
+physics/0512169,Volatility of an Indian stock market : A random matrix approach,,,,
+physics/0512216,Dynamical Stochastic Processes of Returns in Financial Markets,,,,
+physics/0512225,Dynamical Structures of High-Frequency Financial Data,,,,
+physics/0601047,Non Poisson intermittent events in price formation,,,,
+physics/0601166,How many independent bets are there?,,,,
+physics/0603138,Power laws and market crashes,,,,
+physics/0603173,Power Laws and Gaussians for Stock Market Fluctuations,,,,
+physics/0605147,Multifractal Model of Asset Returns versus real stock market dynamics,,,,
+physics/0605179,"Microeconomic co-evolution model for financial technical analysis
+  signals",,,,
+physics/0605246,An Outlook on Correlations in Stock Prices,,,,
+physics/0606115,Long-range memory model of trading activity and volatility,,,,
+physics/0607076,"Trend arbitrage, bid-ask spread and market dynamics",,,,
+physics/0607101,Virtual volatility,,,,
+physics/0607167,"Non-extensive Behavior of a Stock Market Index at Microscopic Time
+  Scales",,,,
+physics/0607176,"Bayesian Analysis of the Conditional Correlation Between Stock Index
+  Returns with Multivariate SV Models",,,,
+physics/0607182,"Long-term memory in the Irish market (ISEQ): evidence from wavelet
+  analysis",,,,
+physics/0607192,"Evidence of Increment of Efficiency of the Mexican Stock Market Through
+  the Analysis of its Variations",,,,
+physics/0607222,Asymmetric Conditional Volatility in International Stock Markets,,,,
+physics/0607245,Long-range dependence in Interest Rates and Monetary Policy,,,,
+physics/0607246,Econophysics of interest rates and the role of monetary policy,,,,
+physics/0607273,"Frequency analysis of tick quotes on the foreign exchange market and
+  agent-based modeling: A spectral distance approach",,,,
+physics/0608004,"Critical dynamics and global persistence exponent on Taiwan financial
+  market",,,,
+physics/0608008,Extracting the exponential behaviors in the market data,,,,
+physics/0608009,Multifractal Properties of the Ukraine Stock Market,,,,
+physics/0608022,Violation of market efficiency in transition economies,,,,
+physics/0608036,"Modeling long-range memory trading activity by stochastic differential
+  equations",,,,
+physics/0608084,"Topology of Foreign Exchange Markets using Hierarchical Structure
+  Methods",,,,
+physics/0608099,"Characterization of foreign exchange market using the
+  threshold-dealer-model",,,,
+physics/0608214,Comparison of gain-loss asymmetry behavior for stocks and indexes,,,,
+physics/0608217,"Mixtures of compound Poisson processes as models of tick-by-tick
+  financial data",,,,
+physics/0608224,The art of fitting financial time series with Levy stable distributions,,,,
+physics/0608242,On the volatility of volatility,,,,
+physics/0608281,Coupled continuous time random walks in finance,,,,
+physics/0608313,Detrending Moving Average variance: a derivation of the scaling law,,,,
+physics/0609006,"Dynamics of the Warsaw Stock Exchange index as analysed by the
+  nonhomogeneous fractional relaxation equation",,,,
+physics/0609036,"Economic sector identification in a set of stocks traded at the New York
+  Stock Exchange: a comparative analysis",,,,
+physics/0609066,"Entropy of the Nordic electricity market: anomalous scaling, spikes, and
+  mean-reversion",,,,
+physics/0609136,Extreme times for volatility processes,,,,
+physics/0609198,"Nonstationary Increments, Scaling Distributions, and Variable Diffusion
+  Processes in Financial Markets",,,,
+physics/0609210,"Scale invariant multiplier and multifractality of absolute returns in
+  stock markets",,,,
+physics/0610023,Unexpected volatility and intraday serial correlation,,,,
+physics/0610047,Volatility and dividend risk in perpetual American options,,,,
+physics/0611102,Maximum Likelihood Estimation of Drift and Diffusion Functions,,,,
+physics/0611138,The continuous time random walk formalism in financial markets,,,,
+physics/0611159,Phase transition in the globalization of trade,,,,
+physics/0612084,Volatility: a hidden Markov process in financial time series,,,,
+physics/0701025,"Random, but not so much: A parameterization for the returns and
+  correlation matrix of financial time series",,,,
+physics/0701062,Long Term Economic Relationships From Cointegration Maps,,,,
+physics/0701189,Assessing symmetry of financial returns series,,,,
+physics/0703128,Fluctuation scaling versus gap scaling,,,,
+physics/0703208,"Statistical properties of short term price trends in high frequency
+  stock market data",,,,

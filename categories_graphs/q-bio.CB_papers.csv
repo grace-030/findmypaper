@@ -1,0 +1,215 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+q-bio/0509041,Sexual replication in the quasispecies model,6.71856670205093e-06,0.0,5.0,0.0
+q-bio/0512026,A hypothesis on the selective advantage for sleep,5.746353796014907e-06,0.0,1.0,0.0
+q-bio/0411019,A simple derivation of the Gompertz law for human mortality,4.504611069009671e-06,0.0,1.0,0.0
+q-bio/0703029,Hydrodynamic and rheology of active polar filaments,3.826788423397162e-06,0.0,1.0,0.0
+q-bio/0701002,The role of input noise in transcriptional regulation,3.805607658710576e-06,0.0,2.0,0.0
+q-bio/0609040,Aging and Immortality in a Cell Proliferation Model,3.62335329328243e-06,0.0,2.0,0.0
+q-bio/0512006,Transient pattern formation in a stochastic model of cancer growth,3.3749066596554898e-06,0.0,1.0,0.0
+q-bio/0401042,Mechanisms of pattern formation during T cell adhesion,3.3749066596554898e-06,0.0,1.0,0.0
+physics/0203045,The relation of morphology and affinity maturation in germinal centers,3.3749066596554898e-06,0.0,1.0,0.0
+q-bio/0501007,Pattern formation in a stochastic model of cancer growth,2.4711431321721443e-06,0.0,1.0,1.0
+q-bio/0411026,Geometry of Axoneme-like Filament Bundles,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0501001,Elasticities and stabilities: lipid membranes vs cell membranes,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0308529,Rheology of Active-Particle Suspensions,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0601009,"Adhesion between cells, diffusion of growth factors, and elasticity of
+  the AER produce the paddle shape of the chick limb",2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0505043,"Probing the Effects of the Well-mixed Assumption on Viral Infection
+  Dynamics",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0603142,"Brownian Motion after Einstein: Some new applications and new
+  experiments",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0308040,Application of Coarse Integration to Bacterial Chemotaxis,2.276508744003596e-06,0.0,3.0,3.0
+cond-mat/0510327,"Ion exchange phase transitions in ""doped"" water--filled channels",1.979109243009905e-06,0.0,2.0,0.0
+cond-mat/0505490,"Conductance of ion channels and nanopores with charged walls: a toy
+  model",1.979109243009905e-06,0.0,2.0,0.0
+q-bio/0507027,"Modeling the Role of the Cell Cycle in Regulating Proteus mirabilis
+  Swarm-Colony Development",1.8950380516170012e-06,0.0,1.0,0.0
+q-bio/0611063,Asexual and sexual replication in sporulating organisms,1.8950380516170012e-06,0.0,1.0,0.0
+math/0602139,"Global existence results for complex hyperbolic models of bacterial
+  chemotaxis",1.703003024765287e-06,0.0,1.0,0.0
+q-bio/0601048,Taxis Equations for Amoeboid Cells,1.703003024765287e-06,0.0,1.0,1.0
+cond-mat/0503027,"Transport in one dimensional Coulomb gases: From ion channels to
+  nanopores",1.6806766581025326e-06,0.0,1.0,5.0
+q-bio/0703050,"From a quantum mechanical description of the assembly processes in
+  microtubules to their semiclassical nonlinear dynamics",1.4629592412006444e-06,0.0,1.0,0.0
+physics/0505179,"An equation-free computational approach for extracting population-level
+  behavior from individual-based models of biological dispersal",1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/0410171,"Diversity-induced synchronized oscillations in close-to-threshold
+  excitable elements arranged on regular networks: effects of network topology",1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9706001,Adaptation and Optimal Chemotactic Strategy for E. Coli,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0412003,"A Structured-Population Model of Proteus mirabilis Swarm-Colony
+  Development",1.3189329710618589e-06,0.0,0.0,2.0
+q-bio/0601017,"Force Modulating Dynamic Disorder: Physical Theory of Catch-slip bond
+  Transitions in Receptor-Ligand Forced Dissociation Experiments",1.3189329710618589e-06,0.0,0.0,2.0
+q-bio/0601045,"Thresholds, long delays and stability from generalized allosteric effect
+  in protein networks",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0309026,Dynamics of Immobilized Flagella,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0402012,A Simple Cellular Automaton Model for Influenza A Viral Infections,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0407018,Tumor Gompertzian growth by cellular energetic balance,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9912005,"Robust and Irreversible Development in Cell Society as a General
+  Consequence of Intra-Inter Dynamics",,,,
+cond-mat/0008446,"Orientation field model for chiral branching growth of bacterial
+  colonies",,,,
+cond-mat/0012302,Trapping Dynamics with Gated Traps: Stochastic Resonance-Like Phenomenon,,,,
+cond-mat/0105304,Curved Tails in Polymerization-Based Bacterial Motility,,,,
+cond-mat/0201110,Elastic Interactions of Cells,,,,
+cond-mat/0302387,Diffusion of Asymmetric Swimmers,,,,
+cond-mat/0303468,"Percolation, Morphogenesis, and Burgers Dynamics in Blood Vessels
+  Formation",,,,
+cond-mat/0306723,Cellular Automata Simulation of Medication-Induced Autoimmune Diseases,,,,
+cond-mat/0308187,Cell organization in soft media due to active mechanosensing,,,,
+cond-mat/0309386,"Interplay of chemotaxis and chemokinesis mechanisms in bacterial
+  dynamics",,,,
+cond-mat/0309427,Elastic interactions of active cells with soft materials,,,,
+cond-mat/0309510,"Microrheology, stress fluctuations and active behavior of living cells",,,,
+cond-mat/0310296,Onset of Shear Waves In A Bacterial Bath: A Novel Effect,,,,
+cond-mat/0311620,Soft Listeria: actin-based propulsion of liquid drops,,,,
+cond-mat/0403702,Multiple stalk formation as a pathway of defect-induced membrane fusion,,,,
+cond-mat/0407741,Symmetry-Breaking Motility,,,,
+cond-mat/0411647,Rounding of aggregates of biological cells: Experiments and simulations,,,,
+cond-mat/0412183,Modelling tubular shapes in the inner mitochondrial membrane,,,,
+cond-mat/0504097,Effect of Poisson ratio on cellular structure formation,,,,
+cond-mat/0510391,"Collective effects in cellular structure formation mediated by compliant
+  environments: a Monte Carlo study",,,,
+cond-mat/0609093,Efficiency of initiating cell adhesion in hydrodynamic flow,,,,
+cond-mat/0610302,"Mean first passage times for bond formation for a Brownian particle in
+  linear shear flow above a wall",,,,
+cond-mat/0703409,"Branching, Capping, and Severing in Dynamic Actin Structures",,,,
+cond-mat/9501046,An introduction to the immune network,,,,
+cond-mat/9903382,"Modeling branching and chiral colonial patterning of lubricating
+  bacteria",,,,
+cond-mat/9910022,"Nonequilibrium Fluctuations, Travelling Waves, and Instabilities in
+  Active Membranes",,,,
+math/0306245,Mathematical models in biology,,,,
+nlin/0105031,"Origin of genetic information from minority control in a replicating
+  system with mutually catalytic molecules",,,,
+nlin/0203040,From Coupled Dynamical Systems to Biological Irreversibility,,,,
+nlin/0210048,"System-Size Effects on the Collective Dynamics of Cell Populations with
+  Global Coupling",,,,
+nlin/0308004,"Temporal patterns of gene expression via nonmetric multidimensional
+  scaling analysis",,,,
+nlin/0309046,"Avalanche of Bifurcations and Hysteresis in a Model of Cellular
+  Differentiation",,,,
+nlin/0402030,Patterns that Grow,,,,
+patt-sol/9502007,Aggregation Patterns in Stressed Bacteria,,,,
+patt-sol/9811001,Self-organized Vortex State in Two-dimensional Dictyostelium Dynamics,,,,
+physics/0011002,A Historical Perspective on Cancer,,,,
+physics/0101015,"Recycling probability and dynamical properties of germinal center
+  reactions",,,,
+physics/0102062,Does Recycling in Germinal Centers Exist?,,,,
+physics/0109014,"Modeling the effects of tetanus vaccination on chronically infected HIV
+  patients",,,,
+physics/0203021,"A mathematical model for the germinal center morphology and affinity
+  maturation",,,,
+physics/0204052,A lattice model for the kinetics of rupture of fluid bilayer membranes,,,,
+physics/0209009,"The type of seeder cells determines the efficiency of germinal center
+  reactions",,,,
+physics/0310075,"Control of catalytic activity of proteins in vivo by nanotube ropes
+  excited with infrared light",,,,
+physics/0312121,Electrostatic colloid-membrane complexation,,,,
+physics/0409004,On Chemotaxis,,,,
+physics/0505191,Filament attachment dynamics in actin-based propulsion,,,,
+physics/0512046,Hydrodynamic flow patterns and synchronization of beating cilia,,,,
+physics/0601153,"Magnetic Susceptibility: Further Insights into Macroscopic and
+  Microscopic Fields and the Sphere of Lorentz",,,,
+physics/0703026,"Continuous macroscopic limit of a discrete stochastic model for
+  interaction of living cells",,,,
+q-bio/0310014,"Auto-reverse nuclear migration in bipolar mammalian cells on
+  micropatterned surfaces",,,,
+q-bio/0310016,"Cytokinesis: the initial linear phase crosses over to a multiplicity of
+  non-linear endings",,,,
+q-bio/0310019,Complexity in the Immune System,,,,
+q-bio/0310030,A graph model for the evolution of specificity in humoral immunity,,,,
+q-bio/0311029,"Dynamical Systems Basis of Metamorphosis: Diversity and Plasticity of
+  Cellular States in Reaction Diffusion Network",,,,
+q-bio/0312008,"Stabilization of microtubules due to microtubule-associated proteins: A
+  simple model",,,,
+q-bio/0402004,Mathematical modeling of filamentous microorganisms,,,,
+q-bio/0403006,"An ordinary differential equation model for the multistep transformation
+  to cancer",,,,
+q-bio/0404009,Fluctuations and noise in cancer development,,,,
+q-bio/0405008,Dynamic Phase Transitions in Cell Spreading,,,,
+q-bio/0406007,Subthreshold oscillations in a map-based neuron model,,,,
+q-bio/0406008,Optimal Path to Epigenetic Switching,,,,
+q-bio/0406028,Aggregation of foraging swarms,,,,
+q-bio/0407029,"Multicellular Tumor Spheroid in an off-lattice Voronoi/Delaunay cell
+  model",,,,
+q-bio/0407037,"Relational patterns of gene expression via nonmetric multidimensional
+  scaling analysis",,,,
+q-bio/0408003,"Physical Schemata Underlying Biological Pattern Formation - Examples,
+  Issues and Strategies",,,,
+q-bio/0412050,Chemotactic Collapse and Mesenchymal Morphogenesis,,,,
+q-bio/0502026,Stochastic gene expression in switching environments,,,,
+q-bio/0503013,"Non-Maxwellian velocity distribution and anomalous diffusion of {\it in
+  vitro} kidney cells",,,,
+q-bio/0503016,Simulation of stem cell survival in small crypts,,,,
+q-bio/0504016,"On Recursive Production and Evolvabilty of Cells: Catalytic Reaction
+  Network Approach",,,,
+q-bio/0505004,Strong-coupling dynamics of a multi-cellular chemotactic system,,,,
+q-bio/0506029,Dynamic model for failures in biological systems,,,,
+q-bio/0506033,"Alternative mechanisms of structuring biomembranes: Self-assembly vs.
+  self-organization",,,,
+q-bio/0506036,Turing Pattern with Proportion Preservation,,,,
+q-bio/0507010,Integrin activation - the importance of a positive feedback,,,,
+q-bio/0507011,Power laws of complex systems from Extreme physical information,,,,
+q-bio/0507015,Differential gene expression in Bacillus subtilis,,,,
+q-bio/0507021,"Spontaneous polarization in eukaryotic gradient sensing: A mathematical
+  model based on mutual inhibition of frontness and backness pathways",,,,
+q-bio/0507034,Dynamics and pattern formation in invasive tumor growth,,,,
+q-bio/0507035,A stochastic model for wound healing,,,,
+q-bio/0508014,"Selective advantage for multicellular replicative strategies: A two-cell
+  example",,,,
+q-bio/0508041,"How to formulate membrane potential in a spatially homogeneous myocyte
+  model?",,,,
+q-bio/0509004,"How Noise and Coupling Induce Bursting Action Potentials in Pancreatic
+  beta-cells",,,,
+q-bio/0509005,Networks of Mobile Elements for Biological Systems,,,,
+q-bio/0509029,Glucose metabolism and oscillatory behavior of pancreatic islets,,,,
+q-bio/0510025,NF-kappa B oscillations and cell-to-cell variability,,,,
+q-bio/0511015,"Genetically engineered cardiac pacemaker: stem cells transfected with
+  HCN2 gene and myocytes - a model",,,,
+q-bio/0512017,Bacterial self-organisation and computation,,,,
+q-bio/0601030,"Magnetic Susceptibility: Solutions, Emulsions, and Cells",,,,
+q-bio/0602002,Structural Kinetic Modeling of Metabolic Networks,,,,
+q-bio/0602003,"The Bacterial Chemotactic Response Reflects a Compromise Between
+  Transient and Steady State Behavior",,,,
+q-bio/0603021,"A model for regulated fatty acid metabolism in liver; equilibria and
+  their changes",,,,
+q-bio/0604001,Amplified biochemical oscillations in cellular systems,,,,
+q-bio/0605047,When does division of labor lead to increased system output?,,,,
+q-bio/0605049,"Sequential recruitment and combinatorial assembling of multiprotein
+  complexes in transcriptional activation",,,,
+q-bio/0607027,"Minimal model of self-replicating nanocells: a physically embodied
+  information-free scenario",,,,
+q-bio/0607051,"Hysteresis and bi-stability by an interplay of calcium oscillations and
+  action potential firing",,,,
+q-bio/0608021,Bacterial gene regulation in diauxic and nondiauxic growth,,,,
+q-bio/0608039,Force balance and membrane shedding at the Red Blood Cell surface,,,,
+q-bio/0609019,A Multiscale Model of Biofilm as a Senescence-Structured Fluid,,,,
+q-bio/0609043,"Efficiency, selectivity and robustness of the nuclear pore complex
+  transport",,,,
+q-bio/0610005,"Modulation of the reaction rate of regulating protein induces large
+  morphological and motional change of amoebic cell",,,,
+q-bio/0610015,The role of cell-cell adhesion in wound healing,,,,
+q-bio/0610016,Migration and proliferation dichotomy in tumor cell invasion,,,,
+q-bio/0610026,Senescence Can Explain Microbial Persistence,,,,
+q-bio/0610031,Directionality of glioblastoma invasion in a 3d in vitro experiment,,,,
+q-bio/0610053,A Dynamical Model of Lipoprotein Metabolism,,,,
+q-bio/0611016,"How Xenopus laevis replicates DNA reliably even though its origins of
+  replication are located and initiated stochastically",,,,
+q-bio/0611045,"Phase transition in the collective migration of tissue cells: experiment
+  and model",,,,
+q-bio/0611046,An analysis of B cell selection mechanisms in germinal centers,,,,
+q-bio/0611057,"Modeling emergent tissue organization involving high-speed migrating
+  cells in a flow equilibrium",,,,
+q-bio/0611058,Mechanisms of organogenesis of primary lymphoid follicles,,,,
+q-bio/0611087,Microcolony and Biofilm Formation as a Survival Strategy for Bacteria,,,,
+q-bio/0612035,"Network formation of tissue cells via preferential attraction to
+  elongated structures",,,,
+q-bio/0702010,"The electrophysiology of the betacell based on single transmembrane
+  protein characteristics",,,,
+q-bio/0702039,Effect of DNA looping on the induction kinetics of the lac operon,,,,
+q-bio/0702061,Continuum model of actin-mediated bacterial propulsion,,,,
+q-bio/0703009,An allosteric model of KaiC phosphorylation,,,,
+q-bio/0703042,"An allosteric model for circadian KaiC phosphorylation - Supporting
+  Information",,,,

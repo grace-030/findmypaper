@@ -1,0 +1,1482 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+quant-ph/0702069,Entanglement of Gaussian states,7.087483376295203e-05,6.911855839937879e-07,45.0,1.0
+quant-ph/0701221,"Entanglement in continuous variable systems: Recent advances and current
+  perspectives",6.902398812265861e-05,2.498256512854964e-05,20.0,4.0
+quant-ph/0609071,"Optical state engineering, quantum communication, and robustness of
+  entanglement promiscuity in three-mode Gaussian states",5.377908440475896e-05,0.0,6.0,2.0
+quant-ph/0609178,"Coexistence of unlimited bipartite and genuine multipartite
+  entanglement: Promiscuous quantum correlations arising from discrete to
+  continuous variable systems",4.720848124746504e-05,1.852810879226397e-05,5.0,4.0
+hep-ex/0108012,"TESLA Technical Design Report, Part VI, Chapter 1: The Photon Collider
+  at TESLA",3.672963180455395e-05,8.26948383210622e-05,111.0,103.0
+physics/0210028,Analogies between light optics and charged-particle optics,3.240729282834866e-05,0.0,12.0,1.0
+physics/0210027,Wavelength-Dependent Effects in Maxwell Optics,3.240729282834866e-05,0.0,12.0,1.0
+quant-ph/0510234,"Quantization of the canonically conjugate pair angle and orbital angular
+  momentum",2.991114289730689e-05,5.721351075081976e-06,7.0,5.0
+physics/0609120,"Time invariance violation is a physical base of atomic Bloch
+  oscillations in an optical lattice",2.463813276373924e-05,1.9827567001035044e-06,6.0,1.0
+physics/0612089,"Comment on ""Beam-splitters don't have memory: a comment on ""Event-based
+  corpuscular model for quantum optics experiments"" by K.Michielsen et al.""",2.2689695855599984e-05,1.4852110113134864e-08,4.0,1.0
+physics/0404022,"On the generation and the nonlinear dynamics of X-waves of the
+  Schroedinger equation",1.5899227562724447e-05,0.0,11.0,0.0
+physics/0612173,"Observable effects caused by vacuum pair creation in the field of
+  high-power optical lasers",1.5332020402683864e-05,0.0,2.0,0.0
+physics/0008028,Spatial coherence of thermal near fields,1.4458194429798236e-05,0.0,2.0,0.0
+quant-ph/0409130,"Quantum X-waves in Kerr media and the progressive undistorted squeezed
+  vacuum",1.1698036362575029e-05,0.0,5.0,0.0
+physics/0112085,Quantum mechanical formalism of particle beam optics,1.1528397248240938e-05,0.0,8.0,4.0
+cond-mat/0607418,General Relativity in Electrical Engineering,1.113147442603618e-05,0.0,3.0,1.0
+physics/0611193,"Signature of ray chaos in quasi-bound wave functions for a
+  stadium-shaped dielectric cavity",1.1126970378645718e-05,0.0,4.0,0.0
+physics/0506023,The arrow of time in quantum mechanics and in nonlinear optics,1.0272177210135384e-05,6.947074505418833e-06,9.0,3.0
+physics/0210107,Nonlinear Magneto-Optical Rotation of Elliptically Polarized Light,1.023711045002856e-05,0.0,6.0,0.0
+physics/0402110,"Topological spin transport of photons: the optical Magnus Effect and
+  Berry Phase",1.0073112181270312e-05,2.7716703866894946e-06,3.0,7.0
+physics/0611233,Phase retrieval and saddle-point optimization,9.8487729979601e-06,0.0,6.0,0.0
+physics/0210001,An alternate way to obtain the aberration expansion in Helmholtz Optics,9.75948565204792e-06,0.0,10.0,2.0
+hep-ph/0101191,On propagation of photon in a medium,9.492198922824164e-06,0.0,9.0,1.0
+quant-ph/0702125,"Probing quantum phases of ultracold atoms in optical lattices by
+  transmission spectra in cavity QED",9.173401746607796e-06,2.996413215324959e-06,4.0,2.0
+physics/0308016,Modes of wave-chaotic dielectric resonators,9.094172148923114e-06,0.0,8.0,2.0
+quant-ph/0610073,"Cavity enhanced light scattering in optical lattices to probe atomic
+  quantum statistics",8.871769471038414e-06,0.0,3.0,3.0
+physics/0607205,"Calculation of material properties and ray tracing in transformation
+  media",8.839145449368483e-06,0.0,1.0,1.0
+math-ph/0408055,Making electromagnetic wavelets II: Spheroidal shell antennas,8.734580856290156e-06,0.0,4.0,2.0
+physics/0210013,Classical Aberration And Obliquation,8.57313010807132e-06,0.0,5.0,0.0
+cond-mat/0207491,"Optical Properties of Layered Superconductors near the Josephson Plasma
+  Resonance",8.50107259623705e-06,0.0,2.0,1.0
+nlin/0601019,Solitary wave solutions of the short pulse equation,8.407577432131418e-06,0.0,5.0,0.0
+physics/0407093,Huygens description of resonance phenomena in subwavelength hole arrays,8.222750556108611e-06,0.0,1.0,0.0
+cond-mat/0509636,Fermat Principle for spinning light,8.098448324710736e-06,2.389811646069158e-06,8.0,5.0
+physics/0512189,"Meta-material photonic funnels for sub-diffraction light compression and
+  propagation",7.968611175873368e-06,0.0,1.0,0.0
+physics/0205027,On mediums with negative phase velocity: a brief overview,7.847432641730287e-06,0.0,5.0,0.0
+physics/0603200,"Femtosecond laser as a tool for experimental study of time invariance
+  violation in optics",7.649281446186188e-06,0.0,5.0,1.0
+quant-ph/9912093,Optical Holonomic Quantum Computer,7.624729509022718e-06,0.0001035892928176,12.0,14.0
+physics/0506196,"Non-magnetic nano-composites for optical and infrared negative
+  refraction index media",7.535744096814204e-06,0.0,3.0,1.0
+quant-ph/0309069,"Generation of entangled 3D localized quantum wave-packets via optical
+  parametric amplification",7.5192756976622895e-06,2.000526188988862e-06,4.0,2.0
+quant-ph/0702185,"Violation of Energy Conservation in Boson and Fermion Fields on
+  Subwavelength Nano-Scale",7.455921327283768e-06,0.0,4.0,0.0
+quant-ph/0512124,"Multipartite entanglement in three-mode Gaussian states of continuous
+  variable systems: Quantification, sharing structure and decoherence",7.27255482213461e-06,1.1506201075170431e-06,6.0,3.0
+quant-ph/0307069,"Quantization of the Optical Phase Space S^2 = {phi mod 2pi, I > 0} in
+  Terms of the Group SO(1,2)",7.192514948806407e-06,1.37869475742985e-05,7.0,11.0
+physics/0405141,Polarization tomography of metallic nanohole arrays,7.120700306594589e-06,0.0,3.0,1.0
+physics/0209082,"Foldy-Wouthuysen transformation and a quasiparaxial approximation scheme
+  for the scalar wave theory of light beams",7.110288808722692e-06,0.0,6.0,3.0
+physics/0703255,"Statistics of random lasing modes and amplified spontaneous emission
+  spikes in weakly scattering systems",6.901895911619988e-06,0.0,1.0,0.0
+math-ph/0509031,Geometrical Spinoptics and the Optical Hall Effect,6.792404791155918e-06,7.215906994156963e-06,4.0,8.0
+physics/0611303,Ultra Fast Nonlinear Optical Tuning of Photonic Crystal Cavities,6.63274750835235e-06,0.0,1.0,0.0
+physics/0703184,Extremal transmission at the Dirac point of a photonic band structure,6.599085994122072e-06,0.0,9.0,0.0
+quant-ph/0702193,"Light scattering from ultracold atoms in optical lattices as an optical
+  probe of quantum statistics",6.319014351651132e-06,0.0,2.0,2.0
+quant-ph/0603257,Degradability of Bosonic Gaussian channels,6.278412585056552e-06,1.1987614384886268e-06,6.0,4.0
+physics/0504068,"Surface Electromagnetic Waves Thermally Excited: Radiative Heat
+  Transfer, Coherence Properties and Casimir Forces Revisited in the Near Field",6.266081943013162e-06,0.0,1.0,0.0
+physics/0403005,"Modeling turbulent wave-front phase as a fractional Brownian motion: a
+  new approach",6.189841599054301e-06,0.0,2.0,2.0
+physics/0609009,Directional emission of stadium-shaped micro-lasers,6.110303318328743e-06,1.990182755160072e-06,2.0,1.0
+physics/0502057,"Polarization properties and dispersion relations for spiral resonances
+  of a dielectric rod",6.07308100281449e-06,0.0,5.0,0.0
+quant-ph/0410050,"Continuous variable tangle, monogamy inequality, and entanglement
+  sharing in Gaussian states of continuous variable systems",6.072926885192858e-06,5.604517116411825e-05,4.0,12.0
+physics/0406064,"Femtosecond laser as a tool for experimental study of inequality of
+  forward and reversed processes in optics",5.948195885091902e-06,0.0,5.0,1.0
+physics/0307068,Phase Statistics of Soliton,5.899222190970461e-06,0.0,4.0,0.0
+cond-mat/0610691,Mode statistics in random lasers,5.821996350622634e-06,0.0,1.0,0.0
+physics/0412096,"Depolarizing power and polarization entropy of light scattering media:
+  experiment and theory",5.77185925213167e-06,0.0,2.0,0.0
+quant-ph/0107122,The quantum phase problem: steps toward a resolution,5.755215776713868e-06,1.990182755160072e-06,2.0,2.0
+physics/0608068,"Generation of radiation in free electron lasers with diffraction
+  gratings (photonic crystal) with the variable spacial period",5.732990917622114e-06,0.0,4.0,0.0
+physics/0703028,"Generation of Polarization Squeezing with Periodically Poled KTP at 1064
+  nm",5.701824892462036e-06,0.0,2.0,0.0
+physics/0603201,"A unified evaluation of iterative projection algorithms for phase
+  retrieval",5.686428125589514e-06,0.0,8.0,1.0
+physics/0506105,"Photoluminescence measurements of quantum-dot-containing semiconductor
+  microdisk resonators using optical fiber taper waveguides",5.6678976273076665e-06,0.0,1.0,0.0
+physics/0307010,Modal cut-off and the V-parameter in photonic crystal fibers,5.655144290770314e-06,0.0,1.0,1.0
+nlin/0411048,"Controlled observation of a nonequilibrium Ising-Bloch transition in a
+  nonlinear optical cavity",5.655144290770314e-06,0.0,1.0,1.0
+physics/0511003,"Magnetometry with millimeter-scale anti-relaxation-coated alkali-metal
+  vapor cells",5.655144290770314e-06,0.0,1.0,1.0
+physics/0303046,"Optical Resonances in Reflectivity near Crystal Modes with Spatial
+  Dispersion",5.655144290770314e-06,0.0,1.0,1.0
+physics/0703165,"Application of the multiple-scattering method to analysis of systems
+  with semi-infinite photonic waveguides",5.655144290770314e-06,0.0,1.0,1.0
+physics/0307009,"Experimental investigation of cut-off phenomena in non-linear photonic
+  crystal fibers",5.655144290770314e-06,0.0,1.0,1.0
+physics/0610256,Refractive Index of Humid Air in the Infrared: Model Fits,5.655144290770314e-06,0.0,1.0,0.0
+physics/0403102,"Entanglement and inequality of forward and reversed processes as a
+  physical base of nonlinear phenomena in optics",5.637587526117115e-06,0.0,9.0,0.0
+cond-mat/0208516,"Bose-Einstein Condensates in Optical Lattices: Band-Gap Structure and
+  Solitons",5.592001397420451e-06,3.960562696835964e-08,5.0,1.0
+physics/0611216,Theory of directional pulse propagation: detailed calculations,5.43469162677556e-06,0.0,2.0,2.0
+physics/0406129,An optical fiber-based probe for photonic crystal microcavities,5.337275170221359e-06,0.0,3.0,1.0
+physics/0502110,Time reversal noninvariance in quantum mechanics and in nonlinear optics,5.314900761876102e-06,0.0,8.0,1.0
+physics/0308051,Matter X waves,5.193287109092648e-06,0.0,2.0,3.0
+physics/0212014,Few Cycle Optical Pulse Propagation: a detailed calculation,5.158660638074922e-06,0.0,2.0,7.0
+quant-ph/0701095,"Interference-induced enhancement of intensity and energy of a multimode
+  quantum optical field by a subwavelength array of coherent light sources",5.151501005063196e-06,0.0,1.0,0.0
+quant-ph/0208029,Optimized phase switching using a single atom nonlinearity,5.128507879521577e-06,0.0,2.0,2.0
+physics/0605092,"Diffuse reflection of a Bose-Einstein condensate from a rough evanescent
+  wave mirror",5.103221901320919e-06,0.0,3.0,0.0
+physics/0505024,"Strongly anisotropic media: the THz perspectives of left-handed
+  materials",5.042478248044609e-06,0.0,2.0,1.0
+physics/0501099,"Euler buckling in red blood cells: An optically driven biological
+  micromotor",5.014592991626998e-06,0.0,1.0,0.0
+nlin/0307057,"Hamiltonian Hopf bifurcations in the discrete nonlinear Schr\""odinger
+  trimer: oscillatory instabilities, quasiperiodic solutions and a 'new' type
+  of self-trapping transition",5.010952119661852e-06,0.0,2.0,0.0
+physics/0306148,Physical origin of nonlinear phenomena in optics,4.928290826592591e-06,2.687724688225859e-06,6.0,9.0
+hep-ex/0306044,Critical Issues in Linear Colliders,4.91388314352699e-06,9.80336301707267e-07,10.0,2.0
+math-ph/0408044,Eigenwavelets of the Wave equation,4.906095117073744e-06,0.0,3.0,1.0
+quant-ph/0209018,Multibarrier tunneling,4.889498078471713e-06,0.0,5.0,0.0
+quant-ph/0603150,"Analysis of a Quantum Nondemolition Measurement Scheme Based on Kerr
+  Nonlinearity in Photonic Crystal Waveguides",4.883822456322304e-06,1.990182755160072e-06,2.0,1.0
+quant-ph/0506124,"Gaussian measures of entanglement versus negativities: the ordering of
+  two-mode Gaussian states",4.854984904607639e-06,1.8855832788077376e-08,6.0,2.0
+physics/0603249,"Universal output directionality of ultrahigh-Q single modes in a
+  deformed microcavity with low index of refraction",4.827253370360462e-06,0.0,2.0,2.0
+physics/0512082,The Measurement of AM noise of Oscillators,4.775563454392716e-06,0.0,3.0,1.0
+physics/0402073,"Ultrafast Resonant Polarization Interferometry: Towards the First Direct
+  Detection of Vacuum Polarization",4.724382381044039e-06,0.0,4.0,0.0
+physics/0104069,Light Propagation For Accelerated Observers,4.682161299208744e-06,7.4260550565674335e-09,7.0,1.0
+quant-ph/0611285,Distribution of bipartite entanglement for random pure states,4.632664946649072e-06,1.990182755160072e-06,2.0,1.0
+physics/0410110,"Precision spectroscopy and density-dependent frequency shifts in
+  ultracold Sr",4.602990896504393e-06,1.990182755160072e-06,4.0,3.0
+cond-mat/0307056,"Broken Time Reversal of Light Interaction with Planar Chiral
+  Nanostructures",4.599856244014028e-06,0.0,2.0,3.0
+physics/0401051,Coherency is the ether of XXI century,4.561803495200345e-06,4.960604777787045e-06,6.0,3.0
+physics/0611198,"Optical Coherence Spectro-Tomography by all-Optical Depth-Wavelength
+  analysis",4.515025475212901e-06,0.0,1.0,0.0
+physics/0605188,Backward Tamm states in left-handed metamaterials,4.515025475212901e-06,0.0,1.0,0.0
+physics/0211067,"On the physical nature of the electromagnetic induced transparency
+  effect",4.514486070387577e-06,0.0,5.0,0.0
+physics/0307052,"A fractional Brownian motion model for the turbulent refractive index in
+  lightwave propagation",4.51301025095409e-06,0.0,2.0,1.0
+quant-ph/0601051,Quantum mechanics in general quantum systems (III): open system dynamics,4.442414903294999e-06,0.0,3.0,4.0
+quant-ph/0310005,Minimum decoherence cat-like states in Gaussian noisy channels,4.427296827506993e-06,0.0,3.0,2.0
+physics/0402034,"Coherent control and manifestation of inequality of forward and reversed
+  processes in optics",4.415024171920673e-06,0.0,6.0,0.0
+physics/0405064,Optical fiber coupling to planar photonic crystal microcavities,4.414220946334437e-06,0.0,3.0,2.0
+physics/0412051,"Complex light: Dynamic phase transitions of a light beam in a nonlinear
+  non-local disordered medium",4.3880234576833904e-06,0.0,3.0,0.0
+hep-ph/0403025,Does HBT Measure the Freeze-out Source Distribution?,4.338187113327858e-06,3.2642000248648057e-10,3.0,5.0
+nucl-th/0411044,"Signature of Granular Structures by Single-Event Intensity
+  Interferometry",4.2848827587005045e-06,0.0,8.0,0.0
+physics/0210002,Quantum chaos in optical systems: The annular billiard,4.278670187138834e-06,0.0,1.0,2.0
+quant-ph/0602067,Entanglement in Gaussian matrix-product states,4.2644119822049225e-06,5.39098733544692e-06,4.0,2.0
+physics/0605025,"Spatially dispersive finite-difference time-domain analysis of
+  sub-wavelength imaging by the wire medium slabs",4.199458373837573e-06,0.0,3.0,0.0
+cond-mat/0605637,Ambiguities in the scattering tomography for central potentials,4.128278206266183e-06,0.0,2.0,2.0
+nlin/0409062,"Light propagation in a Cole-Cole nonlinear medium via Burgers-Hopf
+  equation",4.113394721966394e-06,0.0,5.0,0.0
+quant-ph/0005033,"Group Theoretical Quantization of Phase and Modulus Related to
+  Interferences",4.097760501828877e-06,3.980365510320144e-06,5.0,3.0
+quant-ph/0608178,Determination of quantum-noise parameters of realistic cavities,4.075235057024103e-06,0.0,2.0,0.0
+quant-ph/0405190,"Using of small-scale quantum computers in cryptography with many-qubit
+  entangled states",4.074892015458644e-06,0.0,4.0,0.0
+gr-qc/0501001,"Comments on the paper by S. Samuel ""On the speed of gravity and the
+  Jupiter/Quasar measurement""",4.070803145258471e-06,1.5474354002013326e-05,3.0,4.0
+physics/0605036,"Sub-diffraction light propagation in fibers with anisotropic dielectric
+  cores",4.063143711471229e-06,0.0,1.0,2.0
+physics/0608132,"Morphology of the nonspherically decaying radiation beam generated by a
+  rotating superluminal source",4.063143711471229e-06,0.0,1.0,2.0
+physics/0009093,Slow light in moving media,4.023628275177411e-06,3.980365510320144e-06,5.0,3.0
+physics/0611215,Theory of directional pulse propagation,3.979661426002028e-06,0.0,2.0,1.0
+physics/0310090,"Physical origin of ""laser induced"" molecule alignment effect",3.8624036475985125e-06,1.9864697276317883e-06,3.0,2.0
+quant-ph/0605021,Monogamy inequality for distributed Gaussian entanglement,3.849427419218443e-06,1.6436916971396024e-05,2.0,4.0
+physics/0605187,Pushing the hyperpolarizability to the limit,3.826788423397162e-06,0.0,1.0,0.0
+physics/0510032,Progress in Three-Dimensional Coherent X-Ray Diffraction Imaging,3.826107921765916e-06,0.0,6.0,0.0
+hep-ex/9904029,Birefringence of high-energy gamma-quanta in the single crystals,3.8243091998752815e-06,1.5944908319490198e-05,3.0,4.0
+cond-mat/0410126,"Statistical mechanics of general discrete nonlinear Schr{\""o}dinger
+  models: Localization transition and its relevance for Klein-Gordon lattices",3.795439316948292e-06,0.0,4.0,0.0
+hep-ph/0112254,Fundamental physics at an X-ray free electron laser,3.780094236258151e-06,3.8936936337439456e-05,10.0,16.0
+physics/0607292,Exponential beams of electromagnetic radiation,3.7589767133589184e-06,0.0,2.0,0.0
+physics/0312086,"New Limits to the Drift of Fundamental Constants from Laboratory
+  Measurements",3.7558626905241976e-06,1.400426641485193e-06,4.0,6.0
+physics/0005060,Sub-Doppler resolution with double coherently driving fields,3.7325830451169904e-06,0.0,8.0,0.0
+physics/0503010,Image transmission through a stable paraxial cavity,3.700654892671893e-06,0.0,1.0,0.0
+physics/0606111,"Wideband pulse propagation: single-field and multi-field approaches to
+  Raman interactions",3.679816930968273e-06,0.0,2.0,0.0
+hep-ex/0010033,Photon collider at TESLA,3.654405147338e-06,6.624038146224234e-06,14.0,24.0
+cond-mat/0511677,"Spectral properties of exciton polaritons in one-dimensional resonant
+  photonic crystals",3.62335329328243e-06,0.0,2.0,0.0
+physics/0303015,"Periodic and Quasi-Periodic Compensation Strategies of Extreme Outages
+  caused by Polarization Mode Dispersion and Amplifier Noise",3.62335329328243e-06,0.0,2.0,0.0
+quant-ph/9802048,"General Approach to Functional Forms for the Exponential Quadratic
+  Operators in Coordinate-Momentum Space",3.62335329328243e-06,0.0,3.0,0.0
+quant-ph/9807038,"Quantum control of atomic systems by time-resolved homodyne detection of
+  spontaneous emission",3.62335329328243e-06,0.0,2.0,0.0
+physics/0512148,"Analytical expressions for the longitudinal evolution of nondiffracting
+  pulses truncated by finite apertures",3.62335329328243e-06,0.0,2.0,0.0
+physics/0602186,Chasing 'Slow Light',3.62335329328243e-06,0.0,2.0,0.0
+physics/0203064,The sequential-reflection model in deformed dielectric cavities,3.62335329328243e-06,0.0,2.0,1.0
+quant-ph/0107011,Pointlessness and dangerousness of the postulates of quantum mechanics,3.62335329328243e-06,0.0,2.0,1.0
+physics/0312036,Non-linear space-time dynamics of ultrashort wave-packets in water,3.62335329328243e-06,0.0,3.0,1.0
+physics/0311135,"Neutron reflection from condensed matter, the Goos-H\""anchen effect and
+  coherence",3.62335329328243e-06,0.0,2.0,0.0
+cond-mat/0508726,Dynamics of Anderson localization in open 3D media,3.5757878342309527e-06,0.0,3.0,2.0
+physics/0307128,"Mode coupling and conversion at anticrossings treated via stationary
+  perturbation technique",3.5364484739923776e-06,0.0,2.0,0.0
+quant-ph/0507040,"Popper's test of quantum mechanics and two-photon ""ghost"" diffraction",3.503631126820181e-06,0.0,3.0,0.0
+nlin/0702049,Solitary waves in plasmonic Bragg gratings,3.49912997646896e-06,0.0,2.0,0.0
+physics/0104005,"Poynting vector, energy density and energy velocity in anomalous
+  dispersion medium",3.49912997646896e-06,0.0,2.0,0.0
+physics/0312114,Nonlinear optical contrast enhancement for optical coherence tomography,3.4930843036925227e-06,0.0,2.0,1.0
+quant-ph/0209151,"Realization of a resonant non-linear phase flip in cavity quantum
+  electrodynamics",3.4476460829037417e-06,0.0,1.0,0.0
+quant-ph/0307207,Information transfer through a one-atom micromaser,3.413743866784161e-06,0.0,4.0,1.0
+physics/0210052,Hexagonal dielectric resonators and microcrystal lasers,3.386159535533542e-06,0.0,3.0,0.0
+physics/9711023,Theoretical and Numerical studies of the positions of cold trapped ions,3.3749066596554898e-06,0.0,1.0,0.0
+cond-mat/0110419,Dynamic effect of phase conjugation on wave localization,3.3749066596554898e-06,0.0,1.0,0.0
+physics/0510207,Nonlinear Magneto-Optical Rotation with Amplitude-Modulated Light: AMOR,3.3749066596554898e-06,0.0,1.0,1.0
+cond-mat/0611286,"Gap solitons in Bose-Einstein condensates in linear and nonlinear
+  optical lattices",3.3749066596554898e-06,0.0,1.0,0.0
+physics/0509028,Total absorption of an electromagnetic wave by an overdense plasma,3.3749066596554898e-06,0.0,1.0,0.0
+physics/0512244,High-Accuracy Microwave Atomic Clock via Magic Optical Lattice,3.359630900553343e-06,0.0,2.0,0.0
+nlin/0010055,Nonlinear localized waves in a periodic medium,3.353178769950374e-06,0.0,3.0,0.0
+physics/0302053,X-wave mediated instability of plane waves in Kerr media,3.344424030060947e-06,1.990182755160072e-06,4.0,1.0
+quant-ph/0102092,The quantum absolute phase observable,3.33039179995455e-06,0.0,1.0,1.0
+physics/0311137,Depolarization induced by subwavelength metal hole arrays,3.307094949617245e-06,0.0,2.0,1.0
+cond-mat/9904032,Atom holography,3.304008839261117e-06,0.0,2.0,0.0
+nlin/0105073,Nonlinear guided waves and spatial solitons in a periodic layered medium,3.2625693618904443e-06,0.0,3.0,1.0
+physics/0308095,Coupled surface polaritons and the Casimir force,3.257210718738516e-06,0.0,2.0,1.0
+physics/0504172,Measuring a piecewise constant axion field in classical electrodynamics,3.225668230737286e-06,1.990182755160072e-06,3.0,3.0
+nlin/0409034,The short pulse equation is integrable,3.225422104162271e-06,0.0,3.0,1.0
+physics/0302070,"Reflection and refraction of electromagnetic waves at the plane boundary
+  between two chiral media",3.189480722747728e-06,0.0,2.0,0.0
+physics/0603072,"Geometrical Optics of Beams with Vortices: Berry Phase and Orbital
+  Angular Momentum Hall Effect",3.151834478093941e-06,0.0,2.0,1.0
+physics/0502093,"Parameterizing Quasiperiodicity: Generalized Poisson Summation and Its
+  Application to Modified-Fibonacci Antenna Arrays",3.1035275569958723e-06,0.0,1.0,0.0
+physics/0105048,Carnot cycle for an oscillator,3.1030396121628343e-06,0.0,4.0,3.0
+physics/0603158,"Chaos-assisted nonresonant optical pumping of quadrupole-deformed
+  microlasers",3.0676064777179377e-06,0.0,1.0,1.0
+physics/0103040,"Absolute frequency measurement of the 171Yb+ clock transition with a
+  Kerr-lens mode-locked femtosecond laser",3.0472482127272877e-06,0.0,2.0,1.0
+physics/0306064,FORTRAN-codes for an analysis of the ultrashort pulse propagation,3.0472482127272877e-06,0.0,2.0,0.0
+nlin/0006004,"Symmetrically coupled higher-order nonlinear Schroedinger equations:
+  singularity analysis and integrability",3.0472482127272877e-06,0.0,2.0,1.0
+physics/0212052,Beam shaping by a layered structure with left-handed materials,3.0472482127272877e-06,0.0,2.0,0.0
+nlin/0302059,N-soliton collision in the Manakov model,3.0472482127272877e-06,0.0,2.0,0.0
+cond-mat/0301262,"Instability of speckle patterns in random media with noninstantaneous
+  Kerr nonlinearity",3.0472482127272877e-06,0.0,2.0,0.0
+physics/0601172,The Effects of Geometry on the Hyperpolarizability,3.0472482127272877e-06,0.0,2.0,1.0
+physics/0404091,Benchmarking Iterative Projection Algorithms for Phase Retrieval,3.0472482127272877e-06,0.0,2.0,0.0
+quant-ph/0605084,Semiclassical Theory of Amplification and Lasing,3.0472482127272877e-06,0.0,2.0,0.0
+gr-qc/9902030,"Lorentz Covariant Theory of Light Propagation in Gravitational Fields of
+  Arbitrary-Moving Bodies",3.025757378123796e-06,1.280994497257882e-07,1.0,7.0
+physics/0303030,"Characteristics of bound modes in coupled dielectric waveguides
+  containing negative index media",2.9556313555959445e-06,0.0,2.0,0.0
+physics/0509066,High-resolution ab initio three-dimensional X-ray diffraction microscopy,2.947629979803316e-06,0.0,5.0,5.0
+physics/0207111,Alternative explanation of the nature of line clumps,2.947460618933588e-06,0.0,2.0,2.0
+physics/0512272,Surface EM waves in 1D Photonic Crystals,2.923024895913817e-06,0.0,1.0,1.0
+physics/0504149,"Two-Scale Kirchhoff Theory: Comparison of Experimental Observations With
+  Theoretical Prediction",2.923024895913817e-06,0.0,2.0,0.0
+cond-mat/0105148,"Optical Properties of Crystals with Spatial Dispersion: Josephson Plasma
+  Resonance in Layered Superconductors",2.923024895913817e-06,0.0,2.0,1.0
+physics/0503032,Characterization of Etched Glass Surfaces by Wave Scattering,2.923024895913817e-06,0.0,2.0,0.0
+physics/0202002,"On reflection from a half-space with negative real permittivity and
+  permeability: Time-domain and frequency-domain results",2.923024895913817e-06,0.0,1.0,1.0
+physics/0501001,"Enhanced diffraction by a rectangular grating made of a negative
+  phase--velocity (or negative index) material",2.923024895913817e-06,0.0,1.0,0.0
+physics/0608097,"Gain-assisted slow to superluminal group velocity manipulation in
+  nano-waveguides",2.91697922313738e-06,0.0,1.0,0.0
+physics/0610085,"Comment on ""Radial dependence of radiation from a bounded source"" by
+  Kirk T. McDonald",2.91697922313738e-06,0.0,1.0,0.0
+physics/0604065,Nanowire metamaterials with extreme optical anisotropy,2.91697922313738e-06,0.0,1.0,1.0
+physics/0409015,Single-loop interferometer for minimal ellipsometry,2.91697922313738e-06,0.0,1.0,1.0
+hep-ex/0003024,"Photon colliders: key problems, new ideas",2.9004144762716958e-06,2.0002445955160235e-06,15.0,11.0
+physics/0405077,Non-magnetic left-handed material,2.8824849908262623e-06,0.0,2.0,1.0
+physics/0510033,Phase Aberrations in Diffraction Microscopy,2.872433632188168e-06,0.0,5.0,3.0
+nlin/0603062,High frequency integrable regimes in nonlocal nonlinear optics,2.869309297645141e-06,0.0,2.0,0.0
+physics/0605227,Notes on Conformal Invisibility Devices,2.8578904011188637e-06,0.0,1.0,2.0
+nlin/0312066,"Quasiperiodic localized oscillating solutions in the discrete nonlinear
+  Schr\""odinger equation with alternating on-site potential",2.840174709633865e-06,0.0,2.0,0.0
+quant-ph/0405044,"Localized states (""qubits""), entanglement and decoherence from Wigner
+  zoo",2.831821687394504e-06,0.0,3.0,0.0
+physics/0703130,"Q-based design equations for resonant metamaterials and experimental
+  validation",2.82163832634869e-06,0.0,1.0,0.0
+physics/0603198,"Electromagnetic field correlations near a surface with a nonlocal
+  optical response",2.812121184837843e-06,0.0,1.0,0.0
+quant-ph/0011076,"Extended covariance under nonlinear canonical transformation in Weyl
+  quantization",2.808816126359099e-06,1.990182755160072e-06,4.0,3.0
+physics/0309034,Efficient magneto-optical trapping of Yb atoms with a violet laser diode,2.7015851643942016e-06,0.0,2.0,0.0
+cond-mat/0512006,Multipole polarizability of a graded spherical particle,2.699584653126992e-06,0.0,2.0,0.0
+hep-th/0207167,Electrodynamic Limit in a Model for Charged Solitons,2.697084014042981e-06,0.0,2.0,0.0
+physics/0304109,"Non-Gaussian Statistics of the Soliton Timing Jitter due to Amplifier
+  Noise",2.697084014042981e-06,0.0,2.0,1.0
+physics/0606102,"Exploration of electronic quadrupole states in atomic clusters by
+  two-photon processes",2.689899798187394e-06,0.0,1.0,0.0
+gr-qc/9811003,"Astrometric and Timing Effects of Gravitational Waves from Localized
+  Sources",2.68859112034615e-06,2.3293059360766518e-07,1.0,3.0
+cond-mat/0210415,Information transfer through disordered media by diffuse waves,2.6767405010315075e-06,0.0,2.0,0.0
+nlin/0507027,"Enhanced soliton transport in quasi-periodic lattices with short-range
+  aperiodicity",2.6467068513487425e-06,0.0,3.0,0.0
+physics/0508093,"Conservation of Angular Momentum, Transverse Shift, and Spin Hall Effect
+  in Reflection and Refraction of Electromagnetic Wave Packet",2.643701712652632e-06,6.68344955091069e-08,3.0,1.0
+math-ph/0402006,Making electromagnetic wavelets,2.6313766316253385e-06,0.0,5.0,5.0
+physics/0702105,A three-dimensional degree of polarization based on Rayleigh scattering,2.6151694023109303e-06,0.0,2.0,0.0
+hep-ex/9707017,"An Interaction Region for Gamma-Gamma and Gamma-Electron Collisions at
+  TESLA/SBLC",2.5955227998957007e-06,0.0,8.0,30.0
+physics/9902072,Optical dipole traps for neutral atoms,2.544236626062607e-06,0.0,1.0,6.0
+physics/0209104,"Superluminal X-shaped beams propagating without distortion along a
+  coaxial guide",2.54083418167583e-06,1.061430802752036e-05,4.0,2.0
+nlin/0312038,"Gap and out-gap breathers in a binary modulated discrete nonlinear
+  Schr\""odinger model",2.5389202004727494e-06,0.0,2.0,0.0
+quant-ph/0405075,High performance guided-wave asynchronous heralded single photon source,2.5379020067567644e-06,0.0,1.0,4.0
+hep-ph/0012338,Nonlinear effects in Compton scattering at photon colliders,2.534073910617046e-06,0.0,7.0,5.0
+physics/0310002,Nonlinear guided waves and symmetry breaking in left-handed waveguides,2.527628352639853e-06,0.0,1.0,0.0
+quant-ph/0606190,Generic Entanglement and Standard Form for N-mode Pure Gaussian States,2.525841158759874e-06,8.197675791626005e-07,2.0,2.0
+physics/0204003,"The role of intense line wings in the process of infrared
+  multiple--photon excitation of polyatomic molecules",2.5242833932368168e-06,6.243184720637308e-06,2.0,9.0
+physics/0309098,Focused X-shaped (Superluminal) pulses,2.514620876946508e-06,0.0,2.0,2.0
+physics/0605125,"A new photon recoil experiment: towards a determination of the fine
+  structure constant",2.4822028194663555e-06,1.4061901690448844e-08,2.0,1.0
+hep-th/0204077,Interferometric evidence for brane world cosmologies,2.482003995928857e-06,0.0,4.0,0.0
+quant-ph/0501001,"Manipulative resonant nonlinear optics: nonlinear interference effects
+  and quantum control of nonlinearity, dispersion, transparency and
+  inversionless amplification in an extended strongly-absorbing
+  inhomogeneously-broadened medium",2.479954714286333e-06,0.0,7.0,2.0
+quant-ph/0008035,"Coherence-controlled transparency and far-from-degenerate parametric
+  gain in a strongly-absorbing Doppler-broadened medium",2.479954714286333e-06,0.0,7.0,0.0
+physics/9712003,"The instrument response function in air-based scanning tunneling
+  microscopy",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0702231,"Actuation of Micro-Optomechanical Systems Via Cavity-Enhanced Optical
+  Dipole Forces",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0608143,"Photonic crystal fibres: mapping Maxwell's equations onto a Schrodinger
+  equation eigenvalue problem",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0505649,"Modal control in semiconductor optical waveguides with uniaxially
+  patterned layers",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0508391,Estimation of gloss from rough surface parameters,2.4711431321721443e-06,0.0,1.0,0.0
+math-ph/0303019,"Sliderule-like property of Wigner's little groups and cyclic S-matrices
+  for multilayer optics",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0510656,Numerical Investigation of Light Scattering off Split-Ring Resonators,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0703155,"Supercontinuum generation of ultrashort laser pulses in air at different
+  central wavelengths",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0703114,"Rovibronic energy levels for triplet electronic states of molecular
+  deuterium",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0612168,"Depolarization regions of nonzero volume for anisotropic, cubically
+  nonlinear, homogenized nanocomposites",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0612001,"Surface-wave interferometry on single subwavelength slit-groove
+  structures fabricated on gold films",2.4711431321721443e-06,0.0,1.0,0.0
+solv-int/9906012,"Integrability of the higher-order nonlinear Schroedinger equation
+  revisited",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0405026,"The Extended Plane Wave Expansion Method in Three Dimensional
+  Anisotropic Photonic Crystal",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/9807382,"Dynamical Instabilities and Deterministic Chaos in Ballistic Electron
+  Motion in Semiconductor Superlattices",2.4711431321721443e-06,0.0,2.0,0.0
+physics/0607144,Black hole in a waveguide: Hawking radiation or self-phase modulation?,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0607043,"Statistical analysis of time-resolved emission from ensembles of
+  semiconductor quantum dots: interpretation of exponential decay models",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0611015,"Theory of electrically controlled exhibition of circular Bragg
+  phenomenon by an obliquely excited structurally chiral material. Part 2:
+  arbitrary dc electric field",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0008013,Negative Group Velocity,2.4711431321721443e-06,0.0,1.0,2.0
+physics/0006004,Spectral Dependence of Polarized Radiation due to Spatial Correlations,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0505078,"Plasmon mechanism of light transmission through a metal film or a plasma
+  layer",2.4711431321721443e-06,0.0,1.0,1.0
+physics/0502130,"Vector modulation instability induced by vacuum fluctuations in highly
+  birefringent fibers in the anomalous dispersion regime",2.4711431321721443e-06,0.0,1.0,0.0
+nlin/0702051,"Two-component Analogue of Two-dimensional Long Wave-Short Wave Resonance
+  Interaction Equations: A Derivation and Solutions",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0503058,"Stabilization of three--dimensional light bullets by a transverse
+  lattice in a Kerr medium with dispersion management",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0410007,"Comment on 'Towards gravitationally assisted negative refraction of
+  light by vacuum'",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0312133,"Electromagnetic wave scattering from a random layer with rough
+  interfaces I: Coherent field",2.4711431321721443e-06,0.0,1.0,2.0
+physics/0401094,Tunable transmission and bistability in left-handed bandgap structures,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0411028,"Laser induced birefringence in a wavelength-mismatched cascade system of
+  inhomogeneously broadened Yb atoms",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0410058,An exact expression for the image error in a catadioptric sensor,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0410069,"Karhunen-Loeve analysis of complex spatio-temporal dynamics of
+  thin-films optical system",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0409081,"Criteria for the experimental observation of multi-dimensional optical
+  solitons in saturable media",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0506079,Soliton control in modulated optically-induced photonic lattices,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0502020,Strong optical force induced by morphology dependent resonances,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0407146,Geometric Phase From Dielectric Matrix,2.4711431321721443e-06,0.0,1.0,0.0
+physics/9906029,Strong Coupling Theory of Two Level Atoms in Periodic Fields,2.4711431321721443e-06,0.0,1.0,7.0
+physics/0610043,Concealment by uniform motion,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0609143,Wave Chaos in Rotating Optical Cavities,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0509259,"Classification of electromagnetic resonances in finite inhomogeneous
+  three-dimensional structures",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0509052,Low crosstalk intersections of CCWs composed by mono-mode cavities,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0507175,"Classical Effects of Laser Pulse Duration on Strong-field Double
+  Ionization",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0507039,Active sub-Rayleigh alignment of parallel or antiparallel laser beams,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0507001,Bounds for the refractive indices of metamaterials,2.4711431321721443e-06,0.0,1.0,0.0
+nlin/0311013,Multistep Parametric Processes in Nonlinear Optics,2.4711431321721443e-06,0.0,1.0,2.0
+physics/0506092,Second-harmonic generation in nonlinear left-handed metamaterials,2.4711431321721443e-06,0.0,1.0,3.0
+physics/0603206,"Comment to Manipulating the polarization of laser beams by an external
+  magnetic field, arXiv:physics/0603175v1",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0603264,"Lineshape measurement of an extreme-weak amplitude-fluctuating light
+  source by the photon-counting-based second-order correlation spectroscopy",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0601056,"Experimental verification of the key properties of a three-dimensional
+  isotropic transmission line based superlens",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0307137,Three dimensional imaging of short pulses,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0601190,Validation of Lasing in Active Nanocavities,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0511040,"Enhanced stimulated Raman scattering in slow-light photonic crystal
+  waveguides",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0511249,"Positive-, negative-, and orthogonal-phase-velocity propagation of
+  electromagnetic plane waves in a simply moving medium",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0307022,"Two Means of Compensating Fiber Nonlinearity Using Optical Phase
+  Conjugation",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0205091,"Maximizing bandgaps in two-dimensional photonic crystals: a variational
+  algorithm",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0204008,Effective area of photonic crystal fibers,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0202033,Strong-field terahertz-optical mixing in excitons,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0301083,"The spectral and polarization characteristics of the nonspherically
+  decaying radiation generated by polarization currents with superluminally
+  rotating distribution patterns",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0104088,"Self-trapping of light and nonlinear localized modes in 2D photonic
+  crystals and waveguides",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0111023,"Polarisation Patterns and Vectorial Defects in Type II Optical
+  Parametric Oscillators",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0606065,"Optical transfer cavity stabilization using current-modulated
+  injection-locked diode lasers",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0403139,Near-sighted superlens,2.4711431321721443e-06,0.0,1.0,2.0
+physics/0009017,"On the sensitivity of wave channeling of X-ray beam to the shape of
+  interface channels",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0010021,"Measurements of the instantaneous velocity difference and local velocity
+  with a fiber-optic coupler",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0309035,Opto-mechanical probes of resonances in amplifying microresonators,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0310065,Photonic crystal fiber design based on the V-parameter,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0603104,Bessel-X waves: superluminal propagation and the Minkowski space-time,2.4711431321721443e-06,0.0,1.0,0.0
+nlin/0007007,"Optical Solitons in Periodic Media with Resonant and Off-Resonant
+  Nonlinearities",2.4711431321721443e-06,0.0,1.0,1.0
+physics/0502122,Mode interaction in multi-mode optical fibers with Kerr effect,2.4711431321721443e-06,0.0,1.0,1.0
+quant-ph/0308070,"Probing the dispersive and spatial properties of planar photonic crystal
+  waveguide modes via highly efficient coupling from optical fiber tapers",2.4711431321721443e-06,0.0,1.0,4.0
+cond-mat/9903092,Direct current generation due to wave mixing in semiconductors,2.4711431321721443e-06,0.0,2.0,1.0
+math-ph/0201008,Perturbative Analysis of Dynamical Localisation,2.4711431321721443e-06,0.0,1.0,2.0
+physics/0510172,Optical spatial solitons in soft-matter: mode coupling theory approach,2.4711431321721443e-06,0.0,1.0,1.0
+physics/0307079,Material effects in airguiding photonic bandgap fibers,2.4711431321721443e-06,0.0,1.0,0.0
+quant-ph/0304028,"Resonant nonstationary amplification of polychromatic laser pulses and
+  conical emission in an optically dense ensemble of neon metastable atoms",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0604242,Glassy behavior of light in random lasers,2.4711431321721443e-06,0.0,1.0,0.0
+quant-ph/9810038,"Quantum Maxwell-Bloch equations for spontaneous emission in optical
+  semiconductor devices",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0607534,Light diffusion and localization in 3D nonlinear disordered media,2.4711431321721443e-06,0.0,1.0,0.0
+quant-ph/9711055,Photon counting sampling of phase space,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0701143,Comparison of spin effects and self forces on the electron,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0611087,On the effective permittivity of silver-insulator nanocomposites,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0611127,"Optical fiber taper coupling and high-resolution wavelength tuning of
+  microdisk resonators at cryogenic temperatures",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0611169,"Efficient Heating of Thin Cylindrical Targets by Broad Electromagnetic
+  Beams II",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0611187,Controlling mode locking in optical ring cavities,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0307144,Light Propagation in Turbulent Media,2.4711431321721443e-06,0.0,1.0,3.0
+physics/0511239,Coupled dynamics of atoms and radiation pressure driven interferometers,2.443709556907614e-06,0.0,3.0,0.0
+hep-th/9703212,A 1D Model for N-level Atoms Coupled to an EM Field,2.436563185817243e-06,0.0,1.0,0.0
+physics/9910026,"Quantum-like approach to the transversal and longitudinal beam dynamics.
+  The halo problem",2.429735359900988e-06,0.0,2.0,3.0
+physics/0102038,"On the physical nature of the photon mixing processes in nonlinear
+  optics",2.4194018275664897e-06,4.236760037242066e-06,2.0,4.0
+quant-ph/0204009,"Manifestation of classical wave delays in a fully quantized model of the
+  scattering of a single photon",2.4060086373771908e-06,0.0,1.0,2.0
+physics/0311057,Coherent Anti-Stokes Raman Scattering Heterodyne Interferometry,2.4060086373771908e-06,0.0,1.0,2.0
+quant-ph/0204173,"Electromagnetically induced transparency and reduced speeds for single
+  photons in a fully quantized model",2.4060086373771908e-06,0.0,1.0,2.0
+physics/0210064,"Transit times of radiation through photonic bandgap materials: Pulse
+  reshaping of classical and quantum fields in the time domain",2.4060086373771908e-06,0.0,1.0,0.0
+physics/0311071,Nonlinear interferometric vibrational imaging,2.4060086373771908e-06,0.0,1.0,2.0
+hep-ex/0001029,High energy photon colliders,2.3929739322317606e-06,1.5413110427855832e-06,12.0,12.0
+physics/9710014,High Energy Photon-Photon Colliders,2.3776426420773225e-06,0.0,5.0,4.0
+physics/0008021,"Ienversionless gain in an optically-dense resonant Doppler-broadened
+  medium",2.351931363051857e-06,0.0,6.0,0.0
+quant-ph/0202110,Time Evolution of Two-Level Systems Driven by Periodic Fields,2.3469198153586743e-06,0.0,1.0,1.0
+physics/0612200,"Nonlocal stabilization of nonlinear beams in a self-focusing atomic
+  vapor",2.3469198153586743e-06,0.0,1.0,0.0
+physics/0406068,Resonant light interaction with plasmonic nanowire systems,2.3469198153586743e-06,0.0,1.0,0.0
+quant-ph/0506213,Entanglement sharing: from qubits to Gaussian states,2.3455617798333165e-06,1.150357398967592e-05,2.0,3.0
+hep-ex/9802003,Physics goals and parameters of photon colliders,2.320678664521975e-06,1.0022247257375046e-05,8.0,29.0
+cond-mat/0411525,"Formation and annihilation of laser light pulse quanta in
+  thermodynamic-like pathway",2.3099200078733e-06,0.0,2.0,0.0
+cond-mat/0407514,Exact solution of the nonlinear laser passive mode locking transition,2.3099200078733e-06,0.0,2.0,0.0
+physics/0508041,Systematic study of the $^{87}$Sr clock transition in an optical lattice,2.2960610328299915e-06,0.0,2.0,4.0
+physics/0007076,"About nondegenerative four photon mixing gain spectroscopy of the SF_6
+  molecules",2.290350747923483e-06,6.700792350257454e-07,2.0,1.0
+physics/0611122,Theory of x-ray absorption by laser-dressed atoms,2.2634937854325143e-06,0.0,1.0,1.0
+physics/0103073,Nonlocal reflection by photonic barriers,2.259271123152672e-06,1.990182755160072e-06,1.0,2.0
+gr-qc/0107083,"4-Dimensional optics, an alternative to relativity",2.239320499328944e-06,0.0,4.0,7.0
+physics/0311030,The nonlinear directional coupler. An analytic solution,2.2292048190254982e-06,0.0,2.0,0.0
+physics/0208097,X-waves Generated at Second Harmonic,2.226949313305297e-06,0.0,3.0,2.0
+physics/0311006,"Efficient input and output fiber coupling to a photonic crystal
+  waveguide",2.216996446913695e-06,0.0,2.0,1.0
+physics/0610044,Femtosecond Diffractive Imaging with a Soft-X-ray Free-Electron Laser,2.214885187811095e-06,0.0,3.0,2.0
+nlin/0108006,Spatial optical solitons in nonlinear photonic crystals,2.2143508005387987e-06,0.0,2.0,0.0
+nlin/0511069,On the models of nonlocal nonlinear optics,2.1949665796634108e-06,0.0,1.0,0.0
+physics/0206018,Boundary element method for resonances in dielectric microcavities,2.183090591894573e-06,0.0,2.0,2.0
+hep-ex/0001028,Laser cooling of electron beams at linear colliders,2.157075672545191e-06,1.5957448746078633e-05,7.0,4.0
+nlin/0310024,Stability of vortex solitons in a photorefractive optical lattice,2.150523344497096e-06,0.0,1.0,4.0
+physics/0008019,"Four-wave mixing at maximum coherence and eliminated Doppler broadening
+  controlled with the driving fields",2.144766303781522e-06,0.0,4.0,0.0
+physics/0201013,"Measurement of Superluminal optical tunneling times in double-barrier
+  photonic bandgaps",2.137378765693223e-06,2.6535770068800902e-06,2.0,2.0
+physics/0606178,Geometrical Aspects in Optical Wavepacket Dynamics,2.135021976424762e-06,0.0,2.0,0.0
+physics/0102020,On a universal photonic tunnelling time,2.121102808254693e-06,4.643759762040169e-06,2.0,2.0
+hep-ex/9805002,Electron-photon interactions in high energy beam production and cooling,2.1081776914928763e-06,3.980365510320144e-06,4.0,22.0
+physics/0508190,Maximum-likelihood estimation prevents unphysical Mueller matrices,2.101698492329678e-06,0.0,2.0,0.0
+quant-ph/0312054,Statistical Reconstruction of Qutrits,2.100303694463671e-06,0.0,3.0,0.0
+hep-ex/0012047,Problems of multi-TeV photon colliders,2.089757433084328e-06,2.8018215446111275e-08,4.0,3.0
+physics/0205083,"Maxwell Optics: I. An exact matrix representation of the Maxwell
+  equations in a medium",2.070354408294657e-06,0.0,2.0,5.0
+physics/0205085,Maxwell Optics: III. Applications,2.070354408294657e-06,0.0,2.0,5.0
+physics/0205084,Maxwell Optics: II. An Exact Formalism,2.070354408294657e-06,0.0,2.0,5.0
+hep-ph/9705432,Multi-Boson Correlations Using Wave-Packets,2.045505294762768e-06,0.0,3.0,26.0
+quant-ph/0008023,"Inversionless gain in a three-level system driven by a strong field and
+  collisions",2.0390207738225755e-06,0.0,5.0,0.0
+quant-ph/0005118,"Interference at quantum transitions: lasing without inversion and
+  resonant four-wave mixing in strong fields at Doppler-broadened transitions",2.0390207738225755e-06,0.0,5.0,6.0
+physics/0209101,"Superluminal Localized Solutions to the wave equation, in (vacuum or)
+  dispersive media, for arbitrary frequencies and with adjustable bandwidth",2.015558438172377e-06,6.633942517200264e-06,2.0,4.0
+cond-mat/0007426,Localization in a random phase-conjugating medium,2.0102645366524904e-06,0.0,1.0,0.0
+quant-ph/0506049,"Entanglement, Purity, and Information Entropies in Continuous Variable
+  Systems",2.0066003488516416e-06,0.0,2.0,1.0
+physics/0601055,"Negative-Index Metamaterials: Second-Harmonic Generation, Manley-Rowe
+  Relations and Parametric Amplification",2.004257533926402e-06,0.0,1.0,0.0
+physics/0510103,Enhanced parametric processes in binary metamaterials,2.004257533926402e-06,0.0,1.0,0.0
+nlin/0702023,Nonlinear optical effects in artificial materials,2.004257533926402e-06,0.0,1.0,0.0
+quant-ph/0010026,Superluminal Phenomena and the Quantum Preferred Frame,1.9951551472835854e-06,7.4260550565674335e-09,2.0,1.0
+nlin/0506012,"Paraxial light in a Cole-Cole nonlocal medium: integrable regimes and
+  singularities",1.993275689043589e-06,1.990182755160072e-06,1.0,2.0
+quant-ph/0410122,Bell's inequality tests: from photons to B-mesons,1.9910555650428585e-06,0.0,2.0,3.0
+physics/0402019,"Enhanced transmission versus localization of a light pulse by a
+  subwavelength metal slit: Can the pulse have both characteristics?",1.985414404365336e-06,0.0,1.0,0.0
+physics/0408013,"Enhanced transmission versus localization of a light pulse by a
+  subwavelength metal slit",1.985414404365336e-06,0.0,1.0,1.0
+physics/0609187,"High-precision Absolute Distance Measurement using Dual-Laser Frequency
+  Scanned Interferometry Under Realistic Conditions",1.9776510486118606e-06,0.0,2.0,0.0
+physics/9907014,"Substrate-based atom waveguide using guided two-color evanescent light
+  fields",1.9752821856089024e-06,0.0,2.0,0.0
+quant-ph/9906107,Unravelling quantum carpets: a travelling wave approach,1.927803896309822e-06,0.0,2.0,4.0
+quant-ph/0406053,"Quantification and scaling of multipartite entanglement in continuous
+  variable systems",1.922609522262358e-06,0.0,1.0,4.0
+physics/0212016,Few cycle pulse propagation,1.9098753449786187e-06,0.0,1.0,1.0
+physics/0611213,Phase sensitivity of perturbative nonlinear interactions,1.9098753449786187e-06,0.0,1.0,0.0
+physics/0604170,"Derivation of Nonlinear Evolution Equations for Coupled and Single
+  Fields in a Quadratic Medium",1.9098753449786187e-06,0.0,1.0,0.0
+physics/0606112,"Wideband pulse propagation: a detailed calculation including Raman
+  processes",1.9098753449786187e-06,0.0,1.0,1.0
+physics/0309126,Image processing as state reconstruction in optics,1.9018313832823472e-06,0.0,1.0,0.0
+cond-mat/0505364,"Hyperpolarizabilities for the one-dimensional infinite single-electron
+  periodic systems: II. Dipole-dipole versus current-current correlations",1.8950380516170012e-06,0.0,1.0,0.0
+physics/0701193,Effect of local pumping on random laser modes,1.8950380516170012e-06,0.0,1.0,0.0
+physics/9912054,Atom-optics hologram in the time domain,1.8950380516170012e-06,0.0,1.0,0.0
+physics/0701238,"Turbulence Time Series Data Hole Filling using Karhunen-Loeve and ARIMA
+  methods",1.8950380516170012e-06,0.0,1.0,0.0
+physics/0011012,Coherent control of enrichment and conversion of molecular spin isomers,1.8950380516170012e-06,0.0,1.0,4.0
+physics/0405086,"Far-field spectral characterization of conical emission and
+  filamentation in Kerr media",1.8950380516170012e-06,0.0,1.0,1.0
+cond-mat/0505363,"Hyperpolarizabilities for the one-dimensional infinite single-electron
+  periodic systems: I. Analytical solutions under dipole-dipole correlations",1.8950380516170012e-06,0.0,1.0,0.0
+quant-ph/0510119,Upper Bound Imposed upon Responsivity of Optical Modulators,1.8950380516170012e-06,0.0,1.0,1.0
+physics/0506174,"Gigantic transmission band edge resonance in periodic stacks of
+  anisotropic layers",1.8950380516170012e-06,0.0,1.0,0.0
+physics/0507009,Surface state photonic bandgap cavities,1.8950380516170012e-06,0.0,1.0,0.0
+physics/0301067,Asymptotic Probability Density Function of Nonlinear Phase Noise,1.8950380516170012e-06,0.0,1.0,2.0
+physics/0608083,"Demonstration of a moving guide based atom interferometer for rotation
+  sensing",1.8950380516170012e-06,0.0,1.0,0.0
+physics/0506129,"Anisotropic enhancement of group velocity in a homogenized dielectric
+  composite medium",1.8950380516170012e-06,0.0,1.0,0.0
+nlin/0409023,Resonant light scattering by optical solitons,1.8950380516170012e-06,0.0,1.0,1.0
+physics/0410157,"Spatial homogeneity of optically switched semiconductor photonic
+  crystals and of bulk semiconductors",1.8950380516170012e-06,0.0,1.0,0.0
+gr-qc/9808077,Observable frequency shifts via spin-rotation coupling,1.8950380516170012e-06,0.0,1.0,1.0
+astro-ph/0212124,A new aspects of physics of a photon gas,1.8950380516170012e-06,0.0,1.0,0.0
+physics/0510273,Waveguiding properties of surface states in photonic crystals,1.8950380516170012e-06,0.0,1.0,1.0
+quant-ph/0206188,"New q-deformed coherent states with an explicitly known resolution of
+  unity",1.8950380516170012e-06,0.0,1.0,0.0
+physics/0701022,"Humidity contribution to C_n^2 over a 600m pathlength in a tropical
+  marine environment",1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/9902109,"Electronic states of metallic and semiconducting carbon nanotubes with
+  bond and site disorder",1.8950380516170012e-06,0.0,1.0,0.0
+physics/0508235,"Classification of dispersion equations for homogeneous
+  dielectric-magnetic uniaxial materials",1.8950380516170012e-06,0.0,1.0,0.0
+physics/0510199,The Ultimate Fundamental Limits of Nonlinear-Optical Phenomena,1.8950380516170012e-06,0.0,1.0,0.0
+physics/0512055,"Directional interacting whispering gallery modes in coupled dielectric
+  microdisks",1.8950380516170012e-06,0.0,1.0,0.0
+physics/0309123,"Superluminal Phenomena as Instantaneous Transferring of Excitations in
+  Correspondence with the Wigner Principle of Causality",1.8950380516170012e-06,0.0,1.0,0.0
+physics/0210035,Numerical methods for solving the time-dependent Maxwell equations,1.8950380516170012e-06,0.0,1.0,1.0
+physics/0511197,"Non-perturbative approach to high-index-contrast variations in
+  electromagnetic systems",1.8950380516170012e-06,0.0,1.0,0.0
+physics/0511025,"Coexistence of single-mode and multi-longitudinal mode emission in the
+  ring laser model",1.8950380516170012e-06,0.0,1.0,0.0
+physics/0202053,A geometrical setting for the classification of multilayers,1.8950380516170012e-06,0.0,1.0,0.0
+physics/0207122,Optical Kerr type nonlinearity,1.8950380516170012e-06,0.0,1.0,0.0
+physics/0305077,General unit-disk representation for periodic multilayers,1.8950380516170012e-06,0.0,1.0,0.0
+physics/0408050,Diffraction gratings of isotropic negative phase-velocity materials,1.8950380516170012e-06,0.0,1.0,1.0
+chao-dyn/9804041,Light Squeezing at the Transition to Quantum Chaos,1.8950380516170012e-06,0.0,1.0,2.0
+physics/0009006,"Theory of sub-10 fs Generation in Kerr-lens Mode-locked Solid-State
+  Lasers with a Coherent Semiconductor Absorber",1.8950380516170012e-06,0.0,1.0,0.0
+nlin/0702033,"Universally-convergent Squared-operator Iteration Methods for Solitary
+  Waves in General Nonlinear Wave Equations",1.8950380516170012e-06,0.0,1.0,0.0
+astro-ph/0611702,Nonlinear Dynamics of Incoherent Superstrong Radiation in a Plasma,1.8950380516170012e-06,0.0,1.0,0.0
+physics/0402095,"Planewave diffraction at the periodically corrugated boundary of vacuum
+  and a negative phase-velocity material",1.8950380516170012e-06,0.0,1.0,0.0
+physics/0506102,"Coupled-mode theory for periodic side-coupled microcavity and photonic
+  crystal structures",1.8950380516170012e-06,0.0,1.0,0.0
+nlin/0702035,"Coherent optical pulse dynamics in nanocomposite plasmonic Bragg
+  gratings",1.8950380516170012e-06,0.0,1.0,1.0
+gr-qc/0003075,A nongravitational wormhole,1.885436300274416e-06,0.0,3.0,6.0
+physics/0703258,"Comment on ""Resonant multi-photon IR dissociation spectroscopy of a
+  trapped and sympathetically cooled biomolecular ion species""",1.87857116763214e-06,0.0,1.0,1.0
+physics/0403103,Asymmetric vortex solitons in nonlinear periodic lattices,1.858990446547792e-06,0.0,2.0,1.0
+nlin/0405019,Bifurcations and stability of gap solitons in periodic potentials,1.8355205207729385e-06,0.0,2.0,0.0
+physics/9904063,Quantum aspects of accelerator optics,1.8322001617460968e-06,0.0,3.0,4.0
+physics/0304045,"Light transport in cold atoms: the fate of coherent backscattering in
+  the weak localization regime",1.7954387324238956e-06,0.0,1.0,0.0
+nlin/0309018,"Observation of discrete vortex solitons in optically-induced photonic
+  lattices",1.7912133782471866e-06,0.0,1.0,2.0
+quant-ph/0603090,"Finite-dimensional states and entanglement generation for a nonlinear
+  coupler",1.785303750558879e-06,0.0,2.0,0.0
+math-ph/0309010,"Helicity, polarization, and Riemann-Silberstein vortices",1.784871233188811e-06,0.0,2.0,3.0
+gr-qc/0201061,Analog black holes in flowing dielectrics,1.784518447681234e-06,0.0,2.0,3.0
+quant-ph/0005108,"Inversionless amplification and laser-induced transparency at the
+  discrete transitions and the transitions to continuum",1.7821447328011453e-06,0.0,4.0,9.0
+quant-ph/0505019,"Optical switching and inversionless amplification controlled by
+  state-dependent alignment of molecules",1.7821447328011453e-06,0.0,4.0,0.0
+quant-ph/0310044,"Inversionless light amplification and optical switching controlled by
+  state-dependent alignment of molecules",1.7821447328011453e-06,0.0,4.0,0.0
+quant-ph/0005114,"Atomic coherence and interference phenomena in resonant nonlinear
+  optical interactions",1.7821447328011453e-06,0.0,4.0,7.0
+physics/0411252,Comparison of warm and cold photon colliders,1.7794135312389242e-06,0.0,2.0,0.0
+quant-ph/0412125,"Equivalence between Entanglement and the Optimal Fidelity of Continuous
+  Variable Teleportation",1.7782352506445166e-06,2.6756789218790293e-06,1.0,6.0
+cond-mat/0511427,Glassy behavior of light,1.7723035942235312e-06,0.0,1.0,0.0
+hep-ex/9908005,"Status of gamma-gamma, gamma-electron colliders",1.7565297192558825e-06,9.685545281805452e-05,7.0,31.0
+physics/0512096,Active Optical Clock,1.732672852054361e-06,1.990182755160072e-06,1.0,1.0
+physics/0603020,"Optical control of spin coherence in singly charged (In,Ga)As/GaAs
+  quantum dots",1.7298040892779342e-06,0.0,1.0,0.0
+quant-ph/0604018,Quantum Reversibility and Echoes in Interacting Systems,1.719955952274848e-06,0.0,1.0,0.0
+physics/0307038,"Novel properties of wave propagation in biaxially anisotropic
+  left-handed materials",1.719955952274848e-06,0.0,1.0,1.0
+nlin/0302058,Multi-gap discrete vector solitons,1.7187608608547431e-06,0.0,1.0,1.0
+physics/0608225,Opaque perfect lenses,1.7049487579833262e-06,0.0,2.0,0.0
+physics/0111170,Theory of a Slow-Light Catastrophe,1.703003024765287e-06,0.0,1.0,2.0
+physics/0405037,Observation of discrete gap solitons in binary waveguide arrays,1.703003024765287e-06,0.0,1.0,1.0
+quant-ph/0403076,Quantum key distribution using polarized coherent states,1.703003024765287e-06,0.0,1.0,1.0
+physics/0507156,General Recipe for Designing Photonic Crystal Cavities,1.703003024765287e-06,0.0,1.0,0.0
+physics/0312126,"Guiding optical flows by photonic crystal slabs made of dielectric
+  cylinders",1.703003024765287e-06,0.0,1.0,1.0
+hep-th/9905120,A Condensation of Interacting Bosons in Two Dimensional Space,1.703003024765287e-06,0.0,1.0,0.0
+quant-ph/0412085,"Optical loss and lasing characteristics of high-quality-factor AlGaAs
+  microdisk resonators with embedded quantum dots",1.703003024765287e-06,0.0,1.0,0.0
+physics/0408135,What are the left-handed media and what is interesting about them?,1.703003024765287e-06,0.0,1.0,0.0
+physics/0505098,"Coupling of PbS Quantum Dots to Photonic Crystal Cavities at Room
+  Temperature",1.703003024765287e-06,0.0,1.0,0.0
+physics/0601037,Nonlinear Bloch modes in two-dimensional photonic lattices,1.703003024765287e-06,0.0,1.0,0.0
+cond-mat/0207026,Imaging the Near Field,1.703003024765287e-06,0.0,1.0,3.0
+physics/0603247,Development of deformation-tunable quadrupolar microcavity,1.703003024765287e-06,0.0,1.0,0.0
+physics/0603019,Self-image effects for diffraction and dispersion,1.703003024765287e-06,0.0,1.0,0.0
+physics/9905034,Quantum-like approaches to the beam halo problem,1.703003024765287e-06,0.0,1.0,2.0
+physics/0602059,"High resolution atomic coherent control via spectral phase manipulation
+  of an optical frequency comb",1.703003024765287e-06,0.0,1.0,0.0
+cond-mat/0206566,"Optical gain removes absorption and increases resolution in a near-field
+  lens",1.703003024765287e-06,0.0,1.0,0.0
+physics/0412002,"Nonlinear absorption and dispersion in fiber-taper-coupled silicon
+  photonic crystal microresonators",1.703003024765287e-06,0.0,1.0,0.0
+physics/0510067,"Talbot effect for dispersion in linear optical fibers and a wavelet
+  approach",1.703003024765287e-06,0.0,1.0,0.0
+nlin/0604031,"Nonlinearity Management in Optics: Experiment, Theory, and Simulation",1.7020737919216664e-06,0.0,1.0,0.0
+physics/0204066,Electromagnetic nonlinear X-waves,1.6864816100263282e-06,1.990182755160072e-06,1.0,5.0
+gr-qc/0002011,"Comment on ""Relativistic Effects of Light in Moving Media with Extremely
+  Low Group Velocity""",1.680278677696898e-06,7.819509924048188e-06,2.0,11.0
+cond-mat/9905266,Dark states of dressed Bose-Einstein condensates,1.6610914464294272e-06,0.0,1.0,0.0
+physics/0209102,"Superluminal Localized Solutions to Maxwell Equations propagating along
+  a waveguide: The finite-energy case",1.6521736877135973e-06,0.0,1.0,1.0
+physics/0303083,Spontaneously generated X-shaped light bullets,1.6289586421187702e-06,0.0,1.0,2.0
+quant-ph/0003053,"Fidelity and information in the quantum teleportation of continuous
+  variables",1.624396599793996e-06,0.0,1.0,1.0
+quant-ph/9909013,"Nonclassical correlations of phase noise and photon number in quantum
+  nondemolition measurements",1.624396599793996e-06,0.0,1.0,1.0
+hep-ph/9705433,Analytic Solution of the Pion-Laser Model,1.6198890235847975e-06,0.0,1.0,10.0
+quant-ph/0108125,"Completeness of photon-added squeezed vacuum and one-photon-states and
+  of photon-added coherent states on a circle",1.60698551133943e-06,0.0,1.0,0.0
+math-ph/0007016,"Spectrum generating algebra of the C_{\lambda}-extended oscillator and
+  multiphoton coherent states",1.60698551133943e-06,0.0,1.0,1.0
+physics/0504216,"Studies of the $^{1}$S$_{0}$--$^3$P$_0$ transition in atomic ytterbium
+  for optical clocks and qubit arrays",1.60698551133943e-06,0.0,1.0,2.0
+physics/0501089,Role of spatial coherence in polarization tomography,1.60698551133943e-06,0.0,1.0,0.0
+physics/9809032,Quantum theory of magnetic quadrupole lenses for spin-1/2 particles,1.6000179896004105e-06,0.0,2.0,6.0
+physics/0205029,Multiple scattering of light by atoms with internal degeneracy,1.5822903941729702e-06,0.0,1.0,3.0
+physics/0205071,"Problem of water vapor absorption continuum in atmospheric windows.
+  Return of dimer hypothesis",1.5808204065471895e-06,0.0,1.0,1.0
+physics/0509105,Pyramidal micro-mirrors for microsystems and atom chips,1.5658070674199763e-06,0.0,1.0,0.0
+hep-ex/9810019,"Gamma-gamma, gamma-electron colliders",1.5520945305963457e-06,2.0615162367347576e-06,3.0,17.0
+astro-ph/0110705,"The nonlinear-electrodynamic bending of the x-ray and gamma-ray in the
+  magnetic field of pulsars and magnetars",1.5506205108235762e-06,0.0,1.0,1.0
+physics/0209022,Progress of the Volume FEL (VFEL) experiments in millimeter range,1.5493750032839157e-06,0.0,1.0,0.0
+physics/0001039,"Localized Superluminal solutions to Maxwell equations propagating along
+  a normal-sized waveguide",1.5493750032839157e-06,0.0,1.0,4.0
+physics/0410272,"The role of electromagnetic trapped modes in extraordinary transmission
+  in nanostructured materials",1.5493750032839157e-06,0.0,1.0,0.0
+physics/0409107,"Electrodynamical properties of a ""grid"" volume resonator for travelling
+  wave tube and backward wave oscillator",1.5493750032839157e-06,0.0,1.0,3.0
+physics/0502079,Time and Frequency description of Optical Pulses,1.5493750032839157e-06,0.0,1.0,0.0
+physics/0410270,Electromagnetic Pulse Propagation in Passive Media by the Lanczos Method,1.5493750032839157e-06,0.0,1.0,0.0
+physics/0410271,"Lanczos Pseudospectral Propagation Method for Initial-Value Problems in
+  Electrodynamics of Passive Media",1.5493750032839157e-06,0.0,1.0,0.0
+physics/0312103,"Applications of the wave packet method to resonant transmission and
+  reflection gratings",1.5493750032839157e-06,0.0,1.0,2.0
+physics/0512074,"Wave packet propagation by the Faber polynomial approximation in
+  electrodynamics of passive media",1.5493750032839157e-06,0.0,1.0,0.0
+quant-ph/0505130,"Observation of triply coincident nonlinearities in periodically poled
+  KTiOPO4",1.5472980692689834e-06,2.3861130330918536e-06,1.0,4.0
+gr-qc/0209079,Modification of the Doppler Effect due to the Helicity-Rotation Coupling,1.5158116914877331e-06,0.0,1.0,2.0
+physics/0111160,Fresnel laws at curved dielectric interfaces of microresonators,1.5109679979135728e-06,0.0,1.0,0.0
+nlin/0512028,Multi-peaked localized states of DNLS in one and two dimensions,1.5109679979135728e-06,0.0,1.0,0.0
+physics/0412179,Laser Control of Atomic Motion inside Diatomic Molecules,1.5109679979135728e-06,0.0,1.0,0.0
+physics/0109059,"Deviation from Snell's Law for Beams Transmitted Near the Critical
+  Angle: Application to Microcavity Lasers",1.5109679979135728e-06,0.0,1.0,0.0
+physics/0308001,"Dramatic Shape Sensitivity of Directional Emission Patterns from
+  Similarly Deformed Cylindrical Polymer Lasers",1.5109679979135728e-06,0.0,1.0,3.0
+physics/9712051,"On Localized ""X-shaped"" Superluminal Solutions to Maxwell Equations",1.5109679979135728e-06,0.0,1.0,2.0
+quant-ph/0108126,"Generalized coherent states associated with the C_{\lambda}-extended
+  oscillator",1.5026814700416896e-06,0.0,1.0,0.0
+physics/9906038,Optics of Nonuniformly Moving Media,1.4835344226490424e-06,0.0,1.0,4.0
+physics/0308064,Coherent X-ray Diffractive Imaging; applications and limitations,1.4835344226490424e-06,0.0,1.0,3.0
+math-ph/0201002,(3+0)D electromagnetic solitons and de Broglie's ''double solution'',1.4835344226490424e-06,0.0,1.0,0.0
+quant-ph/0005083,"On the generation and identification of optical Schr\""odinger cats",1.4629592412006444e-06,0.0,1.0,1.0
+quant-ph/9912043,Quantum non-demolition (QND) modulation of quantum interference,1.4629592412006444e-06,0.0,1.0,0.0
+physics/0610231,Mismatch management for optical and matter-wave quadratic solitons,1.462303815171078e-06,0.0,1.0,0.0
+cond-mat/0507325,Effective conductivity of composites of graded spherical particles,1.446956322296335e-06,0.0,1.0,1.0
+cond-mat/0405427,Optical nonlinearity enhancement of graded metallic films,1.446956322296335e-06,0.0,1.0,0.0
+quant-ph/0005089,"Enhanced four-wave mixing via elimination of inhomogeneous broadening by
+  coherent driving of quantum transition with control fields",1.446956322296335e-06,0.0,1.0,1.0
+cond-mat/0308032,"Effective nonlinear optical properties of composite media of graded
+  spherical particles",1.446956322296335e-06,0.0,1.0,2.0
+physics/0102074,"Effective theory of systems coupled strongly to rapidly-varying external
+  sources",1.4449597275747092e-06,0.0,1.0,0.0
+quant-ph/0510052,Bipartite and Multipartite Entanglement of Gaussian States,1.4337317954795343e-06,2.116956123625759e-06,1.0,7.0
+physics/9803042,The Dirac equation approach to spin-1/2 particle beam optics,1.423679349344612e-06,0.0,1.0,7.0
+physics/0503122,A Millimeter-Wave Achromatic Half Wave Plate,1.4227721613356663e-06,0.0,1.0,0.0
+gr-qc/0603073,Could quantum gravity be tested with high intensity Lasers?,1.4188230870929046e-06,2.205208815817625e-09,2.0,4.0
+quant-ph/0610012,"CPT-like states in an ensemble of interacting fermions. On the
+  possibility of new mechanism of superconductivity",1.3991161213346422e-06,1.990182755160072e-06,1.0,1.0
+physics/0311122,Analysis on the imaging properties of a left-handed material slab,1.3909461061312514e-06,0.0,1.0,0.0
+physics/0305126,Nonlinear surface waves in left-handed materials,1.3909461061312514e-06,0.0,1.0,1.0
+cond-mat/0501034,"Surface polaritons on left-handed cylinders: A complex angular momentum
+  analysis",1.3909461061312514e-06,0.0,1.0,0.0
+physics/9706035,Progress in Photon Colliders,1.376543479117373e-06,0.0,1.0,2.0
+physics/0409110,"High-precision Absolute Distance and Vibration Measurement using
+  Frequency Scanned Interferometry",1.3725466168383344e-06,0.0,1.0,2.0
+physics/0001064,Space-time geometry of quantum dielectrics,1.3547201680850254e-06,0.0,1.0,3.0
+physics/0611104,Holographic Principle and Quantum Physics,1.3206739599156945e-06,0.0,1.0,0.0
+physics/0605046,Interference-filter-stabilized external-cavity diode lasers,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0607254,Strong relative intensity squeezing by 4-wave mixing in Rb vapor,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0412198,Berry Phase and Adiabatic Breakdown in Optical Modulator,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0007097,Slow light,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0309190,"Optical-fiber based measurement of an ultra-small volume high-Q photonic
+  crystal microcavity",1.3189329710618589e-06,0.0,0.0,3.0
+nlin/0311059,Controlled generation and steering of spatial gap solitons,1.3189329710618589e-06,0.0,0.0,3.0
+physics/0608109,"Influence of magnetic-field inhomogeneity on nonlinear magneto-optical
+  resonances",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0202051,Transparency of Magnetized Plasma at Cyclotron Frequency,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/9810003,Ultra-bright source of polarization-entangled photons,1.3189329710618589e-06,0.0,0.0,9.0
+physics/0303013,Extreme Outages due to Polarization Mode Dispersion,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0605002,Exact equivalent-profile formulation for bent optical waveguides,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0603043,Leaky cavities with unwanted noise,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0212106,"Development prospects and stability limits of the mid-IR Kerr-lens
+  mode-locked lasers",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0509181,"Saturable Absorber, Coherent Population Oscillations, and ""Slow Light""",1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/9708031,Quantum control by compensation of quantum fluctuations,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0510125,"Photonic Bloch oscillations and Zener tunneling in two-dimensional
+  optical lattices",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0211007,"On unusual narrow transmission bands for a multi-layered periodic
+  structure containing left-handed materials",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0505061,Plasmonic bandgaps and Trapped Plasmons on Nanostructured Metal Surfaces,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0305133,"Positive and Negative Goos-Hanchen Shifts and Negative Phase--Velocity
+  Mediums (alias Left-Handed Materials)",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0410206,"Direct Observation of Controlled Coupling in an Individual Quantum Dot
+  Molecule",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0305032,"Giant Goos-Hanchen effect at the reflection from left-handed
+  metamaterials",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0506067,Diffraction-Attenuation Resistant Beams in Absorbing Media,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0304047,Fundamental and vortex solitons in a two-dimensional optical lattice,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/9801059,Statistical uncertainty in quantum optical photodetection measurements,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0303014,"Compensation for Extreme Outages caused by Polarization Mode Dispersion
+  and Amplifier noise",1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0004033,"A new conception experimental test of Bell inequalities using
+  non-maximally entangled states",1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0008122,"Finite resolution measurement of the non-classical polarization
+  statistics of entangled photon pairs",1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0009028,New schemes for manipulating quantum states using a Kerr cell,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0206475,Langevin description of speckle dynamics in nonlinear disordered media,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0504039,Multiple scattering of photons by atomic hyperfine multiplets,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0003056,Axicon Gaussian Laser Beams,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0003057,Diffraction as a Consequence of Faraday's Law,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0405059,Chirped optical X-shaped pulses in material media,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9810049,"Coupled exciton model with off-diagonal disorder for optical excitations
+  in extended dendrimers",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0309036,Towards a classification of wave catastrophes,1.3189329710618589e-06,0.0,0.0,1.0
+gr-qc/0209076,Gravitational Optics: Self-phase modulation and harmonic cascades,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0002025,"First experimental test of Bell inequalities performed using a
+  non-maximally entangled state",1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0003012,"New experimental test of Bell inequalities by the use of a non-maximally
+  entangled photon state",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0603175,"Manipulating the polarization of laser beams by an external magnetic
+  field",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0603254,Analysis on the effect of technical fluctuations on laser lineshape,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0511210,Orthogonal-Phase-Velocity Propagation of Electromagnetic Plane Waves,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0511133,"Strongly nonexponential time-resolved fluorescence of quantum-dot
+  ensembles in three-dimensional photonic crystals",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0506120,Bessel beam propagation: Energy localization and velocity,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0408017,"A random walk through surface scattering phenomena: Theory and
+  phenomenology",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0311241,Solution of a statistical mechanics model for pulse formation in lasers,1.3189329710618589e-06,0.0,0.0,2.0
+quant-ph/9903041,Slow Decoherence of Superpositions of Macroscopically Distinct States,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0408031,"75%-efficiency blue generation from an intracavity PPKTP frequency
+  doubler",1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0608115,Quantum levitation by left-handed metamaterials,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0312075,"Nonradiating normal modes in a classical many-body model of matter
+  radiation interaction",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0310057,"Distortion-free tight confinement and step-like decay of fs pulses in
+  free space",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0309019,"Geometric interpretation of the 3-dimensional coherence matrix for
+  nonparaxial polarization",1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/9912072,"Nonclassical correlations of photon number and field components in the
+  vacuum state",1.3189329710618589e-06,0.0,0.0,3.0
+quant-ph/0509220,"Macroscopic quantum information channel via the polarization-sensitive
+  interaction between the light and spin subsystems",1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9807033,Transient Hamiltonian chaos in the cavity electrodynamics,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0502025,Trojan states of electrons guided by Bessel beams,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0510169,"A precision test of the isotropy of the speed of light using rotating
+  cryogenic optical cavities",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0307018,"Definition and measurement of the local density of electromagnetic
+  states close to an interface",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0105055,Linearisation of optical effects at low light levels,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9809005,An analysis of dynamical suppression of spontaneous emission,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/9707046,"Quantum control of atomic systems by time resolved homodyne detection
+  and feedback",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0511123,"Pump-probe nonlinear magneto-optical rotation with frequency modulated
+  light",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0311021,Dynamic Nonlinear X-waves for Femtosecond Pulse Propagation in Water,1.3189329710618589e-06,0.0,0.0,2.0
+physics/9806021,Directional emission from asymmetric resonant cavities,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0101005,"Observation of emission from chaotic lasing modes in deformed
+  microspheres: displacement by the stable orbit modes",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0006136,Instabilities of waves in nonlinear disordered media,1.3189329710618589e-06,0.0,0.0,2.0
+quant-ph/0611167,"Continuous Variable Quantum Cryptography using Two-Way Quantum
+  Communication",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0303127,Diffuse waves in nonlinear disordered media,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0408021,Towards gravitationally assisted negative refraction of light by vacuum,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9712011,Average Number of Coherent Modes for Pulse Random Fields,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9610024,Accuracy of Sampling Quantum Phase Space in Photon Counting Experiment,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0702079,"An optical fiber-taper probe for wafer-scale microphotonic device
+  characterization",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0411739,"Rough surface scattering in many-mode conducting channels: Gradient
+  versus amplitude scattering",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0406005,Ultraviolet photonic crystal laser,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/9812019,"The 1/N-expansion, quantum-classical correspondence and nonclassical
+  states generation in dissipative higher-order anharmonic oscillators",1.3189329710618589e-06,0.0,0.0,1.0
+physics/9807011,"Quantum Maxwell-Bloch equations for spatially inhomogeneous
+  semiconductor lasers",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0401319,"Finite-Difference and Pseudospectral Time-Domain Methods Applied to
+  Backwards-Wave Metamaterials",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0508127,"Supermodes of photonic crystal CCWs and multimode bistable switchings
+  with uniform thresholds",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0311081,"Space-time nonlinear compression and three-dimensional complex trapping
+  in normal dispersion",1.3189329710618589e-06,0.0,0.0,2.0
+math/0008225,"Optimizing Schroedinger functionals using Sobolev gradients:
+  Applications to Quantum Mechanics and Nonlinear Optics",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0207003,"A Gaussian-optical Approach to Stable Periodic Orbit Resonances of
+  Partially Chaotic Dielectric Micro-cavities",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0606212,"Ray-wave correspondence in the nonlinear description of stadium-cavity
+  lasers",1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0006055,"Structure of the density matrix providing the minimum of generalized
+  uncertainty relation for mixed states",1.3189329710618589e-06,0.0,0.0,2.0
+math-ph/0401028,"Energy-momentum conservation in pre-metric electrodynamics with magnetic
+  charges",1.3189329710618589e-06,0.0,0.0,3.0
+physics/0203084,"On planewave remittances and Goos-Haenchen shifts of planar slabs with
+  negative real permittivity and permeability",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0302096,Magnetoelectric Jones Dichroism in Atoms,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0610008,"Breaking of Energy Conservation Law: Creating and Destroying of Energy
+  by Subwavelength Nanosystems",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0606055,"Non-classical Energy Conservation in Multi-wave Systems: ""Extra Energy"",
+  ""Negative Energy"" and ""Annihilation of Energy""",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0311015,"Polarization effects in metallic films perforated with a bidimensional
+  array of subwavelength rectangular holes",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0511072,"Optical fibers with interferometric path length stability by controlled
+  heating for transmission of optical signals and as components in frequency
+  standards",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0403091,SPEDEN: Reconstructing single particles from their diffraction patterns,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0309064,"New features of modulational instability of partially coherent light;
+  importance of the incoherence spectrum",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0310007,"Focusing a radially polarized light beam to a significantly smaller spot
+  size",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0310091,"Comments on ""Geometric Phase Associated with Transformations of Optical
+  Beams Bearing Orbital Angular Momentum""",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0509149,"Three-dimensional isotropic perfect lens based on LC-loaded transmission
+  lines",1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/0210056,Lens optics as an optical computer for group contractions,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0311132,Recoil-induced lasing,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0002047,Jaynes-Cummings model with degenerate atomic levels,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0604045,"Coexistence of Josephson oscillations and novel self-trapping regime in
+  optical waveguide arrays",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0307029,"Note on transformation to general curvilinear coordinates for Maxwell's
+  curl equations (Is the magnetic field vector axial?)",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0601044,Relativistic plasma control for single attosecond pulse generation,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0307078,"Mode areas and field energy distribution in honeycomb photonic bandgap
+  fibers",1.3189329710618589e-06,0.0,0.0,1.0
+physics/9911073,Polarized Electromagnetic Radiation from Spatially Correlated Sources,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0307150,A novel view of plane wave expansion method in photonic crystals,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9910036,HeXLN: A 2-Dimensional nonlinear photonic crystal,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0601079,Comparison of 87Rb N-resonances for D1 and D2 transitions,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0309030,"Mode-Field Radius of Photonic Crystal Fibers Expressed by the
+  V-parameter",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0503226,"Tunable positive and negative refraction in optically-induced photonic
+  lattices",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0608210,"Depolarization regions of nonzero volume in bianisotropic homogenized
+  composites",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0608142,"Nonlinear photonic crystal fibres: pushing the zero-dispersion toward
+  the visible",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0504102,"Coupling into the slow light mode in slab-type photonic crystal
+  waveguides",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0504044,"Tables of rovibronic term values for singlet electronic states of BH
+  molecule",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0608116,"Analysis of surface waves generated on subwavelength-structured silver
+  films",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0607285,Intense ultrashort electromagnetic pulses and the equation of motion,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0309075,"Nonlinear Bloch-wave interaction and Bragg scattering in
+  optically-induced lattices",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0612063,"Ultrashort filaments of light in weakly-ionized, optically-transparent
+  media",1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0412096,"Scalar and vector modulation instabilities induced by vacuum
+  fluctuations in fibers: numerical study",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0611017,"Self consistent determination of plasmonic resonances in ternary
+  nanocomposites",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0610073,"Theory of electrically controlled exhibition of circular Bragg
+  phenomenon by an obliquely excited structurally chiral material",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0610039,Counterposition and negative refraction due to uniform motion,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0609094,Design of resonant microcavities: application to optical gyroscopes,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0504037,Momentum Analysis in Strong-field Double Ionization,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0507187,"Phase-Locked, Low-Noise, Frequency Agile Titanium: Sapphire Lasers for
+  Simultaneous Atom Interferometers",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0309079,"Localized wave solutions of the scalar homogeneous wave equation and
+  their optical implementation",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0003092,Ultrahigh sensitivity of slow-light gyroscope,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0407029,"Forward-backward equations for nonlinear propagation in
+  axially-invariant optical systems",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0512008,"On the Bergman-Milton bounds for the homogenization of dielectric
+  composite materials",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0202073,Numerical Aperture of Single-Mode Photonic Crystal Fibers,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0201038,"Voltage-controlled wavelength conversion by terahertz electro-optic
+  modulation in double quantum wells",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0211088,"The frequency spectrum of focused broadband pulses of electromagnetic
+  radiation generated by polarization currents with superluminally rotating
+  distribution patterns",1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0008010,"Frequency tuning of the whispering gallery modes of silica microspheres
+  for CQED and spectroscopy",1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0009067,Experimental test of local realism using non-maximally entangled states,1.3189329710618589e-06,0.0,0.0,3.0
+physics/0504077,Coupled mode theory for photonic crystal cavity-waveguide interaction,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0503022,Flicker noise in high-speed p-i-n photodiodes,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0406101,"Rayleigh scattering, mode coupling, and optical loss in silicon
+  microdisks",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0510002,"Truncated Sum Rules and their use in Calculating Fundamental Limits of
+  Nonlinear Susceptibilities",1.3189329710618589e-06,0.0,0.0,2.0
+quant-ph/0605234,"Integration of fiber coupled high-Q silicon nitride microdisks with atom
+  chips",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0301026,Analytical Modeling of the White Light Fringe,1.3189329710618589e-06,0.0,0.0,3.0
+physics/0303090,Statistical Properties of Nonlinear Phase Noise,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0405031,Spatial solitons in nonlinear left-handed metamaterials,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9807033,"Numerical simulation of gliding reflection of X-ray beam from rough
+  surface",1.3189329710618589e-06,0.0,0.0,1.0
+astro-ph/0703622,"High-precision wavelength calibration of astronomical spectrographs with
+  laser frequency combs",1.3189329710618589e-06,0.0,0.0,1.0
+hep-ex/9610008,Laser cooling of electron beams for linear colliders,1.3189329710618589e-06,0.0,0.0,20.0
+physics/9805038,Precision Measurement of the Casimir Force from 0.1 to 0.9 microns,1.3189329710618589e-06,0.0,0.0,18.0
+cond-mat/0211532,Dielectric response of spherical particles of graded materials,1.3189329710618589e-06,0.0,0.0,9.0
+nlin/0211049,"The Discrete Nonlinear Schr\""odinger equation - 20 Years on",1.3189329710618589e-06,0.0,0.0,17.0
+physics/0602174,"Nonlocality-controlled interaction of spatial solitons in nematic liquid
+  crystals",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0312136,"Electromagnetic wave scattering from a random layer with rough
+  interfaces II: Diffusive intensity",1.3189329710618589e-06,0.0,0.0,2.0
+nlin/0310034,Universal level-spacing distribution in quantum systems,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0403067,"A new technique to generate 100 GW-level attosecond X-ray pulses from
+  the X-ray SASE FELs",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0403013,"Optical parametric oscillators in isotropic photonic crystals and
+  cavities: 3D time domain analysis",1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0208036,Discrete gap solitons in modulated waveguide arrays,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0403111,Sub-wavelength imaging with a left-handed material flat lens,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0112047,Two and three-dimensional oscillons in nonlinear Faraday resonance,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0404040,"Non-linear unbalanced Bessel beams: Stationary conical waves supported
+  by nonlinear losses",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0104074,Do Fresnel coefficients exist?,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0502059,"An assessment of the resolution limitation due to radiation-damage in
+  x-ray diffraction microscopy",1.3189329710618589e-06,0.0,0.0,5.0
+hep-th/9701016,The Scattering Theory of Oscillator Defects in an Optical Fiber,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/9808010,Squeezed Light Generation in Nonlinear System with Chaotic Dynamics,1.3189329710618589e-06,0.0,0.0,3.0
+physics/9904064,Quantum mechanical aspects of the halo puzzle,1.3189329710618589e-06,0.0,0.0,3.0
+physics/0306174,X-ray image reconstruction from a diffraction pattern alone,1.3189329710618589e-06,0.0,0.0,7.0
+quant-ph/9804027,Quantum Measurement and Fluctuations in Nanostructures,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0101029,"Absolute Frequency Measurements of the Hg^+ and Ca Optical Clock
+  Transitions with a Femtosecond Laser",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0311029,"A new condition to identify isotropic dielectric-magnetic materials
+  displaying negative phase velocity",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0307024,"Scattering matrix approach to the resonant states and Q-values of
+  microdisk lasing cavities",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0504112,Slow light in photonic crystals,1.3189329710618589e-06,0.0,0.0,2.0
+quant-ph/9712020,Optimal Signal-to-Quantum Noise Ratio for Nonclassical Number States,1.3189329710618589e-06,0.0,0.0,2.0
+quant-ph/0103152,"Giant non-linearities accompanying electromagnetically induced
+  transparency",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0411255,"Polarization mode interaction equations in optical fibers with Kerr
+  effect",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0504088,"Light propagation in finite and infinite photonic crystals: The
+  recursive Green's function technique",1.3189329710618589e-06,0.0,0.0,2.0
+quant-ph/0308153,Limit to non-destructive optical detection of atoms,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0208006,"Husimi functions at dielectric interfaces: Inside-outside duality for
+  optical systems and beyond",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0009056,Mathematical ultrashort-pulse laser physics,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0412071,Multilongitudinal mode emission in ring cavity class B lasers,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0012054,"Method for Precision Test of Fine Structure Constant Variation with
+  Optical Frequency References",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0501141,Low-cost nanosecond electronic coincidence detector,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0307053,Observation of transverse instabilities in optically-induced lattices,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0511139,Resolution of sub-wavelength lenses formed by the wire medium,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0309084,Localized and stationary light wave modes in dispersive media,1.3189329710618589e-06,0.0,0.0,2.0
+quant-ph/0308155,"Coherent interaction of laser pulses in a resonant optically dense
+  extended medium under the regime of strong field-matter coupling",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0304030,"Red solitons: evidence of spatio--temporal instability in $\chi^{(2)}$
+  spatial-soliton dynamics",1.3189329710618589e-06,0.0,0.0,1.0
+math/0611185,Full-wave invisibility of active devices at all frequencies,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0103045,Large Faraday rotation of resonant light in a cold atomic cloud,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0005094,"Nonlinear interference effects in emission, absorption, and generation
+  spectra",1.3189329710618589e-06,0.0,0.0,11.0
+cond-mat/9711309,Localizing periodicity in near-field images,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0307020,On the Capacity of Nonlinear Fiber Channels,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9806183,High-Power Directional Emission from Microlasers with Chaotic Resonators,1.3189329710618589e-06,0.0,0.0,3.0
+physics/0005024,Polarization Dependence of Emissivity,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0007162,Controlling of exciton condensate by external fields and phonon laser,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0412126,"Testing and design of a lens system for atom trapping and fluorescence
+  detection",1.3189329710618589e-06,0.0,0.0,1.0
+physics/9808029,Density Operators for Fermions,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0006072,Semiclassical Dynamics of the Jaynes-Cummings Model,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0602190,"Enhanced Transmission of Light and Matter through Nanoapertures without
+  Assistance of Surface Waves",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0105007,Generation of bright soliton through the interaction of black solitons,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0010076,Optical interpretation of special relativity and quantum mechanics,1.3189329710618589e-06,0.0,0.0,4.0
+nlin/0411047,Excitability mediated by localized structures,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0005081,Resonant radiative processes,1.3189329710618589e-06,0.0,0.0,9.0
+physics/0311072,Light Filaments Without Self Guiding,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/9704030,Measurement models for time-resolved spectroscopy: a comment,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0206564,The asymmetric lossy near-perfect lens,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0009055,Apparent Superluminal Behavior,1.3189329710618589e-06,0.0,0.0,3.0
+physics/9803040,Radiation Induced Fermion Resonance,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0604027,Quantum Teleportation with Continuous Variables: a survey,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0110036,"Generalized Coherent States Associated with the $C_{\lambda}$-Extended
+  Oscillator",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0305111,"Effects of boundary roughness on a Q-factor of whispering-gallery-mode
+  lasing microdisk cavities",1.3189329710618589e-06,0.0,0.0,1.0
+hep-ex/0302038,"Is a laser ""wire"" a non-invasive method?",1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0005047,Effect of resonance radiative processes on the amplification factor,1.3189329710618589e-06,0.0,0.0,10.0
+quant-ph/0005049,"Shape of the amplification line corresponding to an adjacent transition
+  in a strong field",1.3189329710618589e-06,0.0,0.0,10.0
+physics/9701025,Optical Properties of Deep Ice at the South Pole - Absorption,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0202018,Noncoaxial multivortices in the complex sine-Gordon theory on the plane,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0111058,Quantum catastrophe of slow light,1.3189329710618589e-06,0.0,0.0,3.0
+physics/9806039,Volume free electron lasers,1.3189329710618589e-06,0.0,0.0,5.0
+physics/0105089,"Fresnel filtering in lasing emission from scarred modes of wave-chaotic
+  optical resonators",1.3189329710618589e-06,0.0,0.0,6.0
+nlin/0501050,"Discrete soliton collisions in a waveguide array with saturable
+  nonlinearity",1.3189329710618589e-06,0.0,0.0,4.0
+physics/0207076,"The fractional Brownian motion property of the turbulent refractive
+  index and the Fermat's Extremal Principle",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0111091,"Zettawatt-Exawatt Lasers and Their Applications in Ultrastrong-Field
+  Physics: High Energy Front",1.3189329710618589e-06,0.0,0.0,4.0
+quant-ph/0302038,Coherent control with broadband squeezed vacuum,1.3189329710618589e-06,0.0,0.0,6.0
+physics/0003058,Time-Reversed Diffraction,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0308025,Generation of polarization squeezed light in PPNC,1.3189329710618589e-06,0.0,0.0,1.0
+hep-ph/9708394,A Model of Magnetic Monopoles,1.3189329710618589e-06,0.0,0.0,3.0
+physics/0007079,Polarization Elements-A Group Theoretical Study,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0301018,Probability Density Function of Kerr Effect Phase Noise,1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9803026,Chaos-Assisted Light Squeezing,1.3189329710618589e-06,0.0,0.0,2.0
+gr-qc/9803033,The many faces of superradiance,1.3189329710618589e-06,0.0,0.0,3.0
+physics/0111042,Stability of excited atoms in small cavities,1.3189329710618589e-06,0.0,0.0,3.0
+physics/0103054,Superluminal Localized Waves of Electromagnetic Field in Vacuo,1.3189329710618589e-06,0.0,0.0,5.0
+physics/0404074,Subwavelength imaging with opaque left-handed nonlinear lens,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0207074,Bose-Einstein Condensation and Intermediate State of the Photon Gas,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0606075,"Humidity's influence on visible region refractive index structure
+  parameter $C_n^2$",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0506057,Uniaxial dielectric mediums with hyperbolic dispersion relations,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0406052,"Optical extinction due to intrinsic structural variations of photonic
+  crystals",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0312117,Effective dielectric constant for a random medium,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0409051,"Optical clocks based on ultra-narrow three-photon resonances in alkaline
+  earth atoms",1.3189329710618589e-06,0.0,0.0,2.0
+physics/0603221,"Regular Spectra and Universal Directionality of Emitted Radiation from a
+  Quadrupolar Deformed Microcavity",1.3189329710618589e-06,0.0,0.0,3.0
+quant-ph/0102097,Information losses in continuous variable quantum teleportation,1.3189329710618589e-06,0.0,0.0,3.0
+physics/0404110,Atom trapping and guiding with a subwavelength-diameter optical fiber,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0603202,Observation of surface gap solitons in semi-infinite waveguide arrays,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0311127,"Eigenvector Expansion and Petermann Factor for Ohmically Damped
+  Oscillators",1.3189329710618589e-06,0.0,0.0,2.0
+math-ph/9903041,"Converging Perturbative Solutions of the Schroedinger Equation for a
+  Two-Level System with a Hamiltonian Depending Periodically on Time",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0602092,Optical Conformal Mapping and Dielectric Invisibility Devices,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/9803060,"""Interaction-Free"" Imaging",1.3189329710618589e-06,0.0,0.0,3.0
+physics/0104050,Understanding multilayers from a geometrical viewpoint,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0505307,"Breaking of the overall permutation symmetry in nonlinear optical
+  susceptibilities of one-dimensional periodic dimerized Huckel model",1.3189329710618589e-06,0.0,0.0,2.0
+physics/9803041,Semiclassical spin damping: Superradiance revisited,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0505006,"Compact Sum-Over-States Expression without Dipolar Terms for Calculating
+  Nonlinear Susceptibilities",1.3189329710618589e-06,0.0,0.0,1.0
+math/0405208,Relaxed Averaged Alternating Reflections for Diffraction Imaging,1.3189329710618589e-06,0.0,0.0,5.0
+cond-mat/0108449,"Reflectivity and Microwave Absorption in Crystals with Alternating
+  Intrinsic Josephson Junctions",1.3189329710618589e-06,0.0,0.0,2.0
+quant-ph/9903040,"Long-lived Quantum Coherence between Macroscopically Distinct States in
+  Superradiance",1.3189329710618589e-06,0.0,0.0,3.0
+physics/0403143,"Kerr effect in liquid helium at temperatures below the superfluid
+  transition",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0509255,Reduced-symmetry two-dimensional solitons in photonic lattices,1.3189329710618589e-06,0.0,0.0,3.0
+physics/0006046,Bessel Beams,1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9810007,"Coherence and synchronization in diode-laser arrays with delayed global
+  coupling",,,,
+astro-ph/0311413,"Grid-based simulation program for gravitational wave interferometers
+  with realistically imperfect optics",,,,
+astro-ph/0406118,Mie Scattering by Ensembles of Particles with Very Large Size Parameters,,,,
+astro-ph/0512174,Development of Multi-Fourier Transform interferometer :Fundamental,,,,
+astro-ph/0606196,Overcoming the Rayleigh Criterion Limit with Optical Vortices,,,,
+astro-ph/9912327,"Enabling concepts for a dual spacecraft formation-flying optical
+  interferometer for NASA's ST3 mission",,,,
+atom-ph/9509005,Squeezing in the interaction of radiation with two-level atoms,,,,
+atom-ph/9510002,Quantum uncertainties in coupled harmonic oscillator,,,,
+chao-dyn/9912017,Differential light scattering: probing the sonoluminescence collapse,,,,
+cond-mat/0001381,"Observation of strong surface state effects in the nonlinear
+  magneto-optical response of Ni(110)",,,,
+cond-mat/0002115,Delocalization in the Anderson model due to a local measurement,,,,
+cond-mat/0002390,Super-radiant light scattering from trapped Bose Einstein condensates,,,,
+cond-mat/0003291,"Near-field EM wave scattering from random self-affine fractal metal
+  surfaces: spectral dependence of local field enhancements and their
+  statistics in connection with SERS",,,,
+cond-mat/0004425,Nonuniversal correlations in multiple scattering,,,,
+cond-mat/0008107,Double resonant processes in $\chi^{(2)}$ nonlinear periodic media,,,,
+cond-mat/0101059,Temporal fluctuations of waves in weakly nonlinear disordered media,,,,
+cond-mat/0105413,"C-axis Josephson Plasma Resonance Observed in
+  Tl$_{2}$Ba$_{2}$CaCu$_{2}$O$_{8}$ Superconducting Thin Films using Terahertz
+  Time-Domain Spectroscopy",,,,
+cond-mat/0108257,"Josephson Plasma Resonance in Tl$_2$Ba$_2$CaCu$_2$O$_8$ in a Magnetic
+  Field Measured using THz Spectroscopy",,,,
+cond-mat/0108370,"Light scattering from self-affine fractal silver surfaces with nanoscale
+  cutoff: Far-field and near-field calculations",,,,
+cond-mat/0109075,"Optical excitations in diphenylacetylene based dendrimers studied by a
+  coupled exciton model with off-diagonal disorder",,,,
+cond-mat/0109076,"Propagation of Cooper pairs in carbon nanotubes with superconducting
+  correlations",,,,
+cond-mat/0111459,"Optical responses through dilute anisotropic composites: Numerical
+  calculations via Green's-function formalism",,,,
+cond-mat/0112070,Sculptured Thin Films: Accomplishments and Emerging Uses,,,,
+cond-mat/0202061,Holographic analysis of diffraction structure factors,,,,
+cond-mat/0202064,X-ray fluorescence holography: going beyond the diffraction limit,,,,
+cond-mat/0203458,Optical excitations in hexagonal nanonetwork materials,,,,
+cond-mat/0204271,"The crossover between lasing and polariton condensation in optical
+  microcavities",,,,
+cond-mat/0205394,"Substrate effects in the magneto-optical second-harmonic generation from
+  first principles: Fe/Cu(001)",,,,
+cond-mat/0209188,Metallo-dielectric diamond and zinc-blende photonic crystals,,,,
+cond-mat/0303203,Chaotic Waveguide-Based Resonators for Microlasers,,,,
+cond-mat/0402041,"Gap maps and intrinsic diffraction losses in one-dimensional photonic
+  crystal slabs",,,,
+cond-mat/0402570,"Resolving the wave-vector in negative refractive media: The sign of
+  $\sqrt{Z}$",,,,
+cond-mat/0403017,Digital darkfield decompositions,,,,
+cond-mat/0406428,"Surface polaritons on metallic and semiconducting cylinders: A complex
+  angular momentum analysis",,,,
+cond-mat/0407408,Interaction of spatial solitons in nonlinear optical medium,,,,
+cond-mat/0407649,"Optical nonlinearity enhancement of graded metal-dielectric composite
+  films",,,,
+cond-mat/0408085,Landau-Zener Tunnelling in Waveguide Arrays,,,,
+cond-mat/0412332,Magneto-controlled nonlinear optical materials,,,,
+cond-mat/0501734,"Polarization Conversion and ""Focusing"" of Light Propagating through a
+  Small Chiral Hole in a Metallic Screen",,,,
+cond-mat/0502526,Critical Behavior of Light,,,,
+cond-mat/0506424,"Spectral representation of the effective dielectric constant of graded
+  composites",,,,
+cond-mat/0507092,Influence of structure on the optical limiting properties of nanotubes,,,,
+cond-mat/0508025,"Spectral and polarization effects in deterministically nonperiodic
+  multilayers containing optically anisotropic and gyrotropic materials",,,,
+cond-mat/0511402,Photocount statistics in mesoscopic optics,,,,
+cond-mat/0511737,"Tapered-amplified AR-coated laser diodes for Potassium and Rubidium
+  atomic-physics experiments",,,,
+cond-mat/0512435,Unidirectional light emission from high-Q modes in optical microcavities,,,,
+cond-mat/0601296,"Low-loss resonant modes in deterministically aperiodic nanopillar
+  waveguides",,,,
+cond-mat/0601602,"Giant enhanced optical nonlinearity of colloidal nanocrystals with a
+  graded-index host",,,,
+cond-mat/0604611,Optical switching in graded plasmonic waveguides,,,,
+cond-mat/0605013,"Delay times and detector times for optical pulses traversing plasmas and
+  negative refractive media",,,,
+cond-mat/0606251,Zener tunneling in two-dimensional photonic lattices,,,,
+cond-mat/0607023,"Direct observation of acoustic phonon mediated relaxation between
+  coupled exciton states in a single quantum dot molecule",,,,
+cond-mat/0607277,Quantum Theory of a Resonant Photonic Crystal,,,,
+cond-mat/0607601,"Calculation of optical-waveguide grating characteristics using Green's
+  functions and the Dyson's equation",,,,
+cond-mat/0608425,Laser beam filamentation in fractal aggregates,,,,
+cond-mat/0608509,Localized Modes in Open One-Dimensional Dissipative Random Systems,,,,
+cond-mat/0609278,"Scattering of surface plasmon polaritons by one-dimensional
+  inhomogeneities",,,,
+cond-mat/0609659,Aging of the Nonlinear Optical Susceptibility of colloidal solutions,,,,
+cond-mat/0610003,"Quantitative Determination of the Adiabatic Condition Using
+  Force-Detected Nuclear Magnetic Resonance",,,,
+cond-mat/0610453,"Dispersion and transitions of dipolar plasmon modes in graded plasmonic
+  waveguides",,,,
+cond-mat/0610529,"Mesoscopic magnetism in dielectric photonic crystal meta materials:
+  topology and inhomogeneous broadening",,,,
+cond-mat/0611350,Does Nature Allow Negative Refraction with Low Losses in Optical Region?,,,,
+cond-mat/0611351,"Selective lasing in multimode periodic and non-periodic nanopillar
+  waveguides",,,,
+cond-mat/0611685,Light trapping and guidance in plasmonic nanocrystals,,,,
+cond-mat/0611688,Decoherence of Macroscopic States at Finite Temperatures,,,,
+cond-mat/0612024,Mode-locking transitions in nano-structured weakly disordered lasers,,,,
+cond-mat/0612261,"Controllable diffusion of cold atoms in a harmonically driven and tilted
+  optical lattice: Decoherence by spontaneous emission",,,,
+cond-mat/0612689,Optical scattering resonances of single plasmonic nanoantennas,,,,
+cond-mat/0701619,Switchable lasing in coupled multimode microcavities,,,,
+cond-mat/0703407,Efficient unidirectional nanoslit couplers for surface plasmons,,,,
+cond-mat/0703543,Optical forces arising from phase gradients,,,,
+cond-mat/0703783,Spacing statistics in two-mode random lasing,,,,
+cond-mat/9604113,Electronic Structures in C60-Polymers (review),,,,
+cond-mat/9702181,Nonlinear optical response in higher fullerenes,,,,
+cond-mat/9704085,"Optical excitations in electroluminescent polymers:
+  poly(para-phenylenevinylene) family",,,,
+cond-mat/9707106,"Extension of the Kramers-Kronig method for polarized infrared
+  reflectance spectra from the face of low-symmetry crystals",,,,
+cond-mat/9711166,Enhancement of Optical Nonlinearity Through Anisotropic Microstructures,,,,
+cond-mat/9712327,Temperature Dependence of the Index of Refraction of Fused Silica,,,,
+cond-mat/9801323,"Transition from Diffusive to Localized Regimes in Surface Corrugated
+  Optical Waveguides",,,,
+cond-mat/9802143,"Long-range excitons in conjugated polymers with ring torsions:
+  poly(para-phenylene) and polyaniline",,,,
+cond-mat/9802144,"Coulomb interaction effects on nonlinear optical response in C60, C70,
+  and higher fullerenes",,,,
+cond-mat/9803133,"Oscillatory behavior of a superradiating system coupled to electron
+  reservoirs",,,,
+cond-mat/9805249,Intensity Distribution of Modes in Surface Corrugated Waveguides,,,,
+cond-mat/9807108,Reflection and transmission of waves in surface-disordered waveguides,,,,
+cond-mat/9810056,Photophysical Properties in C60 and Higher Fullerenes,,,,
+cond-mat/9810299,"Self-Assembled Triply Periodic Minimal Surfaces as moulds for Photonic
+  Band Gap Materials",,,,
+cond-mat/9904347,"Near field and far field scattering of surface plasmon polaritons by
+  one-dimensional surface defects",,,,
+cond-mat/9905385,Random Surfaces that Suppress Single Scattering,,,,
+cond-mat/9905406,"Optical Susceptibilities of Polymers: Current-Current versus
+  Dipole-Dipole Correlation",,,,
+cond-mat/9905423,Lyapunov Potential Description for Laser Dynamics,,,,
+cond-mat/9906015,"Zero frequency divergence and gauge phase factor in the optical response
+  theory",,,,
+cond-mat/9906016,"Analytical solutions to the third-harmonic generation in
+  trans-polyacetylene: Application of dipole-dipole correlation on the single
+  electron models",,,,
+cond-mat/9910148,"Local-field study of phase conjugation in metallic quantum wells with
+  probe fields of both propagating and evanescent character",,,,
+cond-mat/9912415,"Nonlinear optical properties of a channel waveguide produced with
+  crosslinkable ferroelectric liquid crystals",,,,
+cond-mat/9912416,"Phase-matched second-harmonic generation in a ferroelectric liquid
+  crystal waveguide",,,,
+cs/0606073,"Comparison of the estimation of the degree of polarization from four or
+  two intensity images degraded by speckle noise",,,,
+hep-ex/0010040,Possible Observation of a Second Kind of Light,,,,
+hep-ex/0205034,Dispersion in optical fibers and timing for particle identification,,,,
+hep-th/0607072,"Anisotropic effects of background fields on Born-Infeld electromagnetic
+  waves",,,,
+math-ph/0608040,"The evanescent waves in geometrical optics and the mixed
+  hyperbolic-elliptic type systems",,,,
+math/0608721,Classification of phase singularities for complex scalar waves,,,,
+nlin/0002016,"Growth and decay of discrete nonlinear Schroedinger breathers
+  interacting with internal modes or standing-wave phonons",,,,
+nlin/0005068,"Oscillatory Instabilities of Standing Waves in One-Dimensional Nonlinear
+  Lattices",,,,
+nlin/0012064,Decay of DNLS breathers through inelastic multiphonon scattering,,,,
+nlin/0103028,Modulational instability in periodic quadratic nonlinear materials,,,,
+nlin/0104025,Standing wave instabilities in a chain of nonlinear coupled oscillators,,,,
+nlin/0105041,"Plane waves in periodic, quadratically nonlinear slab waveguides:
+  stability and exact Fourier structure",,,,
+nlin/0106009,"Analysis of Hamiltonian Dynamics of Dispersion-Managed Coupled Breathers
+  in Optical Transmission System",,,,
+nlin/0107005,Nonlinear Aharonov-Bohm scattering by optical vortices,,,,
+nlin/0108033,Self-written waveguides in photopolymerizable resins,,,,
+nlin/0209045,"Exact soliton solutions of the one-dimensional complex Swift-Hohenberg
+  equation",,,,
+nlin/0209052,"Optical soliton solutions of the quintic complex Swift-Hohenberg
+  equation",,,,
+nlin/0211025,"Exact Localized Solutions of Quintic Discrete Nonlinear Schr\""odinger
+  Equation",,,,
+nlin/0212052,Parametrically Driven Dark Solitons,,,,
+nlin/0304008,Band-gap solitons in nonlinear optically-induced lattices,,,,
+nlin/0309059,Second-harmonic generation in vortex-induced waveguides,,,,
+nlin/0401017,"Topological signature of deterministic chaos in short nonstationary
+  signals from an optical parametric oscillator",,,,
+nlin/0410055,Coherence controlled soliton interactions,,,,
+nlin/0504004,Incoherent multi-gap optical solitons in nonlinear photonic lattices,,,,
+nlin/0509010,"Guiding of dynamically modulated signals in arrays of photorefractive
+  spatial solitons",,,,
+nlin/0509011,"Discrete light localization in one dimensional nonlinear lattices with
+  arbitrary non locality",,,,
+nlin/0510023,"Resonant light-light interaction in slab waveguides: angular filters and
+  spectral hole burning",,,,
+nlin/0511053,"Crossover from self-defocusing to discrete trapping in nonlinear
+  waveguide arrays",,,,
+nlin/0601041,"Semi-discrete composite solitons in arrays of quadratically nonlinear
+  waveguides",,,,
+nlin/0601062,Ultra-short solitons and kinetic effects in nonlinear metamaterials,,,,
+nlin/0602004,Optical ratchets with discrete cavity solitons,,,,
+nlin/0607069,Modulational instability in a layered Kerr medium: Theory and Experiment,,,,
+nlin/0611028,Modulational Instability in Nonlinearity-Managed Optical Media,,,,
+nlin/0612021,"First Experimental Observation of Superscars in a Pseudointegrable
+  Barrier Billiard",,,,
+nlin/0612038,"Controlling pulse propagation in optical fibers through nonlinearity and
+  dispersion management",,,,
+nlin/0701042,3D-vortex labyrinths in the near field of solid-state microchip laser,,,,
+nlin/0703011,Phase-space structure of two-dimensional excitable localized structures,,,,
+nlin/0703022,Directional emission from weakly eccentric resonators,,,,
+nlin/0703032,"Solitary Waves Bifurcated from Bloch Band Edges in Two-dimensional
+  Periodic Media",,,,
+nlin/0703049,Interactions of solitons with complex defects in Bragg gratings,,,,
+patt-sol/9809010,Standing and Moving Gap Solitons in Resonantly Absorbing Gratings,,,,
+patt-sol/9911007,Time resolved pattern evolution in a large aperture laser,,,,
+physics/0001005,"An asymptotic form of the reciprocity theorem with applications in x-ray
+  scattering",,,,
+physics/0001018,Hierarchy of time scales and quasitrapping in the N-atom micromaser,,,,
+physics/0001044,"Finesse and mirror speed measurement for a suspended Fabry-Perot cavity
+  using the ringing effect",,,,
+physics/0002006,"Spatiotemporally Localized Multidimensional Solitons in Self-Induced
+  Transparency Media",,,,
+physics/0002013,Dynamics of Atom-Mediated Photon-Photon Scattering II: Experiment,,,,
+physics/0002014,Dynamics of Atom-Mediated Photon-Photon Scattering I: Theory,,,,
+physics/0002017,"""Single-cycle"" ionization effects in laser-matter interaction",,,,
+physics/0002023,Interfering with Interference: a Pancharatnam Phase Polarimeter,,,,
+physics/0002024,Soliton electro-optic effects in paraelectrics,,,,
+physics/0002027,"Femtosecond soliton amplification in nonlinear dispersive traps and
+  soliton dispersion management",,,,
+physics/0002038,Semiclassical description of multiphoton processes,,,,
+physics/0003015,Light propagation control by finite-size effects in photonic crystals,,,,
+physics/0003018,Ultra-refraction phenomena in Bragg mirrors,,,,
+physics/0003040,"Pulsed pump in optical displacement transducer for experiments with
+  probe bodies",,,,
+physics/0003052,"Nature of Sonoluminescence: Noble Gas Radiation Excited by Hot Electrons
+  in ""Cold"" Water",,,,
+physics/0004018,"Second-harmonic interferometric spectroscopy of the buried
+  Si(111)-SiO$_2$ interface",,,,
+physics/0004043,Characterization of a high-power tapered semiconductor amplifier system,,,,
+physics/0005015,"Frequency stabilization of a monolithic Nd:YAG ring laser by controlling
+  the power of the laser-diode pump source",,,,
+physics/0005026,Suppression of Supercontinuum Generation with Circularly Polarized Light,,,,
+physics/0006002,Radiating dipoles in photonic crystals,,,,
+physics/0006022,"Stable oscillating nonlinear beams in
+  square-wave-biased-photorefractives",,,,
+physics/0006034,"Comment on ""Observation of Superluminal Behaviors in Wave Propagation""",,,,
+physics/0007019,Symmetries of Optical Phase Conjugation,,,,
+physics/0007033,"The Channel Capacity of a Fiber Optics Communication System:
+  perturbation theory",,,,
+physics/0007037,"A new regime of anomalous penetration of relativistically strong laser
+  radiation into an overdense plasma",,,,
+physics/0007046,Method of laser-radiation guiding in plasma,,,,
+physics/0007073,Extinction theorem for ultrafast pulses,,,,
+physics/0007082,"Strong Discontinuities in the Complex Photonic Band Structure of
+  Transmission Metallic Gratings",,,,
+physics/0008011,"A Variational Approach in the Dissipative Nonlinear Schr\""{o}dinger
+  Equation",,,,
+physics/0008075,Possibility of a Light Pulse with Speed Greater than c,,,,
+physics/0008076,Energy focusing inside a dynamical cavity,,,,
+physics/0008220,Binary Representations of ABCD Matrices,,,,
+physics/0008221,"Investigations of Amplitude and Phase Excitation Profiles in Femtosecond
+  Coherence Spectroscopy",,,,
+physics/0009009,"Soliton Generation and Picosecond Collapse in Solid-State Lasers with
+  Semiconductor Saturable Absorber",,,,
+physics/0009020,Automodulations in Kerr-lens Modelocked Solid-State Lasers,,,,
+physics/0009030,The influence of a metallic sheet on an evanescent mode atomic mirror,,,,
+physics/0009065,"Investigation of the Kerr-lens Mode Locking Ability of Cr:ZnSe
+  Solid-State Laser",,,,
+physics/0009067,"Nonlinear Effects in CW Mode-Locked Solid-State Lasers with
+  Semiconductor Saturable Absorbers",,,,
+physics/0010016,"Phase-coherent frequency measurement of the Ca intercombination line at
+  657 nm with a Kerr-lens mode-locked femtosecond laser",,,,
+physics/0010058,"Electromagnetic energy penetration in the self-induced transparency
+  regime of relativistic laser-plasma interactions",,,,
+physics/0010060,Wannier-Stark states of a quantum particle in 2D lattices,,,,
+physics/0011009,A phase-locked frequency divide-by-3 optical parametric oscillator,,,,
+physics/0011033,Random Scattering by Atomic Density Fluctuations in Optical Lattices,,,,
+physics/0011034,Theory of self phase-locked optical parametric oscillators,,,,
+physics/0011050,"Angular momentum spatial distribution symmetry breaking in Rb by an
+  external magnetic field",,,,
+physics/0011051,Reversed Dark Resonance in Rb Atom Excited by a Diode Laser,,,,
+physics/0012002,"Recoil-Induced-Resonances in Nonlinear, Ground-State, Pump-Probe
+  Spectroscopy",,,,
+physics/0012005,"Generation of electromagnetic pulses from plasma channels induced by
+  femtosecond light strings",,,,
+physics/0012019,Mach-Zehnder interferometer based all optical flip-flop,,,,
+physics/0012028,"Anisotropic charge displacement supporting isolated photorefractive
+  optical needles",,,,
+physics/0012043,Parametric Processes in a Strong-Coupling Planar Microcavity,,,,
+physics/0012060,"Transparent Anomalous Dispersion and Superluminal Light Pulse
+  Propagation at a Negative Group Velocity",,,,
+physics/0101004,"Spectral Characteristics of Ultrashort Pulses in Kerr-lens Mode-Locked
+  Lasers",,,,
+physics/0101008,Hexagonal microlasers based on organic dyes in nanoporous crystals,,,,
+physics/0101011,Mode structure and ray dynamics of a parabolic dome microcavity,,,,
+physics/0101019,"Role of surface roughness in hard x-ray emission from femtosecond laser
+  produced copper plasmas",,,,
+physics/0101068,"Signal velocity, causality, and quantum noise in superluminal light
+  pulse propagation",,,,
+physics/0101073,Polarization dynamics of femtosecond pulses propagating in air,,,,
+physics/0101101,"Chirality and helicity in terms of topological spin and topological
+  torsion",,,,
+physics/0102032,Two-photon absorption in potassium niobate,,,,
+physics/0102050,Coherent Radiation of Crystalline Beams,,,,
+physics/0102088,"Coherent Control of Multiphoton Transitions with Femtosecond pulse
+  shaping",,,,
+physics/0103011,Analysis of Optical Pulse Propagation with ABCD Matrices,,,,
+physics/0103017,Resonant radiation pressure on neutral particles in a waveguide,,,,
+physics/0103052,New Improvements for Mie Scattering Calculations,,,,
+physics/0104003,The Light Scattering and Fast Mie Algorithm,,,,
+physics/0104011,"Nonlinear resonance reflection from and transmission through a dense
+  glassy system built up of oriented linear Frenkel chains: two-level models",,,,
+physics/0104012,"Conditions for Soliton-Like Wave Propagation in Pockels and
+  Photorefractive Media",,,,
+physics/0104031,"Diffraction-free and dispersion-free pulsed beam propagation in
+  dispersive media",,,,
+physics/0104042,Bifurcation of gap solitons through catastrophe theory,,,,
+physics/0104049,"Direct Determination of Harmonic and Inter-modulation distortions with
+  an application to Single Mode Laser Diodes",,,,
+physics/0104060,"Synchronization and multi-mode dynamics of mutually coupled
+  semiconductor lasers",,,,
+physics/0104083,"Electromagnetic diffraction by a circular cylinder with longitudinal
+  slots",,,,
+physics/0105013,Fresnel coefficients as hyperbolic rotations,,,,
+physics/0105020,"Static and Dynamic Regimes of Arbitrary Gain Compensation Single-Mode
+  Laser Diodes",,,,
+physics/0105036,Dynamics of Bright Soliton in Optical Fiber,,,,
+physics/0105037,Dark Area Theorem,,,,
+physics/0105044,"Broadband optical gain via interference in the free electron laser:
+  principles and proposed realizations",,,,
+physics/0105063,Photon number variance in isolated cavities,,,,
+physics/0105070,"Doppler-Induced Dynamics of Fields in Fabry-Perot Cavities with
+  Suspended Mirrors",,,,
+physics/0105087,"Effect of Thermal Fluctuations in the Resonance Fluorescence of a
+  Three-Level System",,,,
+physics/0105093,Microwave-induced control of Free Electron Laser radiation,,,,
+physics/0105103,"Ultra-low threshold CW Triply Resonant OPO in the near infrared using
+  Periodically Poled Lithium Niobate",,,,
+physics/0105104,"Revivals and oscillations of the momentum of light in a planar multimode
+  waveguide",,,,
+physics/0106021,Theory of diffraction for 2D photonic crystals with a boundary,,,,
+physics/0106031,"Observation of Scarred Modes in Asymmetrically Deformed Microcylinder
+  Lasers",,,,
+physics/0106032,"An ultrahigh-Q microsphere laser based on the evanescent-wave-coupled
+  gain",,,,
+physics/0106050,"A possible scenario for volumetric display through nanoparticle
+  suspensions",,,,
+physics/0106057,Multiple beam interference in a quadrupolar glass fiber,,,,
+physics/0106078,"A theory of electromagnetism with uniquely defined potential and
+  covariant conserved spin",,,,
+physics/0106091,Exploring closed-loop feedback control using experiments in optics,,,,

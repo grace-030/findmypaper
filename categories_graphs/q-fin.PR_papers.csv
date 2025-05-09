@@ -1,0 +1,164 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+cond-mat/0402240,Utility Function from Maximum Entropy Principle,7.511942401733271e-06,0.0,3.0,0.0
+physics/0607265,"Market memory and fat tail consequences in option pricing on the expOU
+  stochastic volatility model",6.11677078481285e-06,0.0,1.0,0.0
+cond-mat/0202143,A Path Integral Way to Option Pricing,6.083704480895637e-06,0.0,7.0,0.0
+physics/0509150,Optimal hedging of Derivatives with transaction costs,5.91526128202295e-06,0.0,4.0,0.0
+cond-mat/0401308,Premium Calculation Based on Physical Principles,5.658800678500009e-06,1.990182755160072e-06,2.0,2.0
+math/0612691,Option pricing with log-stable L\'{e}vy processes,5.359508196557222e-06,0.0,1.0,0.0
+cond-mat/9910212,Growth Optimal Investment and Pricing of Derivatives,5.356825841483844e-06,0.0,4.0,0.0
+physics/0610275,Infectious Default Model with Recovery and Continuous Limit,4.839344715913335e-06,0.0,3.0,0.0
+math/0311280,"Bessel processes, the integral of geometric Brownian motion, and Asian
+  options",4.775563454392716e-06,0.0,3.0,0.0
+cond-mat/0005319,"Path Dependent Option Pricing: the path integral partial averaging
+  method",4.738471204304453e-06,0.0,4.0,4.0
+cond-mat/9710197,Financial Modeling and Option Theory with the Truncated Levy Process,4.66278255157322e-06,0.0,7.0,9.0
+cond-mat/9906196,"Stochastic relaxational dynamics applied to finance: towards
+  non-equilibrium option pricing theory",4.643673039211921e-06,1.5728132221010513e-05,5.0,1.0
+cond-mat/0408292,"Modelling the term structure of interest rates \'{a} la
+  Heath-Jarrow-Morton but with non Gaussian fluctuations",4.48506209416766e-06,0.0,3.0,0.0
+cond-mat/9902047,How to account for virtual arbitrage in the standard derivative pricing,3.907621880859541e-06,2.36888632416508e-05,3.0,4.0
+cond-mat/0110506,Quantum Field Theory of Forward Rates with Stochastic Volatility,3.668825759104987e-06,0.0,7.0,4.0
+cond-mat/0407321,Pricing Exotic Options in a Path Integral Approach,3.6672110930754415e-06,0.0,2.0,0.0
+cond-mat/0402239,Non-Life Insurance Pricing: Multi Agents Model,3.5561447479985497e-06,0.0,2.0,0.0
+physics/0210025,Pricing European Options in Realistic Markets,3.49912997646896e-06,0.0,2.0,0.0
+math/0605599,Modelling Derivatives Pricing Mechanisms with Their Generating Functions,2.9321252967336408e-06,0.0,2.0,0.0
+cond-mat/0206457,A Quantum Field Theory Term Structure Model Applied to Hedging,2.8860987294463137e-06,0.0,3.0,0.0
+hep-th/9712034,Black-Scholes equation from Gauge Theory of Arbitrage,2.8560845219406086e-06,0.0,4.0,4.0
+cond-mat/0502029,Arbitrage Opportunities and their Implications to Derivative Hedging,2.734110668784602e-06,0.0,2.0,0.0
+math/0703714,Delta Hedging without the Black-Scholes Formula,2.5493469509894045e-06,0.0,1.0,0.0
+cond-mat/0208191,"Quantum Mechanics, Path Integrals and Option Pricing: Reducing the
+  Complexity of Finance",2.4711431321721443e-06,0.0,1.0,0.0
+math/0601526,Convexity preserving jump-diffusion models for option pricing,2.4711431321721443e-06,0.0,1.0,0.0
+math/0603316,State Dependent Utility,2.4711431321721443e-06,0.0,1.0,0.0
+math/0602594,Martingale selection problem and asset pricing in finite discrete time,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/9902046,Derivative pricing with virtual arbitrage,2.409147867534342e-06,0.0,3.0,4.0
+cond-mat/0204261,"Black-Scholes-Like Derivative Pricing With Tsallis Non-extensive
+  Statistics",2.3209403104637374e-06,7.960731020640288e-06,3.0,2.0
+cond-mat/9809199,Quantum Field Theory of Treasury Bonds,2.3096963966949983e-06,0.0,5.0,1.0
+cond-mat/9812318,Using path integrals to price interest rate derivatives,2.284363157298805e-06,0.0,2.0,4.0
+cond-mat/9804045,Gauge theory of Finance?,2.099492839342177e-06,0.0,2.0,0.0
+physics/0503126,"A Common Market Measure for Libor and Pricing Caps, Floors and Swaps in
+  a Field Theory of Forward Interest Rates",2.096225609615763e-06,0.0,1.0,0.0
+cond-mat/0501395,"A Merton-Like Approach to Pricing Debt based on a non-Gaussian Asset
+  Model",2.072080190562851e-06,0.0,1.0,0.0
+math/0606183,"Generalizations of Ho-Lee's binomial interest rate model I: from one- to
+  multi-factor",1.8950380516170012e-06,0.0,1.0,1.0
+cond-mat/0205078,A Theory of Non_Gaussian Option Pricing,1.8103666339040049e-06,0.0,1.0,3.0
+cond-mat/0204331,Option Pricing Formulas based on a non-Gaussian Stock Price Model,1.8103666339040049e-06,0.0,1.0,3.0
+cond-mat/9811197,Gauge Physics of Finance: simple introduction,1.7726142693928087e-06,0.0,2.0,0.0
+cond-mat/0408013,"Stock Price Clustering and Discreteness: The ""Compass Rose"" and
+  Predictability",1.60698551133943e-06,0.0,1.0,3.0
+cond-mat/0211489,"Hamiltonian and Potentials in Derivative Pricing Models: Exact Results
+  and Lattice Simulations",1.4835344226490424e-06,0.0,1.0,0.0
+cond-mat/9807066,"Hedging The Risk In The Continuous Time Option Pricing Model With
+  Stochastic Stock Volatility",1.4835344226490424e-06,0.0,1.0,1.0
+cond-mat/0209475,A theory for Fluctuations in Stock Prices and Valuation of their Options,1.477347631161594e-06,0.0,2.0,0.0
+math-ph/0412071,"Pricing of options on stocks driven by multi-dimensional operator stable
+  Levy processes",1.4629592412006444e-06,0.0,1.0,0.0
+cond-mat/9810257,"A general methodology to price and hedge derivatives in incomplete
+  markets",1.4629592412006444e-06,0.0,1.0,3.0
+cond-mat/9902045,Virtual Arbitrage Pricing Theory,1.4629592412006444e-06,0.0,1.0,0.0
+math/0012072,"On the valuation of arithmetic-average Asian options: Laguerre series
+  and Theta integrals",1.3189329710618589e-06,0.0,0.0,1.0
+math/0605065,"CAPM, rewards, and empirical asset pricing with coherent risk",1.3189329710618589e-06,0.0,0.0,1.0
+math/0702173,"Pathwise inequalities for local time: Applications to Skorokhod
+  embeddings and optimal stopping",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0403022,A Non-Gaussian Option Pricing Model with Skew,1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/9807397,Option Pricing Model for Incomplete Market,1.3189329710618589e-06,0.0,0.0,2.0
+math/0703538,"On the Perpetual American Put Options for Level Dependent Volatility
+  Models with Jumps",1.3189329710618589e-06,0.0,0.0,1.0
+math/0509139,Dynamic State Tameness,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9801321,"The Dynamics of the Forward Interest Rate Curve with Stochastic String
+  Shocks",1.3189329710618589e-06,0.0,0.0,5.0
+hep-th/9710148,Physics of Finance,1.3189329710618589e-06,0.0,0.0,8.0
+cond-mat/0305062,Non-Life Insurance Pricing : Statistical Mechanics Viewpoint,1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/0001253,Learning short-option valuation in the presence of rare events,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0001048,High-resolution path-integral development of financial options,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0608284,Self-Consistent Asset Pricing Models,1.3189329710618589e-06,0.0,0.0,1.0
+math/0102080,"On the valuation of arithmetic-average Asian options: the Geman-Yor
+  Laplace transform revisited",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9902018,Modeling interest rate dynamics: an infinite-dimensional approach,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0006133,Asians and cash dividends: Exploiting symmetries in pricing theory,,,,
+cond-mat/0009042,Tradable Schemes,,,,
+cond-mat/0108549,"Pricing formulas, model error and hedging derivative portfolios",,,,
+cond-mat/0209343,Hedging in Field Theory Models of the Term Structure,,,,
+cond-mat/0209522,A master equation approach to option pricing,,,,
+cond-mat/0211260,Pricing Derivatives by Path Integral and Neural Networks,,,,
+cond-mat/0211534,Premium Forecasting of an Insurance Company: Automobile Insurance,,,,
+cond-mat/0212249,Pseudo-diffusions and Quadratic term structure models,,,,
+cond-mat/0307759,"Partial Derivative Approach for Option Pricing in a Simple Stochastic
+  Volatility Model",,,,
+cond-mat/0403761,Long memory stochastic volatility in option pricing,,,,
+cond-mat/0404103,"The American put and European options near expiry, under Levy processes",,,,
+cond-mat/0404106,Practical guide to real options in discrete time,,,,
+cond-mat/0404108,"Universal bad news principle and pricing of options on dividend-paying
+  assets",,,,
+cond-mat/0404684,Option pricing with fractional volatility,,,,
+cond-mat/0409319,"Hints for an extension of the early exercise premium formula for
+  American options",,,,
+cond-mat/0410294,"An Adaptive Method for Valuing an Option on Assets with Uncertainty in
+  Volatility",,,,
+cond-mat/9803238,Risk-return arguments applied to options with trading costs,,,,
+cond-mat/9805115,Revisiting the Black-Scholes equation,,,,
+cond-mat/9808168,Pricing defaultable debt: some exact results,,,,
+cond-mat/9809045,"Generalizing Merton's approach of pricing risky debt: some closed form
+  results",,,,
+cs/0610053,Towards a Bayesian framework for option pricing,,,,
+math/0104190,Conditional Expectation as Quantile Derivative,,,,
+math/0202298,"Analytical ramifications of derivatives valuation: Asian options and
+  special functions",,,,
+math/0202299,Brownian excursions an Parisian barrier options: a note,,,,
+math/0205120,"Pricing rule based on non-arbitrage arguments for random volatility and
+  volatility smile",,,,
+math/0211383,A Monte Carlo method for exponential hedging of contingent claims,,,,
+math/0311144,A model of the term structure of interest rates based on L\'evy fields,,,,
+math/0404447,Indifference pricing and hedging in stochastic volatility models,,,,
+math/0502189,"On the Hedging of American Options in Discrete Time Markets with
+  Proportional Transaction Costs",,,,
+math/0502201,On nonexistence of non-constant volatility in the Black-Scholes formula,,,,
+math/0503550,On the super replication price of unbounded claims,,,,
+math/0503579,"Generalized stochastic differential utility and preference for
+  information",,,,
+math/0503580,The right time to sell a stock whose price is driven by Markovian noise,,,,
+math/0508487,"Some remarks on first passage of Levy processes, the American put and
+  pasting principles",,,,
+math/0509231,A boundary point lemma for Black-Scholes type operators,,,,
+math/0603527,A stochastic volatility model with jumps,,,,
+math/0604117,Explicit solutions for a nonlinear model of financial derivatives,,,,
+math/0604302,Getting real with real options,,,,
+math/0604311,"The Bismut-Elworthy-Li formula for jump-diffusions and applications to
+  Monte Carlo pricing in finance",,,,
+math/0604640,A Delayed Black and Scholes Formula I,,,,
+math/0604641,A Delayed Black and Scholes Formula II,,,,
+math/0606471,"An Algorithmic Approach to Non-self-financing Hedging in a Discrete-Time
+  Incomplete Market",,,,
+math/0607123,Error estimates for binomial approximations of game options,,,,
+math/0609212,"The Exact Value for European Options on a Stock Paying a Discrete
+  Dividend",,,,
+math/0609403,"On utility-based super-replication prices of contingent claims with
+  unbounded payoffs",,,,
+math/0612034,Exponential Martingales and Time integrals of Brownian Motion,,,,
+math/0612035,One-Factor Term Structure without Forward Rates,,,,
+math/0612075,Option Pricing without Price Dynamics: A Probabilistic Approach,,,,
+math/0612648,A Call-Put Duality for Perpetual American Options,,,,
+math/0612649,General Duality for Perpetual American Options,,,,
+math/0701650,"Pricing Options in Incomplete Equity Markets via the Instantaneous
+  Sharpe Ratio",,,,
+math/0702810,Fractional constant elasticity of variance model,,,,
+math/0702893,"On the optimal dividend problem for a spectrally negative L\'{e}vy
+  process",,,,
+math/0703074,"Bid-Ask Dynamic Pricing in Financial Markets with Transaction Costs and
+  Liquidity Risk",,,,
+math/9806127,Equilibrium condition in Insurance Pricing: a particular case,,,,
+physics/0001040,Black-Scholes option pricing within Ito and Stratonovich conventions,,,,
+physics/0503137,Pricing options with VG model using FFT,,,,
+physics/0504221,Hedging LIBOR Derivatives in a Field Theory Model of Interest Rates,,,,
+physics/0602048,Delta Hedged Option Valuation with Underlying Non-Gaussian Returns,,,,
+physics/0607240,Non-Parametric Extraction of Implied Asset Price Distributions,,,,
+physics/0607276,"Asset Price Dynamics in a Financial Market with Heterogeneous Trading
+  Strategies and Time Delays",,,,
+physics/0608019,Stochastic model for market stocks with strong resistance,,,,
+physics/0610047,Volatility and dividend risk in perpetual American options,,,,
+physics/0702027,"A two-Factor Asset Pricing Model and the Fat Tail Distribution of Firm
+  Sizes",,,,

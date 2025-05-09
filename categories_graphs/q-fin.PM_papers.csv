@@ -1,0 +1,69 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+math/0703743,"Implications of contrarian and one-sided strategies for the fair-coin
+  game",6.265714206127794e-06,0.0,3.0,0.0
+cond-mat/9905050,On the possibility of optimal investment,5.728641645988581e-06,0.0,6.0,0.0
+cond-mat/0205119,Noisy Covariance Matrices and Portfolio Optimization II,3.8067286970517856e-06,4.534529099336309e-06,3.0,6.0
+math/0510333,Optimal Bond Portfolios,3.49912997646896e-06,0.0,2.0,0.0
+cond-mat/0009401,"Empirical properties of the variety of a financial portfolio and the
+  single-index model",3.250133064967116e-06,0.0,3.0,0.0
+cond-mat/0008069,Multifractal returns and Hierarchical Portfolio Theory,3.020617440428697e-06,0.0,4.0,1.0
+cond-mat/0111537,Portfolio Optimization and the Random Magnet Problem,2.8758868242320725e-06,7.800617463687568e-08,3.0,3.0
+cond-mat/9802059,Large deviations and portfolio optimization,2.8267885566446787e-06,0.0,3.0,0.0
+physics/0607175,The matrix rate of return,2.4711431321721443e-06,0.0,1.0,0.0
+math/0703823,Optimizing Venture Capital Investments in a Jump Diffusion Model,2.4711431321721443e-06,0.0,1.0,0.0
+math/9907160,Equity Allocation and Portfolio Selection in Insurance,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0607236,"Geometry of Financial Markets -- Towards Information Theory Model of
+  Markets",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0211044,"Growth-Optimal Strategies with Quadratic Friction Over Finite-Time
+  Investment Horizons",2.1546876645563643e-06,0.0,2.0,1.0
+cond-mat/0210499,Strategy for investments from Zipf law(s),2.1254800838390582e-06,0.0,2.0,0.0
+cond-mat/0103020,"General framework for a portfolio theory with non-Gaussian risks and
+  non-linear correlations",2.0456653061975597e-06,0.0,1.0,0.0
+cond-mat/9804297,Optimal Strategies for Prudent Investors,1.6385912514352436e-06,0.0,1.0,1.0
+cond-mat/9801239,Dynamical Optimization Theory of a Diversified Portfolio,1.60698551133943e-06,0.0,1.0,3.0
+cond-mat/0310503,The scale-free topology of market investments,1.5117561970307103e-06,3.2181944088173194e-05,1.0,10.0
+cond-mat/0011280,The thermodynamics of portfolios,1.4629592412006444e-06,0.0,1.0,2.0
+cond-mat/9801240,Optimal Investment Strategy for Risky Assets,1.4403103081806051e-06,0.0,1.0,4.0
+math/0301278,A theory of bond portfolios,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9707042,Missing Information and Asset Allocation,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9810091,Optimal lag in dynamical investments,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0508104,Trend followers lose more often than they gain,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0606015,On the Feasibility of Portfolio Optimization under Expected Shortfall,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0607166,Kelly Criterion revisited: optimal bets,1.3189329710618589e-06,0.0,0.0,1.0
+math/0610749,"Quadratic BSDEs driven by a continuous martingale and application to
+  utility maximization problem",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0608293,"Automatic Trading Agent. RMT based Portfolio Theory and Portfolio
+  Selection",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0212187,Risk and Utility in Portfolio Optimization,1.3189329710618589e-06,0.0,0.0,1.0
+math/0506621,Optimal long term investment model with memory,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0104305,Profit Profiles in Correlated Markets,,,,
+cond-mat/0202356,Tail Dependence of Factor Models,,,,
+cond-mat/0203607,Portfolio Optimization with Spectral Measures of Risk,,,,
+cond-mat/0207475,"Multi-Moments Method for Portfolio Management: Generalized Capital Asset
+  Pricing Model in Homogeneous and Heterogeneous markets",,,,
+cond-mat/0212358,Optimal strategies in collective Parrondo games,,,,
+cond-mat/0303304,Investment strategy based on a company growth model,,,,
+cond-mat/0404520,The Feedback Effect of Hedging in Portfolio Optimization,,,,
+cond-mat/9912330,Driving Force in Investment,,,,
+math/0207259,"Maximin setting for investment problems and fixed income management with
+  observable but non-predictable parameters",,,,
+math/0207260,Optimal portfolio selection and compression in an incomplete market,,,,
+math/0208130,On Bond Portfolio Management,,,,
+math/0302104,Optimal Convergence Trading,,,,
+math/0304151,Optimal Asset Allocation with Asymptotic Criteria,,,,
+math/0309276,"Approximation of Multiple Integrals over Hyperboloids with Application
+  to a Quadratic Portfolio with Options",,,,
+math/0405293,Optimal investment with random endowments in incomplete markets,,,,
+math/0407119,"A Characterization of Hedging Portfolios for Interest Rate Contingent
+  Claims",,,,
+math/0607617,Computing strategies for achieving acceptability,,,,
+math/0610224,"On the two-times differentiability of the value functions in the problem
+  of optimal investment in incomplete markets",,,,
+math/0612181,Utility Maximization in a jump market model,,,,
+math/0702726,A Portfolio Decomposition Formula,,,,
+math/0702727,On Robust Utility Maximization,,,,
+nlin/0205011,Portfolio Allocation to Corporate Bonds with Correlated Defaults,,,,
+physics/0504131,Risk portofolio management under Zipf analysis based strategies,,,,
+physics/0505142,"Measuring sectoral diversification in an asymptotic multi-factor
+  framework",,,,
+physics/0601166,How many independent bets are there?,,,,
