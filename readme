@@ -1,0 +1,21 @@
+# FindMyPaper: ArXiv Paper Interactive Portal
+
+FindMyPaper is an interactive web portal designed to help users explore and analyze over 1.7 million scholarly papers from the ArXiv metadata dataset. Through a suite of visualizations, users can navigate citation networks, author collaborations, and field-level trends across disciplines such as Computer Science, Physics, and Mathematics.
+
+## Features
+
+- **By-Category Statistics**: Pie charts, bar graphs, line graphs, and heatmaps showing publication trends over time.
+- **Search & Save**: Filter papers by title, author, or keyword, and save favorites for later.
+- **Author–Paper Graph**: A 3D bipartite network showing relationships between authors and their papers.
+- **Co-Author Network**: Interactive 2D and 3D graphs highlighting academic collaboration structures.
+- **Citation Graph**: Multi-level citation visualization from field to subfield to semantic clusters.
+- **Graph Cities**: A geolocation-based visualization of global research hubs.
+
+##  Installation
+
+git clone https://github.com/yourusername/findmypaper.git
+cd findmypaper
+python3 -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+pip install -r requirements.txt
+python app.py
