@@ -1,0 +1,1350 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+quant-ph/0302186,Direction Cryptography in Quantum Communications,0.0007045935811306,0.0,4.0,0.0
+astro-ph/0701748,Short-Hard Gamma-Ray Bursts,0.0003314349804586,0.0010086337774553,365.0,5.0
+hep-th/0603057,Dynamics of dark energy,0.0002647598880568,0.0101907598482004,236.0,203.0
+hep-ph/0701197,Dark Matter and Collider Phenomenology of Universal Extra Dimensions,0.000225642302308,0.0002184988849965,193.0,4.0
+hep-ph/0202122,Neutrinos in cosmology,0.0001924136623247,0.0016516696391162,492.0,81.0
+gr-qc/0601085,Loop Quantum Cosmology,0.0001888722879535,0.0002656757715877,153.0,32.0
+hep-th/0608210,Loop Quantum Gravity: An Inside View,0.000170832550236,2.059152746917385e-05,137.0,11.0
+astro-ph/0402371,Astrophysical Origins of Ultrahigh Energy Cosmic Rays,0.0001642899036497,0.0003603742599666,328.0,22.0
+hep-th/0611088,Arrow of Time in String Theory,0.0001608562531941,5.739111513753913e-07,69.0,1.0
+hep-th/0012062,Vacuum Energy,0.000149509483903,0.0015250171061657,238.0,8.0
+hep-th/0608202,"Numerical simulations of a non-commutative theory: the scalar model on
+  the fuzzy sphere",0.0001494169424672,2.7492237378831444e-06,89.0,3.0
+gr-qc/0611101,Inaccessible Singularities in Toral Cosmology,0.0001493330477019,2.955254951771039e-07,20.0,1.0
+hep-th/0406024,The Casimir effect: Recent controversies and progress,0.0001334966807302,0.0011336120088899,193.0,26.0
+astro-ph/0607626,Accelerated expansion from structure formation,0.000132111427236,0.0002959623024022,223.0,12.0
+hep-th/0701288,"Greybody Factors for Brane Scalar Fields in a Rotating Black-Hole
+  Background",0.00012812226245,0.0,109.0,0.0
+hep-th/0511227,Pre-Inflationary Spacetime in String Cosmology,0.0001256597961189,2.873301526563271e-05,128.0,9.0
+hep-th/0703278,An Inflationary Scenario in Intersecting Brane Models,0.0001253600661673,0.0,96.0,0.0
+hep-th/0702229,IR Inflation from Multiple Branes,0.0001230915480904,4.690114296005804e-07,82.0,1.0
+gr-qc/0702009,"Why do we Still Believe in Newton's Law ? Facts, Myths and Methods in
+  Gravitational Physics",0.0001200478925775,2.2349533701242964e-06,105.0,2.0
+astro-ph/0703403,"Non-Universal Spectra of Ultra-High Energy Cosmic Ray Primaries and
+  Secondaries in a Structured Universe",0.0001157922662031,0.0,46.0,0.0
+gr-qc/0502097,Modern tests of Lorentz invariance,0.0001147865982573,0.0051848251278042,200.0,47.0
+astro-ph/0612746,"Reconstruction of Hessence Dark Energy and the Latest Type Ia Supernovae
+  Gold Dataset",0.0001121536380909,4.304974896550068e-06,130.0,7.0
+astro-ph/0611750,Nongaussianity from Tachyonic Preheating in Hybrid Inflation,0.0001108630898311,3.141966423795782e-05,126.0,8.0
+hep-th/0611071,"Modified gravity and its reconstruction from the universe expansion
+  history",0.0001107349777805,9.43093491277073e-05,118.0,20.0
+astro-ph/0601594,Weak Gravitational Lensing of the CMB,0.0001078559821292,0.0033178796463196,152.0,13.0
+hep-ph/0702036,Recoil Detection of the Lightest Neutralino in MSSM Singlet Extensions,0.0001069391165842,0.0,80.0,0.0
+hep-ph/0312378,The Soft Supersymmetry-Breaking Lagrangian: Theory and Applications,0.0001062488778192,0.005056100931049,575.0,84.0
+gr-qc/0612164,Predictions in eternal inflation,0.0001035149147868,3.160145289100898e-06,111.0,2.0
+astro-ph/0702600,The 21cm angular-power spectrum from the dark ages,0.0001020726267794,3.042824264370728e-07,47.0,1.0
+gr-qc/0302034,Rotating Stars in Relativity,0.0001001842278187,5.84422240291282e-06,147.0,5.0
+hep-th/0702159,"Deformed Special Relativity and Deformed Symmetries in a Canonical
+  Framework",9.923390119200172e-05,0.0,28.0,0.0
+astro-ph/0603494,Massive neutrinos and cosmology,9.875900535823878e-05,0.0014769806382931,225.0,33.0
+astro-ph/0407207,Dark Matter and Background Light,9.874968703797972e-05,2.328983382444073e-05,210.0,3.0
+gr-qc/0312059,Brane-world gravity,9.865696736507686e-05,0.0020967943908453,309.0,190.0
+hep-th/0703012,Non-Gaussianities in N-flation,9.806845256789352e-05,1.2726161596210805e-05,54.0,1.0
+hep-ph/0206072,"Ultrahigh Energy Cosmic Rays: The state of the art before the Auger
+  Observatory",9.612326316163996e-05,0.0015623593916802,392.0,55.0
+astro-ph/0203120,"TACMB-1: The Theory of Anisotropies in the Cosmic Microwave Background
+  (Bibliographic Resource Letter)",9.53668961762496e-05,8.206400020727206e-05,182.0,15.0
+hep-ph/0308123,Progress in the physics of massive neutrinos,9.51603662822998e-05,0.0008434722871354,495.0,62.0
+gr-qc/0701114,Probing Noncommutativity with Inflationary Gravitational Waves,9.404270547874836e-05,7.576507592350065e-07,62.0,1.0
+hep-ph/0503044,Braneworld cosmology and noncommutative inflation,9.35071046119662e-05,5.350439477337182e-05,383.0,13.0
+hep-th/0702031,"Multiple Lambda cosmology: dark fluid with time-dependent equation of
+  state as classical analog of cosmological landscape",9.309318261800808e-05,0.0,25.0,0.0
+gr-qc/0703144,"Dynamical coherent states and physical solutions of quantum cosmological
+  bounces",9.187432470636064e-05,0.0,35.0,0.0
+astro-ph/0702328,Angular Signatures of Dark Matter in the Diffuse Gamma Ray Background,9.17744677018664e-05,1.6883879389552288e-06,66.0,1.0
+astro-ph/9811011,Origin and Propagation of Extremely High Energy Cosmic Rays,9.1386195325974e-05,0.0014192936463288,117.0,98.0
+hep-ph/0404175,"Particle Dark Matter: Evidence, Candidates and Constraints",8.99313805756891e-05,0.0022315945019042,311.0,127.0
+astro-ph/0701520,Gamma-Ray Bursts in the Swift Era,8.848607443470146e-05,8.264760545520517e-06,68.0,2.0
+astro-ph/0702613,Neutrino Spectrum from SN 1987A and from Cosmic Supernovae,8.710847569863647e-05,0.0,56.0,0.0
+astro-ph/0701212,"Dark Energy is the Cosmological Quantum Vacuum Energy of Light
+  Particles-The Axion and the Lightest Neutrino",8.644705746594031e-05,0.0,24.0,0.0
+hep-th/0608193,"Brane Decay of a (4+n)-Dimensional Rotating Black Hole. III: spin-1/2
+  particles",8.500723817966954e-05,1.96673645793772e-06,115.0,2.0
+astro-ph/0610924,Slow-roll reconstruction for running spectral index,8.459775128931191e-05,0.0,70.0,0.0
+gr-qc/0609012,Why Does Gravity Ignore the Vacuum Energy?,8.392062605706552e-05,6.307234057241547e-06,107.0,4.0
+astro-ph/0607064,Cheng-Weyl Vector Field and its Cosmological Application,8.033337170920665e-05,0.0001049332139996,165.0,3.0
+hep-ph/0209244,Cosmological consequences of MSSM flat directions,8.010521422064721e-05,0.0008950986916827,356.0,48.0
+hep-ph/0510389,IceHEP High Energy Physics at the South Pole,7.996586815309604e-05,8.548328395342542e-05,219.0,19.0
+astro-ph/0703129,Some Theoretical Implications of Short-Hard Gamma-Ray Burst observations,7.893614992591246e-05,0.0,27.0,0.0
+hep-ph/0309346,Dark Matter Detection in the Light of Recent Experimental Results,7.807481675511506e-05,0.0014053970580178,257.0,74.0
+gr-qc/0612180,Conditions for the cosmological viability of f(R) dark energy models,7.722121345044368e-05,0.0001251189900151,28.0,10.0
+astro-ph/0609597,Observational $H(z)$ Data and Cosmological Models,7.66415478055592e-05,0.0001563704932737,104.0,8.0
+gr-qc/0612026,Quantum Stability of a w < - 1 Phase of Cosmic Acceleration,7.657244876858123e-05,5.532802840970434e-06,13.0,20.0
+gr-qc/0003101,Numerical hydrodynamics in general relativity,7.647524817020853e-05,0.0007295922509906,107.0,3.0
+hep-th/0703215,Cosmic 21-cm Fluctuations as a Probe of Fundamental Physics,7.580848625546336e-05,3.709125815266858e-07,45.0,1.0
+hep-th/0701233,Graceful exit from a stringy landscape via MSSM inflation,7.57103267032388e-05,7.373983214712923e-06,60.0,5.0
+hep-ph/0605033,"Topical Review on ""Beta-beams""",7.540730490837598e-05,8.012778115870882e-06,87.0,12.0
+hep-th/0702059,On Inflation in String Theory,7.453385758949196e-05,3.212561205644024e-06,113.0,7.0
+astro-ph/0612700,Missing Thermal Energy of the Intracluster Medium,7.446322408110057e-05,0.0009064025880128,66.0,5.0
+astro-ph/0612653,Tension and Systematics in the Gold06 SnIa Dataset,7.343226282938548e-05,0.0002646210925115,61.0,15.0
+hep-th/0509035,The Most Probable Size of the Universe,7.340250955584922e-05,0.0005057186715951,108.0,10.0
+gr-qc/0703050,Vacuum properties of nonsymmetric gravity in de Sitter space,7.284639365441928e-05,0.0,29.0,0.0
+astro-ph/0701333,"Proceedings of the First Workshop on Exotic Physics with Neutrino
+  Telescopes, EPNT06",7.232181846663163e-05,0.0,84.0,0.0
+astro-ph/0610296,Non-Gaussianities in Multi-field Inflation,7.164009741974164e-05,1.2955812095217848e-05,30.0,6.0
+astro-ph/0702587,Exciting Dark Matter and the INTEGRAL/SPI 511 keV signal,7.141171009110722e-05,8.65501798516295e-08,31.0,1.0
+hep-ph/0703128,The galactic 511 keV line from electroweak scale WIMPs,7.092067888471615e-05,5.199242689027466e-07,38.0,1.0
+astro-ph/0609481,Explicit Cosmological Coarse Graining via Spatial Averaging,7.049181008550783e-05,5.190418232286163e-07,47.0,4.0
+hep-th/0701184,Bouncing and Accelerating Solutions in Nonlocal Stringy Models,7.014236016406176e-05,2.86642682516001e-06,94.0,5.0
+hep-th/0702193,Lumps in the throat,7.005657746337172e-05,0.0,70.0,0.0
+hep-th/0608072,"A non-perturbative study of 4d U(1) non-commutative gauge theory -- the
+  fate of one-loop instability",6.950618881563585e-05,2.408021586173798e-05,131.0,8.0
+gr-qc/0702099,"Gravitational Waves from Nonlinear Couplings of Radial and Polar
+  Nonradial Modes in Relativistic Stars",6.886254153075298e-05,0.0,34.0,0.0
+astro-ph/0305457,New varying speed of light theories,6.867764787135745e-05,0.0001858772062212,108.0,34.0
+gr-qc/0611083,Gravastars supported by nonlinear electrodynamics,6.866068839689976e-05,0.0,38.0,0.0
+astro-ph/0610457,Merging of a massive black hole binary II,6.833164102045425e-05,1.6539671115978335e-06,40.0,1.0
+hep-ph/0703130,Collider signatures of gravitino dark matter with a sneutrino NLSP,6.811506188604453e-05,0.0,51.0,0.0
+astro-ph/0504358,Very High Energy Cosmic Rays and Their Interactions,6.759063159215948e-05,1.412633481118368e-05,102.0,8.0
+hep-th/0611198,"String-inspired Gauss-Bonnet gravity reconstructed from the universe
+  expansion history and yielding the transition from matter dominance to dark
+  energy",6.733092453639363e-05,0.0102387628563229,61.0,7.0
+astro-ph/0309228,Shaping Planetary Nebulae and Related Objects,6.662954039047514e-05,4.0992694917712576e-05,46.0,16.0
+astro-ph/0701677,Supernova neutrino observations: What can we learn?,6.597148688712241e-05,1.390977530717595e-06,72.0,1.0
+astro-ph/0512041,"R-modes of accreting hyperon stars as persistent sources of
+  gravitational waves",6.573298206383069e-05,5.328571371023093e-06,38.0,3.0
+astro-ph/0510668,"Are neutron stars crushed? Gravitomagnetic tidal fields as a mechanism
+  for binary-induced collapse",6.531877986526774e-05,3.995217620433279e-06,57.0,1.0
+astro-ph/0702620,The early X-ray afterglows of Gamma Ray Bursts,6.484695594442518e-05,0.0,8.0,0.0
+astro-ph/0702632,Search for ultra-high energy photons using air showers,6.447940362973596e-05,7.555986833567278e-08,11.0,1.0
+hep-th/0702121,"Dark energy, inflation and the cosmic coincidence problem",6.410554234050574e-05,2.140802221485971e-06,6.0,2.0
+hep-th/0612003,Effective Action of Domain Wall Networks,6.402986011075547e-05,6.528612011733026e-07,121.0,2.0
+astro-ph/0703495,"Intermediate and Extreme Mass-Ratio Inspirals -- Astrophysics, Science
+  Applications and Detection using LISA",6.37021361222703e-05,0.0,26.0,0.0
+hep-ph/0407020,"High Energy Physics in the Atmosphere: Phenomenology of Cosmic Ray Air
+  Showers",6.367963231330066e-05,0.0002098760802994,154.0,14.0
+astro-ph/0703780,Observational Constraints on Dark Energy and Cosmic Curvature,6.36052550947503e-05,3.420592881971068e-06,38.0,3.0
+hep-th/0701083,Islands in the landscape,6.315022231826271e-05,2.209148895082047e-06,40.0,1.0
+gr-qc/0610079,The Dark Side of Gravity,6.314854443080267e-05,1.6263890959574328e-06,50.0,1.0
+astro-ph/0606320,"Rapid X-ray Declines and Plateaus in Swift GRB Light Curves Explained by
+  A Highly Radiative Blast Wave",6.309433109261809e-05,7.750125297012385e-06,10.0,3.0
+astro-ph/0703586,Light Propagation and Large-Scale Inhomogeneities,6.291670373072203e-05,1.5076315032642474e-05,48.0,1.0
+hep-th/0606068,Unitarity at Infinity and Topological Holography,6.23669787998703e-05,2.3808467334582898e-07,66.0,2.0
+astro-ph/0611775,Accelerating cosmologies tested by distance measures,6.201266724255169e-05,0.0009732491053257,46.0,16.0
+astro-ph/0611581,"TeV gamma-rays and neutrinos from photo-disintegration of nuclei in
+  Cygnus OB2",6.138558905146084e-05,9.127464080931698e-06,73.0,5.0
+astro-ph/0703625,New constraints on the observable inflaton potential from WMAP and SDSS,6.128683933999999e-05,0.0,52.0,0.0
+astro-ph/0702739,"Scaling relations and mass calibration of the X-ray luminous galaxy
+  clusters at z~0.2: XMM-Newton observations",6.124828420888294e-05,3.2945752195406315e-08,9.0,1.0
+hep-ph/0702024,Electrogenesis via primordial black holes,6.121424375540569e-05,0.0,41.0,0.0
+gr-qc/0701074,"Particle vs. future event horizon in interacting holographic dark energy
+  model",6.111892363870341e-05,3.714383195933861e-07,19.0,1.0
+hep-th/0412080,"Spin half fermions with mass dimension one: theory, phenomenology, and
+  dark matter",6.082563793027488e-05,7.084128810220009e-05,84.0,10.0
+astro-ph/0612733,"Anisotropy of dark matter annihilation with respect to the Galactic
+  plane",6.07394402747626e-05,1.8565137641418582e-09,4.0,1.0
+astro-ph/0607511,"A Spectacular Radio Flare from XRF 050416a at 40 days and Implications
+  for the Nature of X-ray Flashes",6.0579108512983406e-05,1.5522929790167115e-05,6.0,7.0
+astro-ph/0601622,"Deducing the Lifetime of Short Gamma-Ray Burst Progenitors from Host
+  Galaxy Demography",6.0037458045012565e-05,0.0009931837236578,6.0,10.0
+astro-ph/0703757,Gamma-Rays from Dark Matter Mini-Spikes in M31,5.987235601284507e-05,0.0,55.0,0.0
+astro-ph/0606316,Probing Neutrino Dark Energy with Extremely High-Energy Cosmic Neutrinos,5.973414673004214e-05,8.801354463947443e-06,74.0,2.0
+astro-ph/0610092,"Crossing the Phantom Divide: Theoretical Implications and Observational
+  Status",5.964230817116274e-05,0.0013847767352818,122.0,20.0
+gr-qc/0503085,"Variable Eddington Factor and Radiating Slowly Rotating Bodies in
+  General Relativity",5.952840176245629e-05,0.0,21.0,0.0
+gr-qc/0703106,"The Spatial Averaging Limit of Covariant Macroscopic Gravity - Scalar
+  Corrections to the Cosmological Equations",5.946393481803045e-05,1.2259754612407641e-08,32.0,1.0
+hep-ph/0702021,The rigidity of crystalline color superconducting quark matter,5.906069208639211e-05,2.396874890597114e-06,79.0,5.0
+hep-ph/0612137,"Distinguishing Supersymmetry From Universal Extra Dimensions or Little
+  Higgs Models With Dark Matter Experiments",5.875320510356197e-05,1.1112989918689829e-07,84.0,1.0
+astro-ph/0303574,The first second of the Universe,5.81974568695827e-05,0.000161746780385,139.0,10.0
+gr-qc/0701111,The Cosmology of f(R) Gravity in the Metric Variational Approach,5.81788188183308e-05,8.478718774583502e-07,46.0,5.0
+astro-ph/0605432,No Astrophysical Dyadospheres,5.7546017362409695e-05,1.6076037104949302e-06,46.0,2.0
+astro-ph/0610026,Reconstructing Dark Energy,5.747098605709881e-05,0.0008469419375252,138.0,41.0
+astro-ph/0612240,High Energy Astroparticle Physics,5.732266185868796e-05,5.31195515958813e-07,45.0,1.0
+astro-ph/0703285,"Comment on `Tainted evidence: cosmological model selection versus
+  fitting', by Eric V. Linder and Ramon Miquel (astro-ph/0702542v2)",5.71730653235578e-05,7.862027218767325e-05,32.0,3.0
+astro-ph/0609377,"The Effect of Orbital Eccentricity on Gravitational Wave Background
+  Radiation from Supermassive Black Hole Binaries",5.6768964311826736e-05,1.5641758501502897e-08,2.0,2.0
+astro-ph/0702694,"The Prompt Gamma-Ray and Afterglow Energies of Short-Duration Gamma-Ray
+  Bursts",5.653478455567935e-05,0.0009796659497078,3.0,1.0
+gr-qc/0606091,Probing the cosmological singularity with a particle,5.633017233349121e-05,8.04695997556055e-07,25.0,1.0
+astro-ph/0509177,"Dark energy, curvature, and cosmic coincidence",5.630033650729435e-05,9.299239962763403e-06,98.0,5.0
+gr-qc/0606063,"APSIS - an Artificial Planetary System in Space to probe
+  extra-dimensional gravity and MOND",5.585716027371083e-05,4.161602308115272e-06,68.0,3.0
+astro-ph/0605690,Reconstructing the dark energy equation of state with varying couplings,5.551634625618988e-05,0.0003405048832749,57.0,1.0
+gr-qc/0511038,Mach's Principle and a Variable Speed of Light,5.524364214342722e-05,0.0,14.0,0.0
+astro-ph/0610210,The inflationary trispectrum,5.5201059751242056e-05,6.98818049451416e-06,69.0,10.0
+gr-qc/0703006,Can f(R) Modified Gravity Theories Mimic a LCDM Cosmology?,5.5200077546333545e-05,9.149259285245284e-07,63.0,3.0
+hep-th/0701103,Non-local SFT Tachyon and Cosmology,5.509558688061853e-05,6.743252970924027e-07,77.0,4.0
+hep-ph/0211462,Absolute Values of Neutrino Masses: Status and Prospects,5.44012761407201e-05,0.0002871281510737,191.0,50.0
+hep-th/0602170,Solitons in the Higgs phase -- the moduli matrix approach --,5.361348674575382e-05,0.0029839076776999,121.0,26.0
+hep-th/0502209,The Phantom Divide in String Gas Cosmology,5.319779229673157e-05,0.0005761235294538,92.0,40.0
+astro-ph/0612179,The Effect of Large-Scale Inhomogeneities on the Luminosity Distance,5.270318932183977e-05,5.165305656970262e-07,51.0,3.0
+astro-ph/0611608,AXPs/SGRs: Magnetars or Quark-stars?,5.264602186102817e-05,1.6504913466500184e-06,12.0,1.0
+gr-qc/0608121,Constraining Torsion with Gravity Probe B,5.2114013091309527e-05,3.979491856784077e-08,31.0,1.0
+gr-qc/0701133,A general class of braneworld wormholes,5.204826188218717e-05,0.0,28.0,0.0
+astro-ph/0611795,Universe driven by the vacuum of scalar field: VFD model,5.167522667742258e-05,1.886051956767462e-07,9.0,1.0
+hep-th/0703115,"Transient Observers and Variable Constants, or Repelling the Invasion of
+  the Boltzmann's Brains",5.1615542441876925e-05,2.091871969745192e-07,40.0,1.0
+gr-qc/0503051,Universally Coupled Massive Gravity,5.136112388133922e-05,1.602812031595232e-06,22.0,2.0
+astro-ph/0610657,Black-Hole Phenomenology,5.094302348663946e-05,2.249720914604827e-06,53.0,2.0
+gr-qc/0701122,"Nonradial oscillations of slowly and differentially rotating compact
+  stars",5.08871102753389e-05,0.0,34.0,0.0
+cond-mat/0612594,"Gravitational Dynamics of an Infinite Shuffled Lattice: Particle
+  Coarse-grainings, Non-linear Clustering and the Continuum Limit",5.088252977447184e-05,0.0,19.0,0.0
+astro-ph/0608178,"Sources of Stellar Energy, Einstein- Eddington Timescale of
+  Gravitational Contraction and Eternally Collapsing Objects",5.083237423163696e-05,0.0,23.0,0.0
+hep-ph/0612182,Lightest sterile neutrino abundance within the nuMSM,5.081945082700336e-05,2.018347549782337e-06,59.0,5.0
+astro-ph/0204527,High-energy Neutrino Astronomy: The Cosmic Ray Connection,5.052538076019494e-05,0.0004970165227295,138.0,75.0
+astro-ph/0703395,"A Lensing Survey of X-ray Luminous Galaxy Clusters at Redshift z ~ 0.2:
+  II: CFH12k Weak Lensing Analysis and Global Correlations",5.022664320413978e-05,1.0664082666818457e-07,8.0,1.0
+astro-ph/0612667,Cosmology with Weak Lensing Surveys,5.019477198684725e-05,1.102421304717088e-05,58.0,3.0
+astro-ph/0610162,Cosmic Microwave Background anisotropies: the power spectrum and beyond,5.01794489215737e-05,0.0,49.0,0.0
+hep-th/0612230,p-adic Inflation,4.969209800699836e-05,8.208336375895533e-06,91.0,6.0
+astro-ph/0610340,Evidence Against Astrophysical Dyadospheres,4.960091251154693e-05,0.0,11.0,0.0
+astro-ph/0608206,"Sterile neutrinos, lepton asymmetries, primordial elements: how much of
+  each?",4.960027898791746e-05,1.765095278687586e-06,64.0,2.0
+astro-ph/0701519,"Reconstruction of Deceleration Parameters from Recent Cosmic
+  Observations",4.956595393103023e-05,5.834226283117436e-07,58.0,2.0
+gr-qc/0605021,"Parameter estimation of coalescing supermassive black hole binaries with
+  LISA",4.925596403929524e-05,0.0,45.0,0.0
+gr-qc/0702133,Maximum gravitational recoil,4.903454449187353e-05,5.953035254185413e-06,20.0,7.0
+astro-ph/0703113,Hypernuclear Physics and Compact Stars,4.893383378358537e-05,0.0,24.0,0.0
+astro-ph/0701405,"Constraints on Holographic Dark Energy from Latest Supernovae, Galaxy
+  Clustering, and Cosmic Microwave Background Anisotropy Observations",4.86257160885583e-05,0.0006410733526803,77.0,7.0
+astro-ph/0702358,"Energy distribution of individual quasars from far-UV to X-rays: I.
+  Intrinsic UV hardness and dust opacities",4.847127458060863e-05,1.990182755160072e-06,34.0,1.0
+hep-th/0504106,Singularities in and Stability of Ooguri-Vafa-Verlinde Cosmologies,4.840216016600381e-05,0.0001814646870076,115.0,4.0
+astro-ph/0004075,The Cosmological Constant,4.830437533188229e-05,0.0176356803504675,202.0,230.0
+hep-th/9909061,Superstring Cosmology,4.824847265066308e-05,0.0004986378300579,217.0,118.0
+astro-ph/0607301,Cosmological Constraints from Hubble Parameter versus Redshift Data,4.789557140633506e-05,7.431487764945116e-07,34.0,6.0
+astro-ph/0612487,"Construction of Exact Solutions in Two-Fields Models and the Crossing of
+  the Cosmological Constant Barrier",4.7858656739313446e-05,1.6885654545341933e-06,70.0,6.0
+hep-th/0601213,"Introduction to Modified Gravity and Gravitational Alternative for Dark
+  Energy",4.785613290641124e-05,0.0015853167737138,83.0,97.0
+astro-ph/0701308,A Novel Mechanism for Type-I Superconductivity in Neutron Stars,4.770173534486303e-05,0.0,23.0,0.0
+gr-qc/0206041,Gravitational Waves from Gravitational Collapse,4.742368951228136e-05,0.0002565020370185,87.0,5.0
+astro-ph/0512103,Supernovae Ia observations in the Lemaitre--Tolman model,4.733741170919498e-05,1.8391344662088875e-05,7.0,17.0
+astro-ph/0703486,The exact numerical treatment of inflationary models,4.731931179374952e-05,4.355076586287897e-07,69.0,1.0
+astro-ph/0703346,The Birthrate of Magnetars,4.719902337891955e-05,0.0,5.0,0.0
+astro-ph/0607361,Width of the 511 KeV Line from the Bulge of the Galaxy,4.699518723834605e-05,8.220737454907424e-07,12.0,3.0
+gr-qc/0601029,"Gravitomagnetic resonant excitation of Rossby modes in coalescing
+  neutron star binaries",4.699353192852767e-05,1.9976088102166394e-06,3.0,2.0
+astro-ph/0506570,Non-Gaussianity from Cosmic Magnetic Fields,4.6934551210853486e-05,0.0,56.0,0.0
+astro-ph/0603114,Dark Energy: Mystery of the Millennium,4.675636441663475e-05,0.0012007554760968,117.0,41.0
+astro-ph/0608706,Dark Matter: the Connection with Gamma-Ray Astrophysics,4.632866156512837e-05,3.972253141866566e-06,73.0,3.0
+hep-th/0502191,Coupled dark energy: Towards a general description of the dynamics,4.628901072914993e-05,0.0001691277103124,117.0,26.0
+gr-qc/0701164,Large Merger Recoils and Spin Flips From Generic Black-Hole Binaries,4.623577282548434e-05,3.601862311823106e-05,44.0,13.0
+gr-qc/0703053,"Inspiral, merger and ringdown of unequal mass black hole binaries: a
+  multipolar analysis",4.602292024863974e-05,7.886645565938645e-06,19.0,2.0
+astro-ph/0702187,Multiple field inflation,4.594019175636837e-05,1.1432491171209005e-08,41.0,1.0
+astro-ph/0603509,"Mass spectrum of primordial black holes from inflationary perturbation
+  in the Randall-Sundrum braneworld: a limit on blue spectra",4.576408779618095e-05,1.957046866590204e-06,79.0,1.0
+astro-ph/0511647,"Apparent Hubble acceleration from large-scale electroweak domain
+  structure",4.573366282847306e-05,0.0,26.0,0.0
+astro-ph/0507153,Evolutionary and structural properties of mirror star MACHOs,4.5471063885952185e-05,2.0559484462848926e-06,67.0,4.0
+astro-ph/0408495,Can vacuum decay in our Universe?,4.545932788621748e-05,0.0003769042692397,47.0,15.0
+astro-ph/0702606,Weak Lensing of Baryon Acoustic Oscillations,4.5085983574702885e-05,0.0,36.0,0.0
+astro-ph/0701888,Pulsar's kicks and Gamma-ray bursts,4.507097442506608e-05,5.006067043789617e-06,7.0,1.0
+astro-ph/0610389,Running of Running of the Spectral Index and WMAP Three-year data,4.50393456914819e-05,0.0,60.0,1.0
+astro-ph/0603545,"Dark matter, and its darkness",4.500881958154162e-05,0.0,37.0,0.0
+astro-ph/0611034,Non-gaussianity from the inflationary trispectrum,4.4998712151127645e-05,6.5719729080198e-06,62.0,10.0
+astro-ph/0610481,"Enhanced Cosmological GRB Rates and Implications for Cosmogenic
+  Neutrinos",4.49838691002355e-05,8.818153432437925e-07,22.0,2.0
+gr-qc/0307005,Long time black hole evaporation with bounded Hawking flux,4.493533524907775e-05,3.903389126527241e-06,96.0,7.0
+hep-th/0609155,"Gauss-Bonnet Quintessence: Background Evolution, Large Scale Structure
+  and Cosmological Constraints",4.475567796116319e-05,0.0004938028053873,90.0,15.0
+gr-qc/0702093,"Gauge invariant perturbations around symmetry reduced sectors of general
+  relativity: applications to cosmology",4.462957322616992e-05,2.151018353844407e-07,30.0,1.0
+astro-ph/0702181,Bulk viscosity in nuclear and quark matter: A short review,4.460440930213483e-05,4.016108090507047e-07,20.0,1.0
+astro-ph/0503447,Cosmological Magnetic Fields and CMBR Polarization,4.456489420688481e-05,1.2175048131113754e-05,49.0,5.0
+nucl-th/0703034,Magnetic Phases in Three-Flavor Color Superconductivity,4.425123267989321e-05,0.0,4.0,0.0
+astro-ph/0603052,"Interacting Vector-like Dark Energy, the First and Second Cosmological
+  Coincidence Problems",4.388143756571092e-05,4.75121177709144e-05,128.0,13.0
+hep-th/0604014,Late acceleration and $w=-1$ crossing in induced gravity,4.385114237628407e-05,1.7756654783782344e-05,105.0,23.0
+astro-ph/0703081,"Quasar 3C298: a test-case for meteoritic nanodiamond 3.5 microns
+  emission",4.3727086653615845e-05,0.0,2.0,0.0
+astro-ph/0612325,"Oscillation effects on high-energy neutrino fluxes from astrophysical
+  hidden sources",4.3688425954390845e-05,6.733088609385971e-08,35.0,2.0
+hep-th/0610221,Brane Inflation : String Theory viewed from the Cosmos,4.355843934237034e-05,1.046799335753481e-05,110.0,22.0
+astro-ph/0202056,Relativistic Binaries in Globular Clusters,4.352570863589056e-05,0.0,41.0,0.0
+gr-qc/0608002,"Possible Constraints on the Duration of Inflationary Expansion from
+  Quantum Stress Tensor Fluctuations",4.34817082440105e-05,3.889672717742563e-08,33.0,1.0
+math-ph/0703041,"The spherically symmetric alpha2-dynamo and some of its spectral
+  peculiarities",4.335022354711507e-05,0.0,24.0,0.0
+hep-ph/0701003,Probing Low-x QCD With Very High Energy Prompt Muons,4.315669036130966e-05,0.0,5.0,0.0
+astro-ph/0703245,"Natural Phantom Dark Energy, Wiggling Hubble Parameter $H(z)$ and Direct
+  $H(z)$ Data",4.3108859938432e-05,2.0515910161151838e-06,51.0,2.0
+astro-ph/0605366,"Features in Dark Energy Equation of State and Modulations in the Hubble
+  Diagram",4.31029660008188e-05,2.815826227100349e-05,118.0,11.0
+astro-ph/0605724,Compact stars made of fermionic dark matter,4.309169021901507e-05,2.499723133115317e-07,21.0,1.0
+astro-ph/0702259,Bulk viscosity in kaon condensed matter,4.3033364874308426e-05,0.0,5.0,0.0
+hep-ph/0612047,Neutrino Mixing and Neutrino Telescopes,4.300984532304369e-05,1.1732294672131972e-06,16.0,3.0
+astro-ph/0605701,Observational constraints on phantom-like braneworld cosmologies,4.298616691301703e-05,2.719549711365166e-06,94.0,10.0
+astro-ph/0702145,"Primordial helium recombination III: Thomson scattering, isotope shifts,
+  and cumulative results",4.2833281359546326e-05,3.2534317434203744e-08,38.0,3.0
+hep-th/0702002,"Gauss-Bonnet cosmologies: crossing the phantom divide and the transition
+  from matter dominance to dark energy",4.278729690160569e-05,1.3068450448456955e-06,76.0,1.0
+gr-qc/0607059,Inflationary scalar spectrum in loop quantum cosmology,4.268375450194448e-05,1.1805848969804737e-06,72.0,1.0
+gr-qc/0611110,Kerr-Sen dilaton-axion black hole lensing in the strong deflection limit,4.263228270477231e-05,0.0009799463197934,10.0,2.0
+hep-th/0611043,"Sinks in the Landscape, Boltzmann Brains, and the Cosmological Constant
+  Problem",4.244330322119608e-05,1.4452069098796204e-05,86.0,15.0
+astro-ph/0602117,Advanced Topics in Cosmology: A Pedagogical Introduction,4.240375862035122e-05,0.0016393643762724,114.0,11.0
+astro-ph/0701059,The Evolution of Compact Binary Star Systems,4.2377541227324064e-05,0.0,34.0,0.0
+astro-ph/0112551,"Large-Scale Structure of the Universe and Cosmological Perturbation
+  Theory",4.215916351089745e-05,2.3572668367646483e-05,57.0,17.0
+astro-ph/0612150,"Present bounds on the relativistic energy density in the Universe from
+  cosmological observables",4.212069358640289e-05,2.1443994730559077e-05,53.0,2.0
+astro-ph/0609120,The effect of inhomogeneous expansion on the supernova observations,4.2044408371029774e-05,3.785323564254802e-05,38.0,12.0
+hep-ex/0702006,An improved limit on the axion-photon coupling from the CAST experiment,4.203663545929048e-05,2.3988260363030385e-06,43.0,3.0
+gr-qc/0604120,"The Chrono-geometrical Structure of Special and General Relativity: a
+  Re-Visitation of Canonical Geometrodynamics",4.200856860461964e-05,9.468330152084482e-06,36.0,6.0
+astro-ph/0608530,Statistical Algorithms for Identification of Astronomical X-Ray Sources,4.200571848747576e-05,0.0,38.0,0.0
+hep-ph/0505059,"Light Composite Higgs from Higher Representations versus Electroweak
+  Precision Measurements -- Predictions for LHC",4.190235233126585e-05,4.085788425915585e-05,107.0,19.0
+gr-qc/0609057,"Hamiltonian cosmological perturbation theory with loop quantum gravity
+  corrections",4.174348278877285e-05,1.1134472255125148e-06,25.0,7.0
+hep-th/0612141,Area metric gravity and accelerating cosmology,4.1653581259297695e-05,6.924314474040736e-07,38.0,1.0
+astro-ph/0311321,"Gamma-Ray Bursts: Progress, Problems & Prospects",4.161214000705239e-05,0.0009316004357127,60.0,47.0
+astro-ph/0611506,Diffuse x-rays: Directly Observing Dark Matter?,4.160440917864156e-05,8.688339212512557e-07,27.0,1.0
+astro-ph/0410115,Cosmic Microwave Background Anisotropies: Beyond Standard Parameters,4.159211868596423e-05,2.7140089998519e-05,224.0,6.0
+hep-th/0608219,Phantom cosmology as a scattering process,4.157711442927251e-05,1.0622598681866949e-05,65.0,3.0
+gr-qc/0701172,On the Onset of Inflation in Loop Quantum Cosmology,4.1257486168137454e-05,1.0234745081275056e-05,5.0,3.0
+gr-qc/0703002,Non-Metric Gravity I: Field Equations,4.112343030992301e-05,0.0,10.0,0.0
+hep-th/0610232,Generating the curvature perturbation with instant preheating,4.103424441778408e-05,1.452824387538738e-06,73.0,4.0
+hep-th/0604150,The Geometry of The Entropic Principle and the Shape of the Universe,4.0949367503622346e-05,1.2341441520017523e-06,47.0,4.0
+astro-ph/0604177,"Simulations and Analytic Calculations of Bubble Growth During Hydrogen
+  Reionization",4.091862873896904e-05,0.0020415848787615,59.0,17.0
+gr-qc/0702087,Renormalization-group running cosmologies and the generalized second law,4.082885941396667e-05,0.0,5.0,0.0
+astro-ph/0608600,"Gravitational Recoil from Binary Black Hole Mergers: the Close-Limit
+  Approximation",4.080565477641297e-05,7.43159106836985e-06,47.0,4.0
+astro-ph/0605208,Gamma-Ray Bursts,4.071799487760906e-05,0.001982160206456,69.0,8.0
+astro-ph/0703004,"Shredded Galaxies as the Source of Diffuse Intrahalo Light On Varying
+  Scales",4.070783080102281e-05,2.834898346000723e-07,14.0,1.0
+hep-ph/0604014,Dark energy and formation of classical scalar fields,4.0596648922785775e-05,0.0,17.0,0.0
+astro-ph/0403324,Dark Matter and Dark Energy,4.029073862759569e-05,0.0010716639028589,127.0,138.0
+hep-ph/0603244,Reheating in supersymmetric high scale inflation,4.022425978591911e-05,3.231411484015795e-05,96.0,18.0
+astro-ph/0406079,Quest for Fats: Roles for a Fat Dark Matter (WIMPZILLA),4.0048993940494606e-05,4.772118651770865e-07,53.0,2.0
+astro-ph/0607051,Bulk viscosity of Mixed nucleon-hyperon-quark Matter in Neutron stars,4.000513355062039e-05,0.0,2.0,0.0
+astro-ph/0204059,Dark 2002 and Beyond,3.986632387442319e-05,0.000104652091239,96.0,15.0
+astro-ph/0612517,"Dynamics of triple black hole systems in hierarchically merging massive
+  galaxies",3.980874055220722e-05,3.029081222511911e-06,11.0,2.0
+hep-th/0407077,Nonlinear Supersymmetry for Spectral Design in Quantum Mechanics,3.976997377001184e-05,6.665525786920046e-06,19.0,7.0
+gr-qc/0511003,Chaplygin traversable wormholes,3.9687041188897976e-05,2.164188922574989e-06,77.0,4.0
+astro-ph/0603064,Cold Dark Matter as Compact Composite Objects,3.967394769634131e-05,3.173994377573168e-06,24.0,3.0
+astro-ph/0612642,"Reconstructing generalized ghost condensate model with dynamical dark
+  energy parametrizations and observational datasets",3.957331078642721e-05,0.0002091826305314,92.0,8.0
+astro-ph/0612387,GLAST sensitivity to Point Sources of Dark Matter Annihilation,3.953254721776569e-05,1.4228076735102444e-05,52.0,4.0
+hep-th/0610265,Scalar cosmological perturbations in the Gauss-Bonnet braneworld,3.952473692076499e-05,0.0,76.0,0.0
+astro-ph/0605367,"Inflation after WMAP3: Confronting the Slow-Roll and Exact Power Spectra
+  with CMB Data",3.95052364362858e-05,9.13906201274147e-05,114.0,26.0
+astro-ph/0701517,Cosmic-ray propagation and interactions in the Galaxy,3.945575552682141e-05,0.0,14.0,0.0
+gr-qc/0609017,Density Perturbations for Running Cosmological Constant,3.9097779398172976e-05,2.3003104275775905e-06,32.0,6.0
+hep-th/0508093,Quantum fluctuations on a thick de Sitter brane,3.907449056431568e-05,0.0009697911676797,31.0,2.0
+hep-ph/0612092,"Sterile neutrino production via active-sterile oscillations: the quantum
+  Zeno effect",3.891463563107944e-05,3.597463253987063e-07,18.0,2.0
+gr-qc/0604095,Traversable wormholes coupled to nonlinear electrodynamics,3.881683542837857e-05,1.42635814593321e-07,35.0,2.0
+astro-ph/0702173,Dark Matter and Sterile Neutrinos,3.875823284396442e-05,1.211515856535245e-06,18.0,3.0
+gr-qc/0701020,Self sustained phantom wormholes in semi-classical gravity,3.873712865460767e-05,9.453088845656461e-08,27.0,1.0
+hep-th/0611246,The Cosmological Slingshot Scenario: A Stringy Early Times Universe,3.873006432408563e-05,2.792543167062991e-06,57.0,6.0
+gr-qc/0703075,Binary black hole mergers: large kicks for generic spin orientations,3.858854505175682e-05,3.2315158998045497e-06,32.0,5.0
+astro-ph/0701228,Experimental Evidence of Black Holes,3.85808403966668e-05,1.5758571915976563e-06,15.0,2.0
+astro-ph/0701247,"Spectral Running and Non-Gaussianity from Slow-Roll Inflation in
+  Generalised Two--Field Models",3.8557679844556766e-05,1.970966745410453e-07,39.0,1.0
+gr-qc/0512007,Scaling Laws for the Cosmological Constant,3.825850215897961e-05,0.0011882361406084,102.0,16.0
+astro-ph/0607082,Guaranteed and Prospective Galactic TeV Neutrino Sources,3.809131045312965e-05,2.088891719250242e-06,21.0,3.0
+astro-ph/0409657,Uncertainties in the S-Z selected cluster angular power spectrum,3.804152087907444e-05,8.304275942435288e-07,12.0,2.0
+gr-qc/0703096,"Holographic Foam, Dark Energy and Infinite Statistics",3.800363186615497e-05,6.573824398039073e-07,8.0,1.0
+astro-ph/0701887,Dynamical Interactions and the Black Hole Merger Rate of the Universe,3.788182118744063e-05,9.04453767915834e-06,30.0,2.0
+astro-ph/0610402,Brane inflation without slow-roll,3.782532626417488e-05,1.435441804821574e-06,74.0,5.0
+astro-ph/0409009,QSO-Galaxy Association and Gravitational Lensing,3.780380005644664e-05,0.0,5.0,0.0
+astro-ph/0702104,"Baryon number conservation and enforced electric charge neutrality for
+  bulk viscosity in quark matter",3.768941506034155e-05,1.1076321895925259e-07,16.0,2.0
+astro-ph/0612229,"Intracluster light and the extended stellar envelopes of cD galaxies: An
+  analytical description",3.756851914504351e-05,1.7302727500371106e-07,3.0,4.0
+astro-ph/0510444,"The Galactic magnetic field as spectrograph for ultra-high energy cosmic
+  rays",3.7566875140903e-05,3.745663924483249e-05,38.0,12.0
+astro-ph/0610593,The Zoo of Neutron Stars,3.756253334358101e-05,1.503785804443144e-06,38.0,1.0
+hep-th/0509176,Cosmic No Hair for Braneworlds with a Bulk Dilaton Field,3.749895557878344e-05,6.524615468592812e-07,80.0,2.0
+hep-ph/0701221,Lightest Higgs Boson and Relic Neutralino in the MSSM with CP Violation,3.738365502027465e-05,0.0,43.0,0.0
+hep-th/0702098,Casimir effect in rugby-ball type flux compactifications,3.737476193117925e-05,0.0,27.0,0.0
+astro-ph/0512124,"Phantom-like behaviour in dilatonic brane-world scenario with induced
+  gravity",3.732313120208822e-05,4.485086236827527e-05,72.0,3.0
+astro-ph/0612559,"The Signature of Large Scale Structures on the Very High Energy
+  Gamma-Ray Sky",3.723852062661274e-05,2.7744347533195333e-06,52.0,2.0
+hep-th/0702109,Inflation Assisted by Heterotic Axions,3.72103306572972e-05,1.2289301882488083e-05,31.0,2.0
+gr-qc/0501090,"Generalized Radar 4-Coordinates and Equal-Time Cauchy Surfaces for
+  Arbitrary Accelerated Observers",3.718572713402542e-05,5.281090469428558e-06,42.0,10.0
+astro-ph/0512104,Cluster Masses from CMB and Galaxy Weak Lensing,3.711945081167188e-05,1.8153382165725044e-06,51.0,3.0
+astro-ph/0703455,Non-isotropy in the CMB power spectrum in single field inflation,3.7046193588522976e-05,1.1624774491350136e-06,53.0,1.0
+astro-ph/0606028,Dark matter clustering: a simple renormalization group approach,3.698463094790579e-05,2.734652737022019e-06,31.0,5.0
+astro-ph/0506128,GZK Photons as Ultra High Energy Cosmic Rays,3.690310176366637e-05,5.231254868833459e-05,72.0,20.0
+astro-ph/0207056,On the Final State of Spherical Gravitational Collapse,3.687389092909422e-05,1.4014865038955494e-05,24.0,8.0
+astro-ph/0311528,The Luminosity Function of Lyman Alpha Emitters at Redshift z~5.7,3.685656735725203e-05,2.5579349711156298e-05,36.0,7.0
+astro-ph/0605285,The Birth of Quark Stars: Photon-driven Supernovae?,3.683807955739432e-05,3.113837916468128e-06,4.0,3.0
+astro-ph/0701357,Imprints of a Primordial Preferred Direction on the Microwave Background,3.6736902031190446e-05,2.601657171333629e-06,49.0,4.0
+gr-qc/0605130,"Uniqueness of Petrov type D spatially inhomogeneous irrotational silent
+  models",3.672384669511859e-05,0.0,32.0,0.0
+astro-ph/0701015,Gravitational instability on the brane: the role of boundary conditions,3.6722952305831535e-05,0.0,65.0,0.0
+hep-th/0607181,"Accelerating Universe and Cosmological Perturbation in the Ghost
+  Condensate",3.645072930288304e-05,7.412002050862082e-06,64.0,3.0
+hep-ph/0512227,"Supersymmetric Thermalization and Quasi-Thermal Universe: Consequences
+  for Gravitinos and Leptogenesis",3.634013458878336e-05,3.36563131747698e-05,148.0,19.0
+astro-ph/0410122,Sterile Neutrinos in astrophysical and cosmological sauce,3.633225501620788e-05,2.44774757504112e-05,98.0,8.0
+astro-ph/0604484,Reconstructing holographic quintessence,3.62060791721096e-05,0.0008495208322519,91.0,9.0
+gr-qc/0612076,Spin Flips and Precession in Black-Hole-Binary Mergers,3.60794012930288e-05,9.331340467013495e-06,55.0,7.0
+astro-ph/0611032,"Differential Density Statistics of Galaxy Distribution and the
+  Luminosity Function",3.604086404998463e-05,0.0,10.0,0.0
+gr-qc/0611045,"Dynamical Emergence of Instantaneous 3-Spaces in a Class of Models of
+  General Relativity",3.591505879618823e-05,0.0,33.0,0.0
+gr-qc/0511151,The adiabatic evolution of orbital parameters in the Kerr spacetime,3.5817045761865976e-05,6.105520756015414e-06,17.0,3.0
+astro-ph/0703667,Quasar Proximity Zones and Patchy Reionization,3.581425419604248e-05,0.0,28.0,0.0
+hep-th/0612220,"Phantom scalar dark energy as modified gravity: understanding the origin
+  of the Big Rip singularity",3.580814984348933e-05,1.0144674149396689e-07,27.0,2.0
+hep-th/0612138,On the One Loop Corrections to Inflation II: The Consistency Relation,3.54199067102393e-05,3.066632495802952e-06,44.0,1.0
+astro-ph/0703191,"On model selection forecasting, Dark Energy and modified gravity",3.537340166778481e-05,5.912793591516889e-07,16.0,1.0
+astro-ph/0610266,Tachyon field inspired dark energy and supernovae constraints,3.5266048379516326e-05,0.0,50.0,0.0
+astro-ph/0701295,"The impact of dipole straylight contamination on the alignment of low
+  multipoles of CMB anisotropies",3.525465828781201e-05,0.0,8.0,0.0
+hep-th/0702220,Cosmological Moduli Dynamics,3.524539359506055e-05,4.499540080215055e-07,57.0,2.0
+hep-ph/0607109,Probing Dark Energy via Neutrino & Supernova Observatories,3.519381769512519e-05,0.0002369178084416,85.0,3.0
+astro-ph/0607494,"Non-Gaussian Covariance of CMB B-modes of Polarization and Parameter
+  Degradation",3.518761146766429e-05,0.0,23.0,0.0
+astro-ph/0603019,Measuring neutrino masses and dark energy with weak lensing tomography,3.516362771833419e-05,9.81970558319429e-06,87.0,8.0
+hep-th/0410115,"Inflation, Large Branes, and the Shape of Space",3.5162025267259984e-05,5.21388306048659e-07,70.0,6.0
+hep-th/0501185,"Brane Inflation, Solitons and Cosmological Solutions: I",3.504352260862349e-05,2.9802825655934675e-05,216.0,20.0
+hep-th/0611225,Black-Body Radiation Of Noncommutative Gauge Fields,3.5038432112131727e-05,1.825924947668168e-07,40.0,2.0
+astro-ph/0611884,Cosmic Rays from the Knee to the Ankle - Status and Prospects -,3.499414833510665e-05,1.9783791822124026e-07,11.0,1.0
+gr-qc/0408080,Two Loop Scalar Self-Mass during Inflation,3.4984736323942746e-05,0.0001157242636181,82.0,38.0
+hep-ph/0602187,Determination of Dark Matter Properties at High-Energy Colliders,3.475843202636748e-05,0.0002617613125208,102.0,27.0
+astro-ph/0608631,Dark Energy and Some Alternatives: a Brief Overview,3.470506325953283e-05,2.3547305003431167e-07,42.0,4.0
+hep-th/0510008,Branes in a Time Dependent Universe,3.464862165622726e-05,7.548958646613616e-07,45.0,5.0
+astro-ph/0612246,"A comprehensive analysis of Swift/XRT data: I. Apparent spectral
+  evolution of GRB X-ray tails",3.4636202395469354e-05,8.275760456232905e-06,5.0,8.0
+astro-ph/0703722,"Observable Signatures of a Black Hole Ejected by Gravitational Radiation
+  Recoil in a Galaxy Merger",3.4582251714402816e-05,0.0,20.0,0.0
+astro-ph/0506422,Direct detection of the inflationary gravitational wave background,3.457694033948775e-05,4.695864112879159e-05,75.0,21.0
+astro-ph/0702143,"Primordial helium recombination I: feedback, line transfer, and
+  continuum opacity",3.45765829336206e-05,3.981598880576529e-07,19.0,2.0
+astro-ph/0701603,A Unified Model of the Prompt Optical Emission of Gamma-Ray Bursts,3.455474381286927e-05,0.0,4.0,0.0
+astro-ph/0703419,"Search for gravitational wave radiation associated with the pulsating
+  tail of the SGR 1806-20 hyperflare of 27 December 2004 using LIGO",3.445437475426657e-05,1.060658728773935e-07,30.0,1.0
+astro-ph/0505267,"Lorentz violation at high energy: concepts, phenomena and astrophysical
+  constraints",3.433229174470536e-05,0.0009010845287665,95.0,39.0
+gr-qc/0603061,"Formalism for testing theories of gravity using lensing by compact
+  objects. III: Braneworld gravity",3.432434675645344e-05,0.0,6.0,0.0
+gr-qc/0701050,How to Measure the Cosmic Curvature,3.432242752491252e-05,0.0,22.0,0.0
+astro-ph/0608695,"Self-induced conversion in dense neutrino gases: Pendulum in flavour
+  space",3.431668224845416e-05,0.0002353818478154,38.0,8.0
+gr-qc/0701086,"Mining information from binary black hole mergers: a comparison of
+  estimation methods for complex exponentials in noise",3.4271127766424296e-05,7.749603307664456e-06,19.0,1.0
+astro-ph/0308270,On the Formation of Giant Elliptical Galaxies and Globular Clusters,3.420705131503439e-05,0.0,27.0,0.0
+hep-ph/0308188,Mixed high energy neutrinos from cosmos,3.4176415533189305e-05,3.959331656902249e-06,63.0,4.0
+astro-ph/0605434,Dyadospheres Don't Develop,3.411303703403624e-05,5.021798394298934e-08,22.0,2.0
+astro-ph/0702390,Modeling kicks from the merger of non-precessing black-hole binaries,3.407402230951486e-05,2.3203723779031306e-06,4.0,11.0
+astro-ph/0611799,"The Role of the Dust in Primeval Galaxies: A Simple Physical Model for
+  Lyman Break Galaxies and Lyman Alpha Emitters",3.4062644224877525e-05,9.544606436876292e-07,12.0,3.0
+hep-ph/0408165,Lectures on Astroparticle Physics,3.402226184733422e-05,1.4787630036802635e-05,144.0,2.0
+astro-ph/0610812,Quintessence reconstructed: new constraints and tracker viability,3.395333198328043e-05,1.0830248690017002e-06,96.0,8.0
+hep-ph/0603246,"Baryogenesis, Electric Dipole Moments and Dark Matter in the MSSM",3.39029695482556e-05,0.0006430515053592,75.0,13.0
+gr-qc/0511097,Gravastar Solutions with Continuous Pressures and Equation of State,3.3829767936625034e-05,5.240919758620552e-07,4.0,3.0
+hep-ph/0310238,Neutrino Mixing,3.377248727797973e-05,0.0001477384740289,127.0,25.0
+astro-ph/0609655,"Search for Correlations between Nearby AGNs and Ultra-high Energy Cosmic
+  Rays",3.373162434391775e-05,0.0,35.0,0.0
+hep-th/0507125,de Sitter thermodynamics and the braneworld,3.3350496196918126e-05,2.6988008018989508e-05,70.0,9.0
+hep-ph/0601016,Particle Physics Approach to Dark Matter,3.330447660392561e-05,2.5995448282837097e-06,24.0,5.0
+astro-ph/0703781,Near-Milne realization of scale-invariant fluctuations,3.3295939148472584e-05,0.0,18.0,0.0
+hep-ph/0607086,Determining Supersymmetric Parameters With Dark Matter Experiments,3.327293687986164e-05,6.709455041392438e-06,116.0,7.0
+gr-qc/0608049,One Loop Corrected Mode Functions for SQED during Inflation,3.323178336515935e-05,1.5574445596855924e-06,30.0,4.0
+hep-ph/0307359,Flavor Mixing and CP Violation of Massive Neutrinos,3.318149821025765e-05,0.0001485707681837,54.0,22.0
+hep-ph/0612285,1-3 leptonic mixing and the neutrino oscillograms of the Earth,3.3173027263924045e-05,0.0,42.0,0.0
+astro-ph/0511774,"Dimensionless constants, cosmology and other dark matters",3.3160222303375504e-05,0.0007571385600206,23.0,25.0
+hep-ph/0611006,Self Interacting Dark Matter in the Solar System,3.306866666388567e-05,3.313335698365182e-06,19.0,5.0
+astro-ph/0602266,MOND habitats within the solar system,3.288684447898261e-05,1.235524037642068e-05,20.0,7.0
+nucl-th/0608019,Bulk viscosity in 2SC quark matter,3.2834514205492894e-05,6.978051742927849e-06,62.0,6.0
+hep-th/0608207,A Note on Noncommutative Brane Inflation,3.28197547365102e-05,5.834182463315859e-07,85.0,4.0
+astro-ph/0703741,Effects of Baryons and Dissipation on the Matter Power Spectrum,3.280254261849233e-05,1.921894977388997e-06,14.0,1.0
+hep-ph/0201156,Candidates for non-baryonic dark matter,3.272071902813167e-05,4.188257582866715e-06,113.0,4.0
+math-ph/0501069,"MHD alpha^2-dynamo, Squire equation and PT-symmetric interpolation
+  between square well and harmonic oscillator",3.2687250390917074e-05,3.576220582223331e-05,49.0,8.0
+hep-ph/0703116,Sterile neutrinos,3.260751686463788e-05,0.0,19.0,0.0
+astro-ph/0010468,"In the Beginning: The First Sources of Light and the Reionization of the
+  Universe",3.251688860758271e-05,0.0002194744019761,34.0,26.0
+astro-ph/0703057,"Radiative feedback from massive black holes in elliptical galaxies. AGN
+  flaring and central starburst fueled by recycled gas",3.2462882301135935e-05,1.975330645046937e-06,17.0,1.0
+gr-qc/0702064,Non-linear vector perturbations in a contracting universe,3.238554261282629e-05,0.0,6.0,0.0
+hep-th/0408140,Aspects of Scalar Field Dynamics in Gauss-Bonnet Brane Worlds,3.236324397757103e-05,0.0001448186491091,105.0,17.0
+hep-ph/0611194,Determining Neutrino and Supernova Parameters with a Galactic Supernova,3.2301602116175374e-05,2.375903851816872e-06,52.0,3.0
+astro-ph/0611913,"A Statistical Study of Weak Lensing by Triaxial Dark Matter Halos:
+  Consequences for Parameter Estimation",3.222698066836825e-05,4.36273111218464e-07,40.0,1.0
+astro-ph/0612638,Rotating Collapse of Stellar Iron Cores in General Relativity,3.221947846696906e-05,7.583577436555228e-08,4.0,1.0
+astro-ph/0304158,Magnetic and Electric Fields around the Black Hole in Cyg X-1,3.2190700373386736e-05,1.1791596544694943e-05,10.0,6.0
+astro-ph/0510492,Darker Side of the Universe,3.216922488806537e-05,0.0003296647562096,86.0,18.0
+astro-ph/0606350,$^3$He experimentum crucis for Dark Matter puzzles,3.2136180181437755e-05,5.6015904319638045e-06,27.0,3.0
+astro-ph/0701017,Neutrino radiation from dense matter,3.2011085698873456e-05,0.0,9.0,0.0
+astro-ph/0703563,Resumming Cosmic Perturbations,3.195083691312716e-05,0.0,7.0,0.0
+astro-ph/0308248,Towards a complete theory of Gamma Ray Bursts,3.193410752458723e-05,5.584790608026949e-05,42.0,26.0
+astro-ph/0608032,"Cosmology at Low Frequencies: The 21 cm Transition and the High-Redshift
+  Universe",3.193377116442288e-05,0.0065187852951152,26.0,16.0
+astro-ph/0702144,Primordial helium recombination II: two-photon processes,3.193120287686743e-05,6.08671532974136e-08,28.0,2.0
+hep-ph/0611065,"The Interplay Between Collider Searches For Supersymmetric Higgs Bosons
+  and Direct Dark Matter Experiments",3.180172033379683e-05,1.4392052456911727e-06,69.0,4.0
+astro-ph/0703236,"Impact of astrophysical processes on the gamma-ray background from dark
+  matter annihilations",3.1757212238867155e-05,1.5800117141632836e-10,56.0,1.0
+astro-ph/0509727,Boundary Inflation and the WMAP Data,3.174687989344077e-05,7.717244994917822e-06,98.0,4.0
+astro-ph/0611834,Crossing $w=-1$ by a single scalar on a Dvali-Gabadadze-Porrati brane,3.1730690299988425e-05,4.879231965227339e-07,62.0,5.0
+astro-ph/0608089,Discovery of twin kHz QPOs in the peculiar X-ray binary Circinus X-1,3.167132298969465e-05,4.9869329174074105e-06,36.0,4.0
+astro-ph/0307212,Weak Gravitational Lensing by Large-Scale Structure,3.159129312230797e-05,5.316211110577822e-05,60.0,13.0
+astro-ph/0611601,"Non-axisymmetric instability and fragmentation of general relativistic
+  quasi-toroidal stars",3.1565445066647464e-05,2.066018529525625e-06,47.0,1.0
+hep-ph/0703217,Determining the WIMP mass using direct detection experiments,3.1545420737167284e-05,3.896579101480092e-07,59.0,1.0
+astro-ph/0611912,"Probing the variation of relic neutrino masses with extremely
+  high-energy cosmic neutrinos",3.147863550546194e-05,0.0,16.0,0.0
+astro-ph/0604090,Crossing the phantom barrier with purely kinetic multiple k-essence,3.141164874236544e-05,3.4997280426625195e-06,53.0,9.0
+hep-th/0212290,Cosmological Constant - the Weight of the Vacuum,3.135546094330548e-05,0.0007249621148361,103.0,218.0
+hep-ph/0612018,"Baryogenesis from Gravitational Decay of TeV-Particles in Theories with
+  Low Scale Gravity",3.13510376114277e-05,8.855953912089832e-07,45.0,1.0
+hep-ph/0403158,"Probing oscillations into sterile neutrinos with cosmology, astrophysics
+  and experiments",3.12939657855837e-05,0.0002691491904435,131.0,34.0
+astro-ph/0506748,"Observational constraints on low redshift evolution of dark energy: How
+  consistent are different observations?",3.126980168350963e-05,0.0003038795278109,48.0,51.0
+astro-ph/0701900,Expansion history and f(R) modified gravity,3.12458465197272e-05,0.0001208764784928,41.0,3.0
+astro-ph/0611582,"How robust are inflation model and dark matter constraints from
+  cosmological data?",3.119114571800702e-05,4.309469590331591e-06,55.0,4.0
+gr-qc/0604071,Weaker Gravity at Submillimetre Scales in Braneworld Models,3.1161384595327673e-05,1.4776285890326865e-06,56.0,4.0
+astro-ph/0410738,Changing universe model of redshift,3.113678692399993e-05,0.0,3.0,0.0
+astro-ph/0508653,Magnetic Helicity Generation from the Cosmic Axion Field,3.102896803905031e-05,1.220111304650651e-06,8.0,3.0
+astro-ph/0608190,Formation of z ~ 6 quasars from hierarchical galaxy mergers,3.093255282945504e-05,0.0010160133498279,21.0,13.0
+astro-ph/0610042,Kinetically Dominated FRII Radio Sources,3.089244462805696e-05,0.0,5.0,0.0
+astro-ph/0503065,TASI Lectures on AstroParticle Physics,3.088229653285458e-05,1.594301397988771e-05,123.0,10.0
+astro-ph/0106435,"St. Petersburg Conference on Physics of Neutron Stars, 2001",3.075884892779151e-05,1.990182755160072e-06,30.0,1.0
+astro-ph/0502069,Coupling Quintessence to Inflation in Supergravity,3.0748899871061995e-05,1.456342122475834e-07,99.0,3.0
+hep-ph/0409131,Scales of Fermion Mass Generation and Electroweak Symmetry Breaking,3.067198644845459e-05,0.0005053991195761,91.0,9.0
+astro-ph/0407532,"Bose-Einstein Condensation, Dark Matter and Acoustic Peaks",3.0652012911968306e-05,0.0,49.0,0.0
+astro-ph/0703031,"Neutrino mass from future high redshift galaxy surveys: sensitivity and
+  detection threshold",3.0602154401534767e-05,0.0,29.0,0.0
+astro-ph/0612219,Search for the light dark matter with an X-ray spectrometer,3.0572821229935785e-05,1.5823344224651973e-06,34.0,5.0
+gr-qc/0701142,Quantum gravity and cosmological observations,3.0548974748090857e-05,0.0,27.0,0.0
+hep-ph/0608078,"Evading Equivalence Principle Violations, Cosmological and other
+  Experimental Constraints in Scalar Field Theories with a Strong Coupling to
+  Matter",3.0542598742967403e-05,5.356155260941374e-06,15.0,7.0
+astro-ph/0507312,Observational constraints on hyperons in neutron stars,3.044406576981376e-05,0.0,19.0,1.0
+astro-ph/0109035,The Dust Opacity of Star-Forming Galaxies,3.044117415682212e-05,7.979487680199674e-06,24.0,2.0
+astro-ph/0608103,Relaxed constraints on neutrino oscillation parameters,3.0430965980404805e-05,1.5237879206982523e-09,22.0,2.0
+astro-ph/0701882,"An Empirically-Calibrated Model For Interpreting the Evolution of
+  Galaxies During the Reionization Era",3.0402419266359848e-05,3.135546284621476e-07,10.0,1.0
+astro-ph/9901244,"The Connection among Gamma-ray Burst Host-Galaxies, BL Lacs and Quasars",3.038261180942571e-05,0.0,17.0,0.0
+astro-ph/0608421,"The One-dimensional Fourier Representation and Large Angular Scale
+  Foreground Contamination in the 3-year Wilkinson Microwave Anisotropy Probe
+  data",3.0381617924567603e-05,1.6767318120737324e-07,59.0,1.0
+gr-qc/0405067,Gravitational Wave Memory of Gamma-Ray Burst Jets,3.036032724493552e-05,3.4777662080613097e-06,34.0,2.0
+astro-ph/0511789,"Dark matter with invisible light from heavy double charged leptons of
+  almost-commutative geometry?",3.0277694678239176e-05,1.297309820929654e-05,42.0,12.0
+astro-ph/0603180,"Fueling Low-Level AGN Activity Through the Stochastic Accretion of Cold
+  Gas",3.0258409950078767e-05,1.1893564067098391e-05,34.0,4.0
+astro-ph/0611645,Large Non-Gaussianities in Single Field Inflation,3.014551326202916e-05,2.2589254376438475e-06,42.0,9.0
+hep-th/0505215,"Inhomogeneous Equation of State of the Universe: Phantom Era, Future
+  Singularity and Crossing the Phantom Barrier",3.0082036927904617e-05,0.0001423365382242,78.0,44.0
+astro-ph/0610961,"Constraints on the parameters of radiatively decaying dark matter from
+  the dark matter halo of the Milky Way and Ursa Minor",3.0067333107914918e-05,2.102904268535536e-06,11.0,8.0
+hep-th/0610321,Cosmology of the Tachyon in Brane Inflation,2.997143269176385e-05,6.155504934187454e-07,68.0,6.0
+astro-ph/0605665,"Stellar polytropes and Navarro-Frenk-White halo models: comparison with
+  observations",2.9961736218239987e-05,0.0,48.0,0.0
+astro-ph/0505412,High Energy Neutrinos as a Probe for New Physics and Astrophysics,2.9932562865143523e-05,0.0,17.0,0.0
+astro-ph/0701427,Cosmic Necklaces from String Theory,2.9886433024682177e-05,8.48784456574486e-08,38.0,1.0
+gr-qc/0608003,Evolving wormhole geometries within nonlinear electrodynamics,2.9858180414868484e-05,3.7130275282837164e-09,27.0,2.0
+astro-ph/0612294,Gravitational Wave Production At The End Of Inflation,2.985363135743064e-05,0.0,31.0,0.0
+hep-ph/0111080,"Early Universe Cosmology and Tests of Fundamental Physics: Report of the
+  P4.8 Working Subgroup, Snowmass 2001",2.9829520276894665e-05,0.0002271194162587,170.0,8.0
+hep-th/0411267,"On the Classification of Asymptotic Quasinormal Frequencies for
+  d-Dimensional Black Holes and Quantum Gravity",2.974591754378078e-05,0.0002306259426613,96.0,42.0
+astro-ph/0505262,"Magnetic deflections and possible sources of the ultra-high-energy
+  cosmic rays in the AGASA-HiRes-Yakutsk cluster",2.974258962361277e-05,4.269183511335431e-06,43.0,2.0
+astro-ph/0602321,"Supernova Ia and Galaxy Cluster Gas Mass Fraction Constraints on Dark
+  Energy",2.974200540499411e-05,4.109091098690297e-06,23.0,7.0
+astro-ph/0409630,Cosmology with mirror dark matter I: linear evolution of perturbations,2.9631644750627496e-05,1.2015533478213356e-06,68.0,8.0
+hep-th/0511163,"Brane Decay of a (4+n)-Dimensional Rotating Black Hole. II: spin-1
+  particles",2.962515033186601e-05,1.802620048219564e-05,88.0,11.0
+hep-th/0703101,"Scale-invariance in expanding and contracting universes from two-field
+  models",2.960591206059848e-05,3.83772652767069e-07,53.0,1.0
+astro-ph/0410350,"Collimated high-energy photons and others possible observational effects
+  of the photon angular and spectral distribution in gamma-ray bursts sources",2.960193587792868e-05,0.0,35.0,0.0
+astro-ph/0701329,Magnetic Field Spectrum at Cosmological Recombination,2.956500143198537e-05,2.6882803764263093e-06,27.0,4.0
+astro-ph/9907095,Joint Cosmological Formation of QSOs and Bulge-dominated Galaxies,2.951951265182028e-05,2.245040012599845e-06,32.0,4.0
+gr-qc/0701003,Entropy of Null Surfaces and Dynamics of Spacetime,2.9462918345585212e-05,3.4450033709928863e-06,39.0,6.0
+hep-th/0508139,Stringy Effects During Inflation and Reheating,2.944700362031081e-05,3.7510083290727456e-05,164.0,22.0
+astro-ph/0612701,"Testing neutrino spectra formation in collapsing stars with the diffuse
+  supernova neutrino flux",2.9437166996067297e-05,9.480596955551089e-09,24.0,1.0
+astro-ph/0603434,The Polar Regions of Cassiopeia A: The Aftermath of a Gamma Ray Burst?,2.939431185440971e-05,1.2873080377250576e-06,6.0,2.0
+hep-th/0405186,"Self-Gravitational Corrections to the Cardy-Verlinde Formula and the FRW
+  Brane Cosmology in SdS_5 Bulk",2.9332121387475456e-05,1.042645514290262e-05,86.0,12.0
+astro-ph/0603544,Gravitational Waves from the First Stars,2.933146281293744e-05,0.0,39.0,0.0
+gr-qc/9811093,Spacetime Exterior to a Star: Against Asymptotic Flatness,2.9306514997312933e-05,0.0005974894046433,15.0,7.0
+hep-ph/0604150,Relic density of neutralino dark matter in the MSSM with CP violation,2.928101304709481e-05,0.0007602543491396,64.0,13.0
+astro-ph/0602345,"Cosmological Gravitational Wave Background from Phase Transitions in
+  Neutron Stars",2.9206661955422085e-05,0.0,28.0,0.0
+astro-ph/0703351,"Absorption Measure Distribution of the Outflow in IRAS 13349+2438:
+  Direct Observation of Thermal Instability?",2.919451933057824e-05,0.0,2.0,0.0
+gr-qc/0604057,LXCDM: a cosmon model solution to the cosmological coincidence problem?,2.918572230491164e-05,0.0001208925339035,73.0,12.0
+astro-ph/0608632,Cosmological Constraints from the SDSS Luminous Red Galaxies,2.9148169056870973e-05,0.0014913651847863,36.0,68.0
+hep-th/0003086,The Interface of Cosmology with String and M(ILLENNIUM) Theory,2.910105190504399e-05,0.0001000824761659,165.0,19.0
+astro-ph/0609435,Analytical Kerr black hole lensing in the weak deflection limit,2.9060332314951147e-05,0.0004891327490987,16.0,1.0
+astro-ph/0409633,"Cosmology with mirror dark matter II: Cosmic Microwave Background and
+  Large Scale Structure",2.9022831517976125e-05,1.2568011929492294e-06,69.0,8.0
+hep-ph/0509309,ILC Cosmology,2.900645091046265e-05,5.076089874813046e-06,93.0,6.0
+gr-qc/0402059,Cosmology with exponential potentials,2.8998378869214345e-05,2.313123506564925e-05,90.0,9.0
+hep-ph/0503080,Quintessential Kination and Cold Dark Matter Abundance,2.899085961242074e-05,1.6128468956039383e-06,87.0,5.0
+hep-ph/0608070,Neutrino Flavor States and the Quantum Theory of Neutrino Oscillations,2.8975897174079884e-05,3.272419049799571e-07,38.0,2.0
+gr-qc/0510024,General Covariance and its Implications for Einstein's Space-Times,2.895615965514015e-05,0.0,19.0,1.0
+astro-ph/0504582,Crossing the Phantom Divide Barrier with Scalar Tensor Theories,2.8923010505168645e-05,1.021613479535259e-05,103.0,37.0
+astro-ph/0701380,"New Constraints on Oscillations in the Primordial Spectrum of
+  Inflationary Perturbations",2.891198524078793e-05,1.5551415590987338e-06,42.0,1.0
+gr-qc/0311058,"Simultaneity, radar 4-coordinates and the 3+1 point of view about
+  accelerated observers in special relativity",2.8902718086910408e-05,6.999649751858654e-06,56.0,14.0
+hep-th/0701111,"Conceptual Problems of Inflationary Cosmology and a New Approach to
+  Cosmological Structure Formation",2.8864378633914305e-05,4.917553508938262e-06,108.0,5.0
+astro-ph/0702146,"The Bullet Cluster 1E0657-558 evidence shows Modified Gravity in the
+  absence of Dark Matter",2.885198920336441e-05,0.0,24.0,0.0
+math-ph/0611036,"A globally diagonalizable alpha^2-dynamo operator, SUSY QM and the Dirac
+  equation",2.883711557079506e-05,1.2654032284563352e-06,5.0,2.0
+astro-ph/0608567,Gravitational Wave Sources from New Physics,2.880867185302578e-05,5.123243917337765e-06,51.0,5.0
+astro-ph/0703016,"Bulk viscosity of strange quark matter: Urca versus non-leptonic
+  processes",2.88066533795189e-05,6.060401353462891e-07,21.0,2.0
+astro-ph/0506398,"A Unified, Merger-Driven Model for the Origin of Starbursts, Quasars,
+  the Cosmic X-Ray Background, Supermassive Black Holes and Galaxy Spheroids",2.8803230050719924e-05,0.0001446352617227,47.0,23.0
+astro-ph/0608034,The accelerating universe and a limiting curvature proposal,2.877387685280824e-05,3.891636356750172e-06,61.0,4.0
+astro-ph/0508167,"Determining the Properties and Evolution of Red Galaxies from the Quasar
+  Luminosity Function",2.8742004501192462e-05,4.377370753146781e-05,42.0,10.0
+astro-ph/0207609,Beaming Effects in Gamma-Ray Bursts,2.8715438931783964e-05,0.0,10.0,0.0
+astro-ph/0703583,Direct evidence of acceleration from distance modulus redshift graph,2.871241364494568e-05,0.0,12.0,0.0
+astro-ph/0610862,Anisotropies and clustering of extragalactic cosmic rays,2.870590048999593e-05,0.0,37.0,0.0
+astro-ph/0512018,A Note on Crossing the Phantom Divide in Hybrid Dark Energy Model,2.8688006121949173e-05,5.917594011148733e-06,88.0,21.0
+astro-ph/0607647,Classicality of the primordial perturbations,2.86371058812785e-05,5.888931006675727e-06,5.0,5.0
+astro-ph/0610250,Cosmological zoo -- accelerating models with dark energy,2.8614672909163985e-05,2.2410775446006326e-06,47.0,2.0
+astro-ph/0607508,"CMB quadrupole suppression: I. Initial conditions of inflationary
+  perturbations",2.8600509558227943e-05,8.805051867921827e-07,22.0,3.0
+astro-ph/0701662,"The behavior of $f(R)$ gravity in the solar system, galaxies and
+  clusters",2.8587316497954383e-05,3.152195264917692e-06,30.0,3.0
+astro-ph/0105462,Hidden Broad Line Seyfert 2 Galaxies in the CfA and 12micron Samples,2.8582562663341e-05,0.0,10.0,0.0
+gr-qc/0608059,Propagation of a string across the cosmological singularity,2.857652155130449e-05,6.078852698646836e-08,15.0,1.0
+hep-ph/0507294,Generalized mirror matter models,2.8570014676190184e-05,3.31696808729685e-07,41.0,2.0
+gr-qc/0509057,Acoustic horizons in axially symmetric relativistic accretion,2.8568886252587426e-05,1.990182755160072e-06,12.0,1.0
+astro-ph/0207199,Measuring spacetime: from big bang to black holes,2.856578928108137e-05,2.1041336658156228e-05,39.0,8.0
+astro-ph/0603369,CMB multipole measurements in the presence of foregrounds,2.856471853863759e-05,0.0004240168017595,45.0,15.0
+astro-ph/0610427,"Dynamical behavior of generic quintessence potentials: constraints on
+  key dark energy observables",2.8525449864430666e-05,9.496080947143804e-06,97.0,10.0
+hep-ph/0609214,Probing leptoquark production at IceCube,2.8525276889653504e-05,2.1837653624422703e-06,38.0,2.0
+astro-ph/0608634,Baryonic Pinching of Galactic Dark Matter Halos,2.8514435376241317e-05,8.345177589176766e-05,45.0,2.0
+hep-ph/0509163,Confronting mass-varying neutrinos with MiniBooNE,2.848368419108872e-05,3.3115965036332194e-05,98.0,13.0
+astro-ph/0505275,Be/X-ray binaries and candidates: catalogue,2.8465761368874857e-05,6.20650212854778e-06,11.0,4.0
+hep-ph/0701129,"Les Houches Lectures on Effective Field Theories and Gravitational
+  Radiation",2.844982742731549e-05,1.780653735268442e-06,22.0,2.0
+gr-qc/0610147,A Cosmological Model with Dark Spinor Source,2.844458706253309e-05,8.827556423794403e-06,21.0,4.0
+hep-ph/0512197,Long life stau in the minimal supersymmetric standard model,2.8392792930550303e-05,2.0159561588911145e-06,65.0,5.0
+astro-ph/0702015,Probing the Coupling between Dark Components of the Universe,2.8366209403204845e-05,3.5333543749005843e-06,9.0,4.0
+astro-ph/0701783,The large scale CMB cut-off and the tensor-to-scalar ratio,2.834749043225382e-05,2.940397601793828e-06,4.0,2.0
+astro-ph/0605442,Noncommutative KKLMMT Model,2.8304503355161743e-05,3.81671503671075e-06,68.0,8.0
+astro-ph/0702539,"Simulations of Magnetically-Driven Supernova and Hypernova Explosions in
+  the Context of Rapid Rotation",2.8297667916202666e-05,2.0600721565162117e-06,12.0,1.0
+astro-ph/0609139,"Positron Annihilations at the Galactic Center: Generating More Questions
+  Than Answers",2.827865432435744e-05,6.185569589521363e-07,13.0,2.0
+astro-ph/0110236,"On Radio Quiescence of Anomalous X-ray Pulsars and Soft Gamma-Ray
+  Repeaters",2.8239913609477268e-05,0.0,3.0,0.0
+astro-ph/0611144,"Limits on the Radiative Decay of Sterile Neutrino Dark Matter from the
+  Unresolved Cosmic and Soft X-ray Backgrounds",2.8229811397732457e-05,3.94084250214403e-06,62.0,8.0
+hep-th/0701157,Topics in Cosmology,2.819622251148314e-05,1.1594716758486132e-06,76.0,3.0
+astro-ph/0703651,"Reconstructing the Velocity Distribution of WIMPs from Direct Dark
+  Matter Detection Data",2.8156561626046992e-05,0.0,9.0,0.0
+astro-ph/0207347,The Cosmological Constant and Dark Energy,2.807871359104346e-05,0.0014125423211598,50.0,309.0
+astro-ph/0512651,Inhomogeneity-Induced Cosmic Acceleration in a Dust Universe,2.807641218348097e-05,0.0002195511099184,46.0,12.0
+astro-ph/0605424,Direct X-ray Constraints on Sterile Neutrino Warm Dark Matter,2.805904285458714e-05,2.6369517115000745e-06,69.0,16.0
+astro-ph/0602053,"Evolving Newton's Constant, Extended Gravity Theories and SnIa Data
+  Analysis",2.8054205948365345e-05,0.0001870480085885,86.0,12.0
+gr-qc/0612084,Evaporating loop quantum black hole,2.804141851304012e-05,1.0685268109172029e-08,25.0,1.0
+astro-ph/0511241,Halo Spacetime,2.7988859391551175e-05,1.0573052881505274e-06,14.0,1.0
+astro-ph/0605317,Reionisation scenarios and the temperature of the IGM,2.7980073517046427e-05,2.097545558567981e-06,25.0,2.0
+hep-th/0507274,Brane decay of a (4+n)-dimensional rotating black hole: spin-0 particles,2.797181220070553e-05,1.359125625326031e-05,96.0,15.0
+astro-ph/0703771,Searching for the reionization sources,2.7967515224166453e-05,4.4993643789823595e-08,4.0,1.0
+hep-ph/0612017,Gauge Trimming of Neutrino Masses,2.793168160165503e-05,5.427708389383276e-07,12.0,1.0
+astro-ph/0601365,From the Foucault pendulum to the galactical gyroscope and LHC,2.791453531121543e-05,0.0,1.0,0.0
+hep-th/0702154,New Ekpyrotic Cosmology,2.790360064895362e-05,5.675010775996125e-06,72.0,6.0
+astro-ph/0212008,Magnetic fields in AGNs and microquasars,2.784390182600201e-05,5.927785225636795e-06,28.0,3.0
+astro-ph/0010467,The Reionization of the Universe by the First Stars and Quasars,2.781527716707549e-05,0.0002387878032822,44.0,7.0
+astro-ph/0401517,Phenomenological aspects of dark energy dominated cosmologies,2.78093255457966e-05,1.545924492659321e-06,156.0,1.0
+hep-th/0605122,Mimicking Lambda with a spin-two ghost condensate,2.77535684885158e-05,3.786328033893936e-06,83.0,6.0
+astro-ph/0605135,"The Uncorrelated Universe: Statistical Anisotropy and the Vanishing
+  Angular Correlation Function in WMAP Years 1-3",2.770184838858904e-05,0.0014204746650653,73.0,31.0
+hep-th/0703007,Stretching the Inflaton Potential with Kinetic Energy,2.7651927810339784e-05,1.5117810128330672e-08,18.0,1.0
+astro-ph/0507129,Orientation and size of the `Z' in `X'-shaped radio galaxies,2.7640559108675695e-05,3.633923898333324e-08,20.0,2.0
+hep-ph/0506204,"Adiabatic compression and indirect detection of supersymmetric dark
+  matter",2.763031946508253e-05,2.939565277178655e-06,75.0,15.0
+astro-ph/0112206,The Infall of Gas onto the Galactic Disk,2.7629002066468225e-05,1.981695835095424e-06,12.0,1.0
+astro-ph/0307100,"Probing dark energy perturbations: the dark energy equation of state and
+  speed of sound as measured by WMAP",2.7547945337717875e-05,0.0009126479181635,25.0,28.0
+gr-qc/0505032,On (Cosmological) Singularity Avoidance in Loop Quantum Gravity,2.7505076488148404e-05,6.584010359147534e-05,73.0,23.0
+hep-th/0612217,"1/R multidimensional gravity with form-fields: stabilization of extra
+  dimensions, cosmic acceleration and domain walls",2.749631522924356e-05,8.69801023864863e-08,43.0,2.0
+hep-th/0504154,"The fate of (phantom) dark energy universe with string curvature
+  corrections",2.7495987039926707e-05,0.0001600857353628,41.0,27.0
+astro-ph/0701596,Cosmological magnetic fields from nonlinear effects,2.749212228708972e-05,4.949655032479176e-07,31.0,3.0
+hep-ph/0701024,Generating curvature perturbations with or without MSSM flat directions,2.748701484325757e-05,0.0,59.0,0.0
+astro-ph/0701772,"The quark core of protoneutron stars in the phase diagram of quark
+  matter",2.7463516265865908e-05,0.0,23.0,0.0
+gr-qc/0404093,Quasinormal Modes and Gravitational Radiation in Black Hole Spacetimes,2.7451816780742432e-05,1.2890253261519783e-05,78.0,8.0
+gr-qc/0610154,"Total recoil: the maximum kick from nonspinning black-hole binary
+  inspiral",2.743162519637644e-05,0.0009988852158114,17.0,31.0
+hep-th/0606025,"The new form of the equation of state for dark energy fluid and
+  accelerating universe",2.739517067234292e-05,0.0006165273561795,40.0,8.0
+astro-ph/0409765,Changing universe model with applications,2.73594125744786e-05,1.990182755160072e-06,29.0,1.0
+astro-ph/0609633,"Quest for circular polarization of gravitational wave background and
+  orbits of laser interferometers in space",2.735703660800914e-05,0.0,4.0,0.0
+astro-ph/0703458,Gamma-ray burst host galaxies and the link to star-formation,2.7305681903486948e-05,0.0,9.0,0.0
+hep-th/0411230,Accelerating Cosmologies and Inflation from M/Superstring Theories,2.7299482962003696e-05,9.813185036168756e-05,110.0,25.0
+hep-ph/9304242,"Origin of spontaneous violation of the Lorentz symmetry: Vortices in the
+  cosmos",2.7290089475244825e-05,0.0011595865165698,19.0,3.0
+astro-ph/0702586,"Searching for primordial black hole dark matter with pulsar timing
+  arrays",2.7260331317241085e-05,0.0,6.0,0.0
+hep-ph/0102120,"Phase transitions in the early and the present Universe: from the big
+  bang to heavy ion collisions",2.72277084680884e-05,7.953040552083282e-05,50.0,9.0
+astro-ph/0611168,"Constraints on parameters of radiatively decaying dark matter from the
+  galaxy cluster 1E0657-56",2.71981070622444e-05,3.5304567416457068e-06,41.0,7.0
+astro-ph/0701480,COSMOS: 3D weak lensing and the growth of structure,2.719295699654008e-05,5.48155465622624e-06,22.0,6.0
+astro-ph/0703001,"High-energy neutrinos from astrophysical accelerators of cosmic ray
+  nuclei",2.7157090259845385e-05,1.1997054444174226e-07,11.0,1.0
+astro-ph/0408252,"Cross-correlation of the CMB and radio galaxies in real, harmonic and
+  wavelet spaces: detection of the integrated Sachs-Wolfe effect and dark
+  energy constraints",2.7126098313670333e-05,5.193011485002561e-06,3.0,11.0
+astro-ph/0601389,Understanding the origin of CMB constraints on Dark Energy,2.7115403183648628e-05,2.570328617042401e-05,50.0,55.0
+astro-ph/0703418,"Cassini States with Dissipation: Why Obliquity Tides Cannot Inflate Hot
+  Jupiters",2.7109946289406816e-05,0.0,10.0,0.0
+astro-ph/0607435,"Expressing the equation of state parameter in terms of the three
+  dimensional cosmic shear",2.7109626168296448e-05,5.5523677998705136e-08,50.0,1.0
+astro-ph/0610237,Strangelets accelerated by pulsars in galactic cosmic rays,2.7084733219764377e-05,9.597706035145849e-07,1.0,2.0
+nucl-th/0601086,The physics of dense hadronic matter and compact stars,2.7066824519155935e-05,9.858082552217664e-05,9.0,9.0
+astro-ph/0703553,"The Representative XMM-Newton Cluster Structure Survey (REXCESS) of an
+  X-ray Luminosity Selected Galaxy Cluster Sample",2.706041943581137e-05,7.926819976860952e-09,4.0,1.0
+astro-ph/0207073,"Observational evidence for gravitationally trapped massive axion(-like)
+  particles",2.7055847950081425e-05,9.257228320516261e-08,31.0,2.0
+hep-ph/0405057,"Neutralino dark matter in supergravity theories with non-universal
+  scalar and gaugino masses",2.7049297431265277e-05,0.0003480476626229,82.0,26.0
+hep-th/0506135,Webs of Walls,2.7040187589759863e-05,9.027331073822744e-06,131.0,19.0
+cond-mat/0502327,"Instability of the O(5) multicritical behavior in the SO(5) theory of
+  high-Tc superconductors",2.70337286130771e-05,2.0150302727122157e-06,4.0,2.0
+astro-ph/0508628,"TeV gamma-rays and the largest masses and annihilation cross sections of
+  neutralino dark matter",2.703336172541038e-05,2.6806815283517465e-05,86.0,22.0
+hep-th/0702115,Predicting the Cosmological Constant from the Causal Entropic Principle,2.7005861534606778e-05,2.081489048766334e-06,46.0,2.0
+gr-qc/0609083,"Composite dark energy: cosmon models with running cosmological term and
+  gravitational coupling",2.6996212402992625e-05,2.47902508845599e-06,22.0,7.0
+astro-ph/9905191,Uncorrelated Modes of the Nonlinear Power Spectrum,2.694406310143317e-05,3.436577683464925e-05,35.0,4.0
+hep-th/0210292,Lectures on string/brane cosmology,2.693074689259764e-05,0.0005072752402323,238.0,114.0
+astro-ph/0602285,Non-gaussianity and cosmic uncertainty in curvaton-type models,2.69128360159444e-05,0.0001110385469313,88.0,11.0
+hep-th/0609126,Conventional cosmology from multidimensional models,2.6859261007423653e-05,1.999282027244643e-06,34.0,3.0
+hep-th/0407189,Answering a Basic Objection to Bang/Crunch Holography,2.6853253767138012e-05,2.421675319692169e-05,65.0,7.0
+astro-ph/0602290,"The Relation Between Quasar and Merging Galaxy Luminosity Functions and
+  the Merger-Induced Star Formation Rate of the Universe",2.6822681467676683e-05,8.274456063201739e-05,20.0,10.0
+astro-ph/0506698,Cosmic rays at ultra high energies (Neutrinos!),2.6807285481147127e-05,1.0247292930733152e-05,52.0,8.0
+hep-th/0203101,The holographic principle,2.6792731942989708e-05,0.0012590856524727,151.0,153.0
+astro-ph/0603236,The Relic Neutrino Backround from the First Stars,2.675912469190077e-05,0.0,36.0,0.0
+astro-ph/0412601,Theoretical tools for CMB physics,2.6612322816552917e-05,1.3528876649428791e-05,16.0,9.0
+astro-ph/0702350,Antimatter in the Milky Way,2.6605519001972377e-05,0.0,25.0,0.0
+astro-ph/0609510,Gamma-ray signatures for Kaluza-Klein dark matter,2.660374718663906e-05,8.354620730780867e-05,39.0,2.0
+hep-th/0501025,Properties of singularities in (phantom) dark energy universe,2.6523332410982105e-05,0.0001400604816455,104.0,90.0
+hep-th/0307028,"Super Heavy Dark Matter Anisotropies from D-particles in the Early
+  Universe",2.648817286653694e-05,4.198893061269293e-05,70.0,3.0
+hep-th/0011110,TASI Lectures: Cosmology for String Theorists,2.6450011015825743e-05,6.675646652504258e-05,131.0,20.0
+astro-ph/0602577,CMB constraints on the fine structure constant,2.641419156142021e-05,8.548708437906798e-06,56.0,1.0
+hep-ph/0112312,Indirect Investigations of Supersymmetry,2.6408419316890707e-05,0.0001837422754677,138.0,17.0
+astro-ph/9711066,Frontiers of Astrophysics - Workshop Summary,2.6392639399709744e-05,0.0,36.0,0.0
+astro-ph/0007042,Simulations of accretion flows crossing the last stable orbit,2.639090037375648e-05,0.0007219839573318,4.0,9.0
+astro-ph/0611925,"Precise constraints on the dark matter content of Milky Way dwarf
+  galaxies for gamma-ray experiments",2.6332351127143147e-05,2.215693083338507e-05,59.0,4.0
+hep-th/0505266,Hawking Radiation as Tunneling through the Quantum Horizon,2.632312285694701e-05,6.498230054104538e-06,48.0,8.0
+astro-ph/0003161,Star Clusters and the Duration of Starbursts,2.632053104240781e-05,0.0,3.0,0.0
+astro-ph/0701848,"The modified Newtonian dynamics-MOND-and its implications for new
+  physics",2.630123123103362e-05,0.0018245372011466,18.0,4.0
+gr-qc/0604031,The Homogeneous Scalar Field and the Wet Dark Sides of the Universe,2.6292006592211e-05,0.0,10.0,1.0
+gr-qc/0612027,Voids of dark energy,2.6255637114192253e-05,0.0,41.0,0.0
+astro-ph/0504634,Options for a nondedicated mission to test the Pioneer anomaly,2.625207682768148e-05,7.76936582956715e-06,39.0,6.0
+astro-ph/0506310,"Constraints on holographic dark energy from type Ia supernova
+  observations",2.622144863942905e-05,1.01381714810474e-05,117.0,29.0
+chao-dyn/9908011,Forced Burgers Turbulence in 3-Dimensions,2.622078246868604e-05,8.761581551457375e-05,33.0,2.0
+astro-ph/0509328,"Cosmological Evolution of Hessence Dark Energy and Avoidance of the Big
+  Rip",2.6218983383323613e-05,6.84576481693871e-06,110.0,16.0
+hep-th/0505124,"Minimal spatio-temporal extent of events, neutrinos, and the
+  cosmological constant problem",2.6153226795816568e-05,9.857578316486454e-06,37.0,5.0
+astro-ph/0512588,The Molonglo Southern 4 Jy sample (MS4). I. Definition,2.6130295862549435e-05,0.0,28.0,0.0
+astro-ph/0409629,"Structure formation, CMB and LSS in a mirror dark matter scenario",2.6055337000987548e-05,8.335552353410274e-07,63.0,5.0
+astro-ph/0510429,Gamma-Ray Pulsar Visibility,2.605258287894016e-05,0.0,10.0,0.0
+hep-th/0605045,"Observational Signatures and Non-Gaussianities of General Single Field
+  Inflation",2.603595417284913e-05,0.0007174794041789,107.0,27.0
+astro-ph/0607257,"Noncommutative Black-Body Radiation: Implications On Cosmic Microwave
+  Background",2.6011026313324328e-05,2.2826418385793113e-08,69.0,1.0
+astro-ph/0512590,"The Molonglo Southern 4 Jy sample (MS4). II. ATCA imaging and optical
+  identification",2.5940757605708524e-05,0.0,26.0,0.0
+hep-th/0703290,Gravitational Wave Spectrum Induced by Primordial Scalar Perturbations,2.5897477725754297e-05,0.0,27.0,0.0
+astro-ph/0511046,"New Models for a Triaxial Milky Way Spheroid and Effect on the
+  Microlensing Optical Depth to the Large Magellanic Cloud",2.5857496651815807e-05,0.0,38.0,0.0
+astro-ph/0702311,The mass-energy budget of the ionised outflow in NGC 7469,2.5844149651011257e-05,0.0,2.0,1.0
+hep-th/0506212,"Unifying phantom inflation with late-time acceleration: scalar
+  phantom-non-phantom transition model and generalized holographic dark energy",2.581986340590992e-05,0.0003609866280426,81.0,54.0
+hep-ph/0312305,"First-order cosmological phase transitions in the radiation dominated
+  era",2.581453428269604e-05,7.489410798724603e-07,55.0,3.0
+hep-ph/0412168,Testing SUGRA Models,2.5808706367769148e-05,4.166790348662217e-07,56.0,1.0
+hep-ph/0506215,Growth of a susy bubble: inhomogeneity effects,2.578941458686836e-05,5.697534914517049e-07,12.0,2.0
+hep-ph/9901319,Metric preheating and limitations of linearized gravity,2.576608661122005e-05,3.258214544206159e-05,22.0,39.0
+hep-ph/0301238,"Enhancement and Suppression of the Neutrino-Nucleon Total Cross Section
+  at Ultra-High Energies",2.5762682597493603e-05,9.480589342913856e-07,8.0,3.0
+astro-ph/0612745,Splitting neutrino masses and showering into Sky,2.576001713549483e-05,0.0,12.0,0.0
+astro-ph/0702519,Nonparametric determination of redshift evolution index of Dark Energy,2.57338323421201e-05,0.0,28.0,0.0
+astro-ph/0610195,High-Energy Cosmology: gamma rays and neutrinos from beyond the galaxy,2.571222688122497e-05,1.0327157356622074e-05,7.0,3.0
+gr-qc/0701019,Self sustained traversable wormholes and the equation of state,2.570207919078351e-05,6.683449550910691e-09,11.0,1.0
+astro-ph/0611191,Best-Bet Astrophysical Neutrino Sources,2.5700878411397055e-05,6.910651473474717e-08,5.0,2.0
+astro-ph/0507700,Microlensing with the space interferometer Radioastron,2.5680874346348468e-05,0.0,11.0,0.0
+gr-qc/0407089,Brany Liouville Inflation,2.5660526827022428e-05,1.4686962362999091e-05,79.0,13.0
+astro-ph/0609543,"Determining the expansion history of the universe with the three
+  dimensional cosmic shear",2.5646847456509835e-05,0.0,32.0,0.0
+astro-ph/0102172,Magnetic Fields and the Cosmic Microwave Background,2.564005733562834e-05,0.0,7.0,0.0
+astro-ph/9908319,Non-GUT Baryogenesis and Large Scale Structure of the Universe,2.558893796388637e-05,0.0,24.0,0.0
+astro-ph/0701821,Shocks and cold fronts in galaxy clusters,2.555915993417201e-05,1.912528844558568e-07,12.0,2.0
+hep-ph/0612033,"Neutrino Masses, Lepton Flavor Mixing and Leptogenesis in the Minimal
+  Seesaw Model",2.551081885693321e-05,5.996888638039627e-06,18.0,7.0
+hep-ph/0701229,On the Feasibility of a Stop NLSP in Gravitino Dark Matter Scenarios,2.551070210400615e-05,3.1250381831485384e-08,54.0,1.0
+astro-ph/0612514,"The galactic antiproton spectrum at high energies: background
+  expectation vs. exotic contributions",2.550008167310529e-05,6.973529922591546e-08,50.0,1.0
+astro-ph/0606619,"An upper limit to the photon fraction in cosmic rays above 10^19 eV from
+  the Pierre Auger Observatory",2.5498199020242176e-05,1.072854150192923e-05,9.0,12.0
+hep-th/0404121,"Cosmological Constant Probing Shape Moduli through Large Extra
+  Dimensions",2.547221805426705e-05,1.011594529788096e-05,34.0,5.0
+astro-ph/0610514,Inflation with High Derivative Couplings,2.5444078714023068e-05,5.257570053451935e-07,37.0,2.0
+astro-ph/0407623,Mirror matter-type dark matter,2.543960718126573e-05,1.3104421374454914e-05,78.0,10.0
+gr-qc/0410027,Patch dualities and remarks on nonstandard cosmologies,2.538859559491958e-05,1.541356800032507e-05,117.0,14.0
+astro-ph/0111555,On the Origin of Cosmic Rays,2.537792669775241e-05,8.206707428787797e-06,30.0,5.0
+astro-ph/0701305,"Detection potential for the diffuse supernova neutrino background in the
+  large liquid-scintillator detector LENA",2.5365692331380544e-05,7.692850944000067e-07,31.0,1.0
+astro-ph/0505531,"Baryogenesis and CP-Violating Domain Walls in the Background of a
+  Magnetic Field",2.5358007985853488e-05,3.653053715367818e-07,6.0,1.0
+gr-qc/0209111,"Re-formulating the Einstein equations for stable numerical simulations:
+  Formulation Problem in Numerical Relativity",2.5351989965821245e-05,0.0002038829890383,23.0,19.0
+astro-ph/9911477,Galaxies at z>5: The View from Hawaii,2.5321929490114217e-05,3.5396910555048016e-06,34.0,2.0
+astro-ph/0210200,Understanding dwarf galaxies as galactic building blocks,2.532033123189224e-05,0.0,2.0,0.0
+astro-ph/0703063,Forecasting the Bayes factor of a future observation,2.531370686404938e-05,8.774070638655805e-05,10.0,4.0
+astro-ph/0703676,Are Swift gamma-ray bursts consistent with the Ghirlanda relation?,2.5303789538213168e-05,0.0,16.0,0.0
+astro-ph/0504164,"On the accretion origin of a vast extended stellar disk around the
+  Andromeda galaxy",2.528024866957678e-05,1.846724015855962e-05,9.0,13.0
+astro-ph/0606534,N-flationary magnetic fields,2.5249260845110185e-05,1.5869632570449093e-07,33.0,1.0
+astro-ph/0701474,"Interpretation of the Helix Planetary Nebula using
+  Hydro-Gravitational-Dynamics: Planets and Dark Energy",2.516787431413505e-05,0.0,27.0,0.0
+hep-th/0701016,A String-Inspired Quintom Model Of Dark Energy,2.51553223163372e-05,5.735272133168553e-06,14.0,4.0
+astro-ph/0612192,Gravitational lensing by point masses on regular grid points,2.515304354793963e-05,0.0,12.0,0.0
+astro-ph/0610750,"Nonparametric determination of the sign of w+1 in the equation of state
+  of Dark Energy",2.514373769398498e-05,4.085759224963775e-08,28.0,1.0
+astro-ph/0702229,Redshift spherical shell energy in isotropic Universes,2.5124129093741768e-05,0.0,24.0,0.0
+astro-ph/0412619,Exactly Solvable SFT Inspired Phantom Model,2.511268539517997e-05,0.0002028413591576,72.0,39.0
+astro-ph/0108093,Natural Magnetogenesis from Inflation,2.509475583943987e-05,1.754438493383445e-05,84.0,19.0
+astro-ph/0211503,Single and binary Black Holes and their active environment,2.5093384865961032e-05,2.5357126923309227e-06,14.0,3.0
+astro-ph/0611694,The scale of gravity and the cosmological constant within a landscape,2.508087351663053e-05,0.0,78.0,0.0
+astro-ph/0609257,Ultra High Energy Cosmic Radiation: Experimental and Theoretical Status,2.502787807233161e-05,1.1228241975038112e-06,41.0,1.0
+hep-th/0511115,Asymmetric inflation: exact solutions,2.4958184473504896e-05,0.0002535758381406,49.0,4.0
+astro-ph/0408083,"Entrainment coefficient and effective mass for conduction neutrons in
+  neutron star crust: II Macroscopic treatment",2.493600196377769e-05,1.7377279330833606e-05,19.0,8.0
+astro-ph/0607501,Have we detected the most luminous ULX so far?,2.4934792179191855e-05,1.3748081724099692e-07,3.0,1.0
+astro-ph/0701479,"f(R) gravity theories in Palatini formalism: cosmological dynamics and
+  observational constraints",2.490797962305898e-05,7.970766582493719e-07,29.0,5.0
+hep-th/0501148,"Bulk and Brane Decay of a (4+n)-Dimensional Schwarzschild-De-Sitter
+  Black Hole: Scalar Radiation",2.486923600180048e-05,2.81191766317632e-05,94.0,10.0
+gr-qc/0305051,Update on gravitational-wave research,2.4868239415825083e-05,1.944682545842009e-05,23.0,11.0
+gr-qc/0610082,"Particle motion around magnetized black holes: Preston-Poisson
+  space-time",2.478476973955195e-05,1.2417703293258285e-08,9.0,1.0
+astro-ph/0107367,On the optical and X-ray afterglows of gamma ray bursts,2.4775223607975315e-05,5.561187618728287e-05,41.0,14.0
+astro-ph/0609413,Clustering of dark matter tracers: renormalizing the bias parameters,2.4770363692600906e-05,2.462510783453486e-05,19.0,2.0
+hep-th/0604164,"On the consistency of Lorentz invariance violation in QED induced by
+  fermions in constant axial-vector background",2.4765082410600883e-05,5.030074139721517e-07,11.0,1.0
+astro-ph/0510705,"Implications of the DAMA/NaI and CDMS experiments for mirror matter-type
+  dark matter",2.472595387003086e-05,4.842702346425509e-09,28.0,1.0
+hep-th/0702143,Trans-Planckian wimpzillas,2.472560274366813e-05,0.0,4.0,0.0
+astro-ph/0412082,Exploiting the neutronization burst of a galactic supernova,2.4679756157181885e-05,1.0472506000080747e-05,38.0,8.0
+hep-th/0701294,"A Phase Transition in U(1) Configuration Space: Oscillons as Remnants of
+  Vortex-Antivortex Annihilation",2.4665989306747107e-05,0.0,3.0,0.0
+hep-th/0502082,"Dark Energy: Vacuum Fluctuations, the Effective Phantom Phase, and
+  Holography",2.466277423963134e-05,0.0003956871520707,75.0,34.0
+hep-ph/0702260,"Reducing the spectral index in F-term hybrid inflation through a
+  complementary modular inflation",2.463747967281919e-05,0.0,39.0,0.0
+astro-ph/0404434,"Universality of the subsolar mass distribution from critical
+  gravitational collapse",2.4623589625068345e-05,0.0,23.0,0.0
+astro-ph/0602519,"Non-Newtonian behavior in weak field general relativity for extended
+  rotating sources",2.4621106750734022e-05,5.447883262158197e-06,21.0,6.0
+gr-qc/0405007,"The holographic solution - Why general relativity must be understood in
+  terms of strings",2.4608625561700045e-05,2.226044685173048e-06,43.0,7.0
+hep-ph/0608265,"Colliders as a simultaneous probe of supersymmetric dark matter and
+  Terascale cosmology",2.45899561373066e-05,0.0,39.0,0.0
+gr-qc/0505075,Computing inspirals in Kerr in the adiabatic regime. I. The scalar case,2.4554471017500877e-05,5.874191761755059e-06,40.0,3.0
+astro-ph/0611849,Large-N expansions applied to gravitational clustering,2.4538899537289167e-05,2.467829528318009e-06,4.0,2.0
+astro-ph/0602159,"A weak acceleration effect due to residual gravity in a multiply
+  connected universe",2.4535337884903838e-05,1.8413826841280997e-06,28.0,2.0
+astro-ph/0506248,Lectures on High-Energy Neutrino Astronomy,2.442614322460513e-05,3.342601330813037e-06,80.0,3.0
+hep-th/0611053,Evolution of Tachyon Kink with Electric Field,2.4337601301429154e-05,5.342485652206786e-11,47.0,1.0
+hep-ph/0612228,"Are small neutrino masses unveiling the missing mass problem of the
+  Universe?",2.433350797338612e-05,1.811463119717617e-07,27.0,1.0
+astro-ph/0612401,The 2dF-SDSS LRG and QSO Survey: QSO clustering and the L-z degeneracy,2.4312248735689964e-05,5.211388601274558e-07,6.0,2.0
+astro-ph/0701642,"A deep Chandra, VLA and Spitzer IRAC study of the very low luminosity
+  nucleus of the elliptical NGC821",2.431047127313621e-05,0.0,2.0,0.0
+astro-ph/0609699,"Dynamical vacuum energy, holographic quintom, and the reconstruction of
+  scalar-field dark energy",2.430540419653371e-05,1.7451079569077725e-06,85.0,13.0
+hep-ph/0602028,A Markov Chain Monte Carlo Analysis of the CMSSM,2.4183316098374613e-05,0.0001057433473499,115.0,11.0
+astro-ph/0612569,Constraining f(R) Gravity as a Scalar Tensor Theory,2.4173091530093804e-05,5.147716744138975e-06,50.0,10.0
+astro-ph/0611623,Inflation with Holographic Dark Energy,2.417098510382977e-05,2.952404915505909e-06,20.0,3.0
+hep-lat/0701020,"The Stefan-Boltzmann law in a small box and the pressure deficit in hot
+  SU(N) lattice gauge theory",2.4150422622428157e-05,1.426580100374223e-07,16.0,1.0
+gr-qc/0511145,"Detecting a gravitational-wave background with next-generation space
+  interferometers",2.4146579153987188e-05,6.6392820881186985e-06,33.0,8.0
+astro-ph/0606602,Cosmology with X-ray Cluster Baryons,2.4035432857057377e-05,9.405906145186181e-08,8.0,1.0
+astro-ph/0604579,"Non-Gaussian corrections to the probability distribution of the
+  curvature perturbation from inflation",2.403041123120268e-05,3.473583349555629e-08,67.0,1.0
+nucl-th/0612048,Threshold meson production and cosmic ray transport,2.3985700666728527e-05,0.0,1.0,0.0
+hep-th/0409244,Is brane cosmology predictable?,2.3980758328123763e-05,1.570959437723933e-05,56.0,10.0
+astro-ph/0612236,"Simulations of the Disk-Jet Interaction in GRS 1915+105 and Other
+  Systems",2.3968312810591044e-05,0.0,25.0,0.0
+astro-ph/0512117,Chaplygin gas may prevent big trip,2.3949537852665702e-05,1.4863397066212926e-07,64.0,2.0
+astro-ph/0610126,Present and future evidence for evolving dark energy,2.3941091740331447e-05,8.169954044097766e-06,15.0,12.0
+gr-qc/0703001,Elastic stars in general relativity: IV. Axial perturbations,2.388991055698351e-05,0.0,15.0,0.0
+hep-ph/0308251,"WMAPing the Universe: Supersymmetry, Dark Matter, Dark Energy, Proton
+  Decay and Collider Physics",2.386320202292494e-05,0.0001748033435596,141.0,25.0
+astro-ph/0510722,Low energy antideuterons: shedding light on dark matter,2.381054065139175e-05,2.340450982541379e-06,68.0,7.0
+astro-ph/0701699,"Cosmological neutrino mass detection: The best probe of neutrino
+  lifetime",2.378776052778081e-05,0.0,32.0,0.0
+gr-qc/0603049,The weakly perturbed Schwarzschild lens in the strong deflection limit,2.3762094093243604e-05,3.248219140420038e-06,8.0,2.0
+astro-ph/0609694,"Gravitational Lens Time Delays: A Statistical Assessment of Lens Model
+  Dependences and Implications for the Global Hubble Constant",2.376038290339721e-05,1.974216736788452e-06,11.0,1.0
+astro-ph/0702418,"Connections among three roads to cosmic acceleration: decaying vacuum,
+  bulk viscosity, and nonlinear fluids",2.372851368379535e-05,1.819016352991428e-06,27.0,1.0
+gr-qc/0604093,"Kerr black hole lensing for generic observers in the strong deflection
+  limit",2.3724956496245237e-05,0.0004907374674715,9.0,3.0
+astro-ph/0404159,Probing Relativistic Winds: The case of PSRJ07370-3039 A & B,2.3672279755693532e-05,2.3809970247413677e-05,21.0,17.0
+astro-ph/0503230,"Exploring Cosmological Expansion Parametrizations with the Gold SnIa
+  Dataset",2.3660000910201422e-05,4.932773222430062e-05,92.0,49.0
+astro-ph/0612060,Constraints on Dark Energy Models Including Gamma Ray Bursts,2.364972759440158e-05,3.87368929989121e-06,20.0,11.0
+hep-ph/0605243,Big Bang Nucleosynthesis with Long Lived Charged Massive Particles,2.3647646377553677e-05,2.162492443775505e-05,29.0,19.0
+hep-ph/0212110,The flavor distribution of Cosmic Neutrinos,2.363643672356316e-05,3.5558621502565737e-06,38.0,3.0
+astro-ph/0611238,The Limits of Extended Quintessence,2.3620919831598667e-05,6.268915596973113e-07,40.0,4.0
+astro-ph/9912038,Cosmic Glows,2.3617689383891906e-05,0.0003678252573405,56.0,2.0
+hep-th/0509128,"Exact Results for Evaporating Black Holes in Curvature-Squared Lovelock
+  Gravity: Gauss-Bonnet Greybody Factors",2.358671647157216e-05,1.1871675773070728e-05,87.0,9.0
+astro-ph/0606552,"The Cosmic Microwave Background and the Ionization History of the
+  Universe",2.357300242406136e-05,8.882514551059254e-06,40.0,7.0
+hep-ph/0212387,Some aspects of neutrino astrophysics,2.3567735785370657e-05,6.078324898072451e-06,60.0,7.0
+astro-ph/0610686,Towards a Concordant Model of Halo Occupation Statistics,2.356525932221199e-05,5.0640221032420985e-06,11.0,4.0
+gr-qc/0703061,A practical formula for the radiated angular momentum,2.3560475790447346e-05,0.0,16.0,0.0
+hep-th/0301172,Stability of six-dimensional hyperstring braneworlds,2.3550649917273712e-05,2.5280728787965583e-06,63.0,6.0
+hep-th/0611332,de Sitter String Vacua from Kahler Uplifting,2.3515376368569537e-05,2.192242021386286e-07,77.0,3.0
+astro-ph/0601457,The Chang-Refsdal Lens Revisited,2.342802162986022e-05,5.126312538344234e-07,21.0,2.0
+hep-ph/0701007,Dark matter from late decays and the small-scale structure problems,2.338327529839598e-05,0.0,71.0,0.0
+hep-ph/0605326,"Probing Brane-World Scenarios with Vacuum Refraction of Light Using
+  Gamma-Ray Bursts",2.3364398031282384e-05,3.248460533324152e-06,51.0,2.0
+astro-ph/0610682,Scalar Field Dark Matter: head-on interaction between two structures,2.336423169561855e-05,0.0,10.0,0.0
+gr-qc/0202074,"Basic Principles of 4D Dilatonic Gravity and Some of Their Consequences
+  for Cosmology, Astrophysics and Cosmological Constant Problem",2.3357976955203862e-05,5.064814830765331e-06,52.0,4.0
+astro-ph/0508617,EGRET Excess of Diffuse Galactic Gamma Rays as Tracer of Dark Matter,2.335310546047528e-05,1.2780139328756677e-05,48.0,16.0
+hep-ph/0505216,Explaining LSND by a decaying sterile neutrino,2.334472518357905e-05,3.1686940236304594e-05,76.0,9.0
+astro-ph/0512213,"Combining rotation curves and gravitational lensing: How to measure the
+  equation of state of dark matter in the galactic halo",2.3323968707928506e-05,2.015673187451776e-06,20.0,6.0
+astro-ph/0605619,Merging of a massive binary due to ejection of bound stars,2.3322024722601826e-05,9.435553821387544e-08,15.0,1.0
+hep-th/0609027,"BTZ Black Hole with Higher Derivatives, the Second Law of
+  Thermodynamics, and Statistical Entropy: A New Proposal",2.326291012273763e-05,3.240336967213825e-06,49.0,3.0
+hep-ph/0608321,Oscillations of solar atmosphere neutrinos,2.321393066289497e-05,1.994189229453159e-06,31.0,4.0
+hep-ph/0602201,"Bounds on neutrino masses from baryogenesis in thermal and non-thermal
+  scenarios",2.3199725717585123e-05,0.0,45.0,0.0
+astro-ph/0404515,"Supernova explosions, 511 keV photons, gamma ray bursts and mirror
+  matter",2.318200374846838e-05,0.0003690434693305,64.0,17.0
+hep-ph/0408348,The Particle Physics Reach of High-Energy Neutrino Astronomy,2.3128286125941675e-05,3.415613036125e-05,83.0,9.0
+astro-ph/0510849,"On the Determination of Neutrino Masses and Dark Energy Evolution from
+  the Cross Correlation of CMB and LSS",2.3110121797755628e-05,0.0011733938269023,66.0,5.0
+astro-ph/0205202,Inflation and non--Gaussianity,2.31050708539658e-05,1.0707875586690916e-05,61.0,7.0
+hep-th/0611293,End of multi-field inflation and the perturbation spectrum,2.309074369886692e-05,4.905632031550856e-07,32.0,3.0
+astro-ph/0611353,Late Forming Dark Matter in Theories of Neutrino Dark Energy,2.306831513811514e-05,1.171775455491413e-06,46.0,2.0
+astro-ph/9807177,The Low Redshift Lyman Alpha Forest in Cold Dark Matter Cosmologies,2.3064122823476265e-05,0.0001318695485092,26.0,7.0
+astro-ph/0701715,"GRB 060418 and 060607A: the medium surrounding the progenitor and the
+  weak reverse shock emission",2.3058813464623537e-05,1.8408293109814169e-06,10.0,1.0
+astro-ph/0609011,"Implication of Existence of Hybrid stars and Theoretical Expectation of
+  Submillisecond Pulsars",2.3058708081750733e-05,0.0,2.0,0.0
+gr-qc/0610118,Van der Waals quintessence stars,2.305177095142172e-05,2.1193127379138284e-06,25.0,4.0
+gr-qc/0612067,Head-on collisions of boson stars,2.3044873494076903e-05,1.564315996657029e-07,11.0,1.0
+astro-ph/0512175,Massive elliptical galaxies : From cores to haloes,2.3034502856646537e-05,2.0133515258609555e-06,36.0,2.0
+astro-ph/0603624,Dark Energy in an Astrophysical Context,2.302846439070947e-05,0.0,31.0,0.0
+nucl-ex/0611040,Recent Results from RHIC & Some Lessons for Cosmic-Ray Physicists,2.301182670887136e-05,0.0,12.0,0.0
+astro-ph/0202228,Submillimeter Galaxies,2.299139299361124e-05,0.0001263466786015,24.0,20.0
+astro-ph/0604179,"Weak Lensing of the Cosmic Microwave Background by Foreground
+  Gravitational Waves",2.297833961806956e-05,3.7130275282837164e-09,26.0,1.0
+astro-ph/0611717,"Muon Charge Information from Geomagnetic Deviation in Inclined Extensive
+  Air Showers",2.2978310622272765e-05,0.0,14.0,0.0
+hep-ph/0703087,TASI 2006 Lectures on Leptogenesis,2.2969210444711163e-05,6.531086940662178e-07,20.0,1.0
+astro-ph/0212144,Massive Variability Search and Monitoring by OGLE and ASAS,2.2951950227057515e-05,0.0009098583190225,23.0,1.0
+astro-ph/0401433,Strong Gravitational Lensing and Dark Energy Complementarity,2.295107868925942e-05,5.41326493875653e-06,25.0,5.0
+astro-ph/0504610,Neutrino Detection with Inclined Air Showers,2.294736720777928e-05,5.263000515991836e-06,27.0,5.0
+hep-th/0612129,String Cosmology,2.2920890647339586e-05,3.0868962901284177e-06,77.0,12.0
+astro-ph/0605684,Gauss-Bonnet braneworld and WMAP three year results,2.2914141780988396e-05,3.756922892149293e-07,49.0,3.0
+astro-ph/0503427,Born-Infeld Phantom Gravastars,2.2875508650596747e-05,1.040387793236378e-05,16.0,13.0
+astro-ph/0208168,Clusters of galaxies in the local universe,2.286339044737332e-05,8.09942536443822e-06,29.0,4.0
+astro-ph/0209456,Galactic Metrics,2.286151567835542e-05,4.407717513304897e-06,4.0,2.0
+astro-ph/0506417,Compact Stars for Undergraduates,2.2846533722781944e-05,2.6239570442344813e-07,26.0,1.0
+astro-ph/0605678,"An Observational Determination of the Bolometric Quasar Luminosity
+  Function",2.2840241128661893e-05,2.0528767990457416e-05,17.0,11.0
+hep-ph/0504102,"Supermassive gravitinos, dark matter, leptogenesis and flat direction
+  baryogenesis",2.2840169263016246e-05,3.351214894471189e-05,145.0,12.0
+astro-ph/0410741,"A comparative study of correlations between arrival directions of
+  ultra-high-energy cosmic rays and positions of their potential astrophysical
+  sources",2.2838963072066662e-05,2.2373565825865964e-06,25.0,4.0
+astro-ph/0603782,"Running Spectral Index in Noncommutative Inflation and WMAP Three Year
+  Results",2.283273232085684e-05,9.102743703395416e-05,50.0,10.0
+astro-ph/0703219,"Correlation of Photon and Neutrino Fluxes in Blazars and Gamma Ray
+  Bursts",2.2832620937034464e-05,0.0,3.0,0.0
+hep-th/0510183,"Dark energy problem: from phantom theory to modified Gauss-Bonnet
+  gravity",2.28287356916916e-05,6.775458483935522e-05,57.0,11.0
+hep-ph/0604191,"How astrophysical neutrino sources could be used for early measurements
+  of neutrino mass hierarchy and leptonic CP phase",2.282819270518237e-05,4.4672058509327925e-06,62.0,10.0
+astro-ph/0401264,Chandra observations of five X-ray transient galactic nuclei,2.282762354275904e-05,0.0,3.0,0.0
+astro-ph/0611004,"Bayesian Estimation Applied to Multiple Species: Towards cosmology with
+  a million supernovae",2.282097082917392e-05,2.475313294925357e-06,29.0,1.0
+hep-ph/0603033,"Damping of supernova neutrino transitions in stochastic shock-wave
+  density profiles",2.281690970655496e-05,0.0004712905747663,43.0,10.0
+astro-ph/0512439,"Strongly Interacting Neutrinos as the Highest Energy Cosmic Rays: A
+  Quantitative Analysis",2.281629829466059e-05,0.0,49.0,0.0
+astro-ph/0610918,Gravitational Lensing of Supernova Neutrinos,2.2775146055658177e-05,0.0,35.0,0.0
+astro-ph/0601226,"The Born and Lens-Lens Corrections to Weak Gravitational Lensing Angular
+  Power Spectra",2.2723695247338032e-05,3.7130275282837164e-09,18.0,2.0
+astro-ph/0609547,The Scale Dependence of Halo and Galaxy Bias: Effects in Real Space,2.2722494102142184e-05,7.892192684517323e-06,15.0,8.0
+hep-ph/0703014,Some Comments on an MeV Cold Dark Matter Scenario,2.2703789923447897e-05,0.0,19.0,0.0
+hep-ph/0609144,Natural Inflation: status after WMAP 3-year data,2.2695608652037305e-05,3.12284334887184e-07,35.0,3.0
+astro-ph/0510172,Robust Limits on Lorentz Violation from Gamma-Ray Bursts,2.2682202820367256e-05,2.9007647921097344e-05,52.0,10.0
+gr-qc/0607094,Two Loop Scalar Bilinears for Inflationary SQED,2.2675381467278235e-05,4.317820512242754e-07,29.0,6.0
+astro-ph/0001040,Updated Information on the Local Group,2.2666892433998912e-05,1.6114363448661363e-05,22.0,1.0
+hep-ph/0509119,"Precise Calculation of the Relic Density of Kaluza-Klein Dark Matter in
+  Universal Extra Dimensions",2.266024283234796e-05,0.0002205674495203,73.0,31.0
+gr-qc/0608037,Generalizing Starobinskii's Formalism to Yukawa Theory & to Scalar QED,2.261765914744837e-05,9.164840671534376e-07,32.0,2.0
+astro-ph/0604445,Low-Mass Binary Induced Outflows from Asymptotic Giant Branch Stars,2.258802134775665e-05,3.980365510320144e-06,4.0,2.0
+astro-ph/0702638,X-ray Hardness Variations as an Internal/External Shock Diagnostic,2.250706147145476e-05,5.323865830829637e-07,17.0,2.0
+astro-ph/0412215,Strange Quark Matter in Stars: A General Overview,2.249527913404006e-05,6.389263595718788e-07,35.0,3.0
+gr-qc/0607111,"Fine Tuning Free Paradigm of Two Measures Theory: K-Essence, Absence of
+  Initial Singularity of the Curvature and Inflation with Graceful Exit to Zero
+  Cosmological Constant State",2.2489274758250156e-05,9.39884277692838e-06,25.0,6.0
+hep-th/0605189,DBI Inflation in the Tip Region of a Warped Throat,2.2475974887406964e-05,5.115377972649717e-06,98.0,17.0
+astro-ph/0612002,"LTB universes as alternatives to dark energy: does positive averaged
+  acceleration imply positive cosmic acceleration?",2.2471066697340053e-05,2.1615771648440696e-08,22.0,2.0
+astro-ph/0701213,Reconstruction of interacting dark energy models from parameterizations,2.2464685996033247e-05,0.0,10.0,0.0
+hep-th/0702107,Comparing Brane Inflation to WMAP,2.246037962385933e-05,2.7507615222082045e-07,49.0,5.0
+gr-qc/0607080,"Probing anisotropies of gravitational-wave backgrounds with a
+  space-based interferometer III: Reconstruction of a high-frequency skymap",2.245596501134264e-05,2.2410383169492682e-07,32.0,1.0
+astro-ph/0408316,Cosmological Distances and Fractal Statistics of Galaxy Distribution,2.2449496316280603e-05,1.933992271898712e-06,20.0,1.0
+astro-ph/0506044,"Galaxy Luminosity Functions to z~1: DEEP2 vs. COMBO-17 and Implications
+  for Red Galaxy Formation",2.2448788497815383e-05,0.0001646903304693,14.0,88.0
+astro-ph/0101147,Gamma-Ray Bursts: Afterglows and Central Engines,2.2426291159491023e-05,0.0,15.0,0.0
+astro-ph/0005296,The Star Formation History of the Local Group,2.23951746231991e-05,1.412418069350129e-05,4.0,7.0
+hep-th/0603062,The oscillating dark energy: future singularity and coincidence problem,2.238452047318153e-05,0.0001069907475563,48.0,11.0
+hep-th/0409024,Hawking Radiation and Black Hole Thermodynamics,2.237021148687956e-05,6.184037072167229e-05,40.0,20.0
+astro-ph/0607368,"LS I +61 303 as a potential neutrino source on the light of MAGIC
+  results",2.2362901170465792e-05,2.04154646693653e-05,11.0,6.0
+astro-ph/0405005,Gamma ray bursts and the origin of galactic positrons,2.233154678506181e-05,0.0001492942397179,41.0,13.0
+astro-ph/0502102,"The Interpretations For the Low and High Frequency QPO Correlations of
+  X-ray Sources Among White Dwarfs, Neutron Stars and Black Holes",2.2305752033827827e-05,9.880703800720086e-07,15.0,2.0
+astro-ph/0509297,"Direct Measurement of Supernova Neutrino Emission Parameters with a
+  Gadolinium-Enhanced Super-Kamiokande Detector",2.2294668896340207e-05,1.5125144101779397e-05,30.0,13.0
+astro-ph/0511043,Dark Matter at the Fermi Scale,2.2277649438973187e-05,1.958074746355106e-05,90.0,4.0
+astro-ph/0501132,Finding Clusters in SZ Surveys,2.226139911562204e-05,1.6634927406374004e-07,12.0,1.0
+astro-ph/0605420,Hard X-ray emission from the Galactic ridge,2.2238315739421973e-05,1.0340833706365757e-05,9.0,5.0
+astro-ph/0612279,$\beta$-exponential inflation,2.22185392333678e-05,0.0,7.0,0.0
+astro-ph/0306118,Neutrinos and gravitational waves from cosmological gamma-ray bursts,2.2218102955148397e-05,0.0,31.0,0.0
+astro-ph/0608681,"Separating Dark Physics from Physical Darkness: Minimalist Modified
+  Gravity vs. Dark Energy",2.221201671278878e-05,9.790807309189029e-06,48.0,13.0
+astro-ph/0504005,Constraints on backreaction in dust universes,2.2211998274209923e-05,2.91870026306177e-05,61.0,27.0
+astro-ph/0602280,Issues in the Philosophy of Cosmology,2.2152807248514525e-05,2.1378105675739e-06,36.0,3.0
+hep-ph/0401138,"Lepton Flavor Violation, Neutralino Dark Matter and the Reach of the LHC",2.2138713574328705e-05,1.4503338975650402e-05,113.0,14.0
+gr-qc/0611112,Effective constraints of loop quantum gravity,2.2135144277087765e-05,2.224692828070745e-07,33.0,4.0
+astro-ph/0606703,"Nonlinear Structure Formation and ""Apparent"" Acceleration: an
+  Investigation",2.2115421080709557e-05,3.217773439221919e-06,47.0,13.0
+astro-ph/0510237,"The N2K Consortium. IV. New temperatures and metallicities for 100,000+
+  FGK dwarfs",2.2070953218351667e-05,0.0,21.0,0.0
+astro-ph/0402659,1E 1207.4-5209: a low-mass bare strange star?,2.2021923437501655e-05,0.0001142779349849,23.0,4.0
+astro-ph/0409622,The orientation parameters and rotation curves of 15 spiral galaxies,2.200384867832877e-05,0.0,3.0,0.0
+hep-ph/0403001,Frontiers in Cosmic Rays,2.199990092406765e-05,3.008505515811231e-05,25.0,4.0
+astro-ph/0609047,"Magnetar-Driven Magnetic Tower as a Model for Gamma-Ray Bursts and
+  Asymmetric Supernovae",2.1993940384844624e-05,3.218761643927595e-07,6.0,2.0
+astro-ph/0610331,"The supernova Hubble diagram for off-center observers in a spherically
+  symmetric inhomogeneous universe",2.199260298238032e-05,3.923430944784066e-07,28.0,7.0
+nucl-th/0505019,"Review of HBT or Bose-Einstein correlations in high energy heavy ion
+  collisions",2.198765626004477e-05,5.33388020747972e-06,41.0,7.0
+astro-ph/0607106,"The superflares of soft Gamma-ray repeatres: giant quakes in solid quark
+  stars?",2.1969087777145808e-05,2.3776382875809998e-06,11.0,3.0
+hep-th/0611330,Fractional Brane State in the Early Universe,2.196660202643056e-05,1.4957597708476738e-06,67.0,2.0
+astro-ph/0512135,Dark Energy Anisotropic Stress and Large Scale Structure Formation,2.1945359357848136e-05,0.0001550903205272,77.0,9.0
+astro-ph/0410004,SZ cluster science with the Planck HFI experiment,2.189928723784685e-05,0.0009777994204858,13.0,2.0
+hep-th/0703253,"First law of thermodynamics and Friedmann-like equations in braneworld
+  cosmology",2.1859561481921635e-05,0.0,25.0,0.0
+hep-ph/0612194,Stability and leptogenesis in the left-right symmetric seesaw mechanism,2.18169724006064e-05,1.1624985716763532e-05,21.0,3.0
+astro-ph/0702282,An Inhomogeneous Model Universe Behaving Homogeneously,2.181012108793718e-05,9.994378697831122e-07,7.0,1.0
+astro-ph/0405365,"Measuring cluster peculiar velocities with the Sunyaev-Zeldovich
+  effects: scaling relations and systematics",2.180771811908432e-05,0.0011868148817676,13.0,3.0
+hep-ph/0608067,Composition-dependent long range forces from varying m_p/m_e,2.180487328332851e-05,3.77848055060925e-06,19.0,3.0
+hep-ph/0511159,Simulations of black hole air showers in cosmic ray detectors,2.1803729110669668e-05,4.106385833419606e-06,66.0,8.0
+astro-ph/0302429,What we learn from the afterglow of GRB 021211,2.179725034039629e-05,1.024049818772847e-07,14.0,3.0
+nucl-th/0509038,"Unusual photon isospin mixing and instantaneous Coulomb effects on the
+  thermodynamics of compact matter",2.1773411044473262e-05,1.3739411425512132e-05,9.0,4.0
+astro-ph/0007198,Simulations of Pregalactic Structure Formation with Radiative Feedback,2.1771314707657448e-05,3.950941175445991e-05,18.0,6.0
+astro-ph/0609265,"Neutron Star Asteroseismology. Axial Crust Oscillations in the Cowling
+  Approximation",2.1755181637797147e-05,2.0131675514121197e-05,3.0,4.0
+astro-ph/0406194,On the nature of dark matter,2.174111679182975e-05,4.3104780837453935e-08,21.0,2.0
+astro-ph/0008089,"On the Observational Characteristics of Inhomogeneous Cosmologies:
+  Undermining the Cosmological Principle",2.1712103878749964e-05,2.49554770368178e-06,36.0,3.0
+gr-qc/0509101,Gravitational wave snapshots of generic extreme mass ratio inspirals,2.167795918322336e-05,2.3071322071564618e-06,4.0,4.0
+hep-th/0601008,"Dark energy in modified Gauss-Bonnet gravity: late-time acceleration and
+  the hierarchy problem",2.1675766231810075e-05,7.642728251372546e-05,53.0,19.0
+hep-ph/0302161,New hadrons as ultra-high energy cosmic rays,2.165939631263843e-05,7.96909572761129e-05,90.0,13.0
+astro-ph/0507439,Heavy Element Production in Inhomogeneous Big Bang Nucleosynthesis,2.1657239945096537e-05,2.4626044216322724e-08,16.0,2.0
+astro-ph/0605369,Detecting dark matter in electromagnetic field penetration experiments,2.1645675727004228e-05,2.072544733378216e-07,6.0,2.0
+gr-qc/0703109,Periodic Gravitational Waves From Small Cosmic String Loops,2.1620781068441268e-05,0.0,26.0,0.0
+astro-ph/0511660,Troubles for observing the inflaton potential,2.161714756240009e-05,2.4803178443860648e-08,43.0,2.0
+astro-ph/0607086,Cosmology of neutrinos and extra light particles after WMAP3,2.160236426187153e-05,0.0005307023397727,60.0,17.0
+astro-ph/0605028,Searching for sub-millisecond pulsars: A theoretical view,2.1583262944691577e-05,0.0,9.0,0.0
+hep-ph/0403101,Turbulent Thermalization,2.1570550207537427e-05,0.000104049269902,69.0,16.0
+hep-th/0510179,On curvature coupling and quintessence fine-tuning,2.1559500002028314e-05,1.9326418992231602e-07,3.0,1.0
+hep-th/0608168,On the way from matter-dominated era to dark energy universe,2.1558040976179697e-05,3.960961397764428e-06,28.0,8.0
+astro-ph/0610398,"Primordial Non-Gaussianity and Gravitational Waves: Observational Tests
+  of Brane Inflation in String Theory",2.155211074975315e-05,1.628860912900609e-06,45.0,7.0
+hep-th/0609183,Cosmological matching conditions,2.154307106183644e-05,0.0,28.0,0.0
+astro-ph/0301537,Dark Baryons in Galactic Halos,2.152849492575264e-05,3.4743329014654786e-08,13.0,1.0
+hep-th/0606006,Braneworld stars and black holes,2.15266895485681e-05,5.262390047345954e-06,75.0,7.0
+hep-th/0401073,"Entropy and universality of Cardy-Verlinde formula in dark energy
+  universe",2.1525530323378885e-05,0.0003418314337755,76.0,52.0
+astro-ph/0702099,"Current models of the observable consequences of cosmic reionization and
+  their detectability",2.1511387025234467e-05,0.0,9.0,0.0
+astro-ph/0607073,"Detecting dark matter WIMPs in the Draco dwarf: a multi-wavelength
+  perspective",2.1503100477008333e-05,6.596745628935216e-06,41.0,7.0
+astro-ph/0512089,Exact Wave Propagation in a Spacetime with a Cosmic String,2.1477319003294057e-05,0.0,39.0,0.0
+astro-ph/0606559,"Homotopy symmetry in the multiply connected twin paradox of special
+  relativity",2.147300199719697e-05,2.0218905636175127e-06,21.0,2.0
+astro-ph/0510068,The Phenomenology of Dvali-Gabadadze-Porrati Cosmologies,2.1451536021744797e-05,4.822824772794718e-05,89.0,42.0
+gr-qc/0604062,Vacuum Energy: Myths and Reality,2.1416908541682164e-05,5.363506516721417e-06,10.0,6.0
+astro-ph/9904398,The Case for a Positive Cosmological Lambda-term,2.1415716258266176e-05,0.000351008714595,60.0,192.0
+astro-ph/9806151,"An Optical/Near-Infrared Study of Radio-Loud Quasar Environments II.
+  Imaging Results",2.1410544652061465e-05,7.974097919742109e-06,35.0,5.0
+astro-ph/0703308,The Observed properties of Dark Matter on small spatial scales,2.1409823589909228e-05,5.63622547700397e-08,10.0,1.0
+astro-ph/0611194,"External Shocks, UHECRs, and the Early Afterglow of GRBs",2.140320557885217e-05,0.0009701658237826,1.0,2.0
+hep-ph/0609290,"Increasing the Neutralino Relic Abundance with Slepton Coannihilations:
+  Consequences for Indirect Dark Matter Detection",2.1402234331195347e-05,8.594867569550462e-07,46.0,5.0
+hep-th/0505193,Dark energy and cosmological solutions in second-order string gravity,2.139958988710704e-05,7.544124725165548e-05,57.0,35.0
+astro-ph/0610190,"Determining the evolutionary history of galaxies by astrocladistics :
+  some results on close galaxies",2.1378837143231656e-05,0.0,5.0,0.0
+astro-ph/0509565,"A New Signature of Dark Matter Annihilations: Gamma-Rays from
+  Intermediate-Mass Black Holes",2.135748882649184e-05,1.5792409304653363e-05,52.0,15.0
+astro-ph/0604281,"Supermassive Black Hole Merger Rates: Uncertainties from Halo Merger
+  Theory",2.1334570464584428e-05,7.912852407837073e-07,22.0,2.0
+hep-ph/0612065,"Enhanced Emission and Accumulation of Antiprotons and Positrons from
+  Supersymmetric Dark Matter",2.133338117958674e-05,0.0,26.0,0.0
+gr-qc/0612176,Natural Coordinate System in Curved Space-time,2.133030380481914e-05,8.835065758538594e-07,9.0,2.0
+astro-ph/0607586,Space-time Evolution and CMB Anisotropies from Quantum Gravity,2.12884483151808e-05,2.509015465427159e-07,7.0,1.0
+astro-ph/0510763,"On possible manifestation of feedback coupling between geometry and
+  matter in a phenomenon of an accelerating expansion of the Universe",2.1287911444747368e-05,0.0,30.0,0.0
+astro-ph/0609712,Gravitational Faraday Rotation in Binary Pulsar Systems,2.1278529354148957e-05,0.0,15.0,0.0
+astro-ph/0703673,Dark Matter: The Case of Sterile Neutrino,2.127741770910516e-05,0.0,7.0,0.0
+astro-ph/0208333,How Black Are Black Hole Candidates?,2.127676913797241e-05,1.5090675382427265e-06,13.0,1.0
+astro-ph/0701784,"The Signature of Patchy Reionization in the Polarization Anisotropy of
+  the CMB",2.124874787418333e-05,1.4660320220403033e-07,24.0,1.0
+astro-ph/0005365,"Big Bang Leftovers in the Microwave: Cosmology with the Cosmic Microwave
+  Background Radiation",2.124561506301347e-05,3.667891269141821e-05,37.0,6.0
+astro-ph/0507632,Inflation Dynamics and Reheating,2.1242035046408725e-05,0.0001186722710613,30.0,42.0
+astro-ph/0307115,Searching for dark matter,2.1240086526608425e-05,0.0,10.0,7.0
+astro-ph/0504498,Gamma-Ray Emission from Microquasars,2.1239052112853384e-05,3.6993869599812017e-08,16.0,1.0
+astro-ph/0411560,A Hot Water Bottle for Aging Neutron Stars,2.1229227895253476e-05,2.497242625612248e-05,76.0,28.0
+astro-ph/0606047,"Braneworld inflation from an effective field theory after WMAP
+  three-year data",2.1228102546260692e-05,3.3201574301781765e-07,54.0,2.0
+gr-qc/9909058,Quasi-Normal Modes of Stars and Black Holes,2.1202604733144787e-05,0.0002271044614419,56.0,66.0
+gr-qc/0612159,Is violation of Newton's second law possible?,2.119808742099201e-05,2.680257817594327e-08,14.0,1.0
+astro-ph/0611816,An Introduction to Chameleon Gravity,2.1189146465779948e-05,0.0,14.0,0.0
+astro-ph/0005262,Reionization by Hard Photons: I. X-rays from the First Star Clusters,2.117789725741e-05,3.779135291427976e-05,24.0,5.0
+hep-ph/0206211,"Does Solar Physics Provide Constraints to Weakly Interacting Massive
+  Particles?",2.116415890786926e-05,4.915409297254762e-07,36.0,2.0
+hep-ph/0506091,Lorentz and CPT Invariance Violation In High-Energy Neutrinos,2.1163724487968763e-05,2.5593546579272382e-05,63.0,11.0
+astro-ph/0608642,Growth of structure seeded by primordial black holes,2.1162878147812582e-05,2.590815158852994e-06,15.0,2.0
+astro-ph/0501002,Physics of Supernovae,2.116057527909196e-05,0.0,7.0,0.0
+astro-ph/0401632,Anisotropies in Ultrahigh Energy Cosmic Rays,2.1157846199270547e-05,4.026902437398051e-06,58.0,2.0
+gr-qc/0703034,"Post-Newtonian Approximations, Compact Binaries, and Strong-Field Tests
+  of Gravity",2.114643918569938e-05,0.0,7.0,0.0
+astro-ph/0609620,"The Origin and Evolution of the Mass-Metallicity Relationship for
+  Galaxies: Results from Cosmological N-Body Simulations",2.110083491988444e-05,9.186868758447852e-07,10.0,2.0
+astro-ph/0008115,Prospects for Indirect Detection of Neutralino Dark Matter,2.1057889897319437e-05,8.950742350401439e-05,94.0,68.0
+astro-ph/0310772,"Powerful obscured AGN among X-ray hard, optically-dim serendipitous
+  Chandra sources",2.105784044650757e-05,1.7483560116471723e-05,16.0,3.0
+astro-ph/0702555,"""Swiss-Cheese"" Inhomogeneous Cosmology & the Dark Energy Problem",2.1049534040354264e-05,1.3646181404986438e-08,24.0,2.0
+hep-ph/0510081,Models of Baryogenesis via Spontaneous Lorentz Violation,2.103962178460748e-05,3.478179623952279e-06,47.0,7.0
+hep-ph/0605264,Anatomy of F_D-Term Hybrid Inflation,2.103568677152003e-05,4.815430281731036e-06,19.0,9.0
+gr-qc/0204055,"Summary Talk on Cosmology and Gravitation: XXII Brazilian National
+  Meeting on Particles and Fields",2.10229895338366e-05,0.0,20.0,0.0
+astro-ph/0701780,The Cold Dark Matter Halos of Local Group Dwarf Spheroidals,2.0969644324791857e-05,3.77584461248063e-06,9.0,4.0
+astro-ph/0601014,Accelerating Universe: Observational Status and Theoretical Implications,2.0944803499280367e-05,1.0547844032160384e-05,75.0,31.0
+astro-ph/0510692,"Comment on ""On curvature coupling and quintessence fine-tuning""",2.094301444477637e-05,0.0,2.0,1.0
+astro-ph/0304504,Modelling galaxy halos using dark matter with pressure,2.093064584719884e-05,8.327499465961393e-06,14.0,6.0
+astro-ph/0410349,Stellar explosions: from supernovae to gamma-ray bursts,2.091964005307397e-05,1.919829889193616e-06,31.0,1.0
+astro-ph/0702661,The Source of the Helium Visible Lines in Eta Carinae,2.089521799212584e-05,0.0,8.0,1.0
+nucl-th/0512098,"Neutron star cooling constraints for color superconductivity in hybrid
+  stars",2.088333350403562e-05,1.5580977996976677e-05,41.0,6.0
+hep-ph/0607188,Vacuum Birefringence as a Probe of Planck Scale Noncommutativity,2.087164543617045e-05,2.805139387456763e-06,28.0,4.0
+astro-ph/0612378,"Magnetic fields, strings and cosmology",2.086991611911992e-05,0.0,11.0,0.0
+astro-ph/0402568,"2-10 keV luminosity of high-mass binaries as a gauge of ongoing
+  star-formation rate",2.0842788745105787e-05,0.0,9.0,0.0
+astro-ph/0702262,GRB 050822: Detailed analysis of an XRF observed by Swift,2.0835025482021905e-05,3.486627287532306e-07,9.0,2.0
+astro-ph/0703199,The Cluster-Merger Shock in 1E 0657-56: Faster than the Speeding Bullet?,2.0810970661305733e-05,2.076293741101432e-06,5.0,1.0
+gr-qc/0502099,Phantom energy traversable wormholes,2.080645231880131e-05,1.1959368849828629e-05,57.0,19.0
+astro-ph/0609204,3C 216: A Powerful FRII Seyfert 1 Galaxy,2.079993445643353e-05,1.4485528921151209e-06,6.0,1.0
+astro-ph/0502032,Cosmological Surprises from Braneworld models of Dark Energy,2.0791596800354745e-05,0.0003501243551265,85.0,41.0
+hep-ph/0412122,Diagnostic Potential of Cosmic-Neutrino Absorption Spectroscopy,2.0790029399418e-05,8.008399299418508e-06,76.0,8.0
+astro-ph/0407300,Correlated isocurvature perturbations from mixed inflaton-curvaton decay,2.0785140640536223e-05,3.7971342254373937e-05,72.0,10.0
+gr-qc/0510022,Correspondence between Loop-inspired and Braneworld Cosmology,2.0781611639924618e-05,4.356276373754352e-06,64.0,6.0
+astro-ph/0703633,"Signatures of the extragalactic cosmic-ray source composition from
+  spectrum and shower depth measurements",2.077739987614608e-05,5.828885112432783e-07,21.0,1.0
+astro-ph/0702648,Observing cosmic string loops with gravitational lensing surveys,2.0762146760079087e-05,0.0,7.0,0.0
+hep-th/0703250,Primordial Black Hole Baryogenesis,2.075035184680716e-05,0.0,19.0,0.0
+astro-ph/0612590,The young stellar population in M17 revealed by Chandra,2.074884239928945e-05,0.0,4.0,0.0
+astro-ph/0512512,Stable quark matter in cosmic rays?,2.074678925092892e-05,2.949953358674656e-06,24.0,1.0
+astro-ph/0602540,Frustrated Expectations: Defect Networks and Dark Energy,2.071604316776349e-05,9.392466987260598e-07,19.0,7.0
+cond-mat/0303492,"On the dynamical anomalies in numerical simulations of selfgravitating
+  systems",2.0713693739451308e-05,0.0,13.0,0.0
+astro-ph/0608317,Strange Exotic States and Compact Stars,2.07095156949568e-05,2.406809505162889e-07,29.0,1.0
+gr-qc/0508115,Stable dark energy stars,2.0673441788378284e-05,8.425390256082346e-06,53.0,6.0
+astro-ph/0610661,Constraining Extended Theories of Gravity using Solar System Tests,2.0625256749178263e-05,1.5764317562213683e-06,39.0,7.0
+astro-ph/0602116,"Cosmic Evolution with Early and Late Acceleration Inspired by Dual
+  Nature of the Ricci Scalar Curvature",2.0609955921631635e-05,0.0001236501821805,57.0,8.0
+astro-ph/0610370,"Galactic Dynamics via General Relativity: A Compilation and New
+  Developments",2.060196123000304e-05,1.6482681470541097e-06,15.0,2.0
+hep-ph/0606157,"Color Superconductivity in Dense, but not Asymptotically Dense, Quark
+  Matter",2.0599406247390783e-05,4.815541981548329e-05,99.0,15.0
+physics/0310134,The New Paradigm for Gamma Ray Bursts: a Case of Unethical Behaviour?,2.059586251545876e-05,1.3044048080396698e-07,26.0,3.0
+astro-ph/0608241,"Scale Factor Dependent Equations of State for Curvature Inspired Dark
+  Energy, Phantom Barrier and Late Cosmic Acceleration",2.058397736968155e-05,5.485116019635391e-07,17.0,4.0
+astro-ph/0701600,Hypervelocity Stars II. The Bound Population,2.058239369952478e-05,1.990182755160072e-06,5.0,1.0
+hep-th/0307100,CMB anisotropies from vector perturbations in the bulk,2.0557261505048115e-05,8.647372995573053e-05,67.0,11.0
+astro-ph/9707285,Dark Matter and Structure Formation in the Universe,2.0546460110874557e-05,0.0017965343097013,56.0,50.0
+astro-ph/0604488,On the one loop corrections to inflation and the CMB anisotropies,2.053614089989064e-05,2.3955364661279084e-06,63.0,8.0
+astro-ph/0412130,The properties of ultra-compact dwarf galaxies and their possible origin,2.052849737988712e-05,0.0,15.0,0.0
+astro-ph/0509484,"Neutron Star Kicks in Isolated and Binary Pulsars: Observational
+  Constraints and Implications for Kick Mechanisms",2.0521831257794564e-05,2.3116727368098563e-06,14.0,3.0
+astro-ph/0702237,Constraining bouncing cosmology caused by Casimir effect,2.05192917248511e-05,0.0,12.0,0.0
+hep-ph/0410358,"Cosmic Ray Signals from Mini Black Holes in Models with Extra
+  Dimensions: An Analytical/Monte Carlo Study",2.0516843153776545e-05,1.286907155491414e-05,16.0,22.0
+astro-ph/0611761,"Using the cluster mass function from weak lensing to constrain neutrino
+  masses",2.051661782206564e-05,8.812046778223637e-06,43.0,5.0
+astro-ph/0607304,"Non-thermal intracluster medium: a simultaneous interpretation of the
+  central soft X-ray excess and WMAP's detection of reduced Sunyaev-Zel'dovich
+  Effect",2.0515546786367254e-05,1.840868629258743e-06,7.0,1.0
+hep-th/0611157,Self-accelerating Warped Braneworlds,2.0511385013148e-05,1.685563944602945e-08,29.0,1.0
+hep-ph/0607092,"Vacuum energy reduction through destabilization: a unification of
+  quintessence and a dynamical approach?",2.0465783539415938e-05,0.0,66.0,0.0
+astro-ph/0703050,Dark-energy constraints with ALMA polarization measurements,2.0421166765036157e-05,0.0,6.0,0.0
+gr-qc/0404042,Vector field and rotational curves in dark galactic halos,2.0389360568052484e-05,1.4415290756438804e-05,62.0,8.0
+astro-ph/0205439,"Dust-Induced Systematic Errors in Ultraviolet-Derived Star Formation
+  Rates",2.0377530701892904e-05,3.620699830471453e-06,2.0,2.0
+astro-ph/0703266,"Correlating anomalies of the microwave sky: The Good, the Evil and the
+  Axis",2.0375810923164973e-05,0.0,28.0,0.0
+hep-ph/0409321,Generation of baryon inhomogeneities in the electroweak phase transition,2.037123576417442e-05,1.9615354095403594e-07,47.0,1.0
+hep-th/0502057,Accelerating universes driven by bulk particles,2.037041205783756e-05,5.236587642034645e-06,52.0,6.0
+hep-th/0503141,"A freely falling frame at the interface of gravitational and quantum
+  realms",2.036751603536272e-05,9.73253623851486e-06,47.0,4.0
+hep-th/0212014,"The Covariant Entropy Bound, Brane Cosmology, and the Null Energy
+  Condition",2.0367237573708824e-05,0.0003894357569446,55.0,10.0
+astro-ph/0607339,Constraints on Supersymmetric Models of Hybrid Inflation,2.036016244854526e-05,3.0966899965282983e-06,64.0,6.0
+gr-qc/0511117,Reality and causality in quantum gravity modified electrodynamics,2.033730006145961e-05,2.350353462179706e-06,7.0,2.0
+hep-ph/0603255,Identifying the curvaton within MSSM,2.030202515280873e-05,6.8510008120718615e-06,56.0,13.0
+astro-ph/0611183,Dynamics of the Narrow-Line Region in the Seyfert 2 Galaxy NGC 1068,2.029476046201016e-05,0.0,15.0,1.0
+gr-qc/0512028,"A Finite Element Computation of the Gravitational Radiation emitted by a
+  Point-like object orbiting a Non-rotating Black Hole",2.0288818285379377e-05,2.0200850188311185e-06,23.0,3.0
+hep-ph/9912358,Mass and Flavor Mixing Schemes of Quarks and Leptons,2.0264560053395053e-05,0.0001833197374514,50.0,83.0
+hep-ph/0701062,"Predictive model for dark matter, dark energy, neutrino masses and
+  leptogenesis at the TeV scale",2.0247776120554263e-05,0.0,4.0,0.0
+hep-ph/0505182,Isotropization far from equilibrium,2.02465088690548e-05,1.649415545288358e-05,48.0,5.0
+astro-ph/0501099,Clusters and groups of galaxies in the 2dF galaxy redshift survey,2.0246280123379475e-05,0.0,15.0,0.0
+hep-ph/0404239,Cosmological neutrinos,2.0233594457054647e-05,4.024781374103811e-05,108.0,32.0
+cond-mat/0607396,Gravitational Dynamics of an Infinite Shuffled Lattice of Particles,2.0227524299946016e-05,0.0,10.0,1.0
+astro-ph/0311473,"A long, hard look at MCG-6-30-15 with XMM-Newton II: detailed EPIC
+  analysis and modelling",2.022298321973178e-05,1.0100429869186996e-05,17.0,5.0
+hep-ph/0512090,Minimal Dark Matter,2.0218841474534483e-05,1.2053745192199529e-05,43.0,10.0
+astro-ph/0509320,Dark energy and dark matter from cosmological observations,2.021876859684308e-05,2.941076085430056e-05,101.0,9.0
+gr-qc/0612108,Gravitational waves generated by second order effects during inflation,2.021539011996876e-05,4.418580545631105e-08,8.0,1.0
+astro-ph/0208282,A primer on the ekpyrotic scenario,2.019588860634094e-05,7.143633968049636e-05,119.0,7.0
+quant-ph/0612032,A New Look at the Quantum Mechanics of the Harmonic Oscillator,2.019527788076137e-05,5.543834974602737e-07,11.0,1.0
+astro-ph/0601090,Are galaxy properties only determined by the dark matter halo mass?,2.0193447361596584e-05,1.2271814013070684e-05,13.0,3.0
+astro-ph/0702423,"$\Lambda\alpha$DM: Observational constraints on unified dark matter with
+  constant speed of sound",2.0175291807961982e-05,0.0,34.0,0.0
+astro-ph/0405157,Gravity of Cosmological Perturbations in the CMB,2.016785222033672e-05,7.581550446317999e-05,65.0,3.0
+astro-ph/0610088,Ram Pressure Stripping in Clusters and Groups,2.0128921470574965e-05,0.0,14.0,0.0
+hep-ph/0304162,Absorption of solar radiation by solar neutrinos,2.0121893009777283e-05,5.677098386447798e-07,13.0,2.0
+gr-qc/0510067,"Correlation analysis of stochastic gravitational wave background around
+  0.1-1Hz",2.010934232033221e-05,3.785954504319172e-06,34.0,7.0
+astro-ph/9911068,"Gravitational Collapse in Turbulent Molecular Clouds. I. Gasdynamical
+  Turbulence",2.007683798000685e-05,0.0,6.0,1.0
+astro-ph/0701276,Cluster Mass Estimators from CMB Temperature and Polarization Lensing,2.0051847599289368e-05,0.0,18.0,0.0
+astro-ph/0607527,Neutrino-Neutrino Interactions and Flavor Mixing in Dense Matter,2.0049088069244088e-05,1.0225707040755209e-07,22.0,4.0
+astro-ph/0509422,"Cosmological perturbations in the Palatini formulation of modified
+  gravity",2.004739836756869e-05,0.0005303405144894,64.0,15.0
+astro-ph/0412404,"An Approach to Explain the Long Cooling Times of Anomalous X-ray Pulsars
+  and Soft Gamma Repeaters with the Neutrino Magnetic Moment",2.00416806701548e-05,0.0,8.0,0.0
+hep-th/0611182,Renormalizable Non-Metric Quantum Gravity?,2.0028664794933186e-05,2.2253338607431627e-06,1.0,2.0
+astro-ph/0703388,A Search for Host Galaxies of 24 Gamma-Ray Bursts,2.0018302818963542e-05,1.701852473376307e-07,4.0,1.0
+astro-ph/0311271,Structure and kinematics of candidate double-barred galaxies,2.00143672177206e-05,1.990182755160072e-06,12.0,1.0
+astro-ph/0507509,"Instrument, Method, Brightness and Polarization Maps from the 2003
+  flight of BOOMERanG",1.9992666010982893e-05,1.4521754573536012e-05,21.0,12.0
+astro-ph/0607627,Non-Gaussianity of the primordial perturbation in the curvaton model,1.9991903965329605e-05,2.6693583515168345e-06,43.0,10.0
+astro-ph/0404074,Some Current Theoretical Issues around Ultra-High Energy Cosmic Rays,1.9977937796894616e-05,1.17427188470504e-05,78.0,4.0
+astro-ph/0701224,"Cosmological constraints in the presence of ionizing and resonance
+  radiation at recombination",1.995564093688945e-05,0.0,39.0,0.0
+astro-ph/0703810,"Testing the LCDM model (and more) with the time evolution of the
+  redshift",1.9952373426133892e-05,0.0,14.0,0.0
+astro-ph/0410551,A review of rapid X-ray variability in X-ray binaries,1.9951806737831245e-05,6.853058350585226e-05,31.0,68.0
+astro-ph/0701489,"X-ray Spectral and timing properties of the black hole x-ray transient
+  Swift J1753.5-0127",1.9945486076553343e-05,1.468748994325341e-07,6.0,1.0
+hep-ph/0507194,Robust Gamma Ray Signature of WIMP Dark Matter,1.9939904893375356e-05,2.519463452400641e-06,53.0,9.0
+astro-ph/0608365,"Scale dependence of the primordial spectrum from combining the
+  three-year WMAP, Galaxy Clustering, Supernovae, and Lyman-alpha forests",1.9929525529233397e-05,2.4605117703683865e-05,65.0,7.0
+hep-th/0608008,"Modified f(R) gravity consistent with realistic cosmology: from matter
+  dominated epoch to dark energy universe",1.992202563215753e-05,1.855639665137828e-05,41.0,28.0
+astro-ph/0502218,"The Radio to Infrared Emission of Very High Redshift Gamma-Ray Bursts:
+  Probing Early Star Formation through Molecular and Atomic Absorption Lines",1.9920885234689004e-05,0.0022503790520275,15.0,3.0
+astro-ph/0403196,Age of the Universe in the Cardassian Model,1.9919315326391832e-05,2.4765063920254557e-06,51.0,4.0
+astro-ph/0601481,"Nongaussian and nonscale-invariant perturbations from tachyonic
+  preheating in hybrid inflation",1.9914173974314172e-05,7.6525348933914e-06,88.0,13.0
+astro-ph/0604327,Top ten accelerating cosmological models,1.990782542334041e-05,3.0214016329873183e-05,40.0,19.0
+hep-ph/0606199,A theory of Cosmic Rays,1.988945426909593e-05,7.127809686662375e-05,16.0,7.0
+astro-ph/0207153,On the formation and evolution of black-hole binaries,1.988808270316532e-05,4.259297000135251e-05,20.0,3.0
+gr-qc/0611086,"Light's Bending Angle due to Black Holes: From the Photon Sphere to
+  Infinity",1.988050961231164e-05,0.0004871475170469,3.0,2.0
+astro-ph/0610220,"WMAP-normalized Inflationary Model Predictions and the Search for
+  Primordial Gravitational Waves with Direct Detection Experiments",1.985833018020382e-05,1.0014576040837301e-07,34.0,1.0
+astro-ph/0703440,"Environmental Influences on the Morphology and Dynamics of Group Size
+  Haloes",1.9851112759974986e-05,0.0,10.0,0.0
+astro-ph/0609763,Scaling Relations of Dwarf Galaxies without Supernova-Driven Winds,1.984670356190881e-05,2.4317666340842605e-05,11.0,4.0
+astro-ph/0611155,Gamma Ray Bursts: Complementarity to Other Cosmological Probes,1.984658954075387e-05,4.096347731190903e-06,14.0,2.0
+astro-ph/0309800,Dark Energy from Mass Varying Neutrinos,1.982703763762409e-05,0.0002500583144149,76.0,71.0
+nucl-th/0608063,$D$-dimensions Dirac fermions BEC-BCS cross-over thermodynamics,1.981223155880609e-05,7.424342140119281e-06,14.0,1.0
+astro-ph/0602453,"The Magnetospheric Eternally Collapsing Object (MECO) Model of Galactic
+  Black Hole Candidates and Active Galactic Nuclei",1.9781819531814813e-05,4.481317054373585e-06,12.0,2.0
+gr-qc/0512109,"Modified gravity, Dark Energy and MOND",1.977242574107148e-05,0.0001221464021991,54.0,11.0
+astro-ph/0207019,"Constraining Galaxy Formation and Cosmology with the Conditional
+  Luminosity Function of Galaxies",1.976760396511496e-05,1.8067553966097507e-05,24.0,7.0
+astro-ph/0703570,Cosmological Constraints From the 100 Square Degree Weak Lensing Survey,1.975683994875877e-05,5.248057794861475e-06,4.0,2.0
+astro-ph/0703054,Alignment of the spins of supermassive black holes prior to coalescence,1.974096375751776e-05,7.619767522899689e-07,14.0,3.0
+hep-th/0603135,"Supersymmetric Nambu$-$Jona-Lasinio Model on ${\cal N}=1/2$
+  four-dimensional Non(anti)commutative Superspace",1.9706809854170796e-05,0.0,43.0,0.0
+astro-ph/0609188,Can extragalactic foregrounds explain the large-angle CMB anomalies?,1.970462725219272e-05,0.0,18.0,0.0
+hep-ph/0506298,Spectra of neutrinos from dark matter annihilations,1.9691797562602813e-05,2.1478736981193837e-06,52.0,7.0
+astro-ph/0301505,TASI Lectures on Dark Matter,1.968584695959569e-05,0.000923606610395,83.0,29.0
+astro-ph/0301575,Ultra-high energy cosmic rays from Quark Novae,1.964832805713684e-05,1.990182755160072e-06,8.0,1.0
+astro-ph/0103067,"Interpreting the Cosmic Infrared Background: Constraints on the
+  Evolution of the Dust Enshrouded Star Formation Rate",1.962695437150621e-05,1.583598501437017e-05,14.0,2.0
+hep-th/0502194,"Quantum Mechanics in Non'Inertial Frames with a Multi'Temporal
+  Quantization Scheme: I) Relativistic Particles",1.961887238955956e-05,3.558110398315023e-07,32.0,1.0
+astro-ph/0201223,"Constraints in Cosmological Parameter Space from the Sunyaev-Zel'dovich
+  Effect and Thermal Bremsstrahlung",1.9615595564988783e-05,1.0905130931820373e-06,33.0,1.0
+astro-ph/0607363,The Rise Time of Type Ia Supernovae from the Supernova Legacy Survey,1.9612442416734945e-05,0.0,31.0,0.0
+astro-ph/0507656,"Magnetized Sources of Ultra-high Energy Nuclei and Extragalactic Origin
+  of the Ankle",1.9612330105152927e-05,0.0002550597768598,24.0,9.0
+hep-ph/0507218,Constraining Modular Inflation in the MSSM from Giant Q-Ball Formation,1.960672344061661e-05,4.574423708665791e-06,45.0,3.0
+gr-qc/0503071,"Black hole head-on collisions and gravitational waves with fixed
+  mesh-refinement and dynamic singularity excision",1.9578188625889977e-05,2.2588997801057888e-05,55.0,10.0
+astro-ph/0603209,Galaxy Formation and Dark Matter,1.95513515205972e-05,3.7845536220114096e-08,7.0,1.0
+nucl-th/0607039,"Neutron Rich Nuclei in Heaven and Earth: Proceedings of the
+  International Conference on Current Problems in Nuclear Physics and Atomic
+  Energy",1.954834134968619e-05,0.0,34.0,0.0
+astro-ph/0602118,Dissipative or Conservative cosmology with dark energy ?,1.9502211673277668e-05,0.0001455115977278,37.0,7.0
+gr-qc/0602071,Tidal Dynamics in Kerr Spacetime,1.9466258563214096e-05,0.0,1.0,0.0
+gr-qc/0608091,A numerical study of the quasinormal mode excitation of Kerr black holes,1.9465256525557938e-05,2.36060115545272e-05,15.0,3.0
+hep-ph/0412383,"A semi-analytic calculation on the atmospheric tau neutrino flux in the
+  GeV to TeV energy range",1.9461539785109126e-05,0.0,21.0,0.0

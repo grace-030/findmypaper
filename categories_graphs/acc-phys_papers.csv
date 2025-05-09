@@ -1,0 +1,71 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+hep-ph/9607454,CIRCE Version 1.0: Beam Spectra for Linear Collider Physics,1.3189329710618589e-06,0.0,0.0,36.0
+hep-ph/9604368,Sonoluminescence and the Heimlich Effect,1.3189329710618589e-06,0.0,0.0,9.0
+acc-phys/9502001,Finding matched rms envelopes in rf linacs: A Hamiltonian approach,1.3189329710618589e-06,0.0,0.0,1.0
+acc-phys/9609003,"Selfacceleration of Electrons in One-dimensional Bunches, Moving in Cold
+  Plasma",1.3189329710618589e-06,0.0,0.0,1.0
+acc-phys/9602001,Muon Colliders,1.3189329710618589e-06,0.0,0.0,1.0
+acc-phys/9411002,"Order $\hbar$ Corrections to the Classical Dynamics of a Particle with
+  Intrinsic Spin Moving in a Constant Magnetic Field",1.3189329710618589e-06,0.0,0.0,1.0
+acc-phys/9411001,Symplectic Computation of Lyapunov Exponents,,,,
+acc-phys/9411003,Candela Photo-Injector Experimental Results,,,,
+acc-phys/9411004,High-Brightness Photocathode Electron Sources,,,,
+acc-phys/9502002,Coupling Impedances and Heating due to Slots in the KEK B-factory,,,,
+acc-phys/9503001,"A Study of Influence of Synchrotron Radiation Quantum Fluctuations on
+  the Synchrotron Oscillations of a Single Electron Using Undulator Radiation",,,,
+acc-phys/9503002,Beam Dynamics problems in a muon collider,,,,
+acc-phys/9503003,Muon Transverse Ionization Cooling: Stochastic Approach,,,,
+acc-phys/9503004,MONTE CARLO SIMULATIONS OF MUON PRODUCTION,,,,
+acc-phys/9504001,"A General Approach for Calculating Coupling Impedances of Small
+  Discontinuities",,,,
+acc-phys/9504002,Trapped Modes in the Vacuum Chamber of an Arbitrary Cross Section,,,,
+acc-phys/9504003,"Polarizabilities of an Annular Cut and Coupling Impedances of
+  Button-Type Beam Position Monitors",,,,
+acc-phys/9505001,RFQ-DRL MATCHING SOLUTIONS FOR DIFFERENT REQUIREMENTS,,,,
+acc-phys/9505002,"Stroboscopic Laser Diagnostics for Detection of Ordering in
+  One-Dimensional Ion beam",,,,
+acc-phys/9506001,"Normal Mode Tunes for Linear Coupled Motion in Six Dimensional Phase
+  Space",,,,
+acc-phys/9507001,"Coaxial Ring Cyclotron as a Perspective Nuclear Power Engineering
+  Machine",,,,
+acc-phys/9508001,Linear Orbit Parameters for the Exact Equations of Motion,,,,
+acc-phys/9510001,"Ultrashort Laser-pulse Diagnostics for Detection of Ordering within an
+  Ion beam",,,,
+acc-phys/9510002,Polarizabilities of an Annular Cut in the Wall of an Arbitrary Thickness,,,,
+acc-phys/9510003,"Full Phase-Space Analysis of Particle Beam Transport in the Thermal Wave
+  Model",,,,
+acc-phys/9510004,"Radiation Damping and Quantum Excitation for Longitudinal Charged
+  Particle Dynamics in the Thermal Wave Model",,,,
+acc-phys/9510005,"Construction of Nonlinear Symplectic Six-Dimensional Thin-Lens Maps by
+  Exponentiation",,,,
+acc-phys/9510006,"Linear Parameters and the Decoupling Matrix for Linearly Coupled Motion
+  in 6 Dimensional Phase Space",,,,
+acc-phys/9512001,"Particle Motion in the Stable Region Near an Edge of a Linear
+  Half-Integer Stopband",,,,
+acc-phys/9601001,"Particle Motion in the Stable Region Near an Edge of a Linear Sum
+  Resonance Stopband",,,,
+acc-phys/9602002,"Diffusion due to the Beam-Beam Interaction and Fluctuating Fields in
+  Hadron Colliders",,,,
+acc-phys/9602003,Final Focus System for a Muon Collider: A Test Model,,,,
+acc-phys/9603001,On the Problem of the Coupled Cavity Chain Characteristic Calculations,,,,
+acc-phys/9603002,On Two-cavity Coupling,,,,
+acc-phys/9603003,Analytical Solutions in the Two-cavity Coupling Problem,,,,
+acc-phys/9604001,Muon Collider Design,,,,
+acc-phys/9604002,Polarized Beams in a Muon Collider,,,,
+acc-phys/9604003,Design of the Muon Collider Lattice: Present Status,,,,
+acc-phys/9604004,Approximate Analytical Description of the Underdense Short Plasma Lens,,,,
+acc-phys/9605001,"A tracking algorithm for the stable spin polarization field in storage
+  rings using stroboscopic averaging",,,,
+acc-phys/9605002,Orbit Dynamics for Unstable Linear Motion,,,,
+acc-phys/9607001,"An Investigation of Stochastic Cooling in the Framework of Control
+  Theory",,,,
+acc-phys/9607003,"A Scintillating Fiber Hodoscope for a Bremstrahlung Luminosity Monitor
+  at an Electron$-$Positron Collider",,,,
+acc-phys/9609001,"Calculation of the dynamic aperture in the ANKA storage ring with a
+  high-field wavelength shifter",,,,
+acc-phys/9609002,Polarization in a Muon Collider,,,,
+acc-phys/9609004,A High Current Proton Linac with 352 MHz SC Cavities,,,,
+acc-phys/9609005,"Coupling Impedances of Azimuthally Symmetric Obstacles of
+  Semi-Elliptical Shape in a Beam Pipe",,,,
+acc-phys/9609006,Beam Coupling Impedances of Obstacles Protruding into Beam Pipe,,,,
+hep-ph/9605236,High energy proton acceleration in dissolving plasma clots,,,,

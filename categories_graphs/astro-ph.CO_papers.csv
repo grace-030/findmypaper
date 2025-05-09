@@ -1,0 +1,27 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+astro-ph/0608103,Relaxed constraints on neutrino oscillation parameters,3.0430965980404805e-05,1.5237879206982523e-09,22.0,2.0
+gr-qc/0701136,"Evolution of magnetic component in Yang-Mills condensate dark energy
+  models",1.3530085297185924e-05,0.0,2.0,0.0
+hep-ph/0512323,Pseudoscalar Photon Mixing In A Magnetized Medium,9.110804690012316e-06,5.847757786948901e-08,9.0,1.0
+gr-qc/0304065,An inverse approach to Einstein's equations for non-conducting fluids,8.298145357641736e-06,1.1032996084043045e-07,9.0,2.0
+gr-qc/0612060,"Gravitational waves from intermediate-mass-ratio inspirals for
+  ground-based detectors",6.239405990466855e-06,1.990182755160072e-06,2.0,1.0
+astro-ph/9709113,A Complexity-Brightness Correlation in Gamma Ray Bursts,4.308677856146974e-06,0.0,4.0,1.0
+astro-ph/0510447,"The Supernova Legacy Survey: Measurement of Omega_M, Omega_Lambda and w
+  from the First Year Data Set",2.548861451787312e-06,2.30064352651906e-05,2.0,166.0
+astro-ph/0702236,"A Survey of Local Group Galaxies Currently Forming Stars: II. UBVRI
+  Photometry of Stars in Seven Dwarfs and a Comparison of the Entire Sample",1.8950380516170012e-06,0.0,1.0,0.0
+astro-ph/0405304,The abundance of Lyman-(\alpha) emitters in hierarchical models,1.5405247274723262e-06,1.4852110113134863e-09,1.0,2.0
+gr-qc/9804023,Regular spherical dust spacetimes,1.3189329710618589e-06,0.0,0.0,10.0
+astro-ph/9904027,Extragalactic Cepheid database,1.3189329710618589e-06,0.0,0.0,1.0
+math/0302244,Friedmann Cosmology and Almost Isotropy,1.3189329710618589e-06,0.0,0.0,1.0
+astro-ph/0403545,The LEDA galaxy distribution: I. Maps of the Local Universe,,,,
+astro-ph/0611831,Cosmological Simulations using Grid Middleware,,,,
+astro-ph/0612166,MoLUSC: A MOck Local Universe Survey Constructor,,,,
+astro-ph/9807171,"Interpretation of the galaxy structure surrounding the Local
+  Supercluster",,,,
+astro-ph/9810211,"Calibration of the Faber-Jackson relation for M31 globular clusters
+  using Hipparcos data",,,,
+astro-ph/9901412,First DENIS I-band extragalactic catalog,,,,
+gr-qc/9612027,A Topological Extension of General Relativity,,,,
+hep-th/0510097,Instability of coherent states of a real scalar field,,,,

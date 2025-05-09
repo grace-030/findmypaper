@@ -1,0 +1,168 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+cond-mat/9608151,Initial Stages of Bose-Einstein Condensation,5.633949150030979e-06,0.0,2.0,1.0
+hep-ph/9609232,Could Spontaneous Transitions be Spontaneous?,5.3613071276339406e-06,0.0,3.0,3.0
+cond-mat/9607188,Renormalization Group Theory of the Three-Dimensional Dilute Bose Gas,4.635275048279667e-06,0.0,7.0,1.0
+hep-th/9605052,Effective Field Theory for Coherent Optical Pulse Propagation,4.488361666701763e-06,0.0,2.0,2.0
+chem-ph/9608001,"Monte Carlo Optimization of Trial Wave Functions in Quantum Mechanics
+  and Statistical Mechanics",4.199458373837573e-06,0.0,3.0,2.0
+atom-ph/9511001,On the Use of Quantum Algebras in Rotation-Vibration Spectroscopy,3.414200726067809e-06,0.0,1.0,3.0
+atom-ph/9607001,"State Measurements with Short Laser Pulses and Lower-Efficiency Photon
+  Detectors",3.231781322326967e-06,0.0,3.0,1.0
+atom-ph/9606007,Stimulation of Beta Decay due to a Bose-Einstein Condensate,3.0472482127272877e-06,0.0,2.0,0.0
+atom-ph/9607003,Centrifugal Effects in a Bose-Einstein Condensate,2.731762097185185e-06,0.0,4.0,0.0
+cond-mat/9512102,Memory Loss and Auger Processes in a Many Body Theory of Charge Transfer,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/9605092,Generalized Bloch equations for a strongly driven tunneling system,2.4711431321721443e-06,0.0,1.0,0.0
+hep-ph/9606298,Dyon mass bounds from electric dipole moments,2.4711431321721443e-06,0.0,2.0,1.0
+hep-th/9604100,QED for a Fibrillar Medium of Two-Level Atoms,2.017153926261741e-06,0.0,1.0,2.0
+quant-ph/9606025,Quantum jumps as decoherent histories,1.8950380516170012e-06,0.0,1.0,2.0
+hep-ph/9608491,"Effective field theories for QED bound states: extending Nonrelativistic
+  QED to study retardation effects",1.60698551133943e-06,0.0,1.0,37.0
+cond-mat/9606016,Excited states of a static dilute spherical Bose condensate in a trap,1.4835344226490424e-06,0.0,1.0,3.0
+gr-qc/9510002,Stochastic Theory of Accelerated Detectors in a Quantum Field,1.3573399764322014e-06,0.0,1.0,4.0
+quant-ph/9512022,Negative entropy and information in quantum mechanics,1.3189329710618589e-06,0.0,0.0,22.0
+astro-ph/9510123,"Motion and Ionization Equilibrium of Hydrogen Atoms in Superstrong
+  Magnetic Field",1.3189329710618589e-06,0.0,0.0,2.0
+nucl-th/9604046,What Do We Learn from Atomic Physics about Fundamental Symmetries?,1.3189329710618589e-06,0.0,0.0,1.0
+atom-ph/9606001,"Evolution of a Bose-condensed gas under variations of the confining
+  potential",1.3189329710618589e-06,0.0,0.0,4.0
+atom-ph/9603009,Decoherence in Ion Trap Quantum Computers,1.3189329710618589e-06,0.0,0.0,1.0
+hep-ph/9604368,Sonoluminescence and the Heimlich Effect,1.3189329710618589e-06,0.0,0.0,9.0
+hep-ph/9607374,Relativistic corrections to the positronium decay rate revisited,1.3189329710618589e-06,0.0,0.0,6.0
+astro-ph/9510124,Hydrogen Molecules In Superstrong Magnetic Field: II. Excitation Levels,1.3189329710618589e-06,0.0,0.0,1.0
+atom-ph/9512003,Conditional Hamiltonian and Reset Operator in the Quantum Jump Approach,1.3189329710618589e-06,0.0,0.0,2.0
+nucl-th/9607028,Exact method for locating potential resonances and Regge trajectories,1.3189329710618589e-06,0.0,0.0,1.0
+atom-ph/9604005,"Limits on the monopole magnetic field from measurements of the electric
+  dipole moments of atoms, molecules and the neutron",1.3189329710618589e-06,0.0,0.0,2.0
+atom-ph/9604001,An Atom Laser Based on Raman Transitions,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9511058,Phase ordering kinetics of the Bose gas,1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/9605150,"Some exact analytic results for the linear and non-linear response of
+  atoms in a trap with a model interaction",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9605170,Collective excitations of atomic Bose-Einstein condensates,1.3189329710618589e-06,0.0,0.0,3.0
+hep-ex/9602002,"Atomic Electron Motion for M\""oller Polarimetry in a Double-Arm Mode",1.3189329710618589e-06,0.0,0.0,2.0
+atom-ph/9601004,"Dynamics, correlations and phases of the micromaser",1.3189329710618589e-06,0.0,0.0,1.0
+atom-ph/9602002,Stimulated Enhancement of Cross-Section by a Bose-Einstein Condensate,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/9511009,"Pauli-Potential and Green Function Monte-Carlo Method for Many-Fermion
+  Systems",1.3189329710618589e-06,0.0,0.0,1.0
+atom-ph/9603002,Quantum Reservoir Engineering,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/9608027,On a Generalized Oscillator System: Interbasis Expansions,1.3189329710618589e-06,0.0,0.0,1.0
+astro-ph/9601009,"Atomic Data for Astrophysics. II. New Analytic Fits for Photoionization
+  Cross Sections of Atoms and Ions",1.3189329710618589e-06,0.0,0.0,1.0
+hep-ph/9603402,Singularity-Free Breit Equation from Constraint Two-Body Dirac Equations,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9601009,"The semiclassical resonance spectrum of Hydrogen in a constant magnetic
+  field",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9607114,Stability of Bose condensed atomic Li-7,1.3189329710618589e-06,0.0,0.0,1.0
+astro-ph/9509083,"Atomic data for astrophysics. I. Radiative recombination rates for
+  H-like, He-like, Li-like and Na-like ions over a broad range of temperature",,,,
+atom-ph/9509001,2-2 and 2-3 Intercombination Transitions in Be-like Ions,,,,
+atom-ph/9509002,"Conventional Quantum Chemical Correlation Energy versus
+  Density-Functional Correlation Energy",,,,
+atom-ph/9509003,Nuclear spin--rotation interaction in the hydrogen molecular ion,,,,
+atom-ph/9509004,"Hyperspherical Close-Coupling Calculation of D-wave Positronium
+  Formation and Excitation Cross Sections in Positron-Hydrogen Scattering",,,,
+atom-ph/9509005,Squeezing in the interaction of radiation with two-level atoms,,,,
+atom-ph/9509006,"Electron impact excitation cross sections for allowed transitions in
+  atoms",,,,
+atom-ph/9510001,"Quantum state diffusion with a moving basis: computing quantum-optical
+  spectra",,,,
+atom-ph/9510002,Quantum uncertainties in coupled harmonic oscillator,,,,
+atom-ph/9510003,Band Gaps for Atoms in Light based Waveguides,,,,
+atom-ph/9510004,"Introduction to light forces, atom cooling, and atom trapping",,,,
+atom-ph/9511002,Two-Photon Spectroscopy Between States of Opposite Parities,,,,
+atom-ph/9512001,The Periodic Table in Flatland,,,,
+atom-ph/9512002,"Coulomb Energy Averaged over the $n\ell^N$-Atomic States with a Definite
+  Spin",,,,
+atom-ph/9601001,Motion Tomography of a single trapped ion,,,,
+atom-ph/9601002,"Adiabatic mechanism of the multiply charged ion production by a laser
+  field through ATI states of an atom",,,,
+atom-ph/9601003,ATI as a source for multiply charged ion production in a laser field,,,,
+atom-ph/9601005,Atomic Data and Databases on the Internet: Entering 1996,,,,
+atom-ph/9602001,"Prospects for Parity Non-conservation Experiments with Highly Charged
+  Heavy Ions",,,,
+atom-ph/9603001,Ionization of hydrogen and hydrogenic ions by antiprotons,,,,
+atom-ph/9603003,Direct Probing of Quantum Phase Space by Photon Counting,,,,
+atom-ph/9603004,Interaction of Charged 3D Soliton with Coulomb Center,,,,
+atom-ph/9603005,"Density Matrix Functional Calculations for Matter in Strong Magnetic
+  Fields: I. Atomic Properties",,,,
+atom-ph/9603006,Giant Coulomb broadening and Raman lasing on ionic transitions,,,,
+atom-ph/9603007,"TM-Surface Waves along the Boundary between two Nonlinear Anisotropic
+  Dielectrics",,,,
+atom-ph/9603008,Some remarks on the two-electron atom,,,,
+atom-ph/9604002,Hall-Effect for Neutral Atoms,,,,
+atom-ph/9604003,"Atomic Data for Permitted Resonance Lines of Atoms and Ions from H to
+  Si, and S, Ar, Ca and Fe",,,,
+atom-ph/9604004,Evanescent wave diffraction of multi-level atoms,,,,
+atom-ph/9604006,Electromagnetic modes of Maxwell fisheye lens,,,,
+atom-ph/9604007,Interaction of a slow monopole with a hydrogen atom,,,,
+atom-ph/9604008,Right-unitary transformation theory and applications,,,,
+atom-ph/9605001,"Ionization of the hydrogen atom in strong magnetic fields: beyond the
+  adiabatic approximation",,,,
+atom-ph/9605002,Frequency Separation for Relaxation Problems,,,,
+atom-ph/9605003,Problems with Standard Semiclassical Stark Broadening Theory,,,,
+atom-ph/9605004,UV and X-ray Spectral Lines of FeXXIII Ion for Plasma Diagnostics,,,,
+atom-ph/9605005,Hyperfine interactions between electrons,,,,
+atom-ph/9605006,Actio causes reactio: Gravito-optical trapping of three-level atoms,,,,
+atom-ph/9605007,Single-Mode Cavity-QED of a Raman Interaction,,,,
+atom-ph/9605008,"Influence of nearly resonant light on the scattering length in
+  low-temperature atomic gases",,,,
+atom-ph/9605009,Three-body recombination of ultra-cold atoms to a weakly bound $s$ level,,,,
+atom-ph/9605010,"Analytic Description of the Motion of a Trapped Ion in an Even or Odd
+  Coherent State",,,,
+atom-ph/9606002,Influence of radiative interatomic collisions on an atom laser,,,,
+atom-ph/9606003,"Bloch oscillations: atom optical interpretation, realizations, and
+  applications",,,,
+atom-ph/9606004,Continuous Observation of Interference Fringes from Bose Condensates,,,,
+atom-ph/9606005,Interference of Bose condensates,,,,
+atom-ph/9606006,"Analytic Description of the Motion of a Trapped Ion in an Even or Odd
+  Squeezed State",,,,
+atom-ph/9606008,Electron Impact Excitation Cross Sections for Hydrogen-Like Ions,,,,
+atom-ph/9606009,The energy dependence of relativistic nonradiative electron capture,,,,
+atom-ph/9607002,"Variational calculations of dispersion coefficients for interactions
+  between H, He, and Li atoms",,,,
+atom-ph/9607004,"Ursell Operators in Statistical Physics III: thermodynamic properties of
+  degenerate gases",,,,
+atom-ph/9607005,"Nature of the Darwin term and ${(Z\alpha)^4 m^3/M^2}$ contribution to
+  the Lamb shift for an arbitrary spin of the nucleus",,,,
+atom-ph/9607006,Spin-rotation coupling in ferromagnetic clusters,,,,
+atom-ph/9608001,A magnetic tomography of a cavity state,,,,
+atom-ph/9608002,"Quantized Fields in a Nonlinear Dielectric Medium: A Microscopic
+  Approach",,,,
+atom-ph/9609001,Operational Theory of Homodyne Detection,,,,
+atom-ph/9609002,"Can We Distinguish Between the Grand Canonical and the Canonical
+  Ensemble in a BEC Experiment?",,,,
+chao-dyn/9608009,"Chaotic features in classical scattering processes between ions and
+  atoms",,,,
+chem-ph/9512002,"Fractal Dimension of Disordered Submonolayers: Determination from He
+  Scattering Data",,,,
+chem-ph/9512003,"Optical Theorem and the Inversion of Cross Section Data for Atom
+  Scattering from Defects on Surfaces",,,,
+chem-ph/9603001,"Correlation Energy Estimators based on M{\o}ller-Plesset Perturbation
+  Theory",,,,
+chem-ph/9605003,"Extended Two--Particle Green's Functions and Optical Potentials for
+  Two--Particle Scattering by Many--Body Targets",,,,
+chem-ph/9605004,On the Stability of Endohedral Rare Gas Fullerenes,,,,
+cond-mat/9607045,"Separation of the Exchange-Correlation Potential into Exchange plus
+  Correlation: an Optimized Effective Potential Approach",,,,
+hep-ph/9602254,"QED in Optically Active Media: Enhanced Spontaneous Emission and Chiral
+  Yet Parity Conserving Corrections to the Electron Mass",,,,
+hep-ph/9605307,Binary Boosts,,,,
+mtrl-th/9603004,Vibrational Spectra of Defects in Silicon: An Orbital Radii Approach,,,,
+mtrl-th/9604002,On The Low-Frequency Vibrational Modes of C$_{60}$,,,,
+nucl-th/9512015,"Energy Loss, Electron Screening, and the Astrophysical 3He(d,p)4He cross
+  section",,,,
+nucl-th/9512030,Variational calculation of antiprotonic helium atoms,,,,
+nucl-th/9601046,"Collective T- and P- Odd Electromagnetic Moments in Nuclei with Octupole
+  Deformations",,,,
+nucl-th/9609036,Pion-pair formation and the pion dispersion relation in a hot pion gas,,,,
+quant-ph/9510025,"Generalized Unruh effect and Lamb shift for atoms on arbitrary
+  stationary trajectories",,,,
+quant-ph/9511017,Quantum state measurement by realistic heterodyne detection,,,,
+quant-ph/9512013,Quantum State Diffusion and Time Correlation Functions,,,,
+quant-ph/9604009,"On the absence of bound-state stabilization through short ultra-intense
+  fields",,,,
+quant-ph/9606005,"Mean Field and Collisional Dynamics of Interacting Fermion-Boson systems
+  in a Soluble Model",,,,
+quant-ph/9606019,"A Proposed Experiment Showing that Classical Fields Can Violate Bell's
+  Inequalities",,,,
+quant-ph/9606020,Violation of Bell's Inequalities with a Local Theory of Photons,,,,
+quant-ph/9606035,The Canonical Form of the Rabi Hamiltonian,,,,
+quant-ph/9609011,On the Influence of Pulse Shapes on Ionization Probability,,,,
