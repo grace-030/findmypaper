@@ -1,0 +1,65 @@
+source,target,weight,raw_count
+AO,AO,0.000291665497666676,499
+Adaptation and Self-Organizing Systems,AO,0.0004549133356146898,335
+Adaptation and Self-Organizing Systems,Adaptation and Self-Organizing Systems,0.0007319327757604056,232
+AO,Adaptation and Self-Organizing Systems,0.0003177603598024997,234
+SI,SI,0.00025887543899583766,4076
+PS,SI,1.6201829519467052e-05,146
+Chaotic Dynamics,Chaotic Dynamics,0.00014397791727230625,785
+Chaotic Dynamics,CD,8.69181811924088e-05,1168
+CD,Chaotic Dynamics,5.893767080855117e-05,792
+CD,CD,7.249390663201492e-05,2401
+CD,PS,2.0276052719267337e-05,265
+Pattern Formation and Solitons,Pattern Formation and Solitons,0.00017440052977320348,69
+Pattern Formation and Solitons,PS,9.940782339570124e-05,142
+PS,Pattern Formation and Solitons,4.9003856603514695e-05,70
+PS,PS,0.00010489698282539733,541
+Chaotic Dynamics,AO,2.095488805505897e-05,64
+CD,AO,1.4081625604115024e-05,106
+Chaotic Dynamics,CG,1.643225034533401e-05,16
+CD,CG,1.541772663537285e-05,37
+Pattern Formation and Solitons,SI,1.682778604030976e-05,42
+CD,SI,6.174504638322917e-06,141
+PS,Chaotic Dynamics,6.223145007764788e-06,33
+PS,CD,8.339961307170338e-06,109
+Pattern Formation and Solitons,Chaotic Dynamics,2.2468620528829623e-05,33
+Pattern Formation and Solitons,CD,1.3260053123087824e-05,48
+SI,PS,1.720057243505064e-05,155
+AO,PS,9.762771388212228e-06,29
+SI,Chaotic Dynamics,2.6982454928507287e-06,25
+SI,CD,3.4594742299823436e-06,79
+SI,Pattern Formation and Solitons,7.612569875378225e-06,19
+Adaptation and Self-Organizing Systems,CG,0.00014908144532331505,35
+AO,CG,0.00010267015745202004,56
+Chaotic Dynamics,PS,2.50811601828096e-05,133
+CG,CG,0.0006728430205475907,117
+Chaotic Dynamics,SI,3.88547350970505e-06,36
+Chaotic Dynamics,Adaptation and Self-Organizing Systems,1.7495749673856407e-05,23
+CD,Adaptation and Self-Organizing Systems,7.09862302145173e-06,23
+AO,SI,5.9728593272171254e-06,31
+Adaptation and Self-Organizing Systems,SI,9.400246375981206e-06,21
+PS,Adaptation and Self-Organizing Systems,9.385463325128874e-06,12
+PS,AO,1.1109360545207018e-05,33
+Pattern Formation and Solitons,Adaptation and Self-Organizing Systems,3.3886148189773726e-05,12
+Pattern Formation and Solitons,AO,2.0662864699561946e-05,17
+SI,AO,2.890093222846996e-06,15
+SI,Adaptation and Self-Organizing Systems,3.1334154586604023e-06,7
+Chaotic Dynamics,Pattern Formation and Solitons,1.0893876620038606e-05,16
+CD,Pattern Formation and Solitons,4.420017707695942e-06,16
+Adaptation and Self-Organizing Systems,CD,1.7283603878317255e-05,56
+AO,CD,1.1823251686473934e-05,89
+CG,CD,1.0000687547268875e-05,24
+Adaptation and Self-Organizing Systems,Chaotic Dynamics,2.434191258971326e-05,32
+AO,Chaotic Dynamics,1.0477444027529485e-05,32
+Adaptation and Self-Organizing Systems,PS,2.3463658312822186e-06,3
+Adaptation and Self-Organizing Systems,Pattern Formation and Solitons,5.647691364962288e-06,2
+AO,Pattern Formation and Solitons,2.4309252587719937e-06,2
+CG,PS,7.391708825805934e-06,7
+CG,AO,3.30011220381493e-05,18
+CG,SI,5.4391970294731955e-06,9
+SI,CG,7.252262705964261e-06,12
+CG,Pattern Formation and Solitons,3.8125302619589543e-06,1
+CG,Chaotic Dynamics,4.108062586333502e-06,4
+PS,CG,2.4287043284790926e-05,23
+Pattern Formation and Solitons,CG,3.812530261958954e-05,10
+CG,Adaptation and Self-Organizing Systems,4.259469866380431e-06,1
