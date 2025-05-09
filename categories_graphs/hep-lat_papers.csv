@@ -1,0 +1,1333 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+hep-ph/0412158,Heavy Quarkonium Physics,0.0003745056523094,0.0032736918218251,928.0,179.0
+cond-mat/9707221,The Loop Algorithm,0.0001886825825843,0.0012924929783002,140.0,42.0
+cond-mat/0012164,Critical Phenomena and Renormalization-Group Theory,0.0001810560300707,0.0034247502594734,302.0,101.0
+hep-th/0608202,"Numerical simulations of a non-commutative theory: the scalar model on
+  the fuzzy sphere",0.0001494169424672,2.7492237378831444e-06,89.0,3.0
+hep-ph/0703225,New Hadron States,0.0001362416544918,2.532497543150054e-07,52.0,1.0
+hep-th/0701175,Matrix Models and QCD with Chemical Potential,0.0001310386803873,1.990182755160072e-06,113.0,1.0
+hep-lat/0104009,Contents of Lattice 2000 Proceedings,0.0001122588501235,0.0,154.0,0.0
+nucl-th/0703073,"Chiral Perturbation Theory and the first moments of the Generalized
+  Parton Distriputions in a Nucleon",0.0001105838087211,0.0,10.0,0.0
+hep-ph/0612224,"Chiral behavior of the B(s,d)-Bbar(s,d) mixing amplitude in the Standard
+  Model and beyond",0.0001081139460553,2.6387675021645013e-07,52.0,1.0
+hep-th/0701191,"Nonlinear Aspects of the Renormalization Group Flows of Dyson's
+  Hierarchical Model",0.0001056324348334,2.024203556709627e-06,55.0,2.0
+hep-ph/0611072,"Lattice QCD, Chiral Perturbation Theory and Hadron Phenomenology",0.0001047817723248,6.400252762890523e-07,73.0,1.0
+hep-th/0703209,"Monte Carlo approach to nonperturbative strings -- demonstration in
+  noncritical string theory",9.161298870256944e-05,0.0,45.0,0.0
+hep-lat/0603008,Lattice QCD with fixed topology,8.891796580150106e-05,1.6683435886546322e-05,114.0,5.0
+hep-lat/0307027,Meson and Baryon Spectroscopy on a Lattice,8.875708534257095e-05,0.0004084204688424,228.0,11.0
+hep-lat/0608010,Topics in Effective Field Theory for Lattice QCD,8.723704249844e-05,7.249580134286611e-07,204.0,3.0
+hep-lat/0703006,"Non-perturbative improvement of the axial current with three dynamical
+  flavors and the Iwasaki gauge action",8.484465380879686e-05,2.727846114147271e-06,37.0,1.0
+hep-ph/0611216,Effective potential between two gluons from the scalar glueball,8.282634999725264e-05,1.2067871670276467e-06,29.0,2.0
+hep-lat/0612028,"Matrix elements of the complete set of \Delta B = 2 and \Delta C = 2
+  operators in heavy meson chiral perturbation theory",8.223320587124088e-05,6.591579798996868e-08,26.0,1.0
+nucl-th/0611055,Overview of Non-Relativistic QCD,8.058692630595013e-05,0.0007279200401712,83.0,1.0
+hep-ph/0606043,Dyons near the Planck scale,7.938256986235799e-05,1.2808353355272052e-07,27.0,1.0
+hep-lat/0701006,Advances and applications of lattice supersymmetry,7.654859906115848e-05,0.0,75.0,0.0
+cond-mat/0611707,Universality class of 3D site-diluted and bond-diluted Ising systems,7.599698137996484e-05,0.0,26.0,0.0
+hep-th/9905111,"Large N Field Theories, String Theory and Gravity",7.511949898306279e-05,0.0093355361845536,598.0,1338.0
+hep-lat/0612017,Lattice QCD at finite density: imaginary chemical potential,7.460827505503664e-05,8.129424842169311e-07,60.0,2.0
+nucl-th/0612051,The nucleon-nucleon potential beyond the static approximation,7.329521950275428e-05,0.0,53.0,0.0
+hep-ph/0611310,Heavy Hadron Spectroscopy,7.15449710747284e-05,3.061700776344368e-07,116.0,1.0
+hep-ph/0605173,Infrared Properties of QCD from Dyson-Schwinger equations,7.041905086892224e-05,0.0003202730203713,139.0,20.0
+hep-th/0608072,"A non-perturbative study of 4d U(1) non-commutative gauge theory -- the
+  fate of one-loop instability",6.950618881563585e-05,2.408021586173798e-05,131.0,8.0
+nucl-th/0409021,Bridges from Lattice QCD to Nuclear Physics,6.938489573003748e-05,0.0,117.0,0.0
+hep-ph/0608297,Can the X(3872) be a 1^{++} four-quark state?,6.875884789348425e-05,3.668629477384692e-06,29.0,3.0
+hep-lat/0611020,"Non-perturbative QCD: renormalization, O(a)-improvement and matching to
+  Heavy Quark Effective Theory",6.853227390023748e-05,2.0757771084208704e-06,147.0,3.0
+hep-lat/0611003,Two Meson Systems with Ginsparg-Wilson Valence Quarks,6.828840607737522e-05,1.545822260609203e-06,81.0,3.0
+hep-th/0703229,"Non-Perturbative Planar Equivalence and the Absence of Closed String
+  Tachyons",6.47147206951178e-05,0.0,34.0,0.0
+hep-ph/0703228,"Deconfinement transition for nonzero baryon density in the Field
+  Correlator Method",6.401894496265856e-05,3.186952556403019e-07,20.0,1.0
+hep-ph/0312303,"CKM Phenomenology and B-Meson Physics - Present Status and Current
+  Issues",6.207521032347288e-05,6.704571547659364e-05,226.0,16.0
+hep-th/0609205,"Quantum Field Theory in a Non-Commutative Space: Theoretical Predictions
+  and Numerical Results on the Fuzzy Sphere",6.180775171502805e-05,7.018936630258243e-07,79.0,3.0
+hep-ph/0606042,Composite model of quark-leptons and duality,6.176206038586994e-05,2.1619722095157973e-07,13.0,1.0
+hep-ph/0611231,Chiral perturbation theory,6.0178092031998354e-05,7.873314417245815e-06,99.0,9.0
+cond-mat/0509682,"Multicritical behavior in the fully frustrated XY model and related
+  systems",6.014418184939448e-05,5.1982385395972036e-08,48.0,1.0
+hep-lat/0703020,Infra-red divergences in the large-N expansion,5.912691968907112e-05,0.0,50.0,0.0
+hep-th/0604093,"Probability distribution of the index in gauge theory on 2d
+  non-commutative geometry",5.910085284560918e-05,1.4540253990006674e-05,119.0,6.0
+hep-th/0703025,"Phases of $\Nc= \infty$ QCD-like gauge theories on $S^3 \times S^1$ and
+  nonperturbative orbifold-orientifold equivalences",5.835739486523405e-05,3.562350336801774e-07,42.0,1.0
+cond-mat/0612656,Dynamic crossover in the global persistence at criticality,5.645178383003461e-05,0.0,1.0,0.0
+hep-lat/0612023,Hot QCD and warm dark matter,5.576368977649719e-05,0.0,61.0,0.0
+hep-lat/0702022,"Infrared properties of propagators in Landau-gauge pure Yang-Mills
+  theory at finite temperature",5.555469976267543e-05,8.531684282302014e-07,61.0,2.0
+hep-lat/0507031,Effective Field Theories for Quantum Chromodynamics on the Lattice,5.517184207188811e-05,2.024535516151153e-05,48.0,5.0
+hep-th/0602078,"The index of the overlap Dirac operator on a discretized 2d
+  non-commutative torus",5.500754710030207e-05,2.574925122338765e-05,135.0,6.0
+hep-lat/0702014,Light dynamical fermions on the lattice: toward the chiral regime of QCD,5.379724874453701e-05,3.475288978924353e-07,53.0,1.0
+hep-lat/0701011,"Infrared-suppressed gluon propagator in 4d Yang-Mills theory in a
+  Landau-like gauge",5.31833884303044e-05,2.987847623469545e-07,48.0,2.0
+hep-lat/0607016,Applications of Chiral Perturbation theory to lattice QCD,5.202291799483624e-05,2.4441597443244564e-05,90.0,9.0
+hep-lat/0611036,"Non-perturbative renormalization of the static axial current in
+  two-flavour QCD",5.199896027766132e-05,2.277964029663571e-07,47.0,2.0
+hep-ph/0410017,"Helicity Dependent and Independent Generalized Parton Distributions of
+  the Nucleon in Lattice QCD",5.157535584273825e-05,1.4224644855974948e-05,34.0,14.0
+hep-lat/0610097,"Modified SO(3) Lattice Gauge Theory at non zero T with Parallel
+  Tempering: Monopole and Vortex Condensation",5.12028029916097e-05,4.4014969826966494e-06,37.0,3.0
+hep-ph/0702245,Magnetic strings as part of Yang-Mills plasma,5.010159513664301e-05,0.0,28.0,0.0
+hep-ph/0311212,Chiral Dynamics: Theory and Experiment (CD2003),4.947746171884933e-05,0.0011137237736941,144.0,10.0
+hep-th/0607014,Study of the flux tube thickness in 3d LGT's by means of 2d spin models,4.898782766119076e-05,4.968735879930285e-07,16.0,2.0
+hep-lat/0609016,The infrared behavior of lattice QCD Green's functions,4.8638626500106734e-05,4.186219405164391e-06,120.0,9.0
+hep-lat/0611030,"Optimised Dirac Operators on the Lattice: Construction, Properties and
+  Applications",4.846640880007184e-05,1.3000691881193051e-06,24.0,2.0
+hep-ph/0605161,Are Preons Dyons? Naturalness of Three Generations,4.797181339225034e-05,3.897599188289162e-07,54.0,2.0
+hep-lat/0611011,Lattice Formulation of Two Dimensional Topological Field Theory,4.759616633001766e-05,2.0019969336591566e-06,70.0,1.0
+hep-lat/0610050,"2+1 flavor light hadron spectrum and quark masses with the O(a) improved
+  Wilson-clover quark formalism",4.66225570012729e-05,7.376633589871989e-07,1.0,5.0
+hep-lat/0610015,"First results with two light flavours of quarks with maximally twisted
+  mass",4.660649929567306e-05,6.133130955397393e-07,47.0,10.0
+gr-qc/0611075,"Quantum Gravity and Matter: Counting Graphs on Causal Dynamical
+  Triangulations",4.566588505439138e-05,5.008048271502709e-07,27.0,1.0
+hep-ph/0512256,QCD Tests of the Puzzling Scalar Mesons,4.555992462551194e-05,2.9046068665082395e-05,35.0,13.0
+hep-ph/0610323,Model study of the sign problem in the mean-field approximation,4.539973111888349e-05,5.799703849229044e-06,77.0,2.0
+hep-lat/0607035,Charm as a domain wall fermion in quenched lattice QCD,4.531921804045751e-05,0.0005065797194284,84.0,8.0
+hep-ph/0511267,"Generalized dual symmetry of nonabelian theories and the freezing of
+  \alpha_s",4.519040414366842e-05,9.6051109244687e-07,47.0,3.0
+hep-ph/0610132,On two- and three-body descriptions of hybrid mesons,4.507149406413175e-05,2.1938836015427746e-07,34.0,1.0
+hep-lat/0611010,The condensate for two dynamical chirally improved quarks in QCD,4.454255216547854e-05,1.3852747774744263e-06,34.0,3.0
+hep-ph/0610251,Heavy Quarkonium Physics from Effective Field Theories,4.451266367866251e-05,1.9049328234596872e-06,86.0,3.0
+hep-lat/0601022,The CKM matrix and CP violation (in the continuum approximation),4.447206712092556e-05,6.752173463844555e-07,162.0,1.0
+nucl-th/0611087,"Lattice Simulations for Light Nuclei: Chiral Effective Field Theory at
+  Leading Order",4.3943388172717727e-05,4.3842793164585013e-07,67.0,3.0
+hep-lat/0609026,"Perturbative chiral violations for domain-wall QCD with improved gauge
+  actions",4.393764736903762e-05,0.0,34.0,0.0
+nucl-th/0701048,Temperature-dependent errors in nuclear lattice simulations,4.384218372956314e-05,0.0,33.0,0.0
+hep-lat/0702024,The chiral limit in lattice QCD,4.285947884704953e-05,0.0,24.0,0.0
+hep-ph/0505059,"Light Composite Higgs from Higher Representations versus Electroweak
+  Precision Measurements -- Predictions for LHC",4.190235233126585e-05,4.085788425915585e-05,107.0,19.0
+hep-th/0001124,"Lorentzian and Euclidean Quantum Gravity - Analytical and Numerical
+  Results",4.153844438668448e-05,2.421059316714713e-05,76.0,20.0
+hep-lat/0511058,"The critical region of strong-coupling lattice QCD in different large-N
+  limits",4.143410007186365e-05,1.78658160848125e-05,22.0,5.0
+hep-lat/0612007,Meson spectral functions with chirally symmetric lattice fermions,4.142863029006819e-05,0.0,41.0,0.0
+hep-lat/0610094,"Rooted staggered fermions: good, bad or ugly?",4.138721607026682e-05,4.990987502091289e-05,65.0,22.0
+hep-th/0610267,An Electroweak Oscillon,4.11506461549796e-05,7.359393938845994e-07,31.0,2.0
+hep-lat/0604001,Decay constants of P-wave heavy-light mesons from unquenched lattice QCD,4.028141579394552e-05,2.4928627589643183e-06,45.0,3.0
+nucl-th/0703094,B- to light-meson transition form factors,4.02443593686071e-05,0.0,6.0,0.0
+hep-th/0405277,"Dynamical aspects of the fuzzy CP$^{2}$ in the large $N$ reduced model
+  with a cubic term",4.007703803351233e-05,9.112065689990788e-05,86.0,24.0
+hep-th/0609059,"A new Chiral Two-Matrix Theory for Dirac Spectra with Imaginary Chemical
+  Potential",3.950498802364116e-05,2.895995529844086e-06,46.0,5.0
+hep-lat/0702010,Radial and orbital excitations of static-light mesons,3.944888078074965e-05,1.171469750555447e-06,29.0,1.0
+hep-th/0510240,"A study of the gauge invariant, nonlocal mass operator $Tr \int d^4x
+  F_{\mu\nu}(D^2)^{-1} F_{\mu\nu}$ in Yang-Mills theories",3.938288068726383e-05,5.709890972037613e-06,63.0,5.0
+hep-lat/0505012,Observation of String Breaking in QCD,3.923370296903974e-05,0.002271392924551,82.0,18.0
+hep-lat/0701015,"Decay constants of charm and beauty pseudoscalar heavy-light mesons on
+  fine lattices",3.908534502183269e-05,1.0750144614204248e-07,38.0,1.0
+hep-th/0601191,"The partition function of interfaces from the Nambu-Goto effective
+  string theory",3.908032998462871e-05,1.161752093479257e-06,39.0,1.0
+hep-lat/9909033,Five Dimensional Dynamical Triangulations,3.887941744477631e-05,3.980365510320144e-06,39.0,2.0
+hep-lat/0701012,Dynamical Twisted Mass Fermions with Light Quarks,3.864008930086769e-05,9.309716389360083e-07,64.0,5.0
+cond-mat/0611353,Fixed point stability and decay of correlations,3.861531963691896e-05,0.0,30.0,0.0
+hep-lat/0702013,"Spontaneous chiral symmetry breaking in QCD:a finite-size scaling study
+  on the lattice",3.839421692360353e-05,0.0,45.0,0.0
+hep-lat/0211036,Lattice Perturbation Theory,3.806425122221558e-05,5.108595153648174e-05,46.0,22.0
+cond-mat/0703228,Phase diagram of the chromatic polynomial on a torus,3.7513059243754506e-05,0.0,17.0,0.0
+hep-ph/0609175,Complementary strategy of New Physics searches in B-sector,3.695168922082209e-05,0.0,45.0,0.0
+hep-lat/0508033,The effect of sea quarks on the mass of the charm quark from Lattice QCD,3.650423823867531e-05,8.063948326347456e-06,82.0,2.0
+cond-mat/0401026,Spanning forests and the q-state Potts model in the limit q \to 0,3.621655729367743e-05,1.6397342622371368e-05,49.0,10.0
+nucl-th/0611025,"Effective field theory as the bridge between lattice QCD and nuclear
+  physics",3.603235748674527e-05,2.413262631342251e-07,41.0,1.0
+hep-lat/0607004,Multiparticle States and the Hadron Spectrum on the Lattice,3.598603174868259e-05,1.990182755160072e-06,56.0,1.0
+nucl-th/0612063,Baryon-Baryon Interactions from the Lattice,3.548173256138348e-05,0.0,27.0,0.0
+hep-lat/0702017,"Flavour symmetry restoration and kaon weak matrix elements in quenched
+  twisted mass QCD",3.546509324813475e-05,0.0,32.0,0.0
+hep-lat/0301023,The Confinement Problem in Lattice Gauge Theory,3.5406480733211214e-05,0.0002848450439375,135.0,87.0
+hep-lat/0703005,"Hadronic form factors in Lattice QCD at small and vanishing momentum
+  transfer",3.5357506002091505e-05,0.0,30.0,0.0
+hep-lat/0402012,"An estimate of the flavour singlet contributions to the hyperfine
+  splitting in charmonium",3.499234719392653e-05,0.0009134660529266,67.0,12.0
+hep-lat/0608026,A lattice study of the masses of singlet 0++ mesons,3.498851748508684e-05,2.883225272741e-06,51.0,3.0
+hep-lat/0604009,Properties of light scalar mesons from lattice QCD,3.490592120095992e-05,9.949550332324216e-06,45.0,8.0
+hep-th/0610236,"Analytic derivation of dual gluons and monopoles from SU(2) lattice
+  Yang-Mills theory. I. BF Yang-Mills representation",3.4727651163775286e-05,1.042074439023465e-06,34.0,2.0
+hep-lat/0504007,Absence of evidence for pentaquarks on the lattice,3.4683766322958e-05,4.906867467934239e-06,99.0,11.0
+cond-mat/0701331,Spin chain simulations with a meron cluster algorithm,3.445357206214825e-05,0.0,8.0,0.0
+hep-lat/0610043,Generalized Potts-Models and their Relevance for Gauge Theories,3.4345574196285785e-05,9.743003592959267e-07,11.0,2.0
+hep-lat/0609063,Algorithms for dynamical overlap fermions,3.399162684136296e-05,7.787310257766066e-06,41.0,4.0
+hep-lat/0612027,"Generalised parton distributions of the pion in partially-quenched
+  chiral perturbation theory",3.379934234028031e-05,1.04734392071892e-06,42.0,2.0
+hep-lat/0702003,"Two-flavor lattice QCD simulation in the epsilon-regime with exact
+  chiral symmetry",3.378992456350852e-05,8.367857528971237e-07,21.0,4.0
+hep-lat/0703014,Pseudoscalar and vector meson form factors from lattice QCD,3.359853461421847e-05,0.0,30.0,0.0
+hep-lat/0611012,Composite boson dominance in relativistic field theories,3.326788359491938e-05,1.496733084210636e-06,17.0,2.0
+hep-lat/0607027,Probing the chiral weak Hamiltonian at finite volumes,3.325799866560416e-05,1.4342363071551905e-06,75.0,3.0
+cond-mat/0311421,Novel Phases and Old Puzzles in QED3 and related models,3.318021676268552e-05,5.43591385150993e-05,27.0,7.0
+hep-lat/0210026,Heavy Quarks on the Lattice,3.301770538047911e-05,4.407699831290372e-05,115.0,8.0
+hep-ph/0610016,"Generalized Instantaneous Bethe-Salpeter Equation and Exact Quark
+  Propagators",3.29536988453876e-05,0.0,10.0,0.0
+hep-lat/0603013,Unexpected Spin-Off from Quantum Gravity,3.273515532102885e-05,0.0,15.0,1.0
+hep-lat/0204015,"Light hadron spectroscopy in quenched lattice QCD with chiral
+  Fixed-Point fermions",3.271608579529698e-05,1.1510858232180564e-05,113.0,14.0
+hep-lat/0612021,Precision study of the SU(3) topological susceptibility in the continuum,3.271005017699358e-05,0.0,37.0,0.0
+hep-th/0506062,Impact of supersymmetry on the nonperturbative dynamics of fuzzy spheres,3.2495153708370474e-05,8.794929462874599e-06,84.0,9.0
+hep-lat/0402021,Duality and scaling in 3-dimensional scalar electrodynamics,3.229623619332376e-05,8.822760646270247e-06,36.0,2.0
+hep-th/0109162,Quantum Field Theory on Noncommutative Spaces,3.216292833367945e-05,0.0023302478754585,245.0,345.0
+hep-ph/0610139,Lattice approach to threshold states,3.216074552969177e-05,0.0,23.0,0.0
+hep-lat/0607007,"Renormalization-group analysis of the validity of staggered-fermion QCD
+  with the fourth-root recipe",3.214684601939494e-05,7.925852365107276e-06,63.0,17.0
+hep-lat/0507019,"Two-dimensional N=(2,2) super Yang-Mills theory on the lattice via
+  dimensional reduction",3.2126111835589336e-05,3.81489707740641e-06,59.0,11.0
+hep-ph/0703093,Analytical approaches to the calculation of f+(0),3.183069787141599e-05,0.0,27.0,0.0
+hep-ph/0410294,Deconfinement in Matrix Models about the Gross--Witten Point,3.179062916004074e-05,0.0003878557117375,87.0,14.0
+hep-lat/0603027,"Comment on ""Chiral anomalies and rooted staggered fermions""",3.160286274259952e-05,1.7680943356011532e-05,32.0,19.0
+hep-lat/0607017,"The chiral critical line of N_f=2+1 QCD at zero and non-zero baryon
+  density",3.152832554385537e-05,3.032114951724125e-05,29.0,22.0
+hep-lat/0609050,"Color Screening, Casimir Scaling, and Domain Structure in G(2) and SU(N)
+  Gauge Theories",3.135560623876735e-05,1.240771327721278e-06,26.0,3.0
+hep-ph/0001312,QCD forces and heavy quark bound states,3.121815983091134e-05,0.000525969007924,180.0,89.0
+hep-th/0506205,Perturbative versus nonperturbative dynamics of the fuzzy S^2*S^2,3.108714562011844e-05,8.747517763855839e-06,77.0,10.0
+hep-lat/9810065,Status of Heavy Quark Physics on the Lattice,3.104708463059672e-05,2.952591277203235e-05,63.0,34.0
+hep-ph/0701050,Large volume behaviour of Yang-Mills propagators,3.0968438866690275e-05,5.106943422750697e-06,10.0,6.0
+hep-lat/0602007,"Deconstruction and other approaches to supersymmetric lattice field
+  theories",3.0891932299041745e-05,1.0151730542937875e-05,84.0,8.0
+hep-lat/0610058,Progress in Kaon Physics on the Lattice,3.082240602649897e-05,9.417073412325652e-06,45.0,6.0
+hep-lat/0607032,The decay constant of the first excited pion from lattice QCD,3.072600503619596e-05,4.567198641534636e-06,33.0,3.0
+hep-lat/0612009,"Infrared features of unquenched finite temperature lattice Landau gauge
+  QCD",3.07064479167476e-05,7.202492252608557e-07,20.0,3.0
+hep-lat/0612008,"On the restoration of supersymmetry in twisted two-dimensional lattice
+  Yang-Mills theory",3.045216934555445e-05,1.181417849908455e-08,1.0,1.0
+hep-lat/0602001,On the Continuum Limit of Topological Charge Density Distribution,3.0364981277631955e-05,6.652690383350028e-06,36.0,2.0
+hep-lat/0509029,Quark mass dependence of baryon properties,3.0321805703175733e-05,1.979986836376423e-05,63.0,12.0
+cond-mat/0411027,"Harmonic crossover exponents in O(n) models with the pseudo-epsilon
+  expansion approach",3.0262485095687343e-05,3.93114651414052e-06,28.0,1.0
+nucl-th/0611050,Nucleon electromagnetic form factors,3.024921417080556e-05,1.0962137974785717e-05,20.0,10.0
+hep-lat/0307013,Quenched spectroscopy with fixed-point and chirally improved fermions,2.9944944868819664e-05,8.689981183701146e-05,89.0,38.0
+hep-ph/0103141,Finite temperature field theory,2.9687944447114352e-05,0.0001378829898208,56.0,4.0
+hep-th/0206173,"A Confining String Theory Derivable from Yang-Mills Theory due to a
+  Novel Vacuum Condensate",2.9667326157641896e-05,2.62937589415864e-05,78.0,12.0
+hep-th/0703153,The conformal anomaly of k-strings,2.964165942106784e-05,0.0,28.0,0.0
+hep-lat/0607020,Lattice gauge action suppressing near-zero modes of H_W,2.9471368650491603e-05,8.264473218528146e-06,34.0,10.0
+hep-lat/0603026,Electromagnetic and spin polarisabilities in lattice QCD,2.915982976559903e-05,3.616174542369696e-06,50.0,4.0
+hep-ph/0401149,"Effective Lagrangians for QCD: Deconfinement and Chiral Symmetry
+  Restoration",2.9010600368894703e-05,7.491081910066305e-06,40.0,4.0
+hep-ph/0309341,The charmed strange meson system,2.873852200752468e-05,2.429486515059063e-05,57.0,5.0
+hep-lat/0610046,Color superconductivity in ultra-dense quark matter,2.869094463332972e-05,2.097269621755732e-06,82.0,4.0
+hep-lat/0505007,Color Dynamics in External Fields,2.8660912405553813e-05,2.1652536786957166e-06,42.0,2.0
+hep-ph/0312241,Lattice QCD at the end of 2003,2.860626496153011e-05,9.166059499103324e-05,149.0,18.0
+hep-lat/0610115,Heavy flavor physics from lattice QCD,2.8577440371647016e-05,2.7220279697270085e-06,62.0,8.0
+hep-ph/0411126,Recent results from lattice calculations,2.8547789495760257e-05,5.180653055995808e-05,120.0,53.0
+hep-lat/0606012,Moments of pseudoscalar meson distribution amplitudes from the lattice,2.85258106384381e-05,6.405793772892916e-06,48.0,12.0
+hep-lat/0506027,"Filtered overlap: speedup, locality, kernel non-normality and Z_A~1",2.842049384535505e-05,2.2853112767600894e-05,87.0,14.0
+hep-lat/0606014,Gap Domain Wall Fermions,2.8402294536163247e-05,2.260045839264293e-06,53.0,5.0
+hep-ph/0611101,"Generalized parton distributions for the nucleon in chiral perturbation
+  theory",2.832418457898698e-05,1.0525149061226143e-06,37.0,2.0
+hep-lat/0512006,Mass of a quantum 't Hooft-Polyakov monopole,2.832009912931132e-05,5.748240593256495e-06,14.0,2.0
+hep-th/0411030,"Unquenched QCD Dirac Operator Spectra at Nonzero Baryon Chemical
+  Potential",2.8302922308024897e-05,1.844147736739832e-05,72.0,14.0
+hep-ph/0503138,"Phase transition in gauge theories, monopoles and the Multiple Point
+  Principle",2.813971140677053e-05,4.4777770115391164e-06,33.0,5.0
+hep-lat/0406011,Chiral Perturbation Theory on the Lattice and its Applications,2.8011995160575656e-05,9.617310465428115e-06,127.0,4.0
+hep-th/0401038,"Nonperturbative studies of fuzzy spheres in a matrix model with the
+  Chern-Simons term",2.7995578980071035e-05,0.0001015695102175,109.0,32.0
+hep-lat/0205021,Uses of Effective Field Theory in Lattice QCD,2.799532378580856e-05,0.0002158659500246,108.0,25.0
+hep-lat/0507029,"Exact Extended Supersymmetry on a Lattice: Twisted N=2 Super Yang-Mills
+  in Two Dimensions",2.7991102734657092e-05,1.0719140070940297e-05,46.0,21.0
+hep-lat/0609043,Landau Gauge Gluon and Ghost Propagators from Lattice QCD,2.7975858983558662e-05,2.8412380834145703e-06,49.0,7.0
+hep-ph/0607100,Meson-baryon scattering lengths in HB$\chi$PT,2.7949223992082372e-05,0.0,6.0,0.0
+hep-lat/0702006,Energies and radial distributions of B_s mesons on the lattice,2.7920624636261284e-05,4.950703371044954e-10,3.0,1.0
+hep-ph/0306150,Strings In Baryons And Matrix Coordinates,2.7879766179005062e-05,5.531634646097558e-07,39.0,2.0
+hep-ph/0212026,Instantons at work,2.7851390915399424e-05,0.0002181525257171,74.0,55.0
+hep-lat/0609073,"Mobility edge and locality of the overlap-Dirac operator with and
+  without dynamical overlap fermions",2.7685154094372685e-05,2.614497075254787e-07,13.0,1.0
+hep-lat/0408044,"Amplitude ratios for the mass spectrum of the 2d Ising model in the
+  high-T, H \neq 0 phase",2.7494598714848205e-05,4.424123898681302e-06,20.0,3.0
+hep-ph/0206237,First lattice QCD estimate of the g_{D^* D pi} coupling,2.7350506632145295e-05,1.590299379660297e-05,31.0,23.0
+hep-lat/0206025,Chiral measurements in quenched lattice QCD with Fixed Point fermions,2.732256011087173e-05,4.644948321552271e-05,118.0,8.0
+hep-lat/0607010,Twisted supersymmetric sigma model on the lattice,2.730277192555116e-05,2.452609502347212e-07,42.0,2.0
+hep-ph/0501009,The chiral limit of QCD and above,2.7265836881009493e-05,2.1180770630274804e-05,39.0,3.0
+hep-lat/0605004,"A deconstruction lattice description of the D1/D5 brane world-volume
+  gauge theory",2.7142745873690246e-05,3.703426557719711e-07,31.0,2.0
+hep-lat/0511016,Exploring Topology Conserving Gauge Actions for Lattice QCD,2.703376813618308e-05,3.438496119956057e-05,20.0,6.0
+cond-mat/0502327,"Instability of the O(5) multicritical behavior in the SO(5) theory of
+  high-Tc superconductors",2.70337286130771e-05,2.0150302727122157e-06,4.0,2.0
+hep-ph/0506066,Gluons at finite temperature in Landau gauge Yang--Mills theory,2.693882911376827e-05,2.5496636155237054e-06,81.0,6.0
+hep-ph/0311268,Mesonic correlation lengths in high-temperature QCD,2.688682089712895e-05,1.2694719274943006e-05,67.0,9.0
+hep-th/0311223,"Deconfining Phase Transition as a Matrix Model of Renormalized Polyakov
+  Loops",2.681511894774038e-05,0.0018982783991824,102.0,35.0
+hep-th/0105267,Dynamically Triangulating Lorentzian Quantum Gravity,2.675061763235289e-05,1.1626893528759814e-06,32.0,38.0
+hep-th/0406216,Heisenberg-Euler Effective Lagrangians : Basics and Extensions,2.667209514061068e-05,5.541861615350841e-05,77.0,32.0
+hep-th/0304178,Can Renormalization Group Flow End in a Big Mess?,2.667207359264033e-05,0.000123313501793,70.0,13.0
+hep-ph/0506004,Duality violations and spectral sum rules,2.6637152518411277e-05,4.688073920535769e-06,30.0,12.0
+hep-lat/0610076,Exceptional Deconfinement in G(2) Gauge Theory,2.6482994899832872e-05,1.7982291727154942e-06,5.0,1.0
+hep-lat/0506003,Topological charge in 1+1 dimensional lattice $\phi^4$ theory,2.6428337193480665e-05,4.59261933367973e-07,9.0,1.0
+hep-lat/0605007,"Leptonic widths of heavy quarkonia: S-Wave QCD/NRQCD matching
+  coefficients for the electromagnetic vector annihilation current at O(alpha_s
+  v^2)",2.6367020179622056e-05,4.2746862436879975e-08,18.0,1.0
+hep-lat/0607033,"The 4-D Layer Phase as a Gauge Field Localization: Extensive Study of
+  the 5-D Anisotropic U(1) Gauge Model on the Lattice",2.636181553298516e-05,9.569769757762467e-07,26.0,3.0
+hep-lat/0601023,"High precision Monte Carlo simulations of interfaces in the
+  three-dimensional Ising model: a comparison with the Nambu-Goto effective
+  string model",2.631143690210461e-05,0.0,39.0,1.0
+hep-ph/0505256,"Dense Quarks, and the Fermion Sign Problem, in a SU(N) Matrix Model",2.616820986449113e-05,8.721875787224585e-06,73.0,4.0
+hep-lat/0609008,Hadronic decays from the lattice,2.6029277941891563e-05,1.360553865524584e-06,16.0,1.0
+hep-lat/0702001,"A semi-variational approach to QCD at finite temperature and baryon
+  density",2.5987165401323724e-05,3.048226346111464e-06,22.0,2.0
+hep-lat/0610109,Twisted mass QCD for weak matrix elements,2.5958690358652844e-05,1.1405382215678432e-06,37.0,3.0
+hep-lat/0503022,Chiral Extrapolations and the Covariant Small Scale Expansion,2.5903646520884594e-05,4.3456460664425245e-05,29.0,12.0
+hep-lat/0511002,Twisted mass lattice QCD: Recent developments and results,2.585282390027477e-05,8.99565473767245e-06,74.0,17.0
+hep-th/0303256,Noncommutative Solitons and D-branes,2.584618584656669e-05,0.0002377635480433,147.0,27.0
+hep-lat/0509020,Laplacian modes probing gauge fields,2.5832953601807534e-05,2.0612401543022904e-06,40.0,3.0
+hep-lat/0701022,The density of states method at non-zero chemical potential,2.583024796910109e-05,1.094744392431328e-06,32.0,3.0
+hep-ph/0511067,Phase transition in the Higgs model of scalar dyons,2.5804582364544005e-05,1.0564112114104222e-08,18.0,3.0
+hep-lat/0703004,The Sign Problem via Imaginary Chemical Potential,2.577436970472181e-05,0.0,33.0,0.0
+hep-ph/0012026,A Short Introduction to Non-Relativistic Effective Field Theories,2.57133672900638e-05,7.45940540279894e-06,70.0,12.0
+hep-th/0303251,"Implications of Analyticity to Mass Gap, Color Confinement and Infrared
+  Fixed Point in Yang--Mills theory",2.5629695435070456e-05,3.772705302215356e-05,80.0,27.0
+hep-ph/0406184,"CP Violation and the CKM Matrix: Assessing the Impact of the Asymmetric
+  B Factories",2.5603827667203408e-05,0.0014583422596749,69.0,200.0
+hep-lat/0508002,Glueball Regge Trajectories,2.551780126469561e-05,6.102490194359179e-06,87.0,7.0
+hep-lat/0602017,Finite volume effects for the pion mass at two loops,2.535406568751476e-05,1.6285717913592468e-06,27.0,3.0
+hep-lat/0703022,"Scaling behavior and positivity violation of the gluon propagator in
+  full QCD",2.5250235733849627e-05,6.294050339025996e-06,40.0,2.0
+hep-lat/0412041,Anomalous gauge theories revisited,2.5127452482275866e-05,2.8649039378418254e-07,48.0,2.0
+hep-ph/0509114,From confining fields back to power corrections,2.491351893208385e-05,0.000501431890513,33.0,7.0
+hep-th/0609212,"A study of the maximal Abelian gauge in SU(2) Euclidean Yang-Mills
+  theory in the presence of the Gribov horizon",2.4900898685351354e-05,4.809268945201323e-08,40.0,2.0
+hep-lat/0603023,"Unquenched determination of the kaon parameter B_K from improved
+  staggered fermions",2.481640730335084e-05,3.431970737801103e-06,48.0,5.0
+hep-lat/0103035,The Local Bosonic Algorithm applied to the massive Schwinger model,2.4794540312510005e-05,7.07986844456942e-08,53.0,3.0
+hep-lat/0510077,The QCD phase diagram at zero and small baryon density,2.4746138778586835e-05,5.813038804504806e-05,63.0,30.0
+hep-lat/0608004,Charmonia from Lattice QCD,2.473871182913537e-05,0.0,24.0,0.0
+hep-lat/0606022,"Chiral violations in domain-wall QCD from one-loop perturbation theory
+  at finite $N_s$",2.4581919880794963e-05,5.032282841240464e-07,50.0,2.0
+hep-th/0509010,The Universe from Scratch,2.444733264449253e-05,1.1400331667390996e-05,56.0,9.0
+hep-lat/0701004,"Chiral Lattice Gauge Theories and The Strong Coupling Dynamics of a
+  Yukawa-Higgs Model with Ginsparg-Wilson Fermions",2.443844108561718e-05,0.0,28.0,0.0
+hep-ph/0611295,An estimate of the B-->K*gamma form factor,2.442756676460108e-05,8.639550345934249e-07,49.0,3.0
+hep-ph/0511033,Lattice computation of the strange quark mass in QCD,2.441357252149915e-05,8.180703134063283e-07,36.0,6.0
+hep-th/0507251,Higher Representations: Confinement and Large N,2.42548396189254e-05,2.4608269729733e-05,54.0,10.0
+hep-lat/0701020,"The Stefan-Boltzmann law in a small box and the pressure deficit in hot
+  SU(N) lattice gauge theory",2.4150422622428157e-05,1.426580100374223e-07,16.0,1.0
+hep-lat/0609069,"Exploring the infrared Landau gauge propagators using large asymmetric
+  lattices",2.404714248909772e-05,1.076287862387803e-06,25.0,3.0
+hep-th/0405096,"Absence of a fuzzy $S^4$ phase in the dimensionally reduced 5d
+  Yang-Mills-Chern-Simons model",2.404649862323068e-05,9.102189971276376e-07,60.0,10.0
+hep-lat/0702012,The Delta-resonance in a finite volume,2.3991842367616064e-05,0.0,28.0,0.0
+hep-th/0603046,Twisted Supersymmetric Gauge Theories and Orbifold Lattices,2.3925107174950615e-05,1.1939064111435767e-06,37.0,5.0
+hep-ph/0703069,Form Factors and Wave Functions of Vector Mesons in Holographic QCD,2.3915583462230194e-05,7.387222867433597e-07,6.0,1.0
+hep-lat/0601018,Large-N_f chiral transition in the Yukawa model,2.3893791843253317e-05,1.6724868014638263e-06,18.0,2.0
+hep-lat/0209160,Calculation of Moments of Structure Functions,2.382581644137895e-05,1.818625685994787e-05,57.0,9.0
+hep-lat/0105033,Perfect Gauge Actions on Anisotropic Lattices,2.3772767515711443e-05,7.470635431117085e-06,81.0,4.0
+hep-ph/0406165,Variational techniques in non-perturbative QCD,2.37685136194767e-05,1.6406277059562524e-06,34.0,1.0
+hep-lat/0011066,Domain wall fermions and applications,2.3473978329988125e-05,1.8237436382515066e-05,64.0,12.0
+hep-lat/0406029,Twisted Superspace on a Lattice,2.342244713087115e-05,2.3501463556191785e-05,50.0,27.0
+hep-th/0612131,Quantum broadening of k-strings in gauge theories,2.3401916348871357e-05,2.003487770469755e-08,22.0,1.0
+hep-th/9804190,"On the Computation of Mass Spectra and Structure Functions in a
+  Relativistic Hamiltonian Formalism: A Lattice Point of View",2.3379327905555265e-05,1.9827567001035044e-06,39.0,3.0
+hep-lat/0609009,The Kaon B-parameter in Mixed Action Chiral Perturbation Theory,2.324445288934857e-05,4.5036654961331014e-07,39.0,3.0
+hep-lat/0609002,"Leptonic widths of heavy quarkonia: QCD/NRQCD matching for the
+  electromagnetic current at O(\alpha_s v^2)",2.3112617316136517e-05,0.0,5.0,1.0
+hep-lat/0604012,"Lattice formulation of (2,2) supersymmetric gauge theories with matter
+  fields",2.309488266642533e-05,4.878561663676019e-07,31.0,6.0
+hep-th/0610238,"Analytic derivation of dual gluons and monopoles from SU(2) lattice
+  Yang-Mills theory. III. Plaquette representation",2.3084956249606464e-05,0.0,9.0,2.0
+hep-lat/0406004,Recent Developments in Quark Nuclear Physics,2.307906731292185e-05,0.0,22.0,0.0
+hep-ph/0507197,Deconfinement transition dynamics and early thermalization in QGP,2.296432858385155e-05,4.535668027909649e-06,28.0,2.0
+hep-th/0610237,"Analytic derivation of dual gluons and monopoles from SU(2) lattice
+  Yang-Mills theory. II. Spin foam representation",2.293749913585556e-05,1.4502743249956657e-08,11.0,2.0
+hep-ph/0309077,Analytic properties of the Landau gauge gluon and quark propagators,2.2841062927410448e-05,8.264709503792926e-05,78.0,44.0
+hep-ph/0510108,"Strange quark mass from e+e- revisited and present status of light quark
+  masses",2.281201116602769e-05,0.0005291616196543,23.0,15.0
+hep-lat/0602031,Phase-diagram of two-color lattice QCD in the chiral limit,2.2745260749113693e-05,2.521985064233645e-06,29.0,5.0
+hep-lat/0503023,"<A^2> Condensate, Bianchi Identities and Chromomagnetic Fields
+  Degeneracy in SU(2) YM Theory",2.272545355329249e-05,0.0004882527097064,43.0,5.0
+hep-lat/0609062,Chiral Symmetry Restoration in Anisotropic QED(3),2.270435332621645e-05,0.0,24.0,0.0
+hep-lat/0605016,"K^0-\bar K^0 mixing beyond the standard model and CP-violating
+  electroweak penguins in quenched QCD with exact chiral symmetry",2.258490551379804e-05,6.871937964382159e-06,65.0,9.0
+hep-lat/0009025,"Two Higgs doublet dynamics at the electroweak phase transition: a
+  non-perturbative study",2.257591486857015e-05,7.795737966479504e-05,112.0,30.0
+hep-ph/0611208,"The critical surface of the SU(3)_L x SU(3)_R chiral quark model at
+  non-zero baryon density",2.254703499294567e-05,0.0,18.0,0.0
+hep-lat/0609015,"Plaquette expectation value and lattice free energy of three-dimensional
+  SU(N) gauge theory",2.250345964979834e-05,3.0061258123516723e-06,21.0,3.0
+hep-lat/0605006,Exploring twisted mass Lattice QCD with the Clover term,2.2369978200445184e-05,8.428387392648587e-08,31.0,5.0
+hep-lat/0601024,"Two-Dimensional Compact N=(2,2) Lattice Super Yang-Mills Theory with
+  Exact Supersymmetry",2.2248194179873723e-05,1.3808381882232635e-06,48.0,11.0
+hep-lat/0310063,Heavy Quarks and Lattice QCD,2.2161561337756283e-05,7.355508942572053e-05,69.0,37.0
+hep-ph/0603263,Dimension-two gluon condensate from large-Nc Regge models,2.2141623261578253e-05,1.270807603279048e-06,28.0,3.0
+hep-ph/0610040,Gluon mass generation in the PT-BFM scheme,2.2030657882566902e-05,1.9826029222015656e-06,9.0,3.0
+hep-lat/0607005,"The Effect of Reduced Spatial Symmetries on Lattice States: Results for
+  Non-zero Linear Momentum",2.2000473068582272e-05,0.0,1.0,1.0
+hep-ph/0703159,BEC-BCS Crossover in the Nambu--Jona-Lasinio Model of QCD,2.1972832696587483e-05,1.9698933762334179e-07,9.0,1.0
+hep-ph/0601137,Radiative Transitions in Charmonium from Lattice QCD,2.192719422524937e-05,5.327402768669877e-06,36.0,11.0
+hep-lat/0612018,"Analytic continuation from imaginary to real chemical potential in
+  two-color QCD",2.190005835011961e-05,0.0,41.0,0.0
+hep-th/0604022,Characterization of resonances using finite size effects,2.1842542450309133e-05,4.97636014821876e-06,13.0,4.0
+hep-lat/0609045,"Lattice Gauge Theory Approach to Spontaneous Symmetry Breaking from an
+  Extra Dimension",2.183138795056531e-05,4.6175414316315376e-08,27.0,1.0
+hep-ph/0510121,Collective non-Abelian instabilities in a melting Color Glass Condensate,2.177804927579064e-05,7.134037304907257e-06,9.0,24.0
+hep-lat/0611006,Exotic and higher spin mesons in the charmonium,2.1769376171765915e-05,0.0,7.0,0.0
+hep-ph/0509213,Probing Unquenching Effects in the Gluon Polarisation in Light Mesons,2.174457074924031e-05,1.4746736578047868e-06,59.0,7.0
+hep-th/0608075,"Vortex free energy and deconfinement in center-blind discretizations of
+  Yang-Mills theories",2.169781027097268e-05,5.177353088453918e-07,14.0,1.0
+hep-ex/0702035,Leptonic and Semileptonic Charm Decays from CLEO-c,2.1659258265589037e-05,0.0,9.0,0.0
+hep-lat/0306002,Localization in Lattice QCD,2.160560080457869e-05,9.743516915135006e-06,61.0,35.0
+hep-ph/0403101,Turbulent Thermalization,2.1570550207537427e-05,0.000104049269902,69.0,16.0
+hep-lat/0609001,Probing Nucleon Structure on the Lattice,2.1564175818395188e-05,5.864911328993756e-06,36.0,3.0
+hep-lat/0311037,Supersymmetry on the lattice: where do predictions and results stand?,2.152834502933643e-05,2.136530552797344e-05,12.0,3.0
+hep-ph/0407104,Dynamical Chiral Symmetry Breaking in Unquenched ${QED}_3$,2.146140334564316e-05,1.352155601669115e-05,39.0,6.0
+hep-th/0609166,"Gauge-invariant gluon mass, infrared Abelian dominance and stability of
+  magnetic vacuum",2.1429141875740683e-05,1.6396513625430389e-06,41.0,2.0
+hep-th/0603115,The Pomeron and Gauge/String Duality,2.142819221075404e-05,1.513129634051038e-05,56.0,14.0
+hep-lat/0612013,Current Physics Results from Staggered Chiral Perturbation Theory,2.1413117974300488e-05,3.1618802696631583e-08,40.0,1.0
+hep-ph/0401172,n-Particle irreducible effective action techniques for gauge theories,2.134353669224909e-05,0.0001583261473095,41.0,22.0
+hep-ph/0601066,"U(1)_A Topological Susceptibility and its Slope, Pseudoscalar Gluonium
+  and the Spin of the Proton",2.123051440525094e-05,2.793135571284466e-06,17.0,1.0
+hep-ph/0201266,Effective Field Theories of QCD,2.1226835992640026e-05,8.013124672964492e-05,84.0,4.0
+hep-lat/9809131,Lattice Gravity and Random Surfaces,2.119088833265968e-05,2.380607336492442e-06,10.0,2.0
+hep-ph/0609249,"Thermodynamics of the PNJL model with nonzero baryon and isospin
+  chemical potentials",2.1128110950871264e-05,1.9927362784969865e-06,13.0,8.0
+cond-mat/9904038,"Universal Amplitude Ratios in the Critical Two-Dimensional Ising Model
+  on a Torus",2.1061346036342843e-05,0.0013640620644709,54.0,28.0
+hep-lat/0504006,An estimate of the chiral condensate from unquenched lattice QCD,2.0979107009653848e-05,5.274279158016135e-06,39.0,11.0
+hep-th/0504202,Finite Volume Gauge Theory Partition Functions in Three Dimensions,2.0937444471845623e-05,7.72973428689217e-08,38.0,2.0
+hep-lat/0407018,Dense baryonic matter in strong coupling lattice gauge theory,2.0923218581009825e-05,1.107759919184007e-07,47.0,1.0
+hep-th/0610011,"Instantons, monopoles, vortices, and the Faddeev-Popov operator
+  eigenspectrum",2.0876078522411705e-05,0.0,6.0,0.0
+hep-th/0607013,"Integrable Models and Confinement in (2+1)-Dimensional Weakly-Coupled
+  Yang-Mills Theory",2.0693292041291632e-05,1.5538279779537468e-06,7.0,4.0
+hep-ph/0702281,Unitarity and Bounds on the Scale of Fermion Mass Generation,2.0691911484107035e-05,0.0,45.0,0.0
+hep-ph/0307036,On the nature of the finite-temperature transition in QCD,2.066440497486618e-05,9.066512816333564e-06,40.0,7.0
+hep-lat/0510113,"Full determination of the CKM matrix using recent results from lattice
+  QCD",2.061552506586051e-05,3.57920051664109e-05,53.0,41.0
+hep-th/0702167,Baryon currents in QCD with compact dimensions,2.058491743336682e-05,3.2585055923811684e-08,11.0,2.0
+hep-lat/0511039,"The functional form of open Wilson lines in gauge theories coupled to
+  matter",2.0572128032758253e-05,2.593027332858257e-07,20.0,1.0
+hep-ph/0605045,The Unstable Glasma,2.056482461738265e-05,4.649196589343949e-06,10.0,16.0
+hep-lat/0611027,Towards the QCD phase diagram,2.0454301539221345e-05,4.318918014012732e-07,20.0,4.0
+hep-th/0510004,"Supersymmetric Deformations of Type IIB Matrix Model as Matrix
+  Regularization of N=4 SYM",2.037437403618916e-05,1.4162662350826091e-06,45.0,2.0
+hep-lat/0406001,Leading Quenching Effects in the Proton Magnetic Moment,2.036606191429634e-05,3.816094001835223e-05,53.0,19.0
+hep-th/0604054,"Microscopic eigenvalue correlations in QCD with imaginary isospin
+  chemical potential",2.032790863488053e-05,2.5589057445755464e-06,43.0,4.0
+hep-lat/0111023,Lattice 2001: Reflections,2.024492484407927e-05,7.091717365808003e-05,56.0,13.0
+hep-lat/0602013,"Mollifying Quantum Field Theory or Lattice QFT in Minkowski Spacetime
+  and Symmetry Breaking",2.018002891283445e-05,0.0,6.0,0.0
+hep-th/0401074,The Universal Equation of State near the Critical Point of QCD,2.0138894897218445e-05,1.0877914471177726e-05,32.0,2.0
+hep-lat/0607023,"Doubly Heavy Baryons and Quark-Diquark Symmetry in Quenched and
+  Partially Quenched Chiral Perturbation Theory",2.0124913357314062e-05,0.0,38.0,0.0
+hep-ph/0510372,"Exact-propagator instantaneous Bethe-Salpeter equation for
+  quark-antiquark bound states",2.011765920675693e-05,1.37514634464576e-06,30.0,1.0
+hep-lat/0506002,Investigations in 1+1 dimensional lattice $\phi^4$ theory,2.0031602973936527e-05,1.849916906251004e-07,6.0,1.0
+hep-lat/0509103,Performance of machines for lattice QCD simulations,2.0030173323563323e-05,2.2544041747554626e-07,12.0,1.0
+hep-lat/0611001,A Critique of the Link Approach to Exact Lattice Supersymmetry,2.002477888599073e-05,3.863999400535187e-07,8.0,2.0
+hep-lat/0605013,Overlap Hypercube Fermions in QCD Simulations Near the Chiral Limit,2.0007935099537136e-05,4.74216374997985e-06,11.0,4.0
+hep-lat/0702019,Continuum limit of string formation in 3-d SU(2) LGT,1.999870695349956e-05,0.0,10.0,0.0
+hep-ph/0605310,"Target mass and finite momentum transfer corrections to unpolarized and
+  polarized diffractive scatterin",1.98907377899104e-05,0.0,39.0,0.0
+hep-ph/0012211,Probing the QCD vacuum,1.9881273030367915e-05,9.70297337085063e-06,44.0,4.0
+hep-lat/0410012,Predictions and recent results in susy on the lattice,1.987552804513418e-05,0.0008927637293798,20.0,10.0
+hep-ph/0606278,"Chiral loop corrections to strong decays of positive and negative parity
+  charmed mesons",1.9867023017466068e-05,2.442003522156666e-07,34.0,3.0
+hep-lat/0308015,Lattice calculations of hadron properties,1.980612579696624e-05,0.0001732273844214,32.0,11.0
+hep-lat/0605011,"Exploratory study of three-point Green's functions in Landau-gauge
+  Yang-Mills theory",1.976877448053871e-05,6.76601908936493e-07,54.0,3.0
+hep-lat/0306030,10 D Euclidean dynamical triangulations,1.976600455894257e-05,0.0,4.0,0.0
+hep-lat/0308025,10 D Euclidean quantum gravity on the lattice,1.976600455894257e-05,0.0,4.0,0.0
+hep-lat/0311011,Recent development and perspectives of machines for lattice QCD,1.973429913775677e-05,3.1899091279549758e-06,22.0,2.0
+hep-lat/0502007,Numerical Methods for the QCD Overlap Operator IV: Hybrid Monte Carlo,1.971572603631137e-05,2.686868915226681e-05,50.0,11.0
+hep-lat/0609036,"Exploring the infrared gluon and ghost propagators using large
+  asymmetric lattices",1.9679580151828835e-05,1.564007794919423e-06,26.0,5.0
+hep-ph/0106257,Langevin Evolution of Disoriented Chiral Condensate,1.967224632273808e-05,6.194915767990989e-07,56.0,4.0
+hep-th/0511168,Potts correlators and the static three-quark potential,1.9605354071907925e-05,1.723736864153167e-07,25.0,2.0
+hep-lat/0511046,Physics prospects of UV-filtered overlap quarks,1.9562316044441333e-05,0.0,49.0,0.0
+hep-lat/0612022,"Perturbative renormalization for static and domain-wall bilinears and
+  four-fermion operators with improved gauge actions",1.952852059674599e-05,0.0,27.0,0.0
+hep-lat/0701010,Equilibrium Thermodynamics of Lattice QCD,1.9517312390475294e-05,1.2841568463568036e-06,34.0,1.0
+nucl-th/0302039,"Baryons from the lattice: past, present and future",1.945296217582383e-05,3.563022921537892e-06,37.0,4.0
+hep-lat/0612004,Lattice Results in Coulomb Gauge,1.9450580770201165e-05,0.0,10.0,2.0
+hep-ph/0411308,Kaon weak interactions in powers of 1/Nc,1.9356376635261823e-05,2.1509151642656062e-06,51.0,1.0
+hep-ph/0610143,The logarithmic contribution to the QCD static energy at NNNNLO,1.927237252200613e-05,0.000242595598337,32.0,3.0
+hep-ph/0410047,Effective field theories for heavy quarkonium,1.9249934402234893e-05,4.6091114563209135e-05,21.0,40.0
+hep-lat/0302003,CP symmetry and lattice chiral gauge theories,1.9213329414641337e-05,0.0,78.0,0.0
+hep-lat/0609010,Mass spectrum of 1-+ exotic mesons from lattice QCD,1.914184376639524e-05,2.9727272281877695e-08,15.0,1.0
+hep-th/0303184,SUSY 3D Georgi-Glashow model at finite temperature,1.9119147469342376e-05,0.0,17.0,0.0
+hep-lat/0510106,Simulations in Early Universe Theory,1.9076115578308475e-05,2.0723037643829675e-06,39.0,1.0
+hep-lat/0610008,"Definition and parametrization of non-perturbative effects in quenched
+  QCD",1.9071211765431285e-05,0.0,15.0,0.0
+hep-ph/0403093,"The Narrow $\Theta_5$ Pentaquark As The First Non-planar Hadron With the
+  Diamond Structure And Negative Parity",1.895705894905165e-05,3.703155783755026e-05,93.0,16.0
+hep-th/0410263,Perturbative dynamics of fuzzy spheres at large N,1.8914478229804172e-05,6.585233522047689e-06,65.0,13.0
+nucl-th/0611048,Meson Systems with Ginsparg-Wilson Valence Quarks,1.8913128539933455e-05,0.0,4.0,0.0
+hep-ph/0108236,Supersymmetry Structure and Phenomena,1.882314141830108e-05,0.0001360458226487,74.0,19.0
+hep-lat/0503024,A numerical study of confinement in compact QED,1.879969654270166e-05,7.2430226760986095e-06,44.0,10.0
+hep-lat/9710005,Random Surfaces and Lattice Gravity,1.878721137434942e-05,1.646130676500843e-05,25.0,5.0
+hep-th/0511114,Lectures on Fuzzy and Fuzzy SUSY Physics,1.8778661105064527e-05,7.16116259757987e-05,85.0,17.0
+hep-lat/0608021,The pion form factor from lattice QCD with two dynamical flavours,1.8678470966634893e-05,6.839820838721342e-07,23.0,5.0
+hep-lat/0510091,"Perturbative renormalization of the first moment of structure functions
+  for domain-wall QCD",1.8653112034967687e-05,2.9155050396399725e-07,38.0,4.0
+hep-ph/0504054,"Numerical evidence for the existence of a novel magnetic condensation in
+  Yang-Mills theory",1.8603982359767016e-05,2.2967047868318957e-05,53.0,10.0
+hep-lat/0511013,Parton Distribution Functions with Twisted Mass Fermions,1.8570024842258615e-05,4.2228671329047225e-08,41.0,1.0
+hep-lat/9611016,Development in Lattice QCD,1.854580597758025e-05,0.0001403288292821,69.0,22.0
+hep-lat/0205010,"Testing the fixed-point QCD action and the construction of chiral
+  currents",1.8537042530693508e-05,1.0615148003129306e-05,19.0,39.0
+hep-lat/0703009,BB Potentials in Quenched Lattice QCD,1.85369569774868e-05,1.311823732508718e-06,36.0,1.0
+hep-lat/0511051,Overlap Hypercube Fermions in QCD,1.853480182909001e-05,2.768192449828165e-06,11.0,2.0
+hep-th/0407076,"N=(1,1) super Yang--Mills theory in 1+1 dimensions at finite temperature",1.845309089353593e-05,1.3081120991530108e-06,30.0,3.0
+hep-ph/0301084,From Static Potentials to High-Energy Scattering,1.8441539434948176e-05,8.893201094280993e-07,15.0,2.0
+hep-ph/0505177,"Adventures in Theoretical Physics: Selected Papers of Stephen L. Adler
+  -- Commentaries",1.8436945510132355e-05,2.7616303296341463e-05,16.0,11.0
+hep-lat/0604004,Deconfinement in dense 2-color QCD,1.8403241661489275e-05,6.37883691207065e-06,32.0,7.0
+hep-lat/0606005,Exotic Meson Decay Widths using Lattice QCD,1.840029361934455e-05,9.574574593135645e-09,31.0,2.0
+hep-lat/0603022,Monopole-Antimonopole Correlation Functions in 4D U(1) Gauge Theory,1.829509375008563e-05,3.865454479828701e-06,12.0,2.0
+hep-lat/0703018,"Spectral sums of the Dirac-Wilson Operator and their relation to the
+  Polyakov loop",1.8281823093128892e-05,0.0,10.0,0.0
+hep-lat/0610048,The Rational Hybrid Monte Carlo Algorithm,1.81986280393308e-05,9.956608965777824e-07,25.0,3.0
+hep-lat/0501018,Strong Isospin Breaking in the Nucleon and Delta Masses on the Lattice,1.8187416393212103e-05,1.6719617715111247e-05,42.0,11.0
+hep-th/0412026,The finite-temperature chiral transition in QCD with adjoint fermions,1.815448979408241e-05,2.5423737682694883e-06,32.0,4.0
+hep-th/9709100,New Developments in the Continuous Renormalization Group,1.8051866909681323e-05,2.960738608236489e-05,25.0,18.0
+hep-lat/0511050,"SU(2) Gluodynamics and HP1 sigma-model embedding: Scaling, Topology and
+  Confinement",1.804548568413433e-05,9.255325014573648e-07,16.0,4.0
+hep-lat/0103036,"Non-perturbative computation of the bubble nucleation rate in the cubic
+  anisotropy model",1.801364975152603e-05,1.3172072341232422e-07,30.0,3.0
+hep-lat/0610130,"Studying the infrared behaviour of gluon and ghost propagators using
+  large asymmetric lattices",1.795399043591627e-05,0.0,14.0,0.0
+hep-lat/0702008,Lattice QCD with a chiral twist,1.7915846584994413e-05,2.3823038191769415e-07,8.0,1.0
+hep-lat/0602030,Extracting $F_\pi$ from small lattices: unquenched results,1.7915090916175054e-05,2.6455635584740097e-06,43.0,9.0
+cond-mat/0605211,"On the identification of quasiprimary scaling operators in local
+  scale-invariance",1.7787453247073704e-05,5.803640459193826e-06,2.0,6.0
+hep-lat/0610114,Recent progress in finite temperature lattice QCD,1.770827451907572e-05,7.254762301556916e-06,34.0,9.0
+cond-mat/0101390,"Monte Carlo determination of the phase diagram of the double-exchange
+  model",1.7496479361715327e-05,0.0,3.0,0.0
+hep-lat/0610103,"Flavor Twisted Boundary Conditions, Pion Momentum, and the Pion
+  Electromagnetic Form Factor",1.7468312644091225e-05,1.1981501187097562e-08,28.0,1.0
+cond-mat/0410407,The ALPS project: open source software for strongly correlated systems,1.745437138369964e-05,9.801736975653856e-05,10.0,11.0
+hep-lat/0609038,"Baryon correlators containing different diquarks from lattice
+  simulations",1.7447766482040043e-05,2.1780179596320964e-06,16.0,3.0
+cond-mat/0211446,Ising model on 3D random lattices: A Monte Carlo study,1.738557575303258e-05,0.0,15.0,0.0
+hep-lat/0506024,Simulating Full QCD with the Fixed Point Action,1.736400384632695e-05,8.9318444235861e-07,25.0,7.0
+hep-ph/0609112,Perfecting the Ultra-violet of Holographic Descriptions of QCD,1.734682443584356e-05,1.8180078022843823e-06,50.0,7.0
+hep-ph/0607258,"Extracting |V(ub)| from B->pi l nu Decays Using a Multiply-subtracted
+  Omnes Dispersion Relation",1.7346409569765293e-05,5.495796531699867e-07,34.0,5.0
+hep-lat/9809094,Confinement studies in lattice QCD,1.730625706692917e-05,4.92546273035792e-05,46.0,17.0
+hep-th/0212284,Chiral Anomaly and Ginsparg-Wilson Relation on the Noncommutative Torus,1.7279708027466587e-05,1.2492816723391116e-05,70.0,16.0
+cond-mat/0403271,Fermionic field theory for trees and forests,1.725595255768304e-05,1.802157200218412e-05,13.0,7.0
+hep-lat/0608011,"Calculating the hadronic vacuum polarization and leading hadronic
+  contribution to the muon anomalous magnetic moment with improved staggered
+  quarks",1.7229036149727333e-05,5.221035484081037e-06,37.0,5.0
+astro-ph/0501254,Lattice QCD Constraints on Hybrid and Quark Stars,1.7226648367997648e-05,0.0,24.0,0.0
+hep-lat/0504015,Spin 3/2 Pentaquark Resonance Signature in Lattice QCD,1.7215908876676665e-05,9.582628229501248e-06,28.0,10.0
+hep-ph/0508259,The SVZ-Expansion and Beyond,1.7191037358596087e-05,6.254391879068883e-06,16.0,8.0
+hep-lat/0511035,Lattice QCD at maximal twist,1.703585308030586e-05,8.6404228647061e-07,16.0,2.0
+hep-ph/0506205,Light Composite Higgs: LCH@LHC,1.7008949468606185e-05,6.347298403824628e-06,47.0,4.0
+hep-ph/0512233,Finite volume effects in a quenched lattice-QCD quark propagator,1.6986042090916564e-05,3.579851117655652e-06,39.0,8.0
+hep-lat/9408016,"The (LATTICE) QCD Potential and Running Coupling: How to Accurately
+  Interpolate between Multi-Loop QCD and the String Picture",1.6966584317689757e-05,0.0,12.0,1.0
+hep-th/0310285,"The Hagedorn/Deconfinement Phase Transition in Weakly Coupled Large N
+  Gauge Theories",1.692955710636416e-05,0.0002056737876319,122.0,111.0
+hep-lat/0509018,"Finite-temperature chiral transition in QCD with quarks in the
+  fundamental and adjoint representation",1.6866492520895515e-05,3.0824320967970668e-06,18.0,6.0
+hep-lat/0610026,Improvement of algorithms for dynamical overlap fermions,1.685581044552307e-05,5.136219400918388e-07,9.0,2.0
+hep-ph/0603050,Susceptibilities and speed of sound from PNJL model,1.68512155383074e-05,3.89785162639058e-06,8.0,6.0
+hep-lat/0610014,Full QCD in external chromomagnetic field,1.6761351274486727e-05,0.0,7.0,0.0
+hep-lat/0603028,"Axial coupling constant of the nucleon for two flavours of dynamical
+  quarks in finite and infinite volume",1.675596156628551e-05,1.5727036632589425e-05,44.0,15.0
+hep-ph/0410142,Renormalizable extra-dimensional models,1.6696240624271875e-05,6.725919686159047e-06,85.0,4.0
+hep-lat/0403006,Effective Field Theories and Quantum Chromodynamics on the Lattice,1.6647618602302105e-05,1.1966828459488173e-05,13.0,2.0
+hep-lat/0407027,"The finite temperature transition for 2-flavour lattice QCD at finite
+  isospin density",1.661004171190597e-05,7.247376698562474e-06,26.0,9.0
+hep-th/9908173,Loss of Causality in Discretized Light-Cone Quantisation,1.659630109563032e-05,2.1094538128581143e-06,3.0,4.0
+hep-lat/0607015,Static forces in d=2+1 SU(N) gauge theories,1.6580184540290578e-05,1.4672441671266455e-06,32.0,2.0
+hep-lat/0309138,Improvement and Analytic Techniques in Hamiltonian Lattice Gauge Theory,1.654726091633523e-05,0.0,57.0,0.0
+hep-lat/0306031,Lattice QCD at Finite Density -- An introductory review,1.6546146749950506e-05,2.5071745755251868e-05,58.0,16.0
+cond-mat/0204587,"Transfer Matrices and Partition-Function Zeros for Antiferromagnetic
+  Potts Models III. Triangular-Lattice Chromatic Polynomial",1.6524443113362764e-05,1.4447891823490484e-05,21.0,8.0
+hep-lat/0505008,"Scaling and Goldstone effects in a QCD with two flavours of adjoint
+  quarks",1.6476867934333524e-05,4.996581223459357e-06,22.0,4.0
+hep-th/0301045,Half-monopoles and half-vortices in the Yang-Mills theory,1.642207737404331e-05,4.946796497944055e-07,4.0,1.0
+hep-th/0511194,High-accuracy critical exponents of O(N) hierarchical sigma models,1.631457927556334e-05,6.252196086381811e-07,14.0,2.0
+hep-th/0503078,On The Bound States Of Photons In Noncommutative Quantum Electrodynamics,1.6304478854812907e-05,1.8372543970137025e-06,48.0,4.0
+hep-lat/0610024,Dynamical overlap fermions in the epsilon-regime,1.627733551094841e-05,2.0939284753748032e-08,6.0,2.0
+hep-ph/9504310,"The Chiral Phase Transition in QCD: Critical Phenomena and Long
+  Wavelength Pion Oscillations",1.6266176972930423e-05,0.0,28.0,40.0
+hep-ph/0607110,Scalar Mesons a0(1450) and sigma(600) from Lattice QCD,1.6262898098484244e-05,9.634636999353868e-06,21.0,13.0
+hep-th/0404252,"Magnetic condensation, Abelian dominance and instability of Savvidy
+  vacuum",1.620453308162516e-05,8.654730269223641e-06,33.0,16.0
+hep-ph/0605224,"Propagators, Running Coupling and Condensates in Lattice QCD",1.6182240835909428e-05,4.024024738750668e-06,19.0,6.0
+hep-lat/0503029,"Infrared features of KS fermion and Wilson fermion in Lattice Landau
+  Gauge QCD",1.616393797276159e-05,0.0007204919603792,35.0,19.0
+hep-lat/0410050,Hadron Spectrum from Dynamical Lattice QCD Simulations,1.613888708033091e-05,2.6334973406223907e-05,67.0,5.0
+hep-lat/0510096,Kaon B-parameter with NF=2 dynamical Wilson fermions,1.612039224926364e-05,1.211190723367346e-06,23.0,4.0
+hep-lat/0602027,"Effects of the quark field on the ghost propagator of Lattice Landau
+  Gauge QCD",1.6117138305607654e-05,0.0007057170414902,25.0,9.0
+hep-lat/0610086,Two body scattering length of Yukawa model on a lattice,1.609603233100781e-05,2.936059660366628e-07,4.0,1.0
+hep-lat/0703012,Mixed Action Lattice Spacing Effects on the Nucleon Axial Charge,1.607076865349601e-05,0.0,36.0,0.0
+hep-th/0605285,"Critical exponents for higher-representation sources in 3D SU(3) gauge
+  theory from CFT",1.605932063328757e-05,8.532942038211859e-07,11.0,1.0
+hep-lat/0609006,Critical Exponents for U(1) Lattice Gauge Theory at Finite Temperature,1.6018917704417468e-05,0.0,7.0,0.0
+hep-lat/0011026,QCD vacuum structure,1.5987575027626892e-05,4.370523020748757e-05,33.0,8.0
+hep-ph/0203177,"Transport coefficients, spectral functions and the lattice",1.596433072727435e-05,1.9740401429870777e-05,26.0,21.0
+physics/0607038,"An efficient algorithm simulating a macroscopic system at the critical
+  point",1.5944415571043667e-05,2.6044910284143995e-08,5.0,2.0
+hep-lat/0609056,An Analysis of the Hadronic Spectrum from Lattice QCD,1.592723459220329e-05,0.0,21.0,0.0
+hep-lat/0609067,"Mixed Action Simulations on Staggered Background; Interpretation and
+  Result for the 2-flavor QCD Chiral Condensate",1.592516589387471e-05,1.6216883438688822e-06,27.0,3.0
+hep-lat/0207006,The staggered domain wall fermion method,1.589911364263272e-05,1.990182755160072e-06,29.0,1.0
+hep-ph/0604060,"The pressure of deconfined QCD for all temperatures and quark chemical
+  potentials",1.588780637027535e-05,6.236515869396303e-06,36.0,7.0
+hep-th/0511081,"Strong to weak coupling transitions of SU(N) gauge theories in 2+1
+  dimensions",1.5883237570549764e-05,4.863039559055721e-06,34.0,4.0
+hep-lat/0610084,Yukawa model on a lattice: two body states,1.587695809943756e-05,0.0,3.0,1.0
+hep-lat/0701001,Couplings of hybrid operators to ground and excited states of bottomonia,1.5832003420194934e-05,0.0,2.0,0.0
+hep-lat/0303023,Large N reduction in the continuum three dimensional Yang-Mills theory,1.58266321162132e-05,0.0024011101148705,3.0,20.0
+hep-lat/0509027,"Light hadron and diquark spectroscopy in quenched QCD with overlap
+  quarks on a large lattice",1.5772505423172672e-05,9.091845540077113e-06,78.0,13.0
+hep-lat/0601004,"Estimating the Unquenched Strange Quark Mass from the Lattice Axial Ward
+  Identity",1.5743737854276706e-05,9.865010513985988e-06,54.0,8.0
+hep-ph/0505215,"Dimension two condensates and the Polyakov loop above the deconfinement
+  phase transition",1.5741372716620947e-05,3.034384074231092e-06,31.0,7.0
+hep-lat/0601014,Lattice Flavourdynamics,1.5730992985584705e-05,3.721787353312593e-07,33.0,1.0
+hep-lat/9811006,Progress in Lattice Gauge Theory,1.5713005213128628e-05,0.0015085845749748,55.0,67.0
+hep-lat/0307004,Quenched charmonium spectrum,1.5711980294394917e-05,4.224359831974492e-06,39.0,10.0
+hep-ph/0301035,Anomaly Matching and Low Energy Theories at High Matter Density,1.5673215294856416e-05,2.0758387319744735e-05,35.0,7.0
+hep-lat/0406026,Majorana and Majorana-Weyl fermions in lattice gauge theory,1.5670621393213913e-05,4.079222160506257e-06,50.0,4.0
+cond-mat/0408130,"Multicritical behavior in frustrated spin systems with noncollinear
+  order",1.566431678184045e-05,3.040228657003891e-05,21.0,4.0
+hep-ph/0508004,$\theta-$ Parameter in 2 Color QCD at Finite Baryon and Isospin Density,1.5649780684335807e-05,8.082396228668572e-06,14.0,5.0
+hep-lat/0503020,Calorons in SU(3) lattice gauge theory,1.562294279078935e-05,5.76857091689155e-07,28.0,4.0
+hep-lat/0411022,Scaling tests with dynamical overlap and rooted staggered fermions,1.5606713386229006e-05,5.297102896398473e-06,51.0,32.0
+nucl-th/0502046,Baryons on the lattice,1.5565249371538868e-05,2.6895592317563516e-05,19.0,2.0
+hep-ph/0409361,The coupled-channel analysis of the D and D_s mesons,1.55299096757564e-05,9.118264546681912e-07,20.0,5.0
+hep-lat/0208042,Interacting staggered domain wall fermions,1.5526037173627786e-05,0.0,1.0,0.0
+hep-ph/0011086,"Standard Model Matrix Elements for Neutral B-Meson Mixing and Associated
+  Decay Constants",1.546467632590418e-05,5.693832865662433e-05,61.0,35.0
+hep-lat/0610072,The sign problem in the $\epsilon$-regime of QCD,1.545955979232935e-05,5.142852928130262e-06,9.0,7.0
+hep-lat/0404016,"Contribution of disconnected diagrams to the hyperfine splitting of
+  charmonium",1.545565485062401e-05,1.5585805813960554e-06,23.0,7.0
+hep-ph/0504019,The High-Temperature Phase of Landau-Gauge Yang-Mills Theory,1.5449710260091383e-05,1.636166711357779e-05,35.0,10.0
+hep-ph/0410187,"A lattice determination of moments of unpolarised nucleon structure
+  functions using improved Wilson fermions",1.5445827989866515e-05,2.2662718070874e-05,45.0,21.0
+hep-lat/0510055,Deconfinement phase transitions in external fields,1.5438540243355186e-05,1.834155978529381e-06,6.0,1.0
+cond-mat/0409355,Correction-to-scaling exponents for two-dimensional self-avoiding walks,1.5368747913693982e-05,7.958874506876145e-06,22.0,3.0
+hep-lat/0307031,Wess-Zumino-Witten term on the lattice,1.5366046913955703e-05,1.5623828972877834e-06,53.0,1.0
+hep-lat/0610053,"Lattice study of the infrared behavior of QCD Green's functions in
+  Landau gauge",1.5359532675044756e-05,1.407993704271368e-07,16.0,5.0
+hep-lat/0209146,Finite density QCD via imaginary chemical potential,1.5356111892254912e-05,0.0002207151092164,20.0,53.0
+hep-lat/0609005,The non-perturbative part of the plaquette in quenched QCD,1.535450795684081e-05,6.623705528569002e-07,18.0,1.0
+hep-lat/0411028,Lattice Computations of the Pion Form Factor,1.534846560664044e-05,7.503957185328321e-06,31.0,17.0
+hep-ph/0310002,Confining Strings and High-Energy Reactions,1.5319687300449064e-05,0.0,4.0,0.0
+hep-lat/0404011,SU(N) chiral gauge theories on the lattice,1.5276795311198396e-05,4.912731784336903e-06,29.0,9.0
+cond-mat/0312175,Finite-Size Scaling in the Driven Lattice Gas,1.5266277832224277e-05,0.0,21.0,0.0
+hep-ph/0512125,Dynamics of quark-gluon plasma from Field correlators,1.5264894241465218e-05,1.747009015702026e-06,34.0,7.0
+hep-lat/0108005,Classically Perfect Gauge Actions on Anisotropic Lattices,1.5242756150655811e-05,1.293616391631875e-07,49.0,2.0
+hep-ph/0206053,A Step Beyond the Bounce: Bubble Dynamics in Quantum Phase Transitions,1.5235159099911237e-05,2.6049162015456832e-06,31.0,2.0
+hep-lat/0605003,"Chiral Lattice Gauge Theories from Warped Domain Walls and
+  Ginsparg-Wilson Fermions",1.5219287742633571e-05,7.828608457928029e-07,27.0,1.0
+hep-lat/0610037,"An application of the UV-filtering preconditioner to the Polynomial
+  Hybrid Monte Carlo algorithm",1.5217049634344164e-05,1.142470008702682e-09,27.0,1.0
+hep-th/9711008,Boundary fields and renormalization group flow in the two-matrix model,1.5160911596567664e-05,1.9877074034745497e-06,12.0,3.0
+hep-th/0611170,Ward Identities for Invariant Group Integrals,1.5039969892004114e-05,8.961817892887205e-08,13.0,1.0
+hep-lat/0403007,Improved Wilson QCD simulations with light quark masses,1.4962083666060564e-05,0.0003123221197952,52.0,28.0
+hep-ph/0408309,Landau-gauge condensates from the quark propagator on the lattice,1.494623778697862e-05,1.8959184792133838e-05,27.0,22.0
+hep-lat/0309023,On the non-Abelian Stokes theorem for SU(2) gauge fields,1.49452893246717e-05,4.4551339908346765e-07,16.0,4.0
+hep-lat/0610070,Baryon-Baryon Bound States From First Principles,1.4921589171623149e-05,0.0,2.0,0.0
+hep-lat/0610111,Quark number susceptibility at high temperature,1.491296721403804e-05,0.0,17.0,1.0
+hep-lat/0412042,"A local formulation of lattice Wess-Zumino model with exact $\U(1)_R$
+  symmetry",1.4902824193677024e-05,7.905106618582364e-07,50.0,3.0
+hep-lat/0608001,Chiral corrections to the Roper mass,1.4881540891674358e-05,3.550520001158156e-07,24.0,2.0
+hep-lat/0601021,B Meson Semileptonic Form Factors from Unquenched Lattice QCD,1.4865950367060396e-05,9.525790119731352e-06,46.0,16.0
+hep-lat/0406012,"QCD thermodynamics from an imaginary mu_B: results on the four flavor
+  lattice model",1.4859460351371252e-05,5.677416856520214e-06,34.0,13.0
+hep-lat/0603006,Screening masses in thermal and dense medium,1.4858635538553464e-05,5.430327341454051e-07,3.0,1.0
+cond-mat/0509511,Critical behavior of two-dimensional fully frustrated XY systems,1.485823065251691e-05,0.0,13.0,1.0
+math-ph/0603077,"Separation of unistochastic matrices from the double stochastic ones.
+  Recovery of a 3 x 3 unitary matrix from experimental data",1.4842638480147136e-05,0.0,9.0,0.0
+hep-lat/0508019,Baryons with Ginsparg-Wilson quarks in a staggered sea,1.4812150390008536e-05,1.9887686637959343e-06,64.0,8.0
+hep-ph/0402115,QCD phase diagram and the critical point,1.4802234718345297e-05,4.035204245278464e-05,48.0,30.0
+hep-ph/0309320,New Perspectives for B-Physics from the Lattice,1.4792404028176077e-05,6.5541512547353934e-06,38.0,4.0
+cond-mat/0409536,"Two-Dimensional Heisenberg Model with Nonlinear Interactions: 1/N
+  Corrections",1.479202325566263e-05,4.137438534965076e-06,29.0,6.0
+hep-lat/0409023,"Generation of confinement and other nonperturbative effects by infrared
+  gluonic degrees of freedom",1.4757056439345411e-05,4.443323547611992e-05,20.0,7.0
+hep-lat/0703023,Low-lying Dirac eigenmodes and monopoles in 4D compact QED,1.4754404293921153e-05,0.0,24.0,0.0
+hep-lat/0610023,"Gluon mass generation and infrared Abelian dominance in Yang-Mills
+  theory",1.4672884768494209e-05,9.282568820709291e-10,14.0,2.0
+cond-mat/9907335,Loop Model with Generalized Fugacity in Three Dimensions,1.4656930701074827e-05,1.990182755160072e-06,13.0,2.0
+hep-lat/0605010,The nucleon axial-vector coupling beyond one loop,1.4633847526564998e-05,2.627265745130934e-07,25.0,4.0
+hep-th/0505154,Reconstructing the Universe,1.4617471718745627e-05,2.3932471987312336e-05,55.0,31.0
+hep-lat/0603011,Staggered Chiral Perturbation Theory and the Fourth-Root Trick,1.4605238113252826e-05,2.838452458441784e-06,43.0,15.0
+hep-lat/0508021,"In search of a Hagedorn transition in SU(N) lattice gauge theories at
+  large-N",1.4601550751022013e-05,3.057530307362063e-05,12.0,8.0
+hep-lat/0404013,Non-Compact QED_3 with N_f=1 and N_f=4,1.4599001137950276e-05,2.5751472684733577e-05,20.0,9.0
+hep-lat/0509173,A quenched study of m_b in HQET beyond the leading order,1.4590776156947884e-05,3.578492191237801e-07,13.0,3.0
+hep-lat/0605008,"A Framework for Systematic Study of QCD Vacuum Structure I: Kolmogorov
+  Entropy and the Principle of Chiral Ordering",1.4567861568370088e-05,4.995102024185506e-06,3.0,4.0
+hep-lat/0406033,Chiral symmetry on the lattice,1.4561174622632128e-05,2.4901789803345823e-05,61.0,6.0
+cond-mat/0610639,"Quantum critical spin liquids and conformal field theory in 2+1
+  dimensions",1.4541925164453107e-05,2.966168923860256e-07,9.0,2.0
+hep-lat/9809045,What's new with the electroweak phase transition?,1.4513326690799678e-05,6.96312809841768e-05,45.0,12.0
+hep-lat/0506033,"More on the continuum limit of gauge-fixed compact U(1) lattice gauge
+  theory",1.4466045837279656e-05,0.0,11.0,0.0
+hep-ph/0510292,A Weibel Instability in the Melting Color Glass Condensate,1.445148922079073e-05,1.5679880550749226e-06,3.0,9.0
+hep-ph/0606181,"First Lattice QCD Study of the Sigma -> n Axial and Vector Form Factors
+  with SU(3) Breaking Corrections",1.4445282810590117e-05,9.41517120449184e-06,28.0,5.0
+hep-lat/0509026,Theoretical issues with staggered fermion simulations,1.4434909105597135e-05,7.93712439445743e-06,41.0,15.0
+hep-lat/9609020,Recent Results on the Abelian Projection of Lattice Gluodynamics,1.4432332473502176e-05,0.0,30.0,33.0
+cond-mat/0610193,"Ferromagnetic phase transition for the spanning-forest model (q \to 0
+  limit of the Potts model) in three or more dimensions",1.4421752758993273e-05,4.128807696798379e-06,12.0,2.0
+hep-lat/0407030,Decuplet Baryon Masses in Partially Quenched Chiral Perturbation Theory,1.4409698186478584e-05,1.9454040610920003e-06,39.0,10.0
+hep-lat/0406006,Blocking from continuum and monopoles in gluodynamics,1.439495855045433e-05,0.0,4.0,0.0
+hep-ph/0407227,Non-perturbative tests of Heavy Quark Effective Theory,1.4380836697921148e-05,6.937905449646159e-06,50.0,9.0
+hep-th/0611286,"A precise calculation of the fundamental string tension in SU(N) gauge
+  theories in 2+1 dimensions",1.438069777517327e-05,1.0587924172726106e-06,14.0,2.0
+hep-lat/0703010,Gauge Field Strength Tensor from the Overlap Dirac Operator,1.4372938410481092e-05,0.0,12.0,0.0
+hep-th/0312199,"Ginsparg-Wilson Relation and 't Hooft-Polyakov Monopole on Fuzzy
+  2-Sphere",1.436270939567249e-05,3.31306589350585e-06,50.0,16.0
+hep-lat/0506022,Spin 3/2 Penta-quarks in anisotropic lattice QCD,1.4335516360678178e-05,5.765763525237129e-06,25.0,8.0
+hep-ph/0610021,Equation of State of Gluon Plasma from Local Action,1.4326775590872506e-05,2.595460409867234e-06,32.0,4.0
+hep-lat/0503008,Search for the pentaquark resonance signature in lattice QCD,1.4263107696509595e-05,2.125510415311587e-05,75.0,15.0
+hep-lat/0011077,Non-equilibrium field theory,1.4218064780766877e-05,9.817705708327518e-05,69.0,10.0
+hep-lat/0609021,"Trajectory Length and Autocorrelation Times -- Nf=2 simulations in the
+  Schroedinger functional",1.4212640390612343e-05,0.0,17.0,0.0
+hep-lat/0508016,Overlap hypercube fermions in QCD with light quarks,1.4203463184865545e-05,1.023251128885146e-06,39.0,7.0
+hep-th/0612097,Symmetry Breaking In Twisted Eguchi-Kawai Models,1.4158435266957504e-05,0.0,21.0,0.0
+hep-ph/0607200,"Non--Singlet QCD Analysis of Deep Inelastic World Data at \boldmath
+  $O(\alpha_s^3)$",1.410850266712702e-05,1.0442093149091348e-05,57.0,8.0
+hep-lat/0602004,Simulations of ${\cal N}=2$ super Yang-Mills theory in two dimensions,1.4095442528075526e-05,2.99911788962507e-07,9.0,6.0
+hep-ph/0405007,"Non-Abelian field strength bilocal correlator at finite temperature in
+  the model of dilute instanton gas",1.4087853482954225e-05,2.393965300689221e-07,4.0,1.0
+hep-lat/0607037,Non-perturbative study of QCD correlators,1.4071970992561434e-05,0.0,45.0,0.0
+hep-th/0609058,Gluino zero-modes for non-trivial holonomy calorons,1.40589865257099e-05,0.0,35.0,0.0
+hep-lat/0609027,"Infrared Gluon and Ghost Propagators from Lattice QCD. Results from
+  large asymmetric lattices",1.405756849212818e-05,4.027419336800351e-06,13.0,6.0
+hep-lat/0107021,"Effects of non-perturbatively improved dynamical fermions in QCD at
+  fixed lattice spacing",1.4038775294249876e-05,0.0001645384080458,63.0,95.0
+cond-mat/0610011,BEC-BCS Crossover in the Epsilon Expansion,1.4038706417723173e-05,3.374375842926284e-08,15.0,2.0
+hep-th/0703203,Spectrum in the broken phase of a $\lambda\phi^4$ theory,1.4035674963040934e-05,0.0,6.0,0.0
+hep-ph/0605095,Scalar K pi form factor and light quark masses,1.4008625686241566e-05,1.448824907043721e-05,40.0,11.0
+hep-lat/0406023,"The critical equation of state of the three-dimensional O(N)
+  universality class: N>4",1.3942454954158991e-05,2.021858592529109e-06,25.0,2.0
+hep-th/0009152,"Dual superconductivity, monopole condensation and confining string in
+  low-energy Yang-Mills theory. Part I",1.3940925464365924e-05,9.31608040399271e-06,50.0,17.0
+hep-ph/0504175,"Spin densities in the transverse plane and generalized transversity
+  distributions",1.3911015730099224e-05,9.411896475808974e-06,40.0,15.0
+hep-ph/0603226,Chiral Corrections to the Hyperon Vector Form Factors,1.3904463657402858e-05,8.521270515964172e-06,27.0,2.0
+hep-lat/0509185,Hadron structure with light dynamical quarks,1.3826958174328462e-05,6.719096082839324e-06,7.0,14.0
+hep-lat/0602026,Breakdown of staggered fermions at nonzero chemical potential,1.3804409427119664e-05,1.7826055120468203e-05,35.0,17.0
+hep-ph/0610440,Potential Models and Lattice Gauge Current-Current Correlators,1.379745020023803e-05,2.77676147026254e-06,11.0,4.0
+hep-lat/0506021,"Chiral properties of two-flavor QCD in small volume and at large lattice
+  spacing",1.3794445469643678e-05,2.701106022209294e-06,47.0,17.0
+hep-lat/0310062,The Chiral Condensate of Strongly Coupled QCD in the 't Hooft Limit,1.3747158710064345e-05,0.0,17.0,0.0
+hep-ph/0507104,The Infrared Behaviour of the Pure Yang-Mills Green Functions,1.3717402756603084e-05,0.000980541900646,32.0,23.0
+hep-lat/0310034,"The Study of the Continuum Limit of the Supersymmetric Ward-Takahashi
+  Identity for N=1 Super Yang-Mills Theory",1.3703221997812876e-05,0.0008861350425825,13.0,3.0
+hep-lat/0609057,Confining properties of 2-color QCD at finite density,1.3678301087926364e-05,7.2492442218872554e-09,2.0,1.0
+hep-lat/0512017,"Numerical simulations with two flavours of twisted-mass Wilson quarks
+  and DBW2 gauge action",1.366776720328363e-05,1.251443867693863e-06,46.0,9.0
+hep-lat/0507001,"Quark helicity flip generalized parton distributions from two-flavor
+  lattice QCD",1.3659302826898492e-05,3.0077479352210493e-06,38.0,14.0
+hep-lat/9807024,"Possible Consequences of Conjectural Periodicity of Spectrum of Lattice
+  Dirac Operator",1.358856380433658e-05,0.0,27.0,0.0
+nucl-th/0311027,Exploring Hyperons and Hypernuclei with Lattice QCD,1.3553020509729656e-05,1.41632887663519e-06,37.0,14.0
+hep-lat/0007038,Quenched Lattice QCD with Domain Wall Fermions and the Chiral Limit,1.3548454035027352e-05,0.0003116958840864,68.0,120.0
+hep-ph/0111310,"Radiatively-induced Magnetic moment in four-dimensional anisotropic QED
+  in an external magnetic field",1.3540185039467282e-05,1.333169541980088e-07,11.0,1.0
+hep-lat/0510099,"Vortex Proliferation and the Dual Superconductor Scenario for
+  Confinement: The 3D Compact U(1) Lattice Higgs Model",1.353403146069558e-05,3.866011209709924e-07,10.0,1.0
+hep-lat/0505010,"Pion mass dependence of the nucleon mass in the chiral quark soliton
+  model",1.3517712070656772e-05,1.5794854626820686e-05,37.0,6.0
+hep-ph/0605042,"The leading non-perturbative coefficient in the weak-coupling expansion
+  of hot QCD pressure",1.3501911776546317e-05,7.905415994441906e-06,28.0,13.0
+hep-lat/0503016,Finite-Size Effects in Lattice QCD with Dynamical Wilson Fermions,1.3477182127069878e-05,1.2811796239991633e-05,40.0,14.0
+hep-lat/0411014,Searching for chiral logs in the static-light decay constant,1.347040963804242e-05,1.033892948001434e-05,38.0,6.0
+hep-lat/0505024,Nucleon structure functions with domain wall fermions,1.3465166936966802e-05,4.553070122017794e-06,55.0,6.0
+hep-ph/0506065,"Effective Field Theory Lagrangians for Baryons with Two and Three Heavy
+  Quarks",1.3440057955022214e-05,5.105749078166385e-06,38.0,8.0
+hep-lat/0610073,Confinement from Gauge Invariance in 2+1 Dimensions,1.342618025496106e-05,5.321005613036802e-07,10.0,1.0
+cond-mat/0205644,Universality classes in nonequilibrium lattice systems,1.3378100647073986e-05,0.0002637749231547,20.0,26.0
+hep-lat/0507011,The Low-Lying Dirac Spectrum of Staggered Quarks,1.335497307693658e-05,2.442668168042878e-06,55.0,10.0
+hep-lat/0510119,Chiral properties of dynamical Wilson fermions,1.3349517168976203e-05,1.2983752060253724e-07,80.0,1.0
+hep-th/0208021,Dirac Spectra and Real QCD at Nonzero Chemical Potential,1.33355328685941e-05,4.770961872187486e-07,13.0,3.0
+nucl-th/0301049,Dyson-Schwinger equations: a tool for hadron physics,1.332957414290108e-05,0.0001235450607921,15.0,64.0
+hep-lat/0510043,Unitary Evolution on a Discrete Phase Space,1.3325246780492797e-05,0.0,9.0,0.0
+cond-mat/0512111,"Phase structure of an Abelian two-Higgs model and high temperature
+  superconductors",1.3304892473593997e-05,0.0,4.0,0.0
+hep-lat/0605014,"Strong-Isospin Violation in the Neutron-Proton Mass Difference from
+  Fully-Dynamical Lattice QCD and PQQCD",1.3288031147920305e-05,4.641071874938627e-05,34.0,14.0
+hep-lat/0009017,Center vortices and colour confinement in lattice QCD,1.327095115180638e-05,3.033681812814701e-06,30.0,4.0
+hep-lat/0509032,Three Dimensional N=2 Supersymmetry on the Lattice,1.3220220759843473e-05,1.923861426231144e-06,45.0,9.0
+hep-lat/0405030,"A non-perturbative study of the action parameters for
+  anisotropic-lattice quarks",1.3206705828040971e-05,4.840153987113189e-06,25.0,13.0
+hep-lat/0112003,Asymptotic freedom with discrete spin variables?,1.3196983519156552e-05,6.598856306906983e-06,8.0,1.0
+hep-lat/0412025,"Baryon Electromagnetic Properties in Partially Quenched Heavy Hadron
+  Chiral Perturbation Theory",1.3193606290335488e-05,3.51657367230265e-07,39.0,11.0
+hep-lat/0605019,Non-Perturbative U(1) Gauge Theory at Finite Temperature,1.318898335153796e-05,7.041618017135079e-07,12.0,2.0
+hep-th/0507052,"The influence of the Gribov copies on the gluon and ghost propagators in
+  Euclidean Yang-Mills theory in the maximal Abelian gauge",1.3186330795490011e-05,1.977506310607638e-06,23.0,6.0
+hep-ph/0306069,Induced Universal Properties and Deconfinement,1.3177058897541838e-05,6.882653492899225e-05,20.0,19.0
+hep-lat/0206017,"Monopole clusters, center vortices, and confinement in a Z(2)
+  gauge-Higgs system",1.3151661120794005e-05,6.181171884061189e-07,22.0,4.0
+hep-lat/0304016,"Advanced Algorithms for the Simulation of Gauge Theories with Dynamical
+  Fermionic Degrees of Freedom",1.3150139736633471e-05,0.0001610501640888,27.0,2.0
+hep-lat/0607018,"A Lattice Computation of the First Moment of the Kaon's Distribution
+  Amplitude",1.3116301169709778e-05,1.2232959859909715e-06,28.0,10.0
+hep-lat/0507007,"Deep-inelastic scattering and the operator product expansion in lattice
+  QCD",1.311481270968048e-05,1.391603854184811e-07,32.0,1.0
+hep-ph/0009132,"Electroweak Bubble Nucleation, Nonperturbatively",1.3113828538117624e-05,3.261413504877588e-06,64.0,7.0
+hep-lat/0701024,"Phase diagram at finite temperature and quark density in the strong
+  coupling region of lattice QCD for color SU(3)",1.310499716597412e-05,0.0,6.0,0.0
+hep-lat/0509058,Lattice QFT with FermiQCD,1.3099235074416414e-05,0.0,6.0,0.0
+hep-ph/9707374,Determinations of Standard Model Parameters from Lattice QCD,1.3096165476074147e-05,0.0001031827072165,35.0,3.0
+nucl-th/0412046,On Nucleon Electromagnetic Form Factors,1.3080613839034346e-05,7.658513881499372e-06,8.0,11.0
+hep-lat/0609024,Correlation of the ghost and the quark in the lattice Landau gauge QCD,1.307129375140962e-05,4.868537693205306e-07,12.0,3.0
+hep-lat/0506035,The Color--Flavor Transformation of induced QCD,1.305764661809366e-05,0.0,5.0,0.0
+hep-lat/0007044,"Operator Product Expansion on the Lattice: a Numerical Test in the
+  Two-Dimensional Non-Linear Sigma-Model",1.3037098723130867e-05,0.0001465741255639,44.0,5.0
+hep-ph/0608113,Chiral perturbation theory for nucleon generalized parton distributions,1.303300883041261e-05,3.12508486403151e-06,36.0,8.0
+hep-ph/0310072,"Status of the computation of fBs, fBd, xi and g",1.3018823177606972e-05,4.907313093110899e-05,21.0,23.0
+hep-lat/0607022,Determining F_pi from spectral sum rules,1.301071349826166e-05,3.111552216510759e-07,27.0,3.0
+cond-mat/0209580,Multicritical phenomena in O(n_1)+O(n_2)-symmetric theories,1.3006027568455437e-05,0.0003852797787684,9.0,11.0
+hep-lat/0702016,"Lattice Field Theory with the Sign Problem and the Maximum Entropy
+  Method",1.2999116298533956e-05,0.0,7.0,0.0
+hep-lat/0512001,What the lattice can tell us about nucleon structure,1.2984837915062486e-05,1.078074344788075e-07,10.0,2.0
+hep-lat/0202030,"Better than $1/Mflops sustained: a scalable PC-based parallel computer
+  for lattice QCD",1.2973791191826882e-05,9.3720510446463e-06,26.0,12.0
+hep-ph/0502078,Strong interaction and bound states in the deconfinement phase of QCD,1.2956538469853022e-05,5.815071321870581e-06,27.0,4.0
+hep-lat/0403024,"Theta vacuum effects on the chiral condensation and the eta^prime meson
+  correlators in the two-flavor massive QED_2 on the lattice",1.2949670750090637e-05,2.8713718897823985e-06,5.0,13.0
+hep-ph/0008206,QCD in a Finite Volume,1.2921291312538728e-05,7.174032945392679e-05,54.0,37.0
+hep-lat/0509046,Lattice QCD - A guide for people who want results,1.2891574837881484e-05,2.200843723074117e-06,35.0,4.0
+hep-ph/0602004,Pentaquark state in pole-dominated QCD sum rules,1.287958474481006e-05,1.364833291774142e-08,8.0,1.0
+physics/9709026,Improved Algorithms for Simulating Crystalline Membranes,1.2874911366824426e-05,0.0,15.0,3.0
+hep-lat/0601015,"Cooling, smearing and Dirac eigenmodes - A comparison of filtering
+  methods in lattice gauge theory",1.2871237255609449e-05,3.114813154474802e-06,5.0,4.0
+hep-ph/0501054,Can mass-less QCD dynamically generate heavy quarks?,1.2868907178203285e-05,9.498150297714728e-07,6.0,1.0
+hep-th/0610100,The spectrum of SU(N) gauge theories at nonzero theta,1.286750864393534e-05,0.0,15.0,0.0
+hep-ph/0406296,"On the mass differences between the scalar and pseudoscalar heavy-light
+  mesons",1.283866880522505e-05,4.688308539758005e-06,37.0,13.0
+hep-ph/0611161,"Topology and confinement at T \neq 0 : calorons with non-trivial
+  holonomy",1.281080662890766e-05,0.0,16.0,0.0
+hep-th/0702201,Tricritical behavior of the massive chiral Gross-Neveu model,1.281075037955954e-05,0.0,1.0,0.0
+hep-lat/0607001,Extrapolations of Lattice Meson Form Factors,1.28098423086559e-05,8.209841906779223e-07,35.0,4.0
+hep-lat/0503037,"Localization properties of lattice fermions with plaquette and improved
+  gauge actions",1.2688822166810669e-05,1.0230835348654776e-05,53.0,21.0
+hep-th/0512096,"Interpolating among the Landau, Coulomb and maximal Abelian gauges",1.268859977578616e-05,3.0617021334578937e-07,19.0,1.0
+hep-lat/0608005,Non-perturbatively Determined Relativistic Heavy Quark Action,1.2672998974668227e-05,1.705432131129775e-06,33.0,5.0
+hep-lat/0411025,Computation of the strong coupling in QCD with two dynamical flavours,1.2661178276830304e-05,4.756006249502301e-05,42.0,23.0
+hep-lat/0408019,Semileptonic B Decays with Nf=2+1 Dynamical Quarks,1.263656902549128e-05,1.4087584924679992e-05,3.0,36.0
+hep-lat/0503019,Search for the possible S=+1 Pentaquark states in Quenched Lattice QCD,1.2633674973028473e-05,1.2839915408119056e-05,46.0,14.0
+hep-ph/0006111,On the Nucleon Stability and Sigma_N Term Puzzles,1.2603473474957254e-05,5.068014370587474e-05,15.0,2.0
+hep-ph/0209015,Instantons in the nonperturbative QCD vacuum,1.2601371945023192e-05,1.6814028055424717e-06,25.0,1.0
+hep-lat/0603021,"Evidence for O(2) universality at the finite temperature transition for
+  lattice QCD with 2 flavours of massless staggered quarks",1.259495599725904e-05,5.961573732274762e-06,25.0,8.0
+hep-ph/0303127,Thermal gluo-magnetic vacuum of SU(N) gauge theory,1.2593673259645564e-05,5.938596135250894e-07,32.0,2.0
+hep-ph/0211340,Lattice results relevant to the CKM matrix determination,1.2592916859504552e-05,0.0001128709950721,62.0,26.0
+hep-ph/0107099,The Superfluid and Conformal Phase Transitions of Two-Color QCD,1.2592396831279333e-05,0.0001078600455951,30.0,17.0
+hep-lat/0312036,Propagators and running coupling from SU(2) lattice gauge theory,1.2557305056364506e-05,2.729923510736107e-06,54.0,32.0
+hep-lat/0610092,"Highly Improved Staggered Quarks on the Lattice, with Applications to
+  Charm Physics",1.253575013342946e-05,3.9384274895408097e-07,32.0,2.0
+hep-lat/0611017,"Quarkonium correlators and spectral functions at zero and finite
+  temperature",1.251742921109388e-05,1.958280988055128e-06,25.0,9.0
+hep-lat/9807028,Introduction to Lattice QCD,1.2481715086184312e-05,4.767158654735404e-05,32.0,44.0
+hep-th/0008198,"Lee-Yang edge singularity in the three-dimensional Gross-Neveu model at
+  finite temperature",1.2479430551587078e-05,4.539118564236472e-06,8.0,1.0
+hep-ph/0403175,Tetracritical behavior in strongly interacting theories,1.247622901202787e-05,0.0006757918638337,19.0,9.0
+hep-lat/0701013,"2+1 flavor domain wall QCD on a (2 fm)^3 lattice: light meson
+  spectroscopy with Ls = 16",1.2469974583091646e-05,1.872981119679331e-06,23.0,4.0
+hep-lat/0610124,"The spectrum of radial, orbital and gluonic excitations of charmonium",1.2464644008776448e-05,3.636677166190212e-07,12.0,1.0
+hep-lat/0701002,QCD phase diagram: an overview,1.2453302814409025e-05,1.8045159708693687e-06,31.0,5.0
+hep-lat/0510024,Ginsparg-Wilson Pions Scattering in a Sea of Staggered Quarks,1.2452290795027422e-05,2.6846428359179857e-06,59.0,13.0
+hep-lat/0210013,Domain wall fermion and CP symmetry breaking,1.2408822059207114e-05,2.1831594479081007e-06,62.0,5.0
+hep-lat/0509146,The Scaling of QED in a Non-Commutative Space-Time,1.2389028816118856e-05,3.878609825134748e-07,41.0,4.0
+hep-lat/9902031,"Monopole clusters, Z(2) vortices and confinement in SU(2)",1.2368731774653762e-05,4.019428636685805e-06,17.0,9.0
+hep-ph/9504325,Quark Gluon Plasma from Numerical Simulations of Lattice QCD,1.2352060669013803e-05,0.0,18.0,9.0
+cond-mat/0610530,Matrix Product States Algorithms and Continuous Systems,1.2349161685252707e-05,3.2179571911792213e-09,12.0,1.0
+hep-lat/0509045,Gauge invariance in a Z_2 hamiltonian lattice gauge theory,1.234302631198437e-05,0.0,5.0,0.0
+hep-lat/0411030,On the fourth root prescription for dynamical staggered fermions,1.2335458274108616e-05,7.653973049895324e-06,41.0,23.0
+hep-ph/0310329,Status of lattice calculations of B-meson decays and mixing,1.2296345030033062e-05,6.716503230445615e-06,11.0,11.0
+hep-lat/0610011,Dynamical overlap fermion at fixed topology,1.222735608660687e-05,8.961098063323737e-08,16.0,2.0
+hep-lat/0610025,"The First Moment of the Kaon Distribution Amplitude from N_f=2+1 Domain
+  Wall Fermions",1.2218067193519866e-05,3.9920505384327926e-07,21.0,2.0
+hep-ph/0407229,"Unquenched Lattice Gauge Theory Calculations for Semileptonic B, D
+  Decays",1.2194282894628723e-05,1.341171336290642e-05,13.0,1.0
+hep-lat/0509065,"Magnetic polarizability of hadrons from lattice QCD in the background
+  field method",1.2184116505328484e-05,1.837466035524541e-08,9.0,2.0
+hep-lat/0610055,Distribution Amplitudes of Pseudoscalar Mesons,1.2177515336272648e-05,0.0,5.0,1.0
+hep-th/0507016,"The decay of unstable k-strings in SU(N) gauge theories at zero and
+  finite temperature",1.2168804235509258e-05,7.187766145168305e-06,30.0,8.0
+hep-lat/0411006,Lattice QCD with two dynamical flavors of domain wall quarks,1.216373062248979e-05,3.71707902044023e-05,75.0,45.0
+hep-th/0309008,Instantons and constituent monopoles,1.2158162454519614e-05,1.101956482073442e-05,38.0,9.0
+hep-lat/0701005,Constant contribution in meson correlators at finite temperature,1.2151061886479473e-05,0.0,25.0,0.0
+hep-lat/0411018,"Non-perturbative definition of five-dimensional gauge theories on the
+  R^4 x S^1/Z_2 orbifold",1.2143858388135054e-05,4.601606467075524e-06,32.0,4.0
+hep-lat/0611034,Localization properties of fermions and bosons,1.213621170906687e-05,0.0,17.0,0.0
+hep-lat/0603018,In-Medium Modifications of Hadron Properties,1.2134949256062971e-05,1.7572586498847265e-06,9.0,3.0
+hep-lat/0509106,$1^{-+}$ exotic meson at light quark masses,1.2122779978375136e-05,2.32316061111642e-06,34.0,5.0
+hep-lat/0609033,Simulation of Lattice Gauge Action from the Overlap Operator,1.2072196891720773e-05,6.189440621801278e-07,30.0,2.0
+hep-lat/0606006,Search for the Theta^+(1540) in lattice QCD,1.2070753577435184e-05,0.0,38.0,0.0
+hep-lat/0609018,Direct numerical computation of disorder parameters,1.206137642057978e-05,4.601668375906928e-07,2.0,1.0
+hep-th/0403162,Multisupergravity from latticized extra dimension,1.203761037737526e-05,2.211682428094919e-06,20.0,3.0
+hep-th/0205032,SU(2) Abelian projected action for renormalisation group flows,1.2021662992319845e-05,6.903695746003922e-07,30.0,2.0
+hep-lat/0509078,The pion mass in finite volume to two loops,1.200668955179189e-05,7.50070042973146e-07,18.0,2.0
+hep-lat/0504012,Divergent chiral condensate in the quenched Schwinger model,1.1992757642837492e-05,1.017965701451762e-07,36.0,1.0
+hep-lat/0606021,Lattice Regularization and Symmetries,1.1982844881627266e-05,1.6653271742455566e-07,21.0,1.0
+hep-lat/0506028,Spontaneous Parity Violation,1.198082668196886e-05,0.0,9.0,0.0
+hep-lat/0509048,Nuclear Physics and Lattice QCD,1.1972805837494682e-05,1.9776328381874004e-06,32.0,5.0
+hep-lat/0506013,I=2 pi-pi Scattering from Fully-Dynamical Mixed-Action Lattice QCD,1.1970697315109916e-05,1.972295150318103e-05,50.0,26.0
+hep-ph/0305264,"The 3-D O(4) universality class and the phase transition in two-flavor
+  QCD",1.1969086446894536e-05,3.417106166440821e-06,39.0,5.0
+hep-lat/0507033,"One-loop matching of Delta S=2 four-quark operators with improved
+  staggered fermions",1.1959728849537796e-05,1.0017860053312151e-06,29.0,4.0
+hep-lat/0510107,On the effective string spectrum of the tridimensional Z(2) gauge model,1.195652450949083e-05,1.1274183706149764e-07,31.0,4.0
+hep-lat/0210025,Chiral Effective Lagrangian and Quark Masses,1.1949035559700387e-05,9.55839927742116e-05,24.0,35.0
+hep-lat/0304017,Heavy Quark Free Energies and Screening in SU(2) Gauge Theory,1.193343899007517e-05,3.17765114481002e-06,3.0,6.0
+cond-mat/9411017,Monte Carlo Studies of Ising Spin Glasses and Random Field Systems,1.1918962696097892e-05,0.0,14.0,0.0
+hep-lat/0610079,"Matrix elements and diquark correlations in quenched QCD with overlap
+  fermions",1.1913330539675511e-05,0.0,8.0,0.0
+hep-lat/0509105,"Vortex-Line Percolation in the Three-Dimensional Complex Ginzburg-Landau
+  Model",1.1897791613157623e-05,0.0,9.0,0.0
+hep-lat/0103019,Abelian monopole and vortex condensation in lattice gauge theories,1.1885590193049992e-05,2.0010513800649972e-08,32.0,1.0
+hep-lat/0702007,Loop Approach to Lattice Gauge Theories,1.188022656100582e-05,0.0,2.0,1.0
+hep-lat/0011092,Algebraic Multigrid for Disordered Systems and Lattice Gauge Theories,1.1873162320566176e-05,0.0,18.0,1.0
+hep-lat/0111010,Heavy quark physics from lattice QCD,1.1867618515254976e-05,2.1215534560647557e-05,23.0,55.0
+hep-ph/0508117,A NJL-based study of the QCD critical line,1.1850247016679924e-05,1.99759561063758e-06,32.0,5.0
+hep-lat/0508011,The Kaon B-parameter from Quenched Domain-Wall QCD,1.1823950008300354e-05,9.29180236445036e-06,54.0,19.0
+hep-ph/0211287,"Confining QCD Strings, Casimir Scaling, and a Euclidean Approach to
+  High-Energy Scattering",1.181138332543758e-05,3.2492947040805735e-05,9.0,17.0
+hep-ph/0609294,Heavy Quark Effective Theory computation of the mass of the bottom quark,1.1807457593391527e-05,9.403551508201576e-07,59.0,6.0
+hep-lat/0510078,Unified chiral analysis of the vector meson spectrum from lattice QCD,1.177318598722578e-05,7.482351408768228e-06,39.0,5.0
+hep-lat/0609031,The one-flavor quark condensate and related problems,1.1765685704502178e-05,1.4065691442268857e-05,37.0,2.0
+hep-ph/0703167,Combining infrared and low-temperature asymptotes in Yang-Mills theories,1.1765017921888938e-05,0.0,4.0,0.0
+hep-lat/0703007,Confining string and its widening in HP1 embedding approach,1.1764633868702569e-05,0.0,10.0,0.0
+hep-lat/0610116,Lattice QCD at Finite Density,1.175552999000807e-05,4.8494111388074325e-06,9.0,7.0
+hep-lat/9910039,Lattice QCD and chiral mesons,1.1744974816212584e-05,0.0,6.0,2.0
+hep-th/0606195,"Holographic melting and related properties of mesons in a quark gluon
+  plasma",1.1722692880374096e-05,1.2362928964541692e-05,35.0,37.0
+hep-lat/0701023,Diquark correlations in baryons on the lattice with overlap quarks,1.167475035870462e-05,0.0,21.0,0.0
+hep-lat/9610010,Heavy Light Weak Matrix Elements,1.1668088809196333e-05,1.3023898429379936e-07,38.0,9.0
+hep-lat/0606023,f_K/f_pi in Full QCD with Domain Wall Valence Quarks,1.1658826203129357e-05,9.19584646409509e-06,42.0,9.0
+hep-lat/9712007,Lattice Models of Random Geometries,1.1652337535746387e-05,0.0,12.0,1.0
+hep-lat/0506008,On lattice actions for static quarks,1.1651207975023416e-05,1.8531444200298264e-05,38.0,15.0
+hep-ph/0012154,B-\bar{B} Mixing and b Hadron Lifetimes from Lattice QCD,1.1644852906682784e-05,5.516472586561864e-06,18.0,11.0
+hep-lat/0401033,"Renormalization Constants of Quark Operators for the Non-Perturbatively
+  Improved Wilson Action",1.164052690790623e-05,1.8378983582739567e-05,44.0,19.0
+hep-lat/0104005,Non-Perturbative Renormalization in Lattice Field Theory,1.163649097676048e-05,2.642162362300078e-06,46.0,3.0
+hep-ph/0607152,On the relation between low-energy constants and resonance saturation,1.1616703455344324e-05,1.584090212516302e-06,16.0,2.0
+hep-ph/0506053,Solving coupled Dyson--Schwinger equations on a compact manifold,1.1588537464562136e-05,4.220328626538061e-05,34.0,27.0
+hep-th/0306247,The Fuzzy Disc,1.1575538976730371e-05,1.318475041756975e-05,36.0,16.0
+hep-lat/0410008,Status of Lattice Flavor Physics,1.1575502677325412e-05,3.5883999155605376e-06,22.0,11.0
+hep-lat/0604021,Dynamical QCD simulations on anisotropic lattices,1.1571618926606906e-05,9.918633930835152e-07,16.0,5.0
+hep-ph/0505034,"Static QCD Potential at r < 1/Lambda_QCD: Perturbative expansion and
+  operator-product expansion",1.1562743271885348e-05,2.2457371091276565e-06,48.0,5.0
+hep-lat/0608008,Fixed twist dynamics of SO(3) gauge theory,1.1544033730852013e-05,0.0,2.0,2.0
+hep-lat/0612014,"Disorder parameter and canonical quantization approach in lattice gauge
+  theory",1.1527553797257852e-05,0.0,2.0,0.0
+hep-lat/0608019,Quark condensate in two-flavor QCD,1.1526350489958351e-05,5.697855837293501e-07,36.0,12.0
+hep-ph/0310342,Baryon asymmetry from electroweak tachyonic preheating,1.1516866740102127e-05,1.8036163914425332e-05,33.0,13.0
+hep-lat/0408004,Probing for Instanton Quarks with epsilon-Cooling,1.151162834697684e-05,6.388087068317251e-07,34.0,10.0
+hep-lat/0606010,"$Z_6$ symmetry, electroweak transition, and magnetic monopoles at high
+  temperature",1.1506544149762489e-05,0.0,1.0,0.0
+hep-lat/0304018,Moments of Nucleon Generalized Parton Distributions in Lattice QCD,1.1483582064810328e-05,0.0001359737023254,26.0,36.0
+hep-ph/0309301,Hints on dual variables from the lattice SU(2) gluodynamics,1.1466653944563028e-05,1.3276243989987822e-05,30.0,13.0
+hep-lat/0410035,"Various Super Yang-Mills Theories with Exact Supersymmetry on the
+  Lattice",1.1461216551514551e-05,1.5194119100102912e-05,37.0,23.0
+hep-lat/0604023,Spin-3/2 baryons from an anisotropic lattice QCD action,1.1460601316681803e-05,5.550581941055433e-06,9.0,4.0
+hep-lat/9607021,Gravity and Random Surfaces on the Lattice - A Review,1.145375832869556e-05,0.0,16.0,6.0
+hep-th/0404020,"Phase diagram and dispersion relation of the non-commutative \lambda
+  \phi^{4} model in d=3",1.1446100731581886e-05,1.2716984008265984e-05,60.0,22.0
+hep-lat/0509091,"Non-perturbatively Renormalized Light Quark Masses with Two Dynamical
+  Fermions",1.1445406357615117e-05,4.79241388728691e-06,40.0,6.0
+hep-lat/0404018,"Chiral extrapolations of baryon masses for unquenched three-flavor
+  lattice simulations",1.1443924457971758e-05,2.113873940916188e-06,39.0,11.0
+hep-lat/0008025,Randomness on the Lattice,1.1413379808110691e-05,0.0,20.0,0.0
+cond-mat/0004330,"Transfer Matrices and Partition-Function Zeros for Antiferromagnetic
+  Potts Models I. General Theory and Square-Lattice Chromatic Polynomial",1.14058220462525e-05,7.800320134076537e-05,31.0,23.0
+hep-lat/0103011,"Topological susceptibility in full QCD: lattice results versus the
+  prediction from the QCD partition function with granularity",1.1400592359545215e-05,4.63701149179967e-05,36.0,20.0
+hep-lat/0302004,The spectrum of screening masses near T_c: predictions from universality,1.1399629546011552e-05,2.5632328986638413e-06,17.0,1.0
+hep-lat/0503035,Color confinement and dual superconductivity of the vacuum. IV,1.1392453372654298e-05,2.9968088030926617e-06,26.0,3.0
+hep-lat/0505019,"Model independent approach to studies of the confining dual Abrikosov
+  vortex in SU(2) lattice gauge theory",1.1390460392408283e-05,3.174355362852673e-06,15.0,7.0
+hep-lat/0307032,"Correlation lengths and scaling functions in the three-dimensional O(4)
+  model",1.1378061717053263e-05,5.457045580201699e-07,12.0,2.0
+hep-th/0412052,Dynamical generation of a nontrivial index on the fuzzy 2-sphere,1.1359289038051918e-05,1.0931700609598561e-07,47.0,8.0
+hep-lat/0312002,Lattice simulations of 2-colour QCD with Wilson fermions,1.1313256806552138e-05,2.2734799124208524e-06,20.0,6.0
+hep-lat/0508030,"Simulating nonequilibrium quantum fields with stochastic quantization
+  techniques",1.1306642769960712e-05,4.571945662300895e-06,2.0,4.0
+hep-lat/0509013,An Algorithmic Approach to Quantum Field Theory,1.1302967364476014e-05,1.972697311112736e-06,40.0,1.0
+hep-ph/0110253,"Lattice calculation of the zero-recoil form factor of anti-B --> D*
+  lepton anti-neutrino: toward a model independent determination of |V(cb)|",1.1298445176039455e-05,4.489188281538263e-05,42.0,49.0
+hep-lat/0112045,"Application of heavy-quark effective theory to lattice QCD: III.
+  Radiative corrections to heavy-heavy currents",1.1289405365570991e-05,0.0008273388200908,33.0,10.0
+hep-lat/0112044,"Application of heavy-quark effective theory to lattice QCD: II.
+  Radiative corrections to heavy-light currents",1.1283607577690411e-05,1.7164455687659532e-05,46.0,12.0
+cond-mat/0701113,Critical speeding-up in a local dynamics for the random-cluster model,1.1270229362811906e-05,7.970327122821786e-07,8.0,1.0
+cond-mat/0407444,"Transfer Matrices and Partition-Function Zeros for Antiferromagnetic
+  Potts Models. IV. Chromatic polynomial with cyclic boundary conditions",1.1258716578058324e-05,6.811040403920107e-06,16.0,8.0
+cond-mat/0204403,Slow dynamics in the 3--D gonihedric model,1.1258316890250903e-05,1.990182755160072e-06,15.0,2.0
+hep-lat/0606011,"Numerical simulation of QCD with u, d, s and c quarks in the
+  twisted-mass Wilson formulation",1.1237337294015347e-05,2.6444701406112096e-06,37.0,6.0
+hep-lat/0610112,Twisted mass QCD thermodynamics: first results on apeNEXT,1.122099477380388e-05,1.9322950616625946e-07,11.0,1.0
+hep-th/0111058,Dynamics of hot gauge theories,1.122062694906714e-05,0.0006684456508817,45.0,3.0
+hep-th/0609049,Note on massless bosonic states in two-dimensional field theories,1.121597573212212e-05,8.046623993112752e-08,15.0,2.0
+hep-lat/0210017,"Lattice Perturbation Theory in Noncommutative Geometry and Parity
+  Anomaly in 3D Noncommutative QED",1.1199664384657098e-05,4.321077901167803e-05,61.0,12.0
+hep-lat/0509130,Status of the APENet project,1.118952224077854e-05,0.0,1.0,0.0
+nucl-th/0601071,Hadron Physics and Dyson-Schwinger Equations,1.1181769819467624e-05,1.0511855747146084e-05,9.0,11.0
+hep-lat/0010008,Testing imaginary vs. real chemical potential in finite-temperature QCD,1.1177304623638624e-05,2.851063882681947e-05,41.0,21.0
+hep-lat/0609028,"Investigation of the overlap of excited bottomonium states with hybrid
+  operators",1.117618609003283e-05,6.780040272992609e-08,6.0,1.0
+hep-lat/0702027,Improving the improved action,1.1168372905135064e-05,0.0,9.0,0.0
+hep-lat/0403021,"What the Gribov copy tells on the confinment and the theory of dynamical
+  chiral symmetry breaking",1.1167765614279965e-05,0.0003716383485762,28.0,22.0
+hep-lat/0609078,Spin-dependent potentials from lattice QCD,1.116544711195956e-05,2.737238365782364e-06,32.0,7.0
+hep-lat/0611023,Staggered Baryon Operators with Flavor SU(3) Quantum Numbers,1.1153397609256829e-05,6.8829113020574465e-09,17.0,1.0
+hep-lat/0702023,Lattice Study of Low-lying Nonet Scalar Mesons in Quenched Approximation,1.115149395487832e-05,3.975865802701327e-08,6.0,1.0
+hep-lat/0608007,Anomalous superfluidity in 2+1 dimensional two-color lattice QCD,1.114761977243392e-05,0.0,7.0,0.0
+hep-lat/0411024,"N=1 super Yang-Mills on a (3+1) dimensional transverse lattice with one
+  exact supersymmetry",1.1146724830547714e-05,9.349855322204593e-06,41.0,7.0
+hep-lat/0601025,Strange Electric Form Factor of the Proton,1.1129967998201531e-05,9.190655105896523e-06,25.0,9.0
+hep-th/0201223,"Discretized Yang-Mills and Born-Infeld actions on finite group
+  geometries",1.111474204563963e-05,1.770361949399703e-05,17.0,7.0
+hep-ph/0203115,On Relevance Of Matrix Coordinates For The Inside Of Baryons,1.1111845376207116e-05,7.37602972532003e-08,25.0,2.0
+hep-ph/0601002,A precise determination of $B_K$ in quenched QCD,1.1111341729068116e-05,2.793675522755209e-06,42.0,10.0
+hep-lat/0609070,"The chiral condensate on 2-flavor staggered configurations from an
+  overlap operator",1.1108181533623389e-05,6.269747033586003e-08,15.0,1.0
+hep-lat/0607036,Pi-K Scattering in Full QCD with Domain-Wall Valence Quarks,1.1099751385557108e-05,4.916143375406687e-06,28.0,12.0
+hep-lat/0601033,Finite volume corrections to pi-pi scattering,1.109291171724316e-05,5.827038149482443e-07,33.0,4.0
+hep-lat/0401020,The deconfining phase transition in full QCD with two dynamical flavors,1.109245390069756e-05,4.698615085349856e-06,27.0,4.0
+hep-lat/0503014,Finite volume effects for meson masses and decay constants,1.1081125476043744e-05,1.6067131157848376e-05,43.0,21.0
+hep-ph/0309216,Hadronic Matrix Elements for Kaons,1.1080681402808868e-05,5.105979522721626e-06,58.0,7.0
+hep-ph/0611304,"On Heavy-Quark Free Energies, Entropies, Polyakov Loop, and AdS/QCD",1.107555419912005e-05,4.735494256527913e-07,6.0,1.0
+hep-lat/0210015,Supersymmetry on the lattice,1.1065640270837198e-05,0.0001617263693384,22.0,42.0
+hep-lat/0101014,Studying Hadronic Structure of the Photon in Lattice QCD,1.1061796815625766e-05,0.0,4.0,0.0
+hep-lat/9906028,Statistical mechanics of vortices from field theory,1.1045667041005082e-05,3.4054492624563e-07,28.0,6.0
+hep-lat/0509096,Is there a third-order phase transition in quenched QCD?,1.1043025791685667e-05,2.075103512707345e-06,15.0,1.0
+solv-int/9911008,Multidimensional analogs of geometric s<-->t duality,1.1040629157892955e-05,0.0,5.0,3.0
+hep-lat/0208057,Axial anomaly with the overlap-Dirac operator in arbitrary dimensions,1.10326634325983e-05,2.8899121436688326e-06,26.0,13.0
+hep-lat/0206022,Modified iterative versus Laplacian Landau gauge in compact U(1) theory,1.1030214727040574e-05,5.047691923032459e-07,22.0,2.0
+hep-lat/9906003,Potential between adjoint sources in arbitrary representations,1.1024651151487046e-05,0.0,11.0,0.0
+hep-th/0106053,"Microscopic correlations of non-Hermitian Dirac operators in
+  three-dimensional QCD",1.0989276261519856e-05,1.569973210639812e-05,29.0,12.0
+hep-lat/0506011,"HMC algorithm with multiple time scale integration and mass
+  preconditioning",1.0983558385888071e-05,3.79968028008639e-05,25.0,35.0
+hep-lat/0509038,Fermion propagators in QED3 with velocity anisotropies,1.0954283144276733e-05,0.0,12.0,0.0
+hep-ph/0310249,"Hadron resonance gas and nonperturbative QCD vacuum at finite
+  temperature",1.0932301044276396e-05,2.0510312785854705e-08,7.0,2.0
+hep-lat/0411026,"Automatically generating Feynman rules for improved lattice field
+  theories",1.092557468627964e-05,3.677010435719179e-06,21.0,4.0
+hep-lat/0505018,"Exotic Particles and $w_\infty$-Algebras in Two- and High-Dimensional
+  Spaces",1.0917948492960528e-05,0.0,11.0,0.0
+hep-lat/0609040,Lattice QCD at finite temperature,1.0898862328445512e-05,2.38556960508794e-06,18.0,4.0
+hep-ph/9811476,Quark deconfinement and meson properties at finite temperature,1.0894677274110702e-05,1.0490931288247237e-07,1.0,7.0
+hep-ph/0301138,"Heavy Quarks: Effective Theories, Lattice and Models",1.0893846952356014e-05,1.6663357415516813e-05,25.0,3.0
+hep-lat/0011050,Supersymmetry on Lattice Using Ginsparg-Wilson Relation,1.089158005580279e-05,0.0,1.0,3.0
+hep-lat/0508029,A New Method for Determining $F_\pi$ on the Lattice,1.0861618677732336e-05,4.254940122483175e-06,33.0,12.0
+hep-th/0001110,Effective Low Energy Theories and QCD Dirac Spectra,1.0857280118651698e-05,6.899616553255327e-06,27.0,13.0
+hep-lat/0511036,Nf=2 Lattice QCD and Chiral Perturbation Theory,1.085281269058903e-05,7.306989667669128e-08,33.0,2.0
+hep-lat/0607014,Dual superconductivity and vacuum properties in Yang--Mills theories,1.08518237380283e-05,1.7467182235412965e-06,5.0,1.0
+hep-lat/0609072,Light baryon spectrum using improved interpolating operators,1.083392196214984e-05,0.0,11.0,0.0
+hep-th/0511207,Zero-dimensional analogue of the global gauge anomaly,1.0833021455819547e-05,0.0,6.0,0.0
+hep-lat/0509041,"Another weak first order deconfinement transition: three-dimensional
+  SU(5) gauge theory",1.082976058154227e-05,3.167568633750027e-06,8.0,4.0
+hep-lat/0112016,Finite-size Scaling of Meson Propagators,1.0827017685869513e-05,5.764118733285455e-06,30.0,27.0
+hep-th/0007119,Magnetic monopoles vs. Hopf defects in the Laplacian (Abelian) gauge,1.0790288613743158e-05,7.218726227999512e-05,25.0,11.0
+hep-lat/0509087,Laplacian modes for calorons and as a filter,1.078172694110592e-05,0.0,10.0,0.0
+hep-lat/0511030,Laplacian modes as a filter,1.078172694110592e-05,9.639541395701647e-07,10.0,1.0
+hep-th/0003119,Lattice Gauge Theories and the AdS/CFT Correspondence,1.07641523507595e-05,5.12305547537607e-06,57.0,1.0
+hep-ph/0408234,Possible Interpretations of $D_{sJ}^+(2632)$ If It Really Exists,1.0729708267416745e-05,5.672772953944338e-06,19.0,4.0
+hep-ph/0310302,WG V Conveners' Report: Charm Inputs for CKM Physics,1.0695883271814723e-05,1.0884808367239175e-07,13.0,1.0
+hep-lat/0111009,Topology and Low Lying Fermion Modes,1.0687030271128351e-05,5.4355632282247485e-06,28.0,9.0
+hep-ph/0110124,Theoretical progress in describing the B-meson lifetimes,1.0672278817599014e-05,1.2807505620504124e-05,38.0,21.0
+math-ph/9810011,"Projective Systems of Noncommutative Lattices as a Pregeometric
+  Substratum",1.0636169054885672e-05,7.679010179522487e-07,5.0,3.0
+hep-lat/0602019,Finite Volume Dependence of the Quark-Antiquark Vacuum Expectation Value,1.0634006971978493e-05,4.320067327227033e-07,17.0,4.0
+hep-lat/0610127,"Electromagnetic Corrections in Partially Quenched Chiral Perturbation
+  Theory",1.0627048586481104e-05,1.0298227826316866e-08,33.0,1.0
+hep-ph/0605096,Spectral distribution for the decay tau -> nu_tau K pi,1.062273190762828e-05,5.838739875393931e-07,37.0,2.0
+hep-th/0001175,Instantons and Gribov Copies in the Maximally Abelian Gauge,1.0598310235280596e-05,4.628496543687015e-06,22.0,11.0
+hep-lat/0510014,"Non-perturbatively renormalised light quark masses from a lattice
+  simulation with N_f=2",1.057893631029608e-05,6.980126785777425e-06,34.0,12.0
+hep-lat/0511043,"Infrared Gluon Propagator from lattice QCD: results from large
+  asymmetric lattices",1.0539584485812075e-05,0.0003391570817883,31.0,23.0
+quant-ph/0401101,"Phase Structure of the Random-Plaquette Z_2 Gauge Model: Accuracy
+  Threshold for a Toric Quantum Memory",1.0526904004997372e-05,2.264421910924029e-05,11.0,4.0
+cond-mat/0110287,"Exact Finite-Size-Scaling Corrections to the Critical Two-Dimensional
+  Ising Model on a Torus. II. Triangular and hexagonal lattices",1.0525076881939429e-05,1.4743560761333889e-05,17.0,3.0
+hep-lat/0210048,"B-->pi and B-->K transitions in standard and quenched chiral
+  perturbation theory",1.0500656625962409e-05,5.25858155114298e-06,58.0,12.0
+hep-th/0701229,"A note on C-Parity Conservation and the Validity of Orientifold Planar
+  Equivalence",1.0483754481901984e-05,2.1374862238491813e-07,19.0,4.0
+hep-lat/0004019,"The pion_0 to gamma gamma decay and the chiral anomaly in the
+  quark-composites approach to QCD",1.048240454579554e-05,1.990182755160072e-06,9.0,1.0
+hep-lat/0610095,The isospin breaking effect on baryons with Nf=2 domain wall fermions,1.0473419037590118e-05,0.0,4.0,0.0
+hep-lat/0609042,"Multi-Step stochastic correction in dynamical fermion updating
+  algorithms",1.047146331716218e-05,2.289991298726496e-08,24.0,2.0
+gr-qc/0506035,Counting a black hole in Lorentzian product triangulations,1.0447569491754342e-05,2.3869068779383226e-06,21.0,7.0
+hep-lat/0409126,Chiral dynamics in QCD at finite chemical potential,1.04474821327448e-05,0.0,8.0,0.0
+hep-lat/0211035,QCD and the eta prime Mass: Instantons or Confinement?,1.0446942900679104e-05,1.2551969699414896e-05,35.0,5.0
+hep-lat/0410033,"Baryon Masses in Partially Quenched Heavy Hadron Chiral Perturbation
+  Theory",1.0444316215185234e-05,3.8770750298602636e-08,33.0,6.0
+hep-lat/0702028,Hypercubic Smeared Links for Dynamical Fermions,1.0435500397005385e-05,0.0,23.0,0.0
+hep-lat/0510088,Staggered Chiral Perturbation Theory for Heavy-Light Mesons,1.043208282066164e-05,5.7809628269208365e-06,51.0,10.0
+hep-lat/0309054,"The two-dimensional Wess-Zumino model in the Hamiltonian lattice
+  formulation",1.0425216412476689e-05,0.0009148739455353,2.0,4.0
+hep-lat/0410007,External Fields and Color Confinement,1.042214393214754e-05,0.0,10.0,1.0
+hep-lat/0508004,Vacuum type of SU(2) gluodynamics in maximally Abelian and Landau gauges,1.0420610597907397e-05,1.6031923011377073e-05,9.0,10.0
+hep-lat/0607002,Proton decay matrix elements with domain-wall fermions,1.0418850586480455e-05,0.0008956080920923,45.0,3.0
+hep-lat/0211023,Domain wall fermions with improved gauge actions,1.041716944453267e-05,3.763801308104424e-05,44.0,56.0
+hep-lat/0311039,Actions for dynamical fermion simulations: are we ready to go?,1.041157716567125e-05,1.824878188112154e-05,39.0,35.0
+hep-lat/0201021,"Moments of Nucleon Light Cone Quark Distributions Calculated in Full
+  Lattice QCD",1.04072299280962e-05,3.848604173508237e-05,52.0,38.0
+hep-lat/0201003,Progress in lattice algorithms,1.0405327700565932e-05,0.0004837358211665,20.0,10.0
+hep-ph/0310130,"QCD phenomenology of static sources and gluonic excitations at short
+  distances",1.0401958864228792e-05,3.084871460822021e-05,65.0,19.0
+hep-th/0612094,"Phase structure and phase transitions of the SU(2) x O(N) symmetric
+  scalar field theory",1.039819703403365e-05,0.0,2.0,0.0
+hep-lat/0509059,Low energy constants from the chirally improved Dirac operator D_CI,1.0393604656799262e-05,3.200141634912013e-08,19.0,1.0
+hep-ph/0311045,"A non-perturbative computation of the B-meson decay constant and the
+  b-quark mass in HQET",1.037716262264224e-05,0.0,22.0,1.0
+hep-lat/0412004,Derivation of Chiral Lagrangians from Random Lattice QCD,1.0372304223247571e-05,0.0,20.0,0.0
+hep-lat/0210028,"One loop matching coefficients for a variant overlap action--and some of
+  its simpler relatives",1.037099786812646e-05,1.1670954589123822e-06,32.0,15.0
+hep-lat/0508028,Ghost condensation on the lattice,1.0357430082329075e-05,0.0001779816385758,13.0,4.0
+hep-lat/0302006,"Duality of gauge field singularities and the structure of the flux tube
+  in Abelian-projected SU(2) gauge theory and the dual Abelian Higgs model",1.0338759336165462e-05,7.247731495455527e-06,29.0,13.0
+hep-lat/0405010,Hadronic property at finite density,1.0338552832674765e-05,1.2560873182019865e-07,18.0,1.0
+hep-lat/0604022,"Precision Electromagnetic Structure of Octet Baryons in the Chiral
+  Regime",1.032742561498772e-05,4.074041940697781e-06,29.0,7.0
+hep-ph/0009143,Perturbative quark bound states in pNRQCD,1.031254417329908e-05,8.251172285074924e-10,37.0,1.0
+hep-ph/0110012,"Dynamics near the critical point: the hot renormalization group in
+  quantum field theory",1.0307694820212836e-05,3.4565333748931835e-06,5.0,3.0
+hep-ph/0402242,The pressure of QCD at finite temperature and quark number density,1.0304631486909511e-05,6.092839228631773e-06,53.0,8.0
+hep-ph/9911400,Lattice Gauge Theory,1.0300845804504485e-05,0.0010947253012819,51.0,13.0
+hep-lat/0312016,Effective heavy-light meson energies in small-volume quenched QCD,1.028250623369294e-05,1.4656992033670594e-07,32.0,10.0
+hep-lat/0208038,$B^0-\bar{B}^0$ mixing in quenched lattice QCD,1.0280277686845631e-05,2.3568030842201818e-06,54.0,24.0
+hep-lat/0612010,"Chiral crystals in strong-coupling lattice QCD at nonzero chemical
+  potential",1.0277985743610673e-05,1.990182755160072e-06,13.0,1.0
+hep-lat/0403011,Signals of confinement in Green functions of SU(2) Yang-Mills theory,1.0263441688584092e-05,6.955231606124922e-06,42.0,17.0
+hep-ph/0611228,Magnetic component of Yang-Mills plasma,1.0261216287767312e-05,3.5335301211944e-06,6.0,2.0
+hep-lat/0303005,Gauge Theories on a 2+2 Anisotropic Lattice,1.0260515499338129e-05,5.002273197826674e-09,34.0,2.0
+hep-lat/0610003,Regularizing QCD with staggered fermions and the fourth root trick,1.0257677046126432e-05,1.9119437009769898e-07,36.0,5.0
+hep-th/0202162,"Fermion-number violation in regularizations that preserve fermion-number
+  symmetry",1.0238352046300803e-05,1.0408941555883917e-05,20.0,6.0
+hep-lat/0210033,Perturbative Wilson loops with massive sea quarks on the lattice,1.0234980877033624e-05,7.25390586527952e-06,61.0,15.0
+hep-lat/0512011,Nucleon structure from generalized parton distributions in lattice QCD,1.0233568087529771e-05,1.0381146410704775e-06,30.0,4.0
+hep-lat/0507004,"Continuum and lattice meson spectral functions at nonzero momentum and
+  high temperature",1.0231135454665292e-05,4.5927881609176185e-06,18.0,9.0
+hep-lat/0309010,"Universality, vortices and confinement: modified SO(3) lattice gauge
+  theory at non-zero temperature",1.0218914107666647e-05,3.9830058854513685e-06,17.0,5.0
+hep-lat/0605002,"Renormalisation of Composite Operators in Lattice Perturbation Theory
+  with Clover Fermions: Non-forward Matrix Elements",1.0199573135515128e-05,1.698591295938296e-06,18.0,3.0
+hep-lat/0603003,"Noncommutativity Approach to Supersymmetry on the Lattice: SUSY Quantum
+  Mechanics and an Inconsistency",1.0198843782743012e-05,1.1942394217280781e-08,10.0,3.0
+hep-th/0205304,Fermion-induced quantum action of vortex systems,1.018676504125577e-05,3.894440549340717e-05,29.0,8.0
+hep-lat/0409071,APENet: LQCD clusters a la APE,1.0181457450693835e-05,1.990182755160072e-06,3.0,1.0
+hep-lat/0308031,"Monopoles in Abelian Polyakov gauge and projection (in)dependence of the
+  dual superconductor mechanism of confinement",1.018010199797956e-05,1.9732423083259342e-06,9.0,5.0
+cond-mat/0409172,Spontaneous vortex formation on a superconductor film,1.0172609665570253e-05,4.649454383940719e-06,15.0,4.0
+hep-th/9911242,"Non-Abelian Stokes Theorem and Quark Confinement in SU(N) Yang-Mills
+  Gauge Theory",1.0152182496473185e-05,7.701047032939354e-05,36.0,21.0
+hep-lat/9704005,How to Count Kinks: From the Continuum to the Lattice and Back,1.014503992254937e-05,0.0,6.0,4.0
+hep-lat/0411001,Going chiral: overlap versus twisted mass fermions,1.0129740483611496e-05,1.3203080431618588e-06,35.0,19.0
+hep-lat/0403005,Electroweak Matrix Elements in the Two-Nucleon Sector from Lattice QCD,1.0123610203655448e-05,0.0010292638956372,42.0,11.0
+hep-ph/0604056,Is the QCD ghost dressing function finite at zero momentum ?,1.0106876931759228e-05,6.543672915939008e-08,12.0,5.0
+hep-lat/0510047,Scaling test of fermion actions in the Schwinger model,1.0058443617013149e-05,5.047250034939467e-07,28.0,2.0
+hep-lat/0211017,"Quark Contributions to Baryon Magnetic Moments in Full, Quenched and
+  Partially Quenched QCD",1.0054874990291838e-05,1.652509675535467e-05,48.0,24.0
+hep-lat/0512022,Properties of phase transitions of higher order,1.0049482471744897e-05,1.990182755160072e-06,8.0,1.0
+hep-th/0507126,Classical Simulation of Quantum Fields I,1.0044467221185329e-05,2.1427474445104026e-07,5.0,2.0
+hep-lat/0501007,Twist-two matrix elements at finite and infinite volume,1.003192401314888e-05,4.25820496213254e-06,17.0,18.0
+hep-lat/0504023,Masslessness of ghosts in equivariantly gauge-fixed Yang--Mills theories,1.0028427729431932e-05,8.486920064648494e-09,6.0,1.0
+hep-ph/0602200,"Leading Chiral Corrections to the Nucleon Generalized Parton
+  Distributions",1.0025021011756631e-05,4.423375509023199e-06,8.0,5.0
+hep-lat/0512019,Random membrane model for lattice gluodynamics,1.001640907144478e-05,0.0,4.0,0.0
+nucl-th/0402072,Nuclear Lattice Simulations with Chiral Effective Field Theory,1.0013667981485684e-05,0.0009761981414092,28.0,20.0
+hep-lat/0702026,"K_l3 form factor with N_f=2+1 dynamical domain wall fermions: A progress
+  report",1.0003238223487258e-05,3.51877778366636e-07,14.0,2.0
+hep-lat/0511048,"Matrix elements and baryon spectroscopy from unquenched lattice QCD with
+  improved staggered quarks",9.982482790640943e-06,1.1796518073059471e-06,16.0,1.0
+hep-lat/0011009,What happens to Lattice Fermion near Continuum Limit?,9.971887798156298e-06,1.990182755160072e-06,10.0,1.0
+hep-ph/0607133,"The K^*_0(800) scalar resonance from Roy-Steiner representations of pi K
+  scattering",9.949842072301291e-06,1.060226509566662e-05,22.0,14.0
+hep-lat/0510036,A Review of Pentaquark Calculations on the Lattice,9.93658948425572e-06,2.125657667261163e-06,7.0,3.0
+hep-ph/0602194,The operator product expansion does not imply parity doubling of hadrons,9.904408867777858e-06,9.395817374394466e-07,14.0,9.0
+hep-lat/0407026,Random Lattice QCD and chiral effective theories,9.901978899188451e-06,0.0,18.0,0.0
+hep-lat/0509126,"Dynamical supersymmetry breaking and phase diagram of the lattice
+  Wess-Zumino model",9.900209728113931e-06,0.0,8.0,0.0
+hep-lat/0210021,Effective sigma models and lattice Ward identities,9.898311450700512e-06,5.117163091986982e-06,23.0,7.0
+hep-lat/0509069,"Lattice construction of Cho-Faddeev-Niemi decomposition and gauge
+  invariant monopole",9.891455663939968e-06,9.363153465688133e-08,15.0,7.0
+hep-lat/0610121,Coherent lattice QCD,9.8852221690875e-06,0.0,3.0,0.0
+hep-lat/0507014,Classical Simulation of Quantum Fields II,9.882368597887004e-06,0.0,4.0,2.0
+hep-lat/0504002,Flavor Twisted Boundary Conditions and the Nucleon Axial Current,9.869337786270578e-06,1.904494214753778e-06,39.0,8.0
+hep-ph/0509306,Hadrons Above T_c,9.8673456824211e-06,3.411884674747112e-07,11.0,5.0
+hep-ph/0203155,QCD Analysis of Polarized Deep Inelastic Data and Parton Distributions,9.857166880140283e-06,3.9857645996778654e-05,15.0,25.0
+hep-lat/0501023,An example of optimal field cut in lattice gauge perturbation theory,9.851291970704952e-06,1.0163261039824902e-05,10.0,7.0
+hep-lat/0701014,"Renormalisation group evolution for the $\Delta S = 1$ effective
+  Hamiltonian with $N_f=2+1$",9.8458187548398e-06,0.0,13.0,0.0
+hep-th/0612241,Confining Solution of the Dyson-Schwinger Equations in Coulomb Gauge,9.838919195097336e-06,1.0163004555192686e-06,18.0,2.0
+hep-ph/0205181,Lattice QCD,9.816802057254909e-06,5.439652690850014e-05,23.0,11.0
+hep-lat/0212033,Massless QED_3 with explicit fermions,9.805696567085831e-06,0.0,10.0,0.0
+hep-lat/0607019,Flavor Twisted Boundary Conditions and Isovector Form Factors,9.78677758674531e-06,5.1396825814613655e-08,35.0,2.0
+hep-lat/0609052,"Lattice QCD determination of states with spin 5/2 or higher in the
+  spectrum of nucleons",9.784548806084126e-06,9.41075069862911e-08,18.0,2.0
+hep-lat/0306004,Low-lying meson spectrum of large $N_C$ strongly coupled lattice QCD,9.783675921436636e-06,1.5245119517864606e-07,14.0,2.0
+hep-lat/0401024,Real and imaginary chemical potential in 2-color QCD,9.77141370958931e-06,1.0448428940121616e-06,9.0,3.0
+hep-lat/0212027,"Vortices, Confinement and Higgs fields",9.761745693660124e-06,5.576608906822564e-06,34.0,6.0
+hep-ph/0412063,Are the pentaquark sum rules reliable?,9.75243297836048e-06,3.430473892975534e-05,18.0,27.0
+hep-lat/0011040,Maximum Entropy Analysis of the Spectral Functions in Lattice QCD,9.751688541300388e-06,0.0004451764730069,17.0,44.0
+cond-mat/0205251,Critical behavior of vector models with cubic symmetry,9.744620444131656e-06,0.0,19.0,1.0
+hep-lat/0701019,QCD thermodynamics at zero and non-zero density,9.74216558906581e-06,7.141201781126531e-07,8.0,3.0
+hep-lat/0512018,String breaking,9.739055135580628e-06,4.747467653884009e-08,8.0,1.0
+hep-lat/0509075,Lattice calculation of SU(3) flavor breaking ratios in B - anti-B mixing,9.707575995389963e-06,5.880050612212294e-06,36.0,6.0
+hep-lat/9802013,"Lattice perturbation theory in the overlap formulation for the Yukawa
+  and gauge interactions",9.706056395822331e-06,8.91594121792522e-07,15.0,3.0
+hep-lat/0407028,"Light pseudoscalar decay constants, quark masses, and low energy
+  constants from three-flavor lattice QCD",9.68376197011986e-06,0.0023602126483495,29.0,106.0
+hep-lat/0511042,"Running couplings in equivariantly gauge-fixed SU(N) Yang--Mills
+  theories",9.669972542032537e-06,0.0,10.0,0.0
+hep-lat/9907008,"Quantum Spin-1/2 Antiferromagnetic Chains and Strongly Coupled
+  Multiflavor Schwinger Models",9.660168880671784e-06,9.550964840049036e-07,13.0,1.0
+cond-mat/0507491,"Numerical study of the enlarged O(5) symmetry of the 3-D
+  antiferromagnetic RP2 spin model",9.658809344586792e-06,0.0,1.0,0.0
+hep-ph/9909201,Gluonic Excitations' Millennial Finale,9.654248621199707e-06,1.0952477983800904e-06,17.0,4.0
+hep-ph/0205318,Quark-gluon vertex from lattice QCD,9.650139326778063e-06,5.455236927857016e-06,54.0,21.0
+hep-lat/0407004,BK from the lattice with Wilson quarks,9.641978084183964e-06,4.39716316202656e-06,24.0,10.0
+hep-lat/0409167,Algorithms for Lattice QCD with Dynamical Fermions,9.638601546112298e-06,0.0009548424182301,49.0,28.0
+hep-lat/0401025,"A numerical solution to the local cohomology problem in U(1) chiral
+  gauge theories",9.630718716582684e-06,1.2958822859303446e-07,58.0,4.0
+hep-ph/0401165,Instantons and the Spin of the Nucleon,9.622482619223752e-06,4.600280229018072e-06,25.0,3.0
+hep-lat/0510116,Topology conserving gauge action and the overlap-Dirac operator,9.614233134349506e-06,5.266648514564422e-07,29.0,7.0
+hep-lat/0512023,"Phase diagram at finite temperature and quark density in the strong
+  coupling limit of lattice QCD for color SU(3)",9.611075431616762e-06,5.817951521450767e-06,30.0,9.0
+hep-lat/0504017,Artefacts and <A2> power corrections : revisiting the MOM Z_psi and Z_V,9.604239119053535e-06,7.131068546614868e-06,40.0,17.0
+hep-th/0404210,Higher charge calorons with non-trivial holonomy,9.60398509927284e-06,1.3052608521554745e-05,28.0,14.0
+hep-lat/0610007,"Nucleon structure in the chiral regime with domain wall fermions on an
+  improved staggered sea",9.56723993852894e-06,1.723858171014473e-05,8.0,12.0
+hep-th/9804205,Bosonized Massive N-flavor Schwinger Model,9.550941895468364e-06,1.4852110113134864e-08,6.0,6.0
+hep-lat/0002007,NNLO Unquenched Calculation of the b Quark Mass,9.522289578731584e-06,3.5982347836426114e-05,55.0,25.0
+hep-th/0301086,Compact lattice U(1) and Seiberg-Witten duality,9.51714678351782e-06,1.4714388822656957e-05,23.0,3.0
+hep-th/0307198,A Note on effective N=1 Super Yang-Mills Theories versus Lattice Results,9.51342216532032e-06,1.2100664145553216e-05,25.0,9.0
+hep-th/0009237,Microscopic Spectrum of the QCD Dirac Operator in Three Dimensions,9.512033531225796e-06,4.950417892499355e-06,30.0,8.0
+hep-lat/0501010,"CP, T and CPT in the non-perturbative formulation of chiral gauge
+  theories",9.509100310000886e-06,2.2366473262832112e-06,11.0,2.0
+hep-lat/0306038,A Review Of Two Novel Numerical Methods in QFT,9.50061417677686e-06,8.455397454206354e-07,9.0,1.0
+hep-ph/0502039,The baryon static potential from lattice QCD,9.494223593754832e-06,1.0135875201150478e-06,15.0,4.0
+hep-ph/0403210,$J^P={1/2}^-$ Pentaquarks in Jaffe and Wilczek's Diquark Model,9.47311290092489e-06,1.7120983134602623e-05,59.0,14.0
+hep-lat/9905004,The non-perturbative QCD Debye mass from a Wilson line operator,9.463748346595874e-06,8.084870365963326e-05,30.0,28.0
+hep-ph/0508085,Continuum physics with quenched overlap fermions,9.462492862142412e-06,6.712083552305565e-07,28.0,7.0
+hep-lat/0305004,"Lattice Study of the Massive Schwinger Model with $\theta$ Term under
+  L\""{u}scher's ""Admissibility"" Condition",9.459612256812617e-06,5.487611108583966e-06,3.0,14.0
+gr-qc/0201028,Simplicial Euclidean and Lorentzian Quantum Gravity,9.430255502671332e-06,8.260507227633446e-06,26.0,11.0
+hep-lat/0208056,"Recent results from systematic parameterizations of Ginsparg-Wilson
+  fermions",9.427928684976966e-06,1.125230648455124e-05,10.0,12.0
+hep-ph/9902419,"QCD in Extreme Conditions and the Wilsonian `Exact Renormalization
+  Group'",9.426117380700933e-06,6.378045395271685e-05,19.0,14.0
+hep-lat/0405009,"Free energy of a static quark anti-quark pair and the renormalized
+  Polyakov loop in three flavor QCD",9.408638292315552e-06,8.264295601941145e-05,10.0,15.0
+hep-ph/0411052,"Infrared behaviour of the ghost-gluon vertex in Landau gauge Yang-Mills
+  theory",9.403924326455275e-06,6.685738564799654e-06,34.0,25.0
+hep-lat/0701003,Understanding nucleon structure using lattice simulations,9.393594541645018e-06,3.9427872056907916e-07,4.0,2.0
+hep-lat/0002022,Isocliny in spinor space and Wilson fermions,9.387134203166424e-06,0.0,3.0,0.0
+hep-lat/0510013,Confinement and the center of the gauge group,9.386436269004158e-06,2.516511384219468e-06,24.0,4.0
+hep-th/0403071,"From Super-Yang-Mills Theory to QCD: Planar Equivalence and its
+  Implications",9.384366785413956e-06,2.7737910485918717e-05,78.0,49.0
+hep-th/9904045,"A formulation of the Yang-Mills theory as a deformation of a topological
+  field theory based on background field method and quark confinement problem",9.380854389313649e-06,5.463086345622314e-05,34.0,17.0
+hep-lat/0506014,"Perturbative Study of the Supersymmetric Lattice Theory from Matrix
+  Model",9.379235729746866e-06,5.081955156985402e-07,42.0,11.0
+hep-lat/9810063,Non-perturbative quark mass renormalization in quenched lattice QCD,9.377828492772332e-06,3.577451167547822e-05,58.0,102.0
+hep-th/0204037,"Perturbative Instabilities on the Non-Commutative Torus, Morita Duality
+  and Twisted Boundary Conditions",9.372893197931583e-06,1.0898478162387472e-05,26.0,13.0
+hep-lat/0308001,"Electromagnetic Properties of the Baryon Decuplet in Quenched and
+  Partially Quenched Chiral Perturbation Theory",9.371731040914156e-06,1.0880151018709329e-05,42.0,13.0
+hep-ph/0312181,On the electron-positron energy asymmetry in K_L --> pi0 e+ e-,9.339968671413569e-06,0.0,6.0,0.0
+hep-lat/0504018,"Low-lying mode contribution to the quenched meson correlators in the
+  epsilon-regime",9.334506345420376e-06,2.314791261291266e-06,28.0,13.0
+hep-ph/0501232,WIMP Dark Matter and the QCD Equation of State,9.32364253489811e-06,4.536898749080234e-05,17.0,11.0
+hep-lat/0511008,QCD string from D0 branes,9.316377758565206e-06,0.0,14.0,1.0
+cond-mat/0412327,"O(n) vector model at n=-1, -2 on random planar lattices: a direct
+  combinatorial derivation",9.307003812803054e-06,0.0,9.0,0.0
+hep-lat/0510080,Effects of staggered fermions and mixed actions on the scalar correlator,9.303690360534254e-06,4.987653548538138e-06,23.0,10.0
+hep-lat/0407024,"Large logarithmic rescaling of the scalar condensate: new lattice
+  evidences",9.29761490928155e-06,8.435921102289719e-06,12.0,6.0
+hep-lat/0612032,Transverse spin structure of the nucleon from lattice QCD simulations,9.297223815707778e-06,1.6744314211688545e-07,6.0,1.0
+hep-lat/0305023,Beyond Quantum Field Theory: Chaotic Lattices?,9.288549712359308e-06,0.0,10.0,0.0
+hep-ph/0701039,"Chiral symmetry patterns of excited mesons with the Coulomb-like linear
+  confinement",9.274167138606349e-06,6.550525012797552e-07,4.0,1.0
+hep-lat/0603007,Decay width of light quark hybrid meson from the lattice,9.269822257951366e-06,3.004154013811131e-06,27.0,7.0
+hep-lat/0510053,High Precision Fundamental Constants using Lattice Perturbation Theory,9.269282337835708e-06,3.403310080415574e-07,37.0,2.0
+hep-lat/0001006,Domain wall fermions in vector theories,9.262373984708252e-06,9.9690626180202e-06,24.0,17.0
+hep-lat/0102002,Quark mass effects on the topological susceptibility in QCD,9.241155759154029e-06,3.319938980242079e-05,26.0,14.0
+nucl-th/0510047,The triton and three-nucleon force in nuclear lattice simulations,9.236318015330757e-06,0.0005025564979618,11.0,10.0
+hep-ph/0301094,"Non-perturbative Propagators, Running Coupling and Dynamical Quark Mass
+  of Landau gauge QCD",9.220323055329717e-06,3.0658572398633785e-05,46.0,60.0
+hep-lat/0205013,Exact duality transformations for sigma models and gauge theories,9.216867221587932e-06,4.255440441150011e-06,22.0,4.0
+hep-lat/0307025,Spectroscopy of Doubly-Charmed Baryons in Lattice QCD,9.216027727447557e-06,2.896523701378776e-05,23.0,9.0
+hep-lat/0007022,The Simple Center Projection of SU(2) Gauge Theory,9.20624258422425e-06,1.1557044238790466e-06,16.0,3.0
+hep-lat/0305008,Hybrid configuration content of heavy S-wave mesons,9.20101637744251e-06,2.1414272555782243e-06,22.0,7.0
+hep-lat/0011064,Heavy Quark Physics on the Lattice,9.180093446404667e-06,7.115232429551732e-05,31.0,49.0
+hep-lat/0509019,Large N,9.159774909521972e-06,5.001842998510367e-06,19.0,4.0
+hep-th/0405163,"Vacuum orbit and spontaneous symmetry breaking in hyperbolic sigma
+  models",9.153470650439967e-06,2.8988713424655725e-07,7.0,3.0
+hep-lat/0507034,About a possible 3rd order phase transition at T=0 in 4D gluodynamics,9.15199638397627e-06,6.731467242800575e-06,17.0,6.0
+cond-mat/0105551,"The critical behavior of 2-d frustrated spin models with noncollinear
+  order",9.15191093499279e-06,0.0,8.0,3.0
+hep-lat/0209099,Quenched QCD with fixed-point and chirally improved fermion,9.134525940789624e-06,1.1353689488893596e-05,9.0,15.0
+hep-lat/0509117,Chiral limit of 2-color QCD at strong couplings,9.128961856049052e-06,1.1273520660285772e-05,13.0,3.0
+hep-lat/0501027,Comparing the Nambu-Goto string with LGT results,9.116951197322382e-06,5.510772253257934e-06,23.0,11.0
+hep-lat/0510037,Perturbative Study of the Supersymmetric Lattice Model from Matrix Model,9.106981144596944e-06,0.0,29.0,0.0
+hep-th/0505201,"Polyakov loop correlators from D0-brane interactions in bosonic string
+  theory",9.106839155217684e-06,3.8418023807179205e-06,33.0,7.0
+hep-ph/9711359,Quark-Gluon Coupling in the Global Colour Model of QCD,9.090638583688232e-06,8.833583485749104e-06,6.0,3.0
+hep-ph/0004060,"Static correlation lengths in QCD at high temperatures and finite
+  densities",9.073219964212592e-06,1.743796647749601e-05,57.0,43.0
+cond-mat/0511332,Ground state energy of spin-1/2 fermions in the unitary limit,9.068504596291953e-06,0.0005012379504658,13.0,10.0
+hep-lat/0305011,Axial anomaly in the reduced model: Higher representations,9.06183420597821e-06,8.779362679865166e-06,58.0,3.0
+hep-lat/0302019,"Non-perturbative renormalization of the static axial current in quenched
+  QCD",9.057999957663618e-06,1.6059989202291775e-06,46.0,24.0
+hep-lat/0703017,Simulating Dense Matter,9.051878520729778e-06,0.0,2.0,0.0
+hep-th/0511307,"On the spectrum of the Faddeev-Popov operator in topological background
+  fields",9.047200012639394e-06,5.285272514872027e-06,46.0,6.0
+hep-lat/0410010,Numerical Stochastic Perturbation Theory for full QCD,9.046863669789989e-06,6.47537565005361e-06,19.0,11.0
+hep-ph/9809351,The Mechanism of Quark Confinement,9.041543916557909e-06,0.0001480775596773,14.0,52.0
+hep-lat/0503009,"Chiral Perturbation Theory for Staggered Sea Quarks and Ginsparg-Wilson
+  Valence Quarks",9.034172391878156e-06,7.717471710417337e-06,44.0,25.0
+hep-th/0209137,Chiral Anomaly on Fuzzy 2-Sphere,9.031557898901678e-06,1.2906352332994357e-05,55.0,17.0
+hep-lat/0012005,Lattice Gauge Theory - A short Primer,9.02135648461499e-06,0.0010767812156345,9.0,7.0
+hep-lat/0204003,"Blocking of lattice monopoles from the continuum in hot lattice
+  gluodynamics",9.002423648165513e-06,2.91256000922167e-06,23.0,5.0
+hep-lat/0608002,Convergence of the chiral expansion for the nucleon mass,8.991123126719692e-06,3.2460577350729e-07,16.0,2.0
+hep-ph/0105011,The Standard Model Prediction for epsilon'/epsilon,8.984131805406383e-06,0.0002136683211639,17.0,24.0
+hep-lat/0609066,Mass Splitting of Staggered Fermion and $SO(2D)$ Clifford Algebra,8.981647870746166e-06,0.0,9.0,0.0
+hep-ph/0506088,Mass inequality for the quark propagator,8.973335017015511e-06,0.0,14.0,0.0
+hep-lat/9312074,A Possible Origin of the Wilson Lattice Fermion,8.967399214699578e-06,0.0,3.0,1.0
+hep-ph/0510189,Leading twist moments of the neutron structure function F2n,8.9645762253892e-06,1.632269708012924e-06,19.0,1.0
+hep-lat/0002025,"Mixing of B mesons and Decay Constants with the Non-Perturbatively
+  Improved Action",8.96053322078092e-06,0.0002867234721271,51.0,38.0
+hep-lat/0503011,Warped Domain Wall Fermions,8.957983661506751e-06,7.613540867574808e-06,49.0,7.0
+hep-lat/0701018,Chiral anomalies and rooted staggered fermions,8.956470131155906e-06,3.540829995996788e-06,15.0,2.0
+hep-ph/0408074,High-Temperature Limit of Landau-Gauge Yang-Mills Theory,8.955107047011764e-06,1.632541386223831e-05,36.0,18.0
+hep-ph/0512242,Spin-dependent interaction in the deconfined phase of QCD,8.947734556051552e-06,1.2939488309343557e-07,9.0,2.0
+hep-ph/0310241,"Beauty Hadron Lifetimes and B-Meson CP-Violation Parameters from Lattice
+  QCD",8.945100405538172e-06,4.767588154087634e-06,34.0,10.0
+hep-ph/0108125,Spectral function at high temperature in the classical approximation,8.944095133391893e-06,9.112647422518876e-06,32.0,2.0
+hep-lat/0212031,Convergence of chiral effective field theory,8.942360828909374e-06,3.940021916119446e-05,30.0,26.0
+hep-lat/0610096,First results in QCD with 2+1 light flavors using the fixed-point action,8.928766107637483e-06,2.713456942891783e-08,10.0,1.0
+hep-ph/9910332,"Renormalization and Running of Quark Mass and Field in the
+  Regularization Invariant and MS-bar Schemes at Three and Four Loops",8.916374419348142e-06,2.8723229127826964e-05,43.0,45.0
+hep-lat/0511022,"PQChPT with Staggered Sea and Valence Ginsparg-Wilson Quarks: Vector
+  Meson Masses",8.905582317407083e-06,0.0,32.0,0.0
+hep-lat/9412022,"How to Accurately Extract the Running Coupling of QCD from Lattice
+  Potential Data",8.90264187344176e-06,0.0,2.0,1.0
+hep-lat/0501020,Baryon masses at O(a^2) in chiral perturbation theory,8.902082398395318e-06,9.677745590231713e-06,45.0,8.0
+hep-lat/0305010,Infrared Features of the Landau Gauge QCD,8.899232269773904e-06,5.957635889680837e-05,22.0,21.0
+hep-lat/0309013,"Baryon Decuplet to Octet Electromagnetic Transitions in Quenched and
+  Partially Quenched Chiral Perturbation Theory",8.897835507241802e-06,9.371553884605932e-07,38.0,11.0
+hep-th/0601026,Gauge Anomaly associated with the Majorana Fermion in $8k+1$ dimensions,8.896558501779652e-06,3.62124575919886e-07,3.0,2.0
+hep-ph/0204174,Polyakov Loops versus Hadronic States,8.89114823379874e-06,6.247526318062263e-05,26.0,20.0
+hep-th/0406210,"Black hole-black string phase transitions in thermal 1+1-dimensional
+  supersymmetric Yang-Mills theory on a circle",8.887681138107092e-06,0.0001479509529915,63.0,44.0

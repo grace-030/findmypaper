@@ -1,0 +1,1148 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+math/0409069,Some new directions in infinite-combinatorial topology,0.0001136406891165,0.0,17.0,2.0
+math/0512275,SPM Bulletin 15,6.418619020133631e-05,0.0,20.0,1.0
+math/9906113,On what I do not understand (and have something to say): Part I,4.667081502530567e-05,0.0,66.0,10.0
+math/0504197,Strongly dependent theories,3.782738059211882e-05,1.5921462041280577e-05,12.0,5.0
+math/0312182,Selection principles in mathematics: A milestone of open problems,3.734613162876484e-05,0.0,22.0,3.0
+math/0609401,SPM Bulletin 18,3.218687967824696e-05,0.0,16.0,0.0
+math/9906022,"Analytical Guide and updates for ""Cardinal Arithmetic""",3.0542126228107014e-05,0.0,40.0,6.0
+math/0612753,SPM Bulletin 19,2.9801555030195183e-05,0.0,20.0,0.0
+quant-ph/0504115,"Logical analysis of the Bohr Complementarity Principle in Afshar's
+  experiment under the NAFL interpretation",2.595032726541794e-05,3.980365510320144e-06,9.0,2.0
+math/0503631,SPM Bulletin 12,2.4693422185878788e-05,0.0,8.0,1.0
+math/0211398,Logical Dreams,2.005617786358108e-05,0.0,10.0,0.0
+math/0105045,Selection principles and the minimal tower problem,1.7450821951281917e-05,0.0,7.0,10.0
+math/9910158,"On what I do not understand (and have something to say), model theory",1.7251275864089643e-05,0.0,22.0,6.0
+math/0703894,SPM Bulletin 20,1.6904307543536695e-05,0.0,13.0,0.0
+math/0609634,aleph_n-Free abelain group with no non-zero homomorphism Z,1.6558867619619225e-05,0.0,2.0,0.0
+quant-ph/0610204,Quantum Dynamics without the Wave Function,1.6390955705642904e-05,1.576058469562956e-06,11.0,1.0
+math/0703045,Definable groups for dependent and 2-dependent theories,1.6077506978795827e-05,0.0,9.0,1.0
+math/0501527,"The Proper Forcing Axiom, Prikry forcing, and the Singular Cardinals
+  Hypothesis",1.5887023752004556e-05,0.0,1.0,1.0
+math/0606188,SPM Bulletin 17,1.559766268292156e-05,0.0,15.0,0.0
+math/0404146,Universal forcing notions and ideals,1.5452598478824848e-05,0.0,4.0,1.0
+math/0702292,Dependent theories and the generic pair conjecture,1.5327459831549276e-05,3.980365510320144e-06,5.0,2.0
+math/0506475,"Foundations of real analysis and computability theory in
+  non-Aristotelian finitary logic",1.4713054021283687e-05,5.970548265480216e-06,5.0,1.0
+math/0403369,SPM Bulletin 8,1.4588742748148076e-05,0.0,10.0,2.0
+math/0703477,Theories with EF-Equivalent Non-Isomorphic Models,1.4394949943151208e-05,0.0,7.0,1.0
+math/9909115,Sweet & Sour and other flavours of ccc forcing notions,1.4267643769902217e-05,0.0,10.0,5.0
+math/0404323,Reflection implies the SCH,1.3587062276073128e-05,0.0,5.0,1.0
+math/0406612,How much sweetness is there in the universe?,1.2923914214083085e-05,0.0,3.0,1.0
+math/0603290,SPM Bulletin 16,1.2406448397777616e-05,0.0,8.0,1.0
+math/9712286,Constructing Boolean algebras for cardinal invariants,1.2366456168012169e-05,0.0,8.0,4.0
+math/0311260,Computer theorem proving in math,1.1781003682762992e-05,1.991420431002833e-06,7.0,1.0
+cs/0602011,"The intuitionistic fragment of computability logic at the propositional
+  level",1.1668616013394351e-05,0.0,9.0,0.0
+math/0405159,Universal Structures,1.1401478823522224e-05,0.0,11.0,0.0
+math/0212250,Polish Algebras shy from freedom,1.1056289032923475e-05,0.0,7.0,1.0
+math/0509432,SPM Bulletin 14,1.0953851073287813e-05,0.0,9.0,1.0
+math/0409072,SPM Bulletin 10,1.0666787437746446e-05,0.0,8.0,3.0
+math/0011208,Quantum Logic in Intuitionistic Perspective,1.0368528539631717e-05,0.0,4.0,2.0
+math/0410223,"Ax-Kochen-Er{\v{s}}ov Theorems for $p$-adic integrals and motivic
+  integration",9.61461174431293e-06,0.0,7.0,0.0
+math/0011209,Disjunctive Quantum Logic in Dynamic Perspective,9.25957048522244e-06,0.0,7.0,1.0
+math/0603651,When first order T has limit models,9.2220365572889e-06,1.990182755160072e-06,5.0,2.0
+math/0511330,Saccharinity,9.15745584955116e-06,0.0,4.0,0.0
+math/0512217,On DEPTH and DEPTH^+ of Boolean Algebras,9.074276956208276e-06,0.0,5.0,1.0
+math/0401155,SPM Bulletin 7,9.035181302505892e-06,0.0,7.0,2.0
+math/0611131,Lords of the iteration,8.844703638188243e-06,0.0,11.0,0.0
+math/0606264,Compactness of the space of left orders,8.718355816543996e-06,0.0,5.0,0.0
+math/0406531,The depth of ultraproducts of Boolean Algebras,8.691371379321578e-06,0.0,8.0,1.0
+math/0402336,Set-theoretical mathematics in Coq,8.643436291374714e-06,1.2376758427612388e-09,1.0,3.0
+math/0603652,Minimal bounded index subgroup for dependent theories,8.63389913759978e-06,1.990182755160072e-06,2.0,3.0
+math/0701030,A survey of clones on infinite sets,8.380751463726061e-06,0.0,4.0,1.0
+math/0610183,$b$-minimality,8.296682198697223e-06,3.980365510320144e-06,5.0,2.0
+math/0607218,Generating ultrafilters in a reasonable way,8.242892082059954e-06,0.0,6.0,0.0
+math/0612350,Model theoretic stability and categoricity for complete metric spaces,8.21991445990811e-06,0.0,1.0,0.0
+math/0304350,Weak tensor products of complete atomistic lattices,8.216042892347698e-06,0.0,2.0,2.0
+math/0404221,A more general iterable condition ensuring aleph_1 is not collapsed,8.07643629422691e-06,0.0,4.0,0.0
+math/0508563,SPM Bulletin 13,8.066562848638946e-06,0.0,6.0,1.0
+math/0406411,SPM Bulletin 9,8.038052317144938e-06,0.0,6.0,2.0
+math/0703493,"Reflexive abelian groups and measurable cardinals and saturated MAD
+  families",7.920428471705467e-06,0.0,4.0,0.0
+math/0312140,SPM Bulletin 6 (November 2003),7.90890347016792e-06,0.0,10.0,2.0
+math/0612247,Two cardinal models for singular mu,7.86503943404653e-06,0.0,2.0,0.0
+math/0603573,"General Logic-Systems that Determine Significant Collections of
+  Consequence Operators",7.343941948640635e-06,0.0,6.0,0.0
+quant-ph/0408068,Logical Interpretation of a Reversible Measurement in Quantum Computing,7.226859119057847e-06,3.843224772323347e-06,9.0,2.0
+math/0506471,Explaining Gabriel-Zisman localization to the computer,7.201509513005984e-06,0.0,2.0,0.0
+math/9808104,Forcing for hL and hd,7.1543630091805404e-06,0.0,7.0,2.0
+math/0501525,A five element basis for the uncountable linear orders,6.966428497417115e-06,0.0,3.0,1.0
+math/0112237,Vive la difference III,6.9515000012645815e-06,0.0,4.0,0.0
+math/0601490,Equality of Proofs for Linear Equality,6.887568082581487e-06,0.0,5.0,0.0
+math/0609636,Dependent T and existence of limit models,6.730492392867211e-06,0.0,4.0,3.0
+math/0210205,Sheva-Sheva-Sheva: Large Creatures,6.710931607590859e-06,0.0,8.0,5.0
+math/0010070,Measured creatures,6.514158655245872e-06,0.0,6.0,2.0
+math/0404239,"Zero-one laws for graphs with edge probabilities decaying with distance.
+  Part II",6.443863358041867e-06,0.0,3.0,0.0
+math/0606764,Twisted conjugacy separable groups,6.438454398635778e-06,0.0,6.0,1.0
+math/0405116,The height of the automorphism tower of a group,6.178126093155596e-06,0.0,2.0,0.0
+math/0404258,"The Hart-Shelah example, in stronger logics",6.094817946360833e-06,0.0,8.0,1.0
+math/0603590,Many-valued complete distributivity,5.99489408325139e-06,0.0,2.0,0.0
+math/0012170,Are a and d your cup of tea?,5.986304576327667e-06,0.0,4.0,3.0
+math/0011187,"Bounding by canonical functions, with CH",5.918890720172683e-06,0.0,2.0,1.0
+math/0605067,"Reasonable ultrafilters, again",5.911435383896002e-06,0.0,3.0,2.0
+math/0406482,More on: the revised GCH and middle diamond,5.82220268163592e-06,0.0,7.0,4.0
+math/0509392,Chasing Silver,5.75396443525643e-06,0.0,1.0,1.0
+math/0406550,More on Cardinal Arithmetic,5.7099707503016136e-06,0.0,4.0,2.0
+quant-ph/0412199,The internal logic of Bell's states,5.700610271638122e-06,2.4074853023486223e-06,4.0,3.0
+math/0701508,Differentials over differential fields,5.655144290770314e-06,0.0,1.0,1.0
+math/0605445,"Scales and the fine structure of K(R). Part I: Acceptability above the
+  reals",5.655144290770314e-06,0.0,2.0,2.0
+math/0001009,Solutions to congruences using sets with the property of Baire,5.655144290770314e-06,0.0,1.0,1.0
+math/0510233,Order 1 strongly minimal sets in differentially closed fields,5.655144290770314e-06,0.0,1.0,1.0
+quant-ph/0506024,Many worlds and the emergence of probability in quantum mechanics,5.655144290770314e-06,0.0,1.0,1.0
+quant-ph/0506040,"Hidden variables in quantum mechanics: Generic models, set-theoretic
+  forcing, and the emergence of probability",5.655144290770314e-06,0.0,1.0,1.0
+math/0605448,"Scales and the fine structure of K(R). Part II: Weak real mice and
+  scales",5.655144290770314e-06,0.0,2.0,2.0
+math/0605449,"Scales and the fine structure of K(R). Part III: Scales of minimal
+  complexity",5.655144290770314e-06,0.0,2.0,2.0
+math/0303293,Note on omega-nw-nep forcing notions,5.622183309455115e-06,0.0,2.0,0.0
+math/0003115,NNR Revisited,5.601316564701494e-06,0.0,3.0,2.0
+math/0512022,"Constructible exponential functions, motivic Fourier transform and
+  transfer principle",5.589694321999379e-06,9.95091377580036e-06,4.0,3.0
+quant-ph/0009100,Quantaloids Describing Causation and Propagation of Physical Properties,5.561005626229113e-06,0.0,1.0,4.0
+math/0412562,Nonstandard Consequence Operators Generated By Mixed Logic-Systems,5.535730039160155e-06,0.0,5.0,0.0
+math/0511310,Stable domination and independence in algebraically closed valued fields,5.453470577878372e-06,0.0,2.0,0.0
+math/0112238,Long iterations for the continuum,5.452956923103091e-06,0.0,5.0,0.0
+math/0212249,Super black box (formerly: Middle diamond),5.271009014824839e-06,0.0,11.0,2.0
+math/0510133,Integration in valued fields,5.242793283555323e-06,1.3931279286120504e-05,5.0,2.0
+math/0504196,Model theory without choice: Categoricity,5.225584461559876e-06,0.0,4.0,0.0
+math/9606226,"Zero one laws for graphs with edge probabilities decaying with distance.
+  Part I",5.159633508096145e-06,0.0,5.0,1.0
+math/0407498,The combinatorics of reasonable ultrafilters,5.131240288931651e-06,0.0,8.0,2.0
+quant-ph/0111076,"The Sasaki Hook is not a [Static] Implicative Connective but Induces a
+  Backward [in Time] Dynamic One that Assigns Causes",5.091242870836698e-06,0.0,7.0,3.0
+math/0610928,An introduction to b-minimality,5.063719603124181e-06,0.0,3.0,1.0
+cs/0512100,The logic of interactive Turing reduction,5.056535795997867e-06,0.0,7.0,1.0
+math/0106059,Logic of Dynamics & Dynamics of Logic; Some Paradigm Examples,4.960607566290723e-06,0.0,7.0,3.0
+math/0612240,The spectrum of characters of ultrafilters on omega,4.896800629378824e-06,0.0,2.0,1.0
+quant-ph/0506134,"De-linearizing Linearity: Projective Quantum Axiomatics from Strong
+  Compact Closure",4.888837650358429e-06,1.882699143911726e-06,6.0,3.0
+math/0212202,On some rational generating series occuring in arithmetic geometry,4.886123487387384e-06,5.544411404866883e-05,7.0,7.0
+math/0507519,n-localization property,4.87734880005441e-06,0.0,5.0,1.0
+math/0009064,On nice equivalence relations on 2^\lambda,4.852377465133402e-06,0.0,5.0,1.0
+math/0305367,SPM Bulletin 5 (Special issue),4.821402077669939e-06,0.0,7.0,3.0
+cs/0501031,From truth to computability II,4.817763153020377e-06,0.0,6.0,3.0
+math/0404240,"The pair $(\aleph_n,\aleph_0)$ may fail $\aleph_0$--compactness",4.8065200243858975e-06,0.0,7.0,1.0
+quant-ph/0608035,Quantum measurements without sums,4.79963952072348e-06,2.2427946156904407e-06,8.0,2.0
+math/0702768,"Changing the Heights of Automorphism Towers by Forcing with Souslin
+  Trees over L",4.775563454392716e-06,0.0,3.0,0.0
+math/0004047,"Lattices, interpolation, and set theory",4.775563454392716e-06,0.0,3.0,0.0
+math/0401079,Quantitative study of semi-Pfaffian sets,4.521609506804769e-06,0.0,2.0,2.0
+gr-qc/0604041,First-Order Logic Foundation of Relativity Theories,4.493197823824987e-06,0.0,7.0,0.0
+quant-ph/0110136,Quantum Algorithm for Hilbert's Tenth Problem,4.347813453403003e-06,4.655716232492101e-05,9.0,18.0
+math/0510484,A semifilter approach to selection principles II: tau*-covers,4.320075666508511e-06,0.0,6.0,1.0
+math/0009056,Classification theory for theories with NIP - a modest beginning,4.263009625340581e-06,0.0,1.0,3.0
+math/0406440,"Dependent first order theories, continued",4.238878694963092e-06,0.0,2.0,6.0
+math/0212379,Clones from Creatures,4.226881495518922e-06,0.0,3.0,1.0
+math/0412354,Differentially Transcendental Functions,4.226032979787758e-06,0.0,1.0,2.0
+hep-th/0011065,Strings from Logic,4.100258110073413e-06,4.116487349826739e-06,6.0,5.0
+math/0411509,Dynamical properties of logical substitutions,4.075235057024103e-06,0.0,2.0,0.0
+quant-ph/0203034,Computing the Noncomputable,3.986394700128077e-06,8.72168156575949e-06,9.0,6.0
+math/0404180,On model completion of T_{aut},3.949812838930345e-06,0.0,5.0,0.0
+math/0612134,Symmetric Boolean Algebras,3.902816004398429e-06,4.243460032324247e-08,2.0,1.0
+math/0304087,SPM Bulletin 4,3.7509808722716255e-06,0.0,5.0,4.0
+math/0304019,"Critical cardinalities and additivity properties of combinatorial
+  notions of smallness",3.6429394838380985e-06,0.0,5.0,7.0
+math/0612353,Can groupwise density be much bigger than the non-dominating number?,3.62335329328243e-06,0.0,2.0,1.0
+math/0211244,Hechler's theorem for the null ideal,3.62335329328243e-06,0.0,2.0,0.0
+math/0301011,SPM Bulletin 1,3.62335329328243e-06,0.0,2.0,9.0
+math/0404220,"A comment on ""p<t""",3.62335329328243e-06,0.0,2.0,2.0
+math/0609022,Interval orders and reverse mathematics,3.62335329328243e-06,0.0,2.0,0.0
+math/0401307,Succinct Definitions in the First Order Theory of Graphs,3.53826886547648e-06,0.0,3.0,0.0
+math/0311443,"Models in which every nonmeager set is nonmeager in a nowhere dense
+  Cantor set",3.5182725597077277e-06,0.0,1.0,2.0
+math/0609115,"The value ring of geometric motivic integration and the Iwahori Hecke
+  algebra of SL_2",3.500183238704697e-06,0.0,2.0,1.0
+math/0510235,Prolongations in differential algebra,3.4782876865952653e-06,0.0,1.0,0.0
+math/0508272,Reasonably complete forcing notions,3.3803357337434404e-06,0.0,6.0,3.0
+quant-ph/0108074,"Deduction, Ordering, and Operations in Quantum Logic",3.30222555131873e-06,0.0,6.0,3.0
+math/0301023,Cell decomposition and p-adic integration,3.2776902449493445e-06,0.0,3.0,0.0
+math/0405326,Definitions with no quantifier alternation,3.157191212357669e-06,0.0,2.0,1.0
+math/0505471,"New reals: Can live with them, can live without them",3.136381266117204e-06,0.0,2.0,1.0
+math/0212312,The combinatorics of splittability,3.1192509620525454e-06,0.0,5.0,4.0
+math/0102058,Universality among the graph omitting a complete bipartite graph,3.090870906215039e-06,0.0,2.0,0.0
+math/0406586,"On Bergman's property for the automorphism groups of relatively free
+  groups",3.0636789613157114e-06,0.0,2.0,0.0
+math/0609601,Selection Principles and special sets of reals: Open problems,3.048775471268903e-06,0.0,5.0,2.0
+math/0501526,Set mapping reflection,3.0472482127272877e-06,0.0,2.0,1.0
+math/0407487,Covering the Baire space by families which are not finitely dominating,3.0231205677027105e-06,0.0,1.0,1.0
+math/0307369,Topology of definable Hausdorff limits,3.0073555758857145e-06,0.0,1.0,1.0
+math/0212009,Topological diagonalizations and Hausdorff dimension,3.001815682153122e-06,0.0,4.0,1.0
+math/0506600,Associativity as Commutativity,2.9812255142475902e-06,0.0,1.0,0.0
+math/0009075,Superatomic Boolean Algebras: maximal rigidity,2.967386159707629e-06,0.0,6.0,0.0
+math/0607531,On the logical complexity of convex polygon dissections,2.9486786264669227e-06,0.0,1.0,0.0
+quant-ph/0701171,Turning the Liar paradox into a metatheorem of Basic logic,2.944606357632e-06,0.0,3.0,0.0
+math/0302062,SPM Bulletin 2,2.9229561821473e-06,0.0,3.0,7.0
+math/0607165,"Integration of positive constructible functions against Euler
+  characteristic and dimension",2.9148562484736942e-06,0.0,3.0,0.0
+math/0604186,"O-minimal spectra, infinitesimal subgroups and cohomology",2.899531749833127e-06,0.0,1.0,0.0
+math/0410203,Constructible motivic functions and motivic integration,2.87556145381692e-06,7.960731020640288e-06,1.0,11.0
+math/0407225,I[omega_2] can be the nonstationary ideal on Cof(omega_1),2.77239764133326e-06,0.0,1.0,0.0
+math/0211385,Preserving Non-Null with Suslin+ forcing,2.770600262590129e-06,0.0,3.0,2.0
+math/0601087,Models of real-valued measurability,2.759195672449716e-06,0.0,2.0,1.0
+math/0405081,Preserving Preservation,2.679858276508178e-06,0.0,2.0,2.0
+math/0506553,Introduction to Cirquent Calculus and Abstract Resource Semantics,2.6287771387444115e-06,0.0,1.0,2.0
+math/0412305,SPM Bulletin 11,2.625439442395968e-06,0.0,2.0,1.0
+math/0503306,Coherence for Star-Autonomous Categories,2.595930929327636e-06,0.0,3.0,1.0
+quant-ph/0506132,"Quantum information-flow, concretely, and axiomatically",2.595880047158868e-06,9.20688084326605e-08,7.0,5.0
+gr-qc/0612021,There exist consistent temporal logics admitting changes of History,2.5666029913162902e-06,0.0,2.0,0.0
+math/0404272,"Toward classification theory of good lambda frames and abstract
+  elementary classes",2.539727070333471e-06,0.0,4.0,0.0
+math/9906025,On Arhangelskii's Problem,2.5205235676482994e-06,0.0,5.0,4.0
+math/9901096,"Changing cardinal characteristics without changing omega-sequences or
+  cofinalities",2.487772445693976e-06,0.0,4.0,0.0
+math/0410523,"Expansions, omitting types, and standard systems",2.4711431321721443e-06,0.0,1.0,0.0
+math/0508531,Models of Non-Well-Founded Sets via an Indexed Final Coalgebra Theorem,2.4711431321721443e-06,0.0,1.0,0.0
+math/0511616,Explanation of Independence,2.4711431321721443e-06,0.0,2.0,0.0
+math/0605248,Algebraic Geometry over Lie Algebras,2.4711431321721443e-06,0.0,1.0,0.0
+math/0409109,"Dimension theory and parameterized normalization for D-semianalytic sets
+  over non-Archimedean fields",2.4711431321721443e-06,0.0,1.0,0.0
+math/0409066,Local Andr\'{e}-Oort conjecture for the universal abelian variety,2.4711431321721443e-06,0.0,1.0,0.0
+math/0504028,Classical Logic = Fibred MLL,2.4711431321721443e-06,0.0,1.0,0.0
+math/0405158,Spectra of monadic second order sentences,2.4711431321721443e-06,0.0,1.0,0.0
+math/0212405,The power set function,2.4711431321721443e-06,0.0,1.0,0.0
+math/0404205,FPL may be equivalent to FO but not equivalent to PFP,2.4711431321721443e-06,0.0,1.0,0.0
+math/0005179,A Power Function with A Fixed Finite Gap Everywhere,2.4711431321721443e-06,0.0,1.0,0.0
+math/0007025,A note on an alleged proof of the relative consistency of P=NP with PA,2.4711431321721443e-06,0.0,1.0,0.0
+math/0401303,Analytic and pseudo-analytic structures (a survey),2.4711431321721443e-06,0.0,1.0,0.0
+math/0606285,A new selection principle,2.4711431321721443e-06,0.0,2.0,1.0
+math/0205331,"Continuous Ramsey theory on Polish spaces and covering the plane by
+  functions",2.4711431321721443e-06,0.0,1.0,0.0
+math/0205196,"F-structures and integral points on semiabelian varieties over finite
+  fields",2.4711431321721443e-06,0.0,1.0,0.0
+math/0408134,A note on an example by van Mill,2.4711431321721443e-06,0.0,1.0,1.0
+math/0404149,Two cardinals models with gap one revisited,2.4711431321721443e-06,0.0,2.0,1.0
+math/0703106,Topological Semantics and Decidability,2.4711431321721443e-06,0.0,1.0,0.0
+math/0701486,Partial order embeddings with convex range,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0607114,Revising Type-2 Computation and Degrees of Discontinuity,2.4711431321721443e-06,0.0,1.0,0.0
+math/0607718,Definable groups of partial automorphisms,2.4711431321721443e-06,0.0,1.0,0.0
+math/0612243,"Power set modulo small, the singular of uncountable cofinality",2.4711431321721443e-06,0.0,2.0,0.0
+math/0607264,On the Orbits of Computably Enumerable Sets,2.4711431321721443e-06,0.0,1.0,0.0
+math/0403303,Nonstandard Analysis and Generalized Functions,2.432993557848162e-06,0.0,1.0,0.0
+math/0303057,SPM Bulletin 3,2.4029503229373043e-06,0.0,4.0,6.0
+math/9809199,More Jonsson algebras,2.394329121431459e-06,0.0,3.0,2.0
+math/0106085,A diagonalization property between Hurewicz and Menger,2.3863414440523864e-06,0.0,2.0,2.0
+math/0012171,On ultraproducts of Boolean Algebras and irr,2.27910810532043e-06,0.0,2.0,2.0
+cs/0205079,Connectives in Quantum and other Cumulative Logics,2.27910810532043e-06,0.0,2.0,0.0
+math/0701748,Interpreting the arithmetic in Thompson's group F,2.27910810532043e-06,0.0,2.0,0.0
+quant-ph/0304114,Numerical simulations of a quantum algorithm for Hilbert's tenth problem,2.2644756075875743e-06,7.4260550565674335e-09,4.0,2.0
+math/0510229,PCF without choice,2.2599046026352587e-06,0.0,3.0,1.0
+math/0504037,Modelling Linear Logic Without Units (Preliminary Results),2.2392944508887378e-06,0.0,1.0,5.0
+math/0107207,Weak Diamond,2.2324710273707284e-06,0.0,4.0,2.0
+math/0006219,Historic forcing for Depth,2.2022940945797445e-06,0.0,4.0,2.0
+math/9705209,A topological interpretation of the tower number,2.199202924167765e-06,0.0,1.0,7.0
+math/0509338,Uniqueness of Limit Models in Classes with Amalgamation,2.1855334711652198e-06,0.0,1.0,0.0
+quant-ph/0407057,"Basic Logic and Quantum Computing: Logical Judgements by an Insider
+  Observer",2.1841355111021947e-06,1.5081359867827594e-07,2.0,4.0
+math/9811177,On omitting cardinals in T_3 spaces,2.183090591894573e-06,0.0,2.0,0.0
+quant-ph/0102108,Quantum Kolmogorov Complexity Based on Classical Descriptions,2.1396433197498973e-06,0.0,3.0,1.0
+math/0301085,The Hurewicz covering property and slaloms in the Baire space,2.1364815845499297e-06,0.0,2.0,3.0
+math/0311433,Model theory of valued fields,2.1254800838390582e-06,0.0,2.0,0.0
+math/0503301,Coherence of Proof-Net Categories,2.1125713709136657e-06,0.0,3.0,2.0
+math/0411466,Strongly bounded groups and infinite powers of finite groups,2.1035038270571394e-06,0.0,2.0,3.0
+math/0011215,Categoricity in abstract elementary classes: going up inductive step,2.0596395032041853e-06,0.0,2.0,2.0
+math/0506521,Simple free star-autonomous categories and full coherence,2.043987432752339e-06,0.0,2.0,3.0
+math/0606594,The Calkin algebra has outer automorphisms,2.017466278325484e-06,0.0,1.0,0.0
+math/0509723,"Fonctions constructibles exponentielles, transformation de Fourier
+  motivique et principe de transfert",1.970883849999481e-06,0.0,2.0,3.0
+math/0210087,Cofinality of the nonstationary ideal,1.963621989778328e-06,0.0,3.0,2.0
+math/0302322,The combinatorics of Borel covers,1.961793982722696e-06,0.0,2.0,9.0
+cs/0406037,Propositional Computability Logic II,1.918556403795287e-06,0.0,2.0,3.0
+math/0408370,Bernoulli automorphisms of finitely generated free MV-algebras,1.8950380516170012e-06,0.0,1.0,1.0
+math/0205325,On Successive Approximations To The Choice Problem and Logic,1.8950380516170012e-06,0.0,1.0,0.0
+math/0603262,"Computing the Top Betti Numbers of Semi-algebraic Sets Defined by
+  Quadratic Inequalities in Polynomial Time",1.8950380516170012e-06,0.0,1.0,0.0
+math/0607358,Non-nesting actions of Polish groups on pretrees,1.8950380516170012e-06,0.0,1.0,0.0
+math/0605517,On the number of homotopy types of fibres of a definable map,1.8950380516170012e-06,0.0,1.0,1.0
+math/0405119,What majority decisions are possible,1.8950380516170012e-06,0.0,1.0,0.0
+math/0406195,A Non-Standard Bezout Theorem,1.8950380516170012e-06,0.0,1.0,0.0
+math/0010160,One Form of Successive Approximation Method and Choice Problem,1.8950380516170012e-06,0.0,1.0,0.0
+math/0603691,A hodgepodge of sets of reals,1.8950380516170012e-06,0.0,1.0,1.0
+math/0703290,A Theory of Divisors for Algebraic Curves,1.8950380516170012e-06,0.0,1.0,0.0
+math/0610289,The complexity of classifying separable Banach spaces up to isomorphism,1.8950380516170012e-06,0.0,1.0,1.0
+math/0610781,The automorphism group of falsum-free product logic,1.8950380516170012e-06,0.0,1.0,0.0
+math/0601709,Logic for Everyone,1.8678218206850973e-06,0.0,1.0,1.0
+math/0610666,Real closed fields with nonstandard and standard analytic structure,1.8545426455814163e-06,0.0,1.0,0.0
+math/9705213,"The null ideal restricted to some non-null set may be
+  $\aleph_1$-saturated",1.8374275435614872e-06,0.0,2.0,4.0
+math/0101115,Categorical Analysis,1.7719370617776076e-06,0.0,1.0,0.0
+math/9906024,Iteration of lambda-complete forcing notions not collapsing lambda^+,1.746896745188536e-06,0.0,3.0,6.0
+quant-ph/0701113,"A presentation of Quantum Logic based on an ""and then"" connective",1.703003024765287e-06,0.0,1.0,0.0
+math/0010305,Countable structure does not have a free uncountable automorphism group,1.703003024765287e-06,0.0,1.0,1.0
+math/0605385,The Erdos-Rado arrow for singular cardinals,1.703003024765287e-06,0.0,1.0,0.0
+cs/0404024,Computability Logic: a formal theory of interaction,1.703003024765287e-06,0.0,1.0,6.0
+math/0307229,"Extensions with the approximation and cover properties have no new large
+  cardinals",1.703003024765287e-06,0.0,1.0,1.0
+math/0312308,The gamma - Borel conjecture,1.703003024765287e-06,0.0,1.0,1.0
+math/0409304,Diamond (on the regulars) can fail at any strongly unfoldable cardinal,1.703003024765287e-06,0.0,1.0,0.0
+math/0209292,Quasidiagonal $C^\ast$-algebras and Nonstandard Analysis,1.703003024765287e-06,0.0,1.0,0.0
+math/0603260,Large cardinals with few measures,1.703003024765287e-06,0.0,1.0,0.0
+math/0306183,Equivariant gerbes over compact simple Lie groups,1.6935153880325192e-06,8.497784043258856e-09,2.0,2.0
+quant-ph/9906101,"Non-Orthomodular Models for Both Quantum Logic and Standard Classical
+  Logic: Repercussions for Quantum Computers",1.6918266934951113e-06,0.0,1.0,5.0
+math/0311041,The First Order Definability of Graphs: Upper Bounds for Quantifier Rank,1.6596220447416465e-06,0.0,1.0,7.0
+math/0205291,On a universality property of some abelian Polish groups,1.652496382486451e-06,0.0,1.0,0.0
+math/0506302,Negation and Involutive Adjunction,1.60698551133943e-06,0.0,1.0,0.0
+gr-qc/0504118,Twin Paradox and the logical foundation of relativity theory,1.6002204522202536e-06,0.0,1.0,1.0
+math/0305241,"Fraisse Limits, Ramsey Theory, and Topological Dynamics of Automorphism
+  Groups",1.5855255443832496e-06,0.0,1.0,4.0
+quant-ph/0611119,Basic Logic and Quantum Entanglement,1.5803301742280724e-06,0.0,2.0,1.0
+math/0510680,Menger's covering property and groupwise density,1.5677056194833977e-06,0.0,2.0,0.0
+cs/0404023,Propositional computability logic I,1.5611770827737587e-06,0.0,1.0,4.0
+cs/0407054,From truth to computability I,1.5611770827737587e-06,0.0,1.0,3.0
+math/0003137,Weak $\omega$-categories as $\omega$-hypergraphs,1.5541446192449997e-06,0.0,1.0,1.0
+math/9905144,Ideals determined by some Souslin forcing notions,1.5493750032839157e-06,0.0,1.0,1.0
+math/0703704,Orbital integrals for linear groups,1.532204055141352e-06,0.0,1.0,0.0
+math/0305244,Descriptive Complexity of Finite Structures: Saving the Quantifier Rank,1.5274455569526049e-06,0.0,1.0,4.0
+math/0401361,"The First Order Definability of Graphs with Separators via the
+  Ehrenfeucht Game",1.5274455569526049e-06,0.0,1.0,1.0
+math/0304414,A nonhereditary Borel-cover gamma-set,1.4732292812856824e-06,0.0,1.0,0.0
+math/0303294,Non Cohen Oracle c.c.c,1.446956322296335e-06,0.0,1.0,0.0
+math/0208224,"Hereditary topological diagonalizations and the Menger-Hurewicz
+  Conjectures",1.423679349344612e-06,0.0,1.0,8.0
+math/0112262,Additivity properties of topological diagonalizations,1.423679349344612e-06,0.0,1.0,3.0
+math/0307225,"o-bounded groups and other topological groups with strong combinatorial
+  properties",1.423679349344612e-06,0.0,1.0,3.0
+math/9911204,Nonstandard Consequence Operators,1.4012336968554504e-06,0.0,1.0,7.0
+math/9703220,"On the cardinality and weight spectra of compact spaces, II",1.3189329710618589e-06,0.0,0.0,2.0
+math/9201240,"Categoricity over P for first order T or categoricity for phi in
+  L_{omega_1 omega} can stop at aleph_k while holding for aleph_0, ...,
+  aleph_{k-1}",1.3189329710618589e-06,0.0,0.0,3.0
+math/9905147,Category analog of sup-measurability problem,1.3189329710618589e-06,0.0,0.0,2.0
+math/9511220,Possibly every real function is continuous on a non--meagre set,1.3189329710618589e-06,0.0,0.0,2.0
+math/9607226,Randomness and semigenericity,1.3189329710618589e-06,0.0,0.0,2.0
+math/0009087,On triangleleft^*-maximality,1.3189329710618589e-06,0.0,0.0,2.0
+math/9712288,The covering numbers of Mycielski ideals are all equal,1.3189329710618589e-06,0.0,0.0,1.0
+math/0509206,Monoidal intervals of clones on infinite sets,1.3189329710618589e-06,0.0,0.0,1.0
+math/0512367,The minimal clones above the permutations,1.3189329710618589e-06,0.0,0.0,1.0
+math/9809197,Categoricity of abstract classes with amalgamation,1.3189329710618589e-06,0.0,0.0,4.0
+math/0210350,Grothendieck rings of Laurent series fields,1.3189329710618589e-06,0.0,0.0,2.0
+math/9601218,On Monk's questions,1.3189329710618589e-06,0.0,0.0,3.0
+math/0508146,The combinatorics of the Baer-Specker group,1.3189329710618589e-06,0.0,0.0,2.0
+math/9504221,A consistency result on weak reflection,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0507045,In the beginning was game semantics,1.3189329710618589e-06,0.0,0.0,3.0
+math/9804156,"Special subsets of {}^{cf(mu)} mu, Boolean algebras and Maharam measure
+  algebras",1.3189329710618589e-06,0.0,0.0,6.0
+math/9804154,0-1 laws,1.3189329710618589e-06,0.0,0.0,3.0
+math/9808056,More on cardinal invariants of Boolean algebras,1.3189329710618589e-06,0.0,0.0,4.0
+math/9510216,"On squares, outside guessing of clubs and I_{<f}[lambda]",1.3189329710618589e-06,0.0,0.0,4.0
+math/9802134,Borel sets with large squares,1.3189329710618589e-06,0.0,0.0,3.0
+math/9211213,Baire property and Axiom of Choice,1.3189329710618589e-06,0.0,0.0,2.0
+math/0010234,Remarks on hereditarily indecomposable continua,1.3189329710618589e-06,0.0,0.0,1.0
+math/0209408,Satisfaction classes in nonstandard models of first-order arithmetic,1.3189329710618589e-06,0.0,0.0,1.0
+math/0612495,Pinning quasi orders with their endomorphisms,1.3189329710618589e-06,0.0,0.0,1.0
+math/0306003,"th-Forking, Algebraic Independence and Examples of Rosy Theories",1.3189329710618589e-06,0.0,0.0,2.0
+math/0205004,Properties and Consequences of th-Independence,1.3189329710618589e-06,0.0,0.0,2.0
+math/9512227,Set theory without choice: not everything on cofinality is possible,1.3189329710618589e-06,0.0,0.0,4.0
+math/9303208,"How special are Cohen and random forcings i.e. Boolean algebras of the
+  family of subsets of reals modulo meagre or null",1.3189329710618589e-06,0.0,0.0,3.0
+math/0607442,"Groups, measures, and the NIP",1.3189329710618589e-06,0.0,0.0,1.0
+math/9809009,Uncomputably Large Integral Points on Algebraic Plane Curves?,1.3189329710618589e-06,0.0,0.0,1.0
+math/0003141,Cardinal invariants b_kappa and t_kappa,1.3189329710618589e-06,0.0,0.0,2.0
+math/0208184,Recursive Synthesis and the Foundations of Mathematics,1.3189329710618589e-06,0.0,0.0,1.0
+math/0312485,Algebraic geometry in First Order Logic,1.3189329710618589e-06,0.0,0.0,1.0
+math/9301208,Forcing isomorphism,1.3189329710618589e-06,0.0,0.0,2.0
+math/0112212,Quite Complete Real Closed fields,1.3189329710618589e-06,0.0,0.0,1.0
+math/9810050,There are no infinite order polynomially complete lattices after all,1.3189329710618589e-06,0.0,0.0,1.0
+math/9808014,Every group has a terminating transfinite automorphism tower,1.3189329710618589e-06,0.0,0.0,1.0
+math/0010306,The strict order property and generic automorphisms,1.3189329710618589e-06,0.0,0.0,2.0
+math/9809198,Borel Whitehead groups,1.3189329710618589e-06,0.0,0.0,1.0
+math/0604536,Combinatorial images of sets of reals and semifilter trichotomy,1.3189329710618589e-06,0.0,0.0,2.0
+math/9603206,On densities of box products,1.3189329710618589e-06,0.0,0.0,2.0
+math/9201251,Cardinal arithmetic for skeptics,1.3189329710618589e-06,0.0,0.0,2.0
+math/9807183,Strong dichotomy of cardinality,1.3189329710618589e-06,0.0,0.0,2.0
+math/9806165,On the p-rank of Ext,1.3189329710618589e-06,0.0,0.0,2.0
+math/0505341,Grothendieck rings of o-minimal expansions of ordered abelian groups,1.3189329710618589e-06,0.0,0.0,1.0
+math/0206197,Presburger sets and p-minimal fields,1.3189329710618589e-06,0.0,0.0,1.0
+math/9707203,Order polynomially complete lattices must be LARGE,1.3189329710618589e-06,0.0,0.0,1.0
+math/9703204,Changing the heights of automorphism towers,1.3189329710618589e-06,0.0,0.0,1.0
+math/0602482,Degrees of rigidity for Souslin trees,1.3189329710618589e-06,0.0,0.0,1.0
+math/9308212,On CH + 2^{aleph_1}-> (alpha)^2_2 for alpha < omega_2,1.3189329710618589e-06,0.0,0.0,2.0
+math/9805149,On the existence of universal models,1.3189329710618589e-06,0.0,0.0,3.0
+math/0502394,Potential theory and forcing,1.3189329710618589e-06,0.0,0.0,2.0
+math/0512626,Countable Borel equivalence relations and quotient Borel spaces,1.3189329710618589e-06,0.0,0.0,2.0
+math/9310224,Examples for Souslin forcing,1.3189329710618589e-06,0.0,0.0,1.0
+math/9606230,"Very weak zero one law for random graphs with order and random binary
+  functions",1.3189329710618589e-06,0.0,0.0,1.0
+math/9507221,On the very weak 0-1 law for random graphs with orders,1.3189329710618589e-06,0.0,0.0,1.0
+math/0608735,Sufficient Conditions for Labelled 0-1 Laws,1.3189329710618589e-06,0.0,0.0,1.0
+math/9905123,Closed measure zero sets,1.3189329710618589e-06,0.0,0.0,1.0
+math/9409202,Projective Stationary Sets and Strong Reflection Principle,1.3189329710618589e-06,0.0,0.0,1.0
+math/9412230,The cofinality spectrum of the infinite symmetric group,1.3189329710618589e-06,0.0,0.0,3.0
+math/0303325,Banach spaces and groups - order properties and universal models,1.3189329710618589e-06,0.0,0.0,3.0
+math/9408213,Almost free algebras,1.3189329710618589e-06,0.0,0.0,2.0
+math/9805008,A Universal Continuum of Weight aleph,1.3189329710618589e-06,0.0,0.0,1.0
+math/9812133,Gently Killing S--spaces,1.3189329710618589e-06,0.0,0.0,1.0
+math/9305202,"\v{C}ech-Stone remainders of spaces that look like $[0,\infty)$",1.3189329710618589e-06,0.0,0.0,1.0
+math/0506310,Coherence and Confluence,1.3189329710618589e-06,0.0,0.0,1.0
+math/0508572,Hilbert's Program Then and Now,1.3189329710618589e-06,0.0,0.0,1.0
+math/0006052,Bicartesian Coherence,1.3189329710618589e-06,0.0,0.0,1.0
+math/0105136,Model Companions of T_\sigma for stable T,1.3189329710618589e-06,0.0,0.0,1.0
+math/0207163,Motivic integration and the Grothendieck group of pseudo-finite fields,1.3189329710618589e-06,0.0,0.0,1.0
+math/9809201,On quantification with a finite universe,1.3189329710618589e-06,0.0,0.0,1.0
+math/9805147,On distinguishing quotients of symmetric groups,1.3189329710618589e-06,0.0,0.0,1.0
+math/9501220,The tree property at successors of singular cardinals,1.3189329710618589e-06,0.0,0.0,1.0
+math/9809196,On Hanf numbers of the infinitary order property,1.3189329710618589e-06,0.0,0.0,1.0
+math/0405473,The cardinal characteristic for relative gamma-sets,1.3189329710618589e-06,0.0,0.0,1.0
+math/0405092,Comparing the uniformity invariants of null sets for different measures,1.3189329710618589e-06,0.0,0.0,1.0
+math/0404421,On squares of spaces and Fsigma-sets,1.3189329710618589e-06,0.0,0.0,1.0
+math/0405311,"How many miles to $\beta\omega$? -- Approximating $\beta\omega$ by
+  metric-dependent compactifications",1.3189329710618589e-06,0.0,0.0,1.0
+math/9501206,"A complete Boolean algebra that has no proper atomless complete
+  subalgebra",1.3189329710618589e-06,0.0,0.0,1.0
+math/9911225,On cardinalities in quotients of inverse limits of groups,1.3189329710618589e-06,0.0,0.0,1.0
+math/9911231,On equivalence relations Sigma_1^1-definable over H(kappa),1.3189329710618589e-06,0.0,0.0,1.0
+math/0304024,The minimal cardinality where the Reznichenko property fails,1.3189329710618589e-06,0.0,0.0,2.0
+math/9804157,"Main gap for locally saturated elementary submodels of a homogeneous
+  structure",1.3189329710618589e-06,0.0,0.0,1.0
+math/9512228,"In the random graph G(n,p),p=n^{-a} : if psi has probability
+  0(n^{-epsilon}) for every epsilon > 0 then it has probability
+  0(e^{-n^epsilon}) for some epsilon > 0",1.3189329710618589e-06,0.0,0.0,1.0
+math/9201250,"Factor = quotient, uncountable Boolean algebras, number of endomorphism
+  and width",1.3189329710618589e-06,0.0,0.0,2.0
+math/9808139,Non-existence of universal members in classes of abelian groups,1.3189329710618589e-06,0.0,0.0,3.0
+math/0509244,Predicativity beyond Gamma_0,1.3189329710618589e-06,0.0,0.0,1.0
+math/0509246,Mathematical conceptualism,1.3189329710618589e-06,0.0,0.0,1.0
+math/0011169,Forcing Isomorphism II,1.3189329710618589e-06,0.0,0.0,1.0
+math/9512201,"The A,B,C of pcf: a companion to pcf theory, Part I",1.3189329710618589e-06,0.0,0.0,1.0
+math/9311211,"Models with second order properties, V: A General principle",1.3189329710618589e-06,0.0,0.0,1.0
+math/9304207,Viva la difference II. The Ax-Kochen isomorphism theorem,1.3189329710618589e-06,0.0,0.0,1.0
+math/9908160,"On the number of L_{infty,omega_1}-equivalent non-isomorphic models",1.3189329710618589e-06,0.0,0.0,1.0
+math/9707227,Toward categoricity for classes with no maximal models,1.3189329710618589e-06,0.0,0.0,1.0
+math/0003118,Weak reflection at the successor of singular,1.3189329710618589e-06,0.0,0.0,1.0
+math/9907150,Higher dimensional hypercategories,1.3189329710618589e-06,0.0,0.0,1.0
+math/0311434,"Classification of semi-algebraic $p$-adic sets up to semi-algebraic
+  bijection",1.3189329710618589e-06,0.0,0.0,1.0
+math/9508221,Cellularity of free products of Boolean algebras (or topologies),1.3189329710618589e-06,0.0,0.0,2.0
+math/9201253,The universality spectrum of stable unsuperstable theories,1.3189329710618589e-06,0.0,0.0,2.0
+math/9403219,Cardinalities of topologies with small base,1.3189329710618589e-06,0.0,0.0,2.0
+math/9202205,"Constructing strongly equivalent nonisomorphic models for unsuperstable
+  theories. Part B",1.3189329710618589e-06,0.0,0.0,1.0
+math/9709229,"Constructing strongly equivalent nonisomorphic models for unsuperstable
+  theories, Part C",1.3189329710618589e-06,0.0,0.0,1.0
+math/0612245,Existence of EF-equivalent Non Isomorphic Models,1.3189329710618589e-06,0.0,0.0,1.0
+math/0404222,A long EF-equivalence non isomorphic models,1.3189329710618589e-06,0.0,0.0,1.0
+math/0406587,"Constructing strongly equivalent nonisomorphic models for unsuperstable
+  theories, Part A",1.3189329710618589e-06,0.0,0.0,1.0
+math/0405337,Subgroups of finitely presented groups with solvable conjugacy problem,1.3189329710618589e-06,0.0,0.0,1.0
+math/9609217,"Non-existence of universals for classes like reduced torsion free
+  abelian groups under embeddings which are not necessarily pure",1.3189329710618589e-06,0.0,0.0,2.0
+math/0312135,Consistency of a counterexample to Naimark's problem,1.3189329710618589e-06,0.0,0.0,1.0
+math/0312472,"Comparing the automorphism group of the measure algebra with some groups
+  related to the infinite permutation group of the natural numbers",1.3189329710618589e-06,0.0,0.0,1.0
+math/9509225,Universal in (< lambda)-stable abelian group,1.3189329710618589e-06,0.0,0.0,2.0
+math/9409207,Universal abelian groups,1.3189329710618589e-06,0.0,0.0,2.0
+math/9604243,Strong covering without squares,1.3189329710618589e-06,0.0,0.0,2.0
+math/0504201,"Consistency of ""the ideal of null restricted to some A is kappa-complete
+  not kappa^+-complete, kappa weakly inaccessible and cov(meagre)=aleph_1""",1.3189329710618589e-06,0.0,0.0,1.0
+math/0504199,Ultrafilters and partial products of infinite cyclic groups,1.3189329710618589e-06,0.0,0.0,1.0
+math/0504200,More on regular reduced products,1.3189329710618589e-06,0.0,0.0,1.0
+math/9205208,Many simple cardinal invariants,1.3189329710618589e-06,0.0,0.0,2.0
+math/0407405,Half of an inseparable pair,1.3189329710618589e-06,0.0,0.0,1.0
+math/0312229,What is Motivic Measure?,1.3189329710618589e-06,0.0,0.0,1.0
+math/0406530,Almost isometric embeddings of metric spaces,1.3189329710618589e-06,0.0,0.0,1.0
+math/9807172,Norms on possibilities I: forcing with trees and creatures,1.3189329710618589e-06,0.0,0.0,14.0
+math/0105238,Uniformity in the Mordell-Lang conjecture,1.3189329710618589e-06,0.0,0.0,1.0
+math/0006079,"On the consistency of $P=NP$ with fragments of ZFC whose own consistency
+  strength can be measured by an ordinal assignment",1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/9805018,Logical Dissipation of Automata Implements - Dissipation of Computation,1.3189329710618589e-06,0.0,0.0,1.0
+math/0603413,"Groupoids, imaginaries and internal covers",1.3189329710618589e-06,0.0,0.0,1.0
+math/9812014,Fuzzy L languages,1.3189329710618589e-06,0.0,0.0,1.0
+math/0501524,A solution to the L space problem and related ZFC constructions,1.3189329710618589e-06,0.0,0.0,1.0
+math/0501421,Some partition properties for measurable colourings of omega-one^2,1.3189329710618589e-06,0.0,0.0,1.0
+math/0512546,"On the independence of a generalized statement of Egoroff's theorem from
+  ZFC, after T.Weiss",1.3189329710618589e-06,0.0,0.0,1.0
+math/0009079,Fallen Cardinals,1.3189329710618589e-06,0.0,0.0,2.0
+math/0408282,Proofs Without Syntax,1.3189329710618589e-06,0.0,0.0,1.0
+math/0408279,"Extensions Theorems, Orbits, and Automorphisms of the Computably
+  Enumerable Sets",1.3189329710618589e-06,0.0,0.0,1.0
+math/9411235,McColm conjecture,1.3189329710618589e-06,0.0,0.0,1.0
+math/0306306,Limit groups and groups acting freely on R^n-trees,1.3189329710618589e-06,0.0,0.0,1.0
+math/0409095,Parameterized stratification and piece number of D-semianalytic sets,1.3189329710618589e-06,0.0,0.0,1.0
+math/9908118,On Gaps under GCH Type Assumptions,1.3189329710618589e-06,0.0,0.0,1.0
+math/0001121,Extender Based Radin Forcing,1.3189329710618589e-06,0.0,0.0,1.0
+math/0406514,The Elementary Theory of the Frobenius Automorphisms,1.3189329710618589e-06,0.0,0.0,1.0
+math/0411313,Geometrical equivalence of nilpotent torsion free groups,1.3189329710618589e-06,0.0,0.0,1.0
+math/0412245,M-hyperquasivarieties,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0212065,Entropic Geometry from Logic,1.3189329710618589e-06,0.0,0.0,1.0
+math/0404150,Spectra of Monadic Second-Order Formulas with One Unary Function,1.3189329710618589e-06,0.0,0.0,1.0
+math/0401301,"Covers of the multiplicative group of an algebraically closed field of
+  characteristic zero",1.3189329710618589e-06,0.0,0.0,1.0
+math/0312509,Implicit function theorem over free groups,1.3189329710618589e-06,0.0,0.0,1.0
+math/0610357,Modal languages for topology: expressivity and definability,1.3189329710618589e-06,0.0,0.0,1.0
+math/0601083,Decisive creatures and large continuum,1.3189329710618589e-06,0.0,0.0,1.0
+math/0501076,"Countable Tightness, Elementary Submodels and Homogeneity",1.3189329710618589e-06,0.0,0.0,1.0
+math/9501222,The Bounded Proper Forcing Axiom,1.3189329710618589e-06,0.0,0.0,2.0
+math/9903116,"On incomparability and related cardinal functions on ultraproducts of
+  Boolean algebras",1.3189329710618589e-06,0.0,0.0,2.0
+quant-ph/0008019,Operational quantum logic: An overview,1.3189329710618589e-06,0.0,0.0,8.0
+math/0210162,On iterated forcing at successors of regular cardinals,1.3189329710618589e-06,0.0,0.0,3.0
+math/9502233,The pcf-theorem revisited,1.3189329710618589e-06,0.0,0.0,2.0
+math/9606229,Existence of almost free abelian groups and reflection of stationary set,1.3189329710618589e-06,0.0,0.0,3.0
+math/9806166,Canonical models for aleph_1 combinatorics,1.3189329710618589e-06,0.0,0.0,1.0
+math/9601219,"Saturated filters at successors of singulars, weak reflection and yet
+  another weak club principle",1.3189329710618589e-06,0.0,0.0,1.0
+math/9308214,Somewhere trivial automorphisms,1.3189329710618589e-06,0.0,0.0,1.0
+math/9411234,The essentially free spectrum of a variety,1.3189329710618589e-06,0.0,0.0,1.0
+math/9710216,"Consistency of partition relation for cardinal in (lambda,2^lambda)",1.3189329710618589e-06,0.0,0.0,1.0
+math/9711222,"After all, there are some inequalities which are provable in ZFC",1.3189329710618589e-06,0.0,0.0,1.0
+math/9509227,A model in which every infinite Boolean algebra has many subalgebras,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0411008,Intuitionistic computability logic,1.3189329710618589e-06,0.0,0.0,3.0
+math/0009078,"On properties of theories which preclude the existence of universal
+  models",1.3189329710618589e-06,0.0,0.0,1.0
+math/9607227,Historic iteration with aleph_epsilon-support,1.3189329710618589e-06,0.0,0.0,1.0
+math/9503203,Less nonstationary ideals,1.3189329710618589e-06,0.0,0.0,1.0
+math/9406229,Adding one random real,1.3189329710618589e-06,0.0,0.0,1.0
+math/9412208,Possible pcf algebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/9611221,There may be no nowhere dense ultrafilter,1.3189329710618589e-06,0.0,0.0,1.0
+math/9406219,Large normal ideals concentrating on a fixed small cardinality,1.3189329710618589e-06,0.0,0.0,1.0
+math/9906018,Also quite large b subseteq pcf(a) behave nicely,1.3189329710618589e-06,0.0,0.0,1.0
+math/0401343,Concerning problems about cardinal invariants on Boolean algebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/0402066,Small Locally Compact Linearly Lindelof Spaces,1.3189329710618589e-06,0.0,0.0,1.0
+math/0311064,There may be no Hausdorff ultrafilters,1.3189329710618589e-06,0.0,0.0,1.0
+math/0310438,Ultrafilters with property (s),1.3189329710618589e-06,0.0,0.0,1.0
+math/0102056,You Can Enter Cantor's Paradise,1.3189329710618589e-06,0.0,0.0,1.0
+math/0212049,Supertask Computation,1.3189329710618589e-06,0.0,0.0,1.0
+math/9308210,The canary tree,1.3189329710618589e-06,0.0,0.0,1.0
+math/9412229,The universality spectrum: Consistency for more classes,1.3189329710618589e-06,0.0,0.0,1.0
+math/0404178,More on SOP_1 and SOP_2,1.3189329710618589e-06,0.0,0.0,1.0
+math/0509097,Cosmic dimensions,1.3189329710618589e-06,0.0,0.0,1.0
+math/0509099,There is no categorical metric continuum,1.3189329710618589e-06,0.0,0.0,1.0
+math/0506019,Uniform almost everywhere domination,1.3189329710618589e-06,0.0,0.0,1.0
+math/0212335,A Mad Q-set,1.3189329710618589e-06,0.0,0.0,1.0
+math/0511153,The Hurwitz Equivalence Problem is Undecidable,1.3189329710618589e-06,0.0,0.0,1.0
+math/0401134,Between Maharam's and von Neumann's problems,1.3189329710618589e-06,0.0,0.0,1.0
+math/0307226,Products of special sets of real numbers,1.3189329710618589e-06,0.0,0.0,1.0
+math/0609091,Resolvability of spaces having small spread or extent,1.3189329710618589e-06,0.0,0.0,1.0
+math/0608642,A Poset Hierarchy,1.3189329710618589e-06,0.0,0.0,1.0
+math/0609092,Resolvability and monotone normality,1.3189329710618589e-06,0.0,0.0,1.0
+math/0608035,First Countable Continua and Proper Forcing,1.3189329710618589e-06,0.0,0.0,1.0
+math/0608376,Elementary submodels and separable monotonically normal compacta,1.3189329710618589e-06,0.0,0.0,1.0
+math/0608382,An application of CAT,1.3189329710618589e-06,0.0,0.0,1.0
+math/0608384,A general Stone representation theorem,1.3189329710618589e-06,0.0,0.0,1.0
+math/0608336,Measure Recognition Problem,1.3189329710618589e-06,0.0,0.0,1.0
+math/0604085,Random gaps,1.3189329710618589e-06,0.0,0.0,1.0
+math/0606021,Antichains in partially ordered sets of singular cofinality,1.3189329710618589e-06,0.0,0.0,1.0
+math/0604156,Covering a bounded set of functions by an increasing chain of slaloms,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0202018,Nonmonotonic Logics and Semantics,1.3189329710618589e-06,0.0,0.0,2.0
+math/0606028,Bolzano-Weierstrass principle of choice extended towards ordinals,1.3189329710618589e-06,0.0,0.0,1.0
+math/0608616,Infinite asymptotic games,1.3189329710618589e-06,0.0,0.0,1.0
+math/0606270,On the Pytkeev property in spaces of continuous functions,1.3189329710618589e-06,0.0,0.0,1.0
+math/0609090,D-forced spaces: a new approach to resolvability,1.3189329710618589e-06,0.0,0.0,1.0
+math/0702295,Lindelof spaces of singular density,1.3189329710618589e-06,0.0,0.0,1.0
+math/0702309,$P(\omega)/{\rm fin}$ and projections in the Calkin algebra,1.3189329710618589e-06,0.0,0.0,1.0
+math/0702296,Resolvability vs. almost resolvability,1.3189329710618589e-06,0.0,0.0,1.0
+math/0703726,"Less than continuum many translates of a compact nullset may cover any
+  infinite profinite group",1.3189329710618589e-06,0.0,0.0,1.0
+math/0703647,A note on strong negative partition relations,1.3189329710618589e-06,0.0,0.0,1.0
+math/0703302,A Sacks Real out of Nowhere,1.3189329710618589e-06,0.0,0.0,1.0
+math/0703091,"A family of covering properties for forcing axioms and strongly compact
+  cardinals",1.3189329710618589e-06,0.0,0.0,1.0
+math/0605022,"A connection between decomposable ultrafilters and possible
+  cofinalities. II",1.3189329710618589e-06,0.0,0.0,1.0
+math/9308217,Number of open sets for a topology with a countable basis,1.3189329710618589e-06,0.0,0.0,1.0
+math/9706224,A polarized partition relation and failure of GCH,1.3189329710618589e-06,0.0,0.0,1.0
+math/9201247,On a conjecture of Tarski on products of cardinals,1.3189329710618589e-06,0.0,0.0,1.0
+math/9706223,"Covering a function on the plane by two continuous functions on an
+  uncountable square - the consistency",1.3189329710618589e-06,0.0,0.0,1.0
+math/9510215,On Gross spaces,1.3189329710618589e-06,0.0,0.0,1.0
+math/9712289,The condition in the Trichotomy Theorem is optimal,1.3189329710618589e-06,0.0,0.0,1.0
+math/9509226,"Was Sierpinski right? III Can continuum--c.c. times c.c.c. be
+  continuum--c.c.?",1.3189329710618589e-06,0.0,0.0,1.0
+math/9507208,More on real-valued measurable cardinals and forcing with ideals,1.3189329710618589e-06,0.0,0.0,4.0
+math/0409068,The combinatorics of tau-covers,1.3189329710618589e-06,0.0,0.0,3.0
+math/0508445,Invariant measures in free MV-algebras,1.3189329710618589e-06,0.0,0.0,2.0
+math/9805146,Categoricity of an abstract elementary class in two successive cardinals,1.3189329710618589e-06,0.0,0.0,7.0
+math/9805145,Length of Boolean algebras and ultraproducts,1.3189329710618589e-06,0.0,0.0,3.0
+math/0311135,Proper forcing and rectangular Ramsey theorems,1.3189329710618589e-06,0.0,0.0,2.0
+math/0406133,"On elementary equivalence, isomorphism and isogeny of arithmetic
+  function fields",1.3189329710618589e-06,0.0,0.0,3.0
+math/9609216,On sigma-entangled linear orders,1.3189329710618589e-06,0.0,0.0,6.0
+math/9610226,Further cardinal arithmetic,1.3189329710618589e-06,0.0,0.0,10.0
+math/9912191,Large localizations of finite simple groups,1.3189329710618589e-06,0.0,0.0,1.0
+math/0305282,"A Universal Approach to Self-Referential Paradoxes, Incompleteness and
+  Fixed Points",1.3189329710618589e-06,0.0,0.0,2.0
+math/9807180,More on Weak Diamond,1.3189329710618589e-06,0.0,0.0,4.0
+math/9209201,Non-existence of Universal Orders in Many Cardinals,1.3189329710618589e-06,0.0,0.0,6.0
+math/0507003,Simple multiplicative proof nets with units,1.3189329710618589e-06,0.0,0.0,4.0
+math/0311101,Asymptotic cones and ultrapowers of Lie groups,1.3189329710618589e-06,0.0,0.0,1.0
+math/9603219,"The consistency of 2^{aleph_{0}}> aleph_{omega} +
+  I(aleph_{2})=I(aleph_{omega})",1.3189329710618589e-06,0.0,0.0,2.0
+math/9505215,Identities on cardinals less than aleph_omega,1.3189329710618589e-06,0.0,0.0,2.0
+math/0612598,Algebraic characterizations of measure algebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/0610432,"Nagata's conjecture and countably compactifications in generic
+  extensions",1.3189329710618589e-06,0.0,0.0,1.0
+math/0612148,Hurewicz sets of reals without perfect subsets,1.3189329710618589e-06,0.0,0.0,1.0
+math/0610988,"Varia: Ideals and Equivalence Relations, beta-version",1.3189329710618589e-06,0.0,0.0,1.0
+math/0612636,A game on the universe of sets,1.3189329710618589e-06,0.0,0.0,1.0
+math/0610562,"A $c\_0$-saturated Banach space with no long unconditional basic
+  sequences",1.3189329710618589e-06,0.0,0.0,1.0
+math/0609655,Winning the pressing down game but not Banach Mazur,1.3189329710618589e-06,0.0,0.0,1.0
+math/0611744,How to drive our families mad,1.3189329710618589e-06,0.0,0.0,1.0
+math/0510407,"Pre-compact families of finite sets of integers and weakly null
+  sequences in Banach spaces",1.3189329710618589e-06,0.0,0.0,1.0
+math/0510517,"A notion of selective ultrafilter corresponding to topological Ramsey
+  spaces",1.3189329710618589e-06,0.0,0.0,1.0
+math/0509406,Disjoint Non-Free Subgoups of Abelian Groups,1.3189329710618589e-06,0.0,0.0,1.0
+math/0510122,"Locally Moving Groups and the Reconstruction Problem for Chains and
+  Circles",1.3189329710618589e-06,0.0,0.0,1.0
+math/0510477,Parametrizing the abstract Ellentuck theorem,1.3189329710618589e-06,0.0,0.0,1.0
+math/0611353,Squares of Menger-bounded groups,1.3189329710618589e-06,0.0,0.0,1.0
+math/9810181,Covering of the null ideal may have countable cofinality,1.3189329710618589e-06,0.0,0.0,5.0
+math/0610306,Reals n-generic relative to some perfect tree,1.3189329710618589e-06,0.0,0.0,1.0
+math/0206161,Analytic p-adic Cell Decomposition and Integrals,1.3189329710618589e-06,0.0,0.0,5.0
+quant-ph/0008017,A logical description for perfect measurements,1.3189329710618589e-06,0.0,0.0,5.0
+math/0401102,Clones containing all almost unary functions,1.3189329710618589e-06,0.0,0.0,1.0
+math/0404151,Ladder gaps over stationary sets,1.3189329710618589e-06,0.0,0.0,1.0
+math/9807178,Lusin sequences under CH and under Martin's Axiom,1.3189329710618589e-06,0.0,0.0,1.0
+math/0505645,"Understanding preservation theorems: omega-omega bounding and Sacks
+  property",1.3189329710618589e-06,0.0,0.0,2.0
+math/0510254,Divisibility of countable metric spaces,1.3189329710618589e-06,0.0,0.0,2.0
+math/9509228,Cardinal invariants above the continuum,1.3189329710618589e-06,0.0,0.0,6.0
+math/0212336,On lambda'-sets,1.3189329710618589e-06,0.0,0.0,1.0
+math/9807177,PCF and infinite free subsets,1.3189329710618589e-06,0.0,0.0,7.0
+math/0208057,Strong gamma-sets and other singular spaces,1.3189329710618589e-06,0.0,0.0,3.0
+math/0507043,"Scales, fields, and a problem of Hurewicz",1.3189329710618589e-06,0.0,0.0,8.0
+math/9808140,Not collapsing cardinals <= kappa in (< kappa) --support iterations II,1.3189329710618589e-06,0.0,0.0,6.0
+math/0303323,What majority decisions are possible,1.3189329710618589e-06,0.0,0.0,2.0
+math/9703222,Norms on possibilities II: more ccc ideals on 2^{omega},1.3189329710618589e-06,0.0,0.0,5.0
+math/0408039,Compact Scattered Spaces in Forcing Extensions,1.3189329710618589e-06,0.0,0.0,1.0
+math/0012041,Solvable groups definable in o-minimal structures,1.3189329710618589e-06,0.0,0.0,4.0
+math/9707225,Not collapsing cardinals <= kappa in (< kappa) --support iterations,1.3189329710618589e-06,0.0,0.0,10.0
+math/0211090,Generality of Proofs and its Brauerian Representation,1.3189329710618589e-06,0.0,0.0,7.0
+math/9809200,The Generalized Continuum Hypothesis revisited,1.3189329710618589e-06,0.0,0.0,15.0
+math/9201245,Viva la difference I: Nonisomorphism of ultrapowers of countable models,1.3189329710618589e-06,0.0,0.0,3.0
+math/0211277,A Brauerian Representation of Split Preorders,1.3189329710618589e-06,0.0,0.0,6.0
+math/9808138,Successors of singular cardinals and coloring theorems. I,1.3189329710618589e-06,0.0,0.0,2.0
+math/0510410,A classification of Tsirelson type spaces,1.3189329710618589e-06,0.0,0.0,1.0
+math/0308177,Generic substitutions,1.3189329710618589e-06,0.0,0.0,1.0
+math/9712283,Non-elementary proper forcing notions,1.3189329710618589e-06,0.0,0.0,9.0
+math/0601119,From well-quasi-ordered sets to better-quasi-ordered sets,1.3189329710618589e-06,0.0,0.0,1.0
+math/0409567,"Turbulence, amalgamation and generic automorphisms of homogeneous
+  structures",1.3189329710618589e-06,0.0,0.0,6.0
+math/9910015,Invariants of Measure and Category,1.3189329710618589e-06,0.0,0.0,1.0
+math/0211419,A class of strong diamond principles,1.3189329710618589e-06,0.0,0.0,3.0
+math/0209086,Hechler's theorem for the meager ideal,1.3189329710618589e-06,0.0,0.0,1.0
+math/9609218,Colouring and non-productivity of aleph_2-cc,1.3189329710618589e-06,0.0,0.0,3.0
+math/0005050,A Possible Origin of Logic,1.3189329710618589e-06,0.0,0.0,2.0
+math/9804155,PCF theory: applications,1.3189329710618589e-06,0.0,0.0,3.0
+math/9906023,Few non-minimal types and non-structure,1.3189329710618589e-06,0.0,0.0,2.0
+math/0005273,Clones on regular cardinals,1.3189329710618589e-06,0.0,0.0,2.0
+math/9712282,Was Sierpinski right? IV,1.3189329710618589e-06,0.0,0.0,7.0
+math/9501221,Convergence in homogeneous random graphs,1.3189329710618589e-06,0.0,0.0,2.0
+math/0308153,"Mathematics and Logic as Information Compression by Multiple Alignment,
+  Unification and Search",1.3189329710618589e-06,0.0,0.0,2.0
+math/0604451,Additivity numbers of covering properties,1.3189329710618589e-06,0.0,0.0,11.0
+math/0409110,"The number of translates of a closed nowhere dense set required to cover
+  a Polish group",1.3189329710618589e-06,0.0,0.0,1.0
+math/0009077,The relative consistency of g<cf(Sym(omega)),1.3189329710618589e-06,0.0,0.0,1.0
+math/0404147,Long low iterations,1.3189329710618589e-06,0.0,0.0,1.0
+math/9512202,"A ZFC Dowker space in $\aleph_{\omega+1}$: an application of pcf theory
+  to topology",1.3189329710618589e-06,0.0,0.0,3.0
+math/0003120,The automorphism tower problem revisited,1.3189329710618589e-06,0.0,0.0,3.0
+math/0201283,On the comparison of different notions of geometric categories,1.3189329710618589e-06,0.0,0.0,1.0
+math/0303324,Subsets of superstable structures are weakly benign,1.3189329710618589e-06,0.0,0.0,1.0
+math/0502565,On \emptyset-definable elements in a field,1.3189329710618589e-06,0.0,0.0,2.0
+math/9201244,"Strong partition relations below the power set: consistency, was
+  Sierpinski right, II?",1.3189329710618589e-06,0.0,0.0,4.0
+math/0606168,Not all pure states on B(H) are diagonalizable,1.3189329710618589e-06,0.0,0.0,2.0
+math/0701249,On the Pytkeev property in spaces of continuous functions (II),1.3189329710618589e-06,0.0,0.0,2.0
+math/9710217,"Ultrafilters on omega --- their ideals and their cardinal
+  characteristics",1.3189329710618589e-06,0.0,0.0,2.0
+math/0305047,BMM is stronger than BSPFA,1.3189329710618589e-06,0.0,0.0,1.0
+math/0102043,Universal graphs at the successor of a singular cardinal,1.3189329710618589e-06,0.0,0.0,1.0
+math/9602216,Categoricity and amalgamation for AEC and $ \kappa $ measurable,1.3189329710618589e-06,0.0,0.0,3.0
+math/9604241,"Categoricity of theories in L_{kappa^* omega}, when kappa^* is a
+  measurable cardinal. Part II",1.3189329710618589e-06,0.0,0.0,3.0
+math/9605235,More Constructions for Boolean algebras,1.3189329710618589e-06,0.0,0.0,4.0
+math/9703218,Cardinal invariants of ultrapoducts of Boolean algebras,1.3189329710618589e-06,0.0,0.0,6.0
+math/0509670,A topological version of the Bergman property,1.3189329710618589e-06,0.0,0.0,2.0
+math/9709228,"Ideals, Cohen sets and consistent extensions of the
+  Erd\H{o}s-Dushnik-Miller Theorem",1.3189329710618589e-06,0.0,0.0,3.0
+math/0511456,"Computing the complexity of the relation of isometry between separable
+  Banach spaces",1.3189329710618589e-06,0.0,0.0,2.0
+math/0607592,On the Kocinac alpha_i properties,1.3189329710618589e-06,0.0,0.0,2.0
+math/9508205,Toward classifying unstable theories,1.3189329710618589e-06,0.0,0.0,5.0
+math/9306215,mu-complete Suslin trees on mu^+,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0411097,Deterministic Bayesian Logic,,,,
+cs/0603003,Analyse non standard du bruit,,,,
+cs/0609109,The recognizability of sets of graphs is a robust property,,,,
+cs/0610067,"Language, logic and ontology: uncovering the structure of commonsense
+  knowledge",,,,
+cs/0610080,Computable Closed Euclidean Subsets with and without Computable Points,,,,
+cs/9902026,Probabilistic Inductive Inference:a Survey,,,,
+math-ph/0407056,Internal Turing Machines,,,,
+math/0001051,Continuous images of sets of reals,,,,
+math/0001157,Applications of another characterization of betaN\N,,,,
+math/0001173,How many Turing degrees are there?,,,,
+math/0002089,The core model for almost linear iterations,,,,
+math/0003027,Proper forcing and $L({\mathbb R})$,,,,
+math/0003139,"Consistently there is no non trivial ccc forcing notion with the Sacks
+  or Laver property",,,,
+math/0003163,A Partition Theorem,,,,
+math/0003164,Some Nasty Reflexive Groups,,,,
+math/0003165,Decompositions of Reflexive Modules,,,,
+math/0003181,On binary relations without non-identical endomorphisms,,,,
+math/0004127,On perfectly meager sets,,,,
+math/0005023,Meromorphic Groups,,,,
+math/0005130,"F-Products and Nonstandard Hulls for Strongly Continuous One-parameter
+  Semigroups of Linear Operators",,,,
+math/0005175,0^# and elementary end extensions of V_k,,,,
+math/0005183,Hypersequents and the Proof Theory of Intuitionistic Fuzzy Logic,,,,
+math/0005208,On the consistency of the definable tree property on \aleph_1,,,,
+math/0005297,"The harmonic product of $\delta (x_{1},..., x_{n})$ and $\delta (x_{1})$
+  and two combinatorial identities",,,,
+math/0006091,Coherent Bicartesian and Sesquicartesian Categories,,,,
+math/0006122,Quantified propositional Goedel logics,,,,
+math/0006140,Topology of Diophantine Sets: Remarks on Mazur's Conjectures,,,,
+math/0007021,No bound for the first fixed point,,,,
+math/0007199,The uncountable spectra of countable theories,,,,
+math/0009045,The failure of the uncountable non-commutative Specker Phenomenon,,,,
+math/0009047,A space with only Borel subsets,,,,
+math/0009060,Spectra of the Gamma-invariant of uniform modules,,,,
+math/0009062,Reflexive subgroups of the Baer-Specker group and Martin's axiom,,,,
+math/0009063,"On our paper `Almost Free Splitter', a correction",,,,
+math/0009080,A Note on Extensions of Infinitary Logic,,,,
+math/0009088,Groups isomorphic to all their non-trivial normal subgroups,,,,
+math/0009089,Localizations of Groups,,,,
+math/0009091,Philip Hall's Problem On Non-Abelian Splitters,,,,
+math/0009240,A simple maximality principle,,,,
+math/0010264,Absolutely rigid systems and absolutely indecomposable groups,,,,
+math/0010268,Relations between some cardinals in the absence of the Axiom of Choice,,,,
+math/0010303,"Radicals and Plotkin's problem concerning geometrically equivalent
+  groups",,,,
+math/0010304,Outer Automorphism Groups of Ordered Permutation Groups,,,,
+math/0011077,A universal weasel without large cardinals in V,,,,
+math/0011166,"Martin's Axiom is Consistent with the Existence of Nowhere Trivial
+  Automorphisms",,,,
+math/0011167,The Karp complexity of unstable classes,,,,
+math/0011182,Indecomposable almost free modules - the local case,,,,
+math/0011185,GCH implies the existence of many rigid almost free abelian groups,,,,
+math/0011186,Endomorphism rings of modules whose cardinality is cofinal to omega,,,,
+math/0011188,The splitting number can be smaller than the matrix chaos number,,,,
+math/0011228,On Whitehead precovers,,,,
+math/0011230,Whitehead modules over large principal ideal domains,,,,
+math/0011231,The non-commutative Specker phenomenon in the uncountable case,,,,
+math/0012019,G-dinaturality,,,,
+math/0012023,Fields with pseudo-exponentiation,,,,
+math/0012049,Flattening and subanalytic sets in rigid analytic geometry,,,,
+math/0012050,O-minimal cohomology and definably compact definable groups,,,,
+math/0012051,An introduction to o-minimal structures,,,,
+math/0012172,It is consistent with ZFC that B_1-groups are not B_2-groups,,,,
+math/0101036,Simple Homogeneous Models,,,,
+math/0102011,Perfectly meager sets and universally null sets,,,,
+math/0102044,Forcing a Boolean Algebra with predesigned automorphism group,,,,
+math/0102045,Nowhere precipitousness of the non-stationary ideal over P_kappa(lambda),,,,
+math/0102057,Almost disjoint pure subgroups of the Baer-Specker group,,,,
+math/0102059,On Polynomial Time Computation Over Unordered Structures,,,,
+math/0102060,Naturality and Definability II,,,,
+math/0102086,"Indestructibility and the level-by-level agreement between strong
+  compactness and supercompactness",,,,
+math/0102189,"The Practice of Finitism: Epsilon Calculus and Consistency Proofs in
+  Hilbert's Program",,,,
+math/0103154,On the lattice of cotorsion theories,,,,
+math/0103155,A partition relation using strongly compact cardinals,,,,
+math/0104072,More on mutual stationarity,,,,
+math/0104073,Iterations of V and the core model,,,,
+math/0104194,"On the existence of rigid aleph_1-free abelian groups of cardinality
+  aleph_1",,,,
+math/0104195,Coding with ladders a well-ordering of the reals,,,,
+math/0104198,A tall space with small bottom,,,,
+math/0104276,On needed reals,,,,
+math/0104277,Definability of initial segments,,,,
+math/0104282,Covers of groups definable in o-minimal structures,,,,
+math/0105134,"On embedding models of arithmetic of cardinality aleph_1 into reduced
+  powers",,,,
+math/0105135,On regular reduced products,,,,
+math/0105208,"\nabla_\kappa, remarkable cardinals, and 0^#",,,,
+math/0105256,Recursion categories of coalgebras,,,,
+math/0106003,Nonstandard Analysis of Graphs,,,,
+math/0106087,P not= NP for infinite time Turing machines,,,,
+math/0106096,"A lemma on a total function defined over the Baker-Gill-Solovay set of
+  polynomial Turing machines",,,,
+math/0106098,"A critical study on the concept of identity in Zermelo-Fraenkel-like
+  axioms",,,,
+math/0106099,On a total function which overtakes all total recursive functions,,,,
+math/0106100,Sets and Their Sizes,,,,
+math/0106201,Duality Chipped,,,,
+math/0106202,Isolating Cardinal Invariants,,,,
+math/0106203,Countable Support Iteration Revisited,,,,
+math/0107009,"A stronger form of the theorem constructing a rigid binary relation on
+  any set",,,,
+math/0107121,"Filtrations of random processes in the light of classification theory.
+  I. A topological zero-one law",,,,
+math/0107165,On a theorem of Banach and Kuratowski and K-Lusin sets,,,,
+math/0107190,Remarks on small sets of reals,,,,
+math/0107206,Functional Equations for Lexicographic Products,,,,
+math/0107208,Some ugly aleph_1-free abelian groups,,,,
+math/0109026,Forcing with ideals of closed sets,,,,
+math/0109027,An interpolation theorem,,,,
+math/0109099,"On shattering, splitting and reaping partitions",,,,
+math/0109101,Symmetries between two Ramsey properties,,,,
+math/0109102,Ramseyan ultrafilters,,,,
+math/0109144,Elementary equivalence versus Isomorphism,,,,
+math/0109175,"Techniques for approaching the dual Ramsey property in the projective
+  hierarchy",,,,
+math/0109176,Ultrafilter spaces on the semilattice of partitions,,,,
+math/0109177,On the complexity of Hamel bases of infinite dimensional Banach spaces,,,,
+math/0110333,Mathematical Structures Defined by Identities,,,,
+math/0111061,Abstraction and Application in Adjunction,,,,
+math/0111158,Study of an identity,,,,
+math/0111284,Strongly meager sets can be quite big,,,,
+math/0112136,Embeddings into P(N)/fin and extension of automorphisms,,,,
+math/0112213,On the Arrow property,,,,
+math/0112214,Almost-free E-rings of cardinality aleph_1,,,,
+math/0112252,On universal and epi-universal locally nilpotent groups,,,,
+math/0112253,Kulikov's problem on universal torsion-free abelian groups,,,,
+math/0112264,Characterizing automorphism groups of ordered abelian groups,,,,
+math/0112265,Van der Waerden spaces and Hindman spaces are not the same,,,,
+math/0112286,Forcing axiom failure for any lambda>aleph_1,,,,
+math/0112287,Specializing Aronszajn trees by countable approximations,,,,
+math/0112288,Potential isomorphism and semi-proper trees,,,,
+math/0201067,A simple proof of \Sigma^1_3 correctness of K,,,,
+math/0201072,On the number of non isomorphic subspaces of a Banach space,,,,
+math/0201169,Sharps and the \Sigma^1_3 correctness of K,,,,
+math/0201182,"Relating decision and search algorithms for rational points on curves of
+  higher genus",,,,
+math/0202265,Set theory and cyclic vectors,,,,
+math/0202290,Borel and countably determined reducibility in nonstandard domain,,,,
+math/0203081,Cardinal arithmetic and Woodin cardinals,,,,
+math/0203102,Some new results on Borel irreducibility of equivalence relations,,,,
+math/0203108,The theory of Liouville functions,,,,
+math/0203113,"Decidability of quantified propositional intuitionistic logic and S4 on
+  trees",,,,
+math/0203204,Approximating Propositional Calculi by Finite-valued Logics,,,,
+math/0204255,"Hilbert's ""Verunglueckter Beweis,"" the first epsilon theorem, and
+  consistency proofs",,,,
+math/0207165,Default Logic in a Coherent Setting,,,,
+math/0208094,Identity of Proofs Based on Normalization and Generality,,,,
+math/0209372,"Eine vollstaendige Formalisierung der Aristotelischen
+  Notwendigkeitssyllogistik",,,,
+math/0211023,Strongly meager sets of size continuum,,,,
+math/0211133,Orthomodular Lattices and Quantales,,,,
+math/0211311,"On (3,3)-homogeneous Greechie Orthomodular Posets",,,,
+math/0211397,The Future of Set Theory,,,,
+math/0211399,"Some notes concerning the homogeneity of Boolean algebras and Boolean
+  spaces",,,,
+math/0211420,Rosenberg's classification of maximal clones,,,,
+math/0211433,Pcf theory and Woodin cardinals,,,,
+math/0211438,Martin's Axiom and Maximal Orthogonal Families,,,,
+math/0211466,Mixed characteristic homological theorems in low degrees,,,,
+math/0212022,A partition theorem for scattered order types,,,,
+math/0212026,Analytic Colorings,,,,
+math/0212027,Generic left-separated spaces and calibers,,,,
+math/0212041,Duality and the pcf theory,,,,
+math/0212042,Games with creatures,,,,
+math/0212046,P^f is not equal to NP^f for almost all f,,,,
+math/0212047,Infinite Time Turing Machines: Supertask Computation,,,,
+math/0212063,"Almost free groups and Ehrenfeucht-Fra\""\i ss\'e games for successors of
+  singular cardinals",,,,
+math/0212064,Finite subgraphs of uncountably chromatic graphs,,,,
+math/0212190,The isomorphism problem for classes of computable fields,,,,
+math/0212227,The Conjugacy Problem and Higman Embeddings,,,,
+math/0212233,"Possible Cardinalities of Maximal Abelian Subgroups of Quotients of
+  Permutation Groups of the Integers",,,,
+math/0212234,More on the Ehrenfencht-Fraisse game of length omega_1,,,,
+math/0212406,Beyond $\underTilde{\Sigma}^2_1$ absoluteness,,,,
+math/0301016,Exactly controlling the non-supercompact strongly compact cardinals,,,,
+math/0301317,Locality for Classical Logic,,,,
+math/0302307,"A hybrid constraint programming and semidefinite programming approach
+  for the stable set problem",,,,
+math/0303005,A Note on the Set-Theoretic Representation of Arbitrary Lattices,,,,
+math/0303011,"Characterization of the Axiomatizable Prenex Fragments of First-Order
+  Goedel Logics",,,,
+math/0303030,"Complexity and ordinary life, and some mathematics in both",,,,
+math/0303089,Core models in the presence of Woodin cardinals,,,,
+math/0303206,Elements of Nonstandard Algebraic Geometry,,,,
+math/0303340,Positive characteristic Manin-Mumford theorem,,,,
+math/0303344,"The structure of Ext(A,Z) and GCH: possible co-Moore spaces",,,,
+math/0303345,Karp complexity and classes with the independence property,,,,
+math/0304204,Groups interpretable in theories of fields,,,,
+math/0304205,Automorphism groups of saturated structures; a review,,,,
+math/0305036,On relatively analytic and Borel subsets,,,,
+math/0305122,"The elementary theory of Dedekind cuts in polynomially bounded
+  structures",,,,
+math/0305265,Homogeneously Souslin sets in small inner models,,,,
+math/0305269,"Prikry On Extenders, Revisited",,,,
+math/0305384,Orderings of Monomial Ideals,,,,
+math/0305445,"On the questions P ?= NP $\cap$ co-NP and NP ?= co-NP for infinite time
+  Turing machines",,,,
+math/0306169,Theorie De Galois Des Equations Differentielles,,,,
+math/0306174,On the canonical formula of C. Levi-Strauss,,,,
+math/0306240,Bounds and definability in polynomial rings,,,,
+math/0306277,Hilbert's Tenth Problem and Mazur's Conjecture for large subrings of Q,,,,
+math/0306351,Multivariate Igusa theory: Decay rates of exponential sums,,,,
+math/0306411,"Less than $2^/omega$ many translates of a compact nullset may cover the
+  real line",,,,
+math/0307086,Elementarity and dimensions,,,,
+math/0307284,Yet Another Single Law for Lattices,,,,
+math/0307388,P is not equal to NP intersect coNP for Infinite Time Turing Machines,,,,
+math/0308049,A signalizer functor theorem for groups of finite Morley rank,,,,
+math/0308148,Hyperquasivarieties,,,,
+math/0308162,"Span, chainability and the continua H* and I_u",,,,
+math/0309165,Automorphisms and strongly invariant relations,,,,
+math/0309297,Remarks on a paper by Juh\'asz and Kunen,,,,
+math/0309345,Boolos-style proofs of limitative theorems,,,,
+math/0310131,Polynomial Functions on a Central Relation,,,,
+math/0310175,"Defining Homomorphisms and Other Generalized Morphisms of Fuzzy
+  Relations in Monoidal Fuzzy Logics by Means of BK-Products",,,,
+math/0311165,A definable nonstandard model of the reals,,,,
+math/0311387,On finite approximations of topological algebraic systems,,,,
+math/0311435,Grothendieck rings of \mathbb{Z}-valued fields,,,,
+math/0311514,On the structure of stationary sets,,,,
+math/0312382,Division-ample sets and the Diophantine problem for rings of integers,,,,
+math/0312422,"\Sigma\Pi-polycategories, additive linear logic, and process semantics",,,,
+math/0312445,How special is your Aronszajn tree?,,,,
+math/0312473,"Complete ccc Boolean algebras, the order sequential topology, and a
+  problem of von Neumann",,,,
+math/0312522,A class of Banach spaces with few non strictly singular operators,,,,
+math/0401095,Profinite Structures are Retracts of Ultraproducts of Finite Structures,,,,
+math/0401101,The clone generated by the median functions,,,,
+math/0401103,Maximal clones on uncountable sets that include all permutations,,,,
+math/0401363,On the Lengths of Symmetry Breaking-Preserving Games on Graphs,,,,
+math/0402441,On the complexity of Cockett-Seely polarized games,,,,
+math/0403165,"The Necessary Maximality Principle for c.c.c. forcing is equiconsistent
+  with a weakly compact cardinal",,,,
+math/0403227,Logical Construction of Final Coalgebras,,,,
+math/0403495,"The homotopy classes of continuous maps between some non-metrizable
+  manifolds",,,,
+math/0403505,A graphic generalization of arithmetic,,,,
+math/0404148,On topological properties of ultraproducts of finite sets,,,,
+math/0404179,The f-Factor Problem for Graphs and the Hereditary Property,,,,
+math/0404207,A note on kappa-freeness,,,,
+math/0404259,Uniquely Transitive Torsion-free Abelian Groups,,,,
+math/0404271,Generalized E-Rings,,,,
+math/0404286,A language for multiplicative-additive linear logic,,,,
+math/0404318,"Cofinality of normal ideals on P_\kappa(\lambda), I",,,,
+math/0404319,On the order of countable graphs,,,,
+math/0404322,Cardinal sequences and Cohen real extensions,,,,
+math/0405013,Nonreflecting stationary sets in P_kappa(lambda),,,,
+math/0405015,On a non-vanishing Ext,,,,
+math/0405016,Recursive logic frames,,,,
+math/0405091,A dichotomy in classifying quantifiers for finite models,,,,
+math/0405117,On the cogeneration of cotorsion pairs,,,,
+math/0405244,Infinitesimal Fourier Transformation for The Space of Functionals,,,,
+math/0405245,Poisson Summation Formula for The Space of Functionals,,,,
+math/0405360,Model theory of probability spaces with an automorphism,,,,
+math/0405563,Jet spaces in complex analytic geometry: an exposition,,,,
+math/0406063,Consistency Strengths of Modified Maximality Principles,,,,
+math/0406179,Long line knots,,,,
+math/0406438,Simple Complete Boolean Algebras,,,,
+math/0406441,On two problems of Erdos and Hechler: New methods in singular Madness,,,,
+math/0406477,"Some equivalence relations which are Borel reducible to isomorphism
+  between separable Banach spaces",,,,
+math/0406481,Interpreting groups and fields in some nonelementary classes,,,,
+math/0406505,"The Isomorphism Problem for Computable Abelian p-Groups of Bounded
+  Length",,,,
+math/0406543,The Geometry of Linear Regular Types,,,,
+math/0406552,Hereditarily separable groups and monochromatic uniformization,,,,
+math/0407089,Effective JSJ Decompositions,,,,
+math/0407111,"Incomparable, non isomorphic and minimal Banach spaces",,,,
+math/0407173,Clones on infinite sets,,,,
+math/0407182,Forcing with quotients,,,,
+math/0407440,"Positive partition relations for P_{kappa,lambda}",,,,
+math/0408144,Is Complexity a Source of Incompleteness?,,,,
+math/0408271,"Diophantine definability of infinite discrete non-archimedean sets and
+  Diophantine models over large subrings of number fields",,,,
+math/0409002,Topological complexity of the relative closure of a semi-Pfaffian couple,,,,
+math/0409034,A Calculus of Inconsistency I: Sentential Logic,,,,
+math/0409103,"Elliptic curves and Hilbert's tenth problem for algebraic function
+  fields over real and p-adic fields",,,,
+math/0409217,Precomplete clones on infinite sets which are closed under conjugation,,,,
+math/0409250,Von Neumann coordinatization is not first-order,,,,
+math/0410274,Subanalytic sets and complex analytic geometry,,,,
+math/0410406,"The number of unary clones containing the permutations on an infinite
+  set",,,,
+math/0410563,The Mordell-Lang Theorem for Drinfeld modules,,,,
+math/0411117,Continuous Fraisse Conjecture,,,,
+math/0411226,"A generalized small model property for languages which force the
+  infinity",,,,
+math/0411227,"Formative processes with applications to the decision problem in set
+  theory: II. powerset and singleton operators, finiteness predicate",,,,
+math/0411349,"Lefschetz extensions, tight closure, and big Cohen-Macaulay algebras",,,,
+math/0411625,Hilbert spaces with generic groups of automorphisms,,,,
+math/0412144,Quantum logic as motivated by quantum computing,,,,
+math/0412356,Geometry of forking in simple theories,,,,
+math/0412406,Nonstandard Etale Cohomology,,,,
+math/0412473,"Elliptic divisibility sequences and undecidable problems about rational
+  points",,,,
+math/0501337,Action Type Geometrical Equivalence of Representations of Groups,,,,
+math/0501476,"No-counterexample interpretation et sp\'{e}cification des
+  th\'{e}or\`{e}mes de l'arithm\'{e}tique",,,,
+math/0502047,Two preservation theorems,,,,
+math/0502224,On relative computability for curves,,,,
+math/0502264,Turing Computations on Ordinals,,,,
+math/0502265,The Theory of Sets of Ordinals,,,,
+math/0502393,A theory of hyperfinite sets,,,,
+math/0503453,Weakly complete axiomatization of exogenous quantum propositional logic,,,,
+math/0504065,Logic Without Syntax,,,,
+math/0504133,Relevant Categories and Partial Functions,,,,
+math/0504186,"Characterizing the structure of A when the ratio |2A|/|A| is bounded by
+  3+epsilon",,,,
+math/0504198,On Crawley Modules,,,,
+math/0504316,Exponential sums over definable subsets of finite fields,,,,
+math/0504351,The halting problem is decidable on a set of asymptotic probability one,,,,
+math/0504553,Logic and Partially Ordered Abelian Groups,,,,
+math/0505034,Hybrid Pluralism,,,,
+math/0505073,"Quasianalytic solutions of differential equations and o-minimal
+  structures",,,,
+math/0505418,Internalising modified realisability in constructive type theory,,,,
+math/0506109,"On o-minimality of extensions of $\R$ by restricted generic smooth
+  functions",,,,
+math/0506123,A partition theorem for a large dense linear order,,,,
+math/0506463,A minimal classical sequent calculus free of structural rules,,,,
+math/0507128,Turing Degrees of Isomorphism Types of Algebraic Objects,,,,
+math/0507480,Sheaves for predicative toposes,,,,
+math/0507486,Uniform first-order definitions in finitely generated fields,,,,
+math/0508236,Classifying singularities up to analytic extensions of scalars,,,,
+math/0508412,Completions of mu-algebras,,,,
+math/0508507,Computable structures of rank omega_1^{CK},,,,
+math/0508583,Constructing the hyperdefinable group from the group configuration,,,,
+math/0509245,Analysis in J_2,,,,
+math/0509248,"Deterministic modal Bayesian Logic: derive the Bayesian within the modal
+  logic T",,,,
+math/0509307,Excellent Abstract Elementary Classes are tame,,,,
+math/0509387,"Shelah's Categoricity Conjecture from a successor for Tame Abstract
+  Elementary Classes",,,,
+math/0509535,Galois-stability for Tame Abstract Elementary Classes,,,,
+math/0509616,The modal logic of forcing,,,,
+math/0509633,The Proper Forcing Axiom and the Singular Cardinal Hypothesis,,,,
+math/0509658,"A question of van den Dries and a theorem of Lipshitz and Robinson: Not
+  everything is standard",,,,
+math/0509707,Abstract decomposition theorem and applications,,,,
+math/0510004,"Categoricity from one successor cardinal in Tame Abstract Elementary
+  Classes",,,,
+math/0510189,A general form of relative recursion,,,,
+math/0510412,Infintesimals in a Recursively Enumerable Prime Model,,,,
+math/0510563,The approximate fixed point property in product spaces,,,,
+math/0510579,Categoricity in Abstract Elementary Classes with No Maximal Models,,,,
+math/0510640,The Epsilon Calculus and Herbrand Complexity,,,,
+math/0511019,A quadratic rate of asymptotic regularity for CAT(0)-spaces,,,,
+math/0511162,Zero-groups and maximal tori,,,,
+math/0511367,"A Theory of Adjoint Functors--with some Thoughts about their
+  Philosophical Significance",,,,
+math/0511748,Upward Stability Transfer for Tame Abstract Elementary Classes,,,,
+math/0512054,Effective cardinals in the nonstandard universe,,,,
+math/0512218,Universal graphs with a forbidden subtree,,,,
+math/0512220,kappa-bounded Exponential-Logarithmic Power Series Fields,,,,
+math/0512413,"Semilogics, Quasilogics and Other Quantum Structures",,,,
+math/0512615,Stability and Paradox in Algorithmic Logic,,,,
+math/0601147,First-order Goedel logics,,,,
+math/0601153,Several comments about the combinatorics of tau-covers,,,,
+math/0601556,Games in Banach spaces,,,,
+math/0601722,Hahn Field Representation of A. Robinson's Asymptotic Numbers,,,,
+math/0601724,"Nonstandard Analysis in Topology: Nonstandard and Standard
+  Compactifications",,,,
+math/0602034,"Model Theory of Partial Differential Fields: From Commuting to
+  Noncommuting Derivations",,,,
+math/0602053,Towards a Definition of an Algorithm,,,,
+math/0602126,"An aleph-zero-categorical theory which is not G-compact and does not
+  have AZ-enumerations",,,,
+math/0602196,The theorem of the complement for nested subpfaffian sets,,,,
+math/0602203,Theory of square-like abelian groups is decidable,,,,
+math/0602415,Decidability of the Natural Numbers with the Almost-All Quantifier,,,,
+math/0602439,Turing Incomparability in Scott Sets,,,,
+math/0602469,An approach to non-standard analysis,,,,
+math/0602483,Infinite time computable model theory,,,,
+math/0602493,The dimension of a variety,,,,
+math/0602511,On the number of two-dimensional threshold functions,,,,
+math/0602541,First-order definitions in function fields over anti-Mordellic fields,,,,
+math/0602544,"Extending the Extensional Lambda Calculus with Surjective Pairing is
+  Conservative",,,,
+math/0603052,An ordered structure of rank two related to Dulac's problem,,,,
+math/0603235,Steinhaus Sets and Jackson Sets,,,,
+math/0603506,Varia. Ideals and Equivalence Relations,,,,
+math/0603540,On a Fragment of the Universal Baire Property for Sigma^1_2 Sets,,,,
+math/0604198,Set theory and C*-algebras,,,,
+math/0604209,Tennenbaum at Penn and Rochester,,,,
+math/0604349,Transfer principle in quantum set theory,,,,
+math/0604354,Enlargements of Schemes,,,,
+math/0604373,QL(C^n) determines n,,,,
+math/0604575,"Automatic continuity of homomorphisms and fixed points on metric
+  compacta",,,,
+math/0605034,"Restricted exchange, braidings and the monoidal centre",,,,
+math/0605128,Chang's conjecture may fail at supercompact cardinals (submitted),,,,
+math/0605129,Forcing indestructibility of set-theoretic axioms,,,,
+math/0605130,Kurepa-trees and Namba-forcing,,,,
+math/0605138,Constructive Mathematical Truth,,,,
+math/0605411,"Algebraic lattices are complete sublattices of the clone lattice over an
+  infinite set",,,,
+math/0605412,On fields and colours,,,,
+math/0605502,Zero-one laws for binary random fields,,,,
+math/0605779,Division by three,,,,
+math/0606216,The automorphism tower of a centerless group (mostly) without choice,,,,
+math/0606368,"Diophantine Definability and Decidability in the Extensions of Degree 2
+  of Totally Real Fields",,,,
+math/0606374,Quadratic Maps and Bockstein Closed Group Extensions,,,,
+math/0606425,The diagonal lemma as the formalized Grelling paradox,,,,
+math/0606494,Intermediate logics and factors of the Medvedev lattice,,,,
+math/0606529,On the structure of the Medvedev lattice,,,,
+math/0606728,The finite intervals of the Muchnik lattice,,,,
+math/0606792,Model-completion of scaled lattices,,,,
+math/0607189,Domain closure conditions and definability preservation,,,,
+math/0607375,Bounded m-ary Patch-Width Are Equivalent For m > 2,,,,
+math/0607418,"The model completion of the theory of modules over finitely generated
+  commutative algebras",,,,
+math/0607625,"Some properties of complex matrix-variate generalized Dirichlet
+  integrals",,,,
+math/0608055,Elementary Equivalence of Endomorphism Rings of Abelian p-Groups,,,,
+math/0608116,Conflict Free Rule for Combining Evidences,,,,
+math/0608163,Ind- and Pro- definable sets,,,,
+math/0608166,Epistemic actions as resources,,,,
+math/0608330,Club guessing and the universal models,,,,
+math/0608433,A Note on Generic Types,,,,
+math/0608571,Intensional Models for the Theory of Types,,,,
+math/0608636,On $D$-spaces and Discrete Families of Sets,,,,
+math/0608638,On club-like principles on regular cardinals above $\beth_\omega$,,,,
+math/0608641,Parametrized $\diamondsuit$ principles,,,,
+math/0608723,Super Rough Semantics,,,,
+math/0609064,The Ground Axiom,,,,
+math/0609096,Diophantine Geometry over Groups VIII: Stability,,,,
+math/0609230,On a Problem Posed by Maurice Nivat,,,,
+math/0609260,Motivic proof of a character formula for SL(2),,,,
+math/0609270,The Ground Axiom (GA),,,,
+math/0609554,On the additive theory of prime numbers II,,,,
+math/0609600,On the problem of M-hyperquasivarieties,,,,
+math/0609608,Levy Processes on a First Order Model,,,,
+math/0609637,"On the p-rank of Ext_Z(G,Z) in certain models of ZFC",,,,
+math/0609638,"A characterization of Ext(G,Z) assuming V=L",,,,
+math/0610162,Hilbert's Tenth Problem for function fields of characteristic zero,,,,
+math/0610195,What Is Boolean Valued Analysis?,,,,
+math/0610643,Effective codescent morphisms in some varieties of universal algebras,,,,
+math/0610759,"Betti numbers of finitely presented groups and very rapidly growing
+  functions",,,,
+math/0610776,"The complexity of the index sets of $\aleph_0$-categorical theories and
+  of Ehrenfeucht theories",,,,
+math/0610832,On complex algebras of subalgebras,,,,
+math/0611515,Nice enumerations of omega-categorical groups,,,,
+math/0611937,Remarks on Inheritance Systems,,,,
+math/0612050,Combinatorial complexity in o-minimal geometry,,,,
+math/0612089,The three dimensions of proofs,,,,
+math/0612184,A Nonstandard Approach to Real Multiplication,,,,
+math/0612186,Line Bundles over Quantum Tori,,,,
+math/0612234,Recursive definitions on surreal numbers,,,,
+math/0612235,Arithmetic of Dedekind cuts of ordered Abelian groups,,,,
+math/0612241,"Filtration equivalent aleph_1-separable abelian groups of cardinality
+  aleph_1",,,,
+math/0612244,On Weak and Strong Interpolation in Algebraic Logics,,,,
+math/0612246,The nonstationary ideal on P_\kappa(lambda) for lambda singular,,,,
+math/0612366,O-minimal spectrum,,,,
+math/0612542,"Completeness results for many-valued \Lukasiewicz modal systems and
+  relational semantics",,,,
+math/0612745,Transition maps at non-resonant hyperbolic singularities are o-minimal,,,,
+math/0701011,Definable equivalence relations and zeta functions of groups,,,,
+math/0701029,Interpreting Random Hypergraphs in Pseudofinite Fields,,,,
+math/0701198,Generating self-map monoids of infinite sets,,,,
+math/0701523,Locally Polynomially Bounded Structures,,,,
+math/0701684,Lambda theories of effective lambda models,,,,
+math/0701752,What does the automorphism group of a free abelian group A know about A?,,,,
+math/0701788,Polish group actions and admissible sets,,,,
+math/0701801,"Deterministic modal Bayesian Logic: derive the Bayesian inference within
+  the modal logic T",,,,
+math/0701904,Noncomputable Spectral Sets,,,,
+math/0702044,Elementary equivalence of Chevalley groups over fields,,,,
+math/0702134,Forking in the free group,,,,

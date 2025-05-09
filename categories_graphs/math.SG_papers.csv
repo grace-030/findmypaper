@@ -1,0 +1,1230 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+gr-qc/0110034,Introduction to Modern Canonical Quantum General Relativity,4.971829053364679e-05,0.000917367405873,220.0,232.0
+math/0701740,Reduction of branes in generalized complex geometry,3.124629295002085e-05,2.5545708898975107e-08,11.0,1.0
+math/0603353,"A Desingularization of the Main Component of the Moduli Space of
+  Genus-One Stable Maps into $\Bbb{P}^n$",3.0559377055839056e-05,1.9921845710607967e-05,9.0,3.0
+math/0703298,Generalized complex geometry,2.6098111690222937e-05,1.670356398724875e-07,23.0,1.0
+math/0604157,Deformation of Batalin-Vilkovisky Structures,2.4660885445660888e-05,0.0,32.0,0.0
+math/0703446,Transverse Knots Distinguished by Knot Floer Homology,2.2803091751981347e-05,8.7912448711516e-09,24.0,2.0
+math/0608481,The Quantum Orbifold Cohomology of Weighted Projective Spaces,2.2229462639784186e-05,7.789090211502886e-06,13.0,8.0
+math/0701460,"Knot concordance and Heegaard Floer homology invariants in branched
+  covers",2.044469308101817e-05,2.931242651087346e-07,9.0,1.0
+math/0612363,A Groupoid Approach to Quantization,2.029513128523797e-05,0.0,14.0,0.0
+math/0604580,Tight contact structures and genus one fibered knots,1.982488803856522e-05,1.1343336297358129e-06,14.0,2.0
+math/0703164,An $A_\infty$-structure for lines in a plane,1.9385532172313115e-05,0.0,10.0,0.0
+math/0601144,The topology and geometry of contact structures in dimension three,1.8381311552275256e-05,0.0,5.0,1.0
+math/0612660,The K-theory of abelian symplectic quotients,1.8076380165088816e-05,0.0,17.0,0.0
+math/0403376,"The Kunneth formula in Floer homology for manifolds with restricted
+  contact type boundary",1.802496641751981e-05,0.0,5.0,1.0
+math/0304038,Higher derived brackets and homotopy algebras,1.733307384973507e-05,4.277527221344809e-06,26.0,7.0
+math-ph/0604073,"Spin Calogero models associated with Riemannian symmetric spaces of
+  negative curvature",1.7209464778063818e-05,7.069269839754885e-08,11.0,3.0
+math/0606786,The Ricci tensor of SU(3)-manifolds,1.711896589451705e-05,1.6280197624013216e-08,5.0,2.0
+math/0509499,Notions of positivity and the Ozsvath-Szabo concordance invariant,1.6785217416287474e-05,2.0223623270718645e-06,11.0,3.0
+math/0306256,Legendrian and Transversal Knots,1.674279690277819e-05,0.0001733432964559,12.0,15.0
+math/0411601,The symplectic topology of Ramanujam's surface,1.539529779270217e-05,0.0,3.0,1.0
+math/0611841,"Legendrian knots, transverse knots and combinatorial Floer homology",1.5248223140235932e-05,5.474354139222663e-08,16.0,2.0
+math/0703619,Exotic smooth structures on (2n+2l-1)CP^2#(2n+4l-1)(-CP^2),1.517309362423822e-05,0.0,5.0,0.0
+math/0201123,Stringy orbifolds,1.4897142934195528e-05,4.720762694989583e-05,29.0,6.0
+math/0703234,Q-algebroids and their cohomology,1.4484114401327306e-05,0.0,5.0,0.0
+math/0701378,Deformation Quantization and Reduction,1.4318868039330267e-05,0.0,7.0,0.0
+hep-th/0410018,"Topological String Amplitudes, Complete Intersection Calabi-Yau Spaces
+  and Threshold Corrections",1.3968219116677413e-05,1.187125920781353e-05,94.0,11.0
+math/0503628,Poisson Equivalence over a Symplectic Leaf,1.3910601752498498e-05,2.9101743882238707e-05,5.0,2.0
+math/0701783,Exact Lagrangian submanifolds in simply-connected cotangent bundles,1.3584723251684665e-05,0.0,4.0,2.0
+math/0703064,Hofer's geometry and Floer theory under the quantum limit,1.3296163306617631e-05,0.0,3.0,0.0
+math/0612668,Mixed Hodge polynomials of character varieties,1.3224124415431874e-05,1.87181174068382e-06,11.0,1.0
+math/0702603,Comultiplicativity of the Ozsvath-Szabo contact invariant,1.3105795976559424e-05,0.0,11.0,0.0
+math/0506111,"Orbifold Quantum Riemann-Roch, Lefschetz and Serre",1.2828754399339943e-05,2.540004368465329e-05,15.0,7.0
+math/0701122,Uniqueness and examples of compact toric Sasaki-Einstein metrics,1.2747207820348754e-05,2.077600149808252e-06,14.0,3.0
+math/0701231,On the integration of LA-groupoids and duality for Poisson groupoids,1.2710631569223637e-05,0.0,3.0,0.0
+math/0701778,A_\infty-subalgebras and natural transformations,1.2682587673647352e-05,0.0,8.0,0.0
+math/0412440,"Monodromy, vanishing cycles, knots and the adjoint quotient",1.265200573389869e-05,0.0,11.0,0.0
+math/0607401,"Generalized geometry, equivariant $\bar{\partial}\partial$-lemma, and
+  torus actions",1.2539313547123808e-05,0.0,13.0,0.0
+math/0701568,Introduction to the Gopakumar-Vafa Large N Duality,1.2477257075838952e-05,1.8226998290422687e-08,18.0,1.0
+math/9809146,Cohomology of the Mumford Quotient,1.2463120794262724e-05,0.0,2.0,2.0
+math/0607343,"A natural smooth compactification of the space of elliptic curves in
+  projective space",1.2395502785210598e-05,0.0,6.0,1.0
+math/0506191,Quantitative symplectic geometry,1.2256216148055704e-05,1.5921462041280577e-05,9.0,3.0
+math/0403029,Heegaard diagrams and holomorphic disks,1.2229118335773309e-05,3.183011428309746e-06,30.0,1.0
+math/0512348,"The Ozsv{\'a}th-Szab{\'o} and Rasmussen concordance invariants are not
+  equal",1.2197160486339564e-05,2.4566968673832893e-05,15.0,8.0
+math-ph/0611062,"Partial Reductions of Hamiltonian Flows and Hess-Appel'rot Systems on
+  SO(n)",1.182451892635312e-05,0.0,7.0,0.0
+math/0204168,Geometric Aspects of Mirror Symmetry (with SYZ for Rigid CY manifolds),1.1766666303735932e-05,1.937634210859639e-06,42.0,4.0
+math/9811057,Holomorphic quantization formula in singular reduction,1.175081873501402e-05,0.0,3.0,1.0
+math/0611924,Q-groupoids and their cohomology,1.1654278769972103e-05,0.0,5.0,1.0
+math/0310330,The Weinstein conjecture and the theorems of nearby and almost existence,1.1628134561905709e-05,3.980365510320144e-06,13.0,4.0
+math/0402347,Poisson geometry and Morita equivalence,1.160507305394558e-05,2.6005422333927757e-05,19.0,11.0
+math/0510523,A note on equivariant normal forms of Poisson structures,1.1420728677135308e-05,3.140886942151516e-05,3.0,1.0
+math/0607808,Givental's Lagrangian Cone and S^1-Equivariant Gromov-Witten Theory,1.1038112966859296e-05,0.0,8.0,0.0
+math/0505362,"Intersection pairings on singular moduli spaces of bundles over a
+  Riemann surface and their partial desingularisations",1.0932788112280413e-05,1.990182755160072e-06,7.0,1.0
+math/0602062,Spinning particles in a Yang-Mills field,1.0916886096878564e-05,0.0,5.0,1.0
+math-ph/0703045,Qualitative Analysis of the Classical and Quantum Manakov Top,1.0727451734008933e-05,0.0,8.0,0.0
+math/0501406,New aspects of the ddc-lemma,1.0590440908103591e-05,2.327040076801048e-06,16.0,9.0
+math/0405203,Strong fillability and the Weinstein conjecture,1.045887201808847e-05,0.0,9.0,1.0
+hep-th/0112263,"Geometric (pre)quantization in the polysymplectic approach to field
+  theory",1.0113352562430837e-05,4.957970928558868e-06,22.0,6.0
+math/0606241,"Notes on A-infinity algebras, A-infinity categories and non-commutative
+  geometry. I",1.0087188610628924e-05,0.0001838644356059,17.0,20.0
+math/0606094,Knot Floer homology of Whitehead doubles,1.0065141248534622e-05,1.0673444446133908e-06,9.0,2.0
+math/0604379,Constructible Sheaves and the Fukaya Category,1.0056548067440466e-05,9.41805388483678e-07,10.0,1.0
+math-ph/0304015,"Electrical Networks, Symplectic Reductions, and Application to the
+  Renormalization Map of Self-Similar Lattices",9.991355610478769e-06,0.0,3.0,1.0
+math/0607421,Orbifold cohomology of hypertoric varieties,9.955201943115484e-06,0.0,2.0,1.0
+math/0701902,"Symmetries and invariants of twisted quantum algebras and associated
+  Poisson algebras",9.937749183168985e-06,0.0,1.0,0.0
+math/0612322,A combinatorial description of the Heegaard Floer contact invariant,9.717480086740162e-06,0.0,6.0,0.0
+math/0507546,An algebraic index theorem for orbifolds,9.713215741214602e-06,0.0,5.0,0.0
+math/0601294,The K-theory of abelian versus nonabelian symplectic quotients,9.693674690291729e-06,0.0,10.0,0.0
+math/0702091,"Totally Non-coisotropic Displacement and Its Applications to Hamiltonian
+  Dynamics",9.651750810032278e-06,1.990182755160072e-06,3.0,1.0
+math/0701823,Combinatorial invariants of algebraic Hamiltonian actions,9.574094755754784e-06,0.0,4.0,2.0
+math/0606598,On the Fukaya Categories of Higher Genus Surfaces,9.53414116757334e-06,1.890061612579158e-06,9.0,1.0
+math/0612399,Microlocal branes are constructible sheaves,9.525879072041205e-06,4.704330974945032e-06,6.0,3.0
+math/0611139,Lagrangian 3-torus fibrations,9.495193402539844e-06,0.0,20.0,0.0
+nlin/0305060,On the canonically invariant calculation of Maslov indices,9.396541986175156e-06,0.0,2.0,1.0
+math/0703267,"Homological mirror symmetry for toric orbifolds of toric del Pezzo
+  surfaces",9.24521629428204e-06,0.0,4.0,2.0
+hep-th/0110151,The Geometry of Quantum Mechanics,9.21826024509912e-06,2.899853928744041e-06,16.0,6.0
+math/0512634,Reduction and duality in generalized geometry,9.166985858229914e-06,1.652334441677136e-06,17.0,2.0
+math/0512411,Notes on GIT and symplectic reduction for bundles and varieties,9.042598410213282e-06,2.056974586178783e-06,9.0,5.0
+math/0502429,Orbifold cohomology of torus quotients,8.975541119003107e-06,2.176495748015739e-07,14.0,4.0
+math/0303282,Hamiltonian dynamics on convex symplectic manifolds,8.970280379049185e-06,0.0,9.0,13.0
+math/0301373,A remark on the c--splitting conjecture,8.963757623207857e-06,0.0,2.0,0.0
+math/9809192,"A Note on Higher Cohomology Groups of K\""ahler Quotients",8.939116652697454e-06,0.0,5.0,1.0
+math/0602230,Three approaches towards Floer homology of cotangent bundles,8.916921495741786e-06,0.0,6.0,1.0
+math/0410608,Pseudoholomorphic curves in four-orbifolds and some applications,8.909054675663826e-06,0.0,4.0,2.0
+math-ph/0612048,Weakly Nonlocal Hamiltonian Structures: Lie Derivative and Compatibility,8.903383749385571e-06,0.0,11.0,0.0
+math/0608063,"The Maslov class of Lagrangian tori and quantum products in Floer
+  cohomology",8.900785683006877e-06,0.0,3.0,0.0
+math/0203232,Restrictions on symplectic fibrations,8.85812145643562e-06,0.0,3.0,1.0
+math/0406103,A Sharp Compactness Theorem for Genus-One Pseudo-Holomorphic Maps,8.835844516362489e-06,1.594148020028782e-05,3.0,5.0
+math/0604434,"The M-ellipsoid, Symplectic Capacities and Volume",8.74132453970143e-06,0.0,2.0,0.0
+math/0401226,"The non-Abelian momentum map for Poisson-Lie symmetries on the chiral
+  WZNW phase space",8.631070830441909e-06,2.3907692286925936e-05,18.0,7.0
+math/0612029,"Rational Symplectic Field Theory over Z_2 for exact Lagrangian
+  cobordisms",8.515919142787638e-06,0.0,3.0,1.0
+math-ph/0605026,"Geometric quantization of the moduli space of the Self-duality equations
+  on a Riemann surface",8.511132242224768e-06,0.0,3.0,0.0
+math/0505279,On the Slicing Genus of Legendrian Knots,8.460544080822671e-06,0.0,6.0,0.0
+math/0403334,"(Bi)modules, morphismes et r\'eduction des star-produits: le cas
+  symplectique, feuilletages et obstructions",8.439174990810857e-06,4.7147562786646415e-06,16.0,7.0
+math/0605356,"Supergroupoids, double structures, and equivariant cohomology",8.412322128900016e-06,8.15955695784235e-06,15.0,5.0
+math/0104213,"Kaehler spaces, nilpotent orbits, and singular reduction",8.332219558878713e-06,6.206014231624965e-08,11.0,9.0
+math-ph/0610047,Classical phase space singularities and quantization,8.289451099223972e-06,1.7664326996779852e-08,9.0,2.0
+math-ph/0612008,The $\theta$-twistor versus the supertwistor,8.27694124555755e-06,0.0,4.0,0.0
+math/0402404,Energy capacity inequalities via an action selector,8.211567758586681e-06,4.085523595551761e-06,6.0,2.0
+math/0612356,On arc index and maximal Thurston-Bennequin number,8.180230776655277e-06,5.5489133617128877e-08,12.0,1.0
+math/0212279,Poisson deformations of symplectic quotient singularities,8.16233130934398e-06,3.8176515473984456e-05,18.0,8.0
+math/0406334,"Volume minimization and estimates for certain isotropic submanifolds in
+  complex projective spaces",8.118280696755626e-06,1.990182755160072e-06,2.0,1.0
+math/0308134,Contact 3-manifolds with infinitely many Stein fillings,8.117832326432987e-06,0.0,4.0,0.0
+math/0702258,Poisson Fibrations and Fibered Symplectic Groupoids,8.071208664570761e-06,0.0,2.0,0.0
+math/0612406,On the quantum filtration of the Khovanov-Rozansky cohomology,8.036455085910307e-06,1.028873883457638e-06,9.0,3.0
+math/0703370,Symplectic rational blow-down along Seifert fibered 3-manifolds,8.033070080226946e-06,1.131665519371353e-06,3.0,1.0
+math/0412462,Homology of formal deformations of proper etale Lie groupoids,8.031129354731048e-06,7.545587044721729e-07,11.0,3.0
+math/0609483,"Degeneration and gluing of Kuranishi structures in Gromov-Witten theory
+  and the degeneration/gluing axioms for open Gromov-Witten invariants under a
+  symplectic cut",8.023803606264988e-06,0.0,14.0,0.0
+math/0601200,The group of Hamiltonian homeomorphisms and continuous Hamiltonian flows,7.938977310563416e-06,0.0,6.0,4.0
+math/0606211,Prime Fano threefolds and integrable systems,7.891430371746298e-06,0.0,6.0,0.0
+math-ph/0403031,"The Atiyah-Hitchin bracket for the cubic nonlinear Schrodinger equation.
+  ii. Periodic potentials",7.86238664082016e-06,1.1941096530960432e-05,6.0,2.0
+math/0401021,"Lefschetz pencils, branched covers and symplectic invariants",7.845793510392556e-06,0.0,13.0,1.0
+math/0610123,"Poisson geometry of the Grothendieck resolution of a complex semisimple
+  group",7.837788840837154e-06,0.0,5.0,0.0
+gr-qc/0012038,Covariant Geometric Prequantization of Fields,7.835501099914376e-06,2.016318154015552e-06,13.0,4.0
+math/0612565,"Maximal compact tori in the Hamiltonian groups of 4-dimensional
+  symplectic manifolds",7.830174314631166e-06,0.0,6.0,0.0
+math/0403264,Optimal destabilizing vectors in some gauge theoretical moduli problems,7.82324995062454e-06,0.0,2.0,1.0
+math/0309315,"Harder-Narasimhan filtrations and optimal destabilizing vectors in
+  complex geometry",7.82324995062454e-06,0.0,2.0,1.0
+math/0303153,Riemannian geometry over different normed division algebra,7.757308508430764e-06,0.0,16.0,1.0
+math/0604166,"Vanishing of the logarithmic trace of generalized Szeg\""o projectors",7.636593109013923e-06,0.0,3.0,0.0
+math/0301131,"Gauge theoretical Gromov-Witten invariants and virtual fundamental
+  classes",7.626081188160292e-06,0.0,6.0,2.0
+math/0509060,Hamiltonian symmetries and reduction in generalized geometry,7.625406827791837e-06,2.0649000335236725e-06,13.0,11.0
+math/0509121,"Enumerative invariants of stongly semipositive real symplectic
+  six-manifolds",7.565877679018323e-06,2.58955008113794e-06,4.0,2.0
+math/0610901,Disk enumeration on the quintic 3-fold,7.477395007799022e-06,5.700888027270467e-06,7.0,2.0
+math/0507572,Exact Euler Maclaurin formulas for simple lattice polytopes,7.439141777046958e-06,0.0,3.0,0.0
+math/0511194,Symplectic connections,7.41439158345343e-06,5.267785620811069e-06,8.0,2.0
+math/0701499,Group-like objects in Poisson geometry and algebra,7.400046505630147e-06,3.8672728155159205e-06,7.0,4.0
+math/0512245,"Lie algebroids, Lie groupoids and TFT",7.384914746771925e-06,0.0,12.0,0.0
+math/0406105,On the Genus-One Gromov-Witten Invariants of a Quintic Threefold,7.372413533282917e-06,4.044989922726e-06,4.0,3.0
+math/0205122,"Action-angle coordinates around a noncompact invariant manifold of a
+  completely integrable Hamiltonian system",7.37136818688287e-06,0.0,2.0,1.0
+math/0507223,Geometric quantization and non-perturbative Poisson sigma model,7.340155228447907e-06,1.1241111125348418e-06,11.0,5.0
+math/0606548,Dimer models for parallelograms,7.339911244264159e-06,0.0,3.0,1.0
+math/0507594,Poisson fiber bundles and coupling Dirac structures,7.337811209654235e-06,0.0,2.0,1.0
+math/0503145,Rigidity and Flexibility in Poisson Geometry,7.3259119852322355e-06,4.875622943855104e-07,3.0,1.0
+math/0510574,"Infinitely many universally tight contact manifolds with trivial
+  Ozsvath-Szabo contact invariants",7.222020734732553e-06,1.75103329324535e-06,6.0,1.0
+math/0308276,Symplectic tori in rational elliptic surfaces,7.1951850671897865e-06,0.0,6.0,0.0
+math/0610614,Singular Poisson-Kaehler geometry of certain adjoint quotients,7.1372409381136855e-06,6.206014231624965e-08,7.0,3.0
+math/0406564,Affine structures and non-archimedean analytic spaces,7.105523937819122e-06,3.794784548010571e-05,10.0,9.0
+math/0703065,Constructions of small symplectic 4-manifolds using Luttinger surgery,7.102631421078219e-06,0.0,5.0,1.0
+math/0405233,Hyperkahler analogues of Kahler quotients,7.080985115901723e-06,2.0297586328785744e-05,12.0,5.0
+math/0407347,Contact homology and one parameter families of Legendrian knots,7.0618081393475925e-06,3.980365510320144e-06,6.0,3.0
+math/0206092,"Mini-max theory, spectral invariants and geometry of the Hamiltonian
+  diffeomorphism group",7.056583764012978e-06,0.0,5.0,11.0
+math/0504347,The Universal Generating Function of Analytical Poisson Structures,7.055873589089648e-06,0.0,5.0,0.0
+math/0606429,"Intersection theory on the moduli space of holomorphic curves with
+  Lagrangian boundary conditions",7.0488760038800645e-06,2.112190126264819e-06,8.0,4.0
+math/0611927,Combinatorial cobordism maps in hat Heegaard Floer theory,7.001317677117329e-06,0.0,5.0,0.0
+math/0609732,Group orbits and regular partitions of Poisson manifolds,6.989213703785366e-06,0.0,2.0,3.0
+math/0308210,Large Radius Limit and SYZ Fibrations of Hyper-Kahler Manifolds,6.984281304143772e-06,1.716882849768112e-06,10.0,1.0
+math/0512229,Seidel's Mirror Map for Abelian Varieties,6.957161903306759e-06,3.722536741357055e-07,6.0,2.0
+math/0505084,"Transformation of algebraic Gromov-Witten invariants of three-folds
+  under flops and small extremal transitions, with an appendix from the stringy
+  and the symplectic viewpoint",6.942588621647611e-06,5.825206745695197e-06,17.0,4.0
+math/0409568,Packing symplectic manifolds by hand,6.928605866894836e-06,0.0,5.0,0.0
+math-ph/0405003,Non-Noether symmetries in Hamiltonian Dynamical Systems,6.908029919556373e-06,0.0,6.0,0.0
+hep-th/0101219,"Nonassociative Star Product Deformations for D-brane Worldvolumes in
+  Curved Backgrounds",6.890814390522084e-06,0.0001199376475252,54.0,78.0
+math/0703296,On fibers of algebraic invariant moment maps,6.863075374206549e-06,0.0,3.0,2.0
+math/0611341,Reduction of generalized Calabi-Yau structures,6.850508798331152e-06,1.990182755160072e-06,4.0,1.0
+math-ph/0509031,Geometrical Spinoptics and the Optical Hall Effect,6.792404791155918e-06,7.215906994156963e-06,4.0,8.0
+math/0402341,The universal Kobayashi-Hitchin correspondence on Hermitian manifolds,6.77887487782359e-06,2.2389807016056817e-05,3.0,4.0
+math-ph/0106010,Non-Noether symmetries in singular dynamical systems,6.767325260503196e-06,0.0,2.0,2.0
+math-ph/0111017,"The Atiyah-Hitchin Bracket for the Cubic Nonlinear Schrodinger Equation.
+  I. General Potentials",6.75411242457561e-06,7.960731020640288e-06,3.0,4.0
+math/0601568,Floer homology in symplectic geometry and in mirror symmetry,6.73977837337083e-06,0.0,10.0,0.0
+math/0404537,Yau-Zaslow formula on K3 surfaces for non-primitive classes,6.645268859001938e-06,1.975330645046937e-06,3.0,2.0
+math/0210033,Four dimensions from two in symplectic topology,6.644035397382583e-06,0.0,8.0,3.0
+math/0606061,Lagrangian matching invariants for fibred four-manifolds: I,6.589729131150679e-06,0.0,2.0,3.0
+math/0302099,Knot and braid invariants from contact homology I,6.515354242644454e-06,0.0,4.0,3.0
+math/9912186,The global quantum duality principle,6.4917409270245495e-06,0.0,2.0,1.0
+math/0702264,"Duistermaat-Heckman formula for a torus action on a generalized
+  Calabi-Yau manifold and localization formula",6.427476546691689e-06,0.0,1.0,1.0
+math/0602233,Constructions in Sasakian Geometry,6.422294579629341e-06,0.0,5.0,1.0
+math/0604027,"Geometric quantization of Hamiltonian actions of Lie algebroids and Lie
+  groupoids",6.399330683624196e-06,0.0,6.0,0.0
+math/0605186,Coisotropic Intersections,6.386728979511028e-06,3.980365510320144e-06,4.0,1.0
+math/0509640,Reduction of Courant algebroids and generalized complex structures,6.371439789822193e-06,1.1733600699276997e-05,11.0,17.0
+math/9903006,On hyperelliptic $C^\infty$-Lefschetz fibrations of four-manifolds,6.344499302152482e-06,0.0,3.0,2.0
+math/0307029,"Homologous Non-isotopic Symplectic Tori in Homotopy Rational Elliptic
+  Surfaces",6.318815680169664e-06,0.0,6.0,3.0
+math/0104059,Explicit concave fillings of contact three-manifolds,6.310898180792579e-06,0.0,2.0,1.0
+math/0402292,"Geometry of differential operators, odd Laplacians, and homotopy
+  algebras",6.2787904200072086e-06,0.0,11.0,0.0
+math/0601023,Algebraic Hamiltonian actions,6.2715208561448285e-06,0.0,3.0,2.0
+math/0304113,Monodromy invariants in symplectic topology,6.263909035341069e-06,0.0,12.0,0.0
+math/0011162,"Quantum tori, mirror symmetry and deformation theory",6.263769331446805e-06,8.005314808871768e-05,38.0,10.0
+math/0105001,"Semiclassical Geometry of Quantum Line Bundles and Morita Equivalence of
+  Star Products",6.254405007309007e-06,1.687572464325549e-07,10.0,4.0
+math-ph/0002039,Universality and scaling of zeros on symplectic manifolds,6.2292206080329706e-06,1.988283035949149e-05,4.0,4.0
+math/0610965,Orbifold quantum cohomology of weighted projective spaces,6.2126733979201046e-06,0.0,6.0,0.0
+math/0401169,3-dimensional methods in contact geometry,6.195628510038608e-06,0.0,10.0,0.0
+math/0310098,Thompson's conjecture for real semi-simple Lie groups,6.153368909429176e-06,6.86296864480049e-05,4.0,2.0
+math-ph/0307059,Functorial quantization and the Guillemin-Sternberg conjecture,6.11382722385419e-06,1.9827567001035044e-06,7.0,4.0
+math/0210325,Generic behavior of asymptotically holomorphic Lefschetz pencils,6.107949828310086e-06,0.0,2.0,2.0
+math/0501098,The reduced spaces of a symplectic Lie group action,6.102860292030695e-06,0.0,1.0,0.0
+math/0305113,6j symbols for U_q(sl_2) and non-Euclidean tetrahedra,6.093162495120269e-06,0.0,4.0,5.0
+math/0305292,"Deformations of coisotropic submanifolds and strong homotopy Lie
+  algebroids",6.0909664386302885e-06,2.3825857054291742e-06,6.0,6.0
+math/0207128,"The asymptotic growth of equivariant sections of positive and big line
+  bundles",6.078188181447996e-06,0.0,3.0,0.0
+math/0009111,"K-area, Hofer metric and geometry of conjugacy classes in Lie groups",6.037710609478239e-06,0.0,4.0,1.0
+math-ph/0605027,"HyperK\""{a}hler prequantization of the Hitchin system and Chern-Simons
+  theory with complex gauge group",5.974721385598439e-06,1.3202629332738393e-08,4.0,1.0
+math/0310359,"Quasi, twisted, and all that... in Poisson geometry and Lie algebroid
+  theory",5.8884762995391e-06,4.015225837253609e-06,5.0,6.0
+math/0610798,Lectures on Contact Geometry in Low-Dimensional Topology,5.875145623051825e-06,0.0,7.0,0.0
+math/0503609,Surjectivity for Hamiltonian G-spaces in K-theory,5.858377178229353e-06,8.932713235068262e-06,11.0,4.0
+math/0701084,Constructing Lefschetz-type fibrations on four-manifolds,5.853820556032796e-06,1.990182755160072e-06,3.0,1.0
+math/0101079,Cohomology pairings on singular quotients in geometric invariant theory,5.844623470733533e-06,0.0,7.0,2.0
+math/0703359,Quantization of Poisson-Hopf stacks associated with group Lie bialgebras,5.776797304079169e-06,0.0,2.0,0.0
+math/0403377,"A survey of Floer homology for manifolds with contact type boundary or
+  Symplectic homology",5.744367563975013e-06,0.0,4.0,0.0
+math/0612671,On contact surgery,5.739521675547769e-06,0.0,2.0,0.0
+math/0703480,Constructing infinitely many smooth structures on small 4-manifolds,5.738278382409757e-06,0.0,4.0,1.0
+math/0605009,"An overview of the Riemannian metrics on spaces of curves using the
+  Hamiltonian approach",5.709722140269847e-06,0.0,4.0,1.0
+math/0607374,A Deodhar type stratification on the double flag variety,5.707543549438413e-06,0.0,5.0,0.0
+nlin/0607057,"Reciprocal transformations for Stackel-related Liouville integrable
+  systems",5.689462080620493e-06,0.0,6.0,0.0
+hep-th/0608150,"AKSZ-BV Formalism and Courant Algebroid-induced Topological Field
+  Theories",5.686624540008388e-06,1.9061235252144573e-06,8.0,1.0
+math/0312355,"Witten's formulas for intersection pairings on moduli spaces of flat
+  $G$-bundles",5.680345011183196e-06,0.0,4.0,1.0
+math/0404413,"Localization for the norm-square of the moment map and the
+  two-dimensional Yang-Mills integral",5.671281814540558e-06,0.0,4.0,3.0
+math-ph/0512022,The Guillemin-Sternberg conjecture for noncompact groups and spaces,5.668338654921866e-06,0.0,4.0,2.0
+math/0505493,"Ozsvath-Szabo invariants and tight contact three-manifolds, III",5.659715490754741e-06,1.3759588027806669e-05,11.0,5.0
+math/0511498,"Complete families of commuting functions for coisotropic Hamiltonian
+  actions",5.655144290770314e-06,0.0,1.0,1.0
+math/0601396,Kahler decomposition of 4-manifolds,5.636824901410681e-06,0.0,1.0,0.0
+math/0206310,Optimal reduction,5.594794218304472e-06,0.0,3.0,1.0
+math/0403506,"On equivariant cohomology, integrals of equivariant forms and
+  Duistermaat-Heckman measures for non-compact group actions",5.522790665307233e-06,0.0,6.0,0.0
+math/0504369,Gerbes and twisted orbifold quantum cohomology,5.518601168072257e-06,1.1936988515591573e-07,5.0,1.0
+math/0608111,Mackenzie theory and Q-manifolds,5.514104319894281e-06,1.4852110113134863e-09,7.0,4.0
+math/0204153,"Clustering of critical points in Lefschetz fibrations and the symplectic
+  Szpiro inequality",5.508477214928873e-06,0.0,5.0,1.0
+math/0406329,Toric degenerations of weight varieties and applications,5.501504301668664e-06,7.409269446076354e-06,4.0,3.0
+math/0004020,The Hamiltonian Seifert Conjecture: Examples and Open Problems,5.42315773612304e-06,0.0,1.0,4.0
+math/0009170,Deformation Quantization of Hermitian Vector Bundles,5.4117210869889e-06,0.0008868300965045,12.0,6.0
+math/0311100,"Witten's conjecture, Virasoro conjecture, and invariance of tautological
+  equations",5.377218262069832e-06,1.245860423873289e-07,8.0,7.0
+math/0208124,"Topological Quantum Field Theory for Calabi-Yau threefolds and G_2
+  manifolds",5.364754225557377e-06,4.512170821136796e-06,16.0,5.0
+math/0505158,"Integrating Lie algebroids via stacks and applications to Jacobi
+  manifolds",5.344477077859299e-06,0.0,4.0,0.0
+math/0703335,Hamiltonian pseudo-representations,5.325615752106308e-06,0.0,4.0,0.0
+math/0412110,Lagrangian Non-Intersections,5.307270815238743e-06,1.9855088857138538e-06,4.0,2.0
+math/9905146,Periodic motion of a charge on a manifold in the magnetic fields,5.306657031435651e-06,0.0,2.0,2.0
+math/0407477,Symplectic Techniques for Semiclassical Completely Integrable Systems,5.246488775923617e-06,0.0,3.0,0.0
+math/0303322,A note on Lagrangian loci of quotients,5.245074474033227e-06,1.708799815500976e-05,3.0,3.0
+math/0205247,Calabi quasimorphism and quantum homology,5.231536711215761e-06,0.0,6.0,2.0
+math/0312483,Symplectic capacities of toric manifolds and related results,5.227193967826947e-06,0.0,5.0,1.0
+math/0409240,"A Holomorphic 0-Surgery Model for Open Books with Application to
+  Cylindrical Contact Homology",5.175126561203833e-06,0.0,5.0,0.0
+math/0210188,"Equivariant quantization on quotients of simple Lie groups by reductive
+  subgroups of maximal rank",5.158170435529029e-06,0.0,1.0,0.0
+math/0407126,Lagrangian submanifolds and Lefschetz pencils,5.151478798203436e-06,3.980365510320144e-06,5.0,3.0
+math/0508402,A combinatorial formula for homogeneous moments,5.14789209192363e-06,0.0,3.0,1.0
+math/0305201,Homologous non-isotopic symplectic tori in a K3-surface,5.142836364804316e-06,0.0,4.0,2.0
+math/0610004,"Morse Homology, Tropical Geometry, and Homological Mirror Symmetry for
+  Toric Varieties",5.128371527809884e-06,0.0,7.0,0.0
+math/0209262,"Quasi-Frobenius algebras and their integrable N-parametric deformations
+  generated by compatible (N x N)-metrics of constant Riemannian curvature",5.1230086389818e-06,0.0,11.0,0.0
+math/0205030,Hofer-Zehnder capacity and Hamiltonian circle actions,5.108774768165401e-06,0.0,6.0,10.0
+hep-th/9812061,Theoretical and Phenomenological Aspects of Superstring Theories,5.063062438499634e-06,9.098481060079693e-08,56.0,2.0
+math/0401419,"Intersection theory of coassociative submanifolds in G_(2)-manifolds and
+  Seiberg-Witten invariants",5.037587189266781e-06,1.2390732943560562e-05,7.0,4.0
+math/0703210,The Khovanov-Rozansky Cohomology and Bennequin Inequalities,5.0183549856622686e-06,0.0,7.0,0.0
+math/0410059,The periodic Floer homology of a Dehn twist,4.998534093168098e-06,0.0,3.0,0.0
+nlin/0310012,A simple way of making a Hamiltonian system into a bi-Hamiltonian one,4.997977549626264e-06,1.636482422641875e-05,9.0,3.0
+math/0610005,"Unitarity in ""quantization commutes with reduction""",4.986262213344624e-06,0.0,3.0,0.0
+math/0410609,Noncontractible periodic orbits in cotangent bundles and Floer homology,4.961715002133413e-06,0.0,1.0,1.0
+math-ph/0105037,Remark on non-Noether symmetries and bidifferential calculi,4.959800114966859e-06,0.0,3.0,1.0
+math/0606560,Differential forms and odd symplectic geometry,4.931556883634017e-06,0.0,8.0,0.0
+math/0412022,On a theorem of Peters on automorphisms of Kahler surfaces,4.882302977833507e-06,0.0,1.0,1.0
+math/0302022,Mukai Flop and Ruan Cohomology,4.881716043009092e-06,0.0,5.0,0.0
+math/0511658,"Geometry of contact transformations and domains: orderability versus
+  squeezing",4.879140211119962e-06,9.95091377580036e-06,3.0,3.0
+math/0405041,Counting Elliptic Curves in K3 Surfaces,4.863294431780965e-06,0.0,3.0,1.0
+math/0307227,A vector partition function for the multiplicities of sl_k(C),4.862430717870804e-06,3.980365510320144e-06,3.0,2.0
+math/0506392,Equivariant cohomology and localization for Lie algebroids,4.854775267693978e-06,0.0,2.0,1.0
+math/0405165,"Singular Poisson-Kaehler geometry of Scorza varieties and their secant
+  varieties",4.85447228455615e-06,3.4652227182430293e-06,6.0,2.0
+math/0402167,"Tight Contact Small Seifert Spaces with $e_0\neq0,-1,-2$",4.846441658844046e-06,1.7221375297849236e-08,4.0,6.0
+math/0611799,"Ehresmann doubles and Drinfel'd doubles for Lie algebroids and Lie
+  bialgebroids",4.82394751519573e-06,8.40592299456146e-08,4.0,1.0
+quant-ph/0107129,Algebraic geometric construction of a quantum stabilizer code,4.81165806367232e-06,4.5410087285103414e-08,12.0,1.0
+math/0212356,Non-isotopic Symplectic Tori in the Same Homology Class,4.782844831188491e-06,0.0,3.0,4.0
+math/0311496,Holomorphic disks and genus bounds,4.766390577125135e-06,0.0009696063943017,9.0,2.0
+math/0104009,Relative Framing of Transverse knots,4.766389120818067e-06,0.0,5.0,0.0
+math/0301073,"Relative Hofer-Zehnder capacity and periodic orbits in twisted cotangent
+  bundles",4.757779297032468e-06,0.0,7.0,6.0
+math/0702211,"A symplectic manifold homeomorphic but not diffeomorphic to CP^2 #
+  3(-CP^2)",4.757637424502454e-06,0.0,4.0,3.0
+hep-th/0210296,D-Branes in Landau-Ginzburg Models and Algebraic Geometry,4.743942277637639e-06,8.956951855074757e-05,21.0,57.0
+math/0505451,Legendrian Contact Homology in P X R,4.7409258476671656e-06,0.0,5.0,2.0
+math/0604501,"Counting real pseudo-holomorphic discs and spheres in dimension four and
+  six",4.728586571017692e-06,0.0,2.0,2.0
+hep-th/0206101,Noncommutative gerbes and deformation quantization,4.711568532867963e-06,8.310873657201746e-07,17.0,4.0
+math/0012065,"Isomorphism of the groups of Vassiliev Invariants of Legendrian and of
+  Pseudo Legendrian Knots in Contact 3-manifolds",4.709563586560548e-06,0.0,4.0,0.0
+hep-th/0107063,Graded Chern-Simons field theory and graded topological D-branes,4.708901096452249e-06,9.740362491798516e-07,27.0,14.0
+math/0006148,Tangency quantum cohomology,4.700643823389593e-06,3.536216693603539e-09,8.0,2.0
+math/0311154,"Quantization of Quasi-Presymplectic Groupoids and their Hamiltonian
+  Spaces",4.700555242594578e-06,1.5423696273921797e-05,4.0,3.0
+math-ph/0107023,Quantization as a functor,4.679026824882064e-06,1.992774138955853e-06,7.0,8.0
+math/0403015,Amoebas of algebraic varieties and tropical geometry,4.673956788761906e-06,0.0002145282043035,10.0,10.0
+math/0303016,"Lie-Rinehart algebras, descent, and quantization",4.660880482092204e-06,9.968578102797138e-06,7.0,9.0
+math-ph/0605025,"Geometric Prequantization of the Moduli Space of the Vortex equations on
+  a Riemann surface",4.645947135111865e-06,1.7574992834184e-07,4.0,2.0
+math/0409032,Augmentations and Rulings of Legendrian Knots,4.639966959461183e-06,0.0,2.0,1.0
+math/0212181,"Asymptotics of almost holomorphic sections of ample line bundles on
+  symplectic manifolds: an addendum",4.6353485623302735e-06,0.0,4.0,0.0
+math/0303225,"Knot Floer homology, genus bounds, and mutation",4.632493356066086e-06,1.583159930821691e-05,10.0,10.0
+math/0312530,Enumerative tropical algebraic geometry in R2,4.630781195862506e-06,4.37105144284682e-05,8.0,16.0
+math/0603411,On Symplectic Capacities and Volume Radius,4.582358805985495e-06,0.0,1.0,1.0
+math/0603350,"Poisson geometry and deformation quantization near a pseudoconvex
+  boundary",4.542878069727782e-06,1.990182755160072e-06,5.0,1.0
+math/0401212,"Exact Lagrangian submanifolds of $T^*S^n$ and the graded Kronecker
+  quiver",4.53013575921504e-06,5.965986912019704e-06,4.0,2.0
+math/0501168,"Stability of higher order singular points of Poisson manifolds and Lie
+  algebroids",4.52350300787974e-06,1.6543275670045707e-06,4.0,1.0
+math/0505063,A symplectic approach to van den Ban's convexity theorem,4.515025475212902e-06,0.0,1.0,2.0
+math/0210152,Integrability of Poisson brackets,4.513616295379443e-06,1.340790120357397e-05,7.0,12.0
+math/0511597,Pseudo-holomorphic maps into folded symplectic four-manifolds,4.509430413454274e-06,1.990182755160072e-06,6.0,1.0
+math/0312074,"Non-contractible periodic orbits of Hamiltonian flows on twisted
+  cotangent bundles",4.496755963571531e-06,0.0,4.0,0.0
+math/0410487,Quantum D-modules and equivariant Floer theory for free loop spaces,4.473014241969773e-06,3.5868370741310526e-06,5.0,2.0
+math/0408265,A deRham model for Chen-Ruan cohomology ring of abelian orbifolds,4.460195871539929e-06,1.4998602871330458e-07,4.0,7.0
+math/0212214,Stability conditions and the braid group,4.447451362398665e-06,4.247733558272716e-06,17.0,4.0
+math/0111050,"Growth of maps, distortion in groups and symplectic geometry",4.442974145527613e-06,0.0,5.0,5.0
+math/0509714,Tight contact structures on some small Seifert fibered 3--manifolds,4.442755762063413e-06,3.434696780210949e-06,7.0,3.0
+math/0402210,The group of Hamiltonian homeomorphisms and $C^0$ symplectic topology,4.44159267967516e-06,0.0,4.0,7.0
+math/0310141,Abelianization for hyperkahler quotients,4.43241423805861e-06,4.409071990716996e-07,8.0,4.0
+math/0002121,Hamiltonian Gromov-Witten invariants,4.415720677933324e-06,0.0,8.0,0.0
+math/0304402,Invariants for Lagrangian tori,4.406232565126055e-06,0.0,2.0,4.0
+math/0607344,Open books and plumbings,4.402791773456058e-06,0.0,3.0,0.0
+quant-ph/9912048,Symplectic Cuts and Projection Quantization,4.390528887718398e-06,0.0,8.0,3.0
+math/0605648,"Twisted Homogeneous Coordinate Rings of Abelian Surfaces via Mirror
+  Symmetry",4.387175216847744e-06,0.0,2.0,1.0
+math/0602232,Heegaard diagrams and Floer homology,4.379681284993747e-06,6.692191374041278e-07,9.0,1.0
+math/0409148,A cotangent bundle slice theorem,4.3691906198786844e-06,0.0,2.0,4.0
+math/0112012,Commutator length of symplectomorphisms,4.346162832725556e-06,0.0,4.0,3.0
+math/0302088,Symplectic four-manifolds and conformal blocks,4.330674359224366e-06,0.0,1.0,0.0
+math/0307277,"Topological Hopf algebras, quantum groups and deformation quantization",4.328360234901636e-06,0.0,9.0,0.0
+math/0508090,Calabi quasi-morphisms for some non-monotone symplectic manifolds,4.307426160328027e-06,0.0,4.0,0.0
+math/0507285,Vortices on the cylinder,4.305709270941026e-06,0.0,4.0,0.0
+dg-ga/9510006,"Group systems, groupoids, and moduli spaces of parabolic bundles",4.288868609347431e-06,0.0,6.0,5.0
+math/0611390,A class of non-fillable contact structures,4.285074137561142e-06,3.980365510320144e-06,2.0,2.0
+math/0201047,"Autoequivalences of Derived Category of A K3 Surface and Monodromy
+  Transformations",4.28176131780898e-06,3.745359932789619e-05,9.0,4.0
+math/0309334,Poisson structures on complex flag manifolds associated with real forms,4.278670187138834e-06,0.0,1.0,0.0
+math-ph/0106001,"Difference Discrete Variational Principle,EULER-Lagrange Cohomology and
+  Symplectic, Multisymplectic Structures",4.276071396464845e-06,0.0,5.0,0.0
+math/0610570,A Structure Theorem for the Gromov-Witten Invariants of Kahler Surfaces,4.272944280465012e-06,0.0,2.0,2.0
+math/0702104,Generalized Kahler and hyper-Kahler quotients,4.2726158145994185e-06,0.0,7.0,0.0
+math/0012071,A Remark on the Deformation of GNS Representations of *-Algebras,4.228216241565656e-06,0.0,6.0,1.0
+hep-th/0206163,"Geometric Transitions, del Pezzo Surfaces and Open String Instantons",4.222555452920101e-06,7.660438926005896e-06,41.0,31.0
+math/0703869,"Decomposable representations and Lagrangian submanifolds of moduli
+  spaces associated to surface groups",4.206828028582966e-06,0.0,1.0,0.0
+math/0603151,Gromov-Witten theory of Deligne-Mumford stacks,4.203730651597601e-06,1.770750550920341e-05,2.0,21.0
+math/0409536,Heegaard Splittings and Seiberg-Witten monopoles,4.201803135954846e-06,0.0,4.0,0.0
+math/0108100,Gromov - Witten invariants and quantization of quadratic hamiltonians,4.199922056513376e-06,3.62862530467694e-06,4.0,14.0
+math/9902148,Periodic Orbits in Magnetic Fields in Dimensions Greater Than Two,4.199458373837573e-06,0.0,3.0,1.0
+math/0404310,"Positive Dehn Twist Expressions for some New Involutions in Mapping
+  Class Group",4.199458373837573e-06,0.0,3.0,2.0
+math/0610782,Holomorphic 2-forms and Vanishing Theorems for Gromov-Witten Invariants,4.174098928147835e-06,0.0,2.0,0.0
+math/9811093,Hyperelliptic Lefschetz fibrations and branched covering spaces,4.1683327452630055e-06,0.0,1.0,1.0
+math/0312380,Formal symplectic groupoid,4.163574220555235e-06,7.850581863137256e-06,3.0,4.0
+math/0305146,Applications of Hofer's geometry to Hamiltonian dynamics,4.136160989513626e-06,0.0,6.0,2.0
+math/0508649,A Legendrian Thurston-Bennequin bound from Khovanov homology,4.130010729171532e-06,1.3908641374180668e-05,8.0,6.0
+math/0701846,Reverse engineering small 4-manifolds,4.128006782415606e-06,3.980365510320144e-06,3.0,2.0
+math/0105202,"Holomorphic disks and three-manifold invariants: properties and
+  applications",4.11200039548801e-06,0.00025201805595,8.0,43.0
+math/9904117,Assignments and Abstract Moment Maps,4.10728067672949e-06,0.0,2.0,0.0
+math/0111313,"Reidemeister torsion in Floer-Novikov theory and counting
+  pseudo-holomorphic tori, I",4.097816480237847e-06,0.0,2.0,5.0
+math/0605406,Quasi-morphisms and the Poisson bracket,4.068040046473017e-06,0.0,3.0,4.0
+math/0609541,Restriction of the moment map to certain non-Lagrangian submanifolds,4.06314371147123e-06,0.0,2.0,1.0
+math/0506171,Invariant functions on symplectic representations,4.063143711471229e-06,0.0,1.0,2.0
+math/0401273,Linearization of Poisson brackets,4.061034203381207e-06,0.0,5.0,2.0
+math/0310261,Existence of symplectic structures on torus bundles over surfaces,4.05723045561922e-06,0.0,2.0,1.0
+math/0502190,"Localization of Equivariant Cohomology for Compact and Non-compact Group
+  Actions",4.047063929652664e-06,0.0,5.0,0.0
+math/0510055,All the GIT quotients at once,4.038529788326336e-06,0.0,3.0,0.0
+math/0508345,Cluster Homology,4.034170532680895e-06,4.6738694462180044e-09,3.0,1.0
+math/0106070,Fedosov Quantization on Symplectic Ringed Spaces,4.01898029938748e-06,0.0,2.0,2.0
+math/0210143,"Geometric structures on nilpotent Lie groups: on their classification
+  and a distinguished compatible metric",4.007423346985859e-06,0.0,4.0,1.0
+math/0410300,Knot Floer homology and integer surgeries,3.98498178939008e-06,3.9619913507121165e-05,5.0,5.0
+math/0202099,Gauge equivalence of Dirac structures and symplectic groupoids,3.974093637102137e-06,3.4738677527757976e-05,10.0,3.0
+math/0306021,Einstein metrics and the number of smooth structures on a four-manifold,3.973857934744612e-06,1.3931279286120504e-05,4.0,2.0
+math/0309180,"Coisotropic submanifolds in Poisson geometry and branes in the Poisson
+  sigma model",3.965093111721249e-06,4.272883004474857e-06,5.0,11.0
+math/0312345,Intersection numbers in quasi-Hamiltonian reduced spaces,3.959373952260271e-06,0.0,3.0,1.0
+math/0612586,Exotic smooth structures and symplectic forms on closed manifolds,3.954733253359658e-06,0.0,2.0,0.0
+math/0503230,Crossed flux homomorphisms and vanishing theorems for flux groups,3.947556374659336e-06,0.0,3.0,1.0
+math/0607691,A combinatorial description of knot Floer homology,3.944071850414533e-06,1.0744637205301303e-06,7.0,10.0
+math/0509386,Morse flow trees and Legendrian contact homology in 1-jet spaces,3.942575840031942e-06,0.0,3.0,1.0
+math/0207166,Kaehler quantization and reduction,3.939219532025979e-06,2.465301934344837e-06,4.0,12.0
+math/0502364,Classifying semi-free Hamiltonian $S^1$-manifolds,3.938898940285358e-06,0.0,1.0,0.0
+math/0208159,"On a Poisson-Lie analogue of the classical dynamical Yang-Baxter
+  equation for self-dual Lie algebras",3.93442260173593e-06,0.0,12.0,5.0
+math/0202036,"Lax pairs for the equations describing compatible nonlocal Poisson
+  brackets of hydrodynamic type, and integrable reductions of the Lame
+  equations",3.926737448586735e-06,0.0,7.0,0.0
+math/0404551,"Floer homology, symplectic and complex hyperbolicities",3.899090728701383e-06,0.0,4.0,4.0
+math/0406104,"On the Structure of Certain Natural Cones over Moduli Spaces of
+  Genus-One Holomorphic Maps",3.894184572863209e-06,0.0,3.0,3.0
+math/0007103,Computations of Nambu-Poisson cohomologies,3.881290521898476e-06,1.990182755160072e-06,2.0,3.0
+math/0603128,Vortices and a TQFT for Lefschetz fibrations on 4-manifolds,3.874092287959892e-06,0.0,3.0,0.0
+math/0506176,Hamiltonian diffeomorphisms of toric manifolds,3.853795325504487e-06,0.0,3.0,0.0
+math/0507104,On the Genus-One Gromov-Witten Invariants of Complete Intersections,3.8483050247514415e-06,1.0025174326366031e-06,4.0,5.0
+math/0406080,"Classification of tight contact structures on small Seifert 3-manifolds
+  with e_0\geq 0",3.844126409642712e-06,1.3508347769565522e-08,4.0,3.0
+math/0605630,Legendrian links and the spanning tree model for Khovanov homology,3.840716213286579e-06,0.0,5.0,0.0
+math/0002156,Complete hyperbolic neighborhoods in almost-complex surfaces,3.83959837508528e-06,0.0,4.0,0.0
+math/0303017,On knot Floer homology and lens space surgeries,3.827343509709087e-06,4.66369804771143e-06,5.0,23.0
+math/0612795,"Locality of continuous Hamiltonian flows and Lagrangian intersections
+  with the conormal of open subsets",3.82499347817825e-06,0.0,3.0,1.0
+math/0505349,On Plumbed L-spaces,3.81759594025908e-06,0.0,4.0,0.0
+math/0503248,Conormal bundles to knots and the Gopakumar-Vafa conjecture,3.8008191226440337e-06,0.0,4.0,2.0
+hep-th/0304252,Classical Solutions for Poisson Sigma Models on a Riemann surface,3.786141604548143e-06,4.909664714458479e-07,7.0,6.0
+math/0609753,Toric structures on near-symplectic 4-manifolds,3.78537345465684e-06,0.0,2.0,0.0
+math/0611912,BFV-complex and higher homotopy structures,3.785048552591161e-06,5.74629620718639e-07,3.0,1.0
+math/0601629,Link homology theories from symplectic geometry,3.7651463538143456e-06,3.3288124409517106e-06,6.0,4.0
+math/0412184,Transverse knots and Khovanov homology,3.758562218006565e-06,3.9166767846790805e-07,9.0,10.0
+math/0501259,The $d\delta$--lemma for weakly Lefschetz symplectic manifolds,3.747620478273182e-06,0.0,3.0,0.0
+math/0107040,Geometry of the moduli space of Higgs bundles,3.7435700008438e-06,0.0,6.0,3.0
+math/0102162,On Symplectic Cobordisms,3.739000938431297e-06,0.0,4.0,1.0
+math/0404121,Triviality of symplectic SU(2)-actions on homology,3.731461741153925e-06,0.0,1.0,0.0
+math/0510172,"Finiteness of the Hofer-Zehnder capacity of neighborhoods of symplectic
+  submanifolds",3.7116875779388552e-06,0.0,3.0,2.0
+math/0011149,Stringy Geometry and Topology of Orbifolds,3.7043080714048415e-06,2.3882193061920864e-05,11.0,23.0
+math/0206143,Severi varieties and holomorphic nilpotent orbits,3.702262123445864e-06,1.846799220769264e-05,5.0,4.0
+math/0405064,"Construction of spectral invariants of Hamiltonian paths on closed
+  symplectic manifolds",3.702066226967704e-06,0.0,4.0,0.0
+math/0304048,Picard groups in Poisson geometry,3.698068826455915e-06,5.997707834566561e-06,9.0,4.0
+math/0411206,The nonuniqueness of Chekanov polynomials of Legendrian knots,3.69496503774168e-06,0.0,3.0,1.0
+math/0602433,Phase-Space Metric for Non-Hamiltonian Systems,3.692546133379487e-06,3.269939576575187e-07,6.0,2.0
+math/0204347,Maximal tori in the symplectomorphism groups of Hirzebruch surfaces,3.68594864247285e-06,0.0,2.0,2.0
+math/0407221,Maps with symplectic graphs,3.683104106285425e-06,0.0,1.0,0.0
+math/0303230,"Hofer-Zehnder semicapacity of cotangent bundles and symplectic
+  submanifolds",3.6678470784080007e-06,0.0,5.0,8.0
+math-ph/0002045,"The Standard Model - the Commutative Case: Spinors, Dirac Operator and
+  de Rham Algebra",3.66502623614465e-06,0.0,4.0,0.0
+math/0512475,"New polytope decompositions and Euler-Maclaurin formulas for simple
+  integral polytopes",3.662959199933061e-06,0.0,2.0,0.0
+math/0310034,Legendrian Vertical Circles in Small Seifert Spaces,3.651462056937509e-06,1.7221375297849236e-08,3.0,3.0
+math/9912182,"Algebraic Rieffel Induction, Formal Morita Equivalence, and Applications
+  to Deformation Quantization",3.642275207747004e-06,6.3130552618054165e-06,8.0,4.0
+math/0108195,Cohomology ring of crepant resolutions of orbifolds,3.6419938289200223e-06,3.5311322886503485e-05,13.0,16.0
+math/0601748,Homologous Non-isotopic Symplectic Surfaces of Higher Genus,3.631666280207417e-06,0.0,2.0,0.0
+math/0310414,Homological mirror symmetry for the quartic surface,3.627572109542319e-06,5.09598423668358e-05,9.0,24.0
+math/0701617,Kodaira dimension and symplectic sums,3.62335329328243e-06,0.0,2.0,0.0
+math/0609043,"A compact symplectic four-manifold admits only finitely many
+  inequivalent toric actions",3.62335329328243e-06,0.0,3.0,0.0
+math/0701616,"Dynamically convex Finsler metrics and $J$-holomorphic embedding of
+  asymptotic cylinders",3.62335329328243e-06,0.0,2.0,0.0
+math/0208092,Cappell-Shaneson's 4-dimensional s-cobordism,3.62335329328243e-06,0.0,2.0,0.0
+math/0203161,Quasi-Hamiltonian Geometry of Meromorphic Connections,3.6173224725390224e-06,3.24384600159995e-05,5.0,2.0
+math/0609072,A simply connected surface of general type with p_g=0 and K^2=2,3.6079479010506647e-06,1.990182755160072e-06,1.0,2.0
+math/0503385,Witten's Nonabelian Localization for Noncompact Hamiltonian Spaces,3.598711530313507e-06,0.0,4.0,0.0
+math/0304498,Natural star products on symplectic manifolds and quantum moment maps,3.59509653426058e-06,3.601636702435205e-06,4.0,7.0
+math/0703297,"The log-concavity conjecture for the Duistermaat-Heckman measure
+  revisited",3.5891707673166538e-06,0.0,1.0,0.0
+math/0508065,"A concordance invariant from the Floer homology of double branched
+  covers",3.586771215319339e-06,8.122749859973486e-06,7.0,7.0
+math/0211032,"Floer Homology, Nielsen Theory and Symplectic Zeta Functions",3.5860396616370105e-06,0.0,2.0,0.0
+math/0611785,"The classification of nonsingular multidimensional Dubrovin-Novikov
+  brackets",3.585519365376831e-06,0.0,6.0,0.0
+math/0210146,Counting rational curves of arbitrary shape in projective spaces,3.5591785870205123e-06,4.9885616909411826e-08,1.0,1.0
+math/0201254,"Enumeration of Genus-Two Curves with a Fixed Complex Structure in P^2
+  and P^3",3.5591785870205123e-06,5.970548265480216e-06,1.0,3.0
+math/0008126,"A property of the skein polynomial with an application to contact
+  geometry",3.5571768413552293e-06,2.034330831844676e-06,3.0,2.0
+math-ph/0011045,Index theorem for equivariant Dirac operators on non-compact manifolds,3.552135411468391e-06,0.0,2.0,0.0
+math/0703652,Surface Bundles With Non-Zero Signature,3.546127452934603e-06,0.0,1.0,0.0
+math/0508113,CMV: the unitary analogue of Jacobi matrices,3.540250251799828e-06,0.0,3.0,0.0
+math/0009081,"Mirror symmetry, Langlands duality, and commuting elements of Lie groups",3.5358232554384872e-06,0.0,10.0,1.0
+math/0511097,"The Bennequin number, Kauffman polynomial, and ruling invariants of a
+  Legendrian link: the Fuchs conjecture and beyond",3.531355597236856e-06,0.0,4.0,2.0
+math/0110170,"Absolutely Graded Floer homologies and intersection forms for
+  four-manifolds with boundary",3.525349552186649e-06,1.4974205766024794e-06,4.0,11.0
+math/0106178,"The characteristic classes of Morita equivalent star products on
+  symplectic manifolds",3.516122789887515e-06,0.0,7.0,3.0
+math/0411581,"The Deformation Quantization of $\Real^n$ via the specifiaction of the
+  commutators",3.5160927660232027e-06,0.0,4.0,0.0
+math/0408102,Finite dimensional approximations for the symplectic vortex equations,3.514376143933013e-06,0.0,4.0,0.0
+math/0504099,Fiberwise volume growth via Lagrangian intersections,3.507527335567796e-06,0.0,4.0,0.0
+math/0310072,Homology and modular classes of Lie algebroids,3.490318276424068e-06,5.970548265480216e-06,1.0,3.0
+math/0506283,"The diagonal distribution for the invariant measure of a unitary type
+  symmetric space",3.4870386309160864e-06,0.0,1.0,0.0
+math/9907066,Reidemeister torsion in generalized Morse theory,3.4760347722509087e-06,5.26957374999243e-05,2.0,4.0
+math/0105080,"Some title containing the words ""homotopy"" and ""symplectic"", e.g. this
+  one",3.4708267052825406e-06,1.3133415880556488e-05,6.0,15.0
+math/0507418,Commuting Hamiltonians and multi-time Hamilton-Jacobi equations,3.465463283375637e-06,0.0,2.0,4.0
+math/0508051,Pre-quantization of Quasi-Hamiltonian Spaces,3.46260810700606e-06,0.0,1.0,0.0
+math/0305182,"Signatures of foliated surface bundles and the symplectomorphism groups
+  of surfaces",3.4464405090127216e-06,0.0,1.0,0.0
+math/0303091,"Homotopy decomposition of a group of symplectomorphisms of $S^2 \times
+  S^2$",3.441921076901613e-06,0.0,3.0,0.0
+math/0609848,Symplectic actions of 2-tori on 4-manifolds,3.428187986666237e-06,1.990182755160072e-06,2.0,1.0
+math/0402044,Instantons and branes in manifolds with vector cross product,3.425381425155118e-06,0.0,3.0,3.0
+math/0401186,Constructing symplectic forms on 4-manifolds which vanish on circles,3.425025872514717e-06,0.0,3.0,1.0
+math/0112219,"Symplectic and Hyperkahler structures in a dimensional reduction of the
+  Seiberg-Witten equations with a Higgs field",3.424459172176684e-06,0.0,4.0,0.0
+math/0008064,"Differentiable and algebroid cohomology, van Est isomorphisms, and
+  characteristic classes",3.4233439442265627e-06,6.169566540996224e-05,5.0,16.0
+math/0505297,On transverse Hopf links,3.4212576531172787e-06,0.0,2.0,0.0
+hep-th/0112074,Poisson Geometry in Constrained Systems,3.4144516810993896e-06,3.689637488058932e-07,10.0,2.0
+math/0106071,Contact topology and CR geometry in three dimensions,3.4065782735224258e-06,1.990182755160072e-06,3.0,1.0
+math/9903105,"Coherent state embeddings, polar divisors and Cauchy formulas",3.4050830009295305e-06,1.9705500061512203e-06,5.0,2.0
+math/0403102,An involution acting nontrivially on Heegard-Floer homology,3.4021504083142525e-06,6.710465504117839e-07,7.0,1.0
+hep-th/0501247,"Coisotropic Branes, Noncommutativity, and the Mirror Correspondence",3.396839454915173e-06,3.0580050639918055e-08,6.0,5.0
+math/0511013,Reduction and submanifolds of generalized complex manifolds,3.388578878967042e-06,1.4185064355506792e-06,9.0,7.0
+math/0602119,"The Fukaya category of symplectic neighborhood of a non-Hausdorff
+  manifold",3.3752485962368325e-06,1.0501960770994845e-07,5.0,2.0
+math/0612479,"Polar actions on Hermitian and quaternion-K\""ahler symmetric spaces",3.3749066596554898e-06,0.0,1.0,0.0
+math/9806094,Off-center Reflections: Caustics and Chaos,3.3749066596554898e-06,0.0,1.0,0.0
+math-ph/0008036,"Functoriality and Morita equivalence of operator algebras and Poisson
+  manifolds associated to groupoids",3.3681202476587776e-06,0.0,5.0,2.0
+math/0602330,Maslov class of lagrangian embedding to Kahler manifold,3.362444766810336e-06,0.0,4.0,0.0
+math/0103195,Gromov-Witten invariants and pseudo symplectic capacities,3.3510376248826827e-06,0.0,2.0,8.0
+math/0209319,Symplectic conifold transitions,3.346982971611365e-06,0.0,7.0,3.0
+math/0502164,Will we ever classify simply-connected smooth 4-manifolds?,3.344252536322594e-06,0.0,5.0,0.0
+math/0610559,On combinatorial link Floer homology,3.3426298533374865e-06,1.1437306149110666e-06,7.0,6.0
+math/0410568,Gradient flow of the norm squared of a moment map,3.3414089229340693e-06,0.0,2.0,2.0
+hep-th/0007194,Topological gravity in genus 2 with two primary fields,3.3362049593200622e-06,7.3481289131362e-06,11.0,6.0
+math/0504232,The Structure of Noncommutative Deformations,3.3219603597933683e-06,5.0930890679955545e-08,9.0,3.0
+math/0211119,The Kernel of the Equivariant Kirwan Map and the Residue Formula,3.321386369079909e-06,0.0,3.0,0.0
+math/0312165,Almost toric symplectic four-manifolds,3.319732789579444e-06,8.930572686842722e-06,6.0,7.0
+math/0201230,Geodesic flows and contact toric manifolds,3.3179736930970425e-06,3.980365510320144e-06,6.0,1.0
+math/0604330,Lagrangian fibrations and theta functions,3.308723021222787e-06,0.0,9.0,0.0
+math/9910112,On Positive Deformations of *-Algebras,3.301016050662524e-06,0.0004435719975487,7.0,4.0
+math/0204236,Enumeration of One-Nodal Rational Curves in Projective Spaces,3.298354014998582e-06,0.0,3.0,0.0
+math/0203058,Enumeration of Genus-Three Plane Curves with a Fixed Complex Structure,3.298354014998582e-06,1.990182755160072e-06,3.0,1.0
+math/0501043,Conifold transitions and Mori theory,3.2968955996199904e-06,0.0,2.0,1.0
+math/0210427,"Braiding structures on formal Poisson groups and classical solutions of
+  the QYBE",3.2954595622421384e-06,0.0,2.0,0.0
+math/0410100,A 2-cocycle on a group of symplectomorphisms,3.284530306907155e-06,0.0,1.0,1.0
+math/0506236,Convergence of quantum cohomology by quantum Lefschetz,3.273128975946056e-06,4.674552802681705e-06,4.0,3.0
+math/0510010,"Reduction of twisted generalized K\""ahler structure",3.261372405571624e-06,1.2918579712122118e-06,8.0,6.0
+math/0411272,"Morse theory, graphs, and string topology",3.255596562595468e-06,9.95091377580036e-06,8.0,6.0
+math/0403268,Integrability of Jacobi structures,3.2538683524694954e-06,2.9165418903306373e-06,4.0,4.0
+math/0602475,Isotopies of high genus Lagrangian surfaces,3.251926233881423e-06,0.0,2.0,0.0
+math/0312265,Homology of Lagrangian Submanifolds in Cotangent Bundles,3.24597959171275e-06,1.1251598570556715e-10,1.0,3.0
+math/0205137,"Comparing virtual fundamental classes: Gauge theoretical Gromov-Witten
+  invariants for toric varieties",3.2392832395790016e-06,0.0,3.0,1.0
+math/0302265,Distinguishing the Chambers of the Moment Polytope,3.230440485134022e-06,0.0,4.0,1.0
+math/0304487,On Generalized Moment Maps for Symplectic Compact Group Actions,3.1978754673078448e-06,0.0,2.0,1.0
+math/0202162,The Geometry of Polygons in R^5 and Quaternions,3.1927339843523144e-06,5.693984412204813e-06,1.0,2.0
+math/0303180,Integration of twisted Dirac brackets,3.182990961808159e-06,6.764071721839307e-06,5.0,11.0
+math/0308174,Hofer-Zehnder capacity of standard cotangent bundles,3.176004600786991e-06,0.0,4.0,1.0
+math/9903175,Holomorphic symplectic geometry and orbifold singularities,3.1748478538478625e-06,0.0,4.0,4.0
+math/0311395,Simply connected symplectic 4-manifolds with $b_2^+ =1$ and $c_1^2 =2$,3.1673108219674102e-06,3.191030041848242e-05,1.0,5.0
+math/0212228,"Noncommutative Symplectic Geometry of the Endomorphism Algebra of a
+  Vector Bundle",3.166961160858692e-06,0.0,5.0,0.0
+math/0203110,"On the structure of graded symplectic supermanifolds and Courant
+  algebroids",3.1640742358319385e-06,9.52565200893495e-06,7.0,9.0
+math/0403083,"Spectral invariants, analysis of the Floer moduli spaces and geometry of
+  the Hamiltonian diffeomorphism group",3.1578422914974936e-06,0.0,5.0,3.0
+math/0107201,Contact toric manifolds,3.157364333398852e-06,0.0,5.0,10.0
+math/0308180,"On the integration of Poisson manifolds, Lie algebroids, and coisotropic
+  submanifolds",3.140217635851053e-06,1.2396086532456253e-07,7.0,2.0
+math/9909064,Construction of completely integrable systems by Poisson mappings,3.134623798574808e-06,0.0,4.0,0.0
+math/0409005,One parameter families of Legendrian torus knots,3.1282655488836203e-06,0.0,1.0,1.0
+math/0407531,Contact homology and homotopy groups of the space of contact structures,3.1282655488836203e-06,0.0,1.0,1.0
+math/0609531,An unoriented skein exact triangle for knot Floer homology,3.128175129078742e-06,0.0,7.0,0.0
+math/0208032,Jacobi groupoids and generalized Lie bialgebroids,3.124723142576461e-06,1.990182755160072e-06,4.0,3.0
+math/0405089,A link invariant from the symplectic geometry of nilpotent slices,3.117224734769341e-06,3.622324034464452e-06,7.0,12.0
+math/0102169,Almost Kaehler deformation quantization,3.1120278625635468e-06,2.3157328475452626e-06,5.0,8.0
+math/0309326,Contact Structures with Distinct Heegaard Floer Invariants,3.111764222931442e-06,1.857297822236309e-07,7.0,1.0
+math/0512286,Holomorphic disks and link invariants,3.108966219473472e-06,3.054255110903595e-05,8.0,14.0
+math/9902066,"Berezin-Toeplitz quantization and Berezin symbols for arbitrary compact
+  Kaehler manifolds",3.10747865375045e-06,5.171509389941326e-10,3.0,7.0
+math/0112105,The Legendrian satellite construction,3.107455006280561e-06,0.0,3.0,2.0
+math/0701745,Revisiting Tietze-Nakajima - Local and Global Convexity for Maps,3.103777601410486e-06,0.0,1.0,0.0
+math/0005046,A fixed point formula for loop group actions,3.099732831485393e-06,0.0,1.0,0.0
+math-ph/0203027,Noncommutative Geometry of Phase Space,3.0949591687799243e-06,0.0,4.0,2.0
+math/0104196,"Moment maps, monodromy and mirror manifolds",3.0926799173431584e-06,2.579385771903019e-07,14.0,10.0
+math/0508515,Relative modular classes of Lie algebroids,3.09236041591242e-06,0.0,2.0,0.0
+math/0110084,A symplectic slice theorem,3.0786103588112803e-06,0.0,2.0,2.0
+math/0108108,The Toda conjecture,3.076568173628524e-06,2.639838219093389e-05,11.0,13.0
+math/0307341,Seifert fibered contact three-manifolds via surgery,3.074832926706966e-06,0.0,6.0,1.0
+math/0505051,Formal Lagrangian Operad,3.057433672418363e-06,0.0,2.0,1.0
+hep-th/0202128,Mirror symmetry and deformation quantization,3.057086605547326e-06,6.619381438381294e-05,14.0,7.0
+math/0511163,"Betti numbers of holomorphic symplectic quotients via arithmetic Fourier
+  transform",3.0485878768133367e-06,4.138485706643069e-06,4.0,5.0
+math/0102009,Sur les transformations de contact au-dessus des surfaces,3.0472482127272877e-06,0.0,3.0,0.0
+math/0506112,Ginzburg-Weinstein via Gelfand-Zeitlin,3.0472482127272877e-06,0.0,2.0,1.0
+math/0312465,Symplectic forms invariant under free circle actions on 4--manifolds,3.0472482127272877e-06,0.0,2.0,1.0
+math/0104013,"Non-contractible periodic trajectories of symplectic vector fields,
+  Floer cohomology and symplectic torsion",3.0472482127272877e-06,0.0,2.0,1.0
+math/0010300,Bounded cohomology and non-uniform perfection of mapping class groups,3.0472482127272877e-06,0.0,2.0,0.0
+math/0411257,Minimal metrics on nilmanifolds,3.0472482127272877e-06,0.0,2.0,1.0
+math/0210468,Symplectic homology and periodic orbits near symplectic submanifolds,3.0410779325857834e-06,0.0,3.0,6.0
+math/0506166,"Mirror symmetry for Del Pezzo surfaces: Vanishing cycles and coherent
+  sheaves",3.037340619243139e-06,3.7598185326299184e-06,8.0,6.0
+math/0305148,"A refinement of the Hofer-Zehnder theorem on the existence of closed
+  trajectories near a hypersurface",3.030988314295376e-06,0.0,3.0,5.0
+math/0701163,Weak-Hamiltonian dynamical systems,3.0267759348712163e-06,0.0,1.0,0.0
+math/0404311,"Positive Dehn Twist Expressions for some New Involutions in the Mapping
+  Class Group II",3.0247424609711837e-06,0.0,1.0,2.0
+hep-th/0501097,"Non-Abelian Conversion and Quantization of Non-scalar Second-Class
+  Constraints",3.021875177686448e-06,4.082934046372774e-07,7.0,3.0
+math/0412502,Variations on Prequantization,3.019682263282549e-06,3.824172855606671e-06,5.0,3.0
+math/0106086,Lie algebroid foliations and ${\cal E}^1(M)$-Dirac structures,3.0152773569595657e-06,0.0,3.0,2.0
+math/0412126,"Double node neighborhoods and families of simply connected 4-manifolds
+  with b^+=1",3.015028203890331e-06,1.6916553418860613e-05,4.0,8.0
+math/0603498,Semi-global invariants of piecewise smooth Lagrangian fibrations,3.0108633745167957e-06,0.0,9.0,0.0
+math/0406139,Weak Symplectic Functional Analysis and General Spectral Flow Formula,3.001761538074277e-06,0.0,4.0,3.0
+math/0007165,G-actions on graphs,2.9996560647510477e-06,0.0,3.0,0.0
+math/0702228,Every contact manifold can be given a non-fillable contact structure,2.998963215075508e-06,0.0,1.0,0.0
+math/0607610,"The plastikstufe - a generalization of the overtwisted disk to higher
+  dimensions",2.998963215075508e-06,0.0,1.0,1.0
+math/0212213,Symplectic surgeries from singularities,2.998571109336857e-06,0.0,3.0,3.0
+math/0110326,Dirac submanifolds and Poisson involutions,2.995235126482331e-06,3.980365510320144e-06,4.0,3.0
+math/0308115,Floer homology of families I,2.9800984936735216e-06,0.0,2.0,2.0
+math/0110047,A C^2-smooth counterexample to the Hamiltonian Seifert conjecture in R^4,2.979090881544115e-06,0.0,2.0,2.0
+math/0109153,"On the construction of a C^2-counterexample to the Hamiltonian Seifert
+  Conjecture in R^4",2.979090881544115e-06,0.0,2.0,0.0
+math/0412318,Foliation-coupling Dirac structures,2.964807020212589e-06,3.062332296047137e-05,2.0,2.0
+math/0703121,Quasi-states and the Poisson bracket on surfaces,2.9637128537967883e-06,0.0,2.0,2.0
+math/0401321,Symplectic invariants of some families of Lagrangian T^3 fibrations,2.9480633279599838e-06,0.0,7.0,0.0
+math/0310164,Monopoles and lens space surgeries,2.938855079483942e-06,3.7943115651858064e-05,6.0,26.0
+math/9801063,"On the case of Kovalevskaya and new examples of integrable conservative
+  systems on S^2",2.923024895913817e-06,0.0,1.0,0.0
+math/0312032,"On the homotopy types of compact kaehler and complex projective
+  manifolds",2.923024895913817e-06,0.0,1.0,0.0
+math/9810020,Signature via Novikov numbers,2.923024895913817e-06,0.0,1.0,0.0
+math/0605737,Strong Lefschetz property under reduction,2.923024895913817e-06,0.0,1.0,0.0
+math/0306096,Dissolving four-manifolds and positive scalar curvature,2.923024895913817e-06,0.0,1.0,0.0
+math/0504578,Minimizing Euler characteristics of symplectic four-manifolds,2.91697922313738e-06,0.0,1.0,1.0
+math/0505268,Classification of multiplicity free symplectic representations,2.91697922313738e-06,0.0,1.0,1.0
+math/9908002,Cohomological localization for manifolds with boundary,2.9163430972780283e-06,0.0,2.0,0.0
+math-ph/0211046,"Covariant Hamiltonian formalism for the calculus of variations with
+  several variables",2.9162518623960625e-06,1.767667360761977e-05,10.0,6.0
+math/0509046,Slices for lifted tangent and cotangent actions,2.913352222421923e-06,0.0,2.0,0.0
+math/0009180,Spin Calogero-Moser systems associated with simple Lie algebras,2.912372133414729e-06,3.972906227224925e-06,2.0,4.0
+math/0511500,"Solutions of the classical Yang-Baxter equation and noncommutative
+  deformations",2.911202436681019e-06,0.0,2.0,0.0
+math/0606583,Killing-Poisson tensors on Riemannian manifolds,2.911202436681019e-06,0.0,2.0,0.0
+math/0411233,"Symplectic 4-manifolds, singular plane curves, and isotopy problems",2.8981103423366256e-06,0.0,5.0,0.0
+math/0307319,Momentum Maps and Morita Equivalence,2.897536279115032e-06,8.850151590800806e-07,5.0,9.0
+math/0407068,Legendrian solid-torus links,2.895048653032889e-06,0.0,1.0,2.0
+math/0112144,Convexity of Hamiltonian manifolds,2.891136520780873e-06,0.0,3.0,0.0
+math/0005176,Curvature and Smooth Topology in Dimension Four,2.889177931848681e-06,0.0,1.0,0.0
+math/0612642,Elliptic open books on torus bundles over the circle,2.889119040894695e-06,0.0,2.0,0.0
+math/0703773,Taming symplectic forms and the Calabi-Yau equation,2.8871038166358826e-06,0.0,1.0,0.0
+math/0610542,The Symplectization Functor,2.884414228600913e-06,0.0,2.0,0.0
+math/0701909,Nilpotent orbits and Hilbert schemes,2.8796812019774816e-06,0.0,3.0,0.0
+math/0404017,Slow entropy and symplectomorphisms of cotangent bundles,2.872072357463722e-06,8.065889105871907e-06,5.0,2.0
+math/0202245,"Degenerate Integrability of Spin Calogero-Moser Systems and the duality
+  with the spin Ruijsenaars systems",2.870263402115009e-06,8.537977738834214e-09,5.0,2.0
+math/0111138,The SPIN$^c$ Dirac operator on high tensor powers of a line bundle,2.855213185875573e-06,0.0,2.0,0.0
+math/0610677,Maximal Symplectic packings of $\P^2$,2.84900075045873e-06,0.0,1.0,0.0
+math/0407494,Standard surfaces and nodal curves in symplectic 4-manifolds,2.84524288924934e-06,0.0,2.0,1.0
+math/0408250,Cohomology pairings on the symplectic reduction of products,2.8414247009307357e-06,0.0,3.0,0.0
+math/0503218,Covariant Poisson structures on complex Grassmannians,2.831447106726773e-06,0.0,3.0,0.0
+math/0605535,Pseudocycles and Integral Homology,2.83044449107719e-06,0.0,2.0,0.0
+math/9802125,Generating functions for the number of curves on Abelian surfaces,2.80638994936737e-06,0.0,5.0,1.0
+math/0508455,Singular Poisson reduction of cotangent bundles,2.7958851782856483e-06,0.0,3.0,1.0
+math-ph/9902012,On Quantizing Nilpotent and Solvable Basic Algebras,2.79242203143056e-06,0.0,4.0,0.0
+math/0603282,Hamilton-Arnold Chord And Periodic Orbits,2.7828507407207904e-06,0.0,1.0,0.0
+math/0611320,"The geometry of partial order on contact transformations of
+  prequantization manifolds",2.7828507407207904e-06,0.0,1.0,0.0
+math/0405118,On Heegaard Floer homology of plumbed three-manifolds with b_1=1,2.780274716229526e-06,1.8565137641418583e-08,7.0,1.0
+math/0505350,Stokes Matrix for the Quantum Cohomology of Cubic Surfaces,2.7736143973670097e-06,0.0,2.0,1.0
+math/0603480,Generalized Complex Submanifolds,2.7636611897406626e-06,1.7639163983744837e-07,6.0,4.0
+math/0612146,On quasi-Jacobi and Jacobi-quasi bialgebroids,2.761616624376732e-06,0.0,3.0,0.0
+math/0002158,Gerbes on complex reductive Lie groups,2.760210242951463e-06,0.0,2.0,13.0
+math/0209346,Poisson geometry and the Kashiwara-Vergne conjecture,2.759195672449716e-06,0.0,2.0,1.0
+math/0612036,Rubber rolling over a sphere,2.759195672449716e-06,0.0,2.0,0.0
+math/0307318,"A weighted version of quantization commutes with reduction for a toric
+  manifold",2.759195672449716e-06,0.0,2.0,2.0
+math-ph/0008004,Quantized reduction as a tensor product,2.754694522098495e-06,0.0,3.0,8.0
+math/0402149,"Length minimizing property, Conley-Zehnder index and $C^1$-perturbations
+  of Hamiltonian functions",2.7533038722034357e-06,0.0,4.0,2.0
+math/0204154,The symplectic reduced spaces of a Poisson action,2.7480442820444143e-06,0.0,1.0,1.0
+math/0411068,Singular cotangent bundle reduction and spin Calogero-Moser systems,2.744751089944302e-06,0.0,3.0,6.0
+math/0211231,"The Yang-Mills heat flow on the moduli space of framed bundles on a
+  surface",2.743589856103379e-06,0.0,2.0,3.0
+math/0209194,The basic gerbe over a compact simple Lie group,2.7260454675701558e-06,3.091149253148035e-06,6.0,12.0
+math/0311460,Some estimates related to Oh's conjecture for the Clifford tori in CP^n,2.7241330556735814e-06,1.979666946636913e-05,2.0,2.0
+math/9909181,On the invariant spectrum of $S^1$-invariant metrics on $S^2$,2.716098753045175e-06,0.0,2.0,3.0
+math/0612604,A General Fredholm Theory I: A Splicing-Based Differential Geometry,2.7125929083830505e-06,1.990182755160072e-06,2.0,2.0
+math-ph/0208036,Geometric Structures in Field Theory,2.7075196894732327e-06,1.014894191064216e-06,3.0,10.0
+math/0005198,Orbifold Quantum Cohomology,2.7062243566259e-06,0.0,7.0,12.0
+math/0106186,On Stein fillings of the 3-torus T^3,2.703012034359189e-06,0.0,2.0,0.0
+math/0305407,On the Homotopy of Symplectomorphism Groups of Homogeneous Spaces,2.7015851643942016e-06,0.0,2.0,0.0
+math/0209056,Holomorphic disks and knot invariants,2.695494799342912e-06,1.5260503397853544e-06,8.0,25.0
+math/0401320,"Hamiltonian 2-forms in Kahler geometry, II Global Classification",2.689773164956256e-06,0.0,2.0,1.0
+math/0209374,Global classification of generic multi-vector fields of top degree,2.689387185929769e-06,0.0,2.0,0.0
+math/0204149,Lusternik - Schnirelman theory and dynamics,2.685435201543053e-06,0.0,2.0,0.0
+math/9905192,Quantum groupoids,2.683241326990608e-06,4.3119094001234414e-05,5.0,6.0
+math/0011041,Homological mirror symmetry and torus fibrations,2.6781124161479e-06,0.0003351937628326,13.0,63.0
+math/0504404,Knot Floer homology and rational surgeries,2.675923808501729e-06,2.969030393531645e-05,7.0,13.0
+math/0310095,Hamiltonian stationary tori in the complex projective plane,2.6672488845446984e-06,2.207516106675093e-06,6.0,1.0
+math-ph/9809015,On the Groenewold-Van Hove problem for R^{2n},2.666125832030548e-06,0.0,4.0,6.0
+math/0209295,"Convergent star product algebras on ""ax+b""",2.6631781590238582e-06,0.0,2.0,1.0
+math/0403367,Ozsvath-Szabo invariants and fillability of contact structures,2.659674677009617e-06,3.3541441225212365e-06,6.0,6.0
+math/0009124,Grothendieck Groups of Poisson Vector Bundles,2.656205664555278e-06,0.0,5.0,3.0
+math/0404496,Symplectomorphism groups and isotropic skeletons,2.652978809026604e-06,1.990182755160072e-06,1.0,1.0
+math/0508016,Relative Gerbes,2.647566985403951e-06,1.990182755160072e-06,1.0,1.0
+math/0005006,Triangular dynamical r-matrices and quantization,2.6161504582821303e-06,0.0001435416994865,3.0,10.0
+math/0411078,Modifying surfaces in 4-manifolds by twist spinning,2.612027930931649e-06,1.990182755160072e-06,1.0,1.0
+math/0412183,"Transverse knots, branched double covers and Heegaard Floer contact
+  invariants",2.611308185316347e-06,2.7625385146331792e-08,4.0,1.0
+math/0403269,Prequantization and Lie brackets,2.6110065420400595e-06,1.089557367917751e-06,4.0,6.0
+math/0106026,Szego Kernels and Finite Group Actions,2.609801610986449e-06,9.95091377580036e-07,3.0,1.0
+math-ph/0211076,Multi-Hamiltonian structures for r-matrix systems,2.6096033746208664e-06,0.0,2.0,5.0
+math/0308163,"Intrinsic Dynamics of Manifolds: Quantum Paths, Holonomy, and Trajectory
+  Localization",2.609113162813238e-06,0.0,2.0,2.0
+math/0009193,The Symplectic Geometry of Polygons in the 3-sphere,2.608560993060477e-06,0.0,3.0,0.0
+math/0102152,Polar Homology and Holomorphic Bundles,2.6043417502278805e-06,0.0,4.0,1.0
+math/0503459,"A symplectic construction of Calabi's extremal K\""ahler metrics on the
+  blow-up of $\bbC\bbP^n$ at one point",2.5954479695355294e-06,0.0,1.0,0.0
+math/0608001,Covering spaces and Q-gradings on Heegaard Floer homology,2.591788151832183e-06,0.0,3.0,2.0
+math/0307324,"Invariant Star Products of Wick Type: Classification and Quantum
+  Momentum Mappings",2.585539517613374e-06,0.0,2.0,0.0
+math/0207196,"Picard-Fuchs equations, Integrable Systems, and higher Algebraic
+  K-theory",2.5850550974390478e-06,0.0,2.0,0.0
+math/0302268,Integration of twisted Poisson structures,2.58420788568293e-06,1.743769699289389e-05,7.0,5.0
+math/0410119,"Some open questions about symplectic 4-manifolds, singular plane curves,
+  and braid group factorizations",2.577291957366234e-06,0.0,4.0,0.0
+math/9910078,"Courant algebroids, derived brackets and even symplectic supermanifolds",2.568936175528274e-06,3.3026760195317975e-05,3.0,43.0
+math/0701400,An interesting symplectic 4-manifold with small Euler characteristic,2.568893457955924e-06,0.0,3.0,1.0
+math-ph/0301007,"Some considerations on topologies of infinite dimensional unitary
+  coadjoint orbits",2.5672413783243324e-06,0.0,2.0,1.0
+math/0006063,Identification of Berezin-Toeplitz deformation quantization,2.566872417564346e-06,7.41778757606097e-05,7.0,9.0
+math/0503237,Tangent Dirac structures and submanifolds,2.566749754589386e-06,0.0,2.0,0.0
+math/9807018,The cohomology ring of symplectic cuts,2.560970048309484e-06,0.0,2.0,0.0
+math/0508064,"Braids, Transversal links and the Khovanov-Rozansky Theory",2.558272549823941e-06,2.1707354222906058e-06,4.0,8.0
+math/0509393,Reduction of Generalized Complex Structures,2.5581359229580864e-06,1.21738607484712e-10,4.0,8.0
+math/0411111,Quantum D-modules and generalized mirror transformations,2.557524342684984e-06,2.0240722795343903e-06,3.0,4.0
+math/0007078,The dynamics around stable and unstable Hamiltonian relative equilibria,2.557425219988666e-06,0.0,1.0,1.0
+math/0201192,Singular dual pairs,2.557425219988666e-06,0.0,1.0,2.0
+math/0503193,Fibered Symplectic Cohomology and the Leray-Serre Spectral Sequence,2.5566358919577483e-06,0.0,1.0,2.0
+math/0607061,Poisson geometry of parabolic bundles on Elliptic curves,2.553443857965736e-06,0.0,2.0,0.0
+math/0501074,On Legendrian Surgeries,2.5507346510955445e-06,1.4107152433194767e-06,1.0,1.0
+math/0201242,"Compatible nonlocal Poisson brackets of hydrodynamic type, and
+  integrable hierarchies related to them",2.543903340084025e-06,0.0,3.0,3.0
+math/0302182,Presentations of Noneffective Orbifolds,2.543618402106525e-06,0.0,5.0,0.0
+math/0507538,Integration of Dirac-Jacobi structures,2.542157159460393e-06,9.545106120688948e-09,2.0,1.0
+math/0011155,An explicit isomorphism between Floer homology and quantum homology,2.5389202004727494e-06,0.0,2.0,2.0
+math/0511418,On some completions of the space of Hamiltonian maps,2.5379722670761453e-06,0.0,2.0,2.0
+math/0507103,Reduced Genus-One Gromov-Witten Invariants,2.5323370521458583e-06,2.985274132740108e-06,2.0,5.0
+math/0606787,"Twisted Jacobi manifolds, twisted Dirac-Jacobi structures and
+  quasi-Jacobi bialgebroids",2.5311745921546747e-06,0.0,2.0,0.0
+math/0112152,Quasi-Lie bialgebroids and twisted Poisson manifolds,2.522704930588869e-06,1.3118221991091256e-06,7.0,3.0
+math/0405257,On the local structure of Dirac manifolds,2.521112975360982e-06,3.867056678320931e-05,3.0,6.0
+math/9905176,"Local $\nu$-Euler Derivations and Deligne's Characteristic Class of
+  Fedosov Star Products and Star Products of Special Type",2.5199957813645827e-06,0.0004488126108816,4.0,9.0
+math/0102159,"The Riemannian geometry of orbit spaces. The metric, geodesics, and
+  integrable systems",2.519151888885073e-06,0.0,2.0,3.0
+math/9806013,Gromov-Witten Invariants of Symplectic Sums,2.517351741176121e-06,2.0198869753863417e-06,7.0,2.0
+math/0007166,Combinatorial formulas for products of Thom classes,2.513471319244693e-06,0.0,2.0,0.0
+math/0210124,Legendrian Submanifolds in $R^{2n+1}$ and Contact Homology,2.511020257159668e-06,0.0,2.0,7.0
+math/0311092,Lagrangian spheres in S^2 x S^2,2.5041483064738594e-06,5.970548265480216e-06,2.0,2.0
+math/0309290,Fedosov quantization in algebraic context,2.5026433395432816e-06,1.3253446272172689e-06,2.0,4.0
+math/0611746,Hypersurfaces symplectiques r\'eelles et pinceaux de Lefschetz r\'eels,2.500590193025489e-06,0.0,1.0,0.0
+math/0506615,"Homological orthogonality of ""symplectic"" and ""lagrangian""- corrected
+  version",2.500590193025489e-06,0.0,1.0,0.0
+math/0005261,Poisson cohomology in dimension two,2.494898460024787e-06,4.97545688790018e-06,2.0,2.0
+math/0409082,5-dimensional contact SO(3)-manifolds and Dehn twists,2.494289897578369e-06,0.0,2.0,0.0
+math/0307237,Surgery diagrams for contact 3-manifolds,2.4832575567429146e-06,1.990182755160072e-06,2.0,2.0
+math/0105186,A long exact sequence for symplectic Floer cohomology,2.478098273184803e-06,2.5929530780831683e-05,6.0,5.0
+math/0411465,The Morse-Witten complex via dynamical systems,2.4711431321721443e-06,0.0,1.0,1.0
+math/9804083,Compactification of moduli of Higgs bundles,2.4711431321721443e-06,0.0,2.0,3.0
+math/0309289,Relative Flux Homomorphism in Symplectic Geometry,2.4711431321721443e-06,0.0,1.0,0.0
+math/0403155,Almost complex rigidity of the complex projective plane,2.4711431321721443e-06,0.0,1.0,1.0
+math/0004066,Generalized toric varieties for simple non-rational convex polytopes,2.4711431321721443e-06,0.0,1.0,0.0
+math/0403345,Symplectic leaves in real Banach Lie-Poisson spaces,2.4711431321721443e-06,0.0,1.0,3.0
+math/0608801,Homoclinic Orbits and Lagrangian Embeddings,2.4711431321721443e-06,0.0,1.0,0.0
+math/0608682,"Representations of the fundamental group of an L-punctured sphere
+  generated by products of Lagrangian involutions",2.4711431321721443e-06,0.0,1.0,0.0
+math/0701055,A note on Poisson brackets for orthogonal polynomials on the unit circle,2.4711431321721443e-06,0.0,1.0,0.0
+math/0611113,Morse Theory for the Space of Higgs Bundles,2.4711431321721443e-06,0.0,1.0,0.0
+math/0008141,On the geometry of generalized Chaplygin systems,2.4711431321721443e-06,0.0,1.0,2.0
+math/0208051,A Poisson structure on compact symmetric spaces,2.4711431321721443e-06,0.0,1.0,1.0
+math/9904148,Cohomology of a Hamiltonian T-space with involution,2.4711431321721443e-06,0.0,1.0,0.0
+math/0703348,The geometry of recursion operators,2.4711431321721443e-06,0.0,1.0,0.0
+math/0106139,How to (symplectically) thread the eye of a (Lagrangian) needle,2.4711431321721443e-06,0.0,1.0,3.0
+math-ph/0112024,Singular Lagrangians in supermechanics,2.4711431321721443e-06,0.0,1.0,0.0
+math/0701673,"Stability of closed characteristics on compact convex hypersurfaces in
+  $\R^6$",2.4711431321721443e-06,0.0,1.0,0.0
+math/0702305,Mapped Null Hypersurfaces and Legendrian Maps,2.4711431321721443e-06,0.0,1.0,0.0
+math-ph/0203013,"Nonholonomic systems with symmetry allowing a conformally symplectic
+  reduction",2.4711431321721443e-06,0.0,1.0,0.0
+math-ph/0208031,On quantizing semisimple basic algebras II: The general case,2.4711431321721443e-06,0.0,1.0,0.0
+math/0506449,An 8-dimensional non-formal simply connected symplectic manifold,2.4711431321721443e-06,0.0,1.0,2.0
+math/0011124,Sets of singular restrictions of symplectic forms,2.4711431321721443e-06,0.0,1.0,0.0
+math/9912189,Linearization Problems for Lie Algebroids and Lie Groupoids,2.4711431321721443e-06,0.0,1.0,0.0
+nlin/0608010,"Dispersionless integrable equations as coisotropic deformations.
+  Extensions and reductions",2.4711431321721443e-06,0.0,1.0,0.0
+math/0002041,Contact cuts,2.4711431321721443e-06,0.0,1.0,10.0
+math/0211185,Nondegenerate Monge-Ampere structures in dimension 6,2.4711431321721443e-06,0.0,1.0,0.0
+math/0210389,Infinite geodesic rays in the space of Kahler potentials,2.4711431321721443e-06,0.0,1.0,0.0
+math/0305325,Evaluation fibrations and topology of symplectomorphisms,2.4711431321721443e-06,0.0,1.0,0.0
+math/0309221,Proofs On Arnold Chord Conjecture And Weinstein Conjecture In M\times C,2.4711431321721443e-06,0.0,1.0,0.0
+math/0602168,"Semi-classical properties of geometric quantization with metaplectic
+  correction",2.4711431321721443e-06,0.0,1.0,1.0
+math/0604169,Homogeneous Lagrangian submanifolds,2.4711431321721443e-06,0.0,1.0,1.0
+math/0506230,Special Lagrangian Curvature,2.4711431321721443e-06,0.0,1.0,0.0
+math/9812153,Holonomy on Poisson Manifolds and the Modular Class,2.4711431321721443e-06,0.0,1.0,6.0
+math/0609846,Cramped subgroups and generalized Harish-Chandra modules,2.4711431321721443e-06,0.0,1.0,0.0
+math/0508187,Duality for Legendrian contact homology,2.4711431321721443e-06,0.0,1.0,1.0
+math/0509204,Minimality and irreducibility of symplectic four-manifolds,2.4711431321721443e-06,0.0,1.0,0.0
+math/0406227,A note on compact solvmanifolds with Kaehler structures,2.4711431321721443e-06,0.0,1.0,0.0
+math/0603141,Symplectic Duality of Symmetric Spaces,2.4711431321721443e-06,0.0,1.0,0.0
+math/0402361,Coupling Poisson and Jacobi structures on foliated manifolds,2.4711431321721443e-06,0.0,1.0,0.0
+math/0406069,Connected Components of the Space of Surface Group Representations II,2.4711431321721443e-06,0.0,1.0,0.0
+math/0203069,"On symplectic leaves and integrable systems in standard complex
+  semisimple Poisson-Lie groups",2.4688074646455403e-06,0.0,2.0,0.0
+math/0404539,Homotopy properties of Hamiltonian group actions,2.4658365825647377e-06,1.990182755160072e-06,3.0,1.0
+math/0308118,"Intrinsic Dynamics of Symplectic Manifolds: Membrane Representation and
+  Phase Product",2.461625990661297e-06,0.0,1.0,3.0
+math/0009229,Chern characters via connections up to homotopy,2.456283758139732e-06,7.960731020640288e-06,3.0,1.0
+math/0505013,"Reidemeister Torsion in Floer-Novikov Theory and Counting
+  Pseudo-holomorphic Tori, II",2.456153106630607e-06,0.0,1.0,0.0
+math/0104243,"Chain level Floer theory and Hofer's geometry of the Hamiltonian
+  diffeomorphism group",2.456153106630607e-06,0.0,1.0,8.0
+math-ph/0203012,A variational principle for actions on symmetric symplectic spaces,2.455071333580041e-06,0.0,2.0,2.0
+math/0502404,A cylindrical reformulation of Heegaard Floer homology,2.454727819435803e-06,4.022328011220801e-06,5.0,3.0
+math/0410356,Filtration of Heegaard Floer homology and gluing formulas,2.451363993608652e-06,2.449429376555376e-07,7.0,1.0
+math/0211429,"Tight, not semi--fillable contact circle bundles",2.440062614257827e-06,0.0,3.0,3.0
+math/0007132,"Lie Algebroids, Holonomy and Characteristic Classes",2.4360769607257917e-06,1.3931279286120504e-05,3.0,6.0
+math/0001043,Braid group actions on derived categories of coherent sheaves,2.4332026913861005e-06,0.0002529299931341,9.0,57.0
+math/9810122,A limit of toric symplectic forms that has no periodic Hamiltonians,2.428356873612775e-06,0.0,1.0,0.0
+math-ph/0611066,$q\to \infty$ limit of the quasitriangular WZW model,2.426612938641756e-06,0.0,5.0,0.0
+math/0010262,Pseudoholomorphic curves and the symplectic isotopy problem,2.412782432391427e-06,0.0,3.0,9.0
+math/0104071,Quantum dynamical Yang-Baxter equation over a nonabelian base,2.4091616553674853e-06,0.0,3.0,5.0
+math/0412120,A stable classification of Lefschetz fibrations,2.4044812707544514e-06,0.0,3.0,0.0
+math/0509144,Normal forms of vector fields on Poisson manifolds,2.3837285538523043e-06,4.30035488112638e-06,1.0,1.0
+math/0703665,"Geometry of Invariant Tori of Certain Integrable Systems with Symmetry
+  and an Application to a Nonholonomic System",2.3837285538523043e-06,0.0,1.0,0.0
+math/9905066,Monopoles and contact 3-manifolds,2.3805317588377094e-06,3.980365510320144e-06,1.0,1.0
+math/9808116,Geometric Quantization of Vector Bundles,2.375284203899391e-06,2.010332655107917e-06,4.0,8.0
+math/0503355,Stokes Matrices for the Quantum Cohomologies of Grassmannians,2.362274170131793e-06,1.61098944665412e-06,2.0,2.0
+math/0609162,Weighted Blowups and Mirror Symmetry for Toric Surfaces,2.3617083041507103e-06,0.0,3.0,0.0
+math/0405422,The equivariant cohomology of hypertoric varieties and their real loci,2.3572795531690806e-06,6.060677701900246e-07,3.0,1.0
+math/0406213,Central extensions of groups of symplectomorphisms,2.355922116061116e-06,0.0,3.0,1.0
+math/0605001,A degree doubling formula for braid monodromies and Lefschetz pencils,2.3540932110434804e-06,0.0,5.0,0.0
+math/0610288,"From Lie groupoids to resolutions of singularities. Applications to
+  symplectic and Poisson resolutions",2.35269840346915e-06,1.990182755160072e-06,2.0,1.0
+math/0406558,On the integrability of subalgebroids,2.3489210719892667e-06,3.077904715030481e-08,1.0,1.0
+math/0406561,On the developability of subalgebroids,2.3489210719892667e-06,0.0,1.0,0.0
+math/0506452,Symplectic nilmanifolds with a symplectic non-free $Z_3$-action,2.3469198153586743e-06,0.0,1.0,0.0
+math/0202126,Traces for star products on the dual of a Lie algebra,2.3382859730852475e-06,0.0,2.0,4.0
+math/9906048,Deformations of Special Lagrangian Submanifolds,2.330575961892036e-06,0.0,3.0,3.0
+math/0301108,Locally conformal symplectic groupoids,2.326499449156865e-06,0.0,1.0,0.0
+math/0101206,Holomorphic disks and topological invariants for closed three-manifolds,2.3223592926570406e-06,8.726195883832784e-06,6.0,50.0
+math/0306255,"Virtual moduli cycles and Gromov-Witten invariants of noncompact
+  symplectic manifolds",2.3157774490234537e-06,0.0,4.0,0.0
+math/0210127,Heegaard Floer homologies and contact structures,2.3155616492124325e-06,2.531624814213398e-05,6.0,27.0
+math/0209149,Heegaard Floer homology and alternating knots,2.311701514644257e-06,8.683891961175332e-07,7.0,9.0
+math/0205019,Dirac submanifolds of Jacobi manifolds,2.305508965856953e-06,0.0,1.0,3.0
+math/0301364,Bott Connection and Generalized Functions on Poisson Manifold,2.302254870726655e-06,0.0,2.0,0.0
+math/0402189,The Chen-Ruan Cohomology of Almost Contact Orbifolds,2.297855519762212e-06,0.0,3.0,0.0
+math/0411258,An exotic smooth structure on CP^2+6CP^2-bar,2.2904383518264763e-06,1.990182755160072e-06,3.0,4.0
+math/0610157,Hochschild homology and Gabber's Theorem,2.2897036098760207e-06,0.0,3.0,0.0
+math/0009219,Berezin-Toeplitz quantization and Berezin transform,2.284659407701961e-06,4.104286184434299e-05,4.0,4.0
+math/0301149,Knot Floer homology and the four-ball genus,2.281376843225604e-06,8.057324554608904e-06,7.0,8.0
+math/0701664,Exotic Smooth Structures on Small 4-Manifolds,2.2808409176783526e-06,0.0,2.0,5.0
+math/0612161,"Determinants of the Calabi-Yau Metrics on K3 Surfaces, Discriminants,
+  Theta Lifts and Counting Problems in the A and B Models",2.27910810532043e-06,0.0,2.0,0.0
+math/0011062,Stokes Matrices and Poisson Lie Groups,2.27910810532043e-06,0.0,2.0,4.0
+math/0411559,Generalized Bergman kernels on symplectic manifolds,2.278509824743553e-06,3.980365510320144e-05,3.0,10.0
+math/0001102,"Random almost holomorphic sections of ample line bundles on symplectic
+  manifolds",2.274092114160804e-06,4.962481580751637e-06,2.0,6.0
+math/0208036,Nondegeneracy of the Lie algebra aff(n),2.272341657055102e-06,0.0,2.0,0.0
+math/9912199,"Torus actions, equivariant moment-angle complexes, and coordinate
+  subspace arrangements",2.267189640564075e-06,0.0,5.0,2.0
+hep-th/0210043,Poisson geometry of sigma models with extended supersymmetry,2.2669513468676887e-06,2.1237206903552243e-08,9.0,20.0
+math/0010217,The Symplectic Sum Formula for Gromov-Witten Invariants,2.2664732917476413e-06,2.1945092638347555e-05,5.0,17.0
+math/0005047,Formulas of Verlinde type for non-simply connected groups,2.2622648455485968e-06,0.0,3.0,2.0
+math/0204203,Cosphere bundle reduction in contact geometry,2.259835478406273e-06,0.0,2.0,0.0
+math/0211175,Automorphisms of quantum and classical Poisson algebras,2.258404219184852e-06,0.0,2.0,0.0
+math/0609077,"Some Geometric Evolution Equations Arising as Geodesic Equations on
+  Groups of Diffeomorphisms Including the Hamiltonian Approach",2.2465016456383024e-06,0.0,2.0,1.0
+math/0303280,Heegaard Floer Invariants and Tight Contact Three--Manifolds,2.240478591839287e-06,4.633392628659838e-06,6.0,4.0
+math/0108075,Generalized symplectic rational blowdowns,2.2321780698515777e-06,0.0,4.0,0.0
+math/0603357,"Intersections of Tautological Classes on Blowups of Moduli Spaces of
+  Genus-One Curves",2.2307037062610155e-06,0.0,2.0,2.0
+math/0404547,Toric Hypersymplectic Quotients,2.2298306387881648e-06,1.990669256673286e-06,2.0,2.0
+math/0311459,A few remarks about symplectic filling,2.217850654615129e-06,0.0,2.0,2.0
+math/0505369,Delzant-type classification of near-symplectic toric 4-manifolds,2.2158564365873934e-06,0.0,2.0,1.0
+math/0407099,"Sub-Riemannian geometry and Lie groups. Part II. Curvature of metric
+  spaces, coadjoint orbits and associated representations",2.2158564365873934e-06,0.0,2.0,1.0
+math/0607318,Instanton Floer homology with Lagrangian boundary conditions,2.209110584898766e-06,0.0,1.0,0.0
+math/0605260,Cubic hypersurfaces and integrable systems,2.201977547180156e-06,9.44169857192145e-10,1.0,2.0
+math/0212337,Spectral invariants and length minimizing property of Hamiltonian paths,2.199883182767796e-06,0.0,2.0,6.0
+math/0703738,Length minimizing paths in the Hamiltonian diffeomorphism group,2.199838288552662e-06,0.0,1.0,0.0
+math/0206149,"Nonrational, nonsimple convex polytopes in symplectic geometry",2.199813085813728e-06,0.0,2.0,1.0
+math/0008105,Generalized Lie bialgebroids and Jacobi structures,2.190034621516441e-06,0.0,2.0,4.0
+math/0308232,Pseudodifferential forms and supermechanics,2.189827882672993e-06,0.0,4.0,0.0
+math/0501273,Small Exotic 4-manifolds with b_2^+=3,2.189398659472279e-06,2.985274132740108e-06,2.0,2.0
+math/0605133,"The fundamental group of symplectic manifolds with Hamiltonian Lie group
+  actions",2.189198761823784e-06,0.0,1.0,0.0
+math/0005002,"Vassiliev invariants of Legendrian, of transverse and framed knots in
+  contact 3-manifolds",2.187491248189088e-06,0.0,2.0,1.0
+math/0207263,"A geometric proof of Conn's linearization theorem for analytic Poisson
+  structures",2.1859258949718308e-06,0.0,2.0,1.0
+math/0409160,Milnor open books and Milnor fillable contact 3-manifolds,2.185689086091173e-06,2.714021355847379e-06,2.0,3.0
+math/0310099,Topologically knoted Lagrangians in simply connected four manifolds,2.179191812632151e-06,0.0,1.0,0.0
+math/0311332,Tori in symplectic 4-manifolds,2.179191812632151e-06,0.0,1.0,1.0
+math/0310450,The Gromov invariant and the Donaldson-Smith standard surface count,2.174231302843016e-06,0.0,3.0,1.0
+math/0312071,Calculation of Heegard Floer homology for a class of Brieskorn spheres,2.168798514446107e-06,6.609189000345001e-07,6.0,3.0
+math/0406292,"Nonlocal Hamiltonian operators of hydrodynamic type with flat metrics,
+  integrable hierarchies and the equations of associativity",2.167825435714085e-06,0.0,3.0,4.0
+math/0204064,Homotopy groups of K-contact toric manifold,2.1671827384718067e-06,0.0,3.0,4.0
+math-ph/0401046,"Covariant Hamiltonian formalism for the calculus of variations with
+  several variables: Lepage--Dedecker versus de Donder--Weyl",2.161245624134105e-06,0.0,4.0,1.0
+math/0401426,Knots with unknotting number one and Heegaard Floer homology,2.159369047637397e-06,3.405176138768114e-06,6.0,8.0
+math/0506016,On the extrinsic topology of Lagrangian submanifolds,2.154633042373091e-06,1.99485662460629e-06,1.0,1.0
+math/0411640,Constructions controlees de champs de Reeb et applications,2.152807879898359e-06,0.0,5.0,1.0
+math/0312107,Deformation of integral coisotropic submanifolds in symplectic manifolds,2.1503390704297392e-06,0.0,2.0,1.0
+math/0004122,Kahler geometry of toric manifolds in symplectic coordinates,2.148753776436882e-06,0.0,1.0,6.0
+math/0101185,New smooth counterexamples to the Hamiltonian Seifert conjecture,2.147500508108878e-06,0.0,1.0,2.0
+math/0309342,"Moduli of Stable Parabolic Connections, Riemann-Hilbert correspondence
+  and Geometry of Painlev\'{e} equation of type VI, Part I",2.146370669367221e-06,1.990182755160072e-06,1.0,12.0
+math/0412330,"Conormal bundles, contact homology and knot invariants",2.145536541336716e-06,0.0,4.0,1.0
+math/0410061,Rounding corners of polygons and the embedded contact homology of T^3,2.135617257554323e-06,1.990182755160072e-06,2.0,1.0
+math/0106220,Serre-Taubes duality for pseudoholomorphic curves,2.134235392708956e-06,0.0,3.0,4.0
+math/0206155,Fukaya categories and deformations,2.134149490854009e-06,1.996124978760579e-05,5.0,2.0
+math/0301324,"Convergence of Hermitian-Yang-Mills Connections on K\""ahler Surfaces and
+  mirror symmetry",2.129006020051976e-06,3.679464070758819e-06,2.0,2.0
+math/0609491,Metric convexity in the symplectic category,2.1254800838390582e-06,0.0,2.0,1.0
+math/0209288,Characteristic classes of smooth fibrations,2.1254800838390582e-06,0.0,2.0,3.0
+math-ph/0506027,Coboundary dynamical Poisson groupoids and integrable systems,2.1227204270920726e-06,0.0,1.0,2.0
+math-ph/0108016,A natural symplectic form for every field theory,2.122605646627148e-06,0.0,3.0,1.0
+math/0411334,"On the BKS pairing for Kahler quantizations of the cotangent bundle of a
+  Lie group",2.120978933487838e-06,0.0,1.0,2.0
+math/0604329,Projective embeddings and Lagrangian fibrations of Kummer varieties,2.120978933487838e-06,0.0,1.0,0.0
+math/0411015,"Nilpotent slices, Hilbert schemes, and the Jones polynomial",2.1183490937280085e-06,0.0,4.0,4.0
+math/0506450,Quantization by cochain twists and nonassociative differentials,2.116501552230651e-06,4.1317024829320624e-06,2.0,7.0
+math/0411014,Vanishing of the contact homology of overtwisted contact 3--manifolds,2.1145066537332465e-06,0.0,3.0,0.0
+math-ph/9809011,Obstructions to Quantization,2.113874142981363e-06,0.0,2.0,9.0
+funct-an/9702004,Pseudodifferential operators on differential groupoids,2.1057279096485964e-06,0.0,3.0,4.0
+math/0412084,Local structure of generalized complex manifolds,2.105635982638736e-06,2.2180917809259085e-06,7.0,9.0
+math/0412218,The biinvariant diagonal class for Hamiltonian torus actions,2.1047939319487814e-06,0.0,2.0,0.0
+math/0212311,On odd Laplace operators. II,2.1007056219974487e-06,0.0,4.0,5.0
+math/0610522,Isotropic subbundles of $TM\oplus T^*M$,2.0877621279570614e-06,1.990182755160072e-06,2.0,1.0
+math/0506208,A note on knot Floer homology of links,2.080444650823527e-06,1.680988560593472e-05,3.0,5.0
+math/0407495,Lagrange-Fedosov Nonholonomic Manifolds,2.073145662249084e-06,8.222657204383858e-08,1.0,3.0
+math/9905179,"Quantum Hyperplane Section Principle for Concavex Decomposable Vector
+  Bundles",2.0719063298124164e-06,0.0,3.0,1.0
+math/0603310,"Symplectomorphism groups and embeddings of balls into rational ruled
+  4-manifolds",2.062923399300243e-06,0.0,2.0,1.0
+math/0405047,Contact reduction and groupoid actions,2.059862967705562e-06,9.242374051544036e-07,1.0,1.0
+math/0008157,How to calculate the Fedosov star--product (Exercices de style),2.0569672578706e-06,0.0,2.0,1.0
+math/0702718,Moser Lemma in Generalized Complex Geometry,2.0553938699321656e-06,0.0,4.0,0.0
+math/0201049,"Holomorphic triangle invariants and the topology of symplectic
+  four-manifolds",2.0521424748201997e-06,1.857297822236309e-07,5.0,3.0
+math/0207070,"A Comparison of Hofer's Metrics on Hamiltonian Diffeomorphisms and
+  Lagrangian Submanifolds",2.048001173070506e-06,0.0,1.0,2.0
+math/0005288,Singular projective varieties and quantization,2.047275470959881e-06,0.0,3.0,3.0
+math/0012112,Linearization of Poisson actions and singular values of matrix products,2.0456653061975597e-06,0.0,1.0,0.0
+math/0107133,Poisson geometry with a 3-form background,2.0383938052383933e-06,8.832734458240865e-05,6.0,18.0
+math/0102171,Generalized Lie bialgebras and Jacobi structures on Lie groups,2.036304689998123e-06,0.0,2.0,2.0
+math/0104189,WZW-Poisson manifolds,2.0310298168880898e-06,7.5737671268010515e-06,6.0,8.0
+math/0504165,Moment polytopes for symplectic manifolds with monodromy,2.02854937122124e-06,1.0203410889576436e-06,1.0,1.0
+math/0411638,Integrals of equivariant forms over non-compact symplectic manifolds,2.02683611502183e-06,0.0,2.0,1.0
+math/0006056,"Quivers, Floer cohomology, and braid group actions",2.023900042719037e-06,5.981289565669409e-08,5.0,13.0
+math-ph/9906027,Leibniz algebroid associated with a Nambu-Poisson structure,2.023821409735679e-06,0.0,2.0,1.0
+math/9911024,Localization of the Riemann-Roch character,2.0230859885525206e-06,1.990182755160072e-06,1.0,1.0
+math/0605788,On Symplectc half-flat manifolds,2.0214101769243877e-06,0.0,3.0,1.0
+math/0512501,Uniqueness of quantization of complex contact manifolds,2.019691447521037e-06,0.0,1.0,0.0
+math/9812077,Wirtinger numbers and holomorphic symplectic immersions,2.0145212291018817e-06,0.0,2.0,0.0
+math/0211297,"The Kirwan map, equivariant Kirwan maps, and their kernels",2.011671198239723e-06,0.0,2.0,1.0
+math/0207048,On the local version of the Severi problem,2.009696839625192e-06,0.0,3.0,4.0
+math/9808029,The quantization conjecture revisited,2.00800849255242e-06,0.0,1.0,6.0
+math/0311090,Bounds for the Thurston-Bennequin number from Floer homology,2.006230695899245e-06,5.845282868716009e-06,5.0,6.0
+math/0208063,"An infinite family of tight, not semi-fillable contact three-manifolds",2.006224425824371e-06,0.0,1.0,3.0
+math/0501453,"Hamiltonian stability and index of minimal Lagrangian surfaces of the
+  complex projective plane",2.004257533926402e-06,0.0,1.0,0.0
+math/0601260,A remark on 'Some numerical results in complex differential geometry',2.001592004090617e-06,0.0,3.0,0.0
+math/0204032,Floer homology of algebraically finite mapping classes,1.9990922405819564e-06,1.990182755160072e-06,2.0,1.0
+math/0301236,"Geometry of differential operators, and odd Laplace operators",1.9905739694686637e-06,0.0,2.0,3.0
+math/0409402,Lectures on open book decompositions and contact structures,1.990324966499928e-06,1.9014904063651264e-05,2.0,13.0
+math/9810101,The relation between compact and non-compact equivariant cobordisms,1.9900738180385784e-06,0.0,1.0,1.0
+math/0404281,"Mirror symmetry for weighted projective planes and their noncommutative
+  deformations",1.9844718672736504e-06,3.792864358757436e-05,9.0,24.0
+math/0203265,On the Floer homology of plumbed three-manifolds,1.984120316744789e-06,1.5061031411825489e-06,5.0,2.0
+math/0604079,"The Dehn surgery characterization of the trefoil and the figure eight
+  knot",1.978186348196324e-06,2.8066623837885493e-06,4.0,2.0
+math/0205202,On odd Laplace operators,1.97734023131011e-06,1.990182755160072e-05,4.0,6.0
+math/0501470,Notes on the contact Ozsvath--Szabo invariants,1.977136911905484e-06,1.1940710363048538e-06,6.0,1.0
+math/0607216,"Dirac Structures and Generalized Complex Structures on
+  $TM\times\mathds{R}^h$",1.9735963924904597e-06,0.0,4.0,0.0
+math/0201223,"Liouville canonical form for compatible nonlocal Poisson brackets of
+  hydrodynamic type, and integrable hierarchies",1.9688688513396027e-06,0.0,5.0,2.0
+math/9810081,Gromov-Witten Invariants of Blow-ups Along Points and Curces,1.966662616019972e-06,0.0,2.0,1.0
+math/0308224,"Holomorphic disc, spin structures and Floer cohomology of the Clifford
+  torus",1.9664108406003044e-06,2.1786852221529207e-05,2.0,2.0
+math/0602118,"Exponential sums, peak sections, and an alternative version of
+  Donaldson's theorems",1.9659097269634144e-06,0.0,2.0,1.0
+math/0605290,Constructing virtual Euler cycles and classes,1.962815119917607e-06,0.0,2.0,1.0
+math/0001137,The Weinstein conjecture in the uniruled manifolds,1.962815119917607e-06,0.0,2.0,0.0
+math/0609352,"Obstructions to special Lagrangian desingularizations and the Lagrangian
+  prescribed boundary problem",1.9595925892943837e-06,0.0,1.0,0.0
+math/0410338,Quasi-states and symplectic intersections,1.955471541059644e-06,5.975222134926433e-06,2.0,2.0
+math/9912190,Omni-Lie Algebras,1.955069511599532e-06,0.0,2.0,2.0
+math/0408411,"Orientations in Legendrian Contact Homology and Exact Lagrangian
+  Immersions",1.9499052021460626e-06,0.0,2.0,2.0
+math/9901015,BRST Cohomology and Phase Space Reduction in Deformation Quantisation,1.9481522382030245e-06,0.0,4.0,3.0
+math/0304298,Symplectic sums and Gromov-Witten invariants,1.944665612200525e-06,0.0,2.0,0.0
+math-ph/0001005,Quantization of Poisson algebras associated to Lie algebroids,1.9429619059051496e-06,1.0962327003556809e-05,2.0,10.0
+math/0408280,On the Floer homology of cotangent bundles,1.937498595580692e-06,1.990182755160072e-06,2.0,6.0
+math/0406449,"Floer mini-max theory, the Cerf diagram, and the spectral invariants",1.9354458742030807e-06,0.0,1.0,5.0
+math/0207255,"Bimodule deformations, Picard groups and contravariant connections",1.935300256572465e-06,5.418328173872763e-09,4.0,5.0
+math/0311419,Heegaard Floer homologies of pretzel knots,1.9341395408321456e-06,0.0,7.0,3.0
+math/0502297,"Intersection theoretic properties on the moduli space of genus 0 stable
+  maps to a semipositive symplectic 4-manifold",1.93363302060971e-06,0.0,2.0,1.0
+math-ph/0201044,On Weyl Quantization from geometric Quantization,1.925163502533113e-06,0.0,2.0,3.0
+math/0110330,"Lagrangian submanifolds in Hyperkahler manifolds, Legendre
+  transformation",1.923843305644759e-06,0.0,3.0,3.0
+math/0504100,Symplectic configurations,1.913881181178068e-06,0.0,1.0,0.0
+math/0703251,"Poisson Geometry of SL(3,C)-Character Varieties Relative to a Surface
+  with Boundary",1.9110409705213117e-06,0.0,2.0,0.0
+math/0006156,The Gromov-Witten invariants of symplectic manifolds,1.9007034615108716e-06,0.0,2.0,0.0
+math-ph/0208024,"The irreducible unitary representations of the extended Poincare group
+  in (1+1) dimensions",1.898138585178318e-06,0.0,3.0,2.0
+math/0408345,"Examples of Non-K\""ahler Hamiltonian circle manifolds with the strong
+  Lefschetz property",1.8950380516170012e-06,0.0,1.0,1.0
+math-ph/0008003,Bicategories of operator algebras and Poisson manifolds,1.8950380516170012e-06,0.0,1.0,2.0
+math/9910065,Partially ordered groups and geometry of contact transformations,1.8950380516170012e-06,0.0,1.0,1.0
+math/0605008,"Quotients by Reductive Group, Borel Subgroup, Unipotent Group and
+  Maximal Torus",1.8950380516170012e-06,0.0,1.0,0.0
+math/0611032,The $\epsilon$ - revised system with three linear controls,1.8950380516170012e-06,0.0,1.0,0.0
+math/9812006,On the cohomology rings of Hamiltonian T-spaces,1.8950380516170012e-06,0.0,1.0,5.0
+math/0602576,Codimension one foliations calibrated by non-degenerate closed 2-forms,1.8950380516170012e-06,0.0,1.0,1.0
+math/0304083,"Tri-hamiltonian Toda lattice and a canonical bracket for closed discrete
+  curves",1.8950380516170012e-06,0.0,1.0,0.0
+math/0301168,Complexity one Hamiltonian SU(2) and SO(3) actions,1.8950380516170012e-06,0.0,1.0,0.0
+math/0010257,Non-Local Equivariant Star Product on the Minimal Nilpotent Orbit,1.8950380516170012e-06,0.0,1.0,2.0
+math/0212043,"On maximal tori in the contactomorphism groups of regular contact
+  manifolds",1.8950380516170012e-06,0.0,1.0,0.0
+math-ph/0402052,Lie Groups and mechanics: an introduction,1.8950380516170012e-06,0.0,1.0,0.0
+math/0608457,Braid-positive Legendrian links,1.8950380516170012e-06,0.0,1.0,0.0
+math/0211025,Recursion operators between degenerate Poisson structures,1.8950380516170012e-06,0.0,1.0,0.0
+math/0606600,A note on local Floer homology,1.8950380516170012e-06,0.0,1.0,1.0
+math/9901086,Schrodinger flows on Grassmannians,1.8950380516170012e-06,0.0,1.0,5.0
+math/0202149,"Existence of perfect Morse functions on spaces with semi-free circle
+  action",1.8950380516170012e-06,0.0,1.0,0.0
+math/0202021,Hamiltonian structures on foliations,1.8950380516170012e-06,0.0,1.0,0.0
+math/0109150,"Lefschetz fibrations, complex structures and Seifert fibrations on S^1 X
+  M^3",1.8950380516170012e-06,0.0,1.0,0.0
+math/0409555,"Geometric Quantization, Parallel Transport and the Fourier Transform",1.8950380516170012e-06,0.0,1.0,2.0
+math/0602657,"Universal Maslov class of Bohr - Sommerfeld lagrangian embedding to
+  pseudo - Einstein manifold",1.8950380516170012e-06,0.0,1.0,0.0
+math/0208108,The Geometry of Momentum,1.8950380516170012e-06,0.0,1.0,3.0
+math/0501387,Gelfand-Zeitlin theory from the perspective of classical mechanics II,1.8950380516170012e-06,0.0,1.0,0.0
+math/9803026,On the quantum cohomology of a symmetric product of an algebraic curve,1.8950380516170012e-06,0.0,1.0,5.0
+math/9809030,A Wall-crossing Formula for the Signature of Symplectic Quotients,1.8950380516170012e-06,0.0,1.0,1.0
+math/0207107,The space of clouds in an Euclidean space,1.8950380516170012e-06,0.0,1.0,1.0
+math/0006183,"Geometric description of vakonomic and nonholonomic dynamics. Comparison
+  of solutions",1.8950380516170012e-06,0.0,1.0,1.0
+math/0410332,Singular Lefschetz pencils,1.8950380516170012e-06,0.0,1.0,5.0
+math/0310246,Poisson-Jacobi reduction of homogeneous tensors,1.8950380516170012e-06,0.0,1.0,0.0
+math/0109119,Marsden-Weinstein reduction for symplectic connections,1.8950380516170012e-06,0.0,1.0,0.0
+math-ph/0009017,"Classification, Casimir Invariants, and Stability of Lie-Poisson Systems",1.8950380516170012e-06,0.0,1.0,4.0
+math/0412082,Triangular Poisson structures on Lie groups and symplectic reduction,1.8950380516170012e-06,0.0,1.0,1.0
+math/0410326,Minimal surfaces in germs of hyperbolic 3--manifolds,1.8868079790376425e-06,0.0,4.0,0.0
+math/0403239,Phase Space Reduction of Star Products on Cotangent Bundles,1.885177439694084e-06,0.0,2.0,1.0
+math/0106046,"Zeros of closed 1-forms, homoclinic orbits, and Lusternik - Schnirelman
+  theory",1.8826949453701917e-06,0.0,1.0,2.0
+math/0211035,"Riemann Poisson manifolds and K\""ahler-Riemann foliations",1.8798919780207408e-06,0.0,1.0,0.0
+math/0402219,Poisson structures compatible with the canonical metric on $\reel^3$,1.8798919780207408e-06,0.0,1.0,0.0
+math/0310293,On the Riemann-Lie algebras and Riemann-Poisson Lie groups,1.8798919780207408e-06,0.0,1.0,0.0
+math/0509179,"On the uniqueness of generating Hamiltonian for continuous limits of
+  Hamiltonians flows",1.8768714197601949e-06,0.0,1.0,4.0
+math/0405029,Open book decompositions for contact structures on Brieskorn manifolds,1.867604476352471e-06,0.0,2.0,2.0
+math-ph/0211014,Non-Noether symmetries and their influence on phase space geometry,1.8649500200592784e-06,2.031301016482709e-05,1.0,3.0
+math/0003094,"Relations in the cohomology ring of the moduli space of rank 2 Higgs
+  bundles",1.8634133256240856e-06,3.0926357311920507e-06,2.0,6.0
+math/0504403,Planar open books and Floer homology,1.86269549705774e-06,5.4063817533210295e-06,5.0,4.0
+math/0605441,Invariants of contact structures from open books,1.861812106861946e-06,3.980365510320144e-06,2.0,1.0
+math/0310474,Hyperbolic distance to submanifolds in an almost-complex manifold,1.8601957040145688e-06,0.0,1.0,0.0
+math/0211081,$\Ughr$ invariant quantization on some homogeneous manifolds,1.8588217836272584e-06,0.0,3.0,0.0
+math/0201281,"Compatible Dubrovin-Novikov Hamiltonian operators, Lie derivative and
+  integrable systems of hydrodynamic type",1.8587054195119217e-06,2.4753516855224776e-09,6.0,3.0
+math/0205039,Volume preserving bi-Lipschitz homeomorphisms on the Heisenberg group,1.8560265798041263e-06,0.0,2.0,0.0
+math/9811055,"On representations of star product algebras over cotangent spaces on
+  Hermitian line bundles",1.854363447272306e-06,0.0,3.0,18.0
+math/0405314,Heegaard Floer homology of certain mapping tori,1.8534459172964464e-06,0.0,4.0,0.0
+math/0204056,Floer homology of surgeries on two-bridge knots,1.851908762364825e-06,0.0,3.0,3.0
+math/0303145,"Invariants of real symplectic 4-manifolds and lower bounds in real
+  enumerative geometry",1.849190352935687e-06,1.193985885511767e-05,2.0,9.0
+math/0003150,The Verlinde formula for parabolic bundles,1.8438248864711395e-06,0.0,3.0,1.0
+math/0101017,Dual curves and pseudoholomorphic curves,1.8374275435614872e-06,0.0,2.0,1.0
+math/0404135,"Ozsvath-Szabo invariants and tight contact three-manifolds, I",1.8370765710490724e-06,1.990182755160072e-06,6.0,1.0
+math/9912046,Complex Curves in Almost-Complex Manifolds and Meromorphic Hulls,1.836677351836284e-06,0.0,2.0,3.0
+math/0304276,Hamiltonian reduction and Maurer-Cartan equations,1.8232250380721688e-06,0.0,2.0,0.0
+math-ph/0105012,Singular Lagrangian Systems on Jet Bundles,1.8224252288339524e-06,0.0,1.0,0.0
+math/0204334,"Maximal tori in the contactomorphism groups of circle bundles over
+  Hirzebruch surfaces",1.81781490473974e-06,0.0,2.0,1.0
+hep-th/0011034,Non-Abelian Geometry,1.8172903882343111e-06,1.5306808419841818e-06,13.0,14.0
+math/0412414,Products of Floer cohomology of torus fibers in toric Fano manifolds,1.8111691309239365e-06,0.0,5.0,0.0
+math/0211424,Products of conjugacy classes in SU(2),1.8104102662463983e-06,0.0,1.0,0.0
+math/0306273,Semi-classical differential structures,1.8095734241947176e-06,0.0,1.0,3.0
+math/0309013,Submanifolds of generalized complex manifolds,1.7979191696421735e-06,0.0,5.0,8.0
+math/0506380,Strongly fillable contact 3-manifolds without Stein fillings,1.7978313361241684e-06,0.0,3.0,0.0
+math/9801139,A Remark on Formal KMS States in Deformation Quantization,1.7875029482653995e-06,0.0,3.0,2.0
+math/0009235,Mirror symmetry without corrections,1.7854908941760066e-06,0.0004072039255459,10.0,15.0
+math/0106004,ALAG - quantization,1.7850978230593905e-06,0.0,2.0,1.0
+math/9812148,Fixed point formula and loop group actions,1.7750088652002515e-06,0.0,1.0,1.0
+math/0405113,A Note About Universality Theorem as an Enumerative Riemann-Roch Theorem,1.7742495726717854e-06,0.0,4.0,0.0
+math/0402045,The Algebraic Proof of the Universality Theorem,1.7739100557679072e-06,5.970548265480216e-06,3.0,1.0
+math/0301101,"Some Remarks on {$\mathfrak g$}-invariant Fedosov Star Products and
+  Quantum Momentum Mappings",1.772931368096098e-06,9.913783500517522e-07,2.0,2.0
+math/0511676,Symplectic torus actions with coisotropic principal orbits,1.7725050611967302e-06,0.0,1.0,1.0
+math/0406402,On knot Floer homology and cabling,1.77162950370446e-06,0.0,2.0,1.0
+math/0503635,On the Lie-formality of Poisson manifolds,1.7706490941679963e-06,0.0,2.0,0.0
+math/0012067,Lefschetz pencils and the canonical class for symplectic 4-manifolds,1.7693537968714462e-06,0.0,1.0,10.0
+math/0501207,The Symplectic Normal Space of a Cotangent-Lifted Action,1.7671702117510343e-06,0.0,1.0,2.0
+math/0312274,The Maslov Gerbe,1.7656291741299215e-06,0.0,1.0,0.0
+math/0105112,Kahler metrics on toric orbifolds,1.764434994506383e-06,0.0,2.0,2.0
+math/9908060,"Topological recursive relations in $H^{2g}(M_{g,n})$",1.7643265941931429e-06,0.0,3.0,5.0
+math/0301026,On Heegaard Floer homology and Seifert fibered surgeries,1.7628444914344758e-06,9.73617400145285e-07,6.0,7.0
+math/0201217,On Constructing Special Lagrangian Submanifolds by Gluing,1.7616802537290364e-06,0.0,1.0,2.0
+math/0101139,Homogeneous symplectic manifolds of Poisson-Lie groups,1.760113405003999e-06,0.0,2.0,0.0
+math/0506359,Seidel's Mirror Map for the Torus,1.7548188635720658e-06,2.1113587385480467e-06,5.0,2.0
+math/0304273,"Symplectic manifolds with disconnected contact type boundary in
+  dimension 4n",1.7448415013367116e-06,0.0,1.0,0.0
+math/0305343,On the holomorphicity of genus two Lefschetz fibrations,1.7415979937579956e-06,0.0,2.0,8.0
+math/0502358,Towards relative invariants of real symplectic 4-manifolds,1.7406589891419535e-06,0.0,2.0,0.0
+math/0502355,"Invariants of real symplectic 4-manifolds out of reducible and cuspidal
+  curves",1.7406589891419535e-06,0.0,2.0,0.0
+math/0211017,Formality of Donaldson submanifolds,1.7376031735312911e-06,0.0,1.0,5.0
+math/9912150,Yang-Mills-Higgs theory for symplectic fibrations,1.7364757480054112e-06,0.0,1.0,3.0
+math/0305171,"Stacks of quantization-deformation modules on complex symplectic
+  manifolds",1.7336218998336114e-06,8.121303035056828e-07,1.0,3.0
+math/0502026,Coherent States in Geometric Quantization,1.7331503328867054e-06,0.0,2.0,0.0
+math/0209402,Family Gromov-Witten Invariants for Kahler Surfaces,1.7287795307668735e-06,0.0,2.0,0.0
+math/0201280,"Compatible metrics of constant Riemannian curvature: local geometry,
+  nonlinear equations and integrability",1.7219692381655668e-06,0.0,4.0,2.0
+math/0702852,The Floer homotopy type of the cotangent bundle,1.7211346283297497e-06,0.0,2.0,0.0
+math/0309170,On the Heegaard Floer homology of branched double-covers,1.7185451284138768e-06,2.391363534798842e-05,6.0,12.0
+math/0502572,Reduction of Vaisman structures in complex and quaternionic geometry,1.7151508201206446e-06,1.976758703612221e-06,1.0,4.0
+math/0308183,Compactness results in Symplectic Field Theory,1.714426592954696e-06,1.3931279286120504e-05,2.0,3.0
+hep-th/0604117,A Note on Semidensities in Antisymplectic Geometry,1.7139764548710996e-06,0.0,2.0,0.0
+math/0602288,Poisson Quasi-Nijenhuis Manifolds,1.7115345464805311e-06,1.530369665448478e-08,4.0,1.0
+math/0205310,Knots and Contact Geometry II: Connected Sums,1.7067140816090686e-06,0.0,1.0,2.0
+math/0404136,"Ozsvath-Szabo invariants and tight contact three-manifolds, II",1.70447525652991e-06,5.559621732472832e-07,4.0,9.0
+math/9907118,"Finite Order Invariants of Legendrian, Transverse, and Framed Knots in
+  Contact 3-manifolds",1.703003024765287e-06,0.0,1.0,3.0
+math-ph/0205025,"The Characteristic Class of a Lie Algebra Ideal, Contact Structures and
+  the Poisson Algebra of Basic Functions",1.703003024765287e-06,0.0,1.0,0.0
+hep-th/0307185,"Generalizations for Schouten-Nijenhuis Bracket and for Differential
+  Analog of Special Yang-Baxter Equations",1.703003024765287e-06,0.0,1.0,0.0
+math/0509014,"Reduction,Induction and Ricci flat symplectic connections",1.703003024765287e-06,0.0,1.0,0.0
+math/9909094,Complexification of Bohr-Sommerfeld conditions,1.703003024765287e-06,0.0,1.0,1.0
+math/9906026,Representations with Weighted Frames and Framed Parabolic Bundles,1.703003024765287e-06,0.0,1.0,0.0
+math/0507547,"Subelliptic Spin_c Dirac operators, III The Atiyah-Weinstein conjecture",1.703003024765287e-06,0.0,1.0,1.0
+math/0509366,A General Fredholm Theory and Applications,1.703003024765287e-06,0.0,1.0,1.0
+math-ph/0506028,"A Family of Hyperbolic Spin Calogero-Moser Systems and the Spin Toda
+  Lattices",1.703003024765287e-06,0.0,1.0,2.0
+math/0305057,Deformations of graded Lie algebras and symplectic structures,1.703003024765287e-06,0.0,1.0,0.0
+math/9902059,Moment maps and Riemannian symmetric pairs,1.703003024765287e-06,0.0,1.0,2.0
+math/0612365,Gelfand-Zeitlin actions and rational maps,1.703003024765287e-06,0.0,1.0,0.0
+math/0005034,"Variational methods, multisymplectic geometry and continuum mechanics",1.703003024765287e-06,0.0,1.0,2.0
+math/0010278,The Bennequin number of n-trivial closed n-braids is negative,1.703003024765287e-06,0.0,2.0,0.0
+math/0208033,Cluster algebras and Poisson geometry,1.703003024765287e-06,0.0,1.0,9.0
+math-ph/0703061,Quantization of Contact Manifolds and Thermodynamics,1.703003024765287e-06,0.0,1.0,0.0
+math/9911056,"Multiple covers and the integrality conjecture for rational curves in
+  Calabi-Yau threefolds",1.6995824043010824e-06,3.2544114599910026e-06,4.0,11.0
+math/0010085,Connections up to homotopy and characteristic classes,1.6955006345132665e-06,0.0,2.0,2.0
+math/0108069,A connectedness property of algebraic moment maps,1.6937280820908688e-06,0.0,1.0,0.0
+math/0502284,"Equivariant symplectic geometry of cotangent bundles, II",1.6937280820908688e-06,0.0,1.0,1.0
+math/0306183,Equivariant gerbes over compact simple Lie groups,1.6935153880325192e-06,8.497784043258856e-09,2.0,2.0
+math/0203023,Levi decomposition of analytic Poisson structures and Lie algebroids,1.6934012734227016e-06,0.0,2.0,2.0
+math/0309012,Lectures on four-dimensional Dehn twists,1.6888579090714042e-06,1.3931279286120504e-05,1.0,9.0
+math/0308225,"Floer cohomology and disc instantons of Lagrangian torus fibers in Fano
+  toric manifolds",1.688311646284076e-06,1.1944988710400696e-05,2.0,5.0
+math/0404479,Weakly Lefschetz symplectic manifolds,1.6750008746485143e-06,0.0,1.0,1.0
+math/0407434,Non-zero contact and Sasakian reduction,1.6731893615248485e-06,1.8643384713425362e-08,1.0,1.0
+math/0403067,"The Lefschetz property, formality and blowing up in symplectic geometry",1.6703319901686357e-06,5.970548265480216e-06,2.0,4.0
+math/0207012,Properties of the residual circle action on a toric hyperkahler variety,1.6628118917101622e-06,1.5798636154065813e-05,2.0,7.0
+math/0211405,"The modular class of a regular Poisson manifold and the Reeb invariant
+  of its symplectic foliation",1.6615952524941305e-06,0.0,1.0,0.0
+math/0206102,"Poisson manifolds with compatible pseudo-metric and pseudo-Riemannian
+  Lie algebras",1.6615952524941305e-06,0.0,1.0,3.0
+math/0001129,Connections in Poisson Geometry I: Holonomy and Invariants,1.6615952524941305e-06,0.0,1.0,9.0
+math/0609037,Symplectic homology as Hochschild homology,1.6612958214917548e-06,0.0,2.0,0.0
+math/9802078,A Remark on Non-equivalent Star Products via Reduction for CP^n,1.6591138113022368e-06,0.0,3.0,1.0
+math/0503176,Symplectic Gluing and Family Gromov-Witten Invariants,1.657581145271196e-06,0.0,1.0,0.0
+math/0103156,Orbifold Gromov-Witten Theory,1.655317458876874e-06,0.0,2.0,21.0
+math/0703151,On the properties of the exchange graph of a cluster algebra,1.6547643644482106e-06,0.0,1.0,0.0
+math/0005118,"From Special Lagrangian to Hermitian-Yang-Mills via Fourier-Mukai
+  Transform",1.6503010114805532e-06,9.503794576767524e-05,12.0,20.0
+math/0412216,Exotic smooth structures on $CP^2#5{\bar CP^2}$,1.6481573034941209e-06,1.990182755160072e-06,1.0,6.0
+math/0512412,The geometry of mirror symmetry,1.6413824319471556e-06,0.0,1.0,0.0
+math/0210257,"Moduli of J-Holomorphic Curves with Lagrangian Boundary Conditions and
+  Open Gromov-Witten Invariants for an $S^1$-Equivariant Pair",1.6409720922868691e-06,3.0484021408016352e-05,5.0,15.0
+math/0309335,A field theory for symplectic fibrations over surfaces,1.6405836555683486e-06,0.0,1.0,1.0
+math/0309312,Morse theory on Hamiltonian G-spaces and equivariant K-theory,1.6397513560322505e-06,0.0,1.0,2.0
+math/0411654,Homological Mirror Symmetry for Toric del Pezzo Surfaces,1.639328159718559e-06,4.265435792184094e-07,5.0,2.0

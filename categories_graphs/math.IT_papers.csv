@@ -1,0 +1,1397 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+cs/0702024,Searching for low weight pseudo-codewords,1.889055235652936e-05,0.0,15.0,0.0
+quant-ph/0612155,A father protocol for quantum broadcast channels,1.8387895569737142e-05,0.0,19.0,0.0
+cs/0701085,Variations on the Fibonacci Universal Code,1.7775437937957215e-05,0.0,2.0,0.0
+cs/0703141,"Constructive Conjugate Codes for Quantum Error Correction and
+  Cryptography",1.5590275998718635e-05,1.1942746765417387e-06,6.0,1.0
+quant-ph/0702005,A decoupling approach to the quantum capacity,1.2764836515916317e-05,5.161474966211098e-08,11.0,2.0
+cs/0611010,On the structure of generalized toric codes,1.2196838594086528e-05,0.0,3.0,1.0
+quant-ph/0701168,Using quantum key distribution for cryptographic purposes: a survey,1.1301313514556956e-05,0.0,13.0,0.0
+quant-ph/0108133,On Classical and Quantum Cryptography,1.0099544495258373e-05,2.654781833862902e-05,26.0,5.0
+cs/0609159,Duality for Several Families of Evaluation Codes,9.900479168901206e-06,0.0,1.0,1.0
+cs/0511039,The Generalized Area Theorem and Some of its Consequences,8.64912564677558e-06,1.9827567001035044e-06,1.0,1.0
+math/0504522,"On the Classification of All Self-Dual Additive Codes over GF(4) of
+  Length up to 12",8.152901412356378e-06,3.242538645960001e-06,9.0,6.0
+quant-ph/0605030,"Strongly Universal Quantum Turing Machines and Invariance of Kolmogorov
+  Complexity",7.988897948584033e-06,0.0,2.0,1.0
+quant-ph/0503236,"On Self-Dual Quantum Codes, Graphs, and Boolean Functions",7.77772808460033e-06,4.170589055959859e-06,18.0,7.0
+cs/0609154,"Loop Calculus Helps to Improve Belief Propagation and Linear Programming
+  Decodings of Low-Density-Parity-Check Codes",7.732841197175994e-06,7.960731020640288e-06,13.0,5.0
+cs/0703129,"A theorem on the quantum evaluation of Weight Enumerators for a certain
+  class of Cyclic Codes with a note on Cyclotomic cosets",7.701932845982444e-06,0.0,5.0,0.0
+cs/0702101,"An identity of Chernoff bounds with an interpretation in statistical
+  physics and applications in information theory",7.685752014615258e-06,0.0,3.0,0.0
+cond-mat/0608312,On Cavity Approximations for Graphical Models,7.57653639577291e-06,0.0,2.0,0.0
+quant-ph/0605096,Quantum Information and Entropy,7.531161885900842e-06,0.0,3.0,0.0
+cs/0610159,"Boolean Functions, Projection Operators and Quantum Error Correcting
+  Codes",7.162623707008094e-06,0.0,6.0,0.0
+cs/0509079,The WSSUS Pulse Design Problem in Multicarrier Transmission,6.898715579340151e-06,5.970548265480216e-06,5.0,3.0
+cs/0701084,Pseudo-codeword Landscape,6.099108641439179e-06,0.0,7.0,1.0
+cond-mat/0701218,"Generalized Statistics Framework for Rate Distortion Theory with Bregman
+  Divergences",6.0262828638478135e-06,0.0,5.0,0.0
+quant-ph/0108073,Quantum Information in Space and Time,5.939628062762797e-06,6.24538747910973e-08,11.0,6.0
+cs/0512078,"Graph-Cover Decoding and Finite-Length Analysis of Message-Passing
+  Iterative Decoding of LDPC Codes",5.671563903000242e-06,0.0,9.0,13.0
+cs/0411014,"Rate Distortion and Denoising of Individual Data Using Kolmogorov
+  complexity",5.655144290770314e-06,0.0,1.0,1.0
+cs/0609121,"Approximating Rate-Distortion Graphs of Individual Data: Experiments in
+  Lossy Compression and Denoising",5.655144290770314e-06,0.0,1.0,1.0
+quant-ph/0012111,Quantum error-correcting codes associated with graphs,5.643140735655304e-06,9.716412824604343e-06,12.0,14.0
+cs/0512075,"Performance versus Complexity Per Iteration for Low-Density Parity-Check
+  Codes: An Information-Theoretic Approach",5.574757078525434e-06,0.0,7.0,0.0
+cs/0601113,"An Efficient Pseudo-Codeword Search Algorithm for Linear Programming
+  Decoding of LDPC Codes",5.5708013619125e-06,1.990182755160072e-06,8.0,5.0
+math/0404325,"Asymptotic Improvement of the Gilbert-Varshamov Bound on the Size of
+  Binary Codes",5.567786391396275e-06,0.0,1.0,1.0
+cs/0611120,Wireless Information-Theoretic Security - Part I: Theoretical Aspects,5.302302462315565e-06,0.0,3.0,0.0
+quant-ph/0508070,Nonbinary stabilizer codes over finite fields,5.285580009783255e-06,5.258610345394474e-06,8.0,5.0
+cond-mat/0403233,Artificial Sequences and Complexity Measures,5.19936710597502e-06,0.0,6.0,0.0
+cs/0611156,"D-MG Tradeoff and Optimal Codes for a Class of AF and DF Cooperative
+  Communication Protocols",5.1592878869512165e-06,0.0,4.0,0.0
+math/0309123,Error Correcting Codes on Algebraic Surfaces,5.086984924185585e-06,0.0,5.0,0.0
+cs/0602046,Analysis of LDGM and compound codes for lossy compression and binning,4.898790082199024e-06,0.0,2.0,0.0
+cond-mat/0506652,The theoretical capacity of the Parity Source Coder,4.842607068537991e-06,7.77735765814543e-06,3.0,2.0
+quant-ph/0107129,Algebraic geometric construction of a quantum stabilizer code,4.81165806367232e-06,4.5410087285103414e-08,12.0,1.0
+cs/0601048,Permutation Polynomial Interleavers: An Algebraic-Geometric Perspective,4.775563454392716e-06,0.0,3.0,0.0
+cond-mat/0606696,Statistical mechanics of error exponents for error-correcting codes,4.761968202324769e-06,1.876546229368217e-06,4.0,1.0
+cs/0701041,A Coding Theorem for a Class of Stationary Channels with Feedback,4.715121399099865e-06,0.0,3.0,0.0
+cs/0601075,On Universally Decodable Matrices for Space-Time Coding,4.715121399099865e-06,0.0,3.0,0.0
+quant-ph/0603098,Quantum broadcast channels,4.710846698083387e-06,1.1751268686673928e-06,13.0,3.0
+cs/0510058,Precoding for 2x2 Doubly-Dispersive WSSUS Channels,4.604902450609081e-06,0.0,3.0,0.0
+cs/0504102,"Spectral Orbits and Peak-to-Average Power Ratio of Boolean Functions
+  with respect to the {I,H,N}^n Transform",4.3618795097424005e-06,1.6482488675162453e-06,8.0,1.0
+cs/0501017,Public Key Cryptography based on Semigroup Actions,4.31215572623082e-06,0.0,2.0,0.0
+cs/0701038,"Approximate Eigenstructure of LTV Channels with Compactly Supported
+  Spreading",4.170623312045468e-06,0.0,2.0,0.0
+cs/0607024,"Results on Parity-Check Matrices with Optimal Stopping and/or Dead-End
+  Set Enumerators",4.143046767062348e-06,0.0,3.0,0.0
+cs/0701098,Packing and Covering Properties of Rank Metric Codes,4.075235057024103e-06,0.0,3.0,0.0
+cs/0702077,Properties of Rank Metric Codes,4.075235057024103e-06,0.0,3.0,0.0
+cs/0509006,"Optimal space-time codes for the MIMO amplify-and-forward cooperative
+  channel",4.063143711471229e-06,0.0,1.0,2.0
+cs/0508031,Capacity Theorems for Quantum Multiple Access Channels,3.947610394349645e-06,0.0,8.0,1.0
+cs/0508075,Complexity of Networks,3.905764672882479e-06,0.0,4.0,0.0
+quant-ph/0506080,Entropy and Quantum Kolmogorov Complexity: A Quantum Brudno's Theorem,3.874029576898e-06,0.0,4.0,0.0
+cs/0506083,"Maxwell Construction: The Hidden Bridge between Iterative and Maximum a
+  Posteriori Decoding",3.82273320899198e-06,1.2167591210185738e-05,4.0,5.0
+quant-ph/0604161,Clifford Code Constructions of Operator Quantum Error Correcting Codes,3.749227632131241e-06,4.790656420782878e-06,3.0,5.0
+quant-ph/0610153,Subsystem Codes,3.749227632131241e-06,6.946674046151566e-06,3.0,2.0
+math/0308046,Still better nonlinear codes from modular curves,3.697585801200393e-06,0.0,3.0,1.0
+quant-ph/0110103,Quantum entanglement and geometry of determinantal varieties,3.643999936021673e-06,4.933009847400343e-06,5.0,4.0
+math/0309285,An Algorithm for Optimal Partitioning of Data on an Interval,3.62335329328243e-06,0.0,2.0,1.0
+cs/0511001,Capacity with Causal and Non-Causal Side Information - A Unified View,3.62335329328243e-06,0.0,2.0,0.0
+cs/0604033,"Statistical Properties of Eigen-Modes and Instantaneous Mutual
+  Information in MIMO Time-Varying Rayleigh Channels",3.62335329328243e-06,0.0,2.0,0.0
+cs/0607095,Gallager's Exponent for MIMO Channels: A Reliability-Rate Tradeoff,3.62335329328243e-06,0.0,2.0,0.0
+cs/0603068,Universal Lossless Compression with Unknown Alphabets - The Average Case,3.62335329328243e-06,0.0,2.0,0.0
+cs/0610077,"MIMO Broadcast Channels with Block Diagonalization and Finite Rate
+  Feedback",3.62335329328243e-06,0.0,2.0,0.0
+cs/0610045,Spectra of large block matrices,3.62335329328243e-06,0.0,2.0,1.0
+math/0108096,Geometrically Uniform Frames,3.62335329328243e-06,0.0,2.0,3.0
+math/0208155,Toric codes over finite fields,3.62335329328243e-06,0.0,2.0,0.0
+math/0307196,Convolutional Codes with Maximum Distance Profile,3.62335329328243e-06,0.0,2.0,0.0
+cs/0602079,SISO APP Searches in Lattices with Tanner Graphs,3.62335329328243e-06,0.0,2.0,0.0
+cs/0601017,Weighted Norms of Ambiguity Functions and Wigner Distributions,3.5706492802785207e-06,0.0,3.0,3.0
+cs/0702070,A Practical Approach to Lossy Joint Source-Channel Coding,3.5582187984874767e-06,0.0,2.0,0.0
+cs/0509047,"Secure multiplex coding to attain the channel capacity in wiretap
+  channels",3.522303351720881e-06,0.0,1.0,0.0
+cs/0702130,"Syndrome Decoding of Reed-Solomon Codes Beyond Half the Minimum Distance
+  based on Shift-Register Synthesis",3.49912997646896e-06,0.0,2.0,0.0
+cs/0605067,Efficient Operation of Coded Packet Networks,3.49912997646896e-06,0.0,2.0,0.0
+cs/0602028,"Analysis of Belief Propagation for Non-Linear Problems: The Example of
+  CDMA (or: How to Prove Tanaka's Formula)",3.4869214943403453e-06,0.0,3.0,0.0
+cs/0606051,Minimum Pseudo-Weight and Minimum Pseudo-Codewords of LDPC Codes,3.44452023531426e-06,0.0,3.0,0.0
+math/0606734,Codes in spherical caps,3.389910494159559e-06,0.0,3.0,0.0
+cs/0506062,A CDMA multiuser detection algorithm based on survey propagation,3.3827395723997638e-06,0.0,2.0,4.0
+cs/0701036,"Compression-based methods for nonparametric density estimation, on-line
+  prediction, regression and classification for time series",3.3749066596554898e-06,0.0,1.0,0.0
+math/0308110,Sphere packing bounds in the Grassmann and Stiefel manifolds,3.3749066596554898e-06,0.0,1.0,0.0
+cs/0702035,New Models for the Correlation in Sensor Data,3.3749066596554898e-06,0.0,1.0,0.0
+cs/0701086,Loop Calculus and Belief Propagation for q-ary Alphabet: Loop Tower,3.367708932599072e-06,0.0,3.0,1.0
+quant-ph/0601115,Phase-Remapping Attack in Practical Quantum Key Distribution Systems,3.360293035738497e-06,0.0,5.0,0.0
+cs/0702112,"The General Gaussian Multiple Access and Two-Way Wire-Tap Channels:
+  Achievable Rates and Cooperative Jamming",3.3353007530048587e-06,0.0,3.0,0.0
+quant-ph/0701020,Quantum Quasi-Cyclic LDPC Codes,3.3317250669423943e-06,0.0,2.0,0.0
+cs/0502049,Generalised Bent Criteria for Boolean Functions (I),3.295663769510563e-06,0.0,6.0,2.0
+cs/0609055,"Coding for Additive White Noise Channels with Feedback Corrupted by
+  Uniform Quantization or Bounded Noise",3.261656728828464e-06,0.0,2.0,0.0
+cs/0602091,Feedback Capacity of Stationary Gaussian Channels,3.1564676950366884e-06,0.0,2.0,2.0
+quant-ph/0612052,"Deciding whether a quantum state has secret correlations is an
+  NP-complete problem",3.1506897094064145e-06,0.0,4.0,0.0
+cs/0609099,"Coding for Parallel Channels: Gallager Bounds and Applications to
+  Repeat-Accumulate Codes",3.0764293254819027e-06,0.0,1.0,0.0
+cs/0606078,Dimension Extractors and Optimal Decompression,3.0723650484733613e-06,0.0,2.0,0.0
+cond-mat/0512017,"Combinatorial Information Theory: I. Philosophical Basis of
+  Cross-Entropy and Entropy",3.0348566343486053e-06,3.980365510320144e-06,3.0,2.0
+quant-ph/0310075,Symmetric Informationally Complete Quantum Measurements,3.031084434272669e-06,3.207253316280414e-07,5.0,14.0
+cs/0701068,Distributed Space-Time Codes for Cooperative Networks with Partial CSI,2.985136554320552e-06,0.0,2.0,0.0
+cs/0603124,Diversity-Multiplexing Tradeoff of Double Scattering MIMO Channels,2.91697922313738e-06,0.0,1.0,1.0
+math/0309425,Algebraic Aspects of Multiple Zeta Values,2.914246178801313e-06,0.0,1.0,6.0
+cs/0609156,Entangled Graphs,2.890899368205086e-06,0.0,4.0,0.0
+cs/0511103,An Infeasibility Result for the Multiterminal Source-Coding Problem,2.855213185875573e-06,0.0,2.0,2.0
+cs/0601029,Sending a Bi-Variate Gaussian Source over a Gaussian MAC,2.855213185875573e-06,0.0,2.0,0.0
+cs/0505078,On the Parity-Check Density and Achievable Rates of LDPC Codes,2.852212418974759e-06,0.0,2.0,0.0
+cond-mat/0603189,Loop series for discrete statistical models on graphs,2.827844600174444e-06,3.405658828889941e-05,4.0,7.0
+math/0302172,Results on zeta functions for codes,2.8219693218409286e-06,0.0,1.0,0.0
+cs/0602089,"Pseudo-Codeword Analysis of Tanner Graphs from Projective and Euclidean
+  Planes",2.7949320459784846e-06,0.0,4.0,0.0
+cs/0306036,Sequence Prediction based on Monotone Complexity,2.7504423588240776e-06,0.0,2.0,0.0
+quant-ph/0703113,Quantum Convolutional BCH Codes,2.7281398432463485e-06,0.0,2.0,0.0
+cs/0602088,Towards Low-Complexity Linear-Programming Decoding,2.6989145325526275e-06,0.0,3.0,4.0
+cond-mat/0602661,"On the high density behavior of Hamming codes with fixed minimum
+  distance",2.697084014042981e-06,0.0,1.0,0.0
+math/0302154,Twisted Klein curves modulo 2,2.651895837668813e-06,0.0,1.0,1.0
+cs/0605091,"Low-density constructions can achieve the Wyner-Ziv and Gelfand-Pinsker
+  bounds",2.6325732610364744e-06,0.0,1.0,0.0
+cs/0601123,Low density codes achieve the rate-distortion bound,2.6325732610364744e-06,0.0,1.0,0.0
+q-bio/0607018,A p-Adic Model of DNA Sequence and Genetic Code,2.607192308477306e-06,0.0,2.0,5.0
+cs/0601070,"Instanton analysis of Low-Density-Parity-Check codes in the error-floor
+  regime",2.554743002437129e-06,0.0,3.0,4.0
+cs/0611017,"A New Data Processing Inequality and Its Applications in Distributed
+  Source and Channel Coding",2.4975470699392314e-06,0.0,1.0,0.0
+cs/0604005,"Multiterminal Source Coding with Two Encoders--I: A Computable Outer
+  Bound",2.4975470699392314e-06,0.0,1.0,0.0
+cs/0511074,Every Sequence is Decompressible from a Random One,2.4962599679182183e-06,0.0,1.0,0.0
+cs/0412111,On the asymptotic accuracy of the union bound,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0506040,A Fixed-Length Coding Algorithm for DNA Sequence Compression,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0610021,"On the Fading Paper Achievable Region of the Fading MIMO Broadcast
+  Channel",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0701182,"Supplement to: Code Spectrum and Reliability Function: Binary Symmetric
+  Channel",2.4711431321721443e-06,0.0,1.0,0.0
+math/0210408,Representations of finite groups on Riemann-Roch spaces,2.4711431321721443e-06,0.0,1.0,3.0
+cs/0502079,Multilevel expander codes,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0508001,Dimensions of Copeland-Erdos Sequences,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0603007,"Complete Enumeration of Stopping Sets of Full-Rank Parity-Check Matrices
+  of Hamming Codes",2.4711431321721443e-06,0.0,1.0,1.0
+math/0403548,Remarks on codes from modular curves: MAGMA applications,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0702068,"Distributed Decision Through Self-Synchronizing Sensor Networks in the
+  Presence of Propagation Delays and Nonreciprocal Channels",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0502004,Asymptotic Log-loss of Prequential Maximum Likelihood Codes,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0508062,Decoding of Expander Codes at Rates Close to Capacity,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0603049,"State Space Realizations and Monomial Equivalence for Convolutional
+  Codes",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0604069,Universal decoding with an erasure option,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0603059,Derivatives of Entropy Rate in Special Families of Hidden Markov Chains,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0607099,Degrees of Freedom Region for the MIMO X Channel,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0602067,Renyi to Renyi -- Source Coding under Siege,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0601126,"Approximate Linear Time ML Decoding on Tail-Biting Trellises in Two
+  Rounds",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0603123,Towards the Optimal Amplify-and-Forward Cooperative Diversity Scheme,2.4711431321721443e-06,0.0,1.0,4.0
+cs/0609157,Sensor Scheduling for Optimal Observability Using Estimation Entropy,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0603095,A Turbo Coding System for High Speed Communications,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0510047,"Geometrical relations between space time block code designs and
+  complexity reduction",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0601067,Design of Rate-Compatible Serially Concatenated Convolutional Codes,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0510055,Degrees of Freedom in Multiuser MIMO,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0607004,On the Error Exponents of Some Improved Tangential-Sphere Bounds,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0608042,"An Improved Sphere-Packing Bound for Finite-Length Codes on Symmetric
+  Memoryless Channels",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0702071,What is needed to exploit knowledge of primary transmissions?,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0609030,Space Division Multiple Access with a Sum Feedback Rate Constraint,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0601161,"Monte Carlo Algorithm for Least Dependent Non-Negative Mixture
+  Decomposition",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0509065,On Deciding Deep Holes of Reed-Solomon Codes,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0702025,"Algebraic Signal Processing Theory: Cooley-Tukey Type Algorithms for
+  DCTs and DSTs",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0701034,"Performance of Rake Receivers in IR-UWB Networks Using Energy-Efficient
+  Power Control",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0610153,Most Programs Stop Quickly or Never Halt,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0610079,An Enhanced Covering Lemma for Multiterminal Source Coding,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0701059,Enhancing Sensor Network Lifetime Using Interactive Communication,2.4711431321721443e-06,0.0,1.0,1.0
+cs/0701011,Infinite-Alphabet Prefix Codes Optimal for $\beta$-Exponential Penalties,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0703120,"Sequential decoding for lossless streaming source coding with side
+  information",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0612051,"On the Decoder Error Probability of Bounded Rank-Distance Decoders for
+  Maximum Rank Distance Codes",2.4711431321721443e-06,0.0,1.0,2.0
+cs/0702009,"On Evaluating the Rate-Distortion Function of Sources with Feed-Forward
+  and the Capacity of Channels with Feedback",2.4711431321721443e-06,0.0,1.0,0.0
+math/0207147,Quantizing Using Lattice Intersections,2.4711431321721443e-06,0.0,1.0,2.0
+math/0401045,"Unitary Space Time Constellation Analysis: An Upper Bound for the
+  Diversity",2.4711431321721443e-06,0.0,1.0,1.0
+cs/0702161,"Perfectly Secure Steganography: Capacity, Error Exponents, and Code
+  Constructions",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0703005,State Amplification,2.4711431321721443e-06,0.0,1.0,0.0
+math/0605740,Sharp thresholds for high-dimensional and noisy recovery of sparsity,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0508216,"Cluster Variation Method in Statistical Physics and Probabilistic
+  Graphical Models",2.4711431321721443e-06,0.0,1.0,2.0
+cs/0701078,Low SNR Capacity of Fading Channels -- MIMO and Delay Spread,2.4711431321721443e-06,0.0,1.0,0.0
+math/0005281,Connections between Linear Systems and Convolutional Codes,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0702014,Probabilistic Analysis of Linear Programming Decoding,2.4617523365140226e-06,0.0,1.0,0.0
+cs/0601066,On the Existence of Universally Decodable Matrices,2.429735359900988e-06,0.0,2.0,1.0
+quant-ph/0703181,Quantum Block and Convolutional Codes from Self-orthogonal Product Codes,2.4284126206873964e-06,0.0,5.0,0.0
+cs/0605073,"Analytic Properties and Covariance Functions of a New Class of
+  Generalized Gibbs Random Fields",2.4060086373771908e-06,0.0,1.0,2.0
+physics/0608185,Updating Probabilities,2.398043616993132e-06,4.42806389702282e-06,2.0,3.0
+quant-ph/0603135,Interaction in Quantum Communication,2.396344187069094e-06,0.0,3.0,0.0
+cs/0602072,"Turbo Decoding on the Binary Erasure Channel: Finite-Length Analysis and
+  Turbo Stopping Sets",2.386377702036468e-06,0.0,3.0,0.0
+cs/0503088,"General non-asymptotic and asymptotic formulas in channel resolvability
+  and identification capacity and their application to wire-tap channel",2.3780872487674924e-06,1.990182755160072e-06,5.0,1.0
+cs/0602087,Bounds on the Threshold of Linear Programming Decoding,2.353251484219542e-06,0.0,3.0,0.0
+cond-mat/0604267,Survey propagation for the cascading Sourlas code,2.3415765120197207e-06,0.0,1.0,0.0
+cs/0411003,Applications of LDPC Codes to the Wiretap Channel,2.3097588034205697e-06,1.990182755160072e-06,1.0,1.0
+cs/0508072,"On Achievable Rates and Complexity of LDPC Codes for Parallel Channels
+  with Application to Puncturing",2.222491084019845e-06,5.970548265480216e-06,2.0,3.0
+math/0104115,Excellent nonlinear codes from modular curves,2.221497597264916e-06,0.0,3.0,1.0
+quant-ph/0203105,The capacity of hybrid quantum memory,2.1887045236178643e-06,9.95091377580036e-06,4.0,5.0
+cond-mat/0601487,Loop Calculus in Statistical Physics and Information Science,2.1858573947120395e-06,1.990182755160072e-06,3.0,8.0
+cs/0702051,"The Gaussian multiple access wire-tap channel: wireless secrecy and
+  cooperative jamming",2.183090591894573e-06,0.0,2.0,0.0
+cs/0512076,"On Achievable Rates and Complexity of LDPC Codes for Parallel Channels:
+  Information-Theoretic Bounds and Applications",2.1792447668463822e-06,0.0,2.0,0.0
+quant-ph/0102108,Quantum Kolmogorov Complexity Based on Classical Descriptions,2.1396433197498973e-06,0.0,3.0,1.0
+cs/0509093,On the Outage Capacity of Correlated Multiple-Path MIMO Channels,2.128870669340971e-06,0.0,3.0,0.0
+cs/0509080,"Capacity and Character Expansions: Moment generating function and other
+  exact results for MIMO correlated channels",2.128870669340971e-06,0.0,3.0,3.0
+quant-ph/0307170,"Quantum Stein's lemma revisited, inequalities for quantum entropies, and
+  a concavity theorem of Lieb",2.1241940408815672e-06,0.0,2.0,2.0
+cs/0512006,"Capacity-Achieving Ensembles of Accumulate-Repeat-Accumulate Codes for
+  the Erasure Channel with Bounded Complexity",2.120978933487838e-06,0.0,1.0,0.0
+quant-ph/0605041,Invertible Quantum Operations and Perfect Encryption of Quantum States,2.119550080424351e-06,0.0,3.0,1.0
+cs/0502050,Generalised Bent Criteria for Boolean Functions (II),2.0951559491863287e-06,0.0,3.0,2.0
+cs/0412108,Mutual Information and Minimum Mean-square Error in Gaussian Channels,2.087073078468716e-06,0.0,2.0,0.0
+quant-ph/0207069,Data compression limit for an information source of interacting qubits,2.0512756744962218e-06,0.0,2.0,0.0
+quant-ph/0602129,"Non-catastrophic Encoders and Encoder Inverses for Quantum Convolutional
+  Codes",2.0390643217557878e-06,0.0,2.0,0.0
+cs/0607002,"Coding for Parallel Channels: Gallager Bounds for Binary Linear Codes
+  with Applications to Repeat-Accumulate Codes and Variations",1.9488027346243254e-06,1.990182755160072e-06,1.0,1.0
+cs/0607112,Improving convergence of Belief Propagation decoding,1.9432053249665384e-06,0.0,2.0,2.0
+cs/0603094,"On the Capacity Achieving Transmit Covariance Matrices of MIMO
+  Correlated Rician Channels: A Large System Approach",1.9402262279911688e-06,0.0,1.0,0.0
+cs/0612076,"A New Approach for Capacity Analysis of Large Dimensional Multi-Antenna
+  Channels",1.9402262279911688e-06,0.0,1.0,0.0
+cs/0510043,On Minimal Pseudo-Codewords of Tanner Graphs from Projective Planes,1.9334450569873443e-06,0.0,2.0,4.0
+cs/0004001,"A Theory of Universal Artificial Intelligence based on Algorithmic
+  Complexity",1.8950380516170012e-06,0.0,1.0,8.0
+cs/0509062,"Capacity-Achieving Codes with Bounded Graphical Complexity on Noisy
+  Channels",1.8950380516170012e-06,0.0,1.0,2.0
+cs/0602054,"Explicit Space-Time Codes Achieving The Diversity-Multiplexing Gain
+  Tradeoff",1.8950380516170012e-06,0.0,1.0,0.0
+cs/0611012,Asymptotic SER and Outage Probability of MIMO MRC in Correlated Fading,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0611007,"MIMO Multichannel Beamforming: SER and Outage Using New Eigenvalue
+  Distributions of Complex Noncentral Wishart Matrices",1.8950380516170012e-06,0.0,1.0,0.0
+math/0701131,Compressed Sensing and Redundant Dictionaries,1.8950380516170012e-06,0.0,1.0,0.0
+math/0401279,Backward Optimized Orthogonal Matching Pursuit,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0702118,Interpolation-based Decoding of Alternant Codes,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0701123,Feasible Depth,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0610132,List Decoding of Hermitian Codes using Groebner Bases,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0503064,Minimum-Cost Multicast over Coded Packet Networks,1.8950380516170012e-06,0.0,1.0,1.0
+cs/0610074,"Collaborative Decoding of Interleaved Reed-Solomon Codes and
+  Concatenated Code Designs",1.8950380516170012e-06,0.0,1.0,1.0
+cs/0503063,Randomly Spread CDMA: Asymptotics via Statistical Physics,1.8950380516170012e-06,0.0,1.0,0.0
+quant-ph/9809081,"Concatenating Decoherence Free Subspaces with Quantum Error Correcting
+  Codes",1.8879564392920832e-06,0.0,1.0,12.0
+cs/0609046,Exhausting Error-Prone Patterns in LDPC Codes,1.886523988428108e-06,0.0,2.0,0.0
+quant-ph/0703112,"Graphs, Quadratic Forms, and Quantum Codes",1.850287956697048e-06,0.0,6.0,0.0
+cs/0610160,"A Non-Orthogonal Distributed Space-Time Coded Protocol Part II-Code
+  Construction and DM-G Tradeoff",1.8329263932102664e-06,0.0,1.0,0.0
+cs/0610161,"A Non-Orthogonal Distributed Space-Time Coded Protocol Part I: Signal
+  Model and Design Criteria",1.8329263932102664e-06,0.0,1.0,0.0
+cs/0507022,On Hilberg's Law and Its Links with Guiraud's Law,1.719955952274848e-06,0.0,1.0,0.0
+cs/0503089,"Second order asymptotics in fixed-length source coding and intrinsic
+  randomness",1.7182478994000606e-06,0.0,1.0,2.0
+cs/0611028,A Decomposition Theory for Binary Linear Codes,1.7142551080554676e-06,0.0,1.0,0.0
+cs/0609148,Pseudo-Codeword Performance Analysis for LDPC Convolutional Codes,1.7142551080554676e-06,0.0,1.0,0.0
+cs/0602086,On the Block Error Probability of LP Decoding of LDPC Codes,1.7142551080554676e-06,0.0,1.0,0.0
+quant-ph/0603031,Channel capacities of classical and quantum list decoding,1.703003024765287e-06,0.0,1.0,1.0
+quant-ph/0610200,"Quantum List Decoding of Classical Block Codes of Polynomially Small
+  Rate from Quantumly Corrupted Codewords",1.703003024765287e-06,0.0,1.0,0.0
+cs/0510009,Tree-Based Construction of LDPC Codes Having Good Pseudocodeword Weights,1.703003024765287e-06,0.0,1.0,1.0
+cs/0701042,Sending a Bivariate Gaussian Source over a Gaussian MAC with Feedback,1.703003024765287e-06,0.0,1.0,0.0
+math/0104222,Decoding method for generalized algebraic geometry codes,1.703003024765287e-06,0.0,1.0,0.0
+cs/0606026,"Generating parity check equations for bounded-distance iterative erasure
+  decoding",1.703003024765287e-06,0.0,1.0,0.0
+cs/0610047,Capacity of the Trapdoor Channel with Feedback,1.703003024765287e-06,0.0,1.0,1.0
+cs/0612012,Geographic Gossip on Geometric Random Graphs via Affine Combinations,1.703003024765287e-06,0.0,1.0,0.0
+cs/0612133,Tales of Huffman,1.703003024765287e-06,0.0,1.0,0.0
+cs/0701012,$D$-ary Bounded-Length Huffman Coding,1.703003024765287e-06,0.0,1.0,0.0
+cs/0701003,"Magnification Laws of Winner-Relaxing and Winner-Enhancing Kohonen
+  Feature Maps",1.703003024765287e-06,0.0,1.0,0.0
+cs/0512017,Approximately Universal Codes over Slow Fading Channels,1.703003024765287e-06,0.0,1.0,2.0
+cs/0511019,A Counterexample to Cover's 2P Conjecture on Gaussian Feedback Capacity,1.703003024765287e-06,0.0,1.0,1.0
+cs/0512101,On the Complexity of finding Stopping Distance in Tanner Graphs,1.703003024765287e-06,0.0,1.0,0.0
+cs/0602071,Geographic Gossip: Efficient Aggregation for Sensor Networks,1.703003024765287e-06,0.0,1.0,0.0
+cs/0512097,"Gaussian Channels with Feedback: Optimality, Fundamental Limitations,
+  and Connections of Communication, Estimation, and Control",1.703003024765287e-06,0.0,1.0,0.0
+cs/0601012,Product Multicommodity Flow in Wireless Networks,1.703003024765287e-06,0.0,1.0,0.0
+cs/0508084,Source Coding for Quasiarithmetic Penalties,1.703003024765287e-06,0.0,1.0,0.0
+physics/0405044,Least Dependent Component Analysis Based on Mutual Information,1.7015155883093906e-06,0.0,1.0,0.0
+math/0509358,"On decomposability of 4-ary distance 2 MDS codes, double-codes, and
+  n-quasigroups of order 4",1.6853561086545468e-06,0.0,1.0,2.0
+cs/0508068,"Lossy source encoding via message-passing and decimation over
+  generalized codewords of LDGM codes",1.6195377825544766e-06,0.0,1.0,1.0
+cs/0612030,Loop corrections for approximate inference,1.60698551133943e-06,0.0,1.0,2.0
+cond-mat/0506037,"Diagnosis of weaknesses in modern error correction codes: a physics
+  approach",1.60698551133943e-06,0.0,1.0,8.0
+cs/0611129,"Shannon's secrecy system with informed receivers and its application to
+  systematic coding for wiretapped channels",1.60698551133943e-06,0.0,1.0,0.0
+cs/0702099,"Discrete Memoryless Interference and Broadcast Channels with
+  Confidential Messages: Secrecy Rate Regions",1.60698551133943e-06,0.0,1.0,0.0
+math/9910175,Polynomial method in coding and information theory,1.60698551133943e-06,0.0,1.0,0.0
+cond-mat/0601573,Amorphous packings of hard spheres in large space dimension,1.60698551133943e-06,0.0,1.0,1.0
+cs/0507041,Monotone Conditional Complexity Bounds on Future Prediction Errors,1.598232197713792e-06,0.0,1.0,0.0
+cs/0701120,Algorithmic Complexity Bounds on Future Prediction Errors,1.598232197713792e-06,0.0,1.0,0.0
+cs/0508043,Sequential Predictions based on Algorithmic Complexity,1.598232197713792e-06,0.0,1.0,0.0
+cs/0510049,"Bounds on the Pseudo-Weight of Minimal Pseudo-Codewords of Projective
+  Geometry Codes",1.5493750032839157e-06,0.0,1.0,1.0
+cs/0512074,"Analytical Bounds on Maximum-Likelihood Decoded Linear Codes with
+  Applications to Turbo-Like Codes: An Overview",1.5493750032839157e-06,0.0,1.0,0.0
+cs/0012011,"Towards a Universal Theory of Artificial Intelligence based on
+  Algorithmic Probability and Sequential Decision Theory",1.5194444616683535e-06,0.0,1.0,1.0
+cs/0510044,Belief Propagation Based Multi--User Detection,1.5109679979135728e-06,0.0,1.0,1.0
+cs/0407060,Tight bounds for LDPC and LDGM codes under MAP decoding,1.5109679979135728e-06,0.0,1.0,1.0
+cs/0501082,A Group-Theoretic Approach to the WSSUS Pulse Design Problem,1.5109679979135728e-06,0.0,1.0,3.0
+cs/0611030,Nonextensive Pythagoras' Theorem,1.4990041168978368e-06,0.0,1.0,0.0
+cs/0507031,The error-floor of LDPC codes in the Laplacian channel,1.491201851434499e-06,0.0,1.0,2.0
+quant-ph/0703182,Constructions of Quantum Convolutional Codes,1.4629592412006444e-06,0.0,1.0,1.0
+quant-ph/0701037,"Quantum Convolutional Codes Derived From Reed-Solomon and Reed-Muller
+  Codes",1.4629592412006444e-06,0.0,1.0,0.0
+cs/0608007,On the randomness of independent experiments,1.4380502653739212e-06,2.39554849966096e-07,1.0,1.0
+cs/0608018,The single-serving channel capacity,1.4380502653739212e-06,0.0,1.0,0.0
+cs/0612122,"Large N Analysis of Amplify-and-Forward MIMO Relay Channels with
+  Correlated Rayleigh Fading",1.4341539871728873e-06,0.0,1.0,0.0
+quant-ph/0511175,A Proof of the Security of Quantum Key Distribution,1.422793088027807e-06,0.0,2.0,0.0
+quant-ph/0511172,On Classical Teleportation and Classical Nonlocality,1.4012336968554504e-06,0.0,1.0,0.0
+astro-ph/0506308,Fast directional continuous spherical wavelet transform algorithms,1.3813974971230008e-06,0.0,1.0,5.0
+cs/0504010,Reversible Fault-Tolerant Logic,1.378102229050165e-06,0.0,1.0,1.0
+math/0208017,Packing Planes in Four Dimensions and Other Mysteries,1.3673660028748478e-06,0.0,2.0,0.0
+cs/0508094,"Conference Key Agreement and Quantum Sharing of Classical Secrets with
+  Noisy GHZ States",1.3671913449870383e-06,0.0,1.0,0.0
+cs/0502033,Pseudo-Codewords of Cycle Codes via Zeta Functions,1.3189329710618589e-06,0.0,0.0,3.0
+math/0205301,Some Canonical Sequences of Integers,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0509044,"Accumulate-Repeat-Accumulate Codes: Systematic Codes Achieving the
+  Binary Erasure Channel Capacity with Bounded Complexity",1.3189329710618589e-06,0.0,0.0,2.0
+cs/0503070,Improved message passing for inference in densely connected systems,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0506102,On $m$-dimensional toric codes,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0511056,Improved Upper Bounds on Stopping Redundancy,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0508101,Maximum Weight Matching via Max-Product Belief Propagation,1.3189329710618589e-06,0.0,0.0,2.0
+math/0207256,The Sphere-Packing Problem,1.3189329710618589e-06,0.0,0.0,1.0
+math/0307064,The Number of Hierarchical Orderings,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0605130,"Error Exponents of Low-Density Parity-Check Codes on the Binary Erasure
+  Channel",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0603027,"On the Second-Order Statistics of the Instantaneous Mutual Information
+  in Rayleigh Fading Channels",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0609054,"High Data-Rate Single-Symbol ML Decodable Distributed STBCs for
+  Cooperative Networks",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0603065,MIMO Broadcast Channels with Finite Rate Feedback,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0603039,"Quantization Bounds on Grassmann Manifolds and Applications to MIMO
+  Communications",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0508096,"On Multiple User Channels with Causal State Information at the
+  Transmitters",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0511096,"A Single-letter Upper Bound for the Sum Rate of Multiple Access Channels
+  with Correlated Sources",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0510072,"On Interleaving Techniques for MIMO Channels and Limitations of Bit
+  Interleaved Coded Modulation",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0511028,MIMO Diversity in the Presence of Double Scattering,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0509077,"Capacity Limits of Cognitive Radio with Distributed and Dynamic Spectral
+  Activity",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0410270,On uniqueness theorems for Tsallis entropy and Tsallis relative entropy,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0509075,On the Capacity of Doubly Correlated MIMO Channels,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0504049,Bounds on the Entropy of Patterns of I.I.D. Sequences,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0611567,Generalized Statistics Framework for Rate Distortion Theory,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0504046,On the Entropy Rate of Pattern Processes,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0505049,"Fading-Resilient Super-Orthogonal Space-Time Signal Sets: Can Good
+  Constellations Survive in Fading?",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0408008,Iterative Quantization Using Codes On Graphs,1.3189329710618589e-06,0.0,0.0,1.0
+math/0211040,On cyclic convolutional codes,1.3189329710618589e-06,0.0,0.0,1.0
+math/0303254,Strongly MDS Convolutional Codes,1.3189329710618589e-06,0.0,0.0,1.0
+math/0311046,Codes and Invariant Theory,1.3189329710618589e-06,0.0,0.0,1.0
+math/0104016,Bounds for weight distribution of weakly self-dual codes,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0501008,Multipartite Secret Correlations and Bound Information,1.3189329710618589e-06,0.0,0.0,1.0
+math/0101092,Structure of $Z^2$ modulo selfsimilar sublattices,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0409027,Bounds on the decoding complexity of punctured codes on graphs,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0511060,"On Quadratic Inverses for Quadratic Permutation Polynomials over Integer
+  Rings",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0506091,"A New Construction for LDPC Codes using Permutation Polynomials over
+  Integer Rings",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0506093,"On Maximum Contention-Free Interleavers and Permutation Polynomials over
+  Integer Rings",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0508104,A Generalised Hadamard Transform,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0609122,"Multi-Antenna Cooperative Wireless Systems: A Diversity-Multiplexing
+  Tradeoff Perspective",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0508019,On the Minimal Pseudo-Codewords of Codes from Finite Geometries,1.3189329710618589e-06,0.0,0.0,5.0
+cs/0411036,Feedback Capacity of the First-Order Moving Average Gaussian Channel,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0410028,Life Above Threshold: From List Decoding to Area Theorem and MSE,1.3189329710618589e-06,0.0,0.0,6.0
+cs/0510095,Rate Region of the Quadratic Gaussian Two-Encoder Source-Coding Problem,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0701048,Energy Conscious Interactive Communication for Sensor Networks,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0607108,Properties of subspace subcodes of optimum codes in rank metric,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0610148,Decoder Error Probability of MRD Codes,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0505057,"Improved Bounds on the Parity-Check Density and Achievable Rates of
+  Binary Linear Block Codes with Applications to LDPC Codes",1.3189329710618589e-06,0.0,0.0,5.0
+cs/0508098,An Explicit Construction of Universally Decodable Matrices,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0610057,Properties of codes in rank metric,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0406001,"Side-Information Coding with Turbo Codes and its Application to Quantum
+  Key Distribution",1.3189329710618589e-06,0.0,0.0,3.0
+cs/0501058,"Estimation of the Number of Sources in Unbalanced Arrays via Information
+  Theoretic Criteria",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0605014,Generalized Multiple Access Channels with Confidential Messages,1.3189329710618589e-06,0.0,0.0,2.0
+quant-ph/0511016,Convolutional and tail-biting quantum error-correcting codes,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0410019,"Finite-Length Scaling and Finite-Length Shift for Low-Density
+  Parity-Check Codes",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0608029,Guessing Facets: Polytope Structure and Improved LP Decoder,1.3189329710618589e-06,0.0,0.0,3.0
+math/0304292,"The Ubiquity of Order Domains for the Construction of Error Control
+  Codes",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0503052,Zeta-Dimension,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0410003,"Capacity and Random-Coding Exponents for Channel Coding with Side
+  Information",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0407011,"Distance distribution of binary codes and the error probability of
+  decoding",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0412029,Spectral Mixture Decomposition by Least Dependent Component Analysis,1.3189329710618589e-06,0.0,0.0,1.0
+math/9905046,Duality between Multidimensional Convolutional Codes and Systems,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0611167,"Continuous Variable Quantum Cryptography using Two-Way Quantum
+  Communication",1.3189329710618589e-06,0.0,0.0,1.0
+math/0406077,A tutorial introduction to the minimum description length principle,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0410002,Shannon Information and Kolmogorov Complexity,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0501085,Space Frequency Codes from Spherical Codes,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0504100,A DNA Sequence Compression Algorithm Based on LUT and LZ77,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0501028,"An Empirical Study of MDL Model Selection with Infinite Parametric
+  Complexity",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0411098,On the High-SNR Capacity of Non-Coherent Networks,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0409010,Distance properties of expander codes,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0610103,On the Secrecy Capacity of Fading Channels,1.3189329710618589e-06,0.0,0.0,1.0
+math/0006233,Algorithmic Statistics,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0511081,Writing on Fading Paper and Causal Transmitter CSI,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0601083,"Multilevel Coding for Channels with Non-uniform Inputs and Rateless
+  Transmission over the BSC",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0601023,"Efficient Convergent Maximum Likelihood Decoding on Tail-Biting
+  Trellises",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0601090,Improved Nearly-MDS Expander Codes,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0511095,Carbon Copying Onto Dirty Paper,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0602020,Inter-Block Permuted Turbo Codes,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0605006,An Information-Spectrum Approach to Multiterminal Rate-Distortion Theory,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0604107,Cognitive Radio: An Information-Theoretic Perspective,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0603013,On the MacWilliams Identity for Convolutional Codes,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0604031,"On the Low SNR Capacity of Peak-Limited Non-Coherent Fading Channels
+  with Memory",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0607003,"Tightened Upper Bounds on the ML Decoding Error Probability of Binary
+  Linear Block Codes",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0606121,Performance of Orthogonal Beamforming for SDMA with Limited Feedback,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0606114,"Hidden Markov Process: A New Representation, Entropy Rate and Estimation
+  Entropy",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0609139,The Capacity of Channels with Feedback,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0610138,Why block length and delay behave differently if feedback is present,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0612077,Algebraic Signal Processing Theory,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0701056,"Space-Time-Frequency Degrees of Freedom: Fundamental Limits for Spatial
+  Information",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0701017,Energy-Efficient Power Control in Impulse Radio UWB Wireless Networks,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0611112,Channel Coding: The Road to Channel Capacity,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0701025,Free deconvolution for signal processing applications,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0612042,"Decentralized Maximum Likelihood Estimation for Sensor Networks Composed
+  of Nonlinearly Coupled Dynamical Systems",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0612032,Code Spectrum and Reliability Function: Binary Symmetric Channel,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0406015,"Information theory, multivariate dependence, and genetic network
+  inference",1.3189329710618589e-06,0.0,0.0,1.0
+math/0507235,Analyticity of Entropy Rate of Hidden Markov Chains,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0409011,"Shannon meets Wiener II: On MMSE estimation in successive decoding
+  schemes",1.3189329710618589e-06,0.0,0.0,2.0
+cs/0409044,Some Applications of Coding Theory in Computational Complexity,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0601080,"On Measure Theoretic definitions of Generalized Information Measures and
+  Maximum Entropy Prescriptions",1.3189329710618589e-06,0.0,0.0,1.0
+math/0301135,Grassmannian Frames with Applications to Coding and Communication,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0507068,"On parity check collections for iterative erasure decoding that correct
+  all correctable erasure patterns of a given size",1.3189329710618589e-06,0.0,0.0,3.0
+cs/0511003,Optimal Prefix Codes for Infinite Alphabets with Nonlinear Costs,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0510035,"Design and Performance Analysis of a New Class of Rate Compatible Serial
+  Concatenated Convolutional Codes",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0508023,"Software Libraries and Their Reuse: Entropy, Kolmogorov Complexity, and
+  Zipf's Law",1.3189329710618589e-06,0.0,0.0,1.0
+math/0207208,"The Z_4-Linearity of Kerdock, Preparata, Goethals and Related Codes",1.3189329710618589e-06,0.0,0.0,2.0
+cs/0605028,The Gaussian Multiple Access Wire-Tap Channel,1.3189329710618589e-06,0.0,0.0,4.0
+cs/0510078,"Vector Gaussian Multiple Description with Individual and Central
+  Receivers",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0602085,Twenty (or so) Questions: $D$-ary Length-Bounded Prefix Coding,1.3189329710618589e-06,0.0,0.0,3.0
+quant-ph/0501126,Primitive Quantum BCH Codes over Finite Fields,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0601099,Adaptive Linear Programming Decoding,1.3189329710618589e-06,0.0,0.0,4.0
+cs/0607064,How to Find Good Finite-Length Codes: From Art Towards Science,1.3189329710618589e-06,0.0,0.0,2.0
+math/0305308,Numerical Analogues of Aronson's Sequence,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0609229,Ergodic Classical-Quantum Channels: Structure and Coding Theorems,1.3189329710618589e-06,0.0,0.0,2.0
+math/0208001,Self-Dual Codes,1.3189329710618589e-06,0.0,0.0,6.0
+cs/0509041,"Efficient Reconciliation of Correlated Continuous Random Variables using
+  LDPC Codes",1.3189329710618589e-06,0.0,0.0,3.0
+cs/0512023,"Perfect Space-Time Codes with Minimum and Non-Minimum Delay for Any
+  Number of Antennas",1.3189329710618589e-06,0.0,0.0,2.0
+math/9910151,Decoding Algebraic Geometry codes by a key equation,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0609096,Finite-State Dimension and Lossy Decompressors,1.3189329710618589e-06,0.0,0.0,2.0
+math/0103107,Explicit modular towers,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0502017,Estimating mutual information and multi--information in large networks,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0503058,On the Stopping Distance and the Stopping Redundancy of Codes,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0508014,The Benefit of Thresholding in LP Decoding of LDPC Codes,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0511065,"Performance Analysis of MIMO-MRC in Double-Correlated Rayleigh
+  Environments",1.3189329710618589e-06,0.0,0.0,2.0
+cs/0509086,"Statistical Mechanical Approach to Lossy Data Compression:Theory and
+  Practice",1.3189329710618589e-06,0.0,0.0,2.0
+cs/0508046,Relaxation Bounds on the Minimum Pseudo-Weight of Linear Block Codes,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0508049,Characterizations of Pseudo-Codewords of LDPC Codes,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0703061,Coding for Errors and Erasures in Random Network Coding,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0504013,Pseudocodewords of Tanner graphs,1.3189329710618589e-06,0.0,0.0,4.0
+cs/0510070,On Coding for Reliable Communication over Packet Networks,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0605044,Linear Shift-Register Synthesis for Multiple Sequences of Varying Length,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0608070,Finite State Channels with Time-Invariant Deterministic Feedback,1.3189329710618589e-06,0.0,0.0,3.0
+math/0209407,"Uniformly distributed sequences of p-adic integers, II",1.3189329710618589e-06,0.0,0.0,5.0
+cs/9901014,"Minimum Description Length Induction, Bayesianism, and Kolmogorov
+  Complexity",1.3189329710618589e-06,0.0,0.0,4.0
+cs/0512028,"Approximately universal optimality over several dynamic and non-dynamic
+  cooperative diversity schemes for wireless networks",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0406050,Finite-Length Scaling for Iteratively Decoded LDPC Ensembles,1.3189329710618589e-06,0.0,0.0,4.0
+math/0207121,The Shannon-McMillan Theorem for Ergodic Quantum Lattice Systems,1.3189329710618589e-06,0.0,0.0,7.0
+alg-geom/9608018,Rank Two Bundles on Algebraic Curves and Decoding of Goppa Codes,,,,
+astro-ph/0609159,A directional continuous wavelet transform on the sphere,,,,
+astro-ph/0612688,Optimal filters on the sphere,,,,
+cond-mat/0410271,"A generalized Faddeev's axiom and the uniqueness theorem for Tsallis
+  entropy",,,,
+cs/0112019,Distribution of Mutual Information,,,,
+cs/0403025,Distribution of Mutual Information from Complete and Incomplete Data,,,,
+cs/0405005,Maximum-likelihood decoding of Reed-Solomon Codes is NP-hard,,,,
+cs/0406039,"Long Nonbinary Codes Exceeding the Gilbert - Varshamov Bound for any
+  Fixed Distance",,,,
+cs/0406048,On Expanders Graphs: Parameters and Applications,,,,
+cs/0407004,Zero-error communication over networks,,,,
+cs/0407010,"Improved error bounds for the erasure/list scheme: the binary and
+  spherical cases",,,,
+cs/0407039,On the Convergence Speed of MDL Predictions for Bernoulli Sequences,,,,
+cs/0407057,Universal Convergence of Semimeasures on Individual Random Sequences,,,,
+cs/0408011,The asymptotic number of binary codes and binary matroids,,,,
+cs/0408017,Improved Upper Bound for the Redundancy of Fix-Free Codes,,,,
+cs/0408038,The Dynamics of Group Codes: Dual Abelian Group Codes and Systems,,,,
+cs/0408062,Source Coding With Distortion Side Information At The Encoder,,,,
+cs/0408066,Robust Locally Testable Codes and Products of Codes,,,,
+cs/0409026,"Capacity-achieving ensembles for the binary erasure channel with bounded
+  complexity",,,,
+cs/0409053,"On the role of MMSE estimation in approaching the information-theoretic
+  limits of linear Gaussian channels: Shannon meets Wiener",,,,
+cs/0410008,Source Coding with Fixed Lag Side Information,,,,
+cs/0410040,"Two Methods for Decreasing the Computational Complexity of the MIMO ML
+  Decoder",,,,
+cs/0410041,"Maximum Mutual Information of Space-Time Block Codes with Symbolwise
+  Decodability",,,,
+cs/0410043,Strategy in Ulam's Game and Tree Code Give Error-Resistant Protocols,,,,
+cs/0411006,"Capacity Achieving Code Constructions for Two Classes of (d,k)
+  Constraints",,,,
+cs/0411011,"Capacity Analysis for Continuous Alphabet Channels with Side
+  Information, Part I: A General Framework",,,,
+cs/0411012,"Capacity Analysis for Continuous Alphabet Channels with Side
+  Information, Part II: MIMO Channels",,,,
+cs/0411073,Geographic Routing with Limited Information in Sensor Networks,,,,
+cs/0412060,Monotonicity Results for Coherent MIMO Rician Channels,,,,
+cs/0412067,"Complete Characterization of the Equivalent MIMO Channel for
+  Quasi-Orthogonal Space-Time Codes",,,,
+cs/0412085,A class of one-dimensional MDS convolutional codes,,,,
+cs/0412112,Source Coding With Encoder Side Information,,,,
+cs/0412113,Source-Channel Diversity for Parallel Channels,,,,
+cs/0501011,"A simple algorithm for decoding Reed-Solomon codes and its relation to
+  the Welch-Berlekamp algorithm",,,,
+cs/0501015,"Application of Generating Functions and Partial Differential Equations
+  in Coding Theory",,,,
+cs/0501016,On the weight distribution of convolutional codes,,,,
+cs/0501046,"Thermodynamics of used punched tape: A weak and a strong equivalence
+  principle",,,,
+cs/0501047,"Impact of Channel Estimation Errors on Multiuser Detection via the
+  Replica Method",,,,
+cs/0501048,"Low Complexity Joint Iterative Equalization and Multiuser Detection in
+  Dispersive DS-CDMA Channels",,,,
+cs/0501049,"Performance Evaluation of Impulse Radio UWB Systems with Pulse-Based
+  Polarity Randomization",,,,
+cs/0501050,Energy-Efficient Joint Estimation in Sensor Networks: Analog vs. Digital,,,,
+cs/0501051,On the Capacity of Multiple Antenna Systems in Rician Fading,,,,
+cs/0501052,Stochastic Differential Games in a Non-Markovian Setting,,,,
+cs/0501054,Arbitrage in Fractal Modulated Markets When the Volatility is Stochastic,,,,
+cs/0501055,Consistency Problems for Jump-Diffusion Models,,,,
+cs/0501056,"A Large Deviations Approach to Sensor Scheduling for Detection of
+  Correlated Random Fields",,,,
+cs/0501057,"Concavity of the auxiliary function appearing in quantum reliability
+  function an classical-quantum channels",,,,
+cs/0501061,"Optimal and Suboptimal Finger Selection Algorithms for MMSE Rake
+  Receivers in Impulse Radio Ultra-Wideband Systems",,,,
+cs/0501062,On The Tradeoff Between Two Types of Processing Gain,,,,
+cs/0501063,Bandit Problems with Side Observations,,,,
+cs/0501064,A Non-Cooperative Power Control Game for Multi-Carrier CDMA Systems,,,,
+cs/0501066,"The Noncoherent Rician Fading Channel -- Part I : Structure of the
+  Capacity-Achieving Input",,,,
+cs/0501067,"The Noncoherent Rician Fading Channel -- Part II : Spectral Efficiency
+  in the Low-Power Regime",,,,
+cs/0501071,"Capacity Regions and Optimal Power Allocation for Groupwise Multiuser
+  Detection",,,,
+cs/0501081,"A Tree Search Method for Iterative Decoding of Underdetermined Multiuser
+  Systems",,,,
+cs/0501090,Stochastic Iterative Decoders,,,,
+cs/0501091,"A complexity-regularized quantization approach to nonlinear
+  dimensionality reduction",,,,
+cs/0502001,Some Extensions of Gallager's Method to General Sources and Channels,,,,
+cs/0502024,"Idempotents, Mattson-Solomon Polynomials and Binary LDPC codes",,,,
+cs/0502035,"Near Maximum-Likelihood Performance of Some New Cyclic Codes Constructed
+  in the Finite-Field Transform Domain",,,,
+cs/0502036,Improved Iterative Decoding for Perpendicular Magnetic Recording,,,,
+cs/0502037,GF(2^m) Low-Density Parity-Check Codes Derived from Cyclotomic Cosets,,,,
+cs/0502042,"Unified Large System Analysis of MMSE and Adaptive Least Squares
+  Receivers for a class of Random Matrix Channels",,,,
+cs/0502053,"A low-cost time-hopping impulse radio system for high data rate
+  transmission",,,,
+cs/0502055,On quasi-cyclic interleavers for parallel turbo codes,,,,
+cs/0502063,"Nonlinear MMSE Multiuser Detection Based on Multivariate Gaussian
+  Approximation",,,,
+cs/0502071,"Analysis of Second-order Statistics Based Semi-blind Channel Estimation
+  in CDMA Channels",,,,
+cs/0502077,"On the Achievable Information Rates of Finite-State Input
+  Two-Dimensional Channels with Memory",,,,
+cs/0502080,"Sensor Configuration and Activation for Field Detection in Large Sensor
+  Arrays",,,,
+cs/0502083,Impulse Radio Systems with Multiple Types of Ultra-Wideband Pulses,,,,
+cs/0502084,On the Typicality of the Linear Code Among the LDPC Coset Code Ensemble,,,,
+cs/0503006,"A New Non-Iterative Decoding Algorithm for the Erasure Channel :
+  Comparisons with Enhanced Iterative Methods",,,,
+cs/0503019,Duality Bounds on the Cut-Off Rate with Applications to Ricean Fading,,,,
+cs/0503027,Authentication with Distortion Criteria,,,,
+cs/0503031,"On the Scalability of Cooperative Time Synchronization in
+  Pulse-Connected Networks",,,,
+cs/0503038,On a Kronecker products sum distance bounds,,,,
+cs/0503040,"Uplink Throughput in a Single-Macrocell/Single-Microcell CDMA System,
+  with Application to Data Access Points",,,,
+cs/0503041,Soft Handoff and Uplink Capacity in a Two-Tier CDMA System,,,,
+cs/0503042,"Uplink User Capacity in a CDMA System with Hotspot Microcells: Effects
+  of Finite Transmit Power and Dispersion",,,,
+cs/0503047,"On Multiflows in Random Unit-Disk Graphs, and the Capacity of Some
+  Wireless Networks",,,,
+cs/0503071,"Consistency in Models for Distributed Learning under Communication
+  Constraints",,,,
+cs/0503072,Distributed Learning in Wireless Sensor Networks,,,,
+cs/0503079,Space-time databases modeling global semantic networks,,,,
+cs/0503085,Dynamic Shannon Coding,,,,
+cs/0504003,Multiple Description Quantization via Gram-Schmidt Orthogonalization,,,,
+cs/0504005,Fast Codes for Large Alphabets,,,,
+cs/0504006,Using Information Theory Approach to Randomness Testing,,,,
+cs/0504011,Average Coset Weight Distribution of Combined LDPC Matrix Ensemble,,,,
+cs/0504014,Network Information Flow with Correlated Sources,,,,
+cs/0504015,Design of Block Transceivers with Decision Feedback Detection,,,,
+cs/0504016,Shortened Array Codes of Large Girth,,,,
+cs/0504017,A new SISO algorithm with application to turbo equalization,,,,
+cs/0504020,The Viterbi Algorithm: A Personal History,,,,
+cs/0504021,Near Perfect Decoding of LDPC Codes,,,,
+cs/0504030,Sufficient conditions for convergence of the Sum-Product Algorithm,,,,
+cs/0504047,Pushdown dimension,,,,
+cs/0504060,Universal Minimax Discrete Denoising under Channel Uncertainty,,,,
+cs/0504079,"Prediction of Large Alphabet Processes and Its Application to Adaptive
+  Source Coding",,,,
+cs/0504080,"Performance of Gaussian Signalling in Non Coherent Rayleigh Fading
+  Channels",,,,
+cs/0504085,Capacity per Unit Energy of Fading Channels with a Peak Constraint,,,,
+cs/0504099,"The Capacity of Random Ad hoc Networks under a Realistic Link Layer
+  Model",,,,
+cs/0505010,On the Wyner-Ziv problem for individual sequences,,,,
+cs/0505012,"On the Shannon cipher system with a capacity-limited key-distribution
+  channel",,,,
+cs/0505020,"Asymptotic Capacity Results for Non-Stationary Time-Variant Channels
+  Using Subspace Projections",,,,
+cs/0505022,"Collaborative Beamforming for Distributed Wireless Ad Hoc Sensor
+  Networks",,,,
+cs/0505032,Broadcast Channels with Cooperating Decoders,,,,
+cs/0505054,The Partition Weight Enumerator of MDS Codes and its Applications,,,,
+cs/0506009,Approximate MAP Decoding on Tail-Biting Trellises,,,,
+cs/0506011,"On the dimensions of certain LDPC codes based on q-regular bipartite
+  graphs",,,,
+cs/0506012,"A Non-Cooperative Power Control Game in Delay-Constrained
+  Multiple-Access Networks",,,,
+cs/0506013,"On the existence and characterization of the maxent distribution under
+  general moment inequality constraints",,,,
+cs/0506016,Compressing Probability Distributions,,,,
+cs/0506018,"On the Achievable Diversity-Multiplexing Tradeoffs in Half-Duplex
+  Cooperative Channels",,,,
+cs/0506020,On the Throughput-Delay Tradeoff in Cellular Multicast,,,,
+cs/0506022,Asymptotics of Discrete MDL for Online Prediction,,,,
+cs/0506025,Dynamic Asymmetric Communication,,,,
+cs/0506028,"Neyman-Pearson Detection of Gauss-Markov Signals in Noise: Closed-Form
+  Error Exponent and Properties",,,,
+cs/0506029,"A Unified Framework for Tree Search Decoding : Rediscovering the
+  Sequential Decoder",,,,
+cs/0506036,Non prefix-free codes for constrained sequences,,,,
+cs/0506037,Tradeoff Between Source and Channel Coding for Erasure Channels,,,,
+cs/0506039,Antenna array geometry and coding performance,,,,
+cs/0506042,Tree-Based Construction of LDPC Codes,,,,
+cs/0506043,"A Decision Feedback Based Scheme for Slepian-Wolf Coding of sources with
+  Hidden Markov Correlation",,,,
+cs/0506044,Minimal Network Coding for Multicast,,,,
+cs/0506045,"Decision Feedback Based Scheme for Slepian-Wolf Coding of sources with
+  Hidden Markov Correlation",,,,
+cs/0506052,Comments on `Bit Interleaved Coded Modulation',,,,
+cs/0506056,Large Alphabets and Incompressibility,,,,
+cs/0506058,An MSE Based Ttransfer Chart to Analyze Iterative Decoding Schemes,,,,
+cs/0506064,"Optimal multiple assignments based on integer programming in secret
+  sharing schemes with general access structures",,,,
+cs/0506065,"Strongly secure ramp secret sharing schemes for general access
+  structures",,,,
+cs/0506072,"Performance Analysis of Algebraic Soft Decoding of Reed-Solomon Codes
+  over Binary Symmetric and Erasure Channels",,,,
+cs/0506073,"Iterative Soft Input Soft Output Decoding of Reed-Solomon Codes by
+  Adapting the Parity Check Matrix",,,,
+cs/0506077,"Stability of Scheduled Multi-access Communication over Quasi-static Flat
+  Fading Channels with Random Coding and Independent Decoding",,,,
+cs/0506086,"Large System Decentralized Detection Performance Under Communication
+  Constraints",,,,
+cs/0506087,"Primal-dual distance bounds of linear codes with application to
+  cryptography",,,,
+cs/0506094,"Universal Codes as a Basis for Nonparametric Testing of Serial
+  Independence for Time Series",,,,
+cs/0507001,Asymptotically Optimal Tree-based Group Key Management Schemes,,,,
+cs/0507002,"The Three Node Wireless Network: Achievable Rates and Cooperation
+  Strategies",,,,
+cs/0507004,"An End-to-End Probabilistic Network Calculus with Moment Generating
+  Functions",,,,
+cs/0507005,"A Genetic Algorithm Based Finger Selection Scheme for UWB MMSE Rake
+  Receivers",,,,
+cs/0507006,"A Two-Step Time of Arrival Estimation Algorithm for Impulse Radio Ultra
+  Wideband Systems",,,,
+cs/0507011,"A Utility-Based Approach to Power Control and Receiver Design in
+  Wireless Data Networks",,,,
+cs/0507015,Duality between Packings and Coverings of the Hamming Space,,,,
+cs/0507018,"Optimal and Suboptimal Detection of Gaussian Signals in Noise:
+  Asymptotic Relative Efficiency",,,,
+cs/0507026,Hard Problems of Algebraic Geometry Codes,,,,
+cs/0507032,Introduction to Quantum Message Space,,,,
+cs/0507039,"Distributed Regression in Sensor Networks: Training Distributively with
+  Alternating Projections",,,,
+cs/0507060,The Entropy of a Binary Hidden Markov Process,,,,
+cs/0508008,"The accurate optimal-success/error-rate calculations applied to the
+  realizations of the reliable and short-period integer ambiguity resolution in
+  carrier-phase GPS/GNSS positioning",,,,
+cs/0508012,n-Channel Asymmetric Multiple-Description Lattice Vector Quantization,,,,
+cs/0508013,"Relations between the Local Weight Distributions of a Linear Block Code,
+  Its Extended Code, and Its Even Weight Subcode",,,,
+cs/0508015,Chosen-ciphertext attack on noncommutative Polly Cracker,,,,
+cs/0508018,"Spectral Factorization, Whitening- and Estimation Filter -- Stability,
+  Smoothness Properties and FIR Approximation Behavior",,,,
+cs/0508020,Capacity Gain from Transmitter and Receiver Cooperation,,,,
+cs/0508022,Matrix Construction Using Cyclic Shifts of a Column,,,,
+cs/0508024,New Codes for OFDM with Low PMEPR,,,,
+cs/0508025,Signature coding for OR channel with asynchronous access,,,,
+cs/0508026,"Simple Maximum-Likelihood Decoding of Generalized First-order
+  Reed-Muller Codes",,,,
+cs/0508027,Expectation maximization as message passing,,,,
+cs/0508030,Terminated LDPC Convolutional Codes with Thresholds Close to Capacity,,,,
+cs/0508034,Channel combining and splitting for cutoff rate improvement,,,,
+cs/0508035,"Codes for error detection, good or not good",,,,
+cs/0508039,Tight Bounds on the Redundancy of Huffman Codes,,,,
+cs/0508040,Bounds on the Capacity of the Blockwise Noncoherent APSK-AWGN Channels,,,,
+cs/0508047,"Further Results on Coding for Reliable Communication over Packet
+  Networks",,,,
+cs/0508051,Trellis-Based Equalization for Sparse ISI Channels Revisited,,,,
+cs/0508054,Sensing Capacity for Markov Random Fields,,,,
+cs/0508055,DNA Codes that Avoid Secondary Structures,,,,
+cs/0508056,Very Simple Chaitin Machines for Concrete AIT,,,,
+cs/0508058,Entropy coding with Variable Length Re-writing Systems,,,,
+cs/0508060,Algorithms for Discrete Denoising Under Channel Uncertainty,,,,
+cs/0508064,"Layered Orthogonal Lattice Detector for Two Transmit Antenna
+  Communications",,,,
+cs/0508070,"MAP estimation via agreement on (hyper)trees: Message-passing and linear
+  programming",,,,
+cs/0508074,"Throughput and Delay in Random Wireless Networks with Restricted
+  Mobility",,,,
+cs/0508076,Myopic Coding in Multiple Relay Channels,,,,
+cs/0508077,Families of unitary matrices achieving full diversity,,,,
+cs/0508083,A General Framework for Codes Involving Redundancy Minimization,,,,
+cs/0508085,On the Asymptotic Performance of Iterative Decoders for Product Codes,,,,
+cs/0508088,Special Cases of Encodings by Generalized Adaptive Codes,,,,
+cs/0508093,"Performance of PPM Multipath Synchronization in the Limit of Large
+  Bandwidth",,,,
+cs/0508095,Capacity of Ultra Wide Band Wireless Ad Hoc Networks,,,,
+cs/0508107,"New Upper Bounds on A(n,d)",,,,
+cs/0508114,"A Family of Binary Sequences with Optimal Correlation Property and Large
+  Linear Span",,,,
+cs/0508115,New Sequence Sets with Zero-Correlation Zone,,,,
+cs/0508118,Unified Theory of Source Coding: Part I -- Two Terminal Problems,,,,
+cs/0508119,Unified Theory of Source Coding: Part II -- Multiterminal Problems,,,,
+cs/0508121,"How Good is Phase-Shift Keying for Peak-Limited Rayleigh Fading Channels
+  in the Low-SNR Regime?",,,,
+cs/0508122,"Streaming and Sublinear Approximation of Entropy and Information
+  Distances",,,,
+cs/0508124,Coding Schemes for Line Networks,,,,
+cs/0508126,A Closed-Form Solution for the Finite Length Constant Modulus Receiver,,,,
+cs/0508127,On context-tree prediction of individual sequences,,,,
+cs/0509001,Asymptotic Behavior of Error Exponents in the Wideband Regime,,,,
+cs/0509007,"Non-Data-Aided Parameter Estimation in an Additive White Gaussian Noise
+  Channel",,,,
+cs/0509008,"Joint Equalization and Decoding for Nonlinear Two-Dimensional
+  Intersymbol Interference Channels with Application to Optical Storage",,,,
+cs/0509009,"Joint Equalization and Decoding for Nonlinear Two-Dimensional
+  Intersymbol Interference Channels",,,,
+cs/0509010,"Minimum Mean-Square-Error Equalization using Priors for Two-Dimensional
+  Intersymbol Interference",,,,
+cs/0509013,On the variational distance of independently repeated experiments,,,,
+cs/0509014,Density Evolution for Asymmetric Memoryless Channels,,,,
+cs/0509015,"Optimal Prefix Codes with Fewer Distinct Codeword Lengths are Faster to
+  Construct",,,,
+cs/0509021,The Throughput-Reliability Tradeoff in MIMO Channels,,,,
+cs/0509022,Achievable Rates for Pattern Recognition,,,,
+cs/0509028,Projecting the Forward Rate Flow onto a Finite Dimensional Manifold,,,,
+cs/0509029,Quickest detection of a minimum of disorder times,,,,
+cs/0509039,"Coding for the feedback Gel'fand-Pinsker channel and the feedforward
+  Wyner-Ziv source",,,,
+cs/0509043,Optimal Power Control for Multiuser CDMA Channels,,,,
+cs/0509045,On Hats and other Covers,,,,
+cs/0509046,On the number of t-ary trees with a given path length,,,,
+cs/0509048,Capacity of Complexity-Constrained Noise-Free CDMA,,,,
+cs/0509049,"On the Achievable Information Rates of CDMA Downlink with Trivial
+  Receivers",,,,
+cs/0509064,On joint coding for watermarking and encryption,,,,
+cs/0509068,Channel Uncertainty in Ultra Wideband Communication Systems,,,,
+cs/0509073,Distance-Increasing Maps of All Length by Simple Mapping Algorithms,,,,
+cs/0509078,On the Feedback Capacity of Stationary Gaussian Channels,,,,
+cs/0509085,"An Improved Lower Bound to the Number of Neighbors Required for the
+  Asymptotic Connectivity of Ad Hoc Networks",,,,
+cs/0509087,"On Time-Variant Distortions in Multicarrier Transmission with
+  Application to Frequency Offsets and Phase Noise",,,,
+cs/0509096,"Performance Analysis and Enhancement of Multiband OFDM for UWB
+  Communications",,,,
+cs/0509097,Iterative Algebraic Soft-Decision List Decoding of Reed-Solomon Codes,,,,
+cs/0509098,Applications of correlation inequalities to low density graphical codes,,,,
+cs/0510002,"Optimal Relay Functionality for SNR Maximization in Memoryless Relay
+  Networks",,,,
+cs/0510003,Generalized ABBA Space-Time Block Codes,,,,
+cs/0510005,Taylor series expansions for the entropy rate of Hidden Markov Processes,,,,
+cs/0510016,From finite-system entropy to entropy rate for a Hidden Markov Process,,,,
+cs/0510021,"A Unified Power Control Algorithm for Multiuser Detectors in Large
+  Systems: Convergence and Performance",,,,
+cs/0510023,On the capacity of mobile ad hoc networks with delay constraints,,,,
+cs/0510029,Conditionally independent random variables,,,,
+cs/0510030,"A Near Maximum Likelihood Decoding Algorithm for MIMO Systems Based on
+  Semi-Definite Programming",,,,
+cs/0510032,Polar Polytopes and Recovery of Sparse Representations,,,,
+cs/0510033,Coding for the Optical Channel: the Ghost-Pulse Constraint,,,,
+cs/0510045,Why We Can Not Surpass Capacity: The Matching Condition,,,,
+cs/0510060,Optimal Transmit Covariance for Ergodic MIMO Channels,,,,
+cs/0510067,On the Spread of Random Interleaver,,,,
+cs/0510068,Ultra Wideband Impulse Radio Systems with Multiple Pulse Types,,,,
+cs/0510071,A Simple Cooperative Diversity Method Based on Network Path Selection,,,,
+cs/0510075,On-Off Frequency-Shift-Keying for Wideband Fading Channels,,,,
+cs/0510077,Connection state overhead in a dynamic linear network,,,,
+cs/0510085,"Canonical time-frequency, time-scale, and frequency-scale
+  representations of time-varying channels",,,,
+cs/0511008,"Analysis of Stochastic Service Guarantees in Communication Networks: A
+  Basic Calculus",,,,
+cs/0511009,"Mismatched codebooks and the role of entropy-coding in lossy data
+  compression",,,,
+cs/0511026,A Decision Theoretic Framework for Real-Time Communication,,,,
+cs/0511029,Non-coherent Rayleigh fading MIMO channels: Capacity Supremum,,,,
+cs/0511036,"A Capacity Achieving and Low Complexity Multilevel Coding Scheme for ISI
+  Channels",,,,
+cs/0511037,Trellis Pruning for Peak-to-Average Power Ratio Reduction,,,,
+cs/0511040,"Design and Analysis of Nonbinary LDPC Codes for Arbitrary
+  Discrete-Memoryless Channels",,,,
+cs/0511046,Generalized Kasami Sequences: The Large Set,,,,
+cs/0511047,The Secret Key-Private Key Capacity Region for Three Terminals,,,,
+cs/0511048,Joint Network-Source Coding: An Achievable Region with Diversity Routing,,,,
+cs/0511050,"Secret Key and Private Key Constructions for Simple Multiterminal Source
+  Models",,,,
+cs/0511051,The Private Key Capacity Region for Three Terminals,,,,
+cs/0511054,"Eigenvalue Distributions of Sums and Products of Large Random Matrices
+  via Incremental Matrix Expansions",,,,
+cs/0511072,"Explicit Codes Achieving List Decoding Capacity: Error-correction with
+  Optimal Redundancy",,,,
+cs/0511078,Uniqueness of Nonextensive entropy under Renyi's Recipe,,,,
+cs/0511086,"Energy-Efficient Resource Allocation in Time Division Multiple-Access
+  over Fading Channels",,,,
+cs/0511087,Robust Inference of Trees,,,,
+cs/0511089,"Continued Fraction Expansion as Isometry: The Law of the Iterated
+  Logarithm for Linear, Jump, and 2--Adic Complexity",,,,
+cs/0511104,"Channel Model and Upper Bound on the Information Capacity of the Fiber
+  Optical Communication Channel Based on the Effects of XPM Induced
+  Nonlinearity",,,,
+cs/0512013,The Water-Filling Game in Fading Multiple Access Channels,,,,
+cs/0512014,"A Game-Theoretic Approach to Energy-Efficient Power Control in
+  Multi-Carrier CDMA Systems",,,,
+cs/0512015,"Joint fixed-rate universal lossy coding and identification of
+  continuous-alphabet memoryless sources",,,,
+cs/0512020,A Practical Approach to Joint Network-Source Coding,,,,
+cs/0512024,A bound on Grassmannian codes,,,,
+cs/0512025,Spectral approach to linear programming bounds on codes,,,,
+cs/0512029,New model for rigorous analysis of LT-codes,,,,
+cs/0512030,Uncertainty Principles for Signal Concentrations,,,,
+cs/0512038,"Capacity of Differential versus Non-Differential Unitary Space-Time
+  Modulation for MIMO channels",,,,
+cs/0512048,"Spatial Precoder Design for Space-Time Coded MIMO Systems: Based on
+  Fixed Parameters of MIMO Channels",,,,
+cs/0512063,"Complex Random Vectors and ICA Models: Identifiability, Uniqueness and
+  Separability",,,,
+cs/0512079,"An invariant bayesian model selection principle for gaussian data in a
+  sparse representation",,,,
+cs/0512087,"Fundamental Limits and Scaling Behavior of Cooperative Multicasting in
+  Wireless Networks",,,,
+cs/0512093,"Construction of Turbo Code Interleavers from 3-Regular Hamiltonian
+  Graphs",,,,
+cs/0601006,"On the Joint Source-Channel Coding Error Exponent for Discrete
+  Memoryless Systems: Computation and Comparison with Separate Coding",,,,
+cs/0601007,"The necessity and sufficiency of anytime capacity for stabilization of a
+  linear system over a noisy communication link Part I: scalar systems",,,,
+cs/0601009,Gaussian Fading is the Worst Fading,,,,
+cs/0601022,"On the Fading Number of Multiple-Input Single-Output Fading Channels
+  with Memory",,,,
+cs/0601028,"Superimposed Coded and Uncoded Transmissions of a Gaussian Source over
+  the Gaussian Channel",,,,
+cs/0601036,"On the complexity of computing the capacity of codes that avoid
+  forbidden difference patterns",,,,
+cs/0601041,Oblivious channels,,,,
+cs/0601073,A Theory of Routing for Large-Scale Wireless Ad-Hoc Networks,,,,
+cs/0601074,Joint universal lossy coding and identification of i.i.d. vector sources,,,,
+cs/0601089,Distributed Kernel Regression: An Algorithm for Training Collaboratively,,,,
+cs/0601091,Communication Over MIMO Broadcast Channels Using Lattice-Basis Reduction,,,,
+cs/0601092,LLL Reduction Achieves the Receive Diversity in MIMO Decoding,,,,
+cs/0601093,"Stability of Scheduled Multi-access Communication over Quasi-static Flat
+  Fading Channels with Random Coding and Joint Maximum Likelihood Decoding",,,,
+cs/0601094,"Stability of Scheduled Message Communication over Degraded Broadcast
+  Channels",,,,
+cs/0601095,"On the Weight Enumerator and the Maximum Likelihood Performance of
+  Linear Product Codes",,,,
+cs/0601098,Energy Efficiency and Delay Quality-of-Service in Wireless Networks,,,,
+cs/0601102,"Geometric symmetry in the quadratic Fisher discriminant operating on
+  image pixels",,,,
+cs/0601107,"Structure of Optimal Input Covariance Matrices for MIMO Systems with
+  Covariance Feedback under General Correlated Fading",,,,
+cs/0601110,Mutual Information Games in Multi-user Channels with Correlated Jamming,,,,
+cs/0601115,Decision Making with Side Information and Unbounded Loss Functions,,,,
+cs/0601124,Power Control for User Cooperation,,,,
+cs/0601130,From Dumb Wireless Sensors to Smart Networks using Network Coding,,,,
+cs/0601131,Scalable Algorithms for Aggregating Disparate Forecasts of Probability,,,,
+cs/0602007,"Fuzzy Extractors: How to Generate Strong Keys from Biometrics and Other
+  Noisy Data",,,,
+cs/0602014,"Game theoretic aspects of distributed spectral coordination with
+  application to DSL networks",,,,
+cs/0602015,"On the Asymptotic Performance of Multiple Antenna Channels with Fast
+  Channel Feedback",,,,
+cs/0602030,Single-Symbol Maximum Likelihood Decodable Linear STBCs,,,,
+cs/0602032,Finite-State Dimension and Real Arithmetic,,,,
+cs/0602035,"n-Channel Entropy-Constrained Multiple-Description Lattice Vector
+  Quantization",,,,
+cs/0602048,On the Optimality of the ARQ-DDF Protocol,,,,
+cs/0602049,Cooperative Lattice Coding and Decoding,,,,
+cs/0602050,Outage Capacity of the Fading Relay Channel in the Low SNR Regime,,,,
+cs/0602058,"Incremental Redundancy Cooperative Coding for Wireless Networks:
+  Cooperative Diversity, Coding, and Transmission Energy Gain",,,,
+cs/0602081,Low-Density Parity-Check Code with Fast Decoding Speed,,,,
+cs/0602084,Universal Codes as a Basis for Time Series Testing,,,,
+cs/0602092,"Inconsistent parameter estimation in Markov random fields: Benefits in
+  the computation-limited setting",,,,
+cs/0603008,Linear Secret Sharing from Algebraic-Geometric Codes,,,,
+cs/0603009,An Achievability Result for the General Relay Channel,,,,
+cs/0603014,Near orders and codes,,,,
+cs/0603018,"On Non-coherent MIMO Channels in the Wideband Regime: Capacity and
+  Reliability",,,,
+cs/0603022,"On Separation, Randomness and Linearity for Network Codes over Finite
+  Fields",,,,
+cs/0603031,"Performance Analysis of CDMA Signature Optimization with Finite Rate
+  Feedback",,,,
+cs/0603040,"On the Information Rate of MIMO Systems with Finite Rate Channel State
+  Feedback Using Beamforming and Power On/Off Strategy",,,,
+cs/0603058,Convergence of Min-Sum Message Passing for Quadratic Optimization,,,,
+cs/0603064,Guessing under source uncertainty,,,,
+cs/0603066,A Feedback Reduction Technique for MIMO Broadcast Channels,,,,
+cs/0603072,Distributed Transmit Beamforming using Feedback Control,,,,
+cs/0603078,Consensus Propagation,,,,
+cs/0603083,Entropy-optimal Generalized Token Bucket Regulator,,,,
+cs/0603096,On Reduced Complexity Soft-Output MIMO ML detection,,,,
+cs/0603097,"On Pinsker's Type Inequalities and Csiszar's f-divergences. Part I:
+  Second and Fourth-Order Inequalities",,,,
+cs/0603098,A SIMO Fiber Aided Wireless Network Architecture,,,,
+cs/0603103,Bargaining over the interference channel,,,,
+cs/0603109,Encoding of Functions of Correlated Sources,,,,
+cs/0603128,On Cosets of the Generalized First-Order Reed-Muller Code with Low PMEPR,,,,
+cs/0603131,"Error Rate Analysis for Coded Multicarrier Systems over Quasi-Static
+  Fading Channels",,,,
+cs/0604021,"Low Latency Wireless Ad-Hoc Networking: Power and Bandwidth Challenges
+  and a Hierarchical Solution",,,,
+cs/0604025,"An Extremal Inequality Motivated by Multiterminal Information Theoretic
+  Problems",,,,
+cs/0604028,"Two Proofs of the Fisher Information Inequality via Data Processing
+  Arguments",,,,
+cs/0604040,"Optimal Distortion-Power Tradeoffs in Sensor Networks: Gauss-Markov
+  Random Processes",,,,
+cs/0604049,"Low SNR Capacity of Fading Channels with Peak and Average Power
+  Constraints",,,,
+cs/0604056,A Short Note on The Volume of Hypersphere,,,,
+cs/0604063,Golden Space-Time Trellis Coded Modulation,,,,
+cs/0604077,"Successive Wyner-Ziv Coding Scheme and its Application to the Quadratic
+  Gaussian CEO Problem",,,,
+cs/0604082,"Energy-Efficient Power and Rate Control with QoS Constraints: A
+  Game-Theoretic Approach",,,,
+cs/0604083,"Optimum Asymptotic Multiuser Efficiency of Pseudo-Orthogonal Randomly
+  Spread CDMA",,,,
+cs/0604091,Robust Distributed Source Coding,,,,
+cs/0604092,"Optimal and Suboptimal Finger Selection Algorithms for MMSE Rake
+  Receivers in Impulse Radio UWB Systems",,,,
+cs/0604093,Perfect Space Time Block Codes,,,,
+cs/0604099,Myopic Coding in Wireless Networks,,,,
+cs/0604104,"On the Shannon Covers of Certain Irreducible Constrained Systems of
+  Finite Type",,,,
+cs/0604106,Bounded expected delay in arithmetic coding,,,,
+cs/0605001,"On Multistage Successive Refinement for Wyner-Ziv Source Coding with
+  Degraded Side Informations",,,,
+cs/0605005,"The Discrete Memoryless Multiple Access Channel with Confidential
+  Messages",,,,
+cs/0605009,On the Foundations of Universal Sequence Prediction,,,,
+cs/0605010,Complementary Set Matrices Satisfying a Column Correlation Constraint,,,,
+cs/0605016,Cooperative Relay Broadcast Channels,,,,
+cs/0605023,"The Gaussian Multiple Access Wire-Tap Channel with Collective Secrecy
+  Constraints",,,,
+cs/0605041,"Asymptotically Optimal Multiple-access Communication via Distributed
+  Rate Splitting",,,,
+cs/0605046,Patterns of i.i.d. Sequences and Their Entropy - Part I: General Bounds,,,,
+cs/0605047,"Generalized Entropy Power Inequalities and Monotonicity Properties of
+  Information",,,,
+cs/0605051,A General Method for Finding Low Error Rates of LDPC Codes,,,,
+cs/0605069,"Parallel vs. Sequential Belief Propagation Decoding of LDPC Codes over
+  GF(q) and Markov Sources",,,,
+cs/0605071,On the Capacity of Interference Channels with Degraded Message sets,,,,
+cs/0605072,"On the Capacity of Gaussian Weak Interference Channels with Degraded
+  Message sets",,,,
+cs/0605075,"On the Capacity and Mutual Information of Memoryless Noncoherent
+  Rayleigh-Fading Channels",,,,
+cs/0605077,Universal Filtering via Hidden Markov Modeling,,,,
+cs/0605079,"On the Capacity of Fading MIMO Broadcast Channels with Imperfect
+  Transmitter Side-Information",,,,
+cs/0605084,The Generalized Multiple Access Channel with Confidential Messages,,,,
+cs/0605086,"Upper Bounding the Performance of Arbitrary Finite LDPC Codes on Binary
+  Erasure Channels",,,,
+cs/0605087,Error Exponents and Cutoff Rate for Noncoherent Rician Fading Channels,,,,
+cs/0605092,The Multiple Access Channel with Feedback and Correlated Sources,,,,
+cs/0605093,"The Capacity of the Single Source Multiple Relay Single Destination Mesh
+  Network",,,,
+cs/0605098,Energy Efficiency in Multi-hop CDMA Networks: A Game Theoretic Analysis,,,,
+cs/0605099,Alphabetic Coding with Exponential Costs,,,,
+cs/0605100,Network Inference from Co-Occurrences,,,,
+cs/0605105,An outer bound to the capacity region of the broadcast channel,,,,
+cs/0605115,Key Distillation and the Secret-Bit Fraction,,,,
+cs/0605116,Optimal Distortion-Power Tradeoffs in Gaussian Sensor Networks,,,,
+cs/0605117,A Lattice-Based MIMO Broadcast Precoder for Multi-Stream Transmission,,,,
+cs/0605118,Pseudocodeword weights for non-binary LDPC codes,,,,
+cs/0605129,An Outer Bound for the Multi-Terminal Rate-Distortion Region,,,,
+cs/0605135,"On the Role of Estimate-and-Forward with Time-Sharing in Cooperative
+  Communications",,,,
+cs/0605137,"Capacity Results for Block-Stationary Gaussian Fading Channels with a
+  Peak Power Constraint",,,,
+cs/0606011,Vectorial Resilient $PC(l)$ of Order $k$ Boolean Functions from AG-Codes,,,,
+cs/0606014,"On the Capacity of Multiple Access Channels with State Information and
+  Feedback",,,,
+cs/0606015,The Size of Optimal Sequence Sets for Synchronous CDMA Systems,,,,
+cs/0606016,"Performance Analysis of Iterative Channel Estimation and Multiuser
+  Detection in Multipath DS-CDMA Channels",,,,
+cs/0606022,Limited Feedback Beamforming Over Temporally-Correlated Channels,,,,
+cs/0606035,Finding roots of polynomials over finite fields,,,,
+cs/0606049,Decentralized Erasure Codes for Distributed Networked Storage,,,,
+cs/0606052,Topology for Distributed Inference on Graphs,,,,
+cs/0606071,"Scheduling and Codeword Length Optimization in Time Varying Wireless
+  Networks",,,,
+cs/0606074,Rate Regions for Relay Broadcast Channels,,,,
+cs/0606083,The Diversity Order of the Semidefinite Relaxation Detector,,,,
+cs/0606090,"Error Rate Analysis for Coded Multicarrier Systems over Quasi-Static
+  Fading Channels",,,,
+cs/0606099,Fairness in Multiuser Systems with Polymatroid Capacity Region,,,,
+cs/0606104,An information-spectrum approach to large deviation theorems,,,,
+cs/0606106,"Self-orthogonality of $q$-ary Images of $q^m$-ary Codes and Quantum Code
+  Construction",,,,
+cs/0607014,Strong Consistency of the Good-Turing Estimator,,,,
+cs/0607020,Iterative Decoding Performance Bounds for LDPC Codes on Noisy Channels,,,,
+cs/0607021,Slepian-Wolf Code Design via Source-Channel Correspondence,,,,
+cs/0607027,"A general computation rule for lossy summaries/messages with examples
+  from equalization",,,,
+cs/0607030,"Towards a General Theory of Simultaneous Diophantine Approximation of
+  Formal Power Series: Multidimensional Linear Complexity",,,,
+cs/0607042,"Towards a classical proof of exponential lower bound for 2-probe smooth
+  codes",,,,
+cs/0607043,Analysis of CDMA systems that are characterized by eigenvalue spectrum,,,,
+cs/0607068,Computation of the Weight Distribution of CRC Codes,,,,
+cs/0607075,On entropy for mixtures of discrete and continuous variables,,,,
+cs/0607076,Capacity of Cooperative Fusion in the Presence of Byzantine Sensors,,,,
+cs/0607078,Complex Lattice Reduction Algorithm for Low-Complexity MIMO Detection,,,,
+cs/0607089,"Superregular Matrices and the Construction of Convolutional Codes having
+  a Maximum Distance Profile",,,,
+cs/0607098,List decoding of noisy Reed-Muller-like codes,,,,
+cs/0607102,"Multiaccess Channels with State Known to Some Encoders and Independent
+  Messages",,,,
+cs/0607104,"Reducing the Computation of Linear Complexities of Periodic Sequences
+  over $GF(p^m)$",,,,
+cs/0607132,"On q-ary codes correcting all unidirectional errors of a limited
+  magnitude",,,,
+cs/0607140,"Stylized Facts in Internal Rates of Return on Stock Index and its
+  Derivative Transactions",,,,
+cs/0608006,"A Graph-based Framework for Transmission of Correlated Sources over
+  Broadcast Channels",,,,
+cs/0608021,"The Shannon capacity of a graph and the independence numbers of its
+  powers",,,,
+cs/0608023,Optimal resource allocation for OFDM multiuser channels,,,,
+cs/0608044,Network Coding in a Multicast Switch,,,,
+cs/0608060,Duality and Capacity Region of AF Relay MAC and BC,,,,
+cs/0608071,Broadcast Cooperation Strategies for Two Colocated Users,,,,
+cs/0608072,"Applications of Random Parameter Matrices Kalman Filtering in Uncertain
+  Observation and Multi-Model Systems",,,,
+cs/0608085,"A Quadratic Time-Space Tradeoff for Unrestricted Deterministic Decision
+  Branching Programs",,,,
+cs/0608086,Analog Codes on Graphs,,,,
+cs/0608087,On an Improvement over R\'enyi's Equivocation Bound,,,,
+cs/0608089,"Wireless ad-hoc networks: Strategies and Scaling laws for the fixed SNR
+  regime",,,,
+cs/0608095,Stationary Algorithmic Probability,,,,
+cs/0608117,"Code Annealing and the Suppressing Effect of the Cyclically Lifted LDPC
+  Code Ensemble",,,,
+cs/0608121,Cross Entropy Approximation of Structured Covariance Matrices,,,,
+cs/0609011,"Scheduling for Stable and Reliable Communication over Multiaccess
+  Channels and Degraded Broadcast Channels",,,,
+cs/0609018,"Bilayer Low-Density Parity-Check Codes for Decode-and-Forward in Relay
+  Channels",,,,
+cs/0609049,"Scanning and Sequential Decision Making for Multi-Dimensional Data -
+  Part I: the Noiseless Case",,,,
+cs/0609050,"Exact Spectral Analysis of Single-h and Multi-h CPM Signals through PAM
+  decomposition and Matrix Series Evaluation",,,,
+cs/0609076,"Asymptotic Spectral Distribution of Crosscorrelation Matrix in
+  Asynchronous CDMA",,,,
+cs/0609088,Deriving the Normalized Min-Sum Algorithm from Cooperative Optimization,,,,
+cs/0609089,Fast Min-Sum Algorithms for Decoding of LDPC over GF(q),,,,
+cs/0609090,Single-Scan Min-Sum Algorithms for Fast Decoding of LDPC Codes,,,,
+cs/0609094,"An Improved Sphere-Packing Bound Targeting Codes of Short to Moderate
+  Block Lengths and Applications",,,,
+cs/0609117,Constructing LDPC Codes by 2-Lifts,,,,
+cs/0609123,Optimal Design of Multiple Description Lattice Vector Quantizers,,,,
+cs/0609138,MDL Denoising Revisited,,,,
+cs/0609146,A Combinatorial Family of Near Regular LDPC Codes,,,,
+cs/0609155,"Detection of Markov Random Fields on Two-Dimensional Intersymbol
+  Interference Channels",,,,
+cs/0609160,Redundancies of Correction-Capability-Optimized Reed-Muller Codes,,,,
+cs/0609161,"The Order Bound on the Minimum Distance of the One-Point Codes
+  Associated to a Garcia-Stichtenoth Tower of Function Fields",,,,
+cs/0609162,"On Semigroups Generated by Two Consecutive Integers and Improved
+  Hermitian Codes",,,,
+cs/0610022,Iterative Decoding of Low-Density Parity Check Codes (A Survey),,,,
+cs/0610025,Low Correlation Sequences over the QAM Constellation,,,,
+cs/0610037,"The Capacity Region of a Class of Discrete Degraded Interference
+  Channels",,,,
+cs/0610050,"The Mathematical Parallels Between Packet Switching and Information
+  Transmission",,,,
+cs/0610052,"Finite-Dimensional Bounds on Zm and Binary LDPC Codes with Belief
+  Propagation Decoders",,,,
+cs/0610061,The Delay-Limited Capacity Region of OFDM Broadcast Channels,,,,
+cs/0610082,Theoretical analysis of network cranback protocols performance,,,,
+cs/0610099,Properties of Codes with the Rank Metric,,,,
+cs/0610104,ARQ Diversity in Fading Random Access Channels,,,,
+cs/0610106,On the Error Exponents of ARQ Channels with Deadlines,,,,
+cs/0610107,Interference Channels with Common Information,,,,
+cs/0610112,"On the Performance of Lossless Joint Source-Channel Coding Based on
+  Linear Codes",,,,
+cs/0610121,"Construction algorithm for network error-correcting codes attaining the
+  Singleton bound",,,,
+cs/0610130,On Bounds for $E$-capacity of DMC,,,,
+cs/0610139,How to beat the sphere-packing bound with feedback,,,,
+cs/0610141,Stabilization using both noisy and noiseless feedback,,,,
+cs/0610142,Coding into a source: a direct inverse Rate-Distortion theorem,,,,
+cs/0610143,Source coding and channel requirements for unstable processes,,,,
+cs/0610144,Lossless coding for distributed streaming sources,,,,
+cs/0610145,A Simple Converse of Burnashev's Reliability,,,,
+cs/0610146,"The necessity and sufficiency of anytime capacity for stabilization of a
+  linear system over a noisy communication link, Part II: vector systems",,,,
+cs/0610150,On LAO Testing of Multiple Hypotheses for Many Independent Objects,,,,
+cs/0610151,"Anytime coding on the infinite bandwidth AWGN channel: A sequential
+  semi-orthogonal optimal code",,,,
+cs/0610162,Multigroup-Decodable STBCs from Clifford Algebras,,,,
+cs/0610169,On the User Selection for MIMO Broadcast Channels,,,,
+cs/0611002,"Lattice Quantization with Side Information: Codes, Asymptotics, and
+  Applications in Sensor Networks",,,,
+cs/0611003,"A Scalable Protocol for Cooperative Time Synchronization Using Spatial
+  Averaging",,,,
+cs/0611015,"On the Fairness of Rate Allocation in Gaussian Multiple Access Channel
+  and Broadcast Channel",,,,
+cs/0611037,On Conditional Branches in Optimal Decision Trees,,,,
+cs/0611038,Nonsymmetric entropy I: basic concepts and results,,,,
+cs/0611043,On the Convexity of log det (I + K X^{-1}),,,,
+cs/0611053,Capacity of a Class of Deterministic Relay Channels,,,,
+cs/0611054,"How Random is a Coin Toss? Bayesian Inference and the Symbolic Dynamics
+  of Deterministic Chaos",,,,
+cs/0611059,Is the cyclic prefix necessary?,,,,
+cs/0611070,"Hierarchical Cooperation Achieves Optimal Capacity Scaling in Ad Hoc
+  Networks",,,,
+cs/0611073,Prefix Codes for Power Laws with Countable Support,,,,
+cs/0611089,"The Extraction and Complexity Limits of Graphical Models for Linear
+  Codes",,,,
+cs/0611090,"Algebraic Soft-Decision Decoding of Reed-Solomon Codes Using Bit-level
+  Soft Information",,,,
+cs/0611095,"Dense Gaussian Sensor Networks: Minimum Achievable Distortion and the
+  Order Optimality of Separation",,,,
+cs/0611097,"Conditionally Cycle-Free Generalized Tanner Graphs: Theory and
+  Application to High-Rate Serially Concatenated Codes",,,,
+cs/0611099,On the space complexity of one-pass compression,,,,
+cs/0611106,"Mixing and non-mixing local minima of the entropy contrast for blind
+  source separation",,,,
+cs/0611109,An approach to RAID-6 based on cyclic groups of a prime order,,,,
+cs/0611114,"Very Sparse Stable Random Projections, Estimators and Tail Bounds for
+  Stable Random Projections",,,,
+cs/0611121,"Wireless Information-Theoretic Security - Part II: Practical
+  Implementation",,,,
+cs/0611123,Functional Bregman Divergence and Bayesian Estimation of Distributions,,,,
+cs/0611125,Relay Channels with Confidential Messages,,,,
+cs/0611144,"Coding Improves the Optimal Delay-Throughput Trade-offs in Mobile Ad-Hoc
+  Networks: Two-Dimensional I.I.D. Mobility Models",,,,
+cs/0611146,"Linear-Codes-Based Lossless Joint Source-Channel Coding for
+  Multiple-Access Channels",,,,
+cs/0611155,Zig-zag and Replacement Product Graphs and LDPC Codes,,,,
+cs/0611160,"Complementary Sets, Generalized Reed-Muller Codes, and Power Control for
+  OFDM",,,,
+cs/0611161,On the Peak-to-Mean Envelope Power Ratio of Phase-Shifted Binary Codes,,,,
+cs/0611162,Quaternary Constant-Amplitude Codes for Multicode CDMA,,,,
+cs/0612007,"High SNR Analysis for MIMO Broadcast Channels: Dirty Paper Coding vs.
+  Linear Precoding",,,,
+cs/0612011,"Estimation of Bit and Frame Error Rates of Low-Density Parity-Check
+  Codes on Binary Symmetric Channels",,,,
+cs/0612015,On the intersection of additive perfect codes,,,,
+cs/0612019,"On Finite Memory Universal Data Compression and Classification of
+  Individual Sequences",,,,
+cs/0612024,On the Maximum Sum-rate Capacity of Cognitive Multiple Access Channel,,,,
+cs/0612027,Experimental Information and Statistical Modeling of Physical Laws,,,,
+cs/0612044,The Relay-Eavesdropper Channel: Cooperation for Secrecy,,,,
+cs/0612053,"Deriving Schrodinger Equation From A Soft-Decision Iterative Decoding
+  Algorithm",,,,
+cs/0612059,"Synchronization recovery and state model reduction for soft decoding of
+  variable length codes",,,,
+cs/0612064,Bounds on Key Appearance Equivocation for Substitution Ciphers,,,,
+cs/0612067,"Retrieving Reed-Solomon coded data under interpolation-based list
+  decoding",,,,
+cs/0612073,On the Fingerprinting Capacity Under the Marking Assumption,,,,
+cs/0612075,Intermediate Performance of Rateless Codes,,,,
+cs/0612078,"Effect of Finite Rate Feedback on CDMA Signature Optimization and MIMO
+  Beamforming Vector Selection",,,,
+cs/0612084,"Achievable Rates for the General Gaussian Multiple Access Wire-Tap
+  Channel with Collective Secrecy",,,,
+cs/0612095,Approximation of the Two-Part MDL Code,,,,
+cs/0612097,"Error Exponents for Variable-length Block Codes with Feedback and Cost
+  Constraints",,,,
+cs/0612099,Network Information Flow in Small World Networks,,,,
+cs/0612101,Maximum Entropy MIMO Wireless Channel Models,,,,
+cs/0612118,Gossiping with Multiple Messages,,,,
+cs/0612124,Highly robust error correction by convex programming,,,,
+cs/0612136,"Experiments on predictability of word in context and information rate in
+  natural language",,,,
+cs/0701002,"Relay Assisted F/TDMA Ad Hoc Networks: Node Classification, Power
+  Allocation and Relaying Strategies",,,,
+cs/0701006,The Trapping Redundancy of Linear Block Codes,,,,
+cs/0701018,"Performance Analysis of Algebraic Soft-Decision Decoding of Reed-Solomon
+  Codes",,,,
+cs/0701019,Flow-optimized Cooperative Transmission for the Relay Channel,,,,
+cs/0701024,Secure Communication over Fading Channels,,,,
+cs/0701026,"Analysis of Sequential Decoding Complexity Using the Berry-Esseen
+  Inequality",,,,
+cs/0701027,The source coding game with a cheating switcher,,,,
+cs/0701043,Adaptive Alternating Minimization Algorithms,,,,
+cs/0701047,On vocabulary size of grammar-based codes,,,,
+cs/0701050,"A Simple Proof of the Entropy-Power Inequality via Properties of Mutual
+  Information",,,,
+cs/0701051,"Coding, Scheduling, and Cooperation in Wireless Sensor Networks",,,,
+cs/0701053,"A Case For Amplify-Forward Relaying in the Block-Fading Multi-Access
+  Channel",,,,
+cs/0701055,Bounds on Space-Time-Frequency Dimensionality,,,,
+cs/0701058,"Precoding in Multiple-Antenna Broadcast Systems with a Probabilistic
+  Viewpoint",,,,
+cs/0701060,Duadic Group Algebra Codes,,,,
+cs/0701061,"Conjugate Gradient Projection Approach for Multi-Antenna Gaussian
+  Broadcast Channels",,,,
+cs/0701062,Network Coding over a Noisy Relay : a Belief Propagation Approach,,,,
+cs/0701063,"Hierarchical Decoupling Principle of a MIMO-CDMA Channel in Asymptotic
+  Limits",,,,
+cs/0701065,"Can Punctured Rate-1/2 Turbo Codes Achieve a Lower Error Floor than
+  their Rate-1/3 Parent Codes?",,,,
+cs/0701066,"Non-binary Hybrid LDPC Codes: Structure, Decoding and Optimization",,,,
+cs/0701067,"On Four-group ML Decodable Distributed Space Time Codes for Cooperative
+  Communication",,,,
+cs/0701070,On formulas for decoding binary cyclic codes,,,,
+cs/0701079,Practical Binary Adaptive Block Coder,,,,
+cs/0701080,"Analysis of the Sufficient Path Elimination Window for the
+  Maximum-Likelihood Sequential-Search Decoding Algorithm for Binary
+  Convolutional Codes",,,,
+cs/0701089,Constructive Dimension and Turing Degrees,,,,
+cs/0701090,"Ergodic Capacity of Discrete- and Continuous-Time, Frequency-Selective
+  Rayleigh Fading Channels with Correlated Scattering",,,,
+cs/0701091,Iterative LDPC decoding using neighborhood reliabilities,,,,
+cs/0701092,"The Multiplexing Gain of MIMO X-Channels with Partial Transmit
+  Side-Information",,,,
+cs/0701093,Throughput Scaling Laws for Wireless Networks with Fading Channels,,,,
+cs/0701097,MacWilliams Identity for the Rank Metric,,,,
+cs/0701099,"On the Feedback Capacity of Power Constrained Gaussian Noise Channels
+  with Memory",,,,
+cs/0701100,"Delayed Feedback Capacity of Stationary Sources over Linear Gaussian
+  Noise Channels",,,,
+cs/0701102,Coding Solutions for the Secure Biometric Storage Problem,,,,
+cs/0701103,"Analysis and design of raptor codes for joint decoding using Information
+  Content evolution",,,,
+cs/0701112,"(l,s)-Extension of Linear Codes",,,,
+cs/0701116,"The Impact of CSI and Power Allocation on Relay Channel Capacity and
+  Cooperation Strategies",,,,
+cs/0701117,Maximum Entropy in the framework of Algebraic Statistics: A First Step,,,,
+cs/0701118,"Optimal Order of Decoding for Max-Min Fairness in $K$-User Memoryless
+  Interference Channels",,,,
+cs/0701124,Group Secret Key Generation Algorithms,,,,
+cs/0701126,"Optimal Throughput-Diversity-Delay Tradeoff in MIMO ARQ Block-Fading
+  Channels",,,,
+cs/0701129,"Space-time codes with controllable ML decoding complexity for any number
+  of transmit antennas",,,,
+cs/0701146,State constraints and list decoding for the AVC,,,,
+cs/0701149,Power-Bandwidth Tradeoff in Dense Multi-Antenna Relay Networks,,,,
+cs/0701152,"Characterization of Rate Region in Interference Channels with
+  Constrained Power",,,,
+cs/0701169,"A Framework for Designing MIMO systems with Decision Feedback
+  Equalization or Tomlinson-Harashima Precoding",,,,
+cs/0701178,Distributed Detection in Sensor Networks with Limited Range Sensors,,,,
+cs/0701196,"One-bit Distributed Sensing and Coding for Field Estimation in Sensor
+  Networks",,,,
+cs/0701197,On Delayed Sequential Coding of Correlated Sources,,,,
+cs/0702007,"Power Optimal Scheduling for Guaranteed Throughput in Multi-access
+  Fading Channels",,,,
+cs/0702008,MMSE Optimal Algebraic Space-Time Codes,,,,
+cs/0702015,Network Coding for Distributed Storage Systems,,,,
+cs/0702018,Estimation of the Rate-Distortion Function,,,,
+cs/0702020,"Construction of Minimal Tail-Biting Trellises for Codes over Finite
+  Abelian Groups",,,,
+cs/0702023,"High-rate, Multi-Symbol-Decodable STBCs from Clifford Algebras",,,,
+cs/0702030,Optimizing the SINR operating point of spatial networks,,,,
+cs/0702031,"Quantized vs. Analog Feedback for the MIMO Downlink: A Comparison
+  between Zero-Forcing Based Achievable Rates",,,,
+cs/0702033,Bounds on ordered codes and orthogonal arrays,,,,
+cs/0702037,Evolutionary Approaches to Minimizing Network Coding Resources,,,,
+cs/0702044,Transmission Capacity of Ad Hoc Networks with Spatial Diversity,,,,
+cs/0702045,Gaussian Interference Channel Capacity to Within One Bit,,,,
+cs/0702050,"Permutation Decoding and the Stopping Redundancy Hierarchy of Linear
+  Block Codes",,,,
+cs/0702052,On Random Network Coding for Multicast,,,,
+cs/0702059,Redundancy-Related Bounds on Generalized Huffman Codes,,,,
+cs/0702063,Entropy vectors and network codes,,,,
+cs/0702064,Group characterizable entropy functions,,,,
+cs/0702073,Tradeoff between decoding complexity and rate for codes on graphs,,,,
+cs/0702084,"Performance of Ultra-Wideband Impulse Radio in Presence of Impulsive
+  Interference",,,,
+cs/0702093,Secure Broadcasting,,,,
+cs/0702102,"Paging and Registration in Cellular Networks: Jointly Optimal Policies
+  and an Iterative Algorithm",,,,
+cs/0702104,"A Union Bound Approximation for Rapid Performance Evaluation of
+  Punctured Turbo Codes",,,,
+cs/0702108,Orthogonal Codes for Robust Low-Cost Communication,,,,
+cs/0702111,"Informed Dynamic Scheduling for Belief-Propagation Decoding of LDPC
+  Codes",,,,
+cs/0702115,Guessing based on length functions,,,,
+cs/0702122,"Transmitter and Precoding Order Optimization for Nonlinear Downlink
+  Beamforming",,,,
+cs/0702132,"Uplink Capacity and Interference Avoidance for Two-Tier Femtocell
+  Networks",,,,
+cs/0702138,"On the Maximal Diversity Order of Spatial Multiplexing with Transmit
+  Antenna Selection",,,,
+cs/0702146,"A Local Tree Structure is NOT Sufficient for the Local Optimality of
+  Message-Passing Decoding in Low Density Parity Check Codes",,,,
+cs/0702147,"On the Complexity of Exact Maximum-Likelihood Decoding for
+  Asymptotically Good Low Density Parity Check Codes",,,,
+cs/0702148,"Linking Microscopic and Macroscopic Models for Evolution: Markov Chain
+  Network Training and Conservation Law Approximations",,,,
+cs/0702149,"Coupling Control and Human-Centered Automation in Mathematical Models of
+  Complex Systems",,,,
+cs/0702150,"A note on rate-distortion functions for nonstationary Gaussian
+  autoregressive processes",,,,
+cs/0702154,"On the Capacity of the Single Source Multiple Relay Single Destination
+  Mesh Network",,,,
+cs/0702162,"Distributed Power Allocation with Rate Constraints in Gaussian Parallel
+  Interference Channels",,,,
+cs/0703016,"Outage Probability of Multiple-Input Single-Output (MISO) Systems with
+  Delayed Feedback",,,,
+cs/0703017,Performance Bounds for Bi-Directional Coded Cooperation Protocols,,,,
+cs/0703022,"Rate of Channel Hardening of Antenna Selection Diversity Schemes and Its
+  Implication on Scheduling",,,,
+cs/0703024,Algorithmic Information Theory: a brief non-technical guide to the field,,,,
+cs/0703034,Nanoscale Communication with Brownian Motion,,,,

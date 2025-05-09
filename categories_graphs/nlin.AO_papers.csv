@@ -1,0 +1,1296 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+cond-mat/9906076,"Replica Symmetry Breaking in Short-Range Spin Glasses: Theoretical
+  Foundations and Numerical Evidences",2.503206055436889e-05,0.0004210568423318,42.0,15.0
+nlin/0307015,Methods and Techniques of Complex Systems Science: An Overview,1.8215884515668904e-05,1.9827567001035044e-06,22.0,1.0
+cond-mat/0106096,Statistical mechanics of complex networks,1.654360914784671e-05,0.0001718433929188,41.0,69.0
+cond-mat/0404593,The shortest path to complex networks,1.6529934134427936e-05,0.0001083482457285,19.0,12.0
+nlin/0008038,"Upper Bound on the Products of Particle Interactions in Cellular
+  Automata",1.5125963638397773e-05,0.0,3.0,2.0
+physics/0205030,Thinking about the brain,1.34689317241518e-05,0.0,16.0,5.0
+q-bio/0508025,"Self-optimization, community stability, and fluctuations in two
+  individual-based models of biological coevolution",1.2648720357828202e-05,0.0,3.0,2.0
+physics/0007070,"Predictability, complexity and learning",1.226015183387453e-05,0.0,20.0,10.0
+cond-mat/0504025,Point process model of 1/f noise versus a sum of Lorentzians,1.0893747286915562e-05,7.046440502284184e-06,12.0,3.0
+nlin/0608028,Universality in Complex Networks: Random Matrix Analysis,1.078339310859252e-05,0.0,2.0,1.0
+nlin/0610040,Self-organizing traffic lights: A realistic simulation,1.0731190241241008e-05,0.0,2.0,0.0
+cond-mat/0602409,Stationary Solutions of Liouville Equations for Non-Hamiltonian Systems,9.89185226661958e-06,7.241818166830666e-07,11.0,3.0
+cs/0703149,Exploring Logic Artificial Chemistries: An Illogical Attempt?,9.51751443265099e-06,0.0,1.0,0.0
+cs/9908014,An Introduction to Collective Intelligence,9.09495133914865e-06,5.7715299899642086e-05,12.0,5.0
+nlin/0502055,"Sufficient Conditions for Fast Switching Synchronization in Time Varying
+  Network Topologies",8.731977405795529e-06,0.0,8.0,0.0
+physics/0009032,Information theory and learning: a physical approach,8.669252579238984e-06,0.0,18.0,2.0
+nlin/0505009,A General Methodology for Designing Self-Organizing Systems,8.599137784477346e-06,0.0,7.0,1.0
+gr-qc/0308089,Scale Free Small World Networks and the Structure of Quantum Space-Time,8.55196148310876e-06,2.1474592403739864e-06,10.0,3.0
+adap-org/9708004,Symmetry Breaking and Adaptation: Evidence from a Toy Model of a Virus,8.305722970597898e-06,0.0,4.0,0.0
+q-bio/0611023,"An individual-based predator-prey model for biological coevolution:
+  Fluctuations, stability, and community structure",7.86667294715451e-06,0.0,3.0,1.0
+physics/9912012,Dynamic Fitness Landscapes in Molecular Evolution,7.821502457253823e-06,0.0,3.0,3.0
+cond-mat/0207407,Symbolic Dynamics for Discrete Adaptive Games,7.67712852457671e-06,0.0,7.0,0.0
+cond-mat/0509626,Nonlinear stochastic models of 1/f noise and power-law distributions,7.65582303367462e-06,1.9976088102166394e-06,8.0,1.0
+cond-mat/9909078,Effective potential for the reaction-diffusion-decay system,7.380371814439666e-06,0.0,2.0,2.0
+nlin/0008018,Models for the size distribution of businesses in a price driven market,7.343866288901044e-06,5.970548265480216e-06,7.0,1.0
+physics/0010045,Dynamic fitness landscapes: Expansions for small mutation rates,6.930536386555109e-06,0.0,3.0,0.0
+cond-mat/0102384,Dynamics of the Time Horizon Minority Game,6.867813392766497e-06,1.325550827597284e-06,8.0,3.0
+adap-org/9804001,"Generic Emergence of Power Law Distributions and L\'evy-Stable
+  Intermittent Fluctuations in Discrete Logistic Systems",6.796018667942487e-06,0.0,8.0,0.0
+q-bio/0609013,Complex Behavior in Simple Models of Biological Coevolution,6.714462786044225e-06,0.0,2.0,1.0
+nlin/0609033,Fame Emerges as a Result of Small Memory,6.562222645108905e-06,0.0,4.0,0.0
+nlin/0004014,A twist localizes three-dimensional patterns,6.55890781825366e-06,0.0,1.0,1.0
+cond-mat/0301543,Critical Market Crashes,6.552831108727321e-06,1.1190622928341231e-06,8.0,1.0
+cond-mat/0009211,Adaptive learning by extremal dynamics and negative feedback,6.542580001780634e-06,0.0,3.0,0.0
+cond-mat/0101409,Biological Evolution and Statistical Physics,6.408849095774855e-06,0.0,6.0,7.0
+physics/9912005,"Bayesian Field Theory: Nonparametric Approaches to Density Estimation,
+  Regression, Classification, and Inverse Quantum Problems",6.21737073044464e-06,0.0,7.0,2.0
+cond-mat/0301619,Evolutionary Stability of Ecological Hierarchy,6.120590128688668e-06,0.0,1.0,0.0
+adap-org/9907004,A dynamical model of non regulated markets,6.112633733755345e-06,0.0,5.0,0.0
+cond-mat/9801061,Garden of Eden states in traffic models,5.9966886438487085e-06,0.0,2.0,0.0
+nlin/0403050,"Formation and Destruction of Autocatalytic Sets in an Evolving Network
+  Model",5.915960774969386e-06,0.0,6.0,0.0
+hep-th/0703219,"Shape changing and accelerating solitons in integrable variable mass
+  sine-Gordon model",5.892206492262257e-06,0.0,1.0,0.0
+cond-mat/0006122,Evolutionary minority game with heterogeneous strategy distribution,5.85389231246472e-06,0.0,10.0,0.0
+cond-mat/9906017,Algorithmic Complexity in Minority Game,5.700839135890636e-06,3.9729394552635765e-06,7.0,2.0
+nlin/0607003,"Classification of integrable Hamiltonian hydrodynamic chains associated
+  with Kupershmidt's brackets",5.699876947431565e-06,0.0,4.0,1.0
+nlin/0307029,"Synchronized clusters in coupled map networks: Self-organized and driven
+  phase synchronization",5.68705624219942e-06,0.0,2.0,2.0
+nlin/0404009,Percolation of New Product Critical Market Penetration,5.5319528592829055e-06,7.4260550565674335e-09,2.0,2.0
+nlin/0606023,On an Irreducible Theory of Complex Systems,5.40258077823459e-06,0.0,5.0,0.0
+nlin/0210070,Graph Theory and the Evolution of Autocatalytic Networks,5.258707795189745e-06,4.830736148133639e-06,5.0,3.0
+cs/9912012,Avoiding Braess' Paradox through Collective Intelligence,5.252326499503554e-06,0.0,2.0,0.0
+adap-org/9504005,Hydrodynamic Description of Granular Convection,5.166885510381309e-06,0.0,2.0,0.0
+nlin/0105057,Food Web Structure and the Evolution of Ecological Communities,4.913779839230756e-06,0.0,3.0,1.0
+cond-mat/0406425,Modelling Selforganization and Innovation Processes in Networks,4.85098277583261e-06,0.0,18.0,0.0
+nlin/0004033,"Remarks on scaling properties inherent to the systems with
+  hierarchically organized supplying network",4.8369423322339285e-06,0.0,4.0,1.0
+cond-mat/0310181,"Calculation of the transition matrix and of the occupation probabilities
+  for the states of the Oslo sandpile model",4.792276675861333e-06,0.0,5.0,1.0
+physics/9710023,Aftershocks in Coherent-Noise Models,4.790218299313383e-06,0.0,3.0,1.0
+physics/9812016,Lifetimes of agents under external stress,4.775563454392716e-06,0.0,3.0,0.0
+cond-mat/9812215,Irrelevance of memory in the minority game,4.740749016298962e-06,0.0004141319949346,5.0,11.0
+cond-mat/9712027,Introduction to the statistical theory of Darwinian evolution,4.734155682121559e-06,0.0,5.0,25.0
+cond-mat/9908480,"Exact solution of a modified El Farol's bar problem: Efficiency and the
+  role of market impact",4.5104283324750405e-06,9.863629339152187e-05,3.0,27.0
+nlin/0507067,Quantifying Self-Organization in Cyclic Cellular Automata,4.48893332258452e-06,0.0,6.0,0.0
+adap-org/9708001,Emergence of Algorithmic Languages in Genetic Systems,4.463257124271671e-06,0.0,5.0,1.0
+cond-mat/9906249,Capital flow in a two-component dynamical system,4.459220157990226e-06,0.0,12.0,2.0
+nlin/0311055,Induced Minority Dynamics in a Stock Market Model,4.444182528342459e-06,0.0,6.0,0.0
+nlin/0509022,Coarse-graining the dynamics of coupled oscillators,4.368989962508106e-06,0.0,3.0,0.0
+nlin/0512013,Fractional dynamics of coupled oscillators with long-range interaction,4.353703708185982e-06,1.990182755160072e-06,6.0,5.0
+nlin/0008008,Transition from coherence to bistability in a model of financial markets,4.299994411122647e-06,0.0,9.0,0.0
+adap-org/9905005,"A microsimulation of traders activity in the stock market: the role of
+  heterogeneity, agents' interactions and trade frictions",4.2314006236373644e-06,0.0,5.0,9.0
+cond-mat/0003379,Theory of the evolutionary minority game,4.210296756349623e-06,3.980365510320144e-06,5.0,5.0
+nlin/0511001,"Opinion formation and phase transitions in a probabilistic cellular
+  automaton with two absorbing states",4.209991965999726e-06,0.0,1.0,0.0
+nlin/0104044,"Analytical and Numerical Studies of Noise-induced Synchronization of
+  Chaotic Systems",4.199458373837573e-06,0.0,3.0,0.0
+cond-mat/0305054,Scale free networks from a Hamiltonian dynamics,4.187590761826792e-06,4.951297876722981e-06,7.0,4.0
+nlin/0306033,"Point Mutations and Transitions Between Cellular Automata Attractor
+  Basins",4.169446002810229e-06,1.990182755160072e-06,2.0,1.0
+adap-org/9505004,Hydrodynamic effects in density waves of granular flows,4.12546872851625e-06,0.0,1.0,0.0
+nlin/0009025,Diversity patterns from ecological models at dynamical equilibrium,4.094931331030275e-06,0.0,2.0,2.0
+nlin/0307039,"Stability of negative ionization fronts: regularization by electric
+  screening?",4.063143711471229e-06,0.0,1.0,2.0
+cond-mat/0604409,An ensemble approach to the analysis of weighted networks,4.0105491945753415e-06,0.0,2.0,3.0
+cond-mat/0607344,Evolutionary games on graphs,4.007423346985859e-06,0.0,3.0,6.0
+cond-mat/0008387,From market games to real-world markets,3.966625093564905e-06,2.985274132740108e-06,7.0,9.0
+cond-mat/0401191,Chaos and Annealing in Social networks,3.957759267031839e-06,5.970548265480216e-06,1.0,1.0
+nlin/0107037,"Crashes, Recoveries, and `Core-shifts' in a Model of Evolving Networks",3.937642034786911e-06,3.1574262698216664e-06,6.0,3.0
+quant-ph/0210176,Quantum Pattern Recognition,3.937127024872019e-06,4.084330281112088e-08,5.0,5.0
+nlin/0409024,Quantifying Self-Organization with Optimal Predictors,3.917103193666158e-06,1.9827567001035044e-06,4.0,3.0
+nlin/0009042,Structure-generating mechanisms in agent-based models,3.9134194482755575e-06,0.0,4.0,0.0
+nlin/0609038,From Neuron to Neural Networks dynamics,3.911405833560001e-06,0.0,3.0,0.0
+adap-org/9410001,"Belavkin-Kolokoltsov Watch-Dog Effects in Interactively Controlled
+  Stochastic Computer-Graphic Dynamical Systems. A Summary of Mathematical
+  Researches",3.895828764866227e-06,0.0,7.0,0.0
+nlin/0608054,"Formation and Evolution of Singularities in Anisotropic Geometric
+  Continua",3.890151953347427e-06,0.0,4.0,0.0
+q-bio/0609008,Discovering Functional Communities in Dynamical Networks,3.873945274331573e-06,0.0,2.0,0.0
+cond-mat/0212055,Time-Dependent Random Walks and the Theory of Complex Adaptive Systems,3.781835593850283e-06,1.990182755160072e-06,8.0,3.0
+nlin/0108020,"Self-localization of laser induced tumor coagulation limited by heat
+  diffusion through active tissue",3.7596760329735306e-06,0.0,2.0,0.0
+cond-mat/0101371,"Multi-dimensional Rational Bubbles and fat tails: application of
+  stochastic regression equations to financial speculation",3.755545767456546e-06,0.0,2.0,0.0
+cond-mat/0005441,Algorithmic Complexity of Real Financial Markets,3.753301788886302e-06,0.0,7.0,0.0
+nlin/0502001,Local Average and Scaling Property of $1/f^{\alpha}$ Random Fields,3.7343248543513727e-06,0.0,4.0,0.0
+cond-mat/0402640,"Superslow Self-Organized Motions in a Multimode Microwave Phonon Laser
+  (Phaser) under Resonant Destabilization of Stationary Acoustic Stimulated
+  Emission",3.732572775591831e-06,0.0,5.0,2.0
+adap-org/9907003,Strategy Selection in the Minority Game,3.728778348301647e-06,1.975330645046937e-06,9.0,1.0
+cond-mat/0609622,Maximum Performance at Minimum Cost in Network Synchronization,3.7107215323810425e-06,0.0,3.0,0.0
+cond-mat/0001118,Models of the Small World: A Review,3.694386110579994e-06,0.0,6.0,17.0
+cond-mat/9702054,Aging in a Model of Self-Organized Criticality,3.68907542890178e-06,0.0,3.0,2.0
+quant-ph/0106135,Equilibria of Replicator Dynamics in Quantum Games,3.6717630397125614e-06,1.3956608214085991e-05,5.0,3.0
+nlin/0511024,The co-evolutionary dynamics of directed network of spin market agents,3.659207964175752e-06,1.8725210383749035e-06,3.0,1.0
+solv-int/9902010,"Lax Pair Formulation and Multi-soliton Solution of the Integrable Vector
+  Nonlinear Schrodinger Equation",3.639501128747021e-06,0.0,5.0,2.0
+quant-ph/0610129,"Net Fisher information measure versus ionization potential and dipole
+  polarizability in atoms",3.62335329328243e-06,0.0,2.0,0.0
+cond-mat/0412356,"Disturbing synchronization: Propagation of perturbations in networks of
+  coupled oscillators",3.62335329328243e-06,0.0,2.0,0.0
+nlin/0609005,Oligo-parametric Hierarchical Structure of Complex Systems,3.5990543180470405e-06,0.0,3.0,0.0
+nlin/0211013,A Spin Glass Model of Human Logic Systems,3.589408331622433e-06,7.960731020640288e-06,1.0,1.0
+cond-mat/0004263,"The Nasdaq crash of April 2000: Yet another example of log-periodicity
+  in a speculative bubble ending in a crash",3.58272515821347e-06,0.0,3.0,5.0
+cond-mat/9907068,Mean-field theory for scale-free random networks,3.5503316984244555e-06,0.0,12.0,9.0
+nlin/0502016,"An equation-free approach to coupled oscillator dynamics: the Kuramoto
+  model example",3.5401428574210683e-06,1.1163836101706373e-07,2.0,1.0
+adap-org/9501003,"A set of hard spheres with tangential inelastic collision as a model of
+  granular matter: $1/f^\alpha$ fluctuation, non-Gaussian distribution, and
+  convective motion",3.5125599140372022e-06,0.0,2.0,2.0
+quant-ph/0103085,Darwinism in quantum systems?,3.507364633975921e-06,3.56939620245536e-06,4.0,6.0
+cond-mat/0007400,"Renormalization Group Analysis of a Quivering String Model of Posture
+  Control",3.49912997646896e-06,0.0,2.0,0.0
+adap-org/9906001,Evolution in Minority Games II. Games with Variable Strategy Spaces,3.4689068605178915e-06,0.0,5.0,0.0
+adap-org/9911002,Mathematical description of the heat transfer in living tissue (Part II),3.424427428955529e-06,0.0,5.0,0.0
+adap-org/9903007,Characterizing self-organization and coevolution by ergodic invariants,3.3749066596554898e-06,0.0,1.0,0.0
+cond-mat/0008385,Crowd-Anticrowd Theory of Multi-Agent Market Games,3.27615563520948e-06,0.0,4.0,4.0
+nlin/0101026,The shape of ecological networks,3.2738510855826016e-06,0.0,1.0,4.0
+cond-mat/9801289,Interacting Individuals Leading to Zipf's Law,3.250801971956277e-06,0.0,2.0,2.0
+adap-org/9907002,"Metastable Evolutionary Dynamics: Crossing Fitness Barriers or Escaping
+  via Neutral Paths?",3.231781322326967e-06,0.0,3.0,1.0
+cond-mat/9903228,Minority game with arbitrary cutoffs,3.1878224271011856e-06,0.0,9.0,1.0
+cond-mat/0002075,"Finite-time singularity in the dynamics of the world population,
+  economic and financial indices",3.1507215149069454e-06,3.7130275282837166e-08,3.0,4.0
+nlin/0208040,"Synchronizing to Periodicity: The Transient Information and
+  Synchronization Time of Periodic Sequences",3.1495371570279183e-06,0.0,2.0,0.0
+nlin/0103038,"Synchronizing to the Environment: Information Theoretic Constraints on
+  Agent Learning",3.1495371570279183e-06,0.0,2.0,0.0
+cond-mat/9506097,"A Scaling Theory of Bifurcations in the Symmetric Weak-Noise Escape
+  Problem",3.1432657261531444e-06,0.0,4.0,4.0
+cond-mat/9802165,Self Organization of Interacting Polya Urns,3.138508337146208e-06,0.0,2.0,0.0
+q-bio/0609039,Spatial stochastic predator-prey models,3.123003167340551e-06,0.0,2.0,0.0
+cond-mat/0304324,"Stochastic Maps, Wealth Distribution in Random Asset Exchange Models and
+  the Marginal Utility of Relative Wealth",3.114013153292793e-06,0.0,5.0,0.0
+adap-org/9812005,"Market force, ecology and evolution",3.0609182205127385e-06,0.0,3.0,27.0
+q-bio/0409029,"Representation of protein structure based on frequency distributions of
+  oriented cycles in contact graphs",3.036761880714111e-06,0.0,2.0,0.0
+nlin/0307006,Crossover Behaviour of 3-Species Systems with Mutations or Migrations,3.023451447311061e-06,0.0,1.0,0.0
+cond-mat/9911039,Critical behavior of a cellular automaton highway traffic model,3.0130299004057125e-06,0.0,4.0,2.0
+cond-mat/9903108,Small-world networks: Evidence for a crossover picture,2.9888875129465694e-06,0.0,3.0,8.0
+chao-dyn/9706013,An Exact Renormalization Group analysis of 3-d Well Developed turbulence,2.9275038064260554e-06,0.0,5.0,2.0
+adap-org/9911001,Mathematical description of the heat transfer in living tissue (Part I),2.913852327514218e-06,0.0,4.0,5.0
+cs/9912011,Adaptivity in Agent-Based Routing for Data Networks,2.902659663719872e-06,0.0,1.0,0.0
+cond-mat/0110350,Emergence of Hierarchy on a Network of Complementary Agents,2.8760789094425297e-06,7.4260550565674335e-09,2.0,1.0
+cond-mat/9808068,"Equilibrium and dynamical properties of two dimensional self-gravitating
+  systems",2.871459765578169e-06,1.990182755160072e-06,2.0,1.0
+adap-org/9907007,Resource Sharing and Coevolution in Evolving Cellular Automata,2.855213185875573e-06,0.0,2.0,0.0
+adap-org/9610001,"Symmetry Breaking and Adaptation: The Genetic Code of Retroviral Env
+  Proteins",2.855213185875573e-06,0.0,3.0,3.0
+physics/0503056,"Recurrence time analysis, long-term correlations, and extreme events",2.855213185875573e-06,0.0,2.0,0.0
+physics/9705008,A Simple Model of Evolution with Variable System Size,2.855213185875573e-06,0.0,3.0,0.0
+cond-mat/0303089,Multiplicative point process as a model of trading activity,2.8183614485973225e-06,4.885753495776897e-07,4.0,5.0
+cond-mat/0502309,"Network Synchronization, Diffusion, and the Paradox of Heterogeneity",2.803205421876073e-06,1.990182755160072e-06,2.0,2.0
+astro-ph/0105392,A self-regulated model of galactic spiral structure formation,2.7774872075809223e-06,0.0,2.0,0.0
+cond-mat/9902074,"1/f Noise and Long Configuration Memory in Bak-Tang-Wiesenfeld Models on
+  Narrow Stripes",2.750298151503292e-06,0.0,2.0,0.0
+cond-mat/0510650,"Complex networks generated by the Penna bit-string model: Emergence of
+  small-world and assortative mixing",2.7421074294303462e-06,0.0,1.0,0.0
+nlin/0701014,"Nonlinear Dynamical Model of Regime Switching Between Conventions and
+  Business Cycles",2.7402679238045835e-06,0.0,1.0,0.0
+nlin/0102016,Bid distributions of competing agents in simple models of auctions,2.738613447783412e-06,0.0,5.0,0.0
+adap-org/9805002,Extinction events and species lifetimes in a simple ecological model,2.7015851643942016e-06,0.0,2.0,0.0
+cond-mat/0003241,Data clustering and noise undressing of correlation matrices,2.698582244729684e-06,0.0,2.0,2.0
+nlin/0611001,"The unfair consequences of equal opportunities: comparing exchange
+  models of wealth distribution",2.698356595759543e-06,0.0,4.0,0.0
+chao-dyn/9406013,"Belavkin-Kolokoltsov watch-dog effects in interactively controlled
+  stochastic computer-graphic dynamic systems",2.6947967361961305e-06,0.0,6.0,2.0
+nlin/0407053,Complexity vs stability in small-world networks,2.677231811347867e-06,0.0,1.0,0.0
+nlin/0404024,The dynamics of opinion in hierarchical organizations,2.663966358140996e-06,3.09112512151642e-05,2.0,2.0
+cond-mat/9611044,"Energy flow, partial equilibration and effective temperatures in systems
+  with slow dynamics",2.663503637560741e-06,0.0,4.0,11.0
+cond-mat/0009165,"Occam factors and model-independent Bayesian learning of continuous
+  distributions",2.63325480671671e-06,0.0,1.0,4.0
+cond-mat/0506556,Weighted networks are more synchronizable: how and why,2.626611904339811e-06,0.0,2.0,0.0
+nlin/0403005,A simple model for self organization of bipartite networks,2.6169057343729835e-06,0.0,2.0,1.0
+adap-org/9909004,Measuring Mutual Information in Random Boolean Networks,2.600252207526908e-06,0.0,1.0,0.0
+nlin/0403006,Self Organized Scale-Free Networks from Merging and Regeneration,2.586343977991571e-06,5.970548265480216e-06,3.0,4.0
+nlin/0701016,A model of coupled maps with Pareto behavior,2.573941816601826e-06,0.0,2.0,0.0
+cs/9902027,Autocatalytic Theory of Meaning,2.5728606972295104e-06,0.0,1.0,0.0
+cond-mat/9606186,Crossover to Self-Organized Criticality in an Inertial Sandpile Model,2.5728606972295104e-06,0.0,1.0,0.0
+cond-mat/9609105,Length Scales and Power Laws in the Two-Dimensional Forest-Fire Model,2.5728606972295104e-06,0.0,1.0,0.0
+cond-mat/0611201,Self-organized network evolution coupled to extremal dynamics,2.567160645598001e-06,0.0,2.0,0.0
+cond-mat/0606809,"Influence of local carrying capacity restrictions on stochastic
+  predator-prey models",2.556415228296256e-06,0.0,2.0,2.0
+cond-mat/9904187,"Learning, competition and cooperation in simple games",2.546448347885125e-06,0.0,5.0,1.0
+cond-mat/0005043,Mixed population Minority Game with generalized strategies,2.5351194503102653e-06,0.0,7.0,1.0
+cond-mat/0006141,Stochastic strategies in the Minority Game,2.526766873284756e-06,0.0,6.0,2.0
+cond-mat/9706251,Sandpile Model with Activity Inhibition,2.509106213990082e-06,0.0,1.0,0.0
+adap-org/9907011,Phase Transition in Random Networks with Multiple States,2.4711431321721443e-06,0.0,1.0,0.0
+physics/9904028,Molecular Evolution in Time Dependent Environments,2.4711431321721443e-06,0.0,1.0,1.0
+cond-mat/0310479,Binomial multiplicative model of critical fragmentation,2.4711431321721443e-06,0.0,1.0,3.0
+adap-org/9711002,"Absence of self-organized criticality in a random-neighbor version of
+  the OFC stick-slip model",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0406580,Frequency synchronization in random oscillator network,2.4711431321721443e-06,0.0,1.0,1.0
+nlin/0310033,Associative memory on a small-world neural network,2.4711431321721443e-06,0.0,1.0,3.0
+cond-mat/9702068,Self-Organized Criticality Driven by Deterministic Rules,2.4711431321721443e-06,0.0,1.0,0.0
+nlin/0306025,Bright and dark breathers in Fermi-Pasta-Ulam lattices,2.4711431321721443e-06,0.0,1.0,0.0
+adap-org/9609001,Ecological model of extinctions,2.4711431321721443e-06,0.0,1.0,0.0
+nlin/0506032,"A generalized model of active media with a set of interacting
+  pacemakers: Application to the heart beat analysis",2.4711431321721443e-06,0.0,1.0,0.0
+nlin/0506005,Dynamics of fluctuation of the top location of a sandpile,2.4711431321721443e-06,0.0,1.0,0.0
+nlin/0407038,A study on a self-organized criticality in a dynamical many-body system,2.4711431321721443e-06,0.0,1.0,0.0
+nlin/0010037,Complex spatial organization in a simple model of resource allocation,2.4711431321721443e-06,0.0,1.0,0.0
+nlin/0107035,Averaging of an autoresonance model,2.4711431321721443e-06,0.0,1.0,0.0
+nlin/0201034,Modeling Vocal Fold Motion with a New Hydrodynamic Semi-Continuum Model,2.4711431321721443e-06,0.0,1.0,0.0
+nlin/0211026,"Charge transport in a nonlinear, three--dimensional DNA model with
+  disorder",2.4711431321721443e-06,0.0,1.0,0.0
+nlin/0202020,"Quasi-stationary Stefan problem and computer simulation of interface
+  dynamics",2.4711431321721443e-06,0.0,1.0,0.0
+nlin/0001061,"Wavelength Scaling and Square/Stripe and Grain Mobility Transitions in
+  Vertically Oscillated Granular Layers",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0101021,Adaptive evolution on neutral networks,2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9803033,Deterministic SR in a Piecewise Linear Chaotic Map,2.4711431321721443e-06,0.0,1.0,0.0
+adap-org/9904001,Correlated random walks with a finite memory range,2.4711431321721443e-06,0.0,1.0,0.0
+physics/0510043,"Dynamics of the Markov Time Scale of Seismic Activity May Provide a
+  Short-Term Alert for Earthquakes",2.4711431321721443e-06,0.0,1.0,3.0
+nlin/0110037,Spectral Properties and Synchronization in Coupled Map Lattices,2.4711431321721443e-06,0.0,1.0,1.0
+adap-org/9811004,Time evolution of averages in dynamical systems driven by noise,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0312177,"Delays, connection topology, and synchronization of coupled chaotic maps",2.4711431321721443e-06,0.0,1.0,2.0
+nlin/0703053,"On the propagation of social epidemics in social networks under S.I.R.
+  model",2.4711431321721443e-06,0.0,1.0,0.0
+adap-org/9812004,Clustering and synchronization with positive Lyapunov exponents,2.4711431321721443e-06,0.0,1.0,1.0
+cond-mat/0303188,"Self-Organization in Multimode Microwave Phonon Laser (Phaser):
+  Experimental Observation of Spin-Phonon Cooperative Motions",2.4711431321721443e-06,0.0,3.0,3.0
+cond-mat/0009019,"Reversible boolean networks II: Phase transition, oscillation, and local
+  structures",2.4711431321721443e-06,0.0,1.0,0.0
+adap-org/9903006,Neutral Evolution of Mutational Robustness,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0308163,Suppression of Ecological Competition by Apex Predator,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0410563,Eventually Number-Conserving Cellular Automata,2.4711431321721443e-06,0.0,1.0,0.0
+nlin/0512031,Adaptive Synchronization of An Uncertain Complex Dynamical Network,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/9803164,Brownian motion in fluctuating periodic potentials,2.4711431321721443e-06,0.0,1.0,0.0
+nlin/0511018,The Role of Redundancy in the Robustness of Random Boolean Networks,2.4711431321721443e-06,0.0,1.0,1.0
+nlin/0604061,"Profit Maximization, Industry Structure, and Competition: A critique of
+  neoclassical theory",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0511096,"Multiscale behavior and fractional kinetics from the data of solar wind
+  - magnetosphere coupling",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0102009,Self-adaptive exploration in evolutionary search,2.4711431321721443e-06,0.0,1.0,0.0
+adap-org/9902001,The Hamming Distance in the Minority Game,2.4384212810739848e-06,3.084783270498112e-05,5.0,7.0
+cs/9905005,General Principles of Learning-Based Multi-Agent Systems,2.418492420972594e-06,0.0,2.0,1.0
+nlin/0507021,Measuring Generalized Preferential Attachment in Dynamic Social Networks,2.415206884045539e-06,2.0167921533390666e-06,1.0,2.0
+nlin/0409013,Epistemic communities: description and hierarchic categorization,2.415206884045539e-06,0.0,1.0,0.0
+adap-org/9912002,Physicists attempt to scale the ivory towers of finance,2.390585053945956e-06,1.990182755160072e-06,4.0,3.0
+cond-mat/9901353,Extremal Optimization of Graph Partitioning at the Percolation Threshold,2.372166325238819e-06,0.0,2.0,1.0
+nlin/0309035,Binding Social and Cultural Networks: A Model,2.3611381897174107e-06,5.9971576636592095e-06,4.0,2.0
+adap-org/9912003,"Democracy versus Dictatorship in Self-Organized Models of Financial
+  Markets",2.3514414766978e-06,7.960731020640288e-06,6.0,2.0
+nlin/0510031,"On the attractors of two-dimensional Rayleigh oscillators including
+  noise",2.3469198153586743e-06,0.0,1.0,0.0
+cond-mat/9910207,"Temperature scaling, glassiness and stationarity in the Bak-Sneppen
+  model",2.3465943360941777e-06,0.0,3.0,0.0
+cond-mat/0204111,Principles of statistical mechanics of random networks,2.3390214780393398e-06,6.376562199898719e-06,3.0,16.0
+cond-mat/9708101,"Speciation as Pattern Formation by Competition in a Smooth Fitness
+  Landscape",2.336218485559142e-06,0.0,3.0,2.0
+cond-mat/0606805,Low-temperature behaviour of social and economic networks,2.332930898007217e-06,0.0,1.0,0.0
+cond-mat/0003309,Segregation in a competing and evolving population,2.332892397744157e-06,0.0,3.0,8.0
+cond-mat/9903164,Enhanced winnings in a mixed-ability population playing a minority game,2.3281289900962866e-06,1.990182755160072e-06,6.0,4.0
+cond-mat/0507287,Explosive fragmentation of thin ceramic tube using pulsed power,2.3250759188967937e-06,0.0,2.0,0.0
+cond-mat/0409770,"Crossover of the weighted mean fragment mass scaling in 2D brittle
+  fragmentation",2.3250759188967937e-06,0.0,2.0,0.0
+cond-mat/0605619,Synchronization is optimal in non-diagonalizable networks,2.3189319592894785e-06,0.0,2.0,0.0
+cond-mat/0201002,Self-Segregation vs. Clustering in the Evolutionary Minority Game,2.3161204905456384e-06,0.0,5.0,0.0
+adap-org/9903001,The Evolutionary Unfolding of Complexity,2.27910810532043e-06,0.0,2.0,2.0
+nlin/0603001,Hierarchical Self-Organization in the Finitary Process Soup,2.2716061880683958e-06,0.0,1.0,0.0
+nlin/0611005,"Mathematical modeling of pattern formation in sub- and supperdiffusive
+  reaction-diffusion systems",2.2535034350735347e-06,0.0,3.0,0.0
+nlin/0702013,"Nonlinear oscillations and stability domains in fractional
+  reaction-diffusion systems",2.2535034350735347e-06,0.0,3.0,0.0
+nlin/0311008,"Phase Transitions in Random Boolean Networks with Different Updating
+  Schemes",2.247923571429882e-06,0.0,2.0,0.0
+physics/0008046,Nonlinear Beam Dynamics and Effects of Wigglers,2.2378584599583923e-06,0.0,10.0,5.0
+physics/0008048,Local Analysis of Nonlinear RMS Envelope Dynamics,2.2378584599583923e-06,0.0,10.0,5.0
+q-bio/0512039,"Phase Transitions and Spatio-Temporal Fluctuations in Stochastic Lattice
+  Lotka-Volterra Models",2.2356851087904607e-06,0.0,1.0,3.0
+cond-mat/9901336,A self-similar model for shear flows in dense granular materials,2.2356851087904607e-06,0.0,1.0,3.0
+nlin/0310011,"Equation-free modeling of evolving diseases: Coarse-grained computations
+  with individual-based models",2.2015701073695168e-06,1.990182755160072e-06,1.0,3.0
+physics/0511216,Zipf Law for Brazilian Cities,2.1898717628983977e-06,0.0,3.0,0.0
+gr-qc/9812083,Self-Referential Noise and the Synthesis of Three-Dimensional Space,2.1643795603689213e-06,2.9546021058397997e-08,3.0,13.0
+nlin/0306023,"Punctuated equilibria and 1/f noise in a biological coevolution model
+  with individual-based dynamics",2.144323213400125e-06,0.0,2.0,3.0
+adap-org/9708002,Self-Adaptation in Evolving Systems,2.1412341768730405e-06,0.0,1.0,0.0
+cs/9908013,Collective Intelligence for Control of Distributed Dynamical Systems,2.111630434508683e-06,0.0,4.0,0.0
+nlin/0204062,Boolean Dynamics with Random Couplings,2.105627755436779e-06,1.5921462041280577e-05,2.0,5.0
+cond-mat/0102402,Quantifying dynamics of the financial correlations,2.1056159906246584e-06,4.057604289139982e-06,3.0,5.0
+adap-org/9611005,Analysis of the Effective Degrees of Freedom in Genetic Algorithms,2.104675703646774e-06,0.0,1.0,3.0
+cond-mat/9811162,"Competition, efficiency and collective behavior in the ""El Farol"" bar
+  model",2.1015856234797755e-06,0.0001044845946459,4.0,12.0
+cond-mat/0005430,"A Continuous Time Asynchronous Model of the Stock Market; Beyond the LLS
+  Model",2.09384809404345e-06,0.0,2.0,0.0
+q-bio/0605020,Laws in Darwinian Evolutionary Theory,2.087073078468716e-06,0.0,2.0,0.0
+cond-mat/9810142,Self-Organized Segregation within an Evolving Population,2.0758009323722715e-06,0.0001074698687786,5.0,5.0
+cond-mat/9905039,Evolutionary freezing in a competitive population,2.0712112795359484e-06,1.990182755160072e-06,5.0,3.0
+cond-mat/9806138,Electrodynamical model of quasi-efficient financial market,2.0437737782166924e-06,0.0,2.0,6.0
+nlin/0406044,A New Nonextensive Entropy,2.0390643217557878e-06,0.0,2.0,2.0
+nlin/0608011,Geometric order parameter equations,2.031644307486504e-06,0.0,1.0,0.0
+nlin/0608017,From nonassociativity to solutions of the KP hierarchy,2.026500713948446e-06,0.0,1.0,0.0
+cond-mat/0012181,Degree Distributions of Growing Networks,2.0250051727508776e-06,0.0,5.0,10.0
+cond-mat/0011463,"Lyapunov exponents and transport in the Zhang model of Self-Organized
+  Criticality",2.023061402851477e-06,0.0,2.0,0.0
+chao-dyn/9501028,"Thermalization of a Brownian particle via coupling to low-dimensional
+  chaos",2.02118101595897e-06,0.0,2.0,1.0
+cond-mat/0506494,Multi-species grandcanonical models for networks with reciprocity,2.004257533926402e-06,0.0,1.0,0.0
+nlin/0112049,How To Attain Maximum Profit In Minority Game?,1.994782359011996e-06,0.0,1.0,0.0
+cond-mat/9904419,Scaling and percolation in the small-world network model,1.991718622715926e-06,0.0,5.0,10.0
+cond-mat/9907176,"Computational Mechanics: Pattern and Prediction, Structure and
+  Simplicity",1.9910555650428585e-06,0.0,2.0,14.0
+cond-mat/0210271,The Renormalization Group and the Dynamics of Genetic Systems,1.9877793357183173e-06,0.0,1.0,0.0
+quant-ph/0104091,Quantum mechanics gives stability to a Nash equilibrium,1.9821118989841043e-06,7.302287472291309e-08,2.0,8.0
+cond-mat/9809265,"Matrix Games, Mixed Strategies, and Statistical Mechanics",1.9703516789072803e-06,0.0,1.0,2.0
+adap-org/9903008,Evolution in Minority Games I. Games with a Fixed Strategy Space,1.9624654574399445e-06,1.990182755160072e-06,4.0,1.0
+nlin/0107038,"Large extinctions in an evolutionary model: The role of innovation and
+  keystone species",1.957903899222944e-06,1.5994522421332058e-07,4.0,2.0
+cond-mat/0012102,"Distribution of sizes of erased loops of loop-erased random walks in two
+  and three dimensions",1.9446656106092058e-06,0.0,2.0,1.0
+adap-org/9409003,"Towards A Description Of Interactive Psychoinformation Systems.
+  Preliminary Remarks. (K Opisaniyu Interaktivnyh Psihoinformatsionnyh Sistem.
+  Predvaritel'Nye Zamechaniya)",1.939060309408379e-06,0.0,3.0,0.0
+adap-org/9812003,Modeling 1/f noise,1.923843305644759e-06,0.0,3.0,7.0
+hep-ph/9409248,About Entropy and Thermalization - a Miniworkshop Perspective,1.8960824097054848e-06,0.0,2.0,3.0
+nlin/0509008,"Description of Complex Systems in terms of Self-Organization Processes
+  of Prime Integer Relations",1.8950380516170012e-06,0.0,1.0,1.0
+nlin/0104047,Effect of External Noise Correlation in Optical Coherence Resonance,1.8950380516170012e-06,0.0,1.0,1.0
+q-bio/0612021,"Angular velocity variations and stability of spatially explicit
+  prey-predator systems",1.8950380516170012e-06,0.0,1.0,1.0
+chao-dyn/9310003,Truncated horseshoes and formal languages in chaotic scattering,1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/9505076,Renormalization Group Analysis of a Noisy Kuramoto-Sivashinsky Equation,1.8950380516170012e-06,0.0,1.0,1.0
+chao-dyn/9908001,Fractional Langevin equation to describe anomalous diffusion,1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/9703078,Power Markets for Controlling Smart Matter,1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/9603016,Why Do Proteins Look Like Proteins?,1.8950380516170012e-06,0.0,1.0,0.0
+nlin/0404008,"Periodically Varying Externally Imposed Environmental Effects on
+  Population Dynamics",1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/9712115,Self-organized criticality as an absorbing-state phase transition,1.8950380516170012e-06,0.0,1.0,3.0
+nlin/0405046,"Synchronization Based Approach for Estimating All Model Parameters of
+  Chaotic Systems",1.8950380516170012e-06,0.0,1.0,0.0
+nlin/0309041,Synchronization in model networks of class I neurons,1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/0606754,Exactly solvable models of adaptive networks,1.8950380516170012e-06,0.0,1.0,0.0
+nlin/0010015,Social games in a social network,1.8950380516170012e-06,0.0,1.0,1.0
+cond-mat/9708108,Stationary Velocity Distributions in Traffic Flows,1.8950380516170012e-06,0.0,1.0,1.0
+adap-org/9904003,Three sided complex adaptative systems,1.8745566181234108e-06,2.1892010306760792e-05,4.0,8.0
+cond-mat/9811227,Crowd effects and volatility in a competitive market,1.871598311760397e-06,7.960731020640288e-06,4.0,15.0
+quant-ph/0007100,Evolutionarily Stable Strategies in Quantum Games,1.867404941636027e-06,1.9827567001035044e-06,5.0,7.0
+cond-mat/9604151,"Survival Probability of a Gaussian Non-Markovian Process: Application to
+  the T=0 Dynamics of the Ising Model",1.8575467357179816e-06,0.0,1.0,3.0
+cond-mat/0107606,Highly clustered scale-free networks,1.8432368487354675e-06,1.279380696548627e-05,4.0,4.0
+cond-mat/0002059,"Evaluation of the quantitative prediction of a trend reversal on the
+  Japanese stock market in 1999",1.8377570193743168e-06,0.0,1.0,0.0
+adap-org/9907010,Scaling in a Multispecies Network Model Ecosystem,1.836677351836284e-06,0.0,2.0,1.0
+adap-org/9801001,Geometric statistical inference,1.836677351836284e-06,0.0,2.0,4.0
+nlin/0005039,"A model for the emergence of cooperation, interdependence and structure
+  in evolving networks",1.836677351836284e-06,0.0,2.0,3.0
+cond-mat/0506476,Dynamics of Social Balance on Networks,1.836677351836284e-06,0.0,2.0,0.0
+cond-mat/0011094,Organization of Growing Random Networks,1.836597126347548e-06,0.0,3.0,13.0
+nlin/0204057,"Coupled Replicator Equations for the Dynamics of Learning in Multiagent
+  Systems",1.835215321373066e-06,0.0,1.0,0.0
+nlin/0109015,Wealth redistribution with finite resources,1.814369917059809e-06,1.990182755160072e-06,1.0,1.0
+cond-mat/0307630,Product Distribution Field Theory,1.8017064855899449e-06,1.3921377879378414e-05,1.0,4.0
+nlin/0303021,Contextual Random Boolean Networks,1.7990205381911442e-06,0.0,2.0,2.0
+nlin/0505041,Generalized BBV Models for Weighted Complex Networks,1.78979191539316e-06,0.0,2.0,0.0
+adap-org/9910002,A Simple Model of the Evolution of Simple Models of Evolution,1.782070753635231e-06,0.0,1.0,0.0
+adap-org/9907008,Autoregressive model of 1/f noise,1.7817587194323505e-06,0.0,2.0,6.0
+nlin/0610057,Synchronization processes in complex networks,1.775107365830469e-06,0.0,1.0,0.0
+cond-mat/9811197,Gauge Physics of Finance: simple introduction,1.7726142693928087e-06,0.0,2.0,0.0
+cond-mat/0402466,Wealth Dynamics on Complex Networks,1.7496162385484189e-06,7.4260550565674335e-09,1.0,1.0
+physics/0502066,Structure and Evolution of the World Trade Network,1.7496162385484189e-06,1.5921462041280577e-05,1.0,1.0
+physics/0701030,Interplay between topology and dynamics in the World Trade Web,1.7496162385484189e-06,0.0,1.0,0.0
+cond-mat/0005416,"Market Ecology, Pareto Wealth Distribution and Leptokurtic Returns in
+  Microscopic Simulation of the LLS Stock Market Model",1.7462187232795528e-06,0.0,2.0,5.0
+cond-mat/0402508,"Information Theory - The Bridge Connecting Bounded Rational Game Theory
+  and Statistical Physics",1.744402721345843e-06,5.960646858738125e-06,1.0,2.0
+nlin/0512015,A Predictive Theory of Games,1.744402721345843e-06,0.0,1.0,0.0
+cs/0403012,Distributed Control by Lagrangian Steepest Descent,1.744402721345843e-06,0.0,1.0,0.0
+quant-ph/0101106,"Entanglement and Dynamic Stability of Nash Equilibria in a Symmetric
+  Quantum Game",1.7413177064110048e-06,0.0,3.0,2.0
+hep-th/9404137,The Advantage of a Multi-User Mode,1.7283219076882956e-06,0.0,2.0,5.0
+cond-mat/9903357,Renormalization group analysis of the small-world network model,1.7227176043574703e-06,0.0,2.0,13.0
+cond-mat/0005139,Connectivity of Growing Random Networks,1.7218796464313903e-06,0.0,2.0,15.0
+adap-org/9912005,The Importance of Being Discrete - Life Always Wins on the Surface,1.718444534080739e-06,7.426055056567433e-08,1.0,3.0
+adap-org/9611003,A model of macroevolution with a natural system size,1.7130915270505389e-06,0.0,2.0,1.0
+nlin/0107068,Periodicity Manifestations in the Non-Locally Coupled Maps,1.703003024765287e-06,0.0,1.0,0.0
+nlin/0111024,"Universality in the periodicity manifestations in the non-locally
+  coupled map lattices in the turbulent regime",1.703003024765287e-06,0.0,1.0,0.0
+nlin/0412059,Limit Cycle and Conserved Dynamics,1.703003024765287e-06,0.0,1.0,0.0
+cond-mat/0209086,Evolutionary games and quasispecies,1.703003024765287e-06,0.0,1.0,0.0
+cond-mat/0402555,"Universal local versus unified global scaling laws in the statistics of
+  seismicity",1.703003024765287e-06,0.0,1.0,0.0
+adap-org/9909002,Statistical measures of complexity for strongly interacting systems,1.703003024765287e-06,0.0,1.0,2.0
+q-bio/0401015,"Switching Time Statistics for Driven Neuron Models: Analytic Expressions
+  versus Numerics",1.703003024765287e-06,0.0,1.0,0.0
+gr-qc/9702014,A Self-Organized Critical Universe,1.678122041852245e-06,1.3291116539255651e-06,2.0,3.0
+cond-mat/0002331,"From naive to sophisticated behavior in multiagents based financial
+  market models",1.6754612126118354e-06,0.0,2.0,2.0
+adap-org/9803001,"Large-scale evolution and extinction in a hierarchically structured
+  environment",1.6746845216801955e-06,0.0,2.0,0.0
+cond-mat/9705087,Scaling in stock market data: stable laws and beyond,1.6591238874411007e-06,0.0,3.0,12.0
+cond-mat/9904071,Phase Transition and Symmetry Breaking in the Minority Game,1.6496787321431725e-06,1.3931279286120504e-05,3.0,18.0
+cond-mat/0002335,"Competing neural networks: Finding a strategy for the game of matching
+  pennies",1.6227915524854475e-06,0.0,1.0,0.0
+cond-mat/9907371,"Download relaxation dynamics on the WWW following newspaper publication
+  of URL",1.6115577738835184e-06,0.0,2.0,0.0
+nlin/0506046,"Nonlocal competition and logistic growth: patterns, defects and fronts",1.60698551133943e-06,0.0,1.0,0.0
+astro-ph/0001443,Scale Dependent Dimension of Luminous Matter in the Universe,1.60698551133943e-06,0.0,1.0,1.0
+math/0301268,Improving Search Algorithms by Using Intelligent Coordinates,1.60698551133943e-06,0.0,1.0,0.0
+cond-mat/0003215,"Topological Evolution of Dynamical Networks: Global Criticality from
+  Local Dynamics",1.60698551133943e-06,0.0,1.0,3.0
+cond-mat/9801290,"Comment on: Role of Intermittency in Urban Development: A Model of
+  Large-Scale City Formation",1.60698551133943e-06,0.0,1.0,0.0
+cond-mat/9601030,"Statistical Inference, Occam's Razor and Statistical Mechanics on The
+  Space of Probability Distributions",1.60698551133943e-06,0.0,1.0,6.0
+nlin/0102029,Complex structures in generalized small worlds,1.5977528551513745e-06,0.0,1.0,0.0
+nlin/0206024,"Localization and Coherent Structures in Wave Dynamics via
+  Multiresolution",1.5816378706469724e-06,0.0,1.0,4.0
+nlin/0610047,"A self-organized particle moving model on scale free network with
+  $1/f^{2}$ behavior",1.5605053413541546e-06,0.0,1.0,0.0
+nlin/0210026,Diversity Evolution,1.559416820255953e-06,0.0,1.0,0.0
+nlin/0402002,"Evidence of universality for the May-Wigner stability theorem for random
+  networks with local dynamics",1.559416820255953e-06,0.0,1.0,1.0
+cond-mat/0205323,Asymptotic Dynamics of Breathers in Fermi-Pasta-Ulam Chains,1.5493750032839157e-06,0.0,1.0,1.0
+physics/0109064,"Alteration of Chemical Concentrations through Discreteness-Induced
+  Transitions in Small Autocatalytic Systems",1.5493750032839157e-06,0.0,1.0,0.0
+nlin/0107073,Dynamics of a simple evolutionary process,1.5493750032839157e-06,0.0,1.0,0.0
+nlin/0009046,Vertical transmission of culture and the distribution of family names,1.5493750032839157e-06,0.0,1.0,4.0
+cond-mat/0306354,"General non-existence theorem for phase transitions in one-dimensional
+  systems with short range interactions, and physical examples of such
+  transitions",1.5493750032839157e-06,0.0,1.0,3.0
+cond-mat/9607180,Field Theories for Learning Probability Distributions,1.5486248115587124e-06,0.0,1.0,5.0
+cond-mat/0004063,Generalized strategies in the Minority Game,1.5445110207936957e-06,5.970548265480216e-06,2.0,6.0
+nlin/0212010,HebbNets: Dynamic network with Hebbian learning rule,1.538955146567322e-06,0.0,1.0,0.0
+cond-mat/0210686,Smallest small-world network,1.538955146567322e-06,0.0,1.0,0.0
+cond-mat/9705075,Scaling and correlation in financial data,1.5301033142045391e-06,0.0,1.0,17.0
+nlin/0111023,Evolutionary reconstruction of networks,1.5295226748816362e-06,0.0,1.0,0.0
+nlin/0204012,Contact tracing and epidemics control in social networks,1.5295226748816362e-06,0.0,1.0,0.0
+adap-org/9811005,The Structure of Adaptive Competition in Minority Games,1.5287614459346175e-06,2.7862558572241007e-05,2.0,14.0
+cond-mat/0301459,Collectives for the Optimal Combination of Imperfect Objects,1.521436557250164e-06,0.0,1.0,0.0
+nlin/0204007,ROSAT/Asca Observations of the Mixed-Morphology Supernova Remnant W28,1.5194444616683535e-06,0.0,1.0,1.0
+cond-mat/0310503,The scale-free topology of market investments,1.5117561970307103e-06,3.2181944088173194e-05,1.0,10.0
+adap-org/9710001,Evolution and extinction dynamics in rugged fitness landscapes,1.5109679979135728e-06,0.0,1.0,1.0
+adap-org/9810005,Emergence and Growth of Complex Networks in Adaptive Systems,1.5109679979135728e-06,0.0,1.0,4.0
+adap-org/9804002,Critical Exponent of Species-Size Distribution in Evolution,1.5109679979135728e-06,0.0,1.0,0.0
+solv-int/9909010,Pfaff tau-functions,1.5109679979135728e-06,0.0,1.0,6.0
+nlin/0402010,"Non-Markov stochastic dynamics of real epidemic process of respiratory
+  infections",1.5109679979135728e-06,0.0,1.0,0.0
+nlin/0406053,Awaking and Sleeping a Complex Network,1.5109679979135728e-06,0.0,1.0,0.0
+physics/9708026,"Neutral Mutations and Punctuated Equilibrium in Evolving Genetic
+  Networks",1.5109679979135728e-06,0.0,1.0,1.0
+cond-mat/0408700,"Self-organized Criticality and Scale-free Properties in Emergent
+  Functional Neural Networks",1.5109679979135728e-06,0.0,1.0,1.0
+nlin/0408006,Introduction to Random Boolean Networks,1.4835344226490424e-06,0.0,1.0,3.0
+nlin/0108047,Parity and Ruin in a Stochastic Game,1.4835344226490424e-06,0.0,1.0,0.0
+nlin/0402006,Updating Schemes in Random Boolean Networks: Do They Really Matter?,1.4835344226490424e-06,0.0,1.0,0.0
+adap-org/9909003,"Analysis of the optimality principles responsible for vascular network
+  architectonics",1.4835344226490424e-06,0.0,1.0,1.0
+adap-org/9811001,"Distributed Self-regulation Induced by Negative Feedbacks in Ecological
+  and Economic Systems",1.4835344226490424e-06,0.0,1.0,3.0
+adap-org/9903004,"Mechanism of Self-regulation in a Simple Model of Hierarchically
+  Organized Market",1.4835344226490424e-06,0.0,1.0,3.0
+cond-mat/0005152,Crowd-anticrowd theory of the Minority Game,1.483426185760121e-06,0.0,1.0,5.0
+cond-mat/0003486,Crowd-anticrowd model of the Minority Game,1.483426185760121e-06,2.3535997447617144e-05,1.0,21.0
+cond-mat/9709247,Error threshold in finite populations,1.4826494948284814e-06,0.0,1.0,0.0
+nlin/0108036,"The avalanche dynamics in Bak-Sneppen evolution model observed with
+  standard distribution width of fitness",1.4826494948284814e-06,0.0,1.0,0.0
+cond-mat/9806240,A solvable model of the evolutionary loop,1.4826494948284814e-06,0.0,1.0,0.0
+nlin/0111028,"Avalanche dynamics in Bak-Sneppen evolution model observed with standard
+  distribution width of fitness",1.4826494948284814e-06,0.0,1.0,0.0
+nlin/0402012,Analysis of Data Clusters Obtained by Self-Organizing Methods,1.4629592412006444e-06,0.0,1.0,0.0
+nlin/0512059,Theory of Nonlinear Dispersive Waves and Selection of the Ground State,1.4629592412006444e-06,0.0,1.0,0.0
+cond-mat/0404521,Patterns of link reciprocity in directed networks,1.4503552809004484e-06,0.0,1.0,1.0
+adap-org/9409002,"Secondary Image Synthesis In Electronic Computer Photography (Vtorichnyj
+  Sintez Izobrazhenij V Elektronnoj Komp'Yuternoj Fotografii)",1.446956322296335e-06,0.0,1.0,4.0
+hep-th/9401067,"Visualizing 2D Quantum Field Theory: Geometry and Informatics of
+  Mobilevision",1.446956322296335e-06,0.0,1.0,7.0
+cond-mat/9702134,Competition in a Fitness Landscape,1.446956322296335e-06,0.0,1.0,4.0
+adap-org/9511002,Octonionic binocular mobilevision. An overview,1.446956322296335e-06,0.0,1.0,0.0
+adap-org/9506003,"Self-Organization in Models of Populations with Two-Parent Reproduction
+  on a Rugged Fitness Landscape",1.446956322296335e-06,0.0,1.0,0.0
+nlin/0006025,"Information Bottlenecks, Causal States, and Statistical Relevance Bases:
+  How to Represent Relevant Information in Memoryless Transduction",1.4341539871728873e-06,0.0,1.0,3.0
+cond-mat/9801309,Stochastic Dynamics in Game Theory,1.4341539871728873e-06,0.0,1.0,1.0
+cond-mat/0004376,Trading behavior and excess volatility in toy markets,1.4304130333299736e-06,0.0,1.0,15.0
+cond-mat/9803308,Modeling Market Mechanism with Evolutionary Games,1.4272604221064154e-06,0.0,2.0,4.0
+nlin/0002004,The Minority Game with Variable Payoffs,1.4158013249729764e-06,0.0,1.0,8.0
+gr-qc/9810024,Propagating spin modes in canonical quantum gravity,1.4129570923955865e-06,8.121013629326938e-06,1.0,5.0
+cond-mat/0004308,Comment on: Thermal model for Adaptive Competition in a Market,1.4021456446483483e-06,0.0,1.0,11.0
+nlin/0509039,"Vortices, circumfluence, symmetry groups and Darboux transformations of
+  the Euler equations",1.4012336968554504e-06,0.0,1.0,0.0
+cond-mat/9903415,A thermal model for adaptive competition in a market,1.4005886185917385e-06,7.960731020640288e-06,1.0,9.0
+cond-mat/9712318,Herd behavior and aggregate fluctuations in financial markets,1.3978574503371032e-06,0.0,1.0,37.0
+cond-mat/9802177,Volatility and Agent Adaptability in a Self-Organizing Market,1.3964305841227923e-06,0.0,2.0,6.0
+cond-mat/0411611,"Numerical Simulation of Vortex Crystals and Merging in N-Point Vortex
+  Systems with Circular Boundary",1.3874597873045716e-06,0.0,1.0,0.0
+nlin/0202034,Modelling Food Webs,1.382944646679097e-06,0.0,1.0,5.0
+cond-mat/0504092,1/f spectrum in the information transfer model for mass extinction,1.382944646679097e-06,0.0,1.0,0.0
+adap-org/9910003,Simple models of evolution and extinction,1.382944646679097e-06,0.0,1.0,1.0
+nlin/0601045,Abrupt transition in a sandpile model,1.3685605300540628e-06,0.0,1.0,0.0
+nlin/0211010,Evolution and anti-evolution in a minimal stock market model,1.3521148086954738e-06,0.0,1.0,0.0
+cond-mat/9705174,Avalanches and Waves in the Abelian Sandpile Model,1.346692024863271e-06,0.0,1.0,1.0
+cond-mat/9706099,Aging Exponents in Self-Organized Criticality,1.346692024863271e-06,0.0,1.0,3.0
+nlin/0111055,"Going with the Flow: a Lagrangian approach to self-similar dynamics and
+  its consequences",1.3299622441314631e-06,6.054048593421412e-05,1.0,9.0
+adap-org/9810004,Optimizing Epochal Evolutionary Search: Population-Size Dependent Theory,1.3189329710618589e-06,0.0,0.0,3.0
+adap-org/9705003,Generalized Deterministic Traffic Rules,1.3189329710618589e-06,0.0,0.0,8.0
+cond-mat/9905082,Self-organized Networks of Competing Boolean Agents,1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/9908069,"Transmission of Information and Herd Behavior: an Application to
+  Financial Markets",1.3189329710618589e-06,0.0,0.0,7.0
+cond-mat/0208414,Winner-Relaxing Self-Organizing Maps,1.3189329710618589e-06,0.0,0.0,3.0
+adap-org/9801003,Modelling coevolution in multispecies communities,1.3189329710618589e-06,0.0,0.0,5.0
+physics/9807011,"Quantum Maxwell-Bloch equations for spatially inhomogeneous
+  semiconductor lasers",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9903067,Hysteresis at low Reynolds number: the onset of 2D vortex shedding,1.3189329710618589e-06,0.0,0.0,1.0
+comp-gas/9403003,Correlations and Renormalization in Lattice Gases,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9807038,"Scaling and interleaving of sub-system Lyapunov exponents for
+  spatio-temporal systems",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9505012,"Thermodynamic Description of the Relaxation of Two-Dimensional Euler
+  Turbulence Using Tsallis Statistics",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0305351,Altruistic Duality in Evolutionary Game Theory,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0612124,"Mesoscopic structure conditions the emergence of cooperation on social
+  networks",1.3189329710618589e-06,0.0,0.0,1.0
+hep-lat/9611017,Cellular automata and self-organized criticality,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9905387,Self-organized evolution in socio-economic environments,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0508032,Self-Sustained Thought Processes in a Dense Associative Network,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9809135,Statistical Features in Learning,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0504001,A nonlocal continuum model for biological aggregation,1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9807001,"Nondecay probability of a metastable state: almost exact analytical
+  description in wide range of noise intensity",1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9712005,Effects of neutral selection on the evolution of molecular species,1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9510002,"Avalanche Dynamics in Evolution, Growth, and Depinning Models",1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9607002,"Self-organized criticality, evolution and the fossil extinction record",1.3189329710618589e-06,0.0,0.0,1.0
+comp-gas/9403001,"Estimating Functions of Probability Distributions from a Finite Set of
+  Samples, Part 1: Bayes Estimators and the Shannon Entropy",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9712132,"Threshold Noise as a Source of Volatility in Random Synchronous
+  Asymmetric Neural Networks",1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0101006,On Complexity and Emergence,1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/9905014,"Phase Diagram Of The Biham-Middleton-Levine Traffic Model In Three
+  Dimensions",1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0411066,Self-Organizing Traffic Lights,1.3189329710618589e-06,0.0,0.0,2.0
+nlin/0201051,"Self-organized and driven phase synchronization in coupled map scale
+  free networks",1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9604001,Quantum Chaotic Dynamics and Random Polynomials,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9602067,Tracer Dispersion in a Self-Organized Critical System,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0003174,Structures and propagation in globally coupled systems with time delays,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9905064,Statistical-thermodynamical foundations of anomalous diffusion,1.3189329710618589e-06,0.0,0.0,3.0
+hep-ph/9602282,Oscillons in a Hot Heat Bath,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0602033,Community Structure in the United States House of Representatives,1.3189329710618589e-06,0.0,0.0,2.0
+nlin/0005018,Spatial competition and price formation,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9312006,The Limits of Mathematics---Course Outline and Software,1.3189329710618589e-06,0.0,0.0,2.0
+astro-ph/9705050,Turbulent coronal heating and the distribution of nanoflares,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0403051,Fitness-dependent topological properties of the World Trade Web,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9702163,Rational Group Decision Making. A random field Ising model at T=0,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9903085,Critical and Near-Critical Branching Processes,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9806046,Statistics of Certain Models of Evolution,1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9811003,"Extinction, diversity and survivorship of taxa in the fossil record",1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9710002,"Self-Organized Criticality with Complex Scaling Exponents in the Train
+  Model",1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9809004,Decline in extinction rates and scale invariance in the fossil record,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0608208,Structure of Optimal Transport Networks Subject to a Global Constraint,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0009018,Function and form in networks of interacting agents,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9603007,On War: The Dynamics of Vicious Civilizations,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0404004,"Protocol Requirements for Self-organizing Artifacts: Towards an Ambient
+  Intelligence",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9807077,Phase Transition in the Number Partitioning Problem,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0104066,Beyond the Zipf-Mandelbrot law in quantitative linguistics,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9602011,Self-Organized Criticality and $1/f$ Noise in Traffic,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0210027,Open-Ended Artificial Evolution,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0311230,Pattern formation and nonlocal logistic growth,1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9708003,Codon Bias and Mutability in HIV Sequences,1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9508006,Non-Mean-Field Behavior of Realistic Spin Glasses,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9809001,"Expansion-modificaction systems: an explanation for long range
+  correlations in DNA",1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0112022,Computing A Glimpse of Randomness,1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9507002,The Instability of Markets,1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9409001,Bubbles and Market Crashes,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0506151,Phase coexistence in a forecasting game,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0206030,"Range-based attack on links in scale-free networks: are long-range links
+  responsible for the small-world phenomenon?",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9406054,Physical tests for Random Numbers in Simulations,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9411081,"Monte Carlo with Absorbing Markov Chains: Fast Local Algorithms for Slow
+  Dynamics",1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0402029,Fluctuation-dissipation theorem and models of learning,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9701118,"Majority-Vote Cellular Automata, Ising Dynamics, and P-Completeness",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9707342,"Power Law Scaling for a System of Interacting Units with Complex
+  Internal Structure",1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0307010,"Communication and Synchronization in Disconnected Networks with Dynamic
+  Topology: Moving Neighborhood Networks",1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0201042,Coupled Map Networks as Communication Schemes,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0112271,Identifying Complexity by Means of Matrices,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0211024,"Exploring the cooperative regimes in a model of agents without memory or
+  ""tags"": indirect reciprocity vs. selfish incentives",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9709083,Are Protein Folds Atypical?,1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9809003,Autocatalytic Sets and the Growth of Complexity in an Evolutionary Model,1.3189329710618589e-06,0.0,0.0,6.0
+cond-mat/9711055,Noise induced transport at zero temperature,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0309026,Dynamics of Immobilized Flagella,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0612023,Quantifying the taxonomic diversity in real species communities,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0007055,Interaction between directional epistasis and average mutational effects,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0009287,Money and Goldstone modes,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0509061,"Comment on ""Earthquakes Descaled""",1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0603052,Excitable Dynamics in the Presence of Time Delay,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0411006,"Emergent Effective Collusion in an Economy of Perfectly Rational
+  Competitors",1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0412047,The song of the dunes as a self-synchronized instrument,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0403030,Adaptive Synchronization in Coupled Dynamic Networks,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0406058,"Objects That Make Objects: The Population Dynamics of Structural
+  Complexity",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9904055,Multiple Scales in Small-World Graphs,1.3189329710618589e-06,0.0,0.0,14.0
+nlin/0401019,"An observation of a nascent fractal pattern in MD simulation for a
+  fragmentation of an fcc lattice",1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9707002,Random Neighbor Theory of the Olami-Feder-Christensen Earthquake Model,1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9512002,"Comment on ""White-Noise-Induced Transport in Periodic Structures""",1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9810002,"Nonlinear theory of autooscillations of quasiplanar interface during
+  directional solidification",1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9704003,The Study of Correlation Structures of DNA Sequences: A Critical Review,1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9708005,Dynamics controlled by additive noise,1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9907001,Lyapunov Exponents in Random Boolean Networks,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0301036,Nonlinear charge transport in DNA mediated by twist modes,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0204047,Fractal Evolution of Normalized Feedback Systems on a Lattice,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0112047,Two and three-dimensional oscillons in nonlinear Faraday resonance,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0401352,"Non-Gaussian Resistance Noise near Electrical Breakdown in Granular
+  Materials",1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0106006,The Ising Model for Changes in Word Ordering Rule in Natural Language,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0104002,Asymptotic analysis of a model of autoresonance,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0010044,Discrete derivatives and symmetries of difference equations,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0011021,Interface dynamics equations: their properties and computer simulation,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0202018,Noncoaxial multivortices in the complex sine-Gordon theory on the plane,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9611024,Controlling Smart Matter,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0605020,Emergent Criticality from Co-evolution in Random Boolean Networks,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9803367,"Stochastic Lotka-Volterra Systems of Competing Auto-Catalytic Agents
+  Lead Generically to Truncated Pareto Power Wealth Distribution, Truncated
+  Levy Distribution of Market Returns, Clustered Volatility, Booms and Craches",1.3189329710618589e-06,0.0,0.0,4.0
+adap-org/9706001,Adaptation and Optimal Chemotactic Strategy for E. Coli,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0310009,Quantum circa-rhythms,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0205021,Complexity in some Physical Systems,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0211606,"Self-Organization, Active Brownian Dynamics, and Biological Applications",1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9508002,"Smoothing representation of fitness landscapes - the genotype-phenotype
+  map of evolution",1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/0208240,Are the contemporary financial fluctuations sooner converging to normal?,1.3189329710618589e-06,0.0,0.0,3.0
+nlin/0303010,Flicker Noise in a Model of Coevolving Biological Populations,1.3189329710618589e-06,0.0,0.0,5.0
+cond-mat/0206369,"First and second order clustering transitions for a system with
+  infinite-range attractive interaction",1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0201046,Intelligent systems in the context of surrounding environment,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9612097,The metastate approach to thermodynamic chaos,1.3189329710618589e-06,0.0,0.0,6.0
+adap-org/9712003,Cellular automaton rules conserving the number of active sites,1.3189329710618589e-06,0.0,0.0,11.0
+nlin/0312026,"On the emergence of complex systems on the basis of the coordination of
+  complex behaviors of their elements",1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0003041,Competitive Dynamics of Web Sites,1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/9706041,Jamming transition in a cellular automaton model for traffic flow,1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/9709118,A Prototype Model of Stock Exchange,1.3189329710618589e-06,0.0,0.0,5.0
+cond-mat/9808147,"Thermodynamic Depth of Causal States: When Paddling around in Occam's
+  Pool Shallowness Is a Virtue",1.3189329710618589e-06,0.0,0.0,4.0
+adap-org/9609002,Spontaneous Scaling Emergence in Generic Stochastic Systems,1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/0307756,Scaling of impact fragmentation near the critical point,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9703051,Lacunarity of Random Fractals,1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/0401266,Synchronization of Kuramoto Oscillators in Scale-Free Networks,1.3189329710618589e-06,0.0,0.0,3.0
+chao-dyn/9305008,Formal Languages in Dynamical Systems,1.3189329710618589e-06,0.0,0.0,2.0
+adap-org/9909006,Performance of data networks with random links,1.3189329710618589e-06,0.0,0.0,2.0
+adap-org/9509003,"Self-organization, ergodicity breaking, phase transition and
+  synchronization in two-dimensional traffic-flow model",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9808039,How to Implement A Priori Information: A Statistical Mechanics Approach,1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/0005426,Marketing Percolation,1.3189329710618589e-06,0.0,0.0,3.0
+nlin/0006023,"HIV time hierarchy: Winning the war while, loosing all the battles",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9412120,"Magnetization switching in nanoscale ferromagnetic grains: description
+  by a kinetic Ising model",1.3189329710618589e-06,0.0,0.0,2.0
+quant-ph/0503188,Quantum computing of delocalization in small-world networks,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9701201,Randomness and Apparent Fractality,1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9401002,Learning and Complexity in Genetic Auto-Adaptive Systems,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9711228,Avalanche Mixing of Granular Solids,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0405451,Selection theorem for systems with inheritance,1.3189329710618589e-06,0.0,0.0,2.0
+nlin/0308031,Stability of synchronized oscillations in networks of phase-oscillators,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9911474,"Field Theoretical Analysis of On-line Learning of Probability
+  Distributions",1.3189329710618589e-06,0.0,0.0,4.0
+nlin/0002007,A family of multi-value cellular automaton model for traffic flow,1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/9910332,Emergence of scaling in random networks,1.3189329710618589e-06,0.0,0.0,7.0
+nlin/0010012,Small world effect in an epidemiological model,1.3189329710618589e-06,0.0,0.0,2.0
+astro-ph/9608168,A Two--Exponent Mass-Size Power Law for Celestial Objects,1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9502003,Statistical Theory of Sedimentation of Disordered Suspensions,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0511730,Synchronization reveals topological scales in complex networks,1.3189329710618589e-06,0.0,0.0,2.0
+adap-org/9407003,Asymptotic Exit Location Distributions in the Stochastic Exit Problem,1.3189329710618589e-06,0.0,0.0,2.0
+adap-org/9905006,Globally coupled bistable elements as a model of group decision making,1.3189329710618589e-06,0.0,0.0,2.0
+adap-org/9904005,Lattice three-species models of the spatial spread of rabies among foxes,1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9507003,Pattern Formation and Functionality in Swarm Models,1.3189329710618589e-06,0.0,0.0,2.0
+quant-ph/0106056,Stability of mixed Nash equilibria in symmetric quantum games,1.3189329710618589e-06,0.0,0.0,6.0
+nlin/0010051,The thunder of distant Net storms,1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9605002,Physical Complexity of Symbolic Sequences,1.3189329710618589e-06,0.0,0.0,6.0
+cond-mat/0111310,Testing the Gaussian Copula Hypothesis for Financial Assets Dependences,1.3189329710618589e-06,0.0,0.0,3.0
+adap-org/9905004,Number-conserving cellular automaton rules,1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/0309568,Extinction in population dynamics,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0504092,On Optimality Condition of Complex Systems: Computational Evidence,1.3189329710618589e-06,0.0,0.0,2.0
+hep-th/9401047,Octonions and Binocular Mobilevision,1.3189329710618589e-06,0.0,0.0,9.0
+cond-mat/9901022,Spontaneous coalition forming: a model from spin glass,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9609006,Critical Dynamics of Self-Organizing Eulerian Walkers,1.3189329710618589e-06,0.0,0.0,2.0
+adap-org/9810003,"Optimizing Epochal Evolutionary Search: Population-Size Independent
+  Theory",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0310407,Time-Decreasing Hazard and Increasing Time until the Next Earthquake,1.3189329710618589e-06,0.0,0.0,3.0
+nlin/0408005,Small and Large Scale Fluctuations in Atmospheric Wind Speeds,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9901351,Nature's Way of Optimizing,1.3189329710618589e-06,0.0,0.0,3.0
+q-bio/0403020,Mathematical Structure of Evolutionary Theory,1.3189329710618589e-06,0.0,0.0,3.0
+adap-org/9601001,"A Geometric Formulation of Occam's Razor for Inference of Parametric
+  Distributions",1.3189329710618589e-06,0.0,0.0,4.0
+nlin/0509004,Cultural propagation on social networks,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0002032,"The Influence of Predator-Prey Population Dynamics on the Long-term
+  Evolution of Food Web Structure",1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0108022,Forecasting Portfolio Risk in Normal and Stressed Markets,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9607066,Simple Model of Large Scale Organization in Evolution,1.3189329710618589e-06,0.0,0.0,6.0
+cond-mat/0507285,Path-integral approach to the dynamics in sparse random network,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0101038,Modeling Nonlinear Dynamical Systems with Delay-differential Equations,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0507054,A Model of Coupled-Maps for Economic Dynamics,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0002054,Synchronization of Chaotic Systems by Common Random Forcing,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9410181,Quantum Diffusion,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9511090,"Field Theory Entropy, the $H$-theorem and the Renormalization Group",1.3189329710618589e-06,0.0,0.0,6.0
+cond-mat/9911168,"Dynamics of competition between collectivity and noise in the stock
+  market",1.3189329710618589e-06,0.0,0.0,7.0
+physics/0402091,Symmetry-breaking in chiral polymerisation,1.3189329710618589e-06,0.0,0.0,5.0
+nlin/0106028,Introduction to Spin and Lattice Models in the Social Sciences,1.3189329710618589e-06,0.0,0.0,5.0
+physics/0004057,The information bottleneck method,1.3189329710618589e-06,0.0,0.0,10.0
+adap-org/9305001,A Criterion for Stability in Random Boolean Cellular Automata,1.3189329710618589e-06,0.0,0.0,2.0
+quant-ph/0605082,Comparison of SDL and LMC measures of complexity: Atoms as a testbed,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0204562,"Order-disorder transition in the Chialvo-Bak `minibrain' controlled by
+  network geometry",1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9908002,Models of Extinction: A Review,1.3189329710618589e-06,0.0,0.0,18.0
+adap-org/9912004,Fitness versus Longevity in Age-Structured Population Dynamics,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9601102,"On Self-Organized Criticality and Synchronization in Lattice Models of
+  Coupled Dynamical Systems",1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9709006,"Analysis, Synthesis, and Estimation of Fractal-Rate Stochastic Point
+  Processes",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0401074,Cascade control and defense in complex networks,1.3189329710618589e-06,0.0,0.0,2.0
+adap-org/9712006,"Adaptive Competition, Market Efficiency, Phase Transitions and
+  Spin-Glasses",1.3189329710618589e-06,0.0,0.0,26.0
+cond-mat/0402519,Entrainment of randomly coupled oscillator networks by a pacemaker,1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9809001,The Evolutionary Design of Collective Computation in Cellular Automata,1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9706005,The Bak-Chen-Tang Forest Fire Model Revisited,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9603085,"Continuum Theory with Memory for Avalanches in Self-Organized
+  Criticality",1.3189329710618589e-06,0.0,0.0,2.0
+adap-org/9808003,Cooperative mechanism of self-regulation in hierarchical living systems,1.3189329710618589e-06,0.0,0.0,7.0
+cond-mat/9603120,"Transport in Sand Piles, Interface Depinning, and Earthquake Models",1.3189329710618589e-06,0.0,0.0,2.0
+adap-org/9806004,Simple model of 1/f noise,1.3189329710618589e-06,0.0,0.0,8.0
+cond-mat/0005235,Stability and noise in biochemical switches,1.3189329710618589e-06,0.0,0.0,5.0
+nlin/0206011,The tortuous behavior of lightning,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0308003,Charge transport in poly(dG)-poly(dC) and poly(dA)-poly(dT) DNA polymers,1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/9510079,Phase space geometry and slow dynamics,1.3189329710618589e-06,0.0,0.0,4.0
+adap-org/9806002,On the 1/f fluctuations in the nonlinear systems affected by noise,1.3189329710618589e-06,0.0,0.0,5.0
+adap-org/9702003,A model of mass extinction,1.3189329710618589e-06,0.0,0.0,6.0
+adap-org/9603001,"Response to Parisi's Comment on ``Non-mean-field behavior of realistic
+  spin glasses''",1.3189329710618589e-06,0.0,0.0,7.0
+quant-ph/9505012,"Feynman-Kac Kernels in Markovian Representations of the Schroedinger
+  Interpolating Dynamics",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0003130,"Synchronization in populations of globally coupled oscillators with
+  inertial effects",1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0406020,"Three Logistic Models for the Two-Species Interactions: Symbiosis,
+  Predator-Prey and Competition",1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9802001,"Conditional exponents, entropies and a measure of dynamical
+  self-organization",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9509075,Particle hopping models and traffic flow theory,1.3189329710618589e-06,0.0,0.0,4.0
+adap-org/9805001,Statistics of extinction and survival in Lotka-Volterra systems,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9907038,The diameter of the world wide web,1.3189329710618589e-06,0.0,0.0,9.0
+nlin/0206050,"Stationary and moving breathers in a simplified model of curved
+  alpha--helix proteins",1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9801004,Invariant closure for the Fokker-Planck equation,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0410033,Brownian motors,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0209103,Zipf's Law in Gene Expression,1.3189329710618589e-06,0.0,0.0,2.0
+adap-org/9601004,Self-Organized Critical Directed Percolation,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0003333,Robustness as an Evolutionary Principle,1.3189329710618589e-06,0.0,0.0,4.0
+adap-org/9710003,TRANSIMS traffic flow characteristics,1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9811002,A simple model for the formation of a complex organism,1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9712001,Experiences with iterated traffic microsimulations in Dallas,1.3189329710618589e-06,0.0,0.0,1.0
+cs/9905004,Using Collective Intelligence to Route Internet Traffic,1.3189329710618589e-06,0.0,0.0,1.0
+patt-sol/9701008,"Predicting Non-linear Cellular Automata Quickly by Decomposing Them into
+  Linear Ones",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9710328,Equilibrium Chemical Engines,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9708186,Statistical Measures of Complexity: Why?,1.3189329710618589e-06,0.0,0.0,2.0
+adap-org/9407001,Constructive Complexity and Artificial Reality: An Introduction,1.3189329710618589e-06,0.0,0.0,3.0
+adap-org/9607001,Power Laws are Logarithmic Boltzmann Laws,1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9708006,Emergence of Cooperation and Organization in an Evolutionary Game,1.3189329710618589e-06,0.0,0.0,18.0
+adap-org/9303001,The length of a typical Huffman codeword,,,,
+adap-org/9303002,Evolution to the Edge of Chaos in Imitation Game,,,,
+adap-org/9303003,"Revisiting the Edge of Chaos: Evolving Cellular Automata to Perform
+  Computations",,,,
+adap-org/9304001,Antichaos in a Class of Random Boolean Cellular Automata,,,,
+adap-org/9305002,"Biased Random-Walk Learning: A Neurobiological Correlate to
+  Trial-and-Error",,,,
+adap-org/9306001,"A nonequilibrium statistical field theory of swarms and other spatially
+  extended complex systems",,,,
+adap-org/9306003,"Dynamics, Computation, and the ""Edge of Chaos"": A Re-Examination",,,,
+adap-org/9306004,Exact solutions for a mean-field Abelian sandpile,,,,
+adap-org/9306005,Prediction and Adaptation in an Evolving Chaotic Environment,,,,
+adap-org/9309001,On the Threshold of Chaos in Random Boolean Cellular Automata,,,,
+adap-org/9311001,"Cell Division, Differentiation and Dynamic Clustering",,,,
+adap-org/9311002,Imitation Games,,,,
+adap-org/9311003,Chaos as a Source of Complexity and Diversity in Evolution,,,,
+adap-org/9311004,Scaling behaviour in daily air humidity fluctuations,,,,
+adap-org/9311005,Parametric ordering of complex systems,,,,
+adap-org/9401001,Self-organized Criticality in Living Systems,,,,
+adap-org/9402001,Training and Turnover in Organizations,,,,
+adap-org/9404001,Cellular Games,,,,
+adap-org/9405001,Beliefs and Cooperation,,,,
+adap-org/9405002,On Modelling Life,,,,
+adap-org/9405003,"Evolutionary Learning in the 2D Artificial Life System ""Avida""",,,,
+adap-org/9405004,Nonlinear Dynamics in Distributed Systems,,,,
+adap-org/9406001,Study of a New Neuron,,,,
+adap-org/9407002,Dynamics of a stochastically driven running sandpile,,,,
+adap-org/9408001,A Network of Oscillators for Retrieving Phase Information,,,,
+adap-org/9410002,On The Avalanche-finiteness Of Abelian Sandpiles,,,,
+adap-org/9410003,"Random Walks on a Fluctuating Lattice: A Renormalization Group Approach
+  Applied in One Dimension",,,,
+adap-org/9410004,"Mass-extinction: Evolution and the effects of external influences on
+  unfit species",,,,
+adap-org/9410005,Kinetic Theory of Anomalous Transport of SupraThermal Particles,,,,
+adap-org/9410006,Communities of Practice: Performance and Evolution,,,,
+adap-org/9411001,The covariance matrix of the potts model: A random cluster analysis,,,,
+adap-org/9411002,Mapping Self-Organized Criticality onto Criticality,,,,
+adap-org/9411003,"An Evolutionary Approach to Associative Memory in Recurrent Neural
+  Networks",,,,
+adap-org/9412001,"Preferential Partner Selection in an Evolutionary Study of Prisoner's
+  Dilemma",,,,
+adap-org/9501001,"Scaling and singularities in the entrainment of globally-coupled
+  oscillators",,,,
+adap-org/9501002,"Analyzing Social Network Structures in the Iterated Prisoner's Dilemma
+  with Choice and Refusal",,,,
+adap-org/9501004,A Pinned Polymer Model of Posture Control,,,,
+adap-org/9501005,Proportion Regulation in Globally Coupled Nonlinear Systems,,,,
+adap-org/9502001,The Fight Against the Second Law of Thermodynamics,,,,
+adap-org/9502002,Upper Bounds for the Critical Car Densities in Traffic Flow Problems,,,,
+adap-org/9502004,Emergent Traffic Jams,,,,
+adap-org/9502005,Traffic at the Edge of Chaos,,,,
+adap-org/9502006,Clustered Volatility in Multiagent Dynamics,,,,
+adap-org/9503001,"Self-Organized Critical Models Without Local Particle Conservation Laws
+  On Superlattices",,,,
+adap-org/9503002,"Comment on ""Linguistic Features of Noncoding DNA Sequences""",,,,
+adap-org/9503003,Strong Ordering by Non-uniformity of Thresholds in a Coupled Map Lattice,,,,
+adap-org/9503004,"Abundance Distributions in Artificial Life and Stochastic Models: ""Age
+  and Area"" revisited",,,,
+adap-org/9504001,A Theory of Differentiation with Dynamic Clustering,,,,
+adap-org/9504002,"Evolution of Cooperation, Differentiation, Complexity, and Diversity in
+  an Iterated Three-person Game",,,,
+adap-org/9504003,Elements of a Theory of Simulation,,,,
+adap-org/9504004,"Numerical investigation of surface level instability due to tube in
+  vibrating bed of powder",,,,
+adap-org/9504006,Hierarchical Crossover and Probability Landscapes of Genetic Operators,,,,
+adap-org/9504007,The Distributed Genetic Algorithm Revisited,,,,
+adap-org/9505001,A Statistical Approach to Vehicular Traffic,,,,
+adap-org/9505002,"Evolutionary Dynamics and Optimization: Neutral Networks as
+  Model-Landscapes for RNA Secondary-Structure Folding-Landscapes",,,,
+adap-org/9505003,"Exact Results for Spatio-Temporal Correlations in a Self-Organized
+  Critical Model of Punctuated Equilibrium",,,,
+adap-org/9505005,Ground State Structure in a Highly Disordered Spin Glass Model,,,,
+adap-org/9506001,"How birds fly together: Long-range order in a two-dimensional dynamical
+  XY model",,,,
+adap-org/9506002,Kolmogorov turbulence in a random-force-driven Burgers equation,,,,
+adap-org/9506004,Chromosome mapping: radiation hybrid data and stochastic spin models,,,,
+adap-org/9507001,"Word Processors with Line-Wrap: Cascading, Self-Organized Criticality,
+  Random Walks, Diffusion, Predictability",,,,
+adap-org/9507004,Mutation Accumulation and the Catastrophic Senescence of Pacific Salmon,,,,
+adap-org/9507005,Long Range Anticorrelations and Non-Gaussian Behavior of a Leaky Faucet,,,,
+adap-org/9507006,"Kolmogorov turbulence in a random-force-driven Burgers equation:
+  anomalous scaling and probability density functions",,,,
+adap-org/9507007,"Dynamic Entropies, Long--Range Correlations and Fluctuations in Complex
+  Linear Structures",,,,
+adap-org/9507008,"Evolving Neural Networks with Iterative Learning Scheme for Associative
+  Memory",,,,
+adap-org/9507009,Onsager reciprocity relations without microscopic reversibility,,,,
+adap-org/9507010,Molecular dynamics of arbitrarily shaped granular particles},,,,
+adap-org/9508001,A model for evolution and extinction,,,,
+adap-org/9508003,"Analytic Investigations of Random Search Strategies for Parameter
+  Optimization",,,,
+adap-org/9508004,Ergodic Properties of the Spin - Boson System,,,,
+adap-org/9508005,"Reproducible noise in a macroscopic system: magnetic avalanches in
+  Perminvar",,,,
+adap-org/9509001,Scalings of Pitches in Music,,,,
+adap-org/9509002,Exact Results of the Bit-String Model for Catastrophic Senescence,,,,
+adap-org/9510001,"Mean Switching Frequency Locking in Stochastic Bistable Systems Driven
+  by Periodical Force",,,,
+adap-org/9511001,Spatial Inhomogeneity and Thermodynamic Chaos,,,,
+adap-org/9511003,"Reconstruction of a first-order phase transition from computer
+  simulations of individual phases and subphases",,,,
+adap-org/9511004,Dynamical Model for Virus Spread,,,,
+adap-org/9512001,Scaling and universality in binary fragmenting with inhibition,,,,
+adap-org/9601002,Self-organized criticality and the lattice topology,,,,
+adap-org/9601003,Infinite Hierarchy of Exact Equations in the Bak-Sneppen Model,,,,
+adap-org/9602001,Phase Structure of Systems with Multiplicative Noise,,,,
+adap-org/9604001,Learning from Minimum Entropy Queries in a Large Committee Machine,,,,
+adap-org/9605001,Propagation of Information in Populations of Self-Replicating Code,,,,
+adap-org/9606001,"Two-dimensional cellular automaton model of traffic flow with open
+  boundaries",,,,
+adap-org/9606002,Isologous Diversification: A Theory of Cell Differentiation,,,,
+adap-org/9606003,Self-Annealing Dynamics in a Multistable System,,,,
+adap-org/9606004,Coupled Maps with Growth and Death: An Approach to Cell Differentiation,,,,
+adap-org/9606005,"Effect of time-correlation of input patterns on the convergence of
+  on-line learning",,,,
+adap-org/9608001,"Flame front propagation II: Random Noise and Pole-Dynamics in Unstable
+  Front Propagation",,,,
+adap-org/9608002,"Systems with Multiplicative Noise: Critical Behavior from KPZ Equation
+  and Numerics",,,,
+adap-org/9608003,A Simple Learning Algorithm for the Traveling Salesman Problem,,,,
+adap-org/9610003,"Spontaneous Origin of Topological Complexity in Self-Organizing Neural
+  Networks",,,,
+adap-org/9611001,"Stability of periodic solutions in series arrays of Josephson junctions
+  with internal Capacitance",,,,
+adap-org/9611002,"Spontaneous symmetry breaking and the formation of columnar structures
+  in the primary visual cortex II --- Local organization of orientation modules",,,,
+adap-org/9611004,"Renormalization group of probabilistic cellular automata with one
+  absorbing state",,,,
+adap-org/9611006,The selection of altruistic behaviour,,,,
+adap-org/9611007,Dynamical Equilibrium of Interacting Ant Societies,,,,
+adap-org/9611008,Coevolution of Symbiotic Species,,,,
+adap-org/9701001,Quasi-Linear Cellular Automata,,,,
+adap-org/9702001,"Comment on ""Self-organized criticality in living systems"" by C. Adami",,,,
+adap-org/9702002,Evolution on a Rugged Landscape:Pinning and Aging,,,,
+adap-org/9702004,Mass Extinction in a Simple Mathematical Biological Model,,,,
+adap-org/9704001,"Car accidents and number of stopped cars due to road blockage on a
+  one-lane highway",,,,
+adap-org/9704002,Cellular Automata Models for Diffusion of Innovations,,,,
+adap-org/9704004,"A general learning algorithm for solving optimization problems and its
+  application to the spin glass problem",,,,
+adap-org/9704005,Autonomous Traffic Signal Control Model with Neural Network Analogy,,,,
+adap-org/9705001,"Individual Adaption in a Path-Based Simulation of the Freeway Network of
+  Northrhine-Westfalia",,,,
+adap-org/9705002,"Experiences with a simplified microsimulation for the Dallas/Fort Worth
+  area",,,,
+adap-org/9705004,Modeling diffusion of innovations with probabilistic cellular automata,,,,
+adap-org/9706002,"Using microsimulation feedback for trip adaptation for realistic traffic
+  in Dallas",,,,
+adap-org/9706003,"Analysis of a dissipative model of self-organized criticality with
+  random neighbors",,,,
+adap-org/9706004,"First Order Nonequilibrium Phase Transition in a Spatially Extended
+  System",,,,
+adap-org/9706006,"Domain formation in transitions with noise and time-dependent
+  bifurcation parameter",,,,
+adap-org/9707001,Noise and slow-fast dynamics in a three-wave resonance problem,,,,
+adap-org/9707003,"Stochastic calculus: application to dynamic bifurcations and threshold
+  crossings",,,,
+adap-org/9707004,"Condensation in Globally Coupled Populations of Chaotic Dynamical
+  Systems",,,,
+adap-org/9707005,Coherence and clustering in ensembles of neural networks,,,,
+adap-org/9707006,Learning from Mistakes,,,,
+adap-org/9707007,Noise and dynamic transitions,,,,
+adap-org/9707008,A noise-controlled dynamic bifurcation,,,,
+adap-org/9708007,"High-Speed Network Traffic Management Analysis and Optimization: Models
+  and Methods",,,,
+adap-org/9709001,Theoretical approach to biological aging,,,,
+adap-org/9709002,"Search for an unitary mortality law through a theoretical model for
+  biological ageing",,,,
+adap-org/9709003,"Classifying Rational Densities Using Two One-Dimensional Cellular
+  Automata",,,,
+adap-org/9709004,"Coevolution of membranes and channels: A possible step in the origin of
+  life",,,,
+adap-org/9709005,"Conservation laws in coupled multiplicative random arrays lead to $1/f$
+  noise",,,,
+adap-org/9709007,"The Measure of Compositional Heterogeneity in DNA Sequences Is Related
+  to Measures of Complexity",,,,
+adap-org/9711001,A condition for the genotype-phenotype mapping: Causality,,,,
+adap-org/9711003,"Multiresolution wavelet analysis of heartbeat intervals discriminates
+  healthy patients from those with cardiac pathology",,,,
+adap-org/9712002,Early-time critical dynamics of lattices of coupled chaotic maps,,,,
+adap-org/9712004,Sentient Networks,,,,
+adap-org/9801002,Probabilistic Analysis of the Number Partitioning Problem,,,,
+adap-org/9802002,"Emergence of Rules in Cell Society: Differentiation, Hierarchy, and
+  Stability",,,,
+adap-org/9802003,"Diversity, Stability, Recursivity, and Rule Generation in Biological
+  System: Intra-inter Dynamics Approach",,,,
+adap-org/9804003,"Collective Behaviour and Diversity in Economic Communities: Some
+  Insights from an Evolutionary Game",,,,
+adap-org/9804004,"Dynamics of Individual Specialization and Global Diversification in
+  Communities",,,,
+adap-org/9806001,"Neural network design for J function approximation in dynamic
+  programming",,,,
+adap-org/9806003,How fast do structures emerge in hypercycle-systems?,,,,
+adap-org/9807002,Coupled Oscillators with Chemotaxis,,,,
+adap-org/9807003,Development and Evolution of Neural Networks in an Artificial Chemistry,,,,
+adap-org/9807004,Dynamics of Internal Models in Game Players,,,,
+adap-org/9807005,A dynamical theory of speciation on holey adaptive landscapes,,,,
+adap-org/9807006,Rapid parapatric speciation on holey adaptive landscapes,,,,
+adap-org/9808001,Life as Complex Systems --- Viewpoint from Intra-Inter Dynamics,,,,
+adap-org/9808002,Memory Effects and Macroscopic Manifestation of Randomness,,,,
+adap-org/9808004,Wavelet Based Fractal Analysis of Airborne Pollen,,,,
+adap-org/9809002,Dynamics of clade diversification on the morphological hypercube,,,,
+adap-org/9810006,"One Dimensional $n$ary Density Classification Using Two Cellular
+  Automaton Rules",,,,
+adap-org/9810007,"Coherence and synchronization in diode-laser arrays with delayed global
+  coupling",,,,
+adap-org/9812001,Power spectra of extinction in the fossil record,,,,
+adap-org/9901004,Stochastic group selection model for the evolution of altruism,,,,
+adap-org/9901005,"A Mathematical Model with Modified Logistic Approach for Singly-Peaked
+  Population Processes",,,,
+adap-org/9902002,A General Approach to the Modelling of Trophic Chains,,,,
+adap-org/9903002,The Origin of the RNA World: a Kinetic Model,,,,
+adap-org/9903003,Evolution of genetic organization in digital organisms,,,,
+adap-org/9903005,Replication Error and Time Evolution of a Self-Replicating System,,,,
+adap-org/9904002,"Totalistic two-dimensional cellular automata exhibiting global periodic
+  behavior",,,,
+adap-org/9904004,Evolution dynamics in terraced NK landscapes,,,,
+adap-org/9905001,Extremal Coupled Map Lattices,,,,
+adap-org/9905002,Model of self-replicating cell capable of self-maintenance,,,,
+adap-org/9905003,Noise-induced memory in extended excitable systems,,,,
+adap-org/9906002,Minimum Energy Information Fusion in Sensor Networks,,,,
+adap-org/9906003,"An Exactly Soluble Hierarchical Clustering Model: Inverse Cascades,
+  Self-Similarity, and Scaling",,,,
+adap-org/9906004,Noise-induced breakdown of coherent collective motion in swarms,,,,
+adap-org/9907005,Functional Dynamics II : Syntactic Structure,,,,
+adap-org/9907006,Functional Dynamics I : Articulation Process,,,,
+adap-org/9907009,"Cumulant Dynamics of a Population under Multiplicative Selection,
+  Mutation and Drift",,,,
+adap-org/9908001,A Complete Enumeration and Classification of Two-Locus Disease Models,,,,
+adap-org/9908003,Colective Effects from Induced Behaviour,,,,
+adap-org/9909005,Beyond Hebb: Exclusive-OR and Biological Learning,,,,
+adap-org/9909007,"Self-Organized Criticality: Self-Organized Complexity? The Disorder and
+  ``Simple Complexity'' of Power Law Distributions",,,,
+adap-org/9910001,Fractal Analysis for Social Systems,,,,
+adap-org/9911004,"Criticality and Punctuated Equilibrium in a Spin System Model of a
+  Financial Market",,,,
+adap-org/9911005,"Modelling Collective Opinion Formation by Means of Active Brownian
+  Particles",,,,
+adap-org/9911006,"Modelling Migration and Economic Agglomeration with Active Brownian
+  Particles",,,,
+adap-org/9912001,Frontiers of finance: Evolution and efficient markets,,,,
+astro-ph/9807116,"An analytic solution of the Boltzmann equation in the presence of
+  self-generated magnetic fields in astrophysical plasmas",,,,
+chao-dyn/9307015,Organizational Fluidity and Sustainable Cooperation,,,,
+chao-dyn/9307016,Diversity and Collective Action,,,,
+chao-dyn/9307017,Evolutionary Games and Computer Simulations,,,,
+chao-dyn/9312005,Noise-Induced Linearisation and Delinearisation,,,,
+chao-dyn/9405007,Self-organized Periodic Lattices of Chaotic Defects,,,,
+chao-dyn/9407001,Pattern Dynamics of a Coupled Map Lattice for Open Flow,,,,
+chao-dyn/9601005,Density Fluctuations in Traffic Flow,,,,
+chao-dyn/9601008,"Identification of parameters in amplitude equations describing coupled
+  wakes",,,,
+chao-dyn/9602006,Observation of stochastic coherence in coupled map lattices,,,,
+chao-dyn/9801010,Mode-locking in coupled map lattices,,,,
+chao-dyn/9801026,Low dimensional travelling interfaces in coupled map lattices,,,,
+chao-dyn/9806009,Effect of noise on coupled chaotic systems,,,,
+chao-dyn/9806010,Stochastic Coherence in Coupled Map Lattices,,,,
+chao-dyn/9903015,"Noise-correlation-time-mediated localization in random nonlinear
+  dynamical systems",,,,
+chao-dyn/9904008,One-dimensional dynamics for travelling fronts in coupled map lattices,,,,
+chao-dyn/9904009,Thermodynamic limit from small lattices of coupled maps,,,,
+chao-dyn/9905036,Restart Strategies and Internet Congestion,,,,
+chao-dyn/9909031,"Noncommutative Martin-Lof randomness : on the concept of a random
+  sequence of qubits",,,,
+chao-dyn/9911022,Sensitive boundary condition dependence of noise-sustained structure,,,,
+chao-dyn/9912005,"Robust and Irreversible Development in Cell Society as a General
+  Consequence of Intra-Inter Dynamics",,,,
+comp-gas/9305001,"Identification of Continuous-Time Dynamical Systems: Neural Network
+  Based Algorithms and Parallel Implementation",,,,
+comp-gas/9403002,"Estimating Functions of Distributions from A Finite Set of Samples, Part
+  2: Bayes Estimators for Mutual Information, Chi-Squared, Covariance and other
+  Statistics",,,,
+comp-gas/9406001,Theoretical approach to two-dimensional traffic flow models,,,,
+cond-mat/0002270,$1/f^{\alpha}$ fluctuations in a ricepile model,,,,
+cond-mat/0005007,"Synchronization, Diversity, and Topology of Networks of Integrate and
+  Fire Oscillators",,,,
+cond-mat/0010158,"$1/f^\alpha$ noise from self-organized critical models with uniform
+  driving",,,,
+cond-mat/0012456,"Slow Switching in Globally Coupled Oscillators: Robustness and
+  Occurrence through Delayed Coupling",,,,
+cond-mat/0105379,Quasispecies evolution in general mean-field landscapes,,,,
+cond-mat/0108533,Effects of regulation on a self-organized market,,,,
+cond-mat/0110324,Dynamics of rumor propagation on small-world networks,,,,
+cond-mat/0201139,Long-range fractal correlations in literary corpora,,,,
+cond-mat/0205482,Financial multifractality and its subtleties: an example of DAX,,,,
+cond-mat/0206530,Topology of the conceptual network of language,,,,
+cond-mat/0207633,Anomalous Transport in Conical Granular Piles,,,,
+cond-mat/0209591,Log-periodic self-similarity: an emerging financial law?,,,,
+cond-mat/0212240,Self-Assembling of Networks in an Agent-Based Model,,,,
+cond-mat/0301086,Cascade-based attacks on complex networks,,,,
+cond-mat/0301321,"Local Distributions and Rate Fluctuations in a Unified Scaling Law for
+  Earthquakes",,,,
+cond-mat/0303062,Mean escape time over a fluctuating barrier,,,,
+cond-mat/0305101,Matching games with partial information,,,,
+cond-mat/0306578,"Cooperation and Self-Regulation in a Model of Agents Playing Different
+  Games",,,,
+cond-mat/0307215,"Opportunity for Regulating the Collective Effect of Random Expansion
+  with Manifestations of Finite Size Effects in a Moderate Number of Finite
+  Systems",,,,
+cond-mat/0307322,"Dynamical clustering in oscillator ensembles with time-dependent
+  interactions",,,,
+cond-mat/0307550,"Dynamics of an Ensemble of Noisy Bistable Elements with Global
+  Time-Delayed Coupling",,,,
+cond-mat/0308098,Population coding by globally coupled phase oscillators,,,,
+cond-mat/0310215,"Long-Term Clustering, Scaling, and Universality in the Temporal
+  Occurrence of Earthquakes",,,,
+cond-mat/0310314,"Dynamics in a Bistable-Element-Network with Delayed Coupling and Local
+  Noise",,,,
+cond-mat/0312138,"Power Laws, Precursors and Predictability During Failure",,,,
+cond-mat/0312414,"A dynamical approach to the spatiotemporal aspects of the Portevin-Le
+  Chatelier effect: Chaos,turbulence and band propagation",,,,
+cond-mat/0403270,Selection by pairwise comparisons with limited resources,,,,
+cond-mat/0403504,"Current and efficiency enhancement in Brownian motors driven by non
+  Gaussian noises",,,,
+cond-mat/0403621,Limited profit in predictable stock markets,,,,
+cond-mat/0406673,Synchronization by Nonlinear Frequency Pulling,,,,
+cond-mat/0409124,"Correlations and invariance of seismicity under renormalization-group
+  transformations",,,,
+cond-mat/0412441,"Comment on ""Do Earthquakes Exhibit Self-Organized Criticality?""",,,,
+cond-mat/0501650,"A Mean-Field Model for Extended Stochastic Systems with Distributed Time
+  Delays",,,,
+cond-mat/0504247,Inter-Intra Molecular Dynamics as an Iterated Function System,,,,
+cond-mat/0506759,"Two-component sandpile model : self-organized criticality of the second
+  kind",,,,
+cond-mat/0512171,"The universality of synchrony: critical behavior in a discrete model of
+  stochastic phase coupled oscillators",,,,
+cond-mat/0601610,"On the existence and scaling of structure functions in turbulence
+  according to the data",,,,
+cond-mat/0604070,Universality in the synchronization of weighted random networks,,,,
+cond-mat/0605093,Nonergodic Brownian Dynamics and the Fluctuation-Dissipation Theorem,,,,
+cond-mat/0608702,"Strong Effects of Network Architecture in the Entrainment of Coupled
+  Oscillator Systems",,,,
+cond-mat/0612068,Dynamics on Complex Networks and Applications,,,,
+cond-mat/9307029,"Confirmation of the Modified Bean Model from Simulations of
+  Superconducting Vortices",,,,
+cond-mat/9308005,Stochastic Neural Networks with the Weighted Hebb Rule,,,,
+cond-mat/9309032,Numerical Investigation of the Evolution of Sandpiles,,,,
+cond-mat/9310018,Life-Times of Simulated Traffic Jams,,,,
+cond-mat/9310054,"Mean Field Theory of Sandpile Avalanches: from the Intermittent to the
+  Continuous Flow Regime",,,,
+cond-mat/9401046,Transport and current reversal in stochastically driven ratchets,,,,
+cond-mat/9402076,A Growth Model for Dna Evolution (submitted to Nature),,,,
+cond-mat/9409013,"Novel Phases and Finite-Size Scaling in Two-Species Asymmetric Diffusive
+  Processes",,,,
+cond-mat/9410071,The Use of Hamiltonian Mechanics in Systems Driven by Colored Noise,,,,
+cond-mat/9411054,"Self-organized criticality and synchronization in a lattice model of
+  integrate-and-fire oscillators",,,,
+cond-mat/9411083,Dynamic Scaling of Ion-Sputtered Surfaces,,,,
+cond-mat/9412070,Reaction-Diffusion Processes of Hard-Core Particles,,,,
+cond-mat/9503079,"Pulse-coupled relaxation oscillators: from biological synchronization to
+  Self-Organized Criticality",,,,
+cond-mat/9503170,The Computational Complexity of Generating Random Fractals,,,,
+cond-mat/9506017,"Scaling, Propagation, and Kinetic Roughening of Flame Fronts in Random
+  Media",,,,
+cond-mat/9507102,Statistics Of The Burst Model At Super-critical Phase,,,,
+cond-mat/9510029,On Synchronization in a Lattice Model of Pulse-Coupled Oscillators,,,,
+cond-mat/9510078,Universal Short-Time Dynamics in the Kosterlitz-Thouless Phase,,,,
+cond-mat/9511039,"Stochastic Model for Surface Erosion Via Ion-Sputtering: Dynamical
+  Evolution from Ripple Morphology to Rough Morphology",,,,
+cond-mat/9511132,Critical Properties of the One-Dimensional Forest-Fire Model,,,,
+cond-mat/9512110,"Analytical and computational study of magnetization switching in kinetic
+  Ising systems with demagnetizing fields",,,,
+cond-mat/9512119,Two Lane Traffic Simulations using Cellular Automata,,,,
+cond-mat/9602012,Mass Extinctions vs. Uniformitarianism in Biological Evolution,,,,
+cond-mat/9602090,High dimensional properties of quenched noise growth models,,,,
+cond-mat/9603018,"Ultrametricity and Memory in a Solvable Model of Self-Organized
+  Criticality",,,,
+cond-mat/9604123,Apparent Fractality Emerging from Models of Random Distributions,,,,
+cond-mat/9605022,Branching Processes and Evolution at the Ends of a Food Chain,,,,
+cond-mat/9605042,"Stability of Spatio-Temporal Structures in a Lattice Model of
+  Pulse-Coupled Oscillators",,,,
+cond-mat/9605066,Algorithmic Mapping Criticality into Self Organized Criticality,,,,
+cond-mat/9606035,Fragmentation versus Stability in Bimodal Coalitions,,,,
+cond-mat/9606223,Self-Organized Short-Term Memories,,,,
+cond-mat/9607086,Entropic Sampling and Natural Selection in Biological Evolution,,,,
+cond-mat/9608080,The Dynamics of a Meandering River,,,,
+cond-mat/9609109,The Dynamics of a Genetic Algorithm for a Simple Learning Problem,,,,
+cond-mat/9609197,Effects of a Magnetic Field on a Modulated Phase,,,,
+cond-mat/9610028,Error threshold in simple landscapes,,,,
+cond-mat/9610218,A Monte Carlo Renormalization Group Approach to the Bak-Sneppen model,,,,
+cond-mat/9611027,Finite size scaling in neural networks,,,,
+cond-mat/9612081,Error threshold in the evolution of diploid organisms,,,,
+cond-mat/9612100,"Symmetries and Fixed Point Stability of Stochastic Differential
+  Equations Modeling Self-Organized Criticality",,,,
+cond-mat/9702205,Spatiotemporal Stochastic Resonance in the Swift-Hohenberg Equation,,,,
+cond-mat/9703015,Effect of the Output of the System in Signal Detection,,,,
+cond-mat/9703016,Stochastic Multiresonance,,,,
+cond-mat/9703019,On-Line AdaTron Learning of Unlearnable Rules,,,,
+cond-mat/9703020,On-line learning of non-monotonic rules by simple perceptron,,,,
+cond-mat/9703133,Limited Range Fractality of Randomly Adsorbed Rods,,,,
+cond-mat/9705077,Self Organized Criticality in Digging Myopic Ant Model,,,,
+cond-mat/9705213,Solvable dynamics in a system of interacting random tops,,,,
+cond-mat/9710329,Brownian Motors driven by Particle Exchange,,,,
+cond-mat/9712196,Two-lane traffic rules for cellular automata: A systematic approach,,,,
+cond-mat/9712200,"Mechanisms of synchronization and pattern formation in a lattice of
+  pulse-coupled oscillators",,,,
+cond-mat/9802013,Burgers' Flows as Markovian Diffusion Processes,,,,
+cond-mat/9804249,A Simple Model of Superconducting Vortex Avalanches,,,,
+cond-mat/9805364,Evolution of avalanche conducting states in electrorheological liquids,,,,
+cond-mat/9808183,The Computational Complexity of Sandpiles,,,,
+cond-mat/9809397,Optimizing Traffic Flow,,,,
+cond-mat/9810026,"Critical Exponents for Nuclear Multifragmentation: dynamical lattice
+  model",,,,
+cond-mat/9810099,"Self-organization of traffic jams in cities: effects of stochastic
+  dynamics and signal periods",,,,
+cond-mat/9811094,The Dynamics of Money,,,,
+cond-mat/9812161,Self-Organized States in Cellular Automata: Exact Solution,,,,
+cond-mat/9812184,Genetic Correlations in Mutation Processes,,,,
+cond-mat/9812361,Competing Species Dynamics: Qualitative Advantage versus Geography,,,,
+cond-mat/9901062,"Comment on ""A landscape theory of aggregation""",,,,
+cond-mat/9901228,Braided Rivers and Superconducting Vortex Avalanches,,,,
+cond-mat/9902011,Cortical Potential Distributions and Cognitive Information Processing,,,,
+cond-mat/9903076,Genetic algorithm dynamics on a rugged landscape,,,,
+cond-mat/9903077,Annealing schedule from population dynamics,,,,
+cond-mat/9903157,Avalanche Merging and Continuous Flow in a Sandpile Model,,,,
+cond-mat/9905076,Entropy and typical properties of Nash equilibria in two-player games,,,,
+cond-mat/9908342,A ratchet driven by quasimonochromatic noise,,,,
+cond-mat/9909397,"Enhancement of Stochastic Resonance in distributed systems due to a
+  selective coupling",,,,
+cond-mat/9911085,"Cosmology in a Test Tube: Theory of Domain Walls Formation in Binary
+  Fluids",,,,
+cs/0005027,A Bayesian Reflection on Surfaces,,,,
+cs/0006005,Novelty Detection for Robot Neotaxis,,,,
+cs/0006007,Novelty Detection on a Mobile Robot Using Habituation,,,,
+cs/0104011,Potholes on the Royal Road,,,,
+cs/0108011,On Classes of Functions for which No Free Lunch Results Hold,,,,
+cs/0202034,Covariance Plasticity and Regulated Criticality,,,,
+cs/0303032,Recent Results on No-Free-Lunch Theorems for Optimization,,,,
+cs/0312001,The concept of strong and weak virtual reality,,,,
+cs/0410017,"Automated Pattern Detection--An Algorithm for Constructing Optimally
+  Synchronizing Multi-Regular Language Filters",,,,
+cs/0503031,"On the Scalability of Cooperative Time Synchronization in
+  Pulse-Connected Networks",,,,
+cs/0511073,Stochastic Process Semantics for Dynamical Grammar Syntax: An Overview,,,,
+cs/0610049,"Restricted Complexity, General Complexity",,,,
+hep-lat/9309006,"Static Friction Phenomena in Granular Materials: Coulomb Law vs.
+  Particle Geometry",,,,
+math/0402367,Symmetry-preserving discrete schemes for some heat transfer equations,,,,
+math/0505044,Discrete time piecewise affine models of genetic regulatory networks,,,,
+math/0611496,The fractional Keller-Segel model,,,,
+nlin/0001009,Some Techniques for the Measurement of Complexity in Tierra,,,,
+nlin/0001019,Parameter estimation in nonlinear stochastic differential equations,,,,
+nlin/0001047,"Path-integral evolution of chaos embedded in noise: Duffing neocortical
+  analog",,,,
+nlin/0001057,"Numerical Replication of Computer Simulations: Some Pitfalls and How To
+  Avoid Them",,,,
+nlin/0002011,Phenotypical Behavior and Evolutionary Slavery,,,,
+nlin/0002040,The dynamics of iterated transportation simulations,,,,
+nlin/0002042,"Dynamics of One- and Two-dimensional Kinks in Bistable
+  Reaction-Diffusion Equations with Quasi-Discrete Sources of Reaction",,,,
+nlin/0002043,"Dynamics of Kinks in One- and Two- Dimensional Hyperbolic Models with
+  Quasi-Discrete Nonlinearities",,,,
+nlin/0002046,A Neural Chaos Model of Multistable Perception,,,,
+nlin/0003003,Coherent Response in a Chaotic Neural Network,,,,
+nlin/0003022,"Different amplitude and time distribution of the sound of light and
+  classical music",,,,
+nlin/0003026,"Response to Comments on ""Simple Measure for Complexity""",,,,
+nlin/0003030,"The effect of synchronized area on SOC behavior in a kind of Neural
+  Network Model",,,,
+nlin/0003053,"Cluster Coagulation and Growth Limited by Surface Interactions with
+  Polymers",,,,
+nlin/0004016,Exact solutions and dynamics of globally coupled phase oscillators,,,,
+nlin/0004026,An Ecolab Perspective on the Bedau Evolutionary Statistics,,,,
+nlin/0006005,Waiting time to (and duration of) parapatric speciation,,,,
+nlin/0006043,"Microscopic Discrete Proliferating Components Cause the Self-Organized
+  Emergence of Macroscopic Adaptive Features in Biological Systems",,,,
+nlin/0006048,Schemata Evolution and Building Blocks,,,,
+nlin/0006049,Schemata as Building Blocks: Does Size Matter?,,,,
+nlin/0006050,Effective Fitness Landscapes for Evolutionary Systems,,,,
+nlin/0006051,Effect of Mutation and Recombination on the Genotype-Phenotype Map,,,,
+nlin/0007005,The Role of Innovation within Economics,,,,
+nlin/0007006,Adaptation to the Edge of Chaos in the Self-Adjusting Logistic Map,,,,
+nlin/0007013,"What you always wanted to know about genetic algorithms but were afraid
+  to hear",,,,
+nlin/0007038,"Gause's exclusion principle revisited: artificial modified species and
+  competition",,,,
+nlin/0008003,The Lattice structure of Chip Firing Games and Related Models,,,,
+nlin/0009007,"Theory of Robustness of Irreversible Differentiation in a Stem Cell
+  System: Chaos hypothesis",,,,
+nlin/0009008,Origin of complexity in multicellular organisms,,,,
+nlin/0009015,Opportunities Knocking: Residual Income Valuation of an Adaptive Firm,,,,
+nlin/0009037,A mean field stochastic theory for species-rich assembled communities,,,,
+nlin/0010007,Synchronization learning of coupled chaotic maps,,,,
+nlin/0010009,"Evolution of genetic code through isologous diversification of cellular
+  states",,,,
+nlin/0010013,Synchronization of Kauffman networks,,,,
+nlin/0010049,Long transients and cluster size in globally coupled maps,,,,
+nlin/0011028,Regularization of Synchronized Chaotic Bursts,,,,
+nlin/0012002,Universal Asymptotic Behavior of Mortgage Prepayments,,,,
+nlin/0012018,"Asymptotic Liapunov exponents spectrum for an extended chaotic coupled
+  map lattice",,,,
+nlin/0012035,Multifractal characterization of stochastic resonance,,,,
+nlin/0102026,Parity Problem With A Cellular Automaton Solution,,,,
+nlin/0102027,Two-dimensional Burgers Cellular Automaton,,,,
+nlin/0103005,Self-similarity in the taxonomic classification of human languages,,,,
+nlin/0104016,Scale-free networks are not robust under neutral evolution,,,,

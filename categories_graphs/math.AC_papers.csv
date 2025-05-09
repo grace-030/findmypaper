@@ -1,0 +1,1156 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+math/0607736,Mutation in triangulated categories and rigid Cohen-Macaulay modules,2.025148323898837e-05,3.1366904805120765e-06,10.0,6.0
+math/0604301,Resolutions of square-free monomial ideals via facet ideals: a survey,1.9502983018085915e-05,1.990182755160072e-06,13.0,3.0
+math/0607684,Limits of stable pairs,1.9140971063281715e-05,0.0,8.0,2.0
+math/0211263,The regularity of points in multi-projective spaces,1.862917325957024e-05,0.0,5.0,1.0
+math/0305214,Multigraded Castelnuovo-Mumford Regularity,1.7931531659786706e-05,1.990182755160072e-06,6.0,1.0
+math/0602626,Complete moduli spaces of branchvarieties,1.6788868129609865e-05,0.0,9.0,1.0
+math/0703780,On Differential Rota-Baxter Algebras,1.625342575150432e-05,2.701745032169102e-08,8.0,1.0
+math/0504492,"Rank 2 arithmetically Cohen-Macaulay bundles on a nonsingular cubic
+  surface",1.5915943183596125e-05,1.9976088102166394e-06,14.0,1.0
+math/9902118,Results on Secant Varieties Leading to a Geometric Flip Construction,1.5741527237762103e-05,0.0,5.0,2.0
+math/0601558,Multiple zeta values and Rota--Baxter algebras,1.4252209182390238e-05,5.043334133514698e-07,20.0,6.0
+math/0703258,Arithmetical ranks of Stanley-Reisner ideals via linear algebra,1.422507138285414e-05,1.990182755160072e-06,4.0,1.0
+math/0702368,"Toric ideals of phylogenetic invariants for the general group-based
+  model on claw trees $K_{1,n}$",1.3535395446420692e-05,0.0,6.0,0.0
+math/0606539,"Monomial ideals, edge ideals of hypergraphs, and their graded Betti
+  numbers",1.3523783968644738e-05,7.960731020640288e-06,9.0,3.0
+math/0605136,Fomin-Zelevinsky mutation and tilting modules over Calabi-Yau algebras,1.2792531736054204e-05,0.0010126876711493,11.0,8.0
+math/0611790,On the arithmetical rank of certain monomial ideals,1.2173163377163362e-05,0.0,2.0,1.0
+math/0310369,Grobner fan for analytic D-modules with parameters,1.1825089430803648e-05,3.980365510320144e-06,4.0,2.0
+math/0511059,"Tropical Algebraic Sets, Ideals and An Algebraic Nullstellensatz",1.1662352982364464e-05,2.9546690707872266e-06,6.0,3.0
+math/0606274,The Multiplicity Conjecture for Barycentric Subdivisions,1.1273474770409453e-05,0.0,5.0,0.0
+math/0507404,A short course on geometric motivic integration,1.1092567546304952e-05,5.052289531616262e-06,8.0,6.0
+math/0701296,Shellable graphs and sequentially Cohen-Macaulay bipartite graphs,1.0593525347286964e-05,1.990182755160072e-06,4.0,2.0
+math/0703644,Stability of Gorenstein Categories,1.0457454260256596e-05,0.0,4.0,2.0
+math/0503342,Coherent Unit Actions on Operads and Hopf Algebras,1.0078069612425364e-05,9.870791241712216e-06,12.0,3.0
+math/0601674,On the canonical discussion of polynomial systems with parameters,9.799320583627054e-06,0.0,3.0,1.0
+math/0411181,On the linear strand of an edge ideal,9.796541342855404e-06,1.990182755160072e-06,5.0,4.0
+math/0506418,"Mixable Shuffles, Quasi-shuffles and Hopf Algebras",9.335985392558748e-06,8.8114603468239e-07,12.0,6.0
+math/0211279,Castelnuovo-Mumford regularity by approximation,9.087592082995425e-06,0.0,2.0,1.0
+math/0605487,Whiskers and sequentially Cohen-Macaulay graphs,8.982333885441386e-06,1.990182755160072e-06,4.0,4.0
+math/0703643,Homological aspects of semidualizing modules,8.610630379061895e-06,0.0,3.0,2.0
+math/0611711,Gorenstein projective dimension with respect to a semidualizing module,8.565699616849422e-06,0.0,2.0,4.0
+math/0312416,Links and analytic invariants of superisolated singularities,8.563653792825648e-06,1.990182755160072e-06,5.0,4.0
+math/0608633,One higher dimensional analog of jet schemes,7.982492792612278e-06,0.0,2.0,0.0
+math/0503203,Splittable ideals and the resolutions of monomial ideals,7.877533058268044e-06,0.0,6.0,1.0
+math/0602616,Computing obstructions for existence of connections on modules,7.774652262603179e-06,1.990182755160072e-06,3.0,2.0
+math/0606772,Gluing affine torus actions via divisorial fans,7.497091964355639e-06,0.0,2.0,1.0
+math/0611643,An Auslander-Buchsbaum identity for semidualizing modules,7.414673546558885e-06,0.0,4.0,0.0
+math/0607306,On the arithmetical rank of the edge ideals of forests,7.359109384971412e-06,3.980365510320144e-06,6.0,2.0
+math/0606683,Toric geometry of cuts and splits,7.241755756205772e-06,1.990182755160072e-06,2.0,2.0
+math/0611838,Foxby equivalence over associative rings,7.205913571286494e-06,0.0,4.0,2.0
+math/0401292,Subdivisions of toric complexes,7.165905996358479e-06,0.0,5.0,0.0
+math/0607159,Type-B generalized triangulations and determinantal ideals,7.1184178658128825e-06,0.0,5.0,0.0
+math/0601654,Rigid Dualizing Complexes over Commutative Rings,7.095751918117204e-06,1.9877074034745493e-06,2.0,1.0
+math/0609825,Misere quotients for impartial games,7.0796823404395085e-06,0.0,4.0,4.0
+math/0603733,Rigid Complexes via DG Algebras,7.035798278836097e-06,0.0,2.0,1.0
+math/0208250,"A Combinatorial Approach to Involution and delta-Regularity II:
+  Structure Analysis of Polynomial Modules with Pommaret Base",6.983620642042502e-06,0.0,6.0,0.0
+math/0604208,The Tropical Rank of a Tropical Matrix,6.878805841708809e-06,0.0,4.0,0.0
+math/0501478,Adjoint line bundles and syzygies of projective varieties,6.788632716574036e-06,0.0,2.0,0.0
+math/0307035,Elementary modifications and line configurations in P^2,6.55890781825366e-06,0.0,1.0,1.0
+math/0409462,A case study in bigraded commutative algebra,6.55046442012554e-06,0.0,2.0,0.0
+math/0505115,Moduli of McKay quiver representations I: the coherent component,6.49518650067265e-06,2.7979537847143065e-06,3.0,2.0
+math/0609262,"Poincare series of some pure and mixed trace algebras of two generic
+  matrices",6.446775846993064e-06,0.0,2.0,1.0
+math/0606246,Face ring multiplicity via CM-connectivity sequences,6.337937754250368e-06,1.990182755160072e-06,4.0,1.0
+math/0412044,"Local Gr\""obner fan: polyhedral and computational approach",6.3303472287436805e-06,3.4535581096692724e-05,2.0,5.0
+math/0501479,"Multigraded regularity, a*-invariant and the minimal free resolution",6.276687592114239e-06,0.0,2.0,3.0
+math/0602052,Toric fiber products,6.172688728573321e-06,0.0,4.0,1.0
+math/0605588,Tetrahedral curves via graphs and Alexander duality,6.145456869265213e-06,0.0,1.0,0.0
+math/0511308,"Improving the bounds of the Multiplicity Conjecture: the codimension 3
+  level case",6.12325137275947e-06,0.0,5.0,0.0
+math/0405052,On the ring of invariants of ordinary quartic curves in characteristic 2,6.107026054511987e-06,0.0,1.0,0.0
+math/0602019,The algebra of the box spline,6.0564724618160505e-06,1.990182755160072e-06,3.0,1.0
+math/0410220,Generic and comprehensive standard bases,6.0405088162418345e-06,1.990182755160072e-06,2.0,2.0
+math/0509544,Computing Groebner Fans,6.012471650507068e-06,1.2249238629022788e-05,4.0,2.0
+math/0208122,On coseparable and biseparable corings,6.010244159884367e-06,3.980365510320144e-06,5.0,3.0
+math/0411107,First Steps in Algorithmic Fewnomial Theory,5.910063314450265e-06,0.0,1.0,3.0
+math/0506593,Fourier Mukai Transforms for Gorenstein Schemes,5.802395030142455e-06,0.0,5.0,0.0
+math/0508421,"A Computational Solution to a Question by Beauville on the Invariants of
+  the Binary Quintic",5.735320599853928e-06,0.0,3.0,0.0
+math/0701270,Fast Computation of Secondary Invariants,5.655144290770314e-06,0.0,1.0,1.0
+math/0703035,Minimal generating sets of non-modular invariant rings of finite groups,5.655144290770314e-06,0.0,1.0,1.0
+math/0502467,Deformation of finite morphisms and smoothing of ropes,5.655144290770314e-06,0.0,1.0,1.0
+math/0701146,Homalg: A meta-package for homological algebra,5.655144290770314e-06,0.0,1.0,1.0
+math/0509657,On ideals of minors of matrices with indeterminate entries,5.655144290770314e-06,0.0,1.0,1.0
+math/0506391,"Relative Beilinson Monad and Direct Image for Families of Coherent
+  Sheaves",5.655144290770314e-06,0.0,1.0,1.0
+math/0701508,Differentials over differential fields,5.655144290770314e-06,0.0,1.0,1.0
+math/0404325,"Asymptotic Improvement of the Gilbert-Varshamov Bound on the Size of
+  Binary Codes",5.567786391396275e-06,0.0,1.0,1.0
+math/0502149,Sets of Hilbert series and their applications,5.548145956887062e-06,0.0,3.0,0.0
+math/0607160,"Frobenius test exponents for parameter ideals in generalized
+  Cohen-Macaulay local rings",5.483261506506723e-06,0.0,3.0,0.0
+math/0610190,"Monomial ideals arising from flag complexes whose generic initial ideals
+  do not depend on term orders",5.389472575977964e-06,0.0,3.0,0.0
+math/0408110,Conic divisor classes over a normal monoid algebra,5.340003906671559e-06,0.0,1.0,0.0
+math/0411570,Enriched homology and cohomology modules of simplicial complexes,5.250622260250228e-06,3.980365510320144e-06,2.0,1.0
+math/0606638,"Connections on modules over singularities of finite CM representation
+  type",5.226278804424354e-06,0.0,2.0,1.0
+math/0702728,Stanley Conjecture in small embedding dimension,5.21244138363032e-06,0.0,4.0,0.0
+math/0504340,Gorenstein dimension of modules over homomorphisms,5.176441869378899e-06,0.0,4.0,0.0
+math/0409106,Hopf algebroids and Galois extensions,5.163113855862375e-06,0.0,3.0,0.0
+math/0607638,Multiplicity of jet schemes of monomial schemes,5.103593251229542e-06,9.182587338639518e-07,2.0,1.0
+math/0501345,The generic Groebner walk,5.071117082304447e-06,1.0259055873862724e-05,2.0,3.0
+math/0508392,h-vectors of Gorenstein polytopes,5.040644318944265e-06,2.09162706988123e-06,2.0,2.0
+math/0511032,Minimal monomial ideals and linear resolutions,4.995458663487116e-06,0.0,3.0,0.0
+math/0201014,Towers of corings,4.994642290904978e-06,0.0,3.0,3.0
+math/0212094,Cusps and $\D$-Modules,4.8241116370686426e-06,0.0,1.0,3.0
+math/0501356,"On the multigraded Hilbert and Poincar\'e-Betti series and the Golod
+  property of monomial rings",4.775563454392716e-06,0.0,4.0,0.0
+math/0409178,The depth of powers of an ideal,4.775563454392716e-06,0.0,4.0,0.0
+math/0506537,The strong Lefschetz property and simple extensions,4.775563454392716e-06,0.0,3.0,0.0
+math/0701388,On complete system of covariants for the binary form of degree 7,4.715121399099865e-06,0.0,3.0,0.0
+math/0506614,Computing with matrix invariants,4.651340137579245e-06,0.0,3.0,1.0
+math/0512283,Nice Initial Complexes of Some Classical Ideals,4.633203119249935e-06,1.963892344126473e-08,2.0,2.0
+math/0209152,The Graph of Monomial Ideals,4.57684665262435e-06,0.0,4.0,0.0
+math/0506223,Combinatorial secant varieties,4.518905947327552e-06,5.731900627515757e-06,4.0,3.0
+math/0511643,Lying-Over Theorem on Left Commutative Rngs,4.515025475212901e-06,0.0,1.0,1.0
+math/0608628,Rigidity of linear strands and generic initial ideals,4.508082537744082e-06,0.0,1.0,0.0
+math/0607194,Groebner Bases for Transportation Polytopes,4.4922671964372e-06,0.0,3.0,0.0
+math/0508359,Computing generating sets of lattice ideals,4.4344531236141e-06,6.278690363542582e-06,3.0,4.0
+math/9908012,"Eigenvalues, invariant factors, highest weights, and Schubert calculus",4.4342009489937885e-06,8.016338796889964e-06,8.0,7.0
+math/0703417,Cohen-Macaulay graphs arising from digraphs,4.431638074487216e-06,0.0,1.0,1.0
+math/0606312,"Minimal free resolutions and asymptotic behavior of multigraded
+  regularity",4.425722930571167e-06,0.0,2.0,1.0
+math/0405247,Multigraded regularity: syzygies and fat points,4.425722930571167e-06,0.0,2.0,1.0
+math/0408408,Bernstein-Sato polynomials of arbitrary varieties,4.3853859796734535e-06,1.2852322809068155e-05,2.0,6.0
+math/0609291,Cotorsion pairs associated with Auslander categories,4.373577056425654e-06,0.0,3.0,2.0
+math/0609150,The Hilbert functions which force the Weak Lefschetz Property,4.331051345396436e-06,0.0,2.0,0.0
+math/0404191,Hilbert-Kunz Functions for Normal Rings,4.308677856146974e-06,0.0,4.0,1.0
+math/0511695,"Local Properties of Richardson Varieties in the Grassmannian via a
+  Bounded Robinson-Schensted-Knuth Correspondence",4.298892778714623e-06,0.0,2.0,2.0
+math/0605046,On the arithmetical rank of an intersection of ideals,4.295130266118502e-06,0.0,2.0,3.0
+math/0201228,Shadows of blow-up algebras,4.279623291328179e-06,0.0,2.0,0.0
+math/0507372,On algebras associated to partially ordered sets,4.278684797185248e-06,0.0,3.0,3.0
+math/0511582,Torus graphs and simplicial posets,4.233362657952643e-06,0.0,7.0,1.0
+math/0308109,"Toric Initial Ideals of $\Delta$-Normal Configurations:
+  Cohen-Macaulayness and Degree Bounds",4.200935291519806e-06,0.0,2.0,1.0
+math/0208183,"The ring of arithmetical functions with unitary convolution: the
+  [n]-truncation",4.199458373837573e-06,0.0,3.0,1.0
+math/0406383,Homological Methods for Hypergeometric Families,4.199458373837573e-06,0.0,3.0,1.0
+math/0506457,Notes on C-graded modules over an affine semigroup ring K[C],4.165876193681207e-06,0.0,1.0,0.0
+math/0011094,Kustin--Miller unprojection without complexes,4.15760602334836e-06,0.0,2.0,5.0
+math/0512086,"g-elements, finite buildings and higher Cohen-Macaulay connectivity",4.152060804718484e-06,2.0348558642587077e-05,3.0,2.0
+math/0703070,The structure and classification of mis\`ere quotients,4.145617295183355e-06,0.0,3.0,1.0
+math-ph/0602017,Thomae type formulae for singular Z_N curves,4.133862873234702e-06,0.0,2.0,0.0
+math/0506171,Invariant functions on symplectic representations,4.063143711471229e-06,0.0,1.0,2.0
+math/0309413,SAGBI bases and Degeneration of Spherical Varieties to Toric Varieties,4.039521203418977e-06,0.0,2.0,1.0
+math/0509390,"Algebraic Factor Analysis: Tetrads, Pentads and Beyond",4.026104302891667e-06,5.970548265480216e-06,3.0,2.0
+math/0412520,Algebraic invariants for right-angled Artin groups,4.005322175846736e-06,0.0,2.0,0.0
+math/0609054,On the ideals of Secant Varieties to certain rational varieties,4.0036062571065206e-06,0.0,3.0,1.0
+math/0502405,Generators of D-modules in positive characteristic,3.971715626346211e-06,0.0,3.0,0.0
+math/0702654,Constructing modules with prescribed cohomological support,3.951011740210633e-06,0.0,2.0,0.0
+math/0308116,Asymptotic invariants of base loci,3.94847461642831e-06,5.970548265480216e-06,3.0,3.0
+math/0310032,Pseudofunctorial behavior of Cousin complexes on formal schemes,3.921724026024129e-06,5.970548265480216e-06,2.0,3.0
+math/0406104,"On the Structure of Certain Natural Cones over Moduli Spaces of
+  Genus-One Holomorphic Maps",3.894184572863209e-06,0.0,3.0,3.0
+math/0508589,Some families of componentwise linear monomial ideals,3.858160452827263e-06,0.0,3.0,2.0
+math/0401403,Implicitization of rational surfaces using toric varieties,3.826788423397162e-06,0.0,1.0,0.0
+math/9807127,The Projective Geometry of the Gale Transform,3.7589767133589184e-06,0.0,2.0,0.0
+math/0312412,Homology over local homomorphisms,3.732793439253324e-06,0.0,2.0,2.0
+math/0010073,"Torus actions, combinatorial topology and homological algebra",3.719687858366476e-06,0.0,7.0,2.0
+math/0511022,Sequentially Cohen-Macaulay Edge Ideals,3.7111922728190856e-06,0.0,3.0,4.0
+math/0405526,Semi-dualizing modules and related Gorenstein homological dimensions,3.703280925101326e-06,0.0,2.0,0.0
+math/0208173,"The Jacobian Conjecture as a Problem of Perturbative Quantum Field
+  Theory",3.6893538112829874e-06,2.1892010306760792e-05,3.0,1.0
+math/0102217,The Multiplier Ideals of a Sum of Ideals,3.666036399908083e-06,0.0,3.0,0.0
+math/0509247,Truncated Groebner fans and lattice ideals,3.657141495841324e-06,0.0,2.0,2.0
+math/0405214,Asymptotic behaviour of arithmetically Cohen-Macaulay blow-ups,3.62335329328243e-06,0.0,2.0,0.0
+math/0409608,The asymptotic behavior of solid closure in mixed characteristic,3.62335329328243e-06,0.0,2.0,0.0
+math/0411323,Coefficient fields and scalar extension in positive characteristic,3.62335329328243e-06,0.0,2.0,0.0
+math/0411422,The Ratliff-Rush Closure of Initial Ideals of Certain Prime Ideals,3.62335329328243e-06,0.0,2.0,0.0
+math/0701729,On the Structure of Sequentially Generalized Cohen-Macaulay Modules,3.62335329328243e-06,0.0,2.0,0.0
+math/0505010,Algebraic shifting of finite graphs,3.62335329328243e-06,0.0,2.0,1.0
+math/0609564,The minimal resolutions of double points in P^1 x P^1 with ACM support,3.62335329328243e-06,0.0,2.0,0.0
+math/0606730,"The global decomposition theorem for Hochschild (co-)homology of
+  singular spaces via the Atiyah-Chern character",3.5941967643613277e-06,0.0,2.0,1.0
+math/0504204,Slope filtrations revisited,3.5916012386985245e-06,0.0,5.0,2.0
+math/0512521,Algebraic shifting and exterior and symmetric algebra methods,3.5819455210112734e-06,0.0,3.0,1.0
+math/0501036,Linkage Extensions,3.5724548320017548e-06,0.0,4.0,0.0
+math/0702143,Tropical conics for the layman,3.5359418035252955e-06,0.0,5.0,0.0
+math/0312398,Simple proof of Chebotarev's theorem on roots of unity,3.5342285001526997e-06,0.0,2.0,2.0
+math/9906171,"Enriques Surfaces and other Non-Pfaffian Subcanonical Subschemes of
+  Codimension 3",3.5324768517048674e-06,0.0,1.0,3.0
+math/0312263,The Gorenstein projective modules are precovering,3.49912997646896e-06,0.0,2.0,2.0
+math/0608345,Divisors over determinantal rings defined by two by two minors,3.49912997646896e-06,0.0,2.0,0.0
+math/0502466,"Partial derivatives of a generic subspace of a vector space of forms:
+  quotients of level algebras of arbitrary type",3.4930843036925227e-06,0.0,2.0,0.0
+math/0509570,Ascent Properties of Auslander Categories,3.483385716006926e-06,0.0,3.0,3.0
+math/0608632,Jet schemes of determinantal varieties,3.4782876865952653e-06,0.0,1.0,0.0
+math/0108117,The structure of corings with a grouplike element,3.396689696726079e-06,0.0,2.0,2.0
+math/0506611,Resolutions of ideals of six fat points in P^2,3.389910494159559e-06,0.0,3.0,0.0
+math/0307161,The theory of tight closure from the viewpoint of vector bundles,3.3749066596554898e-06,0.0,1.0,0.0
+math/0206228,A divisorial valuation with irrational volume,3.3749066596554898e-06,0.0,1.0,0.0
+math/0307280,"Defining equations of subspace arrangements embedded in reflection
+  arrangements",3.3749066596554898e-06,0.0,1.0,0.0
+math/0407473,Orbits of automorphism groups of fields,3.3749066596554898e-06,0.0,1.0,0.0
+math/0311507,"Analytical invariants of quasi-ordinary hypersurface singularities
+  associated to divisorial valuations",3.3749066596554898e-06,0.0,1.0,0.0
+math/0703381,Polynomial ideals and directed graphs,3.3463477526837865e-06,0.0,2.0,0.0
+math/0403156,"On Gorenstein Projective, Injective and Flat Dimensions - A Functorial
+  Description with Applications",3.342118743394428e-06,0.0,2.0,6.0
+math/0405373,The Regularity of Tor and Graded Betti Numbers,3.307094949617245e-06,0.0,2.0,0.0
+math/0505612,Coloured peak algebras and Hopf algebras,3.2943934813959165e-06,0.0,4.0,2.0
+math/0601705,On the Jacobian ideal of the binary discriminant,3.286318695829235e-06,3.980365510320144e-06,1.0,2.0
+math/0301088,A resultant approach to detect intersecting curves in $\PP^3$,3.273189094598124e-06,0.0,2.0,0.0
+math/0012257,Logarithm-free A-hypergeometric series,3.273189094598124e-06,0.0,2.0,0.0
+math/0303265,"G-dimension over local homomorphisms. Applications to the Frobenius
+  endomorphism",3.237930006304668e-06,0.0,1.0,0.0
+math/0601536,"Non-degenerate bilinear forms in characteristic 2, related contact
+  forms, simple Lie algebras and superalgebras",3.219736907240735e-06,0.0,3.0,2.0
+math/0502541,Cohen-Macaulay cell complexes,3.2139808469336203e-06,5.970548265480216e-06,2.0,1.0
+math/0502240,"Syzygies, multigraded regularity and toric varieties",3.1978754673078448e-06,0.0,2.0,0.0
+math/0607819,On the multiplication map of a multigraded algebra,3.191530706300613e-06,0.0,3.0,0.0
+math/0608003,Minimal Generators for Symmetric Ideals,3.1686962871804875e-06,0.0,1.0,0.0
+math/0502418,Resolutions of ideals of fat points with support in a hyperplane,3.1564676950366884e-06,0.0,2.0,0.0
+math/0409500,"Length, multiplicity, and multiplier ideals",3.153466928135874e-06,0.0,2.0,0.0
+math/0611696,Prolongations and computational algebra,3.149840459451292e-06,0.0,2.0,0.0
+math/0402176,Tate cohomology over fairly general rings,3.1429201050082166e-06,0.0,1.0,0.0
+math/0506237,"The existence of finitely generated modules of finite Gorenstein
+  injective dimension",3.140944098236147e-06,0.0,2.0,0.0
+math-ph/0310012,On Exact Solvability of Anharmonic Oscillators in Large Dimensions,3.1276514062652283e-06,0.0,2.0,0.0
+math/0612616,Mis\`ere Games and Mis\`ere Quotients,3.1200354968677063e-06,0.0,2.0,3.0
+math/0508413,A tropical Nullstellensatz,3.0475298298015017e-06,0.0,3.0,1.0
+math/0301238,Implicitizing rational hypersurfaces using approximation complexes,3.0472482127272877e-06,0.0,2.0,1.0
+math/0610470,Componentwise linear ideals with minimal or maximal Betti numbers,3.0472482127272877e-06,0.0,2.0,0.0
+math/0312513,"Gorenstein injective dimension, Bass formula and Gorenstein rings",3.031503952265253e-06,0.0,2.0,2.0
+math/0108145,Monodromy of Hypersurface Singularities,3.018034797210268e-06,0.0,1.0,0.0
+math/0506526,"Cohomology of face rings, and torus actions",2.995295691336149e-06,0.0,3.0,2.0
+math/0410014,Cones and Asymptotic Invariants of Multigraded Systems of Ideals,2.9925193581077166e-06,0.0,1.0,0.0
+math/0102224,Asymptotic Np property of rational surfaces,2.9644326681849736e-06,0.0,3.0,0.0
+math/0505421,Multigraded regularity: coarsenings and resolutions,2.938911385063857e-06,0.0,1.0,2.0
+math/0209187,What is the Rees Algebra of a Module?,2.923024895913817e-06,0.0,1.0,0.0
+math/0307082,"Positivity and canonical bases in rank 2 cluster algebras of finite and
+  affine types",2.9094709027617333e-06,0.0,6.0,5.0
+math/0405525,"Invertible modules for commutative $\mathbb{S}$-algebras with residue
+  fields",2.8839154825015444e-06,0.0,3.0,0.0
+math/0501534,Type II Unprojection,2.871533568505662e-06,0.0,2.0,0.0
+math/0602593,Lattice polytopes with a given $h^*$-polynomial,2.855213185875573e-06,0.0,2.0,0.0
+math/0702569,Sequentially Cohen-Macaulay monomial ideals of embedding dimension four,2.855213185875573e-06,0.0,3.0,1.0
+math/0701377,"Commuting linear operators and decompositions; applications to Einstein
+  manifolds",2.855213185875573e-06,0.0,2.0,0.0
+math/0305286,"F-singularities of pairs and Inversion of Adjunction of arbitrary
+  codimension",2.855213185875573e-06,0.0,3.0,1.0
+math/0310276,On the height of the Sylvester Resultant,2.855213185875573e-06,0.0,2.0,0.0
+math/0505067,On toric varieties which are almost set-theoretic complete intersections,2.855213185875573e-06,0.0,3.0,0.0
+math/0007142,"An excursion from enumerative goemetry to solving systems of polynomial
+  equations with Macaulay 2",2.855213185875573e-06,0.0,2.0,0.0
+math/0510487,Tableau complexes,2.852612463000674e-06,0.0,4.0,2.0
+math/0110058,"Gr\""obner geometry of Schubert polynomials",2.8210350177014327e-06,0.0,2.0,9.0
+math/0608285,Thom polynomials of Morin singularities,2.8122315166685897e-06,0.0,1.0,1.0
+math/9802052,String Cohomology of a Toroidal Singularity,2.8099688220254804e-06,0.0,3.0,1.0
+math/0506024,New approaches to bounding the multiplicity of an ideal,2.808019810227821e-06,0.0,4.0,1.0
+math/0111195,Kustin-Miller unprojection with complexes,2.780598795548117e-06,0.0,3.0,1.0
+math/0301194,The hardness of polynomial equation solving,2.77239764133326e-06,0.0,1.0,0.0
+math/0507320,"Abelian subcategories closed under extensions: K-theory and
+  decompositions",2.77239764133326e-06,0.0,1.0,0.0
+math/0512105,Applications of duality theory to cousin complexes,2.769513864913844e-06,0.0,1.0,0.0
+math/0509282,A Briancon-Skoda type theorem for graded systems of ideals,2.768923715235085e-06,0.0,1.0,0.0
+math/0410069,A Broken Circuit Ring,2.7553141795321493e-06,1.3925338442075248e-05,2.0,2.0
+math/0305125,Regularity and Saturation in Biprojective Spaces,2.744919960183445e-06,0.0,1.0,0.0
+math/0506221,On seminormal monoid rings,2.7424045823715325e-06,0.0,1.0,0.0
+math/0606353,A note on the edge ideals of Ferrers graphs,2.724944196285666e-06,0.0,1.0,4.0
+math/0206304,Hilbert coefficients and depth of fiber cones,2.697084014042981e-06,0.0,2.0,0.0
+math/0310194,Algebraic Recipes for Integer Programming,2.697084014042981e-06,0.0,2.0,0.0
+math/0408016,Characteristic-independence of Betti numbers of graph ideals,2.6777775539560234e-06,0.0,2.0,2.0
+math/0501226,The Betti numbers of forests,2.6777775539560234e-06,0.0,2.0,2.0
+math/0504425,A Generalization of Stanley's Monster Reciprocity Theorem,2.670275737407022e-06,0.0,2.0,0.0
+math/0502144,"Gr\""obner geometry of vertex decompositions and of flagged tableaux",2.6600646332421837e-06,1.1935155686915176e-05,1.0,5.0
+math/0612119,Low-dimensional Singularities with Free Divisors as Discriminants,2.615724713976265e-06,0.0,1.0,0.0
+math/0307361,Last syzygies of 1-generic spaces,2.6151694023109303e-06,0.0,2.0,0.0
+math/0606593,Global Hochschild (co-)homology of singular spaces,2.606300786541888e-06,0.0,2.0,1.0
+math/0702834,Geometry of the Kimura 3-parameter model,2.573735378896149e-06,1.990182755160072e-06,1.0,1.0
+math/0502438,"Resonance, linear syzygies, Chen groups, and the
+  Bernstein-Gelfand-Gelfand correspondence",2.547812514042988e-06,0.0,2.0,3.0
+math/0609525,Integral closures of monomial ideals and Fulkersonian hypergraphs,2.5464567594624237e-06,0.0,3.0,0.0
+math/9910071,Extended deformation functors,2.544611167223556e-06,1.9602805500743395e-06,6.0,9.0
+math/0511700,Local structure of abelian covers,2.489514899737188e-06,0.0,1.0,0.0
+math/0505146,Notes on the multiplicity conjecture,2.482449009908784e-06,0.0,3.0,3.0
+math/0409051,The Hilbert Function of a Maximal Cohen-Macaulay Module,2.4711431321721443e-06,0.0,1.0,0.0
+math/0002247,Computer Algebra and Algebraic Geometry - Achievements and Perspectives,2.4711431321721443e-06,0.0,1.0,0.0
+math/0508136,Cyclotomic Polytopes and Growth Series of Cyclotomic Lattices,2.4711431321721443e-06,0.0,1.0,1.0
+math/9906208,Normal transversality and uniform bounds,2.4711431321721443e-06,0.0,1.0,0.0
+nlin/0608010,"Dispersionless integrable equations as coisotropic deformations.
+  Extensions and reductions",2.4711431321721443e-06,0.0,1.0,0.0
+math/0611305,Constituent Groups of Clifford Semigroups Arising from t-Closure,2.4711431321721443e-06,0.0,1.0,0.0
+math/0612592,Analytic $q$-difference equations,2.4711431321721443e-06,0.0,1.0,0.0
+math/9812095,Alexander Duality for Monomial Ideals and Their Resolutions,2.4711431321721443e-06,0.0,1.0,4.0
+math/0611312,Invariant integral on classical groups and algebraic harmonic analysis,2.4711431321721443e-06,0.0,1.0,0.0
+math/0611742,The characteristic polynomial of a multiarrangement,2.4711431321721443e-06,0.0,1.0,0.0
+math/0606189,Computing Groebner bases of ideals of few points in high dimensions,2.4711431321721443e-06,0.0,1.0,0.0
+math/0205174,Degree Bounds for Syzygies of Invariants,2.4711431321721443e-06,0.0,1.0,0.0
+math/0504528,Gotzmann monomial ideals,2.4711431321721443e-06,0.0,1.0,0.0
+math/0607718,Definable groups of partial automorphisms,2.4711431321721443e-06,0.0,1.0,0.0
+math/0612683,"On a discrepancy among Picard-Vessiot theories in positive
+  characteristics",2.4711431321721443e-06,0.0,1.0,0.0
+math/0511100,Base change of invariant subrings,2.4711431321721443e-06,0.0,1.0,0.0
+math/0601733,"The characteristic ideal of a finite, connected, regular graph",2.4711431321721443e-06,0.0,1.0,0.0
+math/0509126,Hilbert scheme strata defined by bounding cohomology,2.4711431321721443e-06,0.0,1.0,0.0
+math-ph/0406062,"De Rham-Hodge-Skrypnik theory. A survey of the spectral and differential
+  geometric aspects of the De Rham-Hodge-Skrypnik theory related with Delsarte
+  transmutation operators in multidimension and its applications to spectral
+  and soliton problems. Part 1",2.4711431321721443e-06,0.0,3.0,0.0
+math/0511407,Equisingular calculations for plane curve singularities,2.4711431321721443e-06,0.0,1.0,0.0
+math/0308142,Four positive formulae for type A quiver polynomials,2.4711431321721443e-06,0.0,1.0,4.0
+math/0503558,"On the Local Cohomology of Reflexive Modules of Rank One over Normal
+  Semigroup Rings",2.4711431321721443e-06,0.0,1.0,0.0
+math/0406409,Extended degree functions and monomial modules,2.4711431321721443e-06,0.0,1.0,0.0
+math/0510583,"A Skolem-Mahler-Lech Theorem in Positive Characteristic and Finite
+  Automata",2.4711431321721443e-06,0.0,1.0,0.0
+math/0509618,The Frobenius action on local cohomology modules in mixed characteristic,2.4711431321721443e-06,0.0,1.0,0.0
+math/0203235,On multiplicities of graded sequences of ideals,2.4711431321721443e-06,0.0,1.0,1.0
+math/0407289,Gorenstein rings call the tune,2.4711431321721443e-06,0.0,1.0,0.0
+math/0410375,Finite automata and algebraic extensions of function fields,2.4711431321721443e-06,0.0,1.0,1.0
+math/0411324,"Ratliff-Rush Filtration, Regularity and depth of Higher Associated
+  graded modules: Part I",2.4711431321721443e-06,0.0,1.0,0.0
+math/0602344,Class and rank of differential modules,2.4711431321721443e-06,0.0,1.0,0.0
+math/0603278,Approximation diophantienne sur une courbe elliptique,2.4711431321721443e-06,0.0,1.0,0.0
+math/0011129,On multiplicities of points on Schubert varieties in Grassmannians,2.4711431321721443e-06,0.0,1.0,0.0
+alg-geom/9606018,Gale Duality and Free Resolutions of Ideals of Points,2.4711431321721443e-06,0.0,1.0,1.0
+math/0512359,Permanental ideals of Hankel matrices,2.4711431321721443e-06,0.0,1.0,0.0
+math/0512555,Lie bialgebras of generalized Virasoro-like type,2.4711431321721443e-06,0.0,1.0,0.0
+math/0601393,Factorizations of birational extensions of local rings,2.4711431321721443e-06,0.0,1.0,0.0
+math/0105036,Supernormal Vector Configurations,2.4711431321721443e-06,0.0,1.0,5.0
+math/0302351,An informal introduction to multiplier ideals,2.4711431321721443e-06,0.0,2.0,0.0
+math/0503740,"On the Castelnuovo-Mumford regularity of ideals, in dimension 2",2.4711431321721443e-06,0.0,1.0,0.0
+math/0702444,"The strong Lefschetz property for Artinian algebras with non-standard
+  grading",2.4711431321721443e-06,0.0,1.0,0.0
+math/0703148,On endomorphism rings of local cohomology,2.4711431321721443e-06,0.0,1.0,0.0
+math/0210009,The computational complexity of the Chow form,2.4711431321721443e-06,0.0,1.0,1.0
+math/0607256,"Tameness of Local cohomology of monomial ideals with respect to monomial
+  prime ideals",2.4711431321721443e-06,0.0,1.0,0.0
+math/0702846,Tannakian approach to linear differential algebraic groups,2.4711431321721443e-06,0.0,1.0,0.0
+math/0702788,On Sequentially Cohen-Macaulay Complexes and Posets,2.4711431321721443e-06,0.0,1.0,0.0
+math/0506575,"The cotangent space at a monomial ideal of the Hilbert scheme of points
+  of an affine space",2.4711431321721443e-06,0.0,1.0,0.0
+math/0506279,On varieties of almost minimal degree in small codimension,2.4711431321721443e-06,0.0,1.0,0.0
+math/9810004,A Geometric Effective Nullstellensatz,2.4711431321721443e-06,0.0,1.0,0.0
+math/0703299,Multiplier ideals of sums via cellular resolutions,2.4711431321721443e-06,0.0,1.0,0.0
+math/0402406,BGG correspondence and Roemer's theorem on an exterior algebra,2.4711431321721443e-06,0.0,1.0,2.0
+math/0506265,Acyclicity versus total acyclicity for complexes over noetherian rings,2.4711431321721443e-06,0.0,1.0,2.0
+math/0701881,Some observations on local and projective hypersurfaces,2.4711431321721443e-06,0.0,1.0,0.0
+math/0702283,A note on the generic initial ideal for complete intersections,2.4711431321721443e-06,0.0,1.0,0.0
+math/0307281,"Ancestor ideals of vector spaces of forms, and level algebras",2.4711431321721443e-06,0.0,1.0,0.0
+math/0211028,Multiplicity-free subvarieties of flag varieties,2.4711431321721443e-06,0.0,1.0,0.0
+math/0309065,Enumeration of concave integer partitions,2.4711431321721443e-06,0.0,1.0,0.0
+math/0109221,Rational curves and rational singularities,2.4711431321721443e-06,0.0,1.0,0.0
+math/0009241,Syzygies of Oriented Matroids,2.4711431321721443e-06,0.0,1.0,0.0
+math/0208069,Computing Instanton Numbers of Curve Singularities,2.4711431321721443e-06,0.0,1.0,0.0
+math/0212377,Objects of Categories as Complex Numbers,2.4711431321721443e-06,0.0,1.0,0.0
+math/0209156,Arithmetic Macaulayfication of projective schemes,2.4711431321721443e-06,0.0,1.0,1.0
+math/0602566,On the highest Lyubeznik number of a local ring,2.4711431321721443e-06,0.0,1.0,0.0
+math/0310227,The Structure of F-Pure Rings,2.4711431321721443e-06,0.0,1.0,0.0
+math/0312388,On the irreducibility of the determinant of the matrix of moving planes,2.4711431321721443e-06,0.0,1.0,0.0
+math/0506574,"Rational, Replacement, and Local Invariants of a Group Action",2.4711431321721443e-06,0.0,1.0,0.0
+math/0301347,"Morita Contexts, Idempotents, and Hochschild Cohomology - with
+  Applications to Invariant Rings -",2.4711431321721443e-06,0.0,1.0,0.0
+math/0304162,Multihomogeneous resultant formulae by means of complexes,2.4711431321721443e-06,0.0,1.0,0.0
+math/0509394,Laplace transform and universal sl(2) invariants,2.4570128496368653e-06,2.481191422974436e-06,2.0,4.0
+math/0605330,"On the Hartshorne--Speiser--Lyubeznik Theorem about Artinian modules
+  with a Frobenius action",2.429735359900988e-06,0.0,2.0,1.0
+math/0404516,Restricting linear syzygies: algebra and geometry,2.429735359900988e-06,0.0,2.0,3.0
+math/0512198,Level algebras with bad properties,2.429735359900988e-06,0.0,2.0,1.0
+math/0305215,Uniform bounds on multigraded regularity,2.415173582015289e-06,0.0,2.0,1.0
+math/0309256,"Algorithms for graded injective resolutions and local cohomology over
+  semigroup rings",2.4090314737654093e-06,0.0,2.0,0.0
+math/0104203,Sheaf Cohomology and Free Resolutions over Exterior Algebras,2.406015870332352e-06,0.0,3.0,9.0
+math/0412361,Hilbert functions of Gorenstein algebras associated to a pencil of forms,2.4060086373771908e-06,0.0,1.0,2.0
+math/9810142,"The Algebraic Closure of the Power Series Field in Positive
+  Characteristic",2.4060086373771908e-06,0.0,1.0,2.0
+math/0411228,Level algebras of type 2,2.4060086373771908e-06,0.0,1.0,2.0
+math/9906030,Power series and p-adic algebraic closures,2.4060086373771908e-06,0.0,1.0,2.0
+math/9906036,Formal solution of the master equation via HPT and deformation theory,2.401212079429293e-06,0.0,4.0,8.0
+math/0406314,"Realizability of algebraic Galois extensions by strictly commutative
+  ring spectra",2.397486231595592e-06,1.1941096530960432e-05,1.0,4.0
+math/0010107,Equations of Parametric Surfaces via Syzygies,2.395701869715676e-06,3.980365510320144e-06,1.0,1.0
+math/0612650,On canonical modules of toric face rings,2.3819828266225997e-06,0.0,1.0,0.0
+math/0502517,"Cohomology of partially ordered sets and local cohomology of section
+  rings",2.3819828266225997e-06,0.0,1.0,2.0
+math/0605150,On toric face rings,2.3819828266225997e-06,0.0,1.0,1.0
+math/0401166,Duality for Cousin Complexes,2.3798154879859697e-06,0.0,1.0,0.0
+math/0408124,D-module generation in positive characteristic via Frobenius descent,2.375125618746287e-06,0.0,3.0,1.0
+math/0505323,Endomorphism rings of finite global dimension,2.3565354799971457e-06,0.0,3.0,0.0
+math/0501444,Castelnuovo-Mumford regularity for complexes and weakly Koszul modules,2.3469198153586743e-06,0.0,1.0,0.0
+math/0609313,Compactly generated homotopy categories,2.3469198153586743e-06,0.0,1.0,0.0
+math/0603273,Governing Singularities of Schubert Varieties,2.3327102343457243e-06,0.0,2.0,2.0
+math/0012079,"Rational curves on Grassmannians: systems theory, reality, and
+  transversality",2.2877222413511013e-06,0.0,2.0,0.0
+math/0504238,On toric varieties of high arithmetical rank,2.27910810532043e-06,0.0,2.0,0.0
+math-ph/0311041,Quasi-invariants of dihedral systems,2.2774928361188862e-06,0.0,4.0,0.0
+math/9912199,"Torus actions, equivariant moment-angle complexes, and coordinate
+  subspace arrangements",2.267189640564075e-06,0.0,5.0,2.0
+math/0101097,Deformation Theory of Infinity Algebras,2.263078849955628e-06,0.0,3.0,13.0
+math/9906170,Lagrangian Subbundles and Codimension 3 Subcanonical Subscheme,2.2576172707169384e-06,0.0,1.0,1.0
+math/0102140,Examples of infinity and Lie algebras and their versal deformations,2.2510177743419184e-06,0.0,2.0,5.0
+math/0508062,Reflexivity and ring homomorphisms of finite flat dimension,2.2356851087904607e-06,0.0,1.0,3.0
+math/0209115,The Resultant of an Unmixed Bivariate System,2.2350762047448584e-06,0.0,3.0,0.0
+alg-geom/9611014,Andre-Quillen cohomology of monoid algebras,2.228409629410981e-06,0.0,2.0,0.0
+math/0411127,On Ideal Generators for Affine Schubert Varieties,2.2242238637325468e-06,0.0,3.0,0.0
+math/0408311,Non-archimedean amoebas and tropical varieties,2.2037415814893654e-06,8.770880166074787e-05,5.0,15.0
+math/0209157,Powers of ample divisors and syzygies of projective varieties,2.196292560778117e-06,0.0,1.0,0.0
+math/0209240,"Eigenvalues of majorized Hermitian matrices and Littlewood-Richardson
+  coefficients",2.1823959943276706e-06,0.0,2.0,0.0
+math/0411170,F-thresholds and Bernstein-Sato polynomials,2.180144258846184e-06,0.0,2.0,0.0
+math/0505473,"Combinatorial description of the roots of the Bernstein-Sato polynomials
+  for monomial ideals",2.180144258846184e-06,1.990182755160072e-06,2.0,2.0
+math/0207253,Canonical projections of irregular algebraic surfaces,2.1584504901793897e-06,0.0,3.0,0.0
+math/0306307,Higher Stanley-Reisner rings and Toric Residues,2.138419289609777e-06,0.0,2.0,1.0
+math/0703757,Some remarks on Borel type ideals,2.120978933487838e-06,0.0,1.0,1.0
+math/0510030,On ideals generated by monomials and one binomial,2.120978933487838e-06,0.0,1.0,1.0
+math/0601510,"The Hilbert Coefficients of the fiber cone and the $a$-invariant of the
+  associated graded ring",2.120978933487838e-06,0.0,1.0,0.0
+math/0411631,Auslander correspondence,2.11441501576554e-06,1.1771802088448191e-06,4.0,4.0
+math/0111168,A strange example concerning Property N_p,2.087073078468716e-06,0.0,2.0,0.0
+math/0502520,A Sextic with 35 Cusps,2.087073078468716e-06,0.0,2.0,1.0
+math/0412339,A Short Proof of the Zeilberger-Bressoud $q$-Dyson Theorem,2.0821517584126315e-06,0.0,1.0,0.0
+math/0503731,On incidence between strata of the Hilbert scheme of points on P^2,2.057216893033018e-06,0.0,2.0,0.0
+math/0212226,"Differential Graded Schemes II: The 2-category of Differential Graded
+  Schemes",2.0561963128639576e-06,3.982840862005666e-06,2.0,4.0
+math/0104187,"Divisors on $\mathcal{M}_{g,g+1}$ and the Minimal Resolution Conjecture
+  for points on canonical curves",2.0456653061975597e-06,0.0,1.0,1.0
+math/0010130,Algorithms for the Toric Hilbert Scheme,2.0456653061975597e-06,0.0,1.0,0.0
+math/0310108,Codimension Theorems for Complete Toric Varieties,2.043336273363121e-06,0.0,2.0,4.0
+math/0403432,Generic Syzygy Schemes,2.0390643217557878e-06,0.0,2.0,1.0
+math/0601452,On the ideals and singularities of secant varieties of Segre varieties,2.004257533926402e-06,0.0,1.0,4.0
+math/0307154,Macaulay Style Formulas for the Toric Residue,1.9910555650428585e-06,0.0,2.0,3.0
+math/0608288,The Combinatorics of Quiver Representations,1.9878449599452744e-06,1.990182755160072e-06,2.0,1.0
+math/0404361,The set of semidualizing complexes is a nontrivial metric space,1.9803101477411127e-06,0.0,1.0,2.0
+math/0408399,Semidualizing modules and the divisor class group,1.9803101477411127e-06,0.0,1.0,2.0
+math/0003229,There are enough Azumaya algebras on surfaces,1.975441245154943e-06,0.0,1.0,1.0
+math/0612748,Homology of subgroups of right-angled Artin groups,1.9706115565874544e-06,0.0,1.0,0.0
+math/0703577,Vertex cover algebras of unimodular hypergraphs,1.9703516789072803e-06,0.0,2.0,0.0
+math/0603161,On Computing Janet Bases for Degree Compatible Orderings,1.9654508947959632e-06,0.0,3.0,1.0
+math/0605697,"Welschinger invariants of toric Del Pezzo surfaces with non-standard
+  real structures",1.9621018213908858e-06,0.0,2.0,0.0
+math/0209324,Cyclotomic completions of polynomial rings,1.945903432420184e-06,1.0025174326366035e-07,2.0,2.0
+math/0108068,Ample filters of invertible sheaves,1.936666487549651e-06,0.0,1.0,4.0
+math/0108144,A normal form algorithm for the Brieskorn lattice,1.932694865262141e-06,0.0,1.0,1.0
+math/0303110,"Derived Category of Squarefree Modules and Local Cohomology with
+  Monomial Ideal Support",1.9263197783317087e-06,0.0,2.0,1.0
+q-bio/0402015,Toric ideals of phylogenetic invariants,1.9208472700474983e-06,9.782439710647602e-06,2.0,6.0
+math/0409190,A Residue Theorem for Malcev-Neumann Series,1.9070569500562487e-06,1.990182755160072e-06,1.0,2.0
+math/0301266,Computing the Integer Programming Gap,1.8950380516170012e-06,0.0,1.0,2.0
+math/0309027,Sally modules of ${\mathfrak m}$-primary ideals in local rings,1.8950380516170012e-06,0.0,1.0,2.0
+math/0107046,Slopes of a Hypergeometric System Associated to a Monomial Curve,1.8950380516170012e-06,0.0,1.0,0.0
+math/0303164,Stanley-Reisner rings and torus actions,1.8950380516170012e-06,0.0,1.0,0.0
+math/0211450,"Symmetry groups, semidefinite programs, and sums of squares",1.8950380516170012e-06,0.0,1.0,2.0
+math/0509186,A general framework for applying FGLM techniques to linear codes,1.8950380516170012e-06,0.0,1.0,0.0
+math/0703158,Thick subcategories of modules over commutative rings,1.8950380516170012e-06,0.0,1.0,0.0
+math/0410257,Independence of the total reflexivity conditions for modules,1.8950380516170012e-06,0.0,1.0,2.0
+math/0506584,"p-Fractals and power series--II. Some applications to Hilbert-Kunz
+  theory",1.8950380516170012e-06,0.0,1.0,0.0
+math/0310487,Multiplier Ideals and Modules on Toric Varieties,1.8950380516170012e-06,0.0,1.0,0.0
+math/0509624,Remarks on modules approximated by G-projective modules,1.8950380516170012e-06,0.0,1.0,0.0
+math/0610537,Regularity of ideals of Borel type is linearly bounded,1.8950380516170012e-06,0.0,1.0,2.0
+math/0701667,"On the Sharpness of fewnomial bound and the number of components of a
+  fewnomial hypersurface",1.8950380516170012e-06,0.0,1.0,0.0
+math/0703620,Gotzmann ideals of the polynomial ring,1.8950380516170012e-06,0.0,1.0,0.0
+math/0408425,The adjoint of an even size matrix factors,1.8950380516170012e-06,0.0,1.0,0.0
+math/0411340,Desingularization of toric and binomial varieties,1.8950380516170012e-06,0.0,1.0,0.0
+math/0310493,Regularity jumps for powers of ideals,1.8950380516170012e-06,0.0,1.0,1.0
+math/9908016,A sagbi basis for the quantum Grassmannian,1.8950380516170012e-06,0.0,1.0,2.0
+alg-geom/9708018,Conormal Geometry of Maximal Minors,1.8950380516170012e-06,0.0,1.0,1.0
+math/0512171,The Jacobian Conjecture is stably equivalent to the Dixmier Conjecture,1.8950380516170012e-06,0.0,1.0,2.0
+math/0502289,On the upper semi-continuity of the Hilbert-Kunz multiplicity,1.8950380516170012e-06,0.0,1.0,0.0
+math/0410309,Noncomplete embeddings of rational surfaces,1.8950380516170012e-06,0.0,1.0,0.0
+math/0606357,"Standard graded vertex cover algebras, cycles and leaves",1.8950380516170012e-06,0.0,1.0,6.0
+math/0312486,On F-pure thresholds,1.8950380516170012e-06,0.0,1.0,1.0
+math/0701456,A generalized Gaeta's Theorem,1.8950380516170012e-06,0.0,1.0,0.0
+math/0005142,"On two simple criteria for recognizing complete intersections in
+  codimension 2",1.8950380516170012e-06,0.0,1.0,0.0
+math/0509475,Certain minimal varieties are set-theoretic complete intersections,1.8950380516170012e-06,0.0,1.0,2.0
+math/0607639,"The resolution of the universal ring for finite length modules of
+  projective dimension two",1.8950380516170012e-06,0.0,1.0,1.0
+math/0509164,Groebner bases and combinatorics for binary codes,1.8950380516170012e-06,0.0,1.0,0.0
+math/0502348,Computation of Poincare-Betti series for monomial rings,1.8950380516170012e-06,0.0,1.0,0.0
+math/0403370,Asymptotic behaviour of the length of local cohomology,1.8950380516170012e-06,0.0,1.0,0.0
+math/0401285,"A discrete form of the theorem that each field endomorphism of R (Q_p)
+  is the identity",1.8950380516170012e-06,0.0,1.0,0.0
+math/0101112,Problems and progress: survey on fat points in P2,1.8950380516170012e-06,0.0,1.0,3.0
+math/0602182,On some Gorenstein loci in $\Hilb_{6}(\p 4)$,1.8950380516170012e-06,0.0,1.0,0.0
+math/0505472,"Roots of Bernstein-Sato polynomials for monomial ideals: a positive
+  characteristic approach",1.892091718568612e-06,0.0,1.0,0.0
+math-ph/0302062,On the associative Nijenhuis Relation,1.886405105736261e-06,2.6586022935259126e-06,3.0,5.0
+math/0701559,Idempotent Semigroups and Tropical Algebraic Sets,1.8837848132958004e-06,0.0,1.0,0.0
+math/0508044,Logarithmic sheaves attached to arrangements of hyperplanes,1.882779403617376e-06,0.0,1.0,0.0
+math/0511612,Gorenstein homological dimensions and Auslander categories,1.879293791154968e-06,0.0,1.0,0.0
+math/0607184,Cryptanalysis of the Shpilrain-Ushakov Protocol in Thompson's Group,1.867604476352471e-06,0.0,2.0,1.0
+math/0603482,Quasiinvariants of $S_3$,1.866219519690976e-06,0.0,2.0,0.0
+math/0310478,Exact matrix formula for the unmixed resultant in three variables,1.8510061510414296e-06,0.0,2.0,0.0
+math-ph/0410026,The Maurer-Cartan structure of BRST differential,1.8479650124790628e-06,0.0,2.0,0.0
+math/0702847,Residue currents constructed from resolutions of monomial ideals,1.8329263932102664e-06,0.0,1.0,0.0
+math/0507238,Monomial ideals via square-free monomial ideals,1.8329263932102664e-06,0.0,1.0,1.0
+math/0010003,Bass Numbers of Semigroup-Graded Local Cohomology,1.8329263932102664e-06,0.0,1.0,0.0
+math/0604485,"An improved Multiplicity Conjecture for codimension three Gorenstein
+  algebras",1.8159675766053069e-06,0.0,2.0,0.0
+math/0610031,Some results on inhomogeneous discriminants,1.8033325446980583e-06,0.0,1.0,0.0
+math/0209406,Lifting of morphisms to quotient presentations,1.7952695795651271e-06,0.0,1.0,0.0
+math/0311416,Maximal ideal space of a commutative coefficient algebra,1.7903786106128075e-06,0.0,1.0,6.0
+math/0010321,A proof of the Tsygan formality conjecture for chains,1.7844842908593435e-06,0.0,3.0,10.0
+math/0402127,Inversion of the Pieri formula for Macdonald polynomials,1.7822336313298086e-06,0.0,1.0,7.0
+math/0212225,Differential Graded Schemes I: Perfect Resolving Algebras,1.7806818625663993e-06,1.9926581068455945e-06,1.0,6.0
+math/0610081,Regularity and Normality of the Secant Variety to a Projective Curve,1.7301277087805848e-06,0.0,1.0,0.0
+math/0401175,Toric ideals of homogeneous phylogenetic models,1.728812243195784e-06,0.0,1.0,1.0
+math/0412544,On the residue fields of Henselian valued stable fields,1.719955952274848e-06,0.0,1.0,1.0
+math/0405103,Chevalley restriction theorem for the cyclic quiver,1.7068958541376002e-06,0.0,2.0,1.0
+math/0508067,The geometry of the Weak Lefschetz Property and level sets of points,1.703003024765287e-06,0.0,1.0,2.0
+math/0611948,Minimal Canonical Comprehensive Groebner Systems,1.703003024765287e-06,0.0,1.0,2.0
+math/0508214,Tight closure test exponents for certain parameter ideals,1.703003024765287e-06,0.0,1.0,2.0
+math/0409007,Another proof of global $F$-regularity of Schubert varieties,1.703003024765287e-06,0.0,1.0,0.0
+math/0306100,On the cohomology of torus manifolds,1.703003024765287e-06,0.0,1.0,4.0
+math/0703650,The Multiplicity-Polar Theorem,1.703003024765287e-06,0.0,1.0,0.0
+math/0509285,The Multiplicity Polar Theorem and Isolated Singularities,1.703003024765287e-06,0.0,1.0,1.0
+math/0402245,Semistability and Hilbert-Kunz multiplicities for curves,1.703003024765287e-06,0.0,1.0,1.0
+math/0506298,"Generic initial ideals and exterior algebraic shifting of the join of
+  simplicial complexes",1.703003024765287e-06,0.0,1.0,2.0
+math/0509697,Toroidalization of generating sequences in dimension two function fields,1.703003024765287e-06,0.0,1.0,0.0
+math/0612358,Sufficient conditions for a real polynomial to be a sum of squares,1.703003024765287e-06,0.0,1.0,0.0
+math/0603137,Existence results for rational normal curves,1.703003024765287e-06,0.0,1.0,1.0
+math/0611326,Equidimensional and Unmixed Ideals of Veronese Type,1.703003024765287e-06,0.0,1.0,0.0
+math/0209031,Moduli space of filtered lambda-ring structures over a filtered ring,1.703003024765287e-06,0.0,1.0,0.0
+math/0407513,Hilbert-Kunz multiplicity and reduction mod p,1.703003024765287e-06,0.0,1.0,0.0
+math/0601668,On a special class of simplicial toric varieties,1.703003024765287e-06,0.0,1.0,0.0
+math/0011236,Exterior algebra methods for the Minimal Resolution Conjecture,1.703003024765287e-06,0.0,1.0,2.0
+math/9905125,Taylor and minimal resolutions of homogeneous polynomial ideals,1.703003024765287e-06,0.0,1.0,0.0
+math/0411020,Resolutions of small sets of fat points,1.703003024765287e-06,0.0,1.0,1.0
+math/0601520,Rees cones and monomial rings of matroids,1.703003024765287e-06,0.0,1.0,0.0
+math/0605329,"Graded annihilators of modules over the Frobenius skew polynomial ring,
+  and tight closure",1.703003024765287e-06,0.0,1.0,0.0
+math/0511684,Global residues for sparse polynomial systems,1.703003024765287e-06,0.0,1.0,0.0
+math/0611122,On complete system of invariants for the binary form of degree 7,1.703003024765287e-06,0.0,1.0,2.0
+math/0601335,A spherical initial ideal for Pfaffians,1.6932976519652834e-06,0.0,1.0,2.0
+math/0501535,Remarks on Type III Unprojection,1.6919366338352745e-06,0.0,1.0,0.0
+math/0608158,Towards a general theory of unprojection,1.6919366338352745e-06,0.0,1.0,0.0
+math/0607804,K-theory of torus manifolds,1.6822991386297089e-06,0.0,1.0,0.0
+math/0204062,"Hochschild cohomology and moduli spaces of strongly homotopy associative
+  algebras",1.6709469258364186e-06,1.258653399418209e-10,4.0,2.0
+math/0108012,Action of Coxeter groups on m-harmonic polynomials and KZ equations,1.6665800278583353e-06,0.0,2.0,4.0
+math/0210101,Monomial Multiple Structures,1.6397513560322505e-06,0.0,1.0,2.0
+math/0407383,"Dualizing complex of the incidence algebra of a finite regular cell
+  complex",1.632090053769523e-06,0.0,1.0,0.0
+math/0701591,Parameter test ideals of Cohen Macaulay rings,1.60698551133943e-06,0.0,1.0,0.0
+math/0703735,Gaps in Nonsymmetric Numerical Semigroups,1.60698551133943e-06,0.0,1.0,0.0
+math/0611467,Hyperholomorphic functions on commutative algebras,1.60698551133943e-06,0.0,1.0,0.0
+math/0702668,"Simplicial ideals, 2-linear ideals and arithmetical rank",1.60698551133943e-06,0.0,1.0,0.0
+math/0201180,The D-Module structure of R[F]-modules,1.60698551133943e-06,0.0,1.0,0.0
+math/0402232,Multiplier ideals of hyperplane arrangements,1.60698551133943e-06,0.0,1.0,4.0
+math/0209404,Determinantal resultant,1.60698551133943e-06,0.0,1.0,1.0
+math/0304118,"Curvilinear Base Points, Local Complete Intersection and Kozsul Syzygies
+  in Biprojective Spaces",1.60698551133943e-06,0.0,1.0,1.0
+math/0507370,Analytic Representations in the 3-dim Frobenius Problem,1.60698551133943e-06,0.0,1.0,1.0
+math/0603023,On the Hopf Algebraic Structure of Lie Group Integrators,1.5905088526915209e-06,0.0,4.0,1.0
+math/0703459,"Odd-Cycle-Free Facet Complexes and the K\""onig property",1.5862816252038515e-06,0.0,1.0,0.0
+math/0412036,"The Diophantine equations $ x^{n}_{1} +x^{n}_{2} +...+x^{n}_{r_{1}}= y
+  ^{n}_{1} +y^{n}_{2} +...+y^{n}_{r_{2}} $",1.5849499045227092e-06,0.0,1.0,0.0
+math/0104286,Algebraic Unimodular Counting,1.5849467338180512e-06,5.970548265480216e-06,1.0,4.0
+math/0301233,Noncommutative Koszul filtrations,1.5847065076852148e-06,2.985274132740108e-06,1.0,2.0
+math/0409107,Coinvariants for modular representations of cyclic groups of prime order,1.5833904461116883e-06,0.0,1.0,0.0
+math/9903124,Generalized periods and mirror symmetry in dimensions n>3,1.5624481728285603e-06,4.6242105113666325e-06,3.0,23.0
+math/0504077,A note on the multiplicity of determinantal ideals,1.5493750032839157e-06,0.0,1.0,5.0
+math/0410497,The Multiplicity Conjecture in low codimensions,1.5493750032839157e-06,0.0,1.0,2.0
+math/0501465,Conjectures on the ring of commuting matrices,1.5493750032839157e-06,0.0,1.0,0.0
+math/0211072,Cayley compactifications of abelian groups,1.5448197704207788e-06,0.0,1.0,0.0
+math/0603286,"A new approximation theory which unifies spherical and Cohen-Macaulay
+  approximations",1.5109679979135728e-06,0.0,1.0,0.0
+math/0511214,The Jacobian Conjecture as a problem in combinatorics,1.5109679979135728e-06,0.0,1.0,0.0
+math/0407189,Cellular cochain algebras and torus actions,1.4835344226490424e-06,0.0,1.0,1.0
+math/0305434,Cluster algebras III: Upper bounds and double Bruhat cells,1.4804290455364586e-06,0.0,1.0,15.0
+math-ph/0504048,On Compatibility of Discrete Relations,1.4762727422239383e-06,3.980365510320144e-06,2.0,2.0
+math/0311471,La conjecture de Green generique [d'apres C. Voisin],1.4629592412006444e-06,0.0,1.0,0.0
+math/0511578,Points in projective spaces and applications,1.4629592412006444e-06,0.0,1.0,2.0
+math/9904079,An analog of the classical invariant theory for Lie superlagebras. II,1.446956322296335e-06,0.0,1.0,6.0
+math/0512632,Balanced normal cones and Fulton-MacPherson's intersection theory,1.446956322296335e-06,0.0,1.0,1.0
+math/0610353,Binomial D-modules,1.4429041157379355e-06,0.0,1.0,0.0
+math/0403340,A proof of a cyclic version of Deligne's conjecture via Cacti,1.4403271936550837e-06,1.990182755160072e-06,2.0,7.0
+math/0306120,Good bases for tame polynomials,1.4149504844877158e-06,0.0,1.0,2.0
+math/9803120,McKay correspondence and Hilbert schemes in dimension three,1.410714706400075e-06,0.0,2.0,27.0
+math/9906032,Berikashvili's functor D and the deformation equation,1.4031559793502274e-06,0.0,2.0,4.0
+math/0210376,g-elements of matroid complexes,1.4012336968554504e-06,0.0,1.0,1.0
+math/0010157,Semi-infinite Hodge structures and mirror symmetry for projective spaces,1.3818887397541145e-06,1.8530138784989615e-05,2.0,14.0
+math/0207191,Tangential Star Products,1.3230525143117365e-06,0.0,1.0,0.0
+math/0111094,The Continuous Hochschild Cochain Complex of a Scheme,1.3230525143117365e-06,0.0,1.0,1.0
+math/0006193,Quantum periods - I. Semi-infinite variations of Hodge structures,1.3230525143117365e-06,0.0,1.0,10.0
+math/0408351,Some asymptotic properties of the Rees powers of a module,1.3189329710618589e-06,0.0,0.0,1.0
+math/0407155,Baxter Algebras and Shuffle Products,1.3189329710618589e-06,0.0,0.0,4.0
+math/0303187,"Dickson invariants, regularity and computation in group cohomology",1.3189329710618589e-06,0.0,0.0,1.0
+math/0408058,Adelic Lefschetz formula for the action of a one-dimensional torus,1.3189329710618589e-06,0.0,0.0,1.0
+math/0604374,Hyperdeterminantal relations among symmetric principal minors,1.3189329710618589e-06,0.0,0.0,1.0
+math/0110184,On the Castelnuovo-Mumford regularity of products of ideal sheaves,1.3189329710618589e-06,0.0,0.0,1.0
+math/0410185,On the associative homotopy Lie algebras and the Wronskians,1.3189329710618589e-06,0.0,0.0,1.0
+math/0601022,List Decoding of Reed-Solomon Codes from a Groebner Basis Perspective,1.3189329710618589e-06,0.0,0.0,2.0
+math/0307378,Gorenstein Liaison and ACM Sheaves,1.3189329710618589e-06,0.0,0.0,1.0
+math/0503666,Special simplices and Gorenstein toric rings,1.3189329710618589e-06,0.0,0.0,2.0
+math/0110089,Algebraic Generalized Power Series and Automata,1.3189329710618589e-06,0.0,0.0,1.0
+math/0005098,Uniform Bounds and Symbolic Powers on Smooth Varieties,1.3189329710618589e-06,0.0,0.0,1.0
+math/0005055,Sheaf Cohomolog and Free Resolutions over Exterior Algebras,1.3189329710618589e-06,0.0,0.0,3.0
+math/0512423,Symbolic powers of monomial ideals and vertex cover algebras,1.3189329710618589e-06,0.0,0.0,2.0
+math/0303203,Multiplier Ideals of Sufficiently General Polynomials,1.3189329710618589e-06,0.0,0.0,4.0
+math/9911094,Sharp estimates for the arithmetic Nullstellensatz,1.3189329710618589e-06,0.0,0.0,3.0
+math/0307037,Multiplicity of the special fiber of blowups,1.3189329710618589e-06,0.0,0.0,2.0
+math/0212033,Castelnuovo-Mumford Regularity in Biprojective Spaces,1.3189329710618589e-06,0.0,0.0,4.0
+math/0410107,Betti Numbers of Graph Ideals,1.3189329710618589e-06,0.0,0.0,8.0
+math/0410264,Projections of cones and the arithmetical rank of toric varieties,1.3189329710618589e-06,0.0,0.0,2.0
+math/0409090,Powers of complete intersections: graded Betti numbers and applications,1.3189329710618589e-06,0.0,0.0,5.0
+math/9804052,Extremal Betti Numbers and Applications to Monomial Ideals,1.3189329710618589e-06,0.0,0.0,1.0
+math/0301255,Algebraic Geometry of Bayesian Networks,1.3189329710618589e-06,0.0,0.0,6.0
+math/9810113,An analog of the classical invariant theory for Lie superlagebras,1.3189329710618589e-06,0.0,0.0,9.0
+math/0702733,Counterexamples regarding Symmetric Tensors and Divided Powers,1.3189329710618589e-06,0.0,0.0,1.0
+math/0611064,Monomial ideals with linear upper bound regularity,1.3189329710618589e-06,0.0,0.0,2.0
+math/0501111,Involutive Algorithms for Computing Groebner Bases,1.3189329710618589e-06,0.0,0.0,9.0
+math/0408162,A functorial approach to modules of G-dimension zero,1.3189329710618589e-06,0.0,0.0,2.0
+math/0608019,Groebner bases for families of affine or projective schemes,1.3189329710618589e-06,0.0,0.0,3.0
+math/0406100,Notes on Engel groups and Engel elements in groups. Some generalizations,1.3189329710618589e-06,0.0,0.0,3.0
+math/9907174,Semi-invariants of quivers for arbitrary dimension vectors,1.3189329710618589e-06,0.0,0.0,4.0
+math/0210065,Castelnuovo-Mumford regularity of products of ideals,1.3189329710618589e-06,0.0,0.0,2.0
+math/0005260,KRS and determinantal ideals,1.3189329710618589e-06,0.0,0.0,1.0
+math/9810111,The invariant polynomials on simple Lie superalgebras,1.3189329710618589e-06,0.0,0.0,5.0
+math/0505678,A non-unimodal codimension 3 level $h$-vector,1.3189329710618589e-06,0.0,0.0,3.0
+math/0206063,Symmetric iterated Betti numbers,1.3189329710618589e-06,0.0,0.0,1.0
+math/0105151,The Hilbert Series of Pfaffian Rings,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0506102,On $m$-dimensional toric codes,1.3189329710618589e-06,0.0,0.0,3.0
+math/0508021,Stable cohomology over local rings,1.3189329710618589e-06,0.0,0.0,1.0
+math/0503685,Algebraic shifting and graded Betti numbers,1.3189329710618589e-06,0.0,0.0,3.0
+math/0111040,Resultants and Chow forms via Exterior Syzygies,1.3189329710618589e-06,0.0,0.0,4.0
+math/0407187,A study of Cousin complexes through the dualizing complexes,1.3189329710618589e-06,0.0,0.0,1.0
+math/0407052,"Higher dimensional Auslander-Reiten theory on maximal orthogonal
+  subcategories",1.3189329710618589e-06,0.0,0.0,6.0
+math/0103170,Minimizing Polynomial Functions,1.3189329710618589e-06,0.0,0.0,2.0
+math/0411445,"On the first infinitesimal neighborhood of a linear configuration of
+  points in $\mathbb P^2$",1.3189329710618589e-06,0.0,0.0,3.0
+math/0407464,A surprising fact about D-modules in characteristic p>0,1.3189329710618589e-06,0.0,0.0,3.0
+math/0110244,The intersection homology D--module in finite characteristic,1.3189329710618589e-06,0.0,0.0,4.0
+math/0205161,Liaison and Related Topics: Notes from the Torino Workshop/School,1.3189329710618589e-06,0.0,0.0,1.0
+math/0108078,"Geometric Syzygies of Canonical Curves of even Genus lying on a
+  K3-Surface",1.3189329710618589e-06,0.0,0.0,1.0
+math/0701435,Betti numbers of determinantal ideals,1.3189329710618589e-06,0.0,0.0,1.0
+math/0701190,Betti numbers and shifts in minimal graded free resolutions,1.3189329710618589e-06,0.0,0.0,1.0
+math/9804141,Chordal varieties of Veronese varieties and catalecticant matrices,1.3189329710618589e-06,0.0,0.0,1.0
+math/0306318,Ideals of Adjacent Minors,1.3189329710618589e-06,0.0,0.0,2.0
+math/0601202,A Kleiman-Bertini Theorem for sheaf tensor products,1.3189329710618589e-06,0.0,0.0,1.0
+math/0402071,Combinatorics of rank jumps in simplicial hypergeometric systems,1.3189329710618589e-06,0.0,0.0,1.0
+math/0508415,Three Mutually Adjacent Leonard Pairs,1.3189329710618589e-06,0.0,0.0,5.0
+math/0103099,"Conservation of the noetherianity by perfect transcendental field
+  extensions",1.3189329710618589e-06,0.0,0.0,1.0
+math/0610168,"Monomial ideals with linear quotients whose Taylor resolutions are
+  minimal",1.3189329710618589e-06,0.0,0.0,1.0
+math/0105094,"Linkage on singular rational normal surfaces and three-folds with
+  application to the classification of curves of maximal genus",1.3189329710618589e-06,0.0,0.0,1.0
+math/0411187,Homology of I-adic towers,1.3189329710618589e-06,0.0,0.0,1.0
+math/0411372,"A Minimal Groebner Basis for the Defining Ideals of Certain Affine
+  Monomial Curves",1.3189329710618589e-06,0.0,0.0,1.0
+math/0406493,On affinely closed homogeneous spaces,1.3189329710618589e-06,0.0,0.0,1.0
+math/0106239,"Correction to the paper ""Duality and Flat Base Change on Formal Schemes""",1.3189329710618589e-06,0.0,0.0,1.0
+math/0612310,Equisingular Families of Projective Curves,1.3189329710618589e-06,0.0,0.0,1.0
+math/0507202,On Sequentially Cohen-Macaulay Modules,1.3189329710618589e-06,0.0,0.0,1.0
+math/0507200,"dd-sequences and partial Euler-Poincare' characteristics of Koszul
+  complex",1.3189329710618589e-06,0.0,0.0,1.0
+math/0301189,On a Non-Vanishing Conjecture of Kawamata and the Core of an Ideal,1.3189329710618589e-06,0.0,0.0,1.0
+math/0212161,On the asymptotic linearity of Castelnuovo-Mumford regularity,1.3189329710618589e-06,0.0,0.0,1.0
+math/0603718,Ring graphs and complete intersection toric ideals,1.3189329710618589e-06,0.0,0.0,1.0
+math/0211449,The height of the mixed sparse resultant,1.3189329710618589e-06,0.0,0.0,1.0
+math/0206261,"Hasse-Schmidt Derivations and Coefficient Fields in Positive
+  Characteristics",1.3189329710618589e-06,0.0,0.0,1.0
+math/0407181,Baxter Algebras and Hopf Algebras,1.3189329710618589e-06,0.0,0.0,2.0
+math/9807170,"Computing Global Extension Modules for Coherent Sheaves on a Projective
+  Scheme",1.3189329710618589e-06,0.0,0.0,1.0
+math/0507170,The strong Anick conjecture is true,1.3189329710618589e-06,0.0,0.0,2.0
+math/0603425,Generalized Matric Massey Products for Graded Modules,1.3189329710618589e-06,0.0,0.0,2.0
+math/0511405,Maximal Cohen-Macaulay Modules over the Affine Cone of the Simple Node,1.3189329710618589e-06,0.0,0.0,1.0
+math/0001159,"Cohomology on Toric Varieties and Local Cohomology with Monomial
+  Supports",1.3189329710618589e-06,0.0,0.0,1.0
+math/0608542,Combinatorial symbolic powers,1.3189329710618589e-06,0.0,0.0,2.0
+math-ph/9806002,Darboux Transformations of Bispectral Quantum Integrable Systems,1.3189329710618589e-06,0.0,0.0,1.0
+math/0503278,"On the componentwise linearity and the minimal free resolution of a
+  tetrahedral curve",1.3189329710618589e-06,0.0,0.0,1.0
+math/9803078,Local factorization and monomialization of morphisms,1.3189329710618589e-06,0.0,0.0,2.0
+math/0505655,Criterions for Shellable Multicomplexes,1.3189329710618589e-06,0.0,0.0,2.0
+math/0605119,Prime filtrations of monomial ideals and polarizations,1.3189329710618589e-06,0.0,0.0,2.0
+math/9905046,Duality between Multidimensional Convolutional Codes and Systems,1.3189329710618589e-06,0.0,0.0,1.0
+math/0612344,The central simple modules of Artinian Gorenstein algebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/0205242,"The ring of arithmetical functions with unitary convolution: General
+  Truncations",1.3189329710618589e-06,0.0,0.0,2.0
+math/0507565,Reverse Lexicographic and Lexicographic Shifting,1.3189329710618589e-06,0.0,0.0,1.0
+math/0610228,On the Jacobian ring of a complete intersection,1.3189329710618589e-06,0.0,0.0,1.0
+math/0511279,"Cohomologie locale des faisceaux coh\'erents et th\'eor\`emes de
+  Lefschetz locaux et globaux (SGA 2)",1.3189329710618589e-06,0.0,0.0,1.0
+math/0501352,A non-regular Groebner fan,1.3189329710618589e-06,0.0,0.0,1.0
+math/0309259,Subword complexes in Coxeter groups,1.3189329710618589e-06,0.0,0.0,2.0
+math/0504052,Almost set-theoretic complete intersections in characteristic zero,1.3189329710618589e-06,0.0,0.0,2.0
+math/0309051,On the Castelnuovo-Mumford regularity of connected curves,1.3189329710618589e-06,0.0,0.0,1.0
+math/0304292,"The Ubiquity of Order Domains for the Construction of Error Control
+  Codes",1.3189329710618589e-06,0.0,0.0,1.0
+math/0303299,"A key equation and the computation of error values for codes from order
+  domains",1.3189329710618589e-06,0.0,0.0,1.0
+math/0303383,Asymptotic homological conjectures in mixed characteristic,1.3189329710618589e-06,0.0,0.0,1.0
+math/0303189,Log-terminal singularities and vanishing theorems,1.3189329710618589e-06,0.0,0.0,1.0
+math/0302246,On the computation of Ratliff-Rush closure,1.3189329710618589e-06,0.0,0.0,1.0
+math/0111187,An interpretation of multiplier ideals via tight closure,1.3189329710618589e-06,0.0,0.0,2.0
+math/0606736,Detecting completeness from ext-vanishing,1.3189329710618589e-06,0.0,0.0,1.0
+math/0411082,"Multiplicities in the mixed trace cocharacter sequence of two $3\times
+  3$ matrices",1.3189329710618589e-06,0.0,0.0,1.0
+math/9912029,Minimal Involutive Bases,1.3189329710618589e-06,0.0,0.0,4.0
+math/0104200,On the Neron-Severi groups of fibered varieties,1.3189329710618589e-06,0.0,0.0,1.0
+math/0201082,"The ring of arithmetical functions with unitary convolution: Divisorial
+  and topological properties",1.3189329710618589e-06,0.0,0.0,1.0
+math/9904143,Truncations of the ring of number-theoretic functions,1.3189329710618589e-06,0.0,0.0,1.0
+math/0307235,"Distributive Lattices, Bipartite Graphs and Alexander Duality",1.3189329710618589e-06,0.0,0.0,2.0
+math/0505347,Minimal free resolutions of projective subschemes of small degree,1.3189329710618589e-06,0.0,0.0,1.0
+math/0506161,"An elementary, explicit, proof of the existence of Hilbert schemes of
+  points",1.3189329710618589e-06,0.0,0.0,1.0
+math/0311333,Looking out for stable syzygy bundles,1.3189329710618589e-06,0.0,0.0,1.0
+math/0311037,"Generic 3-connected planar constraint systems are not soluble by
+  radicals",1.3189329710618589e-06,0.0,0.0,1.0
+math/0703422,"Tannakian categories, linear differential algebraic groups, and
+  parameterized linear differential equations",1.3189329710618589e-06,0.0,0.0,1.0
+math/0507323,Derivations of an effective divisor on the complex projective line,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0606069,"Coisotropic deformations of associative algebras and dispersionless
+  integrable hierarchies",1.3189329710618589e-06,0.0,0.0,1.0
+math/0310122,Characteristic-free bounds for the Castelnuovo-Mumford regularity,1.3189329710618589e-06,0.0,0.0,1.0
+math/0311537,The Hilbert scheme of degree two curves and certain ropes,1.3189329710618589e-06,0.0,0.0,2.0
+math/0303151,"Rank one Maximal Cohen-Macaulay modules over singularities of type
+  Y_1^3+Y_2^3+Y_3^3+Y_4^3",1.3189329710618589e-06,0.0,0.0,2.0
+math/0503721,Rational Formulas for Traces in zero-dimensional Algebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/0401373,Subspace arrangements defined by products of linear forms,1.3189329710618589e-06,0.0,0.0,1.0
+math/0504429,"A combinatorial proof of Gotzmann's persistence theorem for monomial
+  ideals",1.3189329710618589e-06,0.0,0.0,1.0
+math/0401301,"Covers of the multiplicative group of an algebraically closed field of
+  characteristic zero",1.3189329710618589e-06,0.0,0.0,1.0
+math/0109035,"A sharp bound for the Castelnuovo-Mumford regularity of subspace
+  arrangements",1.3189329710618589e-06,0.0,0.0,1.0
+alg-geom/9509005,"Gorenstein algebras, symmetric matrices, self-linked ideals, and
+  symbolic powers",1.3189329710618589e-06,0.0,0.0,1.0
+math/0208172,"Extensions of a Dualizing Complex by its Ring: Commutative Versions of a
+  Conjecture of Tachikawa",1.3189329710618589e-06,0.0,0.0,1.0
+math/0606636,t-Class Semigroups of Integral Domains,1.3189329710618589e-06,0.0,0.0,1.0
+math/0606729,Failure of tameness for local cohomology,1.3189329710618589e-06,0.0,0.0,1.0
+math/0408429,Another proof of theorems of De Concini and Procesi,1.3189329710618589e-06,0.0,0.0,1.0
+math/0407271,An analogue of a theorem due to Levin and Vasconcelos,1.3189329710618589e-06,0.0,0.0,1.0
+math/9912027,Involutive Bases of Polynomial Ideals,1.3189329710618589e-06,0.0,0.0,5.0
+math/0612848,Stanley decompositions and partitionable simplicial complexes,1.3189329710618589e-06,0.0,0.0,3.0
+math/0212173,Ideals with maximal local cohomology modules,1.3189329710618589e-06,0.0,0.0,1.0
+math/0603257,Un lemme de Roth sur les groupes alg\'ebriques commutatifs,1.3189329710618589e-06,0.0,0.0,1.0
+math/0211454,An Objective Representation of the Gaussian Integers,1.3189329710618589e-06,0.0,0.0,1.0
+math/0212073,Heitmann's proof of the direct summand conjecture in dimension 3,1.3189329710618589e-06,0.0,0.0,1.0
+math/0211400,"Formes d'inertie et complexe de Koszul associ\'es \`a des polyn\^omes
+  plurihomog\`enes",1.3189329710618589e-06,0.0,0.0,1.0
+math/0604133,The vanishing ideal of a finite set of closed points in affine space,1.3189329710618589e-06,0.0,0.0,1.0
+math/9902106,The strong uniform Artin-Rees property in codimension one,1.3189329710618589e-06,0.0,0.0,1.0
+math/0209344,On the embedded primes of the Mayr-Meyer ideals,1.3189329710618589e-06,0.0,0.0,1.0
+math/0611568,"Decent intersection and Tor-rigidity for modules over local
+  hypersurfaces",1.3189329710618589e-06,0.0,0.0,1.0
+alg-geom/9709021,"The family G_T of graded quotients of k[x,y] of given Hilbert function",1.3189329710618589e-06,0.0,0.0,1.0
+math/0501281,Multivariate Subresultants in Roots,1.3189329710618589e-06,0.0,0.0,1.0
+math/0611311,Reynolds Operator on functors,1.3189329710618589e-06,0.0,0.0,1.0
+math/0502282,Finite Filtrations of Modules and Shellable Multicomplexes,1.3189329710618589e-06,0.0,0.0,1.0
+math/0402418,Generic initial ideals of points and curves,1.3189329710618589e-06,0.0,0.0,1.0
+math/0503291,"Relative invariants, difference equations, and the Picard-Vessiot theory",1.3189329710618589e-06,0.0,0.0,1.0
+math/0503501,Resolutions for Equivariant Sheaves over Toric Varieties,1.3189329710618589e-06,0.0,0.0,1.0
+math/0408062,"The moduli space of surfaces with $K^2=6, p_g=4$",1.3189329710618589e-06,0.0,0.0,2.0
+math/0301164,Inversion of adjunction for local complete intersection varieties,1.3189329710618589e-06,0.0,0.0,3.0
+math/0303002,Jumping Coefficients of Multiplier Ideals,1.3189329710618589e-06,0.0,0.0,1.0
+math/0303233,Algebraic Shifting and Basic Constructions on Simplicial Complexes,1.3189329710618589e-06,0.0,0.0,1.0
+math/0402348,"Baxter Algebras, Stirling Numbers and Partitions",1.3189329710618589e-06,0.0,0.0,6.0
+math/0509180,Power series rings and projectivity,1.3189329710618589e-06,0.0,0.0,1.0
+math/0406514,The Elementary Theory of the Frobenius Automorphisms,1.3189329710618589e-06,0.0,0.0,1.0
+math/0410612,Formulas for multiplier ideals on singular varieties,1.3189329710618589e-06,0.0,0.0,1.0
+math/0303139,Minimal Hilbert-Kunz multiplicity,1.3189329710618589e-06,0.0,0.0,1.0
+math/0303148,Local Strong Factorization of birational maps,1.3189329710618589e-06,0.0,0.0,1.0
+math/0601731,On polynomial digraphs,1.3189329710618589e-06,0.0,0.0,1.0
+math/0302175,On planar Cremona maps of prime order,1.3189329710618589e-06,0.0,0.0,1.0
+math/0601763,Improving DISPGB Algorithm Using the Discriminant Ideal,1.3189329710618589e-06,0.0,0.0,1.0
+math/0608661,Gorenstein rings and irreducible parameter ideals,1.3189329710618589e-06,0.0,0.0,1.0
+math/0602537,On some local cohomology invariants of local rings,1.3189329710618589e-06,0.0,0.0,1.0
+math/0302030,Skewadjoint operators on pseudoeuclidean spaces,1.3189329710618589e-06,0.0,0.0,2.0
+math/0309374,On the irreducibility of multivariate subresultants,1.3189329710618589e-06,0.0,0.0,1.0
+math/0509123,Connectedness of Hilbert scheme strata defined by bounding cohomology,1.3189329710618589e-06,0.0,0.0,1.0
+math/0509243,On Igusa zeta functions of monomial ideals,1.3189329710618589e-06,0.0,0.0,1.0
+math/0510025,Minimal Primes Over Permanental Ideals,1.3189329710618589e-06,0.0,0.0,1.0
+math/0307179,"Demonstration constructive de l'existence de polynomes de Bernstein-Sato
+  pour plusieurs fonctions analytiques",1.3189329710618589e-06,0.0,0.0,1.0
+math/0501179,"Resolution of the residue class field via algebraic discrete Morse
+  theory",1.3189329710618589e-06,0.0,0.0,1.0
+math/0609008,Homology of perfect complexes,1.3189329710618589e-06,0.0,0.0,1.0
+math/0304111,Depth of associated graded rings via Hilbert coefficients of ideals,1.3189329710618589e-06,0.0,0.0,1.0
+math/0101122,Groebner bases and regularity of Rees algebras,1.3189329710618589e-06,0.0,0.0,1.0
+alg-geom/9708006,Duality and flat base change on formal schemes,1.3189329710618589e-06,0.0,0.0,1.0
+math/0112285,On multiplicities of points on Schubert varieties in Graszmannians II,1.3189329710618589e-06,0.0,0.0,2.0
+math/9812121,"Moduli of (1,7)-polarized abelian surfaces via syzygies",1.3189329710618589e-06,0.0,0.0,3.0
+math/0103085,Free divisors and duality for D-modules,1.3189329710618589e-06,0.0,0.0,1.0
+alg-geom/9506010,Rang maximal pour $T_P^n$,1.3189329710618589e-06,0.0,0.0,1.0
+math/0202133,"Geometric Syzygies of Mukai Varieties and General Canonical Curves with
+  Genus at most 8",1.3189329710618589e-06,0.0,0.0,2.0
+math/0210096,On the closed image of a rational map and the implicitization problem,1.3189329710618589e-06,0.0,0.0,2.0
+math/0407375,Cohen-Macaulay chordal graphs,1.3189329710618589e-06,0.0,0.0,3.0
+math/0311112,The monomial ideal of a finite meet-semilattice,1.3189329710618589e-06,0.0,0.0,1.0
+math/0603259,Connections on modules over quasi-homogeneous plane curves,1.3189329710618589e-06,0.0,0.0,3.0
+math/0401031,"Characterizing local rings via homological dimensions and regular
+  sequences",1.3189329710618589e-06,0.0,0.0,1.0
+math/0205251,Implicitization of surfaces in P^3 in the presence of base points,1.3189329710618589e-06,0.0,0.0,1.0
+math/0210270,Castelnuovo-Mumford regularity: Examples of curves and surfaces,1.3189329710618589e-06,0.0,0.0,1.0
+math/0203273,"Nilpotence, radicaux et structures mono\""{\i}dales",1.3189329710618589e-06,0.0,0.0,3.0
+math/0505229,Extensions of the Multiplicity Conjecture,1.3189329710618589e-06,0.0,0.0,5.0
+math/0503146,Generators of Invariants of Two $4 \times 4$ Matrices,1.3189329710618589e-06,0.0,0.0,2.0
+math/0301110,"Trees, parking functions, syzygies, and deformations of monomial ideals",1.3189329710618589e-06,0.0,0.0,2.0
+math/0412282,Poincare' series of monomial rings,1.3189329710618589e-06,0.0,0.0,2.0
+math/0609371,Monomial and toric ideals associated to Ferrers graphs,1.3189329710618589e-06,0.0,0.0,4.0
+math/0307294,Hilbert-Kunz multiplicity of three-dimensional local rings,1.3189329710618589e-06,0.0,0.0,2.0
+math/0405202,The Hilbert-Kunz function in graded dimension two,1.3189329710618589e-06,0.0,0.0,2.0
+math/0504055,A note on Veronese varieties,1.3189329710618589e-06,0.0,0.0,3.0
+math/0511307,A note on Rees algebras and the MFMC property,1.3189329710618589e-06,0.0,0.0,3.0
+math/9912245,A Semiregularity Map for Modules and Applications to Deformations,1.3189329710618589e-06,0.0,0.0,2.0
+math/9810112,Invariant functions on supermatrices,1.3189329710618589e-06,0.0,0.0,2.0
+math/0211008,A generalization of tight closure and multiplier ideals,1.3189329710618589e-06,0.0,0.0,2.0
+math/0702610,Local cohomology and support for triangulated categories,1.3189329710618589e-06,0.0,0.0,2.0
+math/0601256,"Some relational structures with polynomial growth and their associated
+  algebras",1.3189329710618589e-06,0.0,0.0,2.0
+math/0608188,The depth of an ideal with a given Hilbert function,1.3189329710618589e-06,0.0,0.0,2.0
+math/0405523,"Cohen-Macaulay injective, projective, and flat dimension",1.3189329710618589e-06,0.0,0.0,2.0
+math/0508334,"The residuals of lex plus powers ideals and the Eisenbud-Green-Harris
+  conjecture",1.3189329710618589e-06,0.0,0.0,1.0
+math/0510247,Duality in algebra and topology,1.3189329710618589e-06,0.0,0.0,1.0
+math/0407180,Baxter Algebras and Differential Algebras,1.3189329710618589e-06,0.0,0.0,2.0
+math/0611840,Moduli of McKay quiver representations II: Groebner basis techniques,1.3189329710618589e-06,0.0,0.0,1.0
+math/0702041,A stable property of Borel type ideals,1.3189329710618589e-06,0.0,0.0,1.0
+math/0208157,Topological representations of matroids,1.3189329710618589e-06,0.0,0.0,1.0
+math/0304447,Gorenstein Biliaison and ACM Sheaves,1.3189329710618589e-06,0.0,0.0,1.0
+math/0410625,"Rank two Cohen-Macaulay modules over singularities of type
+  $x_1^3+x_2^3+x_3^3+x_4^3$",1.3189329710618589e-06,0.0,0.0,1.0
+math/0501501,"Uniform Behaviour of the Frobenius closures of ideals generated by
+  regular sequences",1.3189329710618589e-06,0.0,0.0,3.0
+math/0512250,"The ${\rm Jacobian Conjecture}_{2n}$ implies the ${\rm Dixmier
+  Problem}_n$",1.3189329710618589e-06,0.0,0.0,1.0
+alg-geom/9610018,Equations Defining Toric Varieties,1.3189329710618589e-06,0.0,0.0,1.0
+math/0602632,"Simple derivations of differentiably simple Noetherian commutative rings
+  in prime characteristic",1.3189329710618589e-06,0.0,0.0,1.0
+math/0403534,Level rings arising from meet-distributive meet-semilattices,1.3189329710618589e-06,0.0,0.0,1.0
+math/0512021,A generalization of the Taylor complex construction,1.3189329710618589e-06,0.0,0.0,1.0
+math/0109210,"Poincar\'{e} series and monodromy of a two-dimensional quasihomogeneous
+  hypersurface singularity",1.3189329710618589e-06,0.0,0.0,1.0
+math/0602252,Invariants of t-structures and classification of nullity classes,1.3189329710618589e-06,0.0,0.0,1.0
+math/0303372,Kostant theorem for special filtered algebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/0205133,Ideals of general forms and the ubiquity of the Weak Lefschetz property,1.3189329710618589e-06,0.0,0.0,1.0
+math/0208201,The Weak and Strong Lefschetz Properties for Artinian K-Algebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/9906130,Resolutions of Ideals of Uniform Fat Point Subschemes of P^2,1.3189329710618589e-06,0.0,0.0,1.0
+math/0412404,Bounds for test exponents,1.3189329710618589e-06,0.0,0.0,1.0
+math/0510675,Iterated rings of bounded elements: Erratum,1.3189329710618589e-06,0.0,0.0,1.0
+math/0304495,Witt vectors and Tambara functors,1.3189329710618589e-06,0.0,0.0,1.0
+math/0307223,"The Lefschetz Property for Componentwise Linear Ideals and Gotzmann
+  Ideals",1.3189329710618589e-06,0.0,0.0,1.0
+math/0103100,Irreducible components of varieties of modules,1.3189329710618589e-06,0.0,0.0,1.0
+math/0411229,When is there a unique socle-vector associated to a given $h$-vector?,1.3189329710618589e-06,0.0,0.0,1.0
+math/0111002,Topology on the spaces of orderings of groups,1.3189329710618589e-06,0.0,0.0,1.0
+math/0512258,"The homotopy type of the complement of the codimension-two coordinate
+  subspace arrangement",1.3189329710618589e-06,0.0,0.0,1.0
+math/0507233,Rational transformations of algebraic curves and elimination theory,1.3189329710618589e-06,0.0,0.0,1.0
+math/0308102,"Groebner bases, initial ideals and initial algebras",1.3189329710618589e-06,0.0,0.0,2.0
+math/0509045,The multiplicity of pairs of modules and hypersurface singularities,1.3189329710618589e-06,0.0,0.0,1.0
+math/0504111,"Linear spaces, transversal polymatroids and ASL domains",1.3189329710618589e-06,0.0,0.0,1.0
+math/9911044,Geometry and Algebra of prime Fano 3-folds of genus 12,1.3189329710618589e-06,0.0,0.0,1.0
+math/9805134,"Reduction of quantum systems with arbitrary first class constraints and
+  Hecke algebras",1.3189329710618589e-06,0.0,0.0,2.0
+math/0310173,Normalisation of a Poisson algebra is Poisson,1.3189329710618589e-06,0.0,0.0,2.0
+math/0406591,"Linear systems in $\mathbb{P}^2$ with base points of bounded
+  multiplicity",1.3189329710618589e-06,0.0,0.0,4.0
+math/0404517,Small schemes and varieties of minimal degree,1.3189329710618589e-06,0.0,0.0,3.0
+math/0211146,Short rational generating functions for lattice point problems,1.3189329710618589e-06,0.0,0.0,2.0
+math/0402180,The rationality of the Hilbert-Kunz multiplicity in graded dimension two,1.3189329710618589e-06,0.0,0.0,3.0
+math/0202303,"Uniform Approximation of Abhyankar Valuation Ideals in Smooth Function
+  Fields",1.3189329710618589e-06,0.0,0.0,1.0
+math/0203071,Fat Points in P^1 x P^1 and their Hilbert Functions,1.3189329710618589e-06,0.0,0.0,1.0
+math/0210131,On a generalization of test ideals,1.3189329710618589e-06,0.0,0.0,2.0
+math/0210265,The valuative tree,1.3189329710618589e-06,0.0,0.0,3.0
+math/0402052,Global F-regularity of Schubert varieties with applications to D-modules,1.3189329710618589e-06,0.0,0.0,3.0
+math/0606795,"Rees algebras on smooth schemes: integral closure and higher
+  differential operators",1.3189329710618589e-06,0.0,0.0,3.0
+math/0307222,Monomial ideals whose powers have a linear resolution,1.3189329710618589e-06,0.0,0.0,2.0
+math/0405389,Defining relations of invariants of two 3 \times 3 matrices,1.3189329710618589e-06,0.0,0.0,2.0
+math/0301215,On the Irreducibility of Commuting Varieties of Nilpotent Matrices,1.3189329710618589e-06,0.0,0.0,1.0
+math/0510395,Bounds on the Castelnuovo-Mumford regularity of tensor products,1.3189329710618589e-06,0.0,0.0,1.0
+math/0404034,Finiteness in derived categories of local rings,1.3189329710618589e-06,0.0,0.0,1.0
+math/0508287,"Homogeneous Buchberger algorithms and Sullivant's computational
+  commutative algebra challenge",1.3189329710618589e-06,0.0,0.0,2.0
+math/0601101,Regularity and Resolutions for Multigraded Modules,1.3189329710618589e-06,0.0,0.0,1.0
+math/0503111,"Combinatorial characterizations of generalized Cohen-Macaulay monomial
+  ideals",1.3189329710618589e-06,0.0,0.0,1.0
+math/0508439,"On the minimal free resolution of the universal ring for resolutions of
+  length two",1.3189329710618589e-06,0.0,0.0,2.0
+math/0407158,"Multiplicities of the Most Singular Point on Schubert varieties on
+  Gl(n)/B for n=5,6",1.3189329710618589e-06,0.0,0.0,2.0
+math/0602660,"Symmetric products, linear representations and the commuting scheme",1.3189329710618589e-06,0.0,0.0,2.0
+math/0409097,Cohen-Macaulay Polymatroidal Ideals,1.3189329710618589e-06,0.0,0.0,3.0
+math/0606530,Resolution of Singularities for 3-folds in positive characteristic,1.3189329710618589e-06,0.0,0.0,2.0
+math/0001142,Vanishing Theorems on Toric Varieties,1.3189329710618589e-06,0.0,0.0,3.0
+math/0104166,Higher K-theory of toric varieties,1.3189329710618589e-06,0.0,0.0,2.0
+math/0211181,Hilbert polynomials of non-standard bigraded algebras,1.3189329710618589e-06,0.0,0.0,2.0
+alg-geom/9602011,Residues and Differential Operators on Schemes,1.3189329710618589e-06,0.0,0.0,1.0
+math/0306126,Can one factor the classical adjoint of a generic matrix?,1.3189329710618589e-06,0.0,0.0,2.0
+math/0506045,On a Grobner bases structure associated to linear codes,1.3189329710618589e-06,0.0,0.0,2.0
+math/0412295,On the Denominator of the Poincar\'e series for monomial quotient rings,1.3189329710618589e-06,0.0,0.0,1.0
+alg-geom/9205001,Report on the Torsion of the Differential Module of an algebraic Curve,,,,
+alg-geom/9305010,Finding Sparse Systems of Parameters,,,,
+alg-geom/9310007,"Initial ideals, Veronese subrings, and rates of algebras",,,,
+alg-geom/9401001,Binomial Ideals,,,,
+alg-geom/9405010,Adjoints of ideals in regular local rings,,,,
+alg-geom/9412019,Mixed Buchsbaum--Rim Multiplicities,,,,
+alg-geom/9503025,Local Homology and Cohomology on Schemes,,,,
+alg-geom/9504008,Integral Subschemes of Codimension Two,,,,
+alg-geom/9505025,Topological invariants of a fan associated to a toric variety,,,,
+alg-geom/9511008,"Evolutions, Symbolic Squares, and Fitting Ideals",,,,
+alg-geom/9512008,Applications of Koszul homology to numbers of generators and syzygies,,,,
+alg-geom/9512009,On Macaulayfication of certain quasi-projective schemes,,,,
+alg-geom/9602017,Topology of Conic Bundles - II,,,,
+alg-geom/9604009,Arf Rings and Characters,,,,
+alg-geom/9606001,Descent from the form ring and Buchsbaum rings,,,,
+alg-geom/9610006,"Bounds for the Hilbert function of polynomial ideals and for the degrees
+  in the Nullstellensatz",,,,
+alg-geom/9610009,Hilbert-Kunz functions of cubic curves and surfaces,,,,
+alg-geom/9707018,On Simplicial Commutative Rings with Vanishing Andr\'e-Quillen Homology,,,,
+alg-geom/9708020,A property deducible from the generic initial ideal,,,,
+alg-geom/9708021,Determinantal schemes and Buchsbaum-Rim sheaves,,,,
+alg-geom/9708022,Buchsbaum-Rim sheaves and their multiple sections,,,,
+alg-geom/9710003,A sparse effective Nullstellensatz,,,,
+cs/0205002,A Polynomial Description of the Rijndael Advanced Encryption Standard,,,,
+cs/0607068,Computation of the Weight Distribution of CRC Codes,,,,
+cs/0608064,"A linear algebra approach to the differentiation index of generic DAE
+  systems",,,,
+cs/0612050,Explicit factors of some iterated resultants and discriminants,,,,
+math-ph/0703020,On the critical exponent in an isoperimetric inequality for chords,,,,
+math/0001049,Divisorial linear algebra of normal semigroup rings,,,,
+math/0001068,Conormal modules via Primitive ideals,,,,
+math/0001147,Artinian algebras and differential forms,,,,
+math/0001153,Local Cohomology at Monomial Ideals,,,,
+math/0002024,Polytopal linear algebra,,,,
+math/0002054,"F-regular and F-pure rings vs. log terminal and log canonical
+  singularities",,,,
+math/0002064,Almost ring theory,,,,
+math/0002091,Growth of sumsets in abelian semigroups,,,,
+math/0002157,On higher order analogues of de Rham cohomology,,,,
+math/0003033,Macaulay 2 and the geometry of schemes,,,,
+math/0003097,Generalised Hilbert Numerators II,,,,
+math/0003155,Definitive Computation of Bernstein-Sato Polynomials,,,,
+math/0004071,A Ring-Theorist's Description of Fedosov Quantization,,,,
+math/0004086,"The Poincar\'{e} series of some special quasihomogeneous surface
+  singularities",,,,
+math/0004100,On the Relation Between Pommaret and Janet Bases,,,,
+math/0005177,Some isomorphisms for the Brauer groups of a Hopf algebra,,,,
+math/0006060,On the derived invariance of cohomology theories for coalgebras,,,,
+math/0007023,Positivity and complexity of ideal sheaves,,,,
+math/0007069,The Koszul complex in projective dimension one,,,,
+math/0007076,Invariant Rings and Quasiaffine Quotients,,,,
+math/0007089,"Some conjectures about the Hilbert series of generic ideals in the
+  exterior algebra",,,,
+math/0007091,Projective dimension is a lattice invariant,,,,
+math/0007118,"Miyanishi's characterization of the affine 3-space does not hold in
+  higher dimensions",,,,
+math/0008041,Bounds for Betti numbers,,,,
+math/0008082,Double Rational Normal Curves with Linear Syzygies,,,,
+math/0009062,Reflexive subgroups of the Baer-Specker group and Martin's axiom,,,,
+math/0010067,Detecting flat normal cones using Segre classes,,,,
+math/0010117,Lifting Grobner bases from the exterior algebra,,,,
+math/0010276,Geometrical properties of sections of Buchsbaum-Rim sheaves,,,,
+math/0010313,"Rank one discrete valuations of $k((X_1,...X_n))$",,,,
+math/0010320,An example of a non acyclic Koszul complex of a module,,,,
+math/0011014,Differential forms and smoothness of quotients by reductive groups,,,,
+math/0011096,"On the dimension of discrete valuations of k((X1,...,Xn))",,,,
+math/0011181,"Local Cohomology, Arrangement of Subspaces and Monomial Ideals",,,,
+math/0011182,Indecomposable almost free modules - the local case,,,,
+math/0011211,Homological properties of bigraded algebras,,,,
+math/0011251,Subalgebras of bigraded Koszul algebras,,,,
+math/0012044,Inverse Grobner Basis Problem in Codimension Two,,,,
+math/0012049,Flattening and subanalytic sets in rigid analytic geometry,,,,
+math/0012054,Output Feedback Invariants,,,,
+math/0012134,"Invitation to higher local fields, Part I, section A: Appendix to
+  Section 2",,,,
+math/0012140,"Invitation to higher local fields, Part I, section 9: Exponential maps
+  and explicit formulas",,,,
+math/0012201,On Cohen-Macaulay rings of invariants,,,,
+math/0101081,Resolutions by mapping cones,,,,
+math/0101082,Sequentially Cohen-Macaulay modules and local cohomology,,,,
+math/0101086,Asymptotic linear bounds for the Castelnuovo-Mumford regularity,,,,
+math/0101109,Linear systems with multiple base points in P2,,,,
+math/0101110,Resolutions of fat point ideals involving 8 general points of P2,,,,
+math/0101116,Problems and algorithms for affine semigroups,,,,
+math/0101117,Algebras of minors,,,,
+math/0101260,Resultants and Moving Surfaces,,,,
+math/0102100,On Resolving Singularities,,,,
+math/0102130,Canonical curves and varieties of sums of powers of cubic polynomials,,,,
+math/0102179,Repr{\'e}sentations p-adiques et {\'e}quations diff{\'e}rentielles,,,,
+math/0103087,On the Rees algebra of certain codimension two perfect ideals,,,,
+math/0103188,"Monomial ideals and the Gorenstein liaison class of a complete
+  intersection",,,,
+math/0103197,"Reduced arithmetically Gorenstein schemes and simplicial polytopes with
+  maximal Betti numbers",,,,
+math/0104047,Generic ideals and Moreno-Soc{\'\i}as conjecture,,,,
+math/0104175,Intersections of symbolic powers of prime ideals,,,,
+math/0104254,Hilbert functions and resolutions for ideals of n = s^2 fat points in P2,,,,
+math/0105095,Algebras generated by reciprocals of linear forms,,,,
+math/0106076,"A determinantal formula for the Hilbert series of one-sided ladder
+  determinantal rings",,,,
+math/0106081,Effective descent maps for schemes,,,,
+math/0106082,Groebner and diagonal bases in Orlik-Solomon type algebras,,,,
+math/0106104,Quadratic sheaves and self-linkage,,,,
+math/0106226,Frobenius powers of non-complete intersections,,,,
+math/0106237,Obstructions to Deformations of DG Modules,,,,
+math/0106266,The Deformation Complex For DG Hopf Algebras,,,,
+math/0109146,Steenrod operations and Hochshild homology,,,,
+math/0109147,"Catalan paths, Quasi-symmetric functions and Super-Harmonic Spaces",,,,
+math/0109179,On the minimal free resolution of $n+1$ generic forms,,,,
+math/0109207,On Kummer extensions of the power series field,,,,
+math/0110044,Andr\'e-Quillen homology via functor homology,,,,
+math/0110096,"Cohen-Macaulay quotients of normal semigroup rings via irreducible
+  resolutions",,,,
+math/0110097,Local Complete Intersections in P^2 and Koszul Syzygies,,,,
+math/0110120,On the vanishing of higher syzygies of curves,,,,
+math/0110331,"Computing Small 1-Homological Models for Commutative Differential Graded
+  Algebras",,,,
+math/0111174,Minors of symmetric and exterior powers,,,,
+math/0111249,Control of radii of convergence and extension of subanalytic functions,,,,
+math/0111266,"Gr\""obner $\delta$-bases and Gr\""obner bases for differential operators",,,,
+math/0112041,The geometry of the local cohomology filtration in equivariant bordism,,,,
+math/0112050,"The Natural Chain of Binary Arithmetic Operations and Generalized
+  Derivatives",,,,
+math/0112185,"The border of the Hilbert function of a set of points in P^{n_1} x ... x
+  P^{n_k}",,,,
+math/0112186,The Hilbert functions of ACM sets of points in P^{n_1} x ... x P^{n_k},,,,
+math/0112217,Integral Closures of Cohen-Macaulay monomial ideals,,,,
+math/0201063,On simplicial commutative algebras with Noetherian homotopy,,,,
+math/0201064,Nilpotency in the homotopy of simplicial commutative algebras,,,,
+math/0201065,Simplicial commutative algebras with vanishing Andre-Quillen homology,,,,
+math/0201175,Almost ring theory - sixth release,,,,
+math/0202038,"Poisson structures over a complete intersection with isolated
+  singularities",,,,
+math/0202158,On Cohen-Macaulay modules over surface singularities,,,,
+math/0202227,A Fitting Lemma for Z/2-graded modules,,,,
+math/0202294,Representation of matroids,,,,
+math/0202296,"The Poincar\'e series of the algebra of rational functions which are
+  regular outside hyperplanes",,,,
+math/0203274,"Diff\'erentielles non commutatives et th\'eorie de Galois
+  diff\'erentielle ou aux diff\'erences",,,,
+math/0204017,On parameter spaces for artin level algebras,,,,
+math/0204162,A computational approach to the D-module of meromorphic functions,,,,
+math/0204172,On the Equations Defining Toric L.C.I. Singularities,,,,
+math/0204177,On the structure of mu-classes,,,,
+math/0204221,"On the index of a vector field tangent to a hypersurface with
+  non-isolated zero in the embedding space",,,,
+math/0204250,Projective embeddings of projective schemes blown up at subschemes,,,,
+math/0204254,"Bounding the degrees of generators of a homogeneous dimension 2 toric
+  ideal",,,,
+math/0205054,Local rings of countable Cohen--Macaulay type,,,,
+math/0205212,"The h-vector of a ladder determinantal ring cogenerated by 2x2 minors is
+  log-concave",,,,
+math/0205275,Order Ideals and a Generalized Krull Height Theorem,,,,
+math/0206044,Common transversals and tangents to two lines and two quadrics in P^3,,,,
+math/0206159,"Dualistic computational algebraic analyses of primal and dual minimum
+  cost flow problems on acyclic tournament graphs",,,,
+math/0206192,Grothendieck-Serre formula and bigraded Cohen-Macaulay Rees algebras,,,,
+math/0206221,Hilbert coefficients and depths of form rings,,,,
+math/0206250,Canonical Big Cohen-Macaulay algebras and rational singularities,,,,
+math/0207040,"Free resolutions fo rmultigraded modules: a generalization of Taylor's
+  construction",,,,
+math/0207068,On symbolic powers of prime ideals,,,,
+math/0207109,Test ideals in diagonal hypersurface rings II,,,,
+math/0207123,Refined and l-adic Euler characteristics of nearly perfect complexes,,,,
+math/0207194,On Noether's and Weyl's bound in positive characteristic,,,,
+math/0208067,The F-signature and strong F-regularity,,,,
+math/0208083,Hypersurfaces of bounded Cohen--Macaulay type,,,,
+math/0208118,Kummer theory of abelian varieties and reductions of Mordell-Weil groups,,,,
+math/0208217,Canonical modules of Rees algebras,,,,
+math/0208226,Cyclic covers of rings with rational singularities,,,,
+math/0208246,Taylor and Lyubeznik Resolutions via Grobner Bases,,,,
+math/0208247,"A Combinatorial Approach to Involution and delta-Regularity I:
+  Involutive Bases in Polynomial Algebras of Solvable Type",,,,
+math/0209154,The first Mayr-Meyer ideal,,,,
+math/0209159,Jacobian pairs,,,,
+math/0209172,The minimal components of the Mayr-Meyer ideals,,,,
+math/0209174,Tight closure commutes with localization in binomial rings,,,,
+math/0209184,Heights of Ideals of Minors,,,,
+math/0209186,A Simple Proof of some Generalized Principal Ideal Theorems,,,,
+math/0209196,Local cohomology modules with infinite dimensional socles,,,,
+math/0209198,A cancellation theorem for ideals,,,,
+math/0209199,Hyman Bass and Ubiquity: Gorenstein Rings,,,,
+math/0209203,Adjoints and Max Noether's Fundamentalsatz,,,,
+math/0209216,Cofiniteness and associated primes of local cohomology modules,,,,
+math/0209236,Tight closure in non-equidimensional rings,,,,
+math/0209238,Failure of F-purity and F-regularity in certain rings of invariants,,,,
+math/0209239,A computation of tight closure in diagonal hypersurfaces,,,,
+math/0209241,Deformation of F-purity and F-regularity,,,,
+math/0209242,F-regularity does not deform,,,,
+math/0209248,"Solving the Selesnick-Burrus Filter Design Equations Using Computational
+  Algebra and Algebraic Geometry",,,,
+math/0209250,Universal groups for point-sets and tilings,,,,
+math/0209251,Extension of weakly and strongly F-regular rings by flat maps,,,,
+math/0209254,Some Reductions on Jacobian Problem in Two Variables,,,,
+math/0209257,"Primary Decomposition: Compatibility, Independence and Linear Growth",,,,
+math/0209275,Simplicity of Rings of Differential Operators in Prime Characteristic,,,,
+math/0209280,Non-degenerate curves with maximal Hartshorne-Rao module,,,,
+math/0209284,Some normal monomial ideals,,,,
+math/0209285,Some Results On Normal Homogeneous Ideals,,,,
+math/0209291,Unmixed local rings with minimal Hilbert-Kunz multiplicity are regular,,,,
+math/0209293,A numerical characterization of the S_2-ification of a Rees algebra,,,,
+math/0209296,Lifting chains of prime ideals,,,,
+math/0209298,The affine class group of a normal scheme,,,,
+math/0209300,Tight closure and projective bundles,,,,
+math/0209302,Tight closure and plus closure for cones over elliptic curves,,,,
+math/0209305,How to rescue solid closure,,,,
+math/0209308,Notes on the behavior of the Ratliff-Rush filtration,,,,
+math/0209309,Linear bounds on growth of associated primes,,,,
+math/0209318,Cohen--Macaulayness of tensor products,,,,
+math/0209326,Higher Lawrence configurations,,,,
+math/0209338,Cohomology of projective schemes: From annihilators to vanishing,,,,
+math/0209345,"A new family of ideals with the doubly exponential ideal membership
+  property",,,,
+math/0209348,Bipartite graphs whose edge algebras are complete intersections,,,,
+math/0209350,Some properties of top graded local cohomology modules,,,,
+math/0209351,Associated primes of graded components of local cohomology modules,,,,
+math/0209353,"An example of an infinite set of associated primes of a local cohomology
+  module",,,,
+math/0209355,"Finiteness of $\bold{\bigcup_e \Ass F^e(M)}$ and its connections to
+  tight closure",,,,
+math/0209365,Residues for Akizuki's one-dimensional local domain,,,,
+math/0209367,Normal ideals of graded rings,,,,
+math/0209369,Rings of global sections in two-dimensional schemes,,,,
+math/0209371,On superheight conditions for the affineness of open subsets,,,,
+math/0209373,Tight closure and linkage classes in Gorenstein rings,,,,
+math/0209375,Constructive characterization of the reduction numbers,,,,
+math/0209378,An Introduction to Tight Closure,,,,
+math/0209386,Towers of MU-algebras and the generalized Hopkins-Miller theorem,,,,
+math/0209389,Vanishing of cohomology over Gorenstein rings of small codimension,,,,
+math/0209398,A conjecture of Herzog and Conca on counting of paths,,,,
+math/0209405,Demushkin's Theorem in Codimension One,,,,
+math/0210002,"Bounds for numbers of generators for a class of submodules of a finitely
+  generated module",,,,
+math/0210034,Links of prime ideals,,,,
+math/0210037,Andre-Quillen homology of algebra retracts,,,,
+math/0210038,Strongly Cohen-Macaulay ideals of small second analytic deviation,,,,
+math/0210039,On residually S_2 ideals and projective dimension one modules,,,,
+math/0210064,Reduction numbers and initial ideals,,,,
+math/0210066,A note on cancellation of reflexive modules,,,,
+math/0210069,The structure of the core of ideals,,,,
+math/0210070,Core and residual intersections of ideals,,,,
+math/0210071,Reduction numbers of links of irreducible varieties,,,,
+math/0210072,Core of projective dimension onemodules,,,,
+math/0210073,Generic Gaussian ideals,,,,
+math/0210074,Q-Gorenstein splinter rings of characteristic p are F-regular,,,,
+math/0210075,A generalized Dedekind-Mertens lemma and its converse,,,,
+math/0210077,Evaluations of initial ideals and Castelnuovo-Mumford regularity,,,,
+math/0210079,"Grobner bases, local cohomology and reduction number",,,,
+math/0210092,Separable integral extensions and plus closure,,,,
+math/0210093,Multi-symbolic Rees algebras and strong F-regularity,,,,
+math/0210094,Veronese subrings and tight closure,,,,
+math/0210097,Gorenstein Dimensions under Base Change,,,,
+math/0210110,The facet ideal of a simplicial complex,,,,
+math/0210129,Intersection multiplicities over Gorenstein rings,,,,
+math/0210130,Todd classes of affine cones of Grassmannians,,,,
+math/0210145,The intersection homology D-module in finite characteristic,,,,
+math/0210153,Normal affine surfaces with $\bf C^*$-actions,,,,
+math/0210171,Local cohomology and D-affinity in positive characteristic,,,,
+math/0210175,Specialization of modules,,,,
+math/0210177,Specialization of modules over a local ring,,,,
+math/0210223,The Direct Summand Conjecture in Dimension Three,,,,
+math/0210229,On the integral closure of ideals,,,,
+math/0210230,Sally modules and associated graded rings,,,,
+math/0210251,Box-shaped matrices and the defining ideal of certain blowup surfaces,,,,
+math/0210278,Test ideals and flat base change problems in tight closure theory,,,,

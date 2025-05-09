@@ -1,0 +1,322 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+math/0702029,Foundations of geometry for university students and high-school students,5.964448160862841e-05,0.0,50.0,0.0
+math/0612104,Representations of finite groups,3.155653432397978e-05,0.0,49.0,1.0
+math/0211398,Logical Dreams,2.005617786358108e-05,0.0,10.0,0.0
+math/0311260,Computer theorem proving in math,1.1781003682762992e-05,1.991420431002833e-06,7.0,1.0
+math/0509583,"A brief note on how Einstein's general relativity has influenced the
+  development of modern differential geometry",9.658809571333792e-06,0.0,3.0,0.0
+math/0703096,History of Knot Theory,8.547187672977866e-06,0.0,5.0,0.0
+math/0006024,Remarks on Quantum Physics and Noncommutative Geometry,7.291300621289244e-06,5.197116083407577e-07,7.0,2.0
+math/0703441,On Hopf Algebras and Their Generalizations,6.915941695517758e-06,1.980281348417982e-06,7.0,1.0
+math/0608172,3-coloring and other elementary invariants of knots,6.4094856208044985e-06,0.0,7.0,0.0
+math/0607387,"Erlangen Program at Large-0: Starting with the group SL(2,R)",6.206501923109838e-06,0.0,3.0,2.0
+math/0511490,Mathematical table turning revisited,5.655144290770314e-06,0.0,1.0,1.0
+math/0701409,On the Alexander-Hirschowitz Theorem,5.352164073138524e-06,4.97545688790018e-06,3.0,2.0
+math/0302285,Flashes of noncommutativity,5.2753068405926e-06,0.0,6.0,0.0
+math/9909051,Interactive forces,4.905119200732706e-06,0.0,4.0,0.0
+cond-mat/0306062,Methods of nonlinear kinetics,4.772180462670082e-06,5.970548265480216e-06,4.0,2.0
+cond-mat/0205063,A challenge in enumerative combinatorics: The graph of contribution,4.66454210646279e-06,0.0,3.0,0.0
+math/9905180,Caleidoscope-roulette: the resonance phenomena in perception games,4.3062371601118165e-06,0.0,6.0,3.0
+math/0505336,What scalars should we use ?,4.250200753959004e-06,1.990182755160072e-06,5.0,4.0
+math-ph/0312047,Anomalies of the tides,4.063143711471229e-06,0.0,1.0,1.0
+math/9903001,"Interactive games, dialogues and the verbalization",4.03319840031779e-06,0.0,5.0,4.0
+math/0303352,From Philosophy to Program Size,3.883200030172389e-06,0.0,3.0,0.0
+math/0105155,The Octonions,3.877731000353603e-06,0.0001205733352751,5.0,37.0
+math/0703547,Comments on a recent item by Yu I Manin,3.662959199933061e-06,0.0,2.0,1.0
+math/9901035,Vita: Friedrich Wilhelm Wiener,3.62335329328243e-06,0.0,2.0,0.0
+math/0603007,Variations on a Theme by James Stirling,3.4870386309160864e-06,0.0,1.0,1.0
+math/0506552,Epistemology as Information Theory: From Leibniz to Omega,3.429352762945877e-06,0.0,4.0,0.0
+math/0411403,"Historical Comments on Monge's Ellipsoid and the Configuration of Lines
+  of Curvature on Surfaces Immersed in ${\mathbb R}^3$",3.3749066596554898e-06,0.0,1.0,2.0
+math/0405592,Markov's Transformation of Series and the WZ Method,3.2012316491946324e-06,0.0,1.0,0.0
+physics/0605140,"About the proof of the so called exact classical confidence intervals.
+  Where is the trick?",3.1822234953904627e-06,0.0,3.0,0.0
+math/9905165,"Perception games, the image understanding and interpretational geometry",3.063517947006172e-06,0.0,5.0,4.0
+math/9901043,The laced interactive games and their a posteriori analysis,3.035691398861598e-06,0.0,3.0,5.0
+math/0401114,The Skorokhod embedding problem and its offspring,2.9581530419756067e-06,0.0,3.0,1.0
+math/0602499,"Three themes in the work of Charles Ehresmann: Local-to-global;
+  Groupoids; Higher dimensions",2.923024895913817e-06,0.0,1.0,1.0
+math/0009118,Finding topology in a factory: configuration spaces,2.855213185875573e-06,0.0,2.0,0.0
+math/0312168,"Review of ""Knots"" by Alexei Sossinsky, Harvard University Press, 2002,
+  ISBN 0-674-00944-4",2.816560000063321e-06,0.0,5.0,0.0
+math/0507275,"From the Birch & Swinnerton-Dyer Conjecture over the Equivariant
+  Tamagawa Number Conjecture to non-commutative Iwasawa theory - a survey",2.759195672449716e-06,0.0,2.0,1.0
+math-ph/9911003,"Soliton equations in N-dimensions as exact reductions of Self-Dual
+  Yang-Mills equation IV. The mM-LXII and Bogomolny equations",2.586364148283173e-06,0.0,4.0,0.0
+math/0508203,Touching the $Z_2$ in Three-Dimensional Rotations,2.4958413021897413e-06,0.0,1.0,0.0
+math/0405454,The Eudoxus Real Numbers,2.4711431321721443e-06,0.0,1.0,0.0
+math/0411128,Why Delannoy numbers?,2.4711431321721443e-06,0.0,1.0,0.0
+math/0701554,Pythagorean Triples and a New Pythagorean Theorem,2.4711431321721443e-06,0.0,1.0,0.0
+math/0611424,A note on the Artin Conjecture,2.4711431321721443e-06,0.0,1.0,0.0
+math/0607106,The History of Barbilian's Metrization Procedure,2.4711431321721443e-06,0.0,1.0,0.0
+math/0409571,Introducing Groups into Quantum Theory (1926 -- 1930),2.4711431321721443e-06,0.0,1.0,0.0
+math/0703427,"Mathematical knowledge: internal, social and cultural aspects",2.4711431321721443e-06,0.0,1.0,1.0
+math/0103051,On Fermat's marginal note: a suggestion,2.4711431321721443e-06,0.0,1.0,0.0
+math/9911040,Representative dynamics,2.468524381476305e-06,0.0,3.0,0.0
+math-ph/0108022,Clifford Algebras and Lorentz Group,2.343784524910432e-06,6.5335408671538825e-06,3.0,4.0
+math/9901074,Differential interactive games: The short-term predictions,2.3000864119537216e-06,0.0,3.0,4.0
+math/0411418,How real are real numbers?,2.27910810532043e-06,0.0,2.0,2.0
+math/0405048,Fibonacci Rectangles,1.9515232720847105e-06,0.0,1.0,0.0
+math/0512143,Prime numbers -- your gems,1.8950380516170012e-06,0.0,1.0,0.0
+math/0311099,Some aspects of the functor K_2 of fields,1.8950380516170012e-06,0.0,1.0,0.0
+math/0004188,And free lunch for all...,1.8950380516170012e-06,0.0,1.0,0.0
+math/0302333,Two philosophical applications of algorithmic information theory,1.8950380516170012e-06,0.0,1.0,1.0
+math/0412421,Course of differential geometry,1.7562347429561137e-06,0.0,3.0,6.0
+math/0406055,"Leibniz, Randomness and the Halting Probability",1.703003024765287e-06,0.0,1.0,0.0
+math/0306303,"Leibniz, Information, Math and Physics",1.703003024765287e-06,0.0,1.0,0.0
+math/0005239,On the definition of geometric Dirac operators,1.6239201749281456e-06,3.980365510320144e-06,2.0,2.0
+hep-th/9802129,"Non commutative geometry for outsiders; an elementary introduction to
+  motivations and tools",1.569018059355095e-06,1.3637515714293426e-07,10.0,9.0
+math/9809007,The Area of the Medial Parallelogram of a Tetrahedron,1.5457411742091171e-06,0.0,3.0,0.0
+math/0405323,Course of linear algebra and multidimensional geometry,1.4962893776852347e-06,0.0,2.0,5.0
+math/0110278,Resolving 3-dimensional toric singularities,1.4399162902503465e-06,0.0,1.0,0.0
+math/0302248,Universal volume bounds in Riemannian manifolds,1.3957469818025443e-06,0.0,1.0,15.0
+math/0403252,Quick introduction to tensor analysis,1.3867100393624637e-06,0.0,1.0,11.0
+math/0210144,Scholarly mathematical communication at a crossroads,1.3230525143117365e-06,0.0,1.0,0.0
+math/9911150,"Machines, Logic and Quantum Physics",1.3189329710618589e-06,0.0,0.0,10.0
+math/0110021,CMC-1 Surfaces in Hyperbolic 3-space using the Bianchi-Calo method,1.3189329710618589e-06,0.0,0.0,1.0
+math/0404335,Meta Math! The Quest for Omega,1.3189329710618589e-06,0.0,0.0,3.0
+math/0411091,Irreducible Complexity in Pure Mathematics,1.3189329710618589e-06,0.0,0.0,2.0
+math/0211222,Some non-conventional ideas about algorithmic complexity,1.3189329710618589e-06,0.0,0.0,1.0
+math/0111178,Perturbation theory of dynamical systems,1.3189329710618589e-06,0.0,0.0,1.0
+math/0409576,"The changing concept of matter in H. Weyl's thought, 1918 -1930",1.3189329710618589e-06,0.0,0.0,1.0
+math/0512390,Asymptotic behavior and halting probability of Turing Machines,1.3189329710618589e-06,0.0,0.0,1.0
+math/0007114,Three alternating sign matrix identities in search of bijective proofs,1.3189329710618589e-06,0.0,0.0,2.0
+math/0004133,From Finite Sets to Feynman Diagrams,1.3189329710618589e-06,0.0,0.0,5.0
+math/0702016,Lie algebra theory without algebra,1.3189329710618589e-06,0.0,0.0,1.0
+math/0210035,"On the intelligibility of the universe and the notions of simplicity,
+  complexity and irreducibility",1.3189329710618589e-06,0.0,0.0,2.0
+math/0408082,On Bernoulli Numbers and Its Properties,1.3189329710618589e-06,0.0,0.0,1.0
+math/0203252,What is Aperiodic Order?,1.3189329710618589e-06,0.0,0.0,3.0
+physics/0302089,Mona Lisa - ineffable smile of quantum mechanics,1.3189329710618589e-06,0.0,0.0,1.0
+math/0311306,Conics - a Poor Man's Elliptic Curves,1.3189329710618589e-06,0.0,0.0,1.0
+math/0407180,Baxter Algebras and Differential Algebras,1.3189329710618589e-06,0.0,0.0,2.0
+math/0502049,Looking through newly to the amazing irrationals,1.3189329710618589e-06,0.0,0.0,1.0
+math/9205211,Two notes on notation,1.3189329710618589e-06,0.0,0.0,1.0
+math/0508227,On the formation of continued fractions,1.3189329710618589e-06,0.0,0.0,1.0
+math/0010281,The Modular Tree of Pythagorus,1.3189329710618589e-06,0.0,0.0,1.0
+math/0503035,Kantorovich metric:initial history and little-known applications,1.3189329710618589e-06,0.0,0.0,1.0
+math/0208184,Recursive Synthesis and the Foundations of Mathematics,1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/0604038,The classical Bertrand-Darboux problem,1.3189329710618589e-06,0.0,0.0,1.0
+cs/9812004,Name Strategy: Its Existence and Implications,1.3189329710618589e-06,0.0,0.0,1.0
+math/0306042,Thoughts on the Riemann hypothesis,1.3189329710618589e-06,0.0,0.0,1.0
+math/0508572,Hilbert's Program Then and Now,1.3189329710618589e-06,0.0,0.0,1.0
+math/0311309,Higher Descent on Pell Conics I. From Legendre to Selmer,1.3189329710618589e-06,0.0,0.0,1.0
+math/0311310,Higher Descent on Pell Conics III. The First 2-Descent,1.3189329710618589e-06,0.0,0.0,1.0
+math/0311296,Higher Descent on Pell Conics II. Two Centuries of Missed Opportunities,1.3189329710618589e-06,0.0,0.0,1.0
+math/0509246,Mathematical conceptualism,1.3189329710618589e-06,0.0,0.0,1.0
+math/0607217,"The axiomatic melting pot. Teaching probability theory in Prague during
+  the 1930's",1.3189329710618589e-06,0.0,0.0,1.0
+math/0411454,"Expansion of the infinite product
+  $(1-x)(1-xx)(1-x^3)(1-x^4)(1-x^5)(1-x^6)$ etc. into a simple series",1.3189329710618589e-06,0.0,0.0,1.0
+math/0108072,Notes to the early history of the Knot Theory in Japan,1.3189329710618589e-06,0.0,0.0,2.0
+math/9904077,Angles in Complex Vector Spaces,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9909001,A Century of Controversy over the Foundations of Mathematics,,,,
+math-ph/0301023,The Japanese approach to the Shimura - Taniyama conjecture,,,,
+math/0003184,Life and work of the mathemagician Srinivasa Ramanujan,,,,
+math/0004187,q-Newton binomial: from Euler to Gauss,,,,
+math/0102189,"The Practice of Finitism: Epsilon Calculus and Consistency Proofs in
+  Hilbert's Program",,,,
+math/0110197,"Tolstoy's Mathematics in ""War and Peace""",,,,
+math/0110263,Short Calculus,,,,
+math/0110309,Notes on Linear Algebra,,,,
+math/0111177,Geometrical theory of dynamical systems,,,,
+math/0111229,The Rational Cuboid Table of Maurice Kraitchik,,,,
+math/0112048,"Kepler's Area Law in the Principia: Filling in some details in Newton's
+  proof of Prop. 1",,,,
+math/0112050,"The Natural Chain of Binary Arithmetic Operations and Generalized
+  Derivatives",,,,
+math/0201027,The Life and Works of Raoul Bott,,,,
+math/0202308,Weierstra{\ss},,,,
+math/0204255,"Hilbert's ""Verunglueckter Beweis,"" the first epsilon theorem, and
+  consistency proofs",,,,
+math/0206043,Noether,,,,
+math/0206282,The Legacy of the IST,,,,
+math/0210312,Formulas for pi(n) and the n-th prime,,,,
+math/0211078,"On the information-theoretic approach to G\""odel's incompleteness
+  theorem",,,,
+math/0211397,The Future of Set Theory,,,,
+math/0212416,International comparisons in mathematics education: an overview,,,,
+math/0303174,First Case of Fermat's Last Theorem,,,,
+math/0305018,Teaching linear algebra at university,,,,
+math/0305019,Popularizing mathematics: from eight to infinity,,,,
+math/0305020,"Reforms of the university mathematics education for non-mathematical
+  specialties",,,,
+math/0305021,The teaching of proof,,,,
+math/0305022,"""Algebraic truths"" vs ""geometric fantasies"": Weierstrass' Response to
+  Riemann",,,,
+math/0305023,"From quaternions to cosmology: spaces of constant curvature, ca.
+  1873-1925",,,,
+math/0305024,The third approach to the history of mathematics in China,,,,
+math/0305213,Passages of Proof,,,,
+math/0306298,The Informal Logic of Mathematical Proof,,,,
+math/0307127,The Golden Age of Immersion Theory in Topology: 1959-1973,,,,
+math/0308003,Embodied Mathematics and the Origins of Geometry,,,,
+math/0308028,Ramanujan's Most Singular Modulus,,,,
+math/0308287,Der rechnende Dichter (The calculating poet),,,,
+math/0310013,"Ueber die Bestimmung des Grades einer durch Elimination hervorgehenden
+  Gleichung (On the determination of the degree of an equation obtained by
+  elimination)",,,,
+math/0310014,"On the determination of the degree of an equation obtained by
+  elimination (translation with commentary)",,,,
+math/0310152,"Why I don't like ""pure mathematics""",,,,
+math/0310449,Solving the quartic with a pencil,,,,
+math/0312014,"Smarandache Sequences: Explorations and Discoveries with a Computer
+  Algebra System",,,,
+math/0312041,A short constructive proof of Jordan's decomposition theorem,,,,
+math/0312462,Biography of John Rainwater,,,,
+math/0401066,"Summary of Delsarte's ""Nombre de Solutions des Equations Polynomiales
+  sur un Corps Fini""",,,,
+math/0402204,On the mathematical structure of Tonal Harmony,,,,
+math/0402407,Role of Mathematics in Physical Sciences,,,,
+math/0406511,Areal Optimization of Polygons,,,,
+math/0407112,"Consecutive, Reversed, Mirror, and Symmetric Smarandache Sequences of
+  Triangular Numbers",,,,
+math/0407174,Totally real origami and impossible paper folding,,,,
+math/0408159,Trisections and Totally Real Origami,,,,
+math/0409196,On amicable numbers,,,,
+math/0409578,"C.F. Gauss' Pr\""azisionsmessungen terrestrischer Dreiecke und seine
+  \""Uberlegungen zur empirischen Fundierung der Geometrie in den 1820er Jahren
+  (C.F. Gauss' high precion measurements of terrestrial triangles and his
+  thoughts on the empirical foundations of geometry in the 1820s)",,,,
+math/0409596,"Philosophy as a cultural resource and medium of reflection for Hermann
+  Weyl",,,,
+math/0410397,"Kolmogorov and Aleksandrov in Sevan Monastery, Armenia, 1929",,,,
+math/0410411,"Maxwell's daemon, the Turing machine, and Jaynes' robot",,,,
+math/0411587,An observation on the sums of divisors,,,,
+math/0411620,Strange Integrals Derived By Elementary Complex Analysis,,,,
+math/0412062,An inquiry into whether or not 1000009 is a prime number,,,,
+math/0412154,An analytical exercise,,,,
+math/0501118,"Observations on a certain theorem of Fermat and on others concerning
+  prime numbers",,,,
+math/0501255,Christiaan Huygens and contact geometry,,,,
+math/0501402,On Amicable Numbers With Different Parity,,,,
+math/0502421,Concerning life annuities,,,,
+math/0502425,An arithmetic theorem and its demonstration,,,,
+math/0502475,Integer Triangles with R/r=N,,,,
+math/0502574,The functional equation of the zeta function of a global field,,,,
+math/0503052,"An easier solution of a Diophantine problem about triangles, in which
+  those lines from the vertices which bisect the opposite sides may be
+  expressed rationally",,,,
+math/0503081,Mathematical Education,,,,
+math/0504090,The Uses of Argument in Mathematics,,,,
+math/0504172,"An algebraic problem of finding four numbers given the products of each
+  of the numbers with the sum of the other three",,,,
+math/0504289,Mertens' Proof of Mertens' Theorem,,,,
+math/0505373,On the remarkable properties of the pentagonal numbers,,,,
+math/0505425,On the expansion of the power of any polynomial 1+x+x^2+x^3+x^4+etc,,,,
+math/0505488,On the Archimedean or Semiregular Polyhedra,,,,
+math/0505629,"Observations on two fourth powers whose sum is equal to the sum of two
+  other fourth powers",,,,
+math/0505651,Theorie des groupes et psychologie de l'intelligence,,,,
+math/0506395,"Pseudospheres in geometry and physics: from Beltrami to De Sitter and
+  beyond",,,,
+math/0506415,On the sums of series of reciprocals,,,,
+math/0507132,Laplace transformation updated,,,,
+math/0507201,"A demonstration of a theorem on the order observed in the sums of
+  divisors",,,,
+math/0507203,"Saunders Mac Lane, the Knight of Mathematics",,,,
+math/0507204,Traits,,,,
+math/0507205,Apology of Euclid,,,,
+math/0507352,"An illustration of a paradox about the idoneal, or suitable, numbers",,,,
+math/0507401,An easy method for finding many very large prime numbers,,,,
+math/0507459,"A commentary on the continued fraction by which the illustrious La
+  Grange has expressed the binomial powers",,,,
+math/0508170,"On a new type of rational and highly convergent series, by which the
+  ratio of the circumference to the diameter is able to be expressed",,,,
+math/0508396,Group actions in number theory,,,,
+math/0509025,Counting the Positive Rationals: A Brief Survey,,,,
+math/0509245,Analysis in J_2,,,,
+math/0509507,On the development of differential geometry in Estonia,,,,
+math/0509698,A Derivation of the Pythagorean Won-Loss Formula in Baseball,,,,
+math/0510054,Euler and the pentagonal number theorem,,,,
+math/0511366,Digit Reversal Without Apology,,,,
+math/0511652,The Probability of a Run,,,,
+math/0512160,UFOs -- Unidentified Figurative Objects. A Geometric Challenge,,,,
+math/0512607,"Potter, Wielandt, and Drazin on the matrix equation $AB=\omega BA$, with
+  some new answers to old questions",,,,
+math/0601204,On Poincar\'e's Fourth and Fifth Examples of Limit Cycles at Infinity,,,,
+math/0601263,Continued fractions and Parallel SQUFOF,,,,
+math/0602190,How to axiomatize school geometry,,,,
+math/0602661,On the origin of the Korteweg-de Vries equation,,,,
+math/0603579,On a theorem of Landau and Toeplitz,,,,
+math/0604496,"A solution to a problem of Fermat, on two numbers of which the sum is a
+  square and the sum of their squares is a biquadrate, inspired by the
+  Illustrious La Grange",,,,
+math/0604639,Zeno's Paradoxes. A Cardinal Problem 1. On Zenonian Plurality,,,,
+math/0605185,Automorphisms of finite Abelian groups,,,,
+math/0605326,"Good reduction, bad reduction",,,,
+math/0605327,"The Tao of Mathematics, and Think Locally",,,,
+math/0605328,Numbers and periods,,,,
+math/0605380,Variations on an inequality from IMO'2001,,,,
+math/0605759,On projective two-dimensional Finsler spaces with special metric,,,,
+math/0606057,"Theorems about the divisors of numbers contained in the form $paa \pm
+  qbb$",,,,
+math/0606253,Uncountable sets and an infinite real number game,,,,
+math/0606300,Lanchester combat models,,,,
+math/0606758,"Max Dehn, un math\'ematicien aux pr\'eoccupations universelles",,,,
+math/0607468,Euler and magic squares (De quadratis magicis),,,,
+math/0608186,The prime analog of the Kepler-Bouwkamp constant,,,,
+math/0608187,The regularized product of the Fibonacci numbers,,,,
+math/0608298,Leibniz's Definition of Monad,,,,
+math/0608392,"Playing with the critical point. An experiment with the Mandelbrot set
+  connectivity",,,,
+math/0608467,Theorems on residues obtained by the division of powers,,,,
+math/0608602,A glimpse into the life and times of F.V.Atkinson,,,,
+math/0608722,A geometric method to compute some elementary integrals,,,,
+math/0609209,"Some recent trends from research mathematics and their connections to
+  teaching: Case studies inspired by parallel developments in science and
+  technology",,,,
+math/0609294,A Conversation with Chris Heyde,,,,
+math/0609343,Difficulties with Learning and Teaching Calculus,,,,
+math/0609472,English Russian Scientific Dictionary,,,,
+math/0610390,"Some thoughts upon axiomatized languages with estension tools, a focus
+  on probability theory and error calculus with Dirichlet forms",,,,
+math/0610525,"Euler, Pisot, Prouhet-Thue-Morse, Wallis and the duplication of sines",,,,
+math/0610652,"Letters relating to a Theorem of Mr. Euler, of the Royal Academy of
+  Sciences at Berlin, and F.R.S. for correcting the Aberrations in the
+  Object-Glasses of refracting Telescopes",,,,
+math/0611322,On the genesis of symbolic dynamics as we know it,,,,
+math/0611423,The Birch-Swinnerton-Dyer Conjecture,,,,
+math/0611740,"The Halting Probability Omega: Irreducible Complexity in Pure
+  Mathematics",,,,
+math/0701068,Excursus into the History of Calculus,,,,
+math/0701118,Linear Programming and Kantorovich Spaces,,,,
+math/0701149,Sums of Consecutive Integers,,,,
+math/0701160,A simple reformulation of Riemann Zeta function,,,,
+math/0701164,Algorithmic information theory: Some recollections,,,,
+math/0701244,Alexandrov Par Excellence,,,,
+math/0701462,The Development of Intersection Homology Theory,,,,
+math/0701490,"The ghosts of the Ecole Normale. Life, death and legacy of Ren\'e
+  Gateaux",,,,
+math/0701598,Computer analysis of the two versions of Byzantine chess,,,,
+math/0701651,"Are seven-game baseball playoffs fairer than five-game series when
+  home-field advantage is considered?",,,,
+math/0702010,Factorials as sums,,,,
+math/0702396,What is good mathematics?,,,,
+math/0702520,Salvatore Pincherle: the pioneer of the Mellin-Barnes integrals,,,,
+math/0702587,The ultrafilter: A peerless tool,,,,
+math/0702632,The Tragedy of Mathematics in Russia,,,,
+math/0703658,Recursion and Combinatorial Mathematics in Chandashaastra,,,,
+math/9201262,Editors' remarks (on two complexity theory surveys in the Bulletin),,,,
+math/9307227,"``Theoretical mathematics'': Toward a cultural synthesis of mathematics
+  and theoretical physics",,,,
+math/9404229,"Responses to ``Theoretical Mathematics: Toward a cultural synthesis of
+  mathematics and theoretical physics'', by A. Jaffe and F. Quinn",,,,
+math/9404231,Response to comments on ``Theoretical mathematics'',,,,
+math/9404233,Editor's column (on an article by Jaffe and Quinn),,,,
+math/9404236,On proof and progress in mathematics,,,,
+math/9708203,Electronic Mathematics Journals,,,,
+math/9801013,Mathematics Journals Should Be Electronic and Free,,,,
+math/9903005,"Godel, Tarski, Church, and the Liar",,,,
+math/9903160,The surprise examination or unexpected hanging paradox,,,,
+math/9904021,On the section of a cone,,,,
+math/9905186,On the babylonian method of extracting root squares,,,,
+math/9908139,Poincar\'{e}'s Proof of the so-called Birkhoff-Witt Theorem,,,,
+math/9912032,A Quartic Surface of Integer Hexahedra,,,,
+math/9912039,A Mathematical Theory of Origami Numbers and Constructions,,,,
+math/9912079,"A merry-go-round with the circle map, primes and pseudoprimes",,,,
+nlin/0510055,Andrew Lenard: A Mystery Unraveled,,,,
+physics/0203001,Sur la solution de Sundman du probleme des trois corps,,,,
+physics/0310126,Analyzing shell structure from Babylonian and modern times,,,,
+physics/0608183,Superiority of the $h$-index over the Impact Factor for Physics,,,,

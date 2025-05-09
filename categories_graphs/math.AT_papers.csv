@@ -1,0 +1,1162 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+math/0509001,Toward a fundamental groupoid for the stable homotopy category,2.915513221310372e-05,1.990182755160072e-06,9.0,1.0
+math/0608040,Higher Topos Theory,2.6277280853347187e-05,5.346620127016482e-06,5.0,4.0
+math/0509532,Homological Quantum Field Theory,2.587551894649269e-05,5.970548265480216e-06,13.0,3.0
+math/0406190,Problems on invariants of knots and 3-manifolds,2.528377065005448e-05,8.352281294406793e-06,41.0,4.0
+math/0405428,Virtual Knot Theory --Unsolved Problems,2.4849797371922547e-05,2.008806829746384e-06,20.0,2.0
+math/0703649,The rational homology of spaces of long knots in codimension >2,2.337754320111676e-05,3.254966362721085e-05,7.0,5.0
+math/0611766,Homotopy graph-complex for configuration and knot spaces,2.129599630668487e-05,3.41405705103122e-05,8.0,1.0
+math/0605743,Quasisymmetric functions from a topological point of view,2.0160683291118795e-05,0.0,1.0,1.0
+math/0702380,"Hodge genera of algebraic varieties, II",1.9244839316257738e-05,4.030416415808889e-06,8.0,3.0
+math/0312262,Homotopical and Higher Categorical Structures in Algebraic Geometry,1.9083146179591896e-05,3.334028390733206e-05,21.0,11.0
+math/0604012,Systolic inequalities and Massey products in simply-connected manifolds,1.871168997630473e-05,0.0,19.0,3.0
+math/0605164,A Euclidean Geometric Invariant of Framed (Un)Knots in Manifolds,1.85328277345806e-05,1.990182755160072e-06,11.0,2.0
+math/0401161,"Relative homological algebra, equivariant de Rham theory, and Koszul
+  duality",1.7810253595526452e-05,5.970548265480216e-06,10.0,3.0
+math/0305049,"Higher Operads, Higher Categories",1.740639664655061e-05,6.288240404787636e-06,31.0,12.0
+math/0611325,"Invariants of three-dimensional manifolds from four-dimensional
+  Euclidean geometry",1.670276215638063e-05,3.980365510320144e-06,14.0,1.0
+math/0610899,"Chen-Ruan Cohomology of cotangent orbifolds and Chas-Sullivan String
+  Topology",1.636575256360718e-05,0.0,10.0,0.0
+math/0602084,Weak units and homotopy 3-types,1.6156688891808706e-05,0.0,5.0,2.0
+math/0504008,Bounding volume by systoles of 3-manifolds,1.6104165753587458e-05,0.0,15.0,5.0
+math/0610239,"A survey of (\infty, 1)-categories",1.5965588375040337e-05,1.9150848685282147e-06,13.0,3.0
+math/0611437,The classification of 2-compact groups,1.5826808106156573e-05,0.0,5.0,1.0
+hep-th/0510118,Open-closed homotopy algebra in mathematical physics,1.5322430445594624e-05,0.0011124698301984,37.0,8.0
+math/0611686,Non-abelian real Hodge theory for proper varieties,1.5009547389919336e-05,0.0,6.0,1.0
+math/0201123,Stringy orbifolds,1.4897142934195528e-05,4.720762694989583e-05,29.0,6.0
+math/0601129,Operads and PROPs,1.4836296144795349e-05,1.7835693049628918e-05,29.0,9.0
+math/0608006,"E_7, Wirtinger inequalities, Cayley 4-form, and homotopy",1.4266712218235569e-05,0.0,5.0,3.0
+math/0504206,On the homology of the space of knots,1.415673619031876e-05,2.295121121788445e-05,7.0,6.0
+math/0607750,Homology tests for graph colorings,1.4041538106927017e-05,0.0,18.0,0.0
+math/0405589,Weights in cohomology and the Eilenberg-Moore spectral sequence,1.352779898666465e-05,0.0,4.0,0.0
+math/0406350,Equivariant cohomology and the Maurer-Cartan equation,1.3336534242992846e-05,0.0,4.0,3.0
+math/0401160,"Homological perturbations, equivariant cohomology, and Koszul duality",1.3243158343435842e-05,0.0,9.0,2.0
+math/0606107,Pro-algebraic homotopy types,1.3225220050944512e-05,0.0,6.0,1.0
+math/0603556,Topology of Kempf-Ness sets for algebraic torus actions,1.3149509615729674e-05,0.0,8.0,1.0
+math/0609346,Spaces of polytopes and cobordism of quasitoric manifolds,1.3039829935436732e-05,0.0,4.0,2.0
+math/0404373,Homotopical Algebraic Geometry II: geometric stacks and applications,1.2888165963336462e-05,4.9403516872627165e-05,16.0,11.0
+math/0609002,"Manin products, Koszul duality, Loday algebras and Deligne conjecture",1.2882741959174306e-05,1.2508463144830678e-06,13.0,1.0
+math/0410291,Homotopy algebras inspired by classical open-closed string field theory,1.2577358409577716e-05,2.7361268529150645e-05,31.0,7.0
+math/0403316,Inversion of integral series enumerating planar trees,1.2339384066556382e-05,1.990182755160072e-06,5.0,1.0
+math/0603485,Closed/open string diagrammatics,1.226342782390396e-05,0.0001309053880013,25.0,7.0
+math/0511175,A survey of characteristic classes of singular spaces,1.2033342575299838e-05,9.969011415426594e-07,9.0,2.0
+math/0507117,Cohomology of colorings of cycles,1.191924515570006e-05,4.642319561533191e-05,15.0,4.0
+math/0512594,"Classification of smooth embeddings of 4-manifolds in 7-space, I",1.1842545704421371e-05,6.236836460626418e-06,5.0,3.0
+math/0608490,"Knots, operads and double loop spaces",1.1811762393324247e-05,6.104315065117582e-05,8.0,2.0
+math/0609378,"Homology Cobordism Invariants and the Cochran-Orr-Teichner Filtration of
+  the Link Concordance Group",1.1803262511799425e-05,4.232183242282316e-06,2.0,4.0
+math/0503625,Notes on string topology,1.178384646029162e-05,0.0011867812547188,30.0,6.0
+math/0502452,"Local chromatic number and distinguishing the strength of topological
+  obstructions",1.166910052499568e-05,2.063473602726182e-06,7.0,2.0
+math/0502477,Non-Trivial Realizations of Virtual Link Diagrams,1.1472595911990146e-05,0.0,3.0,1.0
+math/0107188,A Survey of Definitions of n-Category,1.1145203268465354e-05,2.1702343490679547e-05,18.0,7.0
+math/0603429,A classification of smooth embeddings of 3-manifolds in 6-space,1.1062094077597588e-05,1.4658633652721718e-06,6.0,5.0
+math/0507346,"A short proof of w_1^n(Hom(C_{2r+1}, K_{n+2}))=0 for all n and a graph
+  colouring theorem by Babson and Kozlov",1.0929027620280146e-05,0.0,8.0,10.0
+math/0608153,Graded Poisson algebras on bordism groups of garlands,1.090924104719744e-05,0.000200089055568,7.0,1.0
+math/0605508,"Groupoids in combinatorics -- applications of a theory of local
+  symmetries",1.08383358386264e-05,0.0,16.0,0.0
+math/0501391,Orbifold elliptic genera and rigidity,1.0555369345481038e-05,0.0,2.0,1.0
+math/0501392,"Elliptic genera, torus orbifolds and multi-fans; II",1.0443237374220443e-05,0.0,2.0,1.0
+math/0703257,On the irreducible components of characteristic varieties,1.0428176547985318e-05,0.0,8.0,0.0
+math/0510179,Automorphisms of p-compact groups and their root data,1.034743321943287e-05,0.0,2.0,1.0
+math/0303046,Noncommutative localization in topology,1.0320591135033889e-05,7.960731020640288e-06,9.0,4.0
+math/0606763,"Graph colourings, spaces of edges and spaces of circuits",1.0092562058155226e-05,6.356156594694972e-07,10.0,2.0
+math/0701565,Stringy power operations in Tate K-theory,1.0089580090890533e-05,0.0,3.0,0.0
+math/0606241,"Notes on A-infinity algebras, A-infinity categories and non-commutative
+  geometry. I",1.0087188610628924e-05,0.0001838644356059,17.0,20.0
+math/0006123,DGBV Algebras and Mirror Symmetry,9.995042134107787e-06,0.0,10.0,0.0
+math/0701928,"2-torus manifolds, cobordism and small covers",9.718625273690567e-06,0.0,3.0,0.0
+math/0508416,Simplicial monoids and Segal categories,9.684607712938615e-06,2.9994018534582366e-06,7.0,4.0
+math/0503492,Hirzebruch classes and motivic Chern classes for singular spaces,9.654966900926312e-06,2.06450314987311e-05,10.0,10.0
+math/0406008,Boundary case of equality in optimal Loewner-type inequalities,9.579485001709158e-06,0.0,12.0,8.0
+math/0609301,Etale homotopy and sums-of-squares formulas,9.527382501184222e-06,0.0,1.0,0.0
+math/0601268,Calculus of the embedding functor and spaces of knots,9.450800240356732e-06,1.990182755160072e-06,8.0,1.0
+math/0312154,The Index Formula on the Moduli of G-bundles,9.398350990405814e-06,4.240934993096756e-06,3.0,5.0
+math/0605069,A family of embedding spaces,9.393066776700138e-06,3.987351399456691e-06,6.0,3.0
+math/0509418,On torsion in homology of singular toric varieties,9.36968921148254e-06,0.0,5.0,0.0
+math/0509621,A new invariant and parametric connected sum of embeddings,9.323081899323829e-06,6.529193918825671e-06,5.0,5.0
+math/0505595,Probing mapping class groups using arcs,9.21445595169608e-06,3.512829734808665e-06,12.0,1.0
+math/0611728,Normalisation for the fundamental crossed complex of a simplicial set,9.191286457840117e-06,0.0,2.0,0.0
+math/0702165,Graph homology of moduli space of pointed real curves of genus zero,9.091926706134076e-06,0.0,5.0,0.0
+math/0502429,Orbifold cohomology of torus quotients,8.975541119003107e-06,2.176495748015739e-07,14.0,4.0
+math/0306399,Arrangements of symmetric products of spaces,8.911279501493505e-06,0.0,6.0,0.0
+math/0703204,Derived Algebraic Geometry III: Commutative Algebra,8.8829843141673e-06,0.0,7.0,0.0
+math/0608228,Stable Infinity Categories,8.8829843141673e-06,2.00677614714854e-06,7.0,2.0
+math/0203232,Restrictions on symplectic fibrations,8.85812145643562e-06,0.0,3.0,1.0
+math/0701293,Dendroidal Sets,8.849291944413297e-06,0.0,4.0,0.0
+math/0512019,Colorful subgraphs in Kneser-like graphs,8.803669223615702e-06,0.0,6.0,1.0
+math/0702859,"The string topology BV algebra, Hochschild cohomology and the Goldman
+  bracket on surfaces",8.802079864417849e-06,0.0,9.0,0.0
+math/0210052,"Criteria for Balance in Abelian Gain Graphs, with Applications to
+  Piecewise-Linear Geometry",8.647801664806624e-06,0.0,3.0,2.0
+math/0703008,Obstructions on fundamental groups of plane curve complements,8.581733601831896e-06,0.0,5.0,0.0
+math/0604583,Generating Functions of Orbifold Chern Classes I : Symmetric Products,8.535036911218963e-06,1.779291478290118e-06,3.0,1.0
+math/0604514,On the homotopy theory of n-types,8.494335306730747e-06,0.0,5.0,0.0
+math/0506324,Multivariable Alexander invariants of hypersurface complements,8.447684924520336e-06,0.0,7.0,5.0
+math/0407104,Topological gravity in Minkowski space,8.3961543018501e-06,0.0,8.0,0.0
+math/0507514,"The cohomology ring of the real locus of the moduli space of stable
+  curves of genus 0 with marked points",8.333666966310943e-06,1.5479658978503786e-05,6.0,10.0
+math/0607422,Classification of embeddings below the metastable dimension,8.28363011893862e-06,9.95091377580036e-07,4.0,3.0
+math/0609053,Using Equivariant Obstruction Theory in Combinatorial Geometry,8.271364111411782e-06,0.0,7.0,0.0
+math/0610523,The algebra of secondary homotopy operations in ring spectra,8.263949362119172e-06,0.0,8.0,2.0
+math/0309455,Infinity Structure of Poincare Duality Spaces,8.091443870384151e-06,2.139240009985102e-05,9.0,7.0
+math/0306151,The motivic Thom isomorphism,7.956084191118261e-06,3.269003718944799e-07,14.0,1.0
+math/0612183,Natural differential operators and graph complexes,7.939974469115145e-06,0.0,6.0,0.0
+math/0603406,Weil-Petersson volumes and cone surfaces,7.858140347031504e-06,1.990182755160072e-06,2.0,1.0
+math/0408216,A canonical enriched Adams-Hilton model for simplicial sets,7.833624052892127e-06,3.987791565376711e-06,2.0,2.0
+math/9805031,On the specialization to the asymptotic cone,7.82324995062454e-06,0.0,2.0,1.0
+math/0607094,"Semifree circle actions, Bott towers, and quasitoric manifolds",7.788430696906776e-06,0.0,4.0,2.0
+math/0609635,Equivariant homotopy theory for pro-spectra,7.50975317731684e-06,0.0,3.0,0.0
+math/0611226,"Obstruction classes of crossed modules of Lie algebroids and Lie
+  groupoids linked to existence of principal bundles",7.488089820048003e-06,5.440316437793742e-07,2.0,1.0
+math/0702087,"Intersection homology and Poincar\'e duality on homotopically stratified
+  spaces",7.486854036842753e-06,0.0,3.0,0.0
+math/0207028,Homotopical Algebraic Geometry I: Topos theory,7.461609485034768e-06,3.669305395874694e-05,12.0,10.0
+math/0502402,"Topological fundamental groups can distinguish spaces with isomorphic
+  homotopy groups",7.333607195868112e-06,0.0,6.0,4.0
+math/0502540,"Manifolds with parallel differential forms and Kaehler identities for
+  G_2-manifolds",7.298217596731053e-06,1.990182755160072e-06,16.0,1.0
+math/0309158,Algorithm for multiplying Schubert classes,7.27103344563085e-06,0.0,2.0,3.0
+math/0602210,Generalized string topology operations,7.269904819529618e-06,1.0071181496821272e-05,7.0,6.0
+math/0104255,Cyclic actions and elliptic genera,7.247144870069399e-06,0.0,1.0,1.0
+math/0508152,Rigidification of algebras over multi-sorted theories,7.215804919563216e-06,4.647852339074924e-06,3.0,3.0
+math/0505227,Geometric Structures on the Cochains of a Manifold,7.157872514380751e-06,6.765902606920891e-06,11.0,6.0
+math/0411588,Multiplicative rule in the Grothendieck cohomology of a flag variety,7.147780845392565e-06,0.0,6.0,1.0
+math/0308005,"On Spineless Cacti, Deligne's Conjecture and Connes--Kreimer's Hopf
+  Algebra",7.143562880370253e-06,8.913139579410934e-05,7.0,9.0
+math/0506170,Cohomology operations and the Deligne conjecture,7.099092753951685e-06,4.678042650745688e-06,10.0,2.0
+hep-th/0607134,Pions and Generalized Cohomology,7.059635378077022e-06,0.0,8.0,0.0
+math/0210222,"Inertia Orbifolds, Configuration Spaces and the Ghost Loop Space",7.036777230299427e-06,5.284232900100744e-09,10.0,2.0
+math/0605554,The Jacobi orientation and the two-variable elliptic genus,7.01560227023275e-06,1.4579821427727392e-08,9.0,1.0
+hep-th/0410293,"Type IIB String Theory, S-Duality, and Generalized Cohomology",6.969023085199304e-06,3.746449180179112e-06,34.0,13.0
+math/0502275,A monomorphism theorem for the inverse limit of nested retracts,6.955069201903685e-06,0.0,6.0,3.0
+math/0603383,Nested set complexes of Dowling lattices and complexes of Dowling trees,6.942081201049349e-06,0.0,4.0,0.0
+hep-th/0605255,"Topological Quantum Field Theories, Strings, and Orbifolds",6.932483236410564e-06,0.0008029719270347,5.0,2.0
+math/0410456,"Lusternik-Schnirelmann category and systolic category of low dimensional
+  manifolds",6.843567626397344e-06,0.0,12.0,10.0
+math/0505432,Integral Cohomology and Mirror Symmetry for Calabi-Yau 3-folds,6.785181451315481e-06,5.01496446773856e-06,7.0,5.0
+math/0612116,"Pontryagin-Thom-Szucs type construction for non-positive codimensional
+  singular maps with prescribed singular fibers",6.778433834538344e-06,0.0,3.0,0.0
+math/0111317,Circle valued Morse theory and Novikov homology,6.770926317658732e-06,1.5921462041280645e-06,8.0,1.0
+math/0112180,"Lower bounds for the number of closed billiard trajectories of period 2
+  and 3 in manifolds embedded in Euclidean space",6.754170138413777e-06,0.0,3.0,0.0
+math/0612450,Toda brackets and cup-one squares for ring spectra,6.684115219825745e-06,0.0,5.0,0.0
+math/0211177,Index defects in the theory of spectral boundary value problems,6.6778263824303385e-06,0.0,5.0,0.0
+math/0602510,Representation and character theory in 2-categories,6.6402736392370764e-06,3.94035520355576e-07,5.0,1.0
+math/0606573,The loop orbifold of the symmetric product,6.632663925514704e-06,1.975602933732345e-06,5.0,2.0
+math/0606655,"Hodge genera of algebraic varieties, I",6.630327552906975e-06,3.409783849587103e-07,2.0,2.0
+math/0209007,A resolution (minimal model) of the PROP for bialgebras,6.610873840219642e-06,1.8567193414290304e-05,9.0,7.0
+math/0611623,"Non-commutative Hodge-to-de Rham degeneration via the method of
+  Deligne-Illusie",6.580808544499234e-06,5.965430631858495e-06,4.0,4.0
+math/0510095,Pachner Move 3->3 and Affine Volume-Preserving Geometry in R^3,6.560610867727945e-06,0.0,11.0,0.0
+math/0107060,Topological Deformation of Higher Dimensional Automata,6.531856660208802e-06,0.0,3.0,2.0
+math/0402395,Proof of the Lovasz Conjecture,6.48682973722796e-06,3.8296745716680775e-05,7.0,22.0
+math/0309145,"""Brave New"" Algebraic Geometry and global derived moduli spaces of ring
+  spectra",6.485033545385039e-06,9.134131696718188e-06,10.0,7.0
+math/0505559,Co-rings over operads characterize morphisms,6.374498205132774e-06,7.4260550565674335e-09,3.0,3.0
+math/0609304,String topology for spheres,6.325833275229542e-06,0.0,6.0,0.0
+math/0012219,Affine stacks (Champs affines),6.271148521611572e-06,3.762050944291193e-05,7.0,13.0
+hep-th/0501060,Type II string theory and modularity,6.208509165182559e-06,8.947510940105733e-07,41.0,11.0
+math/0607486,"Calculus of functors, operad formality, and rational homology of
+  embedding spaces",6.205362343101166e-06,0.0,2.0,3.0
+math/0508122,The Chow rings of $G_2$ and $Spin_7$,6.130674352466482e-06,0.0,3.0,0.0
+math/0608326,Poisson structures on the homology of the space of knots,6.120459997522309e-06,0.0,2.0,0.0
+math/0610260,The Euler characteristic of a category,6.113071727288424e-06,0.0,2.0,0.0
+math/0303207,Combinatorial classes on the moduli space of curves are tautological,6.100006857955985e-06,2.22781651697023e-08,3.0,4.0
+math/0602419,On Perles' question,6.099381432953386e-06,0.0,1.0,0.0
+math/0702472,"Chow groups of the moduli spaces of weighted pointed stable curves of
+  genus zero",6.075651846455164e-06,0.0,1.0,0.0
+math/0211084,Torsions of 3-manifolds,5.997381977695743e-06,0.0,6.0,0.0
+math/0405172,Minimal free multi models for chain algebras,5.979036348628307e-06,0.0,4.0,2.0
+math/0505052,On the cohomology and the Chow ring of the classifying space of PGL_p,5.957232281313477e-06,0.0,5.0,2.0
+hep-th/0507106,Flux Quantization and the M-Theoretic Characters,5.947283982765576e-06,1.1686131750120804e-07,18.0,6.0
+math/0506524,Topology of spaces of knots in dimension 3,5.918961280956202e-06,2.5010338809453765e-05,4.0,5.0
+math/0303027,The bar construction of an algebra as an E-infinite Hopf algebra,5.906918642558574e-06,0.0,4.0,0.0
+math/0604260,Postnikov extensions of ring spectra,5.886548754401983e-06,0.0,3.0,0.0
+math/0407039,Operads and knot spaces,5.8860228423651615e-06,2.884478410742644e-06,8.0,3.0
+math/0512630,Khovanov Homology: categorification of the Kauffman bracket relation,5.869431312387621e-06,1.8343560362268512e-06,17.0,6.0
+math/0701350,Coformality and the rational homotopy groups of spaces of long knots,5.856870272861782e-06,0.0,3.0,2.0
+math/0606654,Euler characteristics of algebraic varieties,5.811681565896425e-06,0.0,1.0,2.0
+math/0609055,High-codimensional knots spun about manifolds,5.806171866755004e-06,0.0,2.0,0.0
+math/0212248,"Hyperplane arrangements, M-tame polynomials and twisted cohomology",5.799328427994417e-06,0.0,5.0,0.0
+math/0510204,"Combinatorial groupoids, cubical complexes, and the Lovasz conjecture",5.7763087720233935e-06,0.0,10.0,4.0
+math/0609220,Homotopy Transition Cocycles,5.757967675637766e-06,1.5626906920755216e-05,2.0,3.0
+math/0211216,"Quadratic functions in geometry, topology,and M-theory",5.751568833702374e-06,1.9731449741280853e-05,6.0,26.0
+math/0509655,On homotopy varieties,5.73270235004439e-06,8.53050650651753e-06,6.0,2.0
+math/0503613,"Simple homotopy types of Hom-complexes, neighborhood complexes, Lov\'asz
+  complexes, and atom crosscut complexes",5.685905101897231e-06,9.914002994540624e-06,12.0,7.0
+math/0611546,Rings of definition of smooth and proper dg-algebras,5.677746128532397e-06,0.0,3.0,1.0
+math/9910177,"Manifolds with singularities accepting a metric, of positive scalar
+  curvature",5.655144290770314e-06,0.0,1.0,1.0
+math/0510085,"Appendix to ""The Chow rings of generalized Grassmannians""",5.655144290770314e-06,0.0,1.0,1.0
+math/0511332,The Chow rings of generalized Grassmannians,5.655144290770314e-06,0.0,1.0,1.0
+math/0502353,The signature of a fibre bundle is multiplicative mod 4,5.655144290770314e-06,0.0,1.0,1.0
+math/0502349,Absolute Whitehead torsion,5.655144290770314e-06,0.0,1.0,1.0
+math/0410603,The Structure and Singularities of Arc Complexes,5.617371066366786e-06,3.065729318765664e-06,7.0,2.0
+math/0510664,"Open-closed strings: Two-dimensional extended TQFTs and Frobenius
+  algebras",5.612581297147567e-06,2.0450784935968e-05,11.0,9.0
+math/0305081,A Polar de Rham Theorem,5.5915327576533545e-06,0.0,4.0,0.0
+math/0610946,"Basis-conjugating automorphisms of a free group and associated Lie
+  algebras",5.558319908449499e-06,0.0,3.0,2.0
+hep-th/0508084,"T-duality for torus bundles with H-fluxes via noncommutative topology,
+  II: the high-dimensional case and the T-duality group",5.520109385792296e-06,8.306036471227119e-06,25.0,10.0
+math/0102132,Tate cohomology of circle actions as a Heisenberg group,5.518361797931895e-06,9.683385110564951e-07,5.0,3.0
+hep-th/0610326,Notes on simplicial BF theory,5.511828785071845e-06,7.4729092992727345e-06,10.0,3.0
+math/0209173,"Curvature, diameter, and quotient manifolds",5.431286290140124e-06,0.0,1.0,1.0
+math/0509462,Higher-order Alexander invariants of plane algebraic curves,5.429582330827801e-06,5.970548265480216e-06,3.0,2.0
+math/0302295,Toward a general theory of linking invariants,5.423299423513506e-06,5.970548265480216e-06,5.0,2.0
+math/0606065,"Moduli space actions on the Hochschild co-chains of a Frobenius algebra
+  II: Correlators",5.398204809125979e-06,0.0001295078156461,9.0,2.0
+math/0606064,"Moduli space actions on the Hochschild Co-Chains of a Frobenius algebra
+  I: Cell Operads",5.398204809125979e-06,0.0001295078156461,9.0,2.0
+math/0611797,Skein modules of 3-manifolds,5.392988572992989e-06,0.0,2.0,0.0
+math/0609762,Homotopical finiteness of smooth and proper dg-algebras,5.358813308644797e-06,0.0,3.0,2.0
+math/0302284,Concurrent Process up to Homotopy (II),5.247974151308137e-06,0.0,1.0,0.0
+math/0302283,Concurrent Process up to Homotopy (I),5.247974151308137e-06,0.0,1.0,0.0
+math/0206257,Twisted equivariant K-theory with complex coefficients,5.221955386402773e-06,3.7142367356004094e-05,6.0,31.0
+math/0210407,From HAG to DAG: derived moduli spaces,5.221586714590524e-06,5.324794769444407e-05,7.0,6.0
+math/0408417,"Symmetric products of surfaces; a unifying theme for topology and
+  physics",5.181294257270119e-06,3.281716249745709e-08,3.0,1.0
+math/0404541,Thom Prospectra for Loopgroup representations,5.086483159751638e-06,0.0,7.0,0.0
+math/0404229,Invariants of Boundary Link Cobordism II. The Blanchfield-Duval Form,5.0769342766691584e-06,0.0,3.0,0.0
+math/0509293,"Lie elements in pre-Lie algebras, trees and cohomology operations",5.0666829817771605e-06,1.743248909382301e-07,1.0,1.0
+math/0307143,Axiomatic stable homotopy - a survey,5.063615994670288e-06,0.0,4.0,1.0
+math/0011106,Operads in Higher-Dimensional Category Theory,5.061558261184292e-06,3.4469502721963577e-07,10.0,7.0
+math/0506075,Parallel transport of $Hom$-complexes and the Lovasz conjecture,5.028937413673951e-06,0.0,9.0,5.0
+math/0206237,Twisted K-theory and loop groups,5.027945849365673e-06,4.808771866985096e-06,13.0,10.0
+math/0603400,A characterization of fibrant Segal categories,4.988927681881018e-06,3.6312119148027144e-06,5.0,5.0
+math/0502183,Galois extensions of structured ring spectra,4.92705807637044e-06,1.5921462041280577e-05,4.0,4.0
+math/0505563,"Chromatic numbers, morphism complexes, and Stiefel-Whitney
+  characteristic classes",4.919235352759579e-06,1.9871409347740577e-06,10.0,13.0
+math/0407045,Computation of the E_3-term of the Adams spectral sequence,4.919012466583996e-06,0.0,1.0,2.0
+math/0605080,"Equivariant operads, string topology, and Tate cohomology",4.905148793397429e-06,0.0,7.0,0.0
+math/0301325,"Preservation of perfectness and acyclicity; Berrick and Casacuberta's
+  universal acyclic space localized at a set of primes",4.900992915736047e-06,0.0,3.0,0.0
+math/0702075,Large annihilators in Cayley-Dickson algebras II,4.888122142929886e-06,0.0,1.0,0.0
+math/9911157,"Morse-Novikov critical point theory, Cohn localization and Dirichlet
+  units",4.863617788201663e-06,0.0,3.0,0.0
+math/0610424,Presentations for the cohomology rings of tree braid groups,4.859144001120772e-06,0.0,1.0,0.0
+math/0304281,"Eigenbundles, Quaternions, and Berry's Phase",4.839587182253022e-06,0.0,1.0,2.0
+math/0611808,Universal Toda brackets of ring spectra,4.8351451740587225e-06,0.0,1.0,0.0
+math/0612591,"Associahedron, cyclohedron, and permutohedron as compactifications of
+  configuration spaces",4.831489699403214e-06,3.338881012927927e-07,3.0,1.0
+math/0307114,Holonomy for Gerbes over Orbifolds,4.798517082416686e-06,3.24125907033271e-07,5.0,4.0
+math/0604045,Embedding and knotting of manifolds in Euclidean spaces,4.7981491578395775e-06,9.95091377580036e-07,2.0,6.0
+math/0101103,"Excision for simplicial sheaves on the Stein site and Gromov's Oka
+  principle",4.775563454392716e-06,0.0,3.0,0.0
+math/0504107,K-theory of quasi-toric manifolds,4.775563454392716e-06,0.0,4.0,0.0
+math/0702826,On a conjecture of Daniel H. Gottlieb,4.730551950880508e-06,0.0,1.0,0.0
+math/0203100,Orbifolds as Groupoids: an Introduction,4.711382195381498e-06,5.9677500418357126e-06,4.0,5.0
+math/0410503,An algebraic model for the loop space homology of a homotopy fiber,4.701159235472039e-06,5.977974320536784e-06,2.0,1.0
+math/9903167,"A Giraud-type characterization of the simplicial categories associated
+  to closed model categories as $\infty$-pretopoi",4.664429047612309e-06,0.0,12.0,10.0
+math/0208095,"Non-trivial 1-classes in the homology of the real moduli spaces
+  M-bar_{0,n} and related structures",4.635536403732634e-06,1.7040427296919245e-05,2.0,1.0
+math/0112150,Puzzles and (equivariant) cohomology of Grassmannians,4.635492123493814e-06,0.0,8.0,2.0
+math/0610236,The homology of the little disks operad,4.6304097623451534e-06,0.0,2.0,1.0
+math/0612152,Cobordism of singular maps,4.624058533246987e-06,0.0,4.0,1.0
+math/0607820,Quasi-categories vs Segal spaces,4.606381061084867e-06,5.59330309504955e-06,4.0,4.0
+math/0610912,Transferring homotopy commutative algebraic structures,4.591832682948047e-06,1.5919804091480505e-06,5.0,1.0
+math/0308032,"Relationship between equivariant gerbes and gerbes over the quotient
+  space",4.5784625567053264e-06,1.1992953898594511e-08,8.0,1.0
+math/0407031,Secondary derived functors and the Adams spectral sequence,4.5456167106362175e-06,0.0,3.0,1.0
+math/0404216,Weak Omega Categories I,4.537880535824896e-06,0.0,5.0,0.0
+math/0105039,Gerbes over Orbifolds and Twisted K-theory,4.520325823448412e-06,5.7969753308974776e-05,12.0,15.0
+math/0408012,Morse functions and cohomology of homogeneous spaces,4.517320173757044e-06,0.0,2.0,0.0
+math/0210247,Cheeger manifolds and the classification of biquotients,4.515025475212901e-06,0.0,1.0,0.0
+math/0212274,"Crossed complexes and homotopy groupoids as non commutative tools for
+  higher dimensional local-to-global problems",4.515025475212901e-06,0.0,1.0,1.0
+hep-th/0201184,"Deligne Cohomology for Orbifolds, discrete torsion and B-fields",4.514592597706403e-06,7.640907662759794e-06,5.0,4.0
+math/0701245,The universal Hopf operads of the bar construction,4.510242020116211e-06,0.0,3.0,0.0
+math/0702871,Characteristic varieties and constructible sheaves,4.487347863968896e-06,0.0,5.0,1.0
+hep-th/0501245,M-theory and Characteristic Classes,4.485343061858148e-06,2.773726346549584e-06,19.0,6.0
+math/0602539,String homology of spheres and projective spaces,4.47868045039741e-06,0.0,3.0,0.0
+math/0508550,T-duality for non-free circle actions,4.452532397639108e-06,1.5790452933722495e-06,8.0,2.0
+math/9903090,"The algebraic construction of the Novikov complex of a circle-valued
+  Morse function",4.41768595869484e-06,0.0,6.0,7.0
+math/9910027,Rational homotopy types of mirror manifolds,4.4141537183196805e-06,0.0,6.0,1.0
+math/0202287,The topology of spaces of knots,4.4076744844415925e-06,1.8398161131367112e-05,4.0,16.0
+math/0601079,Relative directed homotopy theory of partially ordered spaces,4.407059266433598e-06,0.0,2.0,0.0
+hep-th/0404013,"M Theory, Type IIA Superstrings, and Elliptic Cohomology",4.398624601112109e-06,3.691528712609756e-07,34.0,18.0
+math/0606665,Characteristic Classes of Bad Orbifold Vector Bundles,4.397488401796762e-06,0.0,2.0,0.0
+math/0401081,Higher string topology on general spaces,4.397000510099643e-06,1.1937937510714146e-05,6.0,7.0
+math/0405493,Algebraic Markov equivalence for links in 3-manifolds,4.378315453266367e-06,3.980365510320144e-06,1.0,1.0
+math/0703311,A triangulated category without models,4.345814986813074e-06,0.0,1.0,0.0
+math/0303215,Local topology of reducible divisors,4.3433829529499904e-06,0.0,3.0,7.0
+math/0607629,Brace operations and Deligne's Conjecture for module-algebras,4.321927974213258e-06,0.0,4.0,0.0
+math/0505331,"T-homotopy and refinement of observation (IV) : Invariance of the
+  underlying homotopy type",4.308677856146974e-06,0.0,3.0,2.0
+math/0610437,"Lie coalgebras and rational homotopy theory, I: Graph coalgebras",4.302902791197837e-06,1.2307839331526506e-07,4.0,2.0
+math/0407237,Chern classes of proalgebraic varieties and motivic measures,4.302046065665783e-06,1.990182755160072e-06,3.0,3.0
+math/0607490,The framed discs operad is cyclic,4.274256760338831e-06,0.0,4.0,1.0
+math/0110109,"Algebraic Geometry over model categories (a general approach to derived
+  algebraic geometry)",4.255416300466435e-06,6.687821164927179e-06,8.0,8.0
+math/0504051,The Burnside Ring and Equivariant Stable Cohomotopy for Infinite Groups,4.247933490690399e-06,0.0,4.0,0.0
+math/0504334,Three models for the homotopy theory of homotopy theories,4.245934855233127e-06,1.990182755160072e-06,3.0,6.0
+math/0611225,Products and push-forwards in parametrised cohomology theories,4.241887419861891e-06,0.0,9.0,0.0
+math/0306385,Manifold theoretic compactifications of configuration spaces,4.240278422904817e-06,3.258623683155661e-08,5.0,5.0
+math/0511582,Torus graphs and simplicial posets,4.233362657952643e-06,0.0,7.0,1.0
+math/0101102,"Operads, Algebras and Modules in General Model Categories",4.2207572399744766e-06,0.0,5.0,7.0
+math/0106049,Periodic trajectories in 3-dimensional convex billiards,4.215300736497825e-06,0.0,3.0,1.0
+math/0209132,Arc Operads and Arc Algebras,4.204407698707706e-06,3.046527936723972e-06,8.0,3.0
+math/0412249,On the homology of open-closed string field theory,4.2001564005653575e-06,0.0001628468403957,6.0,6.0
+math/0506332,Profinite Etale Cobordism,4.199458373837573e-06,0.0,3.0,1.0
+math/0702236,Self coincidence numbers and the fundamental group,4.199458373837573e-06,0.0,3.0,1.0
+math/0609484,Homology and Derived Series of Groups II: Dwyer's Theorem,4.19930462285972e-06,0.0,1.0,1.0
+math/0303283,"Arrangements associated to chordal graphs and limits of colored braid
+  groups",4.170906949305032e-06,0.0,1.0,0.0
+math/0606442,Pencils of plane curves and characteristic varieties,4.143473757022277e-06,0.0,3.0,8.0
+math/0506548,Inverting weak dihomotopy equivalence using homotopy continuous flow,4.136885977437152e-06,0.0,4.0,0.0
+math/0309137,Rational maps and string topology,4.136137940241692e-06,1.4999571737124629e-05,4.0,2.0
+math/0611612,"Characteristic classes of spin surface bundles. Appliations of the
+  Madsen-Weiss theory",4.105319328710095e-06,0.0,4.0,0.0
+math/0102061,Homotopy complex projective spaces with Pin(2)-action,4.063143711471229e-06,0.0,1.0,2.0
+math/0301356,The compression theorem III: applications,4.04927244658e-06,0.0,3.0,0.0
+math/0512276,The loop-coproduct spectral sequence,4.024224056917324e-06,0.0,5.0,0.0
+math/0507444,The Group of Contactomorphisms of the Sphere Fixing an Overtwisted Disk,4.008503099401343e-06,0.0,1.0,0.0
+math/0511593,"Division theorems for the rational cohomology of some discriminant
+  complements",3.993411360691621e-06,0.0,3.0,0.0
+math/0407075,"Local chromatic number, Ky Fan's theorem, and circular colorings",3.973219019196966e-06,3.664542378305453e-08,7.0,2.0
+math/0611053,"Rational cohomology of M_3,2",3.961992708921003e-06,0.0,4.0,0.0
+math/0609444,A chain coalgebra model for the James map,3.9543655564848135e-06,0.0,1.0,0.0
+math/0702299,Derived Algebraic Geometry II: Noncommutative Algebra,3.949198863675896e-06,0.0,1.0,0.0
+math/0503230,Crossed flux homomorphisms and vanishing theorems for flux groups,3.947556374659336e-06,0.0,3.0,1.0
+math/0703330,Equivariant cohomology distinguishes toric manifolds,3.938898940285358e-06,0.0,1.0,0.0
+math/0411043,Differential characters and the Steenrod squares,3.936677837923228e-06,1.818240925850492e-06,3.0,2.0
+math/0307373,Equivariant smooth Deligne cohomology,3.916484280990229e-06,1.5780277547476012e-08,5.0,3.0
+math/0306250,A unified formula for Steenrod operations in flag manifolds,3.916429252948066e-06,0.0,1.0,4.0
+hep-th/0308058,D-branes in N=2 coset models and twisted equivariant K-theory,3.913421609227302e-06,2.0823499542489367e-06,18.0,8.0
+math/0612055,Witten Genus and String Complete Intersections,3.908102236909352e-06,0.0,2.0,0.0
+math/0303353,Increasing trees and Kontsevich cycles,3.895979658598993e-06,0.0,3.0,1.0
+math/0503369,"An introduction to equivariant cohomology and homology, following
+  Goresky, Kottwitz, and MacPherson",3.887285670724811e-06,0.0,2.0,0.0
+math/9906096,Homological perturbation theory and mirror symmetry,3.881386609105384e-06,3.956939682096245e-06,9.0,2.0
+math/0303157,Graph cohomology and Kontsevich cycles,3.872240384736195e-06,1.4221883930500538e-05,2.0,6.0
+math/0502249,A characterization of spaces with discrete topological fundamental group,3.850307343053348e-06,0.0,3.0,3.0
+math/0306421,E-infinity Cell Models for Free and Based Loop Space Cohomology,3.84798852602516e-06,0.0,3.0,0.0
+math/0605534,A Stringy Product on Twisted Orbifold K-theory,3.833411156642803e-06,2.641665476369758e-06,6.0,4.0
+math/0107129,Schematic homotopy types and non-abelian Hodge theory,3.833364140740086e-06,1.9763714179147136e-05,3.0,10.0
+math/0610834,"Equivariant cohomology, symmetric functions and the Hilbert schemes of
+  points on the total space of the invertible sheaf O(-2) over the projective
+  line",3.828087042053822e-06,0.0,2.0,1.0
+hep-th/0509064,"Families index theorem in supersymmetric WZW model and twisted K-theory:
+  The SU(2) case",3.826707379744937e-06,0.0,11.0,0.0
+math/0306406,Andr\'e-Quillen cohomology and rational homotopy of function spaces,3.8243610091479806e-06,0.0,2.0,0.0
+math/0506400,An infinite genus mapping class group and stable cohomology,3.8156544389418505e-06,0.0,2.0,0.0
+math/0304442,"Simplicial localization of monoidal structures, and a non-linear version
+  of Deligne's conjecture",3.814865250561334e-06,5.663387043140437e-09,15.0,3.0
+math/0603252,The Hawaiian earring group and metrizability,3.812182283116553e-06,0.0,2.0,0.0
+math/0406361,Collision Free Motion Planning on Graphs,3.8115001107087104e-06,0.0,2.0,2.0
+math/0203283,Controlled connectivity of closed 1-forms,3.810046258651453e-06,0.0,4.0,0.0
+math/0512486,The Newstead-Ramanan conjecture for Chern classes,3.791305359750756e-06,0.0,2.0,0.0
+math/0405057,Dualite de Koszul des PROPs,3.7887570089061914e-06,0.0,7.0,2.0
+math/0701325,Intermutation,3.783678908061724e-06,0.0,1.0,0.0
+math/0011101,"Morse theory, Milnor fibers and minimality of hyperplane arrangements",3.7673913887092273e-06,0.0,2.0,0.0
+math/0310056,Complexes of graph homomorphisms,3.755672562911103e-06,6.634383079942031e-06,6.0,23.0
+math/0410539,Discrete Morse theory and graph braid groups,3.747672316273958e-06,0.0,2.0,0.0
+math/0602444,On the cohomology rings of tree braid groups,3.747672316273958e-06,0.0,2.0,1.0
+math/0411542,A Koszul duality for props,3.741150201642984e-06,7.471414022545984e-06,5.0,10.0
+math/0207037,"Crossed complexes, and free crossed resolutions for amalgamated sums and
+  HNN-extensions of groups",3.736323734217848e-06,0.0,2.0,0.0
+math/0512517,"Constructing zero divisors in the higher dimensional Cayley-Dickson
+  algebras",3.7325727755918313e-06,0.0,3.0,1.0
+math/0010073,"Torus actions, combinatorial topology and homological algebra",3.719687858366476e-06,0.0,7.0,2.0
+math/0610320,Suspension theorems for links and link maps,3.7168554113988e-06,0.0,2.0,1.0
+math/0407221,Maps with symplectic graphs,3.683104106285425e-06,0.0,1.0,0.0
+math/0009099,Some Results for the Local Subgroupoids,3.670461117185096e-06,0.0,3.0,0.0
+math/0603171,Heegaard Floer homology and Morse surgery,3.660986571189918e-06,0.0,3.0,0.0
+math/9910139,Configuration spaces and Vassiliev classes in any dimension,3.629685419767076e-06,6.323987882577963e-06,8.0,4.0
+math/0509582,Algebraic properties of quasi-finite complexes,3.62335329328243e-06,0.0,2.0,0.0
+math/0507139,On the homotopy groups of p-completed classifying spaces,3.62335329328243e-06,0.0,2.0,0.0
+math/0412271,An algebraic model for mod 2 topological cyclic homology,3.62335329328243e-06,0.0,2.0,1.0
+math/0404130,De Rham intersection cohomology for general perversities,3.62335329328243e-06,0.0,2.0,1.0
+math/0701127,Maps to the projective plane,3.62335329328243e-06,0.0,2.0,0.0
+math/0111315,Foundations of algebraic surgery,3.62335329328243e-06,0.0,2.0,0.0
+math/0510541,"On a homotopy relation between the 2-local geometry and the Bouc complex
+  for the sporadic group McL",3.62335329328243e-06,0.0,2.0,0.0
+math/0211032,"Floer Homology, Nielsen Theory and Symplectic Zeta Functions",3.5860396616370105e-06,0.0,2.0,0.0
+math/0002180,Homotopy Algebras for Operads,3.5703146760646805e-06,1.887641909156644e-05,13.0,11.0
+hep-th/0606283,Homotopy algebra of open-closed strings,3.5638209049007337e-06,7.95513615336993e-08,5.0,1.0
+hep-th/0504063,Families index theorem in supersymmetric WZW model and twisted K-theory,3.5560297889661334e-06,0.0,8.0,0.0
+math/0508466,Beta-elements and divided congruences,3.5528101730631574e-06,0.0,1.0,0.0
+math/0402400,Topology of partition of measures by fans and the second obstruction,3.522463216955662e-06,0.0,2.0,1.0
+math/0610761,Cohomology of the space of commuting n-tuples in a compact Lie group,3.49912997646896e-06,0.0,2.0,0.0
+math/0407002,Invariance homotopique de certains espaces de configurations,3.4930843036925227e-06,0.0,2.0,0.0
+math/0311008,Differential Characters on Orbifolds and String Connections I,3.488747703149863e-06,1.6824961417445857e-06,6.0,2.0
+math/0503266,"The twisted Drinfeld double of a finite group via gerbes and finite
+  groupoids",3.4745687071726294e-06,0.0,6.0,1.0
+math/0407349,Virtual Braids,3.4586296262941478e-06,0.0,5.0,6.0
+math/0605249,The homotopy type of the cobordism category,3.4448678373710453e-06,0.0,3.0,7.0
+math/9907180,Symmetry groups of four-manifolds,3.44452023531426e-06,0.0,3.0,1.0
+math/0303091,"Homotopy decomposition of a group of symplectomorphisms of $S^2 \times
+  S^2$",3.441921076901613e-06,0.0,3.0,0.0
+math/0611111,Linking and causality in globally hyperbolic spacetimes,3.435446056534842e-06,0.0,4.0,1.0
+math/0512575,Iterated wreath product of the simplex category and iterated loop spaces,3.4333288658388923e-06,0.0,1.0,1.0
+math/0008064,"Differentiable and algebroid cohomology, van Est isomorphisms, and
+  characteristic classes",3.4233439442265627e-06,6.169566540996224e-05,5.0,16.0
+math/0208235,HKR characters and higher twisted sectors,3.4192806600596245e-06,0.0,4.0,0.0
+math/0612549,Two-Categorical Bundles and Their Classifying Spaces,3.414391922804369e-06,0.0,3.0,0.0
+math/0702561,Fibered F-Algebra,3.4112353543461622e-06,0.0,2.0,0.0
+math/0201277,Homotopy quantum field theory and the index gerbe,3.4077076275179605e-06,0.0,5.0,0.0
+math/9807128,Stratified simplices and intersection homology,3.401145790013704e-06,0.0,3.0,1.0
+math/0506523,JSJ-decompositions of knot and link complements in the 3-sphere,3.39282510546539e-06,2.518292935776557e-07,2.0,2.0
+math/0611317,Notes on 1- and 2-gerbes,3.388365307717545e-06,3.980365510320144e-06,4.0,1.0
+math/0602564,Truncated resolution model structures,3.3749066596554898e-06,0.0,1.0,1.0
+math/0309467,Dirac operator coupled to instantons on positive definite 4 manifolds,3.3749066596554898e-06,0.0,1.0,0.0
+math/0006046,The Eta-invariant and Pontryagin duality in K-theory,3.3533976206728904e-06,1.990182755160072e-06,4.0,1.0
+math/0011222,"Hypersurface complements, Milnor fibers and minimality of arrangements",3.351430704245489e-06,0.0,2.0,2.0
+math/0601715,"Pseudo-isotopy classes of diffeomorphisms of the unknotted pairs
+  $(S^{n+2},~S^n)$ and $(S^{2p+2},~S^p\times S^p)$",3.3188740809556693e-06,0.0,1.0,0.0
+math/0508070,Twisted Parametrized Stable Homotopy Theory,3.3012060839748896e-06,0.0,5.0,1.0
+math/0407507,Higher Monodromy,3.299193536942889e-06,6.988461053113318e-08,2.0,1.0
+math/0506258,"Additivity for parametrized topological Euler characteristic and
+  Reidemeister torsion",3.289163849212761e-06,0.0,2.0,0.0
+math/0507485,"The M\""obius function of the composition poset",3.2776902449493445e-06,0.0,3.0,3.0
+math/0502218,"A retraction theorem for topological fundamental groups with application
+  to the Hawaiian earring",3.26824482906694e-06,0.0,2.0,4.0
+math/0411272,"Morse theory, graphs, and string topology",3.255596562595468e-06,9.95091377580036e-06,8.0,6.0
+math/0304314,On the classification of Moore algebras and their deformations,3.247979583987204e-06,0.0,6.0,0.0
+math/0405312,Homology of generalized partition posets,3.233590697606667e-06,5.697644935547943e-06,2.0,4.0
+math/0002251,Higher homotopy groups of complements of complex hyperplane arrangements,3.23154267478596e-06,0.0,3.0,3.0
+math/0005199,Moment-angle complexes and combinatorics of simplicial manifolds,3.174764552936672e-06,0.0,4.0,0.0
+math/0607263,L^2-Invariants and rank metric,3.160797231785107e-06,0.0,2.0,1.0
+math/0104167,Logarithms of formal groups over Hopf algebras,3.1564676950366884e-06,0.0,2.0,0.0
+math/0507167,Algebraic invariants for crystallographic defects in cellular automata,3.1564676950366884e-06,0.0,2.0,0.0
+hep-th/0503006,Stability of Fermi Surfaces and K-Theory,3.156225645140699e-06,5.506789069851197e-06,16.0,2.0
+math/0212310,A classical approach to TQFT's,3.155192540661761e-06,8.48598943029136e-08,5.0,2.0
+math/0308111,Algebraic and combinatorial codimension-1 transversality,3.139685432154299e-06,0.0,1.0,1.0
+math/0203048,Rational Homology 5-Spheres with Positive Ricci Curvature,3.1317972967359685e-06,0.0,3.0,0.0
+math/0402082,On the Twisted K-Homology of Simple Lie Groups,3.1259722328161487e-06,1.613677683791977e-09,7.0,7.0
+math/0403161,"Computational Topology of Equivariant Maps from Spheres to Complements
+  of Arrangements",3.1245109330230576e-06,0.0,2.0,4.0
+math/0303003,A polarized view of string topology,3.109356262230992e-06,7.4260550565674335e-09,6.0,3.0
+math/0109057,"Multicomplexes, bounded cohomology and additivity of simplicial volume",3.1079433638917785e-06,0.0,1.0,5.0
+math/0404328,Flow does not model flows up to weak dihomotopy,3.1079433638917785e-06,0.0,1.0,1.0
+math/0604160,The ring structure for equivariant twisted K-theory,3.0955002744803623e-06,1.5710998468250599e-07,5.0,3.0
+math/0605364,"On the Homotopy Type and the Fundamental Crossed Complex of the Skeletal
+  Filtration of a CW-Complex",3.0922894704587693e-06,1.9238625996496505e-07,2.0,2.0
+math/0606512,Open-Closed String Topology via Fat Graphs,3.074976483083937e-06,0.0,5.0,0.0
+math/0512576,Resolution of coloured operads and rectification of homotopy algebras,3.072907449417578e-06,2.1234069989248978e-06,1.0,6.0
+math/0107221,Rigidity and gluing for Morse and Novikov complexes,3.0608887235178616e-06,4.312329237836438e-06,3.0,3.0
+math/0005091,Lie algebras associated to fiber-type arrangements,3.0472482127272877e-06,0.0,2.0,0.0
+math/9903133,Counting zeros of closed 1-forms,3.0472482127272877e-06,0.0,2.0,1.0
+math/0104013,"Non-contractible periodic trajectories of symplectic vector fields,
+  Floer cohomology and symplectic torsion",3.0472482127272877e-06,0.0,2.0,1.0
+math/9810068,An Interpolation between Homology and Stable Homotopy,3.0472482127272877e-06,0.0,2.0,0.0
+math/0304016,On the calculation of UNil,3.044556371831308e-06,0.0,2.0,3.0
+math/0411436,On the other side of the bialgebra of chord diagrams,3.042811603392512e-06,4.295924053166991e-06,2.0,8.0
+math/0606330,The Baker-Campbell-Hausdorff formula in the free metabelian Lie algebra,3.0299496640727984e-06,0.0,1.0,1.0
+math/0305250,Heisenberg groups in algebraic topology,3.0270109130711928e-06,2.9704220226269734e-08,4.0,2.0
+math/0106240,Topology and Higher-Dimensional Category Theory: the Rough Idea,3.008769564787132e-06,2.3619030803976745e-05,5.0,1.0
+math/0701428,Duality for topological abelian group stacks and T-duality,3.002744573124368e-06,0.0,3.0,0.0
+math/0506526,"Cohomology of face rings, and torus actions",2.995295691336149e-06,0.0,3.0,2.0
+math/0509681,Morse field theory,2.984962378408225e-06,0.0,2.0,1.0
+math/0111028,A topological obstruction to existence of quaternionic Plucker map,2.971646841998664e-06,0.0,4.0,2.0
+math/0402117,Operads and cosimplicial objects: an introduction,2.969969533671949e-06,6.303333340633591e-05,7.0,1.0
+math/0701833,On the algebraic $L$-theory of $\Delta$-sets,2.9619961849585824e-06,0.0,1.0,0.0
+math/0407203,Homology and derived series of groups,2.9611478460645143e-06,3.980365510320144e-06,1.0,3.0
+math/0410405,Rectifying Partial Algebras Over Operads of Complexes,2.9556313555959445e-06,0.0,2.0,1.0
+math-ph/0205047,"Results on the Wess-Zumino consistency condition for arbitrary Lie
+  algebras",2.9512473109787907e-06,0.0,9.0,2.0
+math/0212330,Segal topoi and stacks over Segal categories,2.9450336897598477e-06,9.87548501721303e-06,5.0,11.0
+math/0603582,Indices of Vector Fields on Singular Varieties: An Overview,2.938470057740872e-06,0.0,2.0,0.0
+math/0610743,The homology of real subspace arrangements,2.930732340116377e-06,5.477448394724109e-07,2.0,3.0
+math/0301365,Koszul duality of operads and homology of partition posets,2.928452473370401e-06,0.0,5.0,4.0
+math/0209131,On several varieties of cacti and their relations,2.9233397501474096e-06,9.950802273472185e-07,6.0,2.0
+math/9810020,Signature via Novikov numbers,2.923024895913817e-06,0.0,1.0,0.0
+math/0307327,The homotopy branching space of a flow,2.923024895913817e-06,0.0,1.0,0.0
+math/0308064,Closed symmetric monoidal structure and flow,2.923024895913817e-06,0.0,1.0,0.0
+math/0502279,A homotopy aspect of representation theory,2.923024895913817e-06,0.0,1.0,0.0
+math/0501442,"Cellularization of classifying spaces and fusion properties of finite
+  groups",2.923024895913817e-06,0.0,1.0,0.0
+math/0608482,Homotopy theory of associative rings,2.923024895913817e-06,0.0,1.0,0.0
+math/0509416,"Smoothing - Strichartz Estimates for the Schrodinger Equation with small
+  Magnetic Potential",2.923024895913817e-06,0.0,1.0,0.0
+math/0012235,"Stabilisation, bordism and embedded spheres in 4--manifolds",2.91697922313738e-06,0.0,1.0,1.0
+math/0609699,Ghosts in modular representation theory,2.91697922313738e-06,0.0,1.0,0.0
+math/0003176,Bordism-finiteness and semi-simple group actions,2.91697922313738e-06,0.0,1.0,1.0
+math/0611403,The generating hypothesis for the stable module category of a $p$-group,2.91697922313738e-06,0.0,1.0,1.0
+math/9908002,Cohomological localization for manifolds with boundary,2.9163430972780283e-06,0.0,2.0,0.0
+math/0407348,"Equivariant Chern classes of singular algebraic varieties with group
+  actions",2.9110437110221457e-06,0.0,2.0,1.0
+math/0304149,"SL(2)-solution of the pentagon equation and invariants of
+  three-dimensional manifolds",2.899255767917867e-06,0.0,6.0,3.0
+math/0403152,Enrichment over iterated monoidal categories,2.897062285469715e-06,0.0,2.0,0.0
+math/0403261,The quadratic form E_8 and exotic homology manifolds,2.897062285469715e-06,0.0,2.0,0.0
+math/0612327,Adams operations in cohomotopy,2.884679208405589e-06,0.0,1.0,0.0
+math/0405525,"Invertible modules for commutative $\mathbb{S}$-algebras with residue
+  fields",2.8839154825015444e-06,0.0,3.0,0.0
+math/0201174,Diagonal bases in Orlik-Solomon type algebras,2.880862802687943e-06,0.0,2.0,0.0
+math/9908006,Topological gravity in dimensions two and four,2.8701099765636933e-06,3.7130275282837164e-09,3.0,2.0
+math/0110207,"Loop Groupoids, Gerbes, and Twisted Sectors on Orbifolds",2.860690099266185e-06,4.330993941660052e-07,6.0,5.0
+math/0606443,"Isotopy invariants for closed braids and almost closed braids via loops
+  in stratified spaces",2.8596716601571738e-06,0.0,1.0,1.0
+math/9912072,On the monodromy of complex polynomials,2.855213185875573e-06,0.0,2.0,0.0
+math/0612165,The cyclic bar construction on A_\infty H-spaces,2.855213185875573e-06,0.0,3.0,0.0
+math/0701026,An approach toward a finite-dimensional definition of twisted K-theory,2.8462828915647296e-06,0.0,11.0,0.0
+math/0605535,Pseudocycles and Integral Homology,2.83044449107719e-06,0.0,2.0,0.0
+math/0512497,"Moment-angle complexes, monomial ideals, and Massey products",2.829326273879776e-06,0.0,2.0,1.0
+math/0602561,Cobounding odd cycle colorings,2.826897378555361e-06,0.0,4.0,5.0
+math/0605308,Positivity of Schur function expansions of Thom polynomials,2.8122315166685897e-06,0.0,1.0,1.0
+math/0501498,On second order Thom-Boardman singularities,2.8122315166685897e-06,0.0,1.0,1.0
+math/0608285,Thom polynomials of Morin singularities,2.8122315166685897e-06,0.0,1.0,1.0
+math/0401007,Transferring $A_\infty$ (strongly homotopy associative) structures,2.8053831896390548e-06,7.865690904432034e-06,6.0,8.0
+math-ph/0206031,K-Theory in Quantum Field Theory,2.7947669700183897e-06,2.2669950242163826e-07,23.0,10.0
+math/0403486,Multiplicative properties of Atiyah duality,2.788993751400753e-06,0.0,4.0,1.0
+math/0607110,Infinitesimal thickenings of Morava K-theories,2.7859704843756097e-06,0.0,1.0,0.0
+math/0002181,Combinatorial Intersection Cohomology for Fans,2.7783991751348875e-06,0.0,4.0,3.0
+math/0604031,Smash products for secondary homotopy groups,2.767147757140221e-06,0.0,3.0,4.0
+math/0604030,The symmetric action on secondary homotopy groups,2.767147757140221e-06,0.0,3.0,4.0
+math/0607603,"A C*-algebra of geometric operators on self-similar CW-complexes.
+  Novikov-Shubin and L^2-Betti numbers",2.761706651641428e-06,0.0,1.0,1.0
+math/0411409,I-adic towers in topology,2.759195672449716e-06,0.0,2.0,0.0
+math/0612316,Morse-Bott homology,2.7586123177037296e-06,0.0,1.0,0.0
+math/0001151,Deformations of algebras over operads and Deligne's conjecture,2.7573800417777037e-06,1.2811903854919071e-05,10.0,33.0
+math/0412206,"Algebras with one operation including Poisson and other Lie-admissible
+  algebras",2.75560811964387e-06,2.228016871008809e-06,4.0,3.0
+math/0202066,Homotopy Quantum Field Theories and Related Ideas,2.75310952913251e-06,0.0,5.0,0.0
+math/0407021,"Orbifold genera, product formulas and power operations",2.751859310572981e-06,7.344680392641115e-09,3.0,1.0
+math/0312231,Homotopy Inner Products for Cyclic Operads,2.748645484347207e-06,0.0,5.0,1.0
+math/0603339,"Theories homotopiques de Quillen combinatoires et derivateurs de
+  Grothendieck",2.747477017377869e-06,0.0,2.0,0.0
+math/9805100,"Ring structure, uniform expressions and intersection homology",2.747437991287778e-06,0.0,4.0,2.0
+math/0702471,The universality of Hom complexes,2.7455274843964275e-06,0.0,4.0,0.0
+math/0312411,L^2-Betti Numbers of Discrete Measured Groupoids,2.738007119121444e-06,0.0,3.0,2.0
+math/0306299,"Examples of non-formal closed $(k-1)$-connected manifolds of dimensions
+  $4k-1$ and more",2.727903758705974e-06,0.0,1.0,6.0
+math/0703172,Homotopy theory of Well-generated algebraic triangulated categories,2.720458345189101e-06,0.0,2.0,0.0
+math/0007018,Pretty Good Gravity,2.7163966301471404e-06,0.0,3.0,2.0
+math/0208091,Derived division functors and mapping spaces,2.707839440528583e-06,0.0,3.0,1.0
+math/0606356,$f$-Vectors of Barycentric Subdivisions,2.7015851643942016e-06,0.0,2.0,1.0
+math/0105018,"Homotopy Quantum Field Theories and the Homotopy Cobordism Category in
+  Dimension 1+1",2.701378167168266e-06,1.029770052089137e-05,5.0,6.0
+math/0002216,About the globular homology of higher dimensional automata,2.697084014042981e-06,0.0,1.0,1.0
+math/0702858,Operads in iterated monoidal categories,2.6948045278730183e-06,0.0,3.0,0.0
+math/0309247,"Perverse sheaves, Koszul IC-modules, and the quiver for the category O",2.689692617520429e-06,0.0,4.0,2.0
+math/0204149,Lusternik - Schnirelman theory and dynamics,2.685435201543053e-06,0.0,2.0,0.0
+math/0409305,"Computation of generalized equivariant cohomologies of Kac-Moody flag
+  varieties",2.67553136647622e-06,0.0,2.0,3.0
+math/0204094,Vanishing cycles of pencils of hypersurfaces,2.664516766645504e-06,0.0,2.0,1.0
+math/9904159,Equivariant Intersection Cohomology of Toric Varieties,2.6631781590238582e-06,0.0,3.0,0.0
+math/0305266,"Equivariant chain complexes, twisted homology and relative minimality of
+  arrangements",2.662253063314155e-06,0.0,4.0,0.0
+math/0509667,"The homotopy invariance of the string topology loop product and string
+  bracket",2.659978193093926e-06,4.501399536215009e-06,4.0,4.0
+math/0610216,Stable homology of automorphism groups of free groups,2.6562342230453445e-06,0.0,3.0,4.0
+math/0404496,Symplectomorphism groups and isotropic skeletons,2.652978809026604e-06,1.990182755160072e-06,1.0,1.0
+math/9911217,A classification of fibre bundles over 2-dimensional spaces,2.6504194907385338e-06,0.0,2.0,1.0
+math/0409597,String spectral sequence,2.625707282383324e-06,1.4043959116783298e-05,3.0,2.0
+math/9810058,"On the Breen-Baez-Dolan stabilization hypothesis for Tamsamani's weak
+  n-categories",2.5799671900298736e-06,0.0,6.0,8.0
+math/0209363,Adem-Cartan operads,2.5766217569017337e-06,0.0,3.0,0.0
+math/0604628,Linear colorings of simplicial complexes and collapsing,2.570701881811236e-06,0.0,2.0,0.0
+math/0402166,Automorphisms of free groups with boundaries,2.5653475429844544e-06,0.0,4.0,0.0
+math/0406502,On the cobar construction of a bialgebra,2.5610372167307383e-06,0.0,5.0,0.0
+math/9807018,The cohomology ring of symplectic cuts,2.560970048309484e-06,0.0,2.0,0.0
+math/0503193,Fibered Symplectic Cohomology and the Leray-Serre Spectral Sequence,2.5566358919577483e-06,0.0,1.0,2.0
+math/0604029,Secondary homotopy groups,2.553390930903396e-06,0.0,2.0,4.0
+math/0304228,The rack space,2.553017942666671e-06,0.0,6.0,6.0
+math/0611066,Strong homotopy properads,2.552404965335181e-06,0.0,4.0,0.0
+math/0210125,A remark on K-theory and S-categories,2.5507859057485457e-06,1.1209806691471171e-06,4.0,2.0
+math/0406290,Nested sets and Jeffrey Kirwan cycles,2.545389671889869e-06,0.0,2.0,3.0
+math/0302182,Presentations of Noneffective Orbifolds,2.543618402106525e-06,0.0,5.0,0.0
+math/0510097,The differential topology of loop spaces,2.5416609669412487e-06,0.0,2.0,1.0
+math/0701247,Divisibility of the stable Miller-Morita-Mumford classes,2.517231538616556e-06,0.0,2.0,0.0
+math/0202212,"Invariants of links with flat connections in their complements.II.
+  Holonomy R-matrices related to quantized universal enveloping algebras at
+  roots of 1",2.5064346785652967e-06,0.0,1.0,1.0
+math/0606510,"Morita classes in the homology of Aut(F_n) vanish after one
+  stabilization",2.503507535781881e-06,0.0,2.0,0.0
+math/0508203,Touching the $Z_2$ in Three-Dimensional Rotations,2.4958413021897413e-06,0.0,1.0,0.0
+math/0601085,The bar complex of an E-infinity algebra,2.494734411313164e-06,0.0,3.0,1.0
+hep-th/9801175,"On extremal transitions of Calabi-Yau threefolds and the singularity of
+  the associated 7-space from rolling",2.4943039081648404e-06,1.4761364943907964e-05,13.0,5.0
+math/0403098,Yet another delooping machine,2.487146051076454e-06,0.0,2.0,1.0
+math/0406593,Rational String Topology,2.4858867592385034e-06,0.0,4.0,0.0
+math/0310146,"Morita theory in abelian, derived and stable model categories",2.4802888997377478e-06,0.0,2.0,0.0
+math/0503416,Collapsing along monotone poset maps,2.4773370617628333e-06,2.19918011578181e-06,5.0,4.0
+math/0402213,Koszul duality for PROPs,2.4769849648288576e-06,4.8291199206089984e-08,3.0,1.0
+math/0412552,On the Foundation of Algebraic Topology,2.4711431321721443e-06,0.0,1.0,0.0
+math/0301158,Rank stable instantons over positive definite four manifolds,2.4711431321721443e-06,0.0,1.0,1.0
+math/0304080,The Auslander-Reiten quiver of a Poincare duality space,2.4711431321721443e-06,0.0,1.0,0.0
+math/0607665,Arithmetically defined dense subgroups of Morava stabilizer groups,2.4711431321721443e-06,0.0,1.0,0.0
+math/0609074,Weak equivalence classes of complex vector bundles,2.4711431321721443e-06,0.0,1.0,0.0
+math/0305325,Evaluation fibrations and topology of symplectomorphisms,2.4711431321721443e-06,0.0,1.0,0.0
+math/0702320,Vanishing of the KNil groups: localization methods,2.4711431321721443e-06,0.0,1.0,0.0
+math/0701543,On ring-valued invariants of topological pairs,2.4711431321721443e-06,0.0,1.0,0.0
+math/0702163,A Manifold Calculus Approach to Link Maps and the Linking Number,2.4711431321721443e-06,0.0,1.0,0.0
+math/0602344,Class and rank of differential modules,2.4711431321721443e-06,0.0,1.0,0.0
+math/0208011,Remarks on a conjecture of Gromov and Lawson,2.4711431321721443e-06,0.0,1.0,2.0
+cs/0312007,"Counting complexity classes for numeric computations II: algebraic and
+  semialgebraic sets",2.4711431321721443e-06,0.0,1.0,1.0
+math/0402267,Some Remarks on Symmetric Products of Curves,2.4711431321721443e-06,0.0,1.0,0.0
+math/0510334,The homotopy coniveau tower,2.4711431321721443e-06,0.0,1.0,2.0
+math/0305254,A simple approach to geometric realization of simplicial and cyclic sets,2.4711431321721443e-06,0.0,1.0,0.0
+math/0503018,On Bestvina-Mess Formula,2.4711431321721443e-06,0.0,1.0,0.0
+math/0411656,Parametrized homotopy theory,2.4711431321721443e-06,0.0,1.0,5.0
+math/0602229,"Singular structure of Toda lattices and cohomology of certain compact
+  Lie groups",2.4711431321721443e-06,0.0,1.0,0.0
+math/0602085,The Salvetti Complex and the Little Cubes,2.4711431321721443e-06,0.0,1.0,0.0
+math/0603045,The discrete module category for the ring of K-theory operations,2.4711431321721443e-06,0.0,1.0,0.0
+math/0611248,Cohomology determinants of compact 3-manifolds,2.4711431321721443e-06,0.0,1.0,0.0
+math/0406363,Infinite sums of Adams operations and cobordism,2.4711431321721443e-06,0.0,1.0,0.0
+math/0511243,A note on the residue Chern character,2.4711431321721443e-06,0.0,1.0,0.0
+math/0506275,The Geometric Theory of the Fundamental Germ,2.4711431321721443e-06,0.0,1.0,1.0
+math/0106181,Une conjecture de Kontsevich et Shoikhet et la caracteristique d'Euler,2.4711431321721443e-06,0.0,1.0,0.0
+math/0702646,On the classifying space of the family of virtually cyclic subgroups,2.4711431321721443e-06,0.0,1.0,0.0
+math/9803136,Witten deformation and polynomial differential forms,2.4711431321721443e-06,0.0,1.0,0.0
+math/0604414,"Weak complicial sets, a simplicial weak omega-category theory. Part I:
+  basic homotopy theory",2.4711431321721443e-06,0.0,1.0,0.0
+math/0506449,An 8-dimensional non-formal simply connected symplectic manifold,2.4711431321721443e-06,0.0,1.0,2.0
+math/0511453,The homology of the Milnor fiber for classical braid groups,2.4711431321721443e-06,0.0,1.0,0.0
+math/0609776,Lectures on the Cohomology of Finite Groups,2.4711431321721443e-06,0.0,1.0,0.0
+math/0609141,"Homological category weights and estimates for cat^1(X,\xi)",2.4711431321721443e-06,0.0,1.0,0.0
+math/0610566,An addendum on iterated torus knots,2.4711431321721443e-06,0.0,1.0,1.0
+math/0703299,Multiplier ideals of sums via cellular resolutions,2.4711431321721443e-06,0.0,1.0,0.0
+math/0703069,Motion planning in tori,2.4711431321721443e-06,0.0,1.0,0.0
+math/0310236,On embeddings in the sphere,2.4711431321721443e-06,0.0,1.0,1.0
+math/0204352,Diffeomorphism type of the Berger space,2.4711431321721443e-06,0.0,2.0,1.0
+math/0610598,Cat\'{e}gories de foncteurs en grassmanniennes,2.4711431321721443e-06,0.0,2.0,1.0
+math/0608705,A composition formula for manifold structures,2.4711431321721443e-06,0.0,1.0,0.0
+math/0406161,Closed manifolds coming from Artinian complete intersections,2.4711431321721443e-06,0.0,1.0,0.0
+math/0701112,Intersection homology of stratified fibrations and neighborhoods,2.4711431321721443e-06,0.0,1.0,1.0
+math/0601587,"Bredon homology and equivariant K-homology of SL(3,Z)",2.4711431321721443e-06,0.0,1.0,0.0
+math/0210045,"Directed trees in a string, real polynomials with triple roots, and
+  chain mails",2.4711431321721443e-06,0.0,1.0,0.0
+math/0106262,Rational homotopy theory and nonnegative curvature,2.4711431321721443e-06,0.0,2.0,0.0
+math/0611011,On the Cubical Homology Groups of Free Partially Commutative Monoids,2.4711431321721443e-06,0.0,1.0,0.0
+math/0008104,Topology of Quadric Bundles,2.4711431321721443e-06,0.0,1.0,0.0
+math/0106153,Systolic freedom of loop space,2.4711431321721443e-06,0.0,1.0,0.0
+math/0112169,Subalgebras of group cohomology defined by infinite loop spaces,2.4711431321721443e-06,0.0,1.0,0.0
+math/0106064,"Approximations and selections of multivalued mappings of
+  finite-dimensional spaces",2.4711431321721443e-06,0.0,1.0,0.0
+math/0605536,Topology of random clique complexes,2.4711431321721443e-06,0.0,1.0,0.0
+math/0205013,Torus and Z/p actions on manifolds,2.4711431321721443e-06,0.0,1.0,0.0
+math/0510157,Steenrod squares on conjugation spaces,2.4711431321721443e-06,0.0,1.0,0.0
+math/0210001,Connectivity of the coset poset and the subgroup poset of a group,2.4711431321721443e-06,0.0,1.0,0.0
+math/0506464,Homology 3-spheres in codimension three,2.4711431321721443e-06,0.0,1.0,2.0
+math/0207131,"Plane curves and their fundamental groups: Generalizations of Uludag's
+  construction",2.4711431321721443e-06,0.0,1.0,0.0
+math/0412388,Interpolation categories for homology theories,2.4711431321721443e-06,0.0,1.0,1.0
+math/0409036,Diagram models for the covers of the Salvetti complex,2.4711431321721443e-06,0.0,1.0,0.0
+math/0506439,"Non-vanishing of the twisted cohomology on the complement of
+  hypersurfaces",2.4711431321721443e-06,0.0,1.0,1.0
+math/0008139,Manifolds of Positive Scalar Curvature and Conformal Cobordism Theory,2.4711431321721443e-06,0.0,1.0,0.0
+math/0611436,"Symmetric Products, Duality and Homological Dimension of Configuration
+  Spaces",2.4711431321721443e-06,0.0,1.0,0.0
+math/9808101,Homotopy Algebras via Resolutions of Operads,2.4711431321721443e-06,0.0,1.0,4.0
+math/0410398,A homotopy double groupoid of a Hausdorff space II: a van Kampen theorem,2.4711431321721443e-06,0.0,1.0,0.0
+math/0404539,Homotopy properties of Hamiltonian group actions,2.4658365825647377e-06,1.990182755160072e-06,3.0,1.0
+math/0009229,Chern characters via connections up to homotopy,2.456283758139732e-06,7.960731020640288e-06,3.0,1.0
+math/0309038,De Rham model for string topology,2.4549176655437338e-06,1.8024324627103443e-05,4.0,3.0
+math/9908040,Homotopy Gerstenhaber algebras,2.4500187011226684e-06,1.0163466852747184e-06,6.0,11.0
+math/0405419,"WI-posets, graph complexes and Z_2-equivalences",2.447333549019796e-06,3.8461248002049935e-06,5.0,7.0
+math/0210343,"Distinguishing three-dimensional lens spaces L(7,1) and L(7,2) by means
+  of classical pentagon equation",2.4436931856972523e-06,0.0,1.0,6.0
+math/0412053,Formality of k-connected spaces in 4k+3 and 4k+4 dimensions,2.4302464812932763e-06,0.0,3.0,2.0
+math/0005079,Classification of equivariant real vector bundles over a circle,2.429735359900988e-06,0.0,2.0,0.0
+math-ph/0303035,"Discrete connections on the triangulated manifolds and difference linear
+  equations",2.4285338324881227e-06,0.0,2.0,3.0
+math/0105049,Investigating The Algebraic Structure of Dihomotopy Types,2.41353262411663e-06,0.0,3.0,1.0
+math/0411561,Combinatorial n-fold monoidal categories and n-fold operads,2.4132979469882607e-06,0.0,2.0,0.0
+math/0503308,Comodule categories and the geometry of the stack of formal groups,2.409704822140489e-06,1.990182755160072e-06,2.0,1.0
+math/0101246,"Hypersurface complements, Milnor fibers and higher homotopy groups of
+  arrangements",2.4074586402211274e-06,0.0,2.0,5.0
+math/0310483,On the homotopy invariance of configuration spaces,2.4060086373771908e-06,0.0,1.0,2.0
+math/0401075,Configuration spaces are not homotopy invariant,2.4060086373771908e-06,0.0,1.0,2.0
+math/9906036,Formal solution of the master equation via HPT and deformation theory,2.401212079429293e-06,0.0,4.0,8.0
+math/0406314,"Realizability of algebraic Galois extensions by strictly commutative
+  ring spectra",2.397486231595592e-06,1.1941096530960432e-05,1.0,4.0
+math/0606513,"The localization sequence for the algebraic K-theory of topological
+  K-theory",2.397486231595592e-06,0.0,1.0,0.0
+math/0608366,"A duality between string topology and the fusion product in equivariant
+  K-theory",2.3930973733592183e-06,0.0,4.0,0.0
+math/0307092,Extended Bloch group and the Cheeger-Chern-Simons class,2.390328381163114e-06,0.0,2.0,1.0
+math/9906190,"Elliptic genus of Calabi-Yau manifolds and Jacobi and Siegel modular
+  forms",2.376980505663613e-06,4.310549168936943e-07,1.0,7.0
+math/0610126,"The homotopy Lie algebra of a complex hyperplane arrangement is not
+  necessarily finitely presented",2.373340506214027e-06,0.0,2.0,0.0
+math/0612002,Borsuk-Ulam Theorems for Complements of Arrangements,2.370253055845376e-06,0.0,1.0,0.0
+math/0504128,Regular Functions Transversal at Infinity,2.3612861347394213e-06,0.0,2.0,1.0
+math/0411329,Alexander Invariants and Transversality,2.3612861347394213e-06,0.0,2.0,0.0
+math/0608389,Massey products in graded Lie algebra cohomology,2.3469198153586743e-06,0.0,1.0,0.0
+math/0506452,Symplectic nilmanifolds with a symplectic non-free $Z_3$-action,2.3469198153586743e-06,0.0,1.0,0.0
+math/0302328,"Two Representations of the Fundamential Group and Invariants of Lens
+  Spaces",2.3421163783870647e-06,0.0,4.0,2.0
+math/9907138,Homotopy Algebras are Homotopy Algebras,2.3390203383263333e-06,3.7292004200985976e-05,7.0,24.0
+math/0011073,"Arrangements, Milnor Fibers and Polar Curves",2.334918170155613e-06,0.0,1.0,2.0
+math/0411456,Intrinsic brackets and the $L_\infty$-deformation theory of bialgebras,2.3132453904135743e-06,4.21819962616888e-06,3.0,3.0
+math/0209003,Topological Hochschild cohomology and generalized Morita equivalence,2.307810401946402e-06,5.970548265480216e-06,2.0,2.0
+math/0109158,Combinatorial operad actions on cochains,2.30697649089578e-06,2.7862558572241007e-05,3.0,9.0
+math/0604259,Topological equivalences for differential graded algebras,2.3065019964435957e-06,1.990182755160072e-06,2.0,1.0
+math/9912088,Equivariant K-theory and Equivariant Cohomology,2.296984065928967e-06,0.0,2.0,4.0
+math/0112026,Quandle Homology Theory and Cocycle Knot Invariants,2.2959444398538497e-06,0.0,5.0,4.0
+math/9902067,Algebraic aspects of higher nonabelian Hodge theory,2.28238582494454e-06,0.0,5.0,6.0
+math/0301045,"Closed Model Categories for Presheaves of Simplicial Groupoids and
+  Presheaves of 2-Groupoids",2.27910810532043e-06,0.0,2.0,2.0
+math/0511691,Large annihilators in Cayley-Dickson algebras,2.27910810532043e-06,0.0,2.0,0.0
+math/0201153,The Weyl functional near the Yamabe invariant,2.27910810532043e-06,0.0,2.0,0.0
+math/0401283,Homotopy theory of presheaves of simplicial groupoids,2.2716061880683958e-06,0.0,1.0,0.0
+math/0408262,"A simple proof for folds on both sides in complexes of graph
+  homomorphisms",2.2711461801469856e-06,0.0,4.0,11.0
+math/9806044,"Modules, comodules and cotensor products over Frobenius algebras",2.2709948651900075e-06,0.0,1.0,3.0
+math/9912199,"Torus actions, equivariant moment-angle complexes, and coordinate
+  subspace arrangements",2.267189640564075e-06,0.0,5.0,2.0
+math/0603563,Integrating L-infinity algebras,2.265013575108597e-06,1.9864697276317883e-06,3.0,2.0
+math/0501426,The fundamental group of the harmonic archipelago,2.2576172707169384e-06,0.0,1.0,4.0
+math/0509694,The homotopy type of the space of degree 0 immersed plane curves,2.2465016456383024e-06,0.0,2.0,1.0
+math/0402218,Stability in controlled L-theory,2.2356851087904607e-06,0.0,1.0,3.0
+math/0306086,Higher Dimensional Enrichment,2.2356851087904607e-06,0.0,1.0,3.0
+math/0605770,Algebraic String Operations,2.2351944390189537e-06,0.0,1.0,2.0
+math/0610949,A formula for topology/deformations and its significance,2.2351944390189537e-06,6.16620698269621e-06,1.0,3.0
+math/0304362,Generalized Arf invariants in algebraic L-theory,2.2139736105254765e-06,0.0,1.0,4.0
+math/0605622,Remarks on Formal Knot Theory,2.2047930951388428e-06,0.0,1.0,0.0
+math/0211275,Cohomology theories for highly structured ring spectra,2.1922363594601763e-06,1.990182755160072e-06,1.0,1.0
+math/0605133,"The fundamental group of symplectic manifolds with Hamiltonian Lie group
+  actions",2.189198761823784e-06,0.0,1.0,0.0
+math/0511232,Loop Groups and Twisted K-Theory II,2.188672904405591e-06,5.750284936108034e-05,6.0,4.0
+math/0007157,Toward a Galoisian interpretation of homotopy theory,2.187588396818325e-06,0.0,4.0,1.0
+math/0210115,"Topological Robotics: Subspace Arrangements and Collision Free Motion
+  Planning",2.187491248189088e-06,0.0,2.0,1.0
+math/0210018,Topological robotics: motion planning in projective spaces,2.187491248189088e-06,0.0,2.0,0.0
+math/9903141,Absolute torsion and eta-invariant,2.183090591894573e-06,0.0,2.0,0.0
+math/0605627,"Amenable covers, volume and L2-Betti numbers of aspherical manifolds",2.175224262510901e-06,0.0,1.0,1.0
+math/0109125,Orbifold Cohomology of the Symmetric Product,2.174854879337199e-06,2.347709528394088e-05,6.0,12.0
+math/0702313,Graph homology: Koszul and Verdier duality,2.1729769467700243e-06,0.0,2.0,0.0
+math/0404387,"Etale homotopy types of moduli stacks of algebraic curves with
+  symmetries",2.1590862135381087e-06,0.0,3.0,0.0
+math/0603544,The 1-type of a Waldhausen K-theory spectrum,2.1499187772194525e-06,0.0,2.0,3.0
+math/0510196,Witt groups of sheaves on topological spaces,2.137578958072408e-06,1.990182755160072e-06,1.0,1.0
+math/0306080,A bordism approach to string topology,2.1314735268015733e-06,0.0,7.0,4.0
+math/0312055,Rational cohomology of the moduli space of genus 4 curves,2.1301094369203035e-06,0.0,2.0,1.0
+math/0209288,Characteristic classes of smooth fibrations,2.1254800838390582e-06,0.0,2.0,3.0
+math/0703838,Model structure on operads in orthogonal spectra,2.110664357609735e-06,0.0,2.0,0.0
+math/0303034,New perspectives on self-linking,2.1058864358491663e-06,6.188379213806193e-09,3.0,2.0
+math/0202281,Classification of Finite Alexander Quandles,2.101458358695932e-06,0.0,2.0,3.0
+math/0502417,On the homotopy Lie algebra of an arrangement,2.093627735549972e-06,0.0,1.0,0.0
+math/0503428,Proportionality of Indices of 1-Forms on Singular Varieties,2.0807283174614843e-06,0.0,1.0,2.0
+math/0510380,Parking functions and triangulation of the associahedron,2.0617566396215336e-06,0.0,2.0,0.0
+math/0402402,Khovanov homology: torsion and thickness,2.055751398074491e-06,0.0,11.0,11.0
+math/0301221,The Combinatorics of Iterated Loop Spaces,2.0395572322779545e-06,3.980365510320144e-06,4.0,6.0
+math/0103052,Homotopy Diagrams of Algebras,2.0359703214649032e-06,0.0,2.0,4.0
+math/0312277,"Associahedra, cellular W-construction and products of
+  $A_\infty$-algebras",2.035793211337219e-06,2.0519627056246152e-05,4.0,1.0
+math/0507237,"Rational Computations of the Topological K-Theory of Classifying Spaces
+  of Discrete Groups",2.034342006595425e-06,0.0,2.0,0.0
+math/0601573,"The action of S_n on the cohomology of M_{0,n}(R)",2.0313986842921235e-06,1.990182755160072e-06,1.0,4.0
+math/9812122,"The Morse-Novikov theory of circle-valued functions and noncommutative
+  localization",2.0285160881269576e-06,5.724309479062359e-06,2.0,4.0
+math/0410335,Higher connectivity of graph coloring complexes,2.025141390761269e-06,6.132786614158572e-07,3.0,7.0
+math/0506422,Uniqueness of $E_\infty$ structures for connective covers,2.0197578616688304e-06,0.0,1.0,0.0
+q-alg/9712025,The quantum Euler class and the quantum cohomology of the Grassmannians,2.0150747087542063e-06,0.0,3.0,2.0
+math/0701789,"Twisted K-theory, old and new",2.0078777257470126e-06,2.78000462796853e-06,4.0,2.0
+math/0610513,Orbit projections as fibrations,1.997227591699271e-06,0.0,2.0,0.0
+hep-th/9712157,The (secret?) homological algebra of the Batalin-Vilkovisky approach,1.994545134418724e-06,5.855949521405192e-07,4.0,18.0
+math/0107021,Extensions of Quandles and Cocycle Knot Invariants,1.992842263087682e-06,0.0,4.0,3.0
+math/0009086,Sheaves and Local Subgroupoids,1.9910555650428585e-06,0.0,2.0,1.0
+math/9810101,The relation between compact and non-compact equivariant cobordisms,1.9900738180385784e-06,0.0,1.0,1.0
+math/0512480,"Formality, Alexander invariants, and a question of Serre",1.989270452510598e-06,0.0,1.0,9.0
+math/0410621,Homotopy algebras and noncommutative geometry,1.982641430000928e-06,1.990182755160072e-06,3.0,9.0
+math/0405019,Generalized degree and optimal Loewner-type inequalities,1.981893392215673e-06,0.0,4.0,9.0
+math/0304026,"Enrichment as Categorical Delooping I: Enrichment Over Iterated Monoidal
+  Categories",1.9803101477411127e-06,0.0,1.0,2.0
+math/0402217,Controlled L-theory,1.9803101477411127e-06,0.0,1.0,2.0
+math/0403214,Vertically Iterated Classical Enrichment,1.9803101477411127e-06,0.0,1.0,0.0
+math/0608654,The Bryant-Ferry-Mio-Weinberger construction of generalized manifolds,1.9803101477411127e-06,0.0,1.0,0.0
+math/0512077,The neighborhood complex of a random graph,1.9753190776171016e-06,0.0,3.0,1.0
+math/0503371,N-determined 2-compact groups,1.9703516789072803e-06,0.0,1.0,1.0
+math/0309427,Little cubes and long knots,1.961266164848744e-06,1.71642201675689e-08,3.0,6.0
+math/0212128,A functorial approach to differential characters,1.9574457333270253e-06,0.0,3.0,0.0
+math/0303355,Model Structures and the Oka Principle,1.9484942306227146e-06,0.0,1.0,1.0
+math/0406507,A model category structure on the category of simplicial categories,1.9484942306227146e-06,8.197933123841962e-06,1.0,10.0
+math/0701295,On inner Kan complexes in the category of dendroidal sets,1.947468304052661e-06,0.0,2.0,0.0
+math/9903191,Deformations of Batalin-Vilkovisky algebras,1.9439012463401915e-06,9.94710554243802e-07,7.0,3.0
+math/0307081,PROPped up graph cohomology,1.9353786326564943e-06,8.480352723973756e-06,3.0,17.0
+math/0510137,"A rationality criterion for projective surfaces - partial solution to
+  Kollar's conjecture",1.9334450569873443e-06,0.0,2.0,0.0
+math/9910083,Hirzebruch genera of manifolds with torus action,1.9334450569873443e-06,0.0,2.0,7.0
+math/0212383,Twisting cochains and higher torsion,1.9334450569873443e-06,0.0,2.0,2.0
+math/0407064,Mixed Hodge structure of affine hypersurfaces,1.932694865262141e-06,0.0,1.0,3.0
+math/9903147,"The homology groups of some two-step nilpotent Lie algebras associated
+  to symplectic vector spaces",1.926598495217142e-06,0.0,4.0,0.0
+math/0511541,Finiteness of 3-manifolds associated with non-zero degree mappings,1.926083592307931e-06,0.0,2.0,0.0
+math/0607330,Semistrict models of connected 3-types and Tamsamani's weak 3-groupoids,1.9221350180494828e-06,0.0,3.0,2.0
+math/0306227,Multiplicative rule of Schubert classes,1.9198238918708365e-06,0.0,1.0,1.0
+math/0504100,Symplectic configurations,1.913881181178068e-06,0.0,1.0,0.0
+math/0602108,String Bracket and Flat Connections,1.9120687860606094e-06,0.0,2.0,0.0
+math/0406278,From mapping class groups to automorphism groups of free groups,1.907395965167772e-06,0.0,2.0,4.0
+math/0501429,"Bar constructions for topological operads and the Goodwillie derivatives
+  of the identity",1.9070991272307108e-06,0.0,2.0,0.0
+math/9907073,Configuration spaces with summable labels,1.9070991272307108e-06,0.0,2.0,1.0
+math/0308068,Discrete torsion for the supersingular orbifold sigma genus,1.9042102856405755e-06,2.5184027627114784e-06,3.0,4.0
+math/0111009,Notes on universal algebra,1.9031954199688575e-06,5.0642205462917964e-06,6.0,16.0
+math/0406118,Homotopy types of box complexes,1.9020828868906928e-06,3.664542378305453e-08,3.0,9.0
+math/9910126,A solution of Deligne's conjecture,1.9012434344236752e-06,2.594909125740924e-06,6.0,9.0
+math/9811027,Phantom maps and chromatic phantom maps,1.8950380516170012e-06,0.0,1.0,0.0
+math/0503734,Stabilizers and orbits of circle-valued smooth functions,1.8950380516170012e-06,0.0,1.0,0.0
+math/9910108,"On the imbedding of a finite family of closed disks into a plane or
+  S^{2}",1.8950380516170012e-06,0.0,1.0,0.0
+math/0312039,Nesting maps of Grassmannians,1.8950380516170012e-06,0.0,1.0,0.0
+math/0307115,Koszul duality and equivariant cohomology,1.8950380516170012e-06,0.0,1.0,4.0
+math/0402346,Applications of Lefschetz numbers in control theory,1.8950380516170012e-06,0.0,1.0,0.0
+math/0308243,Multiplicative models for configuration spaces of algebraic varieties,1.8950380516170012e-06,0.0,1.0,0.0
+math/0304137,Smooth Lyapunov 1-forms,1.8950380516170012e-06,0.0,1.0,0.0
+math/0311216,On the domain of the assembly map in algebraic K-theory,1.8950380516170012e-06,0.0,1.0,0.0
+math/0701552,Towards a homotopy theory of process algebra,1.8950380516170012e-06,0.0,1.0,0.0
+math/0303164,Stanley-Reisner rings and torus actions,1.8950380516170012e-06,0.0,1.0,0.0
+math/0305169,"Homological properties of non-deterministic branchings and mergings in
+  higher dimensional automata",1.8950380516170012e-06,0.0,1.0,1.0
+math/0608733,Context for models of concurrency,1.8950380516170012e-06,0.0,1.0,0.0
+math/9812006,On the cohomology rings of Hamiltonian T-spaces,1.8950380516170012e-06,0.0,1.0,5.0
+math/0105047,Piecewise linear structures on topological manifolds,1.8950380516170012e-06,0.0,1.0,1.0
+math/9807071,"Ideals in Triangulated Categories: Phantoms, Ghosts and Skeleta",1.8950380516170012e-06,0.0,1.0,1.0
+math/0306341,Kirwan map and moduli space of flat connections,1.8950380516170012e-06,0.0,1.0,1.0
+math/0508388,The Higher Connectivity of Intersections of Real Quadrics,1.8950380516170012e-06,0.0,1.0,0.0
+math/0208072,Topological lower bounds for the chromatic number: A hierarchy,1.8950380516170012e-06,0.0,2.0,11.0
+math/0507140,"Relating Postnikov pieces with the Krull filtration: A spin-off of
+  Serre's theorem",1.8950380516170012e-06,0.0,1.0,0.0
+math/0507184,A modular description of the K(2)-local sphere at the prime 3,1.8950380516170012e-06,0.0,1.0,0.0
+math/0703929,Betti numbers of random manifolds,1.8950380516170012e-06,0.0,1.0,0.0
+math/0609375,Fundamental Groups of Commuting Elements in Lie Groups,1.8950380516170012e-06,0.0,1.0,1.0
+math/0505607,Exact cohomology sequences with integral coefficients for torus actions,1.8950380516170012e-06,0.0,1.0,1.0
+math/0606067,"Symmetrisation of $n$-operads and compactification of real configuration
+  spaces",1.8950380516170012e-06,0.0,1.0,0.0
+math/0607229,"Groupoids, the Phragmen-Brouwer Property and the Jordan Curve Theorem",1.8950380516170012e-06,0.0,1.0,0.0
+math/0611560,The mixed functors of the category Fquad: a first study,1.8950380516170012e-06,0.0,1.0,0.0
+math-ph/0201019,"On the exotic De-Rham cohomology. Perturbation theory as a spectral
+  sequence",1.8950380516170012e-06,0.0,1.0,4.0
+math/0605471,Stable and Unstable Operations in mod p Cohomology Theories,1.8950380516170012e-06,0.0,1.0,0.0
+math/0409399,Postnikov pieces and BZ/p-homotopy theory,1.8950380516170012e-06,0.0,1.0,1.0
+math/0109128,Loop groups and twin buildings,1.8950380516170012e-06,0.0,1.0,0.0
+math/0105020,Complex cobordism of involutions,1.8950380516170012e-06,0.0,1.0,0.0
+math/0607646,Homotopy-theoretic aspects of 2-monads,1.8950380516170012e-06,0.0,1.0,1.0
+math/0311323,The cohomology algebra of unordered configuration spaces,1.8950380516170012e-06,0.0,1.0,0.0
+math/0308054,A model category for the homotopy theory of concurrency,1.8950380516170012e-06,0.0,1.0,1.0
+math/0106024,Multivariable cochain operations and little n-cubes,1.883399306983317e-06,3.2334698220281924e-05,4.0,3.0
+math/0107168,Twisted Orbifold K-Theory,1.863205971273704e-06,6.938810073268655e-05,5.0,16.0
+math/0109084,An algebraic analog of the Virasoro group,1.852417432586153e-06,0.0,2.0,2.0
+math/0410247,$L_{\infty}$ algebra structures of Lie algebra deformations,1.8479650124790628e-06,0.0,2.0,0.0
+math/0512421,Transitive graphs in counterexamples to Karp's conjecture,1.844820877922164e-06,0.0,1.0,0.0
+math/0210114,DG quotients of DG categories,1.8368457261603516e-06,2.315771998115361e-05,3.0,19.0
+math/0303234,Foliated norms on fundamental group and homology,1.821337214025178e-06,0.0,1.0,0.0
+math/9907047,Elliptic operators in subspaces and the eta invariant,1.7990205381911442e-06,0.0,2.0,1.0
+math/0301083,Koszul duality and equivariant cohomology for tori,1.7979214101183484e-06,0.0,1.0,3.0
+math/9807037,The Swiss-Cheese Operad,1.7951233255041383e-06,1.3686465115599525e-06,3.0,4.0
+math/0406277,Stabilization for the automorphisms of free groups with boundaries,1.7925309231008954e-06,0.0,2.0,3.0
+math/0403470,"Non abelian Reidemeister torsion and volume form on the
+  SU(2)-representation space of knot groups",1.7912133782471866e-06,0.0,1.0,2.0
+math/0503418,Algebraic and topological aspects of the schematization functor,1.791064067021273e-06,0.0,1.0,3.0
+math/9909161,"Quandle Homology Groups, Their Betti Numbers, and Virtual Knots",1.7842508399601583e-06,0.0,4.0,5.0
+math/0312155,Twisted K-theory and loop group representations,1.781726824710548e-06,1.6739535937286107e-05,1.0,24.0
+math/0401274,"$\mathcal{S}$-categories, $\mathcal{S}$-groupoids, Segal categories and
+  quasicategories",1.7757019992162932e-06,0.0,3.0,2.0
+math/0401130,Twisted K theory invariants,1.7735642392982393e-06,5.127570103324167e-07,4.0,2.0
+math/0510599,The stable mapping class group of simply connected 4-manifolds,1.7687561529070944e-06,0.0,2.0,1.0
+math/0603196,"Mirror symmetry formulae for the elliptic genus of complete
+  intersections",1.7654142160873316e-06,1.990182755160072e-06,3.0,1.0
+math/0410230,Operads within monoidal pseudo algebras,1.7634878845000355e-06,0.0,2.0,0.0
+math/0012031,The Whitehead group of the Novikov ring,1.7527943728733192e-06,0.0,1.0,4.0
+math/0505431,Orbifolds and stable homotopy groups,1.747735420100414e-06,0.0,3.0,0.0
+math/0011020,A one-dimensional embedding complex,1.7437271494605454e-06,0.0,1.0,0.0
+math/0306347,"K-theory of the moduli of bundles over a Riemann surface and
+  deformations of the Verlinde algebra",1.7415009747567262e-06,4.0234767872423153e-07,2.0,2.0
+math/0211017,Formality of Donaldson submanifolds,1.7376031735312911e-06,0.0,1.0,5.0
+math/0404527,The Geography of Non-formal Manifolds,1.7376031735312911e-06,0.0,1.0,0.0
+math/0212126,Realization of the Stasheff polytope,1.731037812557113e-06,0.0,1.0,7.0
+math/0610035,"The Dualizing Spectrum, II",1.7301277087805848e-06,0.0,1.0,0.0
+math/0606042,Topological Hochschild homology of twisted group algebras,1.7301277087805848e-06,0.0,1.0,0.0
+math/0401033,"T-homotopy and refinement of observation (V) : Strom model structure for
+  branching and merging homologies",1.7301277087805848e-06,0.0,1.0,1.0
+math/0701655,Semistrict Tamsamani n-groupoids and connected n-types,1.7245212039910812e-06,0.0,1.0,0.0
+math/0212187,Blanchfield and Seifert algebra in high dimensional knot theory,1.7222065274504588e-06,0.0,2.0,1.0
+math/0702852,The Floer homotopy type of the cotangent bundle,1.7211346283297497e-06,0.0,2.0,0.0
+math/0410494,Spin Cohomology,1.7204513441997257e-06,7.261858072050316e-08,3.0,1.0
+math/0512572,"Multivalued functionals, one-forms and deformed de Rham complex",1.719955952274848e-06,0.0,1.0,1.0
+math/0608460,Bordism groups of solutions to differential relations,1.7186600589457774e-06,0.0,1.0,2.0
+math/0601310,"Homological stability for the mapping class groups of non-orientable
+  surfaces",1.7186600589457774e-06,0.0,1.0,2.0
+math/0612164,Topological Hochschild homology and cohomology of A_\infty ring spectra,1.7108117828835904e-06,1.990182755160072e-06,1.0,1.0
+math/0502195,Hopf algebra structure on topological Hochschild homology,1.7108117828835904e-06,1.791164479644065e-05,1.0,1.0
+math/0504322,A lower bound for coherences on the Brown-Peterson spectrum,1.7108117828835904e-06,0.0,1.0,0.0
+math/0512528,Lefschetz-Pontrjagin Duality for Differential Characters,1.7105510248805416e-06,0.0,1.0,0.0
+math/0505460,"A short proof of a conjecture on the higher connectivity of graph
+  coloring complexes",1.7069592106010164e-06,0.0,2.0,3.0
+math/0006115,Geometric Interpretations of Quandle Homology,1.7059916429267682e-06,0.0,3.0,1.0
+math/0306396,Grassmann-Berezin Calculus and Theorems of the Matrix-Tree Type,1.7057815436262402e-06,0.0,2.0,6.0
+math/0703083,Equivariant cohomology and analytic descriptions of ring isomorphisms,1.703003024765287e-06,0.0,1.0,0.0
+math/0505328,"T-homotopy and refinement of observation (II) : Adding new T-homotopy
+  equivalences",1.703003024765287e-06,0.0,1.0,1.0
+cs/0205015,Instabilities of Robot Motion,1.703003024765287e-06,0.0,1.0,3.0
+math/0209031,Moduli space of filtered lambda-ring structures over a filtered ring,1.703003024765287e-06,0.0,1.0,0.0
+math/0604537,Classification spaces of maps in model categories,1.703003024765287e-06,0.0,1.0,1.0
+math/0209161,Various L2-signatures and a topological L2-signature theorem,1.703003024765287e-06,0.0,1.0,2.0
+math/0102180,"Supplement to the paper ""Floating bundles and their applications""",1.703003024765287e-06,0.0,1.0,1.0
+math/0209030,Maps to spaces in the genus of infinite quaternionic projective space,1.703003024765287e-06,0.0,1.0,0.0
+math/0606025,"Nonstabilized Nielsen coincidence invariants and Hopf--Ganea
+  homomorphisms",1.703003024765287e-06,0.0,1.0,0.0
+math/0608574,Reconstructing projective schemes from Serre subcategories,1.703003024765287e-06,0.0,1.0,1.0
+math/0209109,"Diagonals on the Permutahedra, Multiplihedra and Associahedra",1.703003024765287e-06,0.0,1.0,2.0
+math/9912212,Hyperplane Arrangement Cohomology and Monomials in the Exterior Algebra,1.703003024765287e-06,0.0,1.0,4.0
+math/0611004,An infinite-dimensional phenomenon in finite-dimensional metric topology,1.703003024765287e-06,0.0,1.0,0.0
+math/0106198,A remark on the genus of the infinite quaternionic projective space,1.703003024765287e-06,0.0,1.0,0.0
+math/0311016,Cochains and Homotopy Type,1.703003024765287e-06,0.0,1.0,3.0
+math/0104052,"Supplement 2 to the paper ""Floating bundles and their applications""",1.703003024765287e-06,0.0,1.0,0.0
+math/0306100,On the cohomology of torus manifolds,1.703003024765287e-06,0.0,1.0,4.0
+math/0504432,Rational S^1-equivariant elliptic cohomology,1.703003024765287e-06,0.0,1.0,0.0
+math/0512516,Monomorphisms between Cayley-Dickson Algebras,1.703003024765287e-06,0.0,1.0,1.0
+math/0507181,Krull-Schmidt decompositions for thick subcategories,1.703003024765287e-06,0.0,1.0,1.0
+math/0204066,On the topology of algebraic surfaces and reduction modulo p,1.6990994447933085e-06,0.0,1.0,0.0
+math/0010085,Connections up to homotopy and characteristic classes,1.6955006345132665e-06,0.0,2.0,2.0
+math/9910179,Introduction to A-infinity algebras and modules,1.689527043352394e-06,4.014865275232179e-05,7.0,23.0
+math-ph/0112031,Homological algebra of multivalued action functionals,1.6848000188694071e-06,1.4922375651858986e-07,2.0,1.0
+math/0407211,Longitude Floer homology and the Whitehead double,1.6823704382971723e-06,0.0,5.0,3.0
+math/0607804,K-theory of torus manifolds,1.6822991386297089e-06,0.0,1.0,0.0
+math/0506253,Embedding right-angled Artin groups into graph braid groups,1.6822991386297089e-06,0.0,1.0,1.0
+math/0504017,Dyer-Lashof-Cohen operations in Hochschild cohomology,1.6795527669227977e-06,2.22781651697023e-08,2.0,2.0
+math/9803156,Grafting Boardman's Cherry Trees to Quantum Field Theory,1.67841251086474e-06,0.0,5.0,4.0
+math/0204062,"Hochschild cohomology and moduli spaces of strongly homotopy associative
+  algebras",1.6709469258364186e-06,1.258653399418209e-10,4.0,2.0
+math/0208211,Galois theory and a new homotopy double groupoid of a map of spaces,1.6696287405658448e-06,0.0,2.0,0.0
+math/0409412,Intersection Homology and Alexander Modules of Hypersurface Complements,1.659161531703366e-06,0.0,1.0,4.0
+math/0212141,On non-formal simply connected manifolds,1.6555083752371884e-06,0.0,1.0,1.0
+quant-ph/0602063,Topological Quantum Error Correction with Optimal Encoding Rate,1.653235282243827e-06,1.3614434270373626e-08,6.0,4.0
+math/0510667,What is 1-term relation for higher homology of long knots,1.6530070413217149e-06,0.0,1.0,1.0
+math/0311067,"$K$-Theory of Crepant Resolutions of Complex Orbifolds with SU(2)
+  Singularities",1.645017420847171e-06,0.0,2.0,0.0
+math/9912084,Up-to-Homotopy Monoids,1.640173890521441e-06,3.987791565376711e-06,1.0,5.0
+math/0304161,An E-infty-extension of the associahedra and the Tamarkin cell mystery,1.6196086778778255e-06,0.0,2.0,0.0
+math/0304140,The Chen-Ruan Cohomology of Weighted Projective Spaces,1.6124778365996183e-06,4.9602827858848296e-06,3.0,6.0
+math/0211368,Cosimplicial Objects and little n-cubes. I,1.6099201921793186e-06,2.2217951384546542e-06,3.0,7.0
+math/0610800,Splitting multidimensional necklaces,1.60698551133943e-06,0.0,1.0,0.0
+math/0412483,Equipartitions of measures in $\mathbb{R}^4$,1.60698551133943e-06,0.0,1.0,0.0
+math/9912059,Combinatorics of branchings in higher dimensional automata,1.60698551133943e-06,0.0,1.0,1.0
+math/0002187,Four-Manifolds which admit Z_p x Z_p actions,1.60698551133943e-06,0.0,1.0,1.0
+math/0610194,Homotopy limits and colimits and enriched homotopy theory,1.60698551133943e-06,0.0,1.0,0.0
+math/0504103,Measure homology and singular homology are isometrically isomorphic,1.60698551133943e-06,0.0,1.0,0.0
+math/0007053,Holonomy and parallel transport for Abelian gerbes,1.60698551133943e-06,0.0,1.0,22.0
+math/0204176,Homotopical variations and high-dimensional Zariski-van Kampen theorems,1.60698551133943e-06,0.0,1.0,2.0
+math/0009004,Higher fundamental functors for simplicial sets,1.60698551133943e-06,0.0,1.0,0.0
+math/0110303,"Homotopy Lie algebras, lower central series and the Koszul property",1.60698551133943e-06,0.0,1.0,0.0
+math/0612589,Isomorphisms in l^1-homology,1.60698551133943e-06,0.0,1.0,0.0
+math/0610541,Asymptotic Dimension of Finitely Presented Groups,1.60698551133943e-06,0.0,1.0,1.0
+math/0401282,Configuration space integrals and Taylor towers for spaces of knots,1.6041783585657133e-06,0.0,2.0,3.0
+math/0207281,The Eckman-Hilton argument and higher operads,1.600439551946616e-06,0.0,1.0,10.0
+math/0205132,"The Chiral de Rham Complex and Positivity of the Equivariant Signature
+  of the Loop Space",1.598833896418898e-06,0.0,1.0,0.0
+math/0406130,"Toroidal orbifolds, gerbes and group cohomology",1.5926254440258292e-06,3.97641713689126e-07,1.0,1.0
+math/0103177,"Generalized Orbifold Euler Characteristic of Symmetric Products and
+  Equivariant Morava K-Theory",1.578861860389492e-06,0.0,1.0,0.0
+math/0610291,Adding inverses to diagrams encoding algebraic structures,1.5755615978546045e-06,0.0,2.0,0.0
+math/0401440,Finite type knot invariants and calculus of functors,1.5644469736998411e-06,0.0,1.0,1.0
+math/0506083,Euler Characteristics of Moduli Spaces of Curves,1.5570564043579842e-06,0.0,2.0,2.0
+math/0207010,"Cochain operations defining Steenrod $\cup_i$-products in the bar
+  construction",1.555629279418297e-06,0.0,2.0,1.0
+math/0010025,"Tangential Structures on Toric Manifolds, and Connected Sums of
+  Polytopes",1.552392596171583e-06,0.0,1.0,5.0
+math/0212266,Introduction to the language of stacks and gerbes,1.5493750032839157e-06,0.0,1.0,12.0
+math/0006085,"Topology of billiard problems, II",1.5493750032839157e-06,0.0,1.0,1.0
+math/0205056,A note on Hurwitz schemes of covers of a positive genus curve,1.5493750032839157e-06,0.0,1.0,5.0
+math/0412274,The adjunction problem over torsion-free groups,1.5493750032839157e-06,0.0,1.0,0.0
+math/0006049,"Topology of billiard problems, I",1.5493750032839157e-06,0.0,1.0,1.0
+math/0206094,Axiomatic homotopy theory for operads,1.5435682038045876e-06,1.791164479644065e-05,1.0,10.0
+math/0211229,Duality in Gerstenhaber algebras,1.539031992431592e-06,0.0,3.0,4.0
+math/0111201,A remark on sl_2 approximation of the Kontsevich integral of the unknot,1.5287599632752885e-06,0.0,2.0,0.0
+math/0512596,The Stasheff model of a simply-connected manifold and the string bracket,1.5239914884629914e-06,0.0,3.0,0.0
+hep-th/9409063,Homotopy G-algebras and moduli space operad,1.5186039848991248e-06,0.0,5.0,8.0
+math/9912125,Stratified spaces formed by totally positive varieties,1.5153686542080876e-06,0.0,1.0,0.0
+math/0510180,The classification of 2-compact groups (talk summary),1.5109679979135728e-06,0.0,1.0,1.0
+gr-qc/0609054,Are Causality Violations Undesirable?,1.5109679979135728e-06,0.0,1.0,1.0
+math/0703276,Sur la conjecture des fibres de Seifert,1.5109679979135728e-06,0.0,1.0,0.0
+math/0503376,Symplectic groups are N-determined 2-compact groups,1.5109679979135728e-06,0.0,1.0,2.0
+math/0306234,A finite loop space not rationally equivalent to a compact Lie group,1.5109679979135728e-06,0.0,1.0,0.0
+math/0306238,Closed geodesics on orbifolds,1.5068222749601998e-06,5.970548265480216e-06,1.0,3.0
+math/9810053,General Operads and Multicategories,1.5044037053791298e-06,1.050505500540028e-06,2.0,8.0
+math/9904089,On Homology of Virtual Braids and Burau Representation,1.502630755087756e-06,0.0,2.0,4.0
+math/0106242,Framed discs operads and the equivariant recognition principle,1.4955954982627518e-06,0.0,2.0,4.0
+math/0701916,Homotopy Theory of Orbispaces,1.494382820800654e-06,0.0,2.0,0.0
+math/0009107,Calculating maps between n-categories,1.4914319670433768e-06,0.0,3.0,0.0
+math/0701205,A new Quillen model for the Morita homotopy theory of DG categories,1.488338207412672e-06,0.0,1.0,1.0
+math/0212397,Algebraic topology and modular forms,1.4864744307429977e-06,1.5320383223132277e-06,2.0,1.0
+math/0702417,Orbifold Virtual Cohomology of the Symmetric Product,1.4853276042511916e-06,0.0,1.0,0.0
+math/0110249,Invariants of Boundary Link Cobordism,1.4838775006867449e-06,1.990182755160072e-06,1.0,2.0
+math/0311167,On Davis-Januszkiewicz homotopy types I; formality and rationalisation,1.4835344226490424e-06,0.0,1.0,2.0
+math/0508083,A number-theoretic approach to homotopy exponents of SU(n),1.4835344226490424e-06,0.0,1.0,3.0
+math/0407189,Cellular cochain algebras and torus actions,1.4835344226490424e-06,0.0,1.0,1.0
+math/0102020,A Homotopy Theory of Orbispaces,1.4795423307600494e-06,9.95091377580036e-06,1.0,7.0
+math/0408333,Relative differential characters,1.479293895794563e-06,3.980365510320144e-06,1.0,1.0
+math/0701077,Axiomatic Characterization of Ordinary Differential Cohomology,1.479293895794563e-06,0.0,1.0,0.0
+math/0107151,The mod 2 cohomology of fixed point sets of anti-symplectic involutions,1.4764006638006445e-06,6.948075982216003e-05,1.0,5.0
+math/0311276,Batalin-Vilkovisky algebras and cyclic cohomology of Hopf algebras,1.475514044162468e-06,1.2235461848428985e-07,1.0,1.0
+math/0701309,Poincare duality and commutative differential graded algebras,1.475514044162468e-06,0.0,1.0,0.0
+math/0301130,"Plus-construction for algebras over an operad, cyclic and Hochschild
+  homologies up to homotopy",1.4734060592216668e-06,1.990182755160072e-06,2.0,1.0
+math/0208041,Operads up to Homotopy and Deformations of Operad Maps,1.4734060592216668e-06,0.0,2.0,4.0
+math/0010017,Sur l'homologie des espaces de noeuds non-compacts,1.464902464914881e-06,0.0,3.0,3.0
+math/0310339,"Box complexes, neighborhood complexes, and the chromatic number",1.464759509684764e-06,0.0,1.0,4.0
+math/0312067,On generalised Kneser colourings,1.464759509684764e-06,0.0,1.0,1.0
+math/9812132,"Free crossed resolutions of groups and presentations of modules of
+  identities among relations",1.4629592412006444e-06,0.0,1.0,1.0
+math/0401346,"On Triples, Operads, and Generalized Homogeneous Functors",1.4613449836079574e-06,0.0,1.0,1.0
+math/0309453,"Erratum to ""Homological algebra of homotopy algebras""",1.4613449836079574e-06,0.0,1.0,0.0
+math/0209342,Equivalences of monoidal model categories,1.4613449836079574e-06,0.0,1.0,0.0
+hep-th/0605198,The Uncertainty of Fluxes,1.4473790516183406e-06,6.32249269521995e-10,3.0,6.0
+math/0104023,"Relative completions and the cohomology of linear groups over local
+  rings",1.446956322296335e-06,0.0,1.0,0.0
+math/0306350,"Fiber products, Poincare duality and A_\infty-ring spectra",1.446956322296335e-06,0.0,1.0,5.0
+math/0508189,Highly connected manifolds with positive Ricci curvature,1.446956322296335e-06,0.0,1.0,0.0
+math/9910150,Sheaves on Triangulated Spaces and Koszul Duality,1.446956322296335e-06,0.0,1.0,4.0
+math/0403340,A proof of a cyclic version of Deligne's conjecture via Cacti,1.4403271936550837e-06,1.990182755160072e-06,2.0,7.0
+math/0112106,Cut numbers of 3-manifolds,1.4341539871728873e-06,0.0,1.0,0.0
+math/0508405,"Blanchfield and Seifert algebra in high-dimensional boundary link theory
+  I: Algebraic K-theory",1.4341539871728873e-06,0.0,1.0,0.0
+math/0404132,Bivariant Chern classes and Grothendieck transformations,1.4341539871728873e-06,0.0,1.0,1.0
+math/0210353,The loop homology algebra of spheres and projective spaces,1.431999425993279e-06,0.0,2.0,2.0
+math/0402098,Moduli Spaces and Formal Operads,1.4274341843423163e-06,0.0,1.0,0.0
+math/0611344,The homotopy theory of equivalence relations,1.4255466293600735e-06,0.0,1.0,0.0
+math/0312147,Coloured Koszul duality and strongly homotopy operads,1.4244115957914478e-06,0.0,2.0,5.0
+math/0311185,Virtual strings and their cobordisms,1.420330029294164e-06,0.0,1.0,8.0
+math/0310218,Virtual strings,1.420330029294164e-06,0.0,1.0,2.0
+math/0002130,Ideal Perturbation Lemma,1.4123505201777383e-06,0.0,1.0,2.0
+math/0003065,Every homotopy theory of simplicial algebras admits a proper model,1.4095934788711584e-06,0.0,1.0,0.0
+math/9906032,Berikashvili's functor D and the deformation equation,1.4031559793502274e-06,0.0,2.0,4.0
+math/0011178,"Cycles, submanifolds, and structures on normal bundles",1.4015356801157457e-06,2.9852247901815926e-10,3.0,2.0
+math/0201116,Gerbes and homotopy quantum field theories,1.3910238877265783e-06,0.0,2.0,7.0
+math/0212385,"On the connection between affine and projective fundamental groups of
+  line arrangements and curves",1.3909461061312514e-06,0.0,1.0,0.0
+math/0410363,Some analogs of Zariski's Theorem on nodal line arrangements,1.3909461061312514e-06,0.0,1.0,0.0
+math/0503247,Foundations of Topological Stacks I,1.3909461061312514e-06,0.0,1.0,9.0
+math/9805061,On the fundamental group and triple Massey's product,1.3909461061312514e-06,0.0,1.0,1.0
+math/0107192,$\pi_1$-classification of real arrangements with up to eight lines,1.3909461061312514e-06,0.0,1.0,0.0
+math/9810046,"Intersection cohomology of $S^1$ symplectic quotients and small
+  resolutions",1.3875407043693418e-06,0.0,1.0,0.0
+math/0104285,"2-Categories, 4d state-sum models and gerbes",1.3815762002882734e-06,0.0,1.0,0.0
+math/0409214,"Characteristic classes of foliated surface bundles with area-preserving
+  holonomy",1.36502137750627e-06,0.0,1.0,1.0
+math/0410080,Moduli spaces of homotopy theory,1.36502137750627e-06,0.0,1.0,0.0
+math/0601750,Surfaces in a background space and the homology of mapping class groups,1.36502137750627e-06,0.0,1.0,1.0
+math/0411080,The topology of the category of open and closed strings,1.36502137750627e-06,0.0,1.0,8.0
+math/9903154,Hodge theory and $A_{\infty}$ structures on cohomology,1.36502137750627e-06,0.0,1.0,0.0
+math/0505009,Mod 2 homology of the stable spin mapping class group,1.36502137750627e-06,0.0,1.0,1.0
+math/0301180,A generalization of the topological Brauer group,1.3600833339586544e-06,0.0,1.0,0.0
+math/0112177,Brace algebras and the cohomology comparison theorem,1.3575397722766511e-06,0.0,2.0,0.0
+math/0604508,The Noncommutative Geometry Generalization of Fundamental Group,1.3554904057237695e-06,0.0,1.0,0.0
+math/0410367,On the Multiplicative Structure of Topological Hochschild Homology,1.3454786966629416e-06,2.5872375817080932e-05,1.0,3.0
+math/0110247,A Homotopy Theory for Stacks,1.345119565632547e-06,0.0,1.0,11.0
+math/0407014,Frobenius Rational Loop Algebra,1.3349358899661683e-06,0.0,1.0,2.0
+math/0512658,Orbifold String Topology,1.3349358899661683e-06,0.0,1.0,7.0
+math/0511181,String topology of Poincare duality groups,1.3349358899661683e-06,0.0,1.0,2.0
+math/0107187,A homotopy theoretic realization of string topology,1.3349358899661683e-06,0.0,1.0,12.0
+math/0703404,"Batalin-Vilkovisky Lie Algebra Structure on the Loop Homology of Complex
+  Stiefel Manifolds",1.3349358899661683e-06,0.0,1.0,0.0
+math/0006147,Generating Functional in CFT on Riemann Surfaces II: Homological Aspects,1.3323714695360017e-06,9.578547432210183e-08,1.0,4.0
+math/0405330,On the structure of cofree Hopf algebras,1.330994046675568e-06,0.0,1.0,8.0
+math/0108027,Infinity-Inner-Products on A-Infinity-Algebras,1.330994046675568e-06,0.0,1.0,10.0
+math/0102053,Dialgebras,1.330994046675568e-06,0.0,1.0,13.0
+math/0204079,Noether's variational theorem II and the BV formalism,1.3296488021078812e-06,9.84236371069571e-06,1.0,7.0
+math/0405393,On the Topological Tverberg Theorem,1.3189329710618589e-06,0.0,0.0,1.0
+math/0611158,Simple Homotopy Types and Finite Spaces,1.3189329710618589e-06,0.0,0.0,1.0
+math/9712248,"Orbifold Euler characteristics and the number of commuting n-tuples in
+  symmetric groups",1.3189329710618589e-06,0.0,0.0,1.0
+math/9801082,Algebras and modules in monoidal model categories,1.3189329710618589e-06,0.0,0.0,2.0
+math/0601221,Calculus of functors and model categories,1.3189329710618589e-06,0.0,0.0,1.0
+math/0606116,Local indicability and commutator subgroups of Artin groups,1.3189329710618589e-06,0.0,0.0,1.0
+math/0509053,Manifolds homotopy equivalent to P^n # P^n,1.3189329710618589e-06,0.0,0.0,1.0
+math/0106135,On formality of generalised symmetric spaces,1.3189329710618589e-06,0.0,0.0,1.0
+math/0512258,"The homotopy type of the complement of the codimension-two coordinate
+  subspace arrangement",1.3189329710618589e-06,0.0,0.0,1.0
+math/0201212,Lectures on controlled topology: mapping cylinder neighborhoods,1.3189329710618589e-06,0.0,0.0,1.0
+math/0403100,Intersection cohomology of circle actions,1.3189329710618589e-06,0.0,0.0,1.0
+math/0112178,"On the lower bounds for the number of periodic billiard trajectories in
+  manifolds embedded in Euclidean space",1.3189329710618589e-06,0.0,0.0,1.0
+math/0202262,"Formes differentielles generalisees sur une operade et modeles
+  algebriques des fibrations",1.3189329710618589e-06,0.0,0.0,1.0
+math/0610730,Partialization of categories and inverse braid-permutation monoid,1.3189329710618589e-06,0.0,0.0,1.0
+math/0610907,"Iterated homotopy fixed points for the Lubin-Tate spectrum, with an
+  Appendix: An example of a discrete G-spectrum that is not hyperfibrant",1.3189329710618589e-06,0.0,0.0,1.0
+math/0004058,Embedding obstructions and 4-dimensional thickenings of 2-complexes,1.3189329710618589e-06,0.0,0.0,1.0
+math/0303015,On the cohomology of the holomorph of a finite cyclic group,1.3189329710618589e-06,0.0,0.0,1.0
+math/0408335,"Braid Monodromy Type and Rational Transformations of Plane Algebraic
+  Curves",1.3189329710618589e-06,0.0,0.0,1.0
+math/9806168,Flag manifolds and the Landweber-Novikov algebra,1.3189329710618589e-06,0.0,0.0,1.0
+math/9811037,A model for the homotopy theory of homotopy theory,1.3189329710618589e-06,0.0,0.0,1.0
+math/0305173,Multiplicative structures on homotopy spectral sequences I,1.3189329710618589e-06,0.0,0.0,1.0
+math/9909081,"Calculation of Hirzebruch genera for manifolds acted on by the group Z/p
+  via invariants of the action",1.3189329710618589e-06,0.0,0.0,2.0
+math/9912085,TQFT - a new direction in algebraic topology,1.3189329710618589e-06,0.0,0.0,1.0
+math/9801079,Symmetric ring spectra and topological Hochschild homology,1.3189329710618589e-06,0.0,0.0,1.0
+math/9811038,Fibrations and homotopy colimits of simplicial sheaves,1.3189329710618589e-06,0.0,0.0,2.0
+math/0305418,"Fundamental groups of Tangent Conic-Line arrangements with Singularities
+  up to order 6",1.3189329710618589e-06,0.0,0.0,1.0
+math/0509409,"Multiplicity of complex hypersurface singularities, Rouche' satellites
+  and Zariski's problem",1.3189329710618589e-06,0.0,0.0,1.0
+math/0509514,Peripherally specified homomorphs of link groups,1.3189329710618589e-06,0.0,0.0,1.0
+math/0310444,A Constructive Proof of Ky Fan's Generalization of Tucker's Lemma,1.3189329710618589e-06,0.0,0.0,1.0
+math/0603748,Hurewicz-Serre Theorem in extension theory,1.3189329710618589e-06,0.0,0.0,1.0
+math/0401351,"Local braid monodromies and local fundamental groups of tangented
+  conic-line arrangements",1.3189329710618589e-06,0.0,0.0,1.0
+math/0605415,"Modular Invariance and Twisted Anomaly Cancellations of Characteristic
+  Numbers",1.3189329710618589e-06,0.0,0.0,1.0
+math/0502184,Stably dualizable groups,1.3189329710618589e-06,0.0,0.0,1.0
+math/0112006,"Orbispaces and Orbifolds from the Point of View of the Borel
+  Construction, a new Definition",1.3189329710618589e-06,0.0,0.0,1.0
+math/0301192,Presentations of the first homotopy groups of the unitary groups,1.3189329710618589e-06,0.0,0.0,1.0
+math/0010061,The homology of iterated loop spaces,1.3189329710618589e-06,0.0,0.0,1.0
+math/0102069,Operads and Algebraic Homotopy II. Suspensions,1.3189329710618589e-06,0.0,0.0,1.0
+math/0209215,HZ-algebra spectra are differential graded algebras,1.3189329710618589e-06,0.0,0.0,2.0
+math/0008192,The Witten genus and equivariant elliptic cohomology,1.3189329710618589e-06,0.0,0.0,2.0
+math/9906191,Complex vector bundles and Jacobi forms,1.3189329710618589e-06,0.0,0.0,3.0
+math/0510247,Duality in algebra and topology,1.3189329710618589e-06,0.0,0.0,1.0
+math/0602107,"Enriched model categories and an application to additive endomorphism
+  spectra",1.3189329710618589e-06,0.0,0.0,1.0
+math/0011109,K(n)-local duality for finite groups and groupoids,1.3189329710618589e-06,0.0,0.0,1.0
+math/0606144,A-infinity structure on Ext-algebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/0002136,On Krammer's Representation of the Braid Group,1.3189329710618589e-06,0.0,0.0,3.0
+math/0405502,Knot theory in handlebodies,1.3189329710618589e-06,0.0,0.0,1.0
+math/0505391,Massey Products of Complex Hypersurface Complements,1.3189329710618589e-06,0.0,0.0,1.0
+math/0502506,Boundary manifolds of projective hypersurfaces,1.3189329710618589e-06,0.0,0.0,1.0
+math/0111223,Pseudohomology and homology,1.3189329710618589e-06,0.0,0.0,1.0
+math/0703587,The simplicial volume of closed manifolds covered by H^2 x H^2,1.3189329710618589e-06,0.0,0.0,1.0
+math/0403413,Chow rings and cobordism of some Chevalley groups,1.3189329710618589e-06,0.0,0.0,1.0
+math/0202081,"Colimits, Stanley-Reisner algebras, and loop spaces",1.3189329710618589e-06,0.0,0.0,1.0
+math/0405232,"Komplexe elliptische Geschlechter und S^1-aequivariante
+  Kobordismustheorie (Complex elliptic genera and S^1-equivariant cobordism
+  theory)",1.3189329710618589e-06,0.0,0.0,1.0
+math/0507501,On the connectivity of some complete intersections,1.3189329710618589e-06,0.0,0.0,1.0
+math/0501304,"The unstable integral homology of the mapping class groups of a surface
+  with boundary",1.3189329710618589e-06,0.0,0.0,1.0
+math/0104240,"Filtered Topological Cyclic Homology and relative K-theory of nilpotent
+  ideals",1.3189329710618589e-06,0.0,0.0,2.0
+math/0410358,Local surgery formulas for quantum invariants and the Arf invariant,1.3189329710618589e-06,0.0,0.0,1.0
+math/9911132,Massey products in symplectic manifolds,1.3189329710618589e-06,0.0,0.0,3.0
+math/0606023,Coincidence free pairs of maps,1.3189329710618589e-06,0.0,0.0,2.0
+math/0204291,"C*-categories, Groupoid Actions, Equivariant KK-theory, and the
+  Baum-Connes Conjecture",1.3189329710618589e-06,0.0,0.0,1.0
+math/0504437,On the homology theory of fibre spaces,1.3189329710618589e-06,0.0,0.0,1.0
+math/0605074,Algebraic Topology of Calabi-Yau Threefolds in Toric Varieties,1.3189329710618589e-06,0.0,0.0,1.0
+math/9904026,Groups of Flagged Homotopies and Higher Gauge Theory,1.3189329710618589e-06,0.0,0.0,1.0
+math/0609641,Generalized Artin and Brauer induction for compact Lie groups,1.3189329710618589e-06,0.0,0.0,2.0
+math/0305317,Homotopy theory of coalgebras over operads,1.3189329710618589e-06,0.0,0.0,1.0
+math/0508536,Topological Quandles and Invariants of Links,1.3189329710618589e-06,0.0,0.0,1.0
+math/0011037,Braided Near-group Categories,1.3189329710618589e-06,0.0,0.0,1.0
+math/0606202,Gerstenhaber structure and Deligne's conjecture for Loday algebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/0604442,Batanin higher groupoids and homotopy types,1.3189329710618589e-06,0.0,0.0,1.0
+math/0503004,"Vector fields, torus actions and equivariant cohomology",1.3189329710618589e-06,0.0,0.0,1.0
+math/0307087,Chen Lie algebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/0611239,Equivariant embedding of metrizable $G$-spaces in linear $G$-spaces,1.3189329710618589e-06,0.0,0.0,1.0
+math/0210231,Biquotients with singly generated rational cohomology,1.3189329710618589e-06,0.0,0.0,1.0
+math/0008071,An introduction to algebraic surgery,1.3189329710618589e-06,0.0,0.0,1.0
+math/0402226,Secondary Characteristic Classes of Surface Bundles,1.3189329710618589e-06,0.0,0.0,1.0
+math/0008228,Algebraic Poincare cobordism,1.3189329710618589e-06,0.0,0.0,1.0
+math/0502359,Extension of p-local finite groups,1.3189329710618589e-06,0.0,0.0,1.0
+math/0502092,Classifying spectra of saturated fusion systems,1.3189329710618589e-06,0.0,0.0,1.0
+math/0608319,Extended manifolds and extended equivariant cohomology,1.3189329710618589e-06,0.0,0.0,1.0
+math/0110138,On representations and K-theory of the braid groups,1.3189329710618589e-06,0.0,0.0,1.0
+math/0602111,"A remark on the virtual homotopical dimension of some moduli spaces of
+  stable Riemann surfaces",1.3189329710618589e-06,0.0,0.0,1.0
+math/0212018,"Euclidean simplices and invariants of three-manifolds: a modification of
+  the invariant for lens spaces",1.3189329710618589e-06,0.0,0.0,4.0
+math/0005205,Absolute non-Archimedean polyhedral expansions of ultrauniform spaces,1.3189329710618589e-06,0.0,0.0,2.0
+math/0510490,A note on the composition product of symmetric sequences,1.3189329710618589e-06,0.0,0.0,2.0
+math/0512165,Classification of braids which give rise to interchange,1.3189329710618589e-06,0.0,0.0,2.0

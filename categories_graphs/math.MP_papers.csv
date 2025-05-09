@@ -1,0 +1,1382 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+hep-th/0608210,Loop Quantum Gravity: An Inside View,0.000170832550236,2.059152746917385e-05,137.0,11.0
+hep-th/0608202,"Numerical simulations of a non-commutative theory: the scalar model on
+  the fuzzy sphere",0.0001494169424672,2.7492237378831444e-06,89.0,3.0
+hep-th/0701175,Matrix Models and QCD with Chemical Potential,0.0001310386803873,1.990182755160072e-06,113.0,1.0
+hep-th/0611013,On supertwistor geometry and integrability in super gauge theory,0.000115236965844,0.0,156.0,0.0
+hep-th/0701191,"Nonlinear Aspects of the Renormalization Group Flows of Dyson's
+  Hierarchical Model",0.0001056324348334,2.024203556709627e-06,55.0,2.0
+math-ph/0510059,Quaternions in mathematical physics (1): Alphabetical bibliography,0.000101242345761,0.0009987162836622,71.0,4.0
+math-ph/0511092,Quaternions in mathematical physics (2): Analytical bibliography,9.702846004843378e-05,0.0009967401628088,71.0,3.0
+math-ph/0703019,"Integrable Structure of Ginibre's Ensemble of Real Random Matrices and a
+  Pfaffian Integration Theorem",9.689213738909653e-05,0.0,2.0,0.0
+hep-th/0306138,Heat kernel expansion: user's manual,8.921083380956964e-05,0.0004847181473103,162.0,54.0
+hep-th/0701279,Toward logarithmic extensions of ^sl(2)_k conformal field models,8.77919055187827e-05,0.0,46.0,0.0
+hep-th/0504001,Noncommutative Solitons and Integrable Systems,7.513055205141025e-05,0.0006833984826726,145.0,6.0
+quant-ph/0702069,Entanglement of Gaussian states,7.087483376295203e-05,6.911855839937879e-07,45.0,1.0
+quant-ph/0701221,"Entanglement in continuous variable systems: Recent advances and current
+  perspectives",6.902398812265861e-05,2.498256512854964e-05,20.0,4.0
+hep-th/0601209,Noncommutative Ward's Conjecture and Integrable Systems,6.824987383754181e-05,4.48560190223604e-06,53.0,3.0
+hep-th/0612182,Axiomatic classical (prequantum) field theory. Jet formalism,6.402688533830955e-05,0.0,41.0,0.0
+hep-th/0609205,"Quantum Field Theory in a Non-Commutative Space: Theoretical Predictions
+  and Numerical Results on the Fuzzy Sphere",6.180775171502805e-05,7.018936630258243e-07,79.0,3.0
+hep-th/0412080,"Spin half fermions with mass dimension one: theory, phenomenology, and
+  dark matter",6.082563793027488e-05,7.084128810220009e-05,84.0,10.0
+astro-ph/0610092,"Crossing the Phantom Divide: Theoretical Implications and Observational
+  Status",5.964230817116274e-05,0.0013847767352818,122.0,20.0
+hep-th/0610006,"Notes on Exact Multi-Soliton Solutions of Noncommutative Integrable
+  Hierarchies",5.9204584888683565e-05,3.832204317517092e-06,31.0,3.0
+math-ph/0610024,"Non-linear Supersymmetry for non-Hermitian, non-diagonalizable
+  Hamiltonians: I. General properties",5.861393341719914e-05,3.470755954416184e-07,9.0,1.0
+math/0503507,Advanced Determinant Calculus: A Complement,5.760414364075261e-05,2.1322375286169986e-05,57.0,5.0
+cond-mat/0304363,Random matrix theory and symmetric spaces,5.707766058986665e-05,7.082954942172007e-06,83.0,9.0
+hep-th/0509163,From Loop Space Mechanics to Nonabelian Strings,5.7057213152472085e-05,4.579171588993162e-05,126.0,5.0
+gr-qc/0703006,Can f(R) Modified Gravity Theories Mimic a LCDM Cosmology?,5.5200077546333545e-05,9.149259285245284e-07,63.0,3.0
+math-ph/0702045,Invariants of algebraic curves and topological expansion,5.457229660225026e-05,2.313873095702476e-07,46.0,2.0
+quant-ph/0609071,"Optical state engineering, quantum communication, and robustness of
+  entanglement promiscuity in three-mode Gaussian states",5.377908440475896e-05,0.0,6.0,2.0
+math-ph/0610022,"Non-linear Supersymmetry for non-Hermitian, non-diagonalizable
+  Hamiltonians: II. Rigorous results",5.369724942158053e-05,0.0,4.0,1.0
+hep-th/0610311,"Parasupersymmetry and N-fold Supersymmetry in Quantum Many-Body Systems
+  I. General Formalism and Second Order",5.322860540333513e-05,1.2186976486495636e-07,31.0,2.0
+hep-th/0607232,Logarithmic Minimal Models,5.311199548224967e-05,1.8039432446406976e-06,43.0,6.0
+hep-th/0701144,Electric-magnetic Duality and Deformations of Three-Dimensional CFT's,5.307920025698458e-05,0.0,46.0,0.0
+hep-th/0703205,A Variational Formulation of Symplectic Noncommutative Mechanics,5.298876642975909e-05,0.0,16.0,0.0
+nucl-th/0701041,Spectral convexity for attractive SU(2N) fermions,5.227366139057049e-05,0.0,33.0,0.0
+math-ph/0702034,H = x p with interaction and the Riemann zeros,5.202224370334766e-05,0.0,23.0,0.0
+physics/0603024,"Applying Free Random Variables to Random Matrix Analysis of Financial
+  Data. Part I: A Gaussian Case",5.156170475646394e-05,2.768533233086758e-06,34.0,1.0
+gr-qc/0110034,Introduction to Modern Canonical Quantum General Relativity,4.971829053364679e-05,0.000917367405873,220.0,232.0
+hep-th/0003190,"A Collection of Exercises in Two-Dimensional Physics, Part 1",4.926360093773162e-05,2.5619240618061808e-05,78.0,11.0
+hep-th/0502134,The Cocycle of the Quantum HJ Equation and the Stress Tensor of CFT,4.8593131874039263e-05,4.118284273356369e-06,28.0,3.0
+astro-ph/0612487,"Construction of Exact Solutions in Two-Fields Models and the Crossing of
+  the Cosmological Constant Barrier",4.7858656739313446e-05,1.6885654545341933e-06,70.0,6.0
+quant-ph/0609178,"Coexistence of unlimited bipartite and genuine multipartite
+  entanglement: Promiscuous quantum correlations arising from discrete to
+  continuous variable systems",4.720848124746504e-05,1.852810879226397e-05,5.0,4.0
+hep-th/0611032,Transgression Forms and Abelian Semigroups in Supergravity,4.710024008550618e-05,0.0,50.0,0.0
+hep-th/0702110,Holomorphic anomaly and matrix models,4.7034436886119794e-05,3.143534129920015e-07,26.0,3.0
+math-ph/0506022,"Multisymplectic Lagrangian and Hamiltonian Formalisms of Classical Field
+  Theories",4.485883439832006e-05,2.9461111295572508e-06,41.0,2.0
+hep-th/0507112,On Reductions of Noncommutative Anti-Self-Dual Yang-Mills Equations,4.458398188783126e-05,6.482539629156823e-07,57.0,3.0
+math-ph/0602049,2D growth processes: SLE and Loewner chains,4.390118579137464e-05,3.675037490948991e-05,79.0,9.0
+cond-mat/0610550,Critical curves in conformally invariant statistical systems,4.363563524831063e-05,0.0,24.0,0.0
+math-ph/0201058,The physical heritage of Sir W.R. Hamilton,4.362501234257725e-05,0.0019895148122174,14.0,10.0
+hep-th/0610173,Casimir piston for massless scalar fields in three dimensions,4.342001359925139e-05,2.508028281639844e-06,6.0,3.0
+hep-th/0608225,"Hidden Symmetries and Integrable Hierarchy of the N=4 Supersymmetric
+  Yang-Mills Equations",4.341887052603366e-05,0.0,54.0,1.0
+math-ph/0703041,"The spherically symmetric alpha2-dynamo and some of its spectral
+  peculiarities",4.335022354711507e-05,0.0,24.0,0.0
+cond-mat/0104072,"""Single Ring Theorem"" and the Disk-Annulus Phase Transition",4.2616322036767295e-05,1.990182755160072e-06,51.0,1.0
+physics/0603186,"Spectral properties of empirical covariance matrices for data with
+  power-law tails",4.224746774459584e-05,7.783504779266857e-07,4.0,3.0
+hep-th/0511085,"Dimensional Reduction of Seiberg-Witten Monopole Equations, N=2
+  Noncommutative Supersymmetric Field Theories and Young Diagrams",4.204623012319961e-05,0.0001144544477084,58.0,1.0
+hep-th/0602145,Duality-Symmetric Approach to General Relativity and Supergravity,4.191113928181095e-05,2.5831113007864047e-06,67.0,2.0
+cond-mat/0303207,Developments in Random Matrix Theory,4.160142971296562e-05,0.0010170513923027,42.0,3.0
+math-ph/0608053,Conformal Random Geometry,4.141966285305428e-05,3.8528380551257694e-06,101.0,1.0
+math/0701010,Hopf algebras in dynamical systems theory,4.12218618226872e-05,8.607995686492974e-07,9.0,1.0
+cond-mat/0606211,Thermodynamic formalism for systems with Markov dynamics,4.068421786170623e-05,7.903778890706461e-06,25.0,4.0
+hep-th/0701041,Localization for Yang-Mills Theory on the Fuzzy Sphere,4.033180401764567e-05,5.019648800542587e-06,42.0,3.0
+quant-ph/0703277,"Strong Monogamy of Bipartite and Genuine Multipartite Entanglement: The
+  Gaussian Case",4.008789908415268e-05,1.527454408018397e-05,4.0,1.0
+math-ph/0607019,"Properties of probability measures on the set of quantum states and
+  their applications",3.990394346929994e-05,4.706859817682484e-06,7.0,1.0
+hep-th/0703017,Expansions of algebras and superalgebras and some applications,3.9762147100728194e-05,1.297900243134945e-07,32.0,1.0
+hep-th/0609059,"A new Chiral Two-Matrix Theory for Dirac Spectra with Imaginary Chemical
+  Potential",3.950498802364116e-05,2.895995529844086e-06,46.0,5.0
+math-ph/0207041,"Entropy production rates of bistochastic strictly contractive quantum
+  channels on a matrix algebra",3.84056369936268e-05,1.990182755160072e-06,1.0,1.0
+quant-ph/0207045,A discrete and finite approach to past proper time,3.799946818088913e-05,1.990182755160072e-06,33.0,1.0
+math-ph/0304020,Discrete Painlev\'e equations and random matrix averages,3.74083328952101e-05,5.56543882296302e-06,8.0,2.0
+hep-th/0611008,N-fold Parasupersymmetry,3.725568643909218e-05,0.0,12.0,0.0
+math/0611184,Parametrization of semi-dynamical quantum reflection algebra,3.724711774197275e-05,0.0,8.0,0.0
+hep-th/0606196,"Logarithmic extensions of minimal models: characters and modular
+  transformations",3.663440109544448e-05,8.409073700616251e-07,33.0,1.0
+math-ph/0607046,"Stochastic geometry of critical curves, Schramm-Loewner evolutions, and
+  conformal field theory",3.647444819909739e-05,1.389716169614952e-07,59.0,1.0
+cond-mat/0401026,Spanning forests and the q-state Potts model in the limit q \to 0,3.621655729367743e-05,1.6397342622371368e-05,49.0,10.0
+hep-th/0608087,Abelian gerbes as a gauge theory of quantum mechanics on phase space,3.603445919329771e-05,1.960762254053502e-06,15.0,2.0
+math-ph/0702088,Exact propagators for SUSY partners,3.572119978034615e-05,0.0,10.0,0.0
+math/0408390,"Two linear transformations each tridiagonal with respect to an
+  eigenbasis of the other; an algebraic approach to the Askey scheme of
+  orthogonal polynomials",3.566051068024529e-05,1.5914436943862823e-05,23.0,12.0
+math-ph/0702007,Variational equations on mixed Riemannian-Lorentzian metrics,3.553489215421548e-05,0.0,2.0,0.0
+gr-qc/0508023,"Clifford and Riemann-Finsler Structures in Geometric Mechanics and
+  Gravity",3.5480423372549366e-05,2.2523161642858032e-05,46.0,14.0
+math-ph/0610073,"Orders and dimensions for sl(2) or sl(3) module categories and Boundary
+  Conformal Field Theories on a torus",3.541644471381281e-05,0.0,21.0,0.0
+hep-th/0612298,"Pseudo-differential equations, and the Bethe Ansatz for the classical
+  Lie algebras",3.485818278388578e-05,4.29508955073296e-06,41.0,2.0
+math-ph/0507062,"Spin Calogero models obtained from dynamical r-matrices and geodesic
+  motion",3.426762164836593e-05,5.51662611871847e-06,28.0,5.0
+math-ph/0611050,"On the Construction of Quantum Field Theories with Factorizing
+  S-Matrices",3.398814045991588e-05,0.0,36.0,0.0
+hep-th/0512054,D-Branes in Noncommutative Field Theory,3.348431519266386e-05,1.7705373198328317e-05,79.0,6.0
+hep-th/0503040,"Infinite-dimensional representations of the rotation group and Dirac's
+  monopole problem",3.346501018852585e-05,2.704794259531393e-07,23.0,1.0
+math-ph/0501069,"MHD alpha^2-dynamo, Squire equation and PT-symmetric interpolation
+  between square well and harmonic oscillator",3.2687250390917074e-05,3.576220582223331e-05,49.0,8.0
+math-ph/0703015,"Quantum Knizhnik-Zamolodchikov Equation, Totally Symmetric
+  Self-Complementary Plane Partitions and Alternating Sign Matrices",3.261828922285042e-05,0.0,16.0,0.0
+math-ph/0703048,"Conservation Laws and Hamilton's Equations for Systems with Long-Range
+  Interaction and Memory",3.228056074218865e-05,0.0,15.0,0.0
+hep-th/0109162,Quantum Field Theory on Noncommutative Spaces,3.216292833367945e-05,0.0023302478754585,245.0,345.0
+hep-th/0612186,Star products on generalised complex manifolds,3.208124204949647e-05,0.0,6.0,0.0
+hep-th/0703052,Dual oscillators and Quantum Pendulums: spectrum and correlators,3.175464885779325e-05,0.0,2.0,0.0
+math-ph/0703085,PT Symmetry on the Lattice: The Quantum Group Invariant XXZ Spin-Chain,3.175464885779325e-05,0.0,2.0,0.0
+math/0610037,Handbook of normal frames and coordinates,3.167348691249005e-05,2.6535770068800902e-06,28.0,1.0
+math-ph/0703087,"The Rotor Model with spectral parameters and enumerations of Alternating
+  Sign Matrices",3.1568783353068644e-05,0.0,21.0,0.0
+math-ph/0610018,A Complete Renormalization Group Trajectory Between Two Fixed Points,3.1546452209529994e-05,0.0,1.0,1.0
+math-ph/0607007,"Skew-orthogonal polynomials, differential systems and random matrix
+  theory",3.0980166002023825e-05,1.9842419111148184e-06,10.0,1.0
+hep-th/0605035,"General Aspects of PT-Symmetric and P-Self-Adjoint Quantum Theory in a
+  Krein Space",3.076121598265733e-05,9.854685064134128e-06,35.0,6.0
+hep-th/0701284,Quantization of the Riemann Zeta-Function and Cosmology,3.0195277160457743e-05,3.578789955445424e-07,23.0,1.0
+nlin/0701052,"With a Cole-Hopf transformation to solutions of the noncommutative KP
+  hierarchy in terms of Wronski matrices",2.998483237816832e-05,0.0,6.0,0.0
+quant-ph/0510234,"Quantization of the canonically conjugate pair angle and orbital angular
+  momentum",2.991114289730689e-05,5.721351075081976e-06,7.0,5.0
+hep-th/0703147,"Supersymmetric Bethe Ansatz and Baxter Equations from Discrete Hirota
+  Dynamics",2.9879606867948634e-05,0.0,26.0,0.0
+hep-th/0405182,Solitons with Isospin,2.9779049773420324e-05,1.0425038829411972e-08,17.0,1.0
+hep-th/0411267,"On the Classification of Asymptotic Quasinormal Frequencies for
+  d-Dimensional Black Holes and Quantum Gravity",2.974591754378078e-05,0.0002306259426613,96.0,42.0
+hep-th/0304257,Superconformal mechanics and nonlinear supersymmetry,2.9503188847611413e-05,9.185821192895296e-06,42.0,5.0
+hep-th/0610317,"Bosonized supersymmetry of anyons and supersymmetric exotic particle on
+  the non-commutative plane",2.9218520050792185e-05,7.204098055205758e-06,19.0,1.0
+math/0701223,The fusion algebra of bimodule categories,2.921390554343968e-05,1.9827567001035044e-06,22.0,1.0
+math/0703231,"Sasakian Geometry, Holonomy, and Supersymmetry",2.9110199899309715e-05,5.264743353128829e-07,14.0,1.0
+gr-qc/0412012,Geons with spin and charge,2.901497513775922e-05,1.8745370512068093e-06,69.0,2.0
+math-ph/0611036,"A globally diagonalizable alpha^2-dynamo operator, SUSY QM and the Dirac
+  equation",2.883711557079506e-05,1.2654032284563352e-06,5.0,2.0
+hep-th/0510268,"Extension of the Poincar\'e Symmetry and Its Field Theoretical
+  Implementation",2.856637996197041e-05,0.0,21.0,0.0
+cond-mat/0510458,"Nonlinear Integral Equations and high temperature expansion for the
+  $U_{q}(\hat{sl}(r+1|s+1))$ Perk-Schultz Model",2.8515522974251867e-05,2.0311374487970413e-06,30.0,2.0
+hep-th/0411030,"Unquenched QCD Dirac Operator Spectra at Nonzero Baryon Chemical
+  Potential",2.8302922308024897e-05,1.844147736739832e-05,72.0,14.0
+math-ph/0610049,"Correlation Functions of Harish-Chandra Integrals over the Orthogonal
+  and the Symplectic Groups",2.8297730867040916e-05,0.0,13.0,0.0
+hep-th/0612263,"Parasupersymmetry and N-fold Supersymmetry in Quantum Many-Body Systems
+  II. Third Order",2.8194144046471367e-05,0.0,9.0,1.0
+cond-mat/0702271,On $Q$-operators of XXZ Spin Chain of Higher Spin,2.7987909661914755e-05,0.0,19.0,0.0
+math/0501040,The Kontsevich integral,2.7927216380806904e-05,0.0,7.0,0.0
+math-ph/0703030,Complex WKB Analysis of a PT Symmetric Eigenvalue Problem,2.7854030242884743e-05,0.0,6.0,0.0
+hep-th/0703208,"The Orbifolds of Permutation-Type as Physical String Systems at
+  Multiples of c=26 II. The Twisted BRST Systems of \hatc=52 Matter",2.7842198733176835e-05,0.0,20.0,0.0
+math-ph/0603017,Quantum Spin Systems after DLS1978,2.7829722630458016e-05,0.0,17.0,0.0
+hep-th/0607033,Physics and Mathematics of Calogero particles,2.7778336262898505e-05,3.1935319537230444e-06,37.0,5.0
+gr-qc/0505032,On (Cosmological) Singularity Avoidance in Loop Quantum Gravity,2.7505076488148404e-05,6.584010359147534e-05,73.0,23.0
+math/0610592,A Riemann-Hilbert problem for skew-orthogonal polynomials,2.738625506090769e-05,0.0,5.0,1.0
+math/0503607,"The multivariate Tutte polynomial (alias Potts model) for graphs and
+  matroids",2.7231946907233746e-05,1.4807168901033344e-05,20.0,11.0
+math/0504010,"Links between connections, parallel transports, and transports along
+  paths in differentiable fibre bundles",2.7170572196223504e-05,6.633942517200226e-07,8.0,2.0
+hep-th/0605104,Hidden supersymmetry in quantum bosonic systems,2.715396439815789e-05,5.213915300045686e-06,1.0,3.0
+hep-th/0612240,"All order epsilon-expansion of Gauss hypergeometric functions with
+  integer and half/integer values of parameters",2.715298085826005e-05,0.0,44.0,0.0
+hep-th/0202077,Nonlinear Holomorphic Supersymmetry on Riemann Surfaces,2.6796526841133693e-05,8.30330479912582e-06,41.0,6.0
+hep-th/0304178,Can Renormalization Group Flow End in a Big Mess?,2.667207359264033e-05,0.000123313501793,70.0,13.0
+nlin/0601007,Lax Integrable Supersymmetric Hierarchies on Extented Phase Spaces,2.6559194505291066e-05,0.0,1.0,0.0
+quant-ph/0603170,Supersymmetric Biorthogonal Quantum Systems,2.651513499510356e-05,1.2170933579680675e-06,36.0,2.0
+hep-th/0610082,"Conversion of second class constraints by deformation of Lagrangian
+  local symmetries",2.6431911823363283e-05,1.9430484898793133e-06,4.0,1.0
+quant-ph/0602177,Nonlinear Pseudo-Supersymmetry in the Framework of N-fold Supersymmetry,2.6415753979830133e-05,8.535887644292904e-06,26.0,4.0
+math-ph/0610067,"Loop model with mixed boundary conditions, qKZ equation and alternating
+  sign matrices",2.6407504918781376e-05,4.37353821736608e-07,23.0,1.0
+hep-th/0702152,"Invariant Differential Operators for Non-Compact Lie Groups: Parabolic
+  Subalgebras",2.628704521895048e-05,0.0,11.0,0.0
+math/0601054,A walk in the noncommutative garden,2.623648238751134e-05,2.87634301878181e-05,30.0,11.0
+hep-th/0607146,"Triangulated Surfaces in Twistor Space: A Kinematical Set up for
+  Open/Closed String Duality",2.6181640065888172e-05,4.0671422144657856e-06,23.0,2.0
+math-ph/0307044,Mathematics of the Quantum Zeno Effect,2.61452811850518e-05,2.0978605534803e-06,25.0,2.0
+gr-qc/0210094,Lectures on Loop Quantum Gravity,2.613478620109005e-05,0.0001846140022864,140.0,101.0
+cond-mat/0702377,A symmetry principle for Topological Quantum Order,2.6012945790067054e-05,6.612540766820622e-06,12.0,2.0
+hep-th/0501062,"Generalized complex geometry, generalized branes and the Hitchin sigma
+  model",2.5978356681084588e-05,2.4384351633345907e-05,36.0,26.0
+math/0509532,Homological Quantum Field Theory,2.587551894649269e-05,5.970548265480216e-06,13.0,3.0
+math/0702598,Nonholonomic Ricci Flows: II. Evolution Equations and Dynamics,2.58564369142228e-05,0.0,7.0,0.0
+hep-th/0303256,Noncommutative Solitons and D-branes,2.584618584656669e-05,0.0002377635480433,147.0,27.0
+hep-th/0501123,Discrete and oscillatory Matrix Models in Chern-Simons theory,2.56972468117416e-05,2.320436125998654e-05,41.0,10.0
+math-ph/0611078,Conformal boundary loop models,2.568581623467704e-05,3.7184350305828176e-06,17.0,3.0
+hep-th/0512258,Octonionic Electrodynamics,2.5607834557842288e-05,4.407255048373591e-06,28.0,3.0
+math/0611666,"Anomalous heat-kernel decay for random walk among bounded random
+  conductances",2.5380705507268804e-05,0.0,4.0,1.0
+gr-qc/0209111,"Re-formulating the Einstein equations for stable numerical simulations:
+  Formulation Problem in Numerical Relativity",2.5351989965821245e-05,0.0002038829890383,23.0,19.0
+gr-qc/0509064,Fundamental Structure of Loop Quantum Gravity,2.5315297175918392e-05,4.048592501228993e-06,15.0,4.0
+math-ph/0611030,"(Quantum) twisted Yangians: symmetry, Baxterisation and centralizers",2.526575775191989e-05,0.0,20.0,0.0
+hep-th/0510156,"Integrability of Supergravity Billiards and the generalized Toda lattice
+  equation",2.524838953025468e-05,3.623706313695546e-07,48.0,2.0
+math-ph/0506035,"Knots, Braids and Hedgehogs from the Eikonal Equation",2.524265764254301e-05,2.2578130666116774e-07,10.0,1.0
+math-ph/0611061,"Admissible Transformations and Normalized Classes of Nonlinear
+  Schroedinger Equations",2.515835370367609e-05,0.0,13.0,0.0
+astro-ph/0612192,Gravitational lensing by point masses on regular grid points,2.515304354793963e-05,0.0,12.0,0.0
+math-ph/0307017,The Bubble Algebra: Structure of a Two-Colour Temperley-Lieb Algebra,2.512559514841361e-05,2.5332476303194337e-07,22.0,1.0
+cond-mat/9906076,"Replica Symmetry Breaking in Short-Range Spin Glasses: Theoretical
+  Foundations and Numerical Evidences",2.503206055436889e-05,0.0004210568423318,42.0,15.0
+hep-th/0607250,"KZ equation, G-opers, quantum Drinfeld-Sokolov reduction and quantum
+  Cayley-Hamilton identity",2.4941501032814207e-05,2.3282559488404253e-06,11.0,3.0
+math-ph/0212030,Algebraic and Dirac-Hestenes Spinors and Spinor Fields,2.4858475342171777e-05,1.9730213385478184e-05,17.0,10.0
+math-ph/0405065,Quantization Methods: A Guide for Physicists and Analysts,2.47129562554361e-05,8.672879663207532e-06,32.0,4.0
+gr-qc/0609007,Averaged null energy condition in spacetimes with boundaries,2.4652373976003733e-05,2.7637944517348204e-08,20.0,1.0
+hep-th/0205299,"Exact Solutions and the Cosmological Constant Problem in
+  Dilatonic-Domain-Wall Higher-Curvature String Gravity",2.4543415271589423e-05,1.1404030700265245e-05,70.0,23.0
+hep-th/0504206,"Two-dimensional models as testing ground for principles and concepts of
+  local quantum physics",2.449504925217136e-05,0.0003279106991419,13.0,5.0
+quant-ph/0506026,"Standard and Non-Standard Quantum Models : A Non-Commutative Version of
+  the Classical System of SU(2) and SU(1,1) Arising from Quantum Optics",2.441855079245103e-05,0.0,16.0,0.0
+hep-th/0703075,Noncommutative Induced Gauge Theory,2.4373316691799336e-05,1.7693241595552115e-07,28.0,1.0
+math-ph/0602042,"Quantum Energy Inequalities and local covariance I: Globally hyperbolic
+  spacetimes",2.4355032228926054e-05,2.0617804577857915e-07,27.0,2.0
+hep-th/0701225,"Refining the classification of the irreps of the 1D N-Extended
+  Supersymmetry",2.4221200423115672e-05,1.656167045125358e-07,11.0,1.0
+math-ph/0612054,"Toda equations associated with loop groups of complex classical Lie
+  groups",2.4101352879915333e-05,0.0,17.0,0.0
+hep-th/0609035,A Lie theoretic approach to renormalization,2.407046372322399e-05,6.233088026554817e-07,25.0,2.0
+gr-qc/0505146,Volume elements and torsion,2.4065931897019964e-05,5.762122317661951e-06,18.0,1.0
+math-ph/0406021,General boundary conditions for the sl(N) and sl(M|N) open spin chains,2.404086362160562e-05,1.8648950506183376e-05,32.0,11.0
+quant-ph/0509132,N-fold Supersymmetry in Quantum Systems with Position-dependent Mass,2.3943055934098124e-05,0.0,27.0,2.0
+math/0412436,Curvature in Special Base Conformal Warped Products,2.3880692733028707e-05,1.990182755160072e-06,29.0,1.0
+astro-ph/0611238,The Limits of Extended Quintessence,2.3620919831598667e-05,6.268915596973113e-07,40.0,4.0
+hep-th/0703044,"The Orbifolds of Permutation-Type as Physical String Systems at
+  Multiples of c=26. I.Extended Actions and New Twisted World-Sheet Gravities",2.3470322305528228e-05,7.044763670467555e-07,41.0,1.0
+hep-th/0208202,"Integrable aspects of the scaling q-state Potts models II: finite-size
+  effects",2.3451468561804506e-05,1.4561674741093027e-06,45.0,3.0
+astro-ph/0601457,The Chang-Refsdal Lens Revisited,2.342802162986022e-05,5.126312538344234e-07,21.0,2.0
+math/0607113,Hessian Tensor and Standard Static Space-times,2.337432597321873e-05,0.0,1.0,0.0
+math-ph/0506038,Quantum Systems as results of Geometric Evolutions,2.335261731351824e-05,5.944095100567306e-06,13.0,3.0
+hep-th/0701021,"Reconstruction of higher stage first class constraints into the
+  secondary ones",2.3158952121340057e-05,0.0,3.0,0.0
+math-ph/0502028,Completely Integrable Systems Associated with Classical Root Systems,2.304249963131664e-05,0.0,9.0,1.0
+hep-th/0703038,Cryptoreality of nonanticommutative Hamiltonians,2.292154566576993e-05,0.0,24.0,0.0
+hep-th/0606215,Expanding Lie (super)algebras through abelian semigroups,2.2912612855248036e-05,3.767310767497434e-07,23.0,4.0
+hep-th/0603061,"The Extended Cartan Homotopy Formula and a Subspace Separation Method
+  for Chern--Simons Theory",2.270861267984299e-05,1.8189831596170784e-06,16.0,5.0
+cond-mat/0410599,Generalized Elitzur's Theorem and Dimensional Reduction,2.2454185778480692e-05,1.9472200715778067e-06,10.0,3.0
+math-ph/0609085,A class of Calogero type reductions of free motion on a simple Lie group,2.2415993011279115e-05,0.0,11.0,0.0
+hep-th/0611192,"Deformations of N=2 super-conformal algebra and supersymmetric
+  two-component Camassa-Holm equation",2.2403720749892747e-05,0.0,10.0,0.0
+quant-ph/0507015,Biorthogonal Quantum Systems,2.226766093058756e-05,0.0006267113523599,46.0,10.0
+math/0608481,The Quantum Orbifold Cohomology of Weighted Projective Spaces,2.2229462639784186e-05,7.789090211502886e-06,13.0,8.0
+math-ph/0610055,Dynamics of charged fluids and 1/L perturbation expansions,2.216660301832552e-05,0.0,15.0,1.0
+gr-qc/0609032,Exploring the diffeomorphism invariant Hilbert space of a scalar field,2.208978671972531e-05,0.0,15.0,0.0
+hep-th/0309077,Affine Toda-Sutherland Systems,2.2089077001803637e-05,3.41774098290059e-08,15.0,1.0
+gr-qc/0507053,"Spin Gauge Theory of Gravity in Clifford Space: A Realization of
+  Kaluza-Klein Theory in 4-Dimensional Spacetime",2.1889750742033976e-05,6.78922664541296e-07,47.0,3.0
+quant-ph/0701244,"GHZ States, Almost-Complex Structure and Yang--Baxter Equation (I)",2.1884032266412956e-05,8.627163219779175e-07,16.0,1.0
+math-ph/0607045,"Generalized q-deformed oscillators, q-Hermite polynomials, generalized
+  coherent states",2.1813913863584012e-05,0.0,2.0,0.0
+math/0703138,"Momentum construction on Ricci-flat K\""ahler cones",2.1597055735454284e-05,2.075945495541073e-09,5.0,1.0
+hep-th/0702017,A gauge model for quantum mechanics on a stratified space,2.147963936257269e-05,2.628055234838312e-06,11.0,2.0
+math/0701299,From operads and PROPs to Feynman Processes,2.147324066942413e-05,0.0,8.0,0.0
+hep-th/0611026,Dirac brackets from magnetic backgrounds,2.137990619164525e-05,6.178402796406967e-08,6.0,1.0
+hep-th/0306238,Seiberg-Witten Theory and Random Partitions,2.111146853839452e-05,0.0006608330686191,98.0,73.0
+math-ph/0606060,"Massive partition functions and complex eigenvalue correlations in
+  Matrix Models with symplectic symmetry",2.1089667746992483e-05,5.0513817606964e-06,31.0,3.0
+math-ph/0701054,Nonlinear Classical Fields,2.0942416813572667e-05,0.0,3.0,2.0
+hep-th/0604116,"Rota-Baxter Algebras in Renormalization of Perturbative Quantum Field
+  Theory",2.08947957537426e-05,1.2453226227825995e-05,42.0,7.0
+cond-mat/0611316,"The Q-operator and Functional Relations of the Eight-vertex Model at
+  Root-of-unity $\eta = \frac{2m K}{N}$ for odd N",2.089353820838109e-05,2.02494081841095e-06,20.0,2.0
+math/0606398,Comparison of the refined analytic and the Burghelea-Haller torsions,2.0775172171331056e-05,2.742850391119501e-05,7.0,5.0
+math/0703248,"On representing some lattices as lattices of intermediate subfactors of
+  finite index",2.0680878111094148e-05,0.0,3.0,0.0
+math-ph/0310008,"Isomonodromic tau-function of Hurwitz Frobenius manifolds and its
+  applications",2.0672688834225152e-05,1.990182755160072e-06,4.0,7.0
+math-ph/0502015,Lectures on random matrix theory and symmetric spaces,2.0598284582691395e-05,5.934903201208693e-06,27.0,1.0
+nlin/0512046,"Hamiltonian Flows of Curves in symmetric spaces G/SO(N) and Vector
+  Soliton Equations of mKdV and Sine-Gordon Type",2.058093060527671e-05,2.9704220226269734e-08,7.0,1.0
+hep-th/0611176,"Boundary one-point function, Casimir energy and boundary state formalism
+  in D+1 dimensional QFT",2.050499972548432e-05,3.729909882285108e-06,20.0,2.0
+solv-int/9907004,"N=2 local and N=4 nonlocal reductions of supersymmetric KP hierarchy in
+  N=2 superspace",2.034029308061609e-05,5.927972216489229e-06,33.0,10.0
+hep-th/0604054,"Microscopic eigenvalue correlations in QCD with imaginary isospin
+  chemical potential",2.032790863488053e-05,2.5589057445755464e-06,43.0,4.0
+hep-th/0507038,"Title Area density of localization-entropy I: the case of
+  wedge-localization",2.030854862969041e-05,0.0009720945838158,8.0,2.0
+math/0612363,A Groupoid Approach to Quantization,2.029513128523797e-05,0.0,14.0,0.0
+math-ph/0611043,"Interacting Bose and Fermi gases in low dimensions and the Riemann
+  hypothesis",2.027027524396965e-05,1.350191828466806e-10,8.0,1.0
+quant-ph/0612032,A New Look at the Quantum Mechanics of the Harmonic Oscillator,2.019527788076137e-05,5.543834974602737e-07,11.0,1.0
+nlin/0612003,"R-Matrix and Baxter Q-Operators for the Noncompact SL(N,C) Invariant
+  Spin Chain",2.0027219988506503e-05,0.0,22.0,0.0
+math/0612255,Cardy condition for open-closed field algebras,1.997994148881988e-05,1.030673418648045e-07,10.0,1.0
+hep-th/0411193,"Form factors in the massless coset models su(2)_k+1 \otimes su(2)_k
+  /su(2)_2k+1 - Part II",1.992337674248068e-05,0.0,10.0,0.0
+hep-ph/0605153,CP violation conditions in N-Higgs-doublet potentials,1.990161607282567e-05,1.7414819498516705e-06,18.0,2.0
+cond-mat/0608452,Temporal dynamics of tunneling. Hydrodynamic approach,1.986689169819527e-05,0.0,3.0,0.0
+hep-ph/0501268,Relativistic Harmonic Oscillator,1.9770132113706767e-05,0.0,26.0,1.0
+math/0703751,Noncommutative Spectral Decomposition with Quasideterminant,1.974606132436628e-05,0.0,8.0,0.0
+hep-th/0603135,"Supersymmetric Nambu$-$Jona-Lasinio Model on ${\cal N}=1/2$
+  four-dimensional Non(anti)commutative Superspace",1.9706809854170796e-05,0.0,43.0,0.0
+hep-th/0403265,"The Background Field Method and the Linearization Problem for Poisson
+  Manifolds",1.960676949219029e-05,1.8816183001904548e-05,42.0,1.0
+math/0703586,Spectral distance on the circle,1.958980658553133e-05,0.0,8.0,0.0
+gr-qc/0607099,Algebraic Quantum Gravity (AQG) I. Conceptual Setup,1.958829109289592e-05,6.455367093856586e-07,65.0,9.0
+math-ph/0505071,Solutions of the Gaudin Equation and Gaudin Algebras,1.954182934995689e-05,0.0,5.0,0.0
+math-ph/0411021,"Analytical Bethe Ansatz for closed and open gl(n)-spin chains in any
+  representation",1.9455608551493268e-05,1.614211370188881e-05,42.0,10.0
+hep-th/0506121,Simultaneous Type A N-fold Supersymmetry with Two Different Values of N,1.9383781079221257e-05,9.859817526903826e-09,15.0,2.0
+hep-th/0605156,"Equations of motion, Noncommutativity and Quantization",1.932531508979548e-05,7.88941380031489e-08,19.0,1.0
+cond-mat/0703633,"Exact results on the Kitaev model on a hexagonal lattice: spin states,
+  string and brane correlators, and anyonic excitations",1.920795374030035e-05,1.040458467748201e-06,6.0,2.0
+math-ph/0702038,"Numerical study of a multiscale expansion of KdV and Camassa-Holm
+  equation",1.9074915144748488e-05,0.0,3.0,0.0
+math-ph/0511059,Spin Calogero models and dynamical r-matrices,1.9074581981611168e-05,0.0,22.0,1.0
+hep-th/0407122,Nonabelian 2-forms and loop space connections from SCFT deformations,1.904257506763188e-05,8.846984506520835e-06,42.0,8.0
+hep-th/0507156,The Complex Laguerre Symplectic Ensemble of Non-Hermitian Matrices,1.903662472828033e-05,2.4698235085063705e-06,37.0,4.0
+gr-qc/0409006,"Semiclassical Quantum Gravity: Statistics of Combinatorial Riemannian
+  Geometries",1.903636282029725e-05,5.933889201399704e-06,33.0,11.0
+math-ph/0701057,Localization and Conjectures from String Duality,1.8974196713947247e-05,0.0,21.0,0.0
+hep-th/0107151,Spectroscopy of Gauge Theories Based on Exceptional Lie Groups,1.896820440833152e-05,0.0,61.0,0.0
+math/0703057,Towards Finite-Gap Integration of the Inozemtsev Model,1.8931666999203596e-05,0.0,27.0,0.0
+math/0601697,"Crystal Interpretation of Kerov-Kirillov-Reshetikhin Bijection II. Proof
+  for sl_n Case",1.8920368967114316e-05,3.980365510320144e-06,15.0,1.0
+math/0701069,The Feynman Legacy,1.887298605911126e-05,1.6994734932903363e-08,10.0,1.0
+hep-th/0701212,Path-integral over non-linearly realized groups and Hierarchy solutions,1.8866445535026056e-05,6.773556690988474e-07,16.0,1.0
+cond-mat/9910082,Density Matrix Renormalization,1.87943073249129e-05,2.953084363203617e-05,19.0,6.0
+hep-th/0511114,Lectures on Fuzzy and Fuzzy SUSY Physics,1.8778661105064527e-05,7.16116259757987e-05,85.0,17.0
+math-ph/0604061,Additional restrictions on quasi-exactly solvable systems,1.8701972604379917e-05,0.0,16.0,0.0
+math/0702280,Laurent Polynomials and Superintegrable Maps,1.8586330345562186e-05,0.0,30.0,0.0
+math/0605164,A Euclidean Geometric Invariant of Framed (Un)Knots in Manifolds,1.85328277345806e-05,1.990182755160072e-06,11.0,2.0
+math-ph/0310042,"Bethe Ansatz equations and exact S matrices for the osp(M|2n) open super
+  spin chain",1.846797442461832e-05,1.4493144906538149e-06,23.0,4.0
+hep-ph/0505177,"Adventures in Theoretical Physics: Selected Papers of Stephen L. Adler
+  -- Commentaries",1.8436945510132355e-05,2.7616303296341463e-05,16.0,11.0
+math-ph/0602046,Computation of Invariants of Lie Algebras by Means of Moving Frames,1.8351910097175394e-05,3.980365510320144e-06,8.0,2.0
+hep-th/0610070,"The WZNW model on PSU(1,1|2)",1.8327759405315256e-05,6.7846766674775154e-06,49.0,10.0
+math-ph/0612036,"Superposition Principle and the Problem of the Additivity of the
+  Energies and Momenta of Distinct Electromagnetic Fields",1.828572952802346e-05,4.290935157313286e-06,7.0,3.0
+hep-th/0601167,Status Report on the Instanton Counting,1.8269501312232104e-05,0.0,18.0,0.0
+math/0702234,Computing Genus-Zero Twisted Gromov-Witten Invariants,1.822375154768802e-05,1.7294657436785856e-05,10.0,3.0
+math/0610613,"Kirillov's character formula, the holomorphic Peter-Weyl theorem, and
+  the Blattner-Kostant-Sternberg pairing",1.8160670749273356e-05,6.310266146564524e-07,8.0,2.0
+nlin/0206037,"Recursion operators of the N=2 supersymmetric unconstrained matrix GNLS
+  hierarchies",1.8075946016867275e-05,0.0,15.0,0.0
+gr-qc/0701176,"Gravitation, electromagnetism and cosmological constant in purely affine
+  gravity",1.7982385877776647e-05,1.990182755160072e-06,3.0,1.0
+hep-th/0605249,Axiomatic formulations of nonlocal and noncommutative field theories,1.7947754264538986e-05,1.2405757562821734e-05,11.0,1.0
+hep-th/0106064,"The Fuzzy Analog of Chiral Diffeomorphisms in higher dimensional Quantum
+  Field Theories",1.7944854530449568e-05,1.6647946393368815e-05,7.0,8.0
+hep-th/0308052,Quantum & Classical Eigenfunctions in Calogero & Sutherland Systems,1.791920577507283e-05,7.001709053335009e-08,10.0,2.0
+math-ph/0510005,"On the axiomatization of ""parallel transports"" and and one its
+  generalization",1.791403407882132e-05,0.0,6.0,1.0
+astro-ph/0607554,"Existence of black holes in Friedmann-Robertson-Walker universe
+  dominated by dark energy",1.7904399257467528e-05,0.0,8.0,0.0
+math-ph/0609043,Algebraic Entropy for lattice equations,1.7895294148230222e-05,0.0,8.0,0.0
+math-ph/0408012,"Branes, Quantum Nambu Brackets, and the Hydrogen Atom",1.7862841358163806e-05,0.0,10.0,0.0
+nlin/0602060,"On elliptic solutions of the quintic complex one-dimensional
+  Ginzburg-Landau equation",1.7860944899153613e-05,0.0,19.0,0.0
+quant-ph/0607168,Description of resonances within the rigged Hilbert space,1.7844794858681835e-05,1.9976088102166394e-06,5.0,2.0
+cond-mat/0703445,Kinetics of the long-range spherical model,1.782914526411347e-05,0.0,5.0,0.0
+math/0511107,Modeling families of L-functions,1.7787917936950444e-05,3.212905645648202e-06,11.0,1.0
+cond-mat/0605211,"On the identification of quasiprimary scaling operators in local
+  scale-invariance",1.7787453247073704e-05,5.803640459193826e-06,2.0,6.0
+quant-ph/0701006,Quasi-hermitian Quantum Mechanics in Phase Space,1.7762516266657527e-05,1.848255218040871e-07,13.0,1.0
+math-ph/0607043,"Universality of a double scaling limit near singular edge points in
+  random matrix models",1.7730282900969054e-05,1.867056584674164e-06,7.0,1.0
+math-ph/0608064,"What do quantum particles do, being under potential barrier? Tunnelling
+  time. A Virtual Experiment Standpoint",1.7718411726632333e-05,0.0,9.0,0.0
+math-ph/0603003,Free energy topological expansion for the 2-matrix model,1.760311108545767e-05,2.451972288197468e-06,28.0,6.0
+quant-ph/0610189,Complementarity in quantum systems,1.7506519357621753e-05,1.97780599673246e-06,8.0,1.0
+hep-th/0410013,Beyond the WKB approximation in PT-symmetric quantum mechanics,1.7480990280535357e-05,9.55089114478503e-08,32.0,4.0
+hep-th/0212267,Classical and Quantum Nambu Mechanics,1.7453085825926173e-05,3.940472283981935e-06,26.0,13.0
+hep-th/0510034,"Fractional quantum Hall effect on the two-sphere: a matrix model
+  proposal",1.7398124519750202e-05,1.1257332505539384e-06,33.0,3.0
+gr-qc/0012074,"Precanonical Quantum Gravity: quantization without the space-time
+  decomposition",1.7371411625017393e-05,3.196724339973041e-05,47.0,12.0
+math-ph/0609064,From modular invariants to graphs: the modular splitting method,1.7362209404237684e-05,0.0,16.0,1.0
+hep-th/0605036,Quantum Fields on Star Graphs,1.7316462509423763e-05,4.897537120986118e-07,18.0,4.0
+quant-ph/0610148,"Teleportation, Braid Group and Temperley--Lieb Algebra",1.731339229263053e-05,6.099044022621824e-06,22.0,4.0
+cond-mat/0311017,Constructive Methods of Invariant Manifolds for Kinetic Problems,1.7305334217887365e-05,2.6649654306727853e-05,19.0,5.0
+hep-th/0204178,Relativity of $\hbar$,1.7291608360268294e-05,8.805545627888263e-07,30.0,1.0
+math-ph/0612001,"A_k Generalization of the O(1) Loop Model on a Cylinder: Affine Hecke
+  Algebra, q-KZ Equation and the Sum Rule",1.7274444881686558e-05,0.0,18.0,0.0
+cond-mat/0403271,Fermionic field theory for trees and forests,1.725595255768304e-05,1.802157200218412e-05,13.0,7.0
+cond-mat/0609070,On the top eigenvalue of heavy-tailed random matrices,1.7250382958929924e-05,5.139787560639092e-06,5.0,6.0
+math-ph/0603038,Universality for mathematical and physical systems,1.724051408311142e-05,2.544727378771126e-05,12.0,7.0
+math-ph/0604073,"Spin Calogero models associated with Riemannian symmetric spaces of
+  negative curvature",1.7209464778063818e-05,7.069269839754885e-08,11.0,3.0
+hep-th/0401072,"Matrix Quantum Mechanics and Soliton Regularization of Noncommutative
+  Field Theory",1.7171423561306192e-05,1.4467487595748744e-05,59.0,6.0
+nlin/0611008,"Quasi-Exactly Solvable N-Body Spin Hamiltonians with Short-Range
+  Interaction Potentials",1.7121189558778685e-05,0.0,24.0,0.0
+quant-ph/0701230,SU(2) nonstandard bases: the case of mutually unbiased bases,1.7083933708876633e-05,0.0,32.0,0.0
+hep-th/0612255,$\phi^4$ model on a circle,1.7080181917114045e-05,0.0,5.0,0.0
+math-ph/0211008,Noncommutative de Rham cohomology of finite groups,1.704993166241365e-05,5.620292158665516e-07,21.0,2.0
+hep-th/0509020,"Simultaneous Ordinary and Type A N-fold Supersymmetries in Schroedinger,
+  Pauli, and Dirac Equations",1.7021521872195793e-05,7.4260550565674335e-09,18.0,1.0
+math-ph/0510078,Baxterized Solutions of Reflection Equation and Integrable Chain Models,1.696831546881771e-05,5.248472240216238e-07,14.0,1.0
+math/0311170,"Duality of compact groups and Hilbert C*-systems for C*-algebras with a
+  nontrivial center",1.6885813517775427e-05,1.990182755160072e-06,4.0,2.0
+math-ph/0606048,"Fractional Variations for Dynamical Systems: Hamilton and Lagrange
+  Approaches",1.6865457614099516e-05,1.2530477111943852e-06,20.0,1.0
+math-ph/0611040,"Quantum Deformations and Superintegrable Motions on Spaces with Variable
+  Curvature",1.6801264273685615e-05,0.0,19.0,0.0
+math-ph/0508002,Comments about quantum symmetries of SU(3) graphs,1.675201552086546e-05,1.3182296505727306e-06,34.0,2.0
+math/0407263,Local conformal nets arising from framed vertex operator algebras,1.670249260796512e-05,3.426398957035054e-06,11.0,1.0
+hep-th/0210022,Light-cone SU(2) Yang-Mills theory and conformal mechanics,1.6700499470048087e-05,3.793779009340952e-06,24.0,2.0
+quant-ph/0612122,A q-Oscillator with 'Accidental' Degeneracy of Energy Levels,1.6694995359547273e-05,0.0,5.0,0.0
+nlin/0701063,Complex trajectories in chaotic dynamical tunneling,1.6665381345595856e-05,0.0,11.0,0.0
+hep-th/0508223,"On hidden broken nonlinear superconformal symmetry of conformal
+  mechanics and nature of double nonlinear superconformal symmetry",1.6602571917194997e-05,0.0,22.0,0.0
+hep-th/0601201,"SL(3|N) Wigner quantum oscillators: examples of ferromagnetic-like
+  oscillators with noncommutative, square-commutative geometry",1.6588555889001955e-05,3.980365510320144e-06,14.0,2.0
+cond-mat/0106096,Statistical mechanics of complex networks,1.654360914784671e-05,0.0001718433929188,41.0,69.0
+math-ph/0701035,"The Significance of the $C$-Numerical Range and the Local $C$-Numerical
+  Range in Quantum Control and Quantum Information",1.653465023657295e-05,1.990182755160072e-06,5.0,1.0
+cond-mat/0204587,"Transfer Matrices and Partition-Function Zeros for Antiferromagnetic
+  Potts Models III. Triangular-Lattice Chromatic Polynomial",1.6524443113362764e-05,1.4447891823490484e-05,21.0,8.0
+math/0610280,Anti-Self-Dual Conformal Structures in Neutral Signature,1.651672076455812e-05,0.0,4.0,2.0
+hep-th/0611090,Bosonization and Scale Invariance on Quantum Wires,1.651529694161524e-05,0.0,17.0,0.0
+math-ph/0407005,Discrete Differential Geometry on causal graphs,1.6332186873374172e-05,1.8777873172875064e-06,14.0,3.0
+quant-ph/0212101,p-Mechanics as a Physical Theory. An Introduction,1.6319663932805748e-05,2.504409541883486e-06,14.0,6.0
+math/0603722,Flows of Calogero-Moser Systems,1.6279852221383453e-05,6.123694636140005e-08,18.0,2.0
+math-ph/0605008,"Conservation Laws on Riemann-Cartan, Lorentzian and Teleparallel
+  Spacetimes",1.626798553484336e-05,3.103415140654268e-06,13.0,3.0
+hep-th/0509075,Logarithmic torus amplitudes,1.623893425149567e-05,7.832565162102483e-06,48.0,10.0
+math-ph/0409075,Markov processes on partitions,1.6226714939402497e-05,8.00281823967657e-06,28.0,2.0
+math/0609806,Meixner polynomials and random partitions,1.622561244358719e-05,0.0,21.0,0.0
+quant-ph/0506241,Classification of n-qubit states with minimum orbit dimension,1.6223972640954526e-05,0.0,7.0,1.0
+math/0108160,"Normal forms of hierarchies of integrable PDEs, Frobenius manifolds and
+  Gromov - Witten invariants",1.6203235256584142e-05,0.0001166536956533,35.0,48.0
+nlin/0612042,"Eigenvalues of Killing Tensors and Separable Webs on Riemannian and
+  Pseudo-Riemannian Manifolds",1.6163983694595623e-05,0.0,5.0,1.0
+math/0404141,Stratified Kaehler structures on adjoint quotients,1.615133954997499e-05,2.6250040959568173e-06,7.0,6.0
+hep-th/0611127,The algebraic Bethe ansatz for open vertex models,1.6036425750881405e-05,0.0,14.0,0.0
+solv-int/9908001,"Non-additive fusion, Hubbard models and non-locality",1.5988748657539178e-05,0.0,2.0,0.0
+gr-qc/0307009,"General solutions of Einstein's spherically symmetric gravitational
+  equations with junction conditions",1.5973577113552823e-05,0.0,9.0,0.0
+hep-th/0407026,Logarithmic Conformal Field Theories and Strings in Changing Backgrounds,1.5959340625759597e-05,2.564940178917403e-06,61.0,6.0
+hep-th/0212006,Dynamical r-matrices and Poisson-Lie symmetries in the chiral WZNW model,1.591554341577604e-05,6.728843236251405e-07,24.0,3.0
+hep-th/0201108,The ODE/IM correspondence and PT-symmetric quantum mechanics,1.5883565668456524e-05,1.0214366259327406e-05,38.0,3.0
+gr-qc/0512076,"Group averaging, positive definiteness and superselection sectors",1.583750631165224e-05,0.0,23.0,0.0
+math/0703338,The two-boundary Temperley-Lieb algebra,1.5793358267970198e-05,0.0,25.0,0.0
+hep-th/0611214,"Conformal invariance and quantum integrability of sigma models on
+  symmetric superspaces",1.5776292730652096e-05,3.5349364444965126e-08,25.0,1.0
+gr-qc/0305080,"The Phoenix Project: Master Constraint Programme for Loop Quantum
+  Gravity",1.574060102532067e-05,3.165408221016732e-05,77.0,47.0
+math/0605219,Gauss Decomposition of the Yangian Y(gl_{m|n}),1.5682126456637784e-05,0.0,12.0,0.0
+math-ph/0606039,On matrix differential equations in the Hopf algebra of renormalization,1.5646319376926194e-05,3.8301764656268905e-07,25.0,2.0
+hep-th/0612019,Extended Seiberg-Witten Theory and Integrable Hierarchy,1.5645161000448372e-05,4.984026033601068e-08,52.0,1.0
+hep-ph/0703001,The Higgs field can be expressed through the lepton and quark fields,1.560661975712535e-05,0.0,7.0,0.0
+nlin/0606071,"The Painleve Test and Reducibility to the Canonical Forms for
+  Higher-Dimensional Soliton Equations with Variable-Coefficients",1.557560071000162e-05,0.0,12.0,0.0
+math/0406039,Curvature of Multiply Warped Products,1.5550923736547508e-05,2.676351551328464e-06,11.0,2.0
+hep-th/0001048,"The Principle of the Fermionic Projector, Chapters 0-4",1.5453992050787106e-05,0.0,14.0,0.0
+hep-th/0602044,"p-Adic and Adelic Cosmology: p-Adic Origin of Dark Energy and Dark
+  Matter",1.540251305544411e-05,1.516494697404386e-06,15.0,1.0
+math/0606506,"Kazhdan--Lusztig-dual quantum group for logarithmic extensions of
+  Virasoro minimal models",1.5380290056911417e-05,8.795159696331325e-07,13.0,3.0
+hep-th/0305120,Quantum vs Classical Integrability in Ruijsenaars-Schneider Systems,1.5331939857540433e-05,1.9138081348105263e-05,12.0,3.0
+math-ph/0608017,"A Maxwell Like Formulation of Gravitational Theory in Minkowski
+  Spacetime",1.531796755371761e-05,4.745694718544704e-06,11.0,2.0
+math-ph/0308036,"Discrete Painlev\'e equations, Orthogonal Polynomials on the Unit Circle
+  and $N$-recurrences for averages over U(N) -- \PVI $\tau$-functions",1.531462875446559e-05,1.990182755160072e-06,7.0,2.0
+hep-th/0003210,Quantum matrix algebra for the SU(n) WZNW model,1.529230095924498e-05,5.539161052865657e-06,18.0,8.0
+quant-ph/0605239,Quantum Entanglement and Projective Ring Geometry,1.5282004293226955e-05,6.274501435800394e-06,11.0,3.0
+hep-th/0703221,Boundary Loop Models and 2D Quantum Gravity,1.5258156044049071e-05,1.2067339466922078e-08,16.0,1.0
+hep-th/0608104,A Note on Z_2 Symmetries of the KZ Equation,1.5208817379234244e-05,0.0,6.0,0.0
+math-ph/0702066,Aharonov-Bohm effect on the Poincar\'e disk,1.5178545307679018e-05,0.0,14.0,0.0
+cond-mat/0703326,Periodic boundary conditions on the pseudosphere,1.508277638934026e-05,0.0,3.0,0.0
+gr-qc/0511028,"A Note on Particles and Scalar Fields in Higher Dimensional Nutty
+  Spacetimes",1.5070675938665537e-05,6.807855105564037e-07,22.0,2.0
+nlin/0512042,"The Sasa--Satsuma (complex mKdV II) and the complex sine-Gordon II
+  equation revisited: recursion operators, nonlocal symmetries, and more",1.5054919909497952e-05,1.9824710826013286e-06,13.0,1.0
+hep-th/9903130,Hidden nonlinear supersymmetries in pure parabosonic systems,1.5044448003270302e-05,2.7898318347932105e-05,35.0,23.0
+hep-th/0611170,Ward Identities for Invariant Group Integrals,1.5039969892004114e-05,8.961817892887205e-08,13.0,1.0
+cond-mat/0703466,Local scale-invariance in disordered systems,1.5012465513101006e-05,2.2373371003760853e-08,7.0,1.0
+math-ph/0609057,Integrable Models From Twisted Half Loop Algebras,1.5003084965952882e-05,0.0,16.0,0.0
+math-ph/0403052,Spectral problems from quantum field theory,1.494866619072616e-05,7.328752283946209e-07,38.0,1.0
+hep-lat/0610070,Baryon-Baryon Bound States From First Principles,1.4921589171623149e-05,0.0,2.0,0.0
+hep-th/0312011,One-loop effective potential from higher-dimensional AdS black holes,1.4891966054208788e-05,1.692694950465529e-07,25.0,1.0
+quant-ph/0703196,Topological-Like Features in Diagrammatical Quantum Circuits,1.486227632744012e-05,0.0,17.0,0.0
+hep-th/0506070,"Determinant Representation of Correlation Functions for the
+  $U_q(gl(1|1))$ Free Fermion Model",1.485344145460819e-05,0.0,7.0,0.0
+math-ph/0507017,The Continuum Limit of Discrete Geometries,1.4847792313059832e-05,8.58382623577935e-08,8.0,1.0
+math-ph/0603077,"Separation of unistochastic matrices from the double stochastic ones.
+  Recovery of a 3 x 3 unitary matrix from experimental data",1.4842638480147136e-05,0.0,9.0,0.0
+hep-th/0405116,"The Dilatation Operator of $\cal N$ $=$ 4 SYM and Classical Limits of
+  Spin Chains and Matrix Models",1.4835012196806956e-05,9.344276323262403e-06,36.0,18.0
+quant-ph/0611002,Evenly distributed unitaries: on the structure of unitary designs,1.4833411763448982e-05,4.481442633901695e-06,11.0,6.0
+hep-th/0611034,The Stabilized Poincare-Heisenberg algebra: a Clifford algebra viewpoint,1.4816227165280729e-05,0.0,11.0,0.0
+math-ph/0609023,Growth processes related to the dispersionless Lax equations,1.4791521195256324e-05,0.0,14.0,0.0
+quant-ph/0606012,"PT-symmetric quartic anharmonic oscillator and position-dependent mass
+  in a perturbative approach",1.4772357529928704e-05,0.0,12.0,0.0
+hep-th/0205113,Finite-dimensional Lie algebras of order F,1.4753928311846932e-05,7.221157541003961e-06,30.0,9.0
+cond-mat/0012369,Chromatic roots are dense in the whole complex plane,1.4727163766577335e-05,9.297874424237378e-06,32.0,7.0
+quant-ph/0701092,"Exponentiation of certain Matrices related to the Four Level System by
+  use of the Magic Matrix",1.4693439300867762e-05,0.0,11.0,0.0
+hep-th/0607066,Functional determinants for radial operators,1.4688495500667666e-05,8.417147688446054e-07,14.0,2.0
+cond-mat/0411176,"Partition Functions for Statistical Mechanics With MicroPartitions and
+  Phase Transitions",1.4670270674672353e-05,9.552205343596562e-09,8.0,1.0
+cond-mat/0306025,Exactly soluble isotropic spin-1/2 ladder models,1.4653493467120466e-05,2.0880137973598384e-06,5.0,2.0
+cond-mat/0607258,"Fusion Operators in the Generalized $\tau^{(2)}$-model and Root-of-unity
+  Symmetry of the XXZ Spin Chain of Higher Spin",1.4625129815240524e-05,2.000138356028912e-07,22.0,2.0
+hep-th/0611213,"Stationary vs. singular points in an accelerating FRW cosmology derived
+  from six-dimensional Einstein-Gauss-Bonnet gravity",1.4584308606140637e-05,9.972389593428042e-06,20.0,2.0
+math-ph/0512094,"Gauge theories in noncommutative geometry and generalization of the
+  Born-Infeld model",1.4530680735657103e-05,1.99111465226521e-06,27.0,2.0
+astro-ph/0502356,Construction of Special Solutions for Nonintegrable Systems,1.450072016410545e-05,0.0,17.0,1.0
+nlin/0606039,q-Deformed KP Hierarchy and q-Deformed Constrained KP Hierarchy,1.4497850261104156e-05,0.0,10.0,0.0
+math-ph/0702084,"A Super-Integrable Two-Dimensional Non-Linear Oscillator with an Exactly
+  Solvable Quantum Analog",1.4487883723357705e-05,0.0,15.0,0.0
+gr-qc/0602088,"Algebrodynamics in complex space-time and the complex-quaternionic
+  origin of Minkowski geometry",1.4444195169561587e-05,0.0,15.0,0.0
+cond-mat/0610193,"Ferromagnetic phase transition for the spanning-forest model (q \to 0
+  limit of the Potts model) in three or more dimensions",1.4421752758993273e-05,4.128807696798379e-06,12.0,2.0
+math-ph/0212054,Riemannian Geometry of Bicovariant Group Lattices,1.4381280635626831e-05,9.87414515674988e-08,7.0,2.0
+solv-int/9903003,New Integrable Models from Fusion,1.4377802375474754e-05,1.9693147742740405e-06,5.0,1.0
+hep-th/0511162,Bosonization and Vertex Algebras with Defects,1.4358497915256474e-05,2.3387619842638818e-07,17.0,2.0
+cond-mat/0412698,"Nonlinear Integral Equations for Thermodynamics of the
+  U_{q}(\hat{sl(r+1)}) Perk-Schultz Model",1.4346624258357492e-05,3.6882740114284924e-08,20.0,2.0
+quant-ph/0112090,Introduction to Coherent States and Quantum Information Theory,1.4336784111725412e-05,1.5202415249027812e-05,24.0,17.0
+hep-th/0410064,Quasi-exact solvability and intertwining relations,1.4307421373144136e-05,4.32167282507689e-08,16.0,2.0
+math/0612609,The Length of an SLE - Monte Carlo Studies,1.429671649166934e-05,0.0,13.0,0.0
+hep-th/0605066,"Equivalence of a Complex $\cP\cT$-Symmetric Quartic Hamiltonian and a
+  Hermitian Quartic Hamiltonian with an Anomaly",1.429361290074015e-05,2.15532072801276e-06,10.0,2.0
+hep-th/0611042,Hidden Quantum Gravity in 4d Feynman diagrams: Emergence of spin foams,1.427602456845904e-05,2.2030264533517075e-07,27.0,4.0
+math-ph/0703049,"High energy eigenfunctions of one-dimensional Schrodinger operators with
+  polynomial potentials",1.4241494213284047e-05,0.0,4.0,1.0
+cond-mat/0605120,Anchored Critical Percolation Clusters and 2-D Electrostatics,1.4240217175715389e-05,0.0,13.0,0.0
+quant-ph/0503159,"Abstract algebra, projective geometry and time encoding of quantum
+  information",1.4207123629558882e-05,5.2340718597856655e-06,10.0,3.0
+math/0703701,Contractions of Lie algebras and algebraic groups,1.4188312547301796e-05,0.0,1.0,0.0
+math-ph/0602013,"Krein space related perturbation theory for MHD alpha-2-dynamos and
+  resonant unfolding of diabolical points",1.418068021468458e-05,1.0767779832022776e-08,18.0,3.0
+math-ph/0503032,Quantum Chaos: Spectral Analysis of Floquet Operators,1.4178156905164812e-05,0.0,14.0,0.0
+math-ph/0609001,Nonsingular solutions of Hitchin's equations for noncompact gauge groups,1.41631846625003e-05,0.0,2.0,1.0
+hep-th/0602133,"Exotic galilean symmetry and non-commutative mechanics in mathematical &
+  in condensed matter physics",1.4130710903059182e-05,1.5750422180355883e-06,28.0,4.0
+hep-th/0508155,"Matrix Representation of Renormalization in Perturbative Quantum Field
+  Theory",1.4126412872378664e-05,6.027408757524056e-06,29.0,9.0
+math/0503332,Tensor functions of tensors and the concept of extended tensor fields,1.4108015100877774e-05,4.975737745110653e-06,29.0,4.0
+cond-mat/0612523,Replica symmetric spin glass field theory,1.4093507851222591e-05,0.0,12.0,0.0
+quant-ph/0404126,"Lieb's simple proof of concavity of Tr A^p K^* B^(1-p) K and remarks on
+  related inequalities",1.407697817399888e-05,3.729166545959198e-05,2.0,6.0
+math-ph/0609067,Rational solutions of Knizhnik-Zamolodchikov system,1.407682793272778e-05,0.0,2.0,0.0
+hep-th/0609058,Gluino zero-modes for non-trivial holonomy calorons,1.40589865257099e-05,0.0,35.0,0.0
+math-ph/0510048,How to quantize the antibracket,1.4050317809462392e-05,0.0,20.0,0.0
+hep-th/0703203,Spectrum in the broken phase of a $\lambda\phi^4$ theory,1.4035674963040934e-05,0.0,6.0,0.0
+nlin/0702027,Jacobi Fields on Statistical Manifolds of Negative Curvature,1.3991235896523768e-05,1.990182755160072e-06,4.0,1.0
+math/0508002,A Fast Algorithm for Simulating the Chordal Schramm-Loewner Evolution,1.3948213134912786e-05,3.97932822009002e-06,8.0,3.0
+hep-th/0602216,"""Background Field Integration-by-Parts"" and the Connection Between
+  One-Loop and Two-Loop Heisenberg-Euler Effective Actions",1.3938808116564124e-05,3.856163786995434e-07,35.0,1.0
+math-ph/0511022,A Q-operator for the twisted XXX model,1.3883751150861208e-05,4.091815273113549e-07,5.0,2.0
+hep-th/0506089,Casimir force between planes as a boundary finite size effect,1.384469007906511e-05,9.489698369473469e-06,12.0,2.0
+math-ph/0410031,Nested Multi-Soliton Solutions with Arbitrary Hopf Index,1.3810040939145372e-05,2.306936274391101e-08,8.0,1.0
+hep-th/0607078,Heat kernel and number theory on NC-torus,1.3795774480078311e-05,1.0050703490193816e-06,20.0,3.0
+math-ph/0611021,Towards an algorithmisation of the Dirac constraint formalism,1.3795179366934289e-05,0.0,4.0,0.0
+math/9912239,Strong Connections and Chern-Connes Pairing in the Hopf-Galois Theory,1.378344550807686e-05,1.5853102778280314e-05,20.0,3.0
+math/0206206,Differential equations and intertwining operators,1.3773057455263988e-05,5.188226873159733e-06,8.0,12.0
+hep-th/0406003,The General Twisted Open WZW String,1.3771607600923663e-05,1.2607765552704788e-06,50.0,5.0
+math/0611371,Riemannian curvature: variations on different notions of positivity,1.3725295279724532e-05,0.0,7.0,0.0
+math/0610505,Tau functions in combinatorial Bethe ansatz,1.3702331074403016e-05,1.990182755160072e-06,2.0,2.0
+math-ph/0608026,"Continuity of eigenfunctions of uniquely ergodic dynamical systems and
+  intensity of Bragg peaks",1.3701456486507972e-05,0.0,2.0,1.0
+hep-th/0612045,Z2 x Z2 graded superconformal algebra of parafermionic type,1.3691652715471856e-05,0.0,3.0,0.0
+math-ph/0310015,An Algebraic q-Deformed Form for Shape-Invariant Systems,1.3639110143117575e-05,0.0,11.0,0.0
+hep-th/0604018,"On the Inequivalence of Renormalization and Self-Adjoint Extensions for
+  Quantum Singular Interactions",1.3639015848709827e-05,0.0,2.0,0.0
+math/9911244,"On some two parameter Quantum and Jordanian deformations, and their
+  Coloured extensions",1.3634309406448704e-05,1.990182755160072e-06,6.0,1.0
+math/0605590,Gravitational interpretation of the Hitchin equations,1.3545734547356434e-05,1.990182755160072e-06,3.0,1.0
+math-ph/0606040,Asymmetric Twin Representation: the Transfer Matrix Symmetry,1.3545440127731608e-05,7.981287994399314e-08,20.0,1.0
+astro-ph/0504365,A brief introduction to cosmic topology,1.3519331728434952e-05,1.6072641879703697e-06,17.0,7.0
+math/0101191,Duality for Coloured Quantum Groups,1.3518686092096462e-05,0.0,1.0,0.0
+hep-th/0603096,PT-Symmetric Quantum Theory Defined in a Krein Space,1.3509495497177469e-05,5.616839186662049e-07,18.0,7.0
+math/0306114,Bijectivity of the canonical map for the noncommutative instanton bundle,1.3495908123597265e-05,1.990182755160072e-06,2.0,1.0
+hep-th/0612204,Cubic extentions of the Poincar\'e algebra,1.3469783299467482e-05,0.0,17.0,0.0
+math-ph/0703044,From su(2) Gaudin Models to Integrable Tops,1.346595249698103e-05,0.0,14.0,0.0
+hep-th/0508246,Strong coupling expansion for general relativity,1.3453599518906188e-05,9.323480346056054e-06,4.0,3.0
+hep-th/0311167,Two-Loop Diagrammatics in a Self-Dual Background,1.3444315202161032e-05,9.159923194050742e-06,67.0,10.0
+hep-th/0609167,Chern-Simons matrix models and Stieltjes-Wigert polynomials,1.3440047897536918e-05,0.0,30.0,0.0
+quant-ph/0609098,Ellipses of Constant Entropy in the XY Spin Chain,1.3425324787515765e-05,2.336998897185757e-06,15.0,2.0
+hep-th/0010059,Combinatorics of (perturbative) quantum field theory,1.340238493677323e-05,7.607778361673988e-05,46.0,23.0
+math-ph/0504032,Inhomogeneous loop models with open boundaries,1.3390396183974906e-05,1.3926400845596624e-06,22.0,8.0
+math/0612558,"Dynamical R Matrices of Elliptic Quantum Groups and Connection Matrices
+  for the q-KZ Equations",1.3386502178799096e-05,0.0,19.0,0.0
+math/0612743,"Uniform existence of the integrated density of states for random
+  Schr\""odinger operators on metric graphs over $\mathbb{Z}^d$",1.336759691266095e-05,0.0,9.0,0.0
+math-ph/0512064,Non-Commutative Mechanics as a modification of space-time,1.3328609247872048e-05,8.318811573066322e-07,19.0,2.0
+hep-th/0411114,"From Physics to Number Theory via Noncommutative Geometry, Part II:
+  Renormalization, the Riemann-Hilbert correspondence, and motivic Galois
+  theory",1.3314592002816096e-05,2.835741441578699e-05,18.0,18.0
+hep-th/9910121,"A Note concerning Subsingular Vectors and Embedding Diagrams of the N=2
+  Superconformal Algebras",1.3256654549287602e-05,0.0,18.0,1.0
+quant-ph/0606178,Entropy of XY Spin Chain and Block Toeplitz Determinants,1.3223733019736497e-05,3.3861644881134027e-06,26.0,5.0
+math-ph/0604007,"Transformation Formula of the ""2nd"" Order Mock Theta Function",1.3215176648523794e-05,0.0,2.0,0.0
+hep-th/0112158,"Nonlinear holomorphic supersymmetry, Dolan-Grady relations and Onsager
+  algebra",1.320675588945831e-05,5.923805288162291e-06,20.0,11.0
+cond-mat/0506733,Symmetric space description of carbon nanotubes,1.3181099443692076e-05,0.0,9.0,0.0
+hep-th/0702068,Renormalisation of non-commutative field theories,1.3158707368728276e-05,0.0,27.0,0.0
+math-ph/0610036,Quantum Algebras Associated With Bell States,1.3156792923750604e-05,8.359182250702063e-07,12.0,3.0
+cond-mat/0703630,Integrable spin-boson models descending from rational six-vertex models,1.3153533195690536e-05,0.0,5.0,0.0
+hep-th/0304095,"Universal random matrix correlations of ratios of characteristic
+  polynomials at the spectral edges",1.3146088034715335e-05,0.0001370786923432,32.0,6.0
+quant-ph/0603077,"Generalized Deformed Commutation Relations with Nonzero Minimal
+  Uncertainties in Position and/or Momentum and Applications to Quantum
+  Mechanics",1.3091499445074484e-05,1.990182755160072e-06,30.0,1.0
+cond-mat/0611265,"Current distribution in systems with anomalous diffusion:
+  renormalisation group approach",1.3050368379395309e-05,0.0,3.0,0.0
+cond-mat/0411512,One-boundary Temperley-Lieb algebras in the XXZ and loop models,1.304460053765548e-05,5.468900581977204e-06,25.0,12.0
+math-ph/0504035,Riemann Hypothesis and Short Distance Fermionic Green's Functions,1.3033655151223454e-05,0.0,23.0,0.0
+quant-ph/0509166,Quantum states on Harmonic lattices,1.3017767373578388e-05,2.281752402721028e-05,26.0,7.0
+math-ph/0703067,A new approach to deformation equations of noncommutative KP hierarchies,1.2982316161036869e-05,0.0,4.0,0.0
+gr-qc/0702129,The Maxwell Lagrangian in purely affine gravity,1.29792912937076e-05,0.0,2.0,1.0
+cond-mat/0203148,Stresses in lipid membranes,1.2971921638962208e-05,0.0,3.0,1.0
+hep-th/0212051,Characteristic Polynomials of Complex Random Matrix Models,1.2914760040698138e-05,0.0001473837041495,44.0,10.0
+math/0610364,On some questions related to the Krichever correspondence,1.2912626188832563e-05,0.0,5.0,0.0
+math-ph/0604014,Matrix eigenvalue model: Feynman graph technique for all genera,1.2892301505641986e-05,1.5327091046026518e-06,27.0,2.0
+math/0501038,"The Maslov dequantization, idempotent and tropical mathematics: a very
+  brief introduction",1.2871646679377646e-05,4.841367552205469e-06,25.0,2.0
+hep-th/0106284,"Holography&Transplantation and All That (The tip of an iceberg for a
+  paradigmatic change in QFT?)",1.2850789900167238e-05,1.8072399809214003e-06,12.0,1.0
+math/0111082,Matrix Integrals and Feynman Diagrams in the Kontsevich Model,1.2818189450929304e-05,0.0,14.0,0.0
+math/0307032,Noncommutative Spheres and Instantons,1.2813018745229884e-05,0.0,12.0,1.0
+hep-th/0305045,Lagrangian and Noncommutativity,1.2776340807850934e-05,4.989077316504148e-08,21.0,2.0
+hep-th/0610023,"Internal Space for the Noncommutative Geometry Standard Model and
+  Strings",1.2770669821726774e-05,7.908517897402598e-07,26.0,2.0
+hep-th/0311206,Commuting Flows and Conservation Laws for Noncommutative Lax Hierarchies,1.276646130955962e-05,1.298384839984811e-05,44.0,18.0
+math-ph/0308004,Generalized Bundle Quantum Mechanics,1.2748903765012735e-05,0.0,6.0,0.0
+math/0701122,Uniqueness and examples of compact toric Sasaki-Einstein metrics,1.2747207820348754e-05,2.077600149808252e-06,14.0,3.0
+math-ph/0308005,No quantum ergodicity for star graphs,1.2735177484696893e-05,0.0,5.0,1.0
+math-ph/0405054,Toroidal Soliton Solutions in O(3)^N Nonlinear Sigma Model,1.272878880455237e-05,5.735801198878013e-07,6.0,3.0
+hep-th/0111066,"Double Elliptic Dynamical Systems From Generalized Mukai - Sklyanin
+  Algebras",1.271020526602532e-05,5.662872273676421e-06,30.0,5.0
+hep-th/0607052,"Symmetry and Integrability of Non-Singlet Sectors in Matrix Quantum
+  Mechanics",1.2674770812146571e-05,1.1173874914325393e-07,21.0,2.0
+math-ph/0110017,The spectral gap for the ferromagnetic spin-J XXZ chain,1.2658135550308816e-05,1.4727352388184604e-05,12.0,6.0
+math-ph/0605053,Effective Dynamics for Boson Stars,1.2657062053930836e-05,0.0,6.0,0.0
+math-ph/0609058,"On a relation between Liouville field theory and a two component scalar
+  field theory passing through the random walk",1.265408971158632e-05,0.0,13.0,0.0
+math-ph/0603037,A representation of twistors within geometric (Clifford) algebra,1.2622829514015203e-05,2.3156683661967865e-07,14.0,1.0
+math/0305268,"Explicit description of twisted Wakimoto realizations of affine Lie
+  algebras",1.261723266122081e-05,0.0,17.0,0.0
+hep-th/0611308,BiHermitian Supersymmetric Quantum Mechanics,1.260214459514317e-05,0.0,27.0,0.0
+hep-th/0306210,Interaction via reduction and nonlinear superconformal symmetry,1.2574266684819734e-05,1.983070299840847e-07,24.0,5.0
+math-ph/0603008,Poincar\'e and sl(2) algebras of order 3,1.2552179473107951e-05,5.2976622806070815e-08,15.0,2.0
+math/0607401,"Generalized geometry, equivariant $\bar{\partial}\partial$-lemma, and
+  torus actions",1.2539313547123808e-05,0.0,13.0,0.0
+cond-mat/0309307,Dynamical space-time symmetry for ageing far from equilibrium,1.253819977018242e-05,0.0,20.0,0.0
+hep-th/0606035,WDVV equations for 6d Seiberg-Witten theory and bi-elliptic curves,1.253353454093778e-05,0.0,34.0,0.0
+math-ph/0605016,"Character decomposition of Potts model partition functions. I. Cyclic
+  geometry",1.2527281292230676e-05,1.1484125106891625e-07,4.0,3.0
+gr-qc/0110077,A Geometric Renormalisation Group in Discrete Quantum Space-Time,1.2503884063121646e-05,1.2623636309545045e-06,24.0,5.0
+math/0607012,"The spaces of Laurent polynomials, $\mathbb{P}^1$-orbifolds, and
+  integrable hierarchies",1.250090746691154e-05,0.0,12.0,0.0
+math/0701568,Introduction to the Gopakumar-Vafa Large N Duality,1.2477257075838952e-05,1.8226998290422687e-08,18.0,1.0
+math-ph/0512037,"Spectrum and Bethe ansatz equations for the U_ {q}(gl(N)) closed and
+  open spin chains in any representation",1.2458841357647548e-05,6.221214403129564e-06,22.0,5.0
+math/0702071,Computing the Loewner driving process of random curves in the half plane,1.2457753172183376e-05,0.0,12.0,1.0
+math-ph/0703028,"Complex Zeros of Eigenfunctions of 1D Schr\""odinger Operators",1.2382086199844191e-05,0.0,2.0,1.0
+gr-qc/0506069,Rigorous steps towards holography in asymptotically flat spacetimes,1.2377824260557532e-05,1.2582988853589392e-05,18.0,8.0
+math-ph/0407006,Representations of the Weyl Algebra in Quantum Geometry,1.2363207151191828e-05,6.396076354302188e-05,23.0,34.0
+math-ph/0703038,Spectral Curves of Operators with Elliptic Coefficients,1.2358715359025852e-05,0.0,11.0,0.0
+solv-int/9912010,"Real forms of the complex twisted N=2 supersymmetric Toda chain
+  hierarchy in real N=1 and twisted N=2 superspaces",1.23296219439012e-05,4.234384037850518e-07,18.0,2.0
+math-ph/0505021,Giambelli compatible point processes,1.2317738460357277e-05,2.095682094963859e-06,14.0,3.0
+hep-th/0301121,"Classical R-Matrices and the Feigin-Odesskii Algebra via Hamiltonian and
+  Poisson Reductions",1.2297124444759388e-05,1.1292896129682547e-06,17.0,2.0
+math-ph/0604048,"Events and cosmological spaces through twistors in the geometric
+  (Clifford) algebra formalism",1.2279330259963402e-05,2.224120153847059e-07,6.0,1.0
+cond-mat/0609672,"Ageing, dynamical scaling and its extensions in many-particle systems
+  without detailed balance",1.2263990142728171e-05,2.512973754647465e-06,8.0,5.0
+math/0203039,Local representations of the (1+1) quantum extended Galilei algebra,1.226307390764056e-05,0.0,5.0,0.0
+math/0609233,Correspondences of a K3 surface with itself via moduli of sheaves. I,1.2247578866604165e-05,1.990182755160072e-06,8.0,1.0
+math-ph/0207014,Differential Geometry of Group Lattices,1.2245416110186484e-05,1.848526001449034e-07,7.0,5.0
+math-ph/0703082,Involutive distributions of operator-valued evolutionary vector fields,1.2230513370754517e-05,0.0,5.0,0.0
+hep-th/0104092,Solutions of the WDVV Equations and Integrable Hierarchies of KP type,1.2214950242573852e-05,1.6754605601306745e-05,11.0,6.0
+math-ph/0304041,"Exact, explicit and entire solutions to a nontrivial finite-difference
+  equation and their applications",1.2198455928026945e-05,1.990182755160072e-06,1.0,2.0
+nlin/0701030,q-Boson in Quantum Integrable Systems,1.2194875846313964e-05,0.0,11.0,0.0
+math-ph/0511071,"Supersymmetric Representations and Integrable Fermionic Extensions of
+  the Burgers and Boussinesq Equations",1.2183262428462757e-05,4.961981526494793e-06,10.0,2.0
+hep-th/0312277,Tau functions for the Dirac operator on the cylinder,1.2132307272370396e-05,0.0,9.0,1.0
+hep-th/0412159,Reflection-Transmission Quantum Yang-Baxter Equations,1.2113449335956508e-05,4.064462509580251e-06,19.0,5.0
+hep-th/0602226,"On the worldsheet theories of strings dual to free large N gauge
+  theories",1.2103290408504394e-05,4.467350411208068e-06,52.0,13.0
+quant-ph/0703254,The quantum brachistochrone problem for non-Hermitian Hamiltonians,1.208489961504487e-05,0.0,3.0,0.0
+hep-th/0601140,Fermion Systems in Discrete Space-Time,1.20794645380025e-05,0.0,4.0,1.0
+math-ph/0601053,Renormalization : A number theoretical model,1.2075101570612829e-05,0.0,7.0,0.0
+math-ph/0306046,"A brief introduction to the noncommutative geometry description of
+  particle physics standard model",1.2060329378621726e-05,1.857614152388225e-05,37.0,4.0
+math-ph/0303003,Morphing quantum mechanics and fluid dynamics,1.2049528436650331e-05,4.069030633472854e-07,8.0,2.0
+hep-th/0502019,"A New Construction of Quasi-solvable Quantum Many-body Systems of
+  Deformed Calogero-Sutherland Type",1.2016727447797718e-05,3.0669953733908067e-06,14.0,2.0
+hep-th/0309059,Hitchin systems on singular curves II. Gluing subschemes,1.1997272543308318e-05,1.9999594875956565e-06,6.0,4.0
+quant-ph/0606187,Quantum control by von Neumann measurements,1.1985783894259532e-05,0.0,2.0,0.0
+math-ph/0611087,Formal matrix integrals and combinatorics of maps,1.1961887980628862e-05,2.0994959209602247e-08,22.0,2.0
+nlin/0612063,Bethe Ansatz Solutions of the Bose-Hubbard Dimer,1.194653250728098e-05,0.0,10.0,0.0
+math/0306332,Noncommutative homotopy algebras associated with open strings,1.1938349957414982e-05,0.0001293287966762,50.0,7.0
+math-ph/0510088,Quasi-Chaplygin Systems and Nonholonimic Rigid Body Dynamics,1.1905625244191376e-05,0.0,6.0,0.0
+hep-th/0602273,Algebraic approach to parafermionic conformal field theories,1.189245875653166e-05,3.9774311726823003e-08,12.0,1.0
+math-ph/0512084,"Superintegrability on Three-Dimensional Riemannian and Relativistic
+  Spaces of Constant Curvature",1.1876496971474428e-05,5.970548265480216e-06,17.0,3.0
+quant-ph/0608227,Complementary reductions for two qubits,1.187160406639558e-05,0.0,2.0,1.0
+gr-qc/0607101,Algebraic Quantum Gravity (AQG) III. Semiclassical Perturbation Theory,1.1870011070729552e-05,5.057069510174705e-07,36.0,6.0
+math-ph/0606057,Algebra of Noncommutative Riemann Surfaces,1.1851038249926158e-05,7.288187874597141e-07,14.0,2.0
+math-ph/0602008,Applications of Symmetry Methods to the Theory of Plasma Physics,1.1831475302123823e-05,0.0,8.0,0.0
+quant-ph/0603075,"On Existence of a Biorthonormal Basis Composed of Eigenvectors of
+  Non-Hermitian Operators",1.1828803556479514e-05,3.784440311620068e-06,9.0,3.0
+cond-mat/0412479,"On the scaling and ageing behaviour of the alternating susceptibility in
+  spin glasses and local scale-invariance",1.1824537090744843e-05,0.0,4.0,1.0
+math-ph/0611062,"Partial Reductions of Hamiltonian Flows and Hess-Appel'rot Systems on
+  SO(n)",1.182451892635312e-05,0.0,7.0,0.0
+math-ph/0611008,"Optimized basis expansion as an extremely accurate technique for solving
+  time-independent Schr\""odinger equation",1.181971147785192e-05,0.0,2.0,2.0
+math-ph/0601062,Random partitions and instanton counting,1.1818054593819026e-05,0.0,27.0,0.0
+hep-th/0503014,Gauged vortices in a background,1.181354985544748e-05,2.1890494569652004e-06,11.0,3.0
+math-ph/0703023,Transition between Airy_1 and Airy_2 processes and TASEP fluctuations,1.1813377715358257e-05,0.0,6.0,0.0
+math/0511696,Non Abelian Differentiable Gerbes,1.1809696511130223e-05,2.6392661415488343e-06,8.0,2.0
+hep-th/0308079,"Noncommutative Geometry Framework and The Feynman's Proof of Maxwell
+  Equations",1.1802407351580728e-05,1.2044419728323785e-06,21.0,2.0
+math-ph/0611012,"Open boundary Quantum Knizhnik-Zamolodchikov equation and the weighted
+  enumeration of Plane Partitions with symmetries",1.179080029209166e-05,3.585002844745874e-07,20.0,2.0
+math-ph/0101018,Infinite Hopf Families of Algebras and Yang-Baxter Relations,1.1753097846521844e-05,0.0,11.0,0.0
+math/0510654,Transportation to random zeroes by the gradient flow,1.1740200410592274e-05,5.970548265480216e-06,10.0,2.0
+math-ph/0604039,Decay of the Fourier transform of surfaces with vanishing curvature,1.1740167324524409e-05,5.970548265480216e-06,6.0,1.0
+math/0512076,Topological and conformal field theory as Frobenius algebras,1.1732676361489636e-05,6.416387188273042e-06,29.0,6.0
+math/0609530,Witten's conjecture for many four-manifolds of simple type,1.1713041292077004e-05,2.369111673508327e-06,16.0,2.0
+physics/0409076,On Dirac's incomplete analysis of gauge transformations,1.1695640139853954e-05,3.287102806972294e-08,15.0,1.0
+cond-mat/0306171,The kinetic spherical model in a magnetic field,1.1665863136701075e-05,0.0,10.0,0.0
+quant-ph/0502167,"Quantum phase uncertainty in mutually unbiased measurements and Gauss
+  sums",1.1659537225331732e-05,5.2641167124885015e-06,18.0,1.0
+hep-th/0205168,"Wormhole Spaces, Connes' ""Points, Speaking to Each Other"", and the
+  Translocal Structure of Quantum Theory",1.1647807205082545e-05,5.513175468551066e-06,20.0,4.0
+math-ph/0507024,Algebraic identities associated with KP and AKNS hierarchies,1.1637759502243051e-05,1.8372830593634242e-07,2.0,2.0
+hep-th/0303059,Gauge conservation laws in higher-dimensional Chern-Simons models,1.1635042214339185e-05,9.405269683583669e-08,6.0,4.0
+math-ph/0606045,Invariants of Lie Algebras with Fixed Structure of Nilradicals,1.1611730167259728e-05,0.0,4.0,1.0
+nlin/0702040,"Multidimensional integrable systems and deformations of Lie algebra
+  homomorphisms",1.1597040963871053e-05,0.0,5.0,0.0
+quant-ph/0402035,p-Mechanics and Field Theory,1.1587422510722172e-05,1.1830942479107309e-07,17.0,1.0
+hep-th/0306247,The Fuzzy Disc,1.1575538976730371e-05,1.318475041756975e-05,36.0,16.0
+hep-th/0412131,"Jordanian Quantum Deformations of D=4 Anti-de-Sitter and Poincare
+  Superalgebras",1.1571092133741212e-05,4.656402424848528e-06,29.0,3.0
+hep-th/0612047,A Monopole Wall,1.1558128066561337e-05,0.0,2.0,0.0
+math-ph/0602039,On permanental polynomials of certain random matrices,1.154968020623126e-05,5.517774086349944e-08,7.0,1.0
+math-ph/0210038,"WDVV Equations, Darboux-Egoroff Metric and the Dressing Method",1.1547575201687451e-05,2.022038128468983e-06,12.0,2.0
+math-ph/0602066,Large-j Expansion Method for Two-Body Dirac Equation,1.154521386383858e-05,0.0,6.0,0.0
+math-ph/0412039,"Lectures on Elliptic Functions and Modular Forms in Conformal Field
+  Theory",1.1536446684654112e-05,2.9016430391488727e-06,15.0,2.0
+gr-qc/9802058,"On metric-connection compatibility and the signature change of
+  space-time",1.1532761104881914e-05,1.1941096530960432e-05,13.0,2.0
+hep-th/0007112,"Half-Integer Winding Number Solutions to the Landau-Ginzburg-Higgs
+  Equations and Instability of the Abrikosov-Nielsen-Olesen Vortex",1.1524079808224369e-05,0.0,9.0,1.0
+math-ph/0608018,Contractions of Low-Dimensional Lie Algebras,1.1501142370782036e-05,1.990182755160072e-06,4.0,1.0
+math-ph/0207038,"The discretised harmonic oscillator: Mathieu functions and a new class
+  of generalised Hermite polynomials",1.1484524069537025e-05,3.980365510320144e-06,9.0,1.0
+quant-ph/0305155,Cavity QED and Quantum Computation in the Strong Coupling Regime,1.1472040294366488e-05,0.0,18.0,1.0
+hep-th/0502184,"Towards the construction of quantum field theories from a factorizing
+  S-matrix",1.1461818382129756e-05,1.9938947660147309e-07,13.0,4.0
+math-ph/0611084,Chern-Simons theory and the quantum Racah formula,1.1416513685665375e-05,0.0,13.0,0.0
+cond-mat/0004330,"Transfer Matrices and Partition-Function Zeros for Antiferromagnetic
+  Potts Models I. General Theory and Square-Lattice Chromatic Polynomial",1.14058220462525e-05,7.800320134076537e-05,31.0,23.0
+math-ph/0605010,Mixed correlation function and spectral curve for the 2-matrix model,1.1405393085009956e-05,3.962923801520616e-06,17.0,1.0
+nlin/0012042,"Symmetry Flows, Conservation Laws and Dressing Approach to the
+  Integrable Models",1.139464335013139e-05,1.2178079363083231e-05,12.0,3.0
+math-ph/0409060,From affine Hecke algebras to boundary symmetries,1.1373479945638416e-05,1.3087043931629729e-05,9.0,8.0
+math/0403431,"The Space of Local Fields as a Module over the Ring of Local Integrals
+  of Motion",1.1368617860073804e-05,0.0,2.0,0.0
+math/0507179,"An intrinsic volume functional on almost complex 6-manifolds and nearly
+  Kaehler geometry",1.1333931974469508e-05,1.0549102163425296e-05,19.0,6.0
+math-ph/0612003,On the Regularized Fermionic Projector of the Vacuum,1.1313621381379126e-05,1.990182755160072e-06,5.0,1.0
+hep-th/0401172,"The LQG -- String: Loop Quantum Gravity Quantization of String Theory I.
+  Flat Target Space",1.1294228800073704e-05,4.0854352946743696e-05,51.0,19.0
+hep-th/0507209,"Spectral equivalences and symmetry breaking in integrable SU_q(N) spin
+  chains with boundaries",1.128829497098299e-05,0.0,19.0,0.0
+gr-qc/0411140,"Testing the Master Constraint Programme for Loop Quantum Gravity III.
+  SL(2,R) Models",1.1277487392617672e-05,3.226703025789984e-06,45.0,19.0
+math-ph/0510049,Finslerian grounds for four--directional anisotropic kinematics,1.127119083854587e-05,0.0,7.0,0.0
+hep-th/0403246,The Epstein-Glaser approach to pQFT: graphs and Hopf algebras,1.1270935157089394e-05,0.0,22.0,0.0
+cond-mat/0701113,Critical speeding-up in a local dynamics for the random-cluster model,1.1270229362811906e-05,7.970327122821786e-07,8.0,1.0
+math-ph/0505040,Fusion of symmetric $D$-branes and Verlinde rings,1.1270052743796388e-05,2.5901401151242163e-08,14.0,1.0
+nlin/0506041,"Fermionic one- and two-dimensional Toda lattice hierarchies and their
+  bi-Hamiltonian structures",1.1267952585834024e-05,0.0,4.0,0.0
+math-ph/0510034,Recursive parameterisation and invariant phases of unitary matrices,1.1261486575099473e-05,2.726466725446387e-07,6.0,2.0
+hep-th/0505229,Unitary Evolution on a Phase Space with Power of Two Discretization,1.1235057967912673e-05,5.744410325300827e-07,23.0,1.0
+hep-th/0503214,"Partition functions of Supersymmetric Gauge Theories in Noncommutative
+  R^{2D} and their Unified Perspective",1.1231572711471764e-05,1.2211488132762388e-06,33.0,2.0
+math/0411468,"2-Groups, trialgebras and their Hopf categories of representations",1.1222335196906388e-05,0.0,20.0,0.0
+hep-th/0305172,Field Theoretic Realizations for Cubic Supersymmetry,1.121949049707009e-05,5.96744611238473e-06,25.0,8.0
+solv-int/9907021,Supersymmetric KP hierarchy in N=1 superspace and its N=2 reductions,1.1205066106703362e-05,2.9778480776835407e-06,15.0,7.0
+hep-th/0512129,"On the Topology of the Reduced Classical Configuration Space of Lattice
+  QCD",1.1203883774583485e-05,1.990182755160072e-06,4.0,2.0
+hep-th/0505205,"Iteration of Planar Amplitudes in Maximally Supersymmetric Yang-Mills
+  Theory at Three Loops and Beyond",1.1200979662621163e-05,9.600366412391704e-05,135.0,42.0
+gr-qc/0502056,Threshold of Singularity Formation in the Semilinear Wave Equation,1.119589751663854e-05,1.435703977603037e-08,9.0,1.0
+math-ph/0603071,On the Generalized Maxwell-Bloch Equations,1.1186389253067214e-05,0.0,4.0,0.0
+math-ph/0608001,Modular Invariants and Fischer-Griess Monster,1.1167219043236398e-05,0.0,2.0,0.0
+math/0606076,Renormalization of multiple zeta values,1.1164421699658242e-05,2.391178591187392e-06,15.0,6.0
+gr-qc/0607100,Algebraic Quantum Gravity (AQG) II. Semiclassical Analysis,1.1149596219823276e-05,3.7703066240500425e-07,34.0,6.0
+math-ph/0306058,Automorphisms of associative algebras and noncommutative geometry,1.1144164566208592e-05,6.689216381825025e-08,11.0,2.0
+hep-th/0108043,"Superconnections, Anomalies and Non-BPS Brane Charges",1.1134044558664649e-05,6.433497793893736e-06,85.0,14.0
+math/9906189,Cladistics of Double Yangians and Elliptic Algebras,1.1125310834534011e-05,6.683338348992516e-06,27.0,4.0
+math-ph/0603009,"Sum rules for the ground states of the O(1) loop model on a cylinder and
+  the XXZ spin chain",1.1091418889521776e-05,2.596545010719156e-06,23.0,6.0
+hep-ph/0408184,Facets of the spinless Salpeter equation,1.1076695734048818e-05,0.0,22.0,4.0
+math-ph/0703002,Subsolutions of the Dirac equation and WIMP dark matter,1.1040551071280907e-05,0.0,2.0,0.0
+math/0607808,Givental's Lagrangian Cone and S^1-Equivariant Gromov-Witten Theory,1.1038112966859296e-05,0.0,8.0,0.0
+gr-qc/0605087,Quantization of strings and branes coupled to BF theory,1.1027549899941036e-05,9.949044012157263e-07,23.0,8.0
+hep-th/0109215,"Geometry of Generalized Coherent States : Some Calculations of Chern
+  Characters",1.1004081230541263e-05,0.0,14.0,0.0
+math-ph/0502025,Quantum diffusion for the Anderson model in the scaling limit,1.0988263899670127e-05,3.980365510320144e-06,2.0,9.0
+math-ph/0404068,Ratios of characteristic polynomials in complex matrix models,1.0961104851735435e-05,6.073207801278119e-06,14.0,4.0
+quant-ph/0608090,"The Convex Closure of the Output Entropy of Infinite Dimensional
+  Channels and the Additivity Problem",1.0941897625291271e-05,2.802661750879008e-06,16.0,1.0
+quant-ph/0606123,The hidden geometric character of relativistic quantum mechanics,1.0933373802853468e-05,0.0,7.0,0.0
+cond-mat/0501110,"Exact results for the one-dimensional many-body problem with contact
+  interaction: Including a tunable impurity",1.0932503653607968e-05,2.045529167958041e-06,13.0,2.0
+math/0602062,Spinning particles in a Yang-Mills field,1.0916886096878564e-05,0.0,5.0,1.0
+gr-qc/0607090,$\Lambda$ effect in the cosmological expansion of voids,1.0910802777067764e-05,3.980365510320144e-06,1.0,2.0
+cond-mat/0301071,Ferromagnetism in the Hubbard model: A constructive approach,1.0892114725396296e-05,0.0,8.0,4.0
+math-ph/0611063,"Refined Spectral Method as an extremely accurate technique for solving
+  2D time-independent Schrodinger equation",1.0889073465185677e-05,0.0,2.0,1.0
+math-ph/0412092,"Classification of real three-dimensional Lie bialgebras and their
+  Poisson-Lie groups",1.0874964097598953e-05,0.0,11.0,0.0
+math-ph/0403007,"Janossy densities, multimatrix spacing distributions and Fredholm
+  resolvents",1.0871188440079475e-05,0.0,2.0,0.0
+nlin/0501003,"An algebraic scheme associated with the noncommutative KP hierarchy and
+  some of its extensions",1.0869343163803025e-05,1.6010358165781242e-06,10.0,1.0
+math/0512621,"Kazhdan--Lusztig correspondence for the representation category of the
+  triplet W-algebra in logarithmic CFT",1.084171814111582e-05,2.8039591035655896e-05,18.0,5.0
+hep-th/0012084,Precanonical Quantization and the Schroedinger Wave Functional,1.0813820775179008e-05,1.7839515296977114e-07,19.0,8.0
+gr-qc/0606105,"Proof of the angular momentum-mass inequality for axisymmetric black
+  holes",1.0802701423857432e-05,0.0,14.0,0.0
+hep-th/0312066,Four dimensional cubic supersymmetry,1.0800131457819853e-05,1.8565137641418582e-09,21.0,1.0
+hep-th/0602118,"A Killing tensor for higher dimensional Kerr-AdS black holes with NUT
+  charge",1.0783639976107964e-05,1.3011283441436026e-07,13.0,4.0
+quant-ph/0608186,More on the Isomorphism $SU(2)\otimes SU(2)\cong SO(4)$,1.0775639804667668e-05,3.6243670621316807e-06,11.0,3.0
+gr-qc/0512115,Gauge gravitation theory from the geometric viewpoint,1.0750782772190305e-05,2.388776154143039e-06,8.0,3.0
+hep-th/0309026,Polyakov Lines in Yang-Mills Matrix Models,1.0729458909222062e-05,1.713981940167154e-07,38.0,3.0
+nlin/0311030,Generalized fermionic discrete Toda hierarchy,1.072781399497488e-05,7.931026800414018e-06,9.0,2.0
+math-ph/0703045,Qualitative Analysis of the Classical and Quantum Manakov Top,1.0727451734008933e-05,0.0,8.0,0.0
+math-ph/0010026,Some infinite series related to Feynman diagrams,1.069670406692592e-05,2.792359014434722e-06,4.0,2.0
+cond-mat/0605316,Symmetry and Topological Order,1.0686109447470908e-05,4.540850268209734e-06,2.0,5.0
+gr-qc/0612087,Global dynamics of cosmological scalar fields -- Part I,1.068484453816578e-05,0.0,13.0,0.0
+math-ph/0303027,Physical wavelets and their sources: Real physics in complex spacetime,1.0681907799053512e-05,5.980891699309006e-06,10.0,3.0
+math/0403463,"On the hermiticity of q-differential operators and forms on the quantum
+  Euclidean spaces R_q^N",1.06538865673417e-05,3.5862117753207478e-06,13.0,4.0
+math-ph/9810011,"Projective Systems of Noncommutative Lattices as a Pregeometric
+  Substratum",1.0636169054885672e-05,7.679010179522487e-07,5.0,3.0
+hep-th/0510252,"Sp(4,H)/Z_2 Pair Universe in E6 Matrix Models",1.0629828641792244e-05,7.691390960783575e-08,8.0,1.0
+gr-qc/0504095,"Nonholonomic Deformations of Disk Solutions and Algebroid Symmetries in
+  Einstein and Extra Dimension Gravity",1.0607667299674504e-05,5.495981627457613e-07,6.0,2.0
+math/0301117,On generalized winding numbers,1.0583316922420644e-05,0.0001980988728128,2.0,4.0
+hep-th/9910033,Calogero-Moser Models V: Supersymmetry and Quantum Lax Pair,1.056200389986743e-05,1.2276197850365417e-05,25.0,21.0
+math-ph/9903033,"q-Identities and affinized projective varieties, II. Flag varieties",1.0560954620010042e-05,0.0,17.0,4.0
+math-ph/0212060,"Derivation of the Supersymmetric Harish--Chandra Integral for
+  UOSp(k_1/2k_2)",1.0560266437957387e-05,0.0,6.0,0.0
+math-ph/0402072,Modular Nuclearity and Localization,1.055644127783542e-05,8.016817439891818e-06,14.0,11.0
+math/0501391,Orbifold elliptic genera and rigidity,1.0555369345481038e-05,0.0,2.0,1.0
+physics/9711001,"Algebraic approach to q-deformed supersymmetric variants of the Hubbard
+  model with pair hoppings",1.0533042557775093e-05,0.0,15.0,5.0
+math-ph/0402064,Stochastic dynamics related to Plancherel measure on partitions,1.0522445808504838e-05,5.987946451612744e-06,11.0,5.0
+math/0202059,A Treatise on Quantum Clifford Algebras,1.0508801841689836e-05,5.113567385832113e-06,21.0,10.0
+cond-mat/0609435,Loop models and their critical points,1.049652524469235e-05,6.060032228911853e-06,14.0,2.0
+hep-th/0008135,Post-Riemannian Merger of Yang-Mills Interactions with Gravity,1.049141781467073e-05,2.3604246429803632e-08,15.0,2.0
+hep-th/0608117,Heisenberg Honeycombs Solve Veneziano Puzzle,1.0490120924079714e-05,0.0,11.0,0.0
+hep-th/0302162,"Open Wilson Lines and Group Theory of Noncommutative Yang-Mills Theory
+  in Two Dimensions",1.0488455749365466e-05,1.0802813453675554e-06,40.0,19.0
+math/0408219,A holomorphic representation of the Jacobi algebra,1.0478040444814353e-05,0.0,5.0,1.0
+math-ph/0411016,"Correlations of the characteristic polynomials in the Gaussian Unitary
+  Ensemble or a singular Hankel determinant",1.047622087277552e-05,1.002545245130862e-05,10.0,2.0
+math-ph/0506024,Lie Groupoids and Lie algebroids in physics and noncommutative geometry,1.0461045156021771e-05,0.0,6.0,0.0
+math/0504053,Realization of coherent state Lie algebras by differential operators,1.045313556830454e-05,0.0,4.0,2.0
+math/0511590,"Ribbon categories and (unoriented) CFT: Frobenius algebras,
+  automorphisms, reversions",1.0443412369000949e-05,9.621053419091338e-06,24.0,7.0
+math-ph/9902018,A note on Farey sequences and Hausdorff dimension,1.0442130615137546e-05,0.0,2.0,0.0
+quant-ph/0702189,Unbounded violation of tripartite Bell inequalities,1.043108183064974e-05,3.956974343614187e-07,8.0,2.0
+nlin/0701040,Relativistic Toda Chain with Boundary Interaction at Root of Unity,1.0428791594275485e-05,0.0,14.0,0.0
+math-ph/0309005,"Lam\'e polynomials, hyperelliptic reductions and Lam\'e band structure",1.0427431347805822e-05,2.3907466891079275e-05,13.0,5.0
+math/0601708,"Exotic Bialgebra S03: Representations, Baxterisation and Applications",1.0425306160079355e-05,5.847033720319901e-07,11.0,4.0
+hep-th/0611241,"Fermionic Expressions for the Characters of c(p,1) Logarithmic Conformal
+  Field Theories",1.0400874812278584e-05,1.5466766073991098e-08,22.0,1.0
+math-ph/0703009,The diagonal Ising susceptibility,1.0378996802442272e-05,0.0,6.0,0.0
+math-ph/0306008,On the spectrum of curved quantum waveguides,1.0378779542881484e-05,0.0,5.0,4.0
+math/0011208,Quantum Logic in Intuitionistic Perspective,1.0368528539631717e-05,0.0,4.0,2.0
+hep-th/0110020,Fractional Supersymmetry and F-fold Lie Superalgebras,1.0345543460539003e-05,1.6655017959510753e-06,25.0,3.0
+math-ph/0210057,"Generalized Euler Angle Parameterization for U(N) with Applications to
+  SU(N) Coset Volume Measures",1.0344393261548603e-05,1.5203335930275068e-06,10.0,2.0
+math-ph/0210028,Bose-Einstein Condensation of Dilute Gases in Traps,1.033456502110553e-05,0.0,4.0,0.0
+hep-th/0103051,"Spectral equivalences, Bethe Ansatz equations, and reality properties in
+  PT-symmetric quantum mechanics",1.027135778964746e-05,5.438067409899798e-05,25.0,34.0
+math/0304150,"Classification of reflection matrices related to (super) Yangians and
+  application to open spin chain models",1.0263157223101564e-05,3.725128357437581e-06,29.0,6.0
+math-ph/0402045,"Ferromagnetic Domain Wall Ground States in One-Dimensional Deformed
+  Flat-Band Hubbard Model",1.0255616962971249e-05,0.0,3.0,0.0
+hep-th/0504122,"From finite geometry exact quantities to (elliptic) scattering
+  amplitudes for spin chains: the 1/2-XYZ",1.025128204322806e-05,9.773774360841128e-07,23.0,3.0
+hep-th/0602272,"Semirelativistic stability of N-boson systems bound by 1/r pair
+  potentials",1.0243655167274713e-05,0.0,5.0,0.0
+math-ph/0505038,"One-dimensional stochastic growth and Gaussian ensembles of random
+  matrices",1.0230558970479692e-05,1.986528923736424e-05,9.0,3.0
+cond-mat/0604005,The relation between Feynman cycles and off-diagonal long-range order,1.0214722288307578e-05,0.0,2.0,1.0
+gr-qc/0411138,"Testing the Master Constraint Programme for Loop Quantum Gravity I.
+  General Framework",1.021112433571316e-05,2.5366058164703014e-06,49.0,20.0
+math-ph/0702005,"Relative $C$""-Numerical Ranges for Applications in Quantum Control and
+  Quantum Information",1.0202903143229382e-05,0.0,1.0,1.0
+math-ph/0602020,"Fusion Rules of the Lowest Weight Representations of osp_q(1|2) at Roots
+  of Unity: Polynomial Realization and Degeneration at Roots of Unity",1.0201287110265998e-05,0.0,3.0,0.0
+hep-th/0411043,"Form factors in the massless coset models su(2)_{k+1} \otimes su(2)_k
+  /su(2)_{2k+1} - Part I",1.019734399052524e-05,4.3674515645701137e-08,10.0,1.0
+cond-mat/0309352,"The repulsive lattice gas, the independent-set polynomial, and the
+  Lov\'asz local lemma",1.0197237130172209e-05,1.990182755160072e-06,7.0,2.0
+quant-ph/0203135,"Mathematical Structure of Rabi Oscillations in the Strong Coupling
+  Regime",1.0182507479665682e-05,7.021360813439321e-06,20.0,10.0
+math/0511657,Twistor and Reflector Spaces of Almost Para-Quaternionic Manifolds,1.0174829802717876e-05,1.3751953808458207e-10,7.0,1.0
+gr-qc/0305047,"Conserved Quantities from the Equations of Motion (with applications to
+  natural and gauge natural theories of gravitation)",1.017302137404518e-05,1.7533741105784218e-08,15.0,2.0
+math-ph/0512016,"On Graph-Theoretic Identifications of Adinkras, Supersymmetry
+  Representations and Superfields",1.0159890490888112e-05,6.584241722492676e-06,16.0,5.0
+math-ph/0111007,"Fredholm determinants, Jimbo-Miwa-Ueno tau-functions, and representation
+  theory",1.0159585434371403e-05,2.482723058670678e-05,28.0,10.0
+math/0302200,Chaos in PDEs and Lax Pairs of Euler Equations,1.0158244257872226e-05,0.0,9.0,0.0
+hep-th/9911242,"Non-Abelian Stokes Theorem and Quark Confinement in SU(N) Yang-Mills
+  Gauge Theory",1.0152182496473185e-05,7.701047032939354e-05,36.0,21.0
+math-ph/0608004,"Generalized Eigenfunctions for critical potentials with small
+  perturbations",1.0150146773295838e-05,0.0,2.0,1.0
+hep-th/0112263,"Geometric (pre)quantization in the polysymplectic approach to field
+  theory",1.0113352562430837e-05,4.957970928558868e-06,22.0,6.0
+quant-ph/0108133,On Classical and Quantum Cryptography,1.0099544495258373e-05,2.654781833862902e-05,26.0,5.0
+hep-th/0509172,Boundary conditions in supergravity on a manifold with boundary,1.0098721683036736e-05,8.231097594904681e-07,26.0,6.0
+math/0701565,Stringy power operations in Tate K-theory,1.0089580090890533e-05,0.0,3.0,0.0
+hep-th/0212117,Dolan-Grady Relations and Noncommutative Quasi-Exactly Solvable Systems,1.0081868050075815e-05,6.532742775244515e-05,26.0,3.0
+math-ph/0209001,"The bracket and the evolution operator in covariant Hamiltonian field
+  theory",1.006392617255078e-05,4.210387277516507e-08,13.0,1.0
+math-ph/0506073,Mock (False) Theta Functions as Quantum Invariants,1.004582458991645e-05,1.990182755160072e-06,4.0,1.0
+math-ph/0204011,The Ferromagnetic Heisenberg XXZ chain in a pinning field,1.0045547016718512e-05,1.057579763190664e-05,12.0,2.0
+hep-th/0408190,Noncommutative waves have infinite propagation speed,1.0044760433004242e-05,5.359932904528005e-07,25.0,3.0
+math/0701134,Raising and Lowering Operators for Askey-Wilson Polynomials,1.0037663585164217e-05,1.9422331302184302e-06,11.0,1.0
+math-ph/9903001,"The non-linear Schr\""odinger equation and the conformal properties of
+  non-relativistic space-time",9.99232629777813e-06,0.0,6.0,0.0
+math-ph/0401056,Spectral Analysis of a Self-Similar Sturm-Liouville Operator,9.991355610478769e-06,0.0,3.0,1.0
+math-ph/0304015,"Electrical Networks, Symplectic Reductions, and Application to the
+  Renormalization Map of Self-Similar Lattices",9.991355610478769e-06,0.0,3.0,1.0
+quant-ph/0210166,"N-Level System Interacting with Single Radiation Mode and Multi Cat
+  States of Schrodinger in the Strong Coupling Regime",9.987445017961285e-06,1.617647621130079e-05,25.0,11.0
+hep-th/0611268,"Multi-center MICZ-Kepler system, supersymmetry and integrability",9.97612260239602e-06,0.0,3.0,0.0
+cond-mat/0701207,"Thermodynamical limit of general gl(N) spin chains: vacuum state and
+  densities",9.97597523087714e-06,0.0,10.0,0.0
+math/0311314,"Higher-Level Appell Functions, Modular Transformations, and Characters",9.97072873500568e-06,4.596631829915462e-06,28.0,5.0
+math/0406585,Nonlinear Connections and Spinor Geometry,9.95955477811464e-06,0.0,10.0,0.0
+quant-ph/0608093,A gauge theory of quantum mechanics,9.956330606465143e-06,2.174490121942808e-08,2.0,3.0
+math/0209321,"Spectral Decomposition and Baxterisation of Exotic Bialgebras and
+  Associated Noncommutative Geometries",9.951646958832008e-06,0.0,4.0,7.0
+math-ph/0311001,"Clifford Valued Differential Forms, Algebraic Spinor Fields,
+  Gravitation, Electromagnetism and ""Unified"" Theories",9.947773550368891e-06,0.0,12.0,1.0
+math/0408121,"Nonholonomic Clifford Structures and Noncommutative Riemann--Finsler
+  Geometry",9.945282898830749e-06,5.063362814975315e-06,8.0,6.0
+math/0607183,"Proof of Razumov-Stroganov conjecture for some infinite families of link
+  patterns",9.910607023708991e-06,3.139954357136869e-07,17.0,1.0
+math-ph/0307062,"Integrated density of states and Wegner estimates for random
+  Schr\""odinger Operators",9.904185766969682e-06,0.0,10.0,7.0
+cond-mat/0602409,Stationary Solutions of Liouville Equations for Non-Hamiltonian Systems,9.89185226661958e-06,7.241818166830666e-07,11.0,3.0
+math-ph/0501071,"The scaling limit of the correlation of holes on the triangular lattice
+  with periodic boundary conditions",9.869431757402932e-06,1.3656232225968311e-05,3.0,1.0
+hep-th/0504093,"Modular group representations and fusion in logarithmic conformal field
+  theories and in the quantum group center",9.861763561139498e-06,1.3711468753735697e-06,21.0,8.0
+math-ph/0103013,Symmetries of Everything,9.859973943534984e-06,2.8829667035249102e-05,19.0,3.0
+math/0106221,On Donaldson and Seiberg-Witten invariants,9.852396309493392e-06,0.0,15.0,0.0
+hep-th/0504183,A Gravity Theory on Noncommutative Spaces,9.84688721739733e-06,5.288661785670022e-05,39.0,53.0
+math-ph/0411022,"Spontaneous symmetry breaking in the non-linear Schrodinger hierarchy
+  with defect",9.84284804813266e-06,4.039447530770197e-09,23.0,2.0
+math-ph/0608002,"Eigenvalue Statistics for CMV Matrices: From Poisson to Clock via
+  Circular Beta Ensembles",9.839972395587984e-06,9.95091377580036e-06,5.0,3.0
+quant-ph/0702178,Resonances of Multichannel Systems,9.83450425368016e-06,0.0,6.0,0.0
+quant-ph/0601050,"Braid Group, Temperley--Lieb Algebra, and Quantum Information and
+  Computation",9.810125496835164e-06,2.163375355223924e-06,18.0,7.0
+math-ph/0605002,Feynman cycles in the Bose gas,9.795849114892644e-06,0.0,3.0,1.0
+math/0501240,Geometry of Quantum Spheres,9.795118193357898e-06,9.963844717441148e-07,10.0,1.0
+hep-th/0603140,Calogero Model(s) and Deformed Oscillators,9.792043634872712e-06,0.0,22.0,0.0
+math-ph/0403001,"Products, coproducts and singular value decomposition",9.783224788235502e-06,0.0,12.0,0.0
+math/0508378,"Moments of the derivative of the Riemann zeta-function and of
+  characteristic polynomials",9.7810089962867e-06,1.990182755160072e-06,2.0,1.0
+hep-th/0309265,Towards Noncommutative Integrable Equations,9.774431907408313e-06,5.211959509488394e-07,39.0,11.0
+hep-th/0311174,"On application of involutivity analysis of differential equations to
+  constrained dynamical systems",9.76438828531002e-06,0.0,2.0,0.0
+hep-th/0311150,"Nonlinear superconformal symmetry of a fermion in the field of a Dirac
+  monopole",9.762658376109087e-06,3.2111934233054907e-06,13.0,8.0
+math/0608044,A sub-product construction of Poincare-Einstein metrics,9.76121409151609e-06,1.0345064572500736e-06,12.0,3.0
+math-ph/0611053,"Two-Dimensional Conformal Models of Space-Time and Their
+  Compactification",9.74764840829012e-06,0.0,6.0,0.0
+math-ph/0407009,"Gibbs conditioning extended, Boltzmann conditioning introduced",9.737333974032493e-06,0.0,4.0,0.0
+math-ph/0402008,Algebraic Bethe Ansatz for the FPL^2 model,9.736907751860733e-06,0.0,10.0,2.0
+math/0403246,Commuting quantum traces for quadratic algebras,9.732067330195707e-06,1.119749384521885e-07,13.0,2.0
+math-ph/0407044,"Explicit representations of Pollaczek polynomials corresponding to an
+  exactly solvable discretisation of hydrogen radial Schr\""odinger equation",9.730546430397151e-06,0.0,1.0,0.0
+math/0611687,Conformal radii for conformal loop ensembles,9.725784795903749e-06,0.0,8.0,0.0
+cond-mat/0608230,Axially symmetric membranes with polar tethers,9.722080164445368e-06,0.0,1.0,2.0
+math/0608180,The moduli space of N=2 super-Riemann spheres with tubes,9.717153766154335e-06,0.0,2.0,0.0
+math/0507546,An algebraic index theorem for orbifolds,9.713215741214602e-06,0.0,5.0,0.0
+hep-th/0203081,Normal Coordinates in Kahler Manifolds and the Background Field Method,9.710546363155404e-06,4.702472834483605e-06,19.0,13.0
+math-ph/0702064,"Closed-form Dirichlet integral harmonic interpolation-fits for real
+  n-dimensional and complex half-space: DIDACKS III",9.706783774216097e-06,0.0,2.0,0.0
+math-ph/0309019,Janossy Densities of Coupled Random Matrices,9.702533894619374e-06,1.990182755160072e-06,8.0,1.0
+math/0603638,Ray-Singer Type Theorem for the Refined Analytic Torsion,9.69328020785113e-06,8.742013024888499e-06,7.0,6.0
+nlin/0609065,Classification of integrable super-systems using the SsTools environment,9.687574976391112e-06,0.0,4.0,0.0
+math-ph/0408011,Note on SLE and logarithmic CFT,9.668844796759296e-06,4.920636655232297e-06,11.0,3.0
+nlin/0610073,Hamiltonian Structure of PI Hierarchy,9.662586184439811e-06,0.0,11.0,0.0
+math-ph/0603081,"Green Functions For Wave Propagation on a 5D manifold and the Associated
+  Gauge Fields Generated by a Uniformly Moving Point Source",9.6585340409424e-06,0.0,6.0,0.0
+math-ph/0410004,"Correlations between Maxwell's multipoles for gaussian random functions
+  on the sphere",9.657859817441874e-06,4.2757934046263184e-05,11.0,5.0
+math/0410013,Bundle gerbes for Chern-Simons and Wess-Zumino-Witten theories,9.64303863110898e-06,9.485103429174564e-06,11.0,7.0
+nlin/0702029,"Information-Geometric Indicators of Chaos in Gaussian Models on
+  Statistical Manifolds of Negative Ricci Curvature",9.634041170579996e-06,0.0,1.0,0.0
+hep-th/0608073,Ternary numbers and algebras. Reflexive numbers and Berger graphs,9.626742719357566e-06,0.0,9.0,0.0
+math-ph/0409059,"Eynard-Mehta theorem, Schur process, and their pfaffian analogs",9.62644980762725e-06,7.696289445080331e-05,14.0,7.0
+cond-mat/0001297,One dimensional model for doubly degenerate electrons,9.619976970230912e-06,0.0,6.0,0.0
+math-ph/0608052,A note on biorthogonal ensembles,9.59648502019061e-06,8.456499822453365e-07,4.0,1.0
+quant-ph/0502174,"From Quantum Optics to Non-Commutative Geometry : A Non-Commutative
+  Version of the Hopf Bundle, Veronese Mapping and Spin Representation",9.589446592420436e-06,0.0,9.0,1.0
+math/0507584,"The restricted Kirillov-Reshetikhin modules for the current and twisted
+  current algebras",9.58347009696251e-06,0.0,7.0,3.0
+math-ph/0605081,"Enhanced group analysis and conservation laws of variable coefficient
+  reaction-diffusion equations with power nonlinearities",9.576752917495866e-06,0.0,10.0,1.0
+hep-th/0108085,"D-branes, Matrix Theory and K-homology",9.57495116336224e-06,2.866026396246836e-06,48.0,36.0
+hep-th/0601019,Quantization of N=1 and N=2 SUSY KdV models,9.557184569178997e-06,0.0,9.0,0.0
+math-ph/0410061,"Around the Razumov-Stroganov conjecture: proof of a multi-parameter sum
+  rule",9.549982516543152e-06,6.696201299743371e-06,16.0,19.0
+hep-th/0009237,Microscopic Spectrum of the QCD Dirac Operator in Three Dimensions,9.512033531225796e-06,4.950417892499355e-06,30.0,8.0
+math/0410327,Gromov-Witten invariants of Fano threefolds of genera 6 and 8,9.501329898280374e-06,3.75913048401638e-06,16.0,2.0
+hep-th/0610182,"On a negative flow of the AKNS hierarchy and its relation to a
+  two-component Camassa-Holm equation",9.497608339542382e-06,2.952757568238839e-07,12.0,1.0
+math-ph/0203059,"Group Theoretical Description of Space Inversion, Time Reversal and
+  Charge Conjugation",9.487161197282448e-06,5.627411288375306e-06,10.0,4.0
+math/0511187,On the geometry of prequantization spaces,9.483295761757876e-06,0.0,7.0,0.0
+math/0412113,"Global geometric deformations of current algebras as Krichever-Novikov
+  type algebras",9.45228239813152e-06,7.980568454427762e-06,4.0,2.0
+math/0702081,"Logarithmic intertwining operators and W(2,2p-1)-algebras",9.449760945104078e-06,0.0,6.0,0.0
+hep-th/0507283,2+1 Abelian `Gauge Theory' Inspired by Ideal Hydrodynamics,9.448251583653492e-06,0.0,14.0,0.0
+hep-th/0010107,"Jacobson generators, Fock representations and statistics of sl(n+1)",9.446730213544422e-06,1.587690571094117e-05,19.0,6.0
+math-ph/0511079,The Dirichlet Hopf algebra of arithmetics,9.42892591430801e-06,5.1093712647865844e-08,12.0,1.0
+hep-th/0611301,Noncommutative Description of Quantum Spin Hall Effect,9.428105528609804e-06,0.0,14.0,0.0
+gr-qc/0505097,Superselection sectors in the Ashtekar-Horowitz-Boulware model,9.42012667261888e-06,3.1788761885794536e-07,15.0,2.0
+hep-th/0103144,"Free field construction for the eight-vertex model: representation for
+  form factors",9.419633286936276e-06,0.0,13.0,0.0
+hep-th/0412110,"Chern-Simons Theory, 2d Yang-Mills, and Lie Algebra Wanderers",9.39749857788668e-06,1.1894023109250878e-06,33.0,12.0
+math-ph/0703062,Lie Algebroids in Classical Mechanics and Optimal Control,9.397208409149244e-06,0.0,11.0,0.0
+nlin/0305060,On the canonically invariant calculation of Maslov indices,9.396541986175156e-06,0.0,2.0,1.0
+math/0312040,"The Wess-Zumino-Witten-Novikov theory, Knizhnik-Zamolodchikov equations,
+  and Krichever-Novikov algebras, II",9.392635964660077e-06,0.0,4.0,1.0
+math-ph/0512047,From Orbital Varieties to Alternating Sign Matrices,9.3886059510568e-06,5.137072002579238e-07,16.0,8.0
+hep-lat/0002022,Isocliny in spinor space and Wilson fermions,9.387134203166424e-06,0.0,3.0,0.0
+math/0501029,Spin chains from dynamical quadratic algebras,9.379138429951703e-06,1.737168118054126e-06,13.0,2.0
+math/0507309,Fokker-Planck Dynamics and Entropies for the Normalized Ricci Flow,9.36345117987468e-06,0.0,10.0,1.0
+math-ph/0610030,ADE and SLE,9.355900680464196e-06,2.1025637216827924e-06,8.0,2.0
+gr-qc/0501069,Causal structures and causal boundaries,9.33762099162222e-06,4.6422981701831e-05,7.0,1.0
+hep-th/0211154,Chiral zero modes of the SU(n) Wess-Zumino-Novikov-Witten model,9.331553084021828e-06,1.0393138363266618e-05,21.0,3.0
+hep-th/0610140,Can Hawking temperatures be negative ?,9.309485140288612e-06,1.0746294653666887e-06,4.0,1.0
+math/0406236,Some considerations in connection with alternating Kurepa's function,9.304554188413356e-06,1.990182755160072e-06,2.0,2.0
+hep-th/0611324,Plethystics and instantons on ALE spaces,9.303822299661118e-06,3.32967575462121e-07,6.0,3.0
+math/0612162,"Nonholonomic Ricci Flows: I. Riemann Metrics and Lagrange-Finsler
+  Geometry",9.30130599287387e-06,1.5550784926790305e-07,6.0,2.0
+nlin/0102038,Covariant Time Derivatives for Dynamical Systems,9.3004659300517e-06,0.0,2.0,1.0
+gr-qc/0404100,"Refined algebraic quantisation with the triangular subgroup of SL(2,R)",9.263634389506e-06,1.364985345755927e-06,28.0,2.0
+math/0011209,Disjunctive Quantum Logic in Dynamic Perspective,9.25957048522244e-06,0.0,7.0,1.0
+hep-th/0309099,"Supersymmetry and the KdV equations for Integrable Hierarchies with a
+  Half-integer Gradation",9.2512357071958e-06,3.913081351966143e-06,11.0,5.0
+math/0306189,Distribution laws for integrable eigenfunctions,9.245488372248248e-06,0.0,3.0,0.0
+math-ph/0602004,Birkhoff type decompositions and the Baker-Campbell-Hausdorff recursion,9.236523608733062e-06,1.3371598470135786e-06,14.0,6.0
+hep-th/0511213,A Diffusion Model for SU(N) QCD Screening,9.235614875264484e-06,1.990182755160072e-06,19.0,1.0
+math/0610322,The Virasoro Algebra and Some Exceptional Lie and Finite Groups,9.223108024393915e-06,0.0,4.0,0.0
+math-ph/0508068,"Lam\'e equation, quantum top and elliptic Bernoulli polynomials",9.221854445625878e-06,5.241214824023057e-06,5.0,1.0
+hep-th/0506027,Quantum Supersymmetric Toda-mKdV Hierarchies,9.2205618787624e-06,0.0,10.0,2.0
+hep-th/0110151,The Geometry of Quantum Mechanics,9.21826024509912e-06,2.899853928744041e-06,16.0,6.0
+math-ph/0503014,"Analytical Bethe Ansatz for open spin chains with soliton non preserving
+  boundary conditions",9.196345532855666e-06,2.0257806374896207e-05,21.0,6.0
+math-ph/0702068,"Shifted Schur process and asymptotics of large random strict plane
+  partitions",9.194352054638733e-06,0.0,4.0,0.0
+hep-th/0603038,The AdS_5xS^5 superstring worldsheet S-matrix and crossing symmetry,9.191167560784902e-06,6.210901809055756e-06,39.0,50.0
+hep-th/0509042,"Six Gluon Open Superstring Disk Amplitude, Multiple Hypergeometric
+  Series and Euler-Zagier Sums",9.176740782833118e-06,6.6101611344906986e-06,43.0,8.0
+math-ph/0410040,Geometric and Algebraic Topological Methods in Quantum Mechanics,9.173943871053126e-06,1.990182755160072e-06,14.0,1.0
+math/0512634,Reduction and duality in generalized geometry,9.166985858229914e-06,1.652334441677136e-06,17.0,2.0
+hep-th/0507020,"Charge Conjugation Invariance of the Vacuum and the Cosmological
+  Constant Problem",9.150347068832858e-06,8.522514940242065e-07,16.0,5.0
+math-ph/0703012,"An Explicit Formula for Symmetric Polynomials Related to the
+  Eigenfunctions of Calogero-Sutherland Models",9.141929935616016e-06,0.0,13.0,0.0
+math/0701621,The Entropy of Lagrange-Finsler Spaces and Ricci Flows,9.124930619371996e-06,2.2563782671877968e-08,6.0,1.0
+math/0311200,"Spectral gaps for periodic Schr\""odinger operators with strong magnetic
+  fields",9.087592082995425e-06,0.0,2.0,1.0
+math-ph/0702013,"On Asymptotic Stability of Solitary Waves in a Nonlinear Schr\""odinger
+  Equation",9.087592082995425e-06,0.0,2.0,1.0
+math-ph/0509049,"Spontaneous $SU_2(\mathbb{C})$ symmetry breaking in the ground states of
+  quantum spin chain",9.087592082995425e-06,0.0,2.0,1.0
+math-ph/0210012,Tau Functions and Matrix Integrals,9.079954332037524e-06,5.056718527015601e-05,21.0,5.0
+hep-th/0005277,Quantum Calogero-Moser Models: Integrability for all Root Systems,9.072683347892195e-06,1.4411773661488148e-05,27.0,18.0
+hep-th/0204039,Quantum vs Classical Integrability in Calogero-Moser Systems,9.068460093535506e-06,1.1745956834745778e-06,16.0,6.0
+quant-ph/0610100,A special simplex in the state space for entangled qudits,9.06828019676758e-06,7.607027085246739e-06,10.0,1.0
+math/0011250,"Non-intersecting Paths, Random Tilings and Random Matrices",9.062907416846745e-06,7.506795167725347e-06,14.0,12.0
+math-ph/0305058,Howe Duality for an Induced Model of Lattice U(N) Yang-Mills Theory,9.061741575008772e-06,3.401803367185043e-06,11.0,2.0
+math-ph/0507068,Riemann-Finsler and Lagrange Gerbes and the Aiyah--Singer Theorems,9.056983555567945e-06,0.0,6.0,0.0
+quant-ph/0410003,Quantum Diagonalization Method in the Tavis-Cummings Model,9.050399437816177e-06,3.243759184199941e-07,15.0,4.0
+solv-int/9810009,"Fermionic flows and tau function of the N=(1|1) superconformal Toda
+  lattice hierarchy",9.04205619281123e-06,2.1534321988202795e-06,11.0,10.0
+math-ph/0011038,Algebraic Geometry and Physics,9.041451254717043e-06,0.0,14.0,2.0
+quant-ph/0512126,Study on Dynamics of N Level System of Atom by Laser Fields,9.04059242853056e-06,4.917421277527739e-07,19.0,3.0
+cond-mat/0604058,Transport Equations from Liouville Equations for Fractional Systems,9.038882020344144e-06,9.796230063269049e-07,12.0,2.0
+hep-th/0601143,Traces of Mirror Symmetry in Nature,9.038647752949885e-06,0.0,7.0,0.0
+gr-qc/0002053,"Statistical Lorentzian geometry and the closeness of Lorentzian
+  manifolds",9.025447425960232e-06,1.2858108028369991e-05,16.0,14.0
+math-ph/0501007,Symmetry of Quantum Torus with Crossed Product Algebra,9.021729717159476e-06,0.0,10.0,0.0
+math/0609082,Baxter Q-operator and Givental integral representation for C_n and D_n,9.007233127698471e-06,0.0,3.0,0.0
+hep-th/0103178,"Supersymmetric Calogero-Moser-Sutherland models and Jack
+  superpolynomials",8.993064084522992e-06,8.8031651480256e-06,20.0,7.0
+math-ph/0602028,Dirac Type Gauge Theories and the Mass of the Higgs Boson,8.99120380058075e-06,0.0,13.0,0.0
+math-ph/0207009,Pseudo-Hermiticity for a Class of Nondiagonalizable Hamiltonians,8.977231780107587e-06,8.12510065125507e-06,6.0,11.0
+math-ph/0506021,"Third order spectral branch points in Krein space related setups:
+  PT-symmetric matrix toy model, MHD alpha^2-dynamo, and extended Squire
+  equation",8.976416269641285e-06,3.90412708440144e-06,15.0,4.0
+nlin/0602038,"Real Hamiltonian Forms of Affine Toda Models Related to Exceptional Lie
+  Algebras",8.965362680649481e-06,0.0,9.0,0.0
+quant-ph/9904101,"Hall Normalization Constants for the Bures Volumes of the n-State
+  Quantum Systems",8.9620482629383e-06,0.0020474541549801,8.0,3.0
+math-ph/0209019,On some integrals over the U(N) unitary group and their large N limit,8.958887642559078e-06,1.5454022287094833e-05,20.0,13.0
+math-ph/0508062,"Multi-critical unitary random matrix ensembles and the general Painleve
+  II equation",8.955328611326204e-06,1.0722351535967358e-05,6.0,9.0
+math-ph/0112038,Distances en geometrie non commutative,8.946026123302208e-06,4.344813292796512e-06,33.0,4.0
+hep-th/0512337,"Reflection factors and exact g-functions for purely elastic scattering
+  theories",8.943711042222948e-06,0.0,32.0,0.0
+hep-th/0210267,W-algebras for non-abelian Toda systems,8.924228001294685e-06,0.0,22.0,2.0
+math-ph/0612048,Weakly Nonlocal Hamiltonian Structures: Lie Derivative and Compatibility,8.903383749385571e-06,0.0,11.0,0.0
+math-ph/0603067,Nonholonomic Constraints with Fractional Derivatives,8.903204684573277e-06,0.0,16.0,0.0
+math-ph/0601029,Gaussian transform of the Weil representation,8.896862062792245e-06,0.0,6.0,2.0
+quant-ph/0701211,On the Pauli graphs of N-qudits,8.894428827190014e-06,0.0,4.0,0.0
+quant-ph/9911058,"Exact Bures Probabilities that Two Quantum Bits are Classically
+  Correlated",8.890155717948682e-06,5.012029680870949e-05,7.0,2.0
+hep-th/0605033,"Symmetries, Microcausality and Physics on Canonical Noncommutative
+  Spacetime",8.889031530012305e-06,1.673582190216148e-05,29.0,4.0
+math/0106238,"SO(3) Monopoles, Level-One Seiberg-Witten Moduli Spaces, and Witten's
+  Conjecture in Low Degrees",8.87757319433385e-06,3.022398194655187e-09,20.0,4.0
+solv-int/9810002,Integrable open boundary conditions for XXC models,8.860248171739476e-06,1.5905514767537984e-05,8.0,2.0
+hep-th/0606129,Quantization of the N=2 Supersymmetric KdV Hierarchy,8.854756614047853e-06,0.0,10.0,0.0
+hep-th/0301108,"Symmetries of the Dirac operators associated with covariantly constant
+  Killing-Yano tensors",8.840023610858967e-06,3.1033953739618046e-08,8.0,1.0
+hep-th/0301213,Noncommutative Burgers Equation,8.833881947164518e-06,1.9887169559229304e-06,39.0,15.0
+cond-mat/0410146,Ageing and dynamical scaling in the critical Ising spin glass,8.827713180259535e-06,0.0,1.0,1.0
+math/0405240,Twisted Hochschild Homology of Quantum Hyperplanes,8.814847929576599e-06,0.0,3.0,2.0
+math/0703256,"Finite-gap potential, Heun's differential equation and WKB analysis",8.800228758158853e-06,0.0,2.0,0.0
+math-ph/0407065,Averages of Characteristic Polynomials in Random Matrix Theory,8.798211216923035e-06,3.797295383774005e-05,6.0,6.0
+quant-ph/0004041,"Fibre bundle formulation of nonrelativistic quantum mechanics (full
+  version)",8.796766181783263e-06,6.965639643060252e-06,19.0,8.0
+gr-qc/0610061,"The Landscape of Theoretical Physics: A Global View; From Point
+  Particles to the Brane World and Beyond, in Search of a Unifying Principle",8.789311777889442e-06,0.0,22.0,0.0
+math/0101129,Non-commutative 4-spheres based on all Podle\'s 2-spheres and beyond,8.788760323542071e-06,1.382921786944304e-06,7.0,4.0
+hep-lat/0402019,"Dynamic critical behavior of the Swendsen--Wang Algorithm for the
+  three-dimensional Ising model",8.787367359405525e-06,5.54487427139527e-06,13.0,4.0
+quant-ph/0604075,"Weyl's symbols of Heisenberg operators of canonical coordinates and
+  momenta as quantum characteristics",8.776033298620755e-06,1.990182755160072e-06,3.0,1.0
+hep-th/9909201,"Equivalence Principle, Higher Dimensional Moebius Group and the Hidden
+  Antisymmetric Tensor of Quantum Mechanics",8.763577213962224e-06,4.933295045987589e-06,27.0,14.0
+math-ph/0702040,Antisymmetric Orbit Functions,8.754758355833327e-06,0.0,6.0,0.0
+math/0107112,On the Representation Theory of Deformation Quantization,8.754696050887746e-06,2.0858946215549897e-07,9.0,4.0
+gr-qc/0603107,From Local Regge Calculus towards Spin Foam Formalism?,8.750180487140078e-06,3.465093013495692e-07,4.0,1.0
+hep-th/0311170,"Zero modes of the SU(2)_k Wess-Zumino-Novikov-Witten model in Euler
+  angles parametrization",8.739308183096673e-06,0.0,13.0,0.0
+math-ph/0408055,Making electromagnetic wavelets II: Spheroidal shell antennas,8.734580856290156e-06,0.0,4.0,2.0
+cond-mat/0410192,"Non-dissipative Thermal Transport and Magnetothermal Effect for the
+  Spin-1/2 Heisenberg Chain",8.731264680289159e-06,1.990182755160072e-06,3.0,2.0
+hep-th/0509174,"Lie subalgebras of the Weyl algebra. Lie algebras of order 3 and their
+  application to cubic supersymmetry",8.72778594771227e-06,3.474001869126837e-07,17.0,2.0
+math/0702577,Yang-Baxter maps and multi-field integrable lattice equations,8.727013478107888e-06,0.0,2.0,0.0
+hep-th/0510085,A three-parametric deformation of GL(1/1),8.680546565111333e-06,0.0,5.0,0.0
+nlin/0502050,"Drinfeld Twists and Symmetric Bethe Vectors of Supersymmetric Fermion
+  Models",8.673831051334523e-06,9.323904380957874e-07,12.0,1.0
+math/0604281,Kirillov--Reshetikhin modules associated to G_2,8.661165493005398e-06,3.00076855223065e-07,6.0,3.0
+hep-th/0602063,Ricci Flows and Solitonic pp--Waves,8.660473291681014e-06,0.0,4.0,0.0
+math/0604096,"A universal formula for representing Lie algebra generators as formal
+  power series with coefficients in the Weyl algebra",8.648474959543259e-06,2.6521625202026543e-10,8.0,2.0
+math-ph/0408061,Ramond sector of superconformal algebras via quantum reduction,8.640738953879415e-06,0.0,10.0,0.0
+nlin/0203006,"Lax pair formulation of the N=4 Toda chain (KdV) hierarchy in N=4
+  superspace",8.638235347608742e-06,0.0,13.0,0.0
+math/0401226,"The non-Abelian momentum map for Poisson-Lie symmetries on the chiral
+  WZNW phase space",8.631070830441909e-06,2.3907692286925936e-05,18.0,7.0
+hep-th/0408161,"Super-Pohlmeyer invariants and boundary states for non-abelian gauge
+  fields",8.62731383546324e-06,1.583825775666254e-06,11.0,2.0
+math-ph/0012039,"Noninvertibility, semisupermanifolds and categories regularization",8.626639617549853e-06,0.0,11.0,0.0
+hep-th/0310016,A non-commutative n-particle 3D Wigner quantum oscillator,8.61862589810742e-06,0.0,4.0,1.0
+cond-mat/0702322,"Inverted catenoids, curvature singularities and tethered membranes",8.617573300924441e-06,0.0,1.0,1.0
+hep-th/9906146,On the finiteness of a new topological model in D=3,8.613544127155021e-06,1.9456264248206677e-07,11.0,3.0
+math-ph/0601049,"Structure of the space of ground states in systems with non-amenable
+  symmetries",8.611233218606973e-06,0.0,3.0,0.0
+math-ph/0612058,Linear Fractional p-Adic and Adelic Dynamical Systems,8.586293087871142e-06,0.0,7.0,0.0
+math-ph/0606069,Renormalization of the Orientable Non-commutative Gross-Neveu Model,8.580512438180296e-06,4.061744345227672e-06,20.0,9.0
+math-ph/0402012,"Lanczos's functional theory of electrodynamics: A commentary on
+  Lanczos's PhD dissertation",8.565896081244135e-06,0.0006514259587023,6.0,9.0
+hep-th/0305094,"Dirac-Kaehler Fermion from Clifford Product with Noncommutative
+  Differential Form on a Lattice",8.559592816581449e-06,9.460172018434964e-06,14.0,10.0
+math-ph/0307037,Equations in dual variables for Whittaker functions,8.54309905202877e-06,4.915477212443289e-08,8.0,1.0
+hep-th/0509167,A Note on Knot Invariants and q-Deformed 2d Yang-Mills,8.542057595894061e-06,2.792310837531441e-06,22.0,8.0
+hep-th/0105177,"Integrable structure of W_3 Conformal Field Theory, Quantum Boussinesq
+  Theory and Boundary Affine Toda Theory",8.541175739611247e-06,4.08257623443357e-06,29.0,13.0
+cond-mat/0412223,Real symmetric random matrices and paths counting,8.540015910551462e-06,1.990182755160072e-06,9.0,1.0
+gr-qc/0312014,"Group averaging in the (p,q) oscillator representation of SL(2,R)",8.538226172908774e-06,8.823359369326887e-07,30.0,5.0
+math/0608359,Some notes on the inverse problem for braids,8.528737364001038e-06,0.0,4.0,0.0
+hep-th/0501174,A non-perturbative approach to non-commutative scalar field theory,8.519882667679396e-06,2.5455913441452816e-06,29.0,10.0
+cond-mat/0205424,Flow Polynomials and their Asymptotic Limits for Lattice Strip Graphs,8.51687026871522e-06,0.0,6.0,2.0
+cond-mat/0210708,"A survey of rigorous results on random Schroedinger operators for
+  amorphous solids",8.514781206969677e-06,0.0,6.0,3.0
+math-ph/0605026,"Geometric quantization of the moduli space of the Self-duality equations
+  on a Riemann surface",8.511132242224768e-06,0.0,3.0,0.0
+hep-th/0101190,"Fractional helicity, Lorentz symmetry breaking, compactification and
+  anyons",8.508570488029449e-06,1.9562064319537716e-05,18.0,3.0
+math-ph/0606003,Quantum Extended Arithmetic Veneziano Amplitude,8.506097467464022e-06,1.8129134808574805e-06,12.0,1.0
+hep-th/0106104,Mirror Symmetry on Kummer Type K3 Surfaces,8.48111230877659e-06,7.442031473622307e-06,35.0,4.0
+math-ph/0303057,"n=3 Nilpotent differential calculus on some non-commutative (super)
+  spaces",8.47748178644312e-06,0.0,10.0,1.0
+hep-th/9809127,The Equivalence Postulate of Quantum Mechanics,8.475357029961039e-06,2.287344148404369e-05,32.0,32.0
+math/0603324,Pattern densities in fluid dimer models,8.456052557466553e-06,1.4062254431599645e-05,11.0,1.0
+quant-ph/0411207,"On Disagreement about Nonperturbative Corrections in Triple-well
+  Potential",8.441965803592855e-06,0.0,6.0,0.0
+math-ph/0511020,A covariant approach to the quantisation of a rigid body,8.438819833050607e-06,0.0,5.0,0.0
+math-ph/0607014,Fiber Hamiltonians in the non-relativistic quantum electrodynamics,8.426105737816539e-06,0.0,5.0,0.0
+gr-qc/0511115,"Off-diagonal coefficients of the DeWitt-Schwinger and Hadamard
+  representations of the Feynman propagator",8.421879651764808e-06,0.0,2.0,0.0
+cond-mat/0511619,Exact energy spectrum for models with equally spaced point potentials,8.418236676855316e-06,0.0,5.0,0.0
+math-ph/0504034,"The 2-matrix model, biorthogonal polynomials, Riemann-Hilbert problem,
+  and algebraic geometry",8.41149231732049e-06,3.291423336906989e-07,30.0,3.0
+hep-th/0608179,Statistics and UV-IR Mixing with Twisted Poincare Invariance,8.409911877995041e-06,4.210098085498846e-06,9.0,8.0
+nlin/0601019,Solitary wave solutions of the short pulse equation,8.407577432131418e-06,0.0,5.0,0.0
+gr-qc/0602101,Dynamics of Scalar Field in Polymer-like Representation,8.407294179529655e-06,1.1399089064589919e-07,10.0,2.0
+cond-mat/0504268,Minimum spanning trees and random resistor networks in d dimensions,8.40546848830624e-06,0.0,5.0,0.0
+math/0603414,On the Geometry of Moduli Space of Polarized Calabi-Yau manifolds,8.403370209349456e-06,5.640459081382976e-08,9.0,2.0
+math/0407104,Topological gravity in Minkowski space,8.3961543018501e-06,0.0,8.0,0.0
+math/0606545,"Construction of some Quantum Stochastic Operator Cocycles by the
+  Semigroup Method",8.393309358403248e-06,0.0,2.0,1.0
+math-ph/0611056,Rectangle Gell-Mann Matrices,8.385190384393069e-06,0.0,3.0,0.0
+math/0611288,The Torsion of Spinor Connections and Related Structures,8.380782682499523e-06,0.0,14.0,0.0
+gr-qc/0610143,"Quantum out-states holographically induced by asymptotic flatness:
+  Invariance under spacetime symmetries, energy positivity and Hadamard
+  property",8.373368821577887e-06,1.1718564709560654e-06,4.0,3.0
+math-ph/0306014,"Moment inequalities and high-energy tails for the Boltzmann equations
+  with inelastic interactions",8.37125039430956e-06,1.990182755160072e-06,9.0,3.0
+hep-th/0504072,"Traces on the Sklyanin algebra and correlation functions of the
+  eight-vertex model",8.350962199628259e-06,9.087750452828445e-06,12.0,2.0
+math-ph/0605058,"SLE local martingales, reversibility and duality",8.345767801673442e-06,0.0,12.0,0.0
+math-ph/0206006,A Grassmann integral equation,8.343738974038316e-06,3.980365510320144e-06,10.0,3.0
+hep-th/0609217,Para-Grassmann Variables and Coherent States,8.34119614512808e-06,0.0,10.0,0.0
+hep-th/0511006,"Light-cone Superstring Field Theory, pp-wave background and
+  integrability properties",8.339382278290182e-06,0.0,25.0,0.0
+math/0104213,"Kaehler spaces, nilpotent orbits, and singular reduction",8.332219558878713e-06,6.206014231624965e-08,11.0,9.0
+quant-ph/0309132,"Quantum Optical Construction of Generalized Pauli and Walsh-Hadamard
+  Matrices in Three Level Systems",8.324611015731462e-06,6.762810943838758e-06,15.0,15.0
+quant-ph/0603176,"The rigged Hilbert space approach to the Lippmann-Schwinger equation.
+  Part I",8.320136493600107e-06,1.990182755160072e-06,9.0,2.0
+math-ph/0304002,Proof of a Conjecture by Lewandowski and Thiemann,8.305201107962571e-06,1.846583855063976e-06,10.0,3.0
+math-ph/0003016,"Isomonodromic deformations in genus zero and one: algebrogeometric
+  solutions and Schlesinger transformations",8.304225988766199e-06,0.0,5.0,1.0
+math/0212264,The Garden of Quantum Spheres,8.29620216519917e-06,3.980365510320144e-06,8.0,1.0
+math/0303088,Tropical R and Tau Functions,8.294829141125237e-06,1.990182755160072e-06,5.0,1.0
+math-ph/0610047,Classical phase space singularities and quantization,8.289451099223972e-06,1.7664326996779852e-08,9.0,2.0
+hep-th/9707206,"Analytic Continuation of Operators -- operators acting complex s-times
+  -- Applications: from Number Theory and Group Theory to Quantum Field and
+  String Theories",8.28843174291217e-06,0.0,5.0,1.0
+gr-qc/0607046,"Decay of Solutions of the Teukolsky Equation for Higher Spin in the
+  Schwarzschild Geometry",8.28530402871664e-06,0.0,7.0,0.0
+cond-mat/0603525,Level Repulsion in Constrained Gaussian Random-Matrix Ensembles,8.283100837007206e-06,1.990182755160072e-06,8.0,1.0
+math-ph/0612008,The $\theta$-twistor versus the supertwistor,8.27694124555755e-06,0.0,4.0,0.0
+hep-th/0505070,"Equilibrium Positions and Eigenfunctions of Shape Invariant (`Discrete')
+  Quantum Mechanics",8.273874090010752e-06,0.0,6.0,3.0
+math-ph/0503015,The Geometry of Jordan Matrix Models,8.271759750718868e-06,1.6731680611774096e-06,25.0,1.0
+math/0212308,"Riemann surfaces with boundaries and the theory of vertex operator
+  algebras",8.269087463019042e-06,5.205510532514191e-06,9.0,6.0
+gr-qc/0403072,Simplicial and asymptotical aspects of the holographic principle,8.261152473451744e-06,0.0,30.0,0.0
+hep-th/0607065,Separability of multi-charge black holes in supergravity,8.25738553817207e-06,5.9508726107666046e-08,21.0,1.0
+hep-lat/0702011,The QCD Sign Problem for Small Chemical Potential,8.251104170543759e-06,1.960853089380142e-06,20.0,2.0
+math-ph/0511015,"A method to derive explicit formulas for an elliptic generalization of
+  the Jack polynomials",8.244157938012357e-06,2.266714900599869e-08,5.0,5.0
+math-ph/0511015,"A method to derive explicit formulas for an elliptic generalization of
+  the Jack polynomials",8.244157938012357e-06,2.266714900599869e-08,5.0,5.0
+math-ph/0211027,Relativistic Wave Equations in the Helicity Basis,8.227692303145593e-06,0.0,4.0,0.0
+quant-ph/0606186,On the inconsistency of the Bohm-Gadella theory with quantum mechanics,8.226360629467922e-06,0.0,6.0,1.0
+math/0304350,Weak tensor products of complete atomistic lattices,8.216042892347698e-06,0.0,2.0,2.0
+gr-qc/0404018,Background Independent Quantum Gravity: A Status Report,8.204211438985752e-06,0.00014990167901,25.0,132.0
+math-ph/0603018,Combinatorial point for higher spin loop models,8.187150329921022e-06,4.18036059208828e-08,15.0,2.0
+nlin/0206044,N=(1|1) supersymmetric dispersionless Toda lattice hierarchy,8.17622615174408e-06,9.878453481005974e-06,14.0,2.0
+math-ph/0108007,"Dirac Operators and the Calculation of the Connes Metric on arbitrary
+  (Infinite) Graphs",8.170647331790017e-06,2.588128961143812e-07,16.0,4.0
+math-ph/0702089,"Singular Eigenfunctions of Calogero-Sutherland Type Systems and How to
+  Transform Them into Regular Ones",8.167333611788666e-06,0.0,15.0,0.0
+math-ph/0606014,Arbitrary Rotation Invariant Random Matrix Ensembles and Supersymmetry,8.166633199437707e-06,0.0,2.0,0.0
+math-ph/0509058,Symbolic Summation and Higher Orders in Perturbation Theory,8.16000673937374e-06,4.474215686264485e-08,27.0,2.0
+math/0606401,Yang-Mills detour complexes and conformal geometry,8.153859578040121e-06,1.990182755160072e-06,4.0,2.0
+quant-ph/0203015,Spin squeezing and entanglement in spinor-1 condensates,8.153364850906041e-06,4.45563303394046e-08,3.0,2.0
+quant-ph/0201085,Fibre bundle formulation of relativistic quantum mechanics,8.139996740560901e-06,9.95091377580036e-07,12.0,2.0
+hep-th/0005128,Fermionic Quantum Gravity,8.131300805386802e-06,4.297812561468861e-06,22.0,1.0
+cond-mat/0507311,Statistical mechanics in the context of special relativity II,8.124494185204096e-06,1.1483163934500952e-05,3.0,5.0
+hep-th/0509125,Dual perturbation expansion for a classical $\lambda\phi^4$ field theory,8.122463413411233e-06,3.35293208057584e-06,3.0,6.0
+math-ph/0602033,"The role of orthogonal polynomials in the six-vertex model and its
+  combinatorial applications",8.121879410384946e-06,0.0,10.0,0.0
+math-ph/0504038,"On Z-gradations of twisted loop Lie algebras of complex simple Lie
+  algebras",8.118528478825652e-06,0.0,3.0,1.0
+hep-th/0310144,Non-commutative heat kernel,8.098281855776467e-06,5.01584809187532e-05,14.0,19.0
+cond-mat/0205570,Superfluidity in Dilute Trapped Bose Gases,8.097597379841016e-06,7.797357809395804e-08,4.0,2.0
+nlin/0402014,Compatible Poisson Structures of Toda Type Discrete Hierarchy,8.091527947048759e-06,3.950661290093874e-06,3.0,2.0
+math-ph/0411080,Minkowskian Yang-Mills vacuum,8.087509594456587e-06,3.0143372372367952e-06,8.0,4.0
+quant-ph/0407195,"The rigged Hilbert space of the algebra of the one-dimensional
+  rectangular barrier potential",8.076231657676117e-06,1.3938705341177071e-05,7.0,5.0
+math-ph/0511074,1/f Noise in Fractal Quaternionic Structures,8.07071804791615e-06,0.0,9.0,0.0
+quant-ph/0407260,"On the Dynamics of Generalized Coherent States. I. Exact and Stable
+  Evolution",8.070564014638639e-06,0.0,1.0,2.0
+math/0604145,A note on connections of the Standard Model in a gravitation field,8.058663677180903e-06,5.955510503990667e-06,10.0,3.0
+hep-th/0201070,Quantum mechanics on noncommutative Riemann surfaces,8.057097924201248e-06,4.1122505018559344e-05,41.0,15.0
+cond-mat/0305599,Quasi-Equilibrium Closure Hierarchies for The Boltzmann Equation,8.049067980330248e-06,4.97545688790018e-06,7.0,3.0
+math-ph/0611058,"Quantum energy inequalities and local covariance II: Categorical
+  formulation",8.045786074748926e-06,0.0,3.0,0.0
+math-ph/0612021,On the spectra of carbon nano-structures,8.034698624087642e-06,0.0,5.0,0.0
+math/0412462,Homology of formal deformations of proper etale Lie groupoids,8.031129354731048e-06,7.545587044721729e-07,11.0,3.0
+cond-mat/0701075,Non-Local Finite-Size Effects in the Dimer Model,8.024909968647368e-06,0.0,11.0,0.0
+math-ph/0604036,"The q-deformed analogue of the Onsager algebra: Beyond the Bethe ansatz
+  approach",8.007189685678973e-06,3.568249599086612e-06,7.0,4.0
+math/0109194,"Harmonic analysis on the infinite-dimensional unitary group and
+  determinantal point processes",7.994469429877e-06,3.3062821267643874e-05,19.0,17.0
+quant-ph/0409081,"A Survey of Finite Algebraic Geometrical Structures Underlying Mutually
+  Unbiased Quantum Measurements",7.99105178898065e-06,3.067979843948062e-05,7.0,8.0
+quant-ph/0605030,"Strongly Universal Quantum Turing Machines and Invariance of Kolmogorov
+  Complexity",7.988897948584033e-06,0.0,2.0,1.0
+math-ph/0304001,Parallel Transports in Webs,7.978195705080799e-06,1.9827567001035044e-06,9.0,1.0
+math-ph/0506075,Where are ELKO Spinor Fields in Lounesto Spinor Field Classification?,7.977768243004484e-06,2.0209190125409426e-07,5.0,8.0
+math-ph/9903047,Noncommutative geometry and fundamental interactions,7.971725591541842e-06,5.09187058806702e-06,34.0,8.0
+hep-th/0509171,Boundary conditions in the Mirabelli and Peskin model,7.964955888604079e-06,7.0591531193762e-07,21.0,5.0
+quant-ph/0409068,"Explicit Form of the Evolution Operator of Tavis-Cummings Model : Three
+  and Four Atoms Cases",7.96396613742528e-06,2.9868334899643065e-07,13.0,5.0
+math-ph/0003017,"Quadratic Poisson algebras for two dimensional classical superintegrable
+  systems and quadratic associative algebras for quantum superintegrable
+  systems",7.963533844218426e-06,3.980365510320144e-06,4.0,2.0
+math/0306151,The motivic Thom isomorphism,7.956084191118261e-06,3.269003718944799e-07,14.0,1.0
+math/0207169,Hodge cohomology of gravitational instantons,7.954595820195108e-06,2.3641183358106912e-05,9.0,5.0
+hep-th/0606192,"Harmonic oscillators coupled by springs: discrete solutions as a Wigner
+  Quantum System",7.943771304868034e-06,0.0,1.0,0.0
+hep-th/0602169,"Representations of the Lie Superalgebra gl(1|n) in a Gel'fand-Zetlin
+  Basis and Wigner Quantum Oscillators",7.943771304868034e-06,0.0,1.0,0.0
+math/0212059,"On the subset of normality equations describing generalized Legendre
+  transformation",7.943188826253973e-06,0.0,13.0,3.0
+hep-th/0310209,Mixed symmetry gauge fields in a flat background,7.930718242347413e-06,6.136205758500969e-06,13.0,15.0
+gr-qc/0207030,Towards the QFT on Curved Spacetime Limit of QGR. I: A General Scheme,7.930576275540586e-06,1.1922474030650287e-05,44.0,39.0
+hep-th/0105135,"Nonlinear supersymmetry on the plane in magnetic field and quasi-exactly
+  solvable systems",7.930038828842565e-06,1.6427986546600875e-05,29.0,16.0
+math/0110183,"KMS states for generalized gauge actions on Cuntz-Krieger algebras (An
+  application of the Ruelle-Perron-Frobenius Theorem)",7.92243140806203e-06,4.7703740007546425e-05,5.0,4.0
+math/0507178,A renewal theory approach to periodic copolymers with adsorption,7.919671976149312e-06,0.0,2.0,4.0
+math-ph/0607061,Noncommutative gauge theories with Endomorphism algebras,7.918319128307547e-06,0.0,4.0,0.0
+math-ph/0108021,"Operator-theoretic infrared renormalization and construction of dressed
+  1-particle states in non-relativistic QED",7.91692744226822e-06,0.0,7.0,7.0
+hep-th/9907140,Constructing D-Branes from K-Theory,7.91138615933234e-06,1.0120662531997197e-05,78.0,50.0
+math/0412089,Topological String Partition Functions as Equivariant Indices,7.910651092288234e-06,1.8234288098287733e-07,23.0,4.0
+hep-th/0312120,"Noncommutative Cohomological Field Theories and Topological Aspects of
+  Matrix models",7.900007206678595e-06,0.0001136783145724,36.0,2.0
+hep-th/0506147,"Carnot-Caratheodory metric and gauge fluctuation in Noncommutative
+  Geometry",7.88874339206124e-06,2.1975863298694084e-06,9.0,2.0
+math/0603408,"On Orthogonality Relations for Dual Discrete q-Ultraspherical
+  Polynomials",7.881964898116925e-06,0.0,5.0,0.0
+math-ph/0203008,Zeno Dynamics of von Neumann Algebras,7.881702020310464e-06,0.0,7.0,2.0
+quant-ph/0604068,"Bounds on the heat kernel of the Schroedinger operator in a random
+  electromagnetic field",7.87857323518318e-06,0.0,2.0,0.0
+nlin/0605041,"Geodesic Flow and Two (Super) Component Analog of the Camassa-Holm
+  Equation",7.872997198394616e-06,0.0,8.0,1.0
+quant-ph/0605151,On the geometry of four qubit invariants,7.868612365007103e-06,1.4783219703054466e-05,3.0,2.0

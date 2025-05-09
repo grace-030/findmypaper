@@ -1,0 +1,1320 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+gr-qc/0110034,Introduction to Modern Canonical Quantum General Relativity,4.971829053364679e-05,0.000917367405873,220.0,232.0
+math/0609033,"Kernel theorems and nuclearity in idempotent mathematics. An algebraic
+  approach",4.732166823508154e-05,0.0,10.0,0.0
+math-ph/0607019,"Properties of probability measures on the set of quantum states and
+  their applications",3.990394346929994e-05,4.706859817682484e-06,7.0,1.0
+hep-th/0605035,"General Aspects of PT-Symmetric and P-Self-Adjoint Quantum Theory in a
+  Krein Space",3.076121598265733e-05,9.854685064134128e-06,35.0,6.0
+math-ph/0307044,Mathematics of the Quantum Zeno Effect,2.61452811850518e-05,2.0978605534803e-06,25.0,2.0
+math/0109198,"Lectures on q-analogues of Cartan domains and associated Harish-Chandra
+  modules",2.273746406152608e-05,1.990182755160072e-06,23.0,1.0
+math/0703586,Spectral distance on the circle,1.958980658553133e-05,0.0,8.0,0.0
+math/0609040,"Ultrametric and non-locally convex analogues of the general curve lemma
+  of convenient differential calculus",1.895881438990062e-05,0.0,6.0,1.0
+math/0311170,"Duality of compact groups and Hilbert C*-systems for C*-algebras with a
+  nontrivial center",1.6885813517775427e-05,1.990182755160072e-06,4.0,2.0
+math/0609041,"Comparison of some notions of C^k-maps in multi-variable non-archimedian
+  analysis",1.6626769282820493e-05,0.0,5.0,1.0
+quant-ph/0212101,p-Mechanics as a Physical Theory. An Introduction,1.6319663932805748e-05,2.504409541883486e-06,14.0,6.0
+math/0311285,Monogenic Calculus as an Intertwining Operator,1.5797628287700933e-05,0.0,10.0,0.0
+math/0604120,A Schur-Horn type theorem for II$_1$ factors,1.5044782123812076e-05,0.0,5.0,1.0
+math/0605070,"Refinements of spectral resolutions and modelling of operators in II$_1$
+  factors",1.4505495387227253e-05,0.0,4.0,1.0
+hep-th/0603096,PT-Symmetric Quantum Theory Defined in a Krein Space,1.3509495497177469e-05,5.616839186662049e-07,18.0,7.0
+quant-ph/9712009,Questions on quantization,1.3251000734833088e-05,9.954007965407263e-07,14.0,18.0
+math/0703788,"Quasi-conformal functions of quaternion and octonion variables, their
+  integral transformations",1.315905474723265e-05,0.0,8.0,0.0
+math/0309020,A Morse complex for infinite dimensional manifolds - Part I,1.2520039875220534e-05,0.0,3.0,1.0
+math/0703632,Approximation via toy Fock space - the vacuum-adapted viewpoint,1.2430623490186183e-05,3.980365510320144e-06,4.0,1.0
+math/0703801,Crossed product by an arbitrary endomorphism,1.1886101164760869e-05,0.0,6.0,0.0
+quant-ph/0603075,"On Existence of a Biorthonormal Basis Composed of Eigenvectors of
+  Non-Hermitian Operators",1.1828803556479514e-05,3.784440311620068e-06,9.0,3.0
+math/0508516,Elliptic boundary problems on manifolds with polycylindrical ends,1.1521456641178948e-05,1.8475632443767084e-08,7.0,2.0
+math/0609662,"Applications of the Fuglede-Kadison determinant: Szeg\""{o}'s theorem and
+  outers for noncommutative $H^p$",1.1443864174221396e-05,0.0,3.0,1.0
+math/0501087,A unified framework for graph algebras and quantum causal histories,1.1173946055151414e-05,0.0,7.0,1.0
+math/0703115,Lifting endomorphisms to automorphisms,1.0970909613129002e-05,0.0,3.0,0.0
+math/0611879,Von Neumann algebraic H^p theory,1.0837795447819585e-05,0.0,3.0,1.0
+math/0508218,Z-stable ASH algebras,1.0761602919326089e-05,0.0,7.0,12.0
+math/0503021,Resolvents of elliptic boundary problems on conic manifolds,1.0712727735833195e-05,3.980365510320144e-06,6.0,3.0
+math/0509240,Special characters on star graphs and representations of $*$-algebras,1.0677845168923792e-05,0.0,3.0,1.0
+math/0510064,"Compactifications, Hartman functions and (weak) almost periodicity",1.01947907405935e-05,0.0,1.0,0.0
+math-ph/0702064,"Closed-form Dirichlet integral harmonic interpolation-fits for real
+  n-dimensional and complex half-space: DIDACKS III",9.706783774216097e-06,0.0,2.0,0.0
+nlin/0605021,"Asymptotics of a Class of Operator Determinants with Application to the
+  Cylindrical Toda Equations",9.087592082995425e-06,0.0,2.0,1.0
+math/0611364,Divisible operators in von Neumann algebras,9.087592082995425e-06,0.0,2.0,1.0
+quant-ph/0504151,"Entanglement entropy of fermions in any dimension and the Widom
+  conjecture",9.047879559361024e-06,0.0006429610727877,4.0,13.0
+math/0610130,"Perelman's Invariant, Ricci Flow, and the Yamabe Invariants of Smooth
+  Manifolds",8.914440011174177e-06,0.0,5.0,0.0
+math/0602617,Simple C*-algebras with locally finite decomposition rank,8.849568564067845e-06,0.0,9.0,2.0
+math/0612673,"Implicit functions from topological vector spaces to Fr\'echet spaces in
+  the presence of metric estimates",8.762146525391894e-06,3.980365510320144e-06,5.0,3.0
+math/0604434,"The M-ellipsoid, Symplectic Capacities and Volume",8.74132453970143e-06,0.0,2.0,0.0
+math/0606078,"Direct limits of infinite-dimensional Lie groups compared to direct
+  limits in related categories",8.45126941810675e-06,3.980365510320144e-06,6.0,2.0
+math/0512398,Quantum Stochastic Operator Cocycles via Associated Semigroups,8.399355031179684e-06,0.0,2.0,2.0
+math/0411519,On the structure of non-commutative white noises,8.394721778889003e-06,0.0,1.0,0.0
+math/0606545,"Construction of some Quantum Stochastic Operator Cocycles by the
+  Semigroup Method",8.393309358403248e-06,0.0,2.0,1.0
+hep-th/9707206,"Analytic Continuation of Operators -- operators acting complex s-times
+  -- Applications: from Number Theory and Group Theory to Quantum Field and
+  String Theories",8.28843174291217e-06,0.0,5.0,1.0
+gr-qc/0607046,"Decay of Solutions of the Teukolsky Equation for Higher Spin in the
+  Schwarzschild Geometry",8.28530402871664e-06,0.0,7.0,0.0
+math-ph/0203008,Zeno Dynamics of von Neumann Algebras,7.881702020310464e-06,0.0,7.0,2.0
+hep-th/0201219,"Spectral Asymptotics of Eigen-value Problems with Non-linear Dependence
+  on the Spectral Parameter",7.747846317585393e-06,1.609879425031246e-07,6.0,1.0
+math/0212215,"Szego limit theorem for operators with discontinuous symbols and
+  applications to entanglement entropy",7.7173374405052e-06,0.0,3.0,1.0
+math/0408008,Lie groups over non-discrete topological fields,7.706055411760887e-06,0.0,6.0,9.0
+math/0608754,"Idempotent probability measures, I",7.568939049560406e-06,0.0,1.0,0.0
+math/0502388,Quotients of Standard Hilbert Modules,7.486854036842753e-06,0.0,5.0,0.0
+math-ph/0702063,"Dirichlet integral point-source harmonic interpolation over
+  ${\mathbb{R}}^3$ spherical interiors: DIDACKS II",7.436101577256827e-06,1.990182755160072e-06,4.0,1.0
+math/0310395,"Analytic Continuation of Resolvent Kernels on noncompact Symmetric
+  Spaces",7.352230892659912e-06,0.0,3.0,0.0
+quant-ph/0112158,Quantum Finance: The Finite Dimensional Case,7.312279364864352e-06,0.0,2.0,2.0
+math/9906151,Metrics on State Spaces,7.268470536449677e-06,0.0020127693690819,8.0,26.0
+math/0703408,"Monotone and Boolean Convolutions for Non-compactly Supported
+  Probability Measures",7.245733289604619e-06,0.0,6.0,0.0
+math/0410577,"Operator integrals with respect to a spectral measure and solutions to
+  some operator equations",7.217946363287629e-06,0.0,7.0,0.0
+math/0201012,"Tokens: An Algebraic Construction Common in Combinatorics, Analysis, and
+  Physics",7.069108873728308e-06,0.0,3.0,1.0
+math/0703339,Approximation of quantum Levy processes by quantum random walks,7.038502536853052e-06,0.0,3.0,1.0
+math/0610712,"A Linear Programming Inequality with Applications to Concentration of
+  Measure",6.895616310963131e-06,0.0,2.0,0.0
+math/0701072,"Applications of hypocontinuous bilinear maps in infinite-dimensional
+  differential calculus",6.873367831195505e-06,0.0,4.0,0.0
+math/0602110,On the noncommutative spectral flow,6.79061900959065e-06,0.0,4.0,3.0
+math/0406264,Equilateral sets in finite-dimensional normed spaces,6.681251224771986e-06,0.0,1.0,0.0
+math/0409442,The hybrid spectral problem and Robin boundary conditions,6.604543166320717e-06,1.4854962974239023e-06,3.0,2.0
+math-ph/0505035,Phase transition and split property in quantum spin chain,6.55890781825366e-06,0.0,1.0,1.0
+math/0605076,"On the Inverse and Determinant of Certain Truncated Wiener-Hopf
+  Operators",6.55890781825366e-06,0.0,1.0,1.0
+math/0403251,"Hoelder continuous homomorphisms between infinite-dimensional Lie groups
+  are smooth",6.5304700040745326e-06,0.0,4.0,2.0
+math/0607185,Approximation of holomorphic mappings on strongly pseudoconvex domains,6.521986431869525e-06,0.0,2.0,2.0
+math/0612378,"Compression functions of uniform embeddings of groups into Hilbert and
+  Banach spaces",6.506761117172505e-06,0.0,3.0,0.0
+math/0511540,Satbility of Ternary Homomorphisms via Generalized Jensen Equation,6.418412524464124e-06,0.0,4.0,0.0
+math/0412408,The max-plus Martin boundary,6.38100927940677e-06,9.617125564849594e-06,7.0,6.0
+hep-th/0107115,Geometry of the Gauge Algebra in Noncommutative Yang-Mills Theory,6.37599642729743e-06,3.899431871371739e-06,67.0,21.0
+math/0408207,Boundedness in generalized \v{S}erstnev PN spaces,6.355472688138928e-06,0.0,2.0,2.0
+hep-th/9403148,"Infinite Dimensional Geometry and Quantum Field Theory of Strings. II.
+  Infinite Dimensional Noncommutative Geometry of a Self-Interacting String
+  Field",6.353983506600307e-06,0.0,20.0,1.0
+hep-th/0202039,Duality in Scalar Field Theory on Noncommutative Phase Spaces,6.25181575076601e-06,4.891162876536982e-05,27.0,28.0
+math/0508158,On Some Discrete Inequalities in Normed Linear Spaces,6.19095955862073e-06,0.0,2.0,0.0
+math-ph/0011025,The $M_{L}(z);C_{L}(z);W_{L}(z)$ associated Laguerre Polynomials,6.086550152667384e-06,0.0,3.0,0.0
+math/0611401,Asymptotic lifts of positive linear maps,6.058596461869177e-06,0.0,3.0,1.0
+math/0001171,Wavelet filters and infinite-dimensional unitary groups,6.02379112892886e-06,0.0,6.0,5.0
+math/0504125,General Spectral Flow Formula for Fixed Maximal Domain,6.003285691935873e-06,0.0,7.0,0.0
+math/0610904,From the Mahler conjecture to Gauss linking integrals,5.927773615503002e-06,0.0,4.0,0.0
+hep-th/9511060,"Spectral invariants for the Dirac equation on the d-Ball with various
+  boundary conditions",5.871869774836746e-06,0.0,10.0,6.0
+hep-th/9507029,"Modular Covariance, PCT, Spin and Statistics",5.803550298689531e-06,0.0,4.0,2.0
+math/0008102,"Representations of Cuntz algebras, loop groups and wavelets",5.783859991907158e-06,0.0,2.0,0.0
+math/0511218,"Finite order differentiability properties, fixed points and implicit
+  functions over valued fields",5.775019740460008e-06,1.1941096530960432e-05,4.0,5.0
+math/0205223,Intrinsic characterization of manifold-valued generalized functions,5.718209721195615e-06,0.0,2.0,0.0
+math/0608030,Spectral flow and winding number in von Neumann algebras,5.71490973462809e-06,0.0,3.0,0.0
+math/0105142,Graph Subspaces and the Spectral Shift Function,5.682884487447424e-06,0.0,6.0,7.0
+math/0603183,"Regular rapidly decreasing nonlinear generalized functions. Application
+  to microlocal regularity",5.662537346560009e-06,0.0,4.0,0.0
+math/0105097,Lower semi-continuity of integrals with G-quasiconvex potential,5.655144290770314e-06,0.0,1.0,1.0
+math/0212273,Lower Order Terms in Szego Theorems on Zoll Manifolds,5.655144290770314e-06,0.0,1.0,1.0
+math/0212275,Lower order terms in Szego type limit theorems on Zoll manifolds,5.655144290770314e-06,0.0,1.0,1.0
+math/0105044,Majorisation with applications to the calculus of variations,5.655144290770314e-06,0.0,1.0,1.0
+quant-ph/0112159,A Non-commutative Version of the Fundamental Theorem of Asset Pricing,5.655144290770314e-06,0.0,2.0,1.0
+math/0408275,Spectral Symmetry in II_1 Factors,5.655144290770314e-06,0.0,1.0,1.0
+math-ph/0509061,"Localization near fluctuation boundaries via fractional moments and
+  applications",5.582406009891062e-06,0.0,4.0,0.0
+math/0512417,Hereditary subalgebras of operator algebras,5.430880348249121e-06,0.0,2.0,0.0
+math/0310067,Homotopy types of stabilizers and orbits of Morse functions on surfaces,5.351668534947859e-06,0.0,4.0,0.0
+math/0507081,"Bounded $\mathbf{H_\infty}$-Calculus for Differential Operators on Conic
+  Manifolds with Boundary",5.304389220647625e-06,0.0,4.0,0.0
+math/0504126,A generalized Morse index theorem,5.264019514802009e-06,0.0,6.0,0.0
+math/0702063,On an assertion about Nash--Moser applications,5.236955799587031e-06,0.0,3.0,1.0
+math/9808040,Polynomial Sequences of Binomial Type and Path Integrals,5.202736353419365e-06,0.0,5.0,1.0
+math/0612756,On kernel theorems for (LF)-spaces,5.1857964129737005e-06,0.0,3.0,0.0
+math/0107090,The Fine Structure of the Kasparov Groups III: Relative Quasidiagonality,5.159633508096145e-06,0.0,4.0,0.0
+math/0411371,"Methods from multiscale theory and wavelets applied to non-linear
+  dynamics",5.1173282040291e-06,0.0,7.0,1.0
+hep-th/9501075,"Localization and Diagonalization: A review of functional integral
+  techniques for low-dimensional gauge theories and topological field theories",5.11272694481074e-06,0.0,15.0,21.0
+math/0510514,The algebra generated by idempotents in a Fourier-Stieltjes algebra,5.091130555768046e-06,0.0,2.0,0.0
+math/0210457,Non-Isomorphic Product Systems,5.081348602482735e-06,9.95091377580036e-07,3.0,5.0
+math/9904127,The Charge Quantum Numbers of Gauge Invariant Quasi-free Endomorphisms,5.031806460041623e-06,0.0,1.0,0.0
+math/0010115,"Modular frames for Hilbert C*-modules and symmetric approximation of
+  frames",4.996015283247111e-06,0.0,2.0,0.0
+hep-th/9410016,Schwinger Terms and Cohomology of Pseudodifferential Operators,4.970627185296085e-06,0.0,6.0,4.0
+math-ph/0112053,Nonlocal Extension of the Borchers Classes of Quantum Fields,4.9267660925055e-06,0.0,5.0,0.0
+math/0011184,A module frame concept for Hilbert C*-modules,4.911186874469205e-06,0.0,3.0,0.0
+math/0601519,"Equilibrium points of logarithmic potentials induced by positive charge
+  distributions. I. Generalized de Bruijn-Springer relations",4.886504045416633e-06,1.990182755160072e-06,3.0,2.0
+math/0510488,Binomial-Poisson entropic inequalities and the M/M/$\infty$ queue,4.877281019450083e-06,0.0,3.0,1.0
+math/0204018,Spaces of Analytical Functions and Wavelets--Lecture Notes,4.852078416185395e-06,9.712598032728943e-06,9.0,4.0
+math/0408059,Comments on a Theorem by Ancona,4.775563454392716e-06,0.0,3.0,0.0
+math/0308104,p-Summable Commutators in Dimension d,4.775563454392716e-06,0.0,6.0,1.0
+math/0702135,Nested sums of symbols and renormalised multiple zeta functions,4.757791447680929e-06,1.0098647228956184e-08,5.0,1.0
+math/0511727,On rays of minimal growth for elliptic cone operators,4.728284140092482e-06,0.0,3.0,1.0
+math/0306365,"Random Sets and Invariants for (Type II) Continuous Tensor Product
+  Systems of Hilbert Spaces",4.6835179323144885e-06,3.2838986177332667e-06,5.0,7.0
+math/0702250,Uniqueness of the Kontsevich-Vishik Trace,4.68047606893709e-06,0.0,2.0,0.0
+math/0609706,Manifolds of holomorphic mappings from strongly pseudoconvex domains,4.637375806859752e-06,0.0,2.0,1.0
+math/0509108,Compression of uniform embeddings into Hilbert space,4.615066061166796e-06,0.0,6.0,2.0
+math/0107057,Generalized pseudo-Riemannian geometry,4.610358872054613e-06,1.990182755160072e-06,2.0,1.0
+math/0107058,"Asymptotic Hyperfunctions, Tempered Hyperfunctions, and Asymptotic
+  Expansions",4.60993236530809e-06,0.0,3.0,1.0
+math/0407386,Dynamical entropy in Banach spaces,4.605901916790465e-06,0.0,3.0,0.0
+math/0505537,Refined Analytic Torsion,4.5957967456393655e-06,1.9906468836011075e-06,6.0,10.0
+math/0702649,"Wold decomposition for representations of product systems of
+  C*-correspondences",4.583849180394476e-06,0.0,1.0,0.0
+math/9809035,"Charged Quantum Fields Associated with Endomorphisms of CAR and CCR
+  Algebras",4.583528427541002e-06,0.0,4.0,1.0
+funct-an/9703002,Local Hypercomplex Analyticity,4.557838992340928e-06,0.0,3.0,2.0
+math/0610427,Metric and Mixing Sufficient Conditions for Concentration of Measure,4.535924272209658e-06,0.0,3.0,1.0
+math/0701935,"Weakly almost periodic functionals, representations, and operator spaces",4.527116820765776e-06,0.0,2.0,0.0
+math/9802015,"Noncommutative Riemann integration and and Novikov-Shubin invariants for
+  open manifolds",4.527116820765776e-06,0.0,3.0,0.0
+math/0402058,"Controllability cost of conservative systems: resolvent condition and
+  transmutation",4.506557850012979e-06,0.0,2.0,1.0
+math-ph/0507011,Carrier cones of analytic functionals,4.491210910492189e-06,1.990182755160072e-06,6.0,2.0
+math/0611629,The Dixmier trace and asymptotics of zeta functions,4.48844923571574e-06,0.0,3.0,0.0
+math/0604547,Fourier frequencies in affine iterated function systems,4.451893701190925e-06,0.0,1.0,0.0
+math/0506361,Property (T) and rigidity for actions on Banach spaces,4.40014269283162e-06,5.970548265480216e-06,3.0,2.0
+math/0311080,"Zak transform, Weil representation, and integral operators with
+  theta-kernels",4.399337097371589e-06,0.0,1.0,0.0
+math/0411379,A class of limit algebras associated with directed graphs,4.385798856056745e-06,0.0,3.0,1.0
+math/0502010,Refinements of Reverse Triangle Inequalities in Inner Product Spaces,4.361941669050547e-06,0.0,2.0,1.0
+math/0606541,The asymptotic lift of a completely positive map,4.360028371138221e-06,2.985274132740108e-06,4.0,2.0
+math/0212096,Wavelets in mathematical physics: q-oscillators,4.3032588201355855e-06,0.0,2.0,0.0
+math-ph/0106028,"Nuclearity, Local Quasiequivalence and Split Property for Dirac Quantum
+  Fields in Curved Spacetime",4.213123002008812e-06,4.514876715592388e-06,8.0,4.0
+math/0305385,One-parameter orthogonality relations for basic hypergeometric series,4.208512246945355e-06,0.0,2.0,0.0
+hep-th/9211009,"A Quadratic Deformation of the Heisenberg-Weyl and Quantum Oscillator
+  Enveloping Algebras",4.205859541399298e-06,0.0,5.0,0.0
+math/0609430,"Restrictions of the Complementary Series of the Universal Covering of
+  the Symplectic Group",4.199458373837573e-06,0.0,3.0,0.0
+math/0205142,C*-algebras of infinite real rank,4.170906949305032e-06,0.0,1.0,0.0
+math/0510547,Nonembeddability theorems via Fourier analysis,4.135080771129228e-06,0.0,3.0,0.0
+math/0502241,"Commutants of von Neumann Correspondences and Duality of Eilenberg-Watts
+  Theorems by Rieffel and by Blecher",4.098246847179492e-06,1.990182755160072e-06,4.0,5.0
+math/0603501,Stability of Derivations on Hilbert $C^*$-Modules,4.069189384247665e-06,0.0,3.0,0.0
+math/0608511,Measure Concentration of Markov Tree Processes,4.064015238969572e-06,0.0,3.0,2.0
+hep-th/9601063,Analog of Lie Algebra and Lie Group for Quantum Non-Hamiltonian Systems,4.060693230801088e-06,0.0,2.0,0.0
+math/0507120,The topology of the monodromy map of the second order ODE,4.060231222520034e-06,0.0,2.0,0.0
+math/0304002,On the Determinant of a Certain Wiener-Hopf + Hankel Operator,4.007423346985859e-06,0.0,3.0,0.0
+math/0702751,"Large scale Sobolev inequalities on metric measure spaces and
+  applications",3.976856698194505e-06,0.0,2.0,1.0
+math/0610795,Spaces of continuous functions over Dugundji compacta,3.962745155696321e-06,0.0,4.0,1.0
+math/0701294,Sofic groups and diophantine approximation,3.9534682917924304e-06,0.0,1.0,0.0
+math-ph/0211051,Infrared Catastrophe for Nelson's Model,3.951011740210633e-06,0.0,2.0,0.0
+math-ph/0112052,"Lorentz-covariant ultradistributions, hyperfunctions, and analytic
+  functionals",3.924867364190701e-06,2.026959408773549e-06,1.0,3.0
+math/0608439,Perelman's \lambda functional and the Seiberg-Witten equations,3.9168835132382834e-06,3.280037018565563e-06,3.0,2.0
+math/0101179,"Quantum matrix ball: the Cauchi-Szeg\""o kernel and the Shilov boundary",3.892994187337482e-06,0.0,4.0,2.0
+math/0703878,Logarithms and sectorial projections for elliptic boundary problems,3.876171114280625e-06,0.0,1.0,1.0
+math-ph/0303030,"Unusual poles of the $\zeta$-functions for some regular singular
+  differential operators",3.865847398933421e-06,3.2857891654927618e-06,4.0,1.0
+math/0608681,Modified log-Sobolev inequalities and isoperimetry,3.8153883201341445e-06,0.0,4.0,0.0
+hep-th/0210215,Topologizations of Chiral Representations,3.8038533573906904e-06,0.0,6.0,1.0
+hep-th/9703129,Extensions of Conformal Nets and Superselection Structures,3.7940855038028977e-06,7.4260550565674335e-09,3.0,1.0
+math/0602513,The Rohlin property for automorphisms on simple C*-algebras,3.7504244665492375e-06,0.0,2.0,0.0
+math/0612570,A combinatorial approach to monotonic independence over a C*-algebra,3.725070858339796e-06,0.0,2.0,0.0
+hep-th/9505166,"A Geometrical Formulation of the Renormalization Group Method for Global
+  Analysis",3.649388203764792e-06,0.0,1.0,5.0
+math/0703012,Kato's square root problem in Banach spaces,3.62335329328243e-06,0.0,2.0,0.0
+math/0408235,Extreme points of the unit ball of an operator space,3.62335329328243e-06,0.0,2.0,1.0
+math/0108096,Geometrically Uniform Frames,3.62335329328243e-06,0.0,2.0,3.0
+math/0406050,"Infinitesimal form boundedness and Trudinger's subordination for the
+  Schr\""odinger operator",3.62335329328243e-06,0.0,2.0,0.0
+math/0609039,Classes of strictly singular operators and their products,3.62335329328243e-06,0.0,2.0,0.0
+math/0611171,Spectral calculations on locally convex vector spaces I,3.62335329328243e-06,0.0,2.0,0.0
+math/0403231,The Free Cover of a Row Contraction,3.62335329328243e-06,0.0,4.0,0.0
+math/0609213,"On the eigenvalues of Sturm--Liouville operators with potentials from
+  Sobolev spaces",3.62335329328243e-06,0.0,2.0,0.0
+math/0703331,"Derivations on the Algebra of $\tau$-Compact Operators Affiliated with a
+  Type I von Neumann Algebra",3.62335329328243e-06,0.0,2.0,0.0
+math-ph/0102002,"Continuous wavelet transforms from semidirect products: Cyclic
+  representations and Plancherel measure",3.62335329328243e-06,0.0,2.0,3.0
+math/0010139,Finite von Neumann algebra factors with property Gamma,3.62335329328243e-06,0.0,2.0,0.0
+math-ph/0512053,Accardi complementarity in $\mu$-deformed quantum mechanics,3.62335329328243e-06,0.0,2.0,0.0
+math/0701832,"Boundedness properties of pseudo-differential operators and
+  Calder\'on-Zygmund operators on modulation spaces",3.62335329328243e-06,0.0,2.0,0.0
+math/0207239,The AF structure of non commutative toroidal Z/4Z orbifolds,3.62335329328243e-06,0.0,2.0,2.0
+math/0609835,"Concentration inequalities for dependent Random variables via the
+  martingale method",3.5607856819000207e-06,0.0,2.0,4.0
+math/0410596,Embeddings of derived categories of bornological modules,3.545230177838035e-06,0.0,2.0,2.0
+math/0106008,"Bounded Imaginary Powers of Differential Operators on Manifolds with
+  Conical Singularities",3.5324768517048674e-06,0.0,1.0,3.0
+math/0602081,Aspects of p-adic non-linear functional analysis,3.507994957174986e-06,1.3931279286120504e-05,3.0,3.0
+math/0407242,Categorical distribution theory; heat equation,3.49912997646896e-06,0.0,2.0,0.0
+math/0601535,The Widom-Dyson constant for the gap probability in random matrix theory,3.49912997646896e-06,0.0,2.0,4.0
+math/9907036,"Representation Theory and Numerical AF-invariants: The representations
+  and centralizers of certain states on O_d",3.493345650031712e-06,0.0,2.0,1.0
+math/0410449,Nest representations of directed graph algebras,3.4930843036925227e-06,0.0,1.0,1.0
+math/0506491,A brief introduction to operator quantum error correction,3.4573047151881423e-06,1.221586056805343e-07,4.0,2.0
+math/0511278,Higher-Rank Numerical Ranges and Compression Problems,3.4544716461385542e-06,0.0,1.0,0.0
+math/0511709,Non-symmetric Jacobi and Wilson type polynomials,3.3749066596554898e-06,0.0,1.0,0.0
+math/0509374,Numerical index and duality,3.3749066596554898e-06,0.0,1.0,0.0
+math/0607578,Some automorphism invariance properties for multicontractions,3.3749066596554898e-06,0.0,1.0,0.0
+math/0310343,"Subspaces of L_p, p>2, with unconditional basis have equivalent
+  partition and weight norms",3.3749066596554898e-06,0.0,1.0,0.0
+math/0608686,Sublinear Higson corona and Lipschitz extensions,3.353665745662178e-06,0.0,5.0,0.0
+math-ph/0010003,A deformation of Hermite polynomials,3.3535922881360648e-06,0.0,3.0,1.0
+math/0110274,Sampling theorems for the Heisenberg groups,3.2903346293957183e-06,0.0,3.0,0.0
+math/0607193,On unitary representability of topological groups,3.283798940867676e-06,0.0,1.0,0.0
+math/0208249,Spectrum as the Support of Functional Calculus,3.274614040513025e-06,3.172682822918487e-07,5.0,2.0
+quant-ph/9610016,Mixing Quantum and Classical Mechanics,3.271031241378601e-06,4.97545688790018e-06,4.0,5.0
+math/9909101,"A Reducing of the Invariant Semidefinite Subspace Problem for Krein
+  Noncontraction to such a Problem for Krein Isometry",3.255793443484808e-06,0.0,1.0,0.0
+math/9808015,On Function Theory in Quantum Disc: Integral Representations,3.2521990637648352e-06,0.0,7.0,9.0
+math/0606161,Twisted Burnside theorem for type II_1 groups: an example,3.2448102041180463e-06,0.0,2.0,4.0
+q-alg/9612026,Hidden symmetries and categorical representation theory,3.2328274604497434e-06,0.0,6.0,1.0
+math/0408388,"Cohen-Host type idempotent theorems for representations on Banach spaces
+  and applications to Fig\`a-Talamanca-Herz algebras",3.221749681371317e-06,0.0,1.0,0.0
+math/0305091,Tangential dimensions I. Metric spaces,3.193859160477992e-06,0.0,2.0,1.0
+hep-th/9608115,"The $:\phi^4_4:$ quantum field theory, II. Integrability of Wick kernels",3.189798327320794e-06,0.0,3.0,0.0
+hep-th/9605165,"Complex structure and the construction of the $:\phi^4_4:$ quantum field
+  theory in four-dimensional space-time",3.189798327320794e-06,0.0,3.0,0.0
+math/0609160,On quaternionic functional analysis,3.177562657742176e-06,0.0,1.0,0.0
+math/0610646,"On calculation of eigenvalues of Sturm-Liouville problem with indefinite
+  weight having self-similar primitive",3.1564676950366884e-06,0.0,2.0,0.0
+math/0606243,Hyperanalytic Denoising,3.1564676950366884e-06,0.0,2.0,0.0
+math-ph/0101003,"Spectral Properties of Wick Power Series of a Free Field with an
+  Indefinite Metric",3.1432657261531444e-06,0.0,3.0,2.0
+math/0606060,"The local form of doubly stochastic maps and joint majorization in
+  II$_1$ factors",3.122561840017566e-06,0.0,4.0,1.0
+math/0502181,"On the classification of simple Z-stable C*-algebras with real rank zero
+  and finite decomposition rank",3.084119668454497e-06,0.0,5.0,4.0
+math/0109095,"Factorization Theorem for the Transfer Function Associated with an
+  Unbounded Non-Self-Adjoint 2x2 Operator Matrix",3.081555590838254e-06,0.0,3.0,0.0
+math/0401256,Asymptotics for Toeplitz determinants on a circular arc,3.080216714865621e-06,0.0,2.0,0.0
+math/0603025,"Algebras of operators in Banach spaces over the quaternion skew field
+  and the octonion algebras",3.0788822782192983e-06,0.0,3.0,1.0
+math/9707211,Metric unconditionality and Fourier analysis,3.0472482127272877e-06,0.0,2.0,0.0
+math-ph/0612035,The bipolaron in the strong coupling limit,3.0472482127272877e-06,0.0,2.0,0.0
+math/0406573,The Radon transform of functions of matrix argument,3.0472482127272877e-06,0.0,2.0,3.0
+math/0602086,"Tensor Products in Quantum Functional Analysis: the Non-Matricial
+  Approach",3.0472482127272877e-06,0.0,2.0,0.0
+math/0503602,Multiplicative monotone convolutions,3.0472482127272877e-06,0.0,2.0,2.0
+math/0601276,Approximately $C^*$-inner product preserving mappings,3.0472482127272877e-06,0.0,2.0,0.0
+math/0602540,Generalized cosine transforms and classes of star bodies,3.0472482127272877e-06,0.0,2.0,0.0
+math/0701779,Generalized Intersection Bodies are not Equivalent,3.0472482127272877e-06,0.0,2.0,0.0
+math/9905181,"On boundary value problems for Dirac type operators. I. Regularity and
+  self-adjointness",3.0472482127272877e-06,0.0,2.0,1.0
+quant-ph/9706001,On Tracial Operator Representations of Quantum Decoherence Functionals,3.035740002034509e-06,0.0,2.0,1.0
+quant-ph/0310075,Symmetric Informationally Complete Quantum Measurements,3.031084434272669e-06,3.207253316280414e-07,5.0,14.0
+math/0607783,"A new topology on the space of unbounded selfadjoint operators and the
+  spectral flow",3.0242486180705063e-06,0.0,1.0,3.0
+math/0210420,Decomposition rank of subhomogeneous $C^*$-algebras,3.0009494715038117e-06,0.0,4.0,1.0
+math-ph/0101004,Wick Power Series in Indefinite Metric Field Theories,2.9945875645780783e-06,0.0,2.0,0.0
+math/9809038,Quantum matrix ball: the weighted Bergman kernels,2.993820136594629e-06,0.0,3.0,1.0
+math/0601348,On an identity due to ((Bump and Diaconis) and (Tracy and Widom)),2.9881847176569714e-06,1.206063436039189e-07,1.0,1.0
+math/0210249,"Algebras of generalized functions through sequence spaces algebras.
+  Functoriality and associations",2.9851365543205523e-06,0.0,2.0,2.0
+math/0404553,A quantum computing primer for operator theorists,2.964054843792461e-06,1.990182755160072e-06,7.0,1.0
+math/0703121,Quasi-states and the Poisson bracket on surfaces,2.9637128537967883e-06,0.0,2.0,2.0
+math/0510138,On decomposability of positive maps between $M_2$ and $M_n$,2.9556313555959445e-06,0.0,2.0,0.0
+math/0412108,"On the Singularities of the Exponential Map in Infinite Dimensional
+  Riemannian Manifolds",2.923024895913817e-06,0.0,1.0,0.0
+math/0508096,An Inequality of Hadamard Type for Permanents,2.923024895913817e-06,0.0,1.0,0.0
+math/0610902,Oblique Matching Pursuit,2.923024895913817e-06,0.0,1.0,0.0
+math/0606367,"Injective convolution operators on ${\ell}^{\infty}(\Gamma)$ are
+  surjective",2.91697922313738e-06,0.0,1.0,1.0
+math/0307406,"First-order hyperbolic pseudodifferential equations with generalized
+  symbols",2.8823378698908707e-06,0.0,2.0,2.0
+math-ph/0109033,Square-integrability modulo a subgroup,2.88161712364266e-06,0.0,2.0,0.0
+math/0206269,Coherent State Transforms and Vector Bundles on Elliptic Curves,2.879116505735794e-06,0.0,3.0,0.0
+math/0109117,The Morse index theorem for regular Lagrangian systems,2.8663386476878302e-06,0.0,2.0,4.0
+math/0309354,"Advances in Inequalities of the Schwarz, Gruss and Bessel Type in Inner
+  Product Spaces",2.855213185875573e-06,0.0,2.0,3.0
+math/0501071,The topology of critical sets of some ordinary differential operators,2.855213185875573e-06,0.0,2.0,1.0
+math/0012220,"Matrix balls, radial analysis of Berezin kernels, and hypergeometric
+  determinants",2.845031740927148e-06,0.0,6.0,6.0
+math/0703610,"Asymptotically unitary equivalence and asymptotically inner
+  automorphisms",2.8204256443880398e-06,0.0,2.0,1.0
+math/0610241,Stochastic Volterra equations driven by cylindrical Wiener process,2.805744516569167e-06,0.0,1.0,0.0
+math/0512532,Strong solutions to stochastic Volterra equations,2.805744516569167e-06,0.0,1.0,0.0
+math/0510314,On ergodic type theorems for strictly weak mixing C^*-dynamical systems,2.798801579100347e-06,0.0,1.0,0.0
+math/0612025,Strict weak mixing of some C*-dynamical systems based on free shifts,2.798801579100347e-06,0.0,1.0,0.0
+math/0508097,Lipschitz extension constants equal projection constants,2.796852486094855e-06,0.0,2.0,1.0
+gr-qc/9907084,"Black Holes, Bandwidths and Beethoven",2.786874443504773e-06,1.9904652208352197e-06,12.0,4.0
+math/0210032,"On the existence of solutions to the operator Riccati equation and the
+  tan\Theta theorem",2.775380384301247e-06,0.0,4.0,3.0
+math-ph/0404034,"On the resolvent and spectral functions of a second order differential
+  operator with a regular singularity",2.773524441621328e-06,2.4753516855224776e-09,3.0,3.0
+math/0603578,Fast complexified quaternion Fourier transform,2.77239764133326e-06,0.0,1.0,2.0
+math/0411648,Riesz transform and $L^p$ cohomology for manifolds with Euclidean ends,2.77239764133326e-06,0.0,1.0,0.0
+math/0311178,"Applications of the Wold decomposition to the study of row contractions
+  associated with directed graphs",2.7618360662264243e-06,0.0,2.0,0.0
+math/0607198,$L^2$-spectral invariants and quasi-crystal graphs,2.761706651641428e-06,0.0,1.0,1.0
+math/0403040,Generalised Connections and Curvature,2.759195672449716e-06,0.0,2.0,0.0
+math/0108014,Unbounded Fredholm Operators and Spectral Flow,2.7444401294732823e-06,0.0,3.0,6.0
+math/0505189,A property (T) for C*-algebras,2.7381302006244394e-06,0.0,2.0,1.0
+math/0409100,"Multiscaled wavelet transforms, ridgelet transforms, and Radon
+  transforms on the space of matrices",2.7309898690621025e-06,0.0,2.0,0.0
+math/0206309,"Plancherel transform criteria for Weyl-Heisenberg frames with integer
+  oversampling",2.7142295488405754e-06,0.0,2.0,1.0
+math/0612604,A General Fredholm Theory I: A Splicing-Based Differential Geometry,2.7125929083830505e-06,1.990182755160072e-06,2.0,2.0
+math/0107157,Z-Analytic TAF Algebras and Partial Dynamical Systems,2.7015851643942016e-06,0.0,2.0,2.0
+quant-ph/0603110,Still more on norms of completely positive maps,2.6884511953364142e-06,0.0,3.0,0.0
+math/0006100,"Compactly supported wavelets and representations of the Cuntz relations,
+  II",2.6715186044320765e-06,0.0,2.0,0.0
+math/0004098,Minimality of the data in wavelet filters,2.6715186044320765e-06,0.0,2.0,1.0
+math/9909116,Refined Kato inequalities and conformal weights in Riemannian geometry,2.663241621170992e-06,0.0,1.0,1.0
+math/9908056,"A Generalized Index Theorem for Morse-Sturm Systems and Applications to
+  semi-Riemannian Geometry",2.6631781590238582e-06,0.0,2.0,3.0
+math/0405500,Relatively Hyperbolic Groups with Rapid Decay Property,2.655862865552089e-06,0.0,3.0,0.0
+math/0006165,From slightly coloured noises to unitless product systems,2.650313920869282e-06,1.990182755160072e-06,3.0,4.0
+math/0609451,Asymptotics of the Airy-kernel determinant,2.634472686556047e-06,7.4260550565674335e-09,3.0,2.0
+math-ph/0605065,Two classes of generalized functions used in nonlocal field theory,2.6235629202843785e-06,0.0,2.0,1.0
+math/0605145,"On twisted Fourier analysis and convergence of Fourier series on
+  discrete groups",2.613787924690939e-06,0.0,1.0,0.0
+math/0004010,"Ramsey-Milman phenomenon, Urysohn metric spaces, and extremely amenable
+  groups",2.6004102073912568e-06,0.0,1.0,8.0
+gr-qc/0603119,"A variational approach to homogeneous scalar fields in General
+  Relativity",2.592903238367238e-06,0.0,3.0,0.0
+math/0605562,An alternative definition of coarse structures,2.5928778798691914e-06,0.0,3.0,4.0
+hep-th/9708010,"A New Approach to Functional Analysis on Graphs, the Connes-Spectral
+  Triple and its Distance Function",2.5722677446825013e-06,1.8565137641418582e-09,4.0,5.0
+hep-th/9706041,"Chiral Determinant Formulae and Subsingular Vectors for the N=2
+  Superconformal Algebras",2.5718117523743974e-06,3.980365510320144e-06,5.0,6.0
+math/0310094,Smooth group representations on bornological vector spaces,2.5533034528524485e-06,0.0,1.0,1.0
+cond-mat/9501098,Bounds on the mass gap of the ferromagnetic XXZ chain,2.5495311014512737e-06,0.0,2.0,5.0
+quant-ph/0511101,Quantum Error Correcting Codes From The Compression Formalism,2.523483835739333e-06,1.990182755160072e-06,4.0,1.0
+math/9809018,On Function Theory in Quantum Disc: A q-Analogue of Berezin Transform,2.519856531956762e-06,0.0,5.0,7.0
+hep-th/9906229,"On the concept of determinant for the differential operators of Quantum
+  Physics",2.5119593849948706e-06,6.141771790537905e-07,2.0,1.0
+math/0108044,"An Index Theory for Paths that are Solutions of a Class of Strongly
+  Indefinite Variational Problems",2.492409444008504e-06,0.0,3.0,2.0
+math/0611633,Perturbation of complex polynomials and normal operators,2.4711431321721443e-06,0.0,1.0,0.0
+hep-th/9710117,"Lattice Approximation of Quantum Statistical Traces at a Complex
+  Temperature",2.4711431321721443e-06,0.0,1.0,0.0
+math/0602677,On Transitive Systems of Subspaces in a Hilbert Space,2.4711431321721443e-06,0.0,1.0,0.0
+math/0211341,"On Extension of Operators in Classes of Finitely Equivalent Banach
+  Spaces. Part 2",2.4711431321721443e-06,0.0,1.0,0.0
+math/0612125,"Approximate Homotopy of Homomorphisms from $C(X)$ into a Simple
+  $C^*$-algebra",2.4711431321721443e-06,0.0,1.0,0.0
+math/0607299,Operator space structure on Feichtinger's Segal algebra,2.4711431321721443e-06,0.0,1.0,0.0
+math/0307317,"Groups, Wavelets, and Wavelet Sets",2.4711431321721443e-06,0.0,1.0,0.0
+math/0307079,Duality and Normal Parts of Operator Modules,2.4711431321721443e-06,0.0,1.0,0.0
+math/0605752,Fractional embedding of differential operators and Lagrangian systems,2.4711431321721443e-06,0.0,1.0,2.0
+math/0509094,"Characteristic functions for multicontractions and automorphisms of the
+  unit ball",2.4711431321721443e-06,0.0,1.0,1.0
+math/0301197,Hahn-Banach theorems for $\kappa $-normed spaces,2.4711431321721443e-06,0.0,1.0,0.0
+math/0212079,"A class of preservers on Hilbert space effects including ortho-order
+  automorphisms and sequential automorphisms",2.4711431321721443e-06,0.0,1.0,0.0
+math/0702203,Bernstein-Szeg\H{o} measures on the two dimensional torus,2.4711431321721443e-06,0.0,1.0,0.0
+math/0405063,Completely Bounded Homomorphisms of the Fourier Algebras,2.4711431321721443e-06,0.0,1.0,2.0
+math/0612646,Isomorphisms of algebras of Colombeau generalized functions,2.4711431321721443e-06,0.0,1.0,0.0
+math/0701678,A second order smooth variational principle on Riemannian manifolds,2.4711431321721443e-06,0.0,1.0,0.0
+math/0612173,"Indefinite Sturm-Liouville operators with the singular critical point
+  zero",2.4711431321721443e-06,0.0,1.0,0.0
+math/0107197,"Results on infinite dimensional topology and applications to the
+  structure of the critical set of nonlinear Sturm-Liouville operators",2.4711431321721443e-06,0.0,1.0,0.0
+math/0110267,A noncommutative version of the Banach-Stone theorem (II),2.4711431321721443e-06,0.0,1.0,0.0
+math/0205082,Contractive projections in Orlicz sequence spaces,2.4711431321721443e-06,0.0,1.0,0.0
+math/0702186,On a Norm Compression Inequality for 2XN Partitioned Block Matrices,2.4711431321721443e-06,0.0,1.0,0.0
+math/0504071,Reproducing kernel Hilbert spaces and Mercer theorem,2.4711431321721443e-06,0.0,1.0,0.0
+math/0504029,Positive definite kernels and lattice paths,2.4711431321721443e-06,0.0,1.0,0.0
+math/0503293,On Besicovitch Almost Periodic Selections of Multivalued Maps,2.4711431321721443e-06,0.0,1.0,0.0
+math/0310421,Representations of Group Algebras in Spaces of Completely Bounded Maps,2.4711431321721443e-06,0.0,1.0,0.0
+math/0010189,Frames in Hilbert C*-modules and C*-algebras,2.4711431321721443e-06,0.0,1.0,0.0
+math-ph/0605050,"Application of approximation theory by nonlinear manifolds in
+  Sturm-Liouville inverse problems",2.4711431321721443e-06,0.0,1.0,0.0
+math/0008132,"Universal Spectra and Tijdeman's Conjecture on Factorization of Cyclic
+  Groups",2.4711431321721443e-06,0.0,1.0,0.0
+math/0502335,"Extremal cases of exactness constant and completely bounded projection
+  constant",2.4711431321721443e-06,0.0,1.0,0.0
+math/0003095,"The uniqueness of the solution to inverse problems of interpolation of
+  positive operators in Banach lattices",2.4711431321721443e-06,0.0,1.0,0.0
+math/0501154,"Perturbations of operators similar to contractions and the commutator
+  equation",2.4711431321721443e-06,0.0,1.0,0.0
+math/0501116,"On the Eigenvalues of Certain Canonical Higher-Order Ordinary
+  Differential Operators",2.4711431321721443e-06,0.0,1.0,0.0
+math/0006034,Summing inclusion maps between symmetric sequence spaces,2.4711431321721443e-06,0.0,1.0,0.0
+math/0002208,"Cascade Connection of Multiparametric Linear Systems and a Conservative
+  Realization of Decomposable Inner Operator Functions in Bidisk",2.4711431321721443e-06,0.0,1.0,0.0
+math/0004166,The dual of the James Tree space is asymptotically uniformly convex,2.4711431321721443e-06,0.0,1.0,0.0
+math/0608506,Local interpolation in Hilbert spaces of Dirichlet series,2.4711431321721443e-06,0.0,1.0,0.0
+math/0506505,On *-representations of a certain class of algebras related to a graph,2.4711431321721443e-06,0.0,1.0,1.0
+math-ph/0307002,On the Vacuum Polarization Density Caused by an External Field,2.4711431321721443e-06,0.0,1.0,0.0
+math-ph/0201031,Coordinate formalism on abstract Hilbert space,2.4711431321721443e-06,0.0,1.0,0.0
+math/0310086,Differentiability of functions of matrices,2.4711431321721443e-06,0.0,1.0,0.0
+math/0505411,A note on lower bounds of martingale measure densities,2.4711431321721443e-06,0.0,1.0,0.0
+math/0411555,The Alternative Daugavet Property of $C^*$-algebras and $JB^*$-triples,2.4711431321721443e-06,0.0,1.0,1.0
+math-ph/0405007,Stability of Equilibria with a Condensate,2.4711431321721443e-06,0.0,1.0,0.0
+math/0401091,"Operator synthesis II. Individual synthesis and linear operator
+  equations",2.4711431321721443e-06,0.0,1.0,0.0
+math/0609503,The structure of tame minimal dynamical systems,2.4711431321721443e-06,0.0,1.0,0.0
+math/0610547,On Asymptotic Transitivity in Banach Spaces,2.4711431321721443e-06,0.0,1.0,0.0
+math/0410038,Wavelets and Hilbert modules,2.4711431321721443e-06,0.0,1.0,0.0
+math/0601682,"Local approximations and intrinsic characterizations of spaces of smooth
+  functions on regular subsets of $R^n$",2.4711431321721443e-06,0.0,1.0,0.0
+math/0510358,A Beurling theorem for noncommutative L^p,2.4711431321721443e-06,0.0,1.0,1.0
+math/0610136,Construction of bipotentials and a minimax theorem of Fan,2.4711431321721443e-06,0.0,1.0,0.0
+math/0610397,"On Schatten-von Neumann class properties of pseudo-differential
+  operators. Cordes' lemma",2.4711431321721443e-06,0.0,1.0,0.0
+math/0610502,A Criterion for Hill Operators to be Spectral Operators of Scalar Type,2.4711431321721443e-06,0.0,1.0,0.0
+math/0610528,"Flat cyclic Fr\'echet modules, amenable Fr\'echet algebras, and
+  approximate identities",2.4711431321721443e-06,0.0,1.0,0.0
+math-ph/9812012,"Hall's coherent states, the Cameron-Martin theorem, and the quantization
+  of Yang-Mills theory on a circle",2.4711431321721443e-06,0.0,1.0,1.0
+math/0607085,Exotic indecomposable systems of four subspaces in a Hilbert space,2.4711431321721443e-06,0.0,1.0,0.0
+math/0312061,A Non-commutative Monotone Selection Principle,2.4711431321721443e-06,0.0,1.0,0.0
+math/0210228,Complemented Subspaces of L_p Determined by Partitions and Weights,2.4711431321721443e-06,0.0,1.0,1.0
+math/0311246,Paley-Wiener theorems for the $\Theta$-spherical transform: an overview,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0511084,Ramsey partitions and proximity data structures,2.4711431321721443e-06,0.0,1.0,1.0
+math/0403149,A Strict Positivstellensatz for Enveloping Algebras,2.4711431321721443e-06,0.0,1.0,0.0
+math/0403386,Singular Perturbations of Abstract Wave equations,2.4711431321721443e-06,0.0,1.0,0.0
+math/0611503,"Marcinkiewicz-Zygmund inequalities and interpolation by spherical
+  harmonics",2.4711431321721443e-06,0.0,1.0,1.0
+math/0612225,On $F$-Quadratic Stochastic Operators,2.4711431321721443e-06,0.0,1.0,0.0
+math/0512323,"$\pmb{D}$-boundedness and $\pmb{D}$-compactness in finite dimensional
+  probabilistic normed spaces",2.4711431321721443e-06,0.0,1.0,0.0
+math/0604372,Dual Banach algebras: representations and injectivity,2.4711431321721443e-06,0.0,1.0,1.0
+math/0508028,Automatic Continuity of $\sigma$-Derivations on $C^*$-Algebras,2.4711431321721443e-06,0.0,1.0,0.0
+math/0508352,Stabilization of Tsirelson-type norms on $\ell_p$ spaces,2.4711431321721443e-06,0.0,1.0,0.0
+math/0509185,"On realization of the Krein-Langer class Nk of matrix-valued functions
+  in Hilbert spaces with indefinite metric",2.4711431321721443e-06,0.0,1.0,0.0
+math/0509369,Spectra of differentiable hyperbolic maps,2.4711431321721443e-06,0.0,1.0,0.0
+math/0605594,An Orbifold Relative Index Theorem,2.4711431321721443e-06,0.0,1.0,0.0
+math/0604308,"Embedding ergodic actions of compact quantum groups on C*-algebras into
+  quotient spaces",2.4711431321721443e-06,0.0,1.0,0.0
+math/0506002,Closed and exact functions in the context of Ginzburg-Landau models,2.4711431321721443e-06,0.0,1.0,0.0
+math/0307367,Manifold structure of spaces of spherical tight frames,2.4711431321721443e-06,0.0,1.0,1.0
+math/0511747,Congruence subgroups and the Atiyah conjecture,2.4711431321721443e-06,0.0,1.0,0.0
+math/0607062,"Nagy-Foias type functional models of nondissipative operators in
+  parabolic domains",2.4711431321721443e-06,0.0,1.0,0.0
+hep-th/9410128,Invariant Indentities in the Heisenberg Algebra,2.4711431321721443e-06,0.0,1.0,0.0
+math/0506227,Continuity theorems for the $M/M/1/n$ queueing system,2.4711431321721443e-06,0.0,1.0,0.0
+math/0212218,On L. Schwartz's boundedness condition for kernels,2.4711431321721443e-06,0.0,1.0,1.0
+math/9910109,Injective envelopes and local multiplier algebras of C*-algebras,2.4711431321721443e-06,0.0,1.0,0.0
+math/9804074,On conditional expectations of finite index,2.4711431321721443e-06,0.0,1.0,1.0
+funct-an/9708002,Green's Functions and Energy Decay on Homogeneous Spaces,2.4711431321721443e-06,0.0,1.0,0.0
+math/0702217,"Proof of the cases $p \leq 7$ of the Lieb-Seiringer formulation of the
+  Bessis-Moussa-Villani conjecture",2.4711431321721443e-06,0.0,1.0,0.0
+math/0702269,"Schwarz-Pick inequalities for the Schur-Agler class on the polydisk and
+  unit ball",2.4711431321721443e-06,0.0,1.0,0.0
+math/0702806,The problem of ideals of $H^\infty$: beyond the exponent 3/2,2.4711431321721443e-06,0.0,1.0,0.0
+math/0701292,"On the behavior of solutions to Schr\""odinger equations with dipole-type
+  potentials near the singularity",2.4711431321721443e-06,0.0,1.0,0.0
+quant-ph/0504189,Operator quantum error correction,2.4408555367132897e-06,1.1300343877223389e-05,2.0,14.0
+math/0501145,Wavelet constructions in non-linear dynamics,2.440622271727539e-06,0.0,4.0,0.0
+math/0101008,"On the determinant formulas by Borodin, Okounkov, Baik, Deift, and Rains",2.439218426455022e-06,0.0,2.0,2.0
+math/0403303,Nonstandard Analysis and Generalized Functions,2.432993557848162e-06,0.0,1.0,0.0
+funct-an/9402001,On Integrable Solutions of Impulsive Delay Differential Equations,2.429735359900988e-06,0.0,2.0,0.0
+funct-an/9401001,"Boundedness and Stability of Impulsively Perturbed Delay Differential
+  Equations",2.429735359900988e-06,0.0,2.0,0.0
+math/0012205,"Automatic continuity and weighted composition operators between spaces
+  of vector-valued differentiable functions",2.4297353599009875e-06,0.0,2.0,0.0
+math/0602450,From filters to wavelets via direct limits,2.425475483897501e-06,0.0,2.0,0.0
+math/9807141,Wavelets in Banach Spaces,2.415424190651833e-06,1.990182755160072e-06,5.0,10.0
+math/0501012,Hyers-Ulam-Rassias Stability of Generalized Derivations,2.4060086373771908e-06,0.0,1.0,2.0
+math/0501013,Approximate $(\sigma-\tau)$-Contractibility,2.4060086373771908e-06,0.0,1.0,2.0
+math/0703287,Spectral flow as winding number and integral formulas,2.394593913663576e-06,0.0,1.0,1.0
+math/0601205,A Universal Lipschitz Extension Property of Gromov Hyperbolic Spaces,2.381222797123356e-06,0.0,2.0,0.0
+patt-sol/9508001,"A Geometrical Formulation of the Renormalization Group Method for Global
+  Analysis II: Partial Differential Equations",2.3771572147201503e-06,0.0,2.0,1.0
+math/0104269,Diffeomorphism invariant Colombeau Algebras. Part I: Local theory,2.375125618746287e-06,0.0,3.0,0.0
+math/0602628,"Linearly ordered compacta and Banach spaces with a projectional
+  resolution of the identity",2.3747677042853784e-06,0.0,2.0,2.0
+math/0311147,"A Morse Index Theorem and bifurcation for perturbed geodesics on
+  Semi-Riemannian Manifolds",2.366382196331434e-06,0.0,2.0,0.0
+hep-th/9707082,Dimension Theory of Graphs and Networks,2.3641967089148126e-06,7.535677774069143e-08,2.0,16.0
+math/0101178,"q-Analogues for Green functions for powers of the invariant Laplacian in
+  the unit disc",2.354851732873903e-06,0.0,4.0,0.0
+math/0507373,"Operator amenability of Fourier-Stieltjes algebras, II",2.3469198153586743e-06,0.0,1.0,1.0
+math/0212294,Duality and separation theorems in idempotent semimodules,2.342131122319427e-06,0.0,3.0,12.0
+math/9809002,"On Function Theory in Quantum Disc: q-Differential Equations and Fourier
+  Transform",2.337760094286392e-06,0.0,4.0,5.0
+math-ph/0007030,Quantum and Classic Brackets,2.323997586369366e-06,1.990182755160072e-06,3.0,10.0
+funct-an/9602002,"Complex structure and solutions of classical nonlinear equation with the
+  interaction $u^4_4$",2.3111918047582587e-06,0.0,1.0,3.0
+math/0610244,On stochastic fractional Volterra equations in Hilbert space,2.305512043087517e-06,0.0,1.0,0.0
+math/0211091,"Spectral Flow, Maslov Index and Bifurcation of semi-Riemannian Geodesics",2.30037441715679e-06,0.0,2.0,0.0
+math/9909036,Quantum matrix ball: the Bergman kernel,2.3001649932508187e-06,0.0,3.0,3.0
+math-ph/0007041,Mapping Integer Order Neumann Functions To Real Orders,2.2960610328299915e-06,0.0,2.0,2.0
+funct-an/9605002,"The $:\phi^4_4:$ quantum field theory, I. Wave operator, holomorphity
+  and Wick kernel",2.295804179080275e-06,0.0,2.0,2.0
+math/0608064,Measure Concentration of Hidden Markov Processes,2.294071561371495e-06,0.0,1.0,3.0
+math/0612573,Construction of some types wavelets with coefficient of scaling N,2.287448550728648e-06,0.0,1.0,0.0
+math/0107231,"Wavelet filter functions, the matrix completion problem, and projective
+  modules over $C(\mathbb T^n)$",2.287448550728648e-06,0.0,1.0,2.0
+math/0606191,"Noncommutative Riesz theorem and weak Burnside type theorem on twisted
+  conjugacy",2.282932639034484e-06,0.0,2.0,2.0
+math/0511320,Stability of Generalized Jensen Equation on Restricted Domains,2.27910810532043e-06,0.0,2.0,1.0
+math/0201184,"Differential Operators on Conic Manifolds: Maximal Regularity and
+  Parabolic Equations",2.2576172707169384e-06,0.0,1.0,1.0
+math/9911047,An Index Theorem for Non Periodic Solutions of Hamiltonian Systems,2.2465016456383024e-06,0.0,2.0,0.0
+math/0401411,"The uniqueness of the spectral flow on spaces of unbounded self--adjoint
+  Fredholm operators",2.2453577785665745e-06,0.0,3.0,1.0
+math/0410377,Non-differentiable variational principles,2.244404819677782e-06,0.0,1.0,0.0
+math/0605003,"Dyson's constants in the asymptotics of the determinants of
+  Wiener-Hopf-Hankel operators with the sine kernel",2.230926538035037e-06,0.0,1.0,0.0
+math/0602425,"Scattering, determinants, hyperfunctions in relation to
+  Gamma(1-s)/Gamma(s)",2.230926538035037e-06,0.0,1.0,1.0
+math/0503387,Discontinuous non-linear mappings on locally convex direct limits,2.22291548482499e-06,0.0,1.0,0.0
+math/9904173,q-Analogue of the Berezin quantization method,2.221401651974761e-06,0.0,4.0,1.0
+math/0703336,Conformal covariance and related properties of chiral QFT,2.200683883450662e-06,0.0,3.0,0.0
+math/0405174,Tangential dimensions II. Measures,2.1853420825072915e-06,0.0,1.0,2.0
+math/0701453,Covariant representations for matrix-valued transfer operators,2.1756514568395184e-06,0.0,2.0,0.0
+math/0402105,"Noiseless subsystems for collective rotation channels in quantum
+  information theory",2.1751106871571734e-06,1.990182755160072e-06,5.0,1.0
+hep-th/9608056,Complete determination of the singularity structure of zeta functions,2.1670876729902634e-06,0.0,4.0,4.0
+math/0501020,"The Composite Cosine Transform on the Stiefel Manifold and Generalized
+  Zeta Integrals",2.15488478850696e-06,0.0,1.0,0.0
+math/0607224,Composite Cosine Transforms,2.15488478850696e-06,0.0,1.0,0.0
+math/0406448,"Additive Reverses of the Generalised Triangle Inequality in Normed
+  Spaces",2.104675703646774e-06,0.0,1.0,0.0
+math/0503059,"Advances on Inequalities of the Schwarz, Triangle and Heisenberg Type in
+  Inner Product Spaces",2.104675703646774e-06,0.0,1.0,0.0
+math/0405495,Reverses of the Triangle Inequality in Inner Product Spaces,2.104675703646774e-06,0.0,1.0,1.0
+hep-th/9705006,Definition of the Dirac Sea in the Presence of External Fields,2.101341821634197e-06,0.0,3.0,7.0
+quant-ph/9708029,Complete positivity of nonlinear evolution: A case study,2.070543706558192e-06,0.0007622856940399,3.0,8.0
+math-ph/0010014,"Hua type integrals over unitary groups and over projective limits of
+  unitary groups",2.066412711480682e-06,3.4325698702502855e-07,5.0,8.0
+hep-th/9706001,QFT's With Action of Degree 3 and Higher and Degeneracy of Tensors,2.066369192333137e-06,0.0,2.0,1.0
+math/0506465,Sample Paths in Wavelet Theory,2.0653557381720145e-06,0.0,3.0,0.0
+math/0210155,"From C*algebra extensions to CQMS, ${SU}_q(2)$, Podles sphere and other
+  examples",2.059880045806459e-06,0.0,2.0,1.0
+math/0408287,Equiangular Tight Frames from Paley Tournaments,2.059699737335544e-06,3.988481127631964e-06,2.0,1.0
+math/0406352,Arens-Michael enveloping algebras and analytic smash products,2.0554472441021976e-06,0.0,2.0,0.0
+math/0309398,Partially Isometric Dilations of Noncommuting $N$-tuples of Operators,2.0456653061975597e-06,0.0,1.0,0.0
+math/0405032,Universal collective rotation channels and quantum error correction,2.041408631495281e-06,0.0,5.0,0.0
+hep-th/9609139,"On the Divergence of Perturbation Theory. Steps Towards a Convergent
+  Series",2.023507084849424e-06,0.0,5.0,2.0
+funct-an/9712003,"Analysis in $R^{1,1}$ or the Principal Function Theory",2.019396169245123e-06,0.0,2.0,11.0
+math/0606594,The Calkin algebra has outer automorphisms,2.017466278325484e-06,0.0,1.0,0.0
+math/9803020,Interactive games and representation theory,2.0091084762264168e-06,0.0,1.0,11.0
+math/0601369,Polynomial bounds for large Bernoulli sections of $\ell_1^N$,2.004257533926402e-06,0.0,1.0,0.0
+math/0204060,Differentiable perturbation of unbounded operators,2.003232623778468e-06,0.0,2.0,4.0
+math-ph/9910036,The analytic quantum information manifold,2.003232623778468e-06,0.0,2.0,4.0
+math-ph/9910035,The information manifold for relatively bounded forms,2.003232623778468e-06,0.0,2.0,4.0
+hep-th/9612097,Optimized Perturbation Theory for Wave Functions of Quantum Systems,1.9976632366936056e-06,0.0,2.0,2.0
+math/0701404,Iwasawa decompositions of some infinite-dimensional Lie groups,1.992083779412518e-06,0.0,2.0,0.0
+math/0606327,"The restricted Grassmannian, Banach Lie-Poisson spaces, and coadjoint
+  orbits",1.992083779412518e-06,0.0,2.0,0.0
+math-ph/0104041,Nonlinear distributional geometry and general relativity,1.9910555650428585e-06,0.0,2.0,0.0
+math/0104270,Diffeomorphism invariant Colombeau algebras. Part II: Classification,1.9910555650428585e-06,0.0,2.0,0.0
+math-ph/0112046,"Spreading maps (polymorphisms), symmetries of Poisson processes and
+  matching summation",1.9790138127127386e-06,0.0,2.0,0.0
+math-ph/0010016,"Localization for One Dimensional, Continuum, Bernoulli-Anderson Models",1.966085574327155e-06,0.0,2.0,0.0
+math/0410338,Quasi-states and symplectic intersections,1.955471541059644e-06,5.975222134926433e-06,2.0,2.0
+math/0308166,Max-plus convex sets and functions,1.948341299240019e-06,0.0,3.0,3.0
+quant-ph/0310061,The volume of separable states is super-doubly-exponentially small,1.944785119215881e-06,3.72823519263238e-06,3.0,8.0
+hep-th/9701041,"Families of Singular and Subsingular Vectors of the Topological N=2
+  Superconformal Algebra",1.9419373437561366e-06,0.0,2.0,10.0
+math/9804136,"Traces on algebras of parameter dependent pseudodifferential operators
+  and the eta-invariant",1.941126458061413e-06,0.0,2.0,0.0
+math/0212078,Preserving the measure of compatibility between quantum states,1.939370056703481e-06,0.0,2.0,0.0
+hep-th/0103128,"Effective Finite Temperature Partition Function for Fields on
+  Non-Commutative Flat Manifolds",1.936878216550355e-06,0.0,1.0,2.0
+solv-int/9602001,Some Classes of Solutions to the Toda Lattice Hierarchy,1.9361182119571537e-06,0.0,1.0,3.0
+math/0304357,"Differential Recursion Relations for Laguerre Functions on Hermitian
+  Matrices",1.9361182119571537e-06,0.0,1.0,0.0
+math/0401258,"Gap probability in the spectrum of random matrices and asymptotics of
+  polynomials orthogonal on an arc of the unit circle",1.928006553755336e-06,0.0,1.0,1.0
+math-ph/0511039,Approximate Homomorphisms of Ternary Semigroups,1.920418158028354e-06,0.0,2.0,1.0
+math/0001070,"From random sets to continuous tensor products: answers to three
+  questions of W. Arveson",1.9143570632959152e-06,3.853501182548683e-05,2.0,10.0
+q-alg/9702002,"Elliptic algebra $A_{q,p}(\hat{sl_2})$ in the scaling limit",1.907623010681497e-06,0.0,6.0,26.0
+math/0612274,"Smoothing estimates for evolution equations via canonical transforms and
+  comparison",1.9041448370103692e-06,0.0,1.0,0.0
+math/0603011,Boundary jets of holomorphic maps between strongly pseudoconvex domains,1.8950380516170012e-06,0.0,1.0,0.0
+math/0703236,The maximum modulus of a trigonometric trinomial,1.8950380516170012e-06,0.0,1.0,0.0
+math/0703442,"Operator integrals, spectral shift and spectral flow",1.8950380516170012e-06,0.0,1.0,0.0
+math/0308251,The Geometry of Sampling on Unions of Lattices,1.8950380516170012e-06,0.0,1.0,0.0
+math/0502039,On the asymptotics of certain Wiener-Hopf-plus-Hankel determinants,1.8950380516170012e-06,0.0,1.0,1.0
+math/0106243,Groups of hierarchomorphisms of trees and related Hilbert spaces,1.8950380516170012e-06,0.0,1.0,2.0
+math/0610094,"Constructive updating/downdating of oblique projectors: a generalization
+  of the Gram-Schmidt process",1.8950380516170012e-06,0.0,1.0,1.0
+math/0211047,Category of Noncommutative CW complexes. III,1.8950380516170012e-06,0.0,1.0,1.0
+math/0205159,Logmodularity and isometries of operator algebras,1.8950380516170012e-06,0.0,1.0,0.0
+math/0010292,Realcompactness and Banach-Stone theorems,1.8950380516170012e-06,0.0,1.0,3.0
+math/0603661,Frame analysis and approximation in reproducing kernel Hilbert spaces,1.8950380516170012e-06,0.0,1.0,0.0
+math/0606015,"Scattering and modified scattering for abstract wave equations with
+  time-dependent dissipation",1.8950380516170012e-06,0.0,1.0,0.0
+math/0507062,Small Valdivia compact spaces,1.8950380516170012e-06,0.0,1.0,4.0
+math/0506215,Scaled Enflo type is equivalent to Rademacher type,1.8950380516170012e-06,0.0,1.0,0.0
+hep-th/9403068,"Infinite Dimensional Geometry and Quantum Field Theory of Strings. I.
+  Infinite Dimensional Geometry of Second Quantized Free String",1.8950380516170012e-06,0.0,1.0,5.0
+math/0309179,On isomorphisms of algebras of smooth functions,1.8950380516170012e-06,0.0,1.0,4.0
+math/0609159,Regular normed bimodules,1.8950380516170012e-06,0.0,1.0,0.0
+math/0512553,"Ordered Spaces, Metric Preimages, and Function Algebras",1.8950380516170012e-06,0.0,1.0,1.0
+math/0111019,"Determinate multidimensional measures, the extended Carleman theorem and
+  quasi-analytic weights",1.8950380516170012e-06,0.0,1.0,1.0
+math/0508025,The Noncommutative Geometry of Graph $C^*$-Algebras I: The Index Theorem,1.8950380516170012e-06,0.0,1.0,0.0
+math/0510320,What does a generic Markov operator look like,1.8950380516170012e-06,0.0,1.0,0.0
+math/0508566,Injective cogenerators among operator bimodules,1.8950380516170012e-06,0.0,1.0,0.0
+funct-an/9710003,"Distributional Asymptotic Expansions of Spectral Functions and of the
+  Associated Green Kernels",1.8950380516170012e-06,0.0,1.0,3.0
+math/0610378,"C*-Algebra-valued-symbol pseudodifferential operators: abstract
+  characterizations",1.8950380516170012e-06,0.0,1.0,0.0
+math/0602078,Fundamental problems in the theory of infinite-dimensional Lie groups,1.8950380516170012e-06,0.0,1.0,0.0
+math/0503734,Stabilizers and orbits of circle-valued smooth functions,1.8950380516170012e-06,0.0,1.0,0.0
+math/0410031,"Complementary Lagrangians in Infinite Dimensional Symplectic Hilbert
+  Spaces",1.8950380516170012e-06,0.0,1.0,1.0
+math/0407220,Duality and operator algebras,1.8950380516170012e-06,0.0,1.0,0.0
+math/0408030,"A Sharp analog of Young's Inequality on $S^N$ and Related Entropy
+  Inequalities",1.8950380516170012e-06,0.0,1.0,1.0
+math-ph/0607042,"Levinson's theorem for Schroedinger operators with point interaction: a
+  topological approach",1.8950380516170012e-06,0.0,1.0,0.0
+math/0211098,"Complete isometries - an illustration of noncommutative functional
+  analysis",1.8950380516170012e-06,0.0,1.0,0.0
+math/0209009,"A Survey of Algebraic Extensions of Commutative, Unital Normed Algebras",1.8950380516170012e-06,0.0,1.0,0.0
+math/0308226,Extensions of Normed Algebras,1.8950380516170012e-06,0.0,1.0,0.0
+math/9802058,A Rigorous Path Integral Construction in any Dimension,1.8950380516170012e-06,0.0,1.0,1.0
+math/0703710,An implicit function theorem for Banach spaces and some applications,1.8950380516170012e-06,0.0,1.0,0.0
+math/0405104,"Invariant generalized functions on $sl(2,R)$ with values in a
+  $sl(2,R)$-module",1.8950380516170012e-06,0.0,1.0,0.0
+math/0504038,"Integral Representations of Holomorphic Functions on Coverings of
+  Pseudoconvex Domains in Stein Manifolds",1.8950380516170012e-06,0.0,1.0,0.0
+math/0412475,On the Orthogonal Stability of the Pexiderized Quadratic Equation,1.8950380516170012e-06,0.0,1.0,0.0
+math/0507603,Rendezvous numbers in normed spaces,1.8950380516170012e-06,0.0,1.0,0.0
+math/0610289,The complexity of classifying separable Banach spaces up to isomorphism,1.8950380516170012e-06,0.0,1.0,1.0
+math/0506198,More on Reverse Triangle Inequality in Inner Product Spaces,1.8950380516170012e-06,0.0,1.0,1.0
+math/9808047,On Function Theory in Quantum Disc: Invariant Kernels,1.8913900442296064e-06,0.0,3.0,9.0
+solv-int/9701003,Asymptotics of a Class of Solutions to the Cylindrical Toda Equations,1.888179334362736e-06,0.0,1.0,1.0
+solv-int/9702007,An Integral Operator Solution to the Matrix Toda Equations,1.888179334362736e-06,0.0,1.0,2.0
+math/9806150,"Monogenic Functions and Representations of Nilpotent Lie Groups in
+  Quantum Mechanics",1.8865372182390356e-06,0.0,3.0,7.0
+funct-an/9708003,Expressing the Field Operator in Terms of Currents and Densities,1.877807411903347e-06,0.0,2.0,0.0
+quant-ph/0503221,"Tensor products of convex sets and the volume of separable states on N
+  qudits",1.8731360232681853e-06,2.2442148551670386e-08,1.0,5.0
+math/9811055,"On representations of star product algebras over cotangent spaces on
+  Hermitian line bundles",1.854363447272306e-06,0.0,3.0,18.0
+math/0106107,Biseparating maps between operator algebras,1.8536302793458448e-06,0.0,1.0,0.0
+math/0403545,Resonances and scattering poles on asymptotically hyperbolic manifolds,1.8536302793458448e-06,0.0,1.0,0.0
+math/0106106,Automatic continuity of biseparating maps,1.8536302793458448e-06,0.0,1.0,0.0
+q-alg/9609022,"Noninvertibility and ``Semi-'' Analogs of (Super) Manifolds, Fiber
+  Bundles and Homotopies",1.8438618728375733e-06,0.0,1.0,3.0
+q-alg/9610026,Topics in hidden symmetries. II,1.834248782646001e-06,0.0,2.0,9.0
+q-alg/9611019,Topics in hidden symmetries. IV,1.8250577634698004e-06,0.0,3.0,7.0
+funct-an/9707003,Light-Cone Expansion of the Dirac Sea with Light Cone Integrals,1.8182180222894737e-06,0.0,2.0,5.0
+math/0306187,"On the Maslov index of symplectic paths that are not transversal to the
+  Maslov cycle. Semi-Riemannian index theorems in the degenerate case",1.8171031717856253e-06,0.0,1.0,4.0
+math/0405471,Differentiable functions of Cayley-Dickson numbers,1.804352807619434e-06,0.0,2.0,6.0
+hep-th/9403067,Finite Quantum Physics and Noncommutative Geometry,1.7990205381911442e-06,0.0,2.0,22.0
+math/0505130,The classification of non-local chiral CFT with c<1,1.794090124437466e-06,0.0,2.0,0.0
+math/0610226,Every topological group is a group retract of a minimal group,1.7825571879543104e-06,0.0,1.0,2.0
+math/0411112,Fragmentability and representations of flows,1.7825571879543104e-06,0.0,1.0,0.0
+math/0411137,Generalized Heisenberg groups and Shtern's question,1.7825571879543104e-06,0.0,1.0,0.0
+math/0404018,Classification of homomorphisms and dynamical systems,1.781753523171705e-06,0.0,3.0,3.0
+math/0511340,Some Exact Sequences for Toeplitz Algebras of Spherical Isometries,1.7616417471904606e-06,0.0,1.0,0.0
+math/0506493,"Characterizations of compact and discrete quantum groups through second
+  duals",1.7146619384707666e-06,0.0,1.0,0.0
+math/9808037,On Function Theory in Quantum Disc: Covariance,1.7143798023667748e-06,0.0,2.0,9.0
+math/0702284,Localisation of Geometric Anisotropy,1.703003024765287e-06,0.0,1.0,0.0
+funct-an/9312001,"Boundedness and Stability of Impulsively Perturbed Systems in a Banach
+  Space",1.703003024765287e-06,0.0,1.0,2.0
+math-ph/0410021,"Generic sets in spaces of measures and generic singular continuous
+  spectrum for Delone Hamiltonians",1.703003024765287e-06,0.0,1.0,0.0
+math/0612027,"On Construction and Some Properties of Self-Similar Functions in
+  $L_2[0,1]$",1.703003024765287e-06,0.0,1.0,0.0
+math/0107051,Generalized functions valued in a smooth manifold,1.703003024765287e-06,0.0,1.0,1.0
+math/0310172,"Some computable Wiener-Hopf determinants and polynomials orthogonal on
+  an arc of the unit circle",1.703003024765287e-06,0.0,1.0,0.0
+math/9801027,"H\""older Regularity and Dimension Bounds for Random Curves",1.703003024765287e-06,0.0,2.0,3.0
+math/0404274,"Simultaneous unitary equivalence to Carleman operators with arbitrarily
+  smooth kernels",1.703003024765287e-06,0.0,1.0,0.0
+math/0309086,"New Reverses of Schwarz, Triangle and Bessel Inequalities in Inner
+  Product Spaces",1.703003024765287e-06,0.0,1.0,0.0
+math/0308273,"Reverses of Schwarz, Triangle and Bessel Inequalities in Inner Product
+  Spaces",1.703003024765287e-06,0.0,1.0,0.0
+math/0404228,"Simultaneous unitary equivalence to bi-Carleman operators with
+  arbitrarily smooth kernels of Mercer type",1.703003024765287e-06,0.0,1.0,0.0
+math/0404244,"Integral representations of closed operators as bi-Carleman operators
+  with arbitrarily smooth kernels",1.703003024765287e-06,0.0,1.0,0.0
+funct-an/9709007,Dense analytic subspaces in fractal $L^{2}$-spaces,1.703003024765287e-06,0.0,1.0,0.0
+quant-ph/9602010,Time of Events in Quantum Theory,1.703003024765287e-06,0.0,2.0,10.0
+math-ph/0105042,"Infinite Infrared Regularization and a State Space for the Heisenberg
+  Algebra",1.703003024765287e-06,0.0,1.0,1.0
+math/0509366,A General Fredholm Theory and Applications,1.703003024765287e-06,0.0,1.0,1.0
+math/0211103,"Entropies, convexity, and functional inequalities",1.703003024765287e-06,0.0,1.0,1.0
+math-ph/0509070,Widths of the Hall Conductance Plateaus,1.703003024765287e-06,0.0,1.0,0.0
+math/0601107,"Nonisotropically balanced domains, Lempert function estimates, and the
+  spectral Nevanlinna-Pick problem",1.703003024765287e-06,0.0,1.0,0.0
+math/0507017,"Indefinite Sturm--Liouville problem for some classes of self-similar
+  singular weights",1.703003024765287e-06,0.0,1.0,1.0
+math/0104272,Diffeomorphism invariant Colombeau algebras. Part III: Global theory,1.703003024765287e-06,0.0,1.0,0.0
+math/0310356,Some geometric groups with rapid decay,1.703003024765287e-06,0.0,1.0,5.0
+hep-th/9704212,On Infravacua and Superselection Theory,1.703003024765287e-06,0.0,1.0,3.0
+nucl-th/9505028,Representations for Three-Body T-Matrix on Unphysical Sheets,1.6990994447933085e-06,0.0,1.0,4.0
+nucl-th/9505029,Representations for Three-Body T-Matrix on Unphysical Sheets: Proofs,1.6990994447933085e-06,0.0,1.0,4.0
+math/9811157,Noise Sensitivity of Boolean Functions and Applications to Percolation,1.6990994447933085e-06,0.0,1.0,4.0
+math/0101153,Tensor products of idempotent semimodules. An algebraic approach,1.676535832251069e-06,0.0,3.0,3.0
+funct-an/9701002,Derivation of Local Gauge Freedom from a Measurement Principle,1.656159024722647e-06,0.0,2.0,4.0
+math/9912220,"Factorization theorem for the transfer function of a 2x2 operator matrix
+  with unbounded couplings",1.6501489235614238e-06,0.0,2.0,1.0
+math-ph/0401043,The Magnetic Weyl Calculus,1.645917222949611e-06,0.0,1.0,0.0
+math/0404304,Metric Spaces with Linear Extensions Preserving Lipschitz Condition,1.6446423249845696e-06,0.0,1.0,2.0
+q-alg/9703017,Traces of creation-annihilation operators and Fredholm's formulas,1.6446404146151578e-06,0.0,5.0,2.0
+math/0108073,The Elliptic Representation of the General Painlev\'e 6 Equation,1.6376647087198657e-06,2.0124609203297744e-06,2.0,2.0
+q-alg/9611003,Topics in hidden symmetries. III,1.6324448889980047e-06,0.0,2.0,8.0
+math/0001096,An Algebraic Duality Theory for Multiplicative Unitaries,1.6317063075025837e-06,0.0,1.0,1.0
+math/0009128,Idempotent functional analysis: an algebraic approach,1.6244438972782357e-06,0.0,1.0,22.0
+math-ph/0104011,Generalized Yang-Mills actions from Dirac operator determinants,1.6160231466142638e-06,0.0,1.0,4.0
+math/0403423,Rapid decay and Metric Approximation Property,1.6096259051161389e-06,0.0,1.0,0.0
+math/0612589,Isomorphisms in l^1-homology,1.60698551133943e-06,0.0,1.0,0.0
+math/0609097,Unimodular Fourier multipliers for modulation spaces,1.60698551133943e-06,0.0,1.0,0.0
+math/0403456,Hilbert space compression and exactness for discrete groups,1.60698551133943e-06,0.0,1.0,2.0
+math/0604294,"Pseudodifferential Operators on Locally Compact Abelian Groups and
+  Sjoestrand's Symbol Class",1.60698551133943e-06,0.0,1.0,0.0
+math/0201214,Real rank and squaring mapping for unital C*-algebras,1.60698551133943e-06,0.0,1.0,1.0
+math/0611256,Invariant Subspaces for Operators in a General II_1-factor,1.60698551133943e-06,0.0,1.0,4.0
+math/0701197,"Instructive examples of smooth, complex differentiable and complex
+  analytic mappings into locally convex spaces",1.60698551133943e-06,0.0,1.0,1.0
+math/0611174,Weight Functions in Time-Frequency Analysis,1.60698551133943e-06,0.0,1.0,0.0
+math/0210240,"Embeddings of ultradistributions and periodic hyperfunctions in
+  Colombeau type algebras through sequence spaces",1.60698551133943e-06,0.0,1.0,1.0
+math/0610409,Finiteness and constructibility in local analytic geometry,1.60698551133943e-06,0.0,1.0,1.0
+math/0510178,"A Noncommutative Wiener Lemma and A Faithful Tracial State on Banach
+  Algebras of Time-Frequency Shift Operators",1.60698551133943e-06,0.0,1.0,0.0
+math/0206278,On 2D Euler Equations: III. A Line Model,1.60698551133943e-06,0.0,1.0,1.0
+math-ph/0007017,Witten deformed exterior derivative and Bessel functions,1.60698551133943e-06,0.0,1.0,2.0
+math/0612103,"Positive polynomials in scalar and matrix variables, the spectral
+  theorem and optimization",1.60698551133943e-06,0.0,1.0,0.0
+math/0307040,Examples of differentiable mappings into non-locally convex spaces,1.574979673530811e-06,0.0,2.0,1.0
+math-ph/9807022,Wavefront sets in algebraic quantum field theory,1.5493750032839157e-06,0.0,1.0,1.0
+math/0511613,Morphisms of locally compact groupoids endowed with Haar systems,1.5493750032839157e-06,0.0,1.0,0.0
+math/0409432,The $H^\infty$ algebras of higher rank graphs,1.5493750032839157e-06,0.0,1.0,4.0
+math/0411417,The C*-envelope of the tensor algebra of a directed graph,1.5493750032839157e-06,0.0,1.0,0.0
+math-ph/0211050,"Ground state for point particles interacting through a massless scalar
+  Bose field",1.5324861771393669e-06,0.0,1.0,2.0
+math-ph/9811008,"Grassmannians, Nonlinear Wave Equations and Generalized Schur Functions",1.5320991031385534e-06,0.0,1.0,0.0
+math/0508646,"The Schur-Horn theorem for operators and frames with prescribed norms
+  and frame operator",1.5109679979135728e-06,0.0,1.0,2.0
+math/0410422,"Markov chains in smooth Banach spaces and Gromov hyperbolic metric
+  spaces",1.5109679979135728e-06,0.0,1.0,4.0
+math/0310312,Extensions of Banach Lie-Poisson spaces,1.5109679979135728e-06,0.0,1.0,0.0
+math/0505380,"On the definition of some Banach spaces over bounded domains with
+  irregular boundary",1.5109679979135728e-06,0.0,1.0,0.0
+math/0412454,Metrics in the space of curves,1.5109679979135728e-06,0.0,1.0,2.0
+funct-an/9608002,Operator of fractional derivative in the complex plane,1.5109679979135728e-06,0.0,1.0,5.0
+math/0609632,A holomorphic map in infinite dimensions,1.5109679979135728e-06,0.0,1.0,0.0
+math/0703092,An inverse function theorem for Colombeau tame Frolicher-Kriegl maps,1.5109679979135728e-06,0.0,1.0,0.0
+math/0405276,On Product Systems arising from Sum Systems,1.498103759758996e-06,0.0,1.0,1.0
+math-ph/9903021,Commutative Geometries are Spin Manifolds,1.4930676223305815e-06,1.4359501371026362e-05,2.0,5.0
+math/0611539,The algebra of harmonic functions for a matrix-valued transfer operator,1.4770847932613688e-06,0.0,1.0,2.0
+math/0504146,"Gabor Analysis, Noncommutative Tori and Feichtinger's algebra",1.4763012595021277e-06,1.990182755160072e-06,1.0,1.0
+quant-ph/9810091,"A Family of Indecomposable Positive Linear Maps based on Entangled
+  Quantum States",1.4509366839694143e-06,0.0003822885528125,3.0,23.0
+math/0307041,"Tensor products in the category of topological vector spaces are not
+  associative",1.446956322296335e-06,0.0,1.0,0.0
+math/0311492,Stably flat completions of universal enveloping algebras,1.4341539871728873e-06,0.0,1.0,2.0
+quant-ph/9502022,"Relativistic Quantization and Improved Equation for a Free Relativistic
+  Particle",1.4341539871728873e-06,0.0,1.0,2.0
+math-ph/0401031,Amenability of the Gauge Group,1.4260019406661806e-06,0.0,1.0,1.0
+math/0206275,"Segal-Bargmann transform on Hermitian symmetric spaces and Orthogonal
+  Polynomials",1.423679349344612e-06,0.0,1.0,2.0
+math/0310225,Bornological versus topological analysis in metrizable spaces,1.423679349344612e-06,0.0,1.0,1.0
+math/0305168,Examples of twisted cyclic cocycles from covariant differential calculi,1.420647272665196e-06,0.0,1.0,0.0
+math/9909010,On a Toeplitz determinant identity of Borodin and Okounkov,1.420408174884567e-06,0.0,1.0,5.0
+funct-an/9609004,"Continuity of symplectically adjoint maps and the algebraic structure of
+  Hadamard vacuum representations for quantum fields on curved spacetime",1.4143928302060043e-06,0.0,1.0,1.0
+math-ph/0008032,"Gap Probabilities for Edge Intervals in Finite Gaussian and Jacobi
+  Unitary Matrix Ensembles",1.403572880968923e-06,0.0,1.0,0.0
+math/9811122,A Radon-Nikodym theorem for von Neumann algebras,1.4012336968554504e-06,0.0,1.0,3.0
+math/0505680,"A Norm Compression Inequality for Block Partitioned Positive
+  Semidefinite Matrices",1.3848711309636848e-06,0.0,1.0,0.0
+funct-an/9501001,Lie-algebraic discretization of differential equations,1.3713061602032352e-06,0.0,1.0,4.0
+math-ph/0112019,"Pole structure of the Hamiltonian $\zeta$-function for a singular
+  potential",1.347529790674558e-06,3.980365510320144e-06,1.0,2.0
+math/0507317,"A Continuous Field of C*-algebras and the Tangent Groupoid for Manifolds
+  with Boundary",1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9209079,"Lie-algebraic approach to the theory of polynomial solutions. I.
+  Ordinary differential equations and finite-difference equations in one
+  variable",1.3189329710618589e-06,0.0,0.0,2.0
+math-ph/0502050,Effective Hamiltonians for atoms in very strong magnetic fields,1.3189329710618589e-06,0.0,0.0,1.0
+math/0310199,On the wave equation with a large rough potential,1.3189329710618589e-06,0.0,0.0,2.0
+math/9809088,"Asymptotic formulas for determinants of a sum of finite Toeplitz and
+  Hankel matrices",1.3189329710618589e-06,0.0,0.0,1.0
+math/0301077,Sturm-Liouville operators with distributional potentials,1.3189329710618589e-06,0.0,0.0,1.0
+math/0507083,Interpolation in Semigroupoid Algebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/0401253,Hardy and Hardy PDO type inequalities in domains. Part I,1.3189329710618589e-06,0.0,0.0,1.0
+math/0401255,A remark on the history of Hardy inequalities in domains,1.3189329710618589e-06,0.0,0.0,1.0
+math/0401078,"Polynomial capacities, Poincare' type inequalities and Spectral
+  synthesis in Sobolev space",1.3189329710618589e-06,0.0,0.0,1.0
+math/0403115,A Note on the Notion of Geometric Rough Paths,1.3189329710618589e-06,0.0,0.0,1.0
+math/0111180,On the analytic zero divisor conjecture of Linnell,1.3189329710618589e-06,0.0,0.0,1.0
+math/0405565,"On the extension of H\""{o}lder maps with values in spaces of continuous
+  functions",1.3189329710618589e-06,0.0,0.0,1.0
+funct-an/9307001,"Classification of linear differential operators with an invariant
+  subspace of monomials",1.3189329710618589e-06,0.0,0.0,4.0
+math/0209322,On algebraic properties of sets of Banach ideal function spaces,1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/0006011,Further Representations of the Canonical Commutation Relations,1.3189329710618589e-06,0.0,0.0,2.0
+math/0703170,Non Commutative Arens Algebras and their Derivations,1.3189329710618589e-06,0.0,0.0,1.0
+math/0703171,"Derivations on the Algebra of Measurable Operators Affiliated with a
+  Type I von Neumann Algebra",1.3189329710618589e-06,0.0,0.0,1.0
+math/0701732,"A counterexample for boundedness of pseudo-differential operators on
+  modulation spaces",1.3189329710618589e-06,0.0,0.0,1.0
+math/0702200,A Representation Theorem for Completely Contractive Dual Banach Algebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/0503035,Kantorovich metric:initial history and little-known applications,1.3189329710618589e-06,0.0,0.0,1.0
+math/0007178,Note on the Curvature and Index of Almost Unitary Contraction Operator,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9607017,Point interactions in a strip,1.3189329710618589e-06,0.0,0.0,1.0
+math/0406238,"Inverse spectral problems for Sturm-Liouville operators with singular
+  potentials, IV. Potentials in the Sobolev space scale",1.3189329710618589e-06,0.0,0.0,1.0
+math/9709212,Nonlinear equations and weighted norm inequalities,1.3189329710618589e-06,0.0,0.0,1.0
+math/9601211,"Unconditional bases of invariant subspaces of a contraction with finite
+  defects",1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/9706015,Minimum uncertainty for antisymmetric wave functions,1.3189329710618589e-06,0.0,0.0,1.0
+math/0009052,Remarks on the similarity degree of an operator algebra,1.3189329710618589e-06,0.0,0.0,1.0
+math/0408355,"Harmonicity of quasiconformal measures and Poisson boundaries of
+  hyperbolic spaces",1.3189329710618589e-06,0.0,0.0,1.0
+math/0607555,"Meromorphic Solutions of Linear Differential Systems, Painleve type
+  functions",1.3189329710618589e-06,0.0,0.0,1.0
+math/0501159,"On the Cauchy--Rassias Inequality and Linear n-Inner Product Preserving
+  Mappings",1.3189329710618589e-06,0.0,0.0,1.0
+math/9806145,The Stable Rank of Topological Algebras and a Problem of R.G. Swan,1.3189329710618589e-06,0.0,0.0,1.0
+math/0404401,Coarse embeddings of metric spaces into Banach spaces,1.3189329710618589e-06,0.0,0.0,1.0
+math/0605010,"Operators associated with the soft and hard spectral edges of unitary
+  ensembles",1.3189329710618589e-06,0.0,0.0,1.0
+math/0107049,"Approximating L2-invariants, and the Atiyah conjecture",1.3189329710618589e-06,0.0,0.0,1.0
+math/9811146,Weyl-Heisenberg frames for subspaces of L^2(R),1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/0703078,Self-adjoint Extensions of Restrictions,1.3189329710618589e-06,0.0,0.0,1.0
+math/0404167,Essentially Reductive Hilbert Modules,1.3189329710618589e-06,0.0,0.0,1.0
+math/9906126,"Positive positive-definite functions and measures on locally compact
+  abelian groups",1.3189329710618589e-06,0.0,0.0,1.0
+math/0504214,Inverse Limits and Function Algebras,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9312080,Functional determinants on spheres and sectors,1.3189329710618589e-06,0.0,0.0,2.0
+math/0108007,"The Structure of Inner Multipliers on Spaces with Complete Nevanlinna
+  Pick Kernels",1.3189329710618589e-06,0.0,0.0,1.0
+math/0005194,Locally nonconical convexity,1.3189329710618589e-06,0.0,0.0,1.0
+math/0501131,"Dixmier Traces as Singular Symmetric Functionals and Applications to
+  Measurable Operators",1.3189329710618589e-06,0.0,0.0,1.0
+math/0510454,Stokes' formulae on classical symbol valued forms and applications,1.3189329710618589e-06,0.0,0.0,1.0
+math/0602234,Simple C*-algebras with a unique tracial state,1.3189329710618589e-06,0.0,0.0,1.0
+math/0409424,"Completion problems and scattering problems for Dirac type differential
+  equations with singularities",1.3189329710618589e-06,0.0,0.0,1.0
+math/0109111,On free resolutions in multivariable operator theory,1.3189329710618589e-06,0.0,0.0,1.0
+math/0308181,On Periodic Matrix-Valued Weyl-Titchmarsh Functions,1.3189329710618589e-06,0.0,0.0,1.0
+math/9811119,The bottleneck conjecture,1.3189329710618589e-06,0.0,0.0,1.0
+math/0504255,"Operator spaces and Araki-Woods factors --A quantum probabilistic
+  approach--",1.3189329710618589e-06,0.0,0.0,1.0
+math/0511539,Approximate $C^*$-Ternary Ring Homomorphisms,1.3189329710618589e-06,0.0,0.0,1.0
+math/0002185,Amenable actions and exactness for discrete groups,1.3189329710618589e-06,0.0,0.0,1.0
+math/0403490,Integrable Operators and Canonical Differential Systems,1.3189329710618589e-06,0.0,0.0,1.0
+math/0008042,Uniform asymptotic estimates of transition probabilities on combs,1.3189329710618589e-06,0.0,0.0,1.0
+math/9211216,A low-technology estimate in convex geometry,1.3189329710618589e-06,0.0,0.0,1.0
+math/0312475,An isomorphic version of the slicing problem,1.3189329710618589e-06,0.0,0.0,1.0
+math/0502557,Projective multiresolution analyses for dilations in higher dimensions,1.3189329710618589e-06,0.0,0.0,1.0
+math/0106199,Smooth shifts along flows,1.3189329710618589e-06,0.0,0.0,1.0
+math/0601543,Matrix versions of some classical inequalities,1.3189329710618589e-06,0.0,0.0,1.0
+math/9812111,Laguerre Entire Functions and Related Locally Convex Spaces,1.3189329710618589e-06,0.0,0.0,1.0
+math/0311213,Infinite Order Differential Operators in Spaces of Entire Functions,1.3189329710618589e-06,0.0,0.0,1.0
+math/9406212,"Concentration of Measure and Isoperimetric Inequalities in Product
+  Spaces",1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/0607065,Asymptotics of block Toeplitz determinants and the classical dimer model,1.3189329710618589e-06,0.0,0.0,1.0
+math/9702213,M-ideals of compact operators into $\ell_p$,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9411036,"Orthogonal Decomposition of Some Affine Lie Algebras in Terms of their
+  Heisenberg Subalgebras",1.3189329710618589e-06,0.0,0.0,1.0
+math/0406054,Special Standard Static Space-Times,1.3189329710618589e-06,0.0,0.0,1.0
+math/0109049,Counterexample to the Trotter product formula for projections,1.3189329710618589e-06,0.0,0.0,1.0
+math/0602342,Complex Equiangular Cyclic Frames and Erasures,1.3189329710618589e-06,0.0,0.0,1.0
+math/0605374,Fusion Frames and Distributed Processing,1.3189329710618589e-06,0.0,0.0,1.0
+math/0601689,Maharam's problem,1.3189329710618589e-06,0.0,0.0,1.0
+math/0403312,Generalized Integral Operators and Schwartz Kernel Theorem,1.3189329710618589e-06,0.0,0.0,2.0
+funct-an/9411005,"Determinants of elliptic boundary problems for Dirac operators I. Local
+  boundary conditions",1.3189329710618589e-06,0.0,0.0,2.0
+math/0210207,Banach Lie-Poisson spaces and reduction,1.3189329710618589e-06,0.0,0.0,2.0
+math/0506151,Tensor algebras of C*-correspondences and their C*-envelopes,1.3189329710618589e-06,0.0,0.0,1.0
+math/0506185,Notes on Lebesgue integration,1.3189329710618589e-06,0.0,0.0,1.0
+math/0005077,Similarity problems and length,1.3189329710618589e-06,0.0,0.0,1.0
+math/0006103,Multiresolution wavelet analysis of Bessel functions of scale $\nu +1$,1.3189329710618589e-06,0.0,0.0,1.0
+math/0303338,A double commutant theorem for operator algebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/0309286,"Nonlinear potentials and two weight trace inequalities for general
+  dyadic and radial kernels",1.3189329710618589e-06,0.0,0.0,1.0
+math/9912001,A converse extrapolation theorem for translation invariant operators,1.3189329710618589e-06,0.0,0.0,1.0
+math/0602172,Isomorphisms between topological conjugacy algebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/0510410,A classification of Tsirelson type spaces,1.3189329710618589e-06,0.0,0.0,1.0
+math/0509414,On norm closed ideals in L(\ell_p\oplus\ell_q),1.3189329710618589e-06,0.0,0.0,1.0
+math/0510005,Decomposability of extremal positive unital maps on $M_2$,1.3189329710618589e-06,0.0,0.0,1.0
+math/0512207,Dual Mixed Volumes and the Slicing Problem,1.3189329710618589e-06,0.0,0.0,1.0
+math/0512208,A comment on the low-dimensional Busemann-Petty problem,1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/0309031,"The form boundedness criterion for the relativistic Schr\""odinger
+  operator",1.3189329710618589e-06,0.0,0.0,1.0
+math/0512353,Closed projections and peak interpolation for operator algebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/0309127,On the Quillen determinant,1.3189329710618589e-06,0.0,0.0,1.0
+math/0312135,Consistency of a counterexample to Naimark's problem,1.3189329710618589e-06,0.0,0.0,1.0
+math/0611638,"Orlicz-Sobolev inequalities for sub-Gaussian measures and ergodicity of
+  Markov semi-groups",1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9808015,On the Solution of a Painlev\'e III Equation,1.3189329710618589e-06,0.0,0.0,1.0
+math/0612598,Algebraic characterizations of measure algebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/0610562,"A $c\_0$-saturated Banach space with no long unconditional basic
+  sequences",1.3189329710618589e-06,0.0,0.0,1.0
+math/0612307,Spaces of functions with countably many discontinuities,1.3189329710618589e-06,0.0,0.0,1.0
+math/0010273,"Scattering theory for conformally compact metrics with variable
+  curvature at infinity",1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9501122,"Connection between $\zeta$ and cutoff regularizations of Casimir
+  energies",1.3189329710618589e-06,0.0,0.0,1.0
+math/9812159,Classifying Tight Weyl-Heisenberg Frames,1.3189329710618589e-06,0.0,0.0,1.0
+math/0510407,"Pre-compact families of finite sets of integers and weakly null
+  sequences in Banach spaces",1.3189329710618589e-06,0.0,0.0,1.0
+math/0510118,"Reconstruction of manifolds and subsets of normed spaces from subgroups
+  of their homeomorphism groups",1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/0207047,"A Remark on the structure of symmetric quantum dynamical semigroups on
+  von Neumann algebras",1.3189329710618589e-06,0.0,0.0,1.0
+math/0212265,A new application of Random Matrices: Ext(C*_{red}(F_2)) is not a group,1.3189329710618589e-06,0.0,0.0,1.0
+math/0402150,Variations on a theme of Gelfand and Naimark,1.3189329710618589e-06,0.0,0.0,1.0
+math/0102160,"Operators near completely polynomially dominated ones and similarity
+  problems",1.3189329710618589e-06,0.0,0.0,1.0
+math/0102161,"Critical sets of nonlinear Sturm-Liouville operators of Ambrosetti-Prodi
+  type",1.3189329710618589e-06,0.0,0.0,1.0
+math/0102165,A Hilbert C*-module for Gabor systems,1.3189329710618589e-06,0.0,0.0,1.0
+math/0206182,"The Amalgamation Property in Classical Lebesgue-Riesz Spaces, Banach
+  Spaces with Transitive and Almost Transitive Norms and Projection Constants",1.3189329710618589e-06,0.0,0.0,1.0
+math/0206013,"A solution of one Problem of Lindenstrauss and Rosenthal on Subspace
+  Homogeneous and Quotient Homogeneous Banach Spaces with Application to the
+  Approximation Problem and to the Schroeder - Bernstein Problem",1.3189329710618589e-06,0.0,0.0,1.0
+math/0612529,"AF-embedding of crossed products of AH-algebras by $\Z$ and asymptotic
+  AF-embedding",1.3189329710618589e-06,0.0,0.0,1.0
+math/0311413,Factoriality of q-Gaussian von Neumann algebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/0105091,"The Perron-Frobenius Theorem for Homogeneous, Monotone Functions",1.3189329710618589e-06,0.0,0.0,1.0
+math/0308132,Projective multiresolution analyses for $L^2(R^2)$,1.3189329710618589e-06,0.0,0.0,2.0
+math/0701249,On the Pytkeev property in spaces of continuous functions (II),1.3189329710618589e-06,0.0,0.0,2.0
+math/9903203,On Calder\'on's conjecture,1.3189329710618589e-06,0.0,0.0,2.0
+math/0307243,Fock Space Decomposition of Levy Processes,1.3189329710618589e-06,0.0,0.0,1.0
+math/9511220,Possibly every real function is continuous on a non--meagre set,1.3189329710618589e-06,0.0,0.0,2.0
+math/0110287,mm-Spaces and group actions,1.3189329710618589e-06,0.0,0.0,2.0
+math/0606168,Not all pure states on B(H) are diagonalizable,1.3189329710618589e-06,0.0,0.0,2.0
+math/0609535,"Extension of Lipschitz Functions Defined on Metric Subspaces of
+  Homogeneous Type",1.3189329710618589e-06,0.0,0.0,1.0
+math/0009009,Variational representations of Varadhan Functionals,1.3189329710618589e-06,0.0,0.0,1.0
+math/0608616,Infinite asymptotic games,1.3189329710618589e-06,0.0,0.0,1.0
+math/9701205,"Confidence regions for means of multivariate normal distributions and a
+  non-symmetric correlation inequality for gaussian measure",1.3189329710618589e-06,0.0,0.0,1.0
+math/0512058,Generalized Intersection Bodies,1.3189329710618589e-06,0.0,0.0,2.0
+math/0409155,"Chernoff's Theorem and Discrete Time Approximations of Brownian Motion
+  on Manifolds",1.3189329710618589e-06,0.0,0.0,1.0
+math/9911017,Szlenk indices and uniform homeomorphisms,1.3189329710618589e-06,0.0,0.0,1.0
+math/0304361,"A Paley-Wiener theorem for the $\Theta$-spherical transform: the even
+  multiplicity case",1.3189329710618589e-06,0.0,0.0,1.0
+math/9909041,"Multipliers of operator spaces, and the injective envelope",1.3189329710618589e-06,0.0,0.0,1.0
+math/0601451,Dirac Operators on Non-Compact Orbifolds,1.3189329710618589e-06,0.0,0.0,1.0
+math/0601436,On periodic boundary value problem for the Sturm-Liouville operator,1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/0106014,"Plancherel Inversion as Unified Approach to Wavelet Transforms and
+  Wigner functions",1.3189329710618589e-06,0.0,0.0,2.0
+math/0502299,"Geometric approach to error correcting codes and reconstruction of
+  signals",1.3189329710618589e-06,0.0,0.0,2.0
+math/0407294,Young integrals and SPDEs,1.3189329710618589e-06,0.0,0.0,2.0
+math/0501139,Superstability of adjointable mappings on Hilbert $C^*$-modules,1.3189329710618589e-06,0.0,0.0,2.0
+math/0402283,Principal Series Representations of Direct Limit Groups,1.3189329710618589e-06,0.0,0.0,2.0
+hep-th/9411040,"Eigenvalue Integro-Differential Equations for Orthogonal Polynomials on
+  the Real Line",1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9608101,Determinants of Dirac operators with local boundary conditions,1.3189329710618589e-06,0.0,0.0,2.0
+math/9902100,Spectral theory of boundary value problems for Dirac type operators,1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9704006,Quantum Hall Effect on the Hyperbolic Plane,1.3189329710618589e-06,0.0,0.0,2.0
+math/9303208,"How special are Cohen and random forcings i.e. Boolean algebras of the
+  family of subsets of reals modulo meagre or null",1.3189329710618589e-06,0.0,0.0,3.0
+math/0112270,Geometry on the Quantum Heisenberg Manifold,1.3189329710618589e-06,0.0,0.0,2.0
+hep-th/9304107,Self-Similar Potentials and the q-Oscillator Algebra at Roots of Unity,1.3189329710618589e-06,0.0,0.0,3.0
+math/0502302,Type and cotype of operator spaces,1.3189329710618589e-06,0.0,0.0,1.0
+math/0502410,Lifted closure operators,1.3189329710618589e-06,0.0,0.0,1.0
+math/0403076,A Strict Positivstellensatz for the Weyl Algebra,1.3189329710618589e-06,0.0,0.0,1.0
+math/0505015,Anisotropic Holder and Sobolev spaces for hyperbolic diffeomorphisms,1.3189329710618589e-06,0.0,0.0,1.0
+math/0201187,Contractive projections and operator spaces,1.3189329710618589e-06,0.0,0.0,1.0
+math/0505129,Application of multivariate splines to discrete mathematics,1.3189329710618589e-06,0.0,0.0,1.0
+math/0210304,"Measurable Schur Multipliers and Completely Bounded Multipliers of the
+  Fourier Algebras",1.3189329710618589e-06,0.0,0.0,1.0
+math/0011030,Some characterizations of the automorphisms of $B(H)$ and $C(X)$,1.3189329710618589e-06,0.0,0.0,1.0
+math/0606016,Norms of Toeplitz Matrices with Fisher-Hartwig Symbols,1.3189329710618589e-06,0.0,0.0,1.0
+math/0208223,Another Simple Proof of a Theorem of Chandler Davis,1.3189329710618589e-06,0.0,0.0,1.0
+math/0606305,Shadow systems and volume of polar convex bodies,1.3189329710618589e-06,0.0,0.0,1.0
+math/0603351,"Distributions with dynamic test functions and multiplication by
+  discontinuous functions",1.3189329710618589e-06,0.0,0.0,1.0
+math/0603503,"Systems of $n$ subspaces and representations of $*$-algebras generated
+  by projections",1.3189329710618589e-06,0.0,0.0,1.0
+math/0211343,"Kneading determinants and spectra of transfer operators in higher
+  dimensions, the isotropic case",1.3189329710618589e-06,0.0,0.0,1.0
+math/0608424,"Existence and construction of bipotentials for graphs of multivalued
+  laws",1.3189329710618589e-06,0.0,0.0,1.0
+math/9902108,The uniqueness of the solution to inverse interpolation problems,1.3189329710618589e-06,0.0,0.0,1.0
+math/0608201,"On Non-Volterra Quadratic Stochastic Operators Generated by a Product
+  Measure",1.3189329710618589e-06,0.0,0.0,1.0
+math/0303159,An extension of Mercer's theorem to unbounded operators,1.3189329710618589e-06,0.0,0.0,1.0
+math/0601509,Operator Segal Algebras in Fourier Algebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/0601679,"On extensions of Sobolev functions defined on regular subsets of metric
+  measure spaces",1.3189329710618589e-06,0.0,0.0,1.0
+math/0601730,"Resultat negatif en theorie d'approximation de compacts fonctionnels par
+  des varietes analytiques et application a un probleme inverse",1.3189329710618589e-06,0.0,0.0,1.0
+math/0602295,"The representation category of the Woronowicz quantum group S_mu U(d) as
+  a braided tensor C*-category",1.3189329710618589e-06,0.0,0.0,1.0
+math/9904176,\Lambda(p)-sets and the limit order of operator ideals,1.3189329710618589e-06,0.0,0.0,1.0
+solv-int/9801008,Asymptotics of a class of Fredholm determinants,1.3189329710618589e-06,0.0,0.0,1.0
+math/0308088,"Hardy Algebras, W*-Correspondences and Interpolation Theory",1.3189329710618589e-06,0.0,0.0,5.0
+math/0404376,Quasi-multipliers and algebrizations of an operator space,1.3189329710618589e-06,0.0,0.0,1.0
+math/0312501,Quasimultipliers of Operator Spaces,1.3189329710618589e-06,0.0,0.0,1.0
+math/0305322,A Generalisation of an Ostrowski Inequality in Inner Product Spaces,1.3189329710618589e-06,0.0,0.0,1.0
+math/0403236,Unitary equivalences for essential extensions of $C^*$-algebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/0001135,"Analytic Topology of Groups, Actions, Strings and Varietes",1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/0505013,Spectrum of the volume integral operator of electromagnetic scattering,1.3189329710618589e-06,0.0,0.0,1.0
+math/0306437,Convex Bodies of Constant Width and Constant Brightness,1.3189329710618589e-06,0.0,0.0,1.0
+math/0408305,Normability of Probabilistic Normed Spaces,1.3189329710618589e-06,0.0,0.0,1.0
+math/0511080,"On Schatten-von Neumann class properties of pseudo-differential
+  operators. The Cordes-Kato method",1.3189329710618589e-06,0.0,0.0,1.0
+math/0511132,Strictly flat cyclic Fr\'echet modules and approximate identities,1.3189329710618589e-06,0.0,0.0,1.0
+math/9512211,"A Hilbert space of Dirichlet series and systems of dilated functions in
+  $L^2(0,1)$",1.3189329710618589e-06,0.0,0.0,1.0
+math/0609358,"Sheaves of nonlinear generalized functions and manifold-valued
+  distributions",1.3189329710618589e-06,0.0,0.0,1.0
+math/0310010,On Equi-Weyl Almost Periodic Selections of Multivalued Maps,1.3189329710618589e-06,0.0,0.0,1.0
+math/0202169,A characterization of Morita equivalence pairs,1.3189329710618589e-06,0.0,0.0,1.0
+math/9207206,Banach Spaces Of The Type Of Tsirelson,1.3189329710618589e-06,0.0,0.0,1.0
+math/0510135,Factorizations and invariant subspaces for weighted Schur classes,1.3189329710618589e-06,0.0,0.0,1.0
+math/0609652,"A Spectral Theory of Non-Uniformly Continuous Functions and the
+  Loomis-Arendt-Batty-Vu Theory on the Asymptotic Behavior of Solutions of
+  Evolution Equations",1.3189329710618589e-06,0.0,0.0,1.0
+math/0505319,$\sigma$-Derivations in Banach Algebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/0702756,"Analytic projections, Corona Problem and geometry of holomorphic vector
+  bundles",1.3189329710618589e-06,0.0,0.0,1.0
+math/0312090,"A bifurcation result for semi-Riemannian trajectories of the Lorentz
+  force equation",1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/0201017,Coordinate formalism on Hilbert manifolds,1.3189329710618589e-06,0.0,0.0,1.0
+math/0311438,A Monotone Selection Principle in C*-algebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/0311219,Global L2-boundedness theorems for a class of Fourier integral operators,1.3189329710618589e-06,0.0,0.0,1.0
+math/0201101,On approximation of topological groups by finite algebraic systems,1.3189329710618589e-06,0.0,0.0,2.0
+hep-th/9302098,"On the Squeezed Vacuum States Corresponding to the General Two-Mode
+  Bogolubov Transformation",1.3189329710618589e-06,0.0,0.0,1.0
+math/9808022,"A functional-analytic theory of vertex (operator) algebras, I",1.3189329710618589e-06,0.0,0.0,4.0
+math/0108102,Covering Dimension for Nuclear C*-Algebras II,1.3189329710618589e-06,0.0,0.0,5.0
+cond-mat/9603116,Localization Bounds for an Electron Gas,1.3189329710618589e-06,0.0,0.0,2.0
+math/0110298,Reconstruction of less regular conductivities in the plane,1.3189329710618589e-06,0.0,0.0,1.0
+math/0611506,Many parameter Hoelder perturbation of unbounded operators,1.3189329710618589e-06,0.0,0.0,1.0
+math/0412161,Carath\'{e}odory interpolation on the non-commutative polydisk,1.3189329710618589e-06,0.0,0.0,1.0
+math/0412269,"From Toeplitz Eigenvalues through Green's Kernels to Higher-Order
+  Wirtinger-Sobolev Inequalities",1.3189329710618589e-06,0.0,0.0,1.0
+math/0404545,Relative position of four subspaces in a Hilbert space,1.3189329710618589e-06,0.0,0.0,1.0
+math/0412551,The Kreps-Yan theorem for $L^\infty$,1.3189329710618589e-06,0.0,0.0,1.0
+math/0112181,A disjointness type property of conditional expectation operators,1.3189329710618589e-06,0.0,0.0,1.0
+math/9211211,Norms of Minimal Projections,1.3189329710618589e-06,0.0,0.0,1.0
+math/0410420,Asymptotics of zeros for some entire functions,1.3189329710618589e-06,0.0,0.0,1.0
+math/0410491,Tensor algebras and displacement structure. IV. Invariant kernels,1.3189329710618589e-06,0.0,0.0,1.0
+math/0411442,Jensen's Inequality and majorization,1.3189329710618589e-06,0.0,0.0,3.0
+math/0510120,"Reconstruction theorem for homeomorphism groups without small sets and
+  non-shrinking functions of a normed space",1.3189329710618589e-06,0.0,0.0,2.0
+math/0111015,Subspaces with equal closure,1.3189329710618589e-06,0.0,0.0,2.0
+math/0010261,Realcompactness and spaces of vector-valued functions,1.3189329710618589e-06,0.0,0.0,2.0
+math/0504284,"A Riemann-Hilbert approach to some theorems on Toeplitz operators and
+  orthogonal polynomials",1.3189329710618589e-06,0.0,0.0,3.0
+math/0505555,Multiple operator integrals and higher operator derivatives,1.3189329710618589e-06,0.0,0.0,2.0
+math/0509527,Isometric group actions on Hilbert spaces: growth of cocycles,1.3189329710618589e-06,0.0,0.0,3.0
+hep-th/9506105,Exact Solvability of the Calogero and Sutherland Models,1.3189329710618589e-06,0.0,0.0,15.0
+hep-th/9209080,"Lie-algebraic approach to the theory of polynomial solutions. II.
+  Differential equations in one real and one Grassmann variables and 2x2 matrix
+  differential equations",1.3189329710618589e-06,0.0,0.0,2.0
+quant-ph/0412076,A Unified and Generalized Approach to Quantum Error Correction,1.3189329710618589e-06,0.0,0.0,5.0
+math/0511002,l^p-cohomology for groups of type FP_n,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9608102,"On the relation between determinants and Green functions of elliptic
+  operators with local boundary conditions",1.3189329710618589e-06,0.0,0.0,3.0
+math-ph/0308002,Fredholm Differential Operators with Unbounded Coefficients,1.3189329710618589e-06,0.0,0.0,1.0
+math/9807096,Lipschitz algebras and derivations II: exterior differentiation,1.3189329710618589e-06,0.0,0.0,2.0
+math-ph/0103041,Weakly regular Floquet Hamiltonians with pure point spectrum,1.3189329710618589e-06,0.0,0.0,1.0
+math/0505307,"Embedding of $C_q$ and $R_q$ into noncommutative $L_p$-spaces, $1\le
+  p<q\le 2$",1.3189329710618589e-06,0.0,0.0,2.0
+math/0411612,Stabilizers and orbits of smooth functions,1.3189329710618589e-06,0.0,0.0,2.0
+math/0306233,The best bounds of harmonic sequence,1.3189329710618589e-06,0.0,0.0,2.0
+funct-an/9704003,Grassmannian and elliptic operators,1.3189329710618589e-06,0.0,0.0,1.0
+math/0511456,"Computing the complexity of the relation of isometry between separable
+  Banach spaces",1.3189329710618589e-06,0.0,0.0,2.0
+math/0506201,Metric Cotype,1.3189329710618589e-06,0.0,0.0,2.0
+math/0004161,"Full asymptotic expansion of the heat trace for non-self-adjoint
+  elliptic cone operators",1.3189329710618589e-06,0.0,0.0,2.0
+math/0012200,One more proof of the Borodin-Okounkov formula for Toeplitz determinants,1.3189329710618589e-06,0.0,0.0,3.0
+math/0010245,"Characterization and computation of canonical tight windows for Gabor
+  frames",1.3189329710618589e-06,0.0,0.0,1.0
+math/0402313,"Geometric quantization, complex structures and the coherent state
+  transform",1.3189329710618589e-06,0.0,0.0,2.0
+math/0501415,Dynamically Consistent Nonlinear Evaluations and Expectations,1.3189329710618589e-06,0.0,0.0,3.0
+math/0512481,Strong Haagerup inequalities for free R-diagonal elements,1.3189329710618589e-06,0.0,0.0,1.0
+math/9812052,Symmetric approximation of frames and bases in Hilbert spaces,1.3189329710618589e-06,0.0,0.0,3.0
+hep-th/9505059,The Conformal Spin and Statistics Theorem,1.3189329710618589e-06,0.0,0.0,2.0
+math/0505302,Khintchine type inequalities for reduced free products and Applications,1.3189329710618589e-06,0.0,0.0,1.0
+math/0404189,Finite and countable infinite products of Probabilistic Normed Spaces,1.3189329710618589e-06,0.0,0.0,1.0
+math/0504586,Quantitative noise sensitivity and exceptional times for percolation,1.3189329710618589e-06,0.0,0.0,5.0
+math/0501015,Approximately Vanishing of Topological Cohomology Groups,1.3189329710618589e-06,0.0,0.0,3.0
+math/0102145,The Sidon constant of sets with three elements,1.3189329710618589e-06,0.0,0.0,2.0
+alg-geom/9310005,"Teichm\""uller Theory and the Universal Period Mapping via Quantum
+  Calculus and the $H^{1/2}$ Space on the Circle",1.3189329710618589e-06,0.0,0.0,1.0
+math/0410178,Geometry and spectra of closed extensions of elliptic cone operators,1.3189329710618589e-06,0.0,0.0,4.0
+math/0403243,Boolean convolution of probability measures on the unit circle,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9410064,"Rigorous mean field model for CPA: Anderson model with free random
+  variables",1.3189329710618589e-06,0.0,0.0,2.0
+math/0006138,Approximating Spectral invariants of Harper operators on graphs,1.3189329710618589e-06,0.0,0.0,3.0
+funct-an/9701004,A New Definition of Hypercomplex Analyticity,1.3189329710618589e-06,0.0,0.0,9.0
+funct-an/9710005,"The Laplace Transform Method for Linear Differential Equations of the
+  Fractional Order",1.3189329710618589e-06,0.0,0.0,2.0
+math/0503423,Potential theoretic approach to rendezvous numbers,1.3189329710618589e-06,0.0,0.0,2.0
+math/9804093,Matrix Compact Sets and Operator Approximation Properties,1.3189329710618589e-06,0.0,0.0,2.0
+math-ph/0211066,Backward Adaptive Biorthogonalization,1.3189329710618589e-06,0.0,0.0,2.0
+math/0312198,Two Elementary Derivations of the Pure Fisher-Hartwig Determinant,1.3189329710618589e-06,0.0,0.0,2.0
+math-ph/0410042,"Continuity properties of integral kernels associated with Schroedinger
+  operators on manifolds",1.3189329710618589e-06,0.0,0.0,2.0
+math/0403030,Distributions and Analytic Continuation of Dirichlet Series,1.3189329710618589e-06,0.0,0.0,2.0
+math/9912129,Compactly supported wavelets and representations of the Cuntz relations,1.3189329710618589e-06,0.0,0.0,1.0
+math/9912133,Convergence of the cascade algorithm at irregular scaling functions,1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/0206024,"Exponential Decay and Ionization Thresholds in Non-Relativistic Quantum
+  Electrodynamics",1.3189329710618589e-06,0.0,0.0,2.0
+physics/9710006,Some Properties of Riesz Means and Spectral Expansions,1.3189329710618589e-06,0.0,0.0,2.0
+hep-th/9206074,"Quantum Field Theory as a Problem of Resummation (Short guide to using
+  summability methods)",1.3189329710618589e-06,0.0,0.0,5.0
+hep-th/9403197,Non-Local Matrix Generalizations of W-Algebras,1.3189329710618589e-06,0.0,0.0,5.0
+math/9907030,Hopf C*-algebras,1.3189329710618589e-06,0.0,0.0,3.0
+math-ph/0209020,"Continuous integral kernels for unbounded Schroedinger semigroups and
+  their spectral projections",1.3189329710618589e-06,0.0,0.0,3.0
+math/0012053,On Fourier orthogonal projections in the rotation algebra,1.3189329710618589e-06,0.0,0.0,1.0
+funct-an/9704001,Umbral Calculus and Cancellative Semigroup Algebras,1.3189329710618589e-06,0.0,0.0,4.0
+math/0504257,Asymptotics of a Class of Operator Determinants,1.3189329710618589e-06,0.0,0.0,1.0
+math/0509225,"The Caratheodory-Fejer-Pisarenko decomposition and its multivariable
+  counterpart",1.3189329710618589e-06,0.0,0.0,1.0
+math/0104252,Classification on the average of random walks,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9401026,"Infinite dimensional geometry and quantum field theory of strings. III.
+  Infinite dimensional W-geometry of a second quantized free string",1.3189329710618589e-06,0.0,0.0,3.0
+math/0005089,On the space of Fredholm operators,1.3189329710618589e-06,0.0,0.0,3.0
+math/0205333,Orthogonal polynomials in several variables. I,1.3189329710618589e-06,0.0,0.0,1.0
+math/0301135,Grassmannian Frames with Applications to Coding and Communication,1.3189329710618589e-06,0.0,0.0,1.0
+math/0205088,Poincare Inequalities in Punctured Domains,1.3189329710618589e-06,0.0,0.0,3.0
+math/0403310,"Remarks on the embedding of spaces of distributions into spaces of
+  Colombeau generalized functions",1.3189329710618589e-06,0.0,0.0,3.0
+math/9810168,Amenable groups and measure concentration on spheres,1.3189329710618589e-06,0.0,0.0,2.0
+math/0106053,"Fourier Invariant Partially approximating subalgebras of the irrational
+  rotation C*-algebra",1.3189329710618589e-06,0.0,0.0,1.0
+math/9912214,On the foundations of nonlinear generalized functions I,1.3189329710618589e-06,0.0,0.0,3.0
+math/0205198,Wiener-Hopf determinants with Fisher-Hartwig symbols,1.3189329710618589e-06,0.0,0.0,3.0
+math/0412474,On the stability of the orthogonal Pexiderized Cauchy equation,1.3189329710618589e-06,0.0,0.0,2.0
+math/0411591,Characterizations of noncommutative $H^\infty$,1.3189329710618589e-06,0.0,0.0,1.0
+math/9803051,"Twisted higher index theory on good orbifolds and fractional quantum
+  numbers",1.3189329710618589e-06,0.0,0.0,5.0
+math/0309046,The Calculus of One-Sided $M$-Ideals and Multipliers in Operator Spaces,1.3189329710618589e-06,0.0,0.0,2.0
+math/0203182,Complete isometries into C*-algebras,1.3189329710618589e-06,0.0,0.0,2.0
+math/0503408,"Holomorphic Functions of Slow Growth on Coverings of Pseudoconvex
+  Domains in Stein Manifolds",1.3189329710618589e-06,0.0,0.0,2.0
+math/0102019,Foundations of a nonlinear distributional geometry,1.3189329710618589e-06,0.0,0.0,3.0
+math/0003067,A Direct Integral Decomposition of the Wavelet Representation,1.3189329710618589e-06,0.0,0.0,1.0
+math/0312013,Kadec norms on spaces of continuous functions,1.3189329710618589e-06,0.0,0.0,3.0
+math/0010230,"The non-Archimedean analogs of the Bochner-Kolmogorov, Minlos-Sazonov
+  and Kakutani theorems",1.3189329710618589e-06,0.0,0.0,2.0
+math/0102131,Algebraic Extensions of Normed Algebras,1.3189329710618589e-06,0.0,0.0,2.0
+math/0309464,"Resultados motivados por uma caracteriza\c{c}\~ao de operadores
+  pseudo-diferenciais conjecturada por Rieffel (Ph. D. thesis, in Portuguese)",1.3189329710618589e-06,0.0,0.0,2.0
+math/0308250,Geometric Aspects of Frame Representations of Abelian Groups,1.3189329710618589e-06,0.0,0.0,2.0
+math/0508552,Connes-amenability of bidual and weighted semigroup algebras,1.3189329710618589e-06,0.0,0.0,1.0
+funct-an/9705003,Some universal constructions in abstract topological dynamics,1.3189329710618589e-06,0.0,0.0,2.0
+math/9904048,Extremal Kaehler metrics and Ray-Singer analytic torsion,1.3189329710618589e-06,0.0,0.0,3.0
+math/0211048,Category of Noncommutative CW Complexes. II,1.3189329710618589e-06,0.0,0.0,2.0
+math/0512611,On topological tensor products of functional Frechet and DF spaces,1.3189329710618589e-06,0.0,0.0,2.0
+math/0010051,Admissible vectors for the regular representation,1.3189329710618589e-06,0.0,0.0,1.0
+math/0210186,"Integral representations of unbounded operators by arbitrarily smooth
+  Carleman kernels",1.3189329710618589e-06,0.0,0.0,3.0
+nucl-th/9606022,Few-Body Quantum Problem in the Boundary-Condition Model,1.3189329710618589e-06,0.0,0.0,3.0
+math/0407214,"The Daugavet property of $C^*$-algebras, $JB^*$-triples, and of their
+  isometric preduals",1.3189329710618589e-06,0.0,0.0,1.0
+funct-an/9501002,Connection between Different Function Theories in Clifford Analysis,1.3189329710618589e-06,0.0,0.0,2.0
+math/0206026,"Nuclear semimodules and kernel theorems in idempotent analysis. An
+  algebraic approach",1.3189329710618589e-06,0.0,0.0,3.0
+math/0405497,"Some Reverses of the Generalised Triangle Inequality in Complex Inner
+  Product Spaces",1.3189329710618589e-06,0.0,0.0,2.0
+math/0512025,Pseudodifferential Operators on Stratified Manifolds,1.3189329710618589e-06,0.0,0.0,4.0
+math/0306252,Glauber dynamics of continuous particle systems,1.3189329710618589e-06,0.0,0.0,3.0
+math/0012268,Linear functionals on idempotent spaces: an algebraic approach,1.3189329710618589e-06,0.0,0.0,7.0
+math-ph/0201005,Stochastic Dilation of Symmetric Completely Positive Semigroups,1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/0010009,Semi-classical motion of dressed electrons,1.3189329710618589e-06,0.0,0.0,2.0
+hep-th/9703087,A Direct Method for Obtaining the Differential Conservation Laws,1.3189329710618589e-06,0.0,0.0,4.0
+math/0508482,Diagonals of self-adjoint operators,1.3189329710618589e-06,0.0,0.0,6.0
+math/0211284,Amenability and weak amenability of the Fourier algebra,1.3189329710618589e-06,0.0,0.0,1.0
+math/9801026,Choosing roots of polynomials smoothly,1.3189329710618589e-06,0.0,0.0,5.0
+math/0507158,Operator theory on noncommutative varieties,1.3189329710618589e-06,0.0,0.0,1.0
+math/9512208,"Constructions of $\Cal L_p$ spaces for $p \in (1,\infty)\setminus \{2\}$",1.3189329710618589e-06,0.0,0.0,1.0
+math/0601288,Riesz basis of exponentials for a union of cubes in R^{d},1.3189329710618589e-06,0.0,0.0,1.0
+math/0105069,Approximating a norm by a polynomial,1.3189329710618589e-06,0.0,0.0,1.0
+funct-an/9606002,"Removal of the resolvent-like energy dependence from interactions and
+  invariant subspaces of a total Hamiltonian",1.3189329710618589e-06,0.0,0.0,6.0
+math/0404036,"Moment Conditions and Support Theorems for Radon Transforms on Affine
+  Grassmann Manifolds",1.3189329710618589e-06,0.0,0.0,1.0
+math/0304013,Subalgebras of the Cuntz C^*-Algebra,1.3189329710618589e-06,0.0,0.0,4.0
+hep-th/9309134,"Toeplitz Quantization of K\""ahler Manifolds and $gl(N)$ $N\to\infty$",1.3189329710618589e-06,0.0,0.0,15.0
+math/0405410,"Self-similar functions in $L_2[0,1]$ and Sturm--Liouville Problem with
+  singular indefinite weight",1.3189329710618589e-06,0.0,0.0,3.0
+hep-th/9401167,"Multi-Component KdV Hierarchy, V-Algebra and Non-Abelian Toda Theory",1.3189329710618589e-06,0.0,0.0,6.0
+math/0410176,Resolvents of elliptic cone operators,1.3189329710618589e-06,0.0,0.0,6.0
+math/0403441,Set coverings and invertibility of Functional Galois Connections,1.3189329710618589e-06,0.0,0.0,3.0
+math/0409280,"Time-Frequency Analysis of Sj\""ostrand's Class",1.3189329710618589e-06,0.0,0.0,4.0
+math/0406289,"Zeta integrals and integral geometry in the space of rectangular
+  matrices",1.3189329710618589e-06,0.0,0.0,2.0
+hep-th/9707166,"Mathematical Problems of Gauge Quantum Field Theory: A Survey on the
+  Schwinger Model",1.3189329710618589e-06,0.0,0.0,3.0
+q-alg/9611023,C^*-algebraic quantum groups arising from algebraic quantum groups,1.3189329710618589e-06,0.0,0.0,4.0
+math/0511512,Stochastic Integral with respect to Cylindrical Wiener Process,1.3189329710618589e-06,0.0,0.0,1.0
+math/0306352,"A Generalisation of the Cassels and Greub-Reinboldt Inequalities in
+  Inner Product Spaces",1.3189329710618589e-06,0.0,0.0,1.0
+funct-an/9311004,Exponential Stability of Linear Delay Impulsive Differential Equations,1.3189329710618589e-06,0.0,0.0,3.0
+math-ph/9808004,"Continuity properties of Schr\""odinger semigroups with magnetic fields",1.3189329710618589e-06,0.0,0.0,3.0
+math/0303320,Implicit Functions from Topological Vector Spaces to Banach Spaces,1.3189329710618589e-06,0.0,0.0,9.0
+math/9912216,A global theory of algebras of generalized functions,1.3189329710618589e-06,0.0,0.0,4.0
+q-alg/9704003,Jones-Wassermann Subfactors for Disconnected Intervals,1.3189329710618589e-06,0.0,0.0,10.0
+q-alg/9601016,Berezin-Toeplitz Quantization of compact Kaehler manifolds,1.3189329710618589e-06,0.0,0.0,15.0
+hep-th/9606092,Quasi-Exactly-Solvable Many-Body Problems,1.3189329710618589e-06,0.0,0.0,10.0
+hep-th/9409068,Quasi-Exactly-Solvable Differential Equations,1.3189329710618589e-06,0.0,0.0,22.0
+math/0206039,Generalized function algebras as sequence space algebras,1.3189329710618589e-06,0.0,0.0,4.0
+hep-th/9305045,"Diffeomorphism-invariant generalized measures on the space of
+  connections modulo gauge transformations",1.3189329710618589e-06,0.0,0.0,46.0
+math/0108095,Adjoints of elliptic cone operators,1.3189329710618589e-06,0.0,0.0,1.0
+math/0401205,"Dyson's constant in the asymptotics of the Fredholm determinant of the
+  sine kernel",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9501129,Algebraization of difference eigenvalue equations related to $U_q(sl_2)$,1.3189329710618589e-06,0.0,0.0,9.0
+math/0107218,Covering Dimension for Nuclear C*-algebras,1.3189329710618589e-06,0.0,0.0,4.0
+math/0504268,"Differentiation, implicit functions, and applications to generalized
+  well-posedness",1.3189329710618589e-06,0.0,0.0,6.0
+math/0305443,Wavelets on Fractals,1.3189329710618589e-06,0.0,0.0,9.0
+math/9803122,Notes on Compact Quantum Groups,1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/0311002,From repeated to continuous quantum interactions,1.3189329710618589e-06,0.0,0.0,4.0
+gr-qc/9701048,"Interacting Quantum Fields in Curved Space: Renormalizability of
+  $\varphi^4$",1.3189329710618589e-06,0.0,0.0,11.0
+math/0111197,Topological complexity of motion planning,1.3189329710618589e-06,0.0,0.0,3.0
+math-ph/9910031,The quantum information manifold for epsilon-bounded forms,1.3189329710618589e-06,0.0,0.0,5.0
+math/0307130,On Pecaric's Inequality in Inner Product Spaces,1.3189329710618589e-06,0.0,0.0,3.0
+math/0503747,On the dimension theory of von Neumann algebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/0402138,"Backward uniqueness for parabolic operators with non-Lipscitz
+  coefficients",1.3189329710618589e-06,0.0,0.0,1.0
+math/0503290,Centroids and comparison of volumes,1.3189329710618589e-06,0.0,0.0,1.0
+math/0008164,On Bures distance over standard form vN-algebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/0606176,"The dilation property of modulation spaces and their inclusion relation
+  with Besov spaces",1.3189329710618589e-06,0.0,0.0,1.0
+math/0009073,H^1 n'a pas de base compl\`etement inconditionnelle,1.3189329710618589e-06,0.0,0.0,1.0
+math/0204304,Asymptotics of determinants of Bessel operators,1.3189329710618589e-06,0.0,0.0,1.0
+math/0504024,"Isomorphic groupoid $C^{\ast}$-algebras associated with different Haar
+  systems",1.3189329710618589e-06,0.0,0.0,1.0
+nucl-th/9505030,"Removal of the Energy Dependence from the Resolvent-like
+  Energy-Dependent Interactions",1.3189329710618589e-06,0.0,0.0,1.0
+math/0208237,Non-amenable finitely presented torsion-by-cyclic groups,1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/9907009,Delta Interactions and Electrodynamics of Point Particles,1.3189329710618589e-06,0.0,0.0,1.0
+math/0401243,The heat kernel transform for the Heisenberg group,1.3189329710618589e-06,0.0,0.0,1.0
+math/0204038,Factorization theory for a class of Toeplitz + Hankel operators,1.3189329710618589e-06,0.0,0.0,1.0
+math/9802034,Deformation Quantization of Certain Non-linear Poisson Structures,1.3189329710618589e-06,0.0,0.0,1.0
+math/0206108,"An example of a Banach Space with a Subsymmetric Basis, which has the
+  Hereditarily Approximation Property",1.3189329710618589e-06,0.0,0.0,1.0
+math/9805149,On the existence of universal models,1.3189329710618589e-06,0.0,0.0,3.0
+math/0212127,On the Orr-Sommerfeld Equation with Linear Profile,1.3189329710618589e-06,0.0,0.0,2.0
+math/0702266,Embeddings of locally finite metric spaces into Banach spaces,1.3189329710618589e-06,0.0,0.0,1.0
+math/0412528,Orthogonal polynomials in several non-commuting variables. II,1.3189329710618589e-06,0.0,0.0,1.0
+math/0204076,Amenability of groups acting on trees,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9603017,"Dynamical Zeta Functions, Nielsen theory and Reidemeister torsion",,,,
+chao-dyn/9607002,Non--Hyperbolic Dynamics: a Family of Special Functions,,,,
+cond-mat/0002219,Asymptotic form of two-point correlation function of the XXZ spin chain,,,,
+cond-mat/0403017,Digital darkfield decompositions,,,,
+cond-mat/9410063,"Random matrix theory for CPA: Generalization of Wegner's $n$--orbital
+  model",,,,
+cond-mat/9501081,"The functional-analytic versus the functional-integral approach to
+  quantum Hamiltonians: The one-dimensional hydrogen atom.",,,,
+cond-mat/9910505,"Operator-valued Riemann-Hilbert problem for correlation functions of the
+  XXZ spin chain",,,,
+cs/0509074,Planar Earthmover is not in $L_1$,,,,
+cs/0604055,"Beyond Hirsch Conjecture: walks on random polytopes and smoothed
+  complexity of the simplex method",,,,
+cs/0608054,Dispersion of Mass and the Complexity of Randomized Geometric Algorithms,,,,

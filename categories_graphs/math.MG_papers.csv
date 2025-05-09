@@ -1,0 +1,1183 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+math/0702029,Foundations of geometry for university students and high-school students,5.964448160862841e-05,0.0,50.0,0.0
+math/0608266,Vector bundles and Gromov-Hausdorff distance,3.6840906443387966e-05,4.693850269582114e-07,21.0,1.0
+math/0702239,Polyhedral representation conversion up to symmetries,2.325121631157688e-05,0.0,3.0,0.0
+math/0511648,Characterizations of model sets by dynamical systems,1.73720616987748e-05,0.0,6.0,3.0
+math/0611451,Experimental study of energy-minimizing point configurations on spheres,1.6847565961920842e-05,1.990182755160072e-06,12.0,1.0
+math/0501017,An optimal systolic inequality for CAT(0) metrics in genus two,1.660007813614045e-05,0.0,17.0,7.0
+math/0504008,Bounding volume by systoles of 3-manifolds,1.6104165753587458e-05,0.0,15.0,5.0
+math/0308207,Compact Quantum Metric Spaces,1.6041253687415582e-05,6.746016493010394e-07,19.0,6.0
+math/0703169,A variational proof of Alexandrov's convex cap theorem,1.4150786180271176e-05,0.0,2.0,0.0
+math/0011063,Gromov-Hausdorff Distance for Quantum Metric Spaces,1.363510534443608e-05,0.0010135540796759,30.0,24.0
+math/0108005,"Matrix algebras converge to the sphere for quantum Gromov--Hausdorff
+  distance",1.2064109247017616e-05,0.0001073349912812,34.0,17.0
+math/0411400,Convex Polytopes: Extremal Constructions and f-Vector Shapes,1.1767297835201784e-05,0.0,10.0,0.0
+math/0702448,Similar sublattices of the root lattice $A_4$,1.1707685322034027e-05,0.0,5.0,0.0
+math/0512602,Eigenfunctions for substitution tiling systems,1.1449210400796168e-05,0.0,4.0,0.0
+math/0609447,"Alexandrov's theorem, weighted Delaunay triangulations, and mixed
+  volumes",1.1380481904407397e-05,7.392033637246977e-08,5.0,2.0
+math/0609155,Bounds for Codes by Semidefinite Programming,1.0651732480051822e-05,0.0,4.0,2.0
+math/0609793,Coincidence site modules in 3-space,9.997099571429495e-06,0.0,6.0,1.0
+math/0702842,"A Fourier type transform on translation invariant valuations on convex
+  sets",9.93094321958608e-06,0.0,8.0,0.0
+math/0406008,Boundary case of equality in optimal Loewner-type inequalities,9.579485001709158e-06,0.0,12.0,8.0
+math/0602009,"Systoles of 2-complexes, Reeb graph, and Grushko decomposition",9.507464181328885e-06,0.0,9.0,4.0
+hep-lat/0002022,Isocliny in spinor space and Wilson fermions,9.387134203166424e-06,0.0,3.0,0.0
+math/0409064,"Harmonic Maps of Surfaces Approaching the Boundary of Moduli Space and
+  Eliminating Bubbling",9.087592082995425e-06,0.0,2.0,1.0
+math/0412011,"Filling area conjecture, optimal systolic inequalities, and the fiber
+  class in abelian covers",9.015126970353144e-06,0.0,11.0,11.0
+math/0607446,Universally optimal distribution of points on spheres,8.601895881035456e-06,8.489235357033002e-06,7.0,3.0
+math/0610408,"A radial analogue of Poisson's summation formula with applications to
+  powder diffraction and pinwheel patterns",8.03243440352216e-06,0.0,5.0,0.0
+math/0612418,Line transversals to disjoint balls,7.935381921885137e-06,0.0,1.0,0.0
+math/0610222,"Dirac operators and spectral triples for some fractal sets built on
+  curves",7.870280091001264e-06,0.0,4.0,0.0
+math/0608538,Surface realization with the intersection edge functional,7.69264195210023e-06,0.0,3.0,1.0
+cs/0610092,Happy endings for flip graphs,7.6100624052910576e-06,0.0,2.0,0.0
+math/0608067,Area-stationary surfaces inside the sub-Riemannian three-sphere,7.426205917530638e-06,0.0,5.0,0.0
+math/0512547,Area-stationary surfaces in the Heisenberg group H^1,7.228061413783782e-06,0.0,6.0,3.0
+math/0612509,"Dilatation structures II. Linearity, self-similarity and the Cantor set",7.227807520667711e-06,0.0,3.0,0.0
+math/0507273,Geometric Reasoning with polymake,7.177066684152431e-06,7.751979001504065e-06,6.0,4.0
+math/0504154,An operator Arzel\`a-Ascoli theorem,7.149226053693572e-06,0.0,3.0,0.0
+math/0605078,The Minkowski Theorem for Max-plus Convex Sets,7.089224290279818e-06,1.919531804339012e-06,5.0,1.0
+math/0503344,Quantized Gromov-Hausdorff distance,7.02368510239226e-06,1.990182755160072e-06,5.0,1.0
+math/0701083,Multivariate positive definite functions on spheres,6.8474089908774224e-06,0.0,2.0,1.0
+math/0410456,"Lusternik-Schnirelmann category and systolic category of low dimensional
+  manifolds",6.843567626397344e-06,0.0,12.0,10.0
+math/0308050,"Singular 0/1-matrices, and the hyperplanes spanned by random 0/1-vectors",6.8073544518806e-06,0.0,2.0,2.0
+math/0503388,Definite signature conformal holonomy: a complete classification,6.768876421459609e-06,5.299281569121529e-06,3.0,9.0
+math/0406264,Equilateral sets in finite-dimensional normed spaces,6.681251224771986e-06,0.0,1.0,0.0
+math-ph/0301019,Which distributions of matter diffract? - Some answers,6.6416409581770026e-06,0.0,14.0,2.0
+math/0409065,"Mixed Dimensional Compactness with Dimension Collapsing from Sn-1 Bundle
+  Measures",6.55890781825366e-06,0.0,1.0,1.0
+math/0412408,The max-plus Martin boundary,6.38100927940677e-06,9.617125564849594e-06,7.0,6.0
+math/0511306,Multiple planar coincidences with N-fold symmetry,6.323645194206329e-06,0.0,7.0,4.0
+math/0502108,Euclidean simplices generating discrete reflection groups,6.300973294421249e-06,0.0,4.0,0.0
+math-ph/0212015,Combinatorial problems of (quasi-)crystallography,6.276877279359224e-06,0.0,11.0,5.0
+math/0611331,Assouad-Nagata dimension of wreath products of groups,6.108143124187383e-06,0.0,4.0,1.0
+math/0008151,Bounds for Local Density of Sphere Packings and the Kepler Conjecture,6.069398569381119e-06,0.0,9.0,0.0
+math/0201110,Computational methods for cones and polytopes with symmetry,5.989507126282083e-06,0.0,3.0,0.0
+math/0610904,From the Mahler conjecture to Gauss linking integrals,5.927773615503002e-06,0.0,4.0,0.0
+hep-th/0610266,Zonotopes and four-dimensional superconformal field theories,5.839760826246277e-06,3.0769915378819034e-08,24.0,1.0
+math/0702136,Perfect Delaunay Polytopes in Low Dimensions,5.787869831942019e-06,0.0,2.0,0.0
+math/0606756,"Quaternionic plurisubharmonic functions and their applications to
+  convexity",5.677163029147329e-06,3.980365510320144e-06,6.0,1.0
+math/0001010,Open sets satisfying systems of congruences,5.655144290770314e-06,0.0,1.0,1.0
+math/0001009,Solutions to congruences using sets with the property of Baire,5.655144290770314e-06,0.0,1.0,1.0
+math/9809165,Circumscribing constant-width bodies with polytopes,5.655144290770314e-06,0.0,1.0,1.0
+math/9906066,"Inscribing cubes and covering by rhombic dodecahedra via equivariant
+  topology",5.655144290770314e-06,0.0,1.0,1.0
+math/0601064,Duality of Model Sets Generated by Substitutions,5.636406798560682e-06,0.0,3.0,2.0
+math/0611920,The horofunction boundary of the Hilbert geometry,5.590095944793381e-06,0.0,3.0,0.0
+math/0609174,"Verification and Strengthening of the Atiyah--Sutcliffe Conjectures for
+  Several Types of Configurations",5.578538193271565e-06,0.0,2.0,0.0
+math/0508188,Geometric triangulations and discrete Laplacians on manifolds,5.56322807563326e-06,0.0,7.0,1.0
+math/0410312,Entropy of systolically extremal surfaces and asymptotic bounds,5.456265087130972e-06,0.0,10.0,12.0
+math/0501321,Endomorphisms of relatively hyperbolic groups,5.43515435957436e-06,5.992826430649918e-06,6.0,5.0
+math/0703199,Buildings have finite asymptotic dimension,5.432172455908454e-06,0.0,3.0,1.0
+math/0404465,"Triangulated Manifolds with Few Vertices: Centrally Symmetric Spheres
+  and Products of Spheres",5.342119090674608e-06,0.0,2.0,2.0
+math/0405583,Filling area conjecture and ovalless real hyperelliptic surfaces,5.317218450201383e-06,0.0,9.0,10.0
+math/0701141,Uniqueness in Discrete Tomography of Planar Model Sets,5.272805642779708e-06,0.0,5.0,0.0
+math/0606349,"Analysis of orthogonality and of orbits in affine iterated function
+  systems",5.259785111214951e-06,0.0,3.0,0.0
+math/0606089,Notes on the roots of Ehrhart polynomials,5.15213159084411e-06,0.0,5.0,1.0
+math/0605527,Tube formulas and complex dimensions of self-similar tilings,5.128507879521577e-06,0.0,2.0,2.0
+math/0610668,An introduction to right-angled Artin groups,5.066771713131029e-06,1.9976088102166394e-06,3.0,1.0
+hep-th/9812061,Theoretical and Phenomenological Aspects of Superstring Theories,5.063062438499634e-06,9.098481060079693e-08,56.0,2.0
+math/0603372,Theory of valuations on manifolds: a survey,4.980027284072441e-06,0.0,5.0,1.0
+math/0610407,Line problems in nonlinear computational geometry,4.848729594917541e-06,0.0,1.0,1.0
+nlin/0003024,"A formula with hypervolumes of six 4-simplices and two discrete
+  curvatures",4.839148493603987e-06,0.0,2.0,3.0
+math/0412093,Polyhedral surfaces of high genus,4.837368952752979e-06,0.0,4.0,1.0
+math/0610391,A note on spaces of asymptotic dimension one,4.809451433690596e-06,0.0,3.0,2.0
+math/0412443,"Minimum Perimeter Rectangles That Enclose Congruent Non-Overlapping
+  Circles",4.775563454392716e-06,0.0,3.0,0.0
+math/0608536,Dilatation structures I. Fundamentals,4.664764231128924e-06,0.0,3.0,1.0
+math/0202103,Reconstructing a Simple Polytope from its Graph,4.650395799417749e-06,0.0,2.0,0.0
+math/0309156,Non-crossing frameworks with non-crossing reciprocals,4.639248792026372e-06,0.0,2.0,0.0
+math/0610856,"Semidefinite programming, multivariate orthogonal polynomials, and codes
+  in spherical caps",4.525204607708227e-06,0.0,1.0,2.0
+math/0510263,Cubic Partial Cubes from Simplicial Arrangements,4.411552577449143e-06,0.0,3.0,1.0
+math/0611577,Power-law estimates for the central limit theorem for convex sets,4.402893503952305e-06,0.0,2.0,0.0
+math/0410399,"Elliptic, Parabolic and Hyperbolic Analytic Function Theory--0: Geometry
+  of Domains",4.400262418488684e-06,1.990182755160072e-06,6.0,2.0
+math/0605222,Solution of the coincidence problem in dimensions $d\le 4$,4.388454882188588e-06,0.0,4.0,3.0
+math/0402047,Numerical cubature using error-correcting codes,4.354842591016637e-06,0.0,3.0,4.0
+math/0702207,"A theorem of Hrushovski-Solecki-Vershik applied to uniform and coarse
+  embeddings of the Urysohn metric space",4.328725449056686e-06,0.0,3.0,1.0
+math/0605521,Multiple CSLs for the body centered cubic lattice,4.327892680276534e-06,0.0,3.0,1.0
+math-ph/0212077,Spinors in Quantum Geometrical Theory,4.308677856146974e-06,0.0,3.0,0.0
+math/0302310,"Hyperbolic group $C^*$-algebras and free-product $C^*$-algebras as
+  compact quantum metric spaces",4.256074546359984e-06,8.458456998385287e-07,6.0,7.0
+math/0101066,Beyond the Descartes circle theorem,4.253280260235745e-06,0.0,4.0,5.0
+math/0010302,"Apollonian Circle Packings: Geometry and Group Theory II.
+  Super-Apollonian Group and Integral Packings",4.253280260235745e-06,0.0,4.0,5.0
+math/0610411,Homometric model sets and window covariograms,4.244466191017479e-06,0.0,6.0,0.0
+math/0206098,"Kolakoski-(3,1) is a (deformed) model set",4.217092065582877e-06,0.0,8.0,4.0
+math/0407042,Projected Products of Polytopes,4.214034872898019e-06,0.0,3.0,2.0
+math/0510547,Nonembeddability theorems via Fourier analysis,4.135080771129228e-06,0.0,3.0,0.0
+math/0412320,Methods in the Local Theory of Packing and Covering Lattices,4.133063288931482e-06,0.0,3.0,0.0
+math/0211268,Counting Lattice Triangulations,4.063143711471229e-06,0.0,1.0,2.0
+math/0503716,Minimum representing measures in Idempotent Analysis,4.055391899265705e-06,1.8750750075151206e-07,4.0,2.0
+math/0208073,Face numbers of 4-Polytopes and 3-Spheres,4.051664289078796e-06,0.0,2.0,3.0
+math/0612553,Linearizability of Non-expansive Semigroup Actions on Metric Spaces,4.033306934170206e-06,0.0,1.0,0.0
+math/0702751,"Large scale Sobolev inequalities on metric measure spaces and
+  applications",3.976856698194505e-06,0.0,2.0,1.0
+math/0610338,Asymptotic cones and Assouad-Nagata dimension,3.939335228691727e-06,1.9976088102166394e-06,6.0,1.0
+math/0306214,When Shape Matters: Deformations of Tiling Spaces,3.932212730896843e-06,0.0,1.0,3.0
+math/0304492,"The $E_t$-Construction for Lattices, Spheres and Polytopes",3.903777147597354e-06,0.0,3.0,4.0
+nlin/0003001,A formula with volumes of five tetrahedra and discrete curvature,3.899259694285811e-06,0.0,1.0,3.0
+math/0201011,"Data mining for cones of metrics, quasi-metrics, hemi-metrics and
+  super-metrics",3.853795325504487e-06,0.0,3.0,1.0
+math/0606111,Canonical self-affine tilings by iterated function systems,3.83171613660717e-06,0.0,2.0,1.0
+math/0411157,On Gromov-Hausdorff convergence for operator metric spaces,3.81990625874461e-06,0.0,1.0,4.0
+math/0701773,"A unique extremal metric for the least eigenvalue of the Laplacian on
+  the Klein bottle",3.813704091367571e-06,0.0,2.0,0.0
+math/0506583,Simple geodesics on a punctured surface,3.7987690817026616e-06,0.0,5.0,0.0
+math/0703372,Elementary incidence theorems for complex numbers and quaternions,3.79288256837804e-06,0.0,2.0,0.0
+math/0010091,"The Geometry of Autonomous Metrical Multi-Time Lagrange Space of
+  Electrodynamics",3.785321290628794e-06,0.0,6.0,2.0
+math/0609463,Dimensions of products of hyperbolic spaces,3.680998469287032e-06,0.0,4.0,1.0
+math/0605481,Triangulated cores of punctured-torus groups,3.678688580959519e-06,0.0,3.0,2.0
+math/0702361,"Properties of two selections in metric spaces of Busemann nonpositive
+  curvature",3.62335329328243e-06,0.0,2.0,0.0
+math/0412219,Roundness properties of groups,3.62335329328243e-06,0.0,2.0,0.0
+math/0611802,"An order-refined and generalized version of the Erdos-Szekeres theorem
+  on convex polygons",3.62335329328243e-06,0.0,3.0,1.0
+math/0409081,The Topological Tverberg Problem and winding numbers,3.62335329328243e-06,0.0,2.0,0.0
+math/0211191,"Precompactness of solutions to the Ricci flow in the absence of
+  injectivity radius estimates",3.613771452539447e-06,0.0,3.0,5.0
+math/0412123,Rigidity of invariant convex sets in symmetric spaces,3.600847541526326e-06,0.0,1.0,2.0
+math/0203025,A Note on Shelling,3.5530806611588106e-06,0.0,6.0,6.0
+math/0509398,How large can the first eigenvalue be on a surface of genus two?,3.534036296043928e-06,0.0,2.0,1.0
+math/0308254,Tropical Convexity,3.518646206930328e-06,8.518317452326908e-07,8.0,8.0
+math/0510238,On compact hyperbolic Coxeter d-polytopes with d+4 facets,3.49912997646896e-06,0.0,2.0,0.0
+math/0201209,Inequalities of relative weighted metrics,3.4930843036925227e-06,0.0,2.0,0.0
+math/0504444,Computing the Ehrhart quasi-polynomial of a rational simplex,3.490061467304305e-06,0.0,2.0,1.0
+math/0401219,"Valuations on convex sets, non-commutative determinants, and
+  pluripotential theory",3.4890831335779957e-06,0.0,6.0,6.0
+math/0301021,Bravais colourings of planar modules with N-fold symmetry,3.47595343608216e-06,0.0,4.0,5.0
+math/0102186,Projectivities in Simplicial Complexes and Colorings of Simple Polytopes,3.462031151326813e-06,0.0,2.0,4.0
+math/0205208,Sphere Packings in 3 Dimensions,3.446976749536458e-06,0.0,4.0,0.0
+math/0605676,Notes sur la droite projective de Berkovich,3.417241989909281e-06,0.0,4.0,1.0
+math/0607448,"Uniqueness of the (22,891,1/4) spherical code",3.4169589723627845e-06,0.0,1.0,1.0
+math/0606734,Codes in spherical caps,3.389910494159559e-06,0.0,3.0,0.0
+math/0605419,The de Rham decomposition theorem for metric spaces,3.3749066596554898e-06,0.0,1.0,0.0
+math/0605401,Bounds on the $f$-Vectors of Tight Spans,3.3749066596554898e-06,0.0,1.0,1.0
+math/0308110,Sphere packing bounds in the Grassmann and Stiefel manifolds,3.3749066596554898e-06,0.0,1.0,0.0
+math/0309053,"Maps That Take Lines to Circles, in Dimension 4",3.3749066596554898e-06,0.0,1.0,0.0
+q-bio/0610017,"Number sequence representation of protein structures based on the second
+  derivative of a folded tetrahedron sequence",3.3749066596554898e-06,0.0,1.0,0.0
+math/0608686,Sublinear Higson corona and Lipschitz extensions,3.353665745662178e-06,0.0,5.0,0.0
+math/0408122,Perfect Delaunay Polytopes and Perfect Inhomogeneous Forms,3.343951855096574e-06,0.0,2.0,1.0
+math/0310101,Boundaries of Hyperbolic Metric Spaces,3.331811007943551e-06,5.74564752715808e-06,6.0,4.0
+math/0010298,"Apollonian Circle Packings: Geometry and Group Theory I. The Apollonian
+  Group",3.3134850905856543e-06,0.0,3.0,5.0
+math/0010324,"Apollonian Circle Packings: Geometry and Group Theory III. Higher
+  Dimensions",3.3134850905856543e-06,0.0,3.0,5.0
+math/0509512,"Theory of valuations on manifolds, III. Multiplicative structure in the
+  general case",3.274452547990375e-06,0.0,4.0,4.0
+math/0510105,The horofunction boundary of finite-dimensional normed spaces,3.2492752663481477e-06,8.611467462216683e-08,3.0,1.0
+math/0205195,Group C*-algebras as compact quantum metric spaces,3.217749681764736e-06,1.667022045693527e-05,7.0,12.0
+math/0311061,Some Properties of Lattice Substitution Systems,3.177403635598025e-06,0.0,5.0,0.0
+math/0502327,Decoding by Linear Programming,3.165574474187545e-06,0.0,3.0,1.0
+math/0305012,A computer verification of the Kepler conjecture,3.162469228838316e-06,0.0,5.0,0.0
+math/0204332,The hexagonal versus the square lattice,3.1564676950366884e-06,0.0,2.0,1.0
+math/0607171,"Planar pseudo-triangulations, spherical pseudo-tilings and hyperbolic
+  virtual polytopes",3.151048659025299e-06,0.0,2.0,0.0
+math/0302306,Four-manifold systoles and surjectivity of period map,3.142781302590738e-06,0.0,4.0,10.0
+math/0008063,Self-Similar Measures for Quasicrystals,3.1427733286483965e-06,0.0,5.0,8.0
+math/0607143,On Asymptotic Assouad-Nagata Dimension,3.1025683449474022e-06,0.0,4.0,5.0
+math/0402263,Random Metric Spaces and Universality,3.091631210673364e-06,0.0,2.0,0.0
+math/0511171,"Theory of valuations on manifolds, IV. New properties of the
+  multiplicative structure",3.084106337156168e-06,0.0,4.0,3.0
+math/0612517,On the hyperplane conjecture for random convex sets,3.0472482127272877e-06,0.0,2.0,0.0
+math/0605014,A Central Limit Theorem for Convex Sets,3.0472482127272877e-06,0.0,2.0,1.0
+cs/0106032,Hinged Kite Mirror Dissection,3.001809991938506e-06,0.0,2.0,3.0
+math/0106111,Diffraction of weighted lattice subsets,2.980074445414196e-06,0.0,7.0,2.0
+math/0302126,The polytope of non-crossing graphs on a planar point set,2.9305915481384037e-06,0.0,1.0,2.0
+math/0702322,Proper actions and proper invariant metrics,2.923024895913817e-06,0.0,1.0,0.0
+math/0212140,An Upper Bound for the Number of Planar Lattice Triangulations,2.91697922313738e-06,0.0,1.0,1.0
+math/0703192,Dimension of asymptotic cones of Lie groups,2.9161368665923763e-06,0.0,3.0,0.0
+math/0009069,"Torsions and Curvatures on Jet Fibre Bundle J^1(T,M)",2.91152295744572e-06,6.633942517200226e-07,6.0,7.0
+math/0509433,Dimension of locally and asymptotically self-similar spaces,2.9049749349513138e-06,0.0,2.0,6.0
+math/0305196,Infinite serie of extreme Delaunay polytopes,2.8823378698908707e-06,0.0,2.0,0.0
+math/0601067,Computing modular coincidences,2.861768329197478e-06,0.0,6.0,0.0
+math/9811077,Sphere packings V,2.855213185875573e-06,0.0,3.0,2.0
+gr-qc/0308074,A Lorentzian Gromov-Hausdoff notion of distance,2.8468897136862835e-06,2.0566369852459205e-06,2.0,5.0
+math/0203030,Weighted Dirac combs with pure point diffraction,2.8385760239365586e-06,0.0,8.0,8.0
+math/0508097,Lipschitz extension constants equal projection constants,2.796852486094855e-06,0.0,2.0,1.0
+math/0009070,"Upon h-normal \Gamma-linear connections on J^1(T,M)",2.792767267857956e-06,3.316971258600113e-07,5.0,8.0
+math/0605416,Hurewicz Theorem for Assouad-Nagata dimension,2.789197459178228e-06,0.0,5.0,6.0
+math/0505427,"Asymptotic dimension of a hyperbolic space and capacity dimension of its
+  boundary at infinity",2.783062740617079e-06,0.0,2.0,2.0
+math/0701006,Perfect Delaunay Polytopes and Perfect Quadratic Functions on Lattices,2.7678467745414307e-06,0.0,1.0,0.0
+math/0106093,On the Complexity of Polytope Isomorphism Problems,2.7659077192245546e-06,0.0,1.0,0.0
+math/0612749,On some points-and-lines problems and configurations,2.759195672449716e-06,0.0,2.0,0.0
+math/0410440,Centers of convex subsets of buildings,2.759195672449716e-06,0.0,2.0,1.0
+math/9805100,"Ring structure, uniform expressions and intersection homology",2.747437991287778e-06,0.0,4.0,2.0
+math/0204007,Fat 4-polytopes and fatter 3-spheres,2.7015851643942016e-06,0.0,2.0,5.0
+math/0009117,Metrical Multi-Time Lagrange Geometry of Physical Fields,2.699944462645062e-06,0.0,5.0,6.0
+math/0410048,"Nagata dimension, quasisymmetric embeddings, and Lipschitz extensions",2.6631781590238582e-06,0.0,2.0,1.0
+math/0607568,Coarse structures and group actions,2.629990751978885e-06,0.0,2.0,0.0
+math/0607241,Dimension zero at all scales,2.624596007591044e-06,0.0,4.0,0.0
+math/0503399,"Theory of valuations on manifolds, II",2.6108270235781147e-06,0.0,3.0,5.0
+math/0609393,Discrete Tomography of Planar Model Sets,2.605817552405631e-06,0.0,4.0,3.0
+math/0010090,The Geometry of Relativistic Rheonomic Lagrange Spaces,2.600962491085106e-06,0.0,4.0,2.0
+math/0605562,An alternative definition of coarse structures,2.5928778798691914e-06,0.0,3.0,4.0
+math/0512529,"Dissections, Hom-complexes and the Cayley trick",2.5926166488384027e-06,4.4637694333108674e-05,3.0,2.0
+math/0409586,"Rigidity results for certain 3-dimensional singular spaces and their
+  fundamental groups",2.5844607199810034e-06,0.0,3.0,0.0
+math/0307347,Planar Minimally Rigid Graphs and Pseudo-Triangulations,2.574943578470156e-06,0.0,1.0,1.0
+math/0506316,Enumeration and random realization of triangulated surfaces,2.5557863045006507e-06,0.0,1.0,8.0
+math/0608736,Semigroup-controlled asymptotic dimension,2.551979273242795e-06,0.0,3.0,0.0
+math/0009071,The Geometry of Metrical Multi-time Lagrange Spaces,2.5177163414497808e-06,3.316971258600113e-07,4.0,9.0
+math/0504439,"Rotationally invariant hypersurfaces with constant mean curvature in the
+  Heisenberg group H^n",2.4975470699392314e-06,0.0,1.0,3.0
+math/0412050,"Polygons with prescribed Gauss map in Hadamard spaces and Euclidean
+  buildings",2.49461834615543e-06,0.0,3.0,0.0
+math/0212244,Spherical simplices generating discrete reflection groups,2.483337488926282e-06,0.0,2.0,1.0
+math/0412418,A densest compact planar packing with two sizes of discs,2.4711431321721443e-06,0.0,1.0,0.0
+math/0703923,The Baum-Connes conjecture and proper group actions on affine buildings,2.4711431321721443e-06,0.0,1.0,0.0
+math/0610325,The computational complexity of convex bodies,2.4711431321721443e-06,0.0,1.0,0.0
+math/0608416,Foliating Metric Spaces,2.4711431321721443e-06,0.0,1.0,0.0
+math/0612109,Manhattan orbifolds,2.4711431321721443e-06,0.0,1.0,0.0
+math/9906132,Diffraction from visible lattice points and k-th power free integers,2.4711431321721443e-06,0.0,1.0,8.0
+math/0607051,"Discrete differential geometry of triangle tiles and algebra of closed
+  trajectories",2.4711431321721443e-06,0.0,1.0,1.0
+math/0501133,The Logarithmic Spiral Conjecture,2.4711431321721443e-06,0.0,1.0,0.0
+math/0701338,One dimensional metrical geometry,2.4711431321721443e-06,0.0,1.0,0.0
+math/0408413,What is wrong with the Hausdorff measure in Finsler spaces,2.4711431321721443e-06,0.0,1.0,0.0
+math/0408028,Smooth convex Bodies with proportional projection functions,2.4711431321721443e-06,0.0,1.0,0.0
+math/0308092,omega-Periodic graphs,2.4711431321721443e-06,0.0,1.0,0.0
+math/0408104,The area of cyclic polygons: Recent progress on Robbins' Conjectures,2.4711431321721443e-06,0.0,1.0,0.0
+math/0701618,Boundaries and JSJ decompositions of CAT(0)-groups,2.4711431321721443e-06,0.0,1.0,0.0
+math/0702102,"A sharp Rogers-Shephard type inequality for the p-difference body of a
+  planar convex body",2.4711431321721443e-06,0.0,1.0,0.0
+math/0311272,Hyperbolic Coxeter n-polytopes with n+3 facets,2.4711431321721443e-06,0.0,1.0,0.0
+math/0406358,On some low distortion metric Ramsey problems,2.4711431321721443e-06,0.0,1.0,0.0
+math/0207296,Products of hyperbolic metric spaces,2.4711431321721443e-06,0.0,1.0,0.0
+math/0002004,Location of incenters and Fermat points in variable triangles,2.4711431321721443e-06,0.0,1.0,0.0
+math/0610693,Rigidity and the chess board theorem for cube packings,2.4711431321721443e-06,0.0,1.0,0.0
+math/0508252,"ADM submanifolds, SL normal bundles examples",2.4711431321721443e-06,0.0,1.0,0.0
+math/0511231,A logarithm law for automorphism groups of trees,2.4711431321721443e-06,0.0,1.0,0.0
+math/0510014,Pseudo-self-affine tilings in R^d,2.4711431321721443e-06,0.0,1.0,0.0
+math/0407317,Dimensions of tight spans,2.4711431321721443e-06,0.0,1.0,1.0
+math/0202204,Some Algorithmic Problems in Polytope Theory,2.4711431321721443e-06,0.0,1.0,0.0
+math/0204231,"On the number of facets of three-dimensional Dirichlet stereohedra II:
+  Non-cubic Groups",2.4711431321721443e-06,0.0,1.0,0.0
+math/0103015,Singular sets and parameters of generalized triangle orbifolds,2.4711431321721443e-06,0.0,1.0,0.0
+math/0310142,Lower bounds for simplicial covers and triangulations of cubes,2.4711431321721443e-06,0.0,1.0,0.0
+math/0306387,Surface Area of Ellipsoids,2.4711431321721443e-06,0.0,2.0,0.0
+math/0408132,The Geometry of an Equifacetal Simplex,2.4711431321721443e-06,0.0,1.0,0.0
+math/0402053,A Note on Space Tiling Zonotopes,2.4711431321721443e-06,0.0,1.0,0.0
+math/0307055,"The Beckman-Quarles theorem for mappings from R^2 to F^2, where F is a
+  subfield of a commutative field extending R",2.4711431321721443e-06,0.0,1.0,0.0
+math/0409008,On Minkowksi's bound for lattice-packings,2.4711431321721443e-06,0.0,1.0,1.0
+math/0203268,On the representation of polyhedra by polynomial inequalities,2.4711431321721443e-06,0.0,1.0,1.0
+math/0403375,Surface area and other measures of ellipsoids,2.4711431321721443e-06,0.0,2.0,1.0
+cs/0511084,Ramsey partitions and proximity data structures,2.4711431321721443e-06,0.0,1.0,1.0
+math/0511583,Spaces with many affine functions,2.4711431321721443e-06,0.0,1.0,1.0
+math/0207282,Matricial quantum Gromov-Hausdorff distance,2.4369193177707496e-06,2.9544768561611136e-05,2.0,6.0
+math/0203250,Variational principles for circle patterns and Koebe's theorem,2.429735359900988e-06,0.0,2.0,1.0
+math/0601024,Sums of two dimensional spectral triples,2.4157841147293487e-06,0.0,2.0,2.0
+math/0108025,A New Weighted Metric: the Relative Metric I,2.4060086373771908e-06,0.0,1.0,2.0
+math/0108026,A New Weighted Metric: the Relative Metric II,2.4060086373771908e-06,0.0,1.0,2.0
+math/0405366,Numerical cubature from Archimedes' hat-box theorem,2.4008443528451728e-06,0.0,2.0,1.0
+math/0512065,Volumes and degeneration -- on a conjecture of J. W. Milnor,2.399099489794841e-06,0.0,3.0,0.0
+math/0610687,Iterated Function Systems in Mixed Euclidean and p-adic Spaces,2.3980021912435124e-06,0.0,1.0,0.0
+math/0601205,A Universal Lipschitz Extension Property of Gromov Hyperbolic Spaces,2.381222797123356e-06,0.0,2.0,0.0
+math/0603655,Brunn-Minkowski Inequalities for Contingency Tables and Integer Flows,2.3469198153586743e-06,0.0,1.0,0.0
+math/0311481,The minimal spanning tree and the upper box dimension,2.344788162862128e-06,0.0,1.0,0.0
+math/9912246,Calibrated embeddings in the special Lagrangian and coassociative cases,2.322989195283074e-06,3.140671827401415e-06,8.0,4.0
+hep-th/9806040,Intersecting brane geometries,2.314551284250696e-06,1.6963678496114774e-06,16.0,21.0
+math/0309291,Busemann Points of Infinite Graphs,2.302360328500679e-06,3.2976734664758774e-06,4.0,4.0
+math/0112097,Voronoi-Dickson Hypothesis on Perfect Forms and L-types,2.300699141897247e-06,0.0,2.0,1.0
+math/0306137,"Hard Lefschetz theorem for valuations and related questions of integral
+  geometry",2.2204393163446186e-06,0.0,3.0,0.0
+math/0407099,"Sub-Riemannian geometry and Lie groups. Part II. Curvature of metric
+  spaces, coadjoint orbits and associated representations",2.2158564365873934e-06,0.0,2.0,1.0
+math/0506054,"Tilings, tiling spaces and topology",2.194277336519304e-06,0.0,1.0,0.0
+math/0506177,Max-plus definite matrix closures and their eigenspaces,2.1916445839569087e-06,8.02279162361303e-09,4.0,1.0
+gr-qc/0308075,The limit space of a Cauchy sequence of globally hyperbolic spacetimes,2.183578413325543e-06,0.0,2.0,2.0
+math/0402158,"Volumes of Nonnegative Polynomials, Sums of Squares and Powers of Linear
+  Forms",2.183090591894573e-06,0.0,2.0,1.0
+math/0312268,Convex Geometry of Orbits,2.183090591894573e-06,0.0,2.0,1.0
+math/0408174,The densest lattice in twenty-four dimensions,2.1631390832425577e-06,0.0,3.0,1.0
+math/0212195,"Coxeter Decompositions of Bounded Hyperbolic Pyramids and Triangular
+  Prisms",2.1623867057589947e-06,0.0,2.0,2.0
+math/0506585,Greatest least eigenvalue of the Laplacian on the Klein bottle,2.150523344497096e-06,0.0,1.0,4.0
+math/0210179,Tiling Spaces are Inverse Limits,2.128194055825059e-06,0.0,1.0,1.0
+math/0609491,Metric convexity in the symplectic category,2.1254800838390582e-06,0.0,2.0,1.0
+math/0510344,Semilinear metric semilattices on $\mathbb R$-trees,2.125049603979416e-06,0.0,1.0,0.0
+math/0405121,Ideal closures of Busemann space and singular Minkowski space,2.125049603979416e-06,8.611467462216683e-08,1.0,4.0
+math/0207126,On the Number of Embeddings of Minimally Rigid Graphs,2.120978933487838e-06,0.0,1.0,0.0
+math/0506182,A combinatorial Yamabe flow in three dimensions,2.120978933487838e-06,0.0,1.0,0.0
+math/0211195,A Maximum Principle for Combinatorial Yamabe Flow,2.120978933487838e-06,0.0,1.0,0.0
+math/0406448,"Additive Reverses of the Generalised Triangle Inequality in Normed
+  Spaces",2.104675703646774e-06,0.0,1.0,0.0
+math/0405441,"Local Covering Optimality of Lattices: Leech Lattice versus Root Lattice
+  E8",2.0746126174394707e-06,0.0,2.0,1.0
+math/0110009,New upper bounds on sphere packings I,2.059841661467074e-06,0.0,3.0,7.0
+math/0312068,Tropical Halfspaces,2.014832445909548e-06,4.2204316090550885e-06,3.0,10.0
+math/0601369,Polynomial bounds for large Bernoulli sections of $\ell_1^N$,2.004257533926402e-06,0.0,1.0,0.0
+math/0610947,Convex rank 1 subsets of Euclidean buildings (of type $A_2$),2.003141050970891e-06,0.0,2.0,0.0
+math/0604526,Finsleroid--Finsler Space and Spray Coefficients,1.9990282227329363e-06,0.0,1.0,1.0
+math/0402087,A volume formula for hyperbolic tetrahedra in terms of edge lengths,1.9910555650428585e-06,0.0,2.0,5.0
+math/0503397,"Theory of valuations on manifolds, I. Linear spaces",1.9849603658223053e-06,0.0,2.0,5.0
+math/0405019,Generalized degree and optimal Loewner-type inequalities,1.981893392215673e-06,0.0,4.0,9.0
+math/0612372,The analytic continuation of hyperbolic space,1.9428666217678777e-06,0.0,2.0,1.0
+math/0502543,"Continuity of volumes -- on a generalization of a conjecture of J. W.
+  Milnor",1.9428666217678777e-06,0.0,2.0,4.0
+math/0403263,Optimality and uniqueness of the Leech lattice among lattices,1.942156745148932e-06,0.0,2.0,8.0
+math/0601226,Nagata-Assouad dimension via Lipschitz extensions,1.918905119784365e-06,0.0,2.0,8.0
+math/0605403,"Polyhedral realisation of hyperbolic metrics with conical singularities
+  on compact surfaces",1.8999123755892176e-06,1.032051545766271e-06,1.0,1.0
+math/0209263,"Hard Lefschetz theorem for valuations, complex integral geometry, and
+  unitarily invariant valuations",1.8957511059476805e-06,0.0,2.0,5.0
+math/9910108,"On the imbedding of a finite family of closed disks into a plane or
+  S^{2}",1.8950380516170012e-06,0.0,1.0,0.0
+math/0504357,"Extension and reconstruction theorems for the Urysohn universal metric
+  space",1.8950380516170012e-06,0.0,1.0,0.0
+math/0502564,Line tangents to four triangles in three-dimensional space,1.8950380516170012e-06,0.0,1.0,0.0
+math/0406226,Compact hyperbolic Coxeter n-polytopes with n+3 facets,1.8950380516170012e-06,0.0,1.0,1.0
+math/0308186,On the Monotone Upper Bound Problem,1.8950380516170012e-06,0.0,1.0,0.0
+math/0309346,"A discrete form of the theorem that each field endomorphism of R (Q_p)
+  is the identity",1.8950380516170012e-06,0.0,1.0,0.0
+math/0403272,Computational Approaches to Lattice Packing and Covering Problems,1.8950380516170012e-06,0.0,1.0,3.0
+math/0611893,A centrally symmetric version of the cyclic polytope,1.8950380516170012e-06,0.0,1.0,0.0
+math/0506215,Scaled Enflo type is equivalent to Rademacher type,1.8950380516170012e-06,0.0,1.0,0.0
+math/0205086,Random and universal metric spaces,1.8950380516170012e-06,0.0,1.0,0.0
+math/0012204,On the k-Systems of a Simple Polytope,1.8950380516170012e-06,0.0,1.0,1.0
+math/0504175,The length of closed geodesics on random Riemann Surfaces,1.8950380516170012e-06,0.0,1.0,1.0
+math/0404370,Subdominant matroid ultrametrics,1.8802725712180485e-06,0.0,3.0,0.0
+cs/0111054,The similarity metric,1.8563310916148584e-06,0.0,2.0,3.0
+math/0205039,Volume preserving bi-Lipschitz homeomorphisms on the Heisenberg group,1.8560265798041263e-06,0.0,2.0,0.0
+math/0507119,Lattice Delone simplices with super-exponential volume,1.8536302793458448e-06,0.0,1.0,0.0
+hep-th/9807149,Near-horizon geometries of supersymmetric branes,1.8436221750490173e-06,3.077222718954339e-07,10.0,19.0
+math/0211043,Dimension and dynamical entropy for metrized C*-algebras,1.8339932464475392e-06,0.0,1.0,1.0
+math/0509355,A product of trees as universal space for hyperbolic groups,1.822887606358508e-06,0.0,2.0,1.0
+math/0007003,Efficient fundamental cycles of cusped hyperbolic manifolds,1.821337214025178e-06,0.0,1.0,1.0
+math/0406305,Polygons in buildings and their refined side lengths,1.8104102662463983e-06,1.990182755160072e-06,1.0,4.0
+math/0208132,Aperiodic linearly repetitive Delone sets are densely repetitive,1.7954387324238956e-06,0.0,1.0,0.0
+math/0510666,On a Conjecture of Milnor about Volume of Simplexes,1.7751658390888222e-06,0.0,1.0,1.0
+math/0404525,Hyperbolic dimension of metric spaces,1.7715354810517416e-06,0.0,2.0,5.0
+math/0504566,"Embedding of hyperbolic Coxeter groups into products of binary trees and
+  aperiodic tilings",1.7715354810517416e-06,0.0,2.0,1.0
+math/0402013,Finsleroid space with angle and scalar product,1.7632539265975102e-06,0.0,1.0,8.0
+math/0311476,Describing the platycosms,1.7515723006060086e-06,1.1943564914463484e-05,5.0,10.0
+math/0612728,"A Very Intuitive Geometric Picture of the 24-cell, $E_8$ and
+  $\Lambda_{16}$ Lattices Given by Using the Hopf Maps",1.74141003013563e-06,0.0,2.0,1.0
+math/0206027,Expansive Motions and the Polytope of Pointed Pseudo-Triangulations,1.731037812557113e-06,0.0,1.0,1.0
+math/0202179,Affine isoperimetric inequalities for piecewise linear surfaces,1.703003024765287e-06,0.0,1.0,0.0
+math/0205061,Asymmetric Nondegenerate Geometry,1.703003024765287e-06,0.0,2.0,6.0
+math/0304338,"Algebraic structures on valuations, their properties and applications",1.703003024765287e-06,0.0,1.0,0.0
+math/0211364,The Number of Triangles Needed to Span a Polygon Embedded in R^d,1.703003024765287e-06,0.0,1.0,1.0
+math/9904028,Similarity submodules and root systems in four dimensions,1.703003024765287e-06,0.0,1.0,5.0
+math/0304344,Periodicity and Circle Packing in the Hyperbolic Plane,1.6947214703110555e-06,0.0,2.0,0.0
+math/0505069,"Bounded Cohomology and Deformation Rigidity in Complex Hyperbolic
+  Geometry",1.6822991386297089e-06,0.0,1.0,2.0
+math/0508381,New Conjectural Lower Bounds on the Optimal Density of Sphere Packings,1.6551363252665134e-06,0.0,2.0,3.0
+math/0404304,Metric Spaces with Linear Extensions Preserving Lipschitz Condition,1.6446423249845696e-06,0.0,1.0,2.0
+math/0301148,The multiplicative structure on polynomial continuous valuations,1.6436211814587966e-06,0.0,1.0,8.0
+math-ph/0411052,SCD Patterns Have Singular Diffraction,1.6314170348264351e-06,0.0,3.0,0.0
+math/0402205,L_delta groups are almost convex and have a sub-cubic Dehn function,1.6096259051161389e-06,0.0,1.0,0.0
+math/0507528,Ehrhart polynomial and Successive Minima,1.60698551133943e-06,0.0,1.0,1.0
+math/0505622,Free construction of CAT(1) spaces,1.60698551133943e-06,0.0,1.0,0.0
+math/0611084,Aperiodic colorings and tilings of Coxeter groups,1.5795004542000273e-06,0.0,1.0,0.0
+math/9906042,The Honeycomb Conjecture,1.5795004542000273e-06,0.0,1.0,1.0
+math/0110260,"On the existence of completely saturated packings and completely reduced
+  covering",1.5795004542000273e-06,0.0,1.0,0.0
+math/0110010,New upper bounds on sphere packings II,1.577036553992914e-06,0.0,1.0,4.0
+math/0603487,Svarc-Milnor Lemma: a proof by definition,1.5751968183548686e-06,0.0,1.0,2.0
+math/0105088,Local Complexity of Delone Sets and Crystallinity,1.5611770827737587e-06,0.0,1.0,3.0
+math/0212353,The six-dimensional Delaunay polytopes,1.5493750032839157e-06,0.0,1.0,1.0
+math/0311482,Curvature of sub-Riemannian spaces,1.5493750032839157e-06,0.0,1.0,2.0
+math/0307342,Tangent bundles to sub-Riemannian groups,1.5493750032839157e-06,0.0,1.0,2.0
+math/0505588,On Local Poincare via Transportation,1.5493750032839157e-06,0.0,1.0,3.0
+math/9909170,Reconstructing a non-simple polytope from its graph,1.5493750032839157e-06,0.0,1.0,0.0
+math/9809007,The Area of the Medial Parallelogram of a Tetrahedron,1.5457411742091171e-06,0.0,3.0,0.0
+math/0109161,"A proof of Atiyah's conjecture on configurations, of four points in
+  Euclidean three-space",1.535682522868411e-06,0.0,1.0,0.0
+math-ph/0004022,Surprises in Diffuse Scattering,1.5264586193406803e-06,0.0,1.0,4.0
+math/0603472,Finsleroid--Finsler Space with Berwald and Landsberg Conditions,1.5196180351050735e-06,0.0,1.0,2.0
+math/0509517,Kleinian groups with discrete length spectrum,1.519389824838849e-06,0.0,2.0,0.0
+math/0212010,Coxeter Decompositions of Hyperbolic Tetrahedra,1.5109679979135728e-06,0.0,1.0,2.0
+math/0402403,Reflection subgroups of Euclidean reflection groups,1.5109679979135728e-06,0.0,1.0,1.0
+math/0506200,"On packing spheres into containers (about Kepler's finite sphere packing
+  problem)",1.5109679979135728e-06,0.0,1.0,0.0
+math/0402398,Embedding of Coxeter groups in a product of trees,1.5109679979135728e-06,0.0,1.0,5.0
+math/0702384,"Quantitative property A, Poincare inequalities, L^p-compression and
+  L^p-distortion for metric measure spaces",1.5109679979135728e-06,0.0,1.0,0.0
+math/9908003,Notions of denseness,1.5109679979135728e-06,0.0,1.0,5.0
+math/0112066,A generalization of Filliman duality,1.5109679979135728e-06,0.0,1.0,0.0
+cond-mat/0403286,Superdense Crystal Packings of Ellipsoids,1.5109679979135728e-06,0.0,1.0,0.0
+math/0306238,Closed geodesics on orbifolds,1.5068222749601998e-06,5.970548265480216e-06,1.0,3.0
+math/0503279,Tropical Convexity via Cellular Resolutions,1.4986268996635074e-06,2.087520191362225e-07,1.0,4.0
+math/0409219,"Cremona Convexity, Frame Convexity, and a Theorem of Santal\'o",1.477596998173651e-06,0.0,2.0,0.0
+math/0506528,"Generalizations of Agol's inequality and nonexistence of tight
+  laminations",1.423679349344612e-06,0.0,1.0,0.0
+math/0609236,Weak metrics on Euclidean domains,1.3920262954064832e-06,0.0,1.0,0.0
+math/0508270,Almost Sure Recurrence of the Simple Random Walk Path,1.3795756111202948e-06,0.0,1.0,1.0
+math/0612095,Ricci flow of almost non-negatively curved three manifolds,1.3470379573746913e-06,0.0,2.0,0.0
+hep-th/0008117,Explicit derivation of a Central extended Hyper-Kahler Metric,1.3220318714166562e-06,1.2639163199929256e-09,1.0,1.0
+math/9904066,"Packing, tiling, orthogonality and completeness",1.3189329710618589e-06,0.0,0.0,1.0
+math/0212301,On the volume of spherical Lambert cube,1.3189329710618589e-06,0.0,0.0,1.0
+math/0111145,Small cones of oriented semi-metrics,1.3189329710618589e-06,0.0,0.0,1.0
+math/0605002,Tug-of-war and the infinity Laplacian,1.3189329710618589e-06,0.0,0.0,1.0
+math/0302276,"A discrete form of the Beckman-Quarles theorem for mappings from R^2
+  (C^2) to F^2, where F is a subfield of a commutative field extending R (C)",1.3189329710618589e-06,0.0,0.0,1.0
+math/0106095,"Arbitrarily Large Neighborly Families of Congruent Symmetric Convex
+  3-Polytopes",1.3189329710618589e-06,0.0,0.0,1.0
+math/0002019,Lattice Substitution Systems and Model Sets,1.3189329710618589e-06,0.0,0.0,9.0
+math/0301133,Hyperbolic Coxeter n-polytopes with n+2 facets,1.3189329710618589e-06,0.0,0.0,1.0
+math/0111031,Range characterization of the cosine transform on higher Grassmannians,1.3189329710618589e-06,0.0,0.0,3.0
+math/0309216,A volume formula for generalized hyperbolic tetrahedra,1.3189329710618589e-06,0.0,0.0,4.0
+math/0002161,Geometry without Topology,1.3189329710618589e-06,0.0,0.0,2.0
+math-ph/9901008,"Limit-(quasi)periodic point sets as quasicrystals with p-adic internal
+  spaces",1.3189329710618589e-06,0.0,0.0,10.0
+math/0401191,Some six-dimensional rigid forms,1.3189329710618589e-06,0.0,0.0,2.0
+math/0002020,Model sets: a survey,1.3189329710618589e-06,0.0,0.0,19.0
+math/0103002,Geometry without topology as a new conception of geometry,1.3189329710618589e-06,0.0,0.0,12.0
+math/0308187,"From spaces of polygons to spaces of polyhedra following Bavard, Ghys
+  and Thurston",1.3189329710618589e-06,0.0,0.0,2.0
+math/0408347,Fixed point sets of parabolic isometries of CAT(0)-spaces,1.3189329710618589e-06,0.0,0.0,1.0
+math/0511147,Planar coincidences for N-fold symmetry,1.3189329710618589e-06,0.0,0.0,5.0
+math/0505429,"Capacity dimension and embedding of hyperbolic spaces into the product
+  of trees",1.3189329710618589e-06,0.0,0.0,3.0
+math/9912233,Percolation in the Hyperbolic Plane,1.3189329710618589e-06,0.0,0.0,1.0
+math/0309044,Spectral triples for AF C*-algebras and metrics on the Cantor set,1.3189329710618589e-06,0.0,0.0,5.0
+math/0604248,On hyperbolic Coxeter polytopes with mutually intersecting facets,1.3189329710618589e-06,0.0,0.0,2.0
+math/0401005,A unique representation of polyhedral types,1.3189329710618589e-06,0.0,0.0,2.0
+math/0311524,Embedding of hyperbolic spaces in the product of trees,1.3189329710618589e-06,0.0,0.0,6.0
+math/0203252,What is Aperiodic Order?,1.3189329710618589e-06,0.0,0.0,3.0
+math/9905111,"Classification of Finite Subspaces of Metric Space Instead of
+  Constraints on Metrics",1.3189329710618589e-06,0.0,0.0,4.0
+math/0510290,Flat rank of automorphism groups of buildings,1.3189329710618589e-06,0.0,0.0,1.0
+math/0309430,The kissing number in four dimensions,1.3189329710618589e-06,0.0,0.0,6.0
+math/0108177,The hypermetric cone on seven vertices,1.3189329710618589e-06,0.0,0.0,5.0
+math/0412208,Continuity of the Volume of Simplices in Classical Geometry,1.3189329710618589e-06,0.0,0.0,4.0
+math/9811074,Sphere packings II,1.3189329710618589e-06,0.0,0.0,2.0
+math/0012177,The Complexity of Finding Small Triangulations of Convex 3-Polytopes,1.3189329710618589e-06,0.0,0.0,1.0
+math/0606305,Shadow systems and volume of polar convex bodies,1.3189329710618589e-06,0.0,0.0,1.0
+math/0512208,A comment on the low-dimensional Busemann-Petty problem,1.3189329710618589e-06,0.0,0.0,1.0
+math/0512207,Dual Mixed Volumes and the Slicing Problem,1.3189329710618589e-06,0.0,0.0,1.0
+math/0509275,"Local Lipschitz property of the map which puts in correspondence to
+  N--net its Chebyshev center",1.3189329710618589e-06,0.0,0.0,1.0
+math/0206186,A smooth variant of the Afriat- Varian Theorem,1.3189329710618589e-06,0.0,0.0,3.0
+math/0608752,Totally geodesic subgraphs of the pants complex,1.3189329710618589e-06,0.0,0.0,1.0
+math/9909152,Tangent Spheres and Triangle Centers,1.3189329710618589e-06,0.0,0.0,1.0
+math/0609132,"Polyboxes, cube tilings and rigidity",1.3189329710618589e-06,0.0,0.0,1.0
+math/0407506,Cocompact Proper CAT(0) Spaces,1.3189329710618589e-06,0.0,0.0,1.0
+math/0203124,Once more about Voronoi's conjecture and space tiling zonotopes,1.3189329710618589e-06,0.0,0.0,1.0
+math/9912071,On arithmetic Kleinian groups generated by three half-turns,1.3189329710618589e-06,0.0,0.0,1.0
+math/0512058,Generalized Intersection Bodies,1.3189329710618589e-06,0.0,0.0,2.0
+math/9701205,"Confidence regions for means of multivariate normal distributions and a
+  non-symmetric correlation inequality for gaussian measure",1.3189329710618589e-06,0.0,0.0,1.0
+math/0203061,Gauss Integers and Diophantine Figures,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0001139,Lattice parameters from direct-space images at two tilts,1.3189329710618589e-06,0.0,0.0,1.0
+math/0306437,Convex Bodies of Constant Width and Constant Brightness,1.3189329710618589e-06,0.0,0.0,1.0
+math/0609569,The width-volume inequality,1.3189329710618589e-06,0.0,0.0,1.0
+math/0501123,Searching for a Shoreline,1.3189329710618589e-06,0.0,0.0,1.0
+math/0307259,Conjugacies for Tiling Dynamical Systems,1.3189329710618589e-06,0.0,0.0,1.0
+math/0307370,Combinatorial pseudo-Triangulations,1.3189329710618589e-06,0.0,0.0,2.0
+math/0408415,Dual mixed volumes and isosystolic inequalities,1.3189329710618589e-06,0.0,0.0,1.0
+math/0308239,Some observations on the simplex,1.3189329710618589e-06,0.0,0.0,1.0
+math/0610193,"A Positive Semidefinite Approximation of the Symmetric Traveling
+  Salesman Polytope",1.3189329710618589e-06,0.0,0.0,1.0
+math/0312096,Cocompact CAT(0) spaces are almost geodesically complete,1.3189329710618589e-06,0.0,0.0,1.0
+math/0312163,L'aire des triangles ideaux en geometrie de Hilbert,1.3189329710618589e-06,0.0,0.0,1.0
+math/0407145,Compact packings of the plane with two sizes of discs,1.3189329710618589e-06,0.0,0.0,1.0
+math/0201107,"Symplectic, Hofer and sub-Riemannian geometry",1.3189329710618589e-06,0.0,0.0,1.0
+math/0403080,Brownian motion in riemannian admissible complex,1.3189329710618589e-06,0.0,0.0,1.0
+math/0701624,"Heron's Formula, Descartes Circles, and Pythagorean Triangles",1.3189329710618589e-06,0.0,0.0,1.0
+math/0612672,Pseudo-Triangulations - a Survey,1.3189329710618589e-06,0.0,0.0,1.0
+math/0406353,On metric Ramsey-type phenomena,1.3189329710618589e-06,0.0,0.0,1.0
+math/0406394,Repeated Patterns of Dense Packings of Equal Disks in a Square,1.3189329710618589e-06,0.0,0.0,1.0
+math/0405148,"Dense Packings of Congruent Circles in Rectangles with a Variable Aspect
+  Ratio",1.3189329710618589e-06,0.0,0.0,1.0
+math/0302069,"An extended correction to ``Combinatorial Scalar Curvature and Rigidity
+  of Ball Packings,'' (by D. Cooper and I. Rivin)",1.3189329710618589e-06,0.0,0.0,1.0
+math/0005194,Locally nonconical convexity,1.3189329710618589e-06,0.0,0.0,1.0
+math/0605525,Symmetries of Coincidence Site Lattices of Cubic Lattices,1.3189329710618589e-06,0.0,0.0,1.0
+math/0506098,"Generalized $\beta$-expansions, substitution tilings, and local
+  finiteness",1.3189329710618589e-06,0.0,0.0,1.0
+math/0510425,Substitution Delone Sets with Pure Point Spectrum are Inter Model Sets,1.3189329710618589e-06,0.0,0.0,1.0
+math/9811119,The bottleneck conjecture,1.3189329710618589e-06,0.0,0.0,1.0
+math/0502226,Subtree prune and regraft: a reversible real tree-valued Markov process,1.3189329710618589e-06,0.0,0.0,1.0
+math/0312475,An isomorphic version of the slicing problem,1.3189329710618589e-06,0.0,0.0,1.0
+math/9211216,A low-technology estimate in convex geometry,1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/9910041,"Trigonometry of spacetimes: a new self-dual approach to a
+  curvature/signature (in)dependent trigonometry",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0006062,Root lattices and quasicrystals,1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/0311024,"Minimal Riesz Energy Point Configurations for Rectifiable d-Dimensional
+  Manifolds",1.3189329710618589e-06,0.0,0.0,1.0
+math/9811075,Sphere packings III,1.3189329710618589e-06,0.0,0.0,2.0
+math/0303321,"Anchored expansion, percolation and speed",1.3189329710618589e-06,0.0,0.0,1.0
+math/0609535,"Extension of Lipschitz Functions Defined on Metric Subspaces of
+  Homogeneous Type",1.3189329710618589e-06,0.0,0.0,1.0
+math/0312253,"Metric combinatorics of convex polyhedra: cut loci and nonoverlapping
+  unfoldings",1.3189329710618589e-06,0.0,0.0,1.0
+math/0511437,Gromov-Hausdorff ultrametric,1.3189329710618589e-06,0.0,0.0,1.0
+math/0605039,The Asymptotic Dimension of the First Grigorchuk Group is Infinity,1.3189329710618589e-06,0.0,0.0,1.0
+math/9811076,Sphere packings IV,1.3189329710618589e-06,0.0,0.0,2.0
+math/0404401,Coarse embeddings of metric spaces into Banach spaces,1.3189329710618589e-06,0.0,0.0,1.0
+math/0609229,"The mapping of compact into the set of its Chebyshev centres is
+  Lipschitz in the space l^n_{\infty}",1.3189329710618589e-06,0.0,0.0,1.0
+math/9508209,"The Number of Intersection Points Made by the Diagonals of a Regular
+  Polygon",1.3189329710618589e-06,0.0,0.0,1.0
+math/0701212,The asymptotic rank of metric spaces,1.3189329710618589e-06,0.0,0.0,1.0
+math/0505065,"The Brascamp-Lieb inequalities: finiteness, structure, and extremals",1.3189329710618589e-06,0.0,0.0,1.0
+math/0109037,Funk Metrics and R-Flat Sprays,1.3189329710618589e-06,0.0,0.0,1.0
+math/0702266,Embeddings of locally finite metric spaces into Banach spaces,1.3189329710618589e-06,0.0,0.0,1.0
+math/0601744,Coarse geometry and asymptotic dimension,1.3189329710618589e-06,0.0,0.0,1.0
+math/9811079,A proof of the dodecahedral conjecture,1.3189329710618589e-06,0.0,0.0,2.0
+math/0508518,"Concentration of Haar measures, with an application to random matrices",1.3189329710618589e-06,0.0,0.0,1.0
+math/9904077,Angles in Complex Vector Spaces,1.3189329710618589e-06,0.0,0.0,1.0
+math/0406252,"Dense Packings of Equal Disks in an Equilateral Triangle: From 22 to 34
+  and Beyond",1.3189329710618589e-06,0.0,0.0,1.0
+math/0008164,On Bures distance over standard form vN-algebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/0407135,"On the geometric dilation of closed curves, graphs, and point sets",1.3189329710618589e-06,0.0,0.0,2.0
+math/0608523,On contractive families and a fixed-point question of Stein,1.3189329710618589e-06,0.0,0.0,1.0
+math/0506201,Metric Cotype,1.3189329710618589e-06,0.0,0.0,2.0
+math/0511647,Quasi-isometries and rigidity of solvable groups,1.3189329710618589e-06,0.0,0.0,3.0
+math/0504241,Superrigidity for irreducible lattices and geometric splitting,1.3189329710618589e-06,0.0,0.0,2.0
+math/0608215,Cohomological approach to asymptotic dimension,1.3189329710618589e-06,0.0,0.0,5.0
+math/0501382,"Tail-sensitive Gaussian asymptotics for marginals of concentrated
+  measures in high dimension",1.3189329710618589e-06,0.0,0.0,2.0
+math/0112098,"An Infinite Series of Perfect Quadratic Forms and Big Delaunay Simplexes
+  in Z^n",1.3189329710618589e-06,0.0,0.0,1.0
+math/0403023,Sylvester-Gallai Theorems for Complex Numbers and Quaternions,1.3189329710618589e-06,0.0,0.0,4.0
+math/0301333,A rigidity criterion for non-convex polyhedra,1.3189329710618589e-06,0.0,0.0,3.0
+math/0411092,New polytopes from products,1.3189329710618589e-06,0.0,0.0,1.0
+math/0607207,"Coarse differentiation of quasi-isometries I: spaces not quasi-isometric
+  to Cayley graphs",1.3189329710618589e-06,0.0,0.0,1.0
+math/0212013,Fractal entropies and dimensions for microstate spaces,1.3189329710618589e-06,0.0,0.0,1.0
+math/0112290,"An extremum property characterizing the n-dimensional regular
+  cross-polytope",1.3189329710618589e-06,0.0,0.0,1.0
+math/0407186,Some isometry groups of Urysohn space,1.3189329710618589e-06,0.0,0.0,1.0
+math/0505508,Geometry in Urysohn's universal metric space,1.3189329710618589e-06,0.0,0.0,1.0
+math/0309130,"There are Significantly More Nonnegative Polynomials than Sums of
+  Squares",1.3189329710618589e-06,0.0,0.0,4.0
+math/0507599,The coarse geometric Novikov conjecture and uniform convexity,1.3189329710618589e-06,0.0,0.0,2.0
+math/0410437,Building-like spaces,1.3189329710618589e-06,0.0,0.0,4.0
+math-ph/9809008,"Invariant Submodules and Semigroups of Self-Similarities for Fibonacci
+  Modules",1.3189329710618589e-06,0.0,0.0,3.0
+math/0410421,Affine functions on CAT(kappa) spaces,1.3189329710618589e-06,0.0,0.0,1.0
+math/0506082,"Discrete differential geometry of proteins: a new method for encoding
+  three-dimensional structures of proteins",1.3189329710618589e-06,0.0,0.0,1.0
+math/0304346,"The envelope of lines meeting a fixed line that are tangent to two
+  spheres",1.3189329710618589e-06,0.0,0.0,1.0
+math/0303122,Metric transformations under collapsing of Riemannian manifolds,1.3189329710618589e-06,0.0,0.0,2.0
+math/0612499,Affine and projective universal geometry,1.3189329710618589e-06,0.0,0.0,1.0
+math/0407300,On the Areas of Cyclic and Semicyclic Polygons,1.3189329710618589e-06,0.0,0.0,1.0
+math/0606608,Distances Induced by Barbilian's Metrization Procedure,1.3189329710618589e-06,0.0,0.0,1.0
+math/0206253,Metric Coordinate Systems,1.3189329710618589e-06,0.0,0.0,1.0
+math/0204182,Local calibration of mass and systolic geometry,1.3189329710618589e-06,0.0,0.0,1.0
+math/0104102,Geometric Algebra for Subspace Operations,1.3189329710618589e-06,0.0,0.0,1.0
+math/0505618,The central limit problem for random vectors with symmetries,1.3189329710618589e-06,0.0,0.0,1.0
+math/0502420,Stabilizers of closed sets in the Urysohn space,1.3189329710618589e-06,0.0,0.0,1.0
+math/0607447,The D_4 root system is not universally optimal,1.3189329710618589e-06,0.0,0.0,2.0
+math/0601084,A generalization of Voronoi's reduction theory and its application,1.3189329710618589e-06,0.0,0.0,2.0
+math/0005054,Compactness Theorems for Geometric Packings,1.3189329710618589e-06,0.0,0.0,1.0
+math/9907156,Averaged shelling for quasicrystals,1.3189329710618589e-06,0.0,0.0,2.0
+math/9811072,A formulation of the Kepler conjecture,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0609141,Polygon Convexity: A Minimal O(n) Test,1.3189329710618589e-06,0.0,0.0,2.0
+math/0403147,Classification of Six-Point Metrics,1.3189329710618589e-06,0.0,0.0,1.0
+math/0105069,Approximating a norm by a polynomial,1.3189329710618589e-06,0.0,0.0,1.0
+math/0309187,23040 symmetries of hyperbolic tetrahedra,1.3189329710618589e-06,0.0,0.0,3.0
+math/0112053,Kahler metrics whose geodesics are circles,1.3189329710618589e-06,0.0,0.0,1.0
+math/0306085,Simple estimates for ellipsoid measures,1.3189329710618589e-06,0.0,0.0,2.0
+math/0402132,A Lower Bound on the Density of Sphere Packings via Graph Theory,1.3189329710618589e-06,0.0,0.0,1.0
+math/9405218,Average kissing numbers for non-congruent sphere packings,1.3189329710618589e-06,0.0,0.0,1.0
+math/0412111,"Constant mean curvature foliations of globally hyperbolic spacetimes
+  locally modelled on $AdS_3$",1.3189329710618589e-06,0.0,0.0,4.0
+math/0211176,Convexity properties of the cone of nonnegative polynomials,1.3189329710618589e-06,0.0,0.0,2.0
+math/9811073,Sphere packings I,1.3189329710618589e-06,0.0,0.0,2.0
+math/0011034,"A cornucopia of isospectral pairs of metrics on spheres with different
+  local geometries",1.3189329710618589e-06,0.0,0.0,2.0
+math/0405239,Groups with a polynomial dimension growth,1.3189329710618589e-06,0.0,0.0,4.0
+math/0201152,When size matters: subshifts and their related tiling spaces,1.3189329710618589e-06,0.0,0.0,2.0
+math/0511071,The one-sided kissing number in four dimensions,1.3189329710618589e-06,0.0,0.0,2.0
+math/0309370,On locally convex PL-manifolds and fast verification of convexity,1.3189329710618589e-06,0.0,0.0,1.0
+math/0411182,"A path model for geodesics in Euclidean buildings and its applications
+  to representation theory",1.3189329710618589e-06,0.0,0.0,4.0
+math/0307170,Properties of parallelotopes equivalent to Voronoi's conjecture,1.3189329710618589e-06,0.0,0.0,1.0
+math/0607364,"Counting faces of randomly-projected polytopes when the projection
+  radically lowers dimension",1.3189329710618589e-06,0.0,0.0,2.0
+math/0306401,The number of transversals to line segments in R^3,1.3189329710618589e-06,0.0,0.0,2.0
+math/0302244,Friedmann Cosmology and Almost Isotropy,1.3189329710618589e-06,0.0,0.0,1.0
+math/9811078,The Kepler conjecture,1.3189329710618589e-06,0.0,0.0,10.0
+math/0204181,Stable systolic inequalities and cohomology products,1.3189329710618589e-06,0.0,0.0,15.0
+math/0210067,Coxeter decompositions of hyperbolic simplices,1.3189329710618589e-06,0.0,0.0,6.0
+math/0210189,Sub-Riemannian geometry and Lie groups. Part I,1.3189329710618589e-06,0.0,0.0,5.0
+math-ph/9901014,A guide to mathematical quasicrystals,1.3189329710618589e-06,0.0,0.0,26.0
+math/9811071,An overview of the Kepler conjecture,1.3189329710618589e-06,0.0,0.0,6.0
+cond-mat/0107413,"On the Plants Leaves Boundary, ""Jupe \`a Godets"" and Conformal
+  Embeddings",,,,
+cond-mat/0405650,Epitaxial Frustration in Deposited Packings of Rigid Disks and Spheres,,,,
+cond-mat/9809100,Symmetry Structure of the Elser-Sloane Quasicrystal,,,,
+cs/0008010,Flipturning polygons,,,,
+cs/0203026,"Conformal Geometry, Euclidean Space and Geometric Algebra",,,,
+cs/0302027,Tiling space and slabs with acute tetrahedra,,,,
+cs/0401023,Surface Triangulation -- The Metric Approach,,,,
+cs/0412008,Measured descent: A new embedding method for finite metrics,,,,
+cs/0512024,A bound on Grassmannian codes,,,,
+cs/0601011,"Integrality gaps of semidefinite programs for Vertex Cover and relations
+  to $\ell_1$ embeddability of Negative Type metrics",,,,
+cs/0701009,"Approximation and Inapproximability Results for Maximum Clique of Disc
+  Graphs in High Dimensions",,,,
+cs/0702079,The Hadwiger Number of Jordan Regions is Unbounded,,,,
+cs/0702090,Aperture-Angle and Hausdorff-Approximation of Convex Figures,,,,
+cs/9907031,Beta-Skeletons have Unbounded Dilation,,,,
+dg-ga/9703022,Separated nets in Euclidean space and Jacobians of biLipschitz maps,,,,
+hep-th/9403142,"Triangular dissections, aperiodic tilings and Jones algebras",,,,
+math-ph/0702037,On Field Theory and Some Finsler Spaces,,,,
+math-ph/9812019,On Angles Whose Squared Trigonometric Functions are Rational,,,,
+math/0001097,Drawing with Complex Numbers,,,,
+math/0003203,"Attainable sets for left invariant control systems and
+  Carnot-Caratheodory metrics on nilpotent Lie groups",,,,
+math/0004060,The dimensions of Hausdorff and Mendes France. A comparative study,,,,
+math/0005059,On Jordan angles and triangle inequality in Grassmannian,,,,
+math/0005234,Intrinsic geometry of convex ideal polyhedra in hyperbolic 3-space,,,,
+math/0005263,The Distance Approach to Approximate Combinatorial Counting,,,,
+math/0006126,"Implicit Function Theorem for systems of polynomial equations with
+  vanishing Jacobian and its application to flexible polyhedra and frameworks",,,,
+math/0006137,Rigidity for Quasi-Mobius group actions,,,,
+math/0006225,Vertex-Facet Incidences of Unbounded Polyhedra,,,,
+math/0008028,Lattice Points inside Lattice Polytopes,,,,
+math/0008095,Rigidity of AMN vector spaces,,,,
+math/0008135,"A discrete form of the Beckman-Quarles theorem for two-dimensional
+  strictly convex normed spaces",,,,
+math/0009137,A direct proof of a theorem of Blaschke and Lebesgue,,,,
+math/0009207,The Steinhaus tiling problem and the range of certain quadratic forms,,,,
+math/0010071,"Real Analysis, Quantitative Topology, and Geometric Complexity",,,,
+math/0010078,Extrema of p-energy functional on a Finsler manifold,,,,
+math/0010311,Helly-type Theorems for Plane Convex Curves,,,,
+math/0011019,Recurrence of Distributional Limits of Finite Planar Graphs,,,,
+math/0011022,Trilinear relations between the tetrahedron volumes in a cluster,,,,
+math/0011033,"Isospectral pairs of metrics on balls, spheres, and other manifolds with
+  different local geometries",,,,
+math/0011052,Intrinsic Volumes of the Brownian Motion Body,,,,
+math/0011071,Finsler Metrics of Constant Positive Curvature on the Lie Group $s^3$,,,,
+math/0011093,Some Comparisons for Gaussian Processes,,,,
+math/0011136,Geometric Meanings of Curvatures in Finsler Geometry,,,,
+math/0011239,"Extremal Approximately Convex Functions and the Best Constants in a
+  Theorem of Hyers and Ulam",,,,
+math/0012169,Extremal properties for dissections of convex 3-polytopes,,,,
+math/0101217,"A class of non-convex polytopes that admit no orthonormal basis of
+  exponentials",,,,
+math/0102023,"Discrete versions of the Beckman-Quarles theorem from the definability
+  results of Raphael M. Robinson",,,,
+math/0102107,Minkowski- versus Euclidean rank for products of metric spaces,,,,
+math/0103210,Problems on polygons and Bonnesen-type inequalities,,,,
+math/0104090,Clusters of Cycles,,,,
+math/0106012,Tiling and spectral properties of near-cubic domains,,,,
+math/0106043,"Computing the Face Lattice of a Polytope from its Vertex-Facet
+  Incidences",,,,
+math/0106188,"Metric characterizations of spherical, and Euclidean buildings",,,,
+math/0106200,A characterization of shortest geodesics on surfaces,,,,
+math/0107016,Spacefilling knots,,,,
+math/0107171,Quasisymmetric parametrizations of two-dimensional metric spheres,,,,
+math/0108098,Pushing disks apart - The Kneser-Poulsen conjecture in the plane,,,,
+math/0109060,Finsler Metrics with K=0 and S=0,,,,
+math/0109075,Regularity of limits of noncollapsing sequences of manifolds,,,,
+math/0109097,Two-dimensional Finsler metrics of constant curvature,,,,
+math/0109178,Projectively Flat Finsler Metrics of Constant Curvature,,,,
+math/0110087,Restrictions on collapsing with a lower sectional curvature bound,,,,
+math/0110144,Rectification of circles and quaternions,,,,
+math/0110205,"Improving Rogers' upper bound for the density of unit ball packings via
+  estimating the surface area of Voronoi cells from below in Euclidean d-space
+  for all d>7",,,,
+math/0110222,Substitution Delone Sets,,,,
+math/0111003,Flexible polyhedra in the Minkowski 3-space,,,,
+math/0111272,Derivatives of the L^p cosine transform,,,,
+math/0201269,"Volume, diameter and the minimal mass of a stationary 1-cycle",,,,
+math/0202215,Hausdorff dimension of the set of extreme points of a self-similar set,,,,
+math/0203085,Projections in normed linear spaces and sufficient enlargements,,,,
+math/0203162,Discrete subsets of R^2 and the associated distance sets,,,,
+math/0203190,A Characterization of Extremal Sets in Hilbert Spaces,,,,
+math/0203233,"A Characterization of Similarity Maps Between Euclidean Spaces Related
+  to the Beckman--Quarles Theorem",,,,
+math/0204105,Computational geometry in Heisenberg group Heis^3,,,,
+math/0204158,Successive Minima and Lattice Points,,,,
+math/0204171,The Beckman-Quarles theorem for continuous mappings from R^n to C^n,,,,
+math/0204212,"5n Minkowski symmetrizations suffice to arrive at an approximate
+  Euclidean ball",,,,
+math/0205070,"Une caracterisation des fonctions holomorphes injectives en analyse
+  ultrametriqe",,,,
+math/0205145,Cubic Polyhedra,,,,
+math/0205209,Some algorithms arising in the proof of the Kepler conjecture,,,,
+math/0205304,Properness of minimal surfaces with bounded curvature,,,,
+math/0206260,The Beckman-Quarles theorem for continuous mappings from R^2 to C^2,,,,
+math/0207198,"The dissipation distance for a 2D single crystal with two symmetric slip
+  systems",,,,
+math/0207304,A Geometric Characterization of Extremal Sets in ell_p Spaces,,,,
+math/0208019,Estimates on the Spectrum of Fractals Arising From Affine Iterations,,,,
+math/0208025,Metrics of positive curvature with conic singularities on the sphere,,,,
+math/0208135,Conformal dimension and Gromov hyperbolic groups with 2-sphere boundary,,,,
+math/0208196,Non Standard Metric Products,,,,
+math/0209163,A Model for the Universal Space for Proper Actions of a Hyperbolic Group,,,,
+math/0210133,Beneath-and-Beyond revisited,,,,
+math/0210212,Circles and Clifford Algebras,,,,
+math/0210345,Limits of Voronoi Diagrams,,,,
+math/0210471,A Wilson Group of Non-Uniformly Exponential Growth,,,,
+math/0211234,The Honeycomb Problem on the Sphere,,,,
+math/0211261,A multidimensional Law of Sines,,,,
+math/0211286,Minkowski-type and Alexandrov-type theorems for polyhedral herissons,,,,
+math/0211340,"Tits Geometry, Arithmetic Groups and the Proof of a Conjecture of Siegel",,,,
+math/0211417,Optimally dense packings of hyperbolic space,,,,
+math/0212004,Many Triangulated 3-Spheres,,,,
+math/0212097,Maps between higher Bruhat orders and higher Stasheff-Tamari posets,,,,
+math/0212098,Circles and Quadratic Maps Between Spheres,,,,
+math/0212261,Products of hyperbolic metric spaces II,,,,
+math/0301100,"Convex Hulls, Oracles, and Homology",,,,
+math/0301113,Intrinsic L_p metrics for convex bodies,,,,
+math/0301150,Beckman-Quarles type theorems for mappings from R^n to C^n,,,,
+math/0301267,Quasi-hyperbolic planes in hyperbolic groups,,,,
+math/0301309,Marked length rigidity for one dimensional spaces,,,,
+math/0301318,The Regge symmetry is a scissors congruence in hyperbolic space,,,,
+math/0301338,Total curvature and spiralling shortest paths,,,,
+math/0302056,Uniqueness and Symmetry in Problems of Optimally Dense Packings,,,,
+math/0302124,On Negatively Curved Finsler Manifolds of Scalar Curvature,,,,
+math/0302173,Singularities of convex hulls of smooth hypersurfaces,,,,
+math/0302177,"Random Weighting, Asymptotic Counting, and Inverse Isoperimetry",,,,
+math/0302189,The Area of Polynomial Images and Preimages,,,,
+math/0303108,"Limit points of lines of minima in Thurston's boundary of Teichmueller
+  space",,,,
+math/0303127,"Pinched exponential volume growth implies an infinite dimensional
+  isoperimetric inequality",,,,
+math/0303144,On the flag curvature of Finsler metrics of scalar curvature,,,,
+math/0303212,Distance sets corresponding to convex bodies,,,,
+math/0303366,Lattice packings with gap defects are not completely saturated,,,,
+math/0304278,Ideal bicombings for hyperbolic groups and applications,,,,
+math/0305093,On finite index reflection subgroups of discrete reflection groups,,,,
+math/0305193,"On entropy and Hausdorff dimension of measures defined through a
+  non-homogeneous Markov process",,,,
+math/0305232,"Mappings from R^n to F^n which preserve unit Euclidean distance, where F
+  is a field of characteristic 0",,,,
+math/0305410,Volumes of symmetric random polytopes,,,,
+math/0305411,On symmetric versions of Sylvester's problem,,,,
+math/0306049,"The isometries of the cut, metric and hypermetric cones",,,,
+math/0306089,Isoperimetric inequalities of euclidean type in metric spaces,,,,
+math/0307171,Once more about the 52 four-dimensional parallelotopes,,,,
+math/0307190,Polynomial inequalities representing polyhedra,,,,
+math/0308096,"A characterization of isometries of CAT(0)-space as maps preserving
+  diagonal tube",,,,
+math/0308098,Free planes in lattice sphere packings,,,,
+math/0308262,The Double Bubble Problem on the Flat Two-Torus,,,,
+math/0309025,Meromorphic functions with three singular values,,,,
+math/0309194,A Generalized Balanced Pair Algorithm,,,,
+math/0309317,A problem of Kusner on equilateral sets,,,,
+math/0310145,The Hausdorff dimension of the visible sets of connected compact sets,,,,
+math/0310220,"Some Remarks on the Geodesic Completeness of Compact Nonpositively
+  Curved Spaces",,,,
+math/0310277,Problems on homology manifolds,,,,
+math/0311004,"Which Point Configurations are Determined by the Distribution of their
+  Pairwise Distances?",,,,
+math/0311010,"The distribution of values of the Poincare pairing for hyperbolic
+  Riemann surfaces",,,,
+math/0311017,"Radii minimal projections of polytopes and constrained optimization of
+  symmetric polynomials",,,,
+math/0311228,Transforming triangulations on non planar-surfaces,,,,
+math/0311232,"Finsler Manifolds with Nonpositive Flag Curvature and Constant
+  S-curvature",,,,
+math/0312042,Measures of $\e$-complexity,,,,
+math/0312050,Properties of the Delaunay Triangulation,,,,
+math/0312052,Construction of the Voronoi Diagram and Secondary Polytope,,,,
+math/0312063,Constrained deepest descent in the 2-Wasserstein metric,,,,
+math/0312064,Rate of convergence of geometric symmetrizations,,,,
+math/0312065,On John-Type Ellipsoids,,,,
+math/0401004,Adjacency method for extreme Delaunay polytopes,,,,
+math/0401010,Mahler measure and volumes in hyperbolic space,,,,
+math/0401060,On convex bodies of constant width,,,,
+math/0401293,"Monotone Maps, Sphericity and Bounded Second Eigenvalue",,,,
+math/0402073,Unclouding the sky of negatively curved manifolds,,,,
+math/0402083,A Generalized Affine Isoperimetric Inequality,,,,
+math/0402231,Nonpositively curved 2-complexes with isolated flats,,,,
+math/0402247,Long monotone paths on simple 4-polytopes,,,,
+math/0403104,Join-semidistributive lattices of relatively convex sets,,,,
+math/0403125,Height in splittings of hyperbolic groups,,,,
+math/0403281,Hilbert's metric on symmetric cones,,,,
+math/0403503,Geometry of pentagons: from Gauss to Robbins,,,,
+math/0404082,Transformations of Grassman Spaces,,,,
+math/0404208,Geometric invariants of spaces with isolated flats,,,,
+math/0404321,The Beckman-Quarles theorem for mappings from C^2 to C^2,,,,
+math/0404380,Isometries of spaces of convex compact subsets of CAT(0)-spaces,,,,
+math/0404402,"Group actions on Banach spaces and a geometric characterization of
+  a-T-menability",,,,
+math/0404530,Equivariant embeddings of trees into hyperbolic spaces,,,,
+math/0404533,On fractal Peano curves,,,,
+math/0405017,Distance sets of well-distributed planar sets for polygonal norms,,,,
+math/0405130,A Metric Inequality for the Thompson and Hilbert Geometries,,,,
+math/0405310,Improving Dense Packings of Equal Disks in a Square,,,,
+math/0405376,Some remarks on transportation cost and related inequalities,,,,
+math/0406017,Proof of the Double Bubble Conjecture,,,,
+math/0406031,Planar Clusters,,,,
+math/0406093,The Beckman-Quarles theorem for continuous mappings from C^n to C^n,,,,
+math/0406098,Curved Hexagonal Packings of Equal Disks in a Circle,,,,
+math/0406125,Lower bound for the maximal number of facets of a 0/1 polytope,,,,
+math/0406283,A synthetic characterization of the hemisphere,,,,
+math/0406349,Euclidean quotients of finite metric spaces,,,,
+math/0406359,The Cayley-Menger determinant is irreducible for $n\geq 3$,,,,
+math/0406404,Limitations to Frechet's Metric Embedding Method,,,,
+math/0406406,The Busemann-Petty problem for arbitrary measures,,,,
+math/0407151,Area of Polygons in Hyperbolic Geometry,,,,
+math/0407197,Hilbert metrics and Minkowski norms,,,,
+math/0407223,C^1 Hypersurfaces of the Heisenberg Group are N-Rectifiable,,,,
+math/0407236,Duality of metric entropy,,,,
+math/0407238,On convexified packing and entropy duality,,,,
+math/0407278,"Metric structures in L_1: Dimension, snowflakes, and average distortion",,,,
+math/0407385,Real and discrete holomorphy : Introduction to an algebraic approach,,,,
+math/0407503,Separated sets and the Falconer conjecture for polygonal norms,,,,
+math/0407520,Embedding the diamond graph in $L_p$ and dimension reduction in $L_1$,,,,
+math/0408159,Trisections and Totally Real Origami,,,,
+math/0408354,The number of halving circles,,,,
+math/0408414,Dual spheres have the same girth,,,,
+math/0409067,Foldable cubical complexes of nonpositive curvature,,,,
+math/0409200,Antinorms and Radon curves,,,,
+math/0409288,On lattices of convex sets in R^n,,,,
+math/0409289,The Mobius-Pompeiu metric property,,,,
+math/0409381,Filling a box with translates of two bricks,,,,
+math/0409537,Invariant metrics with nonnegative curvature on compact Lie groups,,,,
+math/0410011,"A Lipschitz map $f: \mathcal{C} \to H$ for the Hadamard space $H$.
+  Sketch of the construction",,,,
+math/0410144,"Quantitative illumination of convex bodies and vertex degrees of
+  geometric Steiner minimal trees",,,,
+math/0410234,On a necessary and sufficient cyclicity condition for a quadrilateral,,,,
+math/0410251,The nine Morse generic tetrahedra,,,,
+math/0410324,The kissing problem in three dimensions,,,,
+math/0410500,Maximal Convergence Groups and Rank One Symmetric Spaces,,,,
+math/0410566,"On coarse embeddability into $\ell_p$-spaces and a conjecture of
+  Dranishnikov",,,,
+math/0411018,A sharp isoperimetric bound for convex bodies,,,,
+math/0411074,"Bas du spectre et delta-hyperbolicit\'{e} en g\'{e}om\'{e}trie de
+  Hilbert plane",,,,
+math/0411093,Coincidences of simplex centers and related facial structures,,,,
+math/0411106,"Hypercubes circumscribed in hyperspheres: a constant growth ratio for
+  volumes at large dimensions",,,,
+math/0411134,Algorithmische Konstruktionen von Gittern,,,,
+math/0411269,"Characterization of quasi-Banach spaces which coarsely embed into a
+  Hilbert space",,,,
+math/0411303,"New Coordinate Systems and Potentials on a Plane Providing Unusual
+  Intergral of Motion",,,,
+math/0411518,Lost at Sea,,,,
+math/0411566,A Note on Self-extremal Sets in $L_p(\Om)$ Spaces,,,,
+math/0411578,"Volume entropy, systole and stable norm on graphs",,,,
+math/0412371,The geometry of $L_0$,,,,
+math/0412469,"Upper Bounds for the Distance to Finite-Dimensional Subspaces in Inner
+  Product Spaces",,,,
+math/0412472,"Reconstruction of Centrally Symmetrical Convex Bodies by Projection
+  Curvature Radii",,,,
+math/0501027,Lipshitz maps from surfaces,,,,
+math/0501050,"Chiral polyhedra in ordinary space, II",,,,
+math/0501129,A Potpourri of Schwarz Related Inequalities in Inner Product Spaces,,,,
+math/0501488,"Reconstruction of Convex Bodies from Projection Curvature Radius
+  Function",,,,
+math/0502167,On the volume of a six-dimensional polytope,,,,
+math/0502345,Blaschke addition and convex polyhedra,,,,
+math/0502413,On simple ideal hyperbolic Coxeter polytopes,,,,
+math/0502454,Sur la forme de la boule unit\'{e} de la norme stable unidimensionnelle,,,,
+math/0503050,Rigidity theory for matroids,,,,
+math/0503052,"An easier solution of a Diophantine problem about triangles, in which
+  those lines from the vertices which bisect the opposite sides may be
+  expressed rationally",,,,
+math/0503096,Inequalities for dual quermassintegrals of mixed intersection bodies,,,,
+math/0503274,Flows and joins of metric spaces,,,,
+math/0503289,"A solution to the lower dimensional Busemann-Petty problem in the
+  hyperbolic space",,,,
+math/0503304,On a number of rational points on a convex curve,,,,
+math/0503313,"Integral-Geometric Formulas for Perimeter in S^2, H^2, and Hilbert
+  Planes",,,,
+math/0503389,Regular and chiral polytopes in low dimensions,,,,
+math/0504300,Curves of constant diameter and inscribed polygons,,,,
+math/0504341,The Erdos and Campbell-Staton conjectures about square packing,,,,
+math/0505205,There are no realizable 15_4- and 16_4-configurations,,,,
+math/0505277,"Non-intersection bodies all of whose central sections are intersection
+  bodies",,,,
+math/0505301,A Note on the Size of the Largest Ball Inside a Convex Polytope,,,,
+math/0505430,Variational convergence over metric spaces,,,,
+math/0506130,"On differentiable compactifications of the hyperbolic plane and
+  algebraic actions of SL(2;R) on surfaces",,,,
+math/0506135,On differentiable compactifications of the hyperbolic space,,,,
+math/0506195,"Critical potentials of the eigenvalues and eigenvalue gaps of
+  Schr\""{o}dinger operators",,,,
+math/0506240,Three-dimensional antipodal and norm-equilateral sets,,,,
+math/0506362,"Volume of spheres in doubling metric measured spaces and in groups of
+  polynomial growth",,,,
+math/0506363,Asymptotic isoperimetry of balls in metric measure spaces,,,,
+math/0506564,Elementary moves on triangulations,,,,
+math/0506580,Remarks on Chebyshev coordinates,,,,
+math/0506616,Invariant d'Hermite des jacobiennes de graphes pond\'{e}r\'{e}s,,,,
+math/0507004,"A Combination Theorem for Convex Hyperbolic Manifolds, with Applications
+  to Surfaces in 3-Manifolds",,,,
+math/0507379,On S.L. Tabachnikov's conjecture,,,,
+math/0507472,A Result About the Density of Iterated Line Intersections in the Plane,,,,
+math/0508037,Power diagrams and Morse Theory,,,,
+math/0508080,Orthocentric simplices and their centers,,,,
+math/0508103,"Las Vergnas Cube Conjecture and reconstruction properties of the cube
+  matroid",,,,
+math/0508154,Euclidean distortion and the Sparsest Cut,,,,
+math/0508183,On a Duality between Metrics and $\Sigma$-Proximities,,,,
+math/0508394,Obstructions to Positive Curvature on Homogeneous Bundles,,,,
+math/0508474,Stability of isometric maps in the Heisenberg group,,,,
+math/0508629,Vector spaces spanned by the angle sums of polytopes,,,,
+math/0508633,On flat complete causal Lorentzian manifolds,,,,
+math/0509287,On Geometry of Flat Complete Strictly Causal Lorentzian Manifolds,,,,
+math/0509289,"On Value Distributions for Quasimeromorphic Mappings on $\mathbb H$-type
+  Carnot Groups",,,,
+math/0509708,"An explicit fundamental domain for the Picard modular group in two
+  complex dimensions",,,,
+math/0509716,Optimal Embeddings of Distance Regular Graphs into Euclidean Spaces,,,,
+math/0510099,Second-order symmetric Lorentzian manifolds,,,,
+math/0510398,Some metric properties of automorphisms of groups,,,,
+math/0510426,A Characterization of Model Multi-colour Sets,,,,
+math/0510612,Approximating orthogonal matrices by permutation matrices,,,,
+math/0511289,Energy and length in a topological planar quadrilateral,,,,
+math/0511496,Line transversals for homothetical systems of polygons in $R^2$,,,,
+math/0511570,"Gauss equation and injectivity radii for subspaces in spaces of
+  curvature bounded above",,,,
+math/0511688,A note on common zeroes of Laplace--Beltrami eigenfunctions,,,,
+math/0512098,Functional inequalities related to the Rogers-Shephard inequality,,,,
+math/0512157,Petrie-Coxeter Maps Revisited,,,,
+math/0512158,On the Density of Iterated Line Segment Intersections,,,,
+math/0512340,Absolutely continuous functions with values in metric spaces,,,,
+math/0512552,Lengths of geodesics between two points on a Riemannian manifold,,,,
+math/0512638,On the dynamics of isometries,,,,
+math/0512649,"An extension of Delsarte's method. The kissing problem in three and four
+  dimensions",,,,
+math/0601247,A construction of a skewaffine structure in Laguerre geometry,,,,
+math/0601321,The symmetry axioms in Laguerre planes,,,,
+math/0601467,The symmetry axiom in Minkowski planes,,,,
+math/0601499,"Nakajima's problem: convex bodies of constant width and constant
+  brightness",,,,
+math/0601502,"Reflection groups and polytopes over finite fields, II",,,,
+math/0601638,Upper bounds for edge-antipodal and subequilateral polytopes,,,,
+math/0602073,On Proximity Measures for Graph Vertices,,,,
+math/0602314,Convergence and the Length Spectrum,,,,
+math/0602463,"Flatness, preorders and general metric spaces (revised)",,,,
+math/0602511,On the number of two-dimensional threshold functions,,,,
+math/0602573,The Forest Metrics for Graph Vertices,,,,
+math/0602579,A short proof of rigidity of convex polytopes,,,,
+math/0602675,Subsets of Rectifiable curves in Hilbert Space-The Analyst's TSP,,,,
+math/0603156,On angles formed by $N$ points of the Euclidean and Hyperbolic planes,,,,
+math/0603235,Steinhaus Sets and Jackson Sets,,,,
+math/0603394,Low-degree minimal spanning trees in normed spaces,,,,
+math/0603461,A remark on two duality relations,,,,
+math/0603539,Characterizations of metric trees and Gromov hyperbolic spaces,,,,
+math/0603614,A lower bound for the equilateral number of normed spaces,,,,
+math/0603616,The local Steiner problem in finite-dimensional normed spaces,,,,
+math/0604106,The coding of compact real trees by real valued functions,,,,
+math/0604187,The Krein-Mil'man Theorem for Metric Spaces with a Convex Bicombing,,,,
+math/0604299,A note on subgaussian estimates for linear functionals on convex bodies,,,,
+math/0604389,Area of ideal triangles and Gromov hyperbolicity in Hilbert Geometry,,,,
+math/0604461,"Les g\'{e}om\'{e}tries de Hilbert sont \`{a} g\'{e}om\'{e}trie locale
+  born\'{e}e",,,,
+math/0605181,"Bijections and metric spaces induced by some collective properties of
+  concave Young-functions",,,,
+math/0605418,"Hyperbolicity, CAT(-1)-spaces and the Ptolemy Inequality",,,,
+math/0605454,Ahlfors-Regular Curves In Metric Spaces,,,,
+math/0605526,Coincidences of Hypercubic Lattices in 4 dimensions,,,,
+math/0606002,Covering spheres with spheres,,,,
+math/0606073,Gaussian marginals of convex bodies with symmetries,,,,
+math/0606371,On a Convex Operator for Finite Sets,,,,
+math/0606469,Semisymmetric Graphs from Polytopes,,,,
+math/0606569,Global Homeomorphism and Covering Projections on Metric Spaces,,,,
+math/0606660,Groups of type L_2(q) acting on polytopes,,,,
+math/0606748,An explicit construction for neighborly centrally symmetric polytopes,,,,
+math/0607153,"Liouville theorem, conformally invariant cones and umbilical surfaces
+  for Grushin-type metrics",,,,
+math/0607304,Quasi-metric and metric spaces,,,,
+math/0607353,Generalized Universal Covers of Uniform Spaces,,,,
+math/0607398,An isoperimetric inequality on the $\ell_p$ balls,,,,
+math/0607441,A generalization of Reifenberg's theorem in $R^3$,,,,
+math/0607469,Angle sums on polytopes and polytopal complexes,,,,
+math/0607620,On $\pmb{p}$-quermassintegral differences function,,,,
+math/0607644,An application of metric cotype to quasisymmetric embeddings,,,,
+math/0607699,Non-Euclidean visibility problems,,,,
+math/0607715,"Slices, slabs, and sections of the unit hypercube",,,,
+math/0607753,Volume Inequalities for Isotropic Measures,,,,
+math/0607754,Inflating the cube without stretching,,,,
+math/0608039,"On the Number of Facets of Three-Dimensional Dirichlet Stereohedra III:
+  Full Cubic Groups",,,,
+math/0608092,"The Bernstein problem for intrinsic graphs in Heisenberg groups and
+  calibrations",,,,
+math/0608230,"Mollifier Smoothing of tensor fields on differentiable manifolds and
+  applications to Riemannian Geometry",,,,
+math/0608362,"Techniques for classifying nonnegatively curved left-invariant metrics
+  on compact Lie groups",,,,
+math/0608363,Invariant Metrics with Nonnegative Curvature on SO(4),,,,
+math/0608397,"Problems on Polytopes, Their Groups, and Realizations",,,,
+math/0608403,"Metric derived numbers and continuous metric differentiability via
+  homeomorphisms",,,,
+math/0608426,New upper bounds for kissing numbers from semidefinite programming,,,,
+math/0608494,Invariant conformal geometry on Finsler manifolds,,,,
+math/0608731,Structures of Coincidence Symmetry Groups,,,,
+math/0608732,Indices of Coincidence Isometries of the Hyper Cubic Lattice $Z^n$,,,,
+math/0609177,"The Relation Between the Associate Almost Complex Structure to $HM'$ and
+  $(HM',S,T)$-Cartan Connections",,,,
+math/0609235,Steiner's Invariants and Minimal Connections,,,,
+math/0609553,Some functional forms of Blaschke-Santal\'o inequality,,,,
+math/0609606,"Lipschitz extension of multiple Banach-valued functions in the sense of
+  Almgren",,,,
+math/0609620,The diameter of a random Cayley graph of Z_q,,,,
+math/0610036,Problems related to a de Bruijn - Erd\H{o}s theorem,,,,
+math/0610089,Geodesics and almost geodesic cycles in random regular graphs,,,,
+math/0610140,Points on Hemispheres,,,,
+math/0610367,The Hessian of the distance from a surface in the Heisenberg group,,,,
+math/0610385,"An Efficient Approximation of the Traveling Salesman Polytope Using
+  Lifting Methods",,,,
+math/0610863,Quasisymmetric parameterizations of two-dimensional metric planes,,,,
+math/0611049,Linearly rigid metric spaces and the embedding problem,,,,
+math/0611110,"Doubling measures, monotonicity, and quasiconformality",,,,
+math/0611118,Triangle inequalities in path metric spaces,,,,
+math/0611798,On combinatorial problem concerning partitions of a box into boxes,,,,
+math/0611800,Covering the plane by rotations of a lattice arrangement of disks,,,,
+math/0611954,Differentiating maps into L^1 and the geometry of BV functions,,,,
+math/0612070,The random paving property for uniformly bounded matrices,,,,
+math/0612163,A Statistical Characterization of Regular Simplices,,,,
+math/0612326,Steinhaus' problem on partition of a triangle,,,,
+math/0612374,"Volume of $C^{1,\alpha}$-boundary domain in extended hyperbolic space",,,,
+math/0612389,"Non-negatively curved metrics on $S^2\times S^2$ admitting Killing
+  fields",,,,
+math/0612492,Some notes on property A,,,,
+math/0612605,Empilements de cercles et modules combinatoires,,,,
+math/0612686,"Existence of Metrics with Prescribed Scalar Curvature on the Volume
+  Element Preserving Deformation",,,,
+math/0701094,Kostant Convexity for affine buildings,,,,
+math/0701098,A minimum principle for plurisubharmonic functions,,,,
+math/0701102,"Almost Euclidean sections of the N-dimensional cross-polytope using O(N)
+  random bits",,,,
+math/0701191,On a type Sobolev inequality and its applications,,,,
+math/0701207,"Weak uncertainty principle for fractals, graphs and metric measure
+  spaces",,,,
+math/0701391,An Improved Lower Bound for Moser's Worm Problem,,,,
+math/0701534,Observable concentration of mm-spaces into spaces with doubling measures,,,,
+math/0701535,"Observable concentration of mm-spaces into nonpositively curved
+  manifolds",,,,
+math/0701556,Behavior of geodesic-length functions on Teichmueller space,,,,
+math/0701762,"A Recipe for Symbolic Geometric Computing: Long Geometric Product,
+  BREEFS and Clifford Factorization",,,,
+math/0701777,"Laplacian eigenvalues functionals and metric deformations on compact
+  manifolds",,,,
+math/0701824,Post-critically finite self-similar groups,,,,
+math/0701886,Ricci curvature of Markov chains on metric spaces,,,,
+math/0701940,Monochromatic triangles in two-colored plane,,,,
+math/0702124,Compactness and Measures of Noncompactness in Metric Trees,,,,
+math/0702125,Hyperconvexity and Metric Trees,,,,
+math/0702241,"Invariant metrics with nonnegative curvature on SO(4) and other Lie
+  groups",,,,
+math/0702466,Indivisible ultrametric spaces,,,,
+math/0702601,Rigidity and volume preserving deformation on degenerate simplices,,,,
+math/0702630,Bi-Lipschitz Decomposition of Lipschitz functions into a Metric space,,,,
+math/0702635,"Derivative relationships between volume and surface area of compact
+  regions in R^d",,,,
+math/0702717,Topological obstructions for vertex numbers of Minkowski sums,,,,
+math/0702892,Retrieving convex bodies from restricted covariogram functions,,,,
+math/0702897,Bonnesen-type inequalities for surfaces of constant curvature,,,,
+math/0703048,The Elliptical Envelope,,,,
+math/0703184,A characterization of hyperbolic geometry among Hilbert geometry,,,,
+math/0703250,Control Theory for Semigroups over Local Fields,,,,
+math/0703373,Notes on the roots of Steiner polynomials,,,,
+math/0703389,Flats in Riemannian Submersions from Lie Groups,,,,
+math/0703415,An asymptotics of variance of the lattice points count,,,,
+math/0703584,"From the Brunn-Minkowski inequality to a class of Poincar\'e type
+  inequalities",,,,
+math/0703634,On geometric properties of sets of positive reach in ${\bf E}^d$,,,,
+math/0703857,"An isoperimetric inequality for uniformly log-concave measures and
+  uniformly convex bodies",,,,
+math/0703860,Sets that contain their circle centers,,,,
+math/9201203,Convex bodies with few faces,,,,
+math/9201204,Shadows of convex bodies,,,,
+math/9201205,Volume ratios and a reverse isoperimetric inequality,,,,
+math/9201206,On the volume of the intersection of two $L_p^n$ balls,,,,
+math/9201217,Ellipsoids of maximal volume in convex bodies,,,,
+math/9201218,The plank problem for symmetric bodies,,,,
+math/9204233,A quasi-polynomial bound for the diameter of graphs of polyhedra,,,,
+math/9210213,Piercing convex sets,,,,
+math/9210216,"Curvature, triameter, and beyond",,,,
+math/9210218,"A characterization of convex hyperbolic polyhedra and of convex
+  polyhedra inscribed in the sphere",,,,
+math/9210222,Keller's cube-tiling conjecture is false in high dimensions,,,,
+math/9302210,Random polytopes and affine surface area,,,,
+math/9307229,A counterexample to Borsuk's conjecture,,,,
+math/9310234,Symmetry of tilings of the plane,,,,
+math/9404230,"On the Busemann-Petty problem concerning central sections of centrally
+  symmetric convex bodies",,,,
+math/9410208,Three-dimensional alpha shapes,,,,
+math/9410213,An isoperimetric inequality related to Thue's equation,,,,
+math/9411215,Tiling a rectangle with the fewest squares,,,,
+math/9411216,A note on tiling with integer-sided rectangles,,,,
+math/9501217,"Approximation of analytic functions with prescribed boundary conditions
+  by circle packing maps",,,,
+math/9501227,Topological entropy of generalized polygon exchanges,,,,
+math/9503214,Lattice coverings and gaussian measures of n-dimensional convex bodies,,,,
+math/9505205,"Recurrent random walks, Liouville's theorem, and circle packings",,,,
+math/9505210,The Construction of Self-Similar Tilings,,,,
+math/9508215,Random walks of circle packings,,,,
+math/9509220,Symmetry via Spherical Reflection and Spanning Drops in a Wedge,,,,
+math/9510217,Realization spaces of 4-polytopes are universal,,,,
+math/9511225,Highly saturated packings and reduced coverings,,,,
+math/9601202,Subgroups of SO(3) Associated with Tilings,,,,
+math/9603208,Umbrellas and polytopal approximation of the euclidean ball,,,,
+math/9605212,"Inverse formula for the Blaschke-Levy representation with applications
+  to zonoids and sections of star bodies",,,,
+math/9605217,A note on the $M^*$--limiting convolution body,,,,
+math/9605218,Low $M^*$-estimates on coordinate subspaces,,,,
+math/9605221,"Uniformly distributed distances: A geometric application of Jansen's
+  inequality",,,,
+math/9605223,Covering numbers and ``low $M^{*}$-estimate'' for quasi-convex bodies,,,,
+math/9608208,Random vectors in the isotropic position,,,,
+math/9609206,"Floating body, illumination body, and polytopal approximation",,,,
+math/9701213,Metric Entropy of Homogeneous Spaces,,,,
+math/9701215,Hausdorff dimension of boundaries of self-affine tiles in R^n,,,,
+math/9703208,Sierksma's Dutch Cheese Problem,,,,
+math/9706215,A general geometric construction for affine surface area,,,,
+math/9707209,The Santalo-regions of a convex body,,,,
+math/9707210,On zonoids whose polars are zonoids,,,,
+math/9710208,"Poincar\'e inequalities and quasiconformal structure on the boundary of
+  some hyperbolic buildings",,,,
+math/9712263,Some Generalizations of the Pinwheel Tiling,,,,
+math/9712264,An Algebraic Invariant for Substitution Tiling Systems,,,,
+math/9712276,On the p-affine surface area,,,,
+math/9802128,Elementary solution to the Busemann-Petty problem,,,,
+math/9804023,Another low-technology estimate in convex geometry,,,,
+math/9804040,Almost-tiling the plane by ellipses,,,,
+math/9806039,"A fractal dimension estimate for a graph-directed IFS of
+  non-similarities",,,,
+math/9806080,A knotted minimal tree,,,,
+math/9806154,On Brillouin Zones,,,,
+math/9807107,"Extremal Approximately Convex Functions and Estimating the Size of
+  Convex Hulls",,,,
+math/9808051,Planar Soap Bubbles,,,,
+math/9809014,"Counting open negatively curved manifolds up to tangential homotopy
+  equivalence",,,,
+math/9810023,Rotations of the three-sphere and symmetry of the Clifford torus,,,,
+math/9812008,Sections of the difference body,,,,
+math/9812010,Distances between non--symmetric convex bodies and the $MM^*$-estimate,,,,
+math/9901148,Rigidity of infinite disk patterns,,,,
+math/9902043,The Average-Case Area of Heilbronn-Type Triangles,,,,
+math/9902131,"M\""obius invariants for pairs of spheres",,,,
+math/9902160,"On traces of $d$-stresses in the skeletons of lower dimensions of
+  homology $d$-manifolds",,,,
+math/9903200,"An analytic solution to the Busemann-Petty problem on sections of convex
+  bodies",,,,
+math/9903205,A positive solution to the Busemann-Petty problem in R^4,,,,
+math/9904047,Discrete versions of the Beckman-Quarles theorem,,,,
+math/9904064,Non-symmetric convex domains have no basis of exponentials,,,,
+math/9904065,On the structure of multiple translational tilings by polygonal regions,,,,
+math/9905018,A Voronoi poset,,,,
+math/9905199,"Some fundamental properties of successive convex relaxation methods on
+  LCP and related problems",,,,
+math/9905204,Continuous rotation invariant valuations on convex sets,,,,
+math/9905212,Menger curvature and rectifiability,,,,
+math/9906001,A discrete form of the Beckman-Quarles theorem for rational eight-space,,,,
+math/9906034,"Uniform partitions of 3-space, their relatives and embedding",,,,
+math/9906062,Embedding of regular tilings and star-honeycomb,,,,
+math/9908086,On the size of approximately convex sets in normed spaces,,,,
+math/9909017,"The codimension one homology of a complete manifold with nonnegative
+  Ricci curvature",,,,
+math/9909172,Densest Lattice Packings of 3-Polytopes,,,,
+math/9909177,Lectures on 0/1-polytopes,,,,

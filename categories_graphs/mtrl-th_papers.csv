@@ -1,0 +1,385 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+cond-mat/9510054,"Underpotential deposition of Cu on Au(111) in sulfate-containing
+  electrolytes: a theoretical and experimental study",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/9503073,"A Method to Study Relaxation of Metastable Phases: Macroscopic
+  Mean-Field Dynamics",1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/9603150,Slow relaxation in granular compaction,1.8950380516170012e-06,0.0,1.0,6.0
+cond-mat/9609189,A Variational Approach to Nonlocal Exciton-Phonon Coupling,1.60698551133943e-06,0.0,1.0,0.0
+cond-mat/9505106,Novel Phases of Planar Fermionic Systems,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9608146,"Size, Shape and Low Energy Electronic Structure of Carbon Nanotubes",1.3189329710618589e-06,0.0,0.0,5.0
+cond-mat/9510103,"Exciton effects and nonlinear optical response in soliton lattice states
+  of doped conjugated polymers",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9507056,Roughness of Randomly Crumpled Elastic Sheets,1.3189329710618589e-06,0.0,0.0,1.0
+mtrl-th/9509005,"Effect of quantum fluctuations on structural phase transitions in
+  SrTiO_3 and BaTiO_3",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9412120,"Magnetization switching in nanoscale ferromagnetic grains: description
+  by a kinetic Ising model",1.3189329710618589e-06,0.0,0.0,2.0
+supr-con/9501001,"Phonon Assisted Multimagnon Optical Absorption and Long Lived Two-Magnon
+  States in Undoped Lamellar Copper Oxides",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9510058,Sliding Friction in the Frenkel-Kontorova Model,1.3189329710618589e-06,0.0,0.0,1.0
+mtrl-th/9501006,"Density-Polarization Functional Theory of the response of a periodic
+  insulating solid to an electric field.",1.3189329710618589e-06,0.0,0.0,1.0
+mtrl-th/9509004,"The de Haas-van Alphen effect in canonical and grand canonical multiband
+  Fermi liquid",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9602097,Stress-free Spatial Anisotropy in Phase-Ordering,1.3189329710618589e-06,0.0,0.0,1.0
+mtrl-th/9603005,Deformation of Small Compressed Droplets,1.3189329710618589e-06,0.0,0.0,1.0
+mtrl-th/9601001,Coulomb interaction and ferroelectric instability of BaTiO3,1.3189329710618589e-06,0.0,0.0,1.0
+mtrl-th/9502004,"First-principles theory of ferroelectric phase transitions for
+  perovskites: The case of BaTiO3",1.3189329710618589e-06,0.0,0.0,1.0
+mtrl-th/9603006,A Model for the Elasticity of Compressed Emulsions,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9411111,"Gamma phonons and microscopic structure of orthorhombic KNbO3 from
+  first-principles calculations",1.3189329710618589e-06,0.0,0.0,1.0
+mtrl-th/9503008,A direct pathway for sticking/desorption of H$_2$ on Si(100),1.3189329710618589e-06,0.0,0.0,1.0
+mtrl-th/9412004,Theory of adsorption and desorption of H_2/Si(001),1.3189329710618589e-06,0.0,0.0,1.0
+comp-gas/9507001,A Lattice-Gas Model of Microemulsions,1.3189329710618589e-06,0.0,0.0,1.0
+chem-ph/9411002,Packing Transitions in Nanosized Li Clusters,,,,
+chem-ph/9504002,Metal-Insulator Transition in C60-Polymers,,,,
+chem-ph/9507001,"The Markoff-Automaton - a New Algorithm for Simulating the
+  Time--Evolution of Large Stochastic Dynamic Systems",,,,
+chem-ph/9508001,A generalized local approximation to the exchange potential,,,,
+chem-ph/9512008,"He Scattering from Compact Clusters and from Diffusion-Limited
+  Aggregates on Surfaces: Observable Signatures of Structure",,,,
+chem-ph/9603007,"Motional diminishing of optical activity: a novel method for studying
+  molecular dynamics in liquids and plastic crystals",,,,
+chem-ph/9605004,On the Stability of Endohedral Rare Gas Fullerenes,,,,
+chem-ph/9606001,Charge transfer excitons in C60-dimers and polymers,,,,
+chem-ph/9607001,Stability and Teller's Theorem: A Thomas-Fermi Theory of Fullerenes,,,,
+chem-ph/9607002,"On a Thomas-Fermi model of ""hollow"" atom",,,,
+chem-ph/9608004,Relation between a Screened Polyelectrolyte and a Field Theory,,,,
+cond-mat/9411027,"Exciton effects in soliton and bipolaron lattice states of doped
+  electron-phonon Peierls systems",,,,
+cond-mat/9411050,"Many-body and Covalence Effects in the Polarization of Ferroelectric
+  Perovskites",,,,
+cond-mat/9411083,Dynamic Scaling of Ion-Sputtered Surfaces,,,,
+cond-mat/9411121,"Deviations from Fermi-liquid behavior above $T_c$ in 2D short coherence
+  length superconductors",,,,
+cond-mat/9502050,"Use of the Generalized Gradient Approximation in Pseudopotential
+  Calculations of Solids",,,,
+cond-mat/9502051,"Theoretical Study of Cubic Structures Based on Fullerene Carbon
+  Clusters: C$_{28}$C and (C$_{28})_{2}$",,,,
+cond-mat/9502054,Disorder-Driven Pretransitional Tweed in Martensitic Transformations,,,,
+cond-mat/9502105,Model for the thermal conductivity of a quasicrystalline alloy,,,,
+cond-mat/9502112,"Magnetocrystalline Anisotropy Energy of a Transition Metal Monolayer: A
+  Non-perturbative Theory",,,,
+cond-mat/9503023,"On thermoelastic phenomena around orientational ordering transition in
+  crystalline C60",,,,
+cond-mat/9503050,"Microscopic Modeling of the Growth of Order in an Alloy: Nucleated and
+  Continuous Ordering",,,,
+cond-mat/9503053,"Excitons in soliton and bipolaron lattice states of doped Peierls
+  systems",,,,
+cond-mat/9503125,Doping Effects and Electronic States in C60-Polymers,,,,
+cond-mat/9503159,Temperature dependence of surface reconstructions of Au on Pd(110),,,,
+cond-mat/9505013,Viscosities of the Gay-Berne nematic liquid crystal,,,,
+cond-mat/9505057,"Surface States, Surface Metal-Insulator, and Surface Insulator-Metal
+  Transitions",,,,
+cond-mat/9505075,Projection of plane-wave calculations into atomic orbitals,,,,
+cond-mat/9505094,"Existence of long-range order in the steady state of a two dimensional,
+  two-temperature XY model",,,,
+cond-mat/9505133,Metallic and insulating states in two-dimensional C60-polymers,,,,
+cond-mat/9505151,Hohenberg-Kohn theorem is valid,,,,
+cond-mat/9506003,"Nonlinear optical response from excitons in soliton lattice systems of
+  doped conjugated polymers",,,,
+cond-mat/9506025,Lattice-Gas Models of Adsorption in the Double Layer,,,,
+cond-mat/9506086,"Adaptive coordinate, real-space electronic structure calculations on
+  parallel computers",,,,
+cond-mat/9506128,"Strongly-interacting model for antiferromagnetism in one-dimensional
+  C60-polymers: A1C60",,,,
+cond-mat/9507068,Elastic forces that do no work and the dynamics of fast cracks,,,,
+cond-mat/9507079,Swelling Kinetics of Layered Structures: Triblock Copolymer Mesogels,,,,
+cond-mat/9507104,"Prediction of an undimerized, insulating, antiferromagnetic ground-state
+  in halogen-bridged linear-chain Ni compounds",,,,
+cond-mat/9507133,Occupation numbers in density-functional calculations,,,,
+cond-mat/9508016,A reaction-diffusion model for the hydration/setting of cement,,,,
+cond-mat/9508025,Diffusion processes and growth on stepped metal surfaces,,,,
+cond-mat/9508032,"Structure and Magnetism of Fe/Si Multilayers Grown by Ion-Beam
+  Sputtering",,,,
+cond-mat/9508097,"First-principles molecular dynamics of liquid alkali metals based on the
+  quantal hyper-netted chain theory",,,,
+cond-mat/9509032,"Response of Kinetic Ising System to Oscillating External Fields:
+  Amplitude and Frequency Dependence",,,,
+cond-mat/9509053,"Analysis of atomic-orbital basis sets from the projection of plane-wave
+  results",,,,
+cond-mat/9509104,Non-uniform deformations in liquid crystalline elastomers,,,,
+cond-mat/9509107,"Surface energy and stability of stress-driven discommensurate surface
+  structures",,,,
+cond-mat/9509114,"Dynamical Jahn-Teller Effect and Berry Phase in Positively Charged
+  Fullerene I. Basic Considerations",,,,
+cond-mat/9509127,Theory of interstitial oxygen in silicon and germanium,,,,
+cond-mat/9509164,"Oscillatory Thickness Dependence of Magnetic Moments and
+  interface-induced Changes of the Exchange Coupling in Co/Cu and Co-Ni/Cu
+  Multilayers",,,,
+cond-mat/9509167,"Numerical Studies on the Magnetism of Fe-Ni-Mn Alloys in the Invar
+  Region",,,,
+cond-mat/9510010,Dislocation Mediated Melting Near Isostructural Critical Points,,,,
+cond-mat/9510141,A fractal model for the first stages of thin film growth,,,,
+cond-mat/9511039,"Stochastic Model for Surface Erosion Via Ion-Sputtering: Dynamical
+  Evolution from Ripple Morphology to Rough Morphology",,,,
+cond-mat/9512013,Non-collinear magnetism in Al-Mn topologically disordered systems,,,,
+cond-mat/9512041,Effect of Crack Blunting on Subsequent Crack Propagation,,,,
+cond-mat/9512052,"Atomic and electronic structure of ideal and reconstructed $\alpha$-Sn
+  (111) surface",,,,
+cond-mat/9512110,"Analytical and computational study of magnetization switching in kinetic
+  Ising systems with demagnetizing fields",,,,
+cond-mat/9512122,"Role of Layering Oscillations at Liquid Metal Surfaces in Bulk
+  Recrystallization and Surface Melting",,,,
+cond-mat/9601002,"Selfconsistent order-N density-functional calculations for very large
+  systems",,,,
+cond-mat/9601010,Optical absorption spectra and geometric effects in higher fullerenes,,,,
+cond-mat/9602079,"Nonlinear Optical Response from Excitons in Soliton Lattice Systems of
+  Doped Conducting Polymers",,,,
+cond-mat/9603080,"First principles studies of modulated Co/Cu superlattices with strongly
+  and weakly exchange biased Co-monolayers",,,,
+cond-mat/9604086,Stable distribution in fragmentation processes,,,,
+cond-mat/9604089,Multifractality and multiscaling in two dimensional fragmentation,,,,
+cond-mat/9604113,Electronic Structures in C60-Polymers (review),,,,
+cond-mat/9604132,"Charge transfer excitons in optical absorption spectra of C60-dimers and
+  polymers",,,,
+cond-mat/9605005,"Calculated optical properties of Si, Ge, and GaAs under hydrostatic
+  pressure",,,,
+cond-mat/9605010,"Nonequilibrium brittle fracture propagation: Steady state, oscillations
+  and intermittency",,,,
+cond-mat/9605101,Anharmonic Decay of Vibrational States in Amorphous Silicon,,,,
+cond-mat/9605184,Electrostriction of Polar Glasses,,,,
+cond-mat/9606022,"Multiple-Scattering Theory of X-Ray Magnetic Circular Dichroism:
+  Implementation and Results for Iron K-edge",,,,
+cond-mat/9606059,"Surprises in the Orbital Magnetic Moment and g-Factor of the Dynamic
+  Jahn-Teller Ion C_{60}^-",,,,
+cond-mat/9606119,Exact results concerning multifield moduli of two-phase composites,,,,
+cond-mat/9606158,Statistics and Microphysics of the Fracture of Glass,,,,
+cond-mat/9606209,Electron Wave Filters from Inverse Scattering Theory,,,,
+cond-mat/9607008,"Theoretical study of hydrogen-covered diamond (100) surfaces: A chemical
+  potential analysis",,,,
+cond-mat/9607156,Event-based relaxation of continuous disordered systems,,,,
+cond-mat/9609002,Nonlinear optical response from excitons in soliton lattice systems,,,,
+cond-mat/9609168,"Long-Range Excitons in Optical Absorption Spectra of Electroluminescent
+  Polymer Poly(para-phenylenevinylene)",,,,
+mtrl-th/9411001,"Band gap and stability in the ternary intermetallic compounds NiSnM (M =
+  Ti, Zr, Hf): A first principles study",,,,
+mtrl-th/9411002,"Reciprocal Space Analysis of Short Range Order Intensities by the
+  Cluster Variation Method",,,,
+mtrl-th/9411003,Frustrated H-Induced Instability of Mo(110),,,,
+mtrl-th/9411004,Three-dimensional electronic instabilities in polymerized solid A1C60,,,,
+mtrl-th/9411005,Competing structural instabilities in cubic perovskites,,,,
+mtrl-th/9411006,"Localized Basis for Effective Lattice Hamiltonians: Lattice Wannier
+  Functions",,,,
+mtrl-th/9411007,"Density-Functional-Based Determination of the CH3-CH4 Hydrogen Exchange
+  Reaction Barrier",,,,
+mtrl-th/9411008,"High-dimensional quantum dynamics of adsorption and desorption of H$_2$
+  at Cu(111)",,,,
+mtrl-th/9411009,"Order-N Density-Matrix Electronic-Structure Method for General
+  Potentials",,,,
+mtrl-th/9412001,"Born Effective Charges of Barium Titanate: band by band decomposition
+  and sensitivity to structural features",,,,
+mtrl-th/9412002,Commensurate and modulated magnetic phases in orthorhombic A1C60,,,,
+mtrl-th/9412003,Real Space Approach to Electronic-Structure Calculations,,,,
+mtrl-th/9412005,"Scalable Parallel Numerical Methods and Software Tools for Material
+  Design",,,,
+mtrl-th/9412006,"Total energy global optimizations using non orthogonal localized
+  orbitals",,,,
+mtrl-th/9412007,"Ab-initio Calculations of Energies and Self-Diffusion on Flat and
+  Stepped Surfaces of Al and their Implications on Crystal Growth",,,,
+mtrl-th/9412008,"First-Principles Determination of Chain-Structure Instability in
+  KNbO$_3$",,,,
+mtrl-th/9501001,Phase Coexistence of a Stockmayer Fluid in an Applied Field,,,,
+mtrl-th/9501002,"Localized Excitons and Breaking of Chemical Bonds at III-V (110)
+  Surfaces",,,,
+mtrl-th/9501003,Theory of alkali metal adsorption on close-packed metal surfaces,,,,
+mtrl-th/9501004,Electronic structure of intentionally disordered AlAs/GaAs superlattices,,,,
+mtrl-th/9501005,A Self-Consistent First-Principles Technique Having Linear Scaling,,,,
+mtrl-th/9502001,A Classification Scheme for Toroidal Molecules,,,,
+mtrl-th/9502002,First-principle study of excitonic self-trapping in diamond,,,,
+mtrl-th/9502003,Frustrated H-induced Instability of Mo(110),,,,
+mtrl-th/9502005,Static displacements and chemical correlations in alloys,,,,
+mtrl-th/9502006,"The Static, Dynamic and Electronic Properties of Liquid Gallium Studied
+  by First-Principles Simulation",,,,
+mtrl-th/9503001,"Ab initio studies of structural instabilities in magnesium silicate
+  perovskite",,,,
+mtrl-th/9503002,Structure and shear response in nanometer thick films,,,,
+mtrl-th/9503003,"Application of a new Tight-Binding method for transition metals:
+  Manganese",,,,
+mtrl-th/9503004,Ab initio Molecular Dynamics in Adaptive Coordinates,,,,
+mtrl-th/9503005,"Atomistic Aspects of Diffusion and Growth on the Si and Ge (111)
+  Surfaces",,,,
+mtrl-th/9503006,Electronic-structure-induced deformations of liquid metal clusters,,,,
+mtrl-th/9503007,High Pressure Effects on Thermal Properties of MgO,,,,
+mtrl-th/9503009,Electrostatic Energy Calculations for Molecular Dynamics,,,,
+mtrl-th/9504001,"Study of Oxygen Diffusion and Clustering in Silicon using an Empirical
+  Interatomic Potential",,,,
+mtrl-th/9505001,"The Energetics and Electronic Structure of Defective and Irregular
+  Surfaces on MgO",,,,
+mtrl-th/9505002,"Chemical Hardness, Linear Response, and Pseudopotential Transferability",,,,
+mtrl-th/9505003,Monte-Carlo simulations of the recombination dynamics in porous silicon,,,,
+mtrl-th/9505004,ELECTRONIC STRUCTURE OF FeSi,,,,
+mtrl-th/9505005,Fracture driven by a Thermal Gradient,,,,
+mtrl-th/9505006,Periodic Slab LAPW Computations for Ferroelectric BaTiO$_3$,,,,
+mtrl-th/9505007,"A scaling hypothesis for corrections to total energy and stress in
+  plane- wave based ab initio calculations",,,,
+mtrl-th/9505008,"Polymorphism and metastability in NbN: Structural predictions from first
+  principles",,,,
+mtrl-th/9505009,Ferroelectric Phase Transitions from First Principles,,,,
+mtrl-th/9505010,Metastability of NbN in the ordered vacancy NbO phase,,,,
+mtrl-th/9505011,The Structure of the Stoichiometric and Reduced SnO2 (110) Surface,,,,
+mtrl-th/9506001,"Insulator-metal transition in solid hydrogen: Implication of electronic
+  structure calculations for recent experiments",,,,
+mtrl-th/9506002,Complex ion formation in liquid Ag-Se alloys,,,,
+mtrl-th/9506003,Mechanism of Laser Induced Compaction,,,,
+mtrl-th/9506004,Molecular geometry optimization with a genetic algorithm,,,,
+mtrl-th/9506005,Real-Space Adaptive-Coordinate Electronic Structure Calculations,,,,
+mtrl-th/9506006,"Large Scale Electronic Structure Calculations with Multigrid
+  Acceleration",,,,
+mtrl-th/9506007,"Spin-polarization-induced structural selectivity in Pd$_3X$ and Pt$_3X$
+  ($X=3d$) compounds",,,,
+mtrl-th/9506008,Ab-initio simulation of high-temperature liquid selenium,,,,
+mtrl-th/9506009,Structural and Magnetic Properties of Trigonal Iron,,,,
+mtrl-th/9507001,"Six-Dimensional Quantum Dynamics of Adsorption and Desorption of H_2 at
+  Pd(100): Steering and Steric Effects",,,,
+mtrl-th/9507002,The Ab-Initio Simulation of the Liquid Ga-Se System,,,,
+mtrl-th/9507003,"Localization and band-gap pinning in semiconductor superlattices with
+  layer-thickness fluctuations",,,,
+mtrl-th/9508001,Water Chemisorption and Reconstruction of the MgO Surface,,,,
+mtrl-th/9508002,Interlayer Coupling in Magnetic/Pd Multilayers,,,,
+mtrl-th/9508003,"Spin-dependent resonant tunneling through semimetallic ErAs quantum
+  wells",,,,
+mtrl-th/9508004,"Band structure analysis of the conduction-band mass anisotropy in 6H and
+  4H SiC",,,,
+mtrl-th/9508005,"Comparison of the Electronic Structures and Energetics of Ferroelectric
+  LiNbO3 and LiTaO3",,,,
+mtrl-th/9508006,"Density-Functional Theory of the nonlinear optical susceptibility:
+  application to cubic semiconductors",,,,
+mtrl-th/9508007,"The Effect of Strain on Thermodynamics of the Weakly First-Order Phase
+  Transition",,,,
+mtrl-th/9508008,Towards a Linear-Scaling DFT Technique: The Density Matrix Approach,,,,
+mtrl-th/9508009,"The Adsorption of H2O on TiO2 and SnO2(110) Studied by First-Principles
+  Calculations",,,,
+mtrl-th/9508010,"The Influence of Gradient Corrections on Bulk and Surface Properties of
+  TiO2 and SnO2",,,,
+mtrl-th/9508011,Theoretical Study of One-dimensional Chains of Metal Atoms in Nanotubes,,,,
+mtrl-th/9509001,Electronic Structure and Valence Band Spectra of Bi4Ti3O12,,,,
+mtrl-th/9509002,"Ab initio study of the volume dependence of dynamical and
+  thermodynamical properties of silicon",,,,
+mtrl-th/9509003,Stability of Liquid Crystalline Macroemulsions,,,,
+mtrl-th/9509006,First-principles investigation of 180-degree domain walls in BaTiO_3,,,,
+mtrl-th/9510001,"Composition Dependence of the Structure and Electronic Properties of
+  Liquid Ga-Se Alloys Studied by Ab Initio Molecular Dynamics Simulation",,,,
+mtrl-th/9510002,"Pressure Dependence of Born Effective Charges, Dielectric Constant and
+  Lattice Dynamics in SiC",,,,
+mtrl-th/9510003,"Molecular Dynamics Simulation of Electron Trapping in the Sapphire
+  Lattice",,,,
+mtrl-th/9510004,"Enhanced electron-phonon coupling at the Mo and W(110) surfaces induced
+  by adsorbed hydrogen",,,,
+mtrl-th/9510005,"Ab initio pseudopotential study of Fe, Co, and Ni employing the
+  spin-polarized LAPW approach",,,,
+mtrl-th/9510006,Theoretical study of O adlayers on Ru(0001),,,,
+mtrl-th/9511001,Unusually Large Thermal Expansion of Ag(111),,,,
+mtrl-th/9511002,"Force calculation and atomic-structure optimization for the
+  full-potential linearized augmented plane-wave code WIEN",,,,
+mtrl-th/9511003,"Parallelisation of algorithms for ab initio computation of material
+  properties",,,,
+mtrl-th/9511004,Potential Energy Surface for H_2 Dissociation over Pd(100),,,,
+mtrl-th/9511005,"A model of linear chain submonolayer structures. Application to
+  Li/W(112) and Li/Mo(112)",,,,
+mtrl-th/9511006,"Adlayer core-level shifts of admetal monolayers on transition metal
+  substrates and their relation to the surface chemical reactivity",,,,
+mtrl-th/9511007,"Scattering of rare-gas atoms at a metal surface: evidence of
+  anticorrugation of the helium-atom potential-energy surface and the surface
+  electron density",,,,
+mtrl-th/9511008,"The Effective Particle-Hole Interaction and the Optical Response of
+  Simple Metal Clusters",,,,
+mtrl-th/9511009,"Role of Self-Interaction Effects in the Geometry Optimization of Small
+  Metal Clusters",,,,
+mtrl-th/9512001,"Formation Energy, Stress, and Relaxations of Low-Index Rhodium Surfaces",,,,
+mtrl-th/9512002,Wetting of the Au(110) substrate: Homoepitaxial islands and layers,,,,
+mtrl-th/9512003,First-Principles Calculation of the Structure of Mercury,,,,
+mtrl-th/9512004,Separable Dual Space Gaussian Pseudo-potentials,,,,
+mtrl-th/9512005,Linear-Response Calculation of Electron-Phonon Coupling Parameters,,,,
+mtrl-th/9601002,Semiconductor effective charges from tight-binding theory,,,,
+mtrl-th/9601003,"Development of a Kohn-Sham like potential in the Self-Consistent Atomic
+  Deformation Model",,,,
+mtrl-th/9602001,"The Structure, Dynamics and Electronic Structure of Liquid Ag-Se Alloys
+  Investigated by Ab Initio Simulation",,,,
+mtrl-th/9602002,Third order dielectric susceptibility in a model quantum paraelectric,,,,
+mtrl-th/9602003,"Applications of a tight-binding total energy method for transition and
+  noble metals: Elastic Constants, Vacancies, and Surfaces of Monatomic Metals",,,,
+mtrl-th/9602004,"Statistical Properties of the Dense Hydrogen Plasma: an ab initio
+  Molecular Dynamics Investigation",,,,
+mtrl-th/9603001,Density functional theory study of Na at Al(111) and O at Ru(0001),,,,
+mtrl-th/9603002,"Dynamical Quantum Processes of Molecular Beams at Surfaces: Dissociative
+  Adsorption of Hydrogen on Metal Surfaces",,,,
+mtrl-th/9603003,"Six-Dimensional Quantum Dynamics of Adsorption and Desorption of H_2 at
+  Pd(100): No Need for a Molecular Precursor Adsorption State",,,,
+mtrl-th/9603004,Vibrational Spectra of Defects in Silicon: An Orbital Radii Approach,,,,
+mtrl-th/9603007,"First-principles study of stability and vibrational properties of
+  tetragonal PbTiO_3",,,,
+mtrl-th/9603008,"Mechanism of Poisoning the Catalytic Activity of Pd(100) by a Sulfur
+  Adlayer",,,,
+mtrl-th/9603009,On metallic clusters squeezed in atomic cages,,,,
+mtrl-th/9604001,Modeling of Dislocation Structures in Materials,,,,
+mtrl-th/9604002,On The Low-Frequency Vibrational Modes of C$_{60}$,,,,
+mtrl-th/9604003,Inelastic Collapse of Three Particles,,,,
+mtrl-th/9604004,"Structure, barriers and relaxation mechanisms of kinks in the 90-degree
+  partial dislocation in silicon",,,,
+mtrl-th/9604005,"Modeling of Covalent Bonding in Solids by Inversion of Cohesive Energy
+  Curves",,,,
+mtrl-th/9604006,"Generalized Stacking Fault Energy Surfaces and Dislocation Properties of
+  Silicon: A First-Principles Theoretical Study",,,,
+mtrl-th/9604007,"Slip energy barriers in aluminum and implications for ductile versus
+  brittle behavior",,,,
+mtrl-th/9604008,Magnetic susceptibility of insulators from first principles,,,,
+mtrl-th/9605001,The Melting Curve and Premelting of MgO,,,,
+mtrl-th/9605002,"Anomalies in He atom scattering spectra of the H-covered Mo(110) and
+  W(110) surfaces",,,,
+mtrl-th/9606001,Semiempirical Hartree-Fock calculations for KNbO3,,,,
+mtrl-th/9606002,Multigrid Methods in Electronic Structure Calculations,,,,
+mtrl-th/9606003,Phonon softening and superconductivity in tellurium under pressure,,,,
+mtrl-th/9606004,"Effects of crack tip geometry on dislocation emission and cleavage: A
+  possible path to enhanced ductility",,,,
+mtrl-th/9606005,Structure and Stability of Si(114)-(2x1),,,,
+mtrl-th/9607001,Point-charge electrostatics in disordered alloys,,,,
+mtrl-th/9607002,Inhibited Al diffusion and growth roughening on Ga-coated Al (100),,,,
+mtrl-th/9607003,Gross and Scheffler Reply,,,,
+mtrl-th/9607004,"Potential, core-level and d band shifts at transition metal surfaces",,,,
+mtrl-th/9607005,The GaAs Equilibrium Crystal Shape from First-Principles,,,,
+mtrl-th/9607006,Influence of molecular vibrations on dissociative adsorption,,,,
+mtrl-th/9607007,Anisotropy of Growth of the Close-Packed Surfaces of Silver,,,,
+mtrl-th/9607008,Reconstructions and faceting of H-covered Al(111),,,,
+mtrl-th/9607009,Variational quantum Monte Carlo ground state of GaAs,,,,
+mtrl-th/9607010,"Scattering of hydrogen molecules from a reactive surface: Strong
+  off-specular and rotationally inelastic diffraction",,,,
+mtrl-th/9607011,Ab initio Molecular Dynamics Study of D_2 Desorption from Si(100),,,,
+mtrl-th/9607012,"The equilibrium shape of InAs quantum dots grown on a GaAs(001)
+  substrate",,,,
+mtrl-th/9607013,Local Isoelectronic Reactivity of Solid Surfaces,,,,
+mtrl-th/9607014,"Structure and stability of a high-coverage (1x1) oxygen phase on
+  Ru(0001)",,,,
+mtrl-th/9607015,"Microscopic Estimates for Electromigration Velocities of Intragranular
+  Voids in Aluminum Lines",,,,
+mtrl-th/9608001,"Ab initio statistical mechanics of the ferroelectric phase transition in
+  PbTiO3",,,,
+mtrl-th/9608002,"Ab-initio study of the anomalies in the He atom scattering spectra of
+  H/Mo(110) and H/W(110)",,,,
+mtrl-th/9608003,Polymers in Curved Boxes,,,,
+mtrl-th/9608004,"Anomalous effective charges and far IR optical absorption of Al$_2$Ru
+  from first principles",,,,
+mtrl-th/9608005,Reciprocity Theorems for Ab Initio Force Calculations,,,,
+mtrl-th/9608006,Band Structure and Transport Properties of CrO_2,,,,
+mtrl-th/9608007,Reconstruction and thermal stability of the cubic SiC(001) surfaces,,,,
+mtrl-th/9608008,"Ab initio simulations of liquid systems: Concentration dependence of the
+  electric conductivity of NaSn alloys",,,,
+mtrl-th/9609001,"Correlation effects in MgO and CaO: Cohesive energies and lattice
+  constants",,,,
+mtrl-th/9609002,"Surface Effects in Ferroelectrics: Periodic Slab Computations for
+  BaTiO_3",,,,
+mtrl-th/9609003,Basis Functions for Linear-Scaling First-Principles Calculations,,,,
+mtrl-th/9609004,Substrate-adsorbate coupling in CO-adsorbed copper,,,,
+mtrl-th/9609005,Ab initio molecular dynamics study of the desorption of D_2 from Si(100),,,,
+mtrl-th/9609006,Role of defects and impurities in doping of GaN,,,,
+mtrl-th/9609007,Reconstructions of Ir (110) and (100): an ab initio study,,,,
+mtrl-th/9609008,Strained tetragonal states and Bain paths in metals,,,,
+mtrl-th/9609009,"Steering and isotope effects in the dissociative adsorption of
+  H_2/Pd(100)",,,,
+mtrl-th/9609010,Diffusivity of Ga and Al adatoms on GaAs(001),,,,
+mtrl-th/9609011,A Model for the Thermal Expansion of Ag(111) and other Metal Surfaces,,,,
+mtrl-th/9609012,Theory of Alkali Induced Reconstruction of the Cu(100) Surface,,,,
+patt-sol/9604002,Solitonic-exchange mechanism of surface~diffusion,,,,
+patt-sol/9604003,Mobility and diffusivity in a generalized Frenkel-Kontorova model,,,,
+supr-con/9507007,Nonlinear optical response in doped conjugated polymers,,,,

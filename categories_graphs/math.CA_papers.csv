@@ -1,0 +1,1341 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+math/0703826,The electrical response matrix of a regular 2n-gon,6.950047958589808e-05,0.0,4.0,1.0
+math/0503507,Advanced Determinant Calculus: A Complement,5.760414364075261e-05,2.1322375286169986e-05,57.0,5.0
+math/0701010,Hopf algebras in dynamical systems theory,4.12218618226872e-05,8.607995686492974e-07,9.0,1.0
+math/0312182,Selection principles in mathematics: A milestone of open problems,3.734613162876484e-05,0.0,22.0,3.0
+math/0612833,"Polynomials, roots, and interlacing",3.668491773890936e-05,9.95091377580036e-06,20.0,1.0
+math/0607416,Polya-Schur master theorems for circular domains and their boundaries,3.288608881202597e-05,7.960731020640288e-06,2.0,4.0
+hep-th/0612240,"All order epsilon-expansion of Gauss hypergeometric functions with
+  integer and half/integer values of parameters",2.715298085826005e-05,0.0,44.0,0.0
+math/0606391,"Multivariable Christoffel-Darboux Kernels and Characteristic Polynomials
+  of Random Hermitian Matrices",2.2990234613023757e-05,3.9729394552635765e-06,16.0,2.0
+math/0601455,Breaking the duality in the return times theorem,2.2184175322275635e-05,0.0,3.0,0.0
+math/0702220,"Choquet order for spectra of higher Lame operators and orthogonal
+  polynomials",2.030176205204154e-05,0.0,4.0,1.0
+math/0701883,Root asymptotics of spectral polynomials for the Lame operator,2.0127168606566885e-05,3.980365510320144e-06,4.0,2.0
+math/0703057,Towards Finite-Gap Integration of the Inozemtsev Model,1.8931666999203596e-05,0.0,27.0,0.0
+math/0603453,"Pure point diffraction and cut and project schemes for measures: The
+  smooth case",1.603405706831587e-05,0.0,7.0,1.0
+math-ph/0308036,"Discrete Painlev\'e equations, Orthogonal Polynomials on the Unit Circle
+  and $N$-recurrences for averages over U(N) -- \PVI $\tau$-functions",1.531462875446559e-05,1.990182755160072e-06,7.0,2.0
+math/0312321,Convexity properties of twisted root maps,1.47662584465938e-05,5.970548265480216e-06,3.0,2.0
+math-ph/0609067,Rational solutions of Knizhnik-Zamolodchikov system,1.407682793272778e-05,0.0,2.0,0.0
+math/0403117,"Unitary matrix functions, wavelet algorithms, and structural properties
+  of wavelets",1.366305882247546e-05,0.0,7.0,1.0
+math/0601192,Wiener-Wintner for Hilbert Transform,1.3158287777260763e-05,0.0,4.0,1.0
+math/0702404,"Rational solutions of KZ equation, case $S_4$",1.2924617771617494e-05,0.0,1.0,0.0
+math/0309242,Summation formulae for elliptic hypergeometric series,1.2691832584150314e-05,0.0,6.0,0.0
+math-ph/0703028,"Complex Zeros of Eigenfunctions of 1D Schr\""odinger Operators",1.2382086199844191e-05,0.0,2.0,1.0
+math/0603660,Choosing roots of polynomials with symmetries smoothly,1.163268000218284e-05,0.0,6.0,0.0
+math/0610278,Sums of squares from elliptic pfaffians,1.1393597724485478e-05,0.0,3.0,2.0
+math/0504272,Sums of triangular numbers from the Frobenius determinant,1.1291322809819278e-05,1.632213378229586e-06,4.0,3.0
+math/0402382,The Highly Oscillatory Behavior of Automorphic Distributions for SL(2),1.1255697742849651e-05,0.0,3.0,1.0
+math/0603086,"Schur Q-polynomials, multiple hypergeometric series and enumeration of
+  marked shifted tableaux",1.108273640760346e-05,0.0,2.0,2.0
+math/0612730,"The Relationship between Zhedanov's Algebra AW(3) and the Double Affine
+  Hecke Algebra in the Rank One Case",1.0987760733895806e-05,0.0,7.0,0.0
+math/0505248,An elliptic determinant transformation,1.091739087170594e-05,0.0,4.0,0.0
+math/0507087,Rational curves and ordinary differential equations,1.0831924955004526e-05,2.985274132740108e-06,6.0,2.0
+math/0512142,"Boundary conditions associated with the Painlev\'e III' and V
+  evaluations of some random matrix averages",1.045847953388944e-05,0.0,1.0,1.0
+math-ph/0309005,"Lam\'e polynomials, hyperelliptic reductions and Lam\'e band structure",1.0427431347805822e-05,2.3907466891079275e-05,13.0,5.0
+nlin/0105002,"Monodromy deformation approach to the scaling limit of the Painleve
+  first equation",1.0412433199477127e-05,2.3076298063087893e-06,3.0,2.0
+math-ph/0703009,The diagonal Ising susceptibility,1.0378996802442272e-05,0.0,6.0,0.0
+math/0307008,"Carleson's Theorem: Proof, Complements, Variations",1.0372498306289105e-05,0.0,9.0,1.0
+math-ph/0111007,"Fredholm determinants, Jimbo-Miwa-Ueno tau-functions, and representation
+  theory",1.0159585434371403e-05,2.482723058670678e-05,28.0,10.0
+math/0606092,Projection formulas for orthogonal polynomials,9.860659741162004e-06,0.0,5.0,0.0
+nlin/0211022,Monodromy approach to the scaling limits in the isomonodromy systems,9.779542008208115e-06,1.0962992192861668e-05,4.0,2.0
+math/0701936,Fuchsian equations of type DN,9.681764381280855e-06,0.0,1.0,0.0
+math/0402024,Measures in wavelet decompositions,9.445481869092534e-06,0.0,2.0,1.0
+math/0509157,Some composition determinants,9.347714780729851e-06,0.0,1.0,0.0
+math-ph/0703012,"An Explicit Formula for Symmetric Polynomials Related to the
+  Eigenfunctions of Calogero-Sutherland Models",9.141929935616016e-06,0.0,13.0,0.0
+math/0701436,Generalized elliptic integrals,8.987551457287702e-06,0.0,4.0,0.0
+math/0507430,Tables of Calabi--Yau equations,8.91205409864222e-06,7.96865214603396e-06,11.0,5.0
+math/0703256,"Finite-gap potential, Heun's differential equation and WKB analysis",8.800228758158853e-06,0.0,2.0,0.0
+math-ph/0407065,Averages of Characteristic Polynomials in Random Matrix Theory,8.798211216923035e-06,3.797295383774005e-05,6.0,6.0
+quant-ph/0604075,"Weyl's symbols of Heisenberg operators of canonical coordinates and
+  momenta as quantum characteristics",8.776033298620755e-06,1.990182755160072e-06,3.0,1.0
+math-ph/0702040,Antisymmetric Orbit Functions,8.754758355833327e-06,0.0,6.0,0.0
+math/0601272,Lectures on Nehari's Theorem on the Polydisk,8.570112477588491e-06,0.0,6.0,0.0
+math/0611240,Tempering the polylogarithm,8.414244520784264e-06,5.970548265480216e-06,2.0,2.0
+math/0512293,"Electrostatic models for zeros of polynomials: old, new, and some open
+  problems",8.197829878872718e-06,0.0,4.0,0.0
+math/0612153,Rational Solution of the KZ equation (example),8.10914229172648e-06,0.0,1.0,0.0
+math/0109194,"Harmonic analysis on the infinite-dimensional unitary group and
+  determinantal point processes",7.994469429877e-06,3.3062821267643874e-05,19.0,17.0
+math/0603408,"On Orthogonality Relations for Dual Discrete q-Ultraspherical
+  Polynomials",7.881964898116925e-06,0.0,5.0,0.0
+math/0601600,Maximal and linearly inextensible polynomials,7.880154405929661e-06,0.0,3.0,0.0
+math/0309445,"Some continuous analogs of expansion in Jacobi polynomials and vector
+  valued hypergeometric orthogonal bases",7.826285860409866e-06,3.980365510320144e-06,5.0,2.0
+math/0509642,"Function spaces associated with Schroedinger operators: the
+  Poeschl-Teller potential",7.723900567206674e-06,0.0,9.0,0.0
+math-ph/0111008,Discrete gap probabilities and discrete Painleve equations,7.700010424684362e-06,3.186808188096894e-05,18.0,11.0
+math/0402386,"Differential equations, mirror maps and zeta values",7.59338140953275e-06,3.980365510320144e-06,12.0,4.0
+hep-th/0509040,"Matrix model eigenvalue integrals and twist fields in the su(2)-WZW
+  model",7.464967068993746e-06,9.024533602459172e-06,23.0,3.0
+math/0606085,"Limits of BC-type orthogonal polynomials as the number of variables goes
+  to infinity",7.451797421380246e-06,0.0,12.0,0.0
+math/0611639,Macdonald Polynomials and Multivariable Basic Hypergeometric Series,7.438015161187371e-06,0.0,11.0,0.0
+math/0405309,"LU factorizations, q=0 limits, and p-adic interpretations of some
+  q-hypergeometric orthogonal polynomials",7.40119504379655e-06,0.0,9.0,4.0
+math-ph/0508065,"Finding Liouvillian first integrals of rational ODEs of any order in
+  finite terms",7.3955508779886174e-06,0.0,4.0,0.0
+math-ph/0512038,Transformation Groups on Real Plane and their Differential Invariants,7.361240263151084e-06,0.0,8.0,0.0
+math/0503043,Six results on Painleve VI,7.300947249891369e-06,2.425234639393987e-05,7.0,2.0
+math/0308286,An uncertainty principle for cyclic groups of prime order,7.181154179372313e-06,0.0,4.0,5.0
+nlin/0408027,On a 'Mysterious' Case of a Quadratic Hamiltonian,7.159195589914549e-06,0.0,4.0,0.0
+math/0403510,Expressions for values of the gamma function,7.147942176641303e-06,0.0,2.0,0.0
+math/0505213,"Elliptic determinant evaluations and the Macdonald identities for affine
+  root systems",7.138761738245946e-06,0.0,3.0,3.0
+math-ph/0210048,Z-measures on partitions and their scaling limits,7.1101662711390585e-06,2.822995788587297e-07,27.0,5.0
+math/0502102,Kakeya sets of curves,7.079983776613288e-06,0.0,6.0,0.0
+math/0306417,"Issues related to Rubio de Francia's Littlewood--Paley Inequality: A
+  Survey",6.813938483472467e-06,0.0,3.0,2.0
+math/0502305,"On the Existence of Periodic Orbits for the Fixed Homogeneous Circle
+  Problem",6.801308779104164e-06,0.0,2.0,1.0
+math/0506354,Transposition mirror symmetry construction and period integrals,6.724669297955381e-06,0.0,4.0,0.0
+math/0607250,Properties of generalized univariate hypergeometric functions,6.658138398661707e-06,0.0,5.0,0.0
+math/0603309,Riemann-Hilbert Methods in the Theory of Orthogonal Polynomials,6.537960600189145e-06,0.0,10.0,0.0
+math/0010070,Measured creatures,6.514158655245872e-06,0.0,6.0,2.0
+math/0503082,"Remarks Towards the Classification of $RS_4^2(3)$-Transformations and
+  Algebraic Solutions of the Sixth Painlev\'e Equation",6.500286605622444e-06,0.0,8.0,0.0
+math/0606324,Asymptotic analysis of generalized Hermite polynomials,6.231249371325457e-06,0.0,2.0,0.0
+math/0508158,On Some Discrete Inequalities in Normed Linear Spaces,6.19095955862073e-06,0.0,2.0,0.0
+math/0411249,"Duality of q-polynomials, orthogonal on countable sets of points",6.171308131655049e-06,3.995217620433279e-06,4.0,3.0
+math/0702043,Towards a classification of $6\times 6$ complex Hadamard matrices,6.132008883791201e-06,4.4556330339404604e-09,4.0,3.0
+math-ph/0011025,The $M_{L}(z);C_{L}(z);W_{L}(z)$ associated Laguerre Polynomials,6.086550152667384e-06,0.0,3.0,0.0
+math/0505188,"Perturbations of Jacobi polynomials and piece-wise hypergeometric
+  orthogonal systems",6.084897505075145e-06,0.0,2.0,0.0
+math-ph/0204001,"Distribution of the first particle in discrete orthogonal polynomial
+  ensembles",6.058864673596768e-06,1.5305774707543208e-06,13.0,8.0
+math/0207159,"Fusion and exchange matrices for quantized sl(2) and associated
+  q-special functions",6.014722993849147e-06,3.980365510320144e-06,7.0,1.0
+math-ph/0306078,"Universal behavior for averages of characteristic polynomials at the
+  origin of the spectrum",5.9846307852138525e-06,0.0001111892116629,6.0,4.0
+math/0504101,"Lifting smooth curves over invariants for representations of compact Lie
+  groups, III",5.88336443511138e-06,0.0,5.0,1.0
+math/0506319,"Double integrals and infinite products for some classical constants via
+  analytic continuations of Lerch's transcendent",5.767354814559389e-06,0.0,4.0,2.0
+math/0411159,Lame operators with projective octahedral and icosahedral monodromies,5.762704557658616e-06,0.0,2.0,0.0
+math/0309252,Transformations of elliptic hypergometric integrals,5.7613503274869215e-06,6.810333962237134e-05,6.0,15.0
+math/0112194,Free martingale polynomials,5.758538795177324e-06,0.0,2.0,6.0
+math/0511148,"q-Special functions, an overview",5.655744284490754e-06,0.0,7.0,0.0
+math/0612385,"Heat kernel and Green function estimates on affine buildings of type
+  $\tilde{A}_r$",5.655144290770314e-06,0.0,1.0,1.0
+math/0605272,"Boundedness and unboundedness results for some maximal operators on
+  functions of bounded variation",5.655144290770314e-06,0.0,1.0,1.0
+math/0601044,"Functions of bounded variation, the derivative of the one dimensional
+  maximal function, and applications to inequalities",5.655144290770314e-06,0.0,1.0,1.0
+math/0601078,"Asymptotic analysis of the Hermite polynomials from their
+  differential-difference equation",5.655144290770314e-06,0.0,1.0,2.0
+math/0603522,A shorter proof of Kanter's Bessel function concentration bound,5.655144290770314e-06,0.0,1.0,1.0
+math/0411476,Symmetries of the hypergeometric function mF_m-1,5.55023167777416e-06,0.0,2.0,0.0
+cond-mat/0703291,Deformed multi-variable Fokker-Planck equations,5.533127455198063e-06,0.0,3.0,0.0
+math/0206032,Inversion of bilateral basic hypergeometric series,5.492992006655856e-06,0.0,3.0,1.0
+math/0506407,Higher genus icosahedral Painleve curves,5.457896935774703e-06,2.0315116863046425e-05,4.0,3.0
+math/0111252,"The Riemann-Hilbert approach to strong asymptotics for orthogonal
+  polynomials on [-1,1]",5.456019750731956e-06,7.900813376366575e-05,6.0,8.0
+math/0605201,"Painleve I asymptotics for orthogonal polynomials with respect to a
+  varying quartic weight",5.441301304121825e-06,3.662058041314139e-06,3.0,1.0
+math/0209144,Isomonodromy transformations of linear systems of difference equations,5.438403436069618e-06,7.2444810859339315e-06,7.0,2.0
+math/0606570,A note on circular trace formulae,5.437823285717941e-06,0.0,2.0,0.0
+math/0411420,"Notes on Stein-Sahi representations and some problems of non $L^2$
+  harmonic analysis",5.436149187558247e-06,0.0,4.0,0.0
+math/0311114,Hyperg{\'e}om{\'e}trie et fonction z{\^e}ta de Riemann,5.427250115637223e-06,0.0,7.0,11.0
+math/0103024,A multidimensional generalization of Shukla's 8-psi-8 summation,5.306657031435651e-06,0.0,2.0,0.0
+math/0606349,"Analysis of orthogonality and of orbits in affine iterated function
+  systems",5.259785111214951e-06,0.0,3.0,0.0
+math/9909025,A q-analogue of convolution on the line,5.111437203451916e-06,0.0,5.0,1.0
+math-ph/0604046,"The existence of a real pole-free solution of the fourth order analogue
+  of the Painleve I equation",5.101914172342698e-06,2.1015270226696705e-08,5.0,2.0
+math-ph/0701016,"Landau singularities and singularities of holonomic integrals of the
+  Ising class",5.068970248036466e-06,0.0,4.0,1.0
+math/0511149,"Quadratic Transformations of the Sixth Painleve' Equation with
+  Application to Algebraic Solutions",5.066932303225305e-06,0.0,4.0,0.0
+math/0701677,An Analytic Formula for the A_2 Jack Polynomials,5.04610169118669e-06,0.0,9.0,0.0
+math/0110305,"Stochastic processes on non-Archimedean spaces with values in
+  non-Archimedean fields",5.004422802811597e-06,0.0,5.0,1.0
+math/0409247,On eigenvalues of Lam\'e operator,4.971645393742196e-06,1.2441654295325084e-06,3.0,4.0
+math/0610942,Two bounds for the x-ray transform,4.966907238954575e-06,0.0,1.0,0.0
+math/0507002,Families of Painleve VI equations having a common solution,4.942931994829992e-06,0.0,2.0,1.0
+math/0412080,Noncommutative extensions of Ramanujan's 1-psi-1 summation,4.893348623220678e-06,0.0,2.0,0.0
+math/0405399,"Transform\'ee de Mellin des int\'egrales- fibres associ\'ees \`a
+  l'intersection compl\`ete non-d\'eg\'en\'er\'ee",4.853950552884381e-06,5.970548265480216e-06,3.0,3.0
+math/0611286,A quantitative version of the idempotent theorem in harmonic analysis,4.801800695883394e-06,0.0,4.0,0.0
+math/0511470,"Multiple orthogonal polynomials of mixed type and non-intersecting
+  Brownian motions",4.783213373781784e-06,3.3656334803913164e-06,5.0,3.0
+math/0311280,"Bessel processes, the integral of geometric Brownian motion, and Asian
+  options",4.775563454392716e-06,0.0,3.0,0.0
+math/0303211,A second addition formula for continuous q-ultraspherical polynomials,4.688607129502032e-06,0.0,3.0,0.0
+math/0611332,On Differences of Zeta Values,4.680814911678726e-06,0.0,4.0,0.0
+math/0410320,"Riemann-Hilbert analysis for Jacobi polynomials orthogonal on a single
+  contour",4.638033196918603e-06,0.0,2.0,0.0
+math/0511335,Ramanujan's Harmonic Number Expansion,4.527116820765776e-06,0.0,3.0,0.0
+math/0311080,"Zak transform, Weil representation, and integral operators with
+  theta-kernels",4.399337097371589e-06,0.0,1.0,0.0
+hep-th/0004153,"Central Binomial Sums, Multiple Clausen Values and Zeta Values",4.38246541063415e-06,1.1092795321090307e-06,9.0,11.0
+math/0512397,"Transversely projective foliations on surfaces: existence of normal
+  forms and prescription of the monodromy",4.376489566185219e-06,0.0,2.0,0.0
+math/0206176,Arithmetic of linear forms involving odd zeta values,4.366376228373769e-06,0.0,5.0,5.0
+quant-ph/0605221,"Exact solution in the Heisenberg picture and annihilation-creation
+  operators",4.346441702974614e-06,0.0,3.0,0.0
+math-ph/0303042,Presenting a new method for the solution of nonlinear problems,4.337773712171687e-06,0.0,5.0,2.0
+math/0307356,"Generalized coherent states for q-oscillator connected with q-Hermite
+  polynomials",4.335690510817681e-06,0.0,8.0,4.0
+math/0701174,On the singularities of generalized solutions to $n$--body type problems,4.308677856146974e-06,0.0,3.0,0.0
+math/0508093,"The Heun equation and the Calogero-Moser-Sutherland system V:
+  generalized Darboux transformations",4.30475216361672e-06,0.0,3.0,2.0
+math/0405446,Two-Dimensional Analogs of the Minkowski ?(x) Function,4.278670187138834e-06,0.0,1.0,0.0
+math/0302311,Roth's theorem in the primes,4.278670187138834e-06,0.0,1.0,0.0
+math/0605172,"Bispectral and (gl_N, gl_M) Dualities, Discrete Versus Differential",4.276818956508971e-06,0.0,5.0,0.0
+math/0305385,One-parameter orthogonality relations for basic hypergeometric series,4.208512246945355e-06,0.0,2.0,0.0
+math/0101215,"Realization of the annihilation operator for generalized oscillator-like
+  system by a differential operator",4.199458373837573e-06,0.0,3.0,7.0
+math/0210366,Dunkl operators: Theory and applications,4.199458373837573e-06,0.0,3.0,0.0
+math/0102174,"Multilateral transformations of q-series with quotients of parameters
+  that are nonnegative integer powers of q",4.199458373837573e-06,0.0,3.0,1.0
+math/0701743,Resurgence of the fractional polylogarithms,4.193206189635096e-06,3.980365510320144e-06,2.0,2.0
+math/0211075,"A Hypergeometric Approach, Via Linear Forms Involving Logarithms, to
+  Irrationality Criteria for Euler's Constant",4.190506605263864e-06,0.0,3.0,0.0
+math/0406049,"Some remarks on another proof of geometrical Paley-Wiener theorems for
+  the Dunkl transform",4.187705344406421e-06,0.0,3.0,0.0
+math/0301330,Askey-Wilson functions and quantum groups,4.157283384277122e-06,0.0,2.0,3.0
+math/0302342,"Laguerre functions and representations of su(1,1)",4.149368520445399e-06,0.0,3.0,3.0
+math/0611662,"""Non-strict"" l'Hospital-Type Rules for Monotonicity: Intervals of
+  Constancy",4.132978839879297e-06,0.0,4.0,0.0
+hep-th/0012189,"New results for the epsilon-expansion of certain one-, two- and
+  three-loop Feynman diagrams",4.097297813102201e-06,2.375002753267853e-06,11.0,23.0
+math/0311033,"S\'eries hyperg\'eom\'etriques basiques, $q$-analogues des valeurs de la
+  fonction z\^eta et s\'eries d'Eisenstein",4.088839094724045e-06,0.0,5.0,5.0
+math/0409198,"Oscillation of linear ordinary differential equations: on a theorem by
+  A. Grigoriev",4.085976085069415e-06,0.0,3.0,0.0
+math/0201272,Bilinear summation formulas from quantum algebra representations,4.066387216723032e-06,0.0,2.0,5.0
+math-ph/0305029,"Discrete Painlev\'e equations, Orthogonal Polynomials on the Unit Circle
+  and N-recurrences for averages over U(N) -- \PIIIa and \PV $\tau$-functions",4.061550489519588e-06,0.0,5.0,2.0
+math/0507120,The topology of the monodromy map of the second order ODE,4.060231222520034e-06,0.0,2.0,0.0
+math/0311341,Continuous Symmetric Perturbations of Planar Power Law Forces,4.057098038694793e-06,0.0,1.0,1.0
+math/0602202,"Asymptotics of Recurrence Relation Coefficients, Hankel Determinant
+  Ratios, and Root Products Associated with Laurent Polynomials Orthogonal with
+  Respect to Varying Exponential Weights",4.0115347084085415e-06,0.0,8.0,0.0
+math/0703520,"Limit theorems for radial random walks on pxq-matrices as p tends to
+  infinity",3.954483208945042e-06,0.0,2.0,0.0
+hep-th/0303162,Massive Feynman diagrams and inverse binomial sums,3.872739830725615e-06,8.898696010752362e-06,8.0,24.0
+math/0107036,Spectral theory and special functions,3.871584001647434e-06,0.0,4.0,6.0
+math/0508224,On Extensions of a Theorem of Baxter,3.865881925309514e-06,0.0,3.0,0.0
+math/0202018,"Action of overalgebra in Plancherel decomposition and shift operators in
+  imaginary direction",3.847453722699276e-06,0.0,4.0,0.0
+math/0402222,"Lifting smooth curves over invariants for representations of compact Lie
+  groups. II",3.8237089214844825e-06,0.0,4.0,2.0
+math/0610096,"Spectral multipliers for Schroedinger operators with Poeschl-Teller
+  potential",3.8153883201341445e-06,0.0,5.0,0.0
+math/0503288,Heun equation and Painlev\'e equation,3.808603565482799e-06,0.0,2.0,0.0
+math/0404336,"Spectral order and isotonic differential operators of Laguerre-Polya
+  type",3.7995298645740513e-06,3.980365510320144e-06,1.0,2.0
+math/0507488,On the Wronskian combinants of binary forms,3.767934875086551e-06,0.0,2.0,0.0
+math/0205175,Asymptotic zero behavior of Laguerre polynomials with negative parameter,3.758926224375832e-06,1.0282610901660388e-05,4.0,4.0
+math/0404439,Paley-Wiener theorems for the Dunkl transform,3.758417733575704e-06,1.990182755160072e-05,2.0,6.0
+math/0304087,SPM Bulletin 4,3.7509808722716255e-06,0.0,5.0,4.0
+math/0609428,"On the new form of Bethe ansatz equations and separation of variables in
+  the $sl_3$ Gaudin model",3.748006352951904e-06,2.270867769660501e-08,2.0,1.0
+math/0107080,"Nonlinear Sequence Transformations: Computational Tools for the
+  Acceleration of Convergence and the Summation of Divergent Series",3.7306801876106425e-06,3.965613752302368e-06,1.0,3.0
+math/0408317,The 192 Solutions of the Heun Equation,3.706432062543765e-06,8.848744270835433e-06,4.0,9.0
+math/0610499,"The generalized-Euler-constant function $\gamma(z)$ and a generalization
+  of Somos's quadratic recurrence constant",3.7046479878243386e-06,0.0,1.0,0.0
+math/0606287,Generalizations of Guillera-Sondow's double integral formulas,3.7046479878243386e-06,0.0,1.0,0.0
+math/0409353,On rational approximation of algebraic functions,3.677263271398371e-06,0.0,2.0,0.0
+nlin/0207036,The Riemann-Hilbert Problem for the Bi-Orthogonal Polynomials,3.662042696944183e-06,8.808673223694099e-06,6.0,6.0
+math/0505270,Experimental determination of Apery-like identities for zeta(2n+2),3.650786868546961e-06,0.0,3.0,0.0
+math/0701192,Bailey Type Transforms and Applications,3.628515734917117e-06,0.0,1.0,0.0
+math/0609283,Fibonacci numbers and orthogonal polynomials,3.62335329328243e-06,0.0,2.0,0.0
+cond-mat/0101464,Solution of a Generalized Stieltjes Problem,3.62335329328243e-06,0.0,2.0,5.0
+math/0405581,"Restriction theory of the Selberg sieve, with applications",3.62335329328243e-06,0.0,2.0,1.0
+math/0409181,Spectrality of ordinary differential operators,3.62335329328243e-06,0.0,2.0,0.0
+math/0703403,Decomposition of weighted Triebel-Lizorkin and Besov spaces on the ball,3.62335329328243e-06,0.0,2.0,0.0
+math-ph/0601015,Differential complexes and exterior calculus,3.62335329328243e-06,0.0,3.0,0.0
+math/0001050,Endpoint multiplier theorems of Marcinkiewicz type,3.62335329328243e-06,0.0,2.0,0.0
+math/9902004,Advanced Determinant Calculus,3.5752100541752214e-06,0.0,7.0,9.0
+math-ph/0510045,CMV matrices in random matrix theory and integrable systems: a survey,3.540250251799828e-06,0.0,3.0,1.0
+math/9807034,Geometry and analytic theory of Frobenius manifolds,3.5330959179507267e-06,2.0986091255072314e-05,9.0,16.0
+math/0302251,Continuous Hahn functions as Clebsch-Gordan coefficients,3.5040503898578538e-06,0.0,2.0,3.0
+math/0412236,Spectral projections for the twisted Laplacian,3.49912997646896e-06,0.0,2.0,0.0
+math/0609337,"An incidence bound for $k$-planes in $F^n$ and a planar variant of the
+  Kakeya maximal function",3.49912997646896e-06,0.0,2.0,1.0
+math/0201209,Inequalities of relative weighted metrics,3.4930843036925227e-06,0.0,2.0,0.0
+math/0603007,Variations on a Theme by James Stirling,3.4870386309160864e-06,0.0,1.0,1.0
+math/0406141,"The Heun equation and the Calogero-Moser-Sutherland system IV: the
+  Hermite-Krichever Ansatz",3.4633440090043277e-06,1.4177909383204786e-05,1.0,11.0
+math/0404028,"Rubio de Francia Littlewood Paley Inequalities and Directional Maximal
+  Functions",3.4592373396273874e-06,0.0,1.0,1.0
+math/0008237,Number theory casting a look at the mirror,3.447853215015158e-06,0.0,9.0,0.0
+math/0312310,"An elementary approach to 6j-symbols (classical, quantum, rational,
+  trigonometric, and elliptic)",3.445922191680174e-06,8.481536724496404e-06,3.0,10.0
+math/0601595,"Asymptotics of Laurent Polynomials of Odd Degree Orthogonal with Respect
+  to Varying Exponential Weights",3.4354296278533977e-06,0.0,7.0,0.0
+math/0703641,Resurgence of the Euler-MacLaurin summation formula,3.415755452143432e-06,0.0,2.0,0.0
+math/0501428,"Fuchsian equation, Hermite-Krichever Ansatz and Painlev\'e equation",3.403537031073582e-06,0.0,3.0,2.0
+math/0307250,"On q-orthogonal polynomials, dual to little and big q-Jacobi polynomials",3.380078567019036e-06,0.0,2.0,6.0
+math/0702098,Pseudospherical surfaces on time scales,3.376552152734775e-06,0.0,2.0,0.0
+math/0404506,"Asymptotics of the orthogonal polynomials for the Szego class with a
+  polynomial weight",3.3749066596554898e-06,0.0,1.0,0.0
+math/0703369,"Weyl matrix functions and inverse problems for discrete Dirac type
+  self-adjoint system: explicit and general solutions",3.3749066596554898e-06,0.0,1.0,0.0
+math/0703588,Equivalent norms for polynomials on the sphere,3.3749066596554898e-06,0.0,1.0,0.0
+math/0511709,Non-symmetric Jacobi and Wilson type polynomials,3.3749066596554898e-06,0.0,1.0,0.0
+math/0508264,Asymptotic analysis of the Askey-scheme II: from Charlier to Hermite,3.3749066596554898e-06,0.0,1.0,1.0
+math/0703452,Uniform Convergence Behavior of the Bernoulli Polynomials,3.3749066596554898e-06,0.0,1.0,0.0
+math/0412260,"Estimates and identities for the average distortion of a linear
+  transformation",3.3749066596554898e-06,0.0,1.0,0.0
+math-ph/0703080,Eigenfunction Expansions of Functions Describing Systems with Symmetries,3.3749066596554898e-06,0.0,1.0,0.0
+math/0701438,Generalized Elliptic Integrals and the Legendre M-function,3.3749066596554898e-06,0.0,1.0,1.0
+math-ph/0010003,A deformation of Hermite polynomials,3.3535922881360648e-06,0.0,3.0,1.0
+hep-th/9303111,Dilogarithm Identities in Conformal Field Theory and Group Homology,3.328310494047957e-06,0.0,12.0,2.0
+math/0702243,"An efficient algorithm for accelerating the convergence of oscillatory
+  series, useful for computing the polylogarithm and Hurwitz zeta functions",3.319737938717575e-06,0.0,2.0,0.0
+math/0405133,The Ring of Malcev-Neumann Series and the Residue Theorem,3.268077819253839e-06,9.95091377580036e-06,2.0,5.0
+math/0601303,The structure relation for Askey-Wilson polynomials,3.2678939613535576e-06,5.992826430649918e-06,4.0,5.0
+math/0311196,Binomial sums related to rational approximations to $\zeta(4)$,3.2623951154818237e-06,0.0,3.0,0.0
+math/0104035,"Index hypergeometric transform and imitation of analysis of Berezin
+  kernels on hyperbolic spaces",3.2540653993640758e-06,0.0,5.0,2.0
+math/0407191,Approximants de Pad\'e des $q$-polylogarithmes,3.219858365116768e-06,0.0,4.0,0.0
+math/0503343,Hilbert spaces built on a similarity and on dynamical renormalization,3.2175658992823e-06,0.0,4.0,0.0
+math/0405592,Markov's Transformation of Series and the WZ Method,3.2012316491946324e-06,0.0,1.0,0.0
+math/0310278,"Uniform Asymptotics for Polynomials Orthogonal With Respect to a General
+  Class of Discrete Weights and Universality Results for Associated Ensembles",3.1857625155170748e-06,1.4309446732061984e-05,4.0,11.0
+math/0409023,"Approximations to -, di- and tri- logarithms",3.1713508201187487e-06,0.0,3.0,2.0
+math/0306093,Interpolation in the Nevanlinna class and harmonic majorants,3.1564676950366884e-06,0.0,2.0,0.0
+math/0411273,"Quantitative Robust Uncertainty Principles and Optimally Sparse
+  Decompositions",3.1464001118336644e-06,0.0,3.0,3.0
+math/9803086,"Integral and Theta Formulae for Solutions of Sl_N Knizhnik-Zamolodchikov
+  Equations at Level Zero",3.136567577109856e-06,0.0,2.0,0.0
+math/0405301,Construction of Parseval wavelets from redundant filter systems,3.127121323785725e-06,0.0,4.0,3.0
+math-ph/0611020,"Orthogonality within the Families of C-, S-, and E-Functions of Any
+  Compact Semisimple Lie Group",3.1269624963120806e-06,0.0,4.0,2.0
+math/0212312,The combinatorics of splittability,3.1192509620525454e-06,0.0,5.0,4.0
+math/0401206,"Fast and Slow Dynamics for the Computational Singular Perturbation
+  Method",3.1037334331949964e-06,0.0,2.0,0.0
+math/0306424,The Wilson function transform,3.100594232128565e-06,0.0,2.0,1.0
+math-ph/0204043,A Note on Non-commutativity,3.085839062737142e-06,6.087189062174075e-09,14.0,1.0
+math/0504264,Darboux evaluations of algebraic Gauss hypergeometric functions,3.08411447139202e-06,0.0,3.0,2.0
+math/0309443,"Strong asymptotics for Jacobi polynomials with varying nonstandard
+  parameters",3.0575459428792443e-06,1.3267885034400451e-06,3.0,1.0
+math/0703387,Inequalities for Multivariate Polynomials,3.0472482127272877e-06,0.0,2.0,0.0
+math/0402362,Toeplitz Determinants From Compatibility Conditions,3.0472482127272877e-06,0.0,2.0,0.0
+math/0205261,On the uniformization of algebraic curves,3.0472482127272877e-06,0.0,2.0,0.0
+math/0505691,Finite bounds for Holder-Brascamp-Lieb multilinear inequalities,3.0472482127272877e-06,0.0,2.0,0.0
+math/0702107,Polynomials Associated with Dihedral Groups,3.0472482127272877e-06,0.0,2.0,0.0
+math/0212334,Lectures on meromorphic flat connections,3.0165814685014424e-06,0.0,3.0,0.0
+math/0212009,Topological diagonalizations and Hausdorff dimension,3.001815682153122e-06,0.0,4.0,1.0
+math/0605045,"Contributions to the hypergeometric function theory of Heckman and
+  Opdam: sharp estimates, Schwartz space, heat kernel",3.001809991938506e-06,0.0,1.0,0.0
+math/0412174,Variations on the Theme of Journe's Lemma,2.989637704671773e-06,0.0,3.0,1.0
+math/0206239,"Review of Mathematical Techniques Applicable in Astrophysical Reaction
+  Rate Theory",2.988986135356738e-06,0.0,1.0,1.0
+math-ph/0210013,On Crossing Event Formulas in Critical Two-Dimensional Percolation,2.9680064821740723e-06,0.0,9.0,0.0
+math/0508096,An Inequality of Hadamard Type for Permanents,2.923024895913817e-06,0.0,1.0,0.0
+math/0302062,SPM Bulletin 2,2.9229561821473e-06,0.0,3.0,7.0
+math/0204034,Wavelet representations and Fock space on positive matrices,2.916511437070556e-06,0.0,1.0,1.0
+math/0406616,"Integral representations for multiple Hermite and multiple Laguerre
+  polynomials",2.913627096908015e-06,5.970548265480216e-06,3.0,3.0
+math/0408269,Algebraic transformations of Gauss hypergeometric functions,2.899879864017412e-06,6.980491753173386e-06,3.0,5.0
+math/0611493,"Uncertainty in time--frequency representations on finite Abelian groups
+  and applications",2.89542657557062e-06,0.0,1.0,0.0
+math/0509465,Quadratic transformations and Guillera's formulae for $1/\pi^2$,2.891413508749918e-06,0.0,1.0,0.0
+math/9911163,"Fourier transforms on the quantum SU(1,1) group",2.877187250919603e-06,0.0,4.0,6.0
+math/0303178,Hyperbolic beta integrals,2.8713791649172206e-06,0.0,2.0,0.0
+math/0501071,The topology of critical sets of some ordinary differential operators,2.855213185875573e-06,0.0,2.0,1.0
+math/0309354,"Advances in Inequalities of the Schwarz, Gruss and Bessel Type in Inner
+  Product Spaces",2.855213185875573e-06,0.0,2.0,3.0
+math/0012220,"Matrix balls, radial analysis of Berezin kernels, and hypergeometric
+  determinants",2.845031740927148e-06,0.0,6.0,6.0
+math/0203030,Weighted Dirac combs with pure point diffraction,2.8385760239365586e-06,0.0,8.0,8.0
+math/0605025,"Moduli of Stable Parabolic Connections, Riemann-Hilbert Correspondence
+  and Geometry of Painlev\'{e} Equation of Type VI, Part II",2.8377212910627382e-06,0.0,3.0,1.0
+q-alg/9602023,"Separation of variables for A2 Ruijsenaars model and new integral
+  representation for A2 Macdonald polynomials",2.813805413604416e-06,0.0,2.0,2.0
+math/0101125,Duality of orthogonal polynomials on a finite set,2.811979425942968e-06,1.968910908432389e-06,7.0,3.0
+math/0407427,Harmonic analysis on metrized graphs,2.791562733104814e-06,0.0,4.0,4.0
+math-ph/0305044,Universality for eigenvalue correlations at the origin of the spectrum,2.7756313925728985e-06,0.0,3.0,3.0
+math/0206178,A third-order Apery-like recursion for $\zeta(5)$,2.7588494257475407e-06,0.0,3.0,2.0
+math-ph/0012035,Non-Abelian Stokes theorem in action,2.7522808679285523e-06,0.0002994502552888,2.0,5.0
+math/0302357,"Quadratic Hermite-Pade approximation to the exponential function: a
+  Riemann-Hilbert approach",2.747125418605577e-06,5.458103784350587e-05,2.0,6.0
+nlin/0208002,"Differential systems for biorthogonal polynomials appearing in 2-matrix
+  models and the associated Riemann-Hilbert problem",2.7464919674397177e-06,2.6131902828425788e-06,8.0,16.0
+math/0008068,"Infinite families of exact sums of squares formulas, Jacobi elliptic
+  functions, continued fractions, and Schur functions",2.746435030889157e-06,0.0,2.0,3.0
+math/0512642,Random Sampling of Sparse Trigonometric Polynomials,2.7437505043801504e-06,0.0,3.0,0.0
+math/9906041,Planar Harmonic Polynomials of Type B,2.667279672265207e-06,0.0,2.0,0.0
+math/0110318,Asymptotic representation theory and Riemann-Hilbert problem,2.6632656982453938e-06,0.0,8.0,1.0
+math/0212149,"Uniform Asymptotics for Polynomials Orthogonal With Respect to a General
+  Class of Discrete Weights and Universality Results for Associated Ensembles:
+  Announcement of Results",2.6630557475018307e-06,0.0,2.0,0.0
+math/0411044,"Inversions of integral operators and elliptic beta integrals on root
+  systems",2.653984515959892e-06,0.0,3.0,0.0
+nlin/0010048,"Darboux transforms on Band Matrices, Weights and associated Polynomials",2.651895837668813e-06,0.0,1.0,0.0
+nlin/0309078,"Dessins d'Enfants, Their Deformations and Algebraic the Sixth Painlev\'e
+  and Gauss Hypergeometric Functions",2.642434150034331e-06,1.3349054295897995e-05,3.0,7.0
+math/0301241,Symmetrized Chebyshev Polynomials,2.6292949543716544e-06,0.0,2.0,0.0
+math/0312148,"An identity of Andrews, multiple integrals, and very-well-poised
+  hypergeometric series",2.603467386692454e-06,0.0,3.0,5.0
+math/0612698,"Random walk models associated with distributed fractional order
+  differential equations",2.5975660925553992e-06,0.0,1.0,0.0
+math/0602440,"Completeness, special functions and uncertainty principles over q-linear
+  grids",2.570209234786536e-06,0.0,1.0,0.0
+math/0601703,Higher Lame Equations and Critical Points of Master Functions,2.5673569776500794e-06,2.0128914328566773e-06,3.0,1.0
+math/0111221,Difference Fourier transforms for nonreduced root systems,2.562754308136951e-06,0.0,1.0,1.0
+math/0203264,On reducing the Heun equation to the hypergeometric equation,2.559504260661667e-06,0.0,2.0,5.0
+math/0504604,"Strong asymptotics of Laguerre-type orthogonal polynomials and
+  applications in random matrix theory",2.551901220032126e-06,3.735674234524604e-06,2.0,8.0
+hep-th/9811173,"Determinations of rational Dedekind-zeta invariants of hyperbolic
+  manifolds and Feynman knots and links",2.537600391167496e-06,8.938249375029425e-07,6.0,5.0
+math/0411136,Summation formulae for noncommutative hypergeometric series,2.5375951354404727e-06,0.0,1.0,1.0
+math/0309241,Extensions of the well-poised and elliptic well-poised Bailey lemma,2.527933959802623e-06,0.0,4.0,0.0
+quant-ph/0605215,"Unified Theory of Annihilation-Creation Operators for Solvable
+  (`Discrete') Quantum Mechanics",2.5153471330721317e-06,0.0,3.0,1.0
+math/0701345,"Irrationality proof of certain Lambert series using little q-Jacobi
+  polynomials",2.5022839473372877e-06,0.0,2.0,0.0
+math-ph/0411007,Self-contact for rods on cylinders,2.495598892370848e-06,0.0,2.0,0.0
+math/0504285,Recurrences for elliptic hypergeometric integrals,2.4854739047554564e-06,7.407388788785156e-05,3.0,4.0
+math/0601306,"Asymptotics of Laurent Polynomials of Even Degree Orthogonal with
+  Respect to Varying Exponential Weights",2.4767224715954072e-06,0.0,5.0,1.0
+math/0611633,Perturbation of complex polynomials and normal operators,2.4711431321721443e-06,0.0,1.0,0.0
+math/0701055,A note on Poisson brackets for orthogonal polynomials on the unit circle,2.4711431321721443e-06,0.0,1.0,0.0
+math/0701492,Bounded Rank-one Perturbations in Sampling Theory,2.4711431321721443e-06,0.0,1.0,0.0
+math/0702863,"Derived Schwarz map of the hypergeometric differential equation and a
+  parallel family of flat fronts",2.4711431321721443e-06,0.0,1.0,0.0
+math-ph/0605066,Zeros of sections of exponential sums,2.4711431321721443e-06,0.0,1.0,1.0
+math/0702203,Bernstein-Szeg\H{o} measures on the two dimensional torus,2.4711431321721443e-06,0.0,1.0,0.0
+math/0702806,The problem of ideals of $H^\infty$: beyond the exponent 3/2,2.4711431321721443e-06,0.0,1.0,0.0
+math/0601565,On the Littlewood problem modulo a prime,2.4711431321721443e-06,0.0,1.0,0.0
+math/0703559,Kakeya Sets and Directional Maximal Operators in the Plane,2.4711431321721443e-06,0.0,1.0,0.0
+math/0009238,Small Eigenvalues of Large Hankel Matrices,2.4711431321721443e-06,0.0,1.0,0.0
+math-ph/0605066,Zeros of sections of exponential sums,2.4711431321721443e-06,0.0,1.0,1.0
+math/0009223,The Dynamics of a Vertically Transmitted Disease,2.4711431321721443e-06,0.0,1.0,0.0
+math/0702160,Some algebraic notions related to analysis on metric spaces,2.4711431321721443e-06,0.0,1.0,0.0
+math/0306242,Q-operator and factorised separation chain for Jack polynomials,2.4711431321721443e-06,0.0,1.0,8.0
+math/0607694,Inequalities related to the error function,2.4711431321721443e-06,0.0,1.0,0.0
+math/0607686,The Modulo 1 Central Limit Theorem and Benford's Law for Products,2.4711431321721443e-06,0.0,1.0,0.0
+math/0611249,Approximation in C^N,2.4711431321721443e-06,0.0,1.0,0.0
+math/0608742,"Multilateral inversion of A_r, C_r and D_r basic hypergeometric series",2.4711431321721443e-06,0.0,1.0,0.0
+math-ph/9912020,"One Dimensional Regularizations of the Coulomb Potential with
+  Application to Atoms in Strong Magnetic Fields",2.4711431321721443e-06,0.0,1.0,2.0
+math/0412515,Verblunsky Coefficients With Coulomb-Type Decay,2.4711431321721443e-06,0.0,1.0,0.0
+math/0102007,Boolean representation of manifolds and functions,2.4711431321721443e-06,0.0,1.0,0.0
+math/0501116,"On the Eigenvalues of Certain Canonical Higher-Order Ordinary
+  Differential Operators",2.4711431321721443e-06,0.0,1.0,0.0
+math/0201058,Conformal Laplacian and Conical Singularities,2.4711431321721443e-06,0.0,2.0,0.0
+math/0503293,On Besicovitch Almost Periodic Selections of Multivalued Maps,2.4711431321721443e-06,0.0,1.0,0.0
+math/0603534,"Analytic continuation and fixed points of the Poincare mapping for a
+  polynomial Abel equation",2.4711431321721443e-06,0.0,1.0,0.0
+math/0603181,On planar self-similar sets with a dense set of rotations,2.4711431321721443e-06,0.0,1.0,0.0
+math/0604475,Solution of generalized fractional reaction-diffusion equations,2.4711431321721443e-06,0.0,1.0,0.0
+math/0603346,Oscillation of Fourier transform and Markov-Bernstein inequalities,2.4711431321721443e-06,0.0,1.0,0.0
+math/0501072,Asymptotic analysis of the Askey-scheme I: from Krawtchouk to Charlier,2.4711431321721443e-06,0.0,1.0,1.0
+math/0605572,Systems with distributions and viability theorem,2.4711431321721443e-06,0.0,1.0,0.0
+math/0610953,Controllability of the Laguerre and the Jacobi Equations,2.4711431321721443e-06,0.0,1.0,0.0
+math/0604089,Montreal Lecture Notes on Quadratic Fourier Analysis,2.4711431321721443e-06,0.0,1.0,0.0
+math/0701241,The Painlev\'e transcendents with solvable monodromy,2.4711431321721443e-06,0.0,1.0,0.0
+math/0702300,An efficient algorithm for the computation of Bernoulli numbers,2.4711431321721443e-06,0.0,1.0,0.0
+math/0312508,"Subharmonic functions, mean value inequality, boundary behavior,
+  nonintegrability and exceptional sets",2.4711431321721443e-06,0.0,1.0,0.0
+math/0204269,Estimates for Oscillatory Integral Operators,2.4711431321721443e-06,0.0,1.0,0.0
+math/0312194,New trace norm inequalities for 2 x 2 blocks of diagonal matrices,2.4711431321721443e-06,0.0,1.0,0.0
+math/0301035,A brief introduction to p-adic numbers,2.4711431321721443e-06,0.0,1.0,0.0
+math/0603735,Curves in Banach spaces which allow a $C^2$ parametrization,2.4711431321721443e-06,0.0,1.0,0.0
+math/0606445,On a differential equation for a gas bubbles collapse mathematical model,2.4711431321721443e-06,0.0,1.0,0.0
+math/0405230,On modular inequalities in variable L^p spaces,2.4711431321721443e-06,0.0,1.0,0.0
+math/0312184,"Half-inverse spectral problems for Sturm--Liouville operators with
+  singular potentials",2.4711431321721443e-06,0.0,1.0,0.0
+math/0209085,Regularity Properties of Constrained Set-Valued Mappings,2.4711431321721443e-06,0.0,1.0,0.0
+math/0511079,Fourier transforms related to a root system of rank 1,2.4711431321721443e-06,0.0,1.0,1.0
+math/0512226,The Overdeterminedness of a Class of Functional Equations,2.4711431321721443e-06,0.0,1.0,0.0
+math/0407330,"Martingales, endomorphisms, and covariant systems of operators in
+  Hilbert space",2.4711431321721443e-06,0.0,1.0,13.0
+math/0510585,Sharp Bounds for the Harmonic Numbers,2.4711431321721443e-06,0.0,2.0,1.0
+math/0510130,Is PLA large?,2.4711431321721443e-06,0.0,1.0,0.0
+math/9909066,"Endpoint bilinear restriction theorems for the cone, and some sharp null
+  form estimates",2.4711431321721443e-06,0.0,2.0,0.0
+math/0611041,On Rationally Parametrized Modular Equations,2.4711431321721443e-06,0.0,1.0,1.0
+math/0108026,A New Weighted Metric: the Relative Metric II,2.4060086373771908e-06,0.0,1.0,2.0
+math/0108025,A New Weighted Metric: the Relative Metric I,2.4060086373771908e-06,0.0,1.0,2.0
+math/0011002,Transmutation kernels for the little q-Jacobi function transform,2.356007672969298e-06,0.0,2.0,1.0
+math/0305379,"New transformations for elliptic hypergeometric series on the root
+  system An",2.3498267986427264e-06,0.0,3.0,1.0
+math/0303066,"Irrationalit\'e de valeurs de z\^eta (d'apr\`es Ap\'ery, Rivoal, ...)",2.3383364941139058e-06,0.0,2.0,3.0
+math/0412038,An elliptic generalization of Schur's Pfaffian identity,2.336620391089413e-06,7.674756644767182e-05,3.0,5.0
+math-ph/0507023,"Universality at the edge of the spectrum for unitary, orthogonal and
+  symplectic ensembles of random matrices",2.3314639217117456e-06,1.0002267329067767e-05,4.0,16.0
+math/0206179,Diophantine problems for q-zeta values,2.319444088114423e-06,0.0,2.0,3.0
+math/0202235,"Asymptotic properties of a family of solutions of the Painleve equation
+  PVI",2.298342810621645e-06,0.0,1.0,0.0
+math/0409186,"Robust Uncertainty Principles: Exact Signal Reconstruction from Highly
+  Incomplete Frequency Information",2.297687659070516e-06,0.0,1.0,4.0
+math-ph/0007041,Mapping Integer Order Neumann Functions To Real Orders,2.2960610328299915e-06,0.0,2.0,2.0
+math/0302114,A bilateral series involving basic hypergeometric functions,2.2952740843620777e-06,0.0,1.0,1.0
+math/0107231,"Wavelet filter functions, the matrix completion problem, and projective
+  modules over $C(\mathbb T^n)$",2.287448550728648e-06,0.0,1.0,2.0
+math/0609185,Littlewood-Paley theorem for Schroedinger operators,2.27910810532043e-06,0.0,2.0,0.0
+math/0405072,Sklyanin invariant integration,2.262118689927886e-06,2.025721732930788e-06,3.0,2.0
+math/0602425,"Scattering, determinants, hyperfunctions in relation to
+  Gamma(1-s)/Gamma(s)",2.230926538035037e-06,0.0,1.0,1.0
+math/0301070,Rayleigh triangles and non-matrix interpolation of matrix beta-integrals,2.218766773194203e-06,0.0,4.0,1.0
+math/0603133,Butcher series and control theory,2.2121522286386117e-06,0.0,1.0,0.0
+math/0501511,Wilson function transforms related to Racah coefficients,2.209966692499898e-06,0.0,1.0,0.0
+hep-th/9408113,Dilogarithm identities,2.2035579259405654e-06,0.0,3.0,41.0
+math/0508117,Szego polynomials: a view from the Riemann-Hilbert window,2.2002130166357324e-06,9.95091377580036e-07,3.0,1.0
+math/0206177,"Multiple-integral representations of very-well-poised hypergeometric
+  series",2.1937484341751194e-06,0.0,2.0,3.0
+math/0511586,Discrete vector on-site vortices,2.1623867057589947e-06,0.0,3.0,0.0
+math/0412037,Riesz transform and Riesz potentials for Dunkl transform,2.160371481500182e-06,0.0,1.0,0.0
+math/0603017,"Bessel convolutions on matrix cones: Algebraic properties and random
+  walks",2.160371481500182e-06,0.0,1.0,1.0
+math/9912140,The Askey-Wilson function transform scheme,2.1432687599820053e-06,0.0,2.0,2.0
+math/0509298,Eigenproblem for Jacobi matrices: hypergeometric series solution,2.1431424255597794e-06,9.905398953749627e-07,1.0,1.0
+math/0507061,The infinitesimal 16th Hilbert problem in dimension zero,2.140688083894168e-06,0.0,2.0,1.0
+math/0301037,Orthogonality of Jacobi polynomials with general parameters,2.1380518359121e-06,6.633942517200264e-06,1.0,5.0
+math/0405308,"On the algebraic solutions of the sixth Painlev\'e equation related to
+  second order Picard-Fuchs equations",2.136361909216049e-06,1.990182755160072e-06,1.0,1.0
+math/0310249,Singular Polynomials for the Symmetric Group and Krawtchouk Polynomials,2.133413744321449e-06,0.0,1.0,1.0
+math/0310436,Transformations of some Gauss hypergeometric functions,2.1234539040260536e-06,9.95091377580036e-07,2.0,3.0
+math/0409437,A difference-integral representation of Koornwinder polynomials,2.119144943725036e-06,4.7949624941641665e-08,3.0,2.0
+hep-th/9806174,"Solving differential equations for 3-loop diagrams: relation to
+  hyperbolic geometry and knot theory",2.1166567783933305e-06,2.022506347533568e-06,5.0,9.0
+math/0405495,Reverses of the Triangle Inequality in Inner Product Spaces,2.104675703646774e-06,0.0,1.0,1.0
+math/0503059,"Advances on Inequalities of the Schwarz, Triangle and Heisenberg Type in
+  Inner Product Spaces",2.104675703646774e-06,0.0,1.0,0.0
+math/0608714,Deformation techniques for sparse systems,2.104675703646774e-06,0.0,1.0,0.0
+math/0210423,A few remarks on linear forms involving Catalan's constant,2.089002055892366e-06,0.0,1.0,2.0
+math/0009130,Hankel determinants of Eisenstein series,2.0807283174614843e-06,0.0,1.0,2.0
+math/0205274,Quasi-exact solvability of Inozemtsev models,2.077978465770788e-06,0.0,3.0,4.0
+math/0201090,"Invariant of the hypergeometric group associated to the quantum
+  cohomology of the projective space",2.0728844662895072e-06,7.960731020640288e-06,4.0,1.0
+math/0310259,"The Sum Formula of Multiple Zeta Values and Connection Problem of the
+  Formal Knizhnik-Zamolodchikov Equation",2.066369192333137e-06,0.0,2.0,0.0
+math/0506465,Sample Paths in Wavelet Theory,2.0653557381720145e-06,0.0,3.0,0.0
+math/0007086,"QDYBE: some explicit formulas for exchange matrix and related objects in
+  case of sl(2), q=1",2.06424718940374e-06,0.0,7.0,1.0
+math/0306164,"The modular properties and the integral representations of the multiple
+  elliptic gamma functions",2.062610127780789e-06,0.0,5.0,0.0
+hep-th/9803091,"Massive 3-loop Feynman diagrams reducible to SC* primitives of algebras
+  of the sixth root of unity",2.0534632119499597e-06,2.4268999722924773e-05,5.0,38.0
+math/0408151,Disintegration of projective measures,2.0531898738165115e-06,0.0,2.0,5.0
+solv-int/9908002,Quantum Backlund transformation for the integrable DST model,2.0514094560726174e-06,2.786392163021184e-05,3.0,14.0
+math/0209272,"Proof of a summation formula for an $\tilde A_n$ basic hypergeometric
+  series conjectured by Warnaar",2.0355225109886047e-06,0.0,1.0,0.0
+math/0005071,The q-twisted cohomology and the q-hypergeometric function at |q|=1,2.0076635304504368e-06,0.0,2.0,0.0
+math/0208228,"Choosing roots of polynomials smoothly, II",2.003232623778468e-06,0.0,2.0,4.0
+math-ph/0701003,"Universality in unitary random matrix ensembles when the soft edge meets
+  the hard edge",2.001088724529364e-06,0.0,1.0,0.0
+math-ph/0601037,Orbit Functions,1.9910555650428585e-06,0.0,2.0,3.0
+math/0302322,The combinatorics of Borel covers,1.961793982722696e-06,0.0,2.0,9.0
+math/0307058,Well-poised generation of Ap\'ery-like recursions,1.958496411380088e-06,0.0,2.0,1.0
+math/0212014,"Strong asymptotics of the recurrence coefficients of orthogonal
+  polynomials associated to the generalized Jacobi weight",1.928006553755336e-06,0.0,1.0,3.0
+math/0210019,New Transformations for Painlev\'e's Third Transcendent,1.927936294506717e-06,0.0,1.0,0.0
+math-ph/0308017,"Is the Space-Time Non-Commutativity Simply Non-Commutativity of
+  Derivatives?",1.9225109537586942e-06,0.0,10.0,0.0
+nlin/0202037,Rational solutions to the Pfaff lattice and Jack polynomials,1.9201425940470944e-06,0.0,2.0,2.0
+math/9907165,A Fredholm determinant formula for Toeplitz determinants,1.917697382986907e-06,4.0006526412673966e-06,8.0,17.0
+math/0602375,"On factorization of q-difference equation for continuous q-Hermite
+  polynomials",1.9081012373518453e-06,0.0,1.0,0.0
+math/0109201,Meixner functions and polynomials related to Lie algebra representations,1.8999584650058956e-06,0.0,1.0,0.0
+math/0509015,"Scale invariant energy smoothing estimates for the Schr\""odinger
+  Equation with small Magnetic Potential",1.8950380516170012e-06,0.0,1.0,1.0
+math/0601277,Pointwise convergence of the ergodic bilinear Hilbert transform,1.8950380516170012e-06,0.0,1.0,1.0
+math/0502497,"Strichartz inequalities for the wave equation with the full Laplacian on
+  the Heisenberg group",1.8950380516170012e-06,0.0,1.0,1.0
+math/0512377,Bounds for Kakeya-type maximal operators associated with k-planes,1.8950380516170012e-06,0.0,1.0,1.0
+math/0312320,Relation between Tur\'an extremum problem and van der Corput sets,1.8950380516170012e-06,0.0,1.0,0.0
+math/0404077,Infinite Product Representations fot Multiple Gamma Function,1.8950380516170012e-06,0.0,1.0,0.0
+math/0406293,Complex codimension one singular foliations and Godbillon-Vey sequences,1.8950380516170012e-06,0.0,1.0,1.0
+math/0503158,"Special-series solution of the first-order linear vector differential
+  equation",1.8950380516170012e-06,0.0,1.0,0.0
+math/0503368,Power series solution of a nonlinear Schroedinger equation,1.8950380516170012e-06,0.0,1.0,1.0
+math/0308086,Contributions to the Theory of the Barnes Function,1.8950380516170012e-06,0.0,1.0,3.0
+math/0603646,Uniform convergence of hypergeometric series,1.8950380516170012e-06,0.0,1.0,0.0
+math/0402261,L^p eigenfunction bounds for the Hermite operator,1.8950380516170012e-06,0.0,1.0,1.0
+math/0111019,"Determinate multidimensional measures, the extended Carleman theorem and
+  quasi-analytic weights",1.8950380516170012e-06,0.0,1.0,1.0
+math/0610638,"Schur-class multipliers on the Arveson space: de Branges-Rovnyak
+  reproducing kernel spaces and commutative transfer-function realizations",1.8950380516170012e-06,0.0,1.0,0.0
+math/0610637,Transfer-function realization for multipliers of the Arveson space,1.8950380516170012e-06,0.0,1.0,0.0
+math/0603661,Frame analysis and approximation in reproducing kernel Hilbert spaces,1.8950380516170012e-06,0.0,1.0,0.0
+math/0605519,The l^1-norm of the Fourier transform on compact vector spaces,1.8950380516170012e-06,0.0,1.0,0.0
+math/0507603,Rendezvous numbers in normed spaces,1.8950380516170012e-06,0.0,1.0,0.0
+math/0607359,The Abel Lemma and the q-Gosper Algorithm,1.8950380516170012e-06,0.0,1.0,0.0
+math/0201024,An Ap\'ery-like difference equation for Catalan's constant,1.8950380516170012e-06,0.0,1.0,4.0
+math/0703236,The maximum modulus of a trigonometric trinomial,1.8950380516170012e-06,0.0,1.0,0.0
+math/9411231,Addition formula for q-disk polynomials,1.8950380516170012e-06,0.0,1.0,0.0
+math-ph/0204040,Majorana transformation for differential equations,1.8950380516170012e-06,0.0,1.0,1.0
+math/0310346,Maximal Theorems for the Directional Hilbert Transform on the Plane,1.8950380516170012e-06,0.0,1.0,0.0
+math/0109222,Contiguous relations of hypergeometric series,1.8950380516170012e-06,0.0,1.0,1.0
+math/0312218,Tur\'an's extremal problem for positive definite functions on groups,1.8950380516170012e-06,0.0,1.0,0.0
+math/0406515,"Asymptotic properties of solutions to weakly dissipative wave equations
+  below scaling",1.8950380516170012e-06,0.0,1.0,0.0
+math/0403049,Convolution operator and maximal function for Dunkl transform,1.8832850221858491e-06,1.990182755160072e-06,1.0,2.0
+math/0405368,"Positivity of Dunkl's intertwining operator via the trigonometric
+  setting",1.8832850221858491e-06,0.0,1.0,0.0
+math/0512474,Bessel convolutions on matrix cones,1.8832850221858491e-06,3.980365510320144e-06,1.0,2.0
+math/0506345,"Elementary proofs of Paley-Wiener theorems for the Dunkl transform on
+  the real line",1.8832850221858491e-06,0.0,1.0,0.0
+math/0607093,Limits of elliptic hypergeometric integrals,1.8704514647310115e-06,0.0,1.0,1.0
+math/0506099,Recombination semigroups on measure spaces,1.8644990992398877e-06,0.0,2.0,1.0
+math/0703512,"Dynamics of homogeneous scalar fields with general self-interaction
+  potentials: cosmological and gravitational collapse models",1.860739643969708e-06,0.0,1.0,0.0
+math/0405416,An augmentation of the phase space of the system of type A^{(1)}_4,1.8536302793458448e-06,0.0,1.0,0.0
+math-ph/0412065,"Discrete Painlev\'e equations for a class of \PVI $\tau$-functions given
+  as U(N) averages",1.8405046588424577e-06,0.0,1.0,0.0
+math/0502336,Commutators with Reisz Potentials in One and Several Parameters,1.8374275435614872e-06,0.0,2.0,1.0
+math/0502334,Paraproducts in One and Several Parameters,1.8374275435614872e-06,0.0,2.0,1.0
+math/0202159,An elementary proof of Apery's theorem,1.8247023305576016e-06,0.0,2.0,7.0
+math/0207046,Elliptic hypergeometric series on root systems,1.8220164590960868e-06,3.980365510320144e-06,2.0,5.0
+math/0605678,Polynomials with the half-plane property and matroid theory,1.8136921223677187e-06,0.0,2.0,2.0
+math/0302084,A Generalization of Euler's Hypergeometric Transformation,1.8133107412312605e-06,3.980365510320144e-06,1.0,1.0
+q-alg/9703013,Factorisation of Macdonald polynomials,1.807021997643299e-06,0.0,3.0,1.0
+math/0303093,Multiple Wilson and Jacobi-Pineiro polynomials,1.8052727082735184e-06,0.0,2.0,0.0
+math/0405596,On hypergeometric functions and Pochhammer $k$-symbol,1.801414702881395e-06,5.970548265480216e-06,1.0,4.0
+hep-th/9212150,"Dilogarithm identities, partitions and spectra in conformal field
+  theory, I",1.7799042617569237e-06,0.0,3.0,8.0
+math/0405162,"Representation of the Gauss hypergeometric function by multiple
+  polylogarithms and relations of multiple zeta values",1.778316652055566e-06,0.0,1.0,2.0
+math/0312312,"A set of orthogonal polynomials, dual to alternative q-Charlier
+  polynomials",1.768422918194285e-06,0.0,1.0,0.0
+math/0501257,Factorization of symmetric polynomials,1.767964708987777e-06,0.0,2.0,0.0
+math/0206199,Beta-integrals and finite orthogonal systems of Wilson polynomials,1.75257345810388e-06,5.970548265480216e-06,1.0,4.0
+math/0206285,"Algebraic Solutions of the Lam\'e Equation, Revisited",1.7456070104867696e-06,0.0,1.0,2.0
+math-ph/0305050,New transformation law for Heun and Hypergeometric Equations,1.7456070104867696e-06,0.0,1.0,0.0
+hep-th/9307056,"Dilogarithm identities, fusion rules and structure constants of CFTs",1.7302998962743686e-06,0.0,4.0,0.0
+math-ph/0307063,"Gap Probabilities for Double Intervals in Hermitian Random Matrix
+  Ensembles as $\tau$-Functions -- Spectrum Singularity case",1.725574154029802e-06,0.0,1.0,0.0
+math/0511245,"Properties of Coefficients of Certain Linear Forms in Generalized
+  Polylogarithms",1.7091619731585475e-06,0.0,1.0,2.0
+math/0502276,How can we escape Thomae's relations?,1.7091619731585475e-06,0.0,1.0,0.0
+math/0604365,"Singular limits for 4-dimensional semilinear elliptic problems with
+  exponential nonlinearity",1.703003024765287e-06,0.0,1.0,0.0
+math/0209181,Generalized Coherent States for Classical Orthogonal Polynomials,1.703003024765287e-06,0.0,1.0,8.0
+math/0508063,Long arithmetic progressions of primes,1.703003024765287e-06,0.0,1.0,1.0
+math/0311126,Partial sums of hypergeometric series of unit argument,1.703003024765287e-06,0.0,1.0,0.0
+math/0504580,Measures on the unit circle and unitary truncations of unitary operators,1.703003024765287e-06,0.0,1.0,0.0
+math/0309086,"New Reverses of Schwarz, Triangle and Bessel Inequalities in Inner
+  Product Spaces",1.703003024765287e-06,0.0,1.0,0.0
+math/0304482,Harmonic and superharmonic majorants on the disk,1.703003024765287e-06,0.0,1.0,1.0
+math/0306376,"Equivalence of summatory conditions along sequences for bounded
+  holomorphic functions",1.703003024765287e-06,0.0,1.0,0.0
+math/0308273,"Reverses of Schwarz, Triangle and Bessel Inequalities in Inner Product
+  Spaces",1.703003024765287e-06,0.0,1.0,0.0
+math/0304440,Distortion growth for iterations of diffeomorphisms of the interval,1.703003024765287e-06,0.0,1.0,0.0
+math/0610327,On the Reductions and Classical Solutions of the Schlesinger equations,1.703003024765287e-06,0.0,1.0,0.0
+math/9904111,The big q-Jacobi function transform,1.703003024765287e-06,0.0,1.0,4.0
+math/0408366,A multiparameter summation formula for Riemann theta functions,1.6938093817013202e-06,0.0,1.0,0.0
+math/0404250,Nonalgebraizable real analytic tubes in C^n,1.6855557077069396e-06,0.0,1.0,0.0
+math/0012191,Discrete bispectral Darboux transformations from Jacobi operators,1.6778746333238887e-06,0.0,2.0,0.0
+math/0101073,"A proof of a multivariable elliptic summation formula conjectured by
+  Warnaar",1.6635748758691717e-06,0.0,1.0,1.0
+math/0108073,The Elliptic Representation of the General Painlev\'e 6 Equation,1.6376647087198657e-06,2.0124609203297744e-06,2.0,2.0
+math/9906134,A seventeenth-order polylogarithm ladder,1.6374801563900608e-06,0.0,2.0,1.0
+hep-th/0301143,"The Barnes zeta-function, sphere determinants and Glaisher-
+  Kinkelin-Bendersky constants",1.6354425998828829e-06,3.331487405007541e-06,2.0,3.0
+math/0306219,"Multiple elliptic hypergeometric series --An approach from the Cauchy
+  determinant--",1.6266582579748118e-06,0.0,1.0,2.0
+math/0609094,Pade and Hermite-Pade approximation and orthogonality,1.6265532680619148e-06,0.0,1.0,0.0
+math/0104249,Irrationality of values of zeta-function,1.6157143761963262e-06,0.0,2.0,1.0
+math/9911020,"Plancherel formula for Berezin deformation of $L^2$ on Riemannian
+  symmetric space",1.6157143761963262e-06,0.0,2.0,8.0
+math-ph/0304016,"Products and Ratios of Characteristic Polynomials of Random Hermitian
+  Matrices",1.6125622564122648e-06,0.0,1.0,6.0
+math-ph/0007017,Witten deformed exterior derivative and Bessel functions,1.60698551133943e-06,0.0,1.0,2.0
+math/0307264,"Sum relations for multiple zeta values and connection formulas for the
+  Gauss hypergeometric functions",1.60698551133943e-06,0.0,1.0,0.0
+math/0307137,Duality formulas of the Special Values of Multiple Polylogarithms,1.60698551133943e-06,0.0,1.0,3.0
+math/0205108,Karlsson-Minton type hypergeometric functions on the root system C_n,1.60698551133943e-06,0.0,1.0,1.0
+math-ph/0508001,"Finding Elementary First Integrals for Rational Second Order Ordinary
+  Differential Equations",1.60698551133943e-06,0.0,1.0,0.0
+math/0503159,On the simpleness of zeros of Stokes multipliers,1.60698551133943e-06,0.0,1.0,0.0
+math/9806056,Monodromy of certain Painleve' VI transcendents and reflection groups,1.60698551133943e-06,0.0,1.0,5.0
+math/0411419,"Notes on Sobolev spaces on compact classical groups and Stein--Sahi
+  representations",1.596804066391005e-06,0.0,2.0,0.0
+math/0609580,Virasoro Actions and Harmonic Maps (after Schwarz),1.58844301118919e-06,0.0,1.0,0.0
+math/0605715,"Asymptotics of orthogonal polynomials with respect to an analytic weight
+  with algebraic singularities on the circle",1.5864102652034057e-06,0.0,1.0,0.0
+math/9812147,"A New Proof of a Theorem in Analysis by Generating Integrals and
+  Fractional Calculus",1.5795004542000273e-06,0.0,1.0,0.0
+math/0103227,Elliptic Selberg integrals,1.5721639031122331e-06,0.0,1.0,1.0
+q-alg/9509003,Exact operator solution of the Calogero-Sutherland model,1.5690692285228295e-06,0.0,1.0,8.0
+math/0404523,An essay on irrationality measures of pi and other logarithms,1.5682674092833983e-06,0.0,1.0,0.0
+math/0608577,"Principal solutions of recurrence relations and irrationality questions
+  in number theory",1.5682674092833983e-06,0.0,1.0,0.0
+nlin/0508007,"The N-soliton of the focusing nonlinear Schroedinger equation for N
+  large",1.567816029056118e-06,0.0,1.0,3.0
+math/0406484,"The dbar steepest descent method and the asymptotic behavior of
+  polynomials orthogonal on the unit circle with fixed and exponentially
+  varying nonanalytic weights",1.567816029056118e-06,8.260995218156338e-06,1.0,6.0
+hep-th/9805025,A dilogarithmic 3-dimensional Ising tetrahedron,1.5501320507422e-06,0.0,3.0,3.0
+math/9909162,Asymptotic Series for Some Painlev\'E VI Solutions,1.5493750032839157e-06,0.0,1.0,0.0
+math/9411232,"Representation-theoretic proof of the inner product and symmetry
+  identities for MacDonald's polynomials",1.5493750032839157e-06,0.0,1.0,0.0
+nlin/0009002,"Generalized orthogonal polynomials, discrete KP and Riemann-Hilbert
+  problems",1.5493750032839157e-06,0.0,1.0,1.0
+math/0502300,"Szeg\H{o} orthogonal polynomials with respect to an analytic weight:
+  canonical representation and strong asymptotics",1.548665668790757e-06,3.2855383302561606e-06,1.0,5.0
+math/0210040,Elliptic Selberg integrals and conformal blocks,1.5485796958298598e-06,1.3930022569110931e-05,1.0,4.0
+math-ph/0610063,"On the proof of universality for orthogonal and symplectic ensembles in
+  random matrix theory",1.5386413204144532e-06,0.0,2.0,1.0
+math/0304249,"Summations and transformations for multiple basic and elliptic
+  hypergeometric series by determinant evaluations",1.5339639188185153e-06,3.978651805307089e-06,1.0,4.0
+math/0310465,Finite-gap solutions of the Fuchsian equation,1.4996730570683878e-06,0.0,1.0,3.0
+math/0608724,"Approximate and global differentiability of functions over
+  non-archimedean fields",1.4835344226490424e-06,0.0,1.0,0.0
+math/0106041,On solutions of the q-hypergeometric equation with q^{N}=1,1.4835344226490424e-06,0.0,1.0,0.0
+math/0608725,Smoothness of functions global and along curves over ultra-metric fields,1.4835344226490424e-06,0.0,1.0,1.0
+math/0502492,Rotational invariance of quadromer correlations on the hexagonal lattice,1.4835344226490424e-06,0.0,1.0,0.0
+math/0407517,"Operators, martingales, and measures on projective limit spaces",1.4770847932613688e-06,0.0,1.0,3.0
+math/9907061,"The elliptic gamma function and SL(3,Z) x Z^3",1.4681217261207562e-06,0.0,1.0,5.0
+math/0201208,"The Heun equation and the Calogero-Moser-Sutherland system III: the
+  finite gap property and the monodromy",1.4629592412006444e-06,0.0,1.0,7.0
+math/0305355,Analysis of the CSP Reduction Method for Chemical Kinetics,1.4629592412006444e-06,0.0,1.0,2.0
+math/0203136,"Askey-Wilson Type Functions, With Bound States",1.4629592412006444e-06,0.0,1.0,0.0
+math/0311531,Asymptotics for general connections at infinity,1.449648589547038e-06,0.0,1.0,0.0
+math/0405372,"Certain representations of the Cuntz relations, and a question on
+  wavelets decompositions",1.446956322296335e-06,0.0,1.0,0.0
+math/0505378,Lowering and raising operators for some special orthogonal polynomials,1.446956322296335e-06,0.0,1.0,1.0
+math/0210422,"An exactly solved model for mutation, recombination and selection",1.446956322296335e-06,0.0,1.0,3.0
+math/0501425,Algebraic Hypergeometric Transformations of Modular Origin,1.446956322296335e-06,0.0,1.0,1.0
+math/0010093,Harmonic analysis on the SU(2) dynamical quantum group,1.4328367383068264e-06,0.0,1.0,0.0
+math-ph/0407073,Matter evolution in Burgulence,1.4270940493683312e-06,0.0,1.0,0.0
+math/0208224,"Hereditary topological diagonalizations and the Menger-Hurewicz
+  Conjectures",1.423679349344612e-06,0.0,1.0,8.0
+math/9909010,On a Toeplitz determinant identity of Borodin and Okounkov,1.420408174884567e-06,0.0,1.0,5.0
+math/0301210,An inequality on Chebyshev polynomials,1.407564521916496e-06,0.0,1.0,1.0
+math/9803067,"Polylogarithmic ladders, hypergeometric series and the ten millionth
+  digits of $\zeta(3)$ and $\zeta(5)$",1.3966243016094157e-06,1.0027569827997185e-06,2.0,8.0
+math/0401418,On discrete orthogonal polynomials of several variables,1.3867100393624637e-06,0.0,1.0,0.0
+math/0503297,"Asymptotic Behavior of Solutions of Complex Discrete Evolution
+  Equations: The Discrete Ginzburg-Landau Equation",1.3867100393624637e-06,0.0,1.0,0.0
+math/0205160,"Bilinear semi-classical moment functionals and their integral
+  representation",1.3858714929033935e-06,0.0,1.0,7.0
+math/9804027,Biorthogonal ensembles,1.3858714929033935e-06,1.5768228810717205e-05,1.0,7.0
+hep-th/9410146,3_F_2(1) hypergeometric function and quadratic R-matrix algebra,1.3713061602032352e-06,0.0,1.0,2.0
+math/9411225,3F2(1) hypergeometric function and quadratic R-matrix algebra,1.3713061602032352e-06,0.0,1.0,1.0
+math-ph/0411075,"Universality in Random Matrix Theory for orthogonal and symplectic
+  ensembles",1.353199199205086e-06,0.0,1.0,13.0
+cond-mat/0612318,Deformed Fokker-Planck Equations,1.3500737862270014e-06,0.0,1.0,1.0
+math/0403532,Multiple little q-Jacobi polynomials,1.3500737862270014e-06,0.0,1.0,1.0
+math/0306352,"A Generalisation of the Cassels and Greub-Reinboldt Inequalities in
+  Inner Product Spaces",1.3189329710618589e-06,0.0,0.0,1.0
+math/0101216,Generalized Hermite polynomials,1.3189329710618589e-06,0.0,0.0,3.0
+math/0309279,Unit circle elliptic beta integrals,1.3189329710618589e-06,0.0,0.0,2.0
+math/0411348,Besov spaces for Schrodinger operators with barrier potentials,1.3189329710618589e-06,0.0,0.0,3.0
+math/0304317,An Entry of Ramanujan on Hypergeometric Series in his Notebooks,1.3189329710618589e-06,0.0,0.0,1.0
+math/9711217,On sums of powers of zeros of polynomials,1.3189329710618589e-06,0.0,0.0,1.0
+math/9406224,"Some new asymptotic properties for the zeros of Jacobi, Laguerre and
+  Hermite polynomials",1.3189329710618589e-06,0.0,0.0,1.0
+math/9409227,Numerical computation of real or complex elliptic integrals,1.3189329710618589e-06,0.0,0.0,2.0
+hep-th/9211137,Dilogarithm identities and spectra in conformal field theory,1.3189329710618589e-06,0.0,0.0,7.0
+math-ph/0111010,"A Method to Tackle First Order Differential Equations with Liouvillian
+  Functions in the Solution - II",1.3189329710618589e-06,0.0,0.0,1.0
+math/0511646,A recursive bound for a Kakeya-type maximal operator,1.3189329710618589e-06,0.0,0.0,2.0
+math/0109149,Elliptic solitons and Heun's equation,1.3189329710618589e-06,0.0,0.0,6.0
+math/0606334,Rakhmanov's theorem for orthogonal matrix polynomials on the unit circle,1.3189329710618589e-06,0.0,0.0,1.0
+math/0302215,A few riddles behind Rolle's theorem,1.3189329710618589e-06,0.0,0.0,1.0
+math/0111015,Subspaces with equal closure,1.3189329710618589e-06,0.0,0.0,2.0
+math/0010161,"Elementary derivations of identities for bilateral basic hypergeometric
+  series",1.3189329710618589e-06,0.0,0.0,1.0
+math/0007046,A simple proof of Bailey's very-well-poised 6-psi-6 summation,1.3189329710618589e-06,0.0,0.0,1.0
+math/0504394,A non-MRA $C^r$ frame wavelet with rapid decay,1.3189329710618589e-06,0.0,0.0,1.0
+math/0208104,Asymptotics of polynomials and eigenfunctions,1.3189329710618589e-06,0.0,0.0,2.0
+math/0301277,"Relations for Multiple Zeta Values and Mellin Transforms of Multiple
+  Polylogarithms",1.3189329710618589e-06,0.0,0.0,4.0
+math/0310061,"Resolution of Some Open Problems Concerning Multiple Zeta Evaluations of
+  Arbitrary Depth",1.3189329710618589e-06,0.0,0.0,5.0
+math/9912113,On the q-convolution on the line,1.3189329710618589e-06,0.0,0.0,1.0
+math/9810011,On the braided Fourier transform in the n-dimensional quantum space,1.3189329710618589e-06,0.0,0.0,1.0
+math/9612224,Algorithms for classical orthogonal polynomials,1.3189329710618589e-06,0.0,0.0,1.0
+math/9908140,A note on the q-derivative operator,1.3189329710618589e-06,0.0,0.0,1.0
+math/0311039,"On multilinear oscillatory integrals, nonsingular and singular",1.3189329710618589e-06,0.0,0.0,2.0
+math/0604473,Fractional reaction-diffusion equations,1.3189329710618589e-06,0.0,0.0,2.0
+math/9903166,An improved bound on the Minkowski dimension of Besicovitch sets in R^3,1.3189329710618589e-06,0.0,0.0,2.0
+math/0310367,Bi-parameter paraproducts,1.3189329710618589e-06,0.0,0.0,5.0
+math-ph/9811001,Airy function (exact WKB results for potentials of odd degree),1.3189329710618589e-06,0.0,0.0,6.0
+math/0112179,"The Heun equation and the Calogero-Moser-Sutherland system II:
+  perturbation and algebraic solution",1.3189329710618589e-06,0.0,0.0,8.0
+math/0305311,On the middle convolution,1.3189329710618589e-06,0.0,0.0,5.0
+math/9910045,Special Values of Multiple Polylogarithms,1.3189329710618589e-06,0.0,0.0,42.0
+math/9905045,"Matrix analogs of B-functions and Plancherel formula for Berezin kernel
+  representations",1.3189329710618589e-06,0.0,0.0,11.0
+q-alg/9609032,"Confluent hypergeometric orthogonal polynomials related to the rational
+  quantum Calogero system with harmonic confinement",1.3189329710618589e-06,0.0,0.0,8.0
+math/9602214,"The Askey-scheme of hypergeometric orthogonal polynomials and its
+  q-analogue",1.3189329710618589e-06,0.0,0.0,37.0
+math/0202232,Reduction formulae for Karlsson-Minton type hypergeometric functions,1.3189329710618589e-06,0.0,0.0,4.0
+math/0305443,Wavelets on Fractals,1.3189329710618589e-06,0.0,0.0,9.0
+math/9801026,Choosing roots of polynomials smoothly,1.3189329710618589e-06,0.0,0.0,5.0
+math/0403159,On discrete q-ultraspherical polynomials and their duals,1.3189329710618589e-06,0.0,0.0,2.0
+math/0109173,Rough solution for the Einstein Vacuum equations,1.3189329710618589e-06,0.0,0.0,11.0
+math/9901054,Picard and Chazy solutions to the Painleve' VI equation,1.3189329710618589e-06,0.0,0.0,5.0
+math/0505294,On the Hasse principle for zero-cycles on Severi-Brauer fibrations,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0007036,Rational Solutions of the Painleve' VI Equation,1.3189329710618589e-06,0.0,0.0,1.0
+math/0304024,The minimal cardinality where the Reznichenko property fails,1.3189329710618589e-06,0.0,0.0,2.0
+math/9307205,An analog of the Fourier transformation for a q-harmonic oscillator,1.3189329710618589e-06,0.0,0.0,1.0
+math/0510278,Type II Hermite-Pad\'e approximation to the exponential function,1.3189329710618589e-06,0.0,0.0,2.0
+math/0205139,"A Carleson type theorem for a Cantor group model of the scattering
+  transform",1.3189329710618589e-06,0.0,0.0,1.0
+math/0409406,The Bi-Carleson operator,1.3189329710618589e-06,0.0,0.0,1.0
+math/0105159,Carleson's theorem with quadratic phase,1.3189329710618589e-06,0.0,0.0,1.0
+math/0004015,"An improved bound for the Minkowski dimension of Besicovitch sets in
+  medium dimension",1.3189329710618589e-06,0.0,0.0,1.0
+math/0405097,Remarks on Product VMO,1.3189329710618589e-06,0.0,0.0,1.0
+math/0401249,Families of surfaces lying in a null set,1.3189329710618589e-06,0.0,0.0,1.0
+math/0102135,New bounds on Kakeya problems,1.3189329710618589e-06,0.0,0.0,1.0
+math/9912202,"Negative results for Nikodym maximal functions and related oscillatory
+  integrals in curved space",1.3189329710618589e-06,0.0,0.0,1.0
+math/0609198,Convergence of the Magnus series,1.3189329710618589e-06,0.0,0.0,1.0
+q-alg/9705006,Separation of variables and integral relations for special functions,1.3189329710618589e-06,0.0,0.0,2.0
+math/9403216,"q-Special functions, a tutorial",1.3189329710618589e-06,0.0,0.0,1.0
+math/9605230,"Elementary derivations of summations and transformation formulas for
+  q-series",1.3189329710618589e-06,0.0,0.0,1.0
+math/9407214,"Askey-Wilson polynomials and the quantum SU(2) group: survey and
+  applications",1.3189329710618589e-06,0.0,0.0,1.0
+math/0501421,Some partition properties for measurable colourings of omega-one^2,1.3189329710618589e-06,0.0,0.0,1.0
+math/0506379,Residuality of Families of F-sigma Sets,1.3189329710618589e-06,0.0,0.0,1.0
+q-alg/9507033,Self-dual Koornwinder-Macdonald polynomials,1.3189329710618589e-06,0.0,0.0,1.0
+math/9307208,The combinatorics of q-Charlier polynomials,1.3189329710618589e-06,0.0,0.0,1.0
+math/0211190,"On zeros of polynomials and allied functions satisfying second order
+  differential equations",1.3189329710618589e-06,0.0,0.0,1.0
+math/0403364,On linear transformations preserving the P\'olya Frequency property,1.3189329710618589e-06,0.0,0.0,1.0
+math/0110238,Some new formulas for $\pi$,1.3189329710618589e-06,0.0,0.0,1.0
+math/0307394,Classification of Steadily Rotating Spiral Waves for the Kinematic Model,1.3189329710618589e-06,0.0,0.0,1.0
+math/9503224,"Macdonald's symmetric polynomials as zonal spherical functions on some
+  quantum homogeneous spaces",1.3189329710618589e-06,0.0,0.0,2.0
+math/9204236,The $\bal$\ and $\bcl$\ Bailey Transform and Lemma,1.3189329710618589e-06,0.0,0.0,1.0
+math/0603028,"Similarity solutions for high frequency excitation of liquid metal in an
+  antisymmetric magnetic field",1.3189329710618589e-06,0.0,0.0,1.0
+math/9803146,Transformation formulae for multivariable basic hypergeometric series,1.3189329710618589e-06,0.0,0.0,1.0
+math/0403085,Resurgent Deformations for an Ordinary Differential Equation of Order 2,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9311152,Gauss hypergeometric function and quadratic $R$-matrix algebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/0604085,Random gaps,1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/0407018,"Analytic theory of difference equations with rational and elliptic
+  coefficients and the Riemann-Hilbert problem",1.3189329710618589e-06,0.0,0.0,1.0
+math/0511579,Classical elliptic hypergeometric functions and their applications,1.3189329710618589e-06,0.0,0.0,1.0
+math/0112137,Expansions of Theta Functions and Applications,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0602025,"On local symbolic approximation and resolution of ODEs using Implicit
+  Function Theorem",1.3189329710618589e-06,0.0,0.0,1.0
+math/0701756,"Applications of M.G. Krein's Theory of Regular Symmetric Operators to
+  Sampling Theory",1.3189329710618589e-06,0.0,0.0,1.0
+math/0502141,"Non-holonomicity of the sequence $\log 1, \log 2, \log 3, ...$",1.3189329710618589e-06,0.0,0.0,1.0
+math/0403034,Sur les Theoremes I et II de Painleve,1.3189329710618589e-06,0.0,0.0,1.0
+math/0401348,"Commutators of singular integrals on generalized $L^p$ spaces with
+  variable exponent",1.3189329710618589e-06,0.0,0.0,1.0
+math/0504416,"Right order Turan-type converse Markov inequalities for convex domains
+  on the plane",1.3189329710618589e-06,0.0,0.0,1.0
+math/0702756,"Analytic projections, Corona Problem and geometry of holomorphic vector
+  bundles",1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/0112008,Sum Rules for Jacobi Matrices and Their Applications to Spectral Theory,1.3189329710618589e-06,0.0,0.0,1.0
+math/0312090,"A bifurcation result for semi-Riemannian trajectories of the Lorentz
+  force equation",1.3189329710618589e-06,0.0,0.0,1.0
+math/0311055,"Asymptotic upper bounds for the entropy of orthogonal polynomials in the
+  Szeg\H{o} class",1.3189329710618589e-06,0.0,0.0,2.0
+math/0506620,An extremal problem related to negative refraction,1.3189329710618589e-06,0.0,0.0,1.0
+math/0507536,"Uniqueness for the signature of a path of bounded variation and the
+  reduced path group",1.3189329710618589e-06,0.0,0.0,1.0
+math/0310010,On Equi-Weyl Almost Periodic Selections of Multivalued Maps,1.3189329710618589e-06,0.0,0.0,1.0
+math/9402212,A characterization of the Rogers q-Hermite polynomials,1.3189329710618589e-06,0.0,0.0,1.0
+math/9307213,Some integrals involving Bessel functions,1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/0501070,"The Role of Three-dimensional Subalgebra in the Analysis of Hidden
+  Symmetries of Differential Equations",1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0111060,Singularity analysis of a new discrete nonlinear Schrodinger equation,1.3189329710618589e-06,0.0,0.0,1.0
+math/0510342,Visibility for self-similar sets of dimension one in the plane,1.3189329710618589e-06,0.0,0.0,1.0
+math/0306134,Fuglede's conjecture is false in 5 and higher dimensions,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0004037,"On integrability of the differential constraints arising from the
+  singularity analysis",1.3189329710618589e-06,0.0,0.0,1.0
+math/0511638,"Guided Dynamical Systems and Applications to Functional and Partial
+  Differential Equations",1.3189329710618589e-06,0.0,0.0,1.0
+math/0512243,R. Fuchs' problem of the Painleve equations from the first to the fifth,1.3189329710618589e-06,0.0,0.0,1.0
+math/0512428,"Generalized $\alpha$-variation and Lebesgue equivalence to
+  differentiable functions",1.3189329710618589e-06,0.0,0.0,1.0
+math/9906079,"On an ambiguity in the concept of partial and total derivatives in
+  classical analysis",1.3189329710618589e-06,0.0,0.0,1.0
+math/9504218,More on the q-oscillator algebra and q-orthogonal polynomials,1.3189329710618589e-06,0.0,0.0,1.0
+math/0512424,Orthogonal Polynomials,1.3189329710618589e-06,0.0,0.0,1.0
+math/0511222,"On bounded solutions for second order linear differential equations with
+  negative stiffness",1.3189329710618589e-06,0.0,0.0,1.0
+math/0309463,A geometric approach to the Littlewood-Paley theory,1.3189329710618589e-06,0.0,0.0,1.0
+math/0201061,A weak-type orthogonality principle,1.3189329710618589e-06,0.0,0.0,2.0
+math/0311307,Analytic continuation of eigenvalues of the Lam\'e operator,1.3189329710618589e-06,0.0,0.0,1.0
+math/0608523,On contractive families and a fixed-point question of Stein,1.3189329710618589e-06,0.0,0.0,1.0
+math/0011047,"A non-automatic (!) application of Gosper's algorithm evaluates a
+  determinant from tiling enumeration",1.3189329710618589e-06,0.0,0.0,2.0
+math-ph/0308002,Fredholm Differential Operators with Unbounded Coefficients,1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/9906018,"Anyons: Pseudo-integrability, Symmetry reduction and Semiclassical
+  Spectrum",1.3189329710618589e-06,0.0,0.0,1.0
+math/0305322,A Generalisation of an Ostrowski Inequality in Inner Product Spaces,1.3189329710618589e-06,0.0,0.0,1.0
+math/0507299,Some Remarks on CMV Matrices and Dressing Orbits,1.3189329710618589e-06,0.0,0.0,2.0
+math/9501219,Lectures on the affine Hecke algebras and Macdonald conjectures,1.3189329710618589e-06,0.0,0.0,2.0
+math/0411247,Geometric Aspects of the Moduli Space of Riemann Surfaces,1.3189329710618589e-06,0.0,0.0,2.0
+math/0505555,Multiple operator integrals and higher operator derivatives,1.3189329710618589e-06,0.0,0.0,2.0
+math/0402031,A Christoffel-Darboux formula for multiple orthogonal polynomials,1.3189329710618589e-06,0.0,0.0,1.0
+math/0109174,The causal structure of microlocalized Einstein metrics,1.3189329710618589e-06,0.0,0.0,3.0
+math/0406261,"Analytic representation of functions and a new quasi-analyticity
+  threshold",1.3189329710618589e-06,0.0,0.0,1.0
+math/0412051,Convergence of Markov processes near saddle fixed points,1.3189329710618589e-06,0.0,0.0,1.0
+math/0701458,"Optimal control of a large dam, taking into account the water costs",1.3189329710618589e-06,0.0,0.0,1.0
+math/0302261,"A generalized mean value inequality for subharmonic functions and
+  applications",1.3189329710618589e-06,0.0,0.0,1.0
+math/9907110,Small eigenvalues of large Hankel matrices:The indeterminate case,1.3189329710618589e-06,0.0,0.0,1.0
+math/0602283,Symmetric Joins and Weighted Barycenters,1.3189329710618589e-06,0.0,0.0,1.0
+math/0612265,"Mappings and spaces, 2",1.3189329710618589e-06,0.0,0.0,1.0
+math/0612400,"Two Variable Orthogonal Polynomials on the Bi-circle and Structured
+  Matrices",1.3189329710618589e-06,0.0,0.0,1.0
+math/9904176,\Lambda(p)-sets and the limit order of operator ideals,1.3189329710618589e-06,0.0,0.0,1.0
+math/0603351,"Distributions with dynamic test functions and multiplication by
+  discontinuous functions",1.3189329710618589e-06,0.0,0.0,1.0
+math/0007014,Lusternik--Schnirelmann theory on general spaces,1.3189329710618589e-06,0.0,0.0,1.0
+math/9904066,"Packing, tiling, orthogonality and completeness",1.3189329710618589e-06,0.0,0.0,1.0
+math/0211171,Some topics pertaining to algebras of linear operators,1.3189329710618589e-06,0.0,0.0,1.0
+math/0604472,"A certain class of Laplace transforms with applications to reaction and
+  reaction-diffusion equations",1.3189329710618589e-06,0.0,0.0,1.0
+math/0605522,The Littlewood-Gowers problem,1.3189329710618589e-06,0.0,0.0,1.0
+math/0608109,"Lattice points on circles, squares in arithmetic progressions and
+  sumsets of squares",1.3189329710618589e-06,0.0,0.0,1.0
+math/0101051,Multiple Equilibria for an SIRS Epidemiological System,1.3189329710618589e-06,0.0,0.0,1.0
+math/0512306,"Convolutions and mean square estimates of certain number-theoretic error
+  terms",1.3189329710618589e-06,0.0,0.0,1.0
+math/0607122,A new multivariable 6-psi-6 summation formula,1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/0505063,"Lectures on chainlet geometry - new topological methods in geometric
+  measure theory",1.3189329710618589e-06,0.0,0.0,2.0
+math-ph/0501001,Ravello lecture notes on geometric calculus -- Part I,1.3189329710618589e-06,0.0,0.0,2.0
+math/9307207,The q-harmonic oscillator and the Al-Salam and Carlitz polynomials,1.3189329710618589e-06,0.0,0.0,1.0
+math/9411229,On a general q-Fourier transformation with nonsymmetric kernels,1.3189329710618589e-06,0.0,0.0,1.0
+math/0207122,Symmetric Functions and B_N-invariant Spherical Harmonics,1.3189329710618589e-06,0.0,0.0,1.0
+math/0611936,Fuglede's conjecture fails in dimension 4,1.3189329710618589e-06,0.0,0.0,1.0
+math/0612016,On Fuglede's conjecture and the existence of universal spectra,1.3189329710618589e-06,0.0,0.0,1.0
+math/9902034,Normal forms of real hyepersurfaces with nondegenerate Levi form,1.3189329710618589e-06,0.0,0.0,1.0
+math/9902035,Umbilic points and Real hyperquadrics,1.3189329710618589e-06,0.0,0.0,1.0
+math/0001033,Askey-Wilson polynomials: an affine Hecke algebraic approach,1.3189329710618589e-06,0.0,0.0,8.0
+math/9902036,Analytic continuation of a biholomorphic mapping,1.3189329710618589e-06,0.0,0.0,1.0
+math/9506216,Addition formulas for q-special functions,1.3189329710618589e-06,0.0,0.0,1.0
+math/0102080,"On the valuation of arithmetic-average Asian options: the Geman-Yor
+  Laplace transform revisited",1.3189329710618589e-06,0.0,0.0,1.0
+math/0311195,On a combinatorial problem of Asmus Schmidt,1.3189329710618589e-06,0.0,0.0,1.0
+math/0405050,"Another proofs of the geometrical forms of Paley-Wiener theorems for the
+  Dunkl transform and inversion formulas for the Dunkl interwining operator and
+  for its dual",1.3189329710618589e-06,0.0,0.0,1.0
+math/0503423,Potential theoretic approach to rendezvous numbers,1.3189329710618589e-06,0.0,0.0,2.0
+math/0102145,The Sidon constant of sets with three elements,1.3189329710618589e-06,0.0,0.0,2.0
+math/0407344,Low-pass filters and representations of the Baumslag Solitar group,1.3189329710618589e-06,0.0,0.0,2.0
+math/0204248,"Riemann--Hilbert analysis for Laguerre polynomials with large negative
+  parameter",1.3189329710618589e-06,0.0,0.0,1.0
+math/0112269,"Critical points of functions, sl_2 representations, and Fuchsian
+  differential equations with only univalued solutions",1.3189329710618589e-06,0.0,0.0,7.0
+math/0502406,"Littlewood-Paley decompositions and Besov spaces on Lie groups of
+  polynomial growth",1.3189329710618589e-06,0.0,0.0,2.0
+nlin/0206009,Computing Riemann Theta Functions,1.3189329710618589e-06,0.0,0.0,2.0
+math-ph/0001037,Abel ODEs: Equivalence and Integrable Classes,1.3189329710618589e-06,0.0,0.0,3.0
+math/9307206,The q-harmonic oscillator and an analog of the Charlier polynomials,1.3189329710618589e-06,0.0,0.0,2.0
+math/0311181,Recent progress on the restriction conjecture,1.3189329710618589e-06,0.0,0.0,1.0
+math/0411120,The $L^p$ Dirichlet Problem for Elliptic Systems on Lipschitz Domains,1.3189329710618589e-06,0.0,0.0,2.0
+math/0307187,Coherent states for the Legendre oscillator,1.3189329710618589e-06,0.0,0.0,5.0
+math/0607668,An application of a local version of Chang's theorem,1.3189329710618589e-06,0.0,0.0,2.0
+math/0010162,"A new A_n extension of Ramanujan's 1-psi-1 summation with applications
+  to multilateral A_n series",1.3189329710618589e-06,0.0,0.0,2.0
+math/0402354,Ramanujan's Approximation to the nth Partial Sum of the Harmonic Series,1.3189329710618589e-06,0.0,0.0,2.0
+math/0306233,The best bounds of harmonic sequence,1.3189329710618589e-06,0.0,0.0,2.0
+math/0311510,Counting Integral Lam\'e Equations by Means of Dessins d'Enfants,1.3189329710618589e-06,0.0,0.0,2.0
+math/0407391,"The image of the heat kernel transform on Riemannian symmetric spaces of
+  the noncompact type",1.3189329710618589e-06,0.0,0.0,2.0
+math/0504030,"Necessary conditions for vector-valued operator inequalities in harmonic
+  analysis",1.3189329710618589e-06,0.0,0.0,1.0
+math/0002226,Orthogonal Polynomials and Generalized Oscillator Algebras,1.3189329710618589e-06,0.0,0.0,7.0
+math/9906097,"A new bound on partial sum-sets and difference-sets, and applications to
+  the Kakeya conjecture",1.3189329710618589e-06,0.0,0.0,2.0
+math/0205094,Differential properties of matrix orthogonal polynomials,1.3189329710618589e-06,0.0,0.0,1.0
+math/0104260,"Integral Transform and Segal-Bargmann Representation Associated to
+  q-Charlier Polynomials",1.3189329710618589e-06,0.0,0.0,1.0
+math/9512225,Some remarks on the construction of quantum symmetric spaces,1.3189329710618589e-06,0.0,0.0,3.0
+math/9903203,On Calder\'on's conjecture,1.3189329710618589e-06,0.0,0.0,2.0
+math/0111037,"Asymptotics of the Fourier and Laplace transforms in weighted spaces of
+  analytic functions",1.3189329710618589e-06,0.0,0.0,1.0
+math/0306008,"An Infinite Product for e^gamma via Hypergeometric Formulas for Euler's
+  Constant, gamma",1.3189329710618589e-06,0.0,0.0,2.0
+math/0205088,Poincare Inequalities in Punctured Domains,1.3189329710618589e-06,0.0,0.0,3.0
+math/0407499,"An Improved Energy-Area Inequality for Harmonic Maps Using Image
+  Curvature",1.3189329710618589e-06,0.0,0.0,1.0
+math/0005095,A generalization of Kummer's identity,1.3189329710618589e-06,0.0,0.0,2.0
+math/0403030,Distributions and Analytic Continuation of Dirichlet Series,1.3189329710618589e-06,0.0,0.0,2.0
+math/0508632,"Global well-posedness of the Benjamin-Ono equation in low-regularity
+  spaces",1.3189329710618589e-06,0.0,0.0,3.0
+math/9910039,Multi-linear operators given by singular multipliers,1.3189329710618589e-06,0.0,0.0,2.0
+math/0502347,"Spectral Convergence of the Discrete Laplacian on Models of a Metrized
+  Graph",1.3189329710618589e-06,0.0,0.0,3.0
+math/0311261,Canonical structure and symmetries of the Schlesinger equations,1.3189329710618589e-06,0.0,0.0,3.0
+math/0607555,"Meromorphic Solutions of Linear Differential Systems, Painleve type
+  functions",1.3189329710618589e-06,0.0,0.0,1.0
+math/0504540,"The Hermite-Krichever ansatz for Fuchsian equations with applications to
+  the sixth Painlev\'e equation and to finite-gap potentials",1.3189329710618589e-06,0.0,0.0,2.0
+math/0609426,Sum-product estimates in finite fields,1.3189329710618589e-06,0.0,0.0,1.0
+math/0411598,Dissipative Boundary Conditions for Ordinary Differential Operators,1.3189329710618589e-06,0.0,0.0,1.0
+math/0610624,Jacobi decomposition of weighted Triebel-Lizorkin and Besov spaces,1.3189329710618589e-06,0.0,0.0,1.0
+math/0406238,"Inverse spectral problems for Sturm-Liouville operators with singular
+  potentials, IV. Potentials in the Sobolev space scale",1.3189329710618589e-06,0.0,0.0,1.0
+math/0611145,Localized polynomial frames on the ball,1.3189329710618589e-06,0.0,0.0,1.0
+math/0407252,"Eigenvalue asymptotics for Sturm--Liouville operators with singular
+  potentials",1.3189329710618589e-06,0.0,0.0,1.0
+math/0407447,"Second order difference equations and discrete orthogonal polynomials of
+  two variables",1.3189329710618589e-06,0.0,0.0,1.0
+math/0612489,Two variable deformations of the Chebyshev measure,1.3189329710618589e-06,0.0,0.0,1.0
+math/0703546,Quantum Hilbert matrices and orthogonal polynomials,1.3189329710618589e-06,0.0,0.0,1.0
+math/0702626,Oseledets regularity functions for Anosov flows,1.3189329710618589e-06,0.0,0.0,1.0
+math/0401310,New bounds on the Hermite polynomials,1.3189329710618589e-06,0.0,0.0,1.0
+math/0310348,Hankel Operators in Several Complex Variables and Product $BMO\zProd$,1.3189329710618589e-06,0.0,0.0,1.0
+math/0212164,L^p bounds for a maximal dyadic sum operator,1.3189329710618589e-06,0.0,0.0,1.0
+math/9501224,How many zeros of a random polynomial are real?,1.3189329710618589e-06,0.0,0.0,1.0
+math/9207221,Convolution polynomials,1.3189329710618589e-06,0.0,0.0,1.0
+math/9307224,Generalized Hermite polynomials and the Bose-like oscillator calculus,1.3189329710618589e-06,0.0,0.0,1.0
+math/0304240,"On the p-Logarithmic and Alpha-Power Divergence Measures in Information
+  Theory",1.3189329710618589e-06,0.0,0.0,1.0
+math/0401243,The heat kernel transform for the Heisenberg group,1.3189329710618589e-06,0.0,0.0,1.0
+math/0504451,"A Fourier restriction theorem for hypersurfaces which are graphs of
+  certain real polynomials",1.3189329710618589e-06,0.0,0.0,1.0
+math/0601628,"Differential equations driven by H\""{o}lder continuous functions of
+  order greater than 1/2",1.3189329710618589e-06,0.0,0.0,1.0
+math/0012072,"On the valuation of arithmetic-average Asian options: Laguerre series
+  and Theta integrals",1.3189329710618589e-06,0.0,0.0,1.0
+math/0505124,Empirically determined Apery-like formulae for zeta(4n+3),1.3189329710618589e-06,0.0,0.0,1.0
+math/0202083,Asymptotic analysis for the Dunkl kernel,1.3189329710618589e-06,0.0,0.0,1.0
+math/0505093,"Searching symbolically for Apery-like formulae for values of the Riemann
+  zeta function",1.3189329710618589e-06,0.0,0.0,1.0
+math/9911153,Sharp L^2 bounds for oscillatory integral operators with C^\infty phases,1.3189329710618589e-06,0.0,0.0,1.0
+math/0609187,Kakeya Sets in Cantor directions,1.3189329710618589e-06,0.0,0.0,1.0
+math/0609196,Hyperbolic Schwarz map for the hypergeometric differential equation,1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/0211022,"Asymptotics of the partition function for random matrices via
+  Riemann-Hilbert techniques, and applications to graphical enumeration",1.3189329710618589e-06,0.0,0.0,1.0
+math/9409230,On Jacobi and continuous Hahn polynomials,1.3189329710618589e-06,0.0,0.0,1.0
+math/0002008,"Generalized Riemann - Liouville fractional derivatives for multifractal
+  sets",1.3189329710618589e-06,0.0,0.0,8.0
+math/0310238,Computation of the entropy of polynomials orthogonal on an interval,1.3189329710618589e-06,0.0,0.0,1.0
+math/9807089,Orthonormal Compactly Supported Wavelets with Optimal Sobolev Regularity,1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/0307055,Random matrices with external source and multiple orthogonal polynomials,1.3189329710618589e-06,0.0,0.0,4.0
+math/0310062,Multiple Polylogarithms: A Brief Survey,1.3189329710618589e-06,0.0,0.0,7.0
+q-alg/9504012,On the diagonalization of difference Calogero-Sutherland systems,1.3189329710618589e-06,0.0,0.0,5.0
+math/0305252,Spheres and Minima,1.3189329710618589e-06,0.0,0.0,2.0
+math/0407265,Degenerate Gauss hypergeometric functions,1.3189329710618589e-06,0.0,0.0,2.0
+math/0004053,The Askey-Wilson function transform,1.3189329710618589e-06,0.0,0.0,1.0
+math/0510581,Maximal multilinear operators,1.3189329710618589e-06,0.0,0.0,2.0
+math/0510341,Some remarks on the Wu-Sprung potential. Preliminary report,1.3189329710618589e-06,0.0,0.0,2.0
+math/9804082,On a Functional Differential Equation of Determinantal Type,1.3189329710618589e-06,0.0,0.0,2.0
+math/0212254,"Moduli of continuity and average decay of Fourier transforms: two-sided
+  estimates",1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/0008033,"Integrability, Random Matrices and Painlev\'e Transcendents",1.3189329710618589e-06,0.0,0.0,3.0
+math/0011046,Orthogonal polynomials associated with root systems,1.3189329710618589e-06,0.0,0.0,2.0
+math/0509575,"Evolutionary Trees and the Ising Model on the Bethe Lattice: a Proof of
+  Steel's Conjecture",1.3189329710618589e-06,0.0,0.0,1.0
+math/0601074,"Blow-up in finite time for the dyadic model of the Navier-Stokes
+  equations",1.3189329710618589e-06,0.0,0.0,1.0
+math/0309286,"Nonlinear potentials and two weight trace inequalities for general
+  dyadic and radial kernels",1.3189329710618589e-06,0.0,0.0,1.0
+math/0603138,"Asymptotic isoperimetry on groups and uniform embeddings into Banach
+  spaces",1.3189329710618589e-06,0.0,0.0,6.0
+math/0002111,"Prediction Properties of Aitken's Iterated Delta^2 Process, of Wynn's
+  Epsilon Algorithm, and of Brezinski's Iterated Theta Algorithm",1.3189329710618589e-06,0.0,0.0,3.0
+math/9503225,Quantum symmetric spaces and related q-orthogonal polynomials,1.3189329710618589e-06,0.0,0.0,4.0
+math/0106048,Decrease of bounded holomorphic functions along discrete sets,1.3189329710618589e-06,0.0,0.0,3.0
+math/0309130,"There are Significantly More Nonnegative Polynomials than Sums of
+  Squares",1.3189329710618589e-06,0.0,0.0,4.0
+math/0303205,Theta hypergeometric integrals,1.3189329710618589e-06,0.0,0.0,5.0
+math/9902121,Study of a Class of Regularizations of 1/|x| using Gaussian Integrals,1.3189329710618589e-06,0.0,0.0,1.0
+math/0605047,"Maximal inequalities and Riesz transform estimates on $L^p$ spaces for
+  Schr\""odinger operators with nonnegative potentials",1.3189329710618589e-06,0.0,0.0,1.0
+math/0501042,Asymptotic analysis of the Krawtchouk polynomials by the WKB method,1.3189329710618589e-06,0.0,0.0,1.0
+math/0503735,Spherical transform and Jacobi polynomials on root systems of type BC,1.3189329710618589e-06,0.0,0.0,1.0
+math/0304155,Probabilistic aspects of Al-Salam-Chihara polynomials,1.3189329710618589e-06,0.0,0.0,1.0
+math/0206089,Heat kernel expansions on the integers,1.3189329710618589e-06,0.0,0.0,3.0
+math/0308074,Multiple Gamma Function and Its Application to Computation of Series,1.3189329710618589e-06,0.0,0.0,2.0
+math/0110241,"Geometric and Physical Interpretation of Fractional Integration and
+  Fractional Differentiation",1.3189329710618589e-06,0.0,0.0,4.0
+math/0404293,"Some remarks on a proof of geometrical Paley-Wiener theorems for the
+  Dunkl transform",1.3189329710618589e-06,0.0,0.0,1.0
+math/9312210,"Solutions to the associated q-Askey-Wilson polynomial recurrence
+  relation",1.3189329710618589e-06,0.0,0.0,1.0
+math/9411226,"Contiguous relations, basic hypergeometric functions, and orthogonal
+  polynomials : III. associated continuous dual q-Hahn polynomials",1.3189329710618589e-06,0.0,0.0,1.0
+math/0402175,"Iterated function systems, representations, and Hilbert space",1.3189329710618589e-06,0.0,0.0,1.0
+math/0412314,A representation formula related to Schrodinger operators,1.3189329710618589e-06,0.0,0.0,2.0
+math/9809088,"Asymptotic formulas for determinants of a sum of finite Toeplitz and
+  Hankel matrices",1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0003039,A system of four ODEs: the singularity analysis,1.3189329710618589e-06,0.0,0.0,1.0
+math/0605524,Boolean functions with small spectral norm,1.3189329710618589e-06,0.0,0.0,1.0
+math/0703084,"Inequalities and monotonicity of ratios for generalized hypergeometric
+  function",1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/0001004,Solving second order equations by extending the PS method,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0410043,"Semiclassical orthogonal polynomials, matrix models and isomonodromic
+  tau functions",1.3189329710618589e-06,0.0,0.0,8.0
+math/0405246,"Minimal representations of unitary operators and orthogonal polynomials
+  on the unit circle",1.3189329710618589e-06,0.0,0.0,3.0
+math/0411607,Multi-parameter paraproducts,1.3189329710618589e-06,0.0,0.0,4.0
+math/0211291,Turan Extremum Problem for Periodic Function with Small Support,1.3189329710618589e-06,0.0,0.0,2.0
+math/0101168,"On the sums Sum((4k+1)^(-n),k,-inf,+inf)",1.3189329710618589e-06,0.0,0.0,2.0
+math/0102032,"Analytic continuation of the generalized hypergeometric series near unit
+  argument with emphasis on the zero-balanced series",1.3189329710618589e-06,0.0,0.0,3.0
+hep-th/9310083,"Representations of affine Lie algebras, parabolic differential
+  equations, and Lame functions",1.3189329710618589e-06,0.0,0.0,4.0
+math/0508577,A remark on Littlewood-Paley theory for the distorted Fourier transform,1.3189329710618589e-06,0.0,0.0,2.0
+math/0408369,Short proofs of the elliptic beta integrals,1.3189329710618589e-06,0.0,0.0,3.0
+math/0008017,Cancellation of factorials,1.3189329710618589e-06,0.0,0.0,2.0
+math/9805023,"q-Laguerre polynomials and big q-Bessel functions and their
+  orthogonality relations",1.3189329710618589e-06,0.0,0.0,3.0
+math/0111150,On uniformization of Burnside's curve $y^2=x^5-x$,1.3189329710618589e-06,0.0,0.0,2.0
+math/9912001,A converse extrapolation theorem for translation invariant operators,1.3189329710618589e-06,0.0,0.0,1.0
+math/9912098,Sharp Lorentz space estimates for rough operators,1.3189329710618589e-06,0.0,0.0,1.0
+math/0508013,"A comparative analysis of Bernstein type estimates for the derivative of
+  multivariate polynomials",1.3189329710618589e-06,0.0,0.0,1.0
+math/0601371,On functions of Jacobi and Weierstrass (I),1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/0204006,"Universality for eigenvalue correlations from the modified Jacobi
+  unitary ensemble",1.3189329710618589e-06,0.0,0.0,1.0
+math/0302142,Jacobi Polynomials from Compatibility Conditions,1.3189329710618589e-06,0.0,0.0,1.0
+math/0508039,"Discrete orthogonal polynomials and difference equations of several
+  variables",1.3189329710618589e-06,0.0,0.0,1.0
+math/0603093,CMV matrices: Five years after,1.3189329710618589e-06,0.0,0.0,1.0
+math/0603640,"Weighted norm inequalities, off-diagonal estimates and elliptic
+  operators. Part I: General operator theory and weights",1.3189329710618589e-06,0.0,0.0,1.0
+math/0505065,"The Brascamp-Lieb inequalities: finiteness, structure, and extremals",1.3189329710618589e-06,0.0,0.0,1.0
+math/0604312,Irrationality of $\zeta_q(1)$ and $\zeta_q(2)$,1.3189329710618589e-06,0.0,0.0,1.0
+math/0504245,"Difference analogue of the Lemma on the Logarithmic Derivative with
+  applications to difference equations",1.3189329710618589e-06,0.0,0.0,1.0
+math/0606133,Parameter-based Fisher's information of orthogonal polynomials,1.3189329710618589e-06,0.0,0.0,1.0
+math/0503075,Slowing down and reflection of waves in truncated periodic media,1.3189329710618589e-06,0.0,0.0,1.0
+math/0606743,One Parameter Generalizations of the Fibonacci and Lucas Numbers,1.3189329710618589e-06,0.0,0.0,1.0
+math/0301094,"Linearization coefficients for orthogonal polynomials using stochastic
+  processes",1.3189329710618589e-06,0.0,0.0,3.0
+math/0410542,"Near Optimal Signal Recovery From Random Projections: Universal Encoding
+  Strategies?",1.3189329710618589e-06,0.0,0.0,5.0
+math/0606360,Multivariate Polya-Schur classification problems in the Weyl algebra,1.3189329710618589e-06,0.0,0.0,5.0
+math-ph/0003005,Discrete phase integral method for five-term recursion relations,1.3189329710618589e-06,0.0,0.0,6.0
+math/0407428,"Metrized graphs, electrical networks, and Fourier analysis",1.3189329710618589e-06,0.0,0.0,3.0
+math/9811068,"Trace formula in noncommutative geometry and the zeros of the Riemann
+  zeta function",1.3189329710618589e-06,0.0,0.0,11.0
+cond-mat/0310735,Multiplicity of periodic solutions in bistable equations,,,,
+cs/0310043,"Value-at-Risk and Expected Shortfall for Quadratic portfolio of
+  securities with mixture of elliptic Distributed Risk Factors",,,,
+cs/0502014,On the asymptotic behavior of some Algorithms,,,,
+cs/0510051,Numerical resolution of some BVP using Bernstein polynomials,,,,
+cs/0604084,"A Recursive Method for Determining the One-Dimensional Submodules of
+  Laurent-Ore Modules",,,,
+cs/0703121,Differential Equations for Algebraic Functions,,,,
+funct-an/9612008,Some Topics in Fourier Analysis and Approximation Theory,,,,
+funct-an/9707004,Normalization Integrals of Orthogonal Heun Functions,,,,
+hep-th/9310091,"On a q-Deformation of the Discrete Painlev\'e I Equation and
+  q-Orthogonal Polynomials",,,,
+hep-th/9312012,New relations for two-dimensional Hermite polynomials,,,,
+hep-th/9405010,"Asymptotics for the Fredholm Determinant of the Sine Kernel on a Union
+  of Intervals",,,,
+math-ph/0008012,Compactness of the embedding operators for rough domains,,,,
+math-ph/0008026,"Model selection for inverse problems: Best choice of basis function and
+  model order selection",,,,
+math-ph/0011021,A Laguerre Polynomial Orthogonality and the Hydrogen Atom,,,,
+math-ph/0107011,"General Decomposition of Radial Functions on R^n and Applications to
+  N-Body Quantum Systems",,,,
+math-ph/0203058,Zeros of polynomials orthogonal on several intervals,,,,
+math-ph/0301010,"Analytical solution of linear ordinary differential equations by
+  differential transfer matrix method",,,,
+math-ph/0303041,The prolate spheroidal phenomena and bispectrality,,,,
+math-ph/0304027,"On the expansion of the Kummer function in terms of incomplete Gamma
+  functions",,,,
+math-ph/0307065,Generalised definitions of certain functions and their uses,,,,
+math-ph/0312024,From exact-WKB towards singular quantum perturbation theory,,,,
+math-ph/0406046,On Generalized Fractional Kinetic Equations,,,,
+math-ph/0406047,Unified Fractional Kinetic Equation and a Fractional Diffusion Equation,,,,
+math-ph/0406049,"Astrophysical Thermonuclear Functions for Boltzmann-Gibbs Statistics and
+  Tsallis Statistics",,,,
+math-ph/0409005,"Virtual turning points and bifurcation of Stokes curves for higher order
+  ordinary differential equations",,,,
+math-ph/0409065,Higher-Order Szego Theorems With Two Singular Points,,,,
+math-ph/0411083,Precise coupling terms in adiabatic quantum evolution: The generic case,,,,
+math-ph/0412047,"Lax pairs for the Ablowitz-Ladik system via orthogonal polynomials on
+  the unit circle",,,,
+math-ph/0412083,A class of identities relating Whittaker and Bessel functions,,,,
+math-ph/0503063,"On Separation of Minimal Riesz Energy Points on Spheres in Euclidean
+  Spaces",,,,
+math-ph/0506037,"A semi-algorithm to find elementary first order invariants of rational
+  second order ordinary differential equations",,,,
+math-ph/0506040,Large Parameter Behavior of Equilibrium Measures,,,,
+math-ph/0603011,"A New Form of the Spherical Expansion of Zonal Functions and Fourier
+  Transforms of SO(d)-Finite Functions",,,,
+math-ph/0605035,"Determining Liouvillian First Integrals for Dynamical Systems in the
+  Plane",,,,
+math-ph/0612073,Mass-sign duality of cubic oscillators,,,,
+math-ph/0703073,A new integral representation for the Riemann Zeta function,,,,
+math-ph/9909033,Infinities in Physics and Transfinite numbers in Mathematics,,,,
+math-ph/9911034,Inequalities for the derivatives,,,,
+math/0002067,Fuglede's conjecture for a union of two intervals,,,,
+math/0002152,"BMO, H^1, and Calderon-Zygmund operators for non doubling measures",,,,
+math/0002221,"A proof of the weak (1,1) inequality for singular integrals with non
+  doubling measures based on a Calderon-Zygmund decomposition",,,,
+math/0003014,Fourier Tauberian Theorems and Applications,,,,
+math/0003148,"Second-order linear differential equations with two irregular singular
+  points of rank three: the characteristic exponent",,,,
+math/0003175,On zeros of polynomials orthogonal over a convex domain,,,,
+math/0004001,An asymptotic expansion for a ratio of products of gamma functions,,,,
+math/0004016,On the valuation of Paris options: foundational results,,,,
+math/0004060,The dimensions of Hausdorff and Mendes France. A comparative study,,,,
+math/0004069,A notion of rectifiability modeled on Carnot groups,,,,
+math/0005008,On the Asymptotics of Takeuchi Numbers,,,,
+math/0005013,Functions of Baire class one,,,,
+math/0005027,Disjointly strictly singular inclusions of symmetric spaces,,,,
+math/0005032,"Simultaneous approximation and interpolation of functions on continua in
+  the complex plane",,,,
+math/0005060,"Characterization of the atomic space $H^1$ for non doubling measures in
+  terms of a grand maximal operator",,,,
+math/0005092,On Fourier frames,,,,
+math/0005238,Modelling of stock price changes: a real analysis approach,,,,
+math/0005240,"Expansion of real valued meromorphic functions into Fourier
+  trigonometric series",,,,
+math/0006039,Littlewood-Paley theory and the T(1) theorem with non doubling measures,,,,
+math/0006070,Determinants of Hankel Matrices,,,,
+math/0006075,Unitary spherical highest weight representations,,,,
+math/0006126,"Implicit Function Theorem for systems of polynomial equations with
+  vanishing Jacobian and its application to flexible polyhedra and frameworks",,,,
+math/0006129,Rademacher chaos in symmetric spaces,,,,
+math/0006130,"Point-invariant classes of the third order ordinary differential
+  equations",,,,
+math/0006218,"Spectral inclusion and spectral exactness for singular non-selfadjoint
+  Sturm-Liouville problems",,,,
+math/0007011,"Necessary and sufficient conditions for differentiability of a function
+  of several variables",,,,
+math/0007041,"Rademacher chaos in symmetric spaces,2",,,,
+math/0007075,Limiting values of rational functions at the points of discontinuity,,,,
+math/0007095,Invariant Means,,,,
+math/0007117,"About interpolation of subspaces of reaarangement invariant spaces
+  generated by Rademacher system",,,,
+math/0007124,Approximation of *weak-to-norm continuous mappings,,,,
+math/0007167,Oscillatory integral operators with low-order degeneracies,,,,
+math/0007200,"An endpoint estimate for the Kunze-Stein phenomenon and related maximal
+  operators",,,,
+math/0008019,The bilinear maximal functions map into L^p for 2/3 < p <= 1,,,,
+math/0008031,Some spherical uniqueness theorems for multiple trigonometric series,,,,
+math/0008053,"Selection of subsystems of random variables equivalent in distribution
+  to the Rademacher system",,,,
+math/0008098,"From rotating needles to stability of waves; emerging connections
+  between combinatorics, analysis and PDE",,,,
+math/0008180,A continued fraction expansion for a q-tangent function,,,,
+math/0009072,New Lorentz spaces for the restricted weak-type Hardy's inequalities,,,,
+math/0009102,A New Convexity Result and the Multiple Access Channel,,,,
+math/0009142,$L^p$ version of a result by Rankin,,,,
+math/0009207,The Steinhaus tiling problem and the range of certain quadratic forms,,,,
+math/0010010,"Recent Developments in the Theory of Lorentz Spaces and Weighted
+  Inequalities",,,,
+math/0010069,Recent progress on the Kakeya conjecture,,,,
+math/0010150,Analysis of a Disease Transmission Model with two Groups of Infectives,,,,
+math/0010169,"The spectral set conjecture and multiplicative properties of roots of
+  polynomials",,,,
+math/0010171,"One-sided invertibility of binomial functional operators with a shift in
+  rearrangement-invariant spaces",,,,
+math/0010196,On the Hilbert transform and lacunary directions in the plane,,,,
+math/0011026,On the Fu/v cik spectrum with indefinite weights,,,,
+math/0011027,Fu/v cik Spectrum for the Neumann Problem with Indefinite Weights,,,,
+math/0011078,The Generalized Method of Exhaustion,,,,
+math/0011246,Some light on Littlewood-Paley theory,,,,
+math/0012034,On the Global Regularity of Wave Maps in the Critical Sobolev Norm,,,,
+math/0012077,On shape optimization and the Pompeiu problem,,,,
+math/0012078,On some Definite Integrals involving the Hurwitz Zeta function,,,,
+math/0012168,Universal Teichmuller Space,,,,
+math/0012186,Some results related to the Logvinenko-Sereda theorem,,,,
+math/0012254,"Optimal solvability for the Dirichlet and Neumann problem in dimension
+  two",,,,
+math/0012259,"Discriminants and Functional Equations for Polynomials Orthogonal on the
+  Unit Circle",,,,
+math/0101011,Some divergent trigonometric integrals,,,,
+math/0101012,"Necessary and sufficient conditions for differentiating under the
+  integral sign",,,,
+math/0101013,Rapidly growing Fourier integrals,,,,
+math/0101014,Covering theorems and Lebesgue integration,,,,
+math/0101016,Sharp Growth Estimates for Modified Poisson Integrals in a Half Space,,,,
+math/0101065,"Bessel Integrals and Fundamental Solutions for a Generalized Tricomi
+  Operator",,,,
+math/0101078,"Some inequalities related to isoperimetric inequalities with partial
+  free boundary",,,,
+math/0101105,"Orthogonal Polynomials in Analytical Method of Solving Differential
+  Equations Describing Dynamics of Multilevel Systems",,,,
+math/0101113,"Fundamental Solutions for the Tricomi Operator, II",,,,
+math/0101166,Small polynomials with integer coefficients,,,,
+math/0101171,Algebras generated by two bounded holomorphic functions,,,,
+math/0101182,Invariance properties of thematic factorizations of matrix functions,,,,
+math/0101187,"Little q-Legendre polynomials and irrationality of certain Lambert
+  series",,,,
+math/0101188,Multiple orthogonal polynomials associated with Macdonald functions,,,,
+math/0101192,"Weighted norm inequalities for Calderon-Zygmund operators without
+  doubling conditions",,,,
+math/0101195,"Some connections between Falconer's distance set conjecture, and sets of
+  Furstenburg type",,,,
+math/0101217,"A class of non-convex polytopes that admit no orthonormal basis of
+  exponentials",,,,
+math/0101224,Unitary interpolants and factorization indices of matrix functions,,,,
+math/0101225,Badly approximable matrix functions and canonical factorizations,,,,
+math/0101264,Hankel and Toeplitz-Schur Multipliers,,,,
+math/0101267,Orthogonalization of graded sets of vectors,,,,
+math/0102083,$L^p$ estimates for the biest I. The Walsh case,,,,
+math/0102084,$L^p$ estimates for the biest II. The Fourier case,,,,
+math/0102111,"Hermite functions and uncertainty principles for the Fourier and the
+  windowed Fourier transforms",,,,
+math/0103004,L'approximation par des polyn{\^o}mes {\`a} coefficients entiers,,,,
+math/0103028,"An Interesting Class of Operators with unusual Schatten-von Neumann
+  behavior",,,,
+math/0103131,Some classical multiple orthogonal polynomials,,,,
+math/0103163,"Periodic Perturbations of Non-Conservative Second Order Differential
+  Equations",,,,
+math/0104087,Fuglede conjecture holds for convex planar domains,,,,
+math/0104092,Fourier bases and a distance problem of Erd\H os,,,,
+math/0104093,Spectral and Tiling properties of the Unit Cube,,,,
+math/0104094,How large are the spectral gaps?,,,,
+math/0104095,Some sharp restriction theorems for homogeneous manifolds,,,,
+math/0104096,Maximal averages over flat radial hypersurfaces,,,,
+math/0104097,"Fourier transform, $L^2$ restriction theorem, and scaling",,,,
+math/0104139,On the biharmonic Dirichlet problem: The higher dimensional case,,,,
+math/0104144,A characterization of product BMO by commutators,,,,
+math/0104199,"A cheap Caffarelli-Kohn-Nirenberg inequality for Navier-Stokes equations
+  with hyper-dissipation",,,,
+math/0105093,An expansion formula for the Askey-Wilson function,,,,
+math/0105236,"Harmonic mean, random polynomials and stochastic matrices",,,,
+math/0105266,A sharp bilinear cone restriction estimate,,,,
+math/0106012,Tiling and spectral properties of near-cubic domains,,,,
+math/0106044,Some Remarks on a General Construction af Approximation Processes,,,,
+math/0106045,Distortion in the Spherical Metric under Quasiconformal Mappings,,,,
+math/0106062,Two symmetry problems in potential theory,,,,
+math/0106078,"Characterization of harmonic and subharmonic functions via mean-value
+  properties",,,,
+math/0106092,Uniform estimates on paraproducts,,,,
+math/0106142,"The Integral Representation for the Product of Two Parabolic Cylinder
+  Functions $D_\nu (x) D_\nu (-x)$ at $Re \nu <0$ by Means of the Fundamental
+  Solution of a Landau-Type Operator",,,,
+math/0106208,The geometry of the classical solutions of the Garnier systems,,,,
+math/0107059,Uniform estimates on multi-linear operators with modulation symmetry,,,,
+math/0107065,Sobolev Trace Inequalities,,,,
+math/0107082,On some integrals involving the Hurwitz zeta function: part 2,,,,
+math/0107102,"Representation of Infinitely Differentiable Functions by Dirichlet
+  Series",,,,
+math/0108029,Lectures on the Kato square root problem,,,,
+math/0108030,Elements of Linear and Real Analysis,,,,
+math/0108042,"Matrix Valued Spherical Functions Associated to the Complex Projective
+  Plane",,,,
+math/0108090,"Quadratic variation, p-variation and integration with applications to
+  stock price modelling",,,,
+math/0108137,$L^p$ improving bounds for averages along curves,,,,
+math/0108138,"Carleson measures, trees, extrapolation, and $T(b)$ theorems",,,,
+math/0108153,On graphical foliations and the global existence of Euler's multiplier,,,,
+math/0108156,"A counterexample to a multilinear endpoint question of Christ and
+  Kiselev",,,,
+math/0108186,"The Hilbert transform, rearrangements, and logarithmic determinants",,,,
+math/0108200,An inverse problem for the double layer potential,,,,
+math/0108203,Some remarks concerning integrals of curvature on curves and surfaces,,,,
+math/0108212,"The geometric Kannan-Lovasz-Simonovits lemma, dimension-free estimates
+  for volumes of sublevel sets of polynomials, and distribution of zeroes of
+  random analytic functions",,,,
+math/0108213,"Local dimension-free estimates for volumes of sublevel sets of analytic
+  functions",,,,
+math/0109126,On spectral Cantor measures,,,,
+math/0109185,"The Askey Scheme for Hypergeometric Orthogonal Polynomials Viewed from
+  Asymptotic Analysis",,,,
+math/0109187,On Non-Oscillating Integrals for Computing Inhomogeneous Airy Functions,,,,

@@ -1,0 +1,1224 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+math/0409069,Some new directions in infinite-combinatorial topology,0.0001136406891165,0.0,17.0,2.0
+math/0608422,Boundary Partitions in Trees and Dimers,7.435865910110045e-05,1.990182755160072e-06,20.0,1.0
+math/0512275,SPM Bulletin 15,6.418619020133631e-05,0.0,20.0,1.0
+math/0503507,Advanced Determinant Calculus: A Complement,5.760414364075261e-05,2.1322375286169986e-05,57.0,5.0
+math/0503647,Rota-Baxter Algebras and Dendriform Algebras,5.174179353263221e-05,1.622595931765743e-05,25.0,8.0
+math/0701031,Rota-Baxter algebras and new combinatorial identities,5.124664003288783e-05,0.0,6.0,0.0
+math/0702474,"A note on percolation on Z^d: isoperimetric profile via exponential
+  cluster repulsion",4.933562324047624e-05,0.0,17.0,1.0
+math/0604158,"Paths and tableaux descriptions of Jacobi-Trudi determinant associated
+  with quantum affine algebra of type C_n",3.8818150076415854e-05,1.31900882671412e-08,17.0,1.0
+quant-ph/0703025,"Weighted complex projective 2-designs from bases: optimal state
+  determination by orthogonal measurements",3.8247395833527815e-05,0.0,10.0,0.0
+cond-mat/0703228,Phase diagram of the chromatic polynomial on a torus,3.7513059243754506e-05,0.0,17.0,0.0
+math/0312182,Selection principles in mathematics: A milestone of open problems,3.734613162876484e-05,0.0,22.0,3.0
+cond-mat/0401026,Spanning forests and the q-state Potts model in the limit q \to 0,3.621655729367743e-05,1.6397342622371368e-05,49.0,10.0
+math-ph/0703015,"Quantum Knizhnik-Zamolodchikov Equation, Totally Symmetric
+  Self-Complementary Plane Partitions and Alternating Sign Matrices",3.261828922285042e-05,0.0,16.0,0.0
+math/0609401,SPM Bulletin 18,3.218687967824696e-05,0.0,16.0,0.0
+math-ph/0703087,"The Rotor Model with spectral parameters and enumerations of Alternating
+  Sign Matrices",3.1568783353068644e-05,0.0,21.0,0.0
+math/0612753,SPM Bulletin 19,2.9801555030195183e-05,0.0,20.0,0.0
+math/0611106,Generalized Noncrossing Partitions and Combinatorics of Coxeter Groups,2.7316388427341904e-05,1.1672510254830089e-05,20.0,4.0
+math/0503607,"The multivariate Tutte polynomial (alias Potts model) for graphs and
+  matroids",2.7231946907233746e-05,1.4807168901033344e-05,20.0,11.0
+math/0505166,Complex hyperplane arrangements,2.683382917161456e-05,0.0,19.0,0.0
+math-ph/0610067,"Loop model with mixed boundary conditions, qKZ equation and alternating
+  sign matrices",2.6407504918781376e-05,4.37353821736608e-07,23.0,1.0
+math/0611659,"The moduli space of curves, double Hurwitz numbers, and Faber's
+  intersection number conjecture",2.5921285962812466e-05,5.003390547432015e-06,8.0,2.0
+math/0503631,SPM Bulletin 12,2.4693422185878788e-05,0.0,8.0,1.0
+hep-th/0609035,A Lie theoretic approach to renormalization,2.407046372322399e-05,6.233088026554817e-07,25.0,2.0
+cond-mat/0701491,XXX Spin Chain: from Bethe Solution to Open Problems,2.3678316774535564e-05,0.0,31.0,0.0
+math/0411002,On umbral extensions of Stirling numbers and Dobinski-like formulas,2.342884059758028e-05,1.990182755160072e-06,8.0,2.0
+math/0606391,"Multivariable Christoffel-Darboux Kernels and Characteristic Polynomials
+  of Random Hermitian Matrices",2.2990234613023757e-05,3.9729394552635765e-06,16.0,2.0
+math/0611783,Affine transformations of a Leonard pair,2.286524178542757e-05,1.0420805106457756e-06,31.0,1.0
+math/0607155,Generalized cluster complexes via quiver representations,2.2799673663493306e-05,1.230872675452977e-07,9.0,3.0
+math/0606164,Generalized shuffles related to Nijenhuis and TD-algebras,2.2587135461334586e-05,0.0,22.0,1.0
+math/0510266,Free Rota-Baxter algebras and rooted trees,2.141710226923885e-05,2.059033658409355e-06,17.0,5.0
+math/0508110,"Schubert classes in the equivariant cohomology of the Lagrangian
+  Grassmannian",2.120521503065527e-05,0.0,6.0,3.0
+cond-mat/0603657,On the number of circuits in random graphs,2.104337050928349e-05,3.974177131106338e-06,9.0,2.0
+math/0610022,"Isomorphism-free lexicographic enumeration of triangulated surfaces and
+  3-manifolds",2.0743529479681512e-05,0.0,8.0,3.0
+cond-mat/0603350,The number of matchings in random graphs,2.025414237535378e-05,0.0,7.0,3.0
+math/0601375,"Generating facets for the cut polytope of a graph by triangular
+  elimination",2.0038415571449503e-05,0.0,10.0,1.0
+math/0411145,"Information on some recent applications of umbral extensions to discrete
+  mathematics",1.9731945692156652e-05,6.965639643060252e-06,7.0,2.0
+math/0604301,Resolutions of square-free monomial ideals via facet ideals: a survey,1.9502983018085915e-05,1.990182755160072e-06,13.0,3.0
+math/0503286,Cobweb posets as noncommutative prefabs,1.9475111996634805e-05,7.960731020640288e-06,7.0,3.0
+math/0609012,"The Kauffman bracket of virtual links and the Bollob\'as-Riordan
+  polynomial",1.9115766635177208e-05,6.14183701001468e-06,4.0,2.0
+math/0608367,Cluster algebras and triangulated surfaces. Part I: Cluster complexes,1.9113148810715037e-05,1.335159888134886e-05,22.0,4.0
+math/0701755,Osculating Paths and Oscillating Tableaux,1.8175353307006235e-05,0.0,4.0,0.0
+math/0512619,"On the existence of crepant resolutions of Gorenstein Abelian quotient
+  singularities in dimensions \geq 4",1.802609055318289e-05,0.0,8.0,0.0
+math/0608623,The switching element for a Leonard pair,1.7908181288961506e-05,2.4864402333945977e-06,30.0,3.0
+math/0105045,Selection principles and the minimal tower problem,1.7450821951281917e-05,0.0,7.0,10.0
+math/0701792,Cyclic sieving of noncrossing partitions for complex reflection groups,1.738177940673286e-05,8.067833120191164e-06,9.0,3.0
+cond-mat/0403271,Fermionic field theory for trees and forests,1.725595255768304e-05,1.802157200218412e-05,13.0,7.0
+math/0512204,"Schubert Classes in the Equivariant K-Theory and Equivariant Cohomology
+  of the Grassmannian",1.7103977951788176e-05,3.977395088297517e-06,7.0,4.0
+math/0602245,"Schubert Classes in the Equivariant K-Theory and Equivariant Cohomology
+  of the Lagrangian Grassmannian",1.6932550147342392e-05,1.987212333137445e-06,7.0,3.0
+math/0703894,SPM Bulletin 20,1.6904307543536695e-05,0.0,13.0,0.0
+cond-mat/0204587,"Transfer Matrices and Partition-Function Zeros for Antiferromagnetic
+  Potts Models III. Triangular-Lattice Chromatic Polynomial",1.6524443113362764e-05,1.4447891823490484e-05,21.0,8.0
+math/0703780,On Differential Rota-Baxter Algebras,1.625342575150432e-05,2.701745032169102e-08,8.0,1.0
+math/0503315,Combinatorics and Geometry of Higher Level Weyl Modules,1.6234353143845164e-05,0.0,18.0,6.0
+math/0408405,"Hopf algebras, from basics to applications to renormalization",1.5998976691427884e-05,1.697525095356073e-05,16.0,10.0
+math/0606188,SPM Bulletin 17,1.559766268292156e-05,0.0,15.0,0.0
+math/0703637,Excited Young diagrams and equivariant Schubert calculus,1.542471176626208e-05,0.0,4.0,0.0
+math/0501213,Equivariant quantum cohomology of homogeneous spaces,1.5271034894507527e-05,0.0,10.0,0.0
+cond-mat/0012369,Chromatic roots are dense in the whole complex plane,1.4727163766577335e-05,9.297874424237378e-06,32.0,7.0
+math/0403369,SPM Bulletin 8,1.4588742748148076e-05,0.0,10.0,2.0
+math/0605466,Knot invariants and the Bollobas-Riordan polynomial of embedded graphs,1.442708396263728e-05,8.131194647946245e-06,4.0,1.0
+math/0601558,Multiple zeta values and Rota--Baxter algebras,1.4252209182390238e-05,5.043334133514698e-07,20.0,6.0
+math/0311290,"Stein's Method, Jack Measure, and the Metropolis Algorithm",1.4162432374513267e-05,0.0,3.0,1.0
+math/0506128,The Andrews-Stanley partition function and Al-Salam-Chihara polynomials,1.414176789928313e-05,1.1040962113742738e-05,5.0,2.0
+math/0509138,"NCS Systems over Differential Operator Algebras and the Grossman-Larson
+  Hopf Algebras of Labeled Rooted Trees",1.412976472083983e-05,3.971878590255513e-07,13.0,5.0
+math/0411041,A note on special duality triads and their operator valued counterparts,1.4115835555382938e-05,0.0,3.0,0.0
+math/0607750,Homology tests for graph colorings,1.4041538106927017e-05,0.0,18.0,0.0
+math/0606539,"Monomial ideals, edge ideals of hypergraphs, and their graded Betti
+  numbers",1.3523783968644738e-05,7.960731020640288e-06,9.0,3.0
+math/0509133,Noncommutative Symmetric Systems over Associative Algebras,1.3492553884519612e-05,3.971878590255513e-07,14.0,4.0
+math/0509135,Noncommutative Symmetric Functions and the Inversion Problem,1.3454776139310031e-05,0.0,11.0,5.0
+math/0406006,Fibonomial cumulative connection constants,1.341001572692523e-05,0.0,11.0,2.0
+math-ph/0504032,Inhomogeneous loop models with open boundaries,1.3390396183974906e-05,1.3926400845596624e-06,22.0,8.0
+math/0509134,"Differential Operator Specializations of Noncommutative Symmetric
+  Functions",1.3162768616041036e-05,3.946417830061566e-07,10.0,5.0
+math/0511488,Remarks on the combinatorial intersection cohomology of fans,1.312157457682176e-05,0.0,4.0,2.0
+math/0511633,The combinatorics of frieze patterns and Markoff numbers,1.3113931835868744e-05,7.1585287972470485e-06,9.0,2.0
+math/0408204,Minor summation formula and a proof of Stanley's open problem,1.282617681214381e-05,6.727501299228758e-06,6.0,4.0
+math/0604322,Pattern Avoidance and the Bruhat Order,1.2787256266855884e-05,0.0,2.0,0.0
+math/0309242,Summation formulae for elliptic hypergeometric series,1.2691832584150314e-05,0.0,6.0,0.0
+math/0701199,Tropical Jacobians in R2,1.268946910967428e-05,0.0,7.0,0.0
+math/0605061,Polynomial realizations of some trialgebras,1.2677318533122307e-05,8.195006859987085e-07,5.0,2.0
+math/0703672,"Piecewise polynomials, Minkowski weights, and localization on toric
+  varieties",1.2624728516826427e-05,0.0,4.0,0.0
+math/0507053,A canonical semi-classical star-product,1.2624619105639138e-05,2.2059507947005987e-07,12.0,2.0
+math/0509508,Palindromic Prefixes and Diophantine Approximation,1.257979068822353e-05,0.0,2.0,1.0
+math/0603290,SPM Bulletin 16,1.2406448397777616e-05,0.0,8.0,1.0
+math/0510455,A Combinatorial Study on Quiver Varieties,1.2390792908592156e-05,1.0397660086588308e-06,23.0,2.0
+math/0403316,Inversion of integral series enumerating planar trees,1.2339384066556382e-05,1.990182755160072e-06,5.0,1.0
+math/0605571,The Jones polynomial and graphs on surfaces,1.2137231026633438e-05,4.29861563608698e-06,6.0,5.0
+math/0305419,Interpolation analogues of Schur Q-functions,1.2035872591342352e-05,5.940844045253946e-09,16.0,1.0
+math/0608235,"Symmetric functions, parabolic category O and the Springer fiber",1.2032989983626109e-05,1.1628231027971145e-08,12.0,4.0
+math/0507117,Cohomology of colorings of cycles,1.191924515570006e-05,4.642319561533191e-05,15.0,4.0
+math/0703898,On pattern-avoiding partitions,1.1865048794462696e-05,0.0,4.0,0.0
+math/0701468,On the distance between Seifert surfaces,1.184006974284257e-05,0.0,1.0,0.0
+math/0504589,The phase transition in inhomogeneous random graphs,1.1819064128126406e-05,0.0,7.0,6.0
+math/0510535,"Small models of graph colouring manifolds and the Stiefel manifolds
+  Hom(C_5, K_n)",1.181596114362342e-05,2.5574424659031985e-06,11.0,6.0
+math-ph/0611012,"Open boundary Quantum Knizhnik-Zamolodchikov equation and the weighted
+  enumeration of Plane Partitions with symmetries",1.179080029209166e-05,3.585002844745874e-07,20.0,2.0
+math/0411400,Convex Polytopes: Extremal Constructions and f-Vector Shapes,1.1767297835201784e-05,0.0,10.0,0.0
+math/0702448,Similar sublattices of the root lattice $A_4$,1.1707685322034027e-05,0.0,5.0,0.0
+math/0509136,"A Noncommutative Symmetric System over the Grossman-Larson Hopf Algebra
+  of Labeled Rooted Trees",1.1707672859172706e-05,3.971878590255513e-07,12.0,4.0
+math/0502452,"Local chromatic number and distinguishing the strength of topological
+  obstructions",1.166910052499568e-05,2.063473602726182e-06,7.0,2.0
+math/0612724,Quantum permutation groups: a survey,1.1616482325279904e-05,0.0,6.0,0.0
+math/0302320,Positivity preserving transformations for q-binomial coefficients,1.1497195533069384e-05,0.0,2.0,1.0
+cond-mat/0004330,"Transfer Matrices and Partition-Function Zeros for Antiferromagnetic
+  Potts Models I. General Theory and Square-Lattice Chromatic Polynomial",1.14058220462525e-05,7.800320134076537e-05,31.0,23.0
+math/0610278,Sums of squares from elliptic pfaffians,1.1393597724485478e-05,0.0,3.0,2.0
+math/0609447,"Alexandrov's theorem, weighted Delaunay triangulations, and mixed
+  volumes",1.1380481904407397e-05,7.392033637246977e-08,5.0,2.0
+math/0608327,Kempf collapsing and quiver loci,1.1279550238451128e-05,0.0,10.0,0.0
+math/0606274,The Multiplicity Conjecture for Barycentric Subdivisions,1.1273474770409453e-05,0.0,5.0,0.0
+cond-mat/0407444,"Transfer Matrices and Partition-Function Zeros for Antiferromagnetic
+  Potts Models. IV. Chromatic polynomial with cyclic boundary conditions",1.1258716578058324e-05,6.811040403920107e-06,16.0,8.0
+math/0702157,Monic non-commutative orthogonal polynomials,1.1255697742849651e-05,0.0,4.0,1.0
+math/0607173,Defining an m-cluster category,1.123047920132412e-05,5.0720181238835546e-08,4.0,3.0
+math/0701735,Minimal Triangulations of Manifolds,1.1116849414769777e-05,0.0,7.0,0.0
+math-ph/0603009,"Sum rules for the ground states of the O(1) loop model on a cylinder and
+  the XXZ spin chain",1.1091418889521776e-05,2.596545010719156e-06,23.0,6.0
+math/0603086,"Schur Q-polynomials, multiple hypergeometric series and enumeration of
+  marked shifted tableaux",1.108273640760346e-05,0.0,2.0,2.0
+math/0606082,"On refined enumerations of totally symmetric self-complementary plane
+  partitions II",1.1049629095926294e-05,8.896543035437893e-07,9.0,1.0
+math/0509432,SPM Bulletin 14,1.0953851073287813e-05,0.0,9.0,1.0
+math/0507346,"A short proof of w_1^n(Hom(C_{2r+1}, K_{n+2}))=0 for all n and a graph
+  colouring theorem by Babson and Kozlov",1.0929027620280146e-05,0.0,8.0,10.0
+math/0612601,Linear Ramsey numbers for bounded-degree hypergraphs,1.0880759472278789e-05,0.0,4.0,2.0
+math/0701626,Conformal Designs based on Vertex Operator Algebras,1.0858825532497417e-05,0.0,6.0,0.0
+math/0605508,"Groupoids in combinatorics -- applications of a theory of local
+  symmetries",1.08383358386264e-05,0.0,16.0,0.0
+math/0604467,"Planar Decompositions and the Crossing Number of Graphs with an Excluded
+  Minor",1.0786355593022113e-05,0.0,3.0,1.0
+math/0612010,The cohomology of real De Concini-Procesi models of Coxeter type,1.078323537574098e-05,0.0,5.0,0.0
+math/0508291,Stein's Method and Random Character Ratios,1.0684304170643132e-05,0.0,5.0,0.0
+math/0409072,SPM Bulletin 10,1.0666787437746446e-05,0.0,8.0,3.0
+math/0609155,Bounds for Codes by Semidefinite Programming,1.0651732480051822e-05,0.0,4.0,2.0
+math/0606523,"On category O for the rational Cherednik algebra of G(m,1,n): the almost
+  semisimple case",1.064426420908895e-05,0.0,2.0,0.0
+math/0703456,Combinatorial aspects of mirror symmetry,1.061906038487826e-05,0.0,5.0,0.0
+math/0701296,Shellable graphs and sequentially Cohen-Macaulay bipartite graphs,1.0593525347286964e-05,1.990182755160072e-06,4.0,2.0
+math/0605316,"Linear transformations that are tridiagonal with respect to both
+  eigenbases of a Leonard pair",1.040023615898963e-05,1.5024199712153543e-05,21.0,4.0
+math/0311369,An introduction to harmonic analysis on the infinite symmetric group,1.037630735673718e-05,5.306732997069547e-07,24.0,4.0
+math/0612838,A Simple Regularization of Hypergraphs,1.0363892688121132e-05,0.0,4.0,2.0
+math/9810002,Flag vectors,1.031848054495155e-05,0.0,4.0,0.0
+cond-mat/0309352,"The repulsive lattice gas, the independent-set polynomial, and the
+  Lov\'asz local lemma",1.0197237130172209e-05,1.990182755160072e-06,7.0,2.0
+math/0311211,Multiple pattern avoidance with respect to fixed points and excedances,1.0184045486382543e-05,0.0,7.0,0.0
+math/0505398,The crystal structure on the set of Mirkovic-Vilonen polytopes,1.0133985440684328e-05,3.980365510320144e-06,8.0,3.0
+math/0606763,"Graph colourings, spaces of edges and spaces of circuits",1.0092562058155226e-05,6.356156594694972e-07,10.0,2.0
+math/0703414,The octahedron recurrence and RSK-correspondence,1.0078794604808403e-05,0.0,3.0,0.0
+math/0503342,Coherent Unit Actions on Operads and Hopf Algebras,1.0078069612425364e-05,9.870791241712216e-06,12.0,3.0
+math/0609793,Coincidence site modules in 3-space,9.997099571429495e-06,0.0,6.0,1.0
+math/0512366,Enriched $P$-partitions and peak algebras (extended abstract),9.97679409194751e-06,0.0,6.0,0.0
+math/0603481,Avoidance of Partitions of a Three-element Set,9.946613685647192e-06,0.0,5.0,3.0
+math/0612842,Temperley-Lieb pfaffinants and Schur $Q$-positivity conjectures,9.919378055554628e-06,0.0,4.0,0.0
+math/0512311,Kazhdan-Lusztig combinatorics via sheaves on Bruhat graphs,9.91061265542074e-06,0.0,4.0,1.0
+math/0607183,"Proof of Razumov-Stroganov conjecture for some infinite families of link
+  patterns",9.910607023708991e-06,3.139954357136869e-07,17.0,1.0
+math/0509024,Growth and generation in SL_2(Z/pZ),9.884533807289714e-06,0.0,2.0,1.0
+math-ph/0501071,"The scaling limit of the correlation of holes on the triangular lattice
+  with periodic boundary conditions",9.869431757402932e-06,1.3656232225968311e-05,3.0,1.0
+math/0411181,On the linear strand of an edge ideal,9.796541342855404e-06,1.990182755160072e-06,5.0,4.0
+math/0701928,"2-torus manifolds, cobordism and small covers",9.718625273690567e-06,0.0,3.0,0.0
+math/0112092,"Enumeration of permutations containing a prescribed number of
+  occurrences of a pattern of length 3",9.62063017585831e-06,0.0,4.0,5.0
+math/0612669,"Removal lemma for infinitely-many forbidden hypergraphs and property
+  testing",9.610371667131468e-06,0.0,3.0,2.0
+math-ph/0410061,"Around the Razumov-Stroganov conjecture: proof of a multi-parameter sum
+  rule",9.549982516543152e-06,6.696201299743371e-06,16.0,19.0
+math/0309330,Inside-Out Polytopes,9.539473846737096e-06,2.9704220226269734e-08,2.0,4.0
+math/0505217,The Generating Function of Ternary Trees and Continued Fractions,9.53643707129289e-06,1.990182755160072e-06,3.0,2.0
+math/0512378,"Gibbs distributions for random partitions generated by a fragmentation
+  process",9.520441932466755e-06,0.0,7.0,2.0
+math/0607326,On the first group of the chromatic cohomology of graphs,9.511722223758055e-06,1.990182755160072e-06,19.0,1.0
+math/0602449,Enumeration of Rota-Baxter Words,9.45904164115574e-06,2.450665864827837e-08,5.0,2.0
+math/0510027,Prefab posets` Whitney numbers,9.443946480955787e-06,0.0,4.0,1.0
+math/0210348,Centrally symmetric generators in toric Fano varieties,9.44153436963164e-06,0.0,5.0,0.0
+math/0512035,"Increasing and Decreasing Subsequences of Permutations and Their
+  Variants",9.437565320336233e-06,0.0,11.0,0.0
+math-ph/0512047,From Orbital Varieties to Alternating Sign Matrices,9.3886059510568e-06,5.137072002579238e-07,16.0,8.0
+math/0509157,Some composition determinants,9.347714780729851e-06,0.0,1.0,0.0
+math/0506418,"Mixable Shuffles, Quasi-shuffles and Hopf Algebras",9.335985392558748e-06,8.8114603468239e-07,12.0,6.0
+math/0604396,On Pivot Orbits of Boolean Functions,9.32448576615588e-06,0.0,9.0,0.0
+math/0611522,Factorization formulas for Macdonald polynomials,9.216287772009389e-06,0.0,1.0,0.0
+math-ph/0702068,"Shifted Schur process and asymptotics of large random strict plane
+  partitions",9.194352054638733e-06,0.0,4.0,0.0
+math/0606018,"Shellability and higher Cohen-Macaulay connectivity of generalized
+  cluster complexes",9.186950733224505e-06,1.666623109914344e-05,11.0,4.0
+math/0608564,Congruences on Stirling numbers and Eulerian numbers,9.161238941701014e-06,0.0,7.0,0.0
+math/0611025,Alternating sum formulae for the determinant and other link invariants,9.152443803300534e-06,1.9976088102166394e-06,5.0,1.0
+math/0608694,Distance-regular graphs and the $q$-tetrahedron algebra,9.12867384569507e-06,0.0,11.0,0.0
+math/0602195,k-noncrossing and k-nonnesting graphs and fillings of Ferrers diagrams,9.113046486789243e-06,0.0,7.0,4.0
+math/0210442,"Cumulants in noncommutative probability I. Noncommutative
+  Exchangeability Systems",9.097668204289488e-06,0.0,4.0,3.0
+math/0211279,Castelnuovo-Mumford regularity by approximation,9.087592082995425e-06,0.0,2.0,1.0
+math/0603033,Hyperdeterminantal expressions for Jack functions of rectangular shapes,9.087592082995425e-06,0.0,2.0,1.0
+math/0604292,Pattern Avoidance in Set Partitions,9.070696076293328e-06,0.0,5.0,3.0
+math/0011250,"Non-intersecting Paths, Random Tilings and Random Matrices",9.062907416846745e-06,7.506795167725347e-06,14.0,12.0
+math/0401155,SPM Bulletin 7,9.035181302505892e-06,0.0,7.0,2.0
+math/0605487,Whiskers and sequentially Cohen-Macaulay graphs,8.982333885441386e-06,1.990182755160072e-06,4.0,4.0
+math/0509265,"The Hopf algebras of symmetric functions and quasisymmetric functions in
+  non-commutative variables are free and cofree",8.978300997076035e-06,1.730218615574778e-07,4.0,3.0
+math-ph/0209019,On some integrals over the U(N) unitary group and their large N limit,8.958887642559078e-06,1.5454022287094833e-05,20.0,13.0
+math/0503210,An Introduction to Finite Fibonomial Calculus,8.916063269750888e-06,0.0,1.0,0.0
+math/0507430,Tables of Calabi--Yau equations,8.91205409864222e-06,7.96865214603396e-06,11.0,5.0
+math/0306399,Arrangements of symmetric products of spaces,8.911279501493505e-06,0.0,6.0,0.0
+math/0609118,The irreducibility of certain pure-cycle Hurwitz spaces,8.870561093191084e-06,0.0,2.0,1.0
+math/0408099,Tropical Mathematics,8.836536248251392e-06,8.423735821445086e-05,13.0,14.0
+math/0512019,Colorful subgraphs in Kneser-like graphs,8.803669223615702e-06,0.0,6.0,1.0
+math/0409050,On generating series of complementary planar trees,8.728665992521895e-06,0.0,1.0,1.0
+math/0702158,Free Meixner states,8.727013478107884e-06,0.0,3.0,1.0
+math/0505416,"Rational Cherednik algebras and diagonal coinvariants of G(m,p,n)",8.724354160938382e-06,3.550587465181828e-07,2.0,1.0
+math/0210052,"Criteria for Balance in Abelian Gain Graphs, with Applications to
+  Piecewise-Linear Geometry",8.647801664806624e-06,0.0,3.0,2.0
+math/0606170,Meanders in a Cayley graph,8.60201890699455e-06,0.0,1.0,2.0
+math/0304429,Equidistribution and Sign-Balance on 321-Avoiding Permutations,8.55806568461572e-06,0.0,6.0,3.0
+cs/0304018,Quasiconvex Analysis of Backtracking Algorithms,8.557712187303251e-06,0.0,7.0,2.0
+math/0201108,Polyhedral Cones of Magic Cubes and Squares,8.556563534821898e-06,0.0,3.0,1.0
+math/0406140,"The structure and labelled enumeration of K_{3,3}-subdivision-free
+  projective-planar graphs",8.49782909618734e-06,0.0,3.0,2.0
+math/0606169,"Polynomials, meanders, and paths in the lattice of noncrossing
+  partitions",8.463285335902018e-06,1.9976088102166394e-06,2.0,1.0
+math/9905083,Algebraic aspects of increasing subsequences,8.446746496007995e-06,7.260389016105572e-06,7.0,27.0
+math/0605707,Ported Tutte Functions of Extensors and Oriented Matroids,8.387976481761552e-06,0.0,3.0,0.0
+math/0509174,Properties of four partial orders on standard Young tableaux,8.387233775746416e-06,0.0,5.0,0.0
+cs/0606059,Tromino tilings of Domino-Deficient Rectangles,8.353916810390902e-06,0.0,2.0,1.0
+math/0610925,Faultfree Tromino Tilings of Rectangles,8.353916810390902e-06,0.0,2.0,1.0
+quant-ph/0603072,A complete algorithm to find flows in the one-way measurement model,8.33300945256018e-06,0.0,4.0,5.0
+math/0609053,Using Equivariant Obstruction Theory in Combinatorial Geometry,8.271364111411782e-06,0.0,7.0,0.0
+math/0504299,Arrays and the octahedron recurrence,8.255574197361199e-06,1.6996963141840789e-06,7.0,1.0
+math/0111192,Schur function analogs for a filtration of the symmetric function space,8.223993441945924e-06,0.0,3.0,1.0
+math/0604140,Increasing and Decreasing Sequences in Fillings of Moon Polyominoes,8.204328212315566e-06,0.0,6.0,3.0
+math-ph/0603018,Combinatorial point for higher spin loop models,8.187150329921022e-06,4.18036059208828e-08,15.0,2.0
+math/0504522,"On the Classification of All Self-Dual Additive Codes over GF(4) of
+  Length up to 12",8.152901412356378e-06,3.242538645960001e-06,9.0,6.0
+math/0604018,Combinatorial 3-manifolds with 10 vertices,8.142805054471142e-06,0.0,5.0,1.0
+math/0409538,A Combinatorial Formula for Macdonald Polynomials,8.14049420403869e-06,1.990182755160072e-06,13.0,1.0
+math/0511381,"Asymptotics of counts of small components in random structures and
+  models of coagulation-fragmentation",8.115435966227276e-06,0.0,2.0,1.0
+math/0603195,Hankel Determinants for Some Common Lattice Paths,8.110805737050348e-06,0.0,1.0,0.0
+math/0606646,A quasisymmetric function for matroids,8.10695456987385e-06,0.0,8.0,0.0
+math/0607174,"A fansy divisor on M_{0,n}",8.102233981737456e-06,0.0,1.0,0.0
+math/0508563,SPM Bulletin 13,8.066562848638946e-06,0.0,6.0,1.0
+math/0406411,SPM Bulletin 9,8.038052317144938e-06,0.0,6.0,2.0
+math/0601615,Bruhat intervals as rooks on skew Ferrers boards,8.017520896609112e-06,0.0,3.0,1.0
+math/0610428,"Permutations avoiding a nonconsecutive instance of a 2- or 3-letter
+  pattern",8.011462999806148e-06,0.0,1.0,0.0
+math/0109194,"Harmonic analysis on the infinite-dimensional unitary group and
+  determinantal point processes",7.994469429877e-06,3.3062821267643874e-05,19.0,17.0
+math/0604108,Seminormal forms and Gram determinants for cellular algebras,7.989874975663635e-06,0.0,4.0,0.0
+math/0201013,"The number of ""magic"" squares and hypercubes",7.924392468636456e-06,0.0,2.0,1.0
+math/0312140,SPM Bulletin 6 (November 2003),7.90890347016792e-06,0.0,10.0,2.0
+math/0601678,On triangulations with high vertex degree,7.902544438422522e-06,0.0,4.0,0.0
+math/0001114,"Fermionic formulas for level-restricted generalized Kostka polynomials
+  and coset branching functions",7.895244628606476e-06,3.5390634178156005e-05,10.0,7.0
+math/0503203,Splittable ideals and the resolutions of monomial ideals,7.877533058268044e-06,0.0,6.0,1.0
+math/0607567,The topological structure of scaling limits of large planar maps,7.865886783282942e-06,0.0,4.0,2.0
+math/0512227,"Trees, set compositions and the twisted descent algebra",7.863023700313068e-06,1.0060474073806162e-05,4.0,2.0
+math/0510506,A sharp diameter bound for unipotent groups of classical type over Z/pZ,7.861900750319273e-06,0.0,1.0,1.0
+math/0509004,Counting unlabelled toroidal graphs with no K33-subdivisions,7.860686100608187e-06,0.0,3.0,1.0
+math/0004082,A mean identity for longest increasing subsequence problems,7.84990629283277e-06,4.653533210981013e-06,8.0,7.0
+math-ph/0410002,"Determinant Formulae for some Tiling Problems and Application to Fully
+  Packed Loops",7.843870527142197e-06,3.752455290929492e-07,15.0,3.0
+math/0511557,The chromatic polynomial of fatgraphs and its categorification,7.823518706493381e-06,1.0121377403106334e-05,8.0,1.0
+math/0506315,An Enumerative Geometry for Magic and Magilatin Labellings,7.820227114236322e-06,0.0,2.0,1.0
+math/0310079,Jagged partitions,7.813376833035597e-06,1.376484186518969e-05,5.0,4.0
+math-ph/0111008,Discrete gap probabilities and discrete Painleve equations,7.700010424684362e-06,3.186808188096894e-05,18.0,11.0
+math/0501420,Palindromic Prefixes and Episturmian Words,7.699026633811071e-06,0.0,1.0,1.0
+math/0501353,On the X=M=K Conjecture,7.693653353725457e-06,4.643759762040169e-06,8.0,2.0
+math/0608538,Surface realization with the intersection edge functional,7.69264195210023e-06,0.0,3.0,1.0
+math/0208156,"Spaces of coinvariants and fusion product II. Affine sl_2 character
+  formulas in terms of Kostka polynomials",7.673407019917174e-06,3.00609422530568e-06,8.0,5.0
+math/0212121,Feynman Diagrams in Algebraic Combinatorics,7.638082558685507e-06,1.990182755160072e-05,3.0,1.0
+math/0503112,A Foata bijection for the alternating group and for q analogues,7.629482882799828e-06,0.0,2.0,0.0
+math/0609707,The Minor Crossing Number of Graphs with an Excluded Minor,7.620241537786383e-06,0.0,1.0,1.0
+math/0501112,"Gaussian fluctuations of characters of symmetric groups and of Young
+  diagrams",7.618841975458628e-06,0.0,4.0,4.0
+cs/0610092,Happy endings for flip graphs,7.6100624052910576e-06,0.0,2.0,0.0
+math/0111193,"Schur function identities, their t-analogs, and k-Schur irreducibility",7.591822375760483e-06,0.0,2.0,1.0
+math/0404307,Introduction to double Hecke algebras,7.568087701488865e-06,0.0,4.0,0.0
+math-ph/0410059,Supersymmetry on Graphs and Networks,7.565574427288906e-06,0.0,3.0,1.0
+math/0211389,Sums over Graphs and Integration over Discrete Groupoids,7.540172637591575e-06,1.791164479644065e-05,3.0,6.0
+math/0612315,Scaling limits of bipartite planar maps are homeomorphic to the 2-sphere,7.489190870447084e-06,0.0,4.0,0.0
+math/0507572,Exact Euler Maclaurin formulas for simple lattice polytopes,7.439141777046958e-06,0.0,3.0,0.0
+math/0611639,Macdonald Polynomials and Multivariable Basic Hypergeometric Series,7.438015161187371e-06,0.0,11.0,0.0
+math/9809092,"Graphs, flags and partitions",7.435404393388834e-06,0.0,6.0,1.0
+math/0703047,"On growth rates of permutations, set partitions, ordered graphs and
+  other objects",7.430718446321695e-06,0.0,2.0,0.0
+math/0511641,"The determinant of $AA^*-A^*A$ for a Leonard pair $A,A^*$",7.427377122171927e-06,1.040938040637073e-06,18.0,5.0
+math/0607306,On the arithmetical rank of the edge ideals of forests,7.359109384971412e-06,3.980365510320144e-06,6.0,2.0
+math/0603654,A Relation for Domino Robinson-Schensted Algorithms,7.341316317297305e-06,1.4852110113134864e-08,4.0,2.0
+math/0703891,Zeta functions of infinite graph bundles,7.3251003583835376e-06,0.0,3.0,0.0
+math/0612810,Jacobian varieties of reduced tropical curves,7.319640954368284e-06,0.0,6.0,1.0
+math/0602648,Negatively correlated random variables and Mason's conjecture,7.309023280431168e-06,6.812288122214504e-07,6.0,1.0
+math/0511537,Multiplicity-free Schubert calculus,7.289338639139864e-06,0.0,2.0,1.0
+math-ph/0608055,Eigenvalue amplitudes of the Potts model on a torus,7.2889556464559615e-06,5.041319496106959e-07,7.0,1.0
+math/0505510,Construction of spherical cubature formulas using lattices,7.273701554187009e-06,0.0,4.0,0.0
+math/0606683,Toric geometry of cuts and splits,7.241755756205772e-06,1.990182755160072e-06,2.0,2.0
+math-ph/0508059,"Quantum Knizhnik-Zamolodchikov equation, generalized Razumov-Stroganov
+  sum rules and extended Joseph polynomials",7.22175586935477e-06,9.982711641203435e-07,7.0,15.0
+math/0602068,"On refined enumerations of totally symmetric self-complementary plane
+  partitions I",7.216481015700711e-06,1.1713853936143642e-06,12.0,2.0
+math/0609279,On domino insertion and Kazhdan--Lusztig cells in type $B_n$,7.189122476006218e-06,0.0,3.0,3.0
+math/0607231,Equivalence Classes in the Weyl groups of type $B_n$,7.189122476006218e-06,0.0,3.0,3.0
+math/0507273,Geometric Reasoning with polymake,7.177066684152431e-06,7.751979001504065e-06,6.0,4.0
+math/0602408,"Combinatorial interpretations for rank-two cluster algebras of affine
+  type",7.166313515580829e-06,2.6017157925456533e-08,3.0,3.0
+math/0401292,Subdivisions of toric complexes,7.165905996358479e-06,0.0,5.0,0.0
+math/0505616,Dynkin diagram sequences and stabilization phenomena,7.159792106617818e-06,0.0,1.0,1.0
+math/0505213,"Elliptic determinant evaluations and the Macdonald identities for affine
+  root systems",7.138761738245946e-06,0.0,3.0,3.0
+math/0502385,The poset of positive roots and its relatives,7.119373516457817e-06,0.0,3.0,0.0
+math/0607159,Type-B generalized triangulations and determinantal ideals,7.1184178658128825e-06,0.0,5.0,0.0
+math-ph/0210048,Z-measures on partitions and their scaling limits,7.1101662711390585e-06,2.822995788587297e-07,27.0,5.0
+math/0601019,Periodic Schur process and cylindric partitions,7.096184524494706e-06,2.647737119462557e-06,15.0,2.0
+math/0609825,Misere quotients for impartial games,7.0796823404395085e-06,0.0,4.0,4.0
+math/0110269,"A remark on Fourier pairing and binomial formula for Macdonald
+  polynomials",7.077853676783592e-06,0.0,2.0,0.0
+math/0201012,"Tokens: An Algebraic Construction Common in Combinatorics, Analysis, and
+  Physics",7.069108873728308e-06,0.0,3.0,1.0
+hep-th/0408145,Combinatorial Hopf algebras in quantum field theory I,7.053270191326834e-06,1.3358017184282836e-05,8.0,10.0
+math/0209061,"(Bi-)Cohen-Macaulay simplicial complexes and their associated coherent
+  sheaves",7.046347288450341e-06,0.0,2.0,1.0
+math/0302313,Hierarchies of simplicial complexes via the BGG-correspondence,7.046347288450341e-06,0.0,2.0,1.0
+math/0609516,Lectures on Topology of Words,7.0420016234536464e-06,0.0,4.0,0.0
+math/0305393,q Statistics on $S_n$ and Pattern Avoidance,7.02757688133431e-06,0.0,5.0,1.0
+math/0701633,Area distribution and scaling function for punctured polygons,7.025234436716187e-06,0.0,2.0,1.0
+quant-ph/0512154,A concise guide to complex Hadamard matrices,7.004429042204685e-06,1.131753773402435e-05,11.0,4.0
+math/0511717,The Face Semigroup Algebra of a Hyperplane Arrangement,6.992957167877496e-06,0.0,2.0,1.0
+quant-ph/0405089,Combinatorial Approaches in Quantum Information Theory,6.975451553424628e-06,1.0193144619312202e-06,12.0,2.0
+math-ph/0612083,Spanning forests on the Sierpinski gasket,6.9692803318043055e-06,1.990182755160072e-06,1.0,1.0
+math/0603383,Nested set complexes of Dowling lattices and complexes of Dowling trees,6.942081201049349e-06,0.0,4.0,0.0
+cond-mat/0610023,Some measure theory on stacks of graphs,6.936223577431442e-06,7.960731020640288e-06,6.0,1.0
+hep-th/0209074,Jack polynomials in superspace,6.920234067026832e-06,6.977885750484941e-08,6.0,6.0
+math/0504531,On Hopf algebra structures over free operads,6.9167640735786014e-06,9.579137309856337e-06,3.0,4.0
+math/0702090,Dual graded graphs for Kac-Moody algebras,6.907808832379271e-06,0.0,3.0,0.0
+math/0701051,"Asymptotics of characters of symmetric groups related to Stanley
+  character formula",6.903630368136916e-06,0.0,5.0,0.0
+math/0604208,The Tropical Rank of a Tropical Matrix,6.878805841708809e-06,0.0,4.0,0.0
+math/0703213,Non-commutative Sylvester's determinantal identity,6.861065379441912e-06,0.0,3.0,0.0
+math/0610399,Ehrhart Polynomial Roots and Stanley's Non-negativity Theorem,6.859265062722392e-06,0.0,2.0,0.0
+math/0703453,Deterministic Random Walks on the Two-Dimensional Grid,6.853910632235809e-06,0.0,5.0,0.0
+math/0701083,Multivariate positive definite functions on spheres,6.8474089908774224e-06,0.0,2.0,1.0
+math/0503508,Random skew plane partitions and the Pearcey process,6.847375905651276e-06,2.3017920204492625e-05,15.0,8.0
+cond-mat/0610605,"Exact perimeter generating function for a model of punctured staircase
+  polygons",6.814510747987707e-06,0.0,2.0,1.0
+math/0308050,"Singular 0/1-matrices, and the hyperplanes spanned by random 0/1-vectors",6.8073544518806e-06,0.0,2.0,2.0
+math/0512400,A quadratic lower bound for colourful simplicial depth,6.801308779104164e-06,0.0,2.0,1.0
+math/0701519,n-Ary quasigroups of order 4,6.748029114762999e-06,0.0,4.0,2.0
+math/0603125,Schubert polynomials for the affine Grassmannian,6.727490704570087e-06,1.990182755160072e-06,5.0,2.0
+math/0601693,A combinatorial formula for non-symmetric Macdonald polynomials,6.72355628470799e-06,0.0,2.0,0.0
+math/0506288,First Order Definability of Trees and Sparse Random Graphs,6.713662696906728e-06,0.0,4.0,3.0
+math/0309201,"Ramanujan's ""Lost Notebook"" and the Virasoro Algebra",6.674620144681049e-06,0.0,1.0,1.0
+math/0512206,Branching rules for Hecke Algebras of Type $D_{n}$,6.6174560180715e-06,0.0,3.0,0.0
+math/0506159,Vector partition function and representation theory,6.604068167355491e-06,1.98832624139593e-06,4.0,1.0
+math-ph/0406025,"Raise and Peel Models of fluctuating interfaces and combinatorics of
+  Pascal's hexagon",6.595771165429004e-06,3.375037013830703e-06,19.0,3.0
+math/0612845,A combinatorial proof of a Weyl type formula for hook Schur polynomials,6.594238015689026e-06,0.0,2.0,0.0
+math/0408117,A combinatorial interpretation for a super-Catalan recurrence,6.593363101815925e-06,0.0,3.0,0.0
+math/0608751,"Moments of characteristic polynomials for compact symmetric spaces and
+  Jack polynomials",6.55890781825366e-06,0.0,1.0,1.0
+math/0603166,"Multinets, resonance varieties, and pencils of plane curves",6.556400719125877e-06,0.0,4.0,6.0
+math/0701001,Binary linear forms over finite sets of integers,6.5469414405884045e-06,0.0,4.0,0.0
+hep-th/0212100,Searching for a Connection Between Matroid Theory and String Theory,6.543091646202042e-06,5.780327555655566e-06,18.0,13.0
+math/0111199,Critical resonance in the non-intersecting lattice path model,6.5415845854982735e-06,0.0,8.0,0.0
+cond-mat/0102011,Core percolation in random graphs: a critical phenomena analysis,6.528981543129276e-06,0.0,6.0,4.0
+math/0311045,"A Phase Transition and Stochastic Domination in Pippenger's
+  Probabilistic Failure Model for Boolean Networks with Unreliable Gates",6.523214867372587e-06,0.0,1.0,0.0
+math/0607284,On reducibility of n-ary quasigroups,6.519984747330428e-06,0.0,4.0,3.0
+math/0507015,Detecting the orientation of long links by finite type invariants,6.517548402115227e-06,0.0,2.0,0.0
+math/0206234,Balanced configurations of 2n+1 plane vectors,6.513256238826592e-06,0.0,2.0,1.0
+math/0609339,On distinguishing trees by their chromatic symmetric functions,6.50173117808014e-06,0.0,1.0,0.0
+math/0402395,Proof of the Lovasz Conjecture,6.48682973722796e-06,3.8296745716680775e-05,7.0,22.0
+math/0212178,"Counting Real Connected Components of Trinomial Curve Intersections and
+  m-nomial Hypersurfaces",6.465849802524238e-06,0.0,4.0,0.0
+math/0211201,"Simplicial complexes associated to certain subsets of natural numbers
+  and its applications to multiplicative functions",6.458867192545937e-06,0.0,3.0,0.0
+cond-mat/0605406,Domino tilings and the six-vertex model at its free fermion point,6.454464677287239e-06,0.0,3.0,0.0
+math/0605598,Flag arrangements and triangulations of products of simplices,6.453154576898021e-06,0.0,4.0,0.0
+math/0608698,The Quiver of the Semigroup Algebra of a Left Regular Band,6.445021149456035e-06,0.0,1.0,1.0
+math/0404239,"Zero-one laws for graphs with edge probabilities decaying with distance.
+  Part II",6.443863358041867e-06,0.0,3.0,0.0
+math/0608276,A combinatorial rule for (co)minuscule Schubert calculus,6.434304110749595e-06,0.0,4.0,5.0
+hep-th/0406194,"SM(2,4k) fermionic characters and restricted jagged partitions",6.410624400821918e-06,0.0,3.0,0.0
+cs/0106019,Playing Games with Algorithms: Algorithmic Combinatorial Game Theory,6.40862984513277e-06,0.0,6.0,3.0
+math/0412233,"Extended finite operator calculus as an example of algebraization of
+  analysis",6.3998472960326766e-06,4.97545688790018e-06,8.0,1.0
+cond-mat/0403268,On FPL configurations with four sets of nested arches,6.388214472926635e-06,1.422172580181798e-07,11.0,5.0
+cond-mat/0004231,"A Personal List of Unsolved Problems Concerning Lattice Gases and
+  Antiferromagnetic Potts Models",6.382626260443183e-06,0.0,9.0,1.0
+hep-th/0309067,Explicit formulas for the generalized Hermite polynomials in superspace,6.380993686355008e-06,1.9947267936113526e-06,8.0,2.0
+math/0608145,On multiplicity-free skew characters and the Schubert Calculus,6.372295753300662e-06,0.0,1.0,1.0
+math/0612369,Pattern Recognition on Oriented Matroids: Layers of Tope Committees,6.355472688138928e-06,0.0,2.0,2.0
+math/0606246,Face ring multiplicity via CM-connectivity sequences,6.337937754250368e-06,1.990182755160072e-06,4.0,1.0
+math/0106066,THe largest eigenvalue of sparse random graphs,6.337433723930658e-06,0.0,3.0,2.0
+math/0511306,Multiple planar coincidences with N-fold symmetry,6.323645194206329e-06,0.0,7.0,4.0
+math/0510304,Stationary or static space-times and Young tableaux,6.3056413020003536e-06,0.0,5.0,0.0
+math/0607297,On a theorem of Brion,6.30040846437696e-06,0.0,3.0,2.0
+math/0012117,"A Fredholm Determinant Identity and the Convergence of Moments for
+  Random Young Tableaux",6.298253936760421e-06,9.184002376174546e-06,14.0,7.0
+math-ph/0212015,Combinatorial problems of (quasi-)crystallography,6.276877279359224e-06,0.0,11.0,5.0
+math/0610451,Three Counterexamples on Semigraphoids,6.265747184575551e-06,9.38537283816614e-08,5.0,1.0
+math-ph/0305055,Generating function for K-restricted jagged partitions,6.264634890045386e-06,9.95091377580036e-07,4.0,2.0
+math/0503327,Dyck paths and pattern-avoiding matchings,6.2585338184264895e-06,0.0,5.0,2.0
+math/0702166,On Potentially $(K_5-H)$-graphic Sequences,6.255432062431205e-06,0.0,4.0,0.0
+math/0003080,Grobner Basis Techniques for Computing Actions of K-Categories,6.2482942062980695e-06,0.0,5.0,0.0
+math/0311493,Cluster algebras: Notes for the CDM-03 conference,6.189425388331203e-06,2.143514727996857e-05,15.0,8.0
+math/0502547,A pairing between graphs and trees,6.18668929597166e-06,2.6092866234881705e-06,3.0,3.0
+math/0305327,Refined sign-balance on 321-avoiding permutations,6.158107393849294e-06,0.0,3.0,1.0
+math/0605588,Tetrahedral curves via graphs and Alexander duality,6.145456869265213e-06,0.0,1.0,0.0
+math/0510491,On an Argument of Shkredov on Two-Dimensional Corners,6.129720508537989e-06,0.0,5.0,0.0
+math/0610260,The Euler characteristic of a category,6.113071727288424e-06,0.0,2.0,0.0
+math/0611008,Resonance varieties over fields of positive characteristic,6.109008373059381e-06,0.0,7.0,0.0
+math/0212267,Refined Restricted Involutions,6.108526320999672e-06,0.0,4.0,2.0
+math/0506003,Colourful Simplicial Depth,6.107026054511987e-06,0.0,1.0,2.0
+math/0311043,Appell polynomials and their relatives,6.103191711095639e-06,1.990182755160072e-06,3.0,3.0
+math/0602419,On Perles' question,6.099381432953386e-06,0.0,1.0,0.0
+math/0507338,On the sign-imbalance of skew partition shapes,6.091991593318027e-06,0.0,5.0,2.0
+math/0103097,"Residues formulae for volumes and Ehrhart polynomials of convex
+  polytopes",6.089779490438378e-06,2.985459784116522e-05,6.0,11.0
+math/0302294,A geometric Littlewood-Richardson rule,6.08899211306445e-06,0.0,4.0,8.0
+math/0003195,Random matrix theory over finite fields: a survey,6.074778125701087e-06,5.970548265480216e-06,6.0,4.0
+math/0703153,"Calogero-Moser space, reduced rational Cherednik algebras, and two-sided
+  cells",6.067243684777289e-06,1.4852110113134864e-08,3.0,4.0
+math/0008184,Symmetry classes of alternating-sign matrices under one roof,6.062759393442791e-06,3.980365510320144e-06,8.0,34.0
+cond-mat/0501169,"Towards a Theory of Scale-Free Graphs: Definition, Properties, and
+  Implications (Extended Version)",6.056313659559851e-06,1.0115762658074322e-05,4.0,4.0
+math/0411350,Intersection cohomology of hypertoric varieties,6.039170099468498e-06,1.5932525391951973e-05,6.0,5.0
+math/0509544,Computing Groebner Fans,6.012471650507068e-06,1.2249238629022788e-05,4.0,2.0
+cond-mat/0409576,A refined Razumov-Stroganov conjecture II,5.98960829101022e-06,5.036250257459556e-07,8.0,6.0
+math/0201110,Computational methods for cones and polytopes with symmetry,5.989507126282083e-06,0.0,3.0,0.0
+math/9910004,"The Gromov-Witten potential of a point, Hurwitz numbers, and Hodge
+  integrals",5.9794485273144926e-06,1.1974955030882028e-05,15.0,6.0
+math/0702267,Enumerating the Classes of Local Equivalency in Graphs,5.971740736683113e-06,0.0,4.0,0.0
+math/0304191,The peak algebra and the Hecke-Clifford algebras at $q=0$,5.928230586282e-06,1.3931279286120504e-05,4.0,2.0
+math/0511141,On the enumeration of some D-optimal designs,5.923885406077568e-06,0.0,5.0,0.0
+math/0609557,Manifolds associated with $(Z_2)^n$-colored regular graphs,5.912598253418727e-06,0.0,2.0,1.0
+math/0205128,"Balanced Configurations of Lattice Vectors and GKZ-rational Toric
+  Fourfolds in P^6",5.881085172641151e-06,0.0,1.0,1.0
+cond-mat/0011360,Enumeration of simple random walks and tridiagonal matrices,5.863556552139921e-06,0.0,4.0,0.0
+math/0108150,Kasteleyn cokernels,5.862424981919793e-06,0.0,9.0,2.0
+hep-th/9810087,Renormalization automated by Hopf algebra,5.860642039229001e-06,4.992499128680555e-05,25.0,31.0
+math/0702097,"Blocked edges on Eulerian maps and mobiles: Application to spanning
+  trees, hard particles and the Ising model",5.856762171005636e-06,0.0,13.0,0.0
+math/0605653,"An Elliptic $BC_n$ Bailey Lemma, Multiple Rogers--Ramanujan Identities
+  and Euler's Pentagonal Number Theorems",5.845512829255351e-06,5.970548265480216e-06,4.0,2.0
+math/0511598,Knight move for chromatic graph cohomology,5.844645993643512e-06,0.0,8.0,0.0
+math/0505273,Cell transfer and monomial positivity,5.820761082429408e-06,1.990182755160072e-06,5.0,1.0
+math-ph/0509011,"Boundary qKZ equation and generalized Razumov-Stroganov sum rules for
+  open IRF models",5.8104041182929525e-06,1.2444120141910869e-06,13.0,6.0
+quant-ph/0406135,"A combinatorial approach for studying LOCC transformations of
+  multipartite states",5.808251211155915e-06,0.0,6.0,0.0
+math/0510218,Construction of dendriform trialgebras,5.802640518081962e-06,7.879091281316644e-07,4.0,1.0
+math/0408286,Tree Diagrams for String Links II: Determining Chord Diagrams,5.784060047085886e-06,0.0,2.0,1.0
+math/0510204,"Combinatorial groupoids, cubical complexes, and the Lovasz conjecture",5.7763087720233935e-06,0.0,10.0,4.0
+math/0309252,Transformations of elliptic hypergometric integrals,5.7613503274869215e-06,6.810333962237134e-05,6.0,15.0
+math/0112194,Free martingale polynomials,5.758538795177324e-06,0.0,2.0,6.0
+math/0510663,Avoiding defeat in a balls-in-bins process with feedback,5.754115819286998e-06,2.0124609203297744e-06,3.0,1.0
+math/0603410,Generalized Friedland-Tverberg inequality: applications and extensions,5.7508802498448765e-06,0.0,4.0,0.0
+math/0503334,The $k$-orbit theory and polycirculant conjecture,5.74310824339668e-06,0.0,4.0,0.0
+math/0407162,"On Products and Duality of Binary, Quadratic, Regular Operads",5.729821660525186e-06,4.661556670012793e-06,6.0,8.0
+math/0703182,Inverse Semigroups and Combinatorial C*-Algebras,5.726986449326182e-06,0.0,1.0,2.0
+math/0204320,Counting occurrences of some subword patterns,5.725711125036212e-06,0.0,3.0,0.0
+math/0602149,The Hyperdeterminant and Triangulations of the 4-Cube,5.7057991189941525e-06,0.0,4.0,1.0
+math/0102105,"Applications of the Brauer complex: card shuffling, permutation
+  statistics, and dynamical systems",5.700379220178241e-06,1.990182755160072e-06,5.0,1.0
+math/0503613,"Simple homotopy types of Hom-complexes, neighborhood complexes, Lov\'asz
+  complexes, and atom crosscut complexes",5.685905101897231e-06,9.914002994540624e-06,12.0,7.0
+math/0610030,Partially ordered patterns and compositions,5.679326981876062e-06,0.0,3.0,0.0
+math-ph/0102015,A Transfer Matrix approach to the Enumeration of Knots,5.657723763599487e-06,1.2408435863321584e-06,10.0,4.0
+math/0508397,Binomial posets with non-isomorphic intervals,5.655144290770314e-06,0.0,1.0,1.0
+math/0605670,Statistics on ordered partitions of sets,5.655144290770314e-06,0.0,1.0,1.0
+math/0609376,An example of generalized Schur operators involving planar binary trees,5.655144290770314e-06,0.0,1.0,1.0
+math/0212275,Lower order terms in Szego type limit theorems on Zoll manifolds,5.655144290770314e-06,0.0,1.0,1.0
+math/0702172,Genocchi Numbers and f-Vectors of Simplicial Balls,5.655144290770314e-06,0.0,1.0,0.0
+math/0212273,Lower Order Terms in Szego Theorems on Zoll Manifolds,5.655144290770314e-06,0.0,1.0,1.0
+math/0503303,"Classification of the factorial functions of Eulerian binomial and
+  Sheffer posets",5.655144290770314e-06,0.0,1.0,1.0
+math/0602039,The Automorphism Group of a Finite p-Group is Almost Always a p-Group,5.655144290770314e-06,0.0,1.0,1.0
+math/0312006,"The symmetric group representation on cohomology of the regular elements
+  of a maximal torus of the special linear group",5.655144290770314e-06,0.0,1.0,1.0
+math/0605390,Statistics on Ordered Partitions of Sets and q-Stirling Numbers,5.655144290770314e-06,0.0,1.0,1.0
+math/0606386,Pieri's Formula for Generalized Schur Polynomials,5.655144290770314e-06,0.0,1.0,1.0
+math/0508162,Bases for certain cohomology representations of the symmetric group,5.655144290770314e-06,0.0,1.0,1.0
+math/0411110,"Brill-Gordan Loci, Transvectants and an Analogue of the Foulkes
+  Conjecture",5.634924526589387e-06,1.1941096530960432e-05,3.0,3.0
+math/0412510,Sharp thresholds and percolation in the plane,5.631275339558511e-06,0.0,3.0,3.0
+math/0603327,"Construction of some algebras associated to directed graphs and related
+  to factorizations of noncommutative polynomials",5.630677163096921e-06,0.0,2.0,0.0
+math/0008059,Canonical Bases and Piecewise-linear Combinatorics,5.6286903783332e-06,0.0,2.0,0.0
+math/0605734,"Determinantal Characterization of Canonical Curves and Combinatorial
+  Theta Identities",5.620049586636998e-06,0.0,3.0,0.0
+math/0605785,Faces of generalized cluster complexes and noncrossing partitions,5.610218032824641e-06,3.980365510320144e-06,2.0,4.0
+math/0504290,"On some noncommutative algebras related to K-theory of flag varieties,
+  part I",5.607118047841244e-06,0.0,3.0,0.0
+math/0606775,"Semicanonical basis generators of the cluster algebra of type
+  $A_1^{(1)}$",5.593583633720924e-06,2.6017157925456533e-08,3.0,2.0
+math/0407074,On Hopf algebra structures over operads,5.56878405626613e-06,1.0279107585172836e-05,9.0,5.0
+math/0404325,"Asymptotic Improvement of the Gilbert-Varshamov Bound on the Size of
+  Binary Codes",5.567786391396275e-06,0.0,1.0,1.0
+math/0306222,Jack polynomials and some identities for partitions,5.550236770329929e-06,0.0,3.0,1.0
+math/0312448,The On-Line Encyclopedia of Integer Sequences,5.550109614836881e-06,0.0,4.0,2.0
+math/0507500,Lattices generated by skeletons of reflexive polytopes,5.540930605694457e-06,0.0,3.0,0.0
+math/9802111,"Inhomogeneous lattice paths, generalized Kostka polynomials and
+  A$_{n-1}$ supernomials",5.51853458580567e-06,0.0,10.0,15.0
+math/0411210,Quantum cohomology of the Hilbert scheme of points in the plane,5.515642248111913e-06,1.1186307966050278e-05,7.0,8.0
+math/0306304,A Schubert calculus recurrence from the noncomplex W-action on G/B,5.514425792317435e-06,0.0,4.0,3.0
+math/0609764,"Total positivity, Grassmannians, and networks",5.513987695259037e-06,6.011210677206626e-06,6.0,4.0
+math/0411012,On the frontiers of polynomial computations in tropical geometry,5.498750310557448e-06,6.681473983665146e-08,4.0,4.0
+math/0206032,Inversion of bilateral basic hypergeometric series,5.492992006655856e-06,0.0,3.0,1.0
+math-ph/0304034,On the Asymptotic Number of Plane Curves and Alternating Knots,5.491390939234685e-06,2.3817646960875447e-06,7.0,1.0
+math/0502263,Random recursive trees and the Bolthausen-Sznitman coalescent,5.489969170267637e-06,0.0,2.0,0.0
+math/0510394,Threshold and Complexity Results for the Cover Pebbling Game,5.487644045343607e-06,0.0,6.0,0.0
+math/0605753,Ihara zeta functions for periodic simple graphs,5.487462623207445e-06,0.0,3.0,2.0
+math/0608229,"Ihara's zeta function for periodic graphs and its approximation in the
+  amenable case",5.487462623207445e-06,0.0,3.0,2.0
+math/0203111,Some Observations on Dyson's New Symmetries of Partitions,5.484649847336146e-06,0.0,2.0,2.0
+math/0510169,Combinatorics of the free Baxter algebra,5.479359385722588e-06,0.0,1.0,5.0
+math/0703150,"Quiver varieties, category O for rational Cherednik algebras, and Hecke
+  algebras",5.469210685694588e-06,5.940844045253947e-08,4.0,3.0
+math/0504486,Ehrhart polynomials and stringy Betti numbers,5.468098782510748e-06,6.071992580201373e-06,3.0,2.0
+math/0410312,Entropy of systolically extremal surfaces and asymptotic bounds,5.456265087130972e-06,0.0,10.0,12.0
+math/0609700,A simple bijection between permutation tableaux and permutations,5.452702725005202e-06,0.0,3.0,0.0
+math-ph/0312071,On refined enumerations of some symmetry classes of ASMs,5.425604765696692e-06,0.0001106117579616,16.0,8.0
+math/0402092,Duality for Finite Multiple Harmonic q-Series,5.399734317001003e-06,6.608390499801285e-07,11.0,4.0
+math/0502392,"On the number of fully packed loop configurations with a fixed
+  associated matching",5.395434217240414e-06,0.0,5.0,1.0
+math/0609125,Coassociative magmatic bialgebras and the Fine numbers,5.3916490424183004e-06,0.0,3.0,0.0
+math/0610190,"Monomial ideals arising from flag complexes whose generic initial ideals
+  do not depend on term orders",5.389472575977964e-06,0.0,3.0,0.0
+math/0612572,Pascal arrays: counting Catalan sets,5.382174995082971e-06,0.0,6.0,0.0
+math/0506520,"Triangulated Manifolds with Few Vertices: Vertex-Transitive
+  Triangulations I",5.368429284134074e-06,0.0,4.0,4.0
+math-ph/0104009,A transfer matrix approach to the enumeration of colored links,5.343626460706541e-06,1.2408435863321584e-06,10.0,4.0
+math/0404465,"Triangulated Manifolds with Few Vertices: Centrally Symmetric Spheres
+  and Products of Spheres",5.342119090674608e-06,0.0,2.0,2.0
+math/0507410,"Methods for the construction of generators of algebraic curvature
+  tensors",5.340107666330683e-06,0.0,6.0,0.0
+math/0508511,"Lusztig's q-analogue of weight multiplicity and one-dimensional sums for
+  affine root systems",5.3330692805213125e-06,0.0,2.0,0.0
+math/0507245,Torsion in Graph Homology,5.318482058194197e-06,3.951711161538568e-06,14.0,6.0
+math/0103024,A multidimensional generalization of Shukla's 8-psi-8 summation,5.306657031435651e-06,0.0,2.0,0.0
+math/0304380,"Short antichains in root systems, semi-Catalan arrangements, and
+  B-stable subspaces",5.300076304869005e-06,0.0,5.0,2.0
+math/0603471,Stratified Morse Theory in Arrangements,5.287367007650908e-06,0.0,3.0,0.0
+math/0512164,Around matrix-tree theorem,5.257223500609074e-06,0.0,4.0,0.0
+math/0411570,Enriched homology and cohomology modules of simplicial complexes,5.250622260250228e-06,3.980365510320144e-06,2.0,1.0
+math/0508041,Enriched $P$-partitions and peak algebras,5.244982953642018e-06,5.970548265480216e-06,3.0,3.0
+math/9808040,Polynomial Sequences of Binomial Type and Path Integrals,5.202736353419365e-06,0.0,5.0,1.0
+math/0210463,Abelian ideals in a Borel subalgebra of a complex simple Lie algebra,5.202534404790843e-06,0.0,3.0,2.0
+math/0408417,"Symmetric products of surfaces; a unifying theme for topology and
+  physics",5.181294257270119e-06,3.281716249745709e-08,3.0,1.0
+math/0505624,Symmetric Groups and Expander Graphs,5.177542632367686e-06,0.0,5.0,3.0
+math/0401218,Counting occurrences of 3412 in an involution,5.172248577447994e-06,0.0,2.0,0.0
+math/0506335,"Giambelli formulae for the equivariant quantum cohomology of the
+  Grassmannian",5.167970925602378e-06,0.0,4.0,3.0
+math/0606702,"Combinatorial Speculations and the Combinatorial Conjecture for
+  Mathematics",5.164339324857438e-06,0.0,7.0,0.0
+math/9606226,"Zero one laws for graphs with edge probabilities decaying with distance.
+  Part I",5.159633508096145e-06,0.0,5.0,1.0
+math/0508407,Some trace formulae involving the split sequences of a Leonard pair,5.155726582088498e-06,6.188379213806194e-09,14.0,6.0
+math/0606089,Notes on the roots of Ehrhart polynomials,5.15213159084411e-06,0.0,5.0,1.0
+math/0501344,Combinatorics of bicubic maps with hard particles,5.135856303661082e-06,3.980860580657248e-06,12.0,3.0
+math/0510177,Graph coloring manifolds,5.128811943234421e-06,0.0,8.0,4.0
+math/0210444,"Cumulants in Noncommutative Probability Theory III. Creation- and
+  annihilation operators on Fock spaces",5.1201478942555335e-06,0.0,2.0,1.0
+math/0610829,Minimal triangulations of sphere bundles over the circle,5.114438698254451e-06,0.0,2.0,2.0
+math/0211114,Recent developments in algebraic combinatorics,5.1027409633317454e-06,0.0,9.0,0.0
+math/0606450,Drawings of Planar Graphs with Few Slopes and Segments,5.1009786927711305e-06,0.0,2.0,1.0
+math/0411260,"Matroid polytopes, nested sets and Bergman fans",5.085323403572736e-06,8.270349026739471e-05,7.0,6.0
+math/0507163,"Permutohedra, associahedra, and beyond",5.08410429670336e-06,7.767044547014808e-05,9.0,19.0
+math/0501345,The generic Groebner walk,5.071117082304447e-06,1.0259055873862724e-05,2.0,3.0
+math/0604054,Laurent expansions in cluster algebras via quiver representations,5.0548575498594646e-06,4.032399826171057e-06,8.0,2.0
+math/0508392,h-vectors of Gorenstein polytopes,5.040644318944265e-06,2.09162706988123e-06,2.0,2.0
+math/0506075,Parallel transport of $Hom$-complexes and the Lovasz conjecture,5.028937413673951e-06,0.0,9.0,5.0
+math/0607785,On irreducible n-ary quasigroups with reducible retracts,5.028637911592768e-06,0.0,2.0,3.0
+math/0412480,Volume and lattice points of reflexive simplices,5.027485654270984e-06,0.0,2.0,0.0
+math/0510211,A Wilf equivalence related to two stack sortable permutations,5.01470659229112e-06,0.0,3.0,1.0
+math/0501335,Affine Stanley symmetric functions,5.008582932332129e-06,7.960731020640288e-06,4.0,3.0
+math-ph/0203030,"Tropical Robinson-Schensted-Knuth correspondence and birational Weyl
+  group actions",5.006416912339816e-06,0.0,3.0,6.0
+math/0511032,Minimal monomial ideals and linear resolutions,4.995458663487116e-06,0.0,3.0,0.0
+math/0407491,Complete toric varieties with reductive automorphism group,4.9910927777207335e-06,1.3936721051161956e-05,2.0,3.0
+math/0406485,The reflexive dimension of a lattice polytope,4.9910927777207335e-06,2.006553831080232e-06,2.0,2.0
+math/0602610,The boundary of the Eulerian number triangle,4.981646354273746e-06,0.0,2.0,0.0
+math/0604297,"A short proof of the lambda_g-conjecture without Gromov-Witten theory:
+  Hurwitz theory and the moduli of curves",4.978293771308081e-06,4.473527142510502e-11,4.0,3.0
+math/0505035,Edge coloring models and reflection positivity,4.977642181528427e-06,0.0,3.0,0.0
+math/0703600,"Asymptotic enumeration of integer matrices with constant row and column
+  sums",4.966907238954575e-06,0.0,1.0,0.0
+math/0512536,"Fermionic Formulas For Unrestricted Kostka Polynomials And
+  Superconformal Characters",4.966051241620321e-06,0.0,3.0,0.0
+math-ph/0406013,"2D Quantum Gravity, Matrix Models and Graph Combinatorics",4.952926113681388e-06,1.990182755160072e-06,13.0,9.0
+math/0503227,An Inductive Proof of the Berry-Esseen Theorem for Character Ratios,4.950636032386632e-06,0.0,3.0,1.0
+quant-ph/0608016,On the quantum chromatic number of a graph,4.943068169648694e-06,0.0,3.0,0.0
+math/0209255,231-Avoiding Involutions and Fibonacci Numbers,4.934457628411052e-06,0.0,1.0,0.0
+math/0505563,"Chromatic numbers, morphism complexes, and Stiefel-Whitney
+  characteristic classes",4.919235352759579e-06,1.9871409347740577e-06,10.0,13.0
+cs/0510041,Feynman graphs and related Hopf algebras,4.918294102254547e-06,3.980365510320144e-06,7.0,2.0
+math/0205165,Affine approach to quantum Schubert calculus,4.916275983636693e-06,0.0,5.0,17.0
+math/0409022,Structure of the Loday-Ronco Hopf algebra of trees,4.902742529750307e-06,5.345362653729225e-06,7.0,3.0
+math/0610540,"Upper bound on the characters of the symmetric groups for balanced Young
+  diagrams and a generalized Frobenius formula",4.897340509806431e-06,0.0,4.0,2.0
+cond-mat/9904146,"Bounds on the Complex Zeros of (Di)Chromatic Polynomials and Potts-Model
+  Partition Functions",4.893296838778557e-06,3.526807992508185e-05,14.0,23.0
+math/0411356,"Characterization and enumeration of toroidal K_{3,3}-subdivision-free
+  graphs",4.890755141989474e-06,0.0,1.0,3.0
+math/0610802,Giant Component and Vacant Set for Random Walk on a Discrete Torus,4.888122142929886e-06,0.0,1.0,0.0
+math/0610819,Counterexamples to Okounkov's Log-Concavity Conjecture,4.887892070703837e-06,0.0,4.0,0.0
+math/0703371,B-orbits of nilpotent order 2 and link patterns,4.881929071148736e-06,0.0,4.0,0.0
+math/0203229,"q-Hypergeometric proofs of polynomial analogues of the triple product
+  identity, Lebesgue's identity and Euler's pentagonal number theorem",4.862791701881183e-06,0.0,3.0,1.0
+math/0307227,A vector partition function for the multiplicities of sl_k(C),4.862430717870804e-06,3.980365510320144e-06,3.0,2.0
+math/0503224,A scheme related to the Brauer loop model,4.85800514391284e-06,6.913701073292623e-06,9.0,11.0
+math/0607464,A cohomological interpretation of Brion's formula,4.837926741423939e-06,0.0,3.0,1.0
+math/0106079,"Combinatorics and invariant differential operators on multiplicity free
+  spaces",4.837857736334099e-06,0.0,2.0,1.0
+math/0411647,"Asymptotics of characters of symmetric groups, genus expansion and free
+  probability",4.837481124801807e-06,0.0,3.0,2.0
+math/0412093,Polyhedral surfaces of high genus,4.837368952752979e-06,0.0,4.0,1.0
+math-ph/0504022,"Enumerations of half-turn symmetric alternating-sign matrices of odd
+  order",4.824070847487391e-06,7.859241601533866e-09,10.0,3.0
+math/0608060,A trace on fractal graphs and the Ihara zeta function,4.823928983956998e-06,0.0,2.0,3.0
+math/0305367,SPM Bulletin 5 (Special issue),4.821402077669939e-06,0.0,7.0,3.0
+math/0407183,Signature of rotors,4.803828148734316e-06,0.0,4.0,0.0
+math/0506372,Triangulated Manifolds with Few Vertices: Combinatorial Manifolds,4.791481684288842e-06,0.0,3.0,8.0
+math/0703904,"Periodicity of hyperplane arrangements with integral coefficients modulo
+  positive integers",4.789555423201199e-06,0.0,1.0,0.0
+math/0307382,Face pairing graphs and 3-manifold enumeration,4.783405278218858e-06,0.0,3.0,1.0
+math/0501218,"Nonintersecting Paths, Noncolliding Diffusion Processes and
+  Representation Theory",4.783284478547076e-06,0.0,5.0,0.0
+math/0501356,"On the multigraded Hilbert and Poincar\'e-Betti series and the Golod
+  property of monomial rings",4.775563454392716e-06,0.0,4.0,0.0
+math/0409178,The depth of powers of an ideal,4.775563454392716e-06,0.0,4.0,0.0
+math/0307122,"LS-Galleries, the path model and MV-cycles",4.77087406634764e-06,1.2185346369469797e-08,2.0,3.0
+math/0608269,"On reconstructing reducible n-ary quasigroups and switching
+  subquasigroups",4.766854225136262e-06,0.0,3.0,2.0
+math/0405448,Gorenstein toric Fano varieties,4.75188722860349e-06,0.0,3.0,2.0
+math/0512161,X=M Theorem: Fermionic formulas and rigged configurations under review,4.751655422169287e-06,3.980365510320144e-06,6.0,3.0
+math/0310428,Generalized Path Algebras and Pointed Hopf Algebras,4.748468274335773e-06,0.0,2.0,0.0
+math/0409468,Constructing All Magic Squares of Order Three,4.740966357083738e-06,0.0,1.0,1.0
+math/0401077,"A Littlewood-Richardson rule for evaluation representations of quantum
+  affine sl(n)",4.740966357083738e-06,0.0,1.0,0.0
+math/9810091,An exploration of the permanent-determinant method,4.734843997878334e-06,0.0,8.0,9.0
+math/0212328,Bijections for refined restricted permutations,4.716594396003544e-06,0.0,4.0,5.0
+math/0410602,Codimension one decompositions and Chow varieties,4.70414801311342e-06,0.0,2.0,0.0
+math/0005123,Refined q-trinomial coefficients and character identities,4.699171829286421e-06,0.0,2.0,0.0
+math/0509350,Evaluating Two Determinants,4.690664784791801e-06,0.0,2.0,1.0
+math/0610984,Colored posets and colored quasisymmetric functions,4.682760054020938e-06,0.0,3.0,0.0
+math/0204025,"The representation theory of the Ariki-Koike and cyclotomic q-Schur
+  algebras",4.674316967281031e-06,0.0,6.0,1.0
+math/0406418,New results on the peak algebra,4.668670973801257e-06,9.95091377580036e-06,3.0,3.0
+cond-mat/0205063,A challenge in enumerative combinatorics: The graph of contribution,4.66454210646279e-06,0.0,3.0,0.0
+math/0202103,Reconstructing a Simple Polytope from its Graph,4.650395799417749e-06,0.0,2.0,0.0
+math/0504018,"Polynomial equations with one catalytic variable, algebraic series, and
+  map enumeration",4.648001468470278e-06,0.0,3.0,1.0
+math/0107052,"Parameterizing Hecke algebra modules: Bernstein-Zelevinsky
+  multisegments, Kleshchev multipartitions, and crystal graphs",4.647891986441586e-06,0.0,1.0,0.0
+math/0110281,Integrals over Grassmannians and Random permutations,4.643248620697831e-06,4.143980816399806e-06,9.0,6.0
+math/0602401,"A Schur function identity related to the (-1)-enumeration of
+  self-complementary plane partitions",4.641366221701179e-06,0.0,4.0,0.0
+math/0309156,Non-crossing frameworks with non-crossing reciprocals,4.639248792026372e-06,0.0,2.0,0.0
+math/0208095,"Non-trivial 1-classes in the homology of the real moduli spaces
+  M-bar_{0,n} and related structures",4.635536403732634e-06,1.7040427296919245e-05,2.0,1.0
+math/0112150,Puzzles and (equivariant) cohomology of Grassmannians,4.635492123493814e-06,0.0,8.0,2.0
+math/0512283,Nice Initial Complexes of Some Classical Ideals,4.633203119249935e-06,1.963892344126473e-08,2.0,2.0
+math/0312530,Enumerative tropical algebraic geometry in R2,4.630781195862506e-06,4.37105144284682e-05,8.0,16.0
+math/0211285,"Loops, matchings and alternating-sign matrices",4.628759232455287e-06,2.159942308784469e-05,18.0,21.0
+math/0612696,Cubical token systems,4.609932365308089e-06,0.0,3.0,0.0
+math/0602071,Algorithmic aspects of algebraic methods for graph isomorphism testing,4.6003294108667125e-06,0.0,1.0,0.0
+math-ph/0106005,"The General O(n) Quartic Matrix Model and its application to Counting
+  Tangles and Links",4.597495949563314e-06,3.916578480403533e-06,7.0,6.0
+math/0505458,Tropical Arithmetic and Tropical Matrix Algebra,4.595246357663034e-06,1.6634612859885514e-07,4.0,4.0
+math/0608057,A characterization of the Tutte polynomial via combinatorial embeddings,4.5810208923800025e-06,0.0,3.0,0.0
+math/0110307,The generalized Borwein conjecture. II. Refined q-trinomial coefficients,4.567870526536606e-06,0.0,3.0,2.0
+math/0611885,Generalized bialgebras and triples of operads,4.554418023225247e-06,2.0994574356636967e-06,1.0,3.0
+math/0407185,Routing Complexity of Faulty Networks,4.527116820765776e-06,0.0,2.0,0.0
+math/0406328,On some $q$-identities related to divisor functions,4.527116820765776e-06,0.0,2.0,0.0
+math/0209340,On multi-avoidance of generalized patterns,4.527116820765776e-06,0.0,2.0,0.0
+math/0610856,"Semidefinite programming, multivariate orthogonal polynomials, and codes
+  in spherical caps",4.525204607708227e-06,0.0,1.0,2.0
+math/0506223,Combinatorial secant varieties,4.518905947327552e-06,5.731900627515757e-06,4.0,3.0
+math/0411095,On random $\pm 1$ matrices: Singularity and Determinant,4.515025475212903e-06,0.0,2.0,1.0
+math/0702890,Classification of toric Fano 5-folds,4.515025475212901e-06,0.0,1.0,0.0
+math-ph/0412031,"Inhomogenous model of crossing loops and multidegrees of some algebraic
+  varieties",4.504588792244066e-06,9.211752127480275e-06,14.0,12.0
+math/0607194,Groebner Bases for Transportation Polytopes,4.4922671964372e-06,0.0,3.0,0.0
+math/0411007,"The First Ascent into the Incidence Algebra of the Fibonacci Cobweb
+  Poset",4.478949026377364e-06,0.0,4.0,2.0
+math/0702109,Longest Common Separable Pattern between Permutations,4.470212365460655e-06,0.0,3.0,0.0
+math/0409025,"Cumulants in Noncommutative Probability Theory IV. De Finetti's Theorem
+  and $L^p$-Inequalities",4.468846838870341e-06,0.0,2.0,1.0
+math/0603617,Forest-like permutations,4.465439071966736e-06,0.0,4.0,4.0
+math/0210428,Abelian ideals of a Borel subalgebra and long positive roots,4.441168092398221e-06,0.0,2.0,4.0
+math/0407116,Discrete Baker Transformation and Cellular Automata,4.439953424281502e-06,0.0,1.0,0.0
+math/0508359,Computing generating sets of lattice ideals,4.4344531236141e-06,6.278690363542582e-06,3.0,4.0
+math/0703255,Binomial identities related to Calabi-Yau differential equations,4.431996268639935e-06,0.0,2.0,1.0
+math/0703417,Cohen-Macaulay graphs arising from digraphs,4.431638074487216e-06,0.0,1.0,1.0
+cond-mat/0102259,"Cluster expansions in dilute systems: applications to satisfiability
+  problems and spin glasses",4.431167783067014e-06,0.0,7.0,0.0
+math/0510263,Cubic Partial Cubes from Simplicial Arrangements,4.411552577449143e-06,0.0,3.0,1.0
+math/0405537,Tree Diagrams for String Links,4.398304075651465e-06,0.0,2.0,2.0
+math/0702515,The Neighbor-Net Algorithm,4.389578162543914e-06,0.0,2.0,1.0
+math/0605222,Solution of the coincidence problem in dimensions $d\le 4$,4.388454882188588e-06,0.0,4.0,3.0
+math/0608278,On the number of 1-perfect binary codes: a lower bound,4.386523366893666e-06,0.0,2.0,0.0
+math/0602089,Quantization of branching coefficients for classical Lie groups,4.376356312780318e-06,1.990182755160072e-06,1.0,1.0
+math/0610952,A definition of the crystal commutor using Kashiwara's involution,4.374918302194669e-06,0.0,2.0,1.0
+math/0402047,Numerical cubature using error-correcting codes,4.354842591016637e-06,0.0,3.0,4.0
+math/0104003,"Applications of Symmetric Functions to Cycle and Increasing Subsequence
+  Structure after Shuffles (Part 2)",4.348409350508903e-06,1.4074515911318544e-06,8.0,2.0
+math/0702062,"Three combinatorial models for affine sl(n) crystals, with applications
+  to cylindric plane partitions",4.345035877295855e-06,0.0,1.0,0.0
+math/0311347,Ideals of Heisenberg type and minimax elements of affine Weyl groups,4.341551635609961e-06,0.0,3.0,2.0
+math/0403167,Goellnitz-Gordon partitions with weights and parity conditions,4.321101580670627e-06,0.0,1.0,0.0
+math/9902011,"The number of ramified coverings of the sphere by the double torus, and
+  a general form for higher genera",4.317716943084783e-06,0.0,4.0,4.0
+math/0703203,"A generalization of Foata's fundamental transformation and its
+  applications to the right-quantum algebra",4.311478479972694e-06,0.0,6.0,1.0
+math/0506360,"Grothendieck bialgebras, Partition lattices and symmetric functions in
+  noncommutative variables",4.311358904615783e-06,0.0,7.0,1.0
+math/9905084,The asymptotics of monotone subsequences of involutions,4.300704800151532e-06,8.45789404573028e-06,11.0,20.0
+math/0703479,Bimahonian distributions,4.29926264334446e-06,0.0,1.0,0.0
+math/0511695,"Local Properties of Richardson Varieties in the Grassmannian via a
+  Bounded Robinson-Schensted-Knuth Correspondence",4.298892778714623e-06,0.0,2.0,2.0
+math/0606346,On the combinatorics of hypergeometric functions,4.295089316756576e-06,0.0,3.0,0.0
+math/0410111,Integer Polynomial Optimization in Fixed Dimension,4.289084593342065e-06,0.0,1.0,2.0
+math/0507372,On algebras associated to partially ordered sets,4.278684797185248e-06,0.0,3.0,3.0
+math/0508409,A congruence involving products of $q$-binomial coefficients,4.278670187138834e-06,0.0,1.0,0.0
+math/0612194,An identity in Rota-Baxter algebras,4.262054894467503e-06,0.0,1.0,0.0
+math/9812106,Bosonic formula for level-restricted paths,4.256206864352921e-06,0.0,6.0,5.0
+math/0309266,Permutation sign under the Robinson-Schensted-Knuth correspondence,4.246447007297489e-06,0.0,2.0,2.0
+math/0607669,The recursive nature of cominuscule Schubert calculus,4.243686570005079e-06,0.0,2.0,2.0
+math/0501046,Real Root Conjecture fails for five and higher dimensional spheres,4.242778482371512e-06,0.0,3.0,0.0
+math/0607451,Blocks of cyclotomic Hecke algebras,4.236402573222e-06,1.6351240086418886e-06,2.0,3.0
+math/0511582,Torus graphs and simplicial posets,4.233362657952643e-06,0.0,7.0,1.0
+math/0703409,Operators related to subordination for free multiplicative convolutions,4.233018607711767e-06,0.0,2.0,0.0
+math/0310144,A Generalization of Repetition Threshold,4.225862311604661e-06,0.0,2.0,0.0
+math-ph/0201063,"Recursion relations for Unitary integrals, Combinatorics and the
+  Toeplitz Lattice",4.214985416006204e-06,8.500226450910015e-07,5.0,7.0
+math/0407042,Projected Products of Polytopes,4.214034872898019e-06,0.0,3.0,2.0
+math/0309231,On the sign-imbalance of partition shapes,4.204306610713125e-06,0.0,3.0,2.0
+math/0308109,"Toric Initial Ideals of $\Delta$-Normal Configurations:
+  Cohen-Macaulayness and Degree Bounds",4.200935291519806e-06,0.0,2.0,1.0
+math/0502147,A Combinatorial Model for Crystals of Kac-Moody Algebras,4.200121724387936e-06,0.0,2.0,3.0
+math/0102174,"Multilateral transformations of q-series with quotients of parameters
+  that are nonnegative integer powers of q",4.199458373837573e-06,0.0,3.0,1.0
+math/0608123,Full heaps and representations of affine Weyl groups,4.199458373837573e-06,0.0,3.0,0.0
+math/0507270,A new proof of the refined alternating sign matrix theorem,4.175408099656253e-06,0.0,2.0,0.0
+cond-mat/0308515,General duality for abelian-group-valued statistical-mechanics models,4.170535012898188e-06,1.336689910182138e-07,1.0,1.0
+math/0410455,Tropical Linear Spaces,4.166244394875122e-06,6.674945724383815e-05,4.0,8.0
+math/0108193,Partial-sum analogues of the Rogers-Ramanujan identities,4.158933256212386e-06,0.0,1.0,0.0
+math/0011156,"Bipartite graphs with uniquely restricted maximum matchings and their
+  corresponding greedoids",4.154549745836374e-06,0.0,2.0,0.0
+math/0512086,"g-elements, finite buildings and higher Cohen-Macaulay connectivity",4.152060804718484e-06,2.0348558642587077e-05,3.0,2.0
+math/0703070,The structure and classification of mis\`ere quotients,4.145617295183355e-06,0.0,3.0,1.0
+math/0608232,Quantum Grothendieck Polynomials,4.141088651368971e-06,0.0,4.0,0.0
+math/0412320,Methods in the Local Theory of Packing and Covering Lattices,4.133063288931482e-06,0.0,3.0,0.0
+math/0404187,"Monomials of q and q,t-characters for non simply-laced quantum
+  affinizations",4.1275355655611805e-06,0.0,2.0,0.0
+math/0301199,"The Brown-Colbourn conjecture on zeros of reliability polynomials is
+  false",4.107142134237982e-06,0.0,3.0,4.0
+math/0109219,"Restricted permutations related to Fibonacci numbers and k-generalized
+  Fibonacci numbers",4.103095239266789e-06,0.0,3.0,1.0
+math/0407171,An arctic circle theorem for groves,4.101386212789584e-06,2.6285571256505475e-08,8.0,1.0
+math/0609052,The Expected Order of a Random Unitary Matrix,4.092834475750677e-06,0.0,2.0,0.0
+math/0402140,Normalizers of ad-nilpotent ideals,4.09221595339974e-06,0.0,2.0,1.0
+math/0504399,Averages over classical compact Lie groups and Weyl characters,4.089307811357881e-06,0.0,2.0,0.0
+math/0205324,"Spaces of coinvariants and fusion product I. From equivalence theorem to
+  Kostka polynomials",4.087241943058507e-06,7.966699003092724e-06,9.0,5.0
+math/0310107,Intersection Cohomology of reductive varieties,4.077174855776564e-06,0.0,5.0,1.0
+math/0012029,Permutations Restricted by Two Distinct Patterns of Length Three,4.075235057024103e-06,0.0,4.0,0.0
+math-ph/9911002,Matrix Model Combinatorics: Applications to Folding and Coloring,4.074520424307989e-06,4.075723101874268e-06,9.0,11.0
+math/0208125,The many faces of alternating-sign matrices,4.066701912890666e-06,8.911266067880921e-09,13.0,4.0
+math/0405476,Algebraic Combinatorics of Magic Squares,4.066166547859448e-06,7.4260550565674335e-09,2.0,1.0
+math/0101235,Remarks on a Paper by Y.Caro and R.Yuster on Turan Problem,4.063143711471229e-06,0.0,1.0,2.0
+math/0310327,"A common recursion for Laplacians of matroids and shifted simplicial
+  complexes",4.063143711471229e-06,0.0,1.0,2.0
+math/0211268,Counting Lattice Triangulations,4.063143711471229e-06,0.0,1.0,2.0
+math/0511749,The Colourful Feasibility Problem,4.057098038694793e-06,0.0,1.0,1.0
+math/0703437,Shuffle bialgebras,4.053195343842948e-06,4.089640190823768e-06,2.0,1.0
+math/0208073,Face numbers of 4-Polytopes and 3-Spheres,4.051664289078796e-06,0.0,2.0,3.0
+math/0609076,Orthogonal maximal abelian *-subalgebras of the 6x6 matrices,4.050086722879888e-06,9.138893515707073e-06,4.0,7.0
+math-ph/0306077,"Structures of boson and fermion Fock spaces in the space of symmetric
+  functions",4.047561881864319e-06,1.990182755160072e-06,2.0,1.0
+math/0110077,Frobenius-Schur functions,4.037864075546937e-06,1.791164479644065e-05,4.0,8.0
+math/0601343,"Alcove walks, Hecke algebras, spherical functions, crystals and column
+  strict tableaux",4.036189262235711e-06,0.0,4.0,1.0
+math/9910117,Robinson-Schensted correspondence and left cells,4.023545397245932e-06,0.0,3.0,0.0
+math/9810025,A Pieri-type formula for isotropic flag manifolds,4.019598955218951e-06,5.970548265480216e-06,2.0,3.0
+math/0609184,Faces of Generalized Permutohedra,4.019216700998825e-06,1.949520343433662e-06,6.0,4.0
+hep-th/0411044,Jack superpolynomials: physical and combinatorial definitions,4.01562319250179e-06,0.0,3.0,0.0
+math/0602259,Cluster algebras IV: Coefficients,4.013889513760613e-06,7.154938638170288e-05,7.0,8.0
+math/0604352,Stein's method for concentration inequalities,4.007423346985859e-06,0.0,3.0,0.0
+math/0602473,The quantum sl(3) invariants of cubic bipartite planar graphs,3.999681203158143e-06,0.0,5.0,0.0
+math/0305154,Incidence combinatorics of resolutions,3.984231076317173e-06,1.7275371946183972e-05,3.0,3.0
+math/0509063,The $F$-triangle of the generalised cluster complex,3.98351631355901e-06,0.0,3.0,0.0
+math/0501446,"On the Computation of Clebsch-Gordan Coefficients and the Dilation
+  Effect",3.9734447121048935e-06,3.978508996556002e-06,5.0,1.0
+math/0407075,"Local chromatic number, Ky Fan's theorem, and circular colorings",3.973219019196966e-06,3.664542378305453e-08,7.0,2.0
+math/0410359,A short proof of the Harris-Kesten Theorem,3.972345704867153e-06,0.0,2.0,3.0
+math/0505518,Root systems and generalized associahedra,3.957563036644239e-06,3.057065322388521e-05,4.0,12.0
+math/0109193,"The problem of harmonic analysis on the infinite-dimensional unitary
+  group",3.955712505995193e-06,6.600068921331218e-07,14.0,8.0
+math/0409447,"A simple proof of associativity and commutativity of LR-coefficients (or
+  the hive ring)",3.951376047526197e-06,0.0,3.0,1.0
+math/0010218,Recent Progress in Algebraic Combinatorics,3.9468848524192914e-06,0.0,10.0,0.0
+math/0411280,Generalizations of Cauchy's Determinant and Schur's Pfaffian,3.94537014162742e-06,8.417458365585911e-05,4.0,7.0
+math/0105072,Combinatorics of the heat trace on spheres,3.944966067434195e-06,0.0,1.0,0.0
+math/0502278,An analogue of distributivity for ungraded lattices,3.939006528086223e-06,0.0,3.0,0.0
+math/0206164,Two formulae for inverse Kazhdan-Lusztig polynomials in S_n,3.930756486421246e-06,0.0,2.0,0.0
+math/0511114,Combinatorics of normal sequences of braids,3.911405833560001e-06,0.0,3.0,0.0
+math/0304492,"The $E_t$-Construction for Lattices, Spheres and Polytopes",3.903777147597354e-06,0.0,3.0,4.0
+math/0612134,Symmetric Boolean Algebras,3.902816004398429e-06,4.243460032324247e-08,2.0,1.0
+math/0303353,Increasing trees and Kontsevich cycles,3.895979658598993e-06,0.0,3.0,1.0
+math/0010135,Integrable Lattices: Random Matrices and Random Permutations,3.894440264148168e-06,1.990182755160072e-06,8.0,8.0
+math/0603308,A primal Barvinok algorithm based on irrational decompositions,3.893401232155119e-06,0.0,3.0,0.0
+math/0604584,"Enumeration of non-orientable 3-manifolds using face pairing graphs and
+  union-find",3.88952783210807e-06,0.0,3.0,1.0
+math/0403183,"De Concini-Procesi wonderful arrangement models - A discrete geometer's
+  point of view",3.8857696764098486e-06,0.0,3.0,0.0
+math/0510621,Pebbling and Optimal Pebbling in Graphs,3.881941372848557e-06,0.0,2.0,0.0
+math/0703487,A positivity conjecture for Jack polynomials,3.877225476942048e-06,0.0,3.0,0.0
+math/0605019,Idempotents and Nilpotents Modulo n,3.8670782361018905e-06,0.0,1.0,1.0
+math/0508589,Some families of componentwise linear monomial ideals,3.858160452827263e-06,0.0,3.0,2.0
+math/0201011,"Data mining for cones of metrics, quasi-metrics, hemi-metrics and
+  super-metrics",3.853795325504487e-06,0.0,3.0,1.0
+math/0503011,A Solomon descent theory for the wreath products G ~ S_n,3.840976361670208e-06,0.0,5.0,3.0
+math/0509564,Domination Cover Pebbling: Structural Results,3.838026576536718e-06,0.0,4.0,0.0
+math/0610834,"Equivariant cohomology, symmetric functions and the Hilbert schemes of
+  points on the total space of the invertible sheaf O(-2) over the projective
+  line",3.828087042053822e-06,0.0,2.0,1.0
+math/0609048,Totally frustrated states in the chromatic theory of gain graphs,3.820742750620725e-06,0.0,1.0,0.0
+math/0209316,"Cycle and Circle Tests of Balance in Gain Graphs: Forbidden Minors and
+  Their Groups",3.820742750620725e-06,0.0,1.0,1.0
+math/0509457,Generating functions for ranks of pre-modular categories,3.818591318666191e-06,0.0,3.0,0.0
+math/0304010,"Kerov's central limit theorem for the Plancherel measure on Young
+  diagrams",3.818379531896379e-06,1.5921462041280577e-05,4.0,2.0
+math-ph/0611026,A lower bound for nodal count on discrete and metric graphs,3.8140350868598103e-06,0.0,2.0,0.0
+math/0107214,q-Supernomial coefficients: From riggings to ribbons,3.812351131810738e-06,0.0,1.0,1.0
+math/0406361,Collision Free Motion Planning on Graphs,3.8115001107087104e-06,0.0,2.0,2.0
+math/0611039,Enumerative properties of triangulations of spherical bundles over S^1,3.8023579424239454e-06,0.0,2.0,1.0
+math/0008050,"Regions of linearity, Lusztig cones and canonical basis elements for the
+  quantized enveloping algebra of type A_4",3.802199174717376e-06,0.0,3.0,1.0
+math/0703585,Maxmaxflow and counting subgraphs,3.8010827287626354e-06,0.0,4.0,0.0
+math/0004171,Combinatorics and Quotients of Toric Varieties,3.800384485630076e-06,0.0,2.0,0.0
+math/0703372,Elementary incidence theorems for complex numbers and quaternions,3.79288256837804e-06,0.0,2.0,0.0
+math/0211113,Some remarks on sign-balanced and maj-balanced posets,3.7909849809731807e-06,0.0,3.0,9.0
+math-ph/9909009,Universality of correlations of levels with discrete statistics,3.7870301603922314e-06,0.0,15.0,1.0
+math/0309440,Towards the geometry of double Hurwitz numbers,3.782314496529687e-06,3.143887799947848e-07,8.0,4.0
+cond-mat/0407278,The Chromatic Number of Random Regular Graphs,3.7714547714520655e-06,0.0,1.0,0.0
+hep-th/0310071,Matroids and p-branes,3.768840132771904e-06,3.063628427932845e-07,9.0,10.0
+math/0503727,A Conjecture about Raising Operators for Macdonald Polynomials,3.756649858412448e-06,0.0,4.0,0.0
+math/0310056,Complexes of graph homomorphisms,3.755672562911103e-06,6.634383079942031e-06,6.0,23.0
+math/0412264,A categorification for the chromatic polynomial,3.75388716085115e-06,4.387210229730739e-06,8.0,9.0
+math/9912025,Generalized Riffle Shuffles and Quasisymmetric Functions,3.753063116159367e-06,1.4735259569059054e-05,10.0,10.0
+math/0107229,On the largest eigenvalue of a sparse random subgraph of the hypercube,3.752761882521621e-06,0.0,1.0,0.0
+math/0304087,SPM Bulletin 4,3.7509808722716255e-06,0.0,5.0,4.0
+math/0608005,An algebraic extension of the MacMahon Master Theorem,3.7353733994175513e-06,0.0,5.0,0.0
+math/0308101,A polynomiality property for Littlewood-Richardson coefficients,3.732339176354288e-06,0.0,2.0,0.0
+math/0502468,Intersections of Schubert varieties and other permutation array schemes,3.724918683313252e-06,0.0,3.0,1.0
+math/0311284,Toric Fano 3-folds with terminal singularities,3.719747399058721e-06,0.0,3.0,2.0
+math/0010073,"Torus actions, combinatorial topology and homological algebra",3.719687858366476e-06,0.0,7.0,2.0
+math/0511022,Sequentially Cohen-Macaulay Edge Ideals,3.7111922728190856e-06,0.0,3.0,4.0
+math/0610510,Pfaffians and Representations of the Symmetric Group,3.710670244640328e-06,0.0,2.0,1.0
+math/0403139,First contact remarks on umbra difference calculus references streams,3.7035192904816256e-06,1.791164479644065e-05,6.0,3.0
+math/0010246,"Hilbert schemes, polygraphs, and the Macdonald positivity conjecture",3.700557328964845e-06,7.004373041639205e-05,9.0,8.0
+math/0611296,Signed differential posets and sign-imbalance,3.6900005264463887e-06,0.0,1.0,0.0
+math/0607516,On Sjostrand's skew sign-imbalance identity,3.6900005264463887e-06,0.0,1.0,0.0
+math/0208173,"The Jacobian Conjecture as a Problem of Perturbative Quantum Field
+  Theory",3.6893538112829874e-06,2.1892010306760792e-05,3.0,1.0
+math/0409509,Prove or Disprove. 100 Conjectures from the OEIS,3.6887971819542423e-06,0.0,1.0,0.0
+math/0301257,The combinatorial quantum cohomology ring of $G/B$,3.683200824320974e-06,0.0,3.0,3.0
+hep-th/0505097,Parafermionic derivation of Andrews-type multiple sums,3.677643869474136e-06,0.0,3.0,0.0
+math/0503511,The Complexity of Pebbling and Cover Pebbling,3.670702843311672e-06,0.0,5.0,2.0
+math/0512475,"New polytope decompositions and Euler-Maclaurin formulas for simple
+  integral polytopes",3.662959199933061e-06,0.0,2.0,0.0
+math/0612090,"Proof of Stanley's conjecture about irreducible character values of the
+  symmetric group",3.6629272926716167e-06,0.0,3.0,2.0
+math/0509247,Truncated Groebner fans and lattice ideals,3.657141495841324e-06,0.0,2.0,2.0
+math/0601676,"The $M$-triangle of generalised non-crossing partitions for the types
+  $E_7$ and $E_8$",3.646816849351737e-06,1.990182755160072e-06,3.0,2.0
+math/0402452,Perfect Matchings and the Octahedron Recurrence,3.6467363326784016e-06,2.534729834202148e-05,6.0,13.0
+math/0304019,"Critical cardinalities and additivity properties of combinatorial
+  notions of smallness",3.6429394838380985e-06,0.0,5.0,7.0
+math/0212154,Fermionic expressions for minimal model Virasoro characters,3.642409734901416e-06,0.0,1.0,3.0
+math/0610297,Parametrizing Complex Hadamard Matrices,3.638084507330776e-06,0.0,2.0,2.0
+math/0102176,"Applications of Symmetric Functions to Cycle and Subsequence Structure
+  after Shuffles",3.634734539162704e-06,0.0,5.0,3.0
+math/0701192,Bailey Type Transforms and Applications,3.628515734917117e-06,0.0,1.0,0.0
+math/0701312,Completely reducible hypersurfaces in a pencil,3.626682844961738e-06,0.0,3.0,2.0
+math/0611579,Representing tropical linear spaces by circuits,3.62471006859448e-06,0.0,3.0,0.0
+math/0105245,Improved bounds on the number of ternary square-free words,3.62335329328243e-06,0.0,2.0,0.0
+math/0610608,Counting Descent Pairs with Prescribed Tops and Bottoms,3.62335329328243e-06,0.0,2.0,0.0
+math/0610616,Cycles and patterns in permutations,3.62335329328243e-06,0.0,2.0,0.0
+math/0601414,"The distinguishing number of the direct product and wreath product
+  action",3.62335329328243e-06,0.0,2.0,0.0
+math/0703575,Convex Discrete Optimization,3.62335329328243e-06,0.0,2.0,0.0
+math/0304411,Additive functionals on random search trees,3.62335329328243e-06,0.0,2.0,0.0
+math/0208155,Toric codes over finite fields,3.62335329328243e-06,0.0,2.0,0.0
+math/0702627,The spectral radius and the maximum degree of irregular graphs,3.62335329328243e-06,0.0,2.0,0.0
+math/0605621,Representation theory of Mantaci-Reutenauer algebras,3.62335329328243e-06,0.0,2.0,0.0
+math/0611802,"An order-refined and generalized version of the Erdos-Szekeres theorem
+  on convex polygons",3.62335329328243e-06,0.0,3.0,1.0
+math/0505010,Algebraic shifting of finite graphs,3.62335329328243e-06,0.0,2.0,1.0
+math/0301011,SPM Bulletin 1,3.62335329328243e-06,0.0,2.0,9.0
+math/0309285,An Algorithm for Optimal Partitioning of Data on an Interval,3.62335329328243e-06,0.0,2.0,1.0
+math/0409081,The Topological Tverberg Problem and winding numbers,3.62335329328243e-06,0.0,2.0,0.0
+math/0507511,A q-analogue of Lehmer's congruence,3.62335329328243e-06,0.0,3.0,1.0
+math/0609022,Interval orders and reverse mathematics,3.62335329328243e-06,0.0,2.0,0.0
+math/0503698,The Complexity of Graph Pebbling,3.6159617402230775e-06,0.0,3.0,3.0
+math/0411650,"Four explicit formulas for the prolongations of an infinitesimal Lie
+  symmetry and multivariate Faa di Bruno formulas",3.608349458778361e-06,0.0,3.0,1.0
+math/0612828,Non symmetric Cauchy kernels for the classical Groups,3.6053486918775466e-06,0.0,2.0,0.0
+math/0511200,Hopf algebras and dendriform structures arising from parking functions,3.6033808732869664e-06,1.9046595939827573e-06,3.0,1.0
+math-ph/0603007,Multicritical continuous random trees,3.601343467945629e-06,0.0,9.0,0.0
+math/0702177,Alternating subgroups of Coxeter groups,3.600847541526326e-06,0.0,1.0,0.0
+quant-ph/0607074,Noncrossing normal ordering for functions of boson operators,3.5983034083629824e-06,0.0,1.0,3.0
+cond-mat/0209419,A Novel Approach Applied to the Largest Clique Problem,3.598152613543355e-06,0.0,3.0,1.0
+math/0501280,Weight Systems for Milnor Invariants,3.5962581132254863e-06,0.0,1.0,0.0
+math/0311205,Convoluted convolved Fibonacci numbers,3.592091585278892e-06,0.0,3.0,2.0
+math/0510676,"Growth diagrams, and increasing and decreasing chains in fillings of
+  Ferrers shapes",3.577144805053621e-06,0.0,4.0,8.0
+math/9902004,Advanced Determinant Calculus,3.5752100541752214e-06,0.0,7.0,9.0
+math/0309238,Finitely labeled generating trees and restricted permutations,3.5744436037592387e-06,0.0,2.0,0.0
+math/0002073,Non-commutative Pieri operators on posets,3.552732105494254e-06,0.0,2.0,0.0
+math/0512111,Mullineux involution and twisted affine Lie algebras,3.548701656976629e-06,0.0,2.0,0.0
+math/0401307,Succinct Definitions in the First Order Theory of Graphs,3.53826886547648e-06,0.0,3.0,0.0
+math/0608192,High order expansion of matrix models and enumeration of maps,3.5377782268781977e-06,0.0,2.0,2.0
+math/0309126,Indecomposable Ideals in Incidence Algebras,3.537266180739636e-06,0.0,7.0,1.0
+math/0605242,N-Fold Integer Programming,3.536507300222492e-06,0.0,2.0,0.0
+math/0601081,"Distribution of crossings, nestings and alignments of two edges in
+  matchings and partitions",3.5362107924777853e-06,0.0,4.0,3.0
+math/0008034,A special case of sl(n)-fusion coefficients,3.5337930256086744e-06,7.978883599667452e-06,3.0,5.0
+math/0109152,Clairvoyant scheduling of random walks,3.5324768517048674e-06,0.0,1.0,3.0
+math/0605479,Saturation points on faces of a rational polyhedral cone,3.5324768517048674e-06,0.0,1.0,0.0
+math/0602507,On Tree-Partition-Width,3.5324768517048674e-06,0.0,1.0,3.0
+math/0203226,"Restricted Permutations, Fibonacci Numbers, and k-generalized Fibonacci
+  Numbers",3.5269901587116453e-06,0.0,2.0,1.0
+math/0402400,Topology of partition of measures by fans and the second obstruction,3.522463216955662e-06,0.0,2.0,1.0
+math/0507269,"The Borsuk-Ulam-property, Tucker-property and constructive proofs in
+  combinatorics",3.522463216955662e-06,0.0,2.0,0.0
+math/0110034,An Algebraic Perspective of Group Relaxations,3.5191381016105044e-06,0.0,2.0,0.0
+math/0308254,Tropical Convexity,3.518646206930328e-06,8.518317452326908e-07,8.0,8.0
+math/0411056,"Generators of algebraic curvature tensors based on a (2,1)-symmetry",3.5168186122354062e-06,0.0,5.0,2.0
+math/0411277,"Alpha-Pfaffian, pfaffian point process and shifted Schur measure",3.516116532770582e-06,0.0,3.0,1.0
+math/0508149,A note on three types of quasisymmetric functions,3.507553219405151e-06,0.0,2.0,0.0
+math/0602580,High-girth cubic graphs are homomorphic to the Clebsch graph,3.49912997646896e-06,0.0,2.0,0.0
+math/0703227,Counting magic squares in quasi-polynomial time,3.49912997646896e-06,0.0,2.0,1.0
+math/0106073,"Explicit Enumeration of 321,Hexagon-Avoiding Permutations",3.49912997646896e-06,0.0,2.0,2.0
+math/0701800,Two Non-holonomic Lattice Walks in the Quarter Plane,3.49912997646896e-06,0.0,2.0,0.0
+math/0608799,Maximally symmetric stable curves II,3.49912997646896e-06,0.0,2.0,0.0
+math/0611756,Subdegree growth rates of infinite primitive permutation groups,3.49912997646896e-06,0.0,2.0,0.0
+math/0609337,"An incidence bound for $k$-planes in $F^n$ and a planar variant of the
+  Kakeya maximal function",3.49912997646896e-06,0.0,2.0,1.0
+math/0407105,"Identities for Fibonacci and Lucas polynomials derived from a book of
+  Gould",3.49912997646896e-06,0.0,2.0,0.0
+math/0011023,Enumeration of ad-nilpotent $\frak b$-ideals for simple Lie algebras,3.49912997646896e-06,0.0,2.0,1.0
+math/0703211,The Profile of relations,3.49912997646896e-06,0.0,2.0,0.0
+cs/0601100,Pseudorandomness and Combinatorial Constructions,3.49912997646896e-06,0.0,2.0,0.0
+math/0401143,Essential edges in Poisson random hypergraphs,3.4930843036925227e-06,0.0,2.0,0.0
+math/0605642,"Monotonicity, asymptotic normality and vertex degrees in random graphs",3.4930843036925227e-06,0.0,1.0,0.0
+math/0504444,Computing the Ehrhart quasi-polynomial of a rational simplex,3.490061467304305e-06,0.0,2.0,1.0
+math/0609281,Maximal Degree in the Strong Bruhat Order of Bn,3.48967569123039e-06,0.0,2.0,0.0
+math/0609788,Wreath Products of Permutation Classes,3.4881050692756065e-06,0.0,3.0,0.0
+math/0301021,Bravais colourings of planar modules with N-fold symmetry,3.47595343608216e-06,0.0,4.0,5.0
+math/0106255,"q and q,t-Analogs of Non-commutative Symmetric Functions",3.4681395783809498e-06,1.5921462041280577e-05,1.0,1.0
+math/0507164,Extensions of the linear bound in the Furedi-Hajnal conjecture,3.4642138458545948e-06,0.0,2.0,1.0
+math/0310068,Noncommutative algebras related with Schubert calculus on Coxeter groups,3.462444365533318e-06,0.0,3.0,0.0
+math/0502463,Sign balance for finite groups of Lie type,3.4621820752658226e-06,0.0,1.0,0.0
+math/0102186,Projectivities in Simplicial Complexes and Colorings of Simple Polytopes,3.462031151326813e-06,0.0,2.0,4.0
+math/0607510,Spanning trees and Khovanov homology,3.4584500011278937e-06,2.5203682197633625e-08,7.0,2.0
+math/0602101,Simplicial shellable spheres via combinatorial blowups,3.456851764737734e-06,0.0,3.0,1.0
+math/0501245,Supertopes,3.452909303007533e-06,0.0,3.0,2.0
+math/0306125,A simple and unusual bijection for Dyck paths and its consequences,3.4503110933157736e-06,0.0,4.0,2.0
+math/0412155,Destruction of very simple trees,3.448271193940277e-06,0.0,3.0,1.0
+math/0702040,Solving Thousand Digit Frobenius Problems Using Grobner Bases,3.4455793530442973e-06,0.0,1.0,0.0
+math/0607286,Ehrhart analogue of the h-vector,3.442598066868743e-06,0.0,1.0,0.0
+math/0610482,A combinatorial reciprocity theorem for hyperplane arrangements,3.4415052445042264e-06,0.0,3.0,1.0
+math/0510128,Fiber fans and toric quotients,3.4322009210766868e-06,0.0,1.0,1.0
+math/0304061,Knot theory for self-indexed graphs,3.426697537872259e-06,0.0,3.0,0.0
+math/0410466,Hook-lengths and Pairs of Compositions,3.424715233301501e-06,2.3882193061920864e-05,1.0,1.0
+math/0703641,Resurgence of the Euler-MacLaurin summation formula,3.415755452143432e-06,0.0,2.0,0.0
+math/0408223,New identities involving Bernoulli and Euler polynomials. II,3.410289829644969e-06,0.0,1.0,0.0
+math/0605262,Commutative combinatorial Hopf algebras,3.407145110192898e-06,0.0,6.0,0.0
+math/0612043,Embedded factor patterns for Deodhar elements in Kazhdan-Lusztig theory,3.404844922429264e-06,0.0,2.0,0.0
+math/0611328,Interval pattern avoidance for arbitrary root systems,3.404844922429264e-06,0.0,2.0,0.0
+math/9807128,Stratified simplices and intersection homology,3.401145790013704e-06,0.0,3.0,1.0
+math/0508131,"Coherent permutations with descent statistic and the boundary problem
+  for the graph of zigzag diagrams",3.3906606858847623e-06,0.0,3.0,1.0
+math/0610185,Actions on permutations and unimodality of descent polynomials,3.3846128932883324e-06,0.0,2.0,0.0
+math/0202253,Residue formulae for vector partitions and Euler-MacLaurin sums,3.384603877643772e-06,0.0,3.0,1.0
+nlin/0004018,"Random Words, Toeplitz Determinants and Integrable Systems. II",3.3837474998731088e-06,4.379122969640637e-07,11.0,3.0
+math/0609506,Tetromino tilings and the Tutte polynomial,3.380801974556788e-06,0.0,1.0,0.0
+math/0210201,Polymatrix and generalized polynacci numbers,3.3749066596554898e-06,0.0,1.0,0.0
+math/0201015,On the eigenvalue estimates for the weighted Laplacian on metric graphs,3.3749066596554898e-06,0.0,1.0,0.0
+math/0609749,Asymptotics of abelian group-partitions and associated Dirichlet series,3.3749066596554898e-06,0.0,1.0,0.0
+math/0610779,"An effective algorithm for the enumeration of edge colorings and
+  Hamiltonian cycles in cubic graphs",3.3749066596554898e-06,0.0,1.0,0.0
+cond-mat/0701674,Two Dimensional Directed Lattice Walks with Boundaries,3.3749066596554898e-06,0.0,1.0,0.0
+math/0701890,On the independence complex of square grids,3.3749066596554898e-06,0.0,1.0,0.0
+math/0011174,"The Eigenvectors of the Right-Justified Pascal Triangle: A Shorter Proof
+  with Generating Functions",3.3749066596554898e-06,0.0,1.0,0.0
+math/0511295,The lengths of Hermitian Self-Dual Extended Duadic Codes,3.3749066596554898e-06,0.0,1.0,1.0
+math/0311242,A solution to the tennis ball problem,3.3749066596554898e-06,0.0,1.0,3.0
+math/0307280,"Defining equations of subspace arrangements embedded in reflection
+  arrangements",3.3749066596554898e-06,0.0,1.0,0.0
+math/0607737,Non-commutative extensions of the MacMahon Master Theorem,3.37452991468482e-06,0.0,5.0,3.0
+math/0702106,A Note on Boolean Lattices and Farey Sequences,3.3688609868790527e-06,0.0,1.0,0.0
+math/0607570,"Pattern Recognition on Oriented Matroids: The Existence of a Tope
+  Committee",3.3688609868790527e-06,0.0,1.0,1.0
+math/9901037,"A bijection between Littlewood-Richardson tableaux and rigged
+  configurations",3.3650548897407955e-06,6.972000090144689e-05,8.0,11.0
+math/0703381,Polynomial ideals and directed graphs,3.3463477526837865e-06,0.0,2.0,0.0
+math/0211052,Quantum cohomology of Grassmannians modulo symmetries,3.3450340103097333e-06,0.0,4.0,0.0
+math/0406373,Hyperplane arrangements and K-theory,3.33441417024276e-06,0.0,2.0,0.0
+quant-ph/0701020,Quantum Quasi-Cyclic LDPC Codes,3.3317250669423943e-06,0.0,2.0,0.0
+math/0004128,Toda equations for Hurwitz numbers,3.3311310347760985e-06,2.9002034482033485e-06,7.0,5.0
+math/0701222,A note on tropical triangles in the plane,3.3310400033828702e-06,0.0,4.0,0.0
+math/0403101,Cocommutative Hopf algebras of permutations and trees,3.3294515451683253e-06,1.1205969669640462e-06,4.0,6.0
+math/0605345,A tropical approach to secant dimensions,3.3291704166298644e-06,1.1941096530960432e-05,3.0,2.0
+math/0612530,A Realization of Graph-Associahedra,3.3266529281266507e-06,0.0,3.0,0.0
+math/0002223,"Multipartitions, Generalized Durfee Squares and Affine Lie Algebra
+  Characters",3.3237962067665088e-06,1.1139082584851151e-08,2.0,4.0
+math/9912148,New Examples of Potential Theory on Bratelli Diagrams,3.3215217691419902e-06,0.0,4.0,1.0
+math/0206099,Real k-flats tangent to quadrics in R^n,3.32143548654365e-06,0.0,2.0,0.0
+math/0210443,"Cumulants in noncommutative probability II. Generalized Gaussian random
+  variables",3.316636677760054e-06,0.0,1.0,2.0
+math/0701075,Specialization of linear systems from curves to graphs,3.308314787274394e-06,0.0,3.0,0.0
+math/0703004,On some properties of permutation tableaux,3.303969756757065e-06,0.0,3.0,0.0
+math/0703416,"Classification of terminal simplicial reflexive d-polytopes with 3d-1
+  vertices",3.3030645010996213e-06,1.990182755160072e-06,1.0,1.0
+math/0611582,Some explicit constructions of sets with more sums than differences,3.2994826953323723e-06,0.0,3.0,1.0
+math/0307053,Card shuffling and the decomposition of tensor products,3.297497792813357e-06,0.0,2.0,0.0
+cond-mat/0005232,"Structural Properties of Potts Model Partition Functions and Chromatic
+  Polynomials for Lattice Strips",3.2955889439217235e-06,9.069228578416212e-06,7.0,13.0
+math/0505612,Coloured peak algebras and Hopf algebras,3.2943934813959165e-06,0.0,4.0,2.0
+cond-mat/0006367,"Vicious walkers, friendly walkers and Young tableaux II: With a wall",3.286865483695141e-06,0.0,4.0,0.0
+math/0303259,Correlation functions of strict partitions and twisted Fock spaces,3.284885892711115e-06,1.990182755160072e-06,4.0,1.0
+math/0605238,Several Convex-Ear Decompositions,3.2824940805789403e-06,0.0,2.0,0.0
+math/0507485,"The M\""obius function of the composition poset",3.2776902449493445e-06,0.0,3.0,3.0
+math-ph/0603010,"The inverse scattering problem for metric graphs and the traveling
+  salesman problem",3.2770373613550182e-06,3.989029241219473e-06,2.0,3.0
+math/0506390,Knots and words,3.2764160579329354e-06,0.0,2.0,1.0
+math/0609014,Compression of root systems and the E-sequence,3.2755549544025536e-06,0.0,1.0,0.0
+math/0511602,Vanishing of 3-Loop Jacobi Diagrams of Odd Degree,3.273189094598124e-06,0.0,2.0,0.0
+math/0507268,"The Fermat cubic, elliptic functions, continued fractions, and a
+  combinatorial excursion",3.2731890945981237e-06,0.0,2.0,0.0
+math/0303025,Sur une generalisation des coefficients binomiaux,3.2731890945981237e-06,0.0,2.0,2.0
+cs/0412061,"Free quasi-symmetric functions, product actions and quantum field theory
+  of partitions",3.2723775160645485e-06,0.0,4.0,0.0
+math/0405133,The Ring of Malcev-Neumann Series and the Residue Theorem,3.268077819253839e-06,9.95091377580036e-06,2.0,5.0
+math/0309213,Ennea-algebras,3.2661184554590945e-06,4.651040554140136e-06,7.0,13.0
+math/0701316,Critical random graphs: Diameter and mixing time,3.2617844490521616e-06,0.0,3.0,1.0
+math/0209082,Virtual crystals and Kleber's algorithm,3.257588666744969e-06,0.0,4.0,1.0
+math/9904150,Enumeration of Matchings: Problems and Progress,3.2392832395790016e-06,0.0,4.0,4.0
+math/0508303,On a class of Koszul algebras associated to directed graphs,3.236543990854384e-06,0.0,2.0,1.0
+math/0405312,Homology of generalized partition posets,3.233590697606667e-06,5.697644935547943e-06,2.0,4.0
+math/0411098,Simple Permutations Mix Even Better,3.2332663366513737e-06,0.0,1.0,0.0
+math/0002251,Higher homotopy groups of complements of complex hyperplane arrangements,3.23154267478596e-06,0.0,3.0,3.0
+math/0410129,The cover pebbling theorem,3.2200797368938303e-06,0.0,4.0,4.0
+math/0502541,Cohen-Macaulay cell complexes,3.2139808469336203e-06,5.970548265480216e-06,2.0,1.0
+math/0407327,"Sums of squares of binomial coefficients, with applications to
+  Picard-Fuchs equations",3.2047005309912814e-06,0.0,2.0,2.0
+math/0510126,Tropical Discriminants,3.1958381854857026e-06,8.040589952035882e-06,3.0,6.0
+math/0603551,A matroid invariant via the K-theory of the Grassmannian,3.190173745799395e-06,1.990182755160072e-06,3.0,1.0
+math/0504607,On generalized Kneser hypergraph colorings,3.186847210229456e-06,0.0,3.0,0.0
+math/0512122,Restricted Patience Sorting and Barred Pattern Avoidance,3.1858723611001424e-06,0.0,3.0,0.0
+math/0005199,Moment-angle complexes and combinatorics of simplicial manifolds,3.174764552936672e-06,0.0,4.0,0.0
+math/0510446,"Connectivity transitions in networks with super-linear preferential
+  attachment",3.17474292948372e-06,6.794840376759184e-07,3.0,1.0
+math/0605564,On Minkowski Sums of Simplices,3.1744676754909755e-06,0.0,3.0,0.0
+math/0306369,Intersection forms of toric hyperkaehler varieties,3.174467012545891e-06,1.748522999810136e-05,4.0,2.0
+hep-ph/0311046,Algebraic Relations Between Harmonic Sums and Associated Quantities,3.174386622728346e-06,7.442500089625536e-06,11.0,16.0
+math/0608003,Minimal Generators for Symmetric Ideals,3.1686962871804875e-06,0.0,1.0,0.0
+math/0411239,Very well-covered graphs with log-concave independence polynomials,3.1564676950366884e-06,0.0,2.0,0.0
+math/0211205,Counting occurrences of 132 in an even permutation,3.155744014294174e-06,0.0,1.0,1.0
+math/0304126,Longest increasing subsequences in pattern-restricted permutations,3.155744014294174e-06,0.0,1.0,2.0
+math/0208006,On the diagram of 132-avoiding permutations,3.155744014294174e-06,0.0,1.0,7.0
+math/0103025,Tensor product varieties and crystals. ADE case,3.1542220239804827e-06,0.0,2.0,3.0
+math/0111156,"EL-labelings, Supersolvability and 0-Hecke Algebra Actions on Posets",3.152437246519064e-06,0.0,1.0,0.0
+math/0607171,"Planar pseudo-triangulations, spherical pseudo-tilings and hyperbolic
+  virtual polytopes",3.151048659025299e-06,0.0,2.0,0.0
+math/0703646,Heights on the finite projective line,3.1489657777846533e-06,0.0,2.0,0.0
+cond-mat/0201213,"Critical and Tricritical Hard Objects on Bicolorable Random Lattices:
+  Exact Solutions",3.1481655697862093e-06,6.734390910128024e-06,3.0,4.0
+math/0311220,A Bijection between classes of Fully Packed Loops and Plane Partitions,3.14046717523622e-06,2.378521447389544e-07,5.0,7.0
+math/0206045,"Generalization of Schensted insertion algorithm to the cases of hooks
+  and semi-shuffles",3.137624565475622e-06,0.0,2.0,0.0
+cond-mat/0607499,"Totally Symmetric Self-Complementary Plane Partitions and Quantum
+  Knizhnik-Zamolodchikov equation: a conjecture",3.132779437312915e-06,0.0,8.0,4.0
+math/0511055,Hook length polynomials for plane forests of a certain type,3.12652439018711e-06,0.0,4.0,0.0
+math/0403161,"Computational Topology of Equivariant Maps from Spheres to Complements
+  of Arrangements",3.1245109330230576e-06,0.0,2.0,4.0
+math/0612616,Mis\`ere Games and Mis\`ere Quotients,3.1200354968677063e-06,0.0,2.0,3.0
+math/0212312,The combinatorics of splittability,3.1192509620525454e-06,0.0,5.0,4.0
+math/0106009,"Absolutely indecomposable representations and Kac-Moody Lie algebras
+  (with an appendix by Hiraku Nakajima)",3.1175829861943567e-06,7.962081212468754e-06,1.0,5.0
+math/0308146,Quaternionic Geometry of Matroids,3.1113876316097715e-06,2.5058786936782115e-05,3.0,5.0
+math-ph/0209017,Temperley-Lieb Stochastic Processes,3.110751020099609e-06,5.0906470243384735e-05,7.0,14.0
+math/0602362,The BG-rank of a partition and its applications,3.1079433638917785e-06,0.0,1.0,5.0
+math/0701745,Revisiting Tietze-Nakajima - Local and Global Convexity for Maps,3.103777601410486e-06,0.0,1.0,0.0
+math/9903176,Random Matrices and Random Permutations,3.0971624900471783e-06,0.0003673860053575,10.0,30.0
+math/0606446,Graph Drawings with Few Slopes,3.089207644152176e-06,0.0,2.0,1.0
+math/0312373,Correlation functions of the shifted Schur measure,3.0879000382547613e-06,8.06486931105463e-05,3.0,3.0
+math/0601372,Recurrence matrices,3.08565521809763e-06,0.0,3.0,0.0
+math/0507149,Permutation Tableaux and Permutation Patterns,3.081800248579976e-06,0.0,3.0,7.0
+math-ph/0411076,"Square ice, alternating sign matrices and classical orthogonal
+  polynomials",3.0728492472180187e-06,0.0,6.0,1.0
+math/0505317,An explicit form for Kerov's character polynomials,3.069533492740095e-06,1.3931279286120504e-05,1.0,6.0
+quant-ph/0312202,"Hierarchical Dobinski-type relations via substitution and the moment
+  problem",3.0678233941756853e-06,0.0,4.0,2.0
+math/9804039,"Affine type A crystal structure on tensor products of rectangles,
+  Demazure characters, and nilpotent varieties",3.06746726964852e-06,0.0,7.0,16.0
+math/0411357,Pole Structure of Topological String Free Energy,3.0588786037449837e-06,5.481135875085486e-10,12.0,3.0
+math/0607368,The Newton Polytope of the Implicit Equation,3.057599544256278e-06,2.018899310593236e-06,4.0,2.0
+quant-ph/0409152,A product formula and combinatorial field theory,3.0545993888942625e-06,0.0,6.0,3.0
+math/0505351,On the geometry of toric arrangements,3.0515979498057712e-06,0.0,2.0,1.0
+math/0503044,Kapranov rank vs. tropical rank,3.051512887525746e-06,1.6634612859885514e-07,4.0,3.0
+cond-mat/0408497,Hard squares with negative activity,3.051030221869919e-06,1.4852110113134864e-08,5.0,2.0
+math/0609601,Selection Principles and special sets of reals: Open problems,3.048775471268903e-06,0.0,5.0,2.0
+math/0511163,"Betti numbers of holomorphic symplectic quotients via arithmetic Fourier
+  transform",3.0485878768133367e-06,4.138485706643069e-06,4.0,5.0
+math/0106121,Palindrome complexity,3.048007956547016e-06,0.0,2.0,0.0
+math/0703142,Equivalence classes of Latin squares and nets in CP^2,3.0472482127272877e-06,0.0,2.0,0.0
+math/0607637,"Multiple recurence and convergence for sequences related to the prime
+  numbers",3.0472482127272877e-06,0.0,2.0,0.0
+math/0005091,Lie algebras associated to fiber-type arrangements,3.0472482127272877e-06,0.0,2.0,0.0
+math/0205055,A new four parameter q-series identity and its partition implications,3.0472482127272877e-06,0.0,2.0,1.0
+math/0201211,The kernel of the adjacency matrix of a rectangular mesh,3.0472482127272877e-06,0.0,2.0,0.0
+math/0606152,q-Analogue of Wilson's theorem,3.0472482127272877e-06,0.0,2.0,0.0
+math/0703418,"Heights in finite projective space, and a problem on directed graphs",3.0472482127272877e-06,0.0,2.0,2.0
+math/0509062,"Weak convergence of finite graphs, integrated density of states and a
+  Cheeger type inequality",3.0472482127272877e-06,0.0,2.0,1.0
+math/0702197,The geometry of relations,3.0472482127272877e-06,0.0,2.0,0.0
+math/0407363,New identities involving Bernoulli and Euler polynomials,3.046382610857085e-06,1.990182755160072e-06,1.0,1.0
+math/0409035,Identities concerning Bernoulli and Euler polynomials,3.046382610857085e-06,0.0,1.0,0.0
+cond-mat/0005236,"Ground State Entropy of the Potts Antiferromagnet with
+  Next-Nearest-Neighbor Spin-Spin Couplings on Strips of the Square Lattice",3.0426643413613326e-06,3.648668384460118e-06,9.0,4.0
+quant-ph/0505180,"Combinatorial approach to generalized Bell and Stirling numbers and
+  boson normal ordering problem",3.036218058137839e-06,0.0,4.0,2.0
+math/0105002,Partial theta functions. I. Beyond the lost notebook,3.033865681253652e-06,0.0,3.0,1.0
+math/0508537,On a conjecture of Widom,3.032683265760608e-06,0.0,5.0,0.0
+math/0309207,Affine Weyl groups in K-theory and representation theory,3.031461081399892e-06,0.0,2.0,9.0
+math/0501167,Factorization of polynomials in one variable over the tropical semiring,3.025987678782604e-06,1.990182755160072e-06,4.0,3.0
+math/0407487,Covering the Baire space by families which are not finitely dominating,3.0231205677027105e-06,0.0,1.0,1.0
+math-ph/0303049,"Matrix Integrals and the Generation and Counting of Virtual Tangles and
+  Links",3.022634253992657e-06,1.990182755160072e-06,8.0,1.0
+math/9905189,"Z-Measures on partitions, Robinson-Schensted-Knuth correspondence, and
+  beta=2 random matrix ensembles",3.0182683959020056e-06,3.3937845977776096e-05,14.0,24.0
+math/0608131,Many sets have more sums than differences,3.0173654907983998e-06,0.0,3.0,3.0
+cond-mat/9912264,"Universal Distributions for Growth Processes in 1+1 Dimensions and
+  Random Matrices",3.0133753054197988e-06,3.633489561860099e-09,3.0,10.0
+math/9906077,On a Combinatorial Identity,3.010250191416404e-06,0.0,2.0,0.0
+math/0608546,A note on quantum products of Schubert classes in a Grassmannian,3.004266543520304e-06,0.0,1.0,0.0
+math/0001078,A Probabilistic Proof of the Rogers Ramanujan Identities,3.003662019116097e-06,0.0,2.0,0.0
+math/0006097,Correlation functions for symmetrized increasing subsequences,3.002389794256852e-06,1.1337759005482424e-05,7.0,16.0
+math/0212009,Topological diagonalizations and Hausdorff dimension,3.001815682153122e-06,0.0,4.0,1.0
+math/0506526,"Cohomology of face rings, and torus actions",2.995295691336149e-06,0.0,3.0,2.0
+math/0106074,Random Young Tableaux and Combinatorial Identities,2.994314212797262e-06,1.990182755160072e-06,5.0,1.0
+math/0507290,"New Categorifications of the Chromatic and the Dichromatic Polynomials
+  for Graphs",2.993784360332028e-06,8.234395463607161e-07,8.0,3.0
+math/0508180,Products of Foldable Triangulations,2.991046391184958e-06,0.0,2.0,0.0
+math/0601348,On an identity due to ((Bump and Diaconis) and (Tracy and Widom)),2.9881847176569714e-06,1.206063436039189e-07,1.0,1.0
+math/0506150,Sets of rigged paths with Virasoro characters,2.987614196869289e-06,2.75170213289941e-07,2.0,3.0
+math/0502422,"A repertoire for additive functionals of uniformly distributed m-ary
+  search trees",2.9851365543205523e-06,0.0,3.0,0.0
+math/0301372,Free hyperplane arrangements associated to labeled rooted trees,2.9851365543205523e-06,0.0,2.0,1.0
+math/0312250,Alternating formulas for K-theoretic quiver polynomials,2.985136554320552e-06,0.0,3.0,1.0
+math/0602293,h-vectors of generalized associahedra and non-crossing partitions,2.9739935276563783e-06,0.0,5.0,1.0
+math/0504588,"Enumeration of almost polynomial rational functions with given critical
+  values",2.9669283248969627e-06,0.0,3.0,0.0
+math/0203163,"A crystal to rigged configuration bijection for nonexceptional affine
+  algebras",2.9641943413652707e-06,1.3446110355758068e-06,5.0,3.0
+math/0407412,A Pieri-type formula for the K-theory of a flag manifold,2.958330122232669e-06,0.0,3.0,4.0
+math/0408071,Regenerative partition structures,2.957356398014796e-06,0.0,1.0,0.0
+math/0409235,Complexes of trees and nested set complexes,2.9549740605253413e-06,7.880640177573281e-07,3.0,4.0
+math/0607531,On the logical complexity of convex polygon dissections,2.9486786264669227e-06,0.0,1.0,0.0
+math/0312114,On the rank of a tropical matrix,2.9425504228800905e-06,3.628406668038434e-06,7.0,13.0
+math/0403289,q-Exponential families,2.9406243146403905e-06,0.0,1.0,0.0
+math/0107056,"Correlation function of Schur process with application to local geometry
+  of a random 3-dimensional Young diagram",2.932095556684989e-06,1.985916941143419e-05,7.0,19.0
+math/0610976,The Hopf algebras of type B quasisymmetric functions and peak functions,2.9314481388500085e-06,1.990182755160072e-06,1.0,1.0
+math/0302126,The polytope of non-crossing graphs on a planar point set,2.9305915481384037e-06,0.0,1.0,2.0
+math/0410334,Exploiting Symmetries in the Computation of Graver Bases,2.923024895913817e-06,0.0,1.0,3.0
+math/0302062,SPM Bulletin 2,2.9229561821473e-06,0.0,3.0,7.0
+math/0507130,A Relative Laplacian spectral recursion,2.91697922313738e-06,0.0,1.0,0.0
+math/0212140,An Upper Bound for the Number of Planar Lattice Triangulations,2.91697922313738e-06,0.0,1.0,1.0
+math/0405001,Degree powers in graphs with forbidden subgraphs,2.91697922313738e-06,0.0,1.0,0.0
+math/0411153,A majorization bound for the eigenvalues of some graph Laplacians,2.91697922313738e-06,0.0,1.0,1.0
+math/0401398,"A Tur\'{a}n Type Problem Concerning the Powers of the Degrees of a Graph
+  (revised)",2.91697922313738e-06,0.0,1.0,1.0
+math/0405115,Tropical secant varieties of linear spaces,2.914706584897397e-06,2.7035389909618367e-05,7.0,2.0
+math/0603206,Boundary slopes of 2-bridge links determine the crossing number,2.914223583324788e-06,0.0,3.0,0.0
+math/0411241,Faces and bases: Dehn-Sommerville type relations,2.9139563867491616e-06,0.0,1.0,0.0
+math/0309331,The Number of Nowhere-Zero Flows on Graphs and Signed Graphs,2.9139563867491616e-06,0.0,1.0,1.0
+math/0008040,"Rectangle diagrams for the Lusztig cones of quantized enveloping
+  algebras of type A",2.91091833503568e-06,0.0,2.0,3.0
+math/0407176,The Gromov Norm of the Product of Two Surfaces,2.9077948263713032e-06,0.0,2.0,0.0
+math/0507563,Computing Tropical Varieties,2.9075807513770987e-06,1.7137544193840807e-05,4.0,6.0
+math/0611357,Abstract Young Pairs for Signed Permutation Groups,2.897062285469715e-06,0.0,2.0,0.0
+math/0409099,A unique factorization theorem for matroids,2.897062285469715e-06,0.0,2.0,2.0
+math/0405099,Planar maps as labeled mobiles,2.8935401266136317e-06,0.0,8.0,5.0

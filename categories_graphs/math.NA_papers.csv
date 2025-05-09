@@ -1,0 +1,1252 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+math/0508150,"Investigations of Zeros Near the Central Point of Elliptic Curve
+  L-Functions",2.101504618305317e-05,1.2227228904881305e-06,5.0,2.0
+math/0609480,"Riemann Hypothesis: a special case of the Riesz and Hardy-Littlewood
+  wave and a numerical treatment of the Baez-Duarte coefficients up to some
+  billions in the k-variable",1.3666250735852014e-05,0.0,7.0,0.0
+math/0204356,"PALP: A Package for Analyzing Lattice Polytopes with Applications to
+  Toric Geometry",1.0702583514401649e-05,2.4220525112305782e-05,25.0,10.0
+math-ph/9902018,A note on Farey sequences and Hausdorff dimension,1.0442130615137546e-05,0.0,2.0,0.0
+math/0003135,"A holistic finite difference approach models linear dynamics
+  consistently",9.388440650265536e-06,0.0,3.0,2.0
+math/0410186,"Boundary value problems and layer potentials on manifolds with
+  cylindrical ends",8.747430898321023e-06,5.992947140324115e-06,4.0,2.0
+math/0608359,Some notes on the inverse problem for braids,8.528737364001038e-06,0.0,4.0,0.0
+math-ph/0702063,"Dirichlet integral point-source harmonic interpolation over
+  ${\mathbb{R}}^3$ spherical interiors: DIDACKS II",7.436101577256827e-06,1.990182755160072e-06,4.0,1.0
+math/0212309,Why Polyhedra Matter in Non-Linear Equation Solving,7.167425629404383e-06,0.0,5.0,0.0
+cond-mat/0210177,"Bose-Einstein condensation dynamics in three dimensions by the
+  pseudospectral and finite-difference methods",6.849474515043488e-06,1.9768158560582505e-05,6.0,1.0
+physics/0610206,Efficient numerical diagonalization of hermitian 3x3 matrices,6.765888732038065e-06,0.0,3.0,1.0
+math/0608580,An orbit-preserving discretization of the classical Kepler problem,6.592575316895297e-06,0.0,1.0,0.0
+math/0512545,The a priori tan\theta theorem for eigenvectors,6.4723794919107445e-06,0.0,4.0,0.0
+math-ph/0407078,"Finding Minima in Complex Landscapes: Annealed, Greedy and Reluctant
+  Algorithms",6.104662058002807e-06,0.0,5.0,0.0
+math/0602019,The algebra of the box spline,6.0564724618160505e-06,1.990182755160072e-06,3.0,1.0
+math/0601389,The polynomial method for random matrices,5.655144290770314e-06,0.0,1.0,1.0
+math/0312083,On the Curvature of the Central Path of Linear Programming Theory,5.655144290770314e-06,0.0,1.0,1.0
+math/0504273,"Equation-free, multiscale computation for unsteady random diffusion",5.484593114186469e-06,0.0,3.0,0.0
+math/0609549,Model selection for Poisson processes,5.430880348249121e-06,0.0,2.0,0.0
+math/0412493,The asymptotics of Wilkinson's shift iteration,4.966907238954575e-06,0.0,1.0,2.0
+math/9909145,"Complete Computation of DeWitt-Seeley-Gilkey Coefficient E_4 for
+  Nonminimal Operator on Curved Manifolds",4.374482761987892e-06,0.0,7.0,2.0
+math/0402047,Numerical cubature using error-correcting codes,4.354842591016637e-06,0.0,3.0,4.0
+math/0503066,Stable Signal Recovery from Incomplete and Inaccurate Measurements,4.317784635297831e-06,0.0,4.0,0.0
+math/0503126,"Non-variational approximation of discrete eigenvalues of self-adjoint
+  operators",4.278670187138834e-06,0.0,1.0,0.0
+math-ph/0106001,"Difference Discrete Variational Principle,EULER-Lagrange Cohomology and
+  Symplectic, Multisymplectic Structures",4.276071396464845e-06,0.0,5.0,0.0
+hep-th/0012189,"New results for the epsilon-expansion of certain one-, two- and
+  three-loop Feynman diagrams",4.097297813102201e-06,2.375002753267853e-06,11.0,23.0
+math/0508099,Reconstruction of tridiagonal matrices from spectral data,4.057098038694793e-06,0.0,1.0,0.0
+math/0509160,"Conjecture of error boundedness in a new Hermite interpolation problem
+  via splines of odd-degree",3.924607802443545e-06,0.0,2.0,0.0
+math/0604380,"Numerical Homogenization of the Acoustic Wave Equations with a Continuum
+  of Scales",3.924607802443545e-06,0.0,2.0,0.0
+math/0510070,DSC Approach to Computational Fluid Dynamics,3.894315655251025e-06,0.0,3.0,0.0
+math/0205046,"Computation of Cohomology of Lie Algebra of Hamiltonian Vector Fields by
+  Splitting Cochain Complex into Minimal Subcomplexes",3.732405385655268e-06,0.0,2.0,0.0
+nlin/0609025,"A Borel transform method for locating singularities of Taylor and
+  Fourier series",3.731514371588903e-06,0.0,3.0,0.0
+math/0406312,An Explicit Formula Relating Stieltjes Constants and Li's Numbers,3.703188653305717e-06,0.0,3.0,2.0
+math/0605334,"Gr\""obner Bases and Generation of Difference Schemes for Partial
+  Differential Equations",3.702975115490415e-06,0.0,6.0,1.0
+math/0508564,"Numerical solutions to integrodifferential equations which interpolate
+  heat and wave equations",3.62335329328243e-06,0.0,2.0,0.0
+math/0609666,Carbuncles as self-similar entropy solutions,3.62335329328243e-06,0.0,2.0,0.0
+math/0306404,Limiting set of second order spectra,3.62335329328243e-06,0.0,2.0,1.0
+math/0309285,An Algorithm for Optimal Partitioning of Data on an Interval,3.62335329328243e-06,0.0,2.0,1.0
+math/0402322,"Singular integral operators on non-compact manifolds and analysis on
+  polyhedral domains",3.530246547293569e-06,1.899754090585549e-05,3.0,3.0
+math/0101080,Idempotent interval analysis and optimization problems,3.521673389921881e-06,0.0,6.0,3.0
+math/0610255,"Application of the t-model of optimal prediction to the estimation of
+  the rate of decay of solutions of the Euler equations in two and three
+  dimensions",3.497460628629756e-06,0.0,1.0,0.0
+math-ph/0104004,Canonical Commutation Relation Preserving Maps,3.4605286714807302e-06,0.0,1.0,0.0
+math/0101069,"A unifying approach to software and hardware design for scientific
+  calculations and idempotent mathematics",3.43214687688957e-06,0.0,6.0,3.0
+math/0004085,Heat Invariant E_2 for Nonminimal Operator on Manifolds with Torsion,3.406888309706997e-06,0.0,2.0,0.0
+math/0611420,"On convergence and stability of a numerical scheme of coupled nonlinear
+  Schr\""{o}dinger equations",3.3749066596554898e-06,0.0,1.0,0.0
+math/0702243,"An efficient algorithm for accelerating the convergence of oscillatory
+  series, useful for computing the polylogarithm and Hurwitz zeta functions",3.319737938717575e-06,0.0,2.0,0.0
+math/0307290,"A step towards holistic discretisation of stochastic partial
+  differential equations",3.231476079635044e-06,0.0,2.0,0.0
+math-ph/0611019,"A gauge-invariant discrete analog of the Yang-Mills equations on a
+  double complex",3.1370860721719188e-06,0.0,3.0,0.0
+math/0402178,Spectral Properties of Numerical Differentiation,3.1116976234918277e-06,0.0,2.0,0.0
+math/0602296,Discrete momentum maps for lattice EPDiff,3.0858237597914384e-06,1.990182755160072e-06,4.0,2.0
+math/0209047,A mechanical model for the transportation problem,3.0666198176792906e-06,1.990182755160072e-06,1.0,4.0
+math/0212035,Numerical Computation of \prod_{n=1}^\infty (1 - tx^n),3.052379666539865e-06,0.0,1.0,1.0
+math/0008150,"Stochastic Optimal Prediction with Application to Averaged Euler
+  Equations",2.998338523204096e-06,0.0,1.0,0.0
+nlin/0101012,"Derivatives and Constraints in Chaotic Flows: Asymptotic Behaviour and a
+  Numerical Method",2.849791457967317e-06,0.0,3.0,2.0
+math/0603578,Fast complexified quaternion Fourier transform,2.77239764133326e-06,0.0,1.0,2.0
+math/0004115,"Extrapolation Methods for Improving the Convergence of Oligomer
+  Calculations to the Infinite Chain Limit of Quasi-Onedimensional
+  Stereoregular Polymers",2.767466321529444e-06,5.95579650746244e-06,3.0,1.0
+math-ph/0105008,Analyses of a Yang-Mills field over the three-level quantum systems,2.728139926079425e-06,0.0,3.0,0.0
+math/0508330,Discrete Routh Reduction,2.7052619091609e-06,0.0,4.0,0.0
+math/0611730,"Spreading of infectious diseases on complex networks with non-symmetric
+  transmission probabilities",2.642324062390966e-06,0.0,1.0,0.0
+math/0108163,Interval straight line fitting,2.4711431321721443e-06,0.0,1.0,1.0
+math-ph/0702062,"Dirichlet integral dual-access collocation-kernel space analytic
+  interpolation for unit disks: DIDACKS I",2.4711431321721443e-06,0.0,1.0,2.0
+math/0207086,Implementation of the Combined--Nonlinear Condensation Transformation,2.4711431321721443e-06,0.0,1.0,1.0
+math/9812031,An efficient algorithm for locating and continuing connecting orbits,2.4711431321721443e-06,0.0,1.0,0.0
+math/9901055,Numerical Calculations Using Maple: Why & How?,2.4711431321721443e-06,0.0,1.0,0.0
+math/9910176,"The geometry of bifurcation surfaces in parameter space. I. A walk
+  through the pitchfork",2.4711431321721443e-06,0.0,1.0,0.0
+math/0609789,State space description of national economies: the V4 countries,2.4711431321721443e-06,0.0,1.0,0.0
+math/0610498,"Bounds on changes in Ritz values for a perturbed invariant subspace of a
+  Hermitian matrix",2.4711431321721443e-06,0.0,1.0,0.0
+math/0611855,"On the global error committed when evaluating the Evans function
+  numerically",2.4711431321721443e-06,0.0,1.0,0.0
+math/0702430,"Approximate radical for clusters: a global approach using Gaussian
+  elimination or SVD",2.4711431321721443e-06,0.0,1.0,0.0
+math/0610725,"A finite difference method for Piecewise Deterministic Processes with
+  memory",2.4711431321721443e-06,0.0,1.0,0.0
+math/0609297,A note on the location of polynomial roots,2.4711431321721443e-06,0.0,1.0,0.0
+math/0106166,A Note on Applications of Support Vector Machine,2.4711431321721443e-06,0.0,1.0,0.0
+math/0007113,"Discrete singular convolution and its application to computational
+  electromagnetics",2.4711431321721443e-06,0.0,1.0,0.0
+math/0102094,Accuracy and convergence of the backward Monte-Carlo method,2.4711431321721443e-06,0.0,1.0,0.0
+math-ph/0702083,Symmetry of bound and antibound states in the semiclassical limit,2.4711431321721443e-06,0.0,1.0,0.0
+math-ph/0206013,"Quaternionic fundamental solutions for the numerical analysis of
+  electromagnetic scattering problems",2.4711431321721443e-06,0.0,1.0,0.0
+math/0501484,Krylov subspaces associated with higher-order linear dynamical systems,2.4711431321721443e-06,0.0,1.0,0.0
+math/0408237,Inverse conductivity problem with an imperfectly known boundary,2.4711431321721443e-06,0.0,1.0,0.0
+math/0512364,"A quantitative investigation into the accumulation of rounding errors in
+  the numerical solution of ODEs",2.4711431321721443e-06,0.0,1.0,0.0
+math/0512457,"The spectral approximation of multiplication operators via asymptotic
+  (structured) linear algebra",2.4711431321721443e-06,0.0,1.0,0.0
+math/0511219,New Periodic Orbits for the n-Body Problem,2.4711431321721443e-06,0.0,1.0,0.0
+math/0507330,"Solutions to Monge-Kantorovich equations as stationary points of a
+  dynamical system",2.4711431321721443e-06,0.0,1.0,0.0
+math/0503212,"On Incompressible Navier-Stokes Dynamics: A New Approach for Analysis
+  and Computation",2.4711431321721443e-06,0.0,1.0,0.0
+math/0502219,"Topology of plane sections of periodic polyhedra with an application to
+  the Truncated Octahedron",2.4711431321721443e-06,0.0,1.0,0.0
+math/0509016,"Absolutely continuous laws of Jump-Diffusions in finite and infinite
+  dimensions with applications to mathematical Finance",2.4711431321721443e-06,0.0,1.0,0.0
+math/0506199,Gaussian Quadrature without Orthogonal Polynomials,2.4711431321721443e-06,0.0,1.0,0.0
+math/0606445,On a differential equation for a gas bubbles collapse mathematical model,2.4711431321721443e-06,0.0,1.0,0.0
+math/0601702,"Resolve subgrid microscale interactions to discretise stochastic partial
+  differential equations",2.4711431321721443e-06,0.0,1.0,0.0
+math/0603433,General tooth boundary conditions for equation free modelling,2.4711431321721443e-06,0.0,1.0,0.0
+hep-ph/0411100,"LSJK - a C++ library for arbitrary-precision numeric evaluation of the
+  generalized log-sine functions",2.4420340610205125e-06,9.50900136704692e-09,3.0,3.0
+math/0605565,"Riemann Hypothesis: The Riesz-Hardy-Littlewood wave in the long
+  wavelength region",2.428159832349467e-06,0.0,4.0,2.0
+math/0405366,Numerical cubature from Archimedes' hat-box theorem,2.4008443528451728e-06,0.0,2.0,1.0
+math/0002207,Some real and unreal enumerative geometry for flag manifolds,2.400521944383968e-06,0.0,1.0,0.0
+math/0607108,Higher order Mori-Zwanzig models for the Euler equations,2.330990582901687e-06,1.4852110113134864e-08,1.0,1.0
+math/9902136,Stochastic trace formulas,2.3247626005142697e-06,0.0,2.0,0.0
+math/0502357,A Sublinear Algorithm of Sparse Fourier Transform for Nonequispaced Data,2.316862021424396e-06,0.0,1.0,0.0
+math/0409186,"Robust Uncertainty Principles: Exact Signal Reconstruction from Highly
+  Incomplete Frequency Information",2.297687659070516e-06,0.0,1.0,4.0
+math/0507483,How to regularize a symplectic-energy-momentum integrator,2.296318059833924e-06,0.0,2.0,0.0
+math/0603619,"The max-plus finite element method for solving deterministic optimal
+  control problems: basic properties and convergence analysis",2.2748690497359173e-06,0.0,3.0,1.0
+math/0509250,"The max-plus finite element method for optimal control problems: further
+  approximation results",2.2748690497359173e-06,0.0,3.0,0.0
+math/0508111,"On Large Scale Diagonalization Techniques for the Anderson Model of
+  Localization",2.215096429703192e-06,0.0,3.0,0.0
+math/0505070,DSC numerical solution of the Oberbeck-Boussinesq equations,2.187491248189088e-06,0.0,2.0,0.0
+math/0003227,"Irregular Input Data in Convergence Acceleration and Summation
+  Processes: General Considerations and Some Special Gaussian Hypergeometric
+  Series as Model Problems",2.18461624611e-06,0.0,2.0,3.0
+math/9911126,Idempotent mathematics and interval analysis,2.1652798679728493e-06,0.0,4.0,3.0
+math/0509101,"Cubature Formulas for Symmetric Measures in Higher Dimensions with Few
+  Points",2.1427407699141173e-06,0.0,1.0,0.0
+math/0408360,Special moments,2.1427407699141173e-06,0.0,1.0,2.0
+math/0002210,Computation of Cohomology of Lie Superalgebras of Vector Fields,2.13320035060168e-06,1.990182755160072e-06,4.0,1.0
+cond-mat/0301268,"Deterministic and stochastic influences on Japan and US stock and
+  foreign exchange markets. A Fokker-Planck approach",2.1092781905709486e-06,0.0,2.0,2.0
+math/0406327,"Spectral Methods for Partial Differential Equations in Irregular
+  Domains: The Spectral Smoothed Boundary Method",2.0700804722071624e-06,0.0,1.0,0.0
+math/0212361,From 2D Toda hierarchy to conformal map for domains of Riemann sphere,1.961069471440829e-06,0.0,3.0,1.0
+math/0410310,"Higher order accuracy in the gap-tooth scheme for large-scale solutions
+  using microscopic simulators",1.9534499013694663e-06,0.0,1.0,0.0
+math/9911118,"Mathematical Modeling of Boson-Fermion Stars in the Generalized
+  Scalar-Tensor Theories of Gravity",1.9386702752741024e-06,3.980365510320144e-06,2.0,3.0
+math/0505036,Parabolic Julia Sets are Polynomial Time Computable,1.9334450569873443e-06,0.0,2.0,3.0
+quant-ph/0109038,On a Problem in Quantum Summation,1.9200842845221067e-06,1.5114090891220791e-06,11.0,8.0
+math/0008052,"Destruction of CD4 T Lymphocytes Alone Cannot Account for their
+  Long-term Decrease in AIDS",1.8950380516170012e-06,0.0,1.0,0.0
+math/0010160,One Form of Successive Approximation Method and Choice Problem,1.8950380516170012e-06,0.0,1.0,0.0
+math/0602652,"A numerical method for calculating the Green's function arising from
+  electronic structure theory",1.8950380516170012e-06,0.0,1.0,0.0
+math/0201024,An Ap\'ery-like difference equation for Catalan's constant,1.8950380516170012e-06,0.0,1.0,4.0
+math/0004108,"New Numerical Algorithm for Modeling of Boson-Fermion Stars in Dilatonic
+  Gravity",1.8741464784908933e-06,0.0,1.0,0.0
+astro-ph/0012496,A Free Boundary Problem in the Theory of the Stars,1.8741464784908933e-06,0.0,1.0,0.0
+math/0001079,"Holistic finite differences accurately model the dynamics of the
+  Kuramoto-Sivashinsky equation",1.8392618476346709e-06,0.0,1.0,1.0
+math/0506562,"Accurately model the Kuramoto--Sivashinsky dynamics with holistic
+  discretisation",1.8392618476346709e-06,0.0,1.0,0.0
+math/0312316,Quasidiagonality and the finite section method,1.818224040876316e-06,0.0,2.0,0.0
+math/0102114,Universal numerical algorithms and their software implementation,1.8076770067836392e-06,0.0,1.0,2.0
+math/0101152,Approximate rational arithmetics and arbitrary precision computations,1.8076770067836392e-06,0.0,1.0,1.0
+math/0603704,Large eddy approximation of turbulent flow in DSC schemes,1.803421194485659e-06,0.0,1.0,1.0
+quant-ph/0008124,Quantum Complexity of Integration,1.801282629492202e-06,0.0,8.0,24.0
+math/0005028,Computing Complex Dimension Faster and Deterministically,1.703003024765287e-06,0.0,1.0,1.0
+math/0506090,"Diffusion Maps, Spectral Clustering and Eigenfunctions of Fokker-Planck
+  operators",1.703003024765287e-06,0.0,1.0,0.0
+math/0112083,High resolution conjugate filters for the simulation of flows,1.703003024765287e-06,0.0,1.0,0.0
+math/0110029,Shock-capturing with natural high frequency oscillations,1.703003024765287e-06,0.0,1.0,2.0
+math/0005029,"Computational Arithmetic Geometry I: Sentences Nearly in the Polynomial
+  Hierarchy",1.703003024765287e-06,0.0,1.0,0.0
+math/0505223,Metric based up-scaling,1.703003024765287e-06,0.0,1.0,1.0
+math/0309261,Dual Scattering Channel Schemes Extending the Johns Algorithm,1.703003024765287e-06,0.0,1.0,3.0
+math-ph/0101027,"Imaginary cubic oscillator and its square-well approximations in x- and
+  p-representation",1.703003024765287e-06,0.0,1.0,2.0
+math/0212346,A practical spectral method for hyperbolic conservation laws,1.703003024765287e-06,0.0,1.0,0.0
+math/0304028,Bernoulli numbers and the probability of a birthday surprise,1.703003024765287e-06,0.0,1.0,0.0
+math/0402168,Effective method of computing Li's coefficients and their properties,1.6972564506238292e-06,0.0,1.0,6.0
+math/9906134,A seventeenth-order polylogarithm ladder,1.6374801563900608e-06,0.0,2.0,1.0
+math/0609094,Pade and Hermite-Pade approximation and orthogonality,1.6265532680619148e-06,0.0,1.0,0.0
+quant-ph/0105114,"Optimal Summation and Integration by Deterministic, Randomized, and
+  Quantum Algorithms",1.6205688998878512e-06,6.2762183140195295e-06,8.0,12.0
+math/0005035,Enhanced inverse-cascade of energy in the averaged Euler equations,1.60698551133943e-06,0.0,1.0,1.0
+math/0603023,On the Hopf Algebraic Structure of Lie Group Integrators,1.5905088526915209e-06,0.0,4.0,1.0
+math/0404184,"A max-plus finite element method for solving finite horizon
+  deterministic optimal control problems",1.5642712455365905e-06,0.0,2.0,2.0
+math/0512625,Some numerical results in complex differential geometry,1.555553154249412e-06,3.980365510320144e-06,1.0,5.0
+physics/0410270,Electromagnetic Pulse Propagation in Passive Media by the Lanczos Method,1.5493750032839157e-06,0.0,1.0,0.0
+physics/0512074,"Wave packet propagation by the Faber polynomial approximation in
+  electrodynamics of passive media",1.5493750032839157e-06,0.0,1.0,0.0
+math/0111128,"Bayesian Blocks in Two or More Dimensions: Image Segmentation and
+  Cluster Analysis",1.5493750032839157e-06,0.0,1.0,0.0
+math-ph/9808008,"A novel approach to estimate the stability of one-dimensional quantum
+  inverse scattering",1.5493750032839157e-06,0.0,1.0,0.0
+math/0111127,Bayesian Estimation of Time Series Lags and Structure,1.5493750032839157e-06,0.0,1.0,0.0
+physics/0410271,"Lanczos Pseudospectral Propagation Method for Initial-Value Problems in
+  Electrodynamics of Passive Media",1.5493750032839157e-06,0.0,1.0,0.0
+math-ph/0301028,"Numerical Study of Nonlinear Equations with Infinite Number of
+  Derivatives",1.5449870584887942e-06,1.3013829425125478e-07,4.0,25.0
+math/9905048,Parallel Integer Relation Detection: Techniques and Applications,1.521151517788805e-06,1.0325254460242783e-06,2.0,8.0
+hep-lat/0306025,A note on Neuberger's double pass algorithm,1.5132917948643891e-06,7.964648683153412e-06,2.0,5.0
+math/0608695,"Polyhedral Potential and Variational Integrator Computation of the Full
+  Two Body Problem",1.5109679979135728e-06,0.0,1.0,0.0
+math/0311021,Interval Computations and their Categorification,1.5109679979135728e-06,0.0,1.0,0.0
+math-ph/0306018,On the Nonlinear Dynamical Equation in the p-adic String Theory,1.4782298751138964e-06,6.48485139750222e-06,4.0,24.0
+math/0202236,"On comparing the writhe of a smooth curve to the writhe of an inscribed
+  polygon",1.4629592412006444e-06,0.0,1.0,1.0
+math/9803067,"Polylogarithmic ladders, hypergeometric series and the ten millionth
+  digits of $\zeta(3)$ and $\zeta(5)$",1.3966243016094157e-06,1.0027569827997185e-06,2.0,8.0
+math/0508341,Discrete Exterior Calculus,1.3867100393624637e-06,0.0,1.0,6.0
+astro-ph/9906322,"A class of symplectic integrators with adaptive timestep for separable
+  Hamiltonian systems",1.3632487464891771e-06,0.0,1.0,1.0
+math/0005209,Scalar Levin-Type Sequence Transformations,1.3189329710618589e-06,0.0,0.0,1.0
+math/0106225,On Solving Fewnomials Over Intervals in Fewnomial Time,1.3189329710618589e-06,0.0,0.0,2.0
+math/0206028,The Lie algebra splitg2 with Mathematica using Zorn's matrices,1.3189329710618589e-06,0.0,0.0,1.0
+math/0005139,"Rational points near curves and small nonzero |x^3-y^2| via lattice
+  reduction",1.3189329710618589e-06,0.0,0.0,1.0
+math/0409026,On numerical solutions to stochastic Volterra equations,1.3189329710618589e-06,0.0,0.0,1.0
+math/0512504,"Homogenization of parabolic equations with a continuum of space and time
+  scales",1.3189329710618589e-06,0.0,0.0,1.0
+math/0602350,"Exit from a basin of attraction for stochastic weakly damped nonlinear
+  Schr\""odinger equations",1.3189329710618589e-06,0.0,0.0,1.0
+math/0610155,"Mathematical Challenges Arising in Thermoacoustic Tomography with Line
+  Detectors",1.3189329710618589e-06,0.0,0.0,1.0
+math/0610402,"A Newton-Like Algorithm for Likelihood Maximization: The Robust-Variance
+  Scoring Algorithm",1.3189329710618589e-06,0.0,0.0,1.0
+math/9809071,Solving Degenerate Sparse Polynomial Systems Faster,1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/0209058,The Partial Averaging method,1.3189329710618589e-06,0.0,0.0,3.0
+math/0405095,On the stability of dual scattering channel schemes,1.3189329710618589e-06,0.0,0.0,3.0
+hep-ph/0101182,Wavelets and their use,1.3189329710618589e-06,0.0,0.0,2.0
+math/0503445,"Diffusion maps, spectral clustering and reaction coordinates of
+  dynamical systems",1.3189329710618589e-06,0.0,0.0,3.0
+math/0410184,"Interior numerical approximation of boundary value problems with a
+  distributional data",1.3189329710618589e-06,0.0,0.0,6.0
+math/0407224,The border rank of the multiplication of two by two matrices is seven,1.3189329710618589e-06,0.0,0.0,1.0
+math/0009125,"Conjugated filter approach for solving Burgers' equation with high
+  Reynolds number",1.3189329710618589e-06,0.0,0.0,3.0
+math/0208042,"Nonlinear hyperbolic equations in surface theory: integrable
+  discretizations and approximation results",1.3189329710618589e-06,0.0,0.0,3.0
+math/0310238,Computation of the entropy of polynomials orthogonal on an interval,1.3189329710618589e-06,0.0,0.0,1.0
+math/9910088,The vortex blob method as a second-grade non-Newtonian fluid,1.3189329710618589e-06,0.0,0.0,3.0
+math/0101042,"Approximate construction of rational approximations and the effect of
+  error autocorrection. Applications",1.3189329710618589e-06,0.0,0.0,2.0
+math/0212087,"Spectral pollution and second order relative spectra for self-adjoint
+  operators",1.3189329710618589e-06,0.0,0.0,1.0
+math/0508360,Generalized Galerkin Variational Integrators,1.3189329710618589e-06,0.0,0.0,3.0
+math/0703149,Experiments with moduli of quadrilaterals,1.3189329710618589e-06,0.0,0.0,2.0
+math/0607364,"Counting faces of randomly-projected polytopes when the projection
+  radically lowers dimension",1.3189329710618589e-06,0.0,0.0,2.0
+math/0309058,Optimization Strategies in Complex Systems,1.3189329710618589e-06,0.0,0.0,2.0
+math/0010245,"Characterization and computation of canonical tight windows for Gabor
+  frames",1.3189329710618589e-06,0.0,0.0,1.0
+math/9910151,Decoding Algebraic Geometry codes by a key equation,1.3189329710618589e-06,0.0,0.0,3.0
+math/9802027,"Effective procedure of point-classification for the equation $y'' = P +
+  3 Q y' + 3 R {y'}^2 + S {y'}^3$",1.3189329710618589e-06,0.0,0.0,5.0
+math/0012104,Random Sparse Polynomial Systems,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0502066,On the Complexity of Real Functions,1.3189329710618589e-06,0.0,0.0,3.0
+math/0512361,"Markov solutions for the 3D stochastic Navier--Stokes equations with
+  state dependent noise",1.3189329710618589e-06,0.0,0.0,3.0
+math-ph/0111014,Regularization of Ill-Posed Problems with Unbounded Operators,1.3189329710618589e-06,0.0,0.0,1.0
+math/0312296,"Electromagnetic pulse propagation in passive media by path integral
+  methods",1.3189329710618589e-06,0.0,0.0,5.0
+math/0508365,Lie Group Variational Integrators for the Full Body Problem,1.3189329710618589e-06,0.0,0.0,6.0
+physics/0111138,"Investigation of transition frequencies of two acoustically coupled
+  bubbles using a direct numerical simulation technique",1.3189329710618589e-06,0.0,0.0,3.0
+math/0402321,Sobolev spaces on Lie manifolds and regularity for polyhedral domains,1.3189329710618589e-06,0.0,0.0,2.0
+math/0312166,Elementary linear algebra for advanced spectral problems,1.3189329710618589e-06,0.0,0.0,2.0
+math-ph/0211028,Geometric integrators and nonholonomic mechanics,1.3189329710618589e-06,0.0,0.0,1.0
+math/0505344,"The Efficient Evaluation of the Hypergeometric Function of a Matrix
+  Argument",1.3189329710618589e-06,0.0,0.0,1.0
+math/0306305,A Rational Approximant for the Digamma Function,1.3189329710618589e-06,0.0,0.0,2.0
+math/0306092,Formulae of numerical differentiation,1.3189329710618589e-06,0.0,0.0,2.0
+math/0508235,Numerical verification of a gap condition for linearized NLS,1.3189329710618589e-06,0.0,0.0,1.0
+math/0509331,A Lax-Wendroff type theorem for unstructured quasiuniform grids,1.3189329710618589e-06,0.0,0.0,1.0
+math/0509333,"A possible counterexample to wellposedness of entropy solutions and to
+  Godunov scheme convergence",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0206039,"Hidden Markov model segmentation of hydrological and enviromental time
+  series",1.3189329710618589e-06,0.0,0.0,1.0
+math/0008225,"Optimizing Schroedinger functionals using Sobolev gradients:
+  Applications to Quantum Mechanics and Nonlinear Optics",1.3189329710618589e-06,0.0,0.0,1.0
+math/0004177,Shock capturing by anisotropic diffusion oscillation reduction,1.3189329710618589e-06,0.0,0.0,1.0
+math/9912029,Minimal Involutive Bases,1.3189329710618589e-06,0.0,0.0,4.0
+nucl-th/0211016,Scattering Calculations with Wavelets,1.3189329710618589e-06,0.0,0.0,2.0
+math/0005003,A Note on Regularized Shannon's Sampling Formulae,1.3189329710618589e-06,0.0,0.0,1.0
+math/0601029,An Adaptive Euler-Maruyama Scheme For SDEs: Convergence and Stability,1.3189329710618589e-06,0.0,0.0,1.0
+math/0512222,"The asymptotic properties of the spectrum of non symmetrically perturbed
+  Jacobi matrix sequences",1.3189329710618589e-06,0.0,0.0,1.0
+math/0010118,"A backward Monte-Carlo method for solving parabolic partial differential
+  equations",1.3189329710618589e-06,0.0,0.0,1.0
+math/0605581,Evaluating the Evans function: Order reduction in numerical methods,1.3189329710618589e-06,0.0,0.0,1.0
+math/0606588,A finite difference method for piecewise deterministic Markov processes,1.3189329710618589e-06,0.0,0.0,1.0
+math/0606194,"A conjecture that the roots of a univariate polynomial lie in a union of
+  annuli",1.3189329710618589e-06,0.0,0.0,1.0
+math/0410195,"Pade-Type Model Reduction of Second-Order and Higher-Order Linear
+  Dynamical Systems",1.3189329710618589e-06,0.0,0.0,1.0
+math/9805076,An Introduction to Total Least Squares,1.3189329710618589e-06,0.0,0.0,1.0
+math/9912027,Involutive Bases of Polynomial Ideals,1.3189329710618589e-06,0.0,0.0,5.0
+math/0501468,"A General Approach for Producing Hamiltonian Numerical Schemes for Fluid
+  Equations",1.3189329710618589e-06,0.0,0.0,2.0
+math-ph/0501068,Numerical Methods for Eigenvalue Distributions of Random Matrices,1.3189329710618589e-06,0.0,0.0,2.0
+math/0209097,Functions from $R^2$ to $R^2$: a study in nonlinearity,1.3189329710618589e-06,0.0,0.0,1.0
+math/9812020,Combinatorial aspects of multiple zeta values,1.3189329710618589e-06,0.0,0.0,7.0
+math/0505129,Application of multivariate splines to discrete mathematics,1.3189329710618589e-06,0.0,0.0,1.0
+math/0503612,"Problem reduction, renormalization, and memory",1.3189329710618589e-06,0.0,0.0,1.0
+math/0701784,Rayleigh-Ritz majorization error bounds with applications to FEM,1.3189329710618589e-06,0.0,0.0,1.0
+math/9906046,"Cohomology of Lie Superalgebras of Hamiltonian Vector Fields: Computer
+  Analysis",1.3189329710618589e-06,0.0,0.0,2.0
+math/0403297,A time domain method for modeling viscoacoustic wave propagation,1.3189329710618589e-06,0.0,0.0,1.0
+math/0408076,Commuting Extensions and Cubature Formulae,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0309018,Using Propagation for Solving Complex Arithmetic Constraints,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0102023,Factored Notation for Interval I/O,1.3189329710618589e-06,0.0,0.0,1.0
+math/9907060,"Polynomial Homotopies for Dense, Sparse and Determinantal Systems",1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/0507046,Towards analytical solutions of the alloy solidification problem,1.3189329710618589e-06,0.0,0.0,1.0
+math/9810063,Spectral Instability for Some Schroedinger Operators,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0106045,A Continuous Model of Computation,1.3189329710618589e-06,0.0,0.0,1.0
+math/9807080,"Multisymplectic geometry, variational integrators, and nonlinear PDEs",1.3189329710618589e-06,0.0,0.0,1.0
+math/0411102,"Theoretical and Experimental Analysis of a Randomized Algorithm for
+  Sparse Fourier Transform Analysis",1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/0101030,"On the quasi - exact solvability of a singular potential in D -
+  dimensions; confined and unconfined",1.3189329710618589e-06,0.0,0.0,1.0
+math/0605532,Convergence of the Zipper algorithm for conformal mapping,1.3189329710618589e-06,0.0,0.0,1.0
+math/0306302,"Nonlinear sequence transformations for the acceleration of convergence
+  and the summation of divergent series",1.3189329710618589e-06,0.0,0.0,1.0
+math/9809111,"Convergence Acceleration via Combined Nonlinear-Condensation
+  Transformations",1.3189329710618589e-06,0.0,0.0,1.0
+math/0607647,"Tensor rank and the ill-posedness of the best low-rank approximation
+  problem",1.3189329710618589e-06,0.0,0.0,1.0
+math/0510516,On Numerical Algorithms for the Solution of a Beltrami Equation,1.3189329710618589e-06,0.0,0.0,1.0
+math/0303158,"An explicit unconditionally stable numerical method for solving damped
+  nonlinear Schr\""{o}dinger equations with a focusing nonlinearity",1.3189329710618589e-06,0.0,0.0,1.0
+math/9909114,Completion of Linear Differential Systems to Involution,1.3189329710618589e-06,0.0,0.0,1.0
+math/0010209,"On Validated Numeric of Values of Some Zeta and L-functions, and
+  Applications",1.3189329710618589e-06,0.0,0.0,1.0
+math/0212179,"High Probability Analysis of the Condition Number of Sparse Polynomial
+  Systems",1.3189329710618589e-06,0.0,0.0,1.0
+math/0209314,Energy conserving nonholonomic integrators,1.3189329710618589e-06,0.0,0.0,1.0
+math/0202009,Convergence Acceleration Techniques,1.3189329710618589e-06,0.0,0.0,1.0
+math/0609198,Convergence of the Magnus series,1.3189329710618589e-06,0.0,0.0,1.0
+math/0605374,Fusion Frames and Distributed Processing,1.3189329710618589e-06,0.0,0.0,1.0
+math/0603251,"Quaternion Singular Value Decomposition based on Bidiagonalization to a
+  Real Matrix using Quaternion Householder Transformations",1.3189329710618589e-06,0.0,0.0,2.0
+alg-geom/9706004,Numerical Schubert calculus,,,,
+astro-ph/0502164,"Particle Swarm Optimization: An efficient method for tracing periodic
+  orbits in 3D galactic potentials",,,,
+chem-ph/9603001,"Correlation Energy Estimators based on M{\o}ller-Plesset Perturbation
+  Theory",,,,
+cond-mat/0012468,Josephson Junctions with Minimal Length,,,,
+cond-mat/0012471,"On the solution of the modified Ginzburg-Landau type equation for
+  one-dimensional superconductor in presence of a normal layer",,,,
+cond-mat/0212641,Generalized Technical Analysis. Effects of transaction volume and risk,,,,
+cond-mat/0601610,"On the existence and scaling of structure functions in turbulence
+  according to the data",,,,
+cond-mat/9806147,Josephson Lattices of the Optimal Size,,,,
+cond-mat/9808130,"Finite-difference methods for simulation models incorporating
+  non-conservative forces",,,,
+cond-mat/9809297,"Numerical Investigation of a Bifurcation Problem with free Boundaries
+  Arising from the Physics of Josephson Junctions",,,,
+cs/0006026,Online Correction of Dispersion Error in 2D Waveguide Meshes,,,,
+cs/0007002,Interval Constraint Solving for Camera Control and Motion Planning,,,,
+cs/0101003,"Signal-Theoretic Characterization of Waveguide Mesh Geometries for
+  Models of Two--Dimensional Wave Propagation in Elastic Media",,,,
+cs/0202038,The efficient generation of unstructured control volumes in 2D and 3D,,,,
+cs/0401008,"Algorithm xxx: Modified Bessel functions of imaginary order and positive
+  argument",,,,
+cs/0411047,"Numerical Solutions of 2-D Steady Incompressible Driven Cavity Flow at
+  High Reynolds Numbers",,,,
+cs/0411049,"Fourth Order Compact Formulation of Navier-Stokes Equations and Driven
+  Cavity Flow at High Reynolds Numbers",,,,
+cs/9812003,"Neural Network Methods for Boundary Value Problems Defined in
+  Arbitrarily Shaped Domains",,,,
+cs/9907015,"Linear-Time Approximation Algorithms for Computing Numerical Summation
+  with Provably Small Errors",,,,
+funct-an/9707004,Normalization Integrals of Orthogonal Heun Functions,,,,
+math-ph/0002004,"Analysis of Experimental Investigations of Self-Similar Intermediate
+  Structures in Zero-Pressure Boundary Layers at Large Reynolds Numbers",,,,
+math-ph/0002029,A Note on the Intermediate Region in Turbulent Boundary Layers,,,,
+math-ph/0010004,A numerical method for solving some nonlinear problems,,,,
+math-ph/0010032,"An Efficient Modified ""Walk On Spheres"" Algorithm for the Linearized
+  Poisson-Boltzmann Equation",,,,
+math-ph/0010033,"Piecewise-constant potentials with practically the same fixed-energy
+  phase shifts",,,,
+math-ph/0010034,"Stable identification of piecewise-constant potentials from fixed-energy
+  phase shifts",,,,
+math-ph/0010035,"Application of the hybrid stochastic-deterministic minimization method
+  to a surface data inverse scattering problem",,,,
+math-ph/0010041,"Identification of multilayered particles from scattering data by a
+  clustering method",,,,
+math-ph/0011034,Wave scattering by small bodies of arbitrary shapes,,,,
+math-ph/0011048,"A Note Concerning the Turbulent Boundary Layer Drag at Large Reynolds
+  Numbers",,,,
+math-ph/0101015,"Generalized Rayleigh-Schroedinger perturbation theory as a method of
+  linearization of the so called quasi-exactly solvable models",,,,
+math-ph/0101034,Spectra of 2D H-donors in magnetic field and their Zeeman splitting,,,,
+math-ph/0111015,"Recovery of small electromagnetic inhomogeneities from boundary
+  measurements on part of the boundary",,,,
+math-ph/0111016,Inverse Scattering by the Stability Index Method,,,,
+math-ph/0201039,Variational integrators and time-dependent lagrangian systems,,,,
+math-ph/0202048,A Model of a Turbulent Boundary Layer With a Non-Zero Pressure Gradient,,,,
+math-ph/0208029,Interval methods for FMR spectra simulation,,,,
+math-ph/0210063,Exploring defective eigenvalue problems with the method of lifting,,,,
+math-ph/0211052,Vortex solutions of the evolutionary Ginzburg-Landau type equations,,,,
+math-ph/0212007,"Geometric numerical integration of nonholonomic systems and optimal
+  control problems",,,,
+math-ph/0301045,"Applic. Analysis, 81, N4, (2002), 929-937",,,,
+math-ph/0302045,"Methodology of Syntheses of Knowledge: Overcoming Incorrectness of the
+  Problems of Mathematical Modeling",,,,
+math-ph/0307025,"Numerical Treatment of Hypersingular Integral Equations with Application
+  to Crack Mechanics",,,,
+math-ph/0506048,Dynamic inverse problem in a weakly laterally inhomogeneous medium,,,,
+math-ph/0510041,Discrete models of the self-dual and anti-self-dual equations,,,,
+math-ph/0603001,The 1-vertex transfer matrix and accurate estimation of channel capacity,,,,
+math-ph/0609050,How to generate random matrices from the classical compact groups,,,,
+math-ph/0610086,"Methodology of Syntheses of Knowledge: Overcoming Incorrectness of the
+  Problems of Mathematical Modeling (revised version, March 2005)",,,,
+math-ph/0611031,"A new approach to the absorbing boundary conditions for the
+  Schr\""odinger type equations",,,,
+math-ph/9805021,"A unified approach to Hamiltonian systems, Poisson systems, gradient
+  systems, and systems with Lyapunov functions and/or first integrals",,,,
+math-ph/9911019,Dissipative Behavior of Some Fully Non-Linear KdV-Type Equations,,,,
+math-ph/9911032,Property C for ODE and applications to inverse problems,,,,
+math-ph/9911034,Inequalities for the derivatives,,,,
+math-ph/9911037,"Example of two different potentials which have practically the same
+  fixed-energy phase shifts",,,,
+math-ph/9911038,Continuous analog of Gauss-Newton method,,,,
+math-ph/9911039,Stability estimates in inverse scattering,,,,
+math-ph/9911041,Continuous regularization of nonlinear ill-posed problems,,,,
+math-ph/9911045,"An approximate method for solving inverse scattering problem with
+  fixed-energy phase shifts",,,,
+math/0001075,"Numerical Investigation of a Dipole Type Solution for Unsteady
+  Groundwater Flow with Capillary Retention and Forced Drainage",,,,
+math/0001100,Optimal Prediction of Stiff Oscillatory Mechanics,,,,
+math/0001123,Canonical momenta of nonlinear combat,,,,
+math/0002133,"A Third-Order Semi-Discrete Central Scheme for Conservation Laws and
+  Convection-Diffusion Equations",,,,
+math/0002144,"The Characteristic Length Scale of the Intermediate Structure in
+  Zero-Pressure-Gradient Boundary Layer Flow",,,,
+math/0002189,"Geometrically Graded h-p Quadrature Applied to the Complex Boundary
+  Integral Equation Method for the Dirichlet Problem with Corner Singularities",,,,
+math/0003018,Gau{\ss} Cubature for the Surface of the Unit Sphere,,,,
+math/0003036,"Partitioning Sparse Graphs using the Second Eigenvector of their Graph
+  Laplacian",,,,
+math/0004018,Symmetry reduction of discrete Lagrangian mechanics on Lie groups,,,,
+math/0004100,On the Relation Between Pommaret and Janet Bases,,,,
+math/0005036,Approximation by quadrilateral finite elements,,,,
+math/0005247,"Rigorous Numerics for Partial Differential Equations: the
+  Kuramoto-Sivashinsky equation",,,,
+math/0006093,Gauge techniques in time and frequency domain TLM,,,,
+math/0006218,"Spectral inclusion and spectral exactness for singular non-selfadjoint
+  Sturm-Liouville problems",,,,
+math/0007081,Implicit integration of the TDGL equations of superconductivity,,,,
+math/0007092,"The frozen-field approximation and the Ginzburg-Landau equations of
+  superconductivity",,,,
+math/0008020,The Lattice of integer partitions and its infinite extension,,,,
+math/0008022,"Generalized Integer Partitions, Tilings of Zonotopes and Lattices",,,,
+math/0008110,Implementation of the Prelle-Singer Method for 1ODEs,,,,
+math/0009057,"Numerical Approximation of Real Functions and One Minkowski's Conjecture
+  on Diophintine Approximations",,,,
+math/0009212,"The inverse problem of the Birkhoff-Gustavson normalization and ANFER,
+  Algorithm of Normal Form Expansion and Restoration",,,,
+math/0010045,"A probabilistic algorithm to test local algebraic observability in
+  polynomial time",,,,
+math/0010173,Hot-pressing process modeling for medium density fiberboard (MDF),,,,
+math/0010242,Numerical Analysis of the Non-uniform Sampling Problem,,,,
+math/0010243,Four short stories about Toeplitz matrix calculations,,,,
+math/0010244,"Approximation of dual Gabor frames, window decay, and wireless
+  communications",,,,
+math/0010285,Distribution of Values of Real Quadratic Zeta Functions,,,,
+math/0010286,"Comparison of algorithms to calculate quadratic irregularity of prime
+  numbers",,,,
+math/0011025,"Uniformly Generating Distribution Functions for Discrete Random
+  Variables",,,,
+math/0011054,First-hit analysis of algorithms for computing quadratic irregularity,,,,
+math/0012007,Orthonormal integrators based on Householder and Givens transformations,,,,
+math/0012113,Separation of variables in perturbed cylinders,,,,
+math/0012209,"Constraint Identification and Algorithm Stabilization for Degenerate
+  Nonlinear Programs",,,,
+math/0101022,Non-Markovian Optimal Prediction,,,,
+math/0101029,Asymptotic Summation of Slow Converging and Rapidly Oscillating Series,,,,
+math/0101077,Hysteresis in layered spring magnets,,,,
+math/0101205,"Holistic projection of initial conditions onto a finite difference
+  approximation",,,,
+math/0102218,A fast solver for systems of reaction-diffusion equations,,,,
+math/0103004,L'approximation par des polyn{\^o}mes {\`a} coefficients entiers,,,,
+math/0103102,"Effects of Finite-Precision Arithmetic on Interior-Point Methods for
+  Nonlinear Programming",,,,
+math/0104020,Self-scaled barriers for irreducible symmetric cones,,,,
+math/0104083,"Sparsity vs. Statistical Independence in Adaptive Signal
+  Representations: A Case Study of the Spike Process",,,,
+math/0105026,Numerical Study of Quantum Resonances in Chaotic Scattering,,,,
+math/0105056,ABS Algorithms for Linear Systems and Optimization,,,,
+math/0105074,Abs Algorithms for Linear Equations and Abspack,,,,
+math/0105075,"Computational Experiments with Abs Algorithms for Overdetermined Linear
+  Systems",,,,
+math/0105076,Computational Experiments with Abs Algorithms for KKT Linear Systems,,,,
+math/0105167,C++ Codes of Implicit Lu Algorithms for Absdll01,,,,
+math/0105168,An ABS Algorithm for a Class of Systems of Stochastic Linear Equations,,,,
+math/0105200,Deviation Bounds for Wavelet Shrinkage,,,,
+math/0105217,"Eigenfunctions on a Stadium Associated with Avoided Crossings of Energy
+  Levels",,,,
+math/0105228,Filtration Law for Polymer Flow through porous media,,,,
+math/0105262,Yet More Projective Curves Over F2,,,,
+math/0106029,Numerical Performance of Abs Codes for Nonlinear Systems of Equations,,,,
+math/0106120,"Least Sqaure Method for Sum of the Functions Satysfying the Differential
+  Equations with Polynomial Coefficients",,,,
+math/0106168,A new algorithm for the volume of a convex polytope,,,,
+math/0106224,"Derive boundary conditions for holistic discretisations of Burgers'
+  equation",,,,
+math/0107025,Hybrid-Cubic-Rational Semi-Lagrangian Method with the Optimal Mixing,,,,
+math/0107233,"Solving the difference initial-boundary value problems by the operator
+  exponential method",,,,
+math/0108074,"On efficiency of critical-component method for solving singular and
+  ill-posed systems of linear algebraic equations",,,,
+math/0108122,"Convergence of Finite Difference Methods for Poisson's Equation with
+  Interfaces",,,,
+math/0108181,"A Priori Estimates for the Global Error Committed by Runge-Kutta Methods
+  for a Nonlinear Oscillator",,,,
+math/0109030,Open problems on GKK tau-matrices,,,,
+math/0109109,"Numerical Computations of Viscous, Incompressible Flow Problems Using a
+  Two-Level Finite Element Method",,,,
+math/0109187,On Non-Oscillating Integrals for Computing Inhomogeneous Airy Functions,,,,
+math/0109188,Numerical and Asymptotic Aspects of Parabolic Cylinder Functions,,,,
+math/0110103,"The Generalized Spike Process, Sparsity, and Statistical Independence",,,,
+math/0110111,"A conservative semi-Lagrangian method for oscillation-free computation
+  of advection processes",,,,
+math/0110153,"Holistically discretise the Swift-Hohenberg equation on a scale larger
+  than its spatial pattern",,,,
+math/0110302,"A semi-numerical computation for the added mass coefficients of an
+  oscillating hemi-sphere at very low and very high frequencies",,,,
+math/0111080,Phase retrieval by iterated projections,,,,
+math/0112016,Detection of Edges in Spectral Data II. Nonlinear Enhancement,,,,
+math/0112017,"Adaptive Mollifiers for High Resolution Recovery of Piecewise Smooth
+  Data from its Spectral Information",,,,
+math/0112094,Stochastic spatial models of plant diseases,,,,
+math/0201278,"Heteroclinic Connections between Periodic Orbits in Planar Restricted
+  Circular Three Body Problem - A Computer Assisted Proof",,,,
+math/0201286,"Shape reconstruction in scattering media with voids using a transport
+  model and level sets",,,,
+math/0201308,Finite volume methods for incompressible flow,,,,
+math/0202070,"On DSS Method for a Fast Identification of the Static and Dynamic
+  Responses of Servovalves",,,,
+math/0202276,"A numerical method for solution of ordinary differential equations of
+  fractional order",,,,
+math/0203187,Double newtonisation of fixed point sequences,,,,
+math/0203231,Range of the first three eigenvalues of the planar Dirichlet Laplacian,,,,
+math/0204105,Computational geometry in Heisenberg group Heis^3,,,,
+math/0204350,"Algorithm to generate ideals in a Lie algebra of matrices at any
+  particular characteristic with Mathematica",,,,
+math/0205235,"Algorithm to compute the rank and a Cartan subalgebra of a matrix Lie
+  algebra with Mathematica",,,,
+math/0205264,"Large Eddy Simulation of Turbulent Channel Flows by the Rational LES
+  Model",,,,
+math/0205332,Asymptotic behavior of polynomials orthonormal on a homogeneous set,,,,
+math/0207055,"About Calculation of the Hankel Transform Using Preliminary Wavelet
+  Transform",,,,
+math/0207172,"Random projections and the optimization of an algorithm for phase
+  retrieval",,,,
+math/0207183,Error autocorrection in rational approximation and interval estimates,,,,
+math/0208075,Explicit Inversion for Two Brownian-Type Matrices,,,,
+math/0208130,On Bond Portfolio Management,,,,
+math/0209096,Newton Method on Riemannian Manifolds: Covariant Alpha-Theory,,,,
+math/0209248,"Solving the Selesnick-Burrus Filter Design Equations Using Computational
+  Algebra and Algebraic Geometry",,,,
+math/0209336,"Convergence of a particle-in-cell scheme for the spherically symmetric
+  Vlasov-Einstein system",,,,
+math/0209377,"A Modified Smagorinsky Subgrid Scale Model for the Large Eddy Simulation
+  of Turbulent Flow",,,,
+math/0209387,Lie group foliations: Dynamical systems and integrators,,,,
+math/0210320,"A generalized Numerov method for linear second-order differential
+  equations involving a first derivative term",,,,
+math/0211049,"Runge-Kutta methods, trees, and Mathematica",,,,
+math/0211134,"A Numerical Approach for Designing Unitary Space Time Codes with Large
+  Diversity",,,,
+math/0211453,Numerical integration of coupled Korteweg-de Vries System,,,,
+math/0212391,Differential complexes and numerical stability,,,,
+math/0212400,Pattern theory: the mathematics of perception,,,,
+math/0212414,Adaptive methods for PDE's: wavelets or mesh refinement?,,,,
+math/0212415,Energy landscapes and rare events,,,,
+math/0301152,"Fast multi-dimensional scattered data approximation with Neumann
+  boundary conditions",,,,
+math/0301310,Modeling Elasstic Shells Immersed in Fluid,,,,
+math/0301321,A Comprehensive Three-Dimensional Model of the Cochlea,,,,
+math/0301379,On a new notion of regularizer,,,,
+math/0301382,On deconvolution methods,,,,
+math/0301386,"Optimal with respect to accuracy algorithms for calculation of
+  multidimensional weakly singular integrals and applications to calculation of
+  capacitances of conductors of arbitrary shapes",,,,
+math/0302002,"Continuous modified Newton's-type method for nonlinear operator
+  equations",,,,
+math/0302192,Birkhoff Interpolation with Rectangular Sets of Nodes,,,,
+math/0302259,Peano-like bounds for some Newton-Cotes formulae,,,,
+math/0302299,Multi-symplectic Birkhoffian Structure for PDEs with Dissipation Terms,,,,
+math/0303342,A corrected quadrature formula and applications,,,,
+math/0303347,The Median Principle for Inequalities and Applications,,,,
+math/0303381,"New Inequalities of Gruss Type for the Stieltjes Integral and
+  Applications",,,,
+math/0304182,On the pseudospectra of Berezin-Toeplitz operators,,,,
+math/0304227,Wave Propagation in a 3-D Optical Waveguide,,,,
+math/0304439,"Implicit-explicit methods based on strong stability preserving multistep
+  time discretizations",,,,
+math/0305004,The complexity of accurate floating point computation,,,,
+math/0305005,Computational modeling of microstructure,,,,
+math/0305006,Adaptive finite element methods for partial differential equations,,,,
+math/0305007,"High dimensional finite elements for elliptic problems with multiple
+  scales and stochastic data",,,,
+math/0305008,"High resolution methods for time dependent problems with piecewise
+  smooth solutions",,,,
+math/0305014,Analysis of energetic models for rate-independent materials,,,,
+math/0305104,"Error inequalities for an optimal 3-point quadrature formula of closed
+  type",,,,
+math/0305130,"Fast algorithms for optimal control, anisotropic front propagation and
+  multiple arrivals",,,,
+math/0305230,Some Ostrowski Type Inequalites via Cauchy's Mean Value Theorem,,,,
+math/0305231,An Inequality of Ostrowski Type via Pompeiu's Mean Value Theorem,,,,
+math/0305374,A Generalised Trapezoid Type Inequality for Convex Functions,,,,
+math/0305375,An Ostrowski Type Inequality for Convex Functions,,,,
+math/0306076,"Some Companions of Ostrowski's Inequality for Absolutely Continuous
+  Functions and Applications",,,,
+math/0306184,"Numerical Representation of the Incomplete Gamma Function of Complex
+  Argument",,,,
+math/0306317,"Gruss Type Discrete Inequalities in Normed Linear Spaces, Revisited",,,,
+math/0306319,"Gruss Type Discrete Inequalities in Inner Product Spaces, Revisited",,,,
+math/0306357,Quintic Spline Solutions of Fourth Order Boundary-Value Problems,,,,
+math/0307133,Stochastic Optimal Prediction for the Kuramoto-Sivashinsky Equation,,,,
+math/0307152,"An iterative thresholding algorithm for linear inverse problems with a
+  sparsity constraint",,,,
+math/0307313,"Wigner measures in the discrete setting: high-frequency analysis of
+  sampling & reconstruction operators",,,,
+math/0309024,Junction of elastic plates and beams (Preliminary version),,,,
+math/0309030,"Computational Techniques for Simulating Natural Convection in
+  Three-Dimensional Enclosures with Tetrahedral Finite Elements",,,,
+math/0309062,"Norm Estimates for the Difference Between Bochner's Integral and the
+  Convex Combination of Function's Values",,,,
+math/0309100,The structured distance to ill-posedness for conic systems,,,,
+math/0309276,"Approximation of Multiple Integrals over Hyperboloids with Application
+  to a Quadratic Portfolio with Options",,,,
+math/0309278,"On Tail Decay and Moment Estimates of a Condition Number for Random
+  Linear Conic Systems",,,,
+math/0310223,Consistent Estimation of Pricing Kernels from Noisy Price Data,,,,
+math/0310357,Penalty Interior-Point Method Fails to Converge,,,,
+math/0310419,On the solutions of deformed algebraic systems,,,,
+math/0311013,Sharp van der Corput estimates and minimal divided differences,,,,
+math/0311169,Discrete variational integrators and optimal control theory,,,,
+math/0311363,"Unconditional Stability for Numerical Scheme Combining Implicit
+  Timestepping for Local Effects and Explicit Timestepping for Nonlocal Effects",,,,
+math/0311383,Wilson bases for general time-frequency lattices,,,,
+math/0311515,An efficient solver for problems of scattering by bodies of revolution,,,,
+math/0312002,"A discontinuous Galerkin formulation for a strain gradient-dependent
+  damage model",,,,
+math/0312315,"AF embeddings and the numerical computation of spectra in irrational
+  rotation algebras",,,,
+math/0401063,On the Global Minimization of the Value-at-Risk,,,,
+math/0401116,Numerical algorithms for the real zeros of hypergeometric functions,,,,
+math/0401128,"Computing solutions of the modified Bessel differential equation for
+  imaginary orders and positive arguments",,,,
+math/0401131,Integral Representations for Computing Real Parabolic Cylinder Functions,,,,
+math/0401177,A Note on the Eigenvalues of the Google Matrix,,,,
+math/0401299,Turan inequalities and zeros of orthogonal polynomials,,,,
+math/0401369,"An efficient geometric integrator for thermostatted anti-/ferromagnetic
+  models",,,,
+math/0401383,"Discontinuous finite element approximation of quasistatic crack growth
+  in finite elasticity",,,,
+math/0401415,"Mean convergence of orthogonal Fourier series and interpolating
+  polynomials",,,,
+math/0402164,"Eigenvalue Computation from the Optimization Perspective: On
+  Jacobi-Davidson, IIGD, RQI, and Newton Updates",,,,
+math/0402367,Symmetry-preserving discrete schemes for some heat transfer equations,,,,
+math/0403380,"Generalized $C^1$ quadratic B-splines generated by Merrien subdivision
+  algorithm and some applications",,,,
+math/0403459,On an Algebraic System of Equations,,,,
+math/0403484,Normal Systems of Algebraic and Partial Differential Equations,,,,
+math/0403492,"Polynomial Interpolation and a Multivariate Analog of Fundamental
+  Theorem of Algebra",,,,
+math/0403517,"Finite-Element Discretization of Static Hamilton-Jacobi Equations Based
+  on a Local Variational Principle",,,,
+math/0404108,An intrinsic homotopy for intersecting algebraic varieties,,,,
+math/0404175,On interpolation by radial polynomials,,,,
+math/0404424,Convergence of Rothe's method for fully nonlinear parabolic equations,,,,
+math/0404435,Modified Rayleigh Conjecture for scattering by periodic structures,,,,
+math/0405033,"Recent progress on univariate and multivariate polynomial and spline
+  quasi-interpolants",,,,
+math/0405034,"Near-best univariate spline discrete quasi-interpolants on non-uniform
+  partitions",,,,
+math/0405142,A Topology-Preserving Level Set Method for Shape Optimization,,,,
+math/0405566,"Frame expansions with erasures: an approach through the non-commutative
+  operator theory",,,,
+math/0406070,"Finite Element Technique for Solving the Stream Function Form of a
+  Linearized Navier-Stokes Equations Using Argyris Element",,,,
+math/0406095,"Some Remarks on the Optimal Level of Randomization in Global
+  Optimization",,,,
+math/0406201,Convergence of invariant densities in the small-noise limit,,,,
+math/0406263,"Application of the Wavelet Transform with a Piecewise Linear Basis to
+  the Evaluation of the Hankel Transform",,,,
+math/0406516,Dual scattering channel schemes and transmission line methods,,,,
+math/0407020,Differentiation matrices for meromorphic functions,,,,
+math/0407177,On improving the accuracy of Horner's and Goertzel's algorithms,,,,
+math/0407195,"How to overcome the numerical instability of the scheme of divided
+  differences?",,,,
+math/0407329,"Adapting the time-step to recover the asymptotic behavior in a blow-up
+  problem",,,,
+math/0407448,Polynomial Interpolation on the Unit Sphere II,,,,
+math/0408191,A new discrepancy principle,,,,
+math/0408193,"Numerical Method for Solving Obstacle Scattering Problems by an
+  Algorithm Based on the Modified Rayleigh Conjecture",,,,
+math/0408195,On deconvolution problems: numerical aspects,,,,
+math/0408209,Optimization methods in direct and inverse scattering,,,,
+math/0408418,Least-squares approximation by second-order L-splines,,,,
+math/0408419,"Newton's method with deflation for isolated singularities of polynomial
+  systems",,,,
+math/0408424,Spatiospectral concentration on a sphere,,,,
+math/0409230,"A maximum likelihood algorithm for the estimation and renormalization of
+  exponential densities",,,,
+math/0409324,"Optimal with respect to accuracy algorithms for calculation of
+  multidimensional weakly singular integrals and applications to calculations
+  of capacitances of conductors of arbitrary shapes",,,,
+math/0409389,"On error bounds for monotone approximation schemes for multi-dimensional
+  Isaacs equations",,,,
+math/0409464,"Chebyshev collocation for linear, periodic ordinary and delay
+  differential equations: a posteriori estimates",,,,
+math/0410057,The ABC of Hyper Recursions,,,,
+math/0410112,Calculating the Greeks by Cubature formulas,,,,
+math/0410207,"Regularity and well posedness for the Laplace operator on polyhedral
+  domains",,,,
+math/0410488,Recent Results on Near-Best Spline Quasi-Interpolants,,,,
+math/0411248,"On the rate of convergence of finite-difference approximations for
+  Bellman equations with Lipschitz coefficients",,,,
+math/0411283,Some Improvements of Convergence Order of Finite Volume Solutions,,,,
+math/0411326,Weighted projections and Riesz frames,,,,
+math/0411544,Set of Uniform Convergence for the Last Intermediate Row,,,,
+math/0411618,An Invertible Discrete Auditory Transform,,,,
+math/0412112,Nonlinear projection digital image inpainting and restoration methods,,,,
+math/0412347,"Vibrations of a beam between stops: convergence of a fully discretized
+  approximation",,,,
+math/0501119,"Not all limit points of poles of the Pad\'e approximants are
+  obstructions for poinwise convergence",,,,
+math/0501327,Newton maps for quintic polynomials,,,,
+math/0501496,"Several new quadrature formulas for polynomial integration in the
+  triangle",,,,
+math/0502036,Divided Differences,,,,
+math/0502083,"A new construction of perfectly matched layers for the linearized Euler
+  equations",,,,
+math/0502205,On some stability results of frame atomic decompositions,,,,
+math/0502252,An Orthogonal Discrete Auditory Transform,,,,
+math/0502407,A Least Squares Functional for Solving Inverse Sturm-Liouville Problems,,,,
+math/0502450,A New Domain Decomposition Method for the Compressible Euler Equations,,,,
+math/0502471,New constructions of domain decomposition methods for systems of PDEs,,,,
+math/0502473,The proof of Tchakaloff's Theorem,,,,
+math/0503100,A Model for Understanding Numerical Stability,,,,
+math/0503135,"A sequential semidefinite programming method and an application in
+  passive reduced-order modeling",,,,
+math/0503235,A brief note on the soundness of Bermudan option pricing via cubature,,,,
+math/0503328,"On eigenvalue and eigenvector estimates for nonnegative definite
+  operators",,,,
+math/0503338,Reconstruction of a polynomial from its Radon projections,,,,
+math/0503381,Adaptive Frame Methods for Magnetohydrodynamic Flows,,,,
+math/0503442,"Sampling from large matrices: an approach through geometric functional
+  analysis",,,,
+math/0503688,Solving Polynomial Systems Equation by Equation,,,,
+math/0504022,"Univariate spline quasi-interpolants and applications to numerical
+  analysis",,,,
+math/0504237,"Numerical study of a new global minimizer for the Mumford-Shah
+  functional in $\R^3$",,,,
+math/0504428,A spectral order method for inverting sectorial Laplace transforms,,,,
+math/0504442,Block-diagonalization of the linearized coupled-mode system,,,,
+math/0504461,Fast and oblivious convolution quadrature,,,,
+math/0504466,Fast Runge-Kutta approximation of inhomogeneous parabolic equations,,,,
+math/0505095,The inverse eigenvalue problem for symmetric anti-bidiagonal matrices,,,,
+math/0505109,"A cell-centred finite volume approximation for second order partial
+  derivative operators with full matrix on unstructured meshes in any space
+  dimension",,,,
+math/0505110,"Convergence analysis of a colocated finite volume scheme for the
+  incompressible Navier-Stokes equations on general 2 or 3D meshes",,,,
+math/0505157,Perfect Algebraic Coarsening,,,,
+math/0505220,"Steady-State Creep Analysis of Pressurized Pipe Weldments by
+  Perturbation Method",,,,
+math/0505281,Poisson integrators for Volterra lattice equations,,,,
+math/0505514,Solution of polynomial systems derived from differential equations,,,,
+math/0506125,"A Fast Algorithm for Computing Expected Loan Portfolio Tranche Loss in
+  the Gaussian Factor Model",,,,
+math/0506289,"Stability of FD-TD schemes for Maxwell-Debye and Maxwell-Lorentz
+  equations",,,,
+math/0506378,"Fast Computation of the Expected Loss of a Loan Portfolio Tranche in the
+  Gaussian Factor Model: Using Hermite Expansions for Higher Accuracy",,,,
+math/0506382,"Necessary And Sufficient Conditions For Existence of the LU
+  Factorization of an Arbitrary Matrix",,,,
+math/0506440,"Global optimization in inverse problems: A comparison of Kriging and
+  radial basis functions",,,,
+math/0506556,"Numerical Solutions of a Boundary Value Problem for the Anomalous
+  Diffusion Equation with the Riesz Fractional Derivative",,,,
+math/0507402,"Geophysical-astrophysical spectral-element adaptive refinement (GASpAR):
+  Object-oriented h-adaptive code for geophysical fluid dynamics simulation",,,,
+math/0507403,"Exact calculation of Fourier series in nonconforming spectral-element
+  methods",,,,
+math/0507532,On weakly formulated Sylvester equations and applications,,,,
+math/0508020,"An efficient shooting algorithm for Evans function calculations in large
+  systems",,,,
+math/0508197,On Determining the Eigenprojection and Components of a Matrix,,,,
+math/0508241,Approximate Approximations from scattered data,,,,
+math/0508302,"Computable conditions for the occurrence of non-uniform hyperbolicity in
+  families of one-dimensional maps",,,,
+math/0508350,Toward accurate polynomial evaluation in rounded arithmetic,,,,
+math/0508539,"A spectral method for integral formulations of medium-frequency
+  scattering problems",,,,
+math/0508586,Finding discontinuities of piecewise-smooth functions,,,,
+math/0508587,On unbounded operators and applications,,,,
+math/0508591,"Majorization for Changes in Angles Between Subspaces, Ritz Values, and
+  Graph Laplacian Spectra",,,,
+math/0509027,Numerical scaling analysis of the small-scale structure in turbulence,,,,
+math/0509028,A comparative study of two stochastic mode reduction methods,,,,
+math/0509228,Error analysis of coarse-grained kinetic Monte Carlo method,,,,
+math/0509380,"Reconsideration of the multivariate moment problem and a new method for
+  approximating multivariate integrals",,,,
+math/0509724,"Non-negativity preserving numerical algorithms for stochastic
+  differential equations",,,,
+math/0509726,On the regularization of Fredholm integral equations of the first kind,,,,
+math/0510066,"Modeling 1-D elastic P-waves in a fractured rock with hyperbolic jump
+  conditions",,,,
+math/0510319,A new approach to the reconstruction of images from Radon projections,,,,
+math/0510573,Fast Monte-Carlo Low Rank Approximations for Matrices,,,,
+math/0510638,"Thermoacoustic tomography - implementation of exact backprojection
+  formulas",,,,
+math/0511103,"Spherical Harmonics Expansion of the Vlasov-Poisson initial bounary
+  value problem",,,,
+math/0511178,Non-ergodicity of the Nose-Hoover Thermostatted Harmonic Oscillator,,,,
+math/0511353,Compactness of Embeddings,,,,
+math/0511354,Two results on ill-posed problems,,,,
+math/0511408,On Temple--Kato like inequalities and applications,,,,
+math/0512029,On the solution of a class of Cauchy integral equations,,,,
+math/0512056,Exponential mixing for the 3D stochastic Navier--Stokes equations,,,,
+math/0512057,"Spatial smoothness of the stationary solutions of the 3D Navier--Stokes
+  equations",,,,
+math/0512347,Single Exponential Approximation of Fourier Transforms,,,,
+math/0512439,"A quadrature formula associated with a univariate quadratic spline
+  quasi-interpolant",,,,
+math/0512448,Curve implicitization in the bivariate tensor-product Bernstein basis,,,,
+math/0512449,"Structured matrices in the application of bivariate interpolation to
+  curve implicitization",,,,
+math/0512586,Not all GKK $\tau$-matrices are stable,,,,
+math/0512590,On convergence of infinite matrix products,,,,
+math/0601031,Recovering boundary conditions in inverse Sturm-Liouville problems,,,,
+math/0601158,"The Crucial Constants in the Exponential-type Error Estimates for
+  Multiquadric Interpolations",,,,
+math/0601159,On the High-Level Error Bound for Gaussian Interpolation,,,,
+math/0601160,A New Radial Function,,,,
+math/0601161,A Smooth and Compactly Supported Radial Function,,,,
+math/0601162,The high-level error bound for shifted surface spline interpolation,,,,
+math/0601298,Modified Rayleigh Conjecture Method and Its Applications,,,,
+math/0601299,DSM for solving ill-conditioned linear algebraic systems,,,,
+math/0601300,Iterative solution of linear equations with unbounded operators,,,,
+math/0601316,Watson resummation of a class of Hausdorff-transformed power series,,,,
+math/0601636,"Error bounds for monotone approximation schemes for parabolic
+  Hamilton-Jacobi-Bellman equations",,,,
+math/0601696,Dynamical systems method for solving linear ill-posed problems,,,,
+math/0602031,"Higher-Order Deflation for Polynomial Systems with Isolated Singular
+  Solutions",,,,
+math/0602087,On Wu and Schaback's Error Bound,,,,
+math/0602179,"Domain Decomposition Method for Maxwell's Equations: Scattering off
+  Periodic Structures",,,,
+math/0602251,"Comparison Theorems of Kolmogorov Type for Classes Defined by Cyclic
+  Variation Diminishing Operators and Their Application",,,,
+math/0602305,"On two families of near-best spline quasi-interpolants on non-uniform
+  partitions of the real line",,,,
+math/0602349,"Error analysis for quadratic spline quasi-interpolants on non-uniform
+  criss-cross triangulations of bounded rectangular domains",,,,
+math/0602376,A moving mesh method with variable relaxation time,,,,
+math/0602405,The Spectral Basis and Rational Interpolation,,,,
+math/0602559,"Sparse reconstruction by convex relaxation: Fourier and Gaussian
+  measurements",,,,
+math/0602643,"An Epsilon-uniform Finite Element Method for Singularly Perturbed
+  Boundary Value Problems",,,,
+math/0603107,"Monotonicity properties of blow-up time for nonlinear Schr\""{o}dinger
+  equation: numerical tests",,,,
+math/0603174,A Many to One Discrete Auditory Transform,,,,
+math/0603194,"On similarity and pseudo-similarity solutions of Falkner-Skan boundary
+  layers",,,,
+math/0603207,Fast matrix multiplication is stable,,,,
+math/0603229,Approximation and Reconstruction from Attenuated Radon Projections,,,,
+math/0603236,Dynamical systems method (DSM) for general nonlinear equations,,,,
+math/0603552,Constructing hyperbolic polyhedra using Newton's Method,,,,
+math/0603606,"Lanczos $\tau$-method optimal algorithm in APS for approximating the
+  mathematical functions",,,,
+math/0603632,Discrepancy principle for DSM,,,,
+math/0603674,Generalized rank-constrained matrix approximations,,,,
+math/0603716,Condition Estimates for Pseudo-Arclength Continuation,,,,
+math/0604010,"A mixed finite volume scheme for anisotropic diffusion problems on any
+  grid",,,,
+math/0604220,Combined Reduced-Rank Transform,,,,
+math/0604229,On Pseudospectra of Matrix Polynomials and their Boundaries,,,,
+math/0604429,"Random Sampling of Sparse Trigonometric Polynomials II - Orthogonal
+  Matching Pursuit versus Basis Pursuit",,,,
+math/0604572,"High order relaxation schemes for non linear degenerate diffusion
+  problems",,,,
+math/0604604,"Bivariate Lagrange interpolation at the Padua points: the ideal theory
+  approach",,,,
+math/0604606,3D simulations of early blood vessel formation,,,,
+math/0604624,Sampling theorems on bounded domain,,,,
+math/0605105,Multiprecision path tracking,,,,
+math/0605286,"An\'alise Assint\'otica de Solu\c{c}\~oes de Equa\c{c}\~oes Difusivas
+  N\~ao-Lineares via M\'etodos de Escalas M\'ultiplas",,,,
+math/0605361,"Weak approximation of stochastic differential equations and application
+  to derivative pricing",,,,
+math/0605577,"A fast and accurate algorithm for solving Bernstein-Vandermonde linear
+  sytem",,,,
+math/0605635,Smoothed analysis of complex conic condition numbers,,,,
+math/0605677,"Which are Better Conditioned Meshes Adaptive, Uniform, Locally Refined
+  or Localised",,,,
+math/0605767,"Steepest descent and conjugate gradient methods with variable
+  preconditioning",,,,
+math/0606045,A Dual Mesh Method for a Non-Local Thermistor Problem,,,,
+math/0606258,A note on the error analysis of classical Gram-Schmidt,,,,
+math/0606277,On a balanced property of derangements,,,,
+math/0606320,"Remarks on the Cayley Representation of Orthogonal Matrices and on
+  Perturbing the Diagonal of a Matrix to Make it Invertible",,,,
+math/0606388,"A matrix approach to the computation of quadrature formulas on the unit
+  circle",,,,
+math/0606502,"Optimal Approximation of Elliptic Problems by Linear and Nonlinear
+  Mappings I",,,,
+math/0606503,"Optimal Approximation of Elliptic Problems by Linear and Nonlinear
+  Mappings II",,,,
+math/0606721,Stability of Quadratic Projection Methods,,,,
+math/0606747,"The Multi-Dimensional Refinement Indicators Algorithm for Optimal
+  Parameterization",,,,
+math/0607103,"Numerical treatment of an initial-boundary value problem for fractional
+  partial differential equations",,,,
+math/0607140,"Numerical solutions to boundary value problem for anomalous diffusion
+  equation with Riesz-Feller fractional operator",,,,
+math/0607144,Stability and Control of Functional Differential Equations,,,,
+math/0607181,"A Posteriori Regularity of the Three-dimensional Navier-Stokes Equations
+  from Numerical Computations",,,,
+math/0607200,Dynamics of Controlled Hybrid Systems of Aerial Cable-Ways,,,,
+math/0607203,"Some Applications of the Method of Normal Fundamental Functions to
+  Oscillation Problems",,,,
+math/0607388,Grid Generation and Adaptation by Functionals,,,,
+math/0607493,A preconditioning strategy for microwave susceptibility in ferromagnets,,,,
+math/0607511,"Approximation on arcs and dendrites going to infinity in $C^n$ (extended
+  version)",,,,
+math/0607542,Fast algorithms for computing the Boltzmann collision operator,,,,
+math/0607573,Solving the Boltzmann equation in N log N,,,,
+math/0607597,A Vortex Method for Bi-phasic Fluids Interacting with Rigid Bodies,,,,
+math/0607640,"Spectrum of the Jacobi tau approximation for the second derivative
+  operator",,,,
+math/0607641,A Non-Existence Result for Hamiltonian Integrators,,,,
+math/0607648,Singular Values and Eigenvalues of Tensors: A Variational Approach,,,,
+math/0607696,"Stability estimates for h-p spectral element methods for general
+  elliptic problems on curvilinear domains",,,,
+math/0608007,"Coarse-graining schemes and a posteriori error estimates for stochastic
+  lattice systems",,,,
+math/0608115,"Multivariate Lagrange Interpolation and an Application of
+  Cayley-Bacharach Theorem For it",,,,
+math/0608124,"Recovery algorithms for vector valued data with joint sparsity
+  constraints",,,,
+math/0608130,A matrix and its inverse: revisting minimal rank completions,,,,
+math/0608283,"Frames and Finite Dimensionality: Frame Transformation, Classification
+  and Algorithms",,,,
+math/0608449,Smooth planar $r$-splines of degree $2r$,,,,
+math/0608567,"Well-Balanced Schemes for the Initial Boundary Value Problem for 1D
+  Scaler Conservation Laws",,,,
+math/0608757,Lie group stability of finite difference schemes,,,,
+math/0608786,An application of lambda-method on Shafer-Fink's inequality,,,,
+math/0608789,One method for proving inequalities by computer,,,,
+math/0609183,Open Boundaries for the Nonlinear Schrodinger Equation,,,,
+math/0609186,Adaptive Weak Approximation of Diffusions with Jumps,,,,
+math/0609522,"Asymptotic Expansions and Extrapolation of Approximate Eigenvalues for
+  Second Order Elliptic Problems by Mixed Finite Element Methods",,,,
+math/0609630,"Stability results for random sampling of sparse trigonometric
+  polynomials",,,,
+math/0609672,Stochastic Preconditioning for Iterative Linear Equation Solvers,,,,
+math/0609798,Localization on Snowflake Domains,,,,
+math/0609823,Fischer Decomposition for Difference Dirac Operators,,,,
+math/0610046,Error of Tikhonov's regularization for integral convolution equations,,,,
+math/0610051,Fast Computation of Fourier Integral Operators,,,,
+math/0610124,A Conjecture about Molecular Dynamics,,,,
+math/0610198,"On the validity of ""A proof that the discrete singular convolution
+  (DSC)/Lagrange-distributed approximation function (LDAF) method is inferior
+  to high order finite differences""",,,,
+math/0610206,"High-order finite elements on pyramids: approximation spaces,
+  unisolvency and exactness",,,,
+math/0610270,"The probability that a small perturbation of a numerical analysis
+  problem is difficult",,,,
+math/0610365,"On the approximation of real powers of sparse, infinite, bounded and
+  Hermitian matrices",,,,
+math/0610454,Central Schemes for Porous Media Flows,,,,
+math/0610508,"Solution of the time-harmonic Maxwell equations using discontinuous
+  Galerkin methods",,,,
+math/0610531,Optimized Schwarz Methods for Maxwell equations,,,,
+math/0610588,Quantitative Estimates for the Finite Section Method,,,,
+math/0610642,"Adaptive absorbing boundary conditions for Schrodinger-type equations:
+  application to nonlinear and multi-dimensional problems",,,,
+math/0610736,"Some Refinements of Discrete Jensen's Inequality and Some of Its
+  Applications",,,,
+math/0610855,On finite-difference approximations for normalized Bellman equations,,,,
+math/0611057,Gaussian Summation: An Exponentially Converging Summation Scheme,,,,
+math/0611075,Analysing singularities of a benchmark problem,,,,
+math/0611078,On the simulation of multibody systems with holonomic constraints,,,,
+math/0611112,"A priori estimates of smoothness of solutions to difference Bellman
+  equations with linear and quasilinear operators",,,,
+math/0611162,"An Extension of the Exponential-type Error Bounds for Multiquadric and
+  Gaussian Interpolations",,,,
+math/0611168,"Adaptive, Fast and Oblivious Convolution in Evolution Equations with
+  Memory",,,,
+math/0611237,"A simple method of calculating eigenvalues and resonances in domains
+  with infinite regular ends",,,,
+math/0611285,Simple Monte Carlo and the Metropolis Algorithm,,,,
+math/0611343,Uncertainty Principles and Vector Quantization,,,,
+math/0611380,Symplectic integrators in sub-Riemannian geometry: the Martinet case,,,,
+math/0611530,Numerical variational methods applied to cylinder buckling,,,,
+math/0611543,Analysis of a Force-Based Quasicontinuum Approximation,,,,
+math/0611569,"Optimal Approximation of Elliptic Problems by Linear and Nonlinear
+  Mappings III: Frames",,,,
+math/0611573,A counterexample concerning the L_2-projector onto linear spline spaces,,,,
+math/0611634,"Hilbert-Schmidt Operators and Frames - Classification, Approximation by
+  Multipliers and Algorithms",,,,
+math/0611690,A family of C^0 finite elements for Kirchhoff plates I: Error analysis,,,,
+math/0611801,"Phase properties of exponentially-fitted symmetric multistep methods for
+  y''=f(x,y)",,,,
+math/0611895,Lie group computation of finite difference schemes,,,,
+math/0612190,Quadrature With Respect to Binomial Measures,,,,
+math/0612202,"Numerical Solutions of Matrix Differential Models using Cubic Matrix
+  Splines II",,,,
+math/0612236,A comparison between relaxation and Kurganov-Tadmor schemes,,,,
+math/0612238,High order relaxed schemes for nonlinear reaction diffusion problems,,,,
+math/0612239,"Increasing efficiency through optimal RK time integration of diffusion
+  equations",,,,
+math/0612264,Fast linear algebra is stable,,,,
+math/0612324,"Numerical Methods for the Stochastic Landau-Lifshitz Navier-Stokes
+  Equations",,,,
+math/0612637,"Two-step hybrid methods adapted to the numerical integration of
+  perturbed oscillators",,,,
+math/0612645,Splitting Methods for SU(N) Loop Approximation,,,,
+math/0612846,"Well-posedness theory for geometry compatible hyperbolic conservation
+  laws on manifolds",,,,
+math/0612847,"Hyperbolic Conservation Laws on Manifolds. Total Variation Estimates and
+  the Finite Volume Method",,,,
+math/0701007,"Singular limits in phase dynamics with physical viscosity and
+  capillarity",,,,
+math/0701020,Some notes on a method for proving inequalities by computer,,,,
+math/0701041,"Nonlinear hyperbolic systems: Non-degenerate flux, inner speed
+  variation, and graph solutions",,,,
+math/0701063,A version of the Glimm method based on generalized Riemann problems,,,,
+math/0701070,"Semidefnite Relaxation Bounds for Indefinite Homogeneous Quadratic
+  Optimization",,,,
+math/0701204,"Remarks on the general Funk-Radon transform and thermoacoustic
+  tomography",,,,
+math/0701289,"A new and elementary proof of Newton's ""favorite"" quadrature formulae",,,,
+math/0701337,Computing Nearly Singular Solutions Using Pseudo-Spectral Methods,,,,
+math/0701368,Spectrum through pseudospectrum,,,,
+math/0701444,Shannon wavelet approximations of linear differential operators,,,,
+math/0701503,Finite elements for symmetric tensors in three dimension,,,,
+math/0701505,Gradient-prolongation commutativity and graph theory,,,,
+math/0701506,"Mixed finite element methods for linear elasticity with weakly imposed
+  symmetry",,,,
+math/0701563,Efficient Monte Carlo sampling by parallel marginalization,,,,
+math/0701646,"Propagating phase boundaries: formulation of the problem and existence
+  via the Glimm scheme",,,,
+math/0701915,"Nonlinear Nonoverlapping Schwarz Waveform Relaxation for Semilinear Wave
+  Propagation",,,,
+math/0702019,"Stability Results for Scattered Data Interpolation by Trigonometric
+  Polynomials",,,,
+math/0702024,Boundary layers in weak solutions to hyperbolic conservation laws,,,,
+math/0702116,"A Direct Matrix Method for Computing Analytical Jacobians of Discretized
+  Nonlinear Integro-differential Equations",,,,
+math/0702218,On the boundary of the pseudospectrum and its fault points,,,,
+math/0702226,A randomized Kaczmarz algorithm with exponential convergence,,,,
+math/0702344,"Complexity of Bezout's Theorem VI: Geodesics in the Condition (Number)
+  Metric",,,,
+math/0702353,The Compact Discontinuous Galerkin (CDG) Method for Elliptic Problems,,,,
+math/0702360,On the number of minima of a random polynomial,,,,
+math/0702420,"On Approximation of the Eigenvalues of Perturbed Periodic Schrodinger
+  Operators",,,,
+math/0702503,Numerical Methods for Coupled Surface and Grain Boundary Motion,,,,
+math/0702674,Reduced-Basis approach for homogenization beyond the periodic setting,,,,
+math/0702699,Long term object drift in the ocean with tide and wind,,,,
+math/0702763,Application of the averaging method to the gyrokinetic plasma,,,,
+math/0702778,"Numerical aspects of nonlinear Schrodinger equations in the presence of
+  caustics",,,,
+math/0703154,"An approximation of the Gr\""obner basis of ideals of perturbed points,
+  part I",,,,
+math/0703198,"New entropy estimates for the Oldroyd-B model, and related models",,,,
+math/0703407,Diffusion Monte Carlo method: numerical analysis in a simple case,,,,
+math/0703410,A Convergence Result for Asynchronous Algorithms and Applications,,,,
+math/0703412,Parallel synchronous algorithm for nonlinear fixed point problems,,,,
+math/0703617,Fast OPED algorithm for reconstruction of images from Radon data,,,,
+math/0703768,"Positive Cubature formulas and Marcinkiewicz-Zygmund inequalities on
+  spherical caps",,,,
+math/9201266,Some basic information on information-based complexity theory,,,,
+math/9201269,Perspectives on information-based complexity,,,,
+math/9201280,Polynomial root-finding algorithms and branched covers,,,,
+math/9304214,Wavelet transforms versus Fourier transforms,,,,
+math/9304216,"Integration and approximation of multivariate functions: average case
+  complexity with isotropic Wiener measure",,,,
+math/9307212,"Algorithm xxx --- ORTHPOL: A package of routines for generating
+  orthogonal polynomials and Gauss-type quadrature rules",,,,
+math/9307215,"Polynomial interpolation and Gaussian quadrature for matrix valued
+  functions",,,,
+math/9307221,Quadrature formulas based on rational interpolation,,,,
+math/9307223,Gauss-type quadrature rules for rational functions,,,,
+math/9307234,Average case complexity of linear multivariate problems,,,,
+math/9310222,"Moments of Dirichlet splines and their applications to hypergeometric
+  functions",,,,
+math/9404219,A package on formal power series,,,,
+math/9409210,Forced Lattice Vibrations -- A Videotext,,,,
+math/9604245,Mathematical pressure volume models of the cerebrospinal fluid,,,,
+math/9610225,"Asymptotics and numerics of zeros of polynomials that are related to
+  Daubechies wavelets",,,,
+math/9703216,A package on orthogonal polynomials and special functions,,,,
+math/9801012,"On a New Algorithm for the Computation of Enclosures for the
+  Titchmarsh-Weyl m-Function",,,,
+math/9801051,"On a conjecture of Bennewitz, and the behaviour of the Titchmarsh-Weyl
+  matrix near a pole",,,,
+math/9801053,"Approximate diagonalization in differential systems and an effective
+  algorithm for the computation of the spectral matrix",,,,
+math/9801055,"A new algorithm for computing the asymptotic solutions of a class of
+  linear differential systems",,,,
+math/9801056,"Extensions of a New Algorithm for the Numerical Solution of Linear
+  Differential Systems on an Infinite Interval",,,,
+math/9801057,"Valuation of path-dependent American options using a Monte Carlo
+  approach",,,,
+math/9804125,"Maximum principles for a class of nonlinear second order elliptic
+  differential equations",,,,
+math/9804133,"An accurate and efficient algorithm for the computation of the
+  characteristic polynomial of a general square matrix",,,,
+math/9805028,Galerkin Eigenvector Approximations,,,,
+math/9805088,Good rotations,,,,
+math/9806167,Pattern formation in annular convection,,,,
+math/9807090,Persistence of invariant manifolds for nonlinear PDEs,,,,
+math/9808109,Spatial discretization of partial differential equations with integrals,,,,
+math/9808115,Numerical integrators that contract volume,,,,
+math/9809043,Multi-scale linear solvers for very large systems derived from PDEs,,,,
+math/9810022,Active Libraries: Rethinking the roles of compilers and libraries,,,,
+math/9811125,"Approximate Models of Dynamic Thermoviscoelasticity Describing
+  Shape-Memory-Alloy Phase Transitions",,,,
+math/9812013,"Continuation for Nonlinear Elliptic Partial Differential Equations
+  Discretized by the Multiquadric Method",,,,
+math/9812092,A q-product tutorial for a q-series MAPLE package,,,,
+math/9812143,A New Representation of the Riemann Zeta Function $\zeta(s)$,,,,
+math/9901099,"Escape Probability, Mean Residence Time and Geophysical Fluid Particle
+  Dynamics",,,,
+math/9901100,Nonlocal Dynamics of Passive Tracer Dispersion with Random Stopping,,,,
+math/9901121,A multi-level algorithm for the solution of moment problems,,,,
+math/9901122,"Rates of convergence for the approximation of dual shift-invariant
+  systems in $l_2(Z)$",,,,
+math/9901123,"A Levinson-Galerkin algorithm for regularized trigonometric
+  approximation",,,,
+math/9901152,"On the fourth-order accurate compact ADI scheme for solving the unsteady
+  Nonlinear Coupled Burgers' Equations",,,,
+math/9904093,"On eigenfunction approximations for typical non-self-adjoint
+  Schroedinger operators",,,,
+math/9904122,"Methods for the approximation of the matrix exponential in a
+  Lie-algebraic setting",,,,
+math/9904128,Condition number bounds for problems with integer coefficients,,,,
+math/9904129,Lower bounds for some decision problems over C,,,,
+math/9904130,Ultimate Polynomial Time,,,,
+math/9905036,An efficient step size selection for ODE codes,,,,
+math/9905038,"On the Accurate Finite Element Solution of a Class of Fourth Order
+  Eigenvalue Problems",,,,
+math/9905091,Reliable operations on oscillatory functions,,,,
+math/9906058,"Integral Equations with Hypersingular Kernels -- Theory and Applications
+  to Fracture Mechanics",,,,
+math/9906176,"Implicit Integration of the Time-Dependent Ginzburg-Landau Equations of
+  Superconductivity",,,,
+math/9907024,"Antisymmetry, pseudospectral methods, and conservative PDEs",,,,
+math/9907025,Area preservation in computational fluid dynamics,,,,
+math/9907190,"Fast and accurate multigrid solution of Poissons equation using
+  diagonally oriented grids",,,,
+math/9908044,"Self-Similar Intermediate Structures in Turbulent Boundary Layers At
+  Large Reynolds Numbers",,,,
+math/9908051,"Asymptotic-numerical study of supersensitivity for generalized Burgers
+  equations",,,,
+math/9908082,Kronecker's and Newton's approaches to solving: A first comparison,,,,
+math/9908095,A Version of Simpson's Rule for Multiple Integrals,,,,
+math/9908149,On the Geometry of Graeffe Iteration,,,,
+math/9908150,Tangent Graeffe Iteration,,,,
+math/9909006,High Accuracy Method for Integral Equations with Discontinuous Kernels,,,,
+math/9909060,A new formulation of the near-equilibrium theory of turbulence,,,,
+math/9909099,Discrete Euler-Poincar\'{e} and Lie-Poisson Equations,,,,
+math/9909102,Prediction of large-scale dynamics using unresolved computations,,,,
+math/9909103,The Thermal Explosion Revisited,,,,
+math/9909105,"The influence of the flow of the reacting gas on the conditions for a
+  Thermal Explosion",,,,
+math/9909107,"The Kolmogorov-Obukhov Exponent in the Inertial Range of Turbulence: A
+  Reexamination of Experimental Data",,,,
+math/9909113,Constrained Hamiltonian Systems and Groebner Bases,,,,
+math/9910013,A numerical scheme for impact problems,,,,
+math/9910048,Optimal prediction and the Klein-Gordon equation,,,,
+math/9910154,"Symbolic Hamburger-Noether expressions of plane curves and construction
+  of AG codes",,,,
+math/9910155,"Computing Weierstrass semigroups and the Feng-Rao distance from singular
+  plane models",,,,
+math/9911089,Compact Central WENO Schemes for Multidimensional Conservation Laws,,,,
+math/9911090,Optimal Prediction for Hamiltonian partial differential equations,,,,
+math/9911238,Bounds on complex eigenvalues and resonances,,,,
+math/9912030,Involutive Division Technique: Some Generalizations and Optimizations,,,,
+math/9912031,"Construction of Involutive Monomial Sets for Different Involutive
+  Divisions",,,,
+nlin/0005057,"A Finite Element Algorithm for High-Lying Eigenvalues and Eigenfunctions
+  with Homogeneous Neumann and Dirichlet Boundary Conditions",,,,
+nlin/0106038,Dimension-splitting for simplifying diffusion in lattice-gas models,,,,
+nlin/0202062,Leray simulation of turbulent shear layers,,,,
+nlin/0609024,"Regularity properties of critical invariant circles of twist maps, and
+  their universality",,,,
+physics/0104062,"Molecular Dynamics Simulation of Sonoluminescence: Modeling, Algorithms
+  and Simulation Results",,,,
+physics/0209085,"The calculation of a normal force between multiparticle contacts using
+  fractional operators",,,,
+physics/0212086,On the extrapolation of perturbation series,,,,
+physics/0308049,"An application of interpolating scaling functions to wave packet
+  propagation",,,,
+physics/0412028,"The Unique Determination of Neuronal Currents in the Brain via
+  Magnetoencephalography",,,,
+physics/0412030,"Reconstruction Algorithms for Positron Emission Tomography and Single
+  Photon Emission Computed Tomography and their Numerical Implementation",,,,
+physics/0412163,"Thermostats for ""slow"" configurational modes",,,,
+physics/0502149,Fine Grid Numerical Solutions of Triangular Cavity Flow,,,,
+physics/0505121,"Numerical Solutions of 2-D Steady Incompressible Flow in a Driven Skewed
+  Cavity",,,,
+physics/0608043,Explicit symplectic integrators for solving non-separable Hamiltonians,,,,
+physics/9704004,"The size-extensitivity of correlation energy estimators based on
+  effective characteristic polynomials",,,,
+physics/9806030,The Geometry of Algorithms with Orthogonality Constraints,,,,
+physics/9902005,"A Bayesian test for the appropriateness of a model in the biomagnetic
+  inverse problem",,,,
+physics/9911015,Is the best estimate of power equal to the power of the best estimate?,,,,
+q-bio/0510047,An Algorithm for Missing Value Estimation for DNA Microarray Data,,,,
+quant-ph/0412073,Spectral analysis of short time signals,,,,

@@ -1,0 +1,1261 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+gr-qc/0110034,Introduction to Modern Canonical Quantum General Relativity,4.971829053364679e-05,0.000917367405873,220.0,232.0
+math-ph/0207041,"Entropy production rates of bistochastic strictly contractive quantum
+  channels on a matrix algebra",3.84056369936268e-05,1.990182755160072e-06,1.0,1.0
+math/0608266,Vector bundles and Gromov-Hausdorff distance,3.6840906443387966e-05,4.693850269582114e-07,21.0,1.0
+math/0608429,On the Superrigidity of Malleable Actions with Spectral Gap,2.701709718519589e-05,0.0,13.0,0.0
+math/0601054,A walk in the noncommutative garden,2.623648238751134e-05,2.87634301878181e-05,30.0,11.0
+math-ph/0307044,Mathematics of the Quantum Zeno Effect,2.61452811850518e-05,2.0978605534803e-06,25.0,2.0
+math/0602459,Isometric Dilations of Representations of Product Systems via Commutants,2.5340335954340388e-05,3.5170208304849386e-06,14.0,4.0
+math/0703496,"A global view of equivariant vector bundles and Dirac operators on some
+  compact homogeneous spaces",2.430213812017052e-05,0.0,7.0,1.0
+math/0109198,"Lectures on q-analogues of Cartan domains and associated Harish-Chandra
+  modules",2.273746406152608e-05,1.990182755160072e-06,23.0,1.0
+math/0412231,"Unit Vectors, Morita Equivalence and Endomorphisms",2.168785530207656e-05,2.802275064228236e-06,13.0,10.0
+math/0703248,"On representing some lattices as lattices of intermediate subfactors of
+  finite index",2.0680878111094148e-05,0.0,3.0,0.0
+math/0612363,A Groupoid Approach to Quantization,2.029513128523797e-05,0.0,14.0,0.0
+math/0703586,Spectral distance on the circle,1.958980658553133e-05,0.0,8.0,0.0
+math/0411178,"Compact quantum metric spaces and ergodic actions of compact quantum
+  groups",1.956738312705867e-05,0.0,19.0,0.0
+math/0609182,"The Cuntz semigroup, the Elliott conjecture, and dimension functions on
+  C*-algebras",1.8127853362681115e-05,0.0,5.0,2.0
+math/0702140,Lectures on Noncommutative Geometry,1.7081245788938144e-05,0.0,14.0,0.0
+math/0409277,Large deviations and stochastic calculus for large random matrices,1.707329947442888e-05,0.0,18.0,0.0
+math/0311170,"Duality of compact groups and Hilbert C*-systems for C*-algebras with a
+  nontrivial center",1.6885813517775427e-05,1.990182755160072e-06,4.0,2.0
+math/0407263,Local conformal nets arising from framed vertex operator algebras,1.670249260796512e-05,3.426398957035054e-06,11.0,1.0
+math/0402431,Nonclassical stochastic flows and continuous products,1.6689288311544183e-05,1.990182755160072e-06,17.0,2.0
+math/0608354,"Elliptic Theory on Manifolds with Corners: II. Homotopy classification
+  and $K$-Homology",1.6444453019232526e-05,0.0,5.0,0.0
+math/0308207,Compact Quantum Metric Spaces,1.6041253687415582e-05,6.746016493010394e-07,19.0,6.0
+math/0411499,Conformal Nets Associated with Lattices and Their Orbifolds,1.547407173774751e-05,1.990182755160072e-06,4.0,2.0
+math/0607362,Nondegenerate Representations of Continuous Product Systems,1.5244957475070634e-05,1.6356295808355233e-06,11.0,2.0
+math/0604120,A Schur-Horn type theorem for II$_1$ factors,1.5044782123812076e-05,0.0,5.0,1.0
+math/0605070,"Refinements of spectral resolutions and modelling of operators in II$_1$
+  factors",1.4505495387227253e-05,0.0,4.0,1.0
+math/0607099,Stability in the Cuntz semigroup of a commutative C*-algebra,1.4289560368777994e-05,0.0,7.0,3.0
+math/0312001,Order-unit quantum Gromov-Hausdorff distance,1.3858342044664766e-05,7.11562346326631e-07,16.0,4.0
+math/0607755,"Applications of stable polynomials to mixed determinants: Johnson's
+  conjectures, unimodality, and symmetrized Fischer products",1.3804924526628498e-05,0.0,5.0,1.0
+math/0702802,C*-algebras in tensor categories,1.3667570078041884e-05,0.0,25.0,0.0
+math/0403117,"Unitary matrix functions, wavelet algorithms, and structural properties
+  of wavelets",1.366305882247546e-05,0.0,7.0,1.0
+math/0011063,Gromov-Hausdorff Distance for Quantum Metric Spaces,1.363510534443608e-05,0.0010135540796759,30.0,24.0
+math/0312003,C*-algebraic quantum Gromov-Hausdorff distance,1.3589620775239942e-05,2.683173995802801e-06,15.0,4.0
+math/0510594,Bundles of C*-categories and duality,1.3289890602674729e-05,0.0,2.0,1.0
+math/0608364,On Popa's Cocycle Superrigidity Theorem,1.298028123614166e-05,0.0,12.0,1.0
+math/0505550,Hecke algebras for protonormal groups,1.2920822590265658e-05,0.0,12.0,0.0
+math/0611059,The Elliott conjecture for Villadsen algebras of the first type,1.286500009958935e-05,0.0,7.0,1.0
+math/0601228,The Index of (White) Noises and their Product Systems,1.2750784396874568e-05,3.37136973978154e-06,7.0,1.0
+math/0610044,KK-theoretic duality for proper twisted actions,1.2617870357647564e-05,7.416699376860914e-06,3.0,1.0
+math/0608093,"A construction of actions on Kirchberg algebras which induce given
+  actions on their K-groups",1.236845659444135e-05,0.0,3.0,1.0
+math/0311500,theta-deformations as compact quantum metric spaces,1.2305566980900348e-05,3.856245474018631e-06,14.0,3.0
+math/0605114,"Group bundle duality, invariants for certain C*-algebras, and twisted
+  equivariant K-theory",1.22331390019607e-05,0.0,3.0,1.0
+math/0702700,Random-walk approximation to vacuum cocycles,1.2125036840352866e-05,1.990182755160072e-06,1.0,2.0
+math/0108005,"Matrix algebras converge to the sphere for quantum Gromov--Hausdorff
+  distance",1.2064109247017616e-05,0.0001073349912812,34.0,17.0
+math/0703801,Crossed product by an arbitrary endomorphism,1.1886101164760869e-05,0.0,6.0,0.0
+math/0607132,E_0-Semigroups for Continuous Product Systems,1.184650406100979e-05,1.1467595758846529e-07,5.0,4.0
+math/0603202,"Crossed product of a C*-algebra by a semigroup of bounded positive
+  linear maps. Interactions",1.1774989677792342e-05,0.0,8.0,0.0
+math/0605456,"Strong rigidity of generalized Bernoulli actions and computations of
+  their symmetry groups",1.1466311764145233e-05,1.990182755160072e-06,9.0,5.0
+math/0609662,"Applications of the Fuglede-Kadison determinant: Szeg\""{o}'s theorem and
+  outers for noncommutative $H^p$",1.1443864174221396e-05,0.0,3.0,1.0
+math/0702157,Monic non-commutative orthogonal polynomials,1.1255697742849651e-05,0.0,4.0,1.0
+math/0603592,KMS states and branched points,1.1217807142938636e-05,0.0,5.0,0.0
+math/0608332,"On the homotopy classification of elliptic operators on stratified
+  manifolds",1.120074968557323e-05,3.980365510320144e-06,4.0,3.0
+math/0501087,A unified framework for graph algebras and quantum causal histories,1.1173946055151414e-05,0.0,7.0,1.0
+math/0609438,Groupoids and an index theorem for conical pseudo-manifolds,1.1105582935138172e-05,0.0,3.0,1.0
+math/0609328,"Elliptic symbols, elliptic operators and Poincar\'e duality on conical
+  pseudomanifolds",1.1105582935138172e-05,0.0,3.0,1.0
+math/0703115,Lifting endomorphisms to automorphisms,1.0970909613129002e-05,0.0,3.0,0.0
+math/0609214,An infinite family of non-isomorphic C*-algebras with identical K-theory,1.0878336583297764e-05,0.0,3.0,4.0
+math/0611879,Von Neumann algebraic H^p theory,1.0837795447819585e-05,0.0,3.0,1.0
+math/0508218,Z-stable ASH algebras,1.0761602919326089e-05,0.0,7.0,12.0
+math/0411565,Noncommutative continuous Bernoulli shifts,1.0607229274590944e-05,5.773966166054659e-06,5.0,2.0
+gr-qc/0702049,"Canonical quantization and the spectral action, a nice example",1.0527078517854646e-05,1.5257703101533428e-06,8.0,1.0
+math/0610344,"C_0(X)-algebras, stability and strongly self-absorbing C*-algebras",1.0480886770781972e-05,0.0,4.0,0.0
+math/0308093,"Some estimates for non-microstates free entropy dimension, with
+  applications to $q$-semicircular families",1.004354045322121e-05,0.0,5.0,2.0
+math/0703374,"Equivalence between the Morita categories of etale Lie groupoids and of
+  locally grouplike Hopf algebroids",1.0042054062711235e-05,0.0,4.0,0.0
+math/0404001,On quantales that classify C*-algebras,9.991355610478769e-06,0.0,3.0,1.0
+math/0502013,The problem of completeness for Gromov-Hausdorff metrics on C*-algebras,9.72350064123197e-06,0.0,5.0,0.0
+math/0603434,"Rigidity results for Bernoulli actions and their von Neumann algebras
+  (after Sorin Popa)",9.64947536055878e-06,1.3267885034400451e-06,7.0,5.0
+math/0512254,Rank-two graphs whose C^*-algebras are direct limits of circle algebras,9.490100754161005e-06,0.0,3.0,1.0
+math/0402024,Measures in wavelet decompositions,9.445481869092534e-06,0.0,2.0,1.0
+math/0608589,Semigroups of local homeomorphisms and interaction groups,9.295928058917596e-06,0.0,5.0,0.0
+math/0505589,"Amalgamated Free Products of $w$-Rigid Factors and Calculation of their
+  Symmetry Groups",9.18160226949387e-06,8.624125272360321e-06,8.0,11.0
+math/0210442,"Cumulants in noncommutative probability I. Noncommutative
+  Exchangeability Systems",9.097668204289488e-06,0.0,4.0,3.0
+math/0611364,Divisible operators in von Neumann algebras,9.087592082995425e-06,0.0,2.0,1.0
+math-ph/0509049,"Spontaneous $SU_2(\mathbb{C})$ symmetry breaking in the ground states of
+  quantum spin chain",9.087592082995425e-06,0.0,2.0,1.0
+math/0701326,KK-theory and Spectral Flow in von Neumann Algebras,9.07063816111508e-06,0.0,2.0,0.0
+math/0403294,Finite Free Entropy and Free Group Factors,8.866699837048141e-06,0.0,7.0,1.0
+math/0602617,Simple C*-algebras with locally finite decomposition rank,8.849568564067845e-06,0.0,9.0,2.0
+math/0512230,The mapping class group from the viewpoint of measure equivalence theory,8.829781820964417e-06,0.0001180557102617,10.0,3.0
+math/0209268,Graph C*-algebras and Z/2Z-quotients of quantum spheres,8.810369558107878e-06,2.174773266566176e-09,2.0,2.0
+math/0702158,Free Meixner states,8.727013478107884e-06,0.0,3.0,1.0
+math/0603037,Removing sources from higher-rank graphs,8.647801664806624e-06,0.0,4.0,1.0
+math/0401121,A Kurosh type theorem for type II_1 factors,8.456261352635477e-06,1.990182755160072e-06,6.0,9.0
+math/0411519,On the structure of non-commutative white noises,8.394721778889003e-06,0.0,1.0,0.0
+math/0602014,A Simple Proof of the Fundamental Theorem about Arveson Systems,8.294572042520222e-06,4.177291537398966e-06,6.0,5.0
+math/9807094,Quantum ax + b Group as Quantum Automorphism Group of k[x],8.143863055703613e-06,0.0,3.0,0.0
+math/0702458,Compact and discrete subgroups of algebraic quantum groups I,8.061297350690653e-06,0.0,5.0,1.0
+math/0509343,"A class of $C^*$-algebras generalizing both graph algebras and
+  homeomorphism $C^*$-algebras IV, pure infiniteness",7.985209055571196e-06,0.0,6.0,2.0
+math/0608353,"Elliptic Theory on Manifolds with Corners: I. Dual Manifolds and
+  Pseudodifferential Operators",7.939455494845068e-06,0.0,4.0,1.0
+math/0110183,"KMS states for generalized gauge actions on Cuntz-Krieger algebras (An
+  application of the Ruelle-Perron-Frobenius Theorem)",7.92243140806203e-06,4.7703740007546425e-05,5.0,4.0
+math-ph/0203008,Zeno Dynamics of von Neumann Algebras,7.881702020310464e-06,0.0,7.0,2.0
+math/0610222,"Dirac operators and spectral triples for some fractal sets built on
+  curves",7.870280091001264e-06,0.0,4.0,0.0
+math/0701525,Groups with compact open subgroups and multiplier Hopf $^*$-algebras,7.811442454021868e-06,0.0,2.0,2.0
+math/0006057,Finite Quantum Groupoids and Their Applications,7.700161157312781e-06,2.3549729755777306e-05,13.0,18.0
+funct-an/9612004,"On the infinite dimensional hidden symmetries. I. Infinite dimensional
+  geometry of $q_R$-conformal symmetries",7.659613212225666e-06,0.0,11.0,6.0
+math/0004150,Algebraic orbifold conformal field theories,7.644421534010238e-06,2.0291096639485395e-06,10.0,2.0
+math/0502388,Quotients of Standard Hilbert Modules,7.486854036842753e-06,0.0,5.0,0.0
+math/0205060,Mansfield's imprimitivity theorem for arbitrary closed subgroups,7.463789305303433e-06,0.0,3.0,0.0
+hep-th/0612048,Quantum field theory on projective modules,7.407293196487516e-06,2.4043931715799013e-06,16.0,2.0
+math/0405268,"A class of C^*-algebras generalizing both graph algebras and
+  homeomorphism C^*-algebras II, examples",7.370588623768311e-06,0.0,3.0,3.0
+math/0608756,Quantum stochastic convolution cocycles,7.331416862874931e-06,0.0,2.0,0.0
+math/0703891,Zeta functions of infinite graph bundles,7.3251003583835376e-06,0.0,3.0,0.0
+math-ph/0207013,Zeno Dynamics in Quantum Statistical Mechanics,7.300291991750698e-06,0.0,8.0,2.0
+math/0211367,Equivariant spectral triples and Poincar\'e duality for $SU_q(2)$,7.285715167218406e-06,2.60106323612301e-05,5.0,3.0
+math/0206009,Duality of Hopf $C^*$-algebras,7.2833732943810466e-06,0.0,5.0,0.0
+math/9906151,Metrics on State Spaces,7.268470536449677e-06,0.0020127693690819,8.0,26.0
+math/0512646,"Cocycle and Orbit Equivalence Superrigidity for Malleable Actions of
+  w-Rigid Groups",7.241254588202703e-06,1.241980970962732e-05,8.0,7.0
+math/0703161,The Dirac operator on compact quantum groups,7.226768887452669e-06,0.0,5.0,0.0
+math/0405466,Dimension groups for interval maps,7.207090331072577e-06,0.0,3.0,2.0
+math/0504154,An operator Arzel\`a-Ascoli theorem,7.149226053693572e-06,0.0,3.0,0.0
+math/0603572,Spectral measures of small index principal graphs,7.127585877235997e-06,0.0,2.0,0.0
+math/0601273,Free Exponential Families as Kernel Families,7.038216650909551e-06,6.633942517200226e-07,5.0,1.0
+math/0503344,Quantized Gromov-Hausdorff distance,7.02368510239226e-06,1.990182755160072e-06,5.0,1.0
+math/0703800,"Extensions of C*-dynamical systems to systems with complete transfer
+  operators",7.008915740771724e-06,0.0,6.0,1.0
+math/0511662,Some computations in the cyclic permutations of completely rational nets,6.943890290301159e-06,0.0,1.0,0.0
+math/0309294,Ideal structure of $C^*$-algebras associated with $C^*$-correspondences,6.935016934666077e-06,0.0,3.0,3.0
+math/0211076,Riemann-Roch Theorem and Index Theorem in Non-commutative Geometry,6.931362311632945e-06,0.0,9.0,0.0
+math-ph/0412014,"Homotopy of posets, net-cohomology and superselection sectors in
+  globally hyperbolic spacetimes",6.915793482582008e-06,0.0,1.0,0.0
+math/0511253,Integration over compact quantum groups,6.876766830853109e-06,1.990182755160072e-06,6.0,1.0
+math/0309275,A Local Index Formula for the Quantum Sphere,6.872149842582212e-06,9.95091377580036e-07,9.0,2.0
+math/0502415,"Crossed product of a C*-algebra by an endomorphism, coefficient algebras
+  and transfer operators",6.826936678031597e-06,1.492637066370054e-06,8.0,5.0
+math/0605512,Continuous fields of C*-algebras and Lesieur's Quantum Groupoids,6.825783421569873e-06,0.0,3.0,0.0
+hep-th/0303086,"Noncommutative probability, matrix models, and quantum orbifold geometry",6.812424597149673e-06,0.0,15.0,1.0
+math/0606179,Twisted Burnside-Frobenius theory for discrete groups,6.795124394016869e-06,0.0,7.0,2.0
+math/0602110,On the noncommutative spectral flow,6.79061900959065e-06,0.0,4.0,3.0
+math/0411062,On automorphisms of type II Arveson systems (probabilistic approach),6.762725864542978e-06,0.0,3.0,3.0
+math/0403016,Conditional moments of q-Meixner processes,6.732942972767181e-06,2.1892010306760792e-05,5.0,8.0
+math/9911149,Canonical tensor product subfactors,6.701637075663748e-06,1.087608945310937e-06,6.0,2.0
+math/0211177,Index defects in the theory of spectral boundary value problems,6.6778263824303385e-06,0.0,5.0,0.0
+math/0407103,"Strong rigidity of II$_1$ factors arising from malleable actions of
+  w-rigid groups, II",6.643236944881689e-06,1.2382769995991514e-05,10.0,8.0
+math/0512438,The Noncommutative Geometry of k-graph C*-Algebras,6.636998620531466e-06,0.0,1.0,1.0
+math/0511061,"A new look at the Crossed-Product of a C*-Algebra by a Semigroup of
+  Endomorphisms",6.576111642718625e-06,0.0,8.0,1.0
+math/0609735,Locally inner automorphisms of operator algebras,6.55890781825366e-06,0.0,1.0,1.0
+math/0405249,Twisted homology of quantum SL(2),6.5225189529089e-06,0.0,2.0,2.0
+math/0610231,Factors of type II_1 without non-trivial finite index subfactors,6.339902777177802e-06,1.990182755160072e-06,3.0,1.0
+math/0310360,Minimal Bratteli diagrams and dimension groups of AF C*-algebras,6.335049817623469e-06,0.0,1.0,0.0
+math/0611929,Semigroupoid C*-Algebras,6.333981853535435e-06,0.0,2.0,1.0
+math/0406458,On the K-theory of higher rank graph C*-algebras,6.322552530179593e-06,0.0,1.0,2.0
+math/0405469,C*-algebras associated with interval maps,6.320772579628686e-06,0.0,3.0,2.0
+math/0506582,Gauge Invariant Uniqueness Theorem for Corners of k-graphs,6.311961451114403e-06,0.0,3.0,0.0
+math/0702745,Orbital approach to microstate free entropy,6.255432062431205e-06,0.0,4.0,0.0
+math/0503694,"On the Homotopy Classification of Elliptic Operators on Manifolds with
+  Edges",6.247933196636196e-06,5.970548265480216e-06,1.0,1.0
+math/0202046,A symmetric imprimitivity theorem for commuting proper actions,6.224997676146493e-06,0.0,5.0,1.0
+math/0405248,From 3-moves to Lagrangian tangles and cubic skein modules,6.210472400947743e-06,7.960731020640288e-06,13.0,3.0
+math/0702043,Towards a classification of $6\times 6$ complex Hadamard matrices,6.132008883791201e-06,4.4556330339404604e-09,4.0,3.0
+math/0611401,Asymptotic lifts of positive linear maps,6.058596461869177e-06,0.0,3.0,1.0
+math/0303078,Strict quantizations of almost Poisson manifolds,5.9843250952701685e-06,1.2382740527519069e-06,8.0,2.0
+math-ph/0405038,Superselection in the presence of constraints,5.958154934565138e-06,0.0,1.0,1.0
+math/0009185,"Quantum Real Projective Space, Disc and Sphere",5.886458189173572e-06,1.1871676402952084e-05,2.0,5.0
+math/0412129,"Minimal dynamical systems on the product of the Cantor set and the
+  circle II",5.881394045824499e-06,0.0,6.0,0.0
+math-ph/0006021,Non-commutative Bloch theory,5.870464723227024e-06,0.0,4.0,2.0
+math/0702510,Defect of a unitary matrix,5.830193217445706e-06,6.075889598230953e-07,5.0,1.0
+math/0403335,Elliptic operators on manifolds with singularities and K-homology,5.819333642429128e-06,7.960731020640288e-06,5.0,1.0
+math/0309088,On $C^*$-algebras associated with $C^*$-correspondences,5.79881091516606e-06,0.0,2.0,2.0
+hep-th/0603051,"Smoother than a circle, or How non commutative geometry provides the
+  torus with an egocentred metric",5.79395902539344e-06,0.0,2.0,2.0
+math/0112194,Free martingale polynomials,5.758538795177324e-06,0.0,2.0,6.0
+math/0304475,A geometric approach to Voiculescu-Brown entropy,5.752507732447299e-06,0.0,4.0,0.0
+math/0605033,L^2-rigidity in von Neumann algebras,5.735647949167754e-06,0.0,8.0,1.0
+math/0703182,Inverse Semigroups and Combinatorial C*-Algebras,5.726986449326182e-06,0.0,1.0,2.0
+math/0608030,Spectral flow and winding number in von Neumann algebras,5.71490973462809e-06,0.0,3.0,0.0
+math/0105085,Groupoid C*-algebras and index theory on manifolds with singularities,5.655144290770314e-06,0.0,1.0,1.0
+math/0408275,Spectral Symmetry in II_1 Factors,5.655144290770314e-06,0.0,1.0,1.0
+math/0408435,Abelian self-commutators in finite factors,5.655144290770314e-06,0.0,1.0,1.0
+math/0006169,Partial Dynamical Systems and the KMS Condition,5.593837003372138e-06,5.168410551786657e-05,7.0,2.0
+math/0402074,Poisson boundary of the dual of SUq(n),5.581924655830658e-06,0.0,3.0,0.0
+math/0501019,On equivariant Dirac operators for $SU_q(2)$,5.571374536297571e-06,4.1050781861678414e-06,7.0,4.0
+math/0409541,"Noncommutative Spherical Tight Frames in finitely generated Hilbert
+  C*-modules",5.555103665062591e-06,0.0,3.0,0.0
+math/0410601,On a class of free Levy laws related to a regression problem,5.526652608240717e-06,6.633942517200226e-07,5.0,5.0
+hep-th/0508084,"T-duality for torus bundles with H-fluxes via noncommutative topology,
+  II: the high-dimensional case and the T-duality group",5.520109385792296e-06,8.306036471227119e-06,25.0,10.0
+math/0605753,Ihara zeta functions for periodic simple graphs,5.487462623207445e-06,0.0,3.0,2.0
+math/0608229,"Ihara's zeta function for periodic graphs and its approximation in the
+  amenable case",5.487462623207445e-06,0.0,3.0,2.0
+math-ph/0102018,Lectures on Algebraic Quantum Field Theory and Operator Algebras,5.472229632795631e-06,1.391520856112416e-07,13.0,1.0
+math/0512417,Hereditary subalgebras of operator algebras,5.430880348249121e-06,0.0,2.0,0.0
+math/0305337,Analytic Partial Crossed Products,5.409530671627861e-06,0.0,2.0,1.0
+math/0510653,Quantum Markov Semigroups (Product Systems and Subordination),5.394898723000327e-06,6.06461162953007e-08,1.0,2.0
+math/0111204,"From Subfactors to Categories and Topology I. Frobenius algebras in and
+  Morita equivalence of tensor categories",5.39251685807156e-06,1.13673819084136e-05,8.0,16.0
+math/0612303,Automorphisms of the type II_1 Arveson system of Warren's noise,5.389888863092693e-06,0.0,3.0,1.0
+math/0701035,"Commutative C*-subalgebras of simple stably finite C*-algebras with real
+  rank zero",5.378498611724187e-06,0.0,4.0,0.0
+math/0703673,Strong Singularity for Subfactors,5.370381742511766e-06,0.0,2.0,0.0
+math/0606596,Operator space embedding of Lq into Lp,5.351668534947859e-06,0.0,4.0,0.0
+math/0003108,A Survey of Noncommutative Chern Characters,5.327270386780987e-06,0.0,7.0,0.0
+math-ph/0405037,Noncommutative Spectral Invariants and Black Hole Entropy,5.322487012888251e-06,6.196817209724855e-07,8.0,2.0
+math/0512030,"Realization of a simple higher dimensional noncommutative torus as a
+  transformation group C*-algebra",5.303952880713519e-06,0.0,6.0,0.0
+math/0604630,Classifying Higher Rank Analytic Toeplitz Algebras,5.302157961459935e-06,0.0,3.0,0.0
+math/0311501,On topologically finite-dimensional simple C*-algebras,5.269141382015254e-06,0.0,4.0,1.0
+math/0307201,Factoriality of Bozejko-Speicher von Neumann algebras,5.259566192148796e-06,0.0,2.0,1.0
+math/0501424,KMS states and complex multiplication,5.212763690098309e-06,4.104034362523563e-06,5.0,4.0
+math/0207252,"A class of C^*-algebras generalizing both graph algebras and
+  homeomorphism C^*-algebras I, fundamental results",5.208605140030349e-06,0.0,2.0,2.0
+math-ph/0511042,String-localized Quantum Fields and Modular Localization,5.162077697966822e-06,0.0003293303550249,6.0,4.0
+math/0107090,The Fine Structure of the Kasparov Groups III: Relative Quasidiagonality,5.159633508096145e-06,0.0,4.0,0.0
+math/0601188,A new construction of factors of type ${\rm III_1}$,5.144847703576347e-06,0.0,2.0,0.0
+math/0409267,Interactions,5.133064578239634e-06,2.1560313180900803e-06,8.0,3.0
+quant-ph/0506196,"Multiplicativity of completely bounded p-norms implies a new additivity
+  result",5.127503494392023e-06,3.1402027291588518e-06,15.0,5.0
+math/0210444,"Cumulants in Noncommutative Probability Theory III. Creation- and
+  annihilation operators on Fock spaces",5.1201478942555335e-06,0.0,2.0,1.0
+math/0407352,Covariance algebra of a partial dynamical system,5.094837538267903e-06,1.1609399405100388e-05,8.0,8.0
+math/0605480,"Existence of $E_0$--Semigroups for Arveson Systems: Making Two Proofs
+  into One",5.092969889119782e-06,0.0,3.0,4.0
+math/0510514,The algebra generated by idempotents in a Fourier-Stieltjes algebra,5.091130555768046e-06,0.0,2.0,0.0
+math/0210457,Non-Isomorphic Product Systems,5.081348602482735e-06,9.95091377580036e-07,3.0,5.0
+math/0309147,q-Levy processes,5.075258281163458e-06,0.0,3.0,1.0
+math/0604003,"The free entropy dimension of some $L^{\infty}[0,1]$-circular operators",5.0721817638532285e-06,0.0,4.0,0.0
+hep-th/9905063,Determinant Formula for the Topological N=2 Superconformal Algebra,5.035679139727929e-06,2.2400964399376583e-05,10.0,4.0
+math/9904127,The Charge Quantum Numbers of Gauge Invariant Quasi-free Endomorphisms,5.031806460041623e-06,0.0,1.0,0.0
+math/0404295,Dimensions and spectral triples for fractals in R^N,5.024389731827117e-06,0.0,2.0,5.0
+math/0010115,"Modular frames for Hilbert C*-modules and symmetric approximation of
+  frames",4.996015283247111e-06,0.0,2.0,0.0
+math/9909027,"Planar algebras, I",4.992218356481831e-06,0.0,5.0,26.0
+math/0611097,Generators of Dynamical Systems on Hilbert Modules,4.98960037459413e-06,0.0,3.0,2.0
+math/0701694,"Characterization of $SU_q(\ell+1)$-equivariant spectral triples for the
+  odd dimensional quantum spheres",4.94144365608832e-06,1.975508246852072e-06,9.0,2.0
+math/0507143,"Crossed product of a C*-algebra by a semigroup of endomorphisms
+  generated by partial isometries",4.927103349603248e-06,0.0,6.0,1.0
+math/0011184,A module frame concept for Hilbert C*-modules,4.911186874469205e-06,0.0,3.0,0.0
+math/0101015,Quantized Algebras of Functions on Affine Hecke Algebras,4.90507244156189e-06,0.0,3.0,1.0
+funct-an/9508002,The General Analytic Solution of a Functional Equation of Addition Type,4.89138133904295e-06,0.0,3.0,1.0
+math-ph/0511090,Extensions of Lieb's concavity theorem,4.854922588384866e-06,0.0,3.0,0.0
+math/0209245,Admissible vectors and traces on the commuting algebra,4.828850428701744e-06,0.0,1.0,0.0
+math/9804019,Non-compact quantum groups arising from Heisenberg type Lie bialgebras,4.827253370360462e-06,0.0,2.0,2.0
+math/0608060,A trace on fractal graphs and the Ihara zeta function,4.823928983956998e-06,0.0,2.0,3.0
+math/0405243,Twisted cyclic homology of all Podles quantum spheres,4.818119281752529e-06,0.0,2.0,2.0
+hep-th/0309031,A New Matrix Model for Noncommutative Field Theory,4.815115297695007e-06,6.780652075123314e-07,27.0,3.0
+math/0601513,"Tracial Rokhlin property for automorphisms on simple $A{\mathbb
+  T}$-algebras",4.808987331790488e-06,0.0,5.0,0.0
+math/0502423,"Representations of product systems over semigroups and dilations of
+  commuting CP maps",4.788776512792643e-06,5.970548265480216e-06,3.0,2.0
+math/0308104,p-Summable Commutators in Dimension d,4.775563454392716e-06,0.0,6.0,1.0
+math/0505356,Rokhlin actions and self-absorbing C*-algebras,4.754824402064413e-06,0.0,4.0,1.0
+math/0306067,About the QWEP conjecture,4.69874944365203e-06,0.0,5.0,0.0
+math-ph/0107023,Quantization as a functor,4.679026824882064e-06,1.992774138955853e-06,7.0,8.0
+math/0501057,Geometric representation theory for unitary groups of operator algebras,4.636336303075177e-06,0.0,3.0,0.0
+math/0303183,Flabby strict deformation quantizations and K-groups,4.6341867485948046e-06,1.6337321124448353e-07,2.0,2.0
+math/9905035,Quantum matrix ball: differential and integral calculi,4.631234505115642e-06,0.0,5.0,8.0
+math/9911148,New subfactors associated with closed systems of sectors,4.621733435181515e-06,0.0,3.0,1.0
+math/0401139,On II$_1$ factors arising from 2-cocycles of w-rigid groups,4.613697463246408e-06,5.970548265480216e-06,6.0,2.0
+math/0104077,Noncommutative geometry of algebraic curves,4.611870782135911e-06,0.0,3.0,0.0
+math/0407386,Dynamical entropy in Banach spaces,4.605901916790465e-06,0.0,3.0,0.0
+math-ph/0603083,Nuclearity and Thermal States in Conformal Field Theory,4.599758113028209e-06,2.380463204244116e-08,1.0,1.0
+math/0405514,KMS states on C^*-algebras associated with self-similar sets,4.591753572313192e-06,0.0,4.0,1.0
+math/0702649,"Wold decomposition for representations of product systems of
+  C*-correspondences",4.583849180394476e-06,0.0,1.0,0.0
+math/0607480,"Boundaries, eta invariant and the determinant bundle",4.583625626855759e-06,0.0,1.0,1.0
+math/9809035,"Charged Quantum Fields Associated with Endomorphisms of CAR and CCR
+  Algebras",4.583528427541002e-06,0.0,4.0,1.0
+math/0510677,Constructing Units in Product Systems,4.572978480390225e-06,0.0,3.0,1.0
+math/9802015,"Noncommutative Riemann integration and and Novikov-Shubin invariants for
+  open manifolds",4.527116820765776e-06,0.0,3.0,0.0
+math/0701935,"Weakly almost periodic functionals, representations, and operator spaces",4.527116820765776e-06,0.0,2.0,0.0
+math/0510409,Flat dimension growth for C*-algebras,4.517679106572989e-06,0.0,3.0,1.0
+math-ph/0510040,On The Generators Of Quantum Stochastic Operator Cocycles,4.508979802436465e-06,0.0,1.0,1.0
+math/0502211,Strongly self-absorbing C*-algebras,4.497475173282206e-06,0.0,7.0,10.0
+math/0611629,The Dixmier trace and asymptotics of zeta functions,4.48844923571574e-06,0.0,3.0,0.0
+math/0502307,Crossed products by abelian semigroups via transfer operators,4.479493839247356e-06,9.89026765950506e-06,3.0,4.0
+math/0409075,Subalgebras of Graph C*-Algebras,4.470115263001829e-06,0.0,4.0,3.0
+math/0409025,"Cumulants in Noncommutative Probability Theory IV. De Finetti's Theorem
+  and $L^p$-Inequalities",4.468846838870341e-06,0.0,2.0,1.0
+math/9904098,On a Conjecture of Kac-Wakimoto,4.427871027202408e-06,7.213308556347265e-06,10.0,3.0
+math/0503689,"Equivariant spectral triples for $SU_q(\ell+1)$ and the odd dimensional
+  quantum spheres",4.414705663970595e-06,1.8565137641418582e-09,8.0,1.0
+math/0701787,Free diffusions and Matrix models with strictly convex interaction,4.396087678817279e-06,0.0,2.0,0.0
+math/0411379,A class of limit algebras associated with directed graphs,4.385798856056745e-06,0.0,3.0,1.0
+math/0503181,Examples of Groups that are Measure Equivalent to the Free Group,4.366156578071704e-06,0.0,2.0,2.0
+math/0606541,The asymptotic lift of a completely positive map,4.360028371138221e-06,2.985274132740108e-06,4.0,2.0
+math/0602020,"Cyclic cohomology of Hopf algebras of transverse symmetries in
+  codimension 1",4.327940355459721e-06,0.0,3.0,1.0
+math/0212324,On complex and noncommutative tori,4.308653548141063e-06,0.0,2.0,0.0
+math/0701276,"Projective multi-resolution analyses arising from direct limits of
+  Hilbert modules",4.303725213915344e-06,0.0,3.0,0.0
+math/0212096,Wavelets in mathematical physics: q-oscillators,4.3032588201355855e-06,0.0,2.0,0.0
+math/0002154,Longo-Rehren subfactors arising from $\alpha$-induction,4.303119698932208e-06,6.795132492710658e-07,4.0,7.0
+math/0211162,The primitive ideal space of the C*-algebras of infinite graphs,4.298116281040139e-06,0.0,4.0,2.0
+math/0703510,"Operator-valued semicircular elements: Solving a quadratic matrix
+  equation with positivity constraints",4.278670187138834e-06,0.0,1.0,0.0
+math/0302310,"Hyperbolic group $C^*$-algebras and free-product $C^*$-algebras as
+  compact quantum metric spaces",4.256074546359984e-06,8.458456998385287e-07,6.0,7.0
+math/0703409,Operators related to subordination for free multiplicative convolutions,4.233018607711767e-06,0.0,2.0,0.0
+quant-ph/0601071,A relation between completely bounded norms and conjugate channels,4.224436812683925e-06,4.416760001520023e-06,5.0,2.0
+math/0602104,Graph Free Product of Noncommutative Probability spaces,4.215707765741297e-06,0.0,1.0,0.0
+math-ph/0207003,"Recursive Fermion System in Cuntz Algebra. II -- Endomorphism,
+  Automorphism and Branching of Representation --",4.196766532941594e-06,0.0,3.0,0.0
+math/0101005,Weak Hopf algebra symmetries of C^*-algebra inclusions,4.191242492871687e-06,0.0,8.0,2.0
+math/0501030,Strong Morita equivalence of higher-dimensional noncommutative tori. II,4.143342279844974e-06,1.4912137267862065e-06,12.0,3.0
+math/0309174,Subfactor realisation of modular invariants,4.1418410132768615e-06,7.352260904101497e-05,9.0,3.0
+math/0407419,"Gr\""obner bases for *-algebars and faithful operator representations",4.137346715430839e-06,0.0,3.0,0.0
+math/0611310,Bergelson's Theorem for weakly mixing C*-dynamical systems,4.1349858700270974e-06,0.0,1.0,0.0
+math/0502241,"Commutants of von Neumann Correspondences and Duality of Eilenberg-Watts
+  Theorems by Rieffel and by Blecher",4.098246847179492e-06,1.990182755160072e-06,4.0,5.0
+math/0405388,A descent principle for the Dirac dual Dirac method,4.089106321915332e-06,0.0,3.0,1.0
+math/0609556,Twisted K-theory and Poincare duality,4.07059394470288e-06,0.0,2.0,1.0
+math/0605723,"Expansive algebraic actions of discrete residually finite amenable
+  groups and their entropy",4.063143711471229e-06,0.0,1.0,2.0
+math/0703401,Tight representations of semilattices and inverse semigroups,4.057098038694793e-06,0.0,1.0,0.0
+math/0609076,Orthogonal maximal abelian *-subalgebras of the 6x6 matrices,4.050086722879888e-06,9.138893515707073e-06,4.0,7.0
+math/0012091,"Exact Groups, Induced Ideals, and Fell Bundles",4.045830352356201e-06,0.0,4.0,0.0
+funct-an/9702002,"On the infinite-dimensional hidden symmetries. III. $q_R$-conformal
+  symmetries at $q_R\to\infty$ and Berezin-Karasev-Maslov asymptotic
+  quantization of $C^\infty(S^1)$",4.037083739956716e-06,0.0,7.0,3.0
+math/0602117,Oriented Kauffman diagrams and universal quantum groups,4.033144178597356e-06,0.0,2.0,0.0
+math/9808034,On the Structure of Lie Group C*-Algebras and Compact Quantum Groups,4.007423346985859e-06,0.0,3.0,0.0
+math/0611327,"A Characterization of right coideals of quotient type and its
+  application to classification of Poisson boundaries",4.007423346985859e-06,0.0,3.0,0.0
+math/0304488,Asymptotic Stability I: Completely Positive Maps,4.002914934524296e-06,9.95091377580036e-07,4.0,2.0
+math/0502583,A Category of Spectral Triples and Discrete Groups with Length Function,3.9334241131850335e-06,0.0,11.0,0.0
+math/0511331,Crossed-product C*-algebras for conformal automorphisms of the disk,3.913749610274941e-06,0.0,1.0,0.0
+math/0203185,C*-Algebras of Irreversible Dynamical Systems,3.9080863721138616e-06,3.974300898690614e-05,5.0,7.0
+hep-th/9804001,"On the ultraviolet behaviour of quantum fields over noncommutative
+  manifolds",3.907457858545268e-06,3.7204633875579214e-05,8.0,54.0
+math/0403201,Twisted cyclic cohomology of the quantum SU(2),3.886080216361181e-06,0.0,1.0,1.0
+math/0403322,Conformal Orbifold Theories and Braided Crossed G-Categories,3.863474513084708e-06,0.0,3.0,2.0
+hep-th/9903262,Chiral Observables and Modular Invariants,3.8582232838106085e-06,1.3462380821271742e-05,6.0,5.0
+math/0512454,An Analytic Approach to Spectral Flow in von Neumann Algebras,3.844189937021578e-06,0.0,2.0,0.0
+math/0405467,Dimension groups for interval maps II: the transitive case,3.843910493361308e-06,0.0,1.0,2.0
+math/0304001,"Hopf Algebra Equivariant Cyclic Cohomology, K-theory and Index Formulas",3.828780468414775e-06,0.0,3.0,2.0
+math/0702355,C$^{*}$-bialgebra defined by the direct sum of Cuntz algebras,3.826788423397162e-06,0.0,1.0,0.0
+math/0105117,"A locally compact quantum group analogue of the normalizer of SU(1,1) in
+  SL(2,C)",3.826179029688421e-06,0.0,7.0,3.0
+math/0411157,On Gromov-Hausdorff convergence for operator metric spaces,3.81990625874461e-06,0.0,1.0,4.0
+math/0701738,"Torus equivariant spectral triples for odd dimensional quantum spheres
+  coming from $C^*$-extensions",3.7835387179628126e-06,0.0,3.0,0.0
+math/0410607,Representations of B^a(E),3.7732825049369184e-06,1.3134934219731038e-05,3.0,8.0
+math/0309366,Topological Sectors and a Dichotomy in Conformal Field Theory,3.750896700385609e-06,8.117042343956446e-06,5.0,8.0
+math/0602513,The Rohlin property for automorphisms on simple C*-algebras,3.7504244665492375e-06,0.0,2.0,0.0
+math/0606574,Rigidity results for wreath product II$_1$ factors,3.7370348129607145e-06,0.0,4.0,2.0
+math/9907077,3-manifold invariants from cosets,3.734224325602705e-06,2.229015181404622e-06,8.0,11.0
+math/0612570,A combinatorial approach to monotonic independence over a C*-algebra,3.725070858339796e-06,0.0,2.0,0.0
+math/0703798,On transfer operators for C*-dynamical systems,3.719833731234411e-06,0.0,3.0,2.0
+math/9807091,Quantum Symmetry Groups of Finite Spaces,3.7187175445286135e-06,5.970548265480216e-06,2.0,3.0
+math/0601069,A Note On Subhomogeneous C*-Algebras,3.708937653659784e-06,0.0,5.0,1.0
+math/0112317,A Locally Trivial Quantum Hopf Fibration,3.70751422083447e-06,1.1937557967428896e-05,4.0,7.0
+quant-ph/0409181,Multiplicativity properties of entrywise positive maps,3.690340360089315e-06,2.310328239820979e-09,8.0,7.0
+math-ph/0002045,"The Standard Model - the Commutative Case: Spinors, Dirac Operator and
+  de Rham Algebra",3.66502623614465e-06,0.0,4.0,0.0
+math/0303090,Positive Voiculescu-Brown entropy in noncommutative toral automorphisms,3.66318716861776e-06,0.0,2.0,2.0
+hep-th/0507208,"D\'{e}formations isospectrales non compactes et th\'{e}orie quantique
+  des champs",3.662880494149627e-06,1.990703982815478e-07,5.0,1.0
+math/0407525,A new approach to induction and imprimitivity results,3.638254239790469e-06,0.0,3.0,1.0
+math/0604165,"Symbolic Dynamics, Partial Dynamical Systems, Boolean Algebras and
+  C*-algebras Generated by Partial Isometries",3.62335329328243e-06,0.0,2.0,0.0
+math/0604348,"Classification of minimal actions of a compact Kac algebra with amenable
+  dual",3.62335329328243e-06,0.0,2.0,0.0
+math/0703331,"Derivations on the Algebra of $\tau$-Compact Operators Affiliated with a
+  Type I von Neumann Algebra",3.62335329328243e-06,0.0,2.0,0.0
+math/0403231,The Free Cover of a Row Contraction,3.62335329328243e-06,0.0,4.0,0.0
+math-ph/0202032,Playing with Fidelities,3.62335329328243e-06,0.0,2.0,0.0
+math/0102063,Ito formula for free stochastic integrals,3.62335329328243e-06,0.0,2.0,2.0
+math/0602158,"Strongly singular MASA's and mixing actions in finite von Neumann
+  algebras",3.62335329328243e-06,0.0,2.0,1.0
+math/0108020,"Quantum ""az+b"" group at roots of unity: unitary representations",3.62335329328243e-06,0.0,2.0,0.0
+math/9906073,"Stable Ranks, K-Groups and Witt Groups of some Banach and C-star
+  Algebras",3.62335329328243e-06,0.0,2.0,0.0
+math/0608227,"Unique ergodicity of free shifts and some other automorphisms of
+  C*-algebras",3.62335329328243e-06,0.0,2.0,2.0
+math/0609533,The C$^*$-envelope of a semicrossed product and nest representations,3.62335329328243e-06,0.0,2.0,0.0
+math/0008084,On the computation of spectra in free probability,3.62335329328243e-06,0.0,2.0,1.0
+math/0010139,Finite von Neumann algebra factors with property Gamma,3.62335329328243e-06,0.0,2.0,0.0
+math/0101099,"Continuous Fields of $C^*$-Algebras Arising from Extensions of Tensor
+  $C^*$-Categories",3.62335329328243e-06,0.0,2.0,0.0
+math/0602409,"The ratio set of the harmonic measure of a random walk on a hyperbolic
+  group",3.62335329328243e-06,0.0,2.0,0.0
+cs/0610045,Spectra of large block matrices,3.62335329328243e-06,0.0,2.0,1.0
+math/9809040,Novikov-Shubin invariants and asymptotic dimensions for open manifolds,3.62335329328243e-06,0.0,2.0,2.0
+math/0207239,The AF structure of non commutative toroidal Z/4Z orbifolds,3.62335329328243e-06,0.0,2.0,2.0
+math/0408235,Extreme points of the unit ball of an operator space,3.62335329328243e-06,0.0,2.0,1.0
+math/0005265,Induced corepresentations of locally compact quantum groups,3.6162527064251294e-06,0.0,6.0,0.0
+math-ph/0308029,"Classification of operator algebraic conformal field theories in
+  dimensions one and two",3.5964760194301777e-06,0.0,6.0,1.0
+math/0606724,A C*-analogue of Kazhdan's property (T),3.596442773074684e-06,0.0,1.0,0.0
+math/0504129,Regular dilations of representations of product systems,3.561420388113159e-06,1.990182755160072e-06,3.0,1.0
+math/0604460,"Continuous families of hyperfinite subfactors with the same standard
+  invariant",3.533283225455244e-06,0.0,2.0,0.0
+math/0511661,Generalized Unitaries and the Picard Group,3.528208663407442e-06,3.936014125644108e-08,2.0,1.0
+math/0406007,"Minimal dynamical systems on the product of the Cantor set and the
+  circle",3.5116907403906533e-06,0.0,6.0,1.0
+hep-th/0301100,Ultraviolet Finite Quantum Field Theory on Quantum Spacetime,3.5064556720139027e-06,4.938354310222413e-06,8.0,23.0
+math/0012037,"An application of the DR-duality theory for compact groups to
+  endomorphism categories of C*-algebras with nontrivial center",3.49912997646896e-06,0.0,2.0,0.0
+math/0603067,Groupoid models for the C*-algebras of topological higher-rank graphs,3.4988485497416037e-06,0.0,1.0,1.0
+math/9907036,"Representation Theory and Numerical AF-invariants: The representations
+  and centralizers of certain states on O_d",3.493345650031712e-06,0.0,2.0,1.0
+math/0410449,Nest representations of directed graph algebras,3.4930843036925227e-06,0.0,1.0,1.0
+math/9902015,Locally compact quantum groups in the universal setting,3.485178228131004e-06,0.0,7.0,0.0
+hep-th/0105305,The Operator Algebra and Twisted KZ Equations of WZW Orbifolds,3.4810585958330407e-06,2.77892364132924e-06,14.0,15.0
+math/0602554,Bost-Connes type systems for function fields,3.4804025844048413e-06,9.936410835105245e-07,4.0,3.0
+math/0412423,Intermediate Subfactors with No Extra Structure,3.480330342638611e-06,0.0,1.0,0.0
+math/0506491,A brief introduction to operator quantum error correction,3.4573047151881423e-06,1.221586056805343e-07,4.0,2.0
+math/0511278,Higher-Rank Numerical Ranges and Compression Problems,3.4544716461385542e-06,0.0,1.0,0.0
+math/0302118,Entropy and induced dynamics on state spaces,3.4536917556801784e-06,0.0,2.0,3.0
+math/0207271,On Low-Dimensional Locally Compact Quantum Groups,3.447836478766736e-06,0.0,2.0,0.0
+math-ph/0203021,Modular localization and Wigner particles,3.428377009525604e-06,2.5836138548320995e-06,1.0,5.0
+math/0408324,Exel's Crossed Product and Relative Cuntz-Pimsner Algebras,3.4277291452360765e-06,0.0,2.0,4.0
+math/0507101,"Bost-Connes-Marcolli systems for Shimura varieties. I. Definitions and
+  formal analytic properties",3.415981319454598e-06,0.0,5.0,1.0
+funct-an/9701009,"On the infinite dimensional hidden symmetries. II. $q_R$-conformal
+  modular functor",3.411774364854123e-06,0.0,7.0,4.0
+math/0211305,Complex powers and non-compact manifolds,3.4098274318272243e-06,0.0,2.0,2.0
+math/0512138,Noncommutative geometry and motives: the thermodynamics of endomotives,3.4017665347919747e-06,0.0,2.0,5.0
+math/0607578,Some automorphism invariance properties for multicontractions,3.3749066596554898e-06,0.0,1.0,0.0
+math/0301124,Some Remarks on Group Bundles and C*-dynamical systems,3.3749066596554898e-06,0.0,1.0,1.0
+math-ph/0008036,"Functoriality and Morita equivalence of operator algebras and Poisson
+  manifolds associated to groupoids",3.3681202476587776e-06,0.0,5.0,2.0
+math/0307228,AF-algebras and the tail-equivalence relation on Bratteli diagrams,3.359980682845852e-06,0.0,1.0,0.0
+math/0006046,The Eta-invariant and Pontryagin duality in K-theory,3.3533976206728904e-06,1.990182755160072e-06,4.0,1.0
+math/0310101,Boundaries of Hyperbolic Metric Spaces,3.331811007943551e-06,5.74564752715808e-06,6.0,4.0
+math/0306425,On the representation theory of Virasoro Nets,3.3294423878064948e-06,9.903800391379312e-06,6.0,4.0
+math/0509323,Spatial E_0-Semigroups are Restrictions of Inner Automorphismgroups,3.3241904962015347e-06,0.0,2.0,2.0
+math/0210443,"Cumulants in noncommutative probability II. Generalized Gaussian random
+  variables",3.316636677760054e-06,0.0,1.0,2.0
+math/0207298,The Curvature and Index of Completely Positive Maps,3.2776902449493445e-06,0.0,4.0,0.0
+math/0408190,"A class of C^*-algebras generalizing both graph algebras and
+  homeomorphism C^*-algebras III, ideal structures",3.2671434218216862e-06,0.0,1.0,4.0
+math/0504104,Measured quantum groupoids,3.2518356943345145e-06,0.0,7.0,1.0
+math/0606161,Twisted Burnside theorem for type II_1 groups: an example,3.2448102041180463e-06,0.0,2.0,4.0
+math/0606431,"Second Order Freeness and Fluctuations of Random Matrices, III. Higher
+  order freeness and free cumulants",3.2371267205831147e-06,0.0,2.0,1.0
+math/0205195,Group C*-algebras as compact quantum metric spaces,3.217749681764736e-06,1.667022045693527e-05,7.0,12.0
+math/0008056,Modular invariants and subfactors,3.2118688007614284e-06,3.690020431747307e-06,6.0,4.0
+math/0306112,Topological Quantum Field Theories and Operator Algebras,3.2098201662916816e-06,0.0,6.0,0.0
+math/0609160,On quaternionic functional analysis,3.177562657742176e-06,0.0,1.0,0.0
+math/0006114,Modular invariants from subfactors,3.1642411134194703e-06,4.670488157349348e-06,6.0,9.0
+math/0310214,"Approximation of Quantum Tori by Finite Quantum Tori for the Quantum
+  Gromov-Hausdorff Distance",3.16374567398001e-06,1.990182755160072e-06,8.0,1.0
+math/0607263,L^2-Invariants and rank metric,3.160797231785107e-06,0.0,2.0,1.0
+math/0204281,"Critical Phenomena, modular invariants and operator algebras",3.156052844522539e-06,1.220189924078154e-08,8.0,1.0
+math/0505367,Mirror extensions of local nets,3.1537149367924518e-06,0.0,5.0,0.0
+math/0405301,Construction of Parseval wavelets from redundant filter systems,3.127121323785725e-06,0.0,4.0,3.0
+math/0606060,"The local form of doubly stochastic maps and joint majorization in
+  II$_1$ factors",3.122561840017566e-06,0.0,4.0,1.0
+hep-th/0112092,Infinitely many star products to play with,3.1051199365826537e-06,1.0059818348340764e-05,10.0,16.0
+math/0604160,The ring structure for equivariant twisted K-theory,3.0955002744803623e-06,1.5710998468250599e-07,5.0,3.0
+hep-th/9912217,Distances in Finite Spaces from Noncommutative Geometry,3.094207980322497e-06,0.0001605206048507,13.0,12.0
+math/0410254,Three examples of noncommutative boundaries of Shimura varieties,3.0902999294015524e-06,3.078096361915319e-07,4.0,1.0
+math/0511098,K-Theory of pseudodifferential operators with semi-periodic symbols,3.08565521809763e-06,0.0,3.0,0.0
+math/0502181,"On the classification of simple Z-stable C*-algebras with real rank zero
+  and finite decomposition rank",3.084119668454497e-06,0.0,5.0,4.0
+math/0405267,A categorical and diagrammatical approach to Temperley-Lieb algebras,3.079525369192029e-06,2.858988460485405e-06,2.0,5.0
+math/0603025,"Algebras of operators in Banach spaces over the quaternion skew field
+  and the octonion algebras",3.0788822782192983e-06,0.0,3.0,1.0
+math/0003185,"Hilbertian versus Hilbert W*-modules, and applications to $L^2$- and
+  other invariants",3.072049324770817e-06,1.990182755160072e-06,2.0,1.0
+math/9812045,*-Representations of a Quantum Heisenberg Group Algebra,3.0676064777179377e-06,0.0,1.0,1.0
+math/0405263,"Quantum double construction in the C*-algebra setting of certain
+  Heisenberg-type quantum groups",3.057484070598036e-06,0.0,2.0,0.0
+hep-th/9807234,Singular dimensions of the N=2 superconformal algebras. I,3.056954285063904e-06,1.990182755160072e-06,3.0,5.0
+math/0102167,"Differentiable cyclic cohomology and Hopf algebraic structures in
+  transverse geometry",3.0554923141037934e-06,4.5617195347485655e-08,2.0,3.0
+math/0211272,Strictly outer actions of groups and quantum groups,3.0472482127272877e-06,0.0,2.0,1.0
+math/0311295,Real versus complex K-theory using Kasparov's bivariant KK-theory,3.0472482127272877e-06,0.0,2.0,0.0
+math/0509062,"Weak convergence of finite graphs, integrated density of states and a
+  Cheeger type inequality",3.0472482127272877e-06,0.0,2.0,1.0
+math/0601276,Approximately $C^*$-inner product preserving mappings,3.0472482127272877e-06,0.0,2.0,0.0
+math/0701527,Noncommutative manifolds from graph and $k$-graph $C^*$-algebras,3.0472482127272877e-06,0.0,2.0,0.0
+math/0611098,A tensor product of representations of Cuntz algebras,3.0472482127272877e-06,0.0,2.0,1.0
+math-ph/0110003,"Recursive Fermion System in Cuntz Algebra.I -- Embeddings of Fermion
+  Algebra into Cuntz Algebra ---",3.044556371831308e-06,0.0,2.0,3.0
+math/0509103,On the classification problem for nuclear C*-algebras,3.026509160398983e-06,0.0,3.0,8.0
+math/0603694,Homological index formulas for elliptic operators over C*-algebras,3.0242486180705063e-06,0.0,1.0,2.0
+math/0504331,The Spectral Theorem for Bimodules in Higher Rank Graph C*-algebras,3.010913855322591e-06,0.0,2.0,1.0
+quant-ph/0408159,Operational distance and fidelity for quantum channels,3.00903062306044e-06,0.0,4.0,5.0
+math/0703674,The Automorphism group of a simple tracially AI algebra,3.0040218694264828e-06,0.0,3.0,1.0
+math/0210420,Decomposition rank of subhomogeneous $C^*$-algebras,3.0009494715038117e-06,0.0,4.0,1.0
+math/0409040,"A note on noncommutative holomorphic and harmonic functions on the unit
+  disk",2.99724817664247e-06,0.0,6.0,0.0
+math/0504063,Notes on Free Probability Theory,2.9904516594472707e-06,0.0,4.0,1.0
+math/0311502,Morita equivalence of smooth noncommutative tori,2.9887985772217184e-06,3.871021646919495e-06,7.0,4.0
+math/0504286,Graph-Based Models for Kirchberg Algebras,2.9851365543205523e-06,0.0,2.0,1.0
+math/0109100,Bounded rank of C*-algebras,2.9851365543205523e-06,0.0,2.0,1.0
+math/0001020,A Galois correspondence for II_1 factors and quantum groupoids,2.973751276628913e-06,0.0,6.0,4.0
+hep-th/0401168,T-duality for torus bundles via noncommutative topology,2.9721036424313085e-06,6.889203576052129e-07,14.0,21.0
+math/0404553,A quantum computing primer for operator theorists,2.964054843792461e-06,1.990182755160072e-06,7.0,1.0
+math/0409380,Measured quantum groupoids,2.963783154056943e-06,0.0,6.0,1.0
+math/0510138,On decomposability of positive maps between $M_2$ and $M_n$,2.9556313555959445e-06,0.0,2.0,0.0
+math/0509302,Planar algebras and Kuperberg's 3-manifold invariant,2.9406307566700315e-06,0.0,2.0,0.0
+math/0608451,On Ozawa's Property for Free Group Factors,2.9343530573457666e-06,1.990182755160072e-06,4.0,1.0
+math/0508096,An Inequality of Hadamard Type for Permanents,2.923024895913817e-06,0.0,1.0,0.0
+math/0609269,Values of the Pukanszky Invariant in McDuff Factors,2.923024895913817e-06,0.0,1.0,0.0
+math/0506451,Quantales as geometric objects: symmetry beyond groupoids?,2.91697922313738e-06,0.0,1.0,0.0
+math/0204034,Wavelet representations and Fock space on positive matrices,2.916511437070556e-06,0.0,1.0,1.0
+math-ph/0304022,"Classification of Two-dimensional Local Conformal Nets with c<1 and
+  2-cohomology Vanishing for Tensor Categories",2.893873251860574e-06,3.82520601247857e-06,6.0,7.0
+math/0211462,Quantum even spheres Sigma_q^2n from Poisson double suspension,2.877515580861432e-06,1.3632115353841644e-08,2.0,1.0
+math/9911239,"Modular Invariants from Subfactors: Type I Coupling Matrices and
+  Intermediate Subfactors",2.8705478874593926e-06,3.410375729396795e-05,3.0,11.0
+math/0408400,"Hyperlinearity, essentially free actions and $L^2$-invariants. The sofic
+  property",2.855213185875573e-06,0.0,3.0,0.0
+math/0209049,Extensions of C*-algebras by partial isometries,2.855213185875573e-06,0.0,2.0,5.0
+math/0202108,"Dimensions and singular traces for spectral triples, with applications
+  to fractals",2.855213185875573e-06,0.0,2.0,2.0
+math/0502414,When a C*-algebra is a coefficient algebra for a given endomorphism,2.849706961914736e-06,4.97545688790018e-07,4.0,6.0
+math/9909104,"Random words, quantum statistics, central limits, random matrices",2.8469552279025178e-06,8.668327852812233e-06,13.0,11.0
+math/0606155,A twisted Burnside theorem for countable groups and Reidemeister numbers,2.8448948657450828e-06,0.0,1.0,5.0
+math/9912151,"KMS States, Entropy and the Variational Principle in full C*-dynamical
+  systems",2.844613636548616e-06,5.367428827302664e-05,3.0,1.0
+math/0505028,Furstenberg Transformations and Approximate Conjugacy,2.8418211364869483e-06,0.0,5.0,0.0
+math/0402177,"A note on invariants of flows induced by Abelian differentials on
+  Riemann surfaces",2.838187256779609e-06,0.0,1.0,0.0
+math/0703393,A class of simple C*-algebras with stable rank one,2.83734701154986e-06,0.0,1.0,0.0
+math/0401227,Dualizing the coarse assembly map,2.831707127013269e-06,0.0,2.0,2.0
+math/0203051,"Regular Objects, Multiplicative Unitaries and Conjugation",2.823777327541916e-06,0.0,2.0,0.0
+math/0703610,"Asymptotically unitary equivalence and asymptotically inner
+  automorphisms",2.8204256443880398e-06,0.0,2.0,1.0
+math/0510340,Bounded-Lipschitz Distances on the State Space of a C*-algebra,2.810389822147221e-06,0.0,4.0,0.0
+math/0612025,Strict weak mixing of some C*-dynamical systems based on free shifts,2.798801579100347e-06,0.0,1.0,0.0
+math/0510314,On ergodic type theorems for strictly weak mixing C^*-dynamical systems,2.798801579100347e-06,0.0,1.0,0.0
+math/0201198,Homology of algebras of families of pseudodifferential operators,2.7980264335248964e-06,0.0,2.0,0.0
+math/0404166,The C*-algebra of a vector bundle and fields of Cuntz algebras,2.793101527468838e-06,0.0,3.0,1.0
+hep-th/0203056,"Two Large Examples in Orbifold Theory: Abelian Orbifolds and the Charge
+  Conjugation Orbifold on su(n)",2.780757635680548e-06,1.990182755160072e-06,11.0,10.0
+math-ph/0608044,Modular Conjugation and the Implementation of Supersymmetry,2.77239764133326e-06,0.0,1.0,0.0
+math/0108060,Fidelity preserving maps on density operators,2.77239764133326e-06,0.0,1.0,1.0
+math/0311178,"Applications of the Wold decomposition to the study of row contractions
+  associated with directed graphs",2.7618360662264243e-06,0.0,2.0,0.0
+math/0607603,"A C*-algebra of geometric operators on self-similar CW-complexes.
+  Novikov-Shubin and L^2-Betti numbers",2.761706651641428e-06,0.0,1.0,1.0
+math-ph/0008004,Quantized reduction as a tensor product,2.754694522098495e-06,0.0,3.0,8.0
+math/9810035,Algebraic Coset Conformal field theories,2.7490680841594687e-06,0.0,3.0,4.0
+math/0108014,Unbounded Fredholm Operators and Spectral Flow,2.7444401294732823e-06,0.0,3.0,6.0
+math/0505189,A property (T) for C*-algebras,2.7381302006244394e-06,0.0,2.0,1.0
+math/0405191,"Second Order Freeness and Fluctuations of Random Matrices: I. Gaussian
+  and Wishart matrices and Cyclic Fock spaces",2.732618455242534e-06,0.0,2.0,5.0
+math/9803057,Morita equivalence of multidimensional noncommutative tori,2.710037601780561e-06,0.0014648220857603,18.0,34.0
+math/0107157,Z-Analytic TAF Algebras and Partial Dynamical Systems,2.7015851643942016e-06,0.0,2.0,2.0
+quant-ph/0510102,Observables as functions: Antonymous functions,2.7015851643942016e-06,0.0,3.0,1.0
+math/0312033,"Classification of subsystems for graded-local nets with trivial
+  superselection structure",2.6983128309390976e-06,0.0,3.0,0.0
+math/0507336,Rectangular random matrices. Related convolution,2.697084014042981e-06,0.0,1.0,0.0
+math/0509159,Dimension growth for $C^*$-algebras,2.6966329155849125e-06,0.0,4.0,1.0
+math/0211002,Haar measure on a locally compact quantum group,2.6789007319475136e-06,0.0,4.0,0.0
+math/0602212,Locally Compact Quantum Groups. A von Neumann Algebra Approach,2.6767405010315075e-06,0.0,2.0,6.0
+hep-th/0307241,Moyal Planes are Spectral Triples,2.6764247972153674e-06,2.861992891247209e-06,4.0,9.0
+math/0503439,The Crossed Product by a Partial Endomorphism and the Covariance Algebra,2.6671393059911078e-06,0.0,2.0,0.0
+math/0509691,Unitary orbits of normal operators in von Neumann algebras,2.6631781590238582e-06,0.0,2.0,0.0
+math/9807095,"Structure and Isomorphism Classification of Compact Quantum Groups
+  A_u(Q) and B_u(Q)",2.655459106940568e-06,1.990182755160072e-06,2.0,1.0
+math/0405258,"Second Order Freeness and Fluctuations of Random Matrices: II. Unitary
+  Random Matrices",2.6357445837593283e-06,0.0,2.0,3.0
+math/0303266,Strong additivity and conformal nets,2.62607531954432e-06,3.238674940261322e-05,4.0,8.0
+math/0401138,A Unique Decomposition Result for HT Factors with Torsion Free Core,2.617163843606633e-06,0.0,3.0,3.0
+math/0605145,"On twisted Fourier analysis and convergence of Fourier series on
+  discrete groups",2.613787924690939e-06,0.0,1.0,0.0
+hep-th/9805034,Morita equivalence and duality,2.6025126494797647e-06,0.0019761919994937,15.0,109.0
+math/0504262,"Notes on treeability and costs for discrete groupoids in operator
+  algebra framework",2.5838605209435675e-06,0.0,2.0,1.0
+math/0603305,Relatively Hyperbolic Groups are $C^*$-simple,2.581090736719344e-06,0.0,2.0,0.0
+math/0409168,"Stable and real rank for crossed products by automorphisms with the
+  tracial Rokhlin property",2.5400779450443523e-06,0.0,4.0,4.0
+math/0602598,Stable rank of inclusion of C*-algebras of depth 2,2.5389202004727494e-06,0.0,2.0,0.0
+funct-an/9611003,Topics in hidden symmetries. V,2.536462736579789e-06,0.0,5.0,10.0
+math/0111025,Amenability and co-amenability of algebraic quantum groups,2.532884450880013e-06,0.0,3.0,1.0
+quant-ph/0511101,Quantum Error Correcting Codes From The Compression Formalism,2.523483835739333e-06,1.990182755160072e-06,4.0,1.0
+math/0201130,"On the physical relevance of random walks: an example of random walks on
+  a randomly oriented lattice",2.512264109528488e-06,0.0,2.0,0.0
+math/0303161,Positive topological entropy and $\ell_1$,2.5109770075074743e-06,0.0,1.0,2.0
+math/0203029,On the domain of singular traces,2.4975470699392314e-06,0.0,1.0,0.0
+math/0605215,On the existence of $E_0$-semigroups,2.4955188250947776e-06,0.0,1.0,1.0
+math/0408291,Crossed products by minimal homeomorphisms,2.494247736955372e-06,0.0,4.0,6.0
+math/0609782,The tracial Rokhlin property for actions of finite groups on C*-algebras,2.4772783872685497e-06,0.0,3.0,0.0
+math/0602222,"Induction in stages for crossed products of C*-algebras by maximal
+  coactions",2.4711431321721443e-06,0.0,1.0,0.0
+math/0510358,A Beurling theorem for noncommutative L^p,2.4711431321721443e-06,0.0,1.0,1.0
+math/0503169,Orthogonal Polynomials and Fluctuations of Random Matrices,2.4711431321721443e-06,0.0,1.0,3.0
+math/0610452,Non-Orbit Equivalent Actions of $\Bbb F_n$,2.4711431321721443e-06,0.0,1.0,0.0
+math/0301214,"Crossed Products by Endomorphisms, Vector Bundles and Group Duality",2.4711431321721443e-06,0.0,1.0,4.0
+math/0112289,Inequality for Voiculescu's free entropy in terms of Brown measure,2.4711431321721443e-06,0.0,1.0,0.0
+math/0205119,On the stable rank of algebras of operator fields over metric spaces,2.4711431321721443e-06,0.0,1.0,0.0
+math/0609604,"Norming Algebras and Automatic Complete Boundedness of Isomorphisms of
+  Operator Algebras",2.4711431321721443e-06,0.0,1.0,0.0
+math/0110295,"An asymptotic dimension for metric spaces, and the 0-th Novikov-Shubin
+  invariant",2.4711431321721443e-06,0.0,1.0,0.0
+math/0607615,Connes' embedding conjecture and sums of hermitian squares,2.4711431321721443e-06,0.0,1.0,0.0
+math/0607489,A Morita Type Equivalence for Dual Operator Algebras,2.4711431321721443e-06,0.0,1.0,0.0
+math/0608445,Toeplitz-Composition C*-Algebras,2.4711431321721443e-06,0.0,1.0,0.0
+math/0610059,Algebra with indefinite involution and its representation in Krein space,2.4711431321721443e-06,0.0,1.0,0.0
+math/0110267,A noncommutative version of the Banach-Stone theorem (II),2.4711431321721443e-06,0.0,1.0,0.0
+math/0702775,"Realization of minimal C*-dynamical systems in terms of Cuntz-Pimsner
+  algebras",2.4711431321721443e-06,0.0,1.0,0.0
+math/9910109,Injective envelopes and local multiplier algebras of C*-algebras,2.4711431321721443e-06,0.0,1.0,0.0
+math/0411555,The Alternative Daugavet Property of $C^*$-algebras and $JB^*$-triples,2.4711431321721443e-06,0.0,1.0,1.0
+math/0605450,Sur la Propri\'et\'e (T) tordue par un produit tensoriel,2.4711431321721443e-06,0.0,1.0,0.0
+math/0005178,Normalizers of Operator Algebras and Reflexivity,2.4711431321721443e-06,0.0,1.0,0.0
+math/0606688,Classification of Extensions of Classifiable C*-algebras,2.4711431321721443e-06,0.0,1.0,0.0
+math/0607796,K-theory of some C*-algebras and buildings,2.4711431321721443e-06,0.0,1.0,0.0
+funct-an/9608004,Projective Fourier Duality and Weyl Quantization,2.4711431321721443e-06,0.0,1.0,0.0
+math/0403345,Symplectic leaves in real Banach Lie-Poisson spaces,2.4711431321721443e-06,0.0,1.0,3.0
+math/0702217,"Proof of the cases $p \leq 7$ of the Lieb-Seiringer formulation of the
+  Bessis-Moussa-Villani conjecture",2.4711431321721443e-06,0.0,1.0,0.0
+math/0612296,"Strength of convergence and multiplicities in the spectrum of a
+  C*-dynamical system",2.4711431321721443e-06,0.0,1.0,0.0
+math/0612125,"Approximate Homotopy of Homomorphisms from $C(X)$ into a Simple
+  $C^*$-algebra",2.4711431321721443e-06,0.0,1.0,0.0
+math/0407330,"Martingales, endomorphisms, and covariant systems of operators in
+  Hilbert space",2.4711431321721443e-06,0.0,1.0,13.0
+math/0511068,Bounded and unitary elements in pro-C^*-algebras,2.4711431321721443e-06,0.0,1.0,0.0
+math/0508028,Automatic Continuity of $\sigma$-Derivations on $C^*$-Algebras,2.4711431321721443e-06,0.0,1.0,0.0
+math/0404552,The Inner Amenability of the Generalized Thompson Group,2.4711431321721443e-06,0.0,1.0,0.0
+math/0312061,A Non-commutative Monotone Selection Principle,2.4711431321721443e-06,0.0,1.0,0.0
+math/0307367,Manifold structure of spaces of spherical tight frames,2.4711431321721443e-06,0.0,1.0,1.0
+math/9804074,On conditional expectations of finite index,2.4711431321721443e-06,0.0,1.0,1.0
+math/0602677,On Transitive Systems of Subspaces in a Hilbert Space,2.4711431321721443e-06,0.0,1.0,0.0
+math/0503626,Corners of graph algebras,2.4711431321721443e-06,0.0,1.0,1.0
+math/0307079,Duality and Normal Parts of Operator Modules,2.4711431321721443e-06,0.0,1.0,0.0
+math/0308255,Simplicity of the reduced C-*-algebras of certain Coxeter groups,2.4711431321721443e-06,0.0,1.0,0.0
+math/0405063,Completely Bounded Homomorphisms of the Fourier Algebras,2.4711431321721443e-06,0.0,1.0,2.0
+math/0212056,"Associativity of crossed products by partial actions, enveloping actions
+  and partial representations",2.4711431321721443e-06,0.0,1.0,1.0
+math/0209125,The Dixmier-Douady Class of Groupoid Crossed Products,2.4711431321721443e-06,0.0,1.0,0.0
+math/0212079,"A class of preservers on Hilbert space effects including ortho-order
+  automorphisms and sequential automorphisms",2.4711431321721443e-06,0.0,1.0,0.0
+math/0211168,Free product actions and their applications,2.4711431321721443e-06,0.0,1.0,0.0
+math/0211144,Stable rank of graph algebras. Type I graph algebras and their limits,2.4711431321721443e-06,0.0,1.0,0.0
+math/0502335,"Extremal cases of exactness constant and completely bounded projection
+  constant",2.4711431321721443e-06,0.0,1.0,0.0
+math/0505047,Jordan maps and triple maps on algebras of unbounded operators,2.4711431321721443e-06,0.0,1.0,0.0
+math-ph/0511064,"Massless scalar free Field in 1+1 dimensions I: Weyl algebras Products
+  and Superselection Sectors",2.4711431321721443e-06,0.0,1.0,1.0
+math/0305316,On volumes of hyperbolic 3-manifolds,2.4711431321721443e-06,0.0,1.0,0.0
+math/0401091,"Operator synthesis II. Individual synthesis and linear operator
+  equations",2.4711431321721443e-06,0.0,1.0,0.0
+math/0310421,Representations of Group Algebras in Spaces of Completely Bounded Maps,2.4711431321721443e-06,0.0,1.0,0.0
+math/0601171,A log-Sobolev type inequality for free entropy of two projections,2.4711431321721443e-06,0.0,1.0,1.0
+math/0409222,On $C^*$-algebras generated by some deformations of CAR relations,2.4711431321721443e-06,0.0,1.0,0.0
+math/0501238,"Free transportation cost inequalities for non-commutative
+  multi-variables",2.4711431321721443e-06,0.0,1.0,0.0
+math/0509094,"Characteristic functions for multicontractions and automorphisms of the
+  unit ball",2.4711431321721443e-06,0.0,1.0,1.0
+math/0607299,Operator space structure on Feichtinger's Segal algebra,2.4711431321721443e-06,0.0,1.0,0.0
+math/0607085,Exotic indecomposable systems of four subspaces in a Hilbert space,2.4711431321721443e-06,0.0,1.0,0.0
+math/0002141,"Ergodicity of the action of the positive rationals on the group of
+  finite adeles and the Bost-Connes phase transition theorem",2.4711431321721443e-06,0.0,1.0,0.0
+math/0005110,Approximately finitely acting operator algebras,2.4711431321721443e-06,0.0,1.0,0.0
+math-ph/9809009,KP Solitons are Bispectral,2.4711431321721443e-06,0.0,1.0,0.0
+math/0010189,Frames in Hilbert C*-modules and C*-algebras,2.4711431321721443e-06,0.0,1.0,0.0
+math/0604308,"Embedding ergodic actions of compact quantum groups on C*-algebras into
+  quotient spaces",2.4711431321721443e-06,0.0,1.0,0.0
+math/0604372,Dual Banach algebras: representations and injectivity,2.4711431321721443e-06,0.0,1.0,1.0
+math/0004030,"Characterization of Cyclic and Separating Vectors and Application to an
+  Inverse Problem in Modular Theory, II. Semifinite Factors",2.4711431321721443e-06,0.0,1.0,0.0
+math/0007106,"Some irreducible free group representations in which a linear
+  combination of the generators has an eigenvalue",2.4711431321721443e-06,0.0,1.0,0.0
+math/0601354,"Radon--Nikodym representations of Cuntz--Krieger algebras and Lyapunov
+  spectra for KMS states",2.4711431321721443e-06,0.0,2.0,0.0
+math/0512492,"Semicircularity, Gaussianity and Monotonicity of Entropy",2.4711431321721443e-06,0.0,1.0,0.0
+math/9809098,"Integrable and proper actions on C*-algebras, and square-integrable
+  representations of groups",2.4711431321721443e-06,0.0,1.0,6.0
+math/0610529,Quantum groups and Hadamard matrices,2.4704912340417973e-06,0.0,3.0,0.0
+math/0312242,Non-microstates free entropy dimension for groups,2.457340541415092e-06,0.0,3.0,4.0
+math-ph/9804004,Projective Group Algebras,2.449983557414424e-06,0.0,8.0,1.0
+math-ph/0201015,Classification of Local Conformal Nets. Case c < 1,2.449066854728249e-06,9.997259350671884e-06,4.0,20.0
+quant-ph/0504189,Operator quantum error correction,2.4408555367132897e-06,1.1300343877223389e-05,2.0,14.0
+math/0301337,Partial dynamical systems and AF C*-algebras,2.4372961681070087e-06,0.0,1.0,1.0
+math/0207282,Matricial quantum Gromov-Hausdorff distance,2.4369193177707496e-06,2.9544768561611136e-05,2.0,6.0
+math/0406331,Intersections of finite families of finite index subfactors,2.4265646850474176e-06,1.990182755160072e-06,3.0,1.0
+math/0602450,From filters to wavelets via direct limits,2.425475483897501e-06,0.0,2.0,0.0
+math/0601024,Sums of two dimensional spectral triples,2.4157841147293487e-06,0.0,2.0,2.0
+math/0112309,Metrics On The Quantum Heisenberg Manifold,2.410098327002682e-06,0.0,2.0,1.0
+math/0409520,Lectures on Arithmetic Noncommutative Geometry,2.407171011965949e-06,1.2419042570305184e-06,4.0,2.0
+math/9807084,Metrics on states from actions of compact groups,2.405793951992499e-06,0.0021007305934282,7.0,22.0
+math/9904109,"On $\alpha$-induction, chiral generators and modular invariants for
+  subfactors",2.4045553413426726e-06,6.162780516552828e-06,3.0,17.0
+math-ph/0210031,Algebras of random operators associated to Delone dynamical systems,2.3971263339664087e-06,0.0,2.0,0.0
+math/0410192,The Crossed Product by a Partial Endomorphism,2.393976616140929e-06,1.2875541792245168e-05,2.0,3.0
+math/0209142,"Cyclic Cohomology, Quantum group Symmetries and the Local Index Formula
+  for SUq(2)",2.3867056310658637e-06,1.2067875584566602e-05,5.0,14.0
+math/0407199,"Some computations of 1-cohomology groups and construction of non orbit
+  equivalent actions",2.378827376343874e-06,4.97545688790018e-07,5.0,4.0
+math/9808116,Geometric Quantization of Vector Bundles,2.375284203899391e-06,2.010332655107917e-06,4.0,8.0
+math/0407190,On the uniqueness of diffeomorphism symmetry in Conformal Field Theory,2.360181150444304e-06,1.7858837450213695e-06,3.0,2.0
+math/0211141,Classification of operator algebraic conformal field theories,2.356182301338686e-06,2.458305486918328e-07,5.0,4.0
+math/0611872,Multiplier Hopf algebras imbedded in C$^*$-algebraic quantum groups,2.3526484728906897e-06,0.0,3.0,3.0
+math/0305380,"Invariant integration theory on non-compact quantum spaces: Quantum
+  (n,1)-matrix ball",2.348811350022048e-06,0.0,2.0,1.0
+math/0507373,"Operator amenability of Fourier-Stieltjes algebras, II",2.3469198153586743e-06,0.0,1.0,1.0
+math/0304282,"Fock factorizations, and decompositions of the $L^2$ spaces over general
+  Levy processes",2.343316592009128e-06,3.980365510320144e-06,1.0,1.0
+math/0309393,Partly Free Algebras from Directed Graphs,2.3363582402518397e-06,0.0,2.0,0.0
+math/0206074,"C*-Algebras, Approximately Proper Equivalence Relations, and
+  Thermodynamic Formalism",2.3176720899055787e-06,0.0,3.0,1.0
+math/0309323,Noncommutative Maslov Index and Eta Forms,2.31099873608074e-06,0.0,1.0,1.0
+funct-an/9507001,"Dynamical inverse problem of representation theory and noncommutative
+  geometry",2.310901898345033e-06,0.0,3.0,3.0
+math/9901063,Weight theory for C*-algebraic quantum groups,2.310179708886473e-06,0.0,4.0,4.0
+math/0606664,A note on rigidity for crossed product von Neumann algebras,2.3064445474258864e-06,0.0,2.0,0.0
+math/0108067,Dual Bialgebroids for Depth Two Ring Extensions,2.3063122098960312e-06,7.960731020640288e-06,2.0,10.0
+math/0604405,Hopfish structure and modules over irrational rotation algebras,2.30577551903038e-06,3.5992703335066254e-07,3.0,4.0
+math/0309291,Busemann Points of Infinite Graphs,2.302360328500679e-06,3.2976734664758774e-06,4.0,4.0
+math/0601706,"A relationship between HNN extensions and amalgamated free products in
+  operator algebras",2.2930381964417725e-06,0.0,1.0,0.0
+math/0107231,"Wavelet filter functions, the matrix completion problem, and projective
+  modules over $C(\mathbb T^n)$",2.287448550728648e-06,0.0,1.0,2.0
+math/0606191,"Noncommutative Riesz theorem and weak Burnside type theorem on twisted
+  conjugacy",2.282932639034484e-06,0.0,2.0,2.0
+math-ph/0208004,Quantization and the tangent groupoid,2.279500894428396e-06,2.987865516535889e-06,4.0,3.0
+math/9907149,Chiral structure of modular invariants for subfactors,2.27555023325084e-06,4.094881494860536e-07,3.0,10.0
+math/0208212,Loewner's equation in noncommutative probability,2.274666298242973e-06,9.95091377580036e-07,5.0,3.0
+funct-an/9707010,The analytic structure of an algebraic quantum group,2.265391317688165e-06,0.0,4.0,8.0
+math/0409169,Furstenberg transformations on irrational rotation algebras,2.2633153372841563e-06,0.0,2.0,4.0
+quant-ph/0101003,An Analysis of Completely-Positive Trace-Preserving Maps on 2x2 Matrices,2.2566777364715136e-06,6.715409656890949e-05,7.0,24.0
+funct-an/9409003,"Classical and quantum dynamics of noncanonically coupled oscillators and
+  Lie superalgebras",2.236525333171024e-06,0.0,2.0,5.0
+math/0305306,"Strong Rigidity of II$_1$ Factors Arising from Malleable Actions of
+  w-Rigid Groups, I",2.225698346584508e-06,0.0,4.0,15.0
+math-ph/9807029,Constrained quantization in algebraic field theory,2.2201631672188537e-06,0.0,1.0,0.0
+math/0501278,Stone spectra of von Neumann algebras of type $I_{n}$,2.2158564365873934e-06,0.0,2.0,0.0
+math/0111205,"From Subfactors to Categories and Topology II. The quantum double of
+  tensor categories and subfactors",2.2141430864195235e-06,6.016903679923624e-06,3.0,10.0
+math-ph/0110004,Nonlinear Transformation Group of CAR Fermion Algebra,2.2139736105254765e-06,0.0,1.0,4.0
+math/0305105,"Topologically free partial actions and faithful representations of
+  partial crossed products",2.210344390000978e-06,1.1609399405100422e-06,3.0,2.0
+math/0505475,Background independent geometry and Hopf cyclic cohomology,2.2026044285155668e-06,0.0,3.0,6.0
+math/0703336,Conformal covariance and related properties of chiral QFT,2.200683883450662e-06,0.0,3.0,0.0
+funct-an/9702001,On summability of distributions and spectral geometry,2.1963596829002685e-06,2.425523177567155e-09,6.0,6.0
+quant-ph/0203105,The capacity of hybrid quantum memory,2.1887045236178643e-06,9.95091377580036e-06,4.0,5.0
+math-ph/9809004,A Theory of algebraic integration,2.1845064797851008e-06,0.0,2.0,0.0
+math/0207303,"Towards the Baum-Connes' Analytical Assembly Map for the Actions of
+  Discrete Quantum Groups",2.1770496460411908e-06,0.0,2.0,0.0
+math/0310470,"A Complete Formulation of Baum-Conens' Conjecture for the Action of
+  Discrete Quantum Groups",2.1770496460411908e-06,0.0,2.0,0.0
+math/0101133,"Extensions of locally compact quantum groups and the bicrossed product
+  construction",2.1768953750027386e-06,0.0,1.0,2.0
+math/0402105,"Noiseless subsystems for collective rotation channels in quantum
+  information theory",2.1751106871571734e-06,1.990182755160072e-06,5.0,1.0
+math/0501262,Minimal Homeomorphisms and Approximate Conjugacy in Measure,2.1721415174324595e-06,0.0,3.0,1.0
+math/0406592,"Gauge-invariant ideals in the C*-algebras of finitely aligned
+  higher-rank graphs",2.1254800838390582e-06,0.0,2.0,1.0
+math/0212396,"Random matrices, free probability and the invariant subspace problem
+  relative to a von Neumann Algebra",2.120978933487838e-06,0.0,1.0,0.0
+math/0304315,Compact Operators and Nest Representations of Limit Algebras,2.120978933487838e-06,0.0,1.0,1.0
+math/0404557,Three Ways to Representations of B^a(E),2.1185320892555816e-06,9.236849655476892e-07,3.0,1.0
+math-ph/0011044,Algebraic Quantum Field Theory: A Status Report,2.115418756889531e-06,0.000189537260289,4.0,14.0
+math/9808054,Algebraic Versions of a Finite-Dimensional Quantum Groupoid,2.108097968710434e-06,0.0,5.0,9.0
+funct-an/9702004,Pseudodifferential operators on differential groupoids,2.1057279096485964e-06,0.0,3.0,4.0
+math-ph/0111037,"$\beta$-Boundedness, Semipassivity, and the KMS-Condition",2.102325931408985e-06,0.0,1.0,2.0
+math/0307126,Construction of a quantum Heisenberg group,2.092559793521622e-06,0.0,3.0,3.0
+math/0108107,"Index defects in the theory of nonlocal boundary value problems and the
+  eta invariant",2.0833221198426986e-06,0.0,1.0,3.0
+math/0302240,Some prime factorization results for type II_1 factors,2.079687115897496e-06,0.0,3.0,1.0
+math/0312512,Solitons in Affine and Permutation Orbifolds,2.061865755524446e-06,3.7130275282837164e-09,2.0,3.0
+math/0210155,"From C*algebra extensions to CQMS, ${SU}_q(2)$, Podles sphere and other
+  examples",2.059880045806459e-06,0.0,2.0,1.0
+math/9810028,A characterization of depth 2 subfactors of II_1 factors,2.055084580027151e-06,0.0,5.0,7.0
+math/9810049,"Duality for actions of weak Kac algebras and crossed product inclusions
+  of II_1 factors",2.055084580027151e-06,0.0,5.0,7.0
+math/0404128,"From Physics to Number Theory via Noncommutative Geometry. Part I:
+  Quantum Statistical Mechanics of Q-lattices",2.0524762507601188e-06,8.516766842138931e-06,2.0,11.0
+math/0207278,Four Lectures on Noncommutative Dynamics,2.0512748165025958e-06,0.0,2.0,1.0
+math/0212292,"Operator representations of cross product algebras of Podles' quantum
+  spheres",2.0500683986558297e-06,0.0,2.0,0.0
+math/0309398,Partially Isometric Dilations of Noncommuting $N$-tuples of Operators,2.0456653061975597e-06,0.0,1.0,0.0
+math/0405032,Universal collective rotation channels and quantum error correction,2.041408631495281e-06,0.0,5.0,0.0
+math/0504062,Remarks on free entropy dimension,2.030276525188699e-06,0.0,2.0,0.0
+math/0606594,The Calkin algebra has outer automorphisms,2.017466278325484e-06,0.0,1.0,0.0
+math/0611615,Semi-regular masas of transfinite length,2.017466278325484e-06,0.0,1.0,0.0
+math/0007180,Exponential forms and path integrals for complex numbers in n dimensions,2.016187387991094e-06,0.0,7.0,8.0
+math/0603585,Independence in topological and C*-dynamics,2.0114318392474326e-06,0.0,1.0,0.0
+math/0210357,New perspectives in Arakelov geometry,2.007382676491492e-06,0.0,2.0,0.0
+math/0504313,"Amenability, completely bounded projections, dynamical systems and
+  smooth orbits",2.004257533926402e-06,0.0,1.0,5.0
+math/0407395,Integrability of almost complex structures on Banach manifolds,2.004257533926402e-06,0.0,1.0,0.0
+math/0610827,"General Tridiagonal Random Matrix Models, Limiting Distributions and
+  Fluctuations",1.9956250399647653e-06,0.0,1.0,0.0
+math/0611198,An index theorem for Wiener--Hopf operators,1.9868974942638355e-06,0.0,1.0,0.0
+math-ph/0702076,Renormalised iterated integrals of symbols with linear constraints,1.977981799771155e-06,0.0,2.0,0.0
+math/0504423,Non-separable AF-algebras,1.975441245154943e-06,0.0,1.0,1.0
+math/0011194,"Noncommutative Manifolds the Instanton Algebra and Isospectral
+  Deformations",1.975158422231921e-06,4.798531235253303e-06,2.0,33.0
+math/9903096,Algebraic Conformal Field Theories II,1.9687468782216625e-06,0.0,4.0,5.0
+math/0309429,Subquotients of Hecke C^*-algebras,1.962815119917607e-06,0.0,2.0,1.0
+math/0703001,Restrictions of CP-Semigroups to Maximal Commutative Subalgebras,1.960941104449341e-06,0.0,1.0,0.0
+math/0404444,Unbounded operators on Banach spaces over the quaternion field,1.9521518081704982e-06,0.0,1.0,1.0
+math/0611272,"On spectra and Brown's spectral measures of elements in free products of
+  matrix algebras",1.9515232720847105e-06,0.0,2.0,0.0
+math/0609785,Finite cyclic group actions with the tracial Rokhlin property,1.9481129721280863e-06,0.0,2.0,0.0
+math/0609783,Every simple higher dimensional noncommutative torus is an AT algebra,1.9481129721280863e-06,0.0,2.0,0.0
+math/0703314,Finite extension of group with infinite conjugacy classes,1.9452471364771878e-06,0.0,2.0,2.0
+math/0505267,Chern character for twisted K-theory of orbifolds,1.9440861064672542e-06,0.0,2.0,3.0
+math-ph/0001005,Quantization of Poisson algebras associated to Lie algebroids,1.9429619059051496e-06,1.0962327003556809e-05,2.0,10.0
+math/9804136,"Traces on algebras of parameter dependent pseudodifferential operators
+  and the eta-invariant",1.941126458061413e-06,0.0,2.0,0.0
+math/0212078,Preserving the measure of compatibility between quantum states,1.939370056703481e-06,0.0,2.0,0.0
+hep-th/9902044,"Singular dimensions of the N=2 superconformal algebras II: the twisted
+  N=2 algebra",1.934845281396407e-06,0.0,2.0,2.0
+math/0011193,Noncommutative Geometry Year 2000,1.924904018011434e-06,3.747983112811248e-05,8.0,27.0
+math/0311110,"Constructing Extensions of CP-Maps via Tensor Dilations with the Help of
+  Von Neumann Modules",1.9214619166331517e-06,3.280966143174338e-08,2.0,4.0
+math/0609784,"The structure of crossed products of irrational rotation algebras by
+  finite subgroups of SL_2 (Z)",1.915875454502927e-06,0.0,2.0,0.0
+math/0012084,A New Look at The Crossed-Product of a C*-algebra by an Endomorphism,1.9119909791265625e-06,0.0,2.0,14.0
+hep-th/9911171,"Structure Constants for New Infinite-Dimensional Lie Algebras of
+  U(N+,N-) Tensor Operators and Applications",1.9074024814880152e-06,1.2511288410521216e-09,1.0,1.0
+math/0410029,"Quantizations of some Poisson-Lie groups: The bicrossed product
+  construction",1.9052739094877505e-06,0.0,1.0,0.0
+math-ph/0507066,Conformal Covariance and Positivity of Energy in Charged Sectors,1.8980255810687624e-06,0.0,2.0,0.0
+quant-ph/0310001,Remote preparation of arbitrary ensembles and quantum bit commitment,1.8959654572213575e-06,1.5560197979479155e-05,3.0,8.0
+math/0510111,Continuous and discrete flows on operator algebras,1.8950380516170012e-06,0.0,1.0,0.0
+math/0309363,Isomorphisms of algebras associated with directed graphs,1.8950380516170012e-06,0.0,1.0,2.0
+math/0404346,Limit sets as examples in noncommutative geometry,1.8950380516170012e-06,0.0,1.0,0.0
+math/0504092,Bivariant Chern character and the longitudinal index theory,1.8950380516170012e-06,0.0,1.0,0.0
+math/0504435,Large deviations for functions of two random projection matrices,1.8950380516170012e-06,0.0,1.0,0.0
+math/0407220,Duality and operator algebras,1.8950380516170012e-06,0.0,1.0,0.0
+math-ph/0511072,Scaling Algebras and Superselection Sectors: Study of a Class of Models,1.8950380516170012e-06,0.0,1.0,0.0
+math/0703442,"Operator integrals, spectral shift and spectral flow",1.8950380516170012e-06,0.0,1.0,0.0
+math/0508025,The Noncommutative Geometry of Graph $C^*$-Algebras I: The Index Theorem,1.8950380516170012e-06,0.0,1.0,0.0
+math/0606794,"Proper metrics on locally compact groups, and proper affine isometric
+  actions on Banach spaces",1.8950380516170012e-06,0.0,1.0,1.0
+math/0609159,Regular normed bimodules,1.8950380516170012e-06,0.0,1.0,0.0
+math/0609386,Generalised Hecke algebras and C^*-completions,1.8950380516170012e-06,0.0,1.0,0.0
+math/0607795,Hilbertian matrix cross normed spaces arising from normed ideals,1.8950380516170012e-06,0.0,1.0,0.0
+math/0508566,Injective cogenerators among operator bimodules,1.8950380516170012e-06,0.0,1.0,0.0
+math/9906070,Approximation property of $C^*$-algebraic Bundles,1.8950380516170012e-06,0.0,1.0,1.0
+math-ph/0606047,"Branching laws for polynomial endomorphisms in CAR algebra for fermions,
+  uniformly hyperfinite algebras and Cuntz algebras",1.8950380516170012e-06,0.0,1.0,0.0
+math/0111026,Amenability and co-amenability of algebraic quantum groups II,1.8950380516170012e-06,0.0,2.0,0.0
+math/0601594,Strong Singularity of Singular Masas in II_1 Factors,1.8950380516170012e-06,0.0,1.0,1.0
+math/0312481,C^*-algebras associated with self-similar sets,1.8950380516170012e-06,0.0,1.0,2.0
+math/0201201,Periodic cyclic homology of Iwahori-Hecke algebras,1.8950380516170012e-06,0.0,1.0,0.0
+math-ph/0008003,Bicategories of operator algebras and Poisson manifolds,1.8950380516170012e-06,0.0,1.0,2.0
+math-ph/0011028,Generalised Brownian Motion and Second Quantisation,1.8950380516170012e-06,0.0,1.0,0.0
+math/0703345,"A Proof of a Non-Commutative Central Limit Theorem by the Lindeberg
+  Method",1.8950380516170012e-06,0.0,1.0,0.0
+math/0309343,L^2-Homology for von Neumann Algebras,1.8950380516170012e-06,0.0,1.0,9.0
+math/0610378,"C*-Algebra-valued-symbol pseudodifferential operators: abstract
+  characterizations",1.8950380516170012e-06,0.0,1.0,0.0
+math/0703385,Orthogonal Exponentials for Bernoulli Iterated Function Systems,1.8950380516170012e-06,0.0,1.0,0.0
+funct-an/9712008,Cuntz-Krieger algebras for infinite matrices,1.8950380516170012e-06,0.0,1.0,4.0
+math/0309293,C^*-algebras associated with complex dynamical systems,1.8950380516170012e-06,0.0,1.0,3.0
+math/0211047,Category of Noncommutative CW complexes. III,1.8950380516170012e-06,0.0,1.0,1.0
+math/0111027,"On amenability and co-amenability of algebraic quantum groups and their
+  corepresentations",1.8950380516170012e-06,0.0,2.0,1.0
+math/0211098,"Complete isometries - an illustration of noncommutative functional
+  analysis",1.8950380516170012e-06,0.0,1.0,0.0
+math/0205159,Logmodularity and isometries of operator algebras,1.8950380516170012e-06,0.0,1.0,0.0
+math/0205077,DT-operators and decomposability of Voiculescu's circular operator,1.8950380516170012e-06,0.0,1.0,2.0
+math/0310037,Boundedness of Pseudodifferential Operators of C^*-Algebra-Valued Symbol,1.8950380516170012e-06,0.0,1.0,0.0
+math/9807093,Ergodic Actions of Universal Quantum Groups on Operator Algebras,1.8950380516170012e-06,0.0,1.0,5.0
+math/0504095,Noncommutative geometry of foliations,1.8950380516170012e-06,0.0,1.0,3.0
+math/0312283,Extension problems and non-abelian duality for $C^*$-algebras,1.8950380516170012e-06,0.0,1.0,0.0
+math/0112074,Crossed products of C(X)-algebras by endomorphisms and C(X)-categories,1.88865616764206e-06,0.0,1.0,0.0
+math-ph/9901011,Non-commutative Bloch theory. An Overview,1.887874440082504e-06,0.0,1.0,3.0
+math/0606507,On the Characteristic Polynomial of the Almost Mathieu Operator,1.8741539789193707e-06,0.0,2.0,0.0
+quant-ph/0402056,"Noiseless subsystems and the structure of the commutant in quantum error
+  correction",1.8579902100500432e-06,0.0,3.0,2.0
+math/0201207,An index for gauge-invariant operators and the Dixmier-Douady invariant,1.854940400777624e-06,3.500854526667504e-09,4.0,1.0
+math/0106107,Biseparating maps between operator algebras,1.8536302793458448e-06,0.0,1.0,0.0
+math/0207164,Covering dimension and quasidiagonality,1.8374275435614872e-06,0.0,2.0,2.0
+math/0211043,Dimension and dynamical entropy for metrized C*-algebras,1.8339932464475392e-06,0.0,1.0,1.0
+math/0509450,On simplicity of reduced C*-algebras of groups,1.8329263932102664e-06,0.0,1.0,2.0
+math/0509266,2-C*-categories with non-simple units,1.8329263932102664e-06,0.0,1.0,1.0
+math/0412451,"Crossed products by endomorphisms, vector bundles and group duality, II",1.8329263932102664e-06,0.0,1.0,0.0
+math/9903104,"Multi-interval Subfactors and Modularity of Representations in Conformal
+  Field Theory",1.818224040876316e-06,0.0,2.0,16.0
+math/0312316,Quasidiagonality and the finite section method,1.818224040876316e-06,0.0,2.0,0.0
+hep-th/0011034,Non-Abelian Geometry,1.8172903882343111e-06,1.5306808419841818e-06,13.0,14.0
+math/0302169,"Plancherel measure for GL(n,F) and GL(m,D): explicit formulas and
+  Bernstein decomposition",1.803421194485659e-06,0.0,1.0,0.0
+math/0609703,Type III and spectral triples,1.7990902727115351e-06,0.0,1.0,1.0
+math/9911055,"The homotopy classification and the index of boundary value problems for
+  general elliptic operators",1.7990205381911442e-06,0.0,2.0,2.0
+math/9907047,Elliptic operators in subspaces and the eta invariant,1.7990205381911442e-06,0.0,2.0,1.0
+math/0505130,The classification of non-local chiral CFT with c<1,1.794090124437466e-06,0.0,2.0,0.0
+math/0201094,K-homology of certain group C*-algebras,1.7939236483811317e-06,0.0,3.0,0.0
+math/0201093,The noncommutative geometry of the discrete Heisenberg group,1.7939236483811317e-06,1.0011404217656486e-06,3.0,2.0
+math/0311416,Maximal ideal space of a commutative coefficient algebra,1.7903786106128075e-06,0.0,1.0,6.0
+math/0306374,"C*-groupoides quantiques et inclusions de facteurs : Structure
+  symetrique et autodualite, action sur le facteur hyperfini de type II1",1.789375245128285e-06,0.0,2.0,0.0
+math/0404018,Classification of homomorphisms and dynamical systems,1.781753523171705e-06,0.0,3.0,3.0
+math/0209182,Triplets spectraux en geometrie d'Arakelov,1.7769406442694348e-06,0.0,1.0,0.0
+math/0210435,Spectral triples from Mumford curves,1.7769406442694348e-06,0.0,1.0,0.0
+math/0511340,Some Exact Sequences for Toeplitz Algebras of Spherical Isometries,1.7616417471904606e-06,0.0,1.0,0.0
+math-ph/9906019,"Charged sectors, spin and statistics in quantum field theory on curved
+  spacetimes",1.7508999482435477e-06,3.3723920721689254e-05,5.0,17.0
+math-ph/0701076,The multiplicative anomaly for determinants revisited; locality,1.7490914312096983e-06,0.0,2.0,0.0
+math/0305157,Characterization of spectral triples: A combinatorial approach,1.748159819206198e-06,0.0,3.0,2.0
+math/0306138,Twisted K-theory of differentiable stacks,1.7259401998534912e-06,3.794741626164021e-05,4.0,8.0
+math/0303123,Strong Morita equivalence of higher-dimensional noncommutative tori,1.716273119505918e-06,1.6509964025439358e-05,5.0,6.0
+math/0506493,"Characterizations of compact and discrete quantum groups through second
+  duals",1.7146619384707666e-06,0.0,1.0,0.0
+hep-th/0412085,"A new Rational Conformal Field Theory extension of the fully degenerate
+  W_{1+\infty}^{(m)}",1.703003024765287e-06,0.0,1.0,1.0
+math-ph/0009031,Covariance systems,1.703003024765287e-06,0.0,1.0,2.0
+math/0411475,Non-Commutative Metrics on Matrix State Spaces,1.703003024765287e-06,0.0,1.0,2.0
+math/0109142,The ideal structure of the C*-algebras of infinite graphs,1.703003024765287e-06,0.0,1.0,5.0
+math/0611336,Boutet de Monvel's Calculus and Groupoids I,1.703003024765287e-06,0.0,1.0,0.0
+math/0312073,"The Hochschild Class of the Chern Character For Semifinite Spectral
+  Triples",1.703003024765287e-06,0.0,1.0,0.0
+math/0209292,Quasidiagonal $C^\ast$-algebras and Nonstandard Analysis,1.703003024765287e-06,0.0,1.0,0.0
+math/0211241,Characterizing Liminal And Type I Graph C*-Algebras,1.703003024765287e-06,0.0,1.0,2.0
+math/0201196,"An index theorem for gauge-invariant families: The case of solvable
+  groups",1.703003024765287e-06,0.0,1.0,0.0
+math-ph/0604044,Algebraic Supersymmetry: A case study,1.703003024765287e-06,0.0,1.0,1.0
+math-ph/0701062,Uncertainty Principle and Quantum Fisher Information - II,1.703003024765287e-06,0.0,1.0,1.0
+quant-ph/0411035,$k$-decomposability of positive maps,1.703003024765287e-06,0.0,1.0,3.0
+math/0502175,The C*-algebras Associated to Time-$t$ Automorphisms of Mapping Tori,1.6872102567290138e-06,0.0,1.0,1.0
+math/0105195,Crossed-Products by Finite Index Endomorphisms and KMS states,1.6789327176732753e-06,0.0,2.0,5.0
+hep-th/9808042,"Hopf Algebras, Renormalization and Noncommutative Geometry",1.6774249832608382e-06,1.150354171048839e-05,4.0,75.0
+math/0211199,Symetries Galoisiennes et Renormalisation,1.6723727963869186e-06,2.00600386552153e-06,6.0,2.0
+funct-an/9512002,Hidden $sl_2$-algebra of finite-difference equations,1.6696287405658448e-06,0.0,2.0,3.0
+math/0601478,Recasting the Elliott conjecture,1.6682154832777537e-06,0.0,1.0,3.0
+math/0611290,"On Transitive Algebras Containing a Standard Finite von Neumann
+  Subalgebra",1.663470731807139e-06,0.0,1.0,0.0
+math/0512197,"Brown measure and iterates of the Aluthge transform for some operators
+  arising from measurable actions",1.663470731807139e-06,0.0,1.0,0.0
+math/0703282,"Continuous spectral decompositions of Abelian group actions on
+  C*-algebras",1.6615952524941305e-06,0.0,1.0,0.0
+math/0011076,Generalized fixed point algebras and square-integrable group actions,1.6615952524941305e-06,0.0,1.0,1.0
+math/0001094,Equivariant Kasparov theory and generalized homomorphisms,1.6615952524941305e-06,0.0,1.0,0.0
+math/0109138,Some extremely amenable groups,1.652496382486451e-06,0.0,1.0,3.0
+math/0211312,"Group C*-algebras, metrics and an operator theoretic inequality",1.6512634300705573e-06,0.0,1.0,2.0
+hep-th/0608221,"A Lorentzian version of the non-commutative geometry of the standard
+  model of particle physics",1.6444695716564223e-06,0.0,1.0,3.0
+math/0502584,"Inverse limit systems associated with F_2^n zero schwarzian unimodal
+  mappings",1.642437343545899e-06,0.0,1.0,1.0
+math/0112235,K-homology of the rotation algebras $A_{\theta}$,1.6422833099795638e-06,0.0,1.0,1.0
+math/0404509,Orbifold aspects of the Longo-Rehren subfactors,1.6412578998942026e-06,0.0,1.0,0.0
+gr-qc/0212025,A Converse Hawking-Unruh Effect and dS^2/CFT Correspondance,1.6393580514158137e-06,2.0998679796202401e-07,2.0,3.0
+math/0005219,Locally compact quantum groups in the von Neumann algebraic setting,1.6380571149054724e-06,0.0,2.0,5.0
+math/0001096,An Algebraic Duality Theory for Multiplicative Unitaries,1.6317063075025837e-06,0.0,1.0,1.0
+math/0506408,The Thom isomorphism in gauge-equivariant K-theory,1.6226221486104268e-06,0.0,3.0,0.0
+math/0402094,The Rokhlin property and the tracial topological rank,1.6171520715845208e-06,0.0,2.0,3.0
+math/0111173,"Toric AF-algebras and faithful representation of the mapping class
+  groups",1.6165749921087517e-06,1.990182755160072e-06,1.0,1.0
+math/0703712,On a desingularization of the moduli space of noncommutative tori,1.6165749921087517e-06,0.0,1.0,0.0
+math/0309394,Free Semigroupoid Algebras,1.6096259051161389e-06,0.0,1.0,1.0
+math/0403423,Rapid decay and Metric Approximation Property,1.6096259051161389e-06,0.0,1.0,0.0
+math/0309397,Ideal Structure in Free Semigroupoid Algebras from Directed Graphs,1.6096259051161389e-06,0.0,1.0,0.0
+math/0611256,Invariant Subspaces for Operators in a General II_1-factor,1.60698551133943e-06,0.0,1.0,4.0
+math/0603104,"The Lebesgue decomposition of the free additive convolution of two
+  probability distributions",1.60698551133943e-06,0.0,1.0,1.0
+funct-an/9707009,One-parameter representations on C*-algebras,1.60698551133943e-06,0.0,1.0,2.0
+math/0505438,Quantum random walks and their convergence,1.60698551133943e-06,0.0,1.0,2.0
+math/0010308,"A family of *-algebras allowing Wick ordering: Fock representations and
+  universal enveloping $C^*$-algebras",1.60698551133943e-06,0.0,1.0,1.0
+math/0206185,Weak semiprojectivity for purely infinite C*-algebras,1.60698551133943e-06,0.0,1.0,1.0
+math/0112284,Stability of C^*-algebra associated with the twisted CCR,1.60698551133943e-06,0.0,1.0,0.0
+math/0504287,"Non-cyclotomic Presentations of Modules and Prime-order Automorphisms of
+  Kirchberg Algebras",1.60698551133943e-06,0.0,1.0,3.0
+math/0608236,Decompositions of the free additive convolution,1.60698551133943e-06,0.0,1.0,1.0
+math/0604544,"Partial Crossed Product Presentations For $O_n$ and $M_k(O_n)$ Using
+  Amenable Groups",1.60698551133943e-06,0.0,1.0,0.0
+math/0510178,"A Noncommutative Wiener Lemma and A Faithful Tracial State on Banach
+  Algebras of Time-Frequency Shift Operators",1.60698551133943e-06,0.0,1.0,0.0
+math-ph/0202035,A tracial quantum central limit theorem,1.595295087404328e-06,2.1082655339936678e-07,2.0,3.0
+math/0603669,"All generating sets of all property T von Neumann algebras have free
+  entropy dimension $\leq 1$",1.5857969580111585e-06,0.0,2.0,1.0
+math/0510641,Equivariant Maps and Bimodule Projections,1.5855255443832496e-06,0.0,1.0,0.0
+math/9811049,"The Correspondence between Geometric Quantization and Formal Deformation
+  Quantization",1.5745790879340954e-06,0.0,1.0,7.0
+math/0305413,"Quantization and Morita equivalence for constant Dirac structures on
+  tori",1.5644171194301248e-06,1.3089016185605673e-05,1.0,9.0
+math/0305261,Deformation quantization using groupoids. Case of toric manifolds,1.5574086383817767e-06,1.1139082584851151e-08,1.0,2.0
+math/0604620,Quantum bohr compactification,1.5557563891118809e-06,0.0,1.0,0.0
+math/0309396,"Twisted actions and the obstruction to extending unitary representations
+  of subgroups",1.5493750032839157e-06,0.0,1.0,0.0
+math-ph/9807022,Wavefront sets in algebraic quantum field theory,1.5493750032839157e-06,0.0,1.0,1.0
+math/0411417,The C*-envelope of the tensor algebra of a directed graph,1.5493750032839157e-06,0.0,1.0,0.0
+math/0308231,"Commutants of von Neumann Modules, Representations of B^a(E) and Other
+  Topics Related to Product Systems of Hilbert Modules",1.5493750032839157e-06,0.0,1.0,3.0
+math/0409432,The $H^\infty$ algebras of higher rank graphs,1.5493750032839157e-06,0.0,1.0,4.0
+math/0702379,Quantum statistical mechanics and class field Theory,1.5493750032839157e-06,0.0,1.0,0.0
+math/0511613,Morphisms of locally compact groupoids endowed with Haar systems,1.5493750032839157e-06,0.0,1.0,0.0
+math/0203098,From Double Lie Groups to Quantum Groups,1.5493750032839157e-06,0.0,1.0,1.0
+math-ph/0309050,Asymptotic Spectral Measures: Between Quantum Theory and E-theory,1.5493750032839157e-06,0.0,1.0,0.0
+math/0107091,"Asymptotic Spectral Measures, Quantum Mechanics, and E-theory",1.5493750032839157e-06,0.0,1.0,0.0
+quant-ph/0408106,Kochen-Specker theorem for von Neumann algebras,1.5493750032839157e-06,0.0,1.0,2.0
+math/0406624,C*-algebras of commuting endomorphisms,1.5493750032839157e-06,0.0,1.0,2.0
+math-ph/0008005,"The Muhly-Renault-Williams theorem for Lie groupoids and its classical
+  counterpart",1.5493750032839157e-06,0.0,1.0,3.0
+math/0405288,"Some extremely amenable groups related to operator algebras and ergodic
+  theory",1.5493750032839157e-06,0.0,1.0,5.0
+math/9911102,"Twisted index theory on good orbifolds, I: noncommutative Bloch theory",1.5493750032839157e-06,0.0,1.0,0.0
+math-ph/0211025,"Representations of the Heisenberg algebra on holomorphic functions and
+  Krein structures",1.5480889603264245e-06,0.0,1.0,0.0
+math/0210049,"Spectral triples and associated Connes-de Rham complex for the quantum
+  SU(2) and the quantum sphere",1.547191815556588e-06,1.4674508307999493e-08,2.0,7.0
+math/9803110,Function Theory in the Quantum Matrix Ball: an Invariant Integral,1.5431270187430974e-06,0.0,1.0,1.0
+math/0304316,Rankin-Cohen Brackets and the Hopf Algebra of Transverse Geometry,1.5415347391676002e-06,0.0,1.0,7.0
+hep-th/0010264,Noncommutative Chern-Simons terms and the noncommutative vacuum,1.533107611993174e-06,4.165000466101387e-06,5.0,29.0
+funct-an/9411007,"Characteristics of pairs of operators, Lie hybrids, Poisson brackets and
+  nonlinear geometric algebra",1.5324794547361643e-06,0.0,2.0,3.0
+math/0201004,Equivariant spectral triples on the quantum SU(2) group,1.522855063956806e-06,0.0,1.0,18.0
+quant-ph/0401026,Comments on multiplicativity of maximal p-norms when p = 2,1.517858195727868e-06,5.269149374804433e-06,2.0,18.0
+math/0208238,"(2+1)-dimensional topological quantum field theory from subfactors and
+  Dehn surgery formula for 3-manifold invariants",1.5161138513944104e-06,1.9998396722790874e-06,1.0,4.0
+math/0301089,Modular Hecke Algebras and their Hopf Symmetry,1.5128085121847507e-06,0.0,1.0,6.0
+math/0101060,Cohomology of Hopf $C^*$-algebras and Hopf von Neumann algebras,1.5109679979135728e-06,0.0,1.0,0.0
+math/0606321,Diagonals of normal operators with finite spectrum,1.5109679979135728e-06,0.0,1.0,0.0
+math/0207179,Boundary Value Problems on Manifolds with Fibered Boundary,1.5109679979135728e-06,0.0,1.0,1.0
+math/0404257,Groupoid cohomology and extensions,1.5044161402551226e-06,5.970548265480216e-06,1.0,2.0
+math/0102138,Lattice structures for quantum channels,1.5013624284960771e-06,0.0,2.0,0.0
+math/0405276,On Product Systems arising from Sum Systems,1.498103759758996e-06,0.0,1.0,1.0
+math/0601447,L^2-cohomology for von Neumann algebras,1.4971654071565207e-06,0.0,1.0,2.0
+funct-an/9703001,Two Approaches to Non-Commutative Geometry,1.4881199610233058e-06,8.977039698381945e-06,2.0,11.0
+hep-th/9310201,Generalized Measures in Gauge Theory,1.488007288181303e-06,0.0,2.0,12.0
+quant-ph/0301177,Chained Typical Subspaces - a Quantum Version of Breiman's Theorem,1.4835344226490424e-06,0.0,1.0,2.0
+math/0407517,"Operators, martingales, and measures on projective limit spaces",1.4770847932613688e-06,0.0,1.0,3.0
+math/0504146,"Gabor Analysis, Noncommutative Tori and Feichtinger's algebra",1.4763012595021277e-06,1.990182755160072e-06,1.0,1.0
+math/0507050,Subfactors and 1+1-dimensional TQFTs,1.4740652473936114e-06,0.0,1.0,0.0
+math/0305051,"Dirac operator and a twisted cyclic cocycle on the standard Podles
+  quantum sphere",1.4736389973849183e-06,2.985274132740108e-06,1.0,5.0
+math/0101184,Fredholm modules over certain group C*-algebras,1.470573309463427e-06,1.994637028110669e-06,2.0,4.0
+math/0107127,Generalized Longo-Rehren subfactors and alpha-induction,1.4629592412006444e-06,0.0,1.0,0.0
+math/0203027,The Virasoro algebra and sectors with infinite statistical dimension,1.4629592412006444e-06,0.0,1.0,3.0
+math-ph/0204022,"Penrose Tilings, Chaotic Dynamical Systems and Algebraic K-Theory",1.4618545706796318e-06,0.0,2.0,1.0
+math-ph/9807027,Strict quantization of coadjoint orbits,1.4513467486742909e-06,0.0,1.0,2.0
+math/0112292,On $C^*$-algebras Associated to Certain Endomorphisms of Discrete Groups,1.448490685451218e-06,0.0,1.0,0.0
+math/9806107,Skein Modules and the Noncommutative Torus,1.446956322296335e-06,0.0,1.0,3.0
+math/0405372,"Certain representations of the Cuntz relations, and a question on
+  wavelets decompositions",1.446956322296335e-06,0.0,1.0,0.0
+funct-an/9708001,"Operator interpretation of resonances arising in spectral problems for 2
+  x 2 operator matrices",1.446956322296335e-06,0.0,1.0,9.0
+math/0402417,"On the Notion of Relative Property (T) for Inclusions of Von Neumann
+  Algebras",1.4445062188936602e-06,0.0,1.0,1.0
+math/0205284,The multiplicative unitary as a basis for duality,1.4341539871728873e-06,0.0,1.0,1.0
+math/0205285,"Multiplier Hopf *-algebras with positive integrals: A laboratory for
+  locally compact quantum groups",1.4341539871728873e-06,0.0,1.0,2.0
+math-ph/0110022,Some aspects of quantum entanglement for CAR systems,1.4323471071850148e-06,0.0,1.0,0.0
+math-ph/0401031,Amenability of the Gauge Group,1.4260019406661806e-06,0.0,1.0,1.0
+math/0302141,"Strange factor representations of type II_1 and pairs of dual dynamical
+  systems",1.4162545558346052e-06,0.0,1.0,0.0
+math/0003082,Notes for a Quantum Index Theorem,1.415423035000592e-06,0.0,1.0,0.0
+math/0204278,Fusion rules of modular invariants,1.4149504844877158e-06,0.0,1.0,0.0
+math/0309175,Modular invariants and their fusion rules,1.4149504844877158e-06,0.0,1.0,1.0
+math/0010019,Natural Energy Bounds in Quantum Thermodynamics,1.4129859658254703e-06,1.2025157503640773e-06,1.0,1.0
+math/0409527,A 1-cohomology characterization of property (T) in von Neumann algebras,1.407564521916496e-06,0.0,1.0,3.0
+math/0306011,An Uncountable Family of Non Orbit Equivalent Actions of $\Bbb F_n$,1.407564521916496e-06,0.0,1.0,6.0
+math/0603500,Relative pairing in cyclic cohomology and divisor flows,1.4012336968554504e-06,0.0,1.0,2.0
+math/0304435,KMS states of quasi-free dynamics on Pimsner algebras,1.4012336968554504e-06,0.0,1.0,0.0
+math/9811122,A Radon-Nikodym theorem for von Neumann algebras,1.4012336968554504e-06,0.0,1.0,3.0
+math/0609315,Phase transition in the Connes-Marcolli GL2-system,1.4012336968554504e-06,0.0,1.0,0.0
+math/0609316,"Hecke algebras of semidirect products and the finite part of the
+  Connes-Marcolli C*-algebra",1.4012336968554504e-06,0.0,1.0,0.0
+math-ph/0108003,Some Noncommutative Geometric Aspects of SU_q(2),1.3924857892335285e-06,0.0,1.0,6.0
+cond-mat/0311122,Functional Equations and Fusion Matrices for the Eight Vertex Model,1.3844627651354232e-06,0.0,1.0,10.0
+math/0206201,Thurston's norm revisited,1.370881898352049e-06,0.0,1.0,0.0
+math/0001117,"Weighted Traces on Algebras of Pseudo-Differential Operators and
+  Geometry of Loop Groups",1.36502137750627e-06,0.0,1.0,4.0
+math-ph/0503033,Weighted trace cochains; a geometric setup for anomalies,1.36502137750627e-06,0.0,1.0,1.0
+math-ph/9808016,"Monotone Riemannian Metrics and Relative Entropy on Non-Commutative
+  Probability Spaces",1.35160664076333e-06,0.0,1.0,9.0
+math/0502018,"Ergodic coactions with large multiplicity and monoidal equivalence of
+  quantum groups",1.3189329710618589e-06,0.0,0.0,1.0
+math/9803134,Projections in Rotation Algebras and Theta Functions,1.3189329710618589e-06,0.0,0.0,4.0
+math/0612370,The holonomy groupoid of a singular foliation,1.3189329710618589e-06,0.0,0.0,1.0
+math/0106265,"Proper actions on imprimitivity bimodules and decompositions of Morita
+  equivalences",1.3189329710618589e-06,0.0,0.0,1.0
+math/0009249,"Regularity of induced representations and a theorem of Quigg and
+  Spielberg",1.3189329710618589e-06,0.0,0.0,1.0
+math/9811039,Fusion rules for representations of compact quantum groups,1.3189329710618589e-06,0.0,0.0,1.0
+math/9911103,"Twisted higher index theory on good orbifolds, II: fractional quantum
+  numbers",1.3189329710618589e-06,0.0,0.0,1.0
+math/0108047,"The ideal structures of crossed products of Cuntz algebras by quasi-free
+  actions of abelian groups",1.3189329710618589e-06,0.0,0.0,1.0
+math/0106162,Simplicity of ultragraph algebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/0112091,Spectral invariance for certain algebras of pseudodifferential operators,1.3189329710618589e-06,0.0,0.0,1.0
+math/0208085,Crossed products of the Cantor set by free minimal actions of Z^d,1.3189329710618589e-06,0.0,0.0,2.0
+math/0307192,Infinite dimensional Grassmannians,1.3189329710618589e-06,0.0,0.0,1.0
+math/0404376,Quasi-multipliers and algebrizations of an operator space,1.3189329710618589e-06,0.0,0.0,1.0
+math/0004104,Invariant subspaces of Voiculescu's circular operator,1.3189329710618589e-06,0.0,0.0,1.0
+math/0011030,Some characterizations of the automorphisms of $B(H)$ and $C(X)$,1.3189329710618589e-06,0.0,0.0,1.0
+math/0404316,Duality of $W^*$-correspondences and applications,1.3189329710618589e-06,0.0,0.0,1.0
+math/0502151,Extension problems for representations of crossed-product C*-algebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/0110018,Reduced C*-algebra of the p-adic group GL(n) II,1.3189329710618589e-06,0.0,0.0,1.0
+math/0502302,Type and cotype of operator spaces,1.3189329710618589e-06,0.0,0.0,1.0
+math/0403257,Enlargeability and index theory,1.3189329710618589e-06,0.0,0.0,1.0
+math/0403332,"The von Neumann Algebra of the Canonical Equivalence Relation of the
+  Generalized Thompson Group",1.3189329710618589e-06,0.0,0.0,1.0
+math/0503255,"Zero product preservers and orthogonality preservers in algebras of
+  unbounded operators",1.3189329710618589e-06,0.0,0.0,1.0
+math/0201187,Contractive projections and operator spaces,1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/0201042,"The Structure of Charges in the Ultraviolet and an Intrinsic Notion of
+  Confinement",1.3189329710618589e-06,0.0,0.0,1.0
+math/0506073,Norms of Schur Multipliers,1.3189329710618589e-06,0.0,0.0,1.0
+math/9806145,The Stable Rank of Topological Algebras and a Problem of R.G. Swan,1.3189329710618589e-06,0.0,0.0,1.0
+math/9807054,Representable bimodules over C*-algebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/0610418,Reconstruction of manifolds in noncommutative geometry,1.3189329710618589e-06,0.0,0.0,1.0
+math/0107104,Extensions and Pullbacks in QB-rings,1.3189329710618589e-06,0.0,0.0,1.0
+math/0703170,Non Commutative Arens Algebras and their Derivations,1.3189329710618589e-06,0.0,0.0,1.0
+math/0703171,"Derivations on the Algebra of Measurable Operators Affiliated with a
+  Type I von Neumann Algebra",1.3189329710618589e-06,0.0,0.0,1.0
+math/0702200,A Representation Theorem for Completely Contractive Dual Banach Algebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/0007178,Note on the Curvature and Index of Almost Unitary Contraction Operator,1.3189329710618589e-06,0.0,0.0,2.0
+math/0006224,The Curvature of a Single Operator on a Hilbert Space,1.3189329710618589e-06,0.0,0.0,2.0
+funct-an/9701011,On the operator algebra for the space-time uncertainty relations,1.3189329710618589e-06,0.0,0.0,2.0
+math/0310348,Hankel Operators in Several Complex Variables and Product $BMO\zProd$,1.3189329710618589e-06,0.0,0.0,1.0
+math/0012128,Subtriviality of continuous fields of nuclear C*--algebras,1.3189329710618589e-06,0.0,0.0,3.0
+math/9906210,"Topological Entropy for the Canonical Endomorphism of Cuntz-Krieger
+  Algebras",1.3189329710618589e-06,0.0,0.0,1.0
+math/0212380,"On some questions of Eymard and Bekka concerning amenability of
+  homogeneous spaces and induced representations",1.3189329710618589e-06,0.0,0.0,1.0
+funct-an/9608001,The stable rank of some free product C*-algebras,1.3189329710618589e-06,0.0,0.0,1.0
+funct-an/9611002,Isomorphism classes for quantum Heisenberg manifolds,1.3189329710618589e-06,0.0,0.0,1.0
+funct-an/9609001,"Hilbert $C^*$-bimodules over commutative $C^*$-algebras and an
+  isomorphism condition for quantum Heisenberg manifolds",1.3189329710618589e-06,0.0,0.0,1.0
+math/0403236,Unitary equivalences for essential extensions of $C^*$-algebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/9912242,"Computation of some examples of Brown's spectral measure in free
+  probability",1.3189329710618589e-06,0.0,0.0,1.0
+math/0001135,"Analytic Topology of Groups, Actions, Strings and Varietes",1.3189329710618589e-06,0.0,0.0,1.0
+math/0310211,On the Cohomology of Actions of Groups by Bernoulli Shifts,1.3189329710618589e-06,0.0,0.0,4.0
+math/0411442,Jensen's Inequality and majorization,1.3189329710618589e-06,0.0,0.0,3.0
+math/0204029,A Remark on Quantum Group Actions and Nuclearity,1.3189329710618589e-06,0.0,0.0,3.0
+math/0505261,"K-teoria de operadores pseudodiferenciais na reta com simbolos
+  semiperiodicos (in Portuguese)",1.3189329710618589e-06,0.0,0.0,1.0
+math/0504024,"Isomorphic groupoid $C^{\ast}$-algebras associated with different Haar
+  systems",1.3189329710618589e-06,0.0,0.0,1.0
+math/0205102,A proof of the Gap Labeling Conjecture,1.3189329710618589e-06,0.0,0.0,1.0
+math/0502234,The Hecke algebra of a reductive p-adic group: a geometric conjecture,1.3189329710618589e-06,0.0,0.0,1.0
+math/0605489,"Identification of the Poisson and Martin boundaries of orthogonal
+  discrete quantum groups",1.3189329710618589e-06,0.0,0.0,1.0
+math/0510330,Cuntz-Pimsner C*-algebras and crossed products by Hilbert C*-bimodules,1.3189329710618589e-06,0.0,0.0,1.0
+math/0412012,Compact Quantum Ergodic Systems,1.3189329710618589e-06,0.0,0.0,1.0
+math/0410290,"Explicit construction and uniqueness for universal operator algebras of
+  directed graphs",1.3189329710618589e-06,0.0,0.0,1.0
+math/0409573,The K-Theory of Heegaard-Type Quantum 3-Spheres,1.3189329710618589e-06,0.0,0.0,1.0
+math/0308260,"Tannaka-Krein duality for compact groupoids II, Fourier transform",1.3189329710618589e-06,0.0,0.0,1.0
+math/0308261,"Tannaka-Krein duality for compact groupoids III, duality theory",1.3189329710618589e-06,0.0,0.0,1.0
+funct-an/9312004,"Positive representations of general commutation relations allowing Wick
+  ordering",1.3189329710618589e-06,0.0,0.0,1.0
+math/0507083,Interpolation in Semigroupoid Algebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/0110152,Homogeneity of the pure state space of a separable C*-algebra,1.3189329710618589e-06,0.0,0.0,1.0
+math/0601290,Differential analysis of matrix convex functions,1.3189329710618589e-06,0.0,0.0,1.0
+math/0507601,A topological index theorem for manifolds with corners,1.3189329710618589e-06,0.0,0.0,5.0
+math/0308259,"Tannaka-Krein duality for compact groupoids I, representation theory",1.3189329710618589e-06,0.0,0.0,2.0
+math/0306172,"Free Analysis Questions I: Duality Transform for the Coalgebra of
+  $\partial_{X:B}$",1.3189329710618589e-06,0.0,0.0,2.0
+math/0406488,Multiplicative Monotone Convolution,1.3189329710618589e-06,0.0,0.0,1.0
+math/0505307,"Embedding of $C_q$ and $R_q$ into noncommutative $L_p$-spaces, $1\le
+  p<q\le 2$",1.3189329710618589e-06,0.0,0.0,2.0
+math/0005250,The heat flow of the CCR algebra,1.3189329710618589e-06,0.0,0.0,2.0
+hep-th/0106182,Integrable Lattice Realizations of Conformal Twisted Boundary Conditions,1.3189329710618589e-06,0.0,0.0,8.0
+math/0209270,The Martin boundary of a discrete quantum group,1.3189329710618589e-06,0.0,0.0,1.0
+math/0412061,"Extension of the structure theorem of Borchers and its application to
+  half-sided modular inclusions",1.3189329710618589e-06,0.0,0.0,2.0
+math/0007109,Enveloping actions and Takai duality for partial actions,1.3189329710618589e-06,0.0,0.0,1.0
+math/0211345,On quantales and spectra of C*-algebras,1.3189329710618589e-06,0.0,0.0,2.0
+quant-ph/0412076,A Unified and Generalized Approach to Quantum Error Correction,1.3189329710618589e-06,0.0,0.0,5.0
+math/0602219,Limit Theorems in Free Probability Theory I,1.3189329710618589e-06,0.0,0.0,2.0
+math/0410426,"Eigenvalues, K-theory and Minimal Flows",1.3189329710618589e-06,0.0,0.0,2.0
+math/0204049,Jensen's Operator Inequality,1.3189329710618589e-06,0.0,0.0,1.0
+math/0402126,"A dual graph construction for higher-rank graphs, and $K$-theory for
+  finite 2-graphs",1.3189329710618589e-06,0.0,0.0,1.0
+math/9807101,Non-Commutative Chern Characters of Compact Lie Group C*-Algebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/9807124,Non-Commutative Geometry Methods for Group C*-Algebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/0208242,"Computations of Turaev-Viro-Ocneanu invariants of 3-manifolds from
+  subfactors",1.3189329710618589e-06,0.0,0.0,2.0
+math/0110130,The Connes-Kasparov conjecture for almost connected groups,1.3189329710618589e-06,0.0,0.0,1.0
+math/0402175,"Iterated function systems, representations, and Hilbert space",1.3189329710618589e-06,0.0,0.0,1.0
+math/0309390,"Quantum Channels, Wavelets, Dilations and Representations of $O_n$",1.3189329710618589e-06,0.0,0.0,1.0
+math/0603576,"Scaling group flow and Lefschetz trace formula for laminated spaces with
+  $p-$adic transversal",1.3189329710618589e-06,0.0,0.0,2.0
+math/9803122,Notes on Compact Quantum Groups,1.3189329710618589e-06,0.0,0.0,1.0
+math/0507317,"A Continuous Field of C*-algebras and the Tangent Groupoid for Manifolds
+  with Boundary",1.3189329710618589e-06,0.0,0.0,1.0
+math/0411021,"The Local Index Formula in Semifinite von Neumann Algebras II: The Even
+  Case",1.3189329710618589e-06,0.0,0.0,1.0
+math/9904175,"Compact quantum group C^*-algebras as Hopf algebras with approximate
+  unit",1.3189329710618589e-06,0.0,0.0,2.0
+math/0609080,Free Entropy Dimension in Amalgamated Free Products,1.3189329710618589e-06,0.0,0.0,1.0
+math/0605633,Notes on microstate free entropy of projections,1.3189329710618589e-06,0.0,0.0,1.0
+math/0008182,Extensions of Quasidiagonal C*-algebras and K-theory,1.3189329710618589e-06,0.0,0.0,1.0
+math/0011200,K-theory computations for boundary algebras of $\tA_2$ groups,1.3189329710618589e-06,0.0,0.0,1.0
+math/0107042,Geometric realization and K-theoretic decomposition of C*-algebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/0107050,"The fine structure of the Kasparov groups I: continuity of the
+  KK-pairing",1.3189329710618589e-06,0.0,0.0,1.0
+math/0109111,On free resolutions in multivariable operator theory,1.3189329710618589e-06,0.0,0.0,1.0
+math/0504255,"Operator spaces and Araki-Woods factors --A quantum probabilistic
+  approach--",1.3189329710618589e-06,0.0,0.0,1.0
+math/0511406,Theory of Amalgamated Lp Spaces in Noncommutative Probability,1.3189329710618589e-06,0.0,0.0,1.0
+math/0511732,Rosenthal type inequalities for free chaos,1.3189329710618589e-06,0.0,0.0,1.0
+funct-an/9504001,Unconditional Integrability for Dual Actions,1.3189329710618589e-06,0.0,0.0,1.0
+math/0002185,Amenable actions and exactness for discrete groups,1.3189329710618589e-06,0.0,0.0,1.0
+math/0410594,Some free entropy dimension inequalities for subfactors,1.3189329710618589e-06,0.0,0.0,1.0
+math/0108007,"The Structure of Inner Multipliers on Spaces with Complete Nevanlinna
+  Pick Kernels",1.3189329710618589e-06,0.0,0.0,1.0
+math/0501131,"Dixmier Traces as Singular Symmetric Functionals and Applications to
+  Measurable Operators",1.3189329710618589e-06,0.0,0.0,1.0
+math/0602234,Simple C*-algebras with a unique tracial state,1.3189329710618589e-06,0.0,0.0,1.0
+math/0011079,Classification of simple $C^*$-algebras of tracial topological rank zero,1.3189329710618589e-06,0.0,0.0,1.0
+math/0103219,Non-commutative Simplicial Complexes and the Baum-Connes Conjecture,1.3189329710618589e-06,0.0,0.0,1.0
+math/0305167,Connes' Embedding Problem and Lance's WEP,1.3189329710618589e-06,0.0,0.0,1.0
+math/0404167,Essentially Reductive Hilbert Modules,1.3189329710618589e-06,0.0,0.0,1.0
+math/0010263,Examples of Amenable Kac system,1.3189329710618589e-06,0.0,0.0,1.0
+math/0207005,Popa algebras in free group factors,1.3189329710618589e-06,0.0,0.0,1.0
+math/9804093,Matrix Compact Sets and Operator Approximation Properties,1.3189329710618589e-06,0.0,0.0,2.0
+math/0204095,The ordered K_0-group of a graph C*-algebra,1.3189329710618589e-06,0.0,0.0,2.0
+math/0407344,Low-pass filters and representations of the Baumslag Solitar group,1.3189329710618589e-06,0.0,0.0,2.0
+math/0404308,"Combinatorial aspects of Connes's embedding conjecture and asymptotic
+  distribution of traces of products of unitaries",1.3189329710618589e-06,0.0,0.0,1.0
+math/0206296,$\mathbb Z_n$--graded Independence,1.3189329710618589e-06,0.0,0.0,1.0
+funct-an/9612002,"Iterated function systems and permutation representations of the Cuntz
+  algebra",1.3189329710618589e-06,0.0,0.0,3.0
+math/0206061,On ${\OL}_{\infty}$ structure of nuclear $C^*$-algebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/0211369,The Radon-Nikodym problem for approximately proper equivalence relations,1.3189329710618589e-06,0.0,0.0,1.0
+math/0503615,Dynamical Systems on Hilbert C*-Modules,1.3189329710618589e-06,0.0,0.0,2.0
+math/0111182,AF-equivalence relations and their cocycles,1.3189329710618589e-06,0.0,0.0,2.0
+math/0309199,In and around the origin of quantum groups,1.3189329710618589e-06,0.0,0.0,2.0
+math-ph/9807028,Twisted Lie group $C^*$-algebras as strict quantizations,1.3189329710618589e-06,0.0,0.0,3.0
+math/0305397,The non-microstates free entropy dimension of DT-operators,1.3189329710618589e-06,0.0,0.0,2.0
+math/0312109,Topological Quivers,1.3189329710618589e-06,0.0,0.0,5.0
+funct-an/9506003,A remark on trace properties of K-cycles,1.3189329710618589e-06,0.0,0.0,2.0
+math-ph/0307053,"Thermal Quantum Fields with Spatially Cut-off Interactions in 1+1
+  Space-time Dimensions",1.3189329710618589e-06,0.0,0.0,1.0
+math/0607090,Multiplicative properties of positive maps,1.3189329710618589e-06,0.0,0.0,3.0
+funct-an/9408001,Endomorphisms of B(H),1.3189329710618589e-06,0.0,0.0,1.0
+math/0105086,The Baum-Connes conjecture for hyperbolic groups,1.3189329710618589e-06,0.0,0.0,1.0
+math/0111320,Amenability and the bicrossed product construction,1.3189329710618589e-06,0.0,0.0,1.0
+math/0312135,Consistency of a counterexample to Naimark's problem,1.3189329710618589e-06,0.0,0.0,1.0
+math/0405097,Remarks on Product VMO,1.3189329710618589e-06,0.0,0.0,1.0
+math/0607517,Cuntz-Krieger algebras and a generalization of Catalan numbers,1.3189329710618589e-06,0.0,0.0,1.0
+math/0611232,Growth estimates for discrete quantum groups,1.3189329710618589e-06,0.0,0.0,1.0
+math/0212013,Fractal entropies and dimensions for microstate spaces,1.3189329710618589e-06,0.0,0.0,1.0
+math/0311201,Hyper-reflexivity of free semigroupoid algebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/0308161,"Spectral flow in Fredholm modules, eta invariants and the JLO cocycle",1.3189329710618589e-06,0.0,0.0,1.0
+math/9912033,"Non-Commutative Markov Processes in Free Group Factors, Related to
+  Berezin's Quantization and Automorphic Forms",1.3189329710618589e-06,0.0,0.0,2.0
+math/9905206,Stable laws and domains of attraction in free probability theory,1.3189329710618589e-06,0.0,0.0,1.0

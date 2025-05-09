@@ -1,0 +1,1077 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+physics/0611233,Phase retrieval and saddle-point optimization,9.8487729979601e-06,0.0,6.0,0.0
+math-ph/0703062,Lie Algebroids in Classical Mechanics and Optimal Control,9.397208409149244e-06,0.0,11.0,0.0
+math/9908088,"Feedback Stabilization over Commutative Rings with no
+  Right-/Left-Coprime Factorizations",7.82324995062454e-06,0.0,2.0,1.0
+math/9908087,A Parameterization of Stabilizing Controllers over Commutative Rings,7.82324995062454e-06,0.0,2.0,1.0
+math/0703076,Game pricing and double sequence of random variables,7.738919270652644e-06,0.0,3.0,5.0
+math-ph/0508006,Quantum filtering: a reference probability approach,7.721882523907014e-06,0.0,6.0,7.0
+math/0609482,Optimal Attitude Control for a Rigid Body with Symmetry,7.566308413268851e-06,0.0,3.0,0.0
+math/0509399,The nonholonomic Riemann and Weyl tensors for flag manifolds,7.428255626089754e-06,2.0630344327788967e-06,10.0,2.0
+math/0701181,Distances between time-series and their autocorrelation statistics,7.371368186882868e-06,0.0,2.0,0.0
+math-ph/0303051,"Perturbation Theory and Control in Classical or Quantum Mechanics by an
+  Inversion Formula",7.314748058356636e-06,0.0,6.0,6.0
+math/0310358,The control transmutation method and the cost of fast controls,7.131421481218255e-06,0.0,3.0,2.0
+math/0605078,The Minkowski Theorem for Max-plus Convex Sets,7.089224290279818e-06,1.919531804339012e-06,5.0,1.0
+math/0509140,"Automatic Computation of Conservation Laws in the Calculus of Variations
+  and Optimal Control",7.079983776613288e-06,0.0,5.0,0.0
+math/0703079,Least-Squares Prices of Games,6.614429212452857e-06,0.0,2.0,2.0
+quant-ph/0407135,"Complete hierarchies of efficient approximations to problems in
+  entanglement theory",6.309676213544754e-06,6.682356318297265e-05,12.0,12.0
+cond-mat/0407130,Extremal Optimization for Sherrington-Kirkpatrick Spin Glasses,5.875015247321308e-06,4.308673980722697e-06,2.0,4.0
+physics/0603201,"A unified evaluation of iterative projection algorithms for phase
+  retrieval",5.686428125589514e-06,0.0,8.0,1.0
+math/0312083,On the Curvature of the Central Path of Linear Programming Theory,5.655144290770314e-06,0.0,1.0,1.0
+math/0504308,"Semidefinite Programming and Reachable Sets of Dissipative Bilinear
+  Control Systems",5.655144290770314e-06,0.0,1.0,1.0
+math-ph/0511021,On the separation principle of quantum control,5.335968653022006e-06,3.068601767101648e-05,3.0,5.0
+math/0606118,A discrete invitation to quantum filtering and feedback control,5.20071381547211e-06,6.813490268058135e-06,5.0,2.0
+math/0611498,"A note on the representation of positive polynomials with structured
+  sparsity",5.085084882991609e-06,0.0,1.0,0.0
+math/0703080,"Details for ""Least-Squares Prices of Games""",4.921840845147709e-06,0.0,2.0,1.0
+math/0612682,Convergence Speed in Distributed Consensus and Control,4.7530577026366125e-06,0.0,2.0,0.0
+math/0608178,A regularity theory for multiple-valued Dirichlet minimizing maps,4.715121399099865e-06,0.0,3.0,0.0
+math/9906107,"Games, predictions, interactivity",4.690332058240227e-06,0.0,6.0,3.0
+math/0607026,Distances between power spectral densities,4.65870979232464e-06,3.980365510320144e-06,1.0,2.0
+math/0608486,An intrinsic metric for power spectral density functions,4.627157446473498e-06,0.0,1.0,1.0
+math/0601648,"The maximum entropy ansatz in the absence of a time arrow: fractional
+  pole models",4.534059758234596e-06,5.970548265480216e-06,2.0,1.0
+math/0402058,"Controllability cost of conservative systems: resolvent condition and
+  transmutation",4.506557850012979e-06,0.0,2.0,1.0
+astro-ph/0304214,Reconstruction of the early Universe as a convex optimization problem,4.312028221117353e-06,1.990182755160072e-06,4.0,1.0
+math/0410111,Integer Polynomial Optimization in Fixed Dimension,4.289084593342065e-06,0.0,1.0,2.0
+astro-ph/0109483,"A reconstruction of the initial conditions of the Universe by optimal
+  mass transportation",4.221463240352292e-06,3.980365510320144e-06,1.0,2.0
+math/0611562,The Algebraic Degree of Semidefinite Programming,4.063143711471229e-06,0.0,1.0,2.0
+math/0503716,Minimum representing measures in Idempotent Analysis,4.055391899265705e-06,1.8750750075151206e-07,4.0,2.0
+math/0702737,Propagation of Uncertainty in Rigid Body Attitude Flows,3.949062647205141e-06,0.0,3.0,0.0
+math/0601741,An introduction to quantum filtering,3.945032297754898e-06,7.951065361677771e-06,4.0,7.0
+math/0404382,On the null-controllability of the heat equation in unbounded domains,3.920959855018792e-06,0.0,1.0,0.0
+math/0511617,"Global optimization of polynomials using gradient tentacles and sums of
+  squares",3.911405833560001e-06,0.0,3.0,0.0
+math/0410467,"Equation-free optimal switching policies for bistable reacting systems
+  using coarse time-steppers",3.851202003424355e-06,0.0,3.0,0.0
+math/0601424,"Optimal Attitude Control of a Rigid Body using Geometrically Exact
+  Computations on SO(3)",3.824839330391671e-06,0.0,4.0,2.0
+math/0602588,"Optimal Control of a Rigid Body using Geometrically Exact Computations
+  on SE(3)",3.821139877366285e-06,0.0,3.0,1.0
+math-ph/0702079,"Eventum Mechanics of Quantum Trajectories: Continual Measurements,
+  Quantum Predictions and Feedback Control",3.7833793074374087e-06,5.970548265480216e-06,3.0,1.0
+math/0609528,Semidefinite Characterization and Computation of Real Radical Ideals,3.7777756914601537e-06,0.0,1.0,0.0
+math/9904056,Extremal Optimization: Methods derived from Co-Evolution,3.762448182093329e-06,0.0,2.0,1.0
+cs/0110056,Probabilistic analysis of a differential equation for linear programming,3.758417733575704e-06,0.0,1.0,4.0
+math/0507365,"Controllability of 2D Euler and Navier-Stokes Equations by Forcing 4
+  Modes",3.71902518556336e-06,0.0,2.0,0.0
+math/0703078,Translation Invariance of Investment,3.671875910515847e-06,0.0,2.0,1.0
+math/0703575,Convex Discrete Optimization,3.62335329328243e-06,0.0,2.0,0.0
+math/0607472,Constants of motion for fractional action-like variational problems,3.62335329328243e-06,0.0,2.0,0.0
+math/0307196,Convolutional Codes with Maximum Distance Profile,3.62335329328243e-06,0.0,2.0,0.0
+math/0606030,Optimal control for rough differential equations,3.62335329328243e-06,0.0,3.0,0.0
+cs/0603089,Convex Separation from Optimization via Heuristics,3.5498525493635425e-06,0.0,1.0,0.0
+math/0605242,N-Fold Integer Programming,3.536507300222492e-06,0.0,2.0,0.0
+math/0101080,Idempotent interval analysis and optimization problems,3.521673389921881e-06,0.0,6.0,3.0
+math/0110034,An Algebraic Perspective of Group Relaxations,3.5191381016105044e-06,0.0,2.0,0.0
+math/0406595,Adaptive Observers as Nonlinear Internal Models,3.49912997646896e-06,0.0,2.0,0.0
+math/0603176,Motion camouflage in three dimensions,3.49912997646896e-06,0.0,2.0,0.0
+math/0507013,The Nash-Equilibrium Requires Strong Cooperation,3.49912997646896e-06,0.0,2.0,0.0
+math/0510333,Optimal Bond Portfolios,3.49912997646896e-06,0.0,2.0,0.0
+cond-mat/0701653,"Levy Flights, Non-local Search and Simulated Annealing",3.49912997646896e-06,0.0,2.0,0.0
+math/0012130,"State-estimators for chemical reaction networks of Feinberg-Horn-Jackson
+  zero deficiency type",3.49912997646896e-06,0.0,2.0,0.0
+math/0405225,Discrete max-plus spectral theory,3.481764840030553e-06,0.0,5.0,3.0
+math/0407406,Newton's aerodynamic problem in media of chaotically moving particles,3.3749066596554898e-06,0.0,1.0,0.0
+math/0309295,"A simple mechanism for balancing at the border of instability with
+  applications to persistent neural activity",3.3749066596554898e-06,0.0,1.0,0.0
+math/0206184,Fast algorithms of Bayesian Segmentation of Images,3.3749066596554898e-06,0.0,1.0,0.0
+math/0609243,"How to find horizon-independent optimal strategies leading off to
+  infinity: a max-plus approach",3.3501063872492025e-06,0.0,2.0,0.0
+math/0702005,Semidefinite Representation of the $k$-Ellipse,3.3010492768408084e-06,0.0,2.0,0.0
+math/0505677,"FPTAS for mixed-integer polynomial optimization with a fixed number of
+  variables",3.202008927026733e-06,0.0,1.0,0.0
+math/0606476,"Sparse SOS Relaxations for Minimizing Functions that are Summations of
+  Small Polynomials",3.1489657777846533e-06,0.0,1.0,1.0
+math/0506124,Relative entropy and the multi-variable multi-dimensional moment problem,3.1266073467194364e-06,7.960731020640288e-06,1.0,1.0
+math/0309040,How violent are fast controls for Schroedinger and plate vibrations ?,3.069893806515003e-06,0.0,2.0,4.0
+math/0209047,A mechanical model for the transportation problem,3.0666198176792906e-06,1.990182755160072e-06,1.0,4.0
+math/0503009,"Average consensus problems in networks of agents with delayed
+  communications",2.9851365543205523e-06,0.0,2.0,0.0
+math/0210004,A connection theoretic approach to sub-Riemannian geometry,2.923024895913817e-06,0.0,1.0,2.0
+math/0701877,A general formula for the algebraic degree in semidefinite programming,2.91697922313738e-06,0.0,1.0,1.0
+math/0610854,"Convergence speed of unsteady distributed consensus: decay estimate
+  along the settling spanning-trees",2.759195672449716e-06,0.0,2.0,1.0
+math/0406284,"Barvinok's Rational Functions: Algorithms and Applications to
+  Optimization, Statistics, and Algebra",2.7483505091801213e-06,0.0,3.0,0.0
+math/0310194,Algebraic Recipes for Integer Programming,2.697084014042981e-06,0.0,2.0,0.0
+math/0302092,A Semidefinite Representation for some Minimum Cardinality Problems,2.697084014042981e-06,0.0,2.0,0.0
+math/0703714,Delta Hedging without the Black-Scholes Formula,2.5493469509894045e-06,0.0,1.0,0.0
+math/0703077,Ratio of price to expectation and complete Bernstein functions,2.5493469509894045e-06,0.0,1.0,2.0
+math/0110108,"Spectral Theorem for Convex Monotone Homogeneous Maps, and Ergodic
+  Control",2.536121190539695e-06,0.0,2.0,2.0
+math/0503448,"Max-plus (A,B)-invariant spaces and control of timed discrete event
+  systems",2.529497820020742e-06,0.0,1.0,1.0
+math-ph/0703024,Observer-based Hamiltonian identification for quantum systems,2.4992121916038307e-06,0.0,3.0,0.0
+math/0612615,"Truncated Markov bases and Gr\""obner bases for Integer Programming",2.482190131851072e-06,1.990182755160072e-06,2.0,1.0
+quant-ph/0402136,Feedback control of quantum state reduction,2.4711431321721443e-06,0.0,1.0,8.0
+math/0608381,Absolute Extrema of Invariant Optimal Control Problems,2.4711431321721443e-06,0.0,1.0,0.0
+math/0412535,Compressed polytopes and statistical disclosure limitation,2.4711431321721443e-06,0.0,1.0,3.0
+math/0607761,Tug of war with noise: a game theoretic view of the p-Laplacian,2.4711431321721443e-06,0.0,1.0,0.0
+math/0605117,The Random Edge Simplex Algorithm on Dual Cyclic 4-Polytopes,2.4711431321721443e-06,0.0,1.0,0.0
+math/0208167,Automated tuning of bifurcations via feedback,2.4711431321721443e-06,0.0,1.0,1.0
+math/0703823,Optimizing Venture Capital Investments in a Jump Diffusion Model,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0603049,"State Space Realizations and Monomial Equivalence for Convolutional
+  Codes",2.4711431321721443e-06,0.0,1.0,0.0
+math/9907160,Equity Allocation and Portfolio Selection in Insurance,2.4711431321721443e-06,0.0,1.0,0.0
+math/0612469,"G_2 and the ""Rolling Distribution""",2.4711431321721443e-06,0.0,1.0,0.0
+math/0703494,"A New Optimum Tuning Method of PI Controllers in First-Order Time-Delay
+  Systems",2.4711431321721443e-06,0.0,1.0,0.0
+math/0703782,"A Proof of the Smoothness of the Finite Time Horizon American Put Option
+  for Jump Diffusions",2.4711431321721443e-06,0.0,1.0,0.0
+math/0106166,A Note on Applications of Support Vector Machine,2.4711431321721443e-06,0.0,1.0,0.0
+math/0404237,Optimal Control of Newton-Type Problems of Minimal Resistance,2.4711431321721443e-06,0.0,1.0,1.0
+math/0502361,Stability of Planar Nonlinear Switched Systems,2.4711431321721443e-06,0.0,1.0,0.0
+math/0108163,Interval straight line fitting,2.4711431321721443e-06,0.0,1.0,1.0
+math/0203268,On the representation of polyhedra by polynomial inequalities,2.4711431321721443e-06,0.0,1.0,1.0
+math/0106180,Network Flow Optimization for Restoration of Images,2.4711431321721443e-06,0.0,1.0,1.0
+math/0604383,A generalized triangular form and its global controllability,2.4711431321721443e-06,0.0,1.0,0.0
+math/0605572,Systems with distributions and viability theorem,2.4711431321721443e-06,0.0,1.0,0.0
+math/0608416,Foliating Metric Spaces,2.4711431321721443e-06,0.0,1.0,0.0
+math/0501133,The Logarithmic Spiral Conjecture,2.4711431321721443e-06,0.0,1.0,0.0
+math/0601195,Energy decay for damped wave equations on partially rectangular domains,2.4711431321721443e-06,0.0,1.0,0.0
+math/0304255,"Matrosov's theorem using a family of auxiliary functions: an analysis
+  tool to aid time-varying nonlinear control design",2.4711431321721443e-06,0.0,1.0,0.0
+math/0209085,Regularity Properties of Constrained Set-Valued Mappings,2.4711431321721443e-06,0.0,1.0,0.0
+math/0206133,Monotone Control Systems,2.4711431321721443e-06,0.0,1.0,0.0
+math/0204189,State-Space Controller Design for the Fractional-Order Regulated System,2.4711431321721443e-06,0.0,1.0,0.0
+math/0108070,On the lambda-equations for matching control laws,2.4711431321721443e-06,0.0,1.0,0.0
+math/0408331,Computing Optimal Morse Matchings,2.4711431321721443e-06,0.0,2.0,0.0
+math/0602592,"On the density of properly maximal claims in financial markets with
+  transaction costs",2.4711431321721443e-06,0.0,1.0,0.0
+math/0005281,Connections between Linear Systems and Convolutional Codes,2.4711431321721443e-06,0.0,1.0,0.0
+math/0507330,"Solutions to Monge-Kantorovich equations as stationary points of a
+  dynamical system",2.4711431321721443e-06,0.0,1.0,0.0
+math/0309412,The energy of crumpled sheets in Foppl-von Karman plate theory,2.4711431321721443e-06,0.0,1.0,0.0
+math/0412442,Adaptive Regulation to Invariant Sets,2.4711431321721443e-06,0.0,1.0,0.0
+math/0405586,"Infinitesimal Characterizations for Strong Invariance and Monotonicity
+  for Non-Lipschitz Control Systems",2.4711431321721443e-06,0.0,1.0,0.0
+math/0409111,Order Reduction of Optimal Control Systems,2.4711431321721443e-06,0.0,1.0,0.0
+math-ph/0603028,Variational calculus on Lie algebroids,2.4497600777431284e-06,0.0,2.0,0.0
+math/0607576,"A Theorem on Frequency Function for Multiple-Valued Dirichlet Minimizing
+  Functions",2.429735359900988e-06,0.0,2.0,1.0
+math/0502078,Finiteness theorems in stochastic integer programming,2.384297139112206e-06,0.0,1.0,0.0
+cond-mat/9901353,Extremal Optimization of Graph Partitioning at the Percolation Threshold,2.372166325238819e-06,0.0,2.0,1.0
+math/0304184,Control in the presence of a black box,2.3508932037965284e-06,0.0,1.0,3.0
+math-ph/0702099,"Necessary Optimality Conditions for Fractional Action-Like Integrals of
+  Variational Calculus with Riemann-Liouville Derivatives of Order
+  $(\alpha,\beta)$",2.3469198153586743e-06,0.0,1.0,0.0
+math/0212294,Duality and separation theorems in idempotent semimodules,2.342131122319427e-06,0.0,3.0,12.0
+math/0012079,"Rational curves on Grassmannians: systems theory, reality, and
+  transversality",2.2877222413511013e-06,0.0,2.0,0.0
+math/0509250,"The max-plus finite element method for optimal control problems: further
+  approximation results",2.2748690497359173e-06,0.0,3.0,0.0
+math/0603619,"The max-plus finite element method for solving deterministic optimal
+  control problems: basic properties and convergence analysis",2.2748690497359173e-06,0.0,3.0,1.0
+math/0603133,Butcher series and control theory,2.2121522286386117e-06,0.0,1.0,0.0
+math/0408270,Solving the Likelihood Equations,2.1647026198951348e-06,3.980365510320144e-06,2.0,1.0
+math/0105128,Examples of integrable sub-Riemannian geodesic flows,2.120978933487838e-06,0.0,1.0,0.0
+q-bio/0605020,Laws in Darwinian Evolutionary Theory,2.087073078468716e-06,0.0,2.0,0.0
+math/0510452,"Hyperbolic Polynomials Approach to Van der Waerden/Schrijver-Valiant
+  like Conjectures : Sharper Bounds, Simpler Proofs and Algorithmic
+  Applications",2.030299565826555e-06,9.95091377580036e-07,2.0,1.0
+math/0504397,"A proof of hyperbolic van der Waerden conjecture : the right
+  generalization is the ultimate simplification",2.030299565826555e-06,3.980365510320144e-06,2.0,2.0
+math/0303304,Canonical systems and non-commutative geometry,1.98796549045472e-06,0.0,3.0,2.0
+math/0307158,"Geometric bounds on the growth rate of null-controllability cost for the
+  heat equation in small time",1.9045309660560457e-06,0.0,1.0,2.0
+math/0211450,"Symmetry groups, semidefinite programs, and sums of squares",1.8950380516170012e-06,0.0,1.0,2.0
+math/0701470,Optimal Shape Design for the Viscous Incompressible Flow,1.8950380516170012e-06,0.0,1.0,0.0
+math/0509536,A Discrete Variational Integrator for Optimal Control Problems on SO(3),1.8950380516170012e-06,0.0,2.0,1.0
+math/0612154,Optimal Shape Design for the Time-dependent Navier--Stokes Flow,1.8950380516170012e-06,0.0,1.0,0.0
+math/0301266,Computing the Integer Programming Gap,1.8950380516170012e-06,0.0,1.0,2.0
+cond-mat/0104214,Extremal Optimization for Graph Partitioning,1.8950380516170012e-06,0.0,1.0,0.0
+math/0006183,"Geometric description of vakonomic and nonholonomic dynamics. Comparison
+  of solutions",1.8950380516170012e-06,0.0,1.0,1.0
+math/0412403,"Stochastic optimal control of delay equations arising in advertising
+  models",1.8950380516170012e-06,0.0,1.0,0.0
+math/0402346,Applications of Lefschetz numbers in control theory,1.8950380516170012e-06,0.0,1.0,0.0
+math/0402364,Bond Market Completeness and Attainable Contingent Claims,1.8950380516170012e-06,0.0,1.0,1.0
+math/0612381,Non-uniform Small-gain Theorems for Systems with Unstable Invariant Sets,1.8950380516170012e-06,0.0,1.0,1.0
+math/0309048,A Harmonic Analysis Solution to the Static Basket Arbitrage Problem,1.8950380516170012e-06,0.0,1.0,2.0
+math/0506619,"PIIPTI, or the Principle of Increasing Irrelevance of Preference Type
+  Information",1.8950380516170012e-06,0.0,1.0,1.0
+math/0002113,"Structure and Stability of Certain Chemical Networks and Applications to
+  the Kinetic Proofreading Model of T-Cell Receptor Signal Transduction",1.8950380516170012e-06,0.0,1.0,1.0
+math/0508023,Steering laws for motion camouflage,1.8950380516170012e-06,0.0,1.0,1.0
+math/0404511,A New Approach to Adaptive Nonlinear Regulation,1.8950380516170012e-06,0.0,1.0,1.0
+math/0212055,Geometric aspects of the Maximum Principle and lifts over a bundle map,1.8096902176183637e-06,1.990182755160072e-06,1.0,1.0
+math/0404474,Combinatorial and algorithmic aspects of hyperbolic polynomials,1.765982446742752e-06,1.6916553418860613e-05,1.0,6.0
+math/0106031,Gomory Integer Programs,1.7301277087805848e-06,0.0,1.0,1.0
+quant-ph/0409156,Optimizing linear optics quantum gates,1.718924254965119e-06,2.35217599116938e-06,1.0,3.0
+math/0609038,A variational problem on Stiefel manifolds,1.703003024765287e-06,0.0,1.0,0.0
+math/0304028,Bernoulli numbers and the probability of a birthday surprise,1.703003024765287e-06,0.0,1.0,0.0
+cond-mat/0208196,Numerical Results for Ground States of Spin Glasses on Bethe Lattices,1.689129519045523e-06,1.336689910182138e-07,2.0,4.0
+hep-th/9811118,Tree Structures: A Variational Approach to Shannon--Wiener Information,1.6670131601725116e-06,3.980365510320144e-06,5.0,1.0
+math/0512163,Global Attitude Estimation using Uncertainty Ellipsoids,1.6446423249845696e-06,0.0,1.0,0.0
+math/0301268,Improving Search Algorithms by Using Intelligent Coordinates,1.60698551133943e-06,0.0,1.0,0.0
+math/0411338,"Stability of leaderless multi-agent systems. Extension of a result by
+  Moreau",1.60698551133943e-06,0.0,1.0,1.0
+math/0612103,"Positive polynomials in scalar and matrix variables, the spectral
+  theorem and optimization",1.60698551133943e-06,0.0,1.0,0.0
+math/0501499,"Synchronous robotic networks and complexity of control and communication
+  laws",1.60698551133943e-06,0.0,1.0,0.0
+math/0404184,"A max-plus finite element method for solving finite horizon
+  deterministic optimal control problems",1.5642712455365905e-06,0.0,2.0,2.0
+math/0402088,Combinatorics hidden in hyperbolic polynomials and related topics,1.5420602810571818e-06,2.7862558572241007e-05,2.0,3.0
+cs/0204040,"Self-Optimizing and Pareto-Optimal Policies in General Environments
+  based on Bayes-Mixtures",1.5194444616683535e-06,0.0,1.0,0.0
+math/0509299,Attitude Maneuvers of a Rigid Spacecraft in a Circular Orbit,1.5109679979135728e-06,0.0,1.0,4.0
+math/0608135,Controllability of NLS in the vicinity of solitary wave solutions,1.4835344226490424e-06,0.0,1.0,0.0
+math/0002119,Groebner Basis Procedures for Testing Petri Nets,1.4629592412006444e-06,0.0,1.0,0.0
+math/0003157,Double Bubbles Minimize,1.4341539871728873e-06,0.0,1.0,0.0
+math/0601025,"Analysis of disk scheduling, increasing subsequences and space-time
+  geometry",1.4327919181412e-06,0.0,1.0,1.0
+math/0208014,"Rational semimodules over the max-plus semiring and geometric approach
+  of discrete event systems",1.3839110294294092e-06,0.0,1.0,1.0
+math/0512468,Nonconservative Noether's Theorem in Optimal Control,1.3189329710618589e-06,0.0,0.0,1.0
+math/0611812,Rolling balls and Octonions,1.3189329710618589e-06,0.0,0.0,1.0
+math/0205016,A remark on the converging-input converging-state property,1.3189329710618589e-06,0.0,0.0,1.0
+math/0206186,A smooth variant of the Afriat- Varian Theorem,1.3189329710618589e-06,0.0,0.0,3.0
+math/9904153,The special Schubert calculus is real,1.3189329710618589e-06,0.0,0.0,1.0
+math/0409296,"Discrete variational principles and Hamilton-Jacobi theory for
+  mechanical systems and optimal control problems",1.3189329710618589e-06,0.0,0.0,2.0
+math/0205230,"Asymptotic stability of the Wonham filter for ergodic and nonergodic
+  signals",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0409282,"Reconstruction of stochastic nonlinear dynamical models from trajectory
+  measurements",1.3189329710618589e-06,0.0,0.0,1.0
+math/0206037,"Lipschitzian Estimates in Discrete-Time Constrained Stochastic Optimal
+  Control",1.3189329710618589e-06,0.0,0.0,1.0
+math/0404194,"Two-Dimensional Problems of Minimal Resistance in a Medium of Positive
+  Temperature",1.3189329710618589e-06,0.0,0.0,1.0
+math/0503311,A Remark on Monotone I/O Systems,1.3189329710618589e-06,0.0,0.0,1.0
+math/0211146,Short rational generating functions for lattice point problems,1.3189329710618589e-06,0.0,0.0,2.0
+math/0503170,"Low rank approximations of symmetric polynomials and asymptotic counting
+  of contingency tables",1.3189329710618589e-06,0.0,0.0,1.0
+math/0302243,Static Arbitrage Bounds on Basket Option Prices,1.3189329710618589e-06,0.0,0.0,2.0
+math/0402437,Mechanical control systems on Lie algebroids,1.3189329710618589e-06,0.0,0.0,2.0
+math/9905023,Configuration spaces and braid groups on graphs in robotics,1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/9901276,Renormalization for Discrete Optimization,1.3189329710618589e-06,0.0,0.0,5.0
+math/0306426,Time-dependent unidirectional communication in multi-agent systems,1.3189329710618589e-06,0.0,0.0,4.0
+math/9907032,Combinatorial optimization in geometry,1.3189329710618589e-06,0.0,0.0,3.0
+math/0605002,Tug-of-war and the infinity Laplacian,1.3189329710618589e-06,0.0,0.0,1.0
+math/0007155,"Modelling and analysis of fractional-order regulated systems in the
+  state space",1.3189329710618589e-06,0.0,0.0,1.0
+math/0604072,Symbolic Computation of Variational Symmetries in Optimal Control,1.3189329710618589e-06,0.0,0.0,1.0
+math/0210012,"Lower bounds for the energy in a crumpled elastic sheet - A minimal
+  ridge",1.3189329710618589e-06,0.0,0.0,1.0
+math/0312170,"Geometrical and Numerical Design of Structured Unitary Space Time
+  Constellations",1.3189329710618589e-06,0.0,0.0,1.0
+math/0203228,Adaptation Implies Internal Model,1.3189329710618589e-06,0.0,0.0,1.0
+math/0303254,Strongly MDS Convolutional Codes,1.3189329710618589e-06,0.0,0.0,1.0
+math/0701187,"A Formulation of Noether's Theorem for Fractional Problems of the
+  Calculus of Variations",1.3189329710618589e-06,0.0,0.0,1.0
+math/0304104,The Lax conjecture is true,1.3189329710618589e-06,0.0,0.0,1.0
+math/0202238,Stability of Polytopic Polynomial Matrices,1.3189329710618589e-06,0.0,0.0,1.0
+math/0212307,Quantized control via locational optimization,1.3189329710618589e-06,0.0,0.0,1.0
+math/0411211,"Symbolic Computation in the Calculus of Variations: Determination of
+  Symmetries and Conservation Laws (in Portuguese)",1.3189329710618589e-06,0.0,0.0,1.0
+math/0212102,A Remarkable Property of the Dynamic Optimization Extremals,1.3189329710618589e-06,0.0,0.0,1.0
+math/0302127,"A Proper Extension of Noether's Symmetry Theorem for Nonsmooth Extremals
+  of the Calculus of Variations",1.3189329710618589e-06,0.0,0.0,1.0
+math/0503415,Weak Conservation Laws for Minimizers which are not Pontryagin Extremals,1.3189329710618589e-06,0.0,0.0,1.0
+math/0004148,"Lagrangian and Hamiltonian Formalism for Constrained Variational
+  Problems",1.3189329710618589e-06,0.0,0.0,1.0
+math/0112208,"An Improved Bound on the VC-Dimension of Neural Networks with Polynomial
+  Activation Functions",1.3189329710618589e-06,0.0,0.0,1.0
+math/0607647,"Tensor rank and the ill-posedness of the best low-rank approximation
+  problem",1.3189329710618589e-06,0.0,0.0,1.0
+math/0606083,Global Optimal Attitude Estimation using Uncertainty Ellipsoids,1.3189329710618589e-06,0.0,0.0,1.0
+math/0602589,Deterministic Global Attitude Estimation,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0608208,Structure of Optimal Transport Networks Subject to a Global Constraint,1.3189329710618589e-06,0.0,0.0,1.0
+math/0406439,Sub-Finsler geometry in dimension three,1.3189329710618589e-06,0.0,0.0,1.0
+math/0609019,Convex Integer Maximization via Graver Bases,1.3189329710618589e-06,0.0,0.0,1.0
+math/0204233,"On the $K+P$ Problem for a Three-level Quantum System: Optimality
+  Implies Resonance",1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0207024,"Contact Line Instability and Pattern Selection in Thermally Driven
+  Liquid Films",1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0207023,Nonnormality and the localized control of extended systems,1.3189329710618589e-06,0.0,0.0,1.0
+math/0509064,"The solution of the global controllability problem for the triangular
+  systems in the singular case",1.3189329710618589e-06,0.0,0.0,1.0
+math/0309254,Adaptive Algorithms in Finite Forms,1.3189329710618589e-06,0.0,0.0,1.0
+math/0702663,"Response to a Setpoint Change in PID Controlled Time-Delay Feedback
+  Systems",1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/0206036,Geometric reduction in optimal control theory with symmetries,1.3189329710618589e-06,0.0,0.0,1.0
+math/0509139,Dynamic State Tameness,1.3189329710618589e-06,0.0,0.0,1.0
+math/0703538,"On the Perpetual American Put Options for Level Dependent Volatility
+  Models with Jumps",1.3189329710618589e-06,0.0,0.0,1.0
+math/0703825,"A Unified Treatment of Dividend Payment Problems under Fixed Cost and
+  Implementation Delays",1.3189329710618589e-06,0.0,0.0,1.0
+math/9907142,"Equity Allocation and Portfolio Selection in Insurance: A simplified
+  Portfolio Model",1.3189329710618589e-06,0.0,0.0,1.0
+math/0003177,Matching control laws for a ball and beam system,1.3189329710618589e-06,0.0,0.0,1.0
+math/0602339,Reduction of Linear Programming to Linear Approximation,1.3189329710618589e-06,0.0,0.0,1.0
+math/0301335,"Persistency of excitation for uniform convergence in nonlinear control
+  systems",1.3189329710618589e-06,0.0,0.0,1.0
+math/9905046,Duality between Multidimensional Convolutional Codes and Systems,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0603013,On the MacWilliams Identity for Convolutional Codes,1.3189329710618589e-06,0.0,0.0,1.0
+math/0603598,Noether's Theorem for Fractional Optimal Control Problems,1.3189329710618589e-06,0.0,0.0,1.0
+math/0605610,Nonlinear Bipartite Matching,1.3189329710618589e-06,0.0,0.0,1.0
+math/0501123,Searching for a Shoreline,1.3189329710618589e-06,0.0,0.0,1.0
+math/0007129,"Fate stochastic management and policy benchmark in 421, a popular game",1.3189329710618589e-06,0.0,0.0,1.0
+math/0502025,Two New Bounds on the Random-Edge Simplex Algorithm,1.3189329710618589e-06,0.0,0.0,1.0
+math/0403180,On the Strong Invariance Property for Non-Lipschitz Dynamics,1.3189329710618589e-06,0.0,0.0,1.0
+math/0403209,Common Polynomial Lyapunov Functions for Linear Switched Systems,1.3189329710618589e-06,0.0,0.0,1.0
+math/0312281,Polynomial decay rate for the dissipative wave equation,1.3189329710618589e-06,0.0,0.0,1.0
+math/0302264,Quasi-Invariant Optimal Control Problems,1.3189329710618589e-06,0.0,0.0,1.0
+math/9912237,"Global Stability of McKeithan's Kinetic Proofreading Model for T-Cell
+  Receptor Signal Transduction",1.3189329710618589e-06,0.0,0.0,2.0
+math/0311223,Nonlinear internal models for output regulation,1.3189329710618589e-06,0.0,0.0,2.0
+math/0103170,Minimizing Polynomial Functions,1.3189329710618589e-06,0.0,0.0,2.0
+math/0506419,"Adaptation and Parameter Estimation in Systems with Unstable Target
+  Dynamics and Nonlinear Parametrization",1.3189329710618589e-06,0.0,0.0,2.0
+math/0503390,Natural frames and interacting particles in three dimensions,1.3189329710618589e-06,0.0,0.0,2.0
+math/0301278,A theory of bond portfolios,1.3189329710618589e-06,0.0,0.0,2.0
+math/0512344,Smooth Optimization with Approximate Gradient,1.3189329710618589e-06,0.0,0.0,2.0
+math/0612136,Shape Optimization for Navier-Stokes Flow,1.3189329710618589e-06,0.0,0.0,2.0
+math/0009095,"Characterization of Local Configuration Controllability for a Class of
+  Mechanical Systems",1.3189329710618589e-06,0.0,0.0,1.0
+math/9902124,"Feedback Stabilization over Commutative Rings: Further study of the
+  coordinate-free approach",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9901351,Nature's Way of Optimizing,1.3189329710618589e-06,0.0,0.0,3.0
+math/0405065,Reconsidering Conflict and Cooperation,1.3189329710618589e-06,0.0,0.0,2.0
+math-ph/0502051,"Modelling the Biomacromolecular Structure with Selected Combinatorial
+  Optimization Techniques",1.3189329710618589e-06,0.0,0.0,2.0
+math/0306180,Linear Matrix Inequality Representation of Sets,1.3189329710618589e-06,0.0,0.0,3.0
+math/0405208,Relaxed Averaged Alternating Reflections for Diffraction Imaging,1.3189329710618589e-06,0.0,0.0,5.0
+math/0310316,The stochastic goodwill problem,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0010337,Optimization with Extremal Dynamics,1.3189329710618589e-06,0.0,0.0,2.0
+math/9904167,Real Rational Curves in Grassmannians,1.3189329710618589e-06,0.0,0.0,2.0
+math/0502483,Time Optimal Synthesis for Left--Invariant Control Systems on SO(3),1.3189329710618589e-06,0.0,0.0,1.0
+math/0509225,"The Caratheodory-Fejer-Pisarenko decomposition and its multivariable
+  counterpart",1.3189329710618589e-06,0.0,0.0,1.0
+math/0505038,A note on the stability number of an orthogonality graph,1.3189329710618589e-06,0.0,0.0,2.0
+math/0411311,Almost Global Stochastic Stability,1.3189329710618589e-06,0.0,0.0,1.0
+alg-geom/9706004,Numerical Schubert calculus,,,,
+chao-dyn/9904005,Control of Dynamic Hopf Bifurcations,,,,
+cs/0108011,On Classes of Functions for which No Free Lunch Results Hold,,,,
+cs/0303032,Recent Results on No-Free-Lunch Theorems for Optimization,,,,
+cs/0310021,"Fuzzy Relational Modeling of Cost and Affordability for Advanced
+  Technology Manufacturing Environment",,,,
+cs/0409054,An Approximation Algorithm for Stackelberg Network Pricing,,,,
+cs/0501016,On the weight distribution of convolutional codes,,,,
+cs/0506098,Distributed Selfish Load Balancing,,,,
+cs/0510014,Computing the Kalman form,,,,
+cs/0603003,Analyse non standard du bruit,,,,
+cs/0606110,Optimal Scheduling of Peer-to-Peer File Dissemination,,,,
+cs/0701043,Adaptive Alternating Minimization Algorithms,,,,
+cs/0703025,"LIBOPT - An environment for testing solvers on heterogeneous collections
+  of problems - Version 1.0",,,,
+math-ph/0305021,Applications of Lie systems in Quantum Mechanics and Control Theory,,,,
+math-ph/0405041,The origin of variational principles,,,,
+math/0001039,Polynomial hulls and H-infinity control for a hypoconvex constraint,,,,
+math/0003064,"Elementary Factors and Reduced Minors for Linear Systems over
+  Commutative Rings",,,,
+math/0003196,Matching and digital control implementation for underactuated systems,,,,
+math/0003203,"Attainable sets for left invariant control systems and
+  Carnot-Caratheodory metrics on nilpotent Lie groups",,,,
+math/0004064,"The fractional - order controllers: Methods for their synthesis and
+  application",,,,
+math/0004124,Contact systems and corank one involutive subdistributions,,,,
+math/0004125,"Nilpotentization of the kinematics of the n-trailer system at singular
+  points and motion planning through the singular locus",,,,
+math/0006016,The Calibration Method for Free Discontinuity Problems,,,,
+math/0006121,"Matching, linear systems, and the ball and beam",,,,
+math/0006133,Output-input stability and minimum-phase nonlinear systems,,,,
+math/0006190,"The modelling and analysis of fractional-order control systems in
+  discrete domain",,,,
+math/0007063,"Neural Stabilization/Excitation Control of a High-Order Power System by
+  Adaptive Feedback Linearization",,,,
+math/0007100,"Output Feedback Control for Stabilizable and Incompletely Observable
+  Nonlinear Systems",,,,
+math/0007101,"Output Feedback Control of Jet Engine Stall and Surge Using Pressure
+  Measurements",,,,
+math/0007168,Control for a class of nonlinear systems with a time-varying structure,,,,
+math/0008083,"Asymptotic behavior of Patil's approximants in Hardy spaces : The real
+  case",,,,
+math/0008186,"The modelling and analysis of fractional-order control systems in
+  frequency domain",,,,
+math/0010045,"A probabilistic algorithm to test local algebraic observability in
+  polynomial time",,,,
+math/0010095,"Partial synchronicity and the (max,+) semiring",,,,
+math/0011089,A new property of absorbed diffusions,,,,
+math/0012054,Output Feedback Invariants,,,,
+math/0012077,On shape optimization and the Pompeiu problem,,,,
+math/0012081,"Large Deviation Principles and Complete Equivalence and Nonequivalence
+  Results for Pure and Mixed Ensembles",,,,
+math/0012163,Learning Complexity Dimensions for a Continuous-Time Control System,,,,
+math/0012209,"Constraint Identification and Algorithm Stabilization for Degenerate
+  Nonlinear Programs",,,,
+math/0012242,"The simplest examples where the simplex method cycles and conditions
+  where EXPAND fails to prevent cycling",,,,
+math/0101037,Reconstruction from projections using dynamics: Non-Stochastic Case,,,,
+math/0101091,The ring grooming problem,,,,
+math/0102188,Iterated Local Search,,,,
+math/0103102,"Effects of Finite-Precision Arithmetic on Interior-Point Methods for
+  Nonlinear Programming",,,,
+math/0103196,"Self-scaled barrier functions on symmetric cones and their
+  classification",,,,
+math/0104020,Self-scaled barriers for irreducible symmetric cones,,,,
+math/0104157,An Inverse Problem from Sub-Riemannian Geometry,,,,
+math/0104190,Conditional Expectation as Quantile Derivative,,,,
+math/0104230,A Stochastic Analog of Aubry-Mather Theory,,,,
+math/0105214,An Infinite-Time Relaxation Theorem for Differential Inclusions,,,,
+math/0106120,"Least Sqaure Method for Sum of the Functions Satysfying the Differential
+  Equations with Polynomial Coefficients",,,,
+math/0106138,Integral-Input-Output to State Stability,,,,
+math/0106151,"Decomposition Algorithms for Stochastic Programming on a Computational
+  Grid",,,,
+math/0108133,Degrees of real Wronski maps,,,,
+math/0108224,On the Boundary Control of Systems of Conservation Laws,,,,
+math/0109034,Verification Theorems for Hamilton-Jacobi-Bellman equations,,,,
+math/0110103,"The Generalized Spike Process, Sparsity, and Statistical Independence",,,,
+math/0110143,The Kruskal Count,,,,
+math/0110317,"A Small-Gain Theorem with Applications to Input/Output Systems,
+  Incremental Stability, Detectability, and Interconnections",,,,
+math/0111107,Flow Stability of Patchy Vector Fields and Robust Feedback Stabilization,,,,
+math/0111109,Stability Rates for Patchy Vector Fields,,,,
+math/0111135,"For differential equations with r parameters, 2r+1 experiments are
+  enough for identification",,,,
+math/0112021,Asymptotic cauchy gains: Definitions and small-gain principle,,,,
+math/0112232,"Asymptotic amplitudes and cauchy gains: A small-gain principle and an
+  application to inhibitory biological feedback",,,,
+math/0201020,Estimating Maximum by Moments for Functions on Orbits,,,,
+math/0201053,Vibrational control in H_infinity problems,,,,
+math/0201296,Hamilton-Jacobi Equations and Distance Functions on Riemannian Manifolds,,,,
+math/0202098,"Measurement to Error Stability: a Notion of Partial Detectability for
+  Nonlinear Systems",,,,
+math/0202151,Frequency Response of Uncertain Systems: Strong Kharitonov-Like Results,,,,
+math/0202155,Performance Evaluation of Switched Discrete Event Systems,,,,
+math/0202239,"A Recipe for Construction of the Critical Vertices for Left-Sector
+  Stability of Interval Polynomials",,,,
+math/0202240,"Geometric Characterization of Strictly Positive Real Regions and its
+  Applications",,,,
+math/0202241,Robust Performance of A Class of Control Systems,,,,
+math/0202242,"Robust SPR Synthesis for Low-Order Polynomial Segments and Interval
+  Polynomials",,,,
+math/0203059,On linear programming bounds for spherical codes and designs,,,,
+math/0203153,Controllability of reduced systems,,,,
+math/0204068,Computational problems for vector-valued quadratic forms,,,,
+math/0204108,"Numerical Models for the Simulation of the Fractional-Order Control
+  Systems",,,,
+math/0204187,Identification of Fractional-Order Dynamical Systems,,,,
+math/0204263,On exponential stability of Wonham filter,,,,
+math/0205017,"Singular trajectories in multi-input time-optimal problems: Application
+  to controlled mechanical systems",,,,
+math/0205049,"The asymptotic complexity of partial sorting -- How to learn large
+  posets by pairwise comparisons",,,,
+math/0205120,"Pricing rule based on non-arbitrage arguments for random volatility and
+  volatility smile",,,,
+math/0205140,"Almost sure convergence of the minimum bipartite matching functional in
+  Euclidean space",,,,
+math/0205205,"On the output-input stability property for multivariable nonlinear
+  control systems",,,,
+math/0205209,Some algorithms arising in the proof of the Kepler conjecture,,,,
+math/0205278,A geometric inequality for circle packings,,,,
+math/0205288,"Wide partitions, Latin tableaux, and Rota's basis conjecture",,,,
+math/0206125,"Relaxation, New Combinatorial and Polynomial Algorithms for the Linear
+  Feasibility Problem",,,,
+math/0206191,Gradient algorithms for finding common Lyapunov functions,,,,
+math/0206230,"Caratheodory-Equivalence, Noether Theorems, and Tonelli Full-Regularity
+  in the Calculus of Variations and Optimal Control",,,,
+math/0206251,"A Relaxation Theorem for Differential Inclusions with Applications to
+  Stability Properties",,,,
+math/0207033,Stochastic apportionment,,,,
+math/0207075,"Parameter Estimation of Sigmoid Superpositions: Dynamical System
+  Approach",,,,
+math/0207094,Zero Assignment in Multivariable System Using Pole Assignment Method,,,,
+math/0207136,Convex Matroid Optimization,,,,
+math/0207198,"The dissipation distance for a 2D single crystal with two symmetric slip
+  systems",,,,
+math/0207200,The Complexity of Three-Way Statistical Tables,,,,
+math/0207259,"Maximin setting for investment problems and fixed income management with
+  observable but non-predictable parameters",,,,
+math/0207260,Optimal portfolio selection and compression in an incomplete market,,,,
+math/0208020,How to Evolve Safe Control Strategies,,,,
+math/0208130,On Bond Portfolio Management,,,,
+math/0208131,On a Linear Property of Bilinearly Defined Sets in $\mathbb{R}^n$,,,,
+math/0208240,"Local Solutions of the Dynamic Programming Equations and the Hamilton
+  Jacobi Bellman PDE",,,,
+math/0209213,Motion planning and control problems for underactuated robots,,,,
+math/0209222,An Inverse Function Theorem for Metrically Regular Mappings,,,,
+math/0209358,Calculation of Linear Systems Metric Tensors via Algebraic Computation,,,,
+math/0210031,Asymptotic Stability of the optimal filter for non-ergodic signals,,,,
+math/0210055,"A remark on unified error exponents: Hypothesis testing, data
+  compression and measure concentration",,,,
+math/0210452,"Complete Solution to the General Robust Strictly Positive Real Synthesis
+  Problem for Polynomial Segments",,,,
+math/0211009,"Robust Strictly Positive Real Synthesis for Convex Combination of
+  Sixth-Order Polynomials",,,,
+math/0211010,"Improved Results on Robust Stability of Multivariable Interval Control
+  Systems",,,,
+math/0211011,Robust D-stability of uncertain MIMO systems: LMI criteria,,,,
+math/0211012,"Robust Strictly Positive Real Synthesis for Polynomial Families of
+  Arbitrary Order",,,,
+math/0211013,H-infinity Performance of Interval Systems,,,,
+math/0211014,Edge Theorem for Multivariable Systems,,,,
+math/0211073,On LP-orientations of cubes and crosspolytopes,,,,
+math/0211134,"A Numerical Approach for Designing Unitary Space Time Codes with Large
+  Diversity",,,,
+math/0211344,"Algebraic methods for computing smallest enclosing and circumscribing
+  cylinders of simplices",,,,
+math/0211382,Exact Feedback Linearization of Stochastic Control Systems,,,,
+math/0211383,A Monte Carlo method for exponential hedging of contingent claims,,,,
+math/0212103,"Lipschitzian Regularity of the Minimizing Trajectories for Nonlinear
+  Optimal Control Problems",,,,
+math/0212212,Coverage control for mobile sensing networks,,,,
+math/0212235,Characterizing Matchings as the Intersection of Matroids,,,,
+math/0212255,The Convergence of the Extended Kalman Filter,,,,
+math/0212357,"Multistability in Monotone I/O Systems, Preliminary Report",,,,
+math/0212413,Smoothed analysis of algorithms,,,,
+math/0301076,The Random Edge Rule on Three-Dimensional Linear Programs,,,,
+math/0301109,A Globally Convergent LCL Method for Nonlinear Optimization,,,,
+math/0301116,Gauge Symmetries and Noether Currents in Optimal Control,,,,
+math/0301256,On the problem of global optimisation of a multivariable function,,,,
+math/0301276,Integrals of Motion for Discrete-Time Optimal Control Problems,,,,
+math/0302104,Optimal Convergence Trading,,,,
+math/0303351,"Convergence to time-periodic solutions in Hamilton-Jacobi equations on
+  the circle",,,,
+math/0303371,Characterization of gradient control systems,,,,
+math/0303388,"Optical design of two-reflector systems, the Monge-Kantorovich mass
+  transfer problem and Fermat's principle",,,,
+math/0304041,"Efficient Determination of Gibbs Estimators with Submodular Energy
+  Functions",,,,
+math/0304151,Optimal Asset Allocation with Asymptotic Criteria,,,,
+math/0305003,"A catalog of inverse-kinematics planners for underactuated systems on
+  matrix groups",,,,
+math/0305011,Exploring the capability and limits of the feedback mechanism,,,,
+math/0305067,Global Asymptotic Controllability Implies Input to State Stabilization,,,,
+math/0305135,Distance bounds for convolutional codes and some optimal codes,,,,
+math/0305307,Positive forward rates in the maximum smoothness framework,,,,
+math/0305433,"Coordination and geometric optimization via distributed dynamical
+  systems",,,,
+math/0306063,Computing Dynamic Output Feedback Laws,,,,
+math/0306246,On the graph-density of random 0/1-polytopes,,,,
+math/0306279,Stopping games in continuous time,,,,
+math/0307167,"On uniform asymptotic stability of time-varying parameterized
+  discrete-time cascades",,,,
+math/0307190,Polynomial inequalities representing polyhedra,,,,
+math/0307305,Flexible Complementarity Solvers for Large-Scale Applications,,,,
+math/0307331,A new conical internal evolutive LP algorithm,,,,
+math/0307333,A duality theory for some non-convex functions of matrices,,,,
+math/0308172,On the Constancy of the Pontryagin Hamiltonian for Autonomous Problems,,,,
+math/0308206,An optimal matching problem,,,,
+math/0309026,Local Stable Manifold for the Bidirectional Discrete-Time Dynamics,,,,
+math/0309083,Convex Combinatorial Optimization,,,,
+math/0309100,The structured distance to ill-posedness for conic systems,,,,
+math/0309255,"Catastrophe Management and Inter-Reserve Distance for Marine Reserve
+  Networks",,,,
+math/0309278,"On Tail Decay and Moment Estimates of a Condition Number for Random
+  Linear Conic Systems",,,,
+math/0309351,The Simplex Algorithm in Dimension Three,,,,
+math/0310028,Reachability problems for products of matrices in semirings,,,,
+math/0310148,Convolutional Codes of Goppa Type,,,,
+math/0310149,Convolutional Goppa Codes,,,,
+math/0310357,Penalty Interior-Point Method Fails to Converge,,,,
+math/0311163,"On the controllability of some steady states in the case of nonlinear
+  discrete dynamical systems with control",,,,
+math/0311169,Discrete variational integrators and optimal control theory,,,,
+math/0311267,"Further Results on Lyapunov Functions and Domains of Attraction for
+  Perturbed Asymptotically Stable Systems",,,,
+math/0311269,"Bounded-From-Below Solutions of the Hamilton-Jacobi Equation for Optimal
+  Control Problems with Exit Times: Vanishing Lagrangians, Eikonal Equations,
+  and Shape-From-Shading",,,,
+math/0311357,"Optimal length and signal amplification in weakly activated signal
+  transduction cascades",,,,
+math/0311393,Low-dimensional faces of random 0/1-polytopes,,,,
+math/0311527,Uniform stability of damped nonlinear vibrations of an elastic string,,,,
+math/0312062,"An Analysis of a Circadian Model Using The Small-Gain Approach to
+  Monotone Systems",,,,
+math/0312206,On Linearity of Nonclassical Differentiation,,,,
+math/0312216,Pseudopolynomial algorithm for single machine scheduling (withdrawn),,,,
+math/0312395,"A blow-up phenomenon in the Hamilton-Jacobi equation in an unbounded
+  domain",,,,
+math/0401063,On the Global Minimization of the Value-at-Risk,,,,
+math/0401109,On the Structure of Behaviors,,,,
+math/0401157,Generalized PSK in Space Time Coding,,,,
+math/0401297,"Spatially-distributed coverage optimization and control with
+  limited-range interactions",,,,
+math/0402229,"Approximate Nonnegative Matrix Factorization via Alternating
+  Minimization",,,,
+math/0402444,"Sublevel sets and global minima of coercive functionals and local minima
+  of their perturbations",,,,
+math/0402445,Integral functionals on Sobolev spaces having multiple local minima,,,,
+math/0403001,Discrete Nonlinear Observers for Inertial Navigation,,,,
+math/0403035,"An extension of the characterization of the domain of attraction of an
+  asymptotically stable fixed point in the case of a nonlinear discrete
+  dynamical system",,,,
+math/0403099,Outer factorizations in one and several variables,,,,
+math/0403465,"Proximal calculus on Riemannian manifolds, with applications to fixed
+  point theory",,,,
+math/0403466,"Some Results on Algebraic and Geometric Characterization of Linear
+  Systems Models for Time Series Analysis",,,,
+math/0403467,"On the existence of a common quadratic Lyapunov function for a rank one
+  difference",,,,
+math/0403546,Neighborhood complexes and generating functions for affine semigroups,,,,
+math/0404142,"Improved bounds for the crossing numbers of K_m,n and K_n",,,,
+math/0404277,Tracking of Historical Volatility,,,,
+math/0404348,"Interactions Between the Generalized Hadamard Product and the
+  Eigenvalues of Symmetric Matrices",,,,
+math/0404349,On the Higher-Order Derivatives of Spectral Functions: Two Special Cases,,,,
+math/0404447,Indifference pricing and hedging in stochastic volatility models,,,,
+math/0405038,Small contingency tables with large gaps,,,,
+math/0405142,A Topology-Preserving Level Set Method for Shape Optimization,,,,
+math/0405166,A converse Lyapunov theorem for almost sure stabilizability,,,,
+math/0405167,Almost sure stability of controlled degenerate diffusions,,,,
+math/0405169,"Lyapunov stabilizability of controlled diffusions via a superoptimality
+  principle for viscosity solutions",,,,
+math/0405200,Generalized splines in R^n and optimal control,,,,
+math/0405405,Swarming Behavior of Multi-Agent Systems,,,,
+math/0405439,Self-organization in a group of mobile autonomous agents,,,,
+math/0405452,"Memory loss property for products of random matrices in the $(\max,+)$
+  algebra",,,,
+math/0406067,Short-term equity dynamics and endogenous market fluctuations,,,,
+math/0406095,"Some Remarks on the Optimal Level of Randomization in Global
+  Optimization",,,,
+math/0406203,Homogeneous Multiplicative Polynomial Laws are Determinants,,,,
+math/0406419,On Matrix Polynomials with Real Roots,,,,
+math/0406435,Optimal distributed dynamic advertising,,,,
+math/0406528,Controlling alliances through executing pressure,,,,
+math/0406597,Putting the prisoner's dilemma in context,,,,
+math/0407023,Polynomial hulls and an optimization problem,,,,
+math/0407109,"A Value-At-Risk approach for robust management of electricity power
+  generation",,,,
+math/0407409,"On the Noether Invariance Principle for Constrained Optimal Control
+  Problems",,,,
+math/0407485,Computationally efficient approximations of the joint spectral radius,,,,
+math/0408241,Switched flow systems: pseudo billiard dynamics,,,,
+math/0409010,Stability of continuous-time distributed consensus algorithms,,,,
+math/0409144,"Parameter estimation and control for a class of systems with nonlinear
+  parametrization",,,,
+math/0409446,Pyramids and monomial blowing-ups,,,,
+math/0410146,"Methods for determination and approximation of domains of attraction in
+  the case of autonomous discrete dynamical systems",,,,
+math/0410225,Integral Function Bases,,,,
+math/0410277,Global Stabilization for Systems Evolving on Manifolds,,,,
+math/0410543,On measures of unfairness and an optimal currency transaction tax,,,,
+math/0410544,The fairest price of an asset in an environment of temporary arbitrage,,,,
+math/0410578,Optimal control in Bombieri's and Tammi's conjectures,,,,
+math/0411150,"Further Remarks on Strict Input-to-State Stable Lyapunov Functions for
+  Time-Varying Systems",,,,
+math/0411173,"A Noether Theorem on Unimprovable Conservation Laws for Vector-Valued
+  Optimization Problems in Control Theory",,,,
+math/0411248,"On the rate of convergence of finite-difference approximations for
+  Bellman equations with Lipschitz coefficients",,,,
+math/0411518,Lost at Sea,,,,
+math/0412070,"Nonnegative Matrix Factorization and I-Divergence Alternating
+  Minimization",,,,
+math/0412092,On Skorohod spaces as universal sample path spaces,,,,
+math/0412311,"Finding Blackjack's Optimal Strategy in Real-time and Player's Expected
+  Win",,,,
+math/0412332,On the asymptotic free boundary for the American put option problem,,,,
+math/0412379,"Time-reversal and the adjoint method with an application in
+  telecommunication",,,,
+math/0412444,Adaptation and nonlinear parametrization: nonlinear dynamics prospective,,,,
+math/0412543,"An unconditionally convergent iterative scheme for initial shape
+  identification in small deformations",,,,
+math/0501001,A further improvement of a minimax theorem of Borenshtein and Shulman,,,,
+math/0501002,A general variational principle and some of its applications,,,,
+math/0501351,Remote Tracking via Encoded Information for Nonlinear Systems,,,,
+math/0502031,"On feedback classification of control-affine systems with one and
+  two-dimensional inputs",,,,
+math/0502136,The Monge problem for supercritical Mane potentials on compact manifolds,,,,
+math/0502172,An hybrid system approach to nonlinear optimal control problems,,,,
+math/0502298,"Integration and Optimization of Multivariate Polynomials by Restriction
+  onto a Random Subspace",,,,
+math/0502339,"Algebraic Characterizations of Consensus Problems for Networked Dynamic
+  Systems",,,,
+math/0502340,On Robust Stability of Multivariable Interval Control Systems,,,,
+math/0502341,Coordination of Multiple Dynamic Agents with Asymmetric Interactions,,,,
+math/0502345,Blaschke addition and convex polyhedra,,,,
+math/0502391,Minimizing Polynomials Over Semialgebraic Sets,,,,
+math/0503117,"A notion of passivity gain and a generalization of the ""secant
+  condition"" for stability",,,,
+math/0503135,"A sequential semidefinite programming method and an application in
+  passive reduced-order modeling",,,,
+math/0503141,An extension of LaSalle's invariance principle for switched systems,,,,
+math/0503174,Improving SDP bounds for minimizing quadratic functions over the l1-ball,,,,
+math/0503292,"Memoryless output nullification and canonical forms, for time varying
+  systems",,,,
+math/0503426,Asymptotics of an optimal compliance-location problem,,,,
+math/0503444,Trading Strategy Adipted Optimization of European Call Option,,,,
+math/0503595,"Regularity of solutions to stochastic Volterra equations with infinite
+  delay",,,,
+math/0503634,Limit theorems for iterated random topical operators,,,,
+math/0504019,Uniqueness properties of functionals with Lipschitzian derivative,,,,
+math/0504275,Diagonal Stability for a Class of Interconnected Passive Systems,,,,
+math/0504298,"Characterization of the solution to a constrained H-infinity optimal
+  control problem",,,,
+math/0504323,Navier-Stokes Equation on the Rectangle,,,,
+math/0504365,Stasis Points and Approximating Two-Cycles,,,,
+math/0504419,On the stability of the Kuramoto model of coupled nonlinear oscillators,,,,
+math/0504601,Analysis of Vibrations in Large Flexible Hybrid Systems,,,,
+math/0505271,A cooperative system which does not satisfy the limit set dichotomy,,,,
+math/0505443,"Flatness and Monge parameterization of two-input systems, control-affine
+  with 4 states or general with 3 states",,,,
+math/0505494,"Controlling Stationary Fronts in Two-Dimensional Reaction-Diffusion
+  Systems",,,,
+math/0505496,"Inf-convolution and regularization of convex functions on Riemannian
+  manifolds of nonpositive curvature",,,,
+math/0506060,Variable structure control for parabolic evolution equations,,,,
+math/0506109,"On o-minimality of extensions of $\R$ by restricted generic smooth
+  functions",,,,
+math/0506197,Geometry of optimal control problems and Hamiltonian systems,,,,
+math/0506364,"Correctness of the optimal control problems for distributed parameter
+  systems (survey)",,,,
+math/0506434,An ISS Small-Gain Theorem for General Networks,,,,
+math/0506479,"On curvature and feedback classification of two-dimensional optimal
+  control systems",,,,
+math/0506489,"Acceleration Operators in the Value Iteration Algorithms for Markov
+  Decision Processes",,,,
+math/0506508,"A Small-Gain Theorem for Monotone Systems with Multi-Valued Input-State
+  Characteristics",,,,
+math/0507063,Geodesics in nilpotent Lie groups,,,,
+math/0507072,"A Luenberger-style Observer for Robot Manipulators with Position
+  Measurements",,,,
+math/0507567,Trajectory tracking control for maneuverable nonholonomic systems,,,,
+math/0508199,Extending Utility Representations of Partial Orders,,,,
+math/0508209,Transport and Concentration Problems with Interaction Effects,,,,
+math/0508319,"Combinations and Mixtures of Optimal Policies in Unichain Markov
+  Decision Processes are Optimal",,,,
+math/0509167,Set-valued differentiation as an operator,,,,
+math/0509176,PackLib^2: An integrated library of multi-dimensional packing problems,,,,
+math/0509279,Solutions of max-plus linear equations and large deviations,,,,
+math/0509288,"An algebraic geometry approach to nonlinear parametric optimization in
+  control",,,,
+math/0509352,Robust Routing and Cross-Entropy Estimation,,,,
+math/0509357,"Optimal Attitude Estimation and Filtering Without Using Local
+  Coordinates Part I: Uncontrolled and Deterministic Attitude Dynamics",,,,
+math/0509509,All solutions to the relaxed commutant lifting problem,,,,
+math/0509650,"Adaptive Observer-based Synchronization of Nonlinear Nonpassifiable
+  Systems",,,,
+math/0509702,"Direct approach to the problem of strong local minima in Calculus of
+  Variations",,,,
+math/0509705,A Note on Overshoot Estimation in Pole Placements,,,,
+math/0509718,Conic S-Procedure And Constrained Dissipativity,,,,
+math/0510009,Optimal Control of Underactuated Nonholonomic Mechanical Systems,,,,
+math/0510115,Viability Analysis of Management Frameworks for Fisheries,,,,
+math/0510191,"On the existence and uniqueness of minima and maxima on spheres of the
+  integral functional of the calculus of variations",,,,
+math/0510270,"Point Interaction Controls for the Energy Transfer in 3-D Quantum
+  Systems",,,,
+math/0510379,"Further Constructions of Control-Lyapunov Functions and Stabilizing
+  Feedbacks for Systems Satisfying the Jurdjevic-Quinn Conditions",,,,
+math/0510485,A stochastic-variational model for soft Mumford-Shah segmentation,,,,
+math/0510669,"Decomposition of vector-valued divergence free Sobolev functions and
+  shape optimization for stationary Navier-Stokes equations",,,,
+math/0511017,H-Convex Riemannian Submanifolds,,,,
+math/0511087,Chen's inequality in Lagrangian case,,,,
+math/0511088,On a geometric inequality,,,,
+math/0511089,A new obstruction to minimal isometric immersions into a real space form,,,,
+math/0511106,"Continuity corrections for certain perpetual American and Bermudan
+  options on multiple assets",,,,
+math/0511112,Output Feedback Pole Assignment for Transfer Functions with Symmetries,,,,
+math/0511347,"First Integrals for Problems of Calculus of Variations on Locally Convex
+  Spaces",,,,
+math/0511355,Quadratures of Pontryagin Extremals for Optimal Control Problems,,,,
+math/0511375,An Improved Stability Method for Linear Systems with Fast-Varying Delays,,,,
+math/0512118,Optimal control of a large dam,,,,
+math/0512200,On time-inhomogeneous controlled diffusion processes in domains,,,,
+math/0512331,"The cost of approximate controllability for semilinear heat equations in
+  one space dimension",,,,
+math/0512600,"Exact controllability in projections for three-dimensional Navier-Stokes
+  equations",,,,
+math/0601088,"Heavy-Traffic Optimality of a Stochastic Network under
+  Utility-Maximizing Resource Control",,,,
+math/0601289,Correlated Equilibria in Competitive Staff Selection Problem,,,,
+math/0601448,"On the Quality of a Semidefinite Programming Bound for Sparse Principal
+  Component Analysis",,,,
+math/0601530,Clarke subgradients of stratifiable functions,,,,
+math/0601627,Capital Requirement for Achieving Acceptability,,,,
+math/0601641,Output Stabilization via Nonlinear Luenberger Observers,,,,
+math/0601650,Further Results on Active Magnetic Bearing Control with Input Saturation,,,,
+math/0601658,"Further Results on Strict Lyapunov Functions for Rapidly Time-Varying
+  Nonlinear Systems",,,,
+math/0602005,"A global convergence result for strongly monotone systems with positive
+  translation invariance",,,,
+math/0602133,"Statistical Challenges with High Dimensionality: Feature Selection in
+  Knowledge Discovery",,,,
+math/0602171,"Preference fusion when the number of alternatives exceeds two: indirect
+  scoring procedures",,,,
+math/0602323,"Dual Representation as Stochastic Differential Games of Backward
+  Stochastic Differential Equations and Dynamic Evaluations",,,,
+math/0602385,"Discretisation of stochastic control problems for continuous time
+  dynamics with delay",,,,
+math/0602456,Prefix reversals on binary and ternary strings,,,,
+math/0602522,Characterizations of scoring methods for preference aggregation,,,,
+math/0602552,From Incomplete Preferences to Ranking via Optimization,,,,
+math/0602590,"Controlled Lagrangians and Potential Shaping for Stabilization of
+  Discrete Mechanical Systems",,,,
+math/0603039,On eligibility by the de Borda voting rules,,,,
+math/0603155,Vers une commande multivariable sans mod\`ele,,,,
+math/0603271,Spherical Slepian functions and the polar gap in geodesy,,,,
+math/0603311,"Intermediate integer programming representations using value
+  disjunctions",,,,
+math/0603313,"Stability and Robustness Analysis of Nonlinear Systems via Contraction
+  Metrics and SOS Programming",,,,
+math/0603600,"Existence of Saddle Points in Discrete Markov Games and Its Application
+  in Numerical Methods for Stochastic Differential Games",,,,
+math/0603674,Generalized rank-constrained matrix approximations,,,,
+math/0603678,Packing and Partitioning Orbitopes,,,,
+math/0603681,"Maximizing the Closed Loop Asymptotic Decay Rate for the Two-Mass-Spring
+  Control Problem",,,,
+math/0603741,A regularization method for ill-posed bilevel optimization problems,,,,
+math/0604210,Gammes Bien Reparties et Transformee de Fourier discrete,,,,
+math/0604220,Combined Reduced-Rank Transform,,,,
+math/0604264,"Being serious about non-commitment: subgame perfect equilibrium in
+  continuous time",,,,
+math/0604302,Getting real with real options,,,,
+math/0604573,Degree Bounds for Polynomial Verification of the Matrix Cube Problem,,,,
+math/0604611,"Variational optimization of probability measure spaces resolves the
+  chain store paradox",,,,
+math/0605188,On Decentralized Policies for the Stochastic k-Server Problem,,,,
+math/0605321,On a Riemannian invariant of Chen type,,,,
+math/0605405,On Necessary and Sufficient Conditions for Differential Flatness,,,,
+math/0605477,"Stability of processor sharing networks with simultaneous resource
+  requirements",,,,
+math/0605498,"Cross-Entropic Learning of a Machine for the Decision in a Partially
+  Observable Universe",,,,
+math/0605668,Distortion Minimal Morphing I: The Theory For Stretching,,,,
+math/0606047,Dynamics of piecewise linear maps and sets of nonnegative matrices,,,,
+math/0606049,"An Algorithm for Designing Feedback Stabilizers of Nonlinear Polynomial
+  Systems",,,,
+math/0606050,"An Algorithm for Detecting ""Linear"" Solutions of Nonlinear Polynomial
+  Differential Equations",,,,
+math/0606051,"Open-Loop Linearization of Non-Linear Discrete Input - Output Systems
+  Through Simplification Algorithms",,,,
+math/0606115,"A viscosity solution approach to the infinite dimensional HJB related to
+  boundary control problem in transport equation",,,,
+math/0606206,"Decentralized adaptation in interconnected uncertain systems with
+  nonlinear parametrization",,,,
+math/0606261,Some Remarks on Input Choices for Biochemical Systems,,,,
+math/0606281,Null-Controllability of 1-D parabolic equations,,,,
+math/0606344,On the Dynamic Programming approach to economic models governed by DDE's,,,,
+math/0606345,"A Variational Level Set Approach for Surface Area Minimization of Triply
+  Periodic Surfaces",,,,
+math/0606426,"Minimum L1-distance projection onto the boundary of a convex set: Simple
+  characterization",,,,
+math/0606430,Empirical balanced truncation of nonlinear systems,,,,
+math/0606591,Approximation of stationary processes by Hidden Markov Models,,,,
+math/0606668,"A central limit theorem for stochastic recursive sequences of topical
+  operators",,,,
+math/0607088,Odd minimum cut sets and b-matchings revisited,,,,
+math/0607129,Billiards and two-dimensional problems of optimal resistance,,,,
+math/0607197,Two-dimensional Newton's Problem of Minimal Resistance,,,,
+math/0607205,"A remark on precomposition on $\sH^{1/2}(S^1)$ and
+  $\eps$-identifiability of disks in tomography",,,,
+math/0607243,"An active curve approach for tomographic reconstruction of binary
+  radially symmetric objects",,,,
+math/0607255,On the energy of a flow arising in shape optimization,,,,
+math/0607424,"Some properties of the value function and its level sets for affine
+  control systems with quadratic cost",,,,
+math/0607425,Asymptotics of accessibility sets along an abnormal trajectory,,,,
+math/0607426,On the role of abnormal minimizers in sub-Riemannian geometry,,,,
+math/0607455,Singular trajectories of control-affine systems,,,,
+math/0607457,Quasi-optimal robust stabilization of control systems,,,,
+math/0607466,Global Stabilization of a Class of Partially Known Positive Systems,,,,
+math/0607524,On local linearization of control systems,,,,
+math/0607604,"Characterization of the optimal plans for the Monge-Kantorovich
+  transport problem",,,,
+math/0607617,Computing strategies for achieving acceptability,,,,
+math/0607648,Singular Values and Eigenvalues of Tensors: A Variational Approach,,,,
+math/0607697,A Sard theorem for Tame Set-Valued mappings,,,,
+math/0607775,Mean-variance Hedging in the Discontinuous Case,,,,
+math/0608140,$k$-Dependence and Domination in Kings Graphs,,,,
+math/0608320,"Design and Analysis of a Novel $\mathcal{L}_1$ Adaptive Control
+  Architecture with Guaranteed Transient Performance",,,,
+math/0608378,"Existence and Regularity of Optimal Solution for a Dead Oil Isotherm
+  Problem",,,,
+math/0608388,An Approach to the Hirsch Conjecture,,,,
+math/0608393,"Guaranteed Transient Performance with $\mathcal{L}_1$ Adaptive
+  Controller for Systems with Unknown Time-varying Parameters: Part I",,,,
+math/0608394,Stability Margins of $\mathcal{L}_1$ Adaptive Controller: Part II,,,,
+math/0609028,Some control design experiments with HIFOO,,,,
+math/0609169,Distributed consensus on enclosing shapes and minimum time rendezvous,,,,
+math/0609231,Control of travelling walls in a ferromagnetic nanowire,,,,
+math/0609266,"Optimal Performance of Feedback Control Systems with Limited
+  Communication over Noisy Channels",,,,
+math/0609309,A network model for granular statics with impenetrability constraints,,,,
+math/0609342,Convergence in inhomogeneous consensus processes with positive diagonals,,,,
+math/0609374,Solutions to the conjectures of Polya-Szego and Eshelby,,,,
+math/0609389,On the dynamic programming approach for the 3D Navier-Stokes equations,,,,
+math/0609402,"Geometry of polar wedges and super-replication prices in incomplete
+  financial markets",,,,
+math/0609403,"On utility-based super-replication prices of contingent claims with
+  unbounded payoffs",,,,
+math/0609461,Cross-Entropy method: convergence issues for extended implementation,,,,
+math/0609476,"Topological complexity of collision free motion planning algorithms in
+  the presence of multiple moving obstacles",,,,
+math/0609481,Global Attitude Estimation using Single Direction Measurements,,,,
+math/0609496,"Dynamic bandwidth Reservation in Virtual Private Network under Uncertain
+  Traffic",,,,
+math/0609526,Structure of shape derivatives around irregular domains and applications,,,,
+math/0609527,Differential equations and moving frames,,,,
+math/0609529,A Positivstellensatz which Preserves the Coupling Pattern of Variables,,,,
+math/0609532,"On the asymptotic minimum number of monochromatic 3-term arithmetic
+  progressions",,,,
+math/0609566,"A Gauss-Bonnet-like Formula on Two-Dimensional Almost-Riemannian
+  Manifolds",,,,
+math/0609624,Efficient routing of multiple vehicles with no communications,,,,
+math/0609709,Guaranteed Estimations for Linear Difference Descriptor Systems,,,,
+math/0609731,Nonessential Functionals in Multiobjective Optimal Control Problems,,,,
+math/0609812,First-order methods for sparse covariance selection,,,,
+math/0610210,"Constructions of Strict Lyapunov Functions for Discrete Time and Hybrid
+  Time-Varying Systems",,,,
+math/0610253,"Boundary Feedback Control of Unstable Heat Equation with Space and Time
+  Dependent Coefficient",,,,
+math/0610254,"Boundary Feedback Control of Complex Ginzburg-Landau Equation with A
+  Simultaneously Space and Time Dependent Coefficient",,,,
+math/0610363,On the stabilization problem for nonholonomic distributions,,,,
+math/0610401,Stability of Planar Switched Systems: the Nondiagonalizable Case,,,,
+math/0610580,Network Synchronization with an Adaptive Coupling Strength,,,,
+math/0610623,"Estimating the probability law of the codelength as a function of the
+  approximation error in image compression",,,,
+math/0610633,Input Classes for Identification of Bilinear Systems,,,,
+math/0610664,An LMI Approach to Stability Analysis of PWM DC-DC Buck Converters,,,,
+math/0610784,"A Paradox for Admission Control of Multiclass Queueing Network with
+  Differentiated Service",,,,
+math/0610836,Integer Minkowski Programs and the Design of Survivable Networks,,,,
+math/0610855,On finite-difference approximations for normalized Bellman equations,,,,
+math/0611092,Stability Testing of Matrix Polytopes,,,,
+math/0611280,"The Model Matching Problem for a General Class of Non-Linear Discrete
+  Input - Output Systems with Cross-Products. an Algorithmic Approach",,,,
+math/0611308,"Reliable Control for Parameterized Interconnected Systems using LMI
+  techniques",,,,
+math/0611531,Orbitopal Fixing,,,,
+math/0611563,"Quickest Detection for a Poisson Process with a Phase-type Change-time
+  Distribution",,,,
+math/0611628,"The Statistical Mechanics of Fluctuation-Dissipation and Measurement
+  Back Action",,,,
+math/0611823,Limit Time Optimal Synthesis for a Control-Affine System on $S^2$,,,,
+math/0611883,Further Results on Lyapunov Functions for Slowly Time-Varying Systems,,,,
+math/0612142,Optimal transportation for the determinant,,,,
+math/0612167,On the Stability of Periodic Solutions in the Perturbed Chemostat,,,,
+math/0612193,Symmetry-preserving Observers,,,,
+math/0612237,"A Bang-Bang Principle of Time Optimal Internal Controls of the Heat
+  Equation",,,,
+math/0612287,L1TV computes the flat norm for boundaries,,,,
+math/0612376,"Necessary Optimality Conditions for a Dead Oil Isotherm Optimal Control
+  Problem",,,,
+math/0612388,"Sensor Network Localization, Euclidean Distance Matrix Completions, and
+  Graph Realization",,,,
+math/0612610,Unique Continuation for Stochastic Parabolic Equations,,,,
+math/0612718,"Long-term planning versus short-term planning in the asymptotical
+  location problem",,,,
+math/0612719,Optimal transportation with traffic congestion and Wardrop equilibria,,,,
+math/0612794,Parameter-Dependent S-Procedure And Yakubovich Lemma,,,,
+math/0612834,Consensus for switched networks with unknown but bounded disturbances,,,,
+math/0612837,Pontryagin's principle of stabilization,,,,
+math/0701056,Flatness-based control of a single qubit gate,,,,
+math/0701070,"Semidefnite Relaxation Bounds for Indefinite Homogeneous Quadratic
+  Optimization",,,,
+math/0701133,Time reversal methods in unknown medium and inverse problems,,,,
+math/0701184,"On the complexity of local search in unconstrained quadratic binary
+  optimization",,,,
+math/0701398,"Embedding $S^n$ into $R^{n+1}$ with given integral Gauss curvature and
+  optimal mass transport on $S^n$",,,,
+math/0701412,Sobolev regularity and an enhanced Jensen inequality,,,,
+math/0701580,"On controlled linear diffusions with delay in a model of optimal
+  advertising under uncertainty with memory effects",,,,
+math/0701622,"A passivity-based approach to stability of spatially distributed systems
+  with a cyclic interconnection structure",,,,
+math/0701650,"Pricing Options in Incomplete Equity Markets via the Instantaneous
+  Sharpe Ratio",,,,
+math/0701813,An Analysis of Monotone Follower Problems for Diffusion Processes,,,,
+math/0701818,Solid Controllability in Fluid Dynamics,,,,
+math/0701845,Une m\'ethode d'identification pour un syst\`eme lin\'eaire \`a retards,,,,
+math/0701901,"Deformation Minimal Bending of Compact Manifolds: Case of Simple Closed
+  Curves",,,,
+math/0702017,Shape Minimization of Dendritic Attenuation,,,,
+math/0702169,A non-linear observer for unsteady three-dimensional flows,,,,
+math/0702212,Hellinger vs. Kullback-Leibler multivariable spectrum approximation,,,,
+math/0702235,"On Fluid mechanics formulation of Monge-Kantorovich Mass Transfer
+  Problem",,,,
+math/0702360,On the number of minima of a random polynomial,,,,
+math/0702616,Cooperative Stochastic Control for Optical Beam Tracking,,,,
+math/0702621,"A globally convergent flow for computing the best low rank approximation
+  of a matrix",,,,
+math/0702687,"Uniform stabilization for linear systems with persistency of excitation.
+  The neutrally stable and the double integrator cases",,,,
+math/0702695,"Organization of the Modulopt collection of optimization problems in the
+  Libopt environment -- Version 1.0",,,,
+math/0702726,A Portfolio Decomposition Formula,,,,
+math/0702727,On Robust Utility Maximization,,,,
+math/0702738,"A Combinatorial Optimal Control Problem for Spacecraft Formation
+  Reconfiguration",,,,
+math/0702747,Existence of optimal maps in the reflector-type problems,,,,
+math/0702752,"Asymptotics of the minimum manipulating coalition size for positional
+  voting rules under IC behaviour",,,,
+math/0702835,Relaxed commutant lifting: an equivalent version and a new application,,,,
+math/0702881,Lattice based extended formulations for integer linear equality systems,,,,
+math/0703155,Stochastic differential games with asymmetric information,,,,
+math/0703179,"A Direct Solution Method for Stochastic Impulse Control Problems of
+  One-dimensional Diffusions",,,,
+math/0703250,Control Theory for Semigroups over Local Fields,,,,
+math/0703377,Nonlinear optimal control via occupation measures and LMI-relaxations,,,,
+math/0703378,"A new class of smoothing methods for mathematical programs with
+  equilibrium constraints",,,,
+math/0703424,Mean-variance Hedging Under Partial Information,,,,
+math/0703524,Nonlinear Filtering with Optimal MTLL,,,,
+math/0703599,Carleman and Observability Estimates for Stochastic Wave Equations,,,,
+math/0703734,Variational problems on classes of convex domains,,,,
+math/0703820,"Correspondence between Lifetime Minimum Wealth and Utility of
+  Consumption",,,,
+math/0703824,Minimizing the Lifetime Shortfall or Shortfall at Death,,,,
+math/0703828,Optimal Time to Change Premiums,,,,
+math/0703833,The Effects of Implementation Delay on Decision-Making Under Uncertainty,,,,
+math/0703850,Minimizing the Probability of Lifetime Ruin under Borrowing Constraints,,,,
+math/0703862,"Optimal Deferred Life Annuities to Minimize the Probability of Lifetime
+  Ruin",,,,
+math/0703874,Global optimal control of perturbed systems,,,,
+math/0703895,Problems of maximal mean resistance on the plane,,,,
+math/0703911,Singular arcs in the generalized Goddard's Problem,,,,
+math/0703931,Well-posedness of constrained minimization problems via saddle-points,,,,
+math/9310228,Intersecting families of sets and the topology of cones in economics,,,,
+math/9503235,An exact analysis of stable allocation,,,,
+math/9504228,Two-way rounding,,,,
+math/9702218,Some Remarks on Real and Complex Output Feedback,,,,
+math/9809204,"Large deviations and queueing networks: methods for rate function
+  identification",,,,
+math/9810145,"Lyapunov functions: necessary and sufficient conditions for practical
+  stability",,,,
+math/9811160,"Stability radius and internal versus external stability in Banach
+  spaces: an evolution semigroup approach",,,,
+math/9812137,"Asymptotic stability equals exponential stability, and ISS equals finite
+  energy gain---if you twist your eyes",,,,
+math/9901140,Control of nonlinear underactuated systems,,,,
+math/9902023,Further results on controllability of recurrent neural networks,,,,
+math/9902024,Lyapunov Characterizations of Input to Output Stability,,,,
+math/9902025,Notions of Input to Output Stability,,,,
+math/9902026,"Stability and stabilization: Discontinuities and the effect of
+  disturbances",,,,
+math/9903022,A Tuner that Accelerates Parameters,,,,
+math/9903174,"Zero Assignment, Pole Placement and Matrix Extension Problems: A Common
+  Point of View",,,,
+math/9904138,"Real Schubert Calculus: Polynomial systems and a conjecture of Shapiro
+  and Shapiro",,,,
+math/9905199,"Some fundamental properties of successive convex relaxation methods on
+  LCP and related problems",,,,
+math/9906145,Quadratic Control Lyapunov Functions for Bilinear Systems,,,,
+math/9907195,"A differential game with constrained dynamics and viscosity solutions of
+  a related HJB equation",,,,
+math/9908066,"Further equivalences and semiglobal versions of integral input to state
+  stability",,,,
+math/9908134,A method for computing quadratic Brunovsky forms,,,,
+math/9910134,Mathematical Problems in the Control of Underactuated Systems,,,,
+math/9911101,On the geometry of Goursat structures,,,,
+math/9911211,Computation of maximal reachability submodules,,,,
+math/9911233,Input-Output-to-State Stability,,,,
+math/9912007,"Remarks regarding the gap between continuous, Lipschitz, and
+  differentiable storage functions for dissipation inequalities appearing in
+  $H_\infty$ control",,,,
+math/9912035,A Convex Maximization Problem: Discrete Case,,,,
+math/9912036,A Convex Maximization Problem: Continuous Case,,,,
+math/9912116,"Symmetry breaking and other phenomena in the optimization of eigenvalues
+  for composite membranes",,,,
+math/9912117,The Free Boundary Problem in the Optimization of Composite Membranes,,,,
+physics/0005059,"On the computational capabilities of physical systems part II:
+  relationship with conventional computer science",,,,
+physics/0205003,"Determination of Functional Network Structure from Local Parameter
+  Dependence Data",,,,

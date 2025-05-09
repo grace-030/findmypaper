@@ -1,0 +1,861 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+math/0702746,A brief review of abelian categorifications,6.418038273245115e-05,0.0,21.0,0.0
+hep-th/0607247,Duality and defects in rational conformal field theory,5.48789891193397e-05,2.2096619056881147e-06,44.0,4.0
+hep-th/0602051,On non-semisimple fusion rules and tensor categories,3.1617313306957444e-05,5.823647879308324e-06,52.0,3.0
+math/0701223,The fusion algebra of bimodule categories,2.921390554343968e-05,1.9827567001035044e-06,22.0,1.0
+math/0612139,Calabi-Yau algebras,2.8431034854645648e-05,0.0010263494118412,36.0,8.0
+math/0608040,Higher Topos Theory,2.6277280853347187e-05,5.346620127016482e-06,5.0,4.0
+math/0608420,Lectures on n-Categories and Cohomology,2.566587349732072e-05,7.306311050050347e-06,19.0,1.0
+hep-th/0612306,Uniqueness of open/closed rational CFT with given algebra of open states,2.5545577969621605e-05,7.147008304808011e-07,28.0,2.0
+math/0511710,Higher Gauge Theory,2.379976358895504e-05,2.419170883963185e-05,25.0,4.0
+math/0406310,Distributive laws for actions of monoidal categories,2.3760797734233552e-05,1.8678281366757825e-06,6.0,2.0
+math/0510266,Free Rota-Baxter algebras and rooted trees,2.141710226923885e-05,2.059033658409355e-06,17.0,5.0
+math/0410328,Higher gauge theory I: 2-Bundles,2.129140254041788e-05,2.118802421592315e-05,15.0,8.0
+math/0609748,Generalized operads and their inner cohomomorphisms,2.120267470986371e-05,0.0,14.0,0.0
+math/0312262,Homotopical and Higher Categorical Structures in Algebraic Geometry,1.9083146179591896e-05,3.334028390733206e-05,21.0,11.0
+math/0703540,Cluster characters for triangulated 2-Calabi--Yau categories,1.843203254618236e-05,0.0,13.0,1.0
+math/0305049,"Higher Operads, Higher Categories",1.740639664655061e-05,6.288240404787636e-06,31.0,12.0
+math/0608452,"Note on commutativity in double semigroups and two-fold monoidal
+  categories",1.6729942557835125e-05,0.0,8.0,1.0
+math/0602084,Weak units and homotopy 3-types,1.6156688891808706e-05,0.0,5.0,2.0
+math/0610239,"A survey of (\infty, 1)-categories",1.5965588375040337e-05,1.9150848685282147e-06,13.0,3.0
+math/0702399,Stacky Lie groups,1.5323994751527148e-05,0.0,10.0,0.0
+math/0507116,Weak identity arrows in higher categories,1.527635745179284e-05,5.933785341363954e-06,16.0,3.0
+math/0412001,Cyclic structures for simplicial objects from comonads,1.4942941015493757e-05,0.0,4.0,0.0
+math/0608760,Pseudo Algebras and Pseudo Double Categories,1.39665076128854e-05,0.0,5.0,0.0
+math/0702802,C*-algebras in tensor categories,1.3667570078041884e-05,0.0,25.0,0.0
+math/0510594,Bundles of C*-categories and duality,1.3289890602674729e-05,0.0,2.0,1.0
+math/0507349,Elementary remarks on units in monoidal categories,1.2985945150190336e-05,1.1139082584851151e-08,4.0,2.0
+math/0701231,On the integration of LA-groupoids and duality for Poisson groupoids,1.2710631569223637e-05,0.0,3.0,0.0
+math/0311260,Computer theorem proving in math,1.1781003682762992e-05,1.991420431002833e-06,7.0,1.0
+math/0512076,Topological and conformal field theory as Frobenius algebras,1.1732676361489636e-05,6.416387188273042e-06,29.0,6.0
+math/0604504,Higher and derived stacks: a global overview,1.1452718242673558e-05,1.217964193358733e-06,18.0,8.0
+math/0602077,Twining characters and Picard groups in rational conformal field theory,1.119742066995409e-05,1.1392243552688676e-09,29.0,1.0
+math/0702840,"Deformation theory of objects in homotopy and derived categories III:
+  abelian categories",1.118024091939024e-05,1.98270249532207e-06,4.0,1.0
+math/0107188,A Survey of Definitions of n-Category,1.1145203268465354e-05,2.1702343490679547e-05,18.0,7.0
+math/0702839,"Deformation theory of objects in homotopy and derived categories II:
+  pro-representability of the deformation functor",1.0981417298152991e-05,0.0,3.0,1.0
+math/0605530,Categorical Morita equivalence for group-theoretical categories,1.079780261657524e-05,0.0,1.0,0.0
+hep-th/0412290,"TFT construction of RCFT correlators IV: Structure constants and
+  correlation functions",1.0483383193025572e-05,5.435636814176776e-05,49.0,17.0
+math/0511590,"Ribbon categories and (unoriented) CFT: Frobenius algebras,
+  automorphisms, reversions",1.0443412369000949e-05,9.621053419091338e-06,24.0,7.0
+math/0602079,Categorification and correlation functions in conformal field theory,1.0423388133568678e-05,7.711828496941914e-06,27.0,8.0
+math/0606241,"Notes on A-infinity algebras, A-infinity categories and non-commutative
+  geometry. I",1.0087188610628924e-05,0.0001838644356059,17.0,20.0
+math/0503342,Coherent Unit Actions on Operads and Hopf Algebras,1.0078069612425364e-05,9.870791241712216e-06,12.0,3.0
+math/0512453,"2-Gerbes bound by complexes of gr-stacks, and cohomology",1.0070831784765768e-05,0.0,7.0,0.0
+math/0306361,A noncommutative theory of Penrose tilings,9.991355610478769e-06,0.0,3.0,1.0
+math/0404001,On quantales that classify C*-algebras,9.991355610478769e-06,0.0,3.0,1.0
+math/0304277,Weak n-categories: opetopic and multitopic foundations,9.69287706119311e-06,6.823301651511101e-06,8.0,9.0
+math/0508416,Simplicial monoids and Segal categories,9.684607712938615e-06,2.9994018534582366e-06,7.0,4.0
+math/0301027,Finite tensor categories,9.356776560574318e-06,5.500600288836562e-05,10.0,13.0
+math/0611728,Normalisation for the fundamental crossed complex of a simplicial set,9.191286457840117e-06,0.0,2.0,0.0
+math/0703204,Derived Algebraic Geometry III: Commutative Algebra,8.8829843141673e-06,0.0,7.0,0.0
+math/0608228,Stable Infinity Categories,8.8829843141673e-06,2.00677614714854e-06,7.0,2.0
+math/0701293,Dendroidal Sets,8.849291944413297e-06,0.0,4.0,0.0
+math/0604514,On the homotopy theory of n-types,8.494335306730747e-06,0.0,5.0,0.0
+math/0202130,Module categories over the Drinfeld double of a finite group,8.485215912481671e-06,7.233276461126896e-05,13.0,11.0
+math/0601012,Frobenius-Schur Indicators and Exponents of Spherical Categories,8.08823481461234e-06,0.0,3.0,1.0
+math/0611930,Double Bicategories and Double Cospans,7.981897060839203e-06,1.9669763331082987e-06,6.0,1.0
+math/0607043,Comonads and Galois corings,7.722779303034473e-06,0.0,6.0,2.0
+math/0211389,Sums over Graphs and Integration over Discrete Groupoids,7.540172637591575e-06,1.791164479644065e-05,3.0,6.0
+math/0306018,Quotients of unital ${A}_\infty$-categories,7.512205127565165e-06,1.1111776231340498e-06,10.0,3.0
+math/0006024,Remarks on Quantum Physics and Noncommutative Geometry,7.291300621289244e-06,5.197116083407577e-07,7.0,2.0
+math/0408120,Representation theory of 2-groups on finite dimensional 2-vector spaces,7.243396516303087e-06,2.218552852871616e-06,9.0,2.0
+math/0508152,Rigidification of algebras over multi-sorted theories,7.215804919563216e-06,4.647852339074924e-06,3.0,3.0
+math/0506471,Explaining Gabriel-Zisman localization to the computer,7.201509513005984e-06,0.0,2.0,0.0
+math/0609311,The universal Hopf cyclic theory,6.9470561058780245e-06,0.0,4.0,0.0
+math/0601490,Equality of Proofs for Linear Equality,6.887568082581487e-06,0.0,5.0,0.0
+math/0304285,Opetopic bicategories: comparison with the classical theory,6.846652199370793e-06,1.6026026897329617e-08,7.0,3.0
+math/0602510,Representation and character theory in 2-categories,6.6402736392370764e-06,3.94035520355576e-07,5.0,1.0
+math/0701507,Topologies on a triangulated category,6.609199411254821e-06,0.0,8.0,0.0
+math/0604065,"Monoids, Embedding Functors and Quantum Groups",6.55890781825366e-06,0.0,1.0,0.0
+math/0107060,Topological Deformation of Higher Dimensional Automata,6.531856660208802e-06,0.0,3.0,2.0
+math/0505559,Co-rings over operads characterize morphisms,6.374498205132774e-06,7.4260550565674335e-09,3.0,3.0
+math/0409602,Lie 2-Algebras,6.3533868227244434e-06,7.419361837622224e-06,18.0,2.0
+math/0611929,Semigroupoid C*-Algebras,6.333981853535435e-06,0.0,2.0,1.0
+math/0304286,"An alternative characterisation of universal cells in opetopic
+  n-categories",6.275005462468521e-06,0.0,5.0,3.0
+math/0012219,Affine stacks (Champs affines),6.271148521611572e-06,3.762050944291193e-05,7.0,13.0
+math/0606393,Strict 2-toposes,6.176335994505255e-06,3.6215951747383784e-06,3.0,1.0
+math/0610260,The Euler characteristic of a category,6.113071727288424e-06,0.0,2.0,0.0
+math/0512106,"Notes on 2-groupoids, 2-groups and crossed-modules",6.071378144069051e-06,0.0,1.0,2.0
+math/0312257,On the center of a compact group,6.048895379383484e-06,3.980365510320144e-06,2.0,1.0
+math/0509530,"Module categories over representations of $SL_q(2)$ in the
+  non-semisimple case",6.042086028495568e-06,4.021208813131265e-06,4.0,3.0
+math/0603590,Many-valued complete distributivity,5.99489408325139e-06,0.0,2.0,0.0
+math/0409598,Towards an axiomatization of the theory of higher categories,5.980865658303488e-06,0.0,5.0,1.0
+math/0610273,Weak Projections onto a Braided Hopf Algebra,5.943196831047886e-06,0.0,2.0,0.0
+math/0111139,"Module categories, weak Hopf algebras and modular invariants",5.9226459115962e-06,5.054027219437202e-05,13.0,32.0
+math/0609420,Lie n-groupoids and stacky Lie groupoids,5.884851608044502e-06,1.162561787824229e-06,6.0,2.0
+math/0405517,Fiber Functors on Temperley-Lieb Categories,5.875756900057195e-06,5.932445530606638e-06,2.0,3.0
+math/0411507,Picard groups in rational conformal field theory,5.864348887547402e-06,9.95091377580036e-06,26.0,6.0
+gr-qc/0410104,Causal sites as quantum geometry,5.802650993696059e-06,5.062884006996894e-08,13.0,5.0
+math/0505004,Centralizers and Inverses to Induction as Equivalence of Categories,5.789764562334167e-06,0.0,3.0,0.0
+math/0609220,Homotopy Transition Cocycles,5.757967675637766e-06,1.5626906920755216e-05,2.0,3.0
+math/0509655,On homotopy varieties,5.73270235004439e-06,8.53050650651753e-06,6.0,2.0
+math/0407162,"On Products and Duality of Binary, Quadratic, Regular Operads",5.729821660525186e-06,4.661556670012793e-06,6.0,8.0
+math/0605100,"From triangulated categories to abelian categories--cluster tilting in a
+  general framework",5.724526117078026e-06,9.282568820709291e-09,2.0,5.0
+math/9811109,Adelic Chern Forms and Applications,5.679326981876062e-06,0.0,4.0,0.0
+math/0306223,"Category Theory and Higher Dimensional Algebra: potential descriptive
+  tools in neuroscience",5.655144290770314e-06,0.0,1.0,0.0
+quant-ph/0009100,Quantaloids Describing Causation and Propagation of Physical Properties,5.561005626229113e-06,0.0,1.0,4.0
+math/0612414,T-model structures on chain complexes of presheaves,5.535096203986759e-06,0.0,6.0,1.0
+math/0208198,The monoidal Eilenberg-Moore construction and bialgebroids,5.53413722665158e-06,0.0,6.0,1.0
+math/0509684,Under Spec Z,5.473920878256492e-06,4.605440302218775e-06,4.0,4.0
+math/0608430,Stability conditions for generic K3 categories,5.392572643864172e-06,8.493569290285969e-07,10.0,2.0
+math/0111204,"From Subfactors to Categories and Topology I. Frobenius algebras in and
+  Morita equivalence of tensor categories",5.39251685807156e-06,1.13673819084136e-05,8.0,16.0
+math/0610934,Medial Commutativity,5.362440341300902e-06,0.0,3.0,0.0
+math/0302283,Concurrent Process up to Homotopy (I),5.247974151308137e-06,0.0,1.0,0.0
+math/0302284,Concurrent Process up to Homotopy (II),5.247974151308137e-06,0.0,1.0,0.0
+math/0411343,General self-similarity: an overview,5.209308199805078e-06,0.0,2.0,1.0
+math/0701165,A-infinity-bimodules and Serre A-infinity-functors,5.185375239824638e-06,2.2134276246150607e-07,12.0,2.0
+quant-ph/0608072,POVMs and Naimark's theorem without sums,5.12119025066974e-06,0.0,6.0,0.0
+hep-th/0403157,TFT construction of RCFT correlators III: Simple currents,5.110924718418318e-06,2.092636402963999e-05,7.0,17.0
+math-ph/0608062,"The Lorentz Boost-Link Is Not Unique. Relative velocity as a morphism in
+  a connected groupoid category of null objects",5.088125097992717e-06,0.0,4.0,0.0
+math/0011106,Operads in Higher-Dimensional Category Theory,5.061558261184292e-06,3.4469502721963577e-07,10.0,7.0
+math/0603400,A characterization of fibrant Segal categories,4.988927681881018e-06,3.6312119148027144e-06,5.0,5.0
+math/0411344,A general theory of self-similarity I,4.966907238954575e-06,0.0,1.0,2.0
+quant-ph/0506134,"De-linearizing Linearity: Projective Quantum Axiomatics from Strong
+  Compact Closure",4.888837650358429e-06,1.882699143911726e-06,6.0,3.0
+math/0411055,Rack and quandle homology,4.861580694453667e-06,0.0,4.0,0.0
+math/0611799,"Ehresmann doubles and Drinfel'd doubles for Lie algebroids and Lie
+  bialgebroids",4.82394751519573e-06,8.40592299456146e-08,4.0,1.0
+quant-ph/0608035,Quantum measurements without sums,4.79963952072348e-06,2.2427946156904407e-06,8.0,2.0
+math/0307200,Higher-Dimensional Algebra V: 2-Groups,4.691323244987764e-06,1.8708389319997066e-05,11.0,14.0
+math/9903167,"A Giraud-type characterization of the simplicial categories associated
+  to closed model categories as $\infty$-pretopoi",4.664429047612309e-06,0.0,12.0,10.0
+math/0509541,"Aupomorphisms of the category of the free nilpotent groups of the fixed
+  class of nilpotency",4.662455762657881e-06,0.0,3.0,0.0
+math/0508617,An abstract characterization of Thompson's group F,4.648753314125902e-06,0.0,4.0,0.0
+math/0304279,Weak n-categories: comparing opetopic foundations,4.609044411499017e-06,9.80511368069728e-07,5.0,5.0
+math/0304284,The category of opetopes and the category of opetopic sets,4.589212546525202e-06,6.226848965109335e-08,4.0,6.0
+math/0611885,Generalized bialgebras and triples of operads,4.554418023225247e-06,2.0994574356636967e-06,1.0,3.0
+math/0407031,Secondary derived functors and the Adams spectral sequence,4.5456167106362175e-06,0.0,3.0,1.0
+math/0404216,Weak Omega Categories I,4.537880535824896e-06,0.0,5.0,0.0
+math/0702208,"Association schemes, classical RCFT's, and centres of monoidal functor
+  categories",4.527116820765776e-06,0.0,2.0,0.0
+math/0105039,Gerbes over Orbifolds and Twisted K-theory,4.520325823448412e-06,5.7969753308974776e-05,12.0,15.0
+math/0702652,More Morphisms between Bundle Gerbes,4.515523236888928e-06,1.8565137641418584e-10,10.0,1.0
+math/0212274,"Crossed complexes and homotopy groupoids as non commutative tools for
+  higher dimensional local-to-global problems",4.515025475212901e-06,0.0,1.0,1.0
+hep-th/0306164,TFT construction of RCFT correlators II: Unoriented world sheets,4.497519626982342e-06,2.049219973898242e-05,9.0,22.0
+math/0312339,Free ${A}_\infty$-categories,4.497424941019935e-06,0.0,5.0,2.0
+math/0606704,"Premonoidal categories associated with representations of finite groups
+  and their quantum doubles",4.467277889981511e-06,0.0,2.0,0.0
+math/0109021,Structures in higher-dimensional category theory,4.437868353196592e-06,1.7606283919649425e-05,11.0,5.0
+quant-ph/0510032,Kindergarten Quantum Mechanics,4.425074623860682e-06,9.914399048949495e-06,8.0,9.0
+math/0703311,A triangulated category without models,4.345814986813074e-06,0.0,1.0,0.0
+math/9904104,Equivalence of Borcherds G-Vertex Algebras and Axiomatic Vertex Algebras,4.310535953346242e-06,6.609267298188799e-06,9.0,8.0
+math/0505331,"T-homotopy and refinement of observation (IV) : Invariance of the
+  underlying homotopy type",4.308677856146974e-06,0.0,3.0,2.0
+math/0603359,McKay correspondence and equivariant sheaves on $P^1$,4.30567708924616e-06,0.0,3.0,0.0
+math/0504334,Three models for the homotopy theory of homotopy theories,4.245934855233127e-06,1.990182755160072e-06,3.0,6.0
+math/0401062,Systems of Diagram Categories and K-theory I,4.228876793446314e-06,0.0,2.0,0.0
+math/0101102,"Operads, Algebras and Modules in General Model Categories",4.2207572399744766e-06,0.0,5.0,7.0
+math/0506548,Inverting weak dihomotopy equivalence using homotopy continuous flow,4.136885977437152e-06,0.0,4.0,0.0
+q-alg/9503002,Higher-dimensional Algebra and Topological Quantum Field Theory,4.1347358687715255e-06,0.0,7.0,14.0
+math/0408298,"Pseudo Limits, Biadjoints, and Pseudo Algebras: Categorical Foundations
+  of Conformal Field Theory",4.089635352687656e-06,2.9704220226269734e-08,4.0,3.0
+math/0401119,On $G$--equivariant modular categories,4.079101158451923e-06,2.3692286176967884e-06,7.0,2.0
+math/0501400,Ribbon Structure in Symmetric Pre-monoidal Categories,4.071645935829463e-06,0.0,1.0,0.0
+math/0412478,Etale groupoids and their quantales,4.063143711471229e-06,0.0,1.0,2.0
+math/0610552,Tensor envelopes of regular categories,4.007423346985859e-06,0.0,3.0,0.0
+math/0110064,Holonomy and monodromy groupoids,3.984917595229755e-06,0.0,2.0,0.0
+math/0108147,The nonabelian bar resolution,3.9746790297199495e-06,0.0,2.0,0.0
+math/0110221,Modular categories and orbifold models II,3.969944904251671e-06,2.1443110448466715e-06,6.0,5.0
+math/0402061,A duality Hopf algebra for holomorphic N=1 special geometries,3.966069004092142e-06,0.0,10.0,0.0
+math/0611861,Cat\'{e}gories de foncteurs en grassmanniennes et filtration de Krull,3.951011740210633e-06,0.0,2.0,0.0
+math/0702299,Derived Algebraic Geometry II: Noncommutative Algebra,3.949198863675896e-06,0.0,1.0,0.0
+math/0502583,A Category of Spectral Triples and Discrete Groups with Length Function,3.9334241131850335e-06,0.0,11.0,0.0
+math/0203206,"Representations of algebraic quantum groups and reconstruction theorems
+  for tensor categories",3.926673708479181e-06,7.915202230710142e-06,5.0,1.0
+math/0204279,Generalized enrichment of categories,3.914872373211314e-06,6.548949238775033e-08,7.0,2.0
+math/0312190,"Configurations in abelian categories. I. Basic properties and moduli
+  stacks",3.893321344465233e-06,0.0,4.0,7.0
+math/0502533,Rigidity and modularity of vertex tensor categories,3.880677834492068e-06,1.948280502649193e-05,3.0,6.0
+math/0309336,"Monad interleaving: a construction of the operad for Leinster's weak
+  $\omega$-categories",3.873818535293995e-06,0.0,3.0,0.0
+math/0509056,On lifting stable diagrams in Frobenius categories,3.873123908878327e-06,0.0,1.0,0.0
+math/0607786,Fusion in the Extended Verlinde Algebra,3.863474513084708e-06,0.0,3.0,0.0
+math/0403322,Conformal Orbifold Theories and Braided Crossed G-Categories,3.863474513084708e-06,0.0,3.0,2.0
+math/9903038,Quantum vertex algebras,3.826538693594437e-06,6.080886201354798e-06,7.0,11.0
+math/0304442,"Simplicial localization of monoidal structures, and a non-linear version
+  of Deligne's conjecture",3.814865250561334e-06,5.663387043140437e-09,15.0,3.0
+math/0606733,Double Clubs,3.794940800205401e-06,0.0,2.0,0.0
+math/0701325,Intermutation,3.783678908061724e-06,0.0,1.0,0.0
+math/0411543,Free monoid in monoidal abelian categories,3.776755389224967e-06,0.0,3.0,2.0
+math/0506313,On weak maps between 2-groups,3.7554722446831575e-06,1.990182755160072e-06,1.0,1.0
+math/0304288,The theory of opetopes via Kelly-Mac Lane graphs,3.7425974623145993e-06,4.691916603922151e-09,3.0,2.0
+math/0411613,Some examples of spaces of stability conditions on derived categories,3.6982464310625034e-06,1.769182970828234e-05,8.0,8.0
+math/0009099,Some Results for the Local Subgroupoids,3.670461117185096e-06,0.0,3.0,0.0
+math/0304287,A relationship between trees and Kelly-Mac Lane graphs,3.625876201047056e-06,0.0,2.0,3.0
+math/0507559,Systems of submodules and a remark by M.C.R. Butler,3.62335329328243e-06,0.0,2.0,0.0
+math/0002180,Homotopy Algebras for Operads,3.5703146760646805e-06,1.887641909156644e-05,13.0,11.0
+math/0307263,Higher-Dimensional Algebra VI: Lie 2-Algebras,3.568169630333383e-06,3.4702279087984343e-06,11.0,14.0
+math/0612175,Equalizers in the category of cocomplete cocategories,3.5218764415036904e-06,0.0,13.0,0.0
+math/0407242,Categorical distribution theory; heat equation,3.49912997646896e-06,0.0,2.0,0.0
+math/0502075,Pregroupoids and their enveloping groupoids,3.49912997646896e-06,0.0,2.0,0.0
+math/0501489,"Towards ""dynamic domains"": totally continuous cocomplete Q-categories",3.49912997646896e-06,0.0,2.0,1.0
+math/0702838,"Deformation theory of objects in homotopy and derived categories I:
+  general theory",3.467277337475214e-06,1.4852110113134864e-08,7.0,2.0
+math/9906039,On Ideals and Homology in Additive Categories,3.4626575438220185e-06,0.0,3.0,1.0
+math/0512575,Iterated wreath product of the simplex category and iterated loop spaces,3.4333288658388923e-06,0.0,1.0,1.0
+math/0512102,"Symmetric Self-Adjunctions: A Justification of Brauer's Representation
+  of Brauer's Algebras",3.429474335843057e-06,0.0,3.0,1.0
+math/0612549,Two-Categorical Bundles and Their Classifying Spaces,3.414391922804369e-06,0.0,3.0,0.0
+math/0607423,Coherence for Categorified Operadic Theories,3.410179142949559e-06,0.0,4.0,0.0
+math/0212237,Stability conditions on triangulated categories,3.3951491423294345e-06,4.398856608142505e-05,6.0,49.0
+math/0611317,Notes on 1- and 2-gerbes,3.388365307717545e-06,3.980365510320144e-06,4.0,1.0
+math/0110273,Some properties of the theory of n-categories,3.377369925322919e-06,8.776246885034241e-09,5.0,1.0
+math/0702535,A 2-categories companion,3.32861312884304e-06,0.0,2.0,0.0
+math/0407507,Higher Monodromy,3.299193536942889e-06,6.988461053113318e-08,2.0,1.0
+math/0303037,Derived categories of cubic and V14 threefolds,3.253745840709878e-06,3.5362166936035393e-08,5.0,3.0
+math/0703113,"Erratum to: ""A Proof of Tsygan's Formality Conjecture for an Arbitrary
+  Smooth Manifold""",3.239132049965389e-06,0.0,3.0,0.0
+math/0403342,"Particles of generalized statistics, quantum logic and categories",3.2110774361913883e-06,0.0,2.0,0.0
+math/0306440,2-categorical Poincare Representations and State Sum Applications,3.1644002020352656e-06,2.726106695110891e-05,9.0,8.0
+math/0404328,Flow does not model flows up to weak dihomotopy,3.1079433638917785e-06,0.0,1.0,1.0
+math/0104242,Modular categories and orbifold models,3.093608810553254e-06,2.219925619456293e-07,4.0,4.0
+math/0507447,"A sketchy note on enriched homotopical topologies and enriched
+  homotopical stacks",3.061953188379933e-06,0.0,5.0,1.0
+math/0506453,Gauge theory on nonassociative spaces,3.054730905637396e-06,0.0,3.0,0.0
+math-ph/0203056,Combinatorics of Non-Abelian Gerbes with Connection and Curvature,3.053140430673876e-06,1.0719985737422518e-05,8.0,18.0
+math/0501383,Notes on enriched categories with colimits of some class,3.0472482127272877e-06,0.0,2.0,0.0
+math/0404504,An analogue of Radford's S^4 formula for finite tensor categories,3.0425798035107583e-06,6.633942517200226e-07,4.0,1.0
+math/0106240,Topology and Higher-Dimensional Category Theory: the Rough Idea,3.008769564787132e-06,2.3619030803976745e-05,5.0,1.0
+math/0001078,A Probabilistic Proof of the Rogers Ramanujan Identities,3.003662019116097e-06,0.0,2.0,0.0
+math/0506600,Associativity as Commutativity,2.9812255142475902e-06,0.0,1.0,0.0
+math/0307327,The homotopy branching space of a flow,2.923024895913817e-06,0.0,1.0,0.0
+math/0608680,Simple omega-categories and chain complexes,2.923024895913817e-06,0.0,1.0,0.0
+math/0308064,Closed symmetric monoidal structure and flow,2.923024895913817e-06,0.0,1.0,0.0
+math/0602499,"Three themes in the work of Charles Ehresmann: Local-to-global;
+  Groupoids; Higher dimensions",2.923024895913817e-06,0.0,1.0,1.0
+math/0506451,Quantales as geometric objects: symmetry beyond groupoids?,2.91697922313738e-06,0.0,1.0,0.0
+math/0403152,Enrichment over iterated monoidal categories,2.897062285469715e-06,0.0,2.0,0.0
+math/9802029,Categorification,2.8766060653995188e-06,0.0,9.0,18.0
+math/9908006,Topological gravity in dimensions two and four,2.8701099765636933e-06,3.7130275282837164e-09,3.0,2.0
+math/0612165,The cyclic bar construction on A_\infty H-spaces,2.855213185875573e-06,0.0,3.0,0.0
+math/0505151,"Automorphisms of Categories of Free Modules, Free Semimodules, and Free
+  Lie Modules",2.855213185875573e-06,0.0,2.0,0.0
+math/0508565,Heller triangulated categories,2.8416655958471016e-06,0.0,1.0,1.0
+math/0104136,n-Categories Admissible by n-graph,2.826519833277392e-06,0.0,7.0,0.0
+hep-th/0307046,An algebraic origin for quark confinement,2.8106330331008004e-06,0.0,3.0,1.0
+math/9906038,On Categorification,2.798853867822325e-06,0.0,3.0,6.0
+math/0604031,Smash products for secondary homotopy groups,2.767147757140221e-06,0.0,3.0,4.0
+math/0604030,The symmetric action on secondary homotopy groups,2.767147757140221e-06,0.0,3.0,4.0
+math/0407463,Categorical representations of categorical groups,2.759386525424679e-06,2.333170837539097e-06,5.0,5.0
+math/0009082,Towards a 2-dimensional notion of holonomy,2.759195672449716e-06,0.0,2.0,1.0
+math/0606041,Rational Combinatorics,2.759195672449716e-06,0.0,2.0,1.0
+math/0001151,Deformations of algebras over operads and Deligne's conjecture,2.7573800417777037e-06,1.2811903854919071e-05,10.0,33.0
+math/9808068,On Parity Complexes and Non-abelian Cohomology,2.720788667079373e-06,0.0,5.0,1.0
+math/9904142,Cross Product Bialgebras - Part II,2.7199899974158638e-06,0.0,2.0,3.0
+math/9802028,Cross Product Bialgebras - Part I,2.7199899974158638e-06,0.0,2.0,2.0
+math/0105018,"Homotopy Quantum Field Theories and the Homotopy Cobordism Category in
+  Dimension 1+1",2.701378167168266e-06,1.029770052089137e-05,5.0,6.0
+math/0702604,Braided Bialgebras of Type One,2.697084014042981e-06,0.0,1.0,1.0
+math/0002216,About the globular homology of higher dimensional automata,2.697084014042981e-06,0.0,1.0,1.0
+math/0506470,Files for Gabriel-Zisman localization,2.690452924604346e-06,0.0,1.0,0.0
+math/0201017,On the Structure of Modular Categories,2.67057125300189e-06,0.0,6.0,0.0
+math/0401347,Tensor categories (after P. Deligne),2.6342641277089068e-06,0.0,1.0,0.0
+math/0503306,Coherence for Star-Autonomous Categories,2.595930929327636e-06,0.0,3.0,1.0
+quant-ph/0506132,"Quantum information-flow, concretely, and axiomatically",2.595880047158868e-06,9.20688084326605e-08,7.0,5.0
+math/0601458,Categorified Algebra and Quantum Mechanics,2.5944858934130944e-06,2.592096683943079e-06,3.0,1.0
+math/0407019,Obstruction theory for objects in abelian and derived categories,2.592107912639085e-06,1.990182755160072e-06,4.0,5.0
+hep-th/0402227,Surface holonomy and gauge 2-group,2.59123207097032e-06,0.0,4.0,1.0
+math/9810058,"On the Breen-Baez-Dolan stabilization hypothesis for Tamsamani's weak
+  n-categories",2.5799671900298736e-06,0.0,6.0,8.0
+math/0105231,Tetracomposition,2.5790006516754267e-06,0.0,3.0,0.0
+cs/0207057,Physical Traces: Quantum vs. Classical Information Processing,2.563114877646984e-06,0.0,2.0,8.0
+math/0604029,Secondary homotopy groups,2.553390930903396e-06,0.0,2.0,4.0
+math/0310027,Hermitian-holomorphic (2)-Gerbes and tame symbols,2.5520333147960096e-06,0.0,2.0,2.0
+math/0210125,A remark on K-theory and S-categories,2.5507859057485457e-06,1.1209806691471171e-06,4.0,2.0
+math/0701767,Operads revisited,2.5396628435771035e-06,8.381036791129769e-07,3.0,1.0
+math/0204218,"Generators and representability of functors in commutative and
+  noncommutative geometry",2.5287536402276585e-06,0.0,2.0,10.0
+math/9904075,"The Whittaker model of the center of the quantum group and Hecke
+  algebras",2.527628352639853e-06,0.0,3.0,1.0
+math/9908083,Invitation to composition,2.5243508249881404e-06,0.0,5.0,2.0
+math/0411220,Stability Manifold of P^1,2.479597144382185e-06,6.506583760022438e-08,6.0,2.0
+math/0206295,Derived categories of coherent sheaves,2.4731127015813982e-06,1.1921606261880987e-05,7.0,4.0
+math/0607100,Homology and homotopy in semi-abelian categories,2.4711431321721443e-06,0.0,2.0,0.0
+math/0212377,Objects of Categories as Complex Numbers,2.4711431321721443e-06,0.0,1.0,0.0
+math/0312214,"Skew category, Galois covering and smash product of a $k$-category",2.4711431321721443e-06,0.0,1.0,5.0
+math/9911207,External tensor product of categories of perverse sheaves,2.4711431321721443e-06,0.0,1.0,0.0
+math/0604414,"Weak complicial sets, a simplicial weak omega-category theory. Part I:
+  basic homotopy theory",2.4711431321721443e-06,0.0,1.0,0.0
+math/0511068,Bounded and unitary elements in pro-C^*-algebras,2.4711431321721443e-06,0.0,1.0,0.0
+math/0409111,Order Reduction of Optimal Control Systems,2.4711431321721443e-06,0.0,1.0,0.0
+math/0410398,A homotopy double groupoid of a Hausdorff space II: a van Kampen theorem,2.4711431321721443e-06,0.0,1.0,0.0
+math/0305254,A simple approach to geometric realization of simplicial and cyclic sets,2.4711431321721443e-06,0.0,1.0,0.0
+math/0006180,Infinitesimal aspects of the Laplace operator,2.4711431321721443e-06,0.0,1.0,0.0
+math/0512094,The structure of the category of parabolic equations,2.4711431321721443e-06,0.0,1.0,2.0
+math/0206052,"The norm of a relation, separating functions and representations of
+  marked quivers",2.4711431321721443e-06,0.0,1.0,0.0
+math/0504282,Cohomology of the Grothendieck construction,2.4711431321721443e-06,0.0,1.0,2.0
+math/0410202,"Categorical non abelian cohomology, and the Schreier theory of groupoids",2.4711431321721443e-06,0.0,1.0,1.0
+math/0612496,Monoidal functor categories and graphic Fourier transforms,2.4711431321721443e-06,0.0,1.0,1.0
+math/0508479,Quotients of Tannakian Categories,2.4711431321721443e-06,0.0,1.0,1.0
+math/0301214,"Crossed Products by Endomorphisms, Vector Bundles and Group Duality",2.4711431321721443e-06,0.0,1.0,4.0
+math/0509318,"Lambda-presentable morphisms, injectivity and (weak) factorization
+  systems",2.4711431321721443e-06,0.0,1.0,0.0
+math/0508531,Models of Non-Well-Founded Sets via an Indexed Final Coalgebra Theorem,2.4711431321721443e-06,0.0,1.0,0.0
+math/0212065,Group Objects and Internal Categories,2.4711431321721443e-06,0.0,1.0,12.0
+math/0411366,"Categorical structures enriched in a quantaloid: tensored and cotensored
+  categories",2.4711431321721443e-06,0.0,1.0,2.0
+math/0612727,Quasitopoi over a base category,2.4711431321721443e-06,0.0,1.0,0.0
+math/0701457,"Components, complements and reflection formulas",2.4711431321721443e-06,0.0,1.0,0.0
+math/0611011,On the Cubical Homology Groups of Free Partially Commutative Monoids,2.4711431321721443e-06,0.0,1.0,0.0
+math/0310337,Sur les A-infini cat\'egories,2.464852572295937e-06,1.072721387131578e-06,4.0,13.0
+math/0105049,Investigating The Algebraic Structure of Dihomotopy Types,2.41353262411663e-06,0.0,3.0,1.0
+math/0411561,Combinatorial n-fold monoidal categories and n-fold operads,2.4132979469882607e-06,0.0,2.0,0.0
+math/0211037,A construction of quotient A_infinity-categories,2.409578885910361e-06,2.9207970936794757e-05,5.0,7.0
+math/9906036,Formal solution of the master equation via HPT and deformation theory,2.401212079429293e-06,0.0,4.0,8.0
+math/9901139,Generalized Enrichment for Categories and Multicategories,2.399875622348206e-06,3.051264758356423e-06,7.0,10.0
+math/9912075,"Relaxed multi category structure of a global category of rings and
+  modules",2.394583855789031e-06,1.448061970950776e-06,6.0,3.0
+math/0203255,Fusion categories of rank 2,2.373905243485675e-06,0.0,4.0,1.0
+math/0503167,Higher Frobenius-Schur Indicators for Pivotal Categories,2.3417253339990045e-06,1.1433322748087589e-07,3.0,3.0
+math/0110257,A reason for fusion rules to be even,2.2987855378529684e-06,0.0,3.0,0.0
+math/0701024,Lie II theorem for Lie algebroids via higher groupoids,2.2972199153763653e-06,2.496233577054117e-06,5.0,2.0
+math/9902067,Algebraic aspects of higher nonabelian Hodge theory,2.28238582494454e-06,0.0,5.0,6.0
+math/0301045,"Closed Model Categories for Presheaves of Simplicial Groupoids and
+  Presheaves of 2-Groupoids",2.27910810532043e-06,0.0,2.0,2.0
+math/0401283,Homotopy theory of presheaves of simplicial groupoids,2.2716061880683958e-06,0.0,1.0,0.0
+math/0504037,Modelling Linear Logic Without Units (Preliminary Results),2.2392944508887378e-06,0.0,1.0,5.0
+math/0306086,Higher Dimensional Enrichment,2.2356851087904607e-06,0.0,1.0,3.0
+math/0111205,"From Subfactors to Categories and Topology II. The quantum double of
+  tensor categories and subfactors",2.2141430864195235e-06,6.016903679923624e-06,3.0,10.0
+math/0007033,"Coherence, Homotopy and 2-Theories",2.1992769777855838e-06,1.9976088102166394e-06,2.0,1.0
+math/0007157,Toward a Galoisian interpretation of homotopy theory,2.187588396818325e-06,0.0,4.0,1.0
+math/0209093,"Galois extensions of braided tensor categories and braided crossed
+  G-categories",2.186672546450146e-06,0.0,3.0,0.0
+math-ph/0005033,Higher regularity properties of mappings and morphisms,2.1710477745729427e-06,0.0,2.0,4.0
+math/0004139,Semi-infinite cohomology and Hecke algebras,2.1643924224799867e-06,0.0,1.0,0.0
+math/0703763,"Adjoint and Frobenius Pairs of Functors, Equivalences, and the Picard
+  Group for Corings",2.1381010138561674e-06,0.0,1.0,0.0
+math/0503226,From Quantum Groups to Unitary Modular Tensor Categories,2.1359329054835203e-06,0.0,2.0,1.0
+math/0503632,"Derived Categories of Coherent Sheaves and Triangulated Categories of
+  Singularities",2.126570336656207e-06,1.153618823568116e-05,5.0,14.0
+math/0503301,Coherence of Proof-Net Categories,2.1125713709136657e-06,0.0,3.0,2.0
+math/0312442,Stability data and t-structures on a triangulated category,2.0763201145835822e-06,1.1684436165395722e-06,3.0,9.0
+quant-ph/0402130,A categorical semantics of quantum protocols,2.0552223029837666e-06,1.990182755160072e-06,3.0,17.0
+math/0506521,Simple free star-autonomous categories and full coherence,2.043987432752339e-06,0.0,2.0,3.0
+math/0301221,The Combinatorics of Iterated Loop Spaces,2.0395572322779545e-06,3.980365510320144e-06,4.0,6.0
+math/0604180,Hopf monads,2.0390643217557878e-06,0.0,2.0,1.0
+math/0405227,Hochschild cohomology of abelian categories and ringed spaces,2.0289920479104364e-06,6.055692438581696e-06,3.0,6.0
+math/9810045,Braided n-categories and $\Sigma$-structures,2.003525371981282e-06,0.0,3.0,1.0
+math/0009086,Sheaves and Local Subgroupoids,1.9910555650428585e-06,0.0,2.0,1.0
+math/0403214,Vertically Iterated Classical Enrichment,1.9803101477411127e-06,0.0,1.0,0.0
+math/0304026,"Enrichment as Categorical Delooping I: Enrichment Over Iterated Monoidal
+  Categories",1.9803101477411127e-06,0.0,1.0,2.0
+math/0510039,Symmetric Self-Adjunctions and Matrices,1.963621989778328e-06,0.0,3.0,1.0
+math/0303083,Paracategories I: internal parategories and saturated partial algebras,1.9595925892943837e-06,0.0,1.0,0.0
+math/0406507,A model category structure on the category of simplicial categories,1.9484942306227146e-06,8.197933123841962e-06,1.0,10.0
+math/0701295,On inner Kan complexes in the category of dendroidal sets,1.947468304052661e-06,0.0,2.0,0.0
+math/0610435,Determinant functors on triangulated categories,1.93357745518424e-06,0.0,1.0,0.0
+math/0607330,Semistrict models of connected 3-types and Tamsamani's weak 3-groupoids,1.9221350180494828e-06,0.0,3.0,2.0
+quant-ph/0402014,The logic of entanglement,1.919957021465506e-06,3.983104015955731e-06,5.0,10.0
+math/0309185,Measurable Categories,1.91374327539752e-06,8.847547156641423e-08,3.0,3.0
+math/0603348,Comonadas y coanillos de Galois,1.9119909791265625e-06,0.0,2.0,1.0
+math/0306127,Direct limits and fixed point sets,1.911468800205425e-06,0.0,1.0,1.0
+math/0501343,Derived Hall Algebras,1.9053845840627164e-06,9.606570126942471e-06,3.0,9.0
+math/0701552,Towards a homotopy theory of process algebra,1.8950380516170012e-06,0.0,1.0,0.0
+math/0611560,The mixed functors of the category Fquad: a first study,1.8950380516170012e-06,0.0,1.0,0.0
+math/0607646,Homotopy-theoretic aspects of 2-monads,1.8950380516170012e-06,0.0,1.0,1.0
+math/0606067,"Symmetrisation of $n$-operads and compactification of real configuration
+  spaces",1.8950380516170012e-06,0.0,1.0,0.0
+math/0601386,Thin fillers in the cubical nerves of omega-categories,1.8950380516170012e-06,0.0,1.0,1.0
+math/0608770,Relativity grupoid insted of relativity group,1.8950380516170012e-06,0.0,1.0,0.0
+math/0303297,Some calculus with extensive quantities: wave equation,1.8950380516170012e-06,0.0,1.0,0.0
+math/0309066,"2-cosemisimplicial objects in a 2-category, permutohedra and
+  deformations of pseudofunctors",1.8950380516170012e-06,0.0,1.0,1.0
+math/0308054,A model category for the homotopy theory of concurrency,1.8950380516170012e-06,0.0,1.0,1.0
+math/0305169,"Homological properties of non-deterministic branchings and mergings in
+  higher dimensional automata",1.8950380516170012e-06,0.0,1.0,1.0
+math/0501230,Crossings and Nestings of Matchings and Partitions,1.8950380516170012e-06,0.0,1.0,11.0
+math/0312088,The homotopy category of complexes of projective modules,1.8950380516170012e-06,0.0,1.0,1.0
+math/0601383,Orientals,1.8950380516170012e-06,0.0,1.0,1.0
+math-ph/0008003,Bicategories of operator algebras and Poisson manifolds,1.8950380516170012e-06,0.0,1.0,2.0
+math/0505534,Comatrix Coring generalized and Equivalences of Categories of Comodules,1.8644990992398877e-06,0.0,2.0,2.0
+math/0010089,On tensor categories attached to cells in affine Weyl groups,1.8479734504544795e-06,0.0,4.0,3.0
+math/0106083,Differential Geometry of Gerbes,1.841777855618086e-06,1.260163018397129e-05,4.0,33.0
+math/0210114,DG quotients of DG categories,1.8368457261603516e-06,2.315771998115361e-05,3.0,19.0
+math/0509266,2-C*-categories with non-simple units,1.8329263932102664e-06,0.0,1.0,1.0
+math/9806023,"Structures and Diagrammatics of Four Dimensional Topological Lattice
+  Field Theories",1.8193242049499445e-06,0.0,3.0,8.0
+math/0501206,Operations and Identities in Tensor Algebra,1.778316652055566e-06,0.0,1.0,3.0
+math/0401274,"$\mathcal{S}$-categories, $\mathcal{S}$-groupoids, Segal categories and
+  quasicategories",1.7757019992162932e-06,0.0,3.0,2.0
+math/0101115,Categorical Analysis,1.7719370617776076e-06,0.0,1.0,0.0
+math/0403343,Braid semistatistics and doubly regular R-matrix,1.7654912755224568e-06,0.0,1.0,0.0
+math/0410230,Operads within monoidal pseudo algebras,1.7634878845000355e-06,0.0,2.0,0.0
+math/0106050,Category theory for conformal boundary conditions,1.7626177392808735e-06,6.897228332835297e-06,4.0,24.0
+math/0105229,On derivation deviations in an abstract pre-operad,1.7595981199374488e-06,0.0,2.0,2.0
+math/0502550,Frobenius algebras and ambidextrous adjunctions,1.7443293284525744e-06,1.031830807859896e-09,2.0,2.0
+math/0502308,"Galois coverings, Morita equivalence and smash extensions of categories
+  over a field",1.7301277087805848e-06,0.0,1.0,1.0
+math/0401033,"T-homotopy and refinement of observation (V) : Strom model structure for
+  branching and merging homologies",1.7301277087805848e-06,0.0,1.0,1.0
+math/0701655,Semistrict Tamsamani n-groupoids and connected n-types,1.7245212039910812e-06,0.0,1.0,0.0
+math/9903004,fc-multicategories,1.7213375030310744e-06,0.0,2.0,2.0
+math/0401158,Shukla cohomology and additive track theories,1.703003024765287e-06,0.0,1.0,3.0
+math/0604537,Classification spaces of maps in model categories,1.703003024765287e-06,0.0,1.0,1.0
+math/0501331,On automorphisms of categories of free algebras of some varieties,1.703003024765287e-06,0.0,1.0,3.0
+math/0505328,"T-homotopy and refinement of observation (II) : Adding new T-homotopy
+  equivalences",1.703003024765287e-06,0.0,1.0,1.0
+math/0207097,Categories arising from tabular algebras,1.703003024765287e-06,0.0,1.0,1.0
+math/0208211,Galois theory and a new homotopy double groupoid of a map of spaces,1.6696287405658448e-06,0.0,2.0,0.0
+math/9812040,Galois Theory for Braided Tensor Categories and the Modular Closure,1.663470731807139e-06,0.0,1.0,5.0
+gr-qc/9902017,Higher-Dimensional Algebra and Planck-Scale Physics,1.6626103171250394e-06,1.750578896765422e-05,5.0,11.0
+math/0406478,Crystals and coboundary categories,1.6549942680523587e-06,0.0,2.0,5.0
+math/0302304,"Triangulated categories of singularities and D-branes in Landau-Ginzburg
+  models",1.643030800061714e-06,3.199439228789883e-05,6.0,30.0
+math/9912084,Up-to-Homotopy Monoids,1.640173890521441e-06,3.987791565376711e-06,1.0,5.0
+math/0507334,Cotensor Coalgebras in Monoidal Categories,1.60698551133943e-06,0.0,1.0,1.0
+math/0009004,Higher fundamental functors for simplicial sets,1.60698551133943e-06,0.0,1.0,0.0
+math/0009100,"Extendibility, monodromy and local triviality for topological groupoids",1.60698551133943e-06,0.0,1.0,0.0
+math/9912059,Combinatorics of branchings in higher dimensional automata,1.60698551133943e-06,0.0,1.0,1.0
+math/0506302,Negation and Involutive Adjunction,1.60698551133943e-06,0.0,1.0,0.0
+math/0610194,Homotopy limits and colimits and enriched homotopy theory,1.60698551133943e-06,0.0,1.0,0.0
+math/0310134,Dimensions of triangulated categories,1.6034979940104783e-06,2.409364483657954e-05,2.0,18.0
+math/0212219,Remarks on 2-Groups,1.6006281300077564e-06,0.0,2.0,3.0
+math/0207281,The Eckman-Hilton argument and higher operads,1.600439551946616e-06,0.0,1.0,10.0
+math/0606472,Generalized 2-vector spaces and general linear 2-groups,1.5998513822839383e-06,2.733614547259468e-08,1.0,1.0
+math/0610291,Adding inverses to diagrams encoding algebraic structures,1.5755615978546045e-06,0.0,2.0,0.0
+math/0003137,Weak $\omega$-categories as $\omega$-hypergraphs,1.5541446192449997e-06,0.0,1.0,1.0
+math/0212266,Introduction to the language of stacks and gerbes,1.5493750032839157e-06,0.0,1.0,12.0
+math/0503630,"Triangulated categories of singularities and equivalences between
+  Landau-Ginzburg models",1.5119555343096176e-06,6.136524030741775e-06,4.0,5.0
+math/0306371,Braided Premonoidal Coherence,1.5109679979135728e-06,0.0,1.0,3.0
+math/0311021,Interval Computations and their Categorification,1.5109679979135728e-06,0.0,1.0,0.0
+math/0301211,Binary trees and fibred categories,1.5109679979135728e-06,0.0,1.0,0.0
+math/9810053,General Operads and Multicategories,1.5044037053791298e-06,1.050505500540028e-06,2.0,8.0
+math/0009107,Calculating maps between n-categories,1.4914319670433768e-06,0.0,3.0,0.0
+math/0006161,From Coherent Structures to Universal Properties,1.4835344226490424e-06,0.0,1.0,2.0
+math/0209035,Computads and slices of operads,1.4748732532977782e-06,0.0,1.0,1.0
+math/0412304,On the $\mathbb{Z} D_\infty$-category,1.4629592412006444e-06,0.0,1.0,0.0
+math/0412512,"Notes on Grothendieck topologies, fibered categories and descent theory",1.45619980451646e-06,0.0,2.0,5.0
+math/9805030,Spherical 2-categories and 4-manifold invariants,1.446956322296335e-06,0.0,1.0,5.0
+math/0604542,Finite Products are Biproducts in a Compact Closed Category,1.4454806525799716e-06,0.0,1.0,0.0
+math/0210322,"Connections, local subgroupoids,and a holonomy Lie groupoid of a line
+  bundle gerbe",1.430712309789738e-06,0.0,2.0,0.0
+math/0608503,"Manifolds, Structures Categorically",1.4300132099457716e-06,0.0,1.0,0.0
+math/0611344,The homotopy theory of equivalence relations,1.4255466293600735e-06,0.0,1.0,0.0
+math/0506168,Generalized Brown representability in homotopy categories,1.423679349344612e-06,0.0,1.0,0.0
+math/0503564,Pre-modular categories of rank 3,1.409673415880204e-06,1.990182755160072e-06,1.0,2.0
+math/0003065,Every homotopy theory of simplicial algebras admits a proper model,1.4095934788711584e-06,0.0,1.0,0.0
+math/9804106,Obstructions to Coherence: Natural Noncoherent Associativity,1.407564521916496e-06,0.0,1.0,0.0
+math/0210047,Category of A_infinity-categories,1.4051493804140236e-06,9.284495403714102e-07,1.0,9.0
+math/9906032,Berikashvili's functor D and the deformation equation,1.4031559793502274e-06,0.0,2.0,4.0
+math/0607271,2-nerves for bicategories,1.4012336968554504e-06,0.0,1.0,3.0
+math/0106019,A note on the holonomy of connections in twisted bundles,1.3815762002882734e-06,0.0,1.0,7.0
+math/0604285,Fully Coprime Comodules and Fully Coprime Corings,1.3189329710618589e-06,0.0,0.0,1.0
+math/0306079,(Co)homology of crossed modules with coefficients in a $\pi_1$-module,1.3189329710618589e-06,0.0,0.0,1.0
+math/0407155,Baxter Algebras and Shuffle Products,1.3189329710618589e-06,0.0,0.0,4.0
+math/0408306,Thin Elements and Commutative Shells in Cubical omega-categories,1.3189329710618589e-06,0.0,0.0,1.0
+math/0206079,Isomorphisms between left and right adjoints,1.3189329710618589e-06,0.0,0.0,1.0
+math/9811037,A model for the homotopy theory of homotopy theory,1.3189329710618589e-06,0.0,0.0,1.0
+math/0206203,Rev\^etements \'etales et groupe fondamental (SGA 1),1.3189329710618589e-06,0.0,0.0,6.0
+math/0404034,Finiteness in derived categories of local rings,1.3189329710618589e-06,0.0,0.0,1.0
+math/0509674,"Super, quantum and non-commutative species",1.3189329710618589e-06,0.0,0.0,4.0
+math/0501086,Coherence of Associativity in Categories with Multiplication,1.3189329710618589e-06,0.0,0.0,1.0
+math/0408040,Extensions of racks and quandles,1.3189329710618589e-06,0.0,0.0,1.0
+math/0206264,"On the Bernstein-Gel'fand-Gel'fand correspondence and a result of
+  Eisenbud, Fl{\o}ystad, and Schreyer",1.3189329710618589e-06,0.0,0.0,1.0
+math/0309018,A generalization and a new proof of Plotkin's reduction theorem,1.3189329710618589e-06,0.0,0.0,1.0
+math/9811038,Fibrations and homotopy colimits of simplicial sheaves,1.3189329710618589e-06,0.0,0.0,2.0
+math/0001095,Pentagon equation and matrix bialgebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/0611603,"Covers, preenvelopes, and purity",1.3189329710618589e-06,0.0,0.0,1.0
+math/0606735,Polycategories via pseudo-distributive laws,1.3189329710618589e-06,0.0,0.0,1.0
+math/0403164,"Flatness, accessibility and metric spaces",1.3189329710618589e-06,0.0,0.0,1.0
+math/0401433,Systems of Diagram Categories and K-theory. II,1.3189329710618589e-06,0.0,0.0,1.0
+math/0605463,Compact convolution,1.3189329710618589e-06,0.0,0.0,1.0
+math/0608781,On module categories over finite-dimensional Hopf algebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/0511047,"Derived categories, resolutions, and Brown representability",1.3189329710618589e-06,0.0,0.0,1.0
+math/0406267,Duality and triple structures,1.3189329710618589e-06,0.0,0.0,1.0
+math/0202081,"Colimits, Stanley-Reisner algebras, and loop spaces",1.3189329710618589e-06,0.0,0.0,1.0
+math/0406475,"A strict totally coordinatized version of Kapranov and Voevodsky's
+  2-category {\bf 2Vect}",1.3189329710618589e-06,0.0,0.0,2.0
+math/0605112,When is the Product isomorphic to the Coproduct,1.3189329710618589e-06,0.0,0.0,1.0
+math/0605126,A construction of semisimple tensor categories,1.3189329710618589e-06,0.0,0.0,1.0
+math/9911242,Noetherian hereditary categories satisfying Serre duality,1.3189329710618589e-06,0.0,0.0,4.0
+math/0502155,The Boardman-Vogt resolution of operads in monoidal model categories,1.3189329710618589e-06,0.0,0.0,2.0
+math/0406348,The Chu construction for complete atomistic coatomistic lattices,1.3189329710618589e-06,0.0,0.0,1.0
+math/0305317,Homotopy theory of coalgebras over operads,1.3189329710618589e-06,0.0,0.0,1.0
+math/0007009,"Multiple categories: the equivalence of a globular and a cubical
+  approach",1.3189329710618589e-06,0.0,0.0,4.0
+math/0209068,Computation and Homotopical Applications of Induced Crossed Modules,1.3189329710618589e-06,0.0,0.0,1.0
+math/0506352,A model category for local po-spaces,1.3189329710618589e-06,0.0,0.0,2.0
+math/0308063,Comparing globular complex and flow,1.3189329710618589e-06,0.0,0.0,2.0
+math/9904073,A canonical Tannaka duality for finite seimisimple tensor categories,1.3189329710618589e-06,0.0,0.0,8.0
+math/0508379,Support varieties - an ideal approach,1.3189329710618589e-06,0.0,0.0,3.0
+math/0601777,Quadratic algebra of square groups,1.3189329710618589e-06,0.0,0.0,5.0
+math/9812097,"Applications of Rewriting Systems and Groebner Bases to Computing Kan
+  Extensions and Identities Among Relations",1.3189329710618589e-06,0.0,0.0,8.0
+math/0109088,Natural Associativity without the Pentagon condition,1.3189329710618589e-06,0.0,0.0,6.0
+math/0307185,Strengthening track theories,1.3189329710618589e-06,0.0,0.0,3.0
+math/0410412,Complicial Sets,1.3189329710618589e-06,0.0,0.0,2.0
+math/9808082,Iterated Monoidal Categories,1.3189329710618589e-06,0.0,0.0,7.0
+math/0411408,On automorphisms of categories of universal algebras,1.3189329710618589e-06,0.0,0.0,3.0
+math/0306109,On Infinity Topoi,1.3189329710618589e-06,0.0,0.0,11.0
+math/0305218,Cartan-Leray spectral sequence for Galois coverings of linear categories,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0008020,Operational resolutions and state transitions in a categorical setting,1.3189329710618589e-06,0.0,0.0,7.0
+math/0106065,Tannaka Duals in Semisimple Tensor Categories,1.3189329710618589e-06,0.0,0.0,2.0
+math/9903003,"Finite groups, spherical 2-categories, and 4-manifold invariants",1.3189329710618589e-06,0.0,0.0,3.0
+math/0510490,A note on the composition product of symmetric sequences,1.3189329710618589e-06,0.0,0.0,2.0
+math/0309209,"Flatness, preorders and general metric spaces",1.3189329710618589e-06,0.0,0.0,2.0
+math/0203273,"Nilpotence, radicaux et structures mono\""{\i}dales",1.3189329710618589e-06,0.0,0.0,3.0
+math/9910006,The Syntax of Coherence,1.3189329710618589e-06,0.0,0.0,2.0
+math/0104164,Some differential equations in synthetic differential geometry,1.3189329710618589e-06,0.0,0.0,2.0
+math/0511357,On the second cohomology group in semi-abelian categories,1.3189329710618589e-06,0.0,0.0,2.0
+math/9802089,"S-Structures for k-linear categories and the definition of a modular
+  functor",1.3189329710618589e-06,0.0,0.0,4.0
+math/0512165,Classification of braids which give rise to interchange,1.3189329710618589e-06,0.0,0.0,2.0
+math/0409360,The spectrum of prime ideals in tensor triangulated categories,1.3189329710618589e-06,0.0,0.0,1.0
+math/9805134,"Reduction of quantum systems with arbitrary first class constraints and
+  Hecke algebras",1.3189329710618589e-06,0.0,0.0,2.0
+math/0605037,*-Autonomous categories in quantum theory,1.3189329710618589e-06,0.0,0.0,1.0
+math/0512194,Bipolar spaces,1.3189329710618589e-06,0.0,0.0,1.0
+math/9906079,"On an ambiguity in the concept of partial and total derivatives in
+  classical analysis",1.3189329710618589e-06,0.0,0.0,1.0
+math/0402150,Variations on a theme of Gelfand and Naimark,1.3189329710618589e-06,0.0,0.0,1.0
+math/0604442,Batanin higher groupoids and homotopy types,1.3189329710618589e-06,0.0,0.0,1.0
+math/0602107,"Enriched model categories and an application to additive endomorphism
+  spectra",1.3189329710618589e-06,0.0,0.0,1.0
+math/9907150,Higher dimensional hypercategories,1.3189329710618589e-06,0.0,0.0,1.0
+math/0106253,Towards an Algebraic Characterization of 3-dimensional Cobordisms,1.3189329710618589e-06,0.0,0.0,1.0
+math/0006052,Bicartesian Coherence,1.3189329710618589e-06,0.0,0.0,1.0
+math/0506310,Coherence and Confluence,1.3189329710618589e-06,0.0,0.0,1.0
+math/0206113,Tannaka-Krein duality for Hopf algebroids,1.3189329710618589e-06,0.0,0.0,3.0
+math/0509593,Brauer groups and crepant resolutions,1.3189329710618589e-06,0.0,0.0,1.0
+math/0612141,"On the structure of triangulated category with finitely many
+  indecomposables",1.3189329710618589e-06,0.0,0.0,1.0
+math/0005125,"Algebra of Principal Fibre Bundles, and Connections",1.3189329710618589e-06,0.0,0.0,2.0
+math/0211454,An Objective Representation of the Gaussian Integers,1.3189329710618589e-06,0.0,0.0,1.0
+math/0304064,On the notion of geometric realization,1.3189329710618589e-06,0.0,0.0,1.0
+math/0103011,The branching nerve of HDA and the Kan condition,1.3189329710618589e-06,0.0,0.0,2.0
+math/0505329,"T-homotopy and refinement of observation (III) : Invariance of the
+  branching and merging homologies",1.3189329710618589e-06,0.0,0.0,1.0
+math/0408042,The bicategories of corings,1.3189329710618589e-06,0.0,0.0,1.0
+math/0604416,"Weak complicial sets, a simplicial weak omega-category theory. Part II:
+  nerves of complicial Gray-categories",1.3189329710618589e-06,0.0,0.0,1.0
+math/0006008,Volume form as volume of infinitesimal simplices,1.3189329710618589e-06,0.0,0.0,1.0
+math/9904108,The triangulated Hopf category n_+SL(2),1.3189329710618589e-06,0.0,0.0,1.0
+math/0603413,"Groupoids, imaginaries and internal covers",1.3189329710618589e-06,0.0,0.0,1.0
+math/9904039,Joins for (Augmented) Simplicial Sets,1.3189329710618589e-06,0.0,0.0,1.0
+math/0008165,Local subgroupoids II: Examples and properties,1.3189329710618589e-06,0.0,0.0,3.0
+math/9810059,Homotopy types of strict 3-groupoids,1.3189329710618589e-06,0.0,0.0,5.0
+math/0608601,Wide Morita contexts in Bicategories,1.3189329710618589e-06,0.0,0.0,1.0
+math/0411345,A general theory of self-similarity II: recognition,1.3189329710618589e-06,0.0,0.0,1.0
+math/0507003,Simple multiplicative proof nets with units,1.3189329710618589e-06,0.0,0.0,4.0
+math/0309465,Correspondences of ribbon categories,1.3189329710618589e-06,0.0,0.0,13.0
+math/0411154,A model structure a la Thomason on 2-Cat,1.3189329710618589e-06,0.0,0.0,2.0
+math/0409417,Submodule Categories of Wild Representation Type,1.3189329710618589e-06,0.0,0.0,3.0
+math/0409158,Non-well-founded trees in categories,1.3189329710618589e-06,0.0,0.0,1.0
+math/9810017,Basic Bicategories,1.3189329710618589e-06,0.0,0.0,11.0
+math/0111196,Resonance Category,1.3189329710618589e-06,0.0,0.0,1.0
+math/0507344,Logged Rewriting for Monoids,1.3189329710618589e-06,0.0,0.0,1.0
+math/0703422,"Tannakian categories, linear differential algebraic groups, and
+  parameterized linear differential equations",1.3189329710618589e-06,0.0,0.0,1.0
+math/0502410,Lifted closure operators,1.3189329710618589e-06,0.0,0.0,1.0
+math/0401424,A generalization of Quillen's small object argument,1.3189329710618589e-06,0.0,0.0,1.0
+math/0112158,Representations of marked quivers,1.3189329710618589e-06,0.0,0.0,1.0
+math/0611701,Topological functors as familiarly-fibrations,1.3189329710618589e-06,0.0,0.0,1.0
+math/0606553,What do DG categories form?,1.3189329710618589e-06,0.0,0.0,2.0
+math/0612735,On classification of complex filiform Leibniz algebras,1.3189329710618589e-06,0.0,0.0,1.0
+math/0410589,Smash products of E(1)-local spectra at an odd prime,1.3189329710618589e-06,0.0,0.0,1.0
+math/0004133,From Finite Sets to Feynman Diagrams,1.3189329710618589e-06,0.0,0.0,5.0
+math/0509102,"Notes on enriched categories with colimits of some class (completed
+  version)",1.3189329710618589e-06,0.0,0.0,1.0
+math/0503436,On the arithmetic product of combinatorial species,1.3189329710618589e-06,0.0,0.0,1.0
+math/0406615,A Full and faithful Nerve for 2-categories,1.3189329710618589e-06,0.0,0.0,1.0
+math/0008117,Homotopies and automorphisms of crossed modules of groupoids,1.3189329710618589e-06,0.0,0.0,1.0
+math/9901003,Meromorphic braided category arising in quantum affine algebras,1.3189329710618589e-06,0.0,0.0,2.0
+math/0212271,"The fundamental groupoid of the quotient of a Hausdorff space by a
+  discontinuous action of a discrete group is the orbit groupoid of the induced
+  action",1.3189329710618589e-06,0.0,0.0,2.0
+math/0506589,On the non additivity of the trace in derived categories,1.3189329710618589e-06,0.0,0.0,1.0
+math/0308246,Weak enriched categories - Categories enrichies faibles,1.3189329710618589e-06,0.0,0.0,4.0
+math/0211345,On quantales and spectra of C*-algebras,1.3189329710618589e-06,0.0,0.0,2.0
+math/9809104,Monoidal categories and multiextensions,1.3189329710618589e-06,0.0,0.0,2.0
+math/0502212,Automorphisms of categories of free modules and free Lie algebras,1.3189329710618589e-06,0.0,0.0,3.0
+math/9906082,On Morita's Fundamental Theorem for C*-algebras,1.3189329710618589e-06,0.0,0.0,2.0
+math/0411478,On the functoriality of cohomology of categories,1.3189329710618589e-06,0.0,0.0,1.0
+math/0505152,T-homotopy and refinement of observation (I) : Introduction,1.3189329710618589e-06,0.0,0.0,3.0
+math/0409473,"Categorical structures enriched in a quantaloid: categories,
+  distributors and functors",1.3189329710618589e-06,0.0,0.0,1.0
+math/0410020,A note on coring extensions,1.3189329710618589e-06,0.0,0.0,5.0
+math/0405226,Deformation theory of abelian categories,1.3189329710618589e-06,0.0,0.0,8.0
+math/0009201,Introducing Quaternionic Gerbes,1.3189329710618589e-06,0.0,0.0,4.0
+math/9811139,Higher-Dimensional Algebra IV: 2-Tangles,1.3189329710618589e-06,0.0,0.0,7.0
+math/9807049,Descente pour les n-champs (Descent for n-stacks),1.3189329710618589e-06,0.0,0.0,44.0
+cs/0604108,"An Algebraic View of the Relation between Largest Common Subtrees and
+  Smallest Common Supertrees",,,,
+cs/0609040,Elgot Algebras,,,,
+cs/0701032,Polygraphic programs and polynomial-time functions,,,,
+cs/0702040,Polygraphs for termination of left-linear term rewriting systems,,,,
+cs/0703007,Intensional properties of polygraphs,,,,
+cs/9812019,Symmetries and transitions of bounded Turing machines,,,,
+math-ph/0211067,"Method of Additional Structures on the Objects of a Monoidal Kleisli
+  Category as a Background for Information Transformers Theory",,,,
+math/0001146,Interchanging homotopy limits and colimits in CAT,,,,
+math/0002025,Algebraic duality for partially ordered sets,,,,
+math/0004160,An Embedding theorem for abelian monoidal categories,,,,
+math/0006019,"Oriented Quantum Algebras, Categories and Invariants of Knots and Links",,,,
+math/0006061,Coherence in Substructural Categories,,,,
+math/0006091,Coherent Bicartesian and Sesquicartesian Categories,,,,
+math/0007029,Higher rank graph C*-algebras,,,,
+math/0007070,Universal homotopy theories,,,,
+math/0008236,Exactness and stability in homotopical algebra,,,,
+math/0009021,Covering groups of non-connected topological groups revisited,,,,
+math/0009145,On the Galois Theory of Grothendieck,,,,
+math/0009166,"An intrinsic homotopy theory for simplicial complexes, with applications
+  to image analysis",,,,
+math/0010253,A relative Yoneda Lemma (manuscript),,,,
+math/0011252,Simplicial and categorical comma categories,,,,
+math/0012019,G-dinaturality,,,,
+math/0012094,Operators Extending (Pseudo-)Metrics,,,,
+math/0012173,Localic Galois Theory,,,,
+math/0101154,On the monad of proper factorisation systems in categories,,,,
+math/0102087,Sheafifiable homotopy model categories,,,,
+math/0103193,On Ext in the Category of Functors to Preabelian Category,,,,
+math/0104201,Derived categories of Schur algebras,,,,
+math/0105137,Morita theory for Hopf algebroids and presheaves of groupoids,,,,
+math/0105256,Recursion categories of coalgebras,,,,
+math/0106094,Calculating limits and colimits in pro-categories,,,,
+math/0106146,Flows in Graphs and Homology of Free Categories,,,,
+math/0106214,Free Products of Semisimple Tensor Categories,,,,
+math/0108017,Cohomologie non abelienne d'ordre superieur et applications,,,,
+math/0109170,Obstruction Theory in Model Categories,,,,
+math/0110014,On the PROP corresponding to bialgebras,,,,
+math/0110311,The categorical theory of relations and quantizations,,,,
+math/0111048,"Directed homotopy theory, I. The fundamental category",,,,
+math/0111049,Presheaves of triangulated categories and reconstruction of schemes,,,,
+math/0111061,Abstraction and Application in Adjunction,,,,
+math/0111073,Theoreme de Van Kampen pour les champs algebriques,,,,
+math/0112176,An example of a non-cofibrantly generated model category,,,,
+math/0112307,Abelian Categories of Modules over a (Lax) Monoidal Functor,,,,
+math/0203084,Linear extensions and nilpotence for Maltsev theories,,,,
+math/0204140,"Pushout stability of embeddings, injectivity and categories of algebras",,,,
+math/0205014,Topological model categories generated by finite complexes,,,,
+math/0206017,What is Stochastic Independence?,,,,
+math/0206124,On Regular Closure Operators and Cowellpowered Subcategories,,,,
+math/0207023,Explicit models for perverse sheaves,,,,
+math/0207145,"The omega-Categories Associated With Products of Infinite-Dimensional
+  Globes",,,,
+math/0208094,Identity of Proofs Based on Normalization and Generality,,,,
+math/0208222,On the representation theory of Galois and Atomic Topoi,,,,
+math/0210187,Automorphisms of the category of free Lie algebras,,,,
+math/0210194,Algebras with the same (algebraic) geometry,,,,
+math/0210291,Lie-admissible algebras and operads,,,,
+math/0210354,On sequentially h-complete groups,,,,
+math/0212136,Notes on Operator Categories,,,,
+math/0212157,"Cubical abelian groups with connections are equivalent to chain
+  complexes",,,,
+math/0212197,A remark on a theorem by Deligne,,,,
+math/0212293,Distorted Hankel integral operators,,,,
+math/0301271,Non abelian cohomology: the point of view of gerbed tower,,,,
+math/0301353,"A bicategorical approach to Morita equivalence for rings and von Neumann
+  algebras",,,,
+math/0303050,N-Fold Cech Derived Functors and Generalised Hopf Type Formulas,,,,
+math/0303186,Very badly approximable matrix functions,,,,
+math/0305165,Towards non commutative algebraic topology,,,,
+math/0306174,On the canonical formula of C. Levi-Strauss,,,,
+math/0306179,Codescent theory I: Foundations,,,,
+math/0306203,A geometric theory of harmonic and semi-conformal maps,,,,
+math/0306241,Functional Equations and Their Related Operads,,,,
+math/0307060,Derived Categories of Nodal Algebras,,,,
+math/0307149,"A stability-like theorem for cohomology of pure braid groups of the
+  series A, B and D",,,,
+math/0308298,"A categorical construction of 2-dimensional extended Topological Quantum
+  Field Theory",,,,
+math/0309296,Grothendieck categories and support conditions,,,,
+math/0309400,"On the non-balanced property of the category of crossed modules in
+  groups",,,,
+math/0310055,Group Actions on Posets,,,,
+math/0312420,"Algebraic Logic, Varieties of Algebras and Algebraic Varieties",,,,
+math/0312422,"\Sigma\Pi-polycategories, additive linear logic, and process semantics",,,,
+math/0312428,An Algebraic Approach to Knowledge Bases Informational Equivalence,,,,
+math/0312476,Homotopical structures in categories,,,,
+math/0401095,Profinite Structures are Retracts of Ultraproducts of Finite Structures,,,,
+math/0402236,Hereditarily h-complete groups,,,,
+math/0402250,Quadratic functors and one-connected two stage spaces,,,,
+math/0402275,On completeness in a non-Archimedean setting via firm reflections,,,,
+math/0402441,On the complexity of Cockett-Seely polarized games,,,,
+math/0402450,Updown Categories,,,,
+math/0403081,Comparison of Abelian categories recollements,,,,
+math/0403227,Logical Construction of Final Coalgebras,,,,
+math/0403237,Omega-categories and chain complexes,,,,
+math/0403341,"Quantum Yang-Baxter equation, arbitrary gradings and exchange Hecke
+  braidings",,,,
+math/0403394,Some remarks on autoequivalences of categories,,,,
+math/0404016,Are operads algebraic theories?,,,,
+math/0404233,Les groupements,,,,
+math/0404243,Morphisms represented by monomorphisms,,,,
+math/0404286,A language for multiplicative-additive linear logic,,,,
+math/0404399,Isomorphisms in pro-categories,,,,
+math/0404405,Deligne Localized Functors,,,,
+math/0404470,Cofree coalgebras over operads II Homology invariance,,,,
+math/0404522,Algebra generators and information theory,,,,
+math/0405453,"Sur quelques aspects de la g\'eom\'etrie de l'espace des arcs trac\'es
+  sur un espace analytique",,,,
+math/0406044,On the Zappa-Szep Product,,,,
+math/0406061,"Tours de torseurs, geometrie differentielle des suites de fibres
+  principaux, et theorie des cordes",,,,
+math/0406501,Pasting pseudofunctors,,,,
+math/0407251,State monads and their algebras,,,,
+math/0407275,Nonabelian Algebraic Topology,,,,
+math/0407362,The continuity of the map lim_T in Hausdorff spaces,,,,
+math/0408023,Functions on the zeroes of dx,,,,
+math/0408177,Enlargements of Categories,,,,
+math/0409263,"Distributive semilattices as retracts of ultraboolean ones; functorial
+  inverses without adjunction",,,,
+math/0409270,Lifting retracted diagrams with respect to projectable functors,,,,
+math/0409339,Postnikov Invariants of Crossed Complexes,,,,
+math/0409475,"Categorical structures enriched in a quantaloid: regular presheaves,
+  regular semicategories",,,,
+math/0409477,"Categorical structures enriched in a quantaloid: orders and ideals over
+  a base quantaloid",,,,
+math/0410555,"Partition complexes, duality and integral tree representations",,,,
+math/0412226,"Some combinatorial aspects of movies and movie-moves in the theory of
+  smoothly knotted surfaces in R4",,,,
+math/0412230,Covering groupoids,,,,
+math/0502006,Spectral enrichments of model categories,,,,
+math/0502329,The orthogonal subcategory problem in homotopy theory,,,,
+math/0502399,On the representation categories of matrix quantum groups of type $A$,,,,
+math/0502474,"On continuity of correspondences of probability measures in the category
+  of Tychonov spaces",,,,
+math/0502479,$\infty$-Open-multicommutativity in the category $\comp$,,,,
+math/0503057,Recollement for Differential Graded Algebras,,,,
+math/0503151,"On categorical approach to derived preference relations in some decision
+  making problems",,,,
+math/0504032,Toy operads,,,,
+math/0504065,Logic Without Syntax,,,,
+math/0504133,Relevant Categories and Partial Functions,,,,
+math/0504301,The Auslander-Reiten Translation in Submodule Categories,,,,
+math/0504346,Representations of non-singular planar tangles by operators,,,,
+math/0504599,Quadratic envelope of the category of class two nilpotent groups,,,,
+math/0505104,"Quadratic categories, Koszul resolutions and operads",,,,
+math/0505566,Cohomology of Pure Braid Groups of exceptional cases,,,,
+math/0506624,"Monoidal functors, acyclic models and chain operads",,,,
+math/0507480,Sheaves for predicative toposes,,,,
+math/0509438,Differential calculus in categories. I,,,,
+math/0509665,The Extension of Knot Groups to Tangles,,,,
+math/0510072,"On the Lambek Invariants of Commutative Squares in a Quasi-Abelian
+  Category",,,,
+math/0510272,On comonadicity of the extension-of-scalars functors,,,,
+math/0510281,A Kleisli-based approach to lax algebras,,,,
+math/0510345,Homological algebra with locally compact abelian groups,,,,
+math/0511040,Commutation Structures,,,,
+math/0511367,"A Theory of Adjoint Functors--with some Thoughts about their
+  Philosophical Significance",,,,
+math/0511497,A semiorthogonal decomposition for Brauer Severi schemes,,,,
+math/0511639,"Morphisms which are continuous on a neighborhood of the base of a
+  groupoid",,,,
+math/0512052,An introduction to q-species,,,,
+math/0512110,Computably Based Locally Compact Spaces,,,,
+math/0512349,Quadratic categories and Koszul resolutions,,,,
+math/0601418,"Classification of abelian hereditary directed categories satisfying
+  Serre duality",,,,
+math/0601575,Adjoint functors and triangulated categories,,,,
+math/0601578,Bousfield localization in quotients of module categories,,,,
+math/0601603,The Heyneman-Radford Theorem for Monoidal Categories,,,,
+math/0602016,Wedge Products and Cotensor Coalgebras in Monoidal Categories,,,,
+math/0602053,Towards a Definition of an Algorithm,,,,
+math/0602180,On Algebraic Models for Homotopy 3-Types,,,,
+math/0602463,"Flatness, preorders and general metric spaces (revised)",,,,
+math/0602497,The structure of double groupoids,,,,
+math/0602551,The category of local algebras and points proches,,,,
+math/0603279,A construction of a quotient tensor category,,,,
+math/0603298,"Categories, norms and weights",,,,
+math/0603391,Homotopical Aspects of Commutative Algebras,,,,
+math/0604138,"An extension of the Eilenberg - Mac Lane concept of category in the case
+  of nonrigid structures",,,,
+math/0604161,On realizing diagrams of Pi-algebras,,,,
+math/0604412,Universal coefficient theorem in triangulated categories,,,,
+math/0604549,Pseudo-categories,,,,
+math/0604569,Exponentiable functors between quantaloid-enriched categories,,,,
+math/0605034,"Restricted exchange, braidings and the monoidal centre",,,,
+math/0605094,Gluing in tensor triangular geometry,,,,
+math/0605149,Notes on duality theories of abelian groups,,,,
+math/0605304,A construction of 2-filtered bicolimits of categories,,,,
+math/0605606,Relative Regular Objects in Categories,,,,
+math/0607117,Homotopy theory of small diagrams over large categories,,,,
+math/0607126,"Abstract cellularization as a cellularization with respect to a set of
+  objects",,,,
+math/0607334,"Elementary Equivalence of Categories of Modules over Rings, Endomorphism
+  Rings, and Automorphism Groups of Modules",,,,
+math/0607462,De l'oprateur de trace dans les jeux de Conway,,,,
+math/0608144,Hall algebras associated to triangulated categories,,,,
+math/0608163,Ind- and Pro- definable sets,,,,
+math/0608166,Epistemic actions as resources,,,,
+math/0608436,Strict $\infty $-categories. Concrete Duality,,,,
+math/0608614,The invariant of Turaev-Viro from Group category,,,,
+math/0608774,Relative homological categories,,,,
+math/0608790,Cryptography and non commutative cohomology,,,,
+math/0609257,Tangent bundle and Gauss functor of a combinatorial manifold,,,,
+math/0609450,Simplicial homology of strong semilattices of Banach algebras,,,,
+math/0609479,"Exercises on derived categories, resolutions, and Brown representability",,,,
+math/0609808,Quillen model categories without equalisers or coequalisers,,,,
+math/0610110,"Closedness properties of internal relations IV: Expressing additivity of
+  a category via subtractivity",,,,
+math/0610122,Balance in stable categories,,,,
+math/0610201,The generating hypothesis in the derived category of a ring,,,,
+math/0610439,Limits of small functors,,,,
+math/0610500,"Restriction categories III: colimits, partial limits, and extensivity",,,,
+math/0610643,Effective codescent morphisms in some varieties of universal algebras,,,,
+math/0610678,Open-multicommutativity of the functor of upper-continuous capacities,,,,
+math/0610772,The site R^+_G for a profinite group G,,,,
+math/0610828,A few localisation theorems,,,,
+math/0611101,A note on cohomological localization,,,,
+math/0611821,Subobjects of the successive power objects in the topos G-Set,,,,
+math/0612083,Termination orders for 3-dimensional rewriting,,,,
+math/0612084,Termination orders for 3-polygraphs,,,,
+math/0612088,Two polygraphic presentations of Petri nets,,,,
+math/0612089,The three dimensions of proofs,,,,
+math/0612137,Enriched Reedy categories,,,,
+math/0612203,Cofibrance and Completion,,,,
+math/0612257,On the 1-homotopy type of Lie groupoids,,,,
+math/0612299,Bicat is not triequivalent to Gray,,,,
+math/0612498,"A structural approach to the locality of pseudovarieties of the form
+  $\mathbf{LH} m \mathbf{V}$",,,,
+math/0612619,Inductive Lusternik-Schnirelmann category in a model category,,,,
+math/0701746,Cofibrant complexes are free,,,,
+math/0701815,Higher Hopf formulae for homology via Galois Theory,,,,
+math/0702290,Cofibrantly generated natural weak factorisation systems,,,,
+math/0702574,Actors in categories of interest,,,,
+math/0702588,Introduction to Ann-categories,,,,
+math/0702667,"Le foncteur V -> $F_2[V]^{otimes 3}$ entre F2-espaces vectoriels est
+  noeth\'erien",,,,
+math/0702677,"A new higher homotopy groupoid: the fundamental globular omega-groupoid
+  of a filtered space",,,,
+math/0703119,Epireflections and supercompact cardinals,,,,
+math/0703356,Rational $p$-biset functors,,,,
+math/0703457,Abelian 1-Calabi-Yau Categories,,,,
+math/0703713,The logic of message passing,,,,
+math/9503217,Existence of Orbifolds IV: Examples,,,,
+math/9707206,Topological Completeness for Higher-Order Logic,,,,
+math/9805102,Nuclear and Trace Ideals in Tensored *-Categories,,,,
+math/9808111,"Spaces of maps into classifying spaces for equivariant crossed
+  complexes, II: The general topological group case",,,,
+math/9810144,Periodic cyclic homology as sheaf cohomology,,,,
+math/9901091,K-Theory for Triangulated Categories III(A): The Theorem of the Heart,,,,
+math/9901103,On Faded Cosheaves of Sets,,,,
+math/9902151,"Homotopy invariants of higher dimensional categories and concurrency in
+  computer science",,,,
+math/9904041,Freeness conditions for crossed squares and squared complexes,,,,
+math/9906080,A Morita theorem for algebras of operators on Hilbert space,,,,
+math/9909030,Grothendieck Categories,,,,
+math/9910135,C*-tensor categories and free product bimodules,,,,
+math/9910178,Bimodule complexes via strong homotopy actions,,,,
+math/9911059,The Maximality of Cartesian Categories,,,,
+math/9911073,"The Maximality of the Typed Lambda Calculus and of Cartesian Closed
+  Categories",,,,
+math/9912060,Glutoses: a Generalization of Topos Theory,,,,
+math/9912157,Derived Categories and Projective Classes,,,,
