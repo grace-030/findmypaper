@@ -1,0 +1,53 @@
+source,target,weight,raw_count
+Physics,Physics,1.4e-05,1512597
+Mathematics,Physics,3e-06,61106
+Mathematics,Mathematics,1.7e-05,75086
+Physics,Mathematics,3e-06,61818
+Physics,Nonlinear Sciences,3e-06,14390
+Physics,Computer Science,1e-06,3035
+Quantitative Biology,Nonlinear Sciences,6e-06,280
+Quantitative Biology,Physics,1e-06,1650
+Quantitative Biology,Computer Science,4e-06,105
+Quantitative Biology,Mathematics,1e-06,196
+Nonlinear Sciences,Nonlinear Sciences,5e-05,8052
+Nonlinear Sciences,Physics,3e-06,13092
+Nonlinear Sciences,Computer Science,2e-06,230
+Nonlinear Sciences,Mathematics,7e-06,6060
+Computer Science,Nonlinear Sciences,2e-06,193
+Computer Science,Physics,1e-06,2803
+Computer Science,Computer Science,3.1e-05,1753
+Computer Science,Mathematics,2e-06,894
+Physics,Quantitative Finance,4e-06,1464
+Quantitative Finance,Nonlinear Sciences,8e-06,110
+Physics,Quantitative Biology,1e-06,1834
+Quantitative Biology,Quantitative Biology,7.5e-05,1149
+Nonlinear Sciences,Quantitative Biology,8e-06,378
+Nonlinear Sciences,Quantitative Finance,1.5e-05,215
+Quantitative Finance,Quantitative Finance,0.000767,980
+Quantitative Finance,Physics,4e-06,1344
+Mathematics,Nonlinear Sciences,7e-06,6326
+Computer Science,Quantitative Biology,4e-06,112
+Mathematics,Quantitative Biology,1e-06,204
+Quantitative Finance,Quantitative Biology,3e-06,15
+Mathematics,Computer Science,2e-06,1027
+Physics,Statistics,0.0,165
+Mathematics,Statistics,3e-06,263
+Quantitative Finance,Mathematics,1e-06,80
+Mathematics,Quantitative Finance,1e-06,52
+Statistics,Physics,0.0,116
+Quantitative Biology,Statistics,5e-06,25
+Statistics,Computer Science,2e-06,17
+Statistics,Mathematics,3e-06,201
+Computer Science,Statistics,3e-06,30
+Statistics,Statistics,9.3e-05,127
+Statistics,Quantitative Biology,6e-06,29
+Quantitative Finance,Statistics,1.1e-05,14
+Economics,Physics,3e-06,2
+Nonlinear Sciences,Statistics,1e-06,21
+Quantitative Finance,Computer Science,2e-06,18
+Quantitative Biology,Quantitative Finance,4e-06,19
+Computer Science,Quantitative Finance,2e-06,13
+Statistics,Nonlinear Sciences,1e-06,8
+Statistics,Quantitative Finance,5e-06,7
+Physics,Economics,3e-06,2
+Computer Science,Economics,6.7e-05,1

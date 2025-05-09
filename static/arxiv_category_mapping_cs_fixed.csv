@@ -1,0 +1,167 @@
+category,field,subfield
+hep-th,Physics,High Energy Physics - Theory
+gr-qc,Physics,General Relativity and Quantum Cosmology
+hep-ph,Physics,High Energy Physics - Phenomenology
+astro-ph,Physics,Astrophysics
+alg-geom,Mathematics,Algebraic Geometry
+math.AG,Mathematics,AG
+q-alg,Mathematics,Quantum Algebra
+math.QA,Mathematics,QA
+dg-ga,Mathematics,Differential Geometry
+math.DG,Mathematics,Differential Geometry
+math.OA,Mathematics,OA
+quant-ph,Physics,Quantum Physics
+funct-an,Mathematics,Functional Analysis
+math.FA,Mathematics,Functional Analysis
+math-ph,Mathematics,Mathematical Physics
+math.MP,Mathematics,MP
+hep-lat,Physics,High Energy Physics - Lattice
+cond-mat,Physics,Condensed Matter
+nucl-th,Physics,Nuclear Theory
+cond-mat.supr-con,Physics,SUPR-CON
+cond-mat.stat-mech,Physics,STAT-MECH
+hep-ex,Physics,High Energy Physics - Experiment
+nucl-ex,Physics,Nuclear Experiment
+math.MG,Mathematics,MG
+bayes-an,Mathematics,Bayesian Analysis
+physics.data-an,Physics,DATA-AN
+cond-mat.mes-hall,Physics,MES-HALL
+physics.comp-ph,Physics,COMP-PH
+cond-mat.soft,Physics,SOFT
+cond-mat.dis-nn,Physics,DIS-NN
+cond-mat.mtrl-sci,Physics,Materials Science
+cond-mat.str-el,Physics,STR-EL
+cs.NI,Computer Science,NI
+nlin.AO,Nonlinear Sciences,AO
+q-bio,Quantitative Biology,Quantitative Biology
+cs.PF,Computer Science,PF
+adap-org,Nonlinear Sciences,Adaptation and Self-Organizing Systems
+physics.bio-ph,Physics,BIO-PH
+q-bio.MN,Quantitative Biology,MN
+math.SG,Mathematics,SG
+physics.flu-dyn,Physics,FLU-DYN
+cs.CR,Computer Science,Cryptography and Security
+physics.ins-det,Physics,INS-DET
+physics.atom-ph,Physics,ATOM-PH
+atom-ph,Physics,Atomic Physics
+nlin.SI,Nonlinear Sciences,SI
+q-fin.ST,Quantitative Finance,ST
+math.KT,Mathematics,KT
+cs.CC,Computer Science,CC
+physics.chem-ph,Physics,CHEM-PH
+q-fin.TR,Quantitative Finance,TR
+math.GT,Mathematics,GT
+physics.hist-ph,Physics,HIST-PH
+chao-dyn,Nonlinear Sciences,Chaotic Dynamics
+nlin.CD,Nonlinear Sciences,CD
+solv-int,Mathematics,Exactly Solvable and Integrable Systems
+comp-gas,Computer Science,Computational Gas Physics
+nlin.CG,Nonlinear Sciences,CG
+cond-mat.other,Physics,OTHER
+math.AP,Mathematics,AP
+math.RT,Mathematics,RT
+physics.gen-ph,Physics,GEN-PH
+math.DS,Mathematics,DS
+math.GR,Mathematics,GR
+acc-phys,Physics,Accelerator Physics
+physics.class-ph,Physics,CLASS-PH
+physics.optics,Physics,Optics
+physics.space-ph,Physics,SPACE-PH
+math.RA,Mathematics,RA
+math.CO,Mathematics,CO
+math.PR,Mathematics,Probability
+q-bio.PE,Quantitative Biology,PE
+math.NT,Mathematics,NT
+nlin.PS,Nonlinear Sciences,PS
+math.CA,Mathematics,CA
+q-bio.NC,Quantitative Biology,Neurons and Cognition
+q-bio.OT,Quantitative Biology,OT
+physics.plasm-ph,Physics,PLASM-PH
+q-bio.GN,Quantitative Biology,GN
+physics.soc-ph,Physics,SOC-PH
+q-fin.PM,Quantitative Finance,PM
+cs.NA,Computer Science,NA
+math.CV,Mathematics,CV
+math.LO,Mathematics,LO
+physics.acc-ph,Physics,ACC-PH
+physics.pop-ph,Physics,POP-PH
+astro-ph.CO,Physics,CO
+physics.atm-clus,Physics,ATM-CLUS
+math.CT,Mathematics,CT
+physics.geo-ph,Physics,GEO-PH
+math.AT,Mathematics,AT
+chem-ph,Physics,Chemical Physics
+patt-sol,Nonlinear Sciences,Pattern Formation and Solitons
+cs.LG,Computer Science,Machine Learning
+cs.DC,Computer Science,DC
+cs.MA,Computer Science,Multiagent Systems
+cs.DM,Computer Science,DM
+math.NA,Mathematics,NA
+math.OC,Mathematics,Optimization and Control
+physics.ao-ph,Physics,AO-PH
+cs.ET,Computer Science,ET
+math.GN,Mathematics,GN
+mtrl-th,Physics,Materials Theory
+supr-con,Physics,Superconductivity
+math.AC,Mathematics,AC
+math.SP,Mathematics,SP
+cond-mat.quant-gas,Physics,QUANT-GAS
+q-fin.GN,Quantitative Finance,GN
+cs.LO,Computer Science,LO
+cs.SC,Computer Science,SC
+physics.ed-ph,Physics,ED-PH
+cs.IT,Computer Science,Information Theory
+math.IT,Mathematics,IT
+cs.AI,Computer Science,Artificial Intelligence
+cs.DS,Computer Science,Data Structures and Algorithms
+math.HO,Mathematics,HO
+cs.MS,Computer Science,MS
+math.ST,Mathematics,ST
+stat.TH,Statistics,TH
+q-bio.BM,Quantitative Biology,BM
+q-fin.CP,Quantitative Finance,CP
+cs.GL,Computer Science,General Literature
+q-bio.CB,Quantitative Biology,CB
+cs.GT,Computer Science,Game Theory
+cs.NE,Computer Science,Neural and Evolutionary Computing
+stat.AP,Statistics,AP
+q-bio.QM,Quantitative Biology,QM
+cs.GR,Computer Science,Graphics
+astro-ph.HE,Physics,HE
+cs.CL,Computer Science,Computation and Language
+cs.CG,Computer Science,Computational Geometry
+astro-ph.GA,Physics,Galaxy Astrophysics
+q-bio.SC,Quantitative Biology,SC
+cs.PL,Computer Science,Programming Languages
+q-fin.PR,Quantitative Finance,PR
+math.GM,Mathematics,GM
+physics.med-ph,Physics,MED-PH
+cs.CE,Computer Science,Computer Engineering
+cs.CV,Computer Science,Computer Vision
+cs.IR,Computer Science,IR
+cs.DL,Computer Science,Digital Libraries
+cs.CY,Computer Science,CY
+cs.MM,Computer Science,Multimedia
+plasm-ph,Physics,Plasma Physics
+cs.OH,Computer Science,OH
+cs.SD,Computer Science,Sound
+cs.HC,Computer Science,Human-Computer Interaction
+q-fin.RM,Quantitative Finance,RM
+econ.TH,Economics,TH
+cs.RO,Computer Science,Robotics
+cmp-lg,Computer Science,Computation and Language
+cs.SE,Computer Science,Software Engineering
+astro-ph.IM,Physics,IM
+cs.OS,Computer Science,Operating Systems
+stat.ML,Statistics,Machine Learning
+cs.AR,Computer Science,Hardware Architecture
+cs.DB,Computer Science,Databases
+q-bio.TO,Quantitative Biology,TO
+stat.CO,Statistics,CO
+stat.ME,Statistics,ME
+cs.SI,Computer Science,SI
+astro-ph.SR,Physics,SR
+cs.SY,Computer Science,SY
+ao-sci,Physics,Accelerator and Optical Science
+cs.FL,Computer Science,FL
+astro-ph.EP,Physics,EP
