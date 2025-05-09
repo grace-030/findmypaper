@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Paper Visualization Dashboard</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      background-color: #c0c0c0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding-top: 80px;
+    }
+
+    .top-left-button {
+      position: fixed;
+      top: 20px;
+      left: 20px;
+      padding: 10px 18px;
+      font-size: 14px;
+      background-color: #4caf50;
+      color: #003344;
+      font-weight: bold;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: background 0.3s ease;
+      z-index: 1000;
+    }
+
+    .top-left-button:hover {
+      background-color: #66bb6a;
+    }
+
+    .card {
+      background: white;
+      border-radius: 16px;
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+      padding: 40px;
+      max-width: 1000px;
+      width: 100%;
+      margin-bottom: 40px;
+      position: relative;
+    }
+
+    .dual-chart-container {
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
+    }
+
+    h2 {
+      text-align: center;
+      margin-bottom: 30px;
+      font-size: 26px;
+    }
+
+    svg {
+      display: block;
+      margin: 0 auto;
+    }
+
+    .tooltip {
+      position: absolute;
+      background-color: white;
+      border: 1px solid #ccc;
+      padding: 6px 8px;
+      font-size: 13px;
+      pointer-events: none;
+      box-shadow: 0 0 5px rgba(0,0,0,0.2);
+      border-radius: 6px;
+      opacity: 0;
+      transition: opacity 0.1s ease;
+      z-index: 9999;
+    }
+
+    .controls {
+      margin: 20px 0;
+      text-align: center;
+    }
+
+    .controls label {
+      margin: 0 10px;
+      cursor: pointer;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <button class="top-left-button" onclick="window.location.href='/'">← Back to Menu</button>
+  <div class="tooltip" id="tooltip"></div>
+
+  <div class="card">
+    <h2>Distribution & Count of Papers by Main Category</h2>
+    <div class="dual-chart-container">
+      <svg id="piechart" width="460" height="460"></svg>
+      <svg id="barchart" width="460" height="460"></svg>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>Number of Papers by Categories Over Years</h2>
+    <div class="controls" id="toggle-controls"></div>
+    <svg id="linechart" width="950" height="500"></svg>
+  </div>
+  
+  <div class="card">
+    <h2>Explore Category-Specific Trends as Heatmap</h2>
+    <div style="text-align: center; margin-bottom: 20px;">
+      <label for="heatmap-select" style="font-weight: bold;">Choose Category:</label>
+      <select id="heatmap-select" style="padding: 6px 12px; font-size: 14px;">
+        <option value="mathematics">Mathematics</option>
+        <option value="computer_science">Computer Science</option>
+        <option value="economics">Economics</option>
+        <option value="physics">Physics</option>
+        <option value="economics">Economics</option>
+        <option value="electrical_engineering">Electrical Engineering</option>
+        <option value="quant_biology">Quantitative Biology</option>
+        <option value="quant_finance">Quantitative Finance</option>
+      </select>
+    </div>
+    <div id="heatmap" style="display: flex; justify-content: center;"></div>
+  </div>
+
+  <script>
+    const tooltip = d3.select("#tooltip");
+    const categoryMap = {
+      physics: "Physics",
+      mathematics: "Mathematics",
+      computer_science: "Computer Science",
+      quantitative_biology: "Quantitative Biology",
+      quantitative_finance: "Quantitative Finance",
+      statistics: "Statistics",
+      electrical_engineering: "Electrical Engineering and Systems Science",
+      economics: "Economics"
+    };
+
+    const categories = Object.keys(categoryMap);
+    const color = d3.scaleOrdinal().domain(categories).range(d3.schemeCategory10);
+
+    const pieSvg = d3.select("#piechart"),
+          pieWidth = +pieSvg.attr("width"),
+          pieHeight = +pieSvg.attr("height"),
+          radius = Math.min(pieWidth, pieHeight) / 2 - 40;
+
+    const pieGroup = pieSvg.append("g")
+      .attr("transform", `translate(${pieWidth / 2}, ${pieHeight / 2})`);
+
+    const defs = pieSvg.append("defs");
+    categories.forEach((cat) => {
+      const grad = defs.append("radialGradient")
+        .attr("id", `grad-${cat}`)
+        .attr("cx", "50%")
+        .attr("cy", "50%")
+        .attr("r", "65%");
+      grad.append("stop").attr("offset", "0%").attr("stop-color", d3.color(color(cat)).brighter(1.2));
+      grad.append("stop").attr("offset", "100%").attr("stop-color", color(cat));
+    });
+
+    const pie = d3.pie().sort(null).value(d => d.count);
+    const arc = d3.arc().innerRadius(0).outerRadius(radius);
+    const arcHover = d3.arc().innerRadius(0).outerRadius(radius + 10);
+
+    const barSvg = d3.select("#barchart"),
+          barWidth = +barSvg.attr("width"),
+          barHeight = +barSvg.attr("height"),
+          barMargin = {top: 70, right: 30, bottom: 170, left: 75};
+
+    d3.json("/static/categories.json").then(data => {
+      const pieData = Object.entries(data).map(([key, value]) => ({
+        category: key,
+        count: value.count,
+        percentage: value.percentage
+      }));
+
+      pieGroup.selectAll("path")
+        .data(pie(pieData))
+        .enter().append("path")
+        .attr("d", arc)
+        .attr("fill", d => `url(#grad-${d.data.category})`)
+        .on("mouseover", function (event, d) {
+          d3.select(this).transition().duration(200).attr("d", arcHover);
+          tooltip.html(`<strong>${categoryMap[d.data.category]}</strong>`)
+            .style("opacity", 1);
+        })
+        .on("mousemove", function(event) {
+          tooltip.style("left", (event.pageX + 12) + "px")
+                .style("top", (event.pageY - 35) + "px");
+        })
+        .on("mouseout", function (event, d) {
+          d3.select(this).transition().duration(200).attr("d", arc); // Restore original size
+          tooltip.style("opacity", 0);
+        })
+        .on("click", (event, d) => {
+          window.location.href = `/${d.data.category}?page=1`;
+        });
+
+      const xBar = d3.scaleBand().domain(pieData.map(d => d.category))
+        .range([barMargin.left, barWidth - barMargin.right]).padding(0.2);
+      const yBar = d3.scaleLinear().domain([0, d3.max(pieData, d => d.count)]).nice()
+        .range([barHeight - barMargin.bottom, barMargin.top]);
+
+      barSvg.append("g")
+        .attr("transform", `translate(0,${barHeight - barMargin.bottom})`)
+        .call(d3.axisBottom(xBar).tickFormat(d => categoryMap[d]))
+        .selectAll("text")
+        .attr("transform", "rotate(-35)")
+        .attr("x", -5)
+        .attr("y", 10)
+        .style("text-anchor", "end");
+
+      barSvg.append("g")
+        .attr("transform", `translate(${barMargin.left},0)`)
+        .call(d3.axisLeft(yBar));
+
+      barSvg.selectAll(".bar")
+        .data(pieData)
+        .enter().append("rect")
+        .attr("class", "bar")
+        .attr("x", d => xBar(d.category))
+        .attr("y", d => yBar(d.count))
+        .attr("width", xBar.bandwidth())
+        .attr("height", d => yBar(0) - yBar(d.count))
+        .attr("fill", d => color(d.category))
+        .on("mouseover", (event, d) => {
+          tooltip.html(`<strong>${categoryMap[d.category]}</strong><br>Count: ${d.count}<br>Percentage: ${d.percentage}%`)
+                 .style("opacity", 1);
+        })
+        .on("mousemove", (event) => {
+          tooltip.style("left", (event.pageX + 12) + "px")
+                 .style("top", (event.pageY - 35) + "px");
+        })
+        .on("mouseout", () => tooltip.style("opacity", 0));
+
+      // --- Line Chart ---
+      const lineSvg = d3.select("#linechart"),
+            lineWidth = +lineSvg.attr("width"),
+            lineHeight = +lineSvg.attr("height"),
+            lineMargin = {top: 40, right: 100, bottom: 50, left: 60},
+            lineGroup = lineSvg.append("g"),
+            pointsGroup = lineSvg.append("g");
+
+      const allYears = new Set();
+      categories.forEach(cat => Object.keys(data[cat].years || {}).forEach(y => allYears.add(+y)));
+      const sortedYears = Array.from(allYears).sort((a, b) => a - b);
+      const xLine = d3.scaleLinear().domain(d3.extent(sortedYears)).range([lineMargin.left, lineWidth - lineMargin.right]);
+      const yLine = d3.scaleLinear().domain([
+        0,
+        d3.max(categories, cat => d3.max(Object.values(data[cat].years || {})))
+      ]).nice().range([lineHeight - lineMargin.bottom, lineMargin.top]);
+
+      const line = d3.line().x(d => xLine(d.year)).y(d => yLine(d.value));
+
+      lineSvg.append("g").attr("transform", `translate(0,${lineHeight - lineMargin.bottom})`).call(d3.axisBottom(xLine).tickFormat(d3.format("d")));
+      lineSvg.append("g").attr("transform", `translate(${lineMargin.left},0)`).call(d3.axisLeft(yLine));
+
+      categories.forEach(cat => {
+        const values = Object.entries(data[cat].years || {}).map(([year, value]) => ({
+          year: +year, value: +value
+        })).sort((a, b) => a.year - b.year);
+
+        if (values.length) {
+          lineGroup.append("path")
+            .datum(values)
+            .attr("fill", "none")
+            .attr("stroke", color(cat))
+            .attr("stroke-width", 2)
+            .attr("d", line)
+            .attr("id", `line-${cat}`);
+
+          pointsGroup.selectAll(`.dot-${cat}`)
+            .data(values)
+            .enter()
+            .append("circle")
+            .attr("class", `dot dot-${cat}`)
+            .attr("cx", d => xLine(d.year))
+            .attr("cy", d => yLine(d.value))
+            .attr("r", 3)
+            .attr("fill", color(cat))
+            .on("mouseover", (event, d) => {
+              tooltip.html(`<strong>${categoryMap[cat]}</strong><br>Year: ${d.year}<br>Papers: ${d.value}`)
+                     .style("opacity", 1);
+              d3.select(event.currentTarget).attr("r", 6);
+            })
+            .on("mousemove", (event) => {
+              tooltip.style("left", (event.pageX + 12) + "px")
+                     .style("top", (event.pageY - 35) + "px");
+            })
+            .on("mouseout", (event) => {
+              tooltip.style("opacity", 0);
+              d3.select(event.currentTarget).attr("r", 3);
+            });
+        }
+      });
+
+      const renderHeatmap = (category) => {
+        d3.select("#heatmap").html("");  
+
+        d3.json(`/api/${category}?page=1`).then(data => {
+          const raw = data.papers;
+
+          const countMap = {};
+          const allYears = new Set();
+          const allCategories = new Set();
+
+          raw.forEach(p => {
+            if (p.update_date && /^\d{4}/.test(p.update_date)) {
+              const year = +p.update_date.slice(0, 4);
+              const cats = (p.categories || "").split(/\s+/).map(c => c.trim());
+              cats.forEach(cat => {
+                const key = `${cat}__${year}`;
+                countMap[key] = (countMap[key] || 0) + 1;
+                allYears.add(year);
+                allCategories.add(cat);
+              });
+            }
+          });
+
+          const years = Array.from(allYears).sort((a, b) => a - b);
+          const categories = Array.from(allCategories).sort();
+          const matrix = [];
+
+          categories.forEach(cat => {
+            years.forEach(year => {
+              matrix.push({
+                category: cat,
+                year: year,
+                count: countMap[`${cat}__${year}`] || 0
+              });
+            });
+          });
+
+          const margin = { top: 40, right: 20, bottom: 60, left: 160 },
+                width = 900 - margin.left - margin.right,
+                height = categories.length * 22;
+
+          const svg = d3.select("#heatmap")
+            .append("svg")
+            .attr("width", width + margin.left + margin.right)
+            .attr("height", height + margin.top + margin.bottom)
+            .append("g")
+            .attr("transform", `translate(${margin.left},${margin.top})`);
+
+          const x = d3.scaleBand().domain(years).range([0, width]).padding(0.05);
+          const y = d3.scaleBand().domain(categories).range([0, height]).padding(0.05);
+          const color = d3.scaleSequential()
+            .interpolator(d3.interpolateInferno)
+            .domain([0, d3.max(matrix, d => d.count)]);
+
+          svg.selectAll()
+            .data(matrix)
+            .join("rect")
+            .attr("x", d => x(d.year))
+            .attr("y", d => y(d.category))
+            .attr("width", x.bandwidth())
+            .attr("height", y.bandwidth())
+            .style("fill", d => color(d.count))
+            .append("title")
+            .text(d => `${d.category} (${d.year}): ${d.count} papers`);
+
+          svg.append("g").call(d3.axisLeft(y));
+          svg.append("g")
+            .attr("transform", `translate(0,${height})`)
+            .call(d3.axisBottom(x));
+
+          
+          const legendHeight = 500;
+          const legendWidth = 15;
+
+          const legendMargin = 10;
+          const legendGroup = d3.select("#heatmap svg")
+            .append("g")
+            .attr("transform", `translate(${width + margin.left + legendMargin}, ${margin.top})`);
+
+          const legendScale = d3.scaleLinear()
+            .domain(color.domain())
+            .range([legendHeight, 0]);
+
+          const legendAxis = d3.axisRight(legendScale)
+            .ticks(6)
+            .tickFormat(d3.format("d"));
+
+          // Gradient definition
+          const defs = d3.select("#heatmap svg").select("defs").empty()
+            ? d3.select("#heatmap svg").append("defs")
+            : d3.select("#heatmap svg").select("defs");
+
+          const gradient = defs.append("linearGradient")
+            .attr("id", "legend-gradient")
+            .attr("x1", "0%").attr("y1", "100%")
+            .attr("x2", "0%").attr("y2", "0%");
+
+          d3.range(0, 1.01, 0.1).forEach(s => {
+            gradient.append("stop")
+              .attr("offset", `${s * 100}%`)
+              .attr("stop-color", color(color.domain()[0] + s * (color.domain()[1] - color.domain()[0])));
+          });
+
+          legendGroup.append("rect")
+            .attr("width", legendWidth)
+            .attr("height", legendHeight)
+            .style("fill", "url(#legend-gradient)");
+
+          legendGroup.append("g")
+            .attr("transform", `translate(${legendWidth}, 0)`)
+            .call(legendAxis);
+        });
+      };
+
+      renderHeatmap("mathematics");
+
+      d3.select("#heatmap-select").on("change", function() {
+        const selectedCategory = this.value;
+        renderHeatmap(selectedCategory);
+      });
+
+      const controls = d3.select("#toggle-controls");
+      categories.forEach(cat => {
+        const label = controls.append("label");
+        label.append("input")
+          .attr("type", "checkbox")
+          .attr("checked", true)
+          .on("change", function () {
+            const visible = this.checked;
+            d3.select(`#line-${cat}`).style("display", visible ? "inline" : "none");
+            pointsGroup.selectAll(`.dot-${cat}`).style("display", visible ? "inline" : "none");
+          });
+        label.append("span").text(" " + categoryMap[cat]).style("color", color(cat));
+      });
+    });
+  </script>
+</body>
+
+<div class="card" id="favorites-card">
+  <h2> All Favorited Papers </h2>
+  <div id="favorites-container">
+    <p style="text-align:center; font-style:italic;">No favorites saved yet.</p>
+  </div>
+</div>
+
+<script>
+  function getAllFavorites() {
+    const keys = [
+      "statisticsFavorites",
+      "computerScienceFavorites",
+      "mathematicsFavorites",
+      "economicsFavorites",
+      "physicsFavorites",
+      "electricalEngineeringFavorites",
+      "quantBiologyFavorites",
+      "quantFinanceFavorites"
+    ];
+
+    const merged = [];
+    keys.forEach(key => {
+      const set = JSON.parse(localStorage.getItem(key) || "[]");
+      merged.push(...set);
+    });
+
+    // Remove duplicates (by title + authors)
+    const seen = new Set();
+    const unique = merged.filter(paper => {
+      const id = paper.title + paper.authors;
+      if (seen.has(id)) return false;
+      seen.add(id);
+      return true;
+    });
+
+    return unique;
+  }
+
+  function renderFavoritesBox() {
+    const favorites = getAllFavorites();
+    const container = d3.select("#favorites-container").html("");
+
+    if (favorites.length === 0) {
+      container.append("p")
+        .style("text-align", "center")
+        .style("font-style", "italic")
+        .text("No favorites saved yet.");
+      return;
+    }
+
+    favorites.forEach(paper => {
+      const card = container.append("div")
+        .style("margin-bottom", "18px")
+        .style("padding", "12px")
+        .style("border", "1px solid #ddd")
+        .style("border-radius", "10px")
+        .style("background", "#fcfcfc");
+
+      const header = card.append("div")
+        .style("display", "flex")
+        .style("justify-content", "space-between")
+        .style("align-items", "center");
+
+      header.append("div")
+        .style("font-weight", "bold")
+        .style("color", "#2a5db0")
+        .style("cursor", "pointer")
+        .text(paper.title)
+        .on("click", () => {
+          const isVisible = abstract.style("display") === "block";
+          abstract.style("display", isVisible ? "none" : "block");
+          authors.style("display", isVisible ? "none" : "block");
+        });
+
+      header.append("button")
+        .text("Remove")
+        .style("padding", "6px 12px")
+        .style("background", "#e57373")
+        .style("color", "white")
+        .style("border", "none")
+        .style("border-radius", "6px")
+        .style("cursor", "pointer")
+        .on("click", () => {
+          removeFromAllFavorites(paper);
+          renderFavoritesBox();
+        });
+
+      const authors = card.append("div")
+        .style("margin-top", "5px")
+        .style("font-style", "italic")
+        .style("display", "none")
+        .text(`Authors: ${paper.authors}`);
+
+      const abstract = card.append("div")
+        .style("margin-top", "5px")
+        .style("font-size", "14px")
+        .style("display", "none")
+        .text(`Abstract: ${paper.abstract}`);
+    });
+  }
+
+  function removeFromAllFavorites(paper) {
+    const keys = [
+      "statisticsFavorites",
+      "computerScienceFavorites",
+      "mathematicsFavorites",
+      "economicsFavorites",
+      "physicsFavorites",
+      "electricalEngineeringFavorites",
+      "quantBiologyFavorites",
+      "quantFinanceFavorites"
+    ];
+
+    keys.forEach(key => {
+      let favorites = JSON.parse(localStorage.getItem(key) || "[]");
+      favorites = favorites.filter(p => !(p.title === paper.title && p.authors === paper.authors));
+      localStorage.setItem(key, JSON.stringify(favorites));
+    });
+  }
+
+  renderFavoritesBox();
+</script>
+
+</html>

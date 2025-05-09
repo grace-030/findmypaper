@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Co-author Network Graph</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: #f9f9f9;
+    }
+    svg {
+      width: 100vw;
+      height: 100vh;
+    }
+    .tooltip {
+      position: absolute;
+      padding: 8px;
+      background: white;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      font-size: 13px;
+      pointer-events: none;
+      box-shadow: 0 0 6px rgba(0, 0, 0, 0.1);
+    }
+    #legendBox {
+      position: absolute;
+      top: 15px;
+      left: 15px;
+      background: white;
+      padding: 10px;
+      border-radius: 6px;
+      box-shadow: 0 0 8px rgba(0, 0, 0, 0.15);
+      font-size: 13px;
+      max-width: 240px;
+      line-height: 1.5em;
+    }
+    #legendBox .colorDot {
+      display: inline-block;
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      margin-right: 5px;
+    }
+  </style>
+</head>
+<body>
+    <h1 style="text-align:center; font-size:22px; margin:10px 0 5px; color:#333;">
+        Rutgers CS 526 Visualization: Co-author Network
+      </h1> 
+  <div id="legendBox">
+    <strong>📘 Co-author Network Explanation</strong>
+    <ul style="margin:5px 0 10px; padding-left:18px; line-height:1.6em;">
+      <li>Each <b>node</b> is a unique <b>author</b></li>
+      <li>Each <b>line</b> connects two authors who have written at least one paper together</li>
+      <li><b>Color</b>: indicates author’s primary research field (e.g., CS, Physics)</li>
+      <li><b>Size</b>: proportional to <b>PageRank</b> score (author’s influence)</li>
+      <li><b>Fill color depth</b>: darker color = higher PageRank</li>
+    </ul>
+    <strong>🧮 Hover a node to see:</strong>
+    <ul style="margin-top: 5px; padding-left: 18px; line-height: 1.5em;">
+      <li>📄 <b>Papers</b>: Number of papers this author contributed to</li>
+      <li>🤝 <b>Degree(Co-authors)</b>: Number of distinct collaborators</li>
+      <li>🔗 <b>Betweenness</b>: How often this author bridges others</li>
+      <li>📍 <b>Closeness</b>: How close this author is to others</li>
+      <li>📈 <b>PageRank</b>: Influence score in the network</li>
+    </ul>
+    
+    <strong>📚 Hover a link to see:</strong>
+    <ul style="margin-top: 5px; padding-left: 18px; line-height: 1.5em;">
+      <li>🧾 Co-authored papers between two authors</li>
+      <li>🏷️ Field (category)</li>
+      <li>📆 Year(s)</li>
+    </ul>
+    
+    <strong>🔵 Legend by Category:</strong>
+    <div id="legend" style="margin-top: 6px;"></div>
+    
+      
+   
+    <div id="legend"></div>
+  </div>
+  <div class="tooltip" id="tooltip" style="display:none;"></div>
+  <svg></svg>
+
+  <script>
+    const colorMap = {
+      "Computer Science": "#f39c12",
+      "Mathematics": "#c0392b",
+      "Physics": "#2980b9",
+      "Quantitative Biology": "#27ae60",
+      "Quantitative Finance": "#8e44ad",
+      "Statistics": "#2c3e50",
+      "Electrical Engineering": "#e67e22",
+      "Economics": "#16a085",
+      "Other": "#bdc3c7"
+    };
+
+    const width = window.innerWidth;
+    const height = window.innerHeight;
+    const svg = d3.select("svg");
+    const tooltip = d3.select("#tooltip");
+    const container = svg.append("g");
+
+    svg.call(d3.zoom().scaleExtent([0.1, 10]).on("zoom", (e) => container.attr("transform", e.transform)));
+
+    const legendDiv = d3.select("#legend");
+    for (const [key, color] of Object.entries(colorMap)) {
+      legendDiv.append("div").html(`<span class='colorDot' style='background:${color}'></span>${key}`);
+    }
+
+    d3.json("/static/coauthor_graph.json").then(data => {
+      const nodeById = new Map(data.nodes.map(d => [d.id, d]));
+
+      const link = container.append("g")
+        .attr("stroke", "#aaa")
+        .attr("stroke-opacity", 0.4)
+        .selectAll("line")
+        .data(data.links)
+        .join("line")
+        .attr("stroke-width", d => Math.sqrt(d.weight));
+
+      const node = container.append("g")
+        .attr("stroke", "#333")
+        .attr("stroke-width", 1.0)
+        .selectAll("circle")
+        .data(data.nodes)
+        .join("circle")
+        .attr("r", d => 5 + (d.pagerank || 0) * 2000)
+        .attr("fill", d => colorMap[d.category] || "#ccc")
+        .on("mouseover", (e, d) => {
+          tooltip.style("display", "block")
+            .style("left", (e.pageX + 10) + "px")
+            .style("top", (e.pageY + 10) + "px")
+            .html(`
+              👤 <strong>${d.label || d.id}</strong><br>
+              📄 Papers: ${d.paper_count}<br>
+            
+              📊 Degree(Co-author): ${d.degree || 0}<br>
+              🔀 Betweenness: ${(d.betweenness || 0).toFixed(6)}<br>
+              📍 Closeness: ${(d.closeness || 0).toFixed(6)}<br>
+              📈 PageRank: ${(d.pagerank || 0).toFixed(6)}
+            `);})
+        .on("mouseout", () => tooltip.style("display", "none"));
+
+      const edgeOverlay = container.append("g")
+        .selectAll("line")
+        .data(data.links)
+        .join("line")
+        .attr("stroke", "transparent")
+        .attr("stroke-width", d => Math.sqrt(d.weight) + 3)
+        .on("mouseover", (e, d) => {
+          const source = nodeById.get(d.source.id || d.source);
+          const target = nodeById.get(d.target.id || d.target);
+          tooltip.style("display", "block")
+            .style("left", (e.pageX + 10) + "px")
+            .style("top", (e.pageY + 10) + "px")
+            .html(`<strong>${source.label} ⇄ ${target.label}</strong><br><b>Co-authored Papers:</b><br>${d.titles.map(t => `• ${t}`).join("<br>")}<br><b>Count:</b> ${d.weight}<br><b>Category:</b> ${d.category}`);
+        })
+        .on("mouseout", () => tooltip.style("display", "none"));
+
+      const simulation = d3.forceSimulation(data.nodes)
+        .force("link", d3.forceLink(data.links).id(d => d.id).distance(50))
+        .force("charge", d3.forceManyBody().strength(-45))
+        .force("center", d3.forceCenter(width / 2, height / 2))
+        .on("tick", () => {
+          link
+            .attr("x1", d => d.source.x)
+            .attr("y1", d => d.source.y)
+            .attr("x2", d => d.target.x)
+            .attr("y2", d => d.target.y);
+
+          edgeOverlay
+            .attr("x1", d => d.source.x)
+            .attr("y1", d => d.source.y)
+            .attr("x2", d => d.target.x)
+            .attr("y2", d => d.target.y);
+
+          node
+            .attr("cx", d => d.x)
+            .attr("cy", d => d.y);
+        });
+    });
+  </script>
+</body>
+</html>

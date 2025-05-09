@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>3D Co-author Network Graph</title>
+  <style>
+    body { margin: 0; overflow: hidden; font-family: sans-serif; }
+    #tooltip {
+      position: absolute;
+      background: rgba(255, 255, 255, 0.95);
+      border: 1px solid #ccc;
+      padding: 8px;
+      font-size: 13px;
+      border-radius: 4px;
+      display: none;
+      pointer-events: none;
+      box-shadow: 0 0 6px rgba(0,0,0,0.2);
+      max-width: 260px;
+    }
+  </style>
+
+  <script src="https://unpkg.com/three@0.150.1/build/three.min.js"></script>
+  <script src="https://unpkg.com/3d-force-graph"></script>
+  <script src="https://unpkg.com/three-spritetext"></script>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+  <h1 style="text-align:center; font-size:22px; margin:10px 0 5px; color:#333;">
+    3D Co-author Network Graph
+  </h1> 
+  
+  <div id="3d-graph"></div>
+  <div id="tooltip"></div>
+  <div id="legendBox" style="
+  position: absolute; 
+  top: 10px; 
+  left: 10px; 
+  background: rgba(255,255,255,0.95); 
+  border-radius: 8px; 
+  padding: 16px 18px; 
+  font-size: 13px; 
+  max-width: 300px; 
+  box-shadow: 0 0 8px rgba(0,0,0,0.15); 
+  line-height: 1.6em;
+  color: #222;
+  font-family: Arial, sans-serif;
+">
+  <div style="font-size: 15px; font-weight: bold; margin-bottom: 6px;">📘 What does this graph show?</div>
+  <div style="margin-bottom: 12px;">
+    This 3D co-author graph visualizes the collaboration network among academic authors. Each <b>sphere</b> represents an author and each <b>line</b> represents a co-authorship. Sphere <b>size</b> and <b>color</b> reflect the author’s influence (PageRank) and main research field.
+  </div>
+
+  <div style="font-size: 14px; font-weight: bold; margin-bottom: 6px;">📊 Tooltip Meaning</div>
+  <ul style="list-style-type: none; padding-left: 0; margin-top: 0; margin-bottom: 12px;">
+    <li><b>Papers</b>: total papers published</li>
+    <li><b>Co-authors</b>: number of collaborators</li>
+    <li><b>Degree</b>: number of direct links (same as co-authors)</li>
+    <li><b>Betweenness</b>: how often this author bridges others</li>
+    <li><b>Closeness</b>: how central this author is in the graph</li>
+    <li><b>PageRank</b>: importance based on overall network flow</li>
+  </ul>
+
+  <div style="font-size: 14px; font-weight: bold; margin-bottom: 6px;">🧠 Tips</div>
+  <div>
+    • Dense clusters = tightly connected research communities<br>
+    • Isolated balls = authors with few or no collaborations<br>
+    • <b>Bigger</b> and <b>darker</b> nodes often signal high-impact researchers
+  </div>
+</div>
+
+
+  <script>
+    const tooltip = document.getElementById('tooltip');
+
+    // PageRank color
+    function getColorGradient(value) {
+      const colorScale = d3.scaleLinear()
+        .domain([0, 0.0005])
+        .range(["#ffe5b4", "#d35400"]);
+      return colorScale(value);
+    }
+
+    const Graph = ForceGraph3D()(document.getElementById('3d-graph'))
+      .jsonUrl('/static/coauthor_graph.json')
+      .nodeThreeObject(node => {
+        const group = new THREE.Group();
+
+        // sphere
+        const sphere = new THREE.Mesh(
+          new THREE.SphereGeometry(5 + (node.pagerank || 0) * 2000, 16, 16),
+          new THREE.MeshBasicMaterial({ color: getColorGradient(node.pagerank || 0) })
+        );
+        group.add(sphere);
+
+        // name label
+        const label = new SpriteText(node.label);
+        label.color = '#111';
+        label.textHeight = 4;
+        label.position.set(0, 8 + (node.pagerank || 0) * 2000, 0);
+        group.add(label);
+
+        return group;
+      })
+      .linkColor(() => '#999')
+      .linkOpacity(0.2)
+      .backgroundColor('#ffffff')
+      .onNodeClick(node => {
+        alert(`Author: ${node.label}\nPapers: ${node.paper_count}`);
+      });
+
+    // Hover show tooltip
+    Graph.onNodeHover(node => {
+      if (node) {
+        const html = `
+          <strong>${node.label}</strong><br>
+          Category: ${node.category}<br>
+          Papers: ${node.paper_count}<br>
+          Co-authors: ${node.coauthor_count}<br>
+          Degree: ${node.degree}<br>
+          Betweenness: ${node.betweenness}<br>
+          Closeness: ${node.closeness}<br>
+          PageRank: ${node.pagerank}
+        `;
+        tooltip.innerHTML = html;
+        tooltip.style.display = 'block';
+
+        
+        const coords = new THREE.Vector3(node.x, node.y, node.z);
+        coords.project(Graph.camera());
+        const x = (coords.x * 0.5 + 0.5) * window.innerWidth;
+        const y = (-coords.y * 0.5 + 0.5) * window.innerHeight;
+        tooltip.style.left = `${x + 10}px`;
+        tooltip.style.top = `${y + 10}px`;
+      } else {
+        tooltip.style.display = 'none';
+      }
+    });
+  </script>
+</body>
+</html>

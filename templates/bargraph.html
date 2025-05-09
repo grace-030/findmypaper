@@ -1,0 +1,63 @@
+<script>
+  const svg = d3.select("svg"),
+        width = +svg.attr("width"),
+        height = +svg.attr("height"),
+        margin = {top: 20, right: 30, bottom: 50, left: 60};
+
+  const tooltip = d3.select(".tooltip");
+
+  // ✅ Correct path for Flask static file
+  d3.json("/static/categories.json").then(data => {
+    const entries = Object.entries(data).map(([key, val]) => ({
+      category: key,
+      count: val.count,
+      percentage: val.percentage
+    }));
+
+    const x = d3.scaleBand()
+      .domain(entries.map(d => d.category))
+      .range([margin.left, width - margin.right])
+      .padding(0.2);
+
+    const y = d3.scaleLinear()
+      .domain([0, d3.max(entries, d => d.count)]).nice()
+      .range([height - margin.bottom, margin.top]);
+
+    const color = d3.scaleOrdinal()
+      .domain(entries.map(d => d.category))
+      .range(d3.schemeCategory10);
+
+    svg.append("g")
+      .attr("transform", `translate(0,${height - margin.bottom})`)
+      .call(d3.axisBottom(x))
+      .selectAll("text")
+      .attr("transform", "rotate(-35)")
+      .style("text-anchor", "end");
+
+    svg.append("g")
+      .attr("transform", `translate(${margin.left},0)`)
+      .call(d3.axisLeft(y).ticks(10));
+
+    svg.selectAll(".bar")
+      .data(entries)
+      .enter().append("rect")
+      .attr("class", "bar")
+      .attr("x", d => x(d.category))
+      .attr("y", d => y(d.count))
+      .attr("width", x.bandwidth())
+      .attr("height", d => y(0) - y(d.count))
+      .attr("fill", d => color(d.category))
+      .on("mouseover", (event, d) => {
+        tooltip
+          .html(`<strong>${d.category}</strong><br>Count: ${d.count}<br>Percentage: ${d.percentage}%`)
+          .style("left", `${event.pageX + 10}px`)
+          .style("top", `${event.pageY - 28}px`)
+          .transition()
+          .duration(200)
+          .style("opacity", 0.9);
+      })
+      .on("mouseout", () => {
+        tooltip.transition().duration(300).style("opacity", 0);
+      });
+  });
+</script>

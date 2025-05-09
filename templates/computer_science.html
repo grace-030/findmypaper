@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Computer Science Papers</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 40px auto;
+      max-width: 800px;
+      position: relative;
+      background-color: #c0c0c0;
+    }
+    h1 {
+      text-align: center;
+    }
+    .paper {
+      margin-bottom: 15px;
+    }
+    .title {
+      font-weight: bold;
+      color: #2a5db0;
+      cursor: pointer;
+    }
+    .title-container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      background-color: white;
+      padding: 10px 16px;
+      border-radius: 8px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+      margin-bottom: 5px;
+    }
+    .details {
+      display: none;
+      margin-top: 5px;
+    }
+    .authors {
+      font-style: italic;
+      margin-bottom: 5px;
+    }
+    .abstract {
+      font-size: 14px;
+    }
+    .pagination {
+      text-align: center;
+      margin-top: 30px;
+    }
+    .pagination button, .pagination input {
+      margin: 0 5px;
+      padding: 6px 12px;
+      font-size: 14px;
+    }
+    .pagination input {
+      width: 60px;
+      text-align: center;
+    }
+    .back-button {
+      position: fixed;
+      top: 20px;
+      left: 20px;
+      z-index: 1000;
+    }
+    .back-button button {
+      padding: 10px 20px;
+      font-size: 14px;
+      border: none;
+      background-color: #4caf50;
+      color: #003344;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+    #search-container {
+      margin: 30px auto 20px;
+      max-width: 650px;
+    }
+    .search-row {
+      display: flex;
+      align-items: center;
+      margin-bottom: 12px;
+    }
+    .search-row label {
+      width: 160px;
+      text-align: right;
+      margin-right: 12px;
+      font-weight: bold;
+    }
+    .search-row input {
+      flex: 1;
+      padding: 8px;
+      font-size: 15px;
+    }
+    #search-button {
+      margin-top: 10px;
+      padding: 8px 20px;
+      font-size: 15px;
+      background-color: #f0f0f0;
+      border: none;
+      border-radius: 6px;
+      color: #003344;
+      cursor: pointer;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  </style>
+</head>
+<body>
+  <div class="back-button">
+    <button onclick="window.location.href='/'">← Back to Menu</button>
+  </div>
+
+  <h1>Computer Science Papers</h1>
+
+  <div style="text-align: center; margin-bottom: 20px;">
+    <button onclick="viewFavorites()" style="padding: 10px 20px; font-size: 14px; background: #ffc107; color: #000; border: none; border-radius: 6px; cursor: pointer;">
+      View Saved Favorites
+    </button>
+  </div>
+
+  <div id="search-container">
+    <div class="search-row">
+      <label for="title-search">Search by Title:</label>
+      <input type="text" id="title-search">
+    </div>
+    <div class="search-row">
+      <label for="author-search">Search by Author:</label>
+      <input type="text" id="author-search">
+    </div>
+    <div class="search-row">
+      <label for="abstract-search">Search by Keyword:</label>
+      <input type="text" id="abstract-search">
+    </div>
+    <button id="search-button">Search</button>
+  </div>
+
+  <div id="paper-list">Loading...</div>
+
+  <div class="pagination">
+    <button id="prev" disabled>Previous</button>
+    <input type="number" id="page-input" min="1">
+    <span id="total-pages-display"></span>
+    <button id="go-btn">Go</button>
+    <button id="next" disabled>Next</button>
+  </div>
+
+  <script>
+    const PAGE_SIZE = 50;
+    let currentPage = parseInt(new URLSearchParams(window.location.search).get("page")) || 1;
+    let totalPages = 1;
+    let filters = { title: "", author: "", abstract: "" };
+
+    function getcomputerScienceFavorites() {
+      return JSON.parse(localStorage.getItem("computerScienceFavorites") || "[]");
+    }
+
+    function isFavorited(paper) {
+      const favorites = getcomputerScienceFavorites();
+      return favorites.some(p => p.title === paper.title && p.authors === paper.authors);
+    }
+
+    function toggleFavorite(paper, button) {
+      let favorites = getcomputerScienceFavorites();
+      const index = favorites.findIndex(p => p.title === paper.title && p.authors === paper.authors);
+
+      if (index === -1) {
+        favorites.push(paper);
+        localStorage.setItem("computerScienceFavorites", JSON.stringify(favorites));
+        button.textContent = "Remove";
+        button.style.background = "#e57373";
+      } else {
+        favorites.splice(index, 1);
+        localStorage.setItem("computerScienceFavorites", JSON.stringify(favorites));
+        button.textContent = "Save";
+        button.style.background = "#ffc107";
+      }
+    }
+
+    function renderPaper(paper, container) {
+      const wrapper = container.append("div")
+        .style("background", "white")
+        .style("padding", "12px 16px")
+        .style("border-radius", "8px")
+        .style("box-shadow", "0 1px 4px rgba(0,0,0,0.1)")
+        .style("margin-bottom", "15px");
+
+      const titleRow = wrapper.append("div")
+        .style("display", "flex")
+        .style("justify-content", "space-between")
+        .style("align-items", "center");
+
+      titleRow.append("div")
+        .attr("class", "title")
+        .text(paper.title)
+        .style("cursor", "pointer")
+        .on("click", () => {
+          const isVisible = authors.style("display") === "block";
+          authors.style("display", isVisible ? "none" : "block");
+          abstract.style("display", isVisible ? "none" : "block");
+        });
+
+      const favButton = titleRow.append("button")
+        .text(isFavorited(paper) ? "Remove" : "Save")
+        .style("padding", "4px 10px")
+        .style("border", "none")
+        .style("border-radius", "6px")
+        .style("cursor", "pointer")
+        .style("background", isFavorited(paper) ? "#e57373" : "#ffc107")
+        .on("click", function () {
+          toggleFavorite(paper, this);
+        });
+
+      const authors = wrapper.append("div")
+        .attr("class", "authors")
+        .style("margin-top", "8px")
+        .style("font-style", "italic")
+        .style("display", "none")
+        .text(`Authors: ${paper.authors}`);
+
+      const abstract = wrapper.append("div")
+        .attr("class", "abstract")
+        .style("margin-top", "4px")
+        .style("font-size", "14px")
+        .style("display", "none")
+        .text(`Abstract: ${paper.abstract}`);
+    }
+
+    function loadPage(page) {
+      d3.json(`/api/computer_science?page=${page}`).then(data => {
+        const allPapers = data.papers;
+        currentPage = data.page;
+        totalPages = data.total_pages;
+
+        const filtered = allPapers.filter(p => {
+          const matchTitle = p.title.toLowerCase().includes(filters.title.toLowerCase());
+          const matchAuthor = p.authors.toLowerCase().includes(filters.author.toLowerCase());
+          const matchAbstract = p.abstract.toLowerCase().includes(filters.abstract.toLowerCase());
+          return matchTitle && matchAuthor && matchAbstract;
+        });
+
+        const container = d3.select("#paper-list").html("");
+
+        if (filtered.length === 0) {
+          container.append("p").text("No matching results.");
+          return;
+        }
+
+        filtered.forEach(paper => renderPaper(paper, container));
+
+        window.history.pushState({}, '', `?page=${currentPage}`);
+        d3.select("#page-input").property("value", currentPage);
+        d3.select("#total-pages-display").text(`/ ${totalPages}`);
+        d3.select("#prev").attr("disabled", currentPage === 1 ? true : null);
+        d3.select("#next").attr("disabled", currentPage === totalPages ? true : null);
+        d3.select(".pagination").style("display", "block");
+      });
+    }
+
+    function viewFavorites() {
+      const favorites = getcomputerScienceFavorites();
+      const container = d3.select("#paper-list").html("");
+
+      if (favorites.length === 0) {
+        container.append("p").text("You have no saved favorites.");
+        return;
+      }
+
+      favorites.forEach(paper => renderPaper(paper, container));
+
+      d3.select(".pagination").style("display", "none");
+    }
+
+    function goToPage(page) {
+      const pageNum = parseInt(page);
+      if (!isNaN(pageNum) && pageNum >= 1 && pageNum <= totalPages) {
+        loadPage(pageNum);
+        window.scrollTo(0, 0);
+      }
+    }
+
+    function applyFilters() {
+      filters.title = document.getElementById("title-search").value.trim();
+      filters.author = document.getElementById("author-search").value.trim();
+      filters.abstract = document.getElementById("abstract-search").value.trim();
+      loadPage(1);
+    }
+
+    function debounce(func, delay) {
+      let timeout;
+      return function () {
+        clearTimeout(timeout);
+        timeout = setTimeout(func, delay);
+      };
+    }
+
+    const debouncedSearch = debounce(applyFilters, 300);
+
+    d3.selectAll("#title-search, #author-search, #abstract-search").on("input", debouncedSearch);
+    d3.select("#search-button").on("click", applyFilters);
+    d3.select("#prev").on("click", () => { if (currentPage > 1) goToPage(currentPage - 1); });
+    d3.select("#next").on("click", () => { if (currentPage < totalPages) goToPage(currentPage + 1); });
+    d3.select("#go-btn").on("click", () => {
+      const inputVal = document.getElementById("page-input").value;
+      goToPage(inputVal);
+    });
+    d3.select("#page-input").on("keydown", function(event) {
+      if (event.key === "Enter") goToPage(this.value);
+    });
+
+    loadPage(currentPage);
+  </script>
+</body>
+</html>
