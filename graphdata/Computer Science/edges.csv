@@ -1,0 +1,428 @@
+source,target,weight,raw_count
+PF,NI,7.897958377759349e-05,2
+NI,NI,0.0004974422558635077,67
+CC,CC,0.0005859022895258699,351
+Cryptography and Security,Cryptography and Security,0.0005032426684848338,62
+DM,DM,0.0006781361474435196,146
+ET,ET,0.004437869822485207,3
+LO,LO,1.8384852152877537e-05,81
+Machine Learning,Machine Learning,0.0008736269496441426,75
+CC,Machine Learning,5.732377349172333e-05,13
+Information Theory,Machine Learning,3.753953382155583e-05,12
+LO,Machine Learning,4.877993258613317e-06,3
+Artificial Intelligence,Machine Learning,0.0001634955345282132,40
+CC,Data Structures and Algorithms,7.587187624646653e-05,35
+Data Structures and Algorithms,CC,7.803964413922273e-05,36
+Artificial Intelligence,Information Theory,1.2074842066554335e-05,11
+Artificial Intelligence,Artificial Intelligence,0.0001592025529778766,111
+Machine Learning,Information Theory,3.441123933642617e-05,11
+Machine Learning,Artificial Intelligence,0.00013897120434898123,34
+Data Structures and Algorithms,Graphics,6.711409395973154e-05,2
+Data Structures and Algorithms,NI,2.7430828593895726e-05,6
+DM,Graphics,8.620689655172413e-05,2
+DM,NI,2.9362021986282062e-05,5
+Information Theory,CC,2.2500278292915728e-05,19
+Information Theory,Artificial Intelligence,1.427026789683694e-05,13
+Artificial Intelligence,CC,3.249315322842687e-05,21
+Machine Learning,CC,6.614281556737307e-05,15
+DM,Computational Geometry,0.0002969725767037741,35
+Computational Geometry,LO,7.502635300649353e-06,4
+Programming Languages,LO,1.3650926693158565e-05,10
+Computational Geometry,Computational Geometry,0.001054002108004216,68
+Computational Geometry,DM,0.00024606299212598425,29
+Graphics,NI,0.00032697547683923706,6
+LO,Artificial Intelligence,2.681630545483592e-05,47
+Artificial Intelligence,LO,2.1681268240080106e-05,38
+Game Theory,Multiagent Systems,0.0004576659038901602,7
+Data Structures and Algorithms,Data Structures and Algorithms,0.00017454168731138238,62
+Information Theory,Information Theory,0.00024363994720574386,290
+DM,Information Theory,6.518853313947976e-05,33
+Computational Gas Physics,Computational Gas Physics,0.0011124955500178,50
+Computer Vision,CC,2.266648533478399e-05,2
+Computer Engineering,CC,1.819703752229137e-05,2
+DM,CC,5.012028869286287e-05,18
+IR,IR,0.000509047156277477,11
+Computational Gas Physics,Data Structures and Algorithms,7.914397872609853e-06,1
+CC,Artificial Intelligence,2.4756688174039518e-05,16
+CC,Computer Vision,3.399972800217598e-05,3
+Machine Learning,Computer Vision,0.00014969163523142326,5
+Sound,Artificial Intelligence,6.65335994677312e-05,1
+Sound,Computer Vision,0.001949317738791423,4
+CC,Computational Gas Physics,1.8282872604943688e-05,3
+Data Structures and Algorithms,Information Theory,1.5379031613137384e-05,10
+CC,Information Theory,2.013182794629302e-05,17
+Machine Learning,Computation and Language,1.3311112649284129e-05,5
+ET,CC,0.00019876764062810574,4
+Machine Learning,Computer Engineering,2.403499495265106e-05,1
+Sound,CC,7.17772035601493e-05,1
+Sound,Computer Engineering,0.0003912363067292645,1
+Artificial Intelligence,Computer Vision,0.00010505305179115453,10
+Artificial Intelligence,Computer Engineering,5.903685586573332e-05,7
+Computer Vision,Computer Vision,0.0013080947983995076,17
+Computer Vision,Computer Engineering,0.00043241907585866074,7
+DC,DC,0.00013729910972366748,19
+DC,DM,1.7380422691879866e-05,3
+Cryptography and Security,DC,3.829304904573722e-05,5
+Artificial Intelligence,Programming Languages,1.3726129403084948e-05,4
+DM,Data Structures and Algorithms,2.8928488775746356e-05,8
+Programming Languages,Programming Languages,0.00020525283043653172,25
+CC,Cryptography and Security,5.889411574166096e-05,16
+CC,DM,1.6706762897620957e-05,6
+Machine Learning,Data Structures and Algorithms,5.726458528987333e-06,1
+Machine Learning,DM,7.355537248440626e-06,1
+Sound,Data Structures and Algorithms,9.321401938851603e-05,1
+Sound,DM,0.00011973180076628352,1
+Cryptography and Security,Data Structures and Algorithms,9.560412244976003e-06,2
+Cryptography and Security,Computer Vision,4.9982506122857e-05,2
+Cryptography and Security,DM,1.2280184693977798e-05,2
+Information Theory,DM,3.753279180757925e-05,19
+Data Structures and Algorithms,Computational Geometry,0.00012550864027902552,19
+Data Structures and Algorithms,DM,3.616061096968295e-05,10
+PF,Multiagent Systems,0.0001260239445494644,1
+Computational Geometry,,8.412409987213136e-06,2
+,,1.4838556505223173e-05,13
+Computation and Language,Computation and Language,8.214057111426422e-05,135
+,Data Structures and Algorithms,1.0755463775598005e-05,6
+Artificial Intelligence,Multiagent Systems,1.0413954699297059e-05,1
+Game Theory,Game Theory,0.00028266154107072194,5
+Multiagent Systems,Game Theory,0.0005884275907159203,9
+Multiagent Systems,Multiagent Systems,0.001285444234404537,17
+Information Theory,Cryptography and Security,2.8725051639808742e-05,11
+Computational Geometry,Data Structures and Algorithms,9.908576864133594e-05,15
+Computational Geometry,CC,1.5259720441921504e-05,3
+Game Theory,Data Structures and Algorithms,1.2615431195438261e-05,1
+Game Theory,CC,3.885683200248684e-05,4
+Game Theory,DM,1.620430386310604e-05,1
+IR,Computation and Language,1.0612669404735372e-05,2
+Game Theory,LO,2.149251165073236e-05,6
+Game Theory,Artificial Intelligence,6.303183107469272e-05,7
+OH,OH,0.0008329862557267805,2
+Computation and Language,Programming Languages,4.470092843828366e-06,2
+Programming Languages,Computation and Language,6.70513926574255e-06,3
+General Literature,Information Theory,3.666361136571952e-05,1
+DC,Artificial Intelligence,3.219367716180542e-06,1
+DC,Machine Learning,9.1746486109582e-06,1
+Data Structures and Algorithms,,3.585154591866001e-06,2
+Computational Geometry,Robotics,0.0001543924656476764,2
+Robotics,Robotics,0.0038446751249519417,10
+Artificial Intelligence,Cryptography and Security,3.4119794598836517e-06,1
+Computer Vision,Cryptography and Security,2.49912530614285e-05,1
+Computer Engineering,Data Structures and Algorithms,2.3631723225257586e-05,2
+Computer Engineering,Information Theory,1.2909722311873072e-05,2
+Computer Engineering,,3.0095100517635728e-05,4
+Computer Engineering,Computer Engineering,0.0005951200158698671,12
+,Information Theory,2.9377893722531668e-06,3
+,Computer Engineering,3.761887564704466e-05,5
+Computation and Language,Data Structures and Algorithms,3.926331549906291e-06,3
+Computation and Language,Information Theory,7.149690203923464e-07,1
+Computation and Language,,8.333666680000533e-07,1
+Computation and Language,Computer Engineering,5.493177473577816e-06,1
+SC,SC,0.0004464285714285714,35
+ET,Data Structures and Algorithms,6.453278265358803e-05,1
+Cryptography and Security,Operating Systems,0.00010175010175010175,1
+Graphics,Computational Geometry,0.00023622047244094488,3
+DC,CC,3.4730904948459338e-06,1
+Cryptography and Security,CC,2.576617563697667e-05,7
+Artificial Intelligence,Computation and Language,7.473352826328622e-06,8
+Artificial Intelligence,Human-Computer Interaction,0.0001437125748502994,6
+Artificial Intelligence,Robotics,0.00018785957496771164,8
+Artificial Intelligence,Software Engineering,4.99001996007984e-05,7
+Computer Vision,Human-Computer Interaction,0.0010526315789473684,6
+Computer Vision,Robotics,0.0012039903680770554,7
+Computer Vision,Software Engineering,0.00015664160401002505,3
+Computer Vision,Artificial Intelligence,8.404244143292363e-05,8
+MS,MS,0.0020408163265306124,10
+Programming Languages,MS,0.0001637331150225133,4
+OH,CC,7.910140800506249e-05,3
+Software Engineering,Data Structures and Algorithms,1.997443272611058e-05,2
+Software Engineering,Computational Geometry,2.3434570678665168e-05,1
+Graphics,Data Structures and Algorithms,6.711409395973154e-05,2
+CC,LO,9.232894216884378e-06,15
+,LO,5.089928863154208e-07,1
+,CC,2.7606616753903578e-06,2
+Programming Languages,Human-Computer Interaction,0.00017191977077363896,3
+IR,Human-Computer Interaction,0.00040816326530612246,3
+IR,Programming Languages,1.9492037502680156e-05,1
+Machine Learning,LO,8.129988764355527e-06,5
+Computation and Language,Machine Learning,5.324445059713651e-06,2
+LO,Programming Languages,1.7746204701106135e-05,13
+LO,Multiagent Systems,4.142759492097686e-06,1
+CC,Multiagent Systems,3.370407819346141e-05,3
+LO,SC,3.4029810113659565e-06,2
+Programming Languages,SC,1.0233319688907081e-05,1
+NI,Hardware Architecture,0.00012385434728758978,2
+NI,Multiagent Systems,9.477550053311219e-05,4
+Cryptography and Security,Information Theory,1.5668209985350224e-05,6
+General Literature,CC,5.167958656330749e-05,1
+Databases,CC,1.2482991923504226e-05,2
+LO,CC,6.155262811256252e-06,10
+Software Engineering,IR,4.049238743116294e-05,1
+Artificial Intelligence,Neural and Evolutionary Computing,7.48502994011976e-05,11
+DC,Data Structures and Algorithms,9.020711553727359e-06,2
+NI,Data Structures and Algorithms,1.3715414296947863e-05,3
+NI,DC,3.662359731622279e-05,5
+LO,Game Theory,1.7910426375610298e-05,5
+Artificial Intelligence,Game Theory,1.8009094592769347e-05,2
+Data Structures and Algorithms,Databases,2.4316700710047662e-05,3
+Data Structures and Algorithms,Computation and Language,1.3087771833020973e-06,1
+Data Structures and Algorithms,Artificial Intelligence,2.0094040107704054e-06,1
+Data Structures and Algorithms,Machine Learning,5.726458528987333e-06,1
+Data Structures and Algorithms,IR,3.424188467333242e-05,3
+Computer Vision,Databases,4.237647258242224e-05,1
+Computer Vision,Computation and Language,2.7369515833264908e-05,4
+Computer Vision,Machine Learning,2.9938327046284653e-05,1
+Computer Vision,IR,0.00035803795202291446,6
+DM,Databases,1.0411460936198568e-05,1
+DM,Computation and Language,1.6811017268276937e-06,1
+DM,Artificial Intelligence,5.162089613875697e-06,2
+DM,Machine Learning,1.4711074496881253e-05,2
+DM,IR,1.4661036828524513e-05,1
+Computational Geometry,Graphics,0.00015748031496062991,2
+CC,Neural and Evolutionary Computing,1.4681700728212357e-05,2
+NI,Information Theory,1.998016968159102e-05,8
+Multiagent Systems,SC,3.1055900621118014e-05,1
+Multiagent Systems,DM,1.874062968515742e-05,1
+DM,SC,7.697044334975369e-06,1
+Neural and Evolutionary Computing,Machine Learning,1.9391870927707104e-05,1
+Neural and Evolutionary Computing,Artificial Intelligence,2.7218290691344584e-05,4
+Neural and Evolutionary Computing,CC,7.340850364106178e-06,1
+Multiagent Systems,Machine Learning,5.9355987535242616e-05,2
+Multiagent Systems,Artificial Intelligence,3.1241864097891176e-05,3
+Multiagent Systems,CC,4.493877092461521e-05,4
+Artificial Intelligence,General Literature,0.0001437125748502994,3
+Multiagent Systems,Software Engineering,5.175983436853002e-05,1
+Multiagent Systems,General Literature,0.00034782608695652176,1
+CC,Software Engineering,2.307124400147656e-05,3
+CC,General Literature,0.00020671834625322997,4
+DC,NI,5.1273036242711904e-05,7
+Cryptography and Security,NI,3.105180216896838e-05,4
+Human-Computer Interaction,IR,0.00027210884353741496,2
+Human-Computer Interaction,Human-Computer Interaction,0.002,5
+Programming Languages,IR,5.847611250804047e-05,3
+Databases,Databases,0.00021003990758244065,9
+Databases,Neural and Evolutionary Computing,2.7448397013614406e-05,1
+Databases,Artificial Intelligence,1.1571060776996732e-05,2
+Neural and Evolutionary Computing,Neural and Evolutionary Computing,0.00025826446280991736,8
+Computer Engineering,MS,0.0003018108651911469,3
+,MS,1.5262515262515263e-05,1
+Information Theory,NI,9.99008484079551e-06,4
+Digital Libraries,Data Structures and Algorithms,3.6875875802050296e-05,2
+Digital Libraries,Digital Libraries,0.001328341987682647,11
+Programming Languages,PF,4.152651467962294e-05,1
+Software Engineering,PF,8.62663906142167e-05,1
+Software Engineering,Programming Languages,0.00011938872970391595,7
+OH,DC,5.4860653938994955e-05,1
+SC,MS,0.00010204081632653062,2
+SC,Computational Geometry,1.40607424071991e-05,1
+Graphics,SC,7.142857142857143e-05,1
+Graphics,MS,0.0005714285714285715,2
+MS,SC,0.0003061224489795918,6
+MS,Computational Geometry,5.62429696287964e-05,1
+Computational Geometry,SC,1.40607424071991e-05,1
+Computational Geometry,MS,5.62429696287964e-05,1
+Software Engineering,Software Engineering,0.00042517006802721087,12
+SC,SI,1.8001152073732719e-06,2
+SI,SC,1.8001152073732719e-06,2
+SI,SI,1.270242585848075e-07,2
+MS,Programming Languages,0.00028653295128939826,7
+Human-Computer Interaction,Robotics,0.001176470588235294,3
+Human-Computer Interaction,Software Engineering,0.00011904761904761905,1
+Human-Computer Interaction,Artificial Intelligence,9.580838323353294e-05,4
+Human-Computer Interaction,Computer Vision,0.0005263157894736842,3
+Human-Computer Interaction,Computer Engineering,0.00042253521126760566,3
+Robotics,Human-Computer Interaction,0.001176470588235294,3
+Robotics,Software Engineering,0.00011671335200746966,1
+Robotics,Artificial Intelligence,7.044734061289187e-05,3
+Robotics,Computer Vision,0.0005159958720330237,3
+Robotics,Computer Engineering,0.00041425020712510354,3
+Software Engineering,Human-Computer Interaction,0.00035714285714285714,3
+Software Engineering,Robotics,0.00035014005602240897,3
+Software Engineering,Artificial Intelligence,2.85143997718848e-05,4
+Software Engineering,Computer Vision,0.00015664160401002505,3
+Software Engineering,Computer Engineering,0.00012575452716297788,3
+Computer Engineering,Human-Computer Interaction,0.0007042253521126761,5
+Computer Engineering,Robotics,0.00041425020712510354,3
+Computer Engineering,Software Engineering,8.383635144198524e-05,2
+Computer Engineering,Artificial Intelligence,2.530150965674285e-05,3
+Computer Engineering,Computer Vision,0.00024709661477637757,4
+ET,Cryptography and Security,0.00010957703265395574,1
+CY,CY,0.0009053870529651426,2
+Hardware Architecture,DC,0.00018328445747800586,3
+Computational Gas Physics,OH,0.00019252984212552945,2
+SC,,3.815628815628816e-06,1
+MS,,1.5262515262515263e-05,1
+DC,SC,9.600614439324117e-06,1
+DC,Operating Systems,0.00019201228878648233,2
+Multiagent Systems,DC,9.350163627863488e-05,4
+Multiagent Systems,Operating Systems,0.00031055900621118014,1
+IR,ET,0.00026164311878597594,1
+Machine Learning,IR,9.28699124701075e-05,4
+Sound,Computation and Language,8.667013347200555e-05,2
+Sound,Information Theory,5.092168245238823e-05,1
+Sound,IR,0.0007558578987150416,2
+CC,Computation and Language,1.007792249674483e-06,1
+CC,IR,1.7578090667791665e-05,2
+Computer Vision,Information Theory,1.6080531300754177e-05,2
+Computer Engineering,Computation and Language,5.493177473577816e-06,1
+Computer Engineering,IR,9.581297307655457e-05,2
+Artificial Intelligence,IR,4.073485681697829e-05,5
+SC,LO,5.104471517048935e-06,3
+SC,CC,9.228497600590624e-06,2
+Artificial Intelligence,SY,0.0005988023952095808,1
+Multiagent Systems,SY,0.004347826086956522,1
+Computational Geometry,Multiagent Systems,3.423485107839781e-05,1
+NI,Neural and Evolutionary Computing,1.5481793410948723e-05,1
+General Literature,Artificial Intelligence,4.790419161676647e-05,1
+Multiagent Systems,NI,7.108162539983414e-05,3
+Machine Learning,NI,2.7898931470924663e-05,3
+Machine Learning,Multiagent Systems,0.00011871197507048523,4
+DC,Multiagent Systems,0.0002337540906965872,10
+Machine Learning,DC,1.83492972219164e-05,2
+DC,Programming Languages,2.3107496071725667e-05,3
+Operating Systems,DC,0.00019201228878648233,2
+Operating Systems,Operating Systems,0.0012755102040816326,1
+Operating Systems,Programming Languages,0.00010233319688907081,1
+Programming Languages,DC,2.3107496071725667e-05,3
+Programming Languages,Operating Systems,0.00010233319688907081,1
+Databases,IR,9.859016070196194e-05,3
+Databases,Data Structures and Algorithms,1.621113380669844e-05,2
+Computational Geometry,Databases,1.9019361710221005e-05,1
+Computational Geometry,IR,2.6782366489903047e-05,1
+IR,Databases,6.572677380130797e-05,2
+IR,Data Structures and Algorithms,3.424188467333242e-05,3
+Operating Systems,Multiagent Systems,0.00031055900621118014,1
+Computation and Language,Artificial Intelligence,5.605014619746467e-06,6
+CC,Game Theory,3.885683200248684e-05,4
+MS,LO,6.805962022731913e-06,1
+LO,CY,1.013653918279221e-05,1
+Artificial Intelligence,CY,2.548095298764174e-05,1
+PF,Programming Languages,4.152651467962294e-05,1
+Data Structures and Algorithms,CY,7.139797229758674e-05,2
+DC,Information Theory,1.2319761883642313e-05,5
+Information Theory,Multiagent Systems,7.970350296895549e-06,1
+DC,Cryptography and Security,2.297582942744233e-05,3
+Data Structures and Algorithms,Cryptography and Security,4.7802061224880015e-06,1
+Databases,PF,0.00014002660505496044,2
+Computation and Language,Databases,3.0146133381567146e-05,8
+Computation and Language,PF,2.260960003617536e-05,2
+CC,Computational Geometry,1.5259720441921504e-05,3
+CY,IR,0.00014473874656245476,1
+Digital Libraries,IR,0.00037377588397996563,5
+Information Theory,Data Structures and Algorithms,1.2303225290509906e-05,8
+Neural and Evolutionary Computing,Information Theory,5.207899341721524e-06,1
+,SC,7.631257631257631e-06,2
+DC,Robotics,0.00015812776723592663,3
+Multiagent Systems,Robotics,0.0006820119352088661,4
+Robotics,Multiagent Systems,0.0005115089514066496,3
+Data Structures and Algorithms,Multiagent Systems,1.4590020426028596e-05,1
+Digital Libraries,Databases,5.308700960874874e-05,1
+Cryptography and Security,,3.0438064626098814e-06,1
+Multiagent Systems,MS,0.00012422360248447205,1
+Multiagent Systems,Computer Engineering,6.12369871402327e-05,1
+NI,PF,3.9489791888796745e-05,1
+Programming Languages,Artificial Intelligence,2.058919410462742e-05,6
+Computational Geometry,Computer Engineering,2.7725407563491182e-05,1
+Data Structures and Algorithms,Human-Computer Interaction,3.355704697986577e-05,1
+SC,OH,7.28862973760933e-05,1
+DM,OH,4.398311048557354e-05,1
+CY,Digital Libraries,0.00046761748889408465,2
+Multimedia,Multimedia,0.010380622837370242,3
+Multimedia,Cryptography and Security,0.0003351768057650411,2
+Cryptography and Security,Multimedia,0.0003351768057650411,2
+DC,Computer Vision,2.358045651763818e-05,1
+DM,Cryptography and Security,6.140092346988899e-06,1
+Neural and Evolutionary Computing,General Literature,0.00022727272727272727,1
+General Literature,Neural and Evolutionary Computing,0.00022727272727272727,1
+General Literature,General Literature,0.0016,1
+MS,CC,1.8456995201181248e-05,1
+Multimedia,Data Structures and Algorithms,9.869719699960521e-05,1
+DM,LO,1.0267615120500732e-06,1
+Cryptography and Security,IR,5.8142915285772426e-05,3
+Databases,Computer Vision,4.237647258242224e-05,1
+Computation and Language,IR,1.0612669404735372e-05,2
+Computation and Language,Computer Vision,6.842378958316227e-06,1
+IR,Computer Vision,5.967299200381907e-05,1
+PF,Data Structures and Algorithms,2.4316700710047662e-05,1
+PF,Information Theory,1.3283917161492581e-05,1
+IR,Information Theory,6.235308055394477e-06,1
+LO,Computational Geometry,1.8756588251623382e-06,1
+Information Theory,Programming Languages,2.626333192386785e-06,1
+Hardware Architecture,CC,2.9363401456424713e-05,1
+Hardware Architecture,Multiagent Systems,0.0001976284584980237,1
+Hardware Architecture,Machine Learning,7.756748371082842e-05,1
+NI,CC,3.52040780404002e-06,1
+NI,Machine Learning,9.299643823641554e-06,1
+Programming Languages,Software Engineering,8.527766407422568e-05,5
+MS,Computer Engineering,0.00020120724346076458,2
+Graphics,Graphics,0.0004,1
+Cryptography and Security,LO,1.3573143635077889e-06,1
+CC,Databases,1.8724487885256337e-05,3
+NI,Cryptography and Security,3.881475271121048e-05,5
+DC,Computer Engineering,3.786157807057398e-05,2
+Cryptography and Security,Software Engineering,5.087505087505087e-05,3
+Databases,Computation and Language,3.7682666726958933e-06,1
+IR,Artificial Intelligence,2.4440914090186972e-05,3
+Cryptography and Security,Computation and Language,2.222311114666809e-06,1
+Cryptography and Security,Artificial Intelligence,3.4119794598836517e-06,1
+CC,SC,4.614248800295312e-06,1
+NI,,2.911106453340786e-06,1
+Programming Languages,CC,3.701976114850107e-06,1
+Hardware Architecture,Hardware Architecture,0.0015495867768595042,3
+,DM,2.302534630120837e-06,1
+Data Structures and Algorithms,DC,9.020711553727359e-06,2
+Computational Geometry,DC,1.0583354500042333e-05,1
+CC,,1.3803308376951789e-06,1
+Robotics,,2.0948550360315067e-05,1
+PF,,1.548371113588505e-05,1
+Hardware Architecture,,2.428127428127428e-05,1
+Data Structures and Algorithms,Programming Languages,4.807599853848965e-06,1
+Computer Vision,Computational Geometry,3.4535156789611825e-05,1
+PF,Cryptography and Security,4.128989636236013e-05,1
+DC,MS,7.680491551459293e-05,2
+LO,Databases,4.603066102330762e-06,2
+Artificial Intelligence,Databases,4.049871271948856e-05,7
+Programming Languages,Databases,1.3842171559874313e-05,1
+Databases,LO,4.603066102330762e-06,2
+IR,Digital Libraries,0.00014951035359198625,2
+Human-Computer Interaction,Digital Libraries,0.00021978021978021978,1
+Data Structures and Algorithms,Digital Libraries,1.8437937901025148e-05,1
+DM,Digital Libraries,2.3683213338385752e-05,1
+Machine Learning,Databases,1.6487774315345173e-05,1
+IR,Neural and Evolutionary Computing,3.865182436611008e-05,1
+Digital Libraries,Neural and Evolutionary Computing,6.243756243756244e-05,1
+Computation and Language,Neural and Evolutionary Computing,4.431995461636647e-06,1
+LO,Neural and Evolutionary Computing,2.706916713586556e-06,1
+Machine Learning,Neural and Evolutionary Computing,1.9391870927707104e-05,1
+Computation and Language,Digital Libraries,2.571531432685879e-05,3
+Digital Libraries,Computation and Language,3.4287085769145054e-05,4
+NI,Digital Libraries,2.9942809234362367e-05,1
+PF,DC,3.8959015116097865e-05,1
+PF,Digital Libraries,0.00015926102882624622,1
+MS,DM,3.0788177339901475e-05,1
+MS,DC,3.840245775729647e-05,1
+Data Structures and Algorithms,Hardware Architecture,3.813300793166565e-05,1
+CC,FL,0.0006459948320413437,3
+Computation and Language,Sound,4.3335066736002776e-05,1
+Digital Libraries,Sound,0.0006105006105006105,1
+DC,Neural and Evolutionary Computing,1.5273704789833822e-05,1
+DC,Game Theory,2.02118198722613e-05,1
+Operating Systems,Neural and Evolutionary Computing,0.00020292207792207794,1
+Operating Systems,Game Theory,0.0002685284640171858,1
+Operating Systems,Cryptography and Security,0.00010175010175010175,1
+Cryptography and Security,Neural and Evolutionary Computing,1.618751618751619e-05,1
+Cryptography and Security,Game Theory,2.1421074052653e-05,1
+Information Theory,LO,4.3667950649975613e-07,1
+DC,IR,1.828688464633165e-05,1
+NI,IR,1.8536024764129085e-05,1
+IR,DC,1.828688464633165e-05,1
+IR,NI,1.8536024764129085e-05,1
+IR,Cryptography and Security,1.9380971761924144e-05,1
+LO,Data Structures and Algorithms,7.993579556899898e-07,1
+Computer Engineering,Programming Languages,2.0178376851366077e-05,1
+MS,Software Engineering,8.503401360544217e-05,1
+Computer Vision,OH,0.00017901897601145723,1
+NI,CY,5.797437532610586e-05,1
+Game Theory,Cryptography and Security,2.1421074052653e-05,1
+Multiagent Systems,Cryptography and Security,2.477393781741608e-05,1
+General Literature,Cryptography and Security,0.00011396011396011396,1
+ET,Information Theory,7.0506944934076e-05,2
