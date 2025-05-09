@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Group 3 - Main Menu</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      overflow: hidden;
+      font-family: 'Segoe UI', sans-serif;
+    }
+
+    canvas {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      z-index: 0;
+      background-color: #c0c0c0;
+    }
+
+    #tooltip {
+      position: absolute;
+      padding: 6px 12px;
+      background: white;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      font-size: 14px;
+      pointer-events: none;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+      opacity: 0;
+      transition: opacity 0.2s ease;
+      z-index: 1000;
+    }
+
+    #overlay {
+      position: absolute;
+      pointer-events: none;
+      z-index: 1;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      background: none;
+      color: black;
+      padding: 40px 20px;
+    }
+
+    #overlay button {
+      pointer-events: auto;
+    }
+
+    h1 {
+      font-size: 54px;
+      margin-bottom: 40px;
+    }
+
+    .button-large {
+      font-size: 26px;
+      padding: 24px 48px;
+      margin: 20px;
+      background: #4caf50;
+      border: none;
+      border-radius: 10px;
+      cursor: pointer;
+      color: white;
+      font-weight: bold;
+      width: 600px;
+      transition: background 0.3s ease, transform 0.2s ease;
+    }
+
+    .button-large:hover {
+      background: #66bb6a;
+      transform: scale(1.07);
+    }
+
+    .button-grid {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 20px 40px;
+      margin-top: 20px;
+      max-width: 600px;
+    }
+
+    .button-column {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    .button-small {
+      font-size: 20px;
+      padding: 18px 36px;
+      background: #4caf50;
+      border: none;
+      border-radius: 10px;
+      cursor: pointer;
+      color: white;
+      font-weight: bold;
+      width: 280px;
+      transition: background 0.3s ease, transform 0.2s ease;
+    }
+
+    .button-small:hover {
+      background: #66bb6a;
+      transform: scale(1.07);
+    }
+
+    h2 {
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <canvas></canvas>
+  <div id="tooltip"></div>
+
+  <div id="overlay">
+    <h1>Find My Paper</h1>
+    <button class="button-large" onclick="window.location.href='/visualization'">By Category Statistics</button>
+
+    <div class="button-grid">
+      <div class="button-column">
+        <button class="button-small" onclick="window.location.href='/author_paper'">Author-Paper Graph</button>
+        <button class="button-small" onclick="window.location.href='/coauthor_graph'">Co-Author 2D Graph</button>
+      </div>
+      <div class="button-column">
+        <button class="button-small" onclick="window.location.href='/citation'">Citation Graph</button>
+        <button class="button-small" onclick="window.location.href='/coauthor_3d'">Co-Author 3D Graph</button>
+      </div>
+    </div>
+
+    <h2>Group 3</h2>
+    <h2>Grace Choe, Shreyans Acharya, Ziyu Lin</h2>
+  </div>
+
+  <script>
+    const canvas = document.querySelector("canvas");
+    const context = canvas.getContext("2d");
+    const tooltip = document.getElementById("tooltip");
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+
+    let nodes = [];
+    let hoveredNode = null;
+    let sizeScale;
+    let mouse = { x: null, y: null };
+
+    canvas.addEventListener("mousemove", (event) => {
+      const rect = canvas.getBoundingClientRect();
+      mouse.x = event.clientX - rect.left;
+      mouse.y = event.clientY - rect.top;
+      updateHoveredNode(event);
+    });
+
+    function updateHoveredNode(event) {
+      const rect = canvas.getBoundingClientRect();
+      const mouseX = event.clientX - rect.left;
+      const mouseY = event.clientY - rect.top;
+
+      let found = null;
+      for (let d of nodes) {
+        const radius = sizeScale(d.pagerank);
+        const dx = d.x - mouseX;
+        const dy = d.y - mouseY;
+        if (Math.sqrt(dx * dx + dy * dy) < radius + 5) {
+          found = d;
+          break;
+        }
+      }
+
+      hoveredNode = found;
+
+      if (hoveredNode) {
+        tooltip.innerHTML = `
+          <strong>ID:</strong> ${hoveredNode.id}<br>
+          <strong>Title:</strong> ${hoveredNode.title}<br>
+          <strong>PageRank:</strong> ${hoveredNode.pagerank.toFixed(6)}
+        `;
+        tooltip.style.left = `${event.clientX + 12}px`;
+        tooltip.style.top = `${event.clientY - 30}px`;
+        tooltip.style.opacity = 1;
+      } else {
+        tooltip.style.opacity = 0;
+      }
+    }
+
+    d3.json("/static/sample_graph.json").then(graph => {
+      nodes = graph.nodes.slice(0, 300);
+      const nodeIds = new Set(nodes.map(n => n.id));
+      const links = graph.links.filter(l => nodeIds.has(l.source) && nodeIds.has(l.target));
+
+      sizeScale = d3.scaleSqrt()
+        .domain(d3.extent(nodes, d => d.pagerank))
+        .range([2, 16]);
+
+      const simulation = d3.forceSimulation(nodes)
+        .force("link", d3.forceLink(links).id(d => d.id).distance(60))
+        .force("charge", d3.forceManyBody().strength(-30))
+        .force("center", d3.forceCenter(canvas.width / 2, canvas.height / 2))
+        .alphaDecay(0.02)
+        .velocityDecay(0.4)
+        .on("tick", ticked);
+
+      function ticked() {
+        context.clearRect(0, 0, canvas.width, canvas.height);
+        context.globalAlpha = 0.3;
+        context.strokeStyle = "#ffffff";
+        context.beginPath();
+        links.forEach(d => {
+          context.moveTo(d.source.x, d.source.y);
+          context.lineTo(d.target.x, d.target.y);
+        });
+        context.stroke();
+
+        context.globalAlpha = 0.8;
+        nodes.forEach(d => {
+          const radius = sizeScale(d.pagerank);
+          context.beginPath();
+          context.fillStyle = "#4caf50";
+          context.arc(d.x, d.y, radius, 0, 2 * Math.PI);
+          context.fill();
+        });
+      }
+
+      canvas.addEventListener("click", () => {
+        if (hoveredNode) {
+          console.log("Clicked node:", hoveredNode);
+        }
+      });
+    });
+  </script>
+</body>
+</html>
