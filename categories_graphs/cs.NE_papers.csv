@@ -1,0 +1,241 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+cond-mat/0602345,"Numerical Modeling of Coexistence, Competition and Collapse of Rotating
+  Spiral Waves in Three-Level Excitable Media with Discrete Active Centers and
+  Absorbing Boundaries",5.919188876086369e-05,0.0,10.0,0.0
+cond-mat/0410460,"A Computational Study of Rotating Spiral Waves and Spatio-Temporal
+  Transient Chaos in a Deterministic Three-Level Active System",3.90067361630225e-05,1.990182755160072e-06,24.0,1.0
+quant-ph/9907009,The importance of quantum decoherence in brain processes,1.438953358328472e-05,9.920160359714877e-06,16.0,9.0
+physics/0601118,Learning about knowledge: A complex network approach,1.0848545622982576e-05,1.247939730745011e-06,5.0,3.0
+cs/0703149,Exploring Logic Artificial Chemistries: An Illogical Attempt?,9.51751443265099e-06,0.0,1.0,0.0
+cs/0412023,Multidimensional data classification with artificial neural networks,5.762704557658616e-06,0.0,2.0,0.0
+cs/0307060,Neural realisation of the SP theory: cell assemblies revisited,5.172835476979688e-06,0.0,7.0,0.0
+cs/0204041,Trust Brokerage Systems for the Internet,4.7530577026366125e-06,0.0,3.0,0.0
+cs/0402014,"Self-Organising Networks for Classification: developing Applications to
+  Science Analysis for Astroparticle Physics",4.509948737656293e-06,1.990182755160072e-06,3.0,1.0
+nlin/0609038,From Neuron to Neural Networks dynamics,3.911405833560001e-06,0.0,3.0,0.0
+cs/0205061,"Aging, double helix and small world property in genetic algorithms",3.7012657112466978e-06,0.0,1.0,0.0
+cs/0403003,Genetic Algorithms and Quantum Computation,2.5298212165000584e-06,0.0,1.0,0.0
+nlin/0506061,Transmitting a signal by amplitude modulation in a chaotic network,2.47514856872844e-06,0.0,3.0,0.0
+physics/0101021,Adaptive evolution on neutral networks,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0607007,Theory of sexes by Geodakian as it is advanced by Iskrin,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0602055,"Revisiting Evolutionary Algorithms with On-the-Fly Population Size
+  Adjustment",2.4711431321721443e-06,0.0,1.0,0.0
+physics/0102009,Self-adaptive exploration in evolutionary search,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0308025,"Controlled hierarchical filtering: Model of neocortical sensory
+  processing",2.4711431321721443e-06,0.0,1.0,1.0
+cs/0312047,Mapping weblog communities,2.173458546909728e-06,0.0,3.0,0.0
+q-bio/0605020,Laws in Darwinian Evolutionary Theory,2.087073078468716e-06,0.0,2.0,0.0
+cond-mat/0104214,Extremal Optimization for Graph Partitioning,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0701003,"Magnification Laws of Winner-Relaxing and Winner-Enhancing Kohonen
+  Feature Maps",1.703003024765287e-06,0.0,1.0,0.0
+cs/0001027,Pattern Discovery and Computational Mechanics,1.43889051050059e-06,0.0,1.0,1.0
+cond-mat/0208414,Winner-Relaxing Self-Organizing Maps,1.3189329710618589e-06,0.0,0.0,3.0
+astro-ph/0402591,Evolutionary design of photometric systems and its application to Gaia,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0403011,"Memorization in a neural network with adjustable transfer function and
+  conditional gating",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0010337,Optimization with Extremal Dynamics,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0602051,"On the utility of the multimodal problem generator for assessing the
+  performance of Evolutionary Algorithms",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0603090,Topological Grammars for Data Approximation,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0405063,Let's Get Ready to Rumble: Crossover Versus Mutation Head to Head,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0105025,Market-Based Reinforcement Learning in Partially Observable Worlds,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0307031,"Automatic Classification using Self-Organising Neural Networks in
+  Astrophysical Experiments",1.3189329710618589e-06,0.0,0.0,2.0
+cs/0408006,Why Two Sexes?,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0202009,Non-negative sparse coding,1.3189329710618589e-06,0.0,0.0,2.0
+adap-org/9807003,Development and Evolution of Neural Networks in an Artificial Chemistry,,,,
+adap-org/9903003,Evolution of genetic organization in digital organisms,,,,
+astro-ph/0502164,"Particle Swarm Optimization: An efficient method for tracing periodic
+  orbits in 3D galactic potentials",,,,
+cond-mat/0110165,Jamming Model for the Extremal Optimization Heuristic,,,,
+cond-mat/0202190,"Threshold Disorder as a Source of Diverse and Complex Behavior in Random
+  Nets",,,,
+cond-mat/9902011,Cortical Potential Distributions and Cognitive Information Processing,,,,
+cond-mat/9906206,"Ocular dominance patterns in mammalian visual cortex: A wire length
+  minimization approach",,,,
+cs/0006005,Novelty Detection for Robot Neotaxis,,,,
+cs/0006006,A Real-Time Novelty Detector for a Mobile Robot,,,,
+cs/0006007,Novelty Detection on a Mobile Robot Using Habituation,,,,
+cs/0006039,"Orthogonal Least Squares Algorithm for the Approximation of a Map and
+  its Derivatives with a RBF Network",,,,
+cs/0102014,"On the predictability of Rainfall in Kerala- An application of ABF
+  Neural Network",,,,
+cs/0104011,Potholes on the Royal Road,,,,
+cs/0108009,Artificial Neurons with Arbitrarily Complex Internal Structures,,,,
+cs/0108011,On Classes of Functions for which No Free Lunch Results Hold,,,,
+cs/0202007,"Steady State Resource Allocation Analysis of the Stochastic Diffusion
+  Search",,,,
+cs/0202034,Covariance Plasticity and Regulated Criticality,,,,
+cs/0204043,Learning from Scarce Experience,,,,
+cs/0209030,Extremal Optimization: an Evolutionary Local-Search Algorithm,,,,
+cs/0210030,Intelligence and Cooperative Search by Coupled Local Minimizers,,,,
+cs/0302002,Optimizing GoTools' Search Heuristics using Genetic Algorithms,,,,
+cs/0303032,Recent Results on No-Free-Lunch Theorems for Optimization,,,,
+cs/0309016,"Using Simulated Annealing to Calculate the Trembles of Trembling Hand
+  Perfection",,,,
+cs/0309038,A novel evolutionary formulation of the maximum independent set problem,,,,
+cs/0309039,Two novel evolutionary formulations of the graph coloring problem,,,,
+cs/0310009,"On Interference of Signals and Generalization in Feedforward Neural
+  Networks",,,,
+cs/0310050,Feedforward Neural Networks with Diffused Nonlinear Weight Functions,,,,
+cs/0401020,"Presynaptic modulation as fast synaptic switching: state-dependent
+  modulation of task performance",,,,
+cs/0402030,"Computational complexity and simulation of rare events of Ising spin
+  glasses",,,,
+cs/0402031,Parameter-less hierarchical BOA,,,,
+cs/0402032,Fitness inheritance in the Bayesian optimization algorithm,,,,
+cs/0402047,"Parameter-less Optimization with the Extended Compact Genetic Algorithm
+  and Iterated Local Search",,,,
+cs/0402049,"An architecture for massive parallelization of the compact genetic
+  algorithm",,,,
+cs/0402050,"A philosophical essay on life and its connections with genetic
+  algorithms",,,,
+cs/0403027,An approach to membrane computing under inexactitude,,,,
+cs/0404001,"On the Practicality of Intrinsic Reconfiguration As a Fault Recovery
+  Method in Analog Systems",,,,
+cs/0404017,"Exploring tradeoffs in pleiotropy and redundancy using evolutionary
+  computing",,,,
+cs/0404019,Optimizing genetic algorithm strategies for evolving networks,,,,
+cs/0404032,"When Do Differences Matter? On-Line Feature Extraction Through Cognitive
+  Economy",,,,
+cs/0404045,"Speculation on graph computation architectures and computing via
+  synchronization",,,,
+cs/0405062,"Efficiency Enhancement of Probabilistic Model Building Genetic
+  Algorithms",,,,
+cs/0405064,"Designing Competent Mutation Operators via Probabilistic Model Building
+  of Neighborhoods",,,,
+cs/0405065,"Efficiency Enhancement of Genetic Algorithms via Building-Block-Wise
+  Fitness Estimation",,,,
+cs/0406007,Parallel Mixed Bayesian Optimization Algorithm: A Scaleup Analysis,,,,
+cs/0406017,Using Self-Organising Mappings to Learn the Structure of Data Manifolds,,,,
+cs/0408049,Using Stochastic Encoders to Discover Structure in Data,,,,
+cs/0408050,Invariant Stochastic Encoders,,,,
+cs/0408058,Non-negative matrix factorization with sparseness constraints,,,,
+cs/0408069,"The Integration of Connectionism and First-Order Knowledge
+  Representation and Reasoning as a Challenge for Artificial Intelligence",,,,
+cs/0410004,Applying Policy Iteration for Training Recurrent Neural Networks,,,,
+cs/0410020,Adaptive Cluster Expansion (ACE): A Hierarchical Bayesian Network,,,,
+cs/0410042,Neural Architectures for Robot Intelligence,,,,
+cs/0411052,"Spontaneous Dynamics of Asymmetric Random Recurrent Spiking Neural
+  Networks",,,,
+cs/0412103,"Chosen-Plaintext Cryptanalysis of a Clipped-Neural-Network-Based Chaotic
+  Cipher",,,,
+cs/0502006,Neural network ensembles: Evaluation of aggregation algorithms,,,,
+cs/0502020,Population Sizing for Genetic Programming Based Upon Decision Making,,,,
+cs/0502021,"Oiling the Wheels of Change: The Role of Adaptive Automatic Problem
+  Decomposition in Non--Stationary Environments",,,,
+cs/0502022,Sub-Structural Niching in Non-Stationary Environments,,,,
+cs/0502023,Sub-structural Niching in Estimation of Distribution Algorithms,,,,
+cs/0502029,"Scalability of Genetic Programming and Probabilistic Incremental Program
+  Evolution",,,,
+cs/0502034,"Multiobjective hBOA, Clustering, and Scalability",,,,
+cs/0502057,"Decomposable Problems, Niching, and Scalability of Multiobjective
+  Estimation of Distribution Algorithms",,,,
+cs/0502086,The Self-Organization of Speech Sounds,,,,
+cs/0502096,"Property analysis of symmetric travelling salesman problem instances
+  acquired through evolution",,,,
+cs/0503078,"Obtaining Membership Functions from a Neuron Fuzzy System extended by
+  Kohonen Network",,,,
+cs/0504035,Fitness Uniform Deletion: A Simple Way to Preserve Diversity,,,,
+cs/0505003,A New Kind of Hopfield Networks for Finding Global Optimum,,,,
+cs/0505021,Distant generalization by feedforward neural networks,,,,
+cs/0506078,Dynamical Neural Network: Information and Topology,,,,
+cs/0508117,"Long-term neuronal behavior caused by two synaptic modification
+  mechanisms",,,,
+cs/0511027,Discrete Network Dynamics. Part 1: Operator Theory,,,,
+cs/0511042,Dimensions of Neural-symbolic Integration - A Structured Survey,,,,
+cs/0512018,"DAMNED: A Distributed and Multithreaded Neural Event-Driven simulation
+  framework",,,,
+cs/0512019,Amazing geometry of genetic space or are genetic algorithms convergent?,,,,
+cs/0512037,Evolving Stochastic Learning Algorithm Based on Tsallis Entropic Index,,,,
+cs/0512062,Evolino for recurrent support vector machines,,,,
+cs/0512071,"""Going back to our roots"": second generation biocomputing",,,,
+cs/0601047,"Automatic Detection of Trends in Dynamical Text: An Evolutionary
+  Approach",,,,
+cs/0602036,R\'{e}seaux d'Automates de Caianiello Revisit\'{e},,,,
+cs/0603004,"Lamarckian Evolution and the Baldwin Effect in Evolutionary Neural
+  Networks",,,,
+cs/0604001,"Theoretical Properties of Projection Based Multilayer Perceptrons with
+  Functional Inputs",,,,
+cs/0604046,"Concerning the differentiability of the energy function in vector
+  quantization algorithms",,,,
+cs/0605065,On the possible Computational Power of the Human Mind,,,,
+cs/0607019,Modelling the Probability Density of Markov Sources,,,,
+cs/0608078,"Searching for Globally Optimal Functional Forms for Inter-Atomic
+  Potentials Using Parallel Tempering and Genetic Programming",,,,
+cs/0609125,Problem Evolution: A new approach to problem solving systems,,,,
+cs/0610041,"A Computational Model of Spatial Memory Anticipation during Visual
+  Search",,,,
+cs/0610126,Fitness Uniform Optimization,,,,
+cs/0611020,"An associative memory for the on-line recognition and prediction of
+  temporal sequences",,,,
+cs/0611032,V-like formations in flocks of artificial birds,,,,
+cs/0611079,Managing network congestion with a Kohonen-based RED queue,,,,
+cs/0611104,"Learning and discrimination through STDP in a top-down modulated
+  associative memory",,,,
+cs/0611140,"On the Benefits of Inoculation, an Example in Train Scheduling",,,,
+cs/0612104,Sufficient Conditions for Coarse-Graining Evolutionary Dynamics,,,,
+cs/0701115,"Browser-based distributed evolutionary computation: performance and
+  scaling behavior",,,,
+cs/0702038,"Genetic Representations for Evolutionary Minimization of Network Coding
+  Resources",,,,
+cs/0702055,"On the possibility of making the complete computer model of a human
+  brain",,,,
+cs/0702148,"Linking Microscopic and Macroscopic Models for Evolution: Markov Chain
+  Network Training and Conservation Law Approximations",,,,
+cs/9809019,Distributed Computation as Hierarchy,,,,
+cs/9809111,Evolution of Neural Networks to Play the Game of Dots-and-Boxes,,,,
+cs/9809123,A role of constraint in self-organization,,,,
+cs/9811030,"Generating Segment Durations in a Text-To-Speech System: A Hybrid
+  Rule-Based/Neural Network Approach",,,,
+cs/9811031,Speech Synthesis with Neural Networks,,,,
+cs/9811032,"Text-To-Speech Conversion with Neural Networks: A Recurrent TDNN
+  Approach",,,,
+cs/9812002,Training Reinforcement Neurocontrollers Using the Polytope Algorithm,,,,
+cs/9812003,"Neural Network Methods for Boundary Value Problems Defined in
+  Arbitrarily Shaped Domains",,,,
+cs/9812006,"A High Quality Text-To-Speech System Composed of Multiple Neural
+  Networks",,,,
+cs/9812013,The Self-Organizing Symbiotic Agent,,,,
+cs/9902006,A Discipline of Evolutionary Programming,,,,
+cs/9902025,An Efficient Mean Field Approach to the Set Covering Problem,,,,
+cs/9905011,"Ensembles of Radial Basis Function Networks for Spectroscopic Detection
+  of Cervical Pre-Cancer",,,,
+cs/9905012,Linear and Order Statistics Combiners for Pattern Classification,,,,
+cs/9905013,Robust Combining of Disparate Classifiers through Order Statistics,,,,
+hep-lat/9808001,Genetic Algorithm for SU(N) gauge theory on a lattice,,,,
+hep-lat/9809068,Genetic Algorithm for SU(2) Gauge Theory on a 2-dimensional Lattice,,,,
+math/0304283,Whitehead method and Genetic Algorithms,,,,
+math/0304306,Genetic algorithms and the Andrews-Curtis conjecture,,,,
+math/0605498,"Cross-Entropic Learning of a Machine for the Decision in a Partially
+  Observable Universe",,,,
+math/0609461,Cross-Entropy method: convergence issues for extended implementation,,,,
+math/0701145,Bootstrap for neural model selection,,,,
+math/0701152,Missing values : processing with the Kohonen algorithm,,,,
+math/0702866,Consumer Profile Identification and Allocation,,,,
+math/9801152,On the classifiability of cellular automata,,,,
+nlin/0001057,"Numerical Replication of Computer Simulations: Some Pitfalls and How To
+  Avoid Them",,,,
+nlin/0202038,"On model selection and the disability of neural networks to decompose
+  tasks",,,,
+nlin/0202039,A neural model for multi-expert architectures,,,,
+nlin/0204038,Neutrality: A Necessity for Self-Adaptation,,,,
+nlin/0212030,"The structure of evolutionary exploration: On crossover, buildings
+  blocks and Estimation-Of-Distribution Algorithms",,,,
+nlin/0408040,Notes on information geometry and evolutionary processes,,,,
+nlin/0702001,"Bistability: a common feature in some ""aggregates"" of logistic maps",,,,
+physics/0002054,Evolution of differentiated expression patterns in digital organisms,,,,
+physics/0308041,Ensembles of Protein Molecules as Statistical Analog Computers,,,,
+physics/0606053,"Optimal estimation for Large-Eddy Simulation of turbulence and
+  application to the analysis of subgrid models",,,,
+physics/9911006,Genetic Algorithms in Time-Dependent Environments,,,,
+q-bio/0310025,Pattern Excitation-Based Processing: The Music of The Brain,,,,
+q-bio/0501021,Spike timing precision and neural error correction: local behavior,,,,
+q-bio/0502023,Learning intrinsic excitability in medium spiny neurons,,,,
+q-bio/0505021,"Characterizing Self-Developing Biological Neural Networks: A First Step
+  Towards their Application To Computing Systems",,,,
+q-bio/0507037,Neuromodulation Influences Synchronization and Intrinsic Read-out,,,,
+q-bio/0511045,"The use of the GARP genetic algorithm and internet grid computing in the
+  Lifemapper world atlas of species biodiversity",,,,
+quant-ph/0301075,Selective pressures on genomes in molecular evolution,,,,
+quant-ph/0609117,Quantum Pattern Retrieval by Qubit Networks with Hebb Interactions,,,,

@@ -1,0 +1,851 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+math/0506475,"Foundations of real analysis and computability theory in
+  non-Aristotelian finitary logic",1.4713054021283687e-05,5.970548265480216e-06,5.0,1.0
+cs/0602011,"The intuitionistic fragment of computability logic at the propositional
+  level",1.1668616013394351e-05,0.0,9.0,0.0
+quant-ph/0408068,Logical Interpretation of a Reversible Measurement in Quantum Computing,7.226859119057847e-06,3.843224772323347e-06,9.0,2.0
+cs/0509042,Computing over the Reals: Foundations for Scientific Computing,5.782188934031143e-06,0.0,3.0,2.0
+quant-ph/0412199,The internal logic of Bell's states,5.700610271638122e-06,2.4074853023486223e-06,4.0,3.0
+cs/0309048,"Goedel Machines: Self-Referential Universal Problem Solvers Making
+  Provably Optimal Self-Improvements",5.277481045854505e-06,0.0,2.0,2.0
+cs/0512100,The logic of interactive Turing reduction,5.056535795997867e-06,0.0,7.0,1.0
+cs/0501031,From truth to computability II,4.817763153020377e-06,0.0,6.0,3.0
+cs/0508005,Logic Column 13: Reasoning Formally about Quantum Systems: An Overview,4.614769677572098e-06,0.0,2.0,0.0
+quant-ph/0406137,A possible hypercomputational quantum algorithm,4.525970687854925e-06,3.847386971955117e-06,4.0,3.0
+quant-ph/0110136,Quantum Algorithm for Hilbert's Tenth Problem,4.347813453403003e-06,4.655716232492101e-05,9.0,18.0
+cs/0604064,Quantum Fuzzy Sets: Blending Fuzzy Set Theory and Quantum Computation,4.229423834443482e-06,0.0,4.0,0.0
+quant-ph/0307150,A Lambda Calculus for Quantum Computation,4.146819935981829e-06,1.7228205846079208e-05,8.0,8.0
+quant-ph/0203034,Computing the Noncomputable,3.986394700128077e-06,8.72168156575949e-06,9.0,6.0
+cs/0610123,Proof Nets and the Identity of Proofs,3.854738769324236e-06,0.0,4.0,0.0
+cs/0605054,From Proof Nets to the Free *-Autonomous Category,3.854738769324236e-06,0.0,4.0,0.0
+cs/0611018,"Logic Column 17: A Rendezvous of Logic, Complexity, and Algebra",3.7325727755918313e-06,0.0,3.0,0.0
+cs/0702036,Efficient First-Order Temporal Logic for Infinite-State Systems,3.62335329328243e-06,0.0,2.0,0.0
+quant-ph/0312174,"Quantum Computation, Categorical Semantics and Linear Logic",3.6103580783586375e-06,6.965639643060252e-06,4.0,8.0
+cs/0608051,Modules over Monads and Linearity,3.5785533883780654e-06,0.0,3.0,0.0
+cs/0401015,Query Answering in Peer-to-Peer Data Exchange Systems,3.4370183180622248e-06,0.0,2.0,0.0
+cs/0702041,The Fibers and Range of Reduction Graphs in Ciliates,3.3749066596554898e-06,0.0,1.0,0.0
+cs/0601014,Probabilistic bisimilarities between quantum processes,3.169987423827245e-06,0.0,2.0,1.0
+cs/0603054,Testing Graph Isomorphism in Parallel by Playing a Game,3.157191212357669e-06,0.0,2.0,0.0
+cs/0609102,Using groups for investigating rewrite systems,3.010089461026824e-06,0.0,1.0,0.0
+cs/0005010,Extending and Implementing the Stable Model Semantics,2.9851365543205523e-06,0.0,2.0,0.0
+quant-ph/0701171,Turning the Liar paradox into a metatheorem of Basic logic,2.944606357632e-06,0.0,3.0,0.0
+cs/0608032,Satisfying KBO Constraints,2.923024895913817e-06,0.0,1.0,0.0
+quant-ph/0504021,Numerical Simulations of a Possible Hypercomputational Quantum Algorithm,2.866344023987048e-06,0.0,2.0,1.0
+cs/0512086,On the Axiomatisation of Boolean Categories with and without Medial,2.6396299366154303e-06,0.0,3.0,2.0
+math/0506553,Introduction to Cirquent Calculus and Abstract Resource Semantics,2.6287771387444115e-06,0.0,1.0,2.0
+cs/0207057,Physical Traces: Quantum vs. Classical Information Processing,2.563114877646984e-06,0.0,2.0,8.0
+cs/0206022,The Fastest and Shortest Algorithm for All Well-Defined Problems,2.502591415315477e-06,0.0,3.0,0.0
+cs/0408043,The Arithmetical Complexity of Dimension and Randomness,2.4962599679182183e-06,0.0,1.0,0.0
+cs/0702152,"A Simplified Suspension Calculus and its Relationship to Other Explicit
+  Substitution Calculi",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0603084,Random 3CNF formulas elude the Lovasz theta function,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0507048,Redundancy in Logic III: Non-Mononotonic Reasoning,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0607114,Revising Type-2 Computation and Degrees of Discontinuity,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0703116,"On the Design of Generic Static Analyzers for Modern Imperative
+  Languages",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0702016,A multivariate interlace polynomial,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0701076,"Time-complexity semantics for feasible affine recursions (extended
+  abstract)",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0601135,Strategies of Loop Recombination in Ciliates,2.4711431321721443e-06,0.0,1.0,1.0
+cs/0603020,Reasoning About Knowledge of Unawareness,2.4711431321721443e-06,0.0,1.0,1.0
+cs/9811015,An Emptiness Algorithm for Regular Types with Set Operators,2.4711431321721443e-06,0.0,1.0,1.0
+cs/0211004,The DLV System for Knowledge Representation and Reasoning,2.4711431321721443e-06,0.0,1.0,4.0
+cs/0112020,Concurrent computing machines and physical space-time,2.4711431321721443e-06,0.0,1.0,0.0
+quant-ph/0312044,Partiality in physics,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0412028,A feasible algorithm for typing in Elementary Affine Logic,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0208026,Mathematical basis for polySAT implication operator,2.4711431321721443e-06,0.0,1.0,0.0
+quant-ph/0612199,Lineal: A linear-algebraic Lambda-calculus,2.2847470839263382e-06,0.0,3.0,0.0
+quant-ph/0304114,Numerical simulations of a quantum algorithm for Hilbert's tenth problem,2.2644756075875743e-06,7.4260550565674335e-09,4.0,2.0
+cs/0404056,A lambda calculus for quantum computation with classical control,2.23998898174347e-06,9.95091377580036e-07,2.0,1.0
+math/0504037,Modelling Linear Logic Without Units (Preliminary Results),2.2392944508887378e-06,0.0,1.0,5.0
+cs/0703152,"Quantum Lambda Calculi with Classical Control: Syntax and Expressive
+  Power",2.1369564940153165e-06,0.0,3.0,0.0
+quant-ph/0402130,A categorical semantics of quantum protocols,2.0552223029837666e-06,1.990182755160072e-06,3.0,17.0
+quant-ph/0504007,Probabilistic Model--Checking of Quantum Protocols,1.923833833386221e-06,1.975330645046937e-06,2.0,1.0
+quant-ph/0402014,The logic of entanglement,1.919957021465506e-06,3.983104015955731e-06,5.0,10.0
+cs/0406037,Propositional Computability Logic II,1.918556403795287e-06,0.0,2.0,3.0
+cs/0507052,Finite automata for testing uniqueness of Eulerian trails,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0211042,Database Repairs and Analytic Tableaux,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0605074,SAT Solving for Argument Filterings,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0505024,Logic Column 12: Logical Verification and Equational Verification,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0601008,"A Hierarchical Analysis of Propositional Temporal Logic Based on
+  Intervals",1.8950380516170012e-06,0.0,1.0,0.0
+cs/0602077,Bisimulations of enrichments,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0608103,Logic programs with monotone abstract constraint atoms,1.8329263932102664e-06,0.0,1.0,0.0
+cs/0310064,Satisfiability and computing van der Waerden numbers,1.703003024765287e-06,0.0,1.0,0.0
+quant-ph/0701113,"A presentation of Quantum Logic based on an ""and then"" connective",1.703003024765287e-06,0.0,1.0,0.0
+cs/0506059,Existentially Restricted Quantified Constraint Satisfaction,1.703003024765287e-06,0.0,1.0,1.0
+cs/0404024,Computability Logic: a formal theory of interaction,1.703003024765287e-06,0.0,1.0,6.0
+cs/0003025,Logic Programming for Describing and Solving Planning Problems,1.60698551133943e-06,0.0,1.0,0.0
+cs/9908004,Extending the Stable Model Semantics with More Expressive Rules,1.60698551133943e-06,0.0,1.0,1.0
+cs/0508100,A primer on Answer Set Programming,1.60698551133943e-06,0.0,1.0,0.0
+cs/0404023,Propositional computability logic I,1.5611770827737587e-06,0.0,1.0,4.0
+cs/0407054,From truth to computability I,1.5611770827737587e-06,0.0,1.0,3.0
+cs/0403041,A Theory of Computation Based on Quantum Logic (I),1.5493750032839157e-06,0.0,1.0,0.0
+cs/0512067,Solving Partial Order Constraints for LPO Termination,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0411008,Intuitionistic computability logic,1.3189329710618589e-06,0.0,0.0,3.0
+cs/9901014,"Minimum Description Length Induction, Bayesianism, and Kolmogorov
+  Complexity",1.3189329710618589e-06,0.0,0.0,4.0
+cs/9809032,Stable models and an alternative logic programming paradigm,1.3189329710618589e-06,0.0,0.0,4.0
+cs/9910001,"Fixed-parameter tractability, definability, and model checking",1.3189329710618589e-06,0.0,0.0,1.0
+math/9411235,McColm conjecture,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0003036,DLV - A System for Declarative Problem Solving,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0402059,Light types for polynomial time computation in lambda-calculus,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0403028,"An Application of Rational Trees in a Logic Programming Interpreter for
+  a Procedural Language",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0410056,Interval Neutrosophic Logics: Theory and Applications,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0404030,XML framework for concept description and knowledge representation,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0412021,Finite Domain Bounds Consistency Revisited,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0508069,Real Hypercomputation and Continuity,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0506074,Redundancy in Logic II: 2CNF and Horn Propositional Formulae,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0511023,"Verifying nondeterministic probabilistic channel systems against
+  $\omega$-regular linear-time properties",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0612116,Adventures in time and space,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0702116,The Bedwyr system for model checking over syntactic expressions,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0211033,Propositional satisfiability in declarative programming,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0208033,Complete Axiomatizations for Reasoning About Knowledge and Time,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0607106,"The Complexity of Quantified Constraint Satisfaction: Collapsibility,
+  Sink Algebras, and the Three-Element Case",1.3189329710618589e-06,0.0,0.0,2.0
+cs/0406006,Dichotomy Theorems for Alternation-Bounded Quantified Boolean Formulas,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0202018,Nonmonotonic Logics and Semantics,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0502031,Logic Column 11: The Finite and the Infinite in Temporal Logic,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0603019,"Characterizing the NP-PSPACE Gap in the Satisfiability Problem for Modal
+  Logic",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0307040,"Bridging the gap between modal temporal logics and constraint-based QSR
+  as an ALC(D) spatio-temporalisation with weakly cyclic TBoxes",1.3189329710618589e-06,0.0,0.0,2.0
+cs/9810001,On Dart-Zobel Algorithm for Testing Regular Type Inclusion,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0106046,"Expressing the cone radius in the relational calculus with real
+  polynomial constraints",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0601122,Reducibility of Gene Patterns in Ciliates using the Breakpoint Graph,1.3189329710618589e-06,0.0,0.0,1.0
+math/9809201,On quantification with a finite universe,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0505023,State Space Computation and Analysis of Time Petri Nets,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0512114,A Categorical Quantum Logic,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0507045,In the beginning was game semantics,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0306134,The Complexity of Boolean Constraint Isomorphism,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0306041,Monodic temporal resolution,1.3189329710618589e-06,0.0,0.0,1.0
+cs/9907032,Clausal Temporal Resolution,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0211014,"Vanquishing the XCB Question: The Methodology Discovery of the Last
+  Shortest Single Axiom for the Equivalential Calculus",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0001006,"Compositionality, Synonymy, and the Systematic Representation of Meaning",,,,
+cs/0001015,Multi-Agent Only Knowing,,,,
+cs/0001026,A Logic for SDSI's Linked Local Name Spaces,,,,
+cs/0002001,Computing large and small stable models,,,,
+cs/0002004,Stochastic Model Checking for Multimedia,,,,
+cs/0002013,Computing and Comparing Semantics of Programs in Multi-valued Logics,,,,
+cs/0002015,Genetic Algorithms for Extension Search in Default Logic,,,,
+cs/0003007,"Computing Circumscriptive Databases by Integer Programming: Revisited
+  (Extended Abstract)",,,,
+cs/0003009,Conditional indifference and conditional preservation,,,,
+cs/0003011,Automatic Belief Revision in SNePS,,,,
+cs/0003013,A flexible framework for defeasible logics,,,,
+cs/0003015,On the semantics of merging,,,,
+cs/0003017,The lexicographic closure as a revision process,,,,
+cs/0003018,Description of GADEL,,,,
+cs/0003019,Extending Classical Logic with Inductive Definitions,,,,
+cs/0003026,"A Comparison of Logic Programming Approaches for Representation and
+  Solving of Constraint Satisfaction Problems",,,,
+cs/0003035,Declarative Representation of Revision Strategies,,,,
+cs/0003040,Implementing Integrity Constraints in an Existing Belief Revision System,,,,
+cs/0003041,"Coherence, Belief Expansion and Bayesian Networks",,,,
+cs/0003045,Termination Proofs for Logic Programs with Tabling,,,,
+cs/0003046,Linear Tabulated Resolution Based on Prolog Control Strategy,,,,
+cs/0003048,PAL: Pertinence Action Language,,,,
+cs/0003050,A tableau methodology for deontic conditional logics,,,,
+cs/0003056,A note on the Declarative reading(s) of Logic Programming,,,,
+cs/0003057,XNMR: A tool for knowledge bases exploration,,,,
+cs/0003058,A note on knowledge-based programs and specifications,,,,
+cs/0003062,Reasoning with Higher-Order Abstract Syntax in a Logical Framework,,,,
+cs/0003067,Detecting Unsolvable Queries for Definite Logic Programs,,,,
+cs/0003068,A Polyvariant Binding-Time Analysis for Off-line Partial Deduction,,,,
+cs/0003069,Proving Failure of Queries for Definite Logic Programs Using XSB-Prolog,,,,
+cs/0003070,The (Lazy) Functional Side of Logic Programming,,,,
+cs/0003082,Representation results for defeasible logic,,,,
+cs/0004002,"Programming in Alma-0, or Imperative and Declarative Programming
+  Reconciled",,,,
+cs/0005009,PSPACE Reasoning for Graded Modal Logics,,,,
+cs/0005012,Reasoning with Axioms: Theory and Pratice,,,,
+cs/0005013,Practical Reasoning for Very Expressive Description Logics,,,,
+cs/0005014,Practical Reasoning for Expressive Description Logics,,,,
+cs/0005017,Reasoning with Individuals for the Description Logic SHIQ,,,,
+cs/0005018,On Modular Termination Proofs of General Logic Programs,,,,
+cs/0005030,Axiomatizing Causal Reasoning,,,,
+cs/0006010,"Light Affine Logic (Proof Nets, Programming Notation, P-Time Correctness
+  and Completeness)",,,,
+cs/0006031,Verifying Termination of General Logic Programs with Concrete Queries,,,,
+cs/0006033,"Verifying Termination and Error-Freedom of Logic Programs with block
+  Declarations",,,,
+cs/0006045,Security Policy Consistency,,,,
+cs/0007020,Polynomial-time Computation via Local Inference Relations,,,,
+cs/0007030,A theory of normed simulations,,,,
+cs/0007032,Knowledge on Treelike Spaces,,,,
+cs/0007033,To Preference via Entrenchment,,,,
+cs/0007037,Knowledge Theoretic Properties of Topological Spaces,,,,
+cs/0007038,Modal Logics for Topological Spaces,,,,
+cs/0007039,Ordering-based Representations of Rational Inference,,,,
+cs/0007040,Entrenchment Relations: A Uniform Approach to Nonmonotonicity,,,,
+cs/0007041,Relevance as Deduction: A Logical View of Information Retrieval,,,,
+cs/0008001,Boolean Satisfiability with Transitivity Constraints,,,,
+cs/0008018,The Bisimulation Problem for equational graphs of finite out-degree,,,,
+cs/0010028,Sequence-Based Abstract Interpretation of Prolog,,,,
+cs/0010029,"Using Modes to Ensure Subject Reduction for Typed Logic Programs with
+  Subtyping",,,,
+cs/0010032,Super Logic Programs,,,,
+cs/0010034,Static Analysis Techniques for Equational Logic Programming,,,,
+cs/0011013,Transformation-Based Bottom-Up Computation of the Well-Founded Model,,,,
+cs/0011037,"A syntactical analysis of non-size-increasing polynomial time
+  computation",,,,
+cs/0011039,A Complete Characterization of Complete Intersection-Type Theories,,,,
+cs/0011042,Order-consistent programs are cautiously monotonic,,,,
+cs/0011043,Rewriting Calculus: Foundations and Applications,,,,
+cs/0012015,Well-Typed Logic Programs Are not Wrong,,,,
+cs/0012018,Resource-distribution via Boolean constraints,,,,
+cs/0101013,A Classification of Symbolic Transition Systems,,,,
+cs/0101014,On the problem of computing the well-founded semantics,,,,
+cs/0101017,Checking Properties within Fairness and Behavior Abstractions,,,,
+cs/0101022,"Semantics and Termination of Simply-Moded Logic Programs with Dynamic
+  Scheduling",,,,
+cs/0101023,Properties of Input-Consuming Derivations,,,,
+cs/0103008,The Limits of Horn Logic Programs,,,,
+cs/0103020,Belief Revision: A Critique,,,,
+cs/0104003,Chain Programs for Writing Deterministic Metainterpreters,,,,
+cs/0104021,Disjunction and modular goal-directed proof search,,,,
+cs/0105007,Analysis of Polymorphically Typed Logic Programs Using ACI-Unification,,,,
+cs/0105020,A Logical Framework for Convergent Infinite Computations,,,,
+cs/0105021,"Solving Composed First-Order Constraints from Discrete-Time Robust
+  Control",,,,
+cs/0105036,Disjunctive Logic Programs with Inheritance,,,,
+cs/0106013,The Set of Equations to Evaluate Objects,,,,
+cs/0106017,An object evaluator to generate flexible applications,,,,
+cs/0106018,Building the access pointers to a computation environment,,,,
+cs/0106021,Object-oriented solutions,,,,
+cs/0106023,Object-oriented tools for advanced applications,,,,
+cs/0106024,Objects and their computational framework,,,,
+cs/0106026,Event Driven Computations for Relational Query Language,,,,
+cs/0106027,Event Driven Objects,,,,
+cs/0106029,"Building Views with Description Logics in ADE: Application Development
+  Environment",,,,
+cs/0106030,"Logic, Individuals and Concepts",,,,
+cs/0106031,"Complexity Results and Practical Algorithms for Logics in Knowledge
+  Representation",,,,
+cs/0106034,Solving equations in the relational algebra,,,,
+cs/0106035,Polymorphic type inference for the relational algebra,,,,
+cs/0106042,MACE 2.0 Reference Manual and Guide,,,,
+cs/0106050,Classes of Terminating Logic Programs,,,,
+cs/0106052,Acceptability with general orderings,,,,
+cs/0106053,Inference of termination conditions for numerical loops,,,,
+cs/0107014,Transformations of CCP programs,,,,
+cs/0107022,An interactive semantics of logic programming,,,,
+cs/0107026,Annotated revision programs,,,,
+cs/0107027,Fixed-parameter complexity of semantics for logic programs,,,,
+cs/0107028,Propositional satisfiability in answer-set programming,,,,
+cs/0107029,"aspps --- an implementation of answer-set programming with propositional
+  schemata",,,,
+cs/0108007,Abstract versus Concrete Computation on Metric Partial Algebras,,,,
+cs/0108013,"Convergent Approximate Solving of First-Order Constraints by Approximate
+  Quantifiers",,,,
+cs/0109001,"Abstract Computability, Algebraic Specification and Initiality",,,,
+cs/0109072,Higher-Order Pattern Complement and the Strict Lambda-Calculus,,,,
+cs/0110003,The temporal calculus of conditional objects and conditional events,,,,
+cs/0110004,"Embedding conditional event algebras into temporal calculus of
+  conditionals",,,,
+cs/0110010,"Pushdown Timed Automata: a Binary Reachability Characterization and
+  Safety Verification",,,,
+cs/0110013,A Proposal for Dynamic Access Lists for TCP/IP Packet Filering,,,,
+cs/0110023,Set Unification,,,,
+cs/0110028,On Equivalence and Canonical Forms in the LF Type Theory,,,,
+cs/0110034,Inference of termination conditions for numerical loops in Prolog,,,,
+cs/0110035,On termination of meta-programs,,,,
+cs/0110060,Selected Topics in Asynchronous Automata,,,,
+cs/0110061,An Asynchronous Automata Approach to the Semantics of Temporal Logic,,,,
+cs/0110062,"The Delay-Insensitivity, the Hazard-Freedom, the Semi-Modularity and the
+  Technical Condition of Good Running of the Discrete Time Asynchronous
+  Automata",,,,
+cs/0110063,"The Existence of $\omega$-Chains for Transitive Mixed Linear Relations
+  and Its Applications",,,,
+cs/0110064,"Applications of the Differential Calculus in the Study of the Timed
+  Automata: the Inertial Delay Buffer",,,,
+cs/0111010,Abduction with Penalization in Logic Programming,,,,
+cs/0111011,Sintesi di algoritmi con SKY,,,,
+cs/0111049,An Environment for the Exploration of Non Monotonic Logic Programs,,,,
+cs/0111057,Towards a characterization of the star-free sets of integers,,,,
+cs/0111058,Bayesian Logic Programs,,,,
+cs/0111059,"Hypotheses Founded Semantics of Logic Programs for Information
+  Integration in Multi-Valued Logics",,,,
+cs/0112002,"Program schemes with binary write-once arrays and the complexity classes
+  they capture",,,,
+cs/0112006,"A Logic Programming Approach to Knowledge-State Planning: Semantics and
+  Complexity",,,,
+cs/0201013,"Computing Preferred Answer Sets by Meta-Interpretation in Answer Set
+  Programming",,,,
+cs/0201020,A Modal Logic Framework for Multi-agent Belief Fusion,,,,
+cs/0202002,A Refinement Calculus for Logic Programs,,,,
+cs/0202006,Approximate Computation of Reach Sets in Hybrid Systems,,,,
+cs/0202036,Equivalence and Isomorphism for Boolean Constraint Satisfaction,,,,
+cs/0203006,Composing Programs in a Rewriting Logic for Declarative Programming,,,,
+cs/0203009,SPINning Parallel Systems Software,,,,
+cs/0203013,Representing and Aggregating Conflicting Beliefs,,,,
+cs/0204016,Making Abstract Domains Condensing,,,,
+cs/0204031,"A Dynamic Approach to Characterizing Termination of General Logic
+  Programs",,,,
+cs/0204039,Precongruence Formats for Decorated Trace Semantics,,,,
+cs/0204045,Some applications of logic to feasibility in higher types,,,,
+cs/0205003,The prospects for mathematical logic in the twenty-first century,,,,
+cs/0205013,Computing stable models: worst-case performance estimates,,,,
+cs/0205078,A Spectrum of Applications of Automated Reasoning,,,,
+cs/0206005,"Characterization of Strongly Equivalent Logic Programs in Intermediate
+  Logics",,,,
+cs/0206024,Sierpinski Gaskets for Logic Functions Representation,,,,
+cs/0207011,Improving Web Database Access Using Decision Diagrams,,,,
+cs/0207032,Alternative Characterizations for Strong Equivalence of Logic Programs,,,,
+cs/0207037,Some logics of belief and disbelief,,,,
+cs/0207038,"Iterated revision and the axiom of recovery: a unified treatment via
+  epistemic states",,,,
+cs/0207040,Well-Founded Argumentation Semantics for Extended Logic Programming,,,,
+cs/0207064,Interpolation Theorems for Nonmonotonic Reasoning Systems,,,,
+cs/0207068,Knuth-Bendix constraint solving is NP-complete,,,,
+cs/0207071,"A Polynomial Translation of Logic Programs with Nested Expressions into
+  Disjunctive Logic Programs: Preliminary Report",,,,
+cs/0207072,Complexity of Nested Circumscription and Nested Abnormality Theories,,,,
+cs/0207074,Paraconsistency of Interactive Computation,,,,
+cs/0207076,Introducing Dynamic Behavior in Amalgamated Knowledge Bases,,,,
+cs/0207084,"Paraconsistent Reasoning via Quantified Boolean Formulas,I: Axiomatising
+  Signed Systems",,,,
+cs/0207085,"Repairing Inconsistent Databases: A Model-Theoretic Approach and
+  Abductive Reasoning",,,,
+cs/0207086,A Model-Theoretic Semantics for Defeasible Logic,,,,
+cs/0207087,Axiomatic Aspects of Default Inference,,,,
+cs/0207088,A Paraconsistent Higher Order Logic,,,,
+cs/0207089,Defining Rough Sets by Extended Logic Programs,,,,
+cs/0207090,On a Partial Decision Method for Dynamic Proofs,,,,
+cs/0207091,"An Almost Classical Logic for Logic Programming and Nonmonotonic
+  Reasoning",,,,
+cs/0207095,Eternity variables to prove simulation of specifications,,,,
+cs/0208028,A logical reconstruction of SPKI,,,,
+cs/0208032,First-order Logic as a Constraint Programming Language,,,,
+cs/0208042,Proving correctness of Timed Concurrent Constraint Programs,,,,
+cs/0209008,"The partition semantics of questions, syntactically",,,,
+cs/0209009,Question answering: from partitions to Prolog,,,,
+cs/0209032,Complexity Results on DPLL and Resolution,,,,
+cs/0210011,A Note on Induction Schemas in Bounded Arithmetic,,,,
+cs/0210022,An Elementary Fragment of Second-Order Lambda Calculus,,,,
+cs/0210027,A uniform approach to logic programming semantics,,,,
+cs/0210028,Equivalences Among Aggregate Queries with Negation,,,,
+cs/0211002,Programming and Verifying Subgame Perfect Mechanisms,,,,
+cs/0211011,Intersection Types and Lambda Theories,,,,
+cs/0211016,"Efficient Solving of Quantified Inequality Constraints over the Real
+  Numbers",,,,
+cs/0211021,Sequent and Hypersequent Calculi for Abelian and Lukasiewicz Logics,,,,
+cs/0211022,"Arithmetic, First-Order Logic, and Counting Quantifiers",,,,
+cs/0212005,Retractions of Types with Many Atoms,,,,
+cs/0212026,A Generalization of the Lifting Lemma for Logic Programming,,,,
+cs/0212049,"An Ehrenfeucht-Fraisse Game Approach to Collapse Results in Database
+  Theory",,,,
+cs/0212053,Merging Locally Correct Knowledge Bases: A Preliminary Report,,,,
+cs/0301008,Formal Concept Analysis and Resolution in Algebraic Domains,,,,
+cs/0301026,Double-Negation Elimination in Some Propositional Logics,,,,
+cs/0302038,Tight Logic Programs,,,,
+cs/0303019,"An Effective Decision Procedure for Linear Arithmetic with Integer and
+  Real Variables",,,,
+cs/0303021,A Development Calculus for Specifications,,,,
+cs/0304017,Ground Canonicity,,,,
+cs/0304021,Model Checking for a Class of Weighted Automata,,,,
+cs/0304046,Distributed States Temporal Logic,,,,
+cs/0305007,Computing only minimal answers in disjunctive deductive databases,,,,
+cs/0305011,"Optimizing Optimal Reduction: A Type Inference Algorithm for Elementary
+  Affine Logic",,,,
+cs/0305040,Bounded LTL Model Checking with Stable Models,,,,
+cs/0305046,Applications of Intuitionistic Logic in Answer Set Programming,,,,
+cs/0306017,Minimum Model Semantics for Logic Programs with Negation-as-Failure,,,,
+cs/0306028,An Abstract Programming System,,,,
+cs/0306035,"A Transformational Decision Procedure for Non-Clausal Propositional
+  Formulas",,,,
+cs/0306113,"Symbolic Parametric Analysis of Embedded Systems with BDD-like
+  Data-Structures",,,,
+cs/0306117,Deciding regular grammar logics with converse through first-order logic,,,,
+cs/0306118,On coalgebra based on classes,,,,
+cs/0306121,Reachability problems for communicating finite state machines,,,,
+cs/0307022,Transformations of Logic Programs with Goals as Arguments,,,,
+cs/0307057,Secrecy in Multiagent Systems,,,,
+cs/0307067,Sound search in a denotational semantics for first order logic,,,,
+cs/0307069,A logic for reasoning about upper probabilities,,,,
+cs/0307070,"Modeling Belief in Dynamic Systems, Part I: Foundations",,,,
+cs/0307071,"Modeling Belief in Dynamic Systems, Part II: Revisions and Update",,,,
+cs/0308001,"Two- versus three-dimensional connectivity testing of first-order
+  queries to semi-algebraic sets",,,,
+cs/0308012,"Constant-Depth Frege Systems with Counting Axioms Polynomially Simulate
+  Nullstellensatz Refutations",,,,
+cs/0308014,On the expressive power of semijoin queries,,,,
+cs/0308029,"On Decidability of Expressive Description Logics with Composition of
+  Roles in Number Restrictions",,,,
+cs/0309024,Results on the quantitative mu-calculus qMu,,,,
+cs/0309045,"A uniform approach to constraint-solving for lists, multisets, compact
+  lists, and sets",,,,
+cs/0309046,"The Liar and Related Paradoxes: Fuzzy Truth Value Assignment for
+  Collections of Self-Referential Sentences",,,,
+cs/0309053,A Hierarchical Situation Calculus,,,,
+cs/0310020,Pure Prolog Execution in 21 Rules,,,,
+cs/0310054,Kleene algebra with domain,,,,
+cs/0310063,Logic programs with monotone cardinality atoms,,,,
+cs/0311003,Enhancing a Search Algorithm to Perform Intelligent Backtracking,,,,
+cs/0311008,"A Parameterised Hierarchy of Argumentation Semantics for Extended Logic
+  Programming and its Application to the Well-founded Semantics",,,,
+cs/0311018,"Ackermann Encoding, Bisimulations, and OBDDs",,,,
+cs/0311022,Temporalized logics and automata for time granularity,,,,
+cs/0311043,"Combining Logic Programs and Monadic Second Order Logics by Program
+  Transformation",,,,
+cs/0311044,"Derivation of Efficient Logic Programs by Specialization and Reduction
+  of Nondeterminism",,,,
+cs/0311046,Algebras for Agent Norm-Regulation,,,,
+cs/0312001,The concept of strong and weak virtual reality,,,,
+cs/0312012,Methods to Model-Check Parallel Systems Software,,,,
+cs/0312014,Logical Characterizations of Heap Abstractions,,,,
+cs/0312015,Soft lambda-calculus: a language for polynomial time computation,,,,
+cs/0312019,Verification of recursive parallel systems,,,,
+cs/0312028,"Minimal founded semantics for disjunctive logic programs and deductive
+  databases",,,,
+cs/0312029,Strong Equivalence Made Easy: Nested Expressions and Weight Constraints,,,,
+cs/0312032,Learning in a Compiler for MINSAT Algorithms,,,,
+cs/0312036,What Causes a System to Satisfy a Specification?,,,,
+cs/0312037,"Characterizing and Reasoning about Probabilistic and Non-Probabilistic
+  Expectation",,,,
+cs/0312038,Responsibility and blame: a structural-model approach,,,,
+cs/0312046,"On the Abductive or Deductive Nature of Database Schema Validation and
+  Update Processing Problems",,,,
+cs/0312048,Representation Dependence in Probabilistic Inference,,,,
+cs/0312057,Abduction in Well-Founded Semantics and Generalized Stable Models,,,,
+cs/0401016,Generalized Strong Preservation by Abstract Interpretation,,,,
+cs/0402002,Deciding Disjunctive Linear Arithmetic with SAT,,,,
+cs/0402010,Encapsulation for Practical Simplification Procedures,,,,
+cs/0402013,"Corollaries on the fixpoint completion: studying the stable semantics by
+  means of the Clark completion",,,,
+cs/0402039,On the Inertia of the Asynchronous Circuits,,,,
+cs/0402040,Defining the Delays of the Asynchronous Circuits,,,,
+cs/0402042,Anonymity and Information Hiding in Multiagent Systems,,,,
+cs/0402048,Transformation Rules for Locally Stratified Constraint Logic Programs,,,,
+cs/0403010,Polymorphic lemmas and definitions in Lambda Prolog and Twelf,,,,
+cs/0403024,"Uniform Proofs of Order Independence for Various Strategy Elimination
+  Procedures",,,,
+cs/0403032,Where Fail-Safe Default Logics Fail,,,,
+cs/0403044,Scalable Probabilistic Models for 802.11 Protocol Verification,,,,
+cs/0404021,Decidability and Universality in Symbolic Dynamical Systems,,,,
+cs/0404037,"Model-checking Driven Black-box Testing Algorithms for Systems with
+  Unspecified Components",,,,
+cs/0404048,Incompleteness of States w.r.t. Traces in Model Checking,,,,
+cs/0405002,"Splitting an operator: Algebraic modularity results for logics with
+  fixpoint semantics",,,,
+cs/0405038,Deductive Algorithmic Knowledge,,,,
+cs/0405066,A Logic for Reasoning about Digital Rights,,,,
+cs/0405081,An Analysis of Lambek's Production Machines,,,,
+cs/0405097,A Coalgebraic Approach to Kleene Algebra with Tests,,,,
+cs/0405098,A Logic for Reasoning about Evidence,,,,
+cs/0405103,On model checking data-independent systems with arrays without reset,,,,
+cs/0406013,Optimization of Bound Disjunctive Queries with Constraints,,,,
+cs/0406030,Abstract Canonical Inference,,,,
+cs/0406040,Alchemistry of the P versus NP question,,,,
+cs/0406041,Non-Termination Inference of Logic Programs,,,,
+cs/0407006,Predicate Abstraction with Indexed Predicates,,,,
+cs/0407007,The semijoin algebra and the guarded fragment,,,,
+cs/0407031,On Modal Logics of Partial Recursive Functions,,,,
+cs/0407045,The First-Order Theory of Sets with Cardinality Constraints is Decidable,,,,
+cs/0407049,Preferred Answer Sets for Ordered Logic Programs,,,,
+cs/0407055,PELCR: Parallel Environment for Optimal Lambda-Calculus Reduction,,,,
+cs/0407064,A Sequent Calculus and a Theorem Prover for Standard Conditional Logics,,,,
+cs/0408014,Typestate Checking and Regular Graph Constraints,,,,
+cs/0408015,On the Theory of Structural Subtyping,,,,
+cs/0408018,On Role Logic,,,,
+cs/0408019,On Generalized Records and Spatial Conjunction in Role Logic,,,,
+cs/0408037,"Multi-dimensional Type Theory: Rules, Categories, and Combinators for
+  Syntax and Semantics",,,,
+cs/0408045,On computing the fixpoint of a set of boolean equations,,,,
+cs/0408056,A CHR-based Implementation of Known Arc-Consistency,,,,
+cs/0408069,"The Integration of Connectionism and First-Order Knowledge
+  Representation and Reasoning as a Challenge for Artificial Intelligence",,,,
+cs/0409002,Default reasoning over domains and concept hierarchies,,,,
+cs/0409015,The strength of replacement in weak arithmetic,,,,
+cs/0409019,Outlier Detection by Logic Programming,,,,
+cs/0409030,Automatic Generation of CHR Constraint Solvers,,,,
+cs/0409045,"Augmenting ALC(D) (atemporal) roles and (aspatial) concrete domain with
+  temporal roles and a spatial concrete domain -first results",,,,
+cs/0409046,"A TCSP-like decidable constraint language generalising existing cardinal
+  direction relations",,,,
+cs/0409047,"An ALC(D)-based combination of temporal constraints and spatial
+  constraints suitable for continuous (spatial) change",,,,
+cs/0409052,Better Quasi-Ordered Transition Systems,,,,
+cs/0410029,Nondeterministic Linear Logic,,,,
+cs/0410030,Weak Typed Boehm Theorem on IMLL,,,,
+cs/0410034,"P-time Completeness of Light Linear Logic and its Nondeterministic
+  Extension",,,,
+cs/0410065,A Categorical View on Algebraic Lattices in Formal Concept Analysis,,,,
+cs/0410072,Temporal logic with predicate abstraction,,,,
+cs/0410073,On Spatial Conjunction as Second-Order Logic,,,,
+cs/0411029,Modules and Logic Programming,,,,
+cs/0411031,"Complexity of the Two-Variable Fragment with (Binary-Coded) Counting
+  Quantifiers",,,,
+cs/0411032,Logic Column 10: Specifying Confidentiality,,,,
+cs/0411097,Deterministic Bayesian Logic,,,,
+cs/0411100,A Decidable Probability Logic for Timed Probabilistic Systems,,,,
+cs/0412026,Removing Propagation Redundant Constraints in Redundant Modeling,,,,
+cs/0412041,An Efficient and Flexible Engine for Computing Fixed Points,,,,
+cs/0412063,Labelled transition systems as a Stone space,,,,
+cs/0412101,"The Inverse Method Implements the Automata Approach for Modal
+  Satisfiability",,,,
+cs/0412105,On the existence of stable models of non-stratified logic programs,,,,
+cs/0501006,"Formal Languages and Algorithms for Similarity based Retrieval from
+  Sequence Databases",,,,
+cs/0501024,Effectively Open Real Functions,,,,
+cs/0501025,A Logic for Non-Monotone Inductive Definitions,,,,
+cs/0501032,On Partially Additive Kleene Algebras,,,,
+cs/0501033,"Playful, streamlike computation",,,,
+cs/0501034,Symmetry and interactivity in Programming,,,,
+cs/0501035,"Introduction to linear logic and ludics, part I",,,,
+cs/0501039,"Introduction to linear logic and ludics, part II",,,,
+cs/0501040,"Split-2 Bisimilarity has a Finite Axiomatization over CCS with<br>
+  Hennessy&#39;s Merge",,,,
+cs/0501043,"Proving Correctness and Completeness of Normal Programs - a Declarative
+  Approach",,,,
+cs/0501059,"Under-approximation of the Greatest Fixpoint in Real-Time System
+  Verification",,,,
+cs/0501060,"Under-approximation of the Greatest Fixpoints in Real-Time System
+  Verification",,,,
+cs/0502005,Model-Checking Problems as a Basis for Parameterized Intractability,,,,
+cs/0502025,EPspectra: A Formal Toolkit for Developing DSP Software Applications,,,,
+cs/0502046,"Proof obligations for specification and refinement of liveness
+  properties under weak fairness",,,,
+cs/0502047,The succinctness of first-order logic on linear orders,,,,
+cs/0502082,Graphs and colorings for answer set programming,,,,
+cs/0502088,Towards a Systematic Account of Different Semantics for Logic Programs,,,,
+cs/0502091,An Audit Logic for Accountability,,,,
+cs/0503018,Probabilistic Algorithmic Knowledge,,,,
+cs/0503028,"Stabilization of Cooperative Information Agents in Unpredictable
+  Environment: A Logic Programming Approach",,,,
+cs/0503043,"Complexity Issues in Finding Succinct Solutions of PSPACE-Complete
+  Problems",,,,
+cs/0503055,Optimality in Goal-Dependent Analysis of Sharing,,,,
+cs/0503091,Resource Bounded Unprovability of Computational Lower Bounds,,,,
+cs/0504018,A Rule-Based Logic for Quantum Information,,,,
+cs/0504024,Constraint-Based Qualitative Simulation,,,,
+cs/0504027,Linear Datalog and Bounded Path Duality of Relational Structures,,,,
+cs/0504050,"Mapping Fusion and Synchronized Hyperedge Replacement into Logic
+  Programming",,,,
+cs/0505013,Theories for TC0 and Other Small Complexity Classes,,,,
+cs/0505014,"Interval Neutrosophic Sets and Logic: Theory and Applications in
+  Computing",,,,
+cs/0505025,Equivalence-Checking on Infinite-State Systems: Techniques and Results,,,,
+cs/0505026,Automatic Verification of Timed Concurrent Constraint Programs,,,,
+cs/0505033,Parametric Verification of a Group Membership Algorithm,,,,
+cs/0505034,Essential Incompleteness of Arithmetic Verified by Coq,,,,
+cs/0505037,General Recursion via Coinductive Types,,,,
+cs/0505041,Relational reasoning in the region connection calculus,,,,
+cs/0505063,Approximate reasoning for real-time probabilistic processes,,,,
+cs/0505073,Reasoning about transfinite sequences,,,,
+cs/0505087,Feasible Proofs of Matrix Properties with Csanky's Algorithm,,,,
+cs/0506008,Bounds on the Automata Size for Presburger Arithmetic,,,,
+cs/0506014,"The Equivalence Problem for Deterministic MSO Tree Transducers is
+  Decidable",,,,
+cs/0506030,Preferential and Preferential-discriminative Consequence relations,,,,
+cs/0506060,"Yet another normalisation proof for Martin-Lof's logical
+  framework--Terms with correct arities are strongly normalising",,,,
+cs/0506061,Security Policies as Membranes in Systems for Global Computing,,,,
+cs/0506079,Quantitative Models and Implicit Complexity,,,,
+cs/0506080,The Geometry of Linear Higher-Order Recursion,,,,
+cs/0506084,The One Page Model Checker,,,,
+cs/0506095,"Deriving a Stationary Dynamic Bayesian Network from a Logic Program with
+  Recursive Loops",,,,
+cs/0506096,Polynomial Synthesis of Asynchronous Automata,,,,
+cs/0506104,"Computing minimal models, stable models and answer sets",,,,
+cs/0507020,"First-order queries on structures of bounded degree are computable with
+  constant delay",,,,
+cs/0507035,Enhancing Global SLS-Resolution with Loop Cutting and Tabling Mechanisms,,,,
+cs/0507036,Improved Inference for Checking Annotations,,,,
+cs/0507037,Type Inference for Guarded Recursive Data Types,,,,
+cs/0507059,"Data complexity of answering conjunctive queries over SHIQ knowledge
+  bases",,,,
+cs/0507064,Termination of rewriting strategies: a generic approach,,,,
+cs/0508003,Model Checking Probabilistic Pushdown Automata,,,,
+cs/0508004,A three-valued semantics for logic programmers,,,,
+cs/0508044,"Deciding Quantifier-Free Presburger Formulas Using Parameterized
+  Solution Bounds",,,,
+cs/0508048,"An Operational Foundation for Delimited Continuations in the CPS
+  Hierarchy",,,,
+cs/0508109,Enhancing the Alloy Analyzer with Patterns of Analysis,,,,
+cs/0508112,A study of set-sharing analysis via cliques,,,,
+cs/0508123,On Algorithms and Complexity for Sets with Cardinality Constraints,,,,
+cs/0508129,Temporal Phylogenetic Networks and Logic Programming,,,,
+cs/0509019,Comparing hierarchies of total functionals,,,,
+cs/0509024,Well-founded and Stable Semantics of Logic Programs with Aggregates,,,,
+cs/0509025,A formally verified proof of the prime number theorem,,,,
+cs/0509058,Interactive Unawareness Revisited,,,,
+cs/0510010,On the Expressiveness of the Ambient Logic,,,,
+cs/0510011,"Diophantus' 20th Problem and Fermat's Last Theorem for n=4:
+  Formalization of Fermat's Proofs in the Coq Proof Assistant",,,,
+cs/0510012,On relating CTL to Datalog,,,,
+cs/0510036,Semantic Optimization Techniques for Preference Queries,,,,
+cs/0510061,Nonmonotonic Trust Management for P2P Applications,,,,
+cs/0510066,"The monadic second-order logic of graphs XVI : Canonical graph<br>
+  decompositions",,,,
+cs/0510069,Comparing Computational Power,,,,
+cs/0510073,Semantic Embedding of Petri Nets into Event-B,,,,
+cs/0510092,"Context Semantics, Linear Logic and Computational Complexity",,,,
+cs/0511006,Logical Relations for Monadic Types,,,,
+cs/0511014,"Flat and One-Variable Clauses: Complexity of Verifying Cryptographic
+  Protocols with Single Blind Copying",,,,
+cs/0511025,Logic Column 14: Nominal Logic and Abstract Syntax,,,,
+cs/0511038,"Towards a unified theory of logic programming semantics: Level mapping
+  characterizations of selector generated models",,,,
+cs/0511041,"Logic Programming with Default, Weak and Strict Negations",,,,
+cs/0511042,Dimensions of Neural-symbolic Integration - A Structured Survey,,,,
+cs/0511045,An Invariant Cost Model for the Lambda Calculus,,,,
+cs/0511055,Embedding Defeasible Logic into Logic Programming,,,,
+cs/0511061,Truly On-The-Fly LTL Model Checking,,,,
+cs/0511073,Stochastic Process Semantics for Dynamical Grammar Syntax: An Overview,,,,
+cs/0511097,Modularizing the Elimination of r=0 in Kleene Algebra,,,,
+cs/0512009,"Almost periodic functions, constructively",,,,
+cs/0512012,Extending the theory of Owicki and Gries with a logic of progress,,,,
+cs/0512031,Alternating Timed Automata,,,,
+cs/0512036,A System of Interaction and Structure II: The Need for Deep Inference,,,,
+cs/0512055,"Termination Analysis of General Logic Programs for Moded Queries: A
+  Dynamic Approach",,,,
+cs/0512082,"A Fixpoint Semantics of Event Systems with and without Fairness
+  Assumptions",,,,
+cs/0512096,"Book review ""The Haskell Road to Logic, Maths and Programming""",,,,
+cs/0601013,Forward slicing of functional logic programs by partial evaluation,,,,
+cs/0601018,A comparison between two logical formalisms for rewriting,,,,
+cs/0601032,Efficient Open World Reasoning for Planning,,,,
+cs/0601034,Using First-Order Logic to Reason about Policies,,,,
+cs/0601038,"Constraint-based automatic verification of abstract models of
+  multithreaded programs",,,,
+cs/0601043,"Combining Relational Algebra, SQL, Constraint Modelling, and Local
+  Search",,,,
+cs/0601051,A Constructive Semantic Characterization of Aggregates in ASP,,,,
+cs/0601085,A Formal Foundation for ODRL,,,,
+cs/0601096,On timed automata with input-determined guards,,,,
+cs/0601112,"Complexity of the Guarded Two-Variable Fragment with Counting
+  Quantifiers",,,,
+cs/0601114,"Efficient Query Answering over Conceptual Schemas of Relational
+  Databases : Technical Report",,,,
+cs/0601134,Combining decision procedures for the reals,,,,
+cs/0602004,Conjunctive Queries over Trees,,,,
+cs/0602024,"Algorithmic correspondence and completeness in modal logic. I. The core
+  algorithm SQEMA",,,,
+cs/0602040,"PLTL Partitioned Model Checking for Reactive Systems under Fairness
+  Assumptions",,,,
+cs/0603006,Pivotal and Pivotal-discriminative Consequence Relations,,,,
+cs/0603063,Unary Primitive Recursive Functions,,,,
+cs/0603071,An Explicit Solution to Post's Problem over the Reals,,,,
+cs/0603080,Yet Another Efficient Unification Algorithm,,,,
+cs/0603104,"Verification of Ptime reducibility for system F terms via Dual Light
+  Affine Logic",,,,
+cs/0603117,Affine functions and series with co-inductive real numbers,,,,
+cs/0603118,Coq in a Hurry,,,,
+cs/0603119,CoInduction in Coq,,,,
+cs/0604054,New results on rewrite-based satisfiability procedures,,,,
+cs/0605008,The complexity of acyclic conjunctive queries revisited,,,,
+cs/0605039,Fast and Generalized Polynomial Time Memory Consistency Verification,,,,
+cs/0605043,"Continuations, proofs and tests",,,,
+cs/0605064,Modal Logics of Topological Relations,,,,
+cs/0605085,A Scalable Algorithm for Minimal Unsatisfiable Core Extraction,,,,
+cs/0605094,Proof Search in Hajek's Basic Logic,,,,
+cs/0605106,Supervisory Control of Fuzzy Discrete Event Systems: A Formal Approach,,,,
+cs/0605107,"Fuzzy Discrete Event Systems under Fuzzy Observability and a
+  test-algorithm",,,,
+cs/0605128,Logic Column 15: Coalgebras and Their Logics,,,,
+cs/0606019,A synchronous pi-calculus,,,,
+cs/0606050,"Syntactic Characterisations of Polynomial-Time Optimisation Classes
+  (Syntactic Characterizations of Polynomial-Time Optimization Classes)",,,,
+cs/0606053,"Context-Sensitive Languages, Rational Graphs and Determinism",,,,
+cs/0606058,"Lower bounds and complete problems in nondeterministic linear time and
+  sublinear space complexity classes",,,,
+cs/0606062,Logics for Unranked Trees: An Overview,,,,
+cs/0606065,"On the complexity of XPath containment in the presence of disjunction,
+  DTDs, and variables",,,,
+cs/0606072,Relational Parametricity and Control,,,,
+cs/0606082,Lack of Finite Characterizations for the Distance-based Revision,,,,
+cs/0606084,"The Completeness of Propositional Resolution: A Simple and
+  Constructive<br> Proof",,,,
+cs/0606086,Uniform Random Sampling of Traces in Very Large Models,,,,
+cs/0607033,Planar Graphs: Logical Complexity and Parallel Isomorphism Tests,,,,
+cs/0607058,Craig's Interpolation Theorem formalised and mechanised in Isabelle/HOL,,,,
+cs/0607065,Decomposable Theories,,,,
+cs/0607141,"Logic Column 16: Higher-Order Abstract Syntax: Setting the Record
+  Straight",,,,
+cs/0607146,Modeling Adversaries in a Logic for Security Protocol Analysis,,,,
+cs/0608001,A Finite Equational Base for CCS with Left Merge and Communication Merge,,,,
+cs/0608017,Infinite Qualitative Simulations by Means of Constraint Programming,,,,
+cs/0608030,"On Quasi-Interpretations, Blind Abstractions and Implicit Complexity",,,,
+cs/0608035,Resource Usage Analysis for the Pi-Calculus,,,,
+cs/0608039,The weak pigeonhole principle for function classes in S^1_2,,,,
+cs/0608040,"An Embedding of the BSS Model of Computation in Light Affine
+  Lambda-Calculus",,,,
+cs/0608059,"A Distribution Law for CCS and a New Congruence Result for the
+  pi-calculus",,,,
+cs/0608062,Tarski's influence on computer science,,,,
+cs/0608094,On Universality in Real Computation,,,,
+cs/0608097,A study of fuzzy and many-valued logics in cellular automata,,,,
+cs/0608099,Automated verification of weak equivalence within the SMODELS system,,,,
+cs/0608110,Calculating modules in contextual logic program refinement,,,,
+cs/0608125,"Decidability of Type-checking in the Calculus of Algebraic Constructions
+  with Size Annotations",,,,
+cs/0609002,On the confluence of lambda-calculus with conditional rewriting,,,,
+cs/0609008,On the freeze quantifier in Constraint LTL: decidability and complexity,,,,
+cs/0609013,"Combining typing and size constraints for checking the termination of
+  higher-order conditional rewrite systems",,,,
+cs/0609015,Residual Finite Tree Automata,,,,
+cs/0609021,Non uniform (hyper/multi)coherence spaces,,,,
+cs/0609022,Dichotomies and Duality in First-order Model Checking Problems,,,,
+cs/0609037,(HO)RPO Revisited,,,,
+cs/0609039,Higher-Order Termination: from Kruskal to Computability,,,,
+cs/0609040,Elgot Algebras,,,,
+cs/0609048,On the logical definability of certain graph and poset languages,,,,
+cs/0609052,"Undecidability of the unification and admissibility problems for modal
+  and description logics",,,,
+cs/0609062,Nominal Logic Programming,,,,
+cs/0609080,Solution of a Problem of Barendregt on Sensible lambda-Theories,,,,
+cs/0609104,On Verifying Complex Properties using Symbolic Shape Analysis,,,,
+cs/0609108,Generalized Majority-Minority Operations are Tractable,,,,
+cs/0609109,The recognizability of sets of graphs is a robust property,,,,
+cs/0609110,Algebraic recognizability of languages,,,,
+cs/0609124,The Three Gap Theorem (Steinhauss Conjecture),,,,
+cs/0609130,A Predicative Harmonization of the Time and Provable Hierarchies,,,,
+cs/0609167,"Updates in Answer Set Programming: An Approach Based on Basic Structural
+  Properties",,,,
+cs/0610027,LTL with the Freeze Quantifier and Register Automata,,,,
+cs/0610034,Postinal Determinacy of Games with Infinitely Many Priorities,,,,
+cs/0610035,Positional Determinacy of Games with Infinitely Many Priorities,,,,
+cs/0610054,Enumeration Problems Related to Ground Horn Theories,,,,
+cs/0610055,Extending the Calculus of Constructions with Tarski's fix-point theorem,,,,
+cs/0610062,"A type-based termination criterion for dependently-typed higher-order
+  rewrite systems",,,,
+cs/0610063,The Calculus of Algebraic Constructions,,,,
+cs/0610064,Termination and Confluence of Higher-Order Rewrite Systems,,,,
+cs/0610065,Definitions by Rewriting in the Calculus of Constructions,,,,
+cs/0610066,Inductive-data-type Systems,,,,
+cs/0610068,Type theory and rewriting,,,,
+cs/0610069,"An Isabelle formalization of protocol-independent secrecy with an
+  application to e-commerce",,,,
+cs/0610070,Inductive types in the Calculus of Algebraic Constructions,,,,
+cs/0610071,Rewriting modulo in Deduction modulo,,,,
+cs/0610072,Definitions by rewriting in the Calculus of Constructions,,,,
+cs/0610073,Inductive types in the Calculus of Algebraic Constructions,,,,
+cs/0610080,Computable Closed Euclidean Subsets with and without Computable Points,,,,
+cs/0610081,"Semantics of Separation-Logic Typing and Higher-order Frame Rules
+  for<br> Algol-like Languages",,,,
+cs/0610085,Symbolic Simulation-Checking of Dense-Time Systems,,,,
+cs/0610093,Semantic results for ontic and epistemic change,,,,
+cs/0610117,"Quantifier elimination for the reals with a predicate for the powers of
+  two",,,,
+cs/0610137,A Concurrent Calculus with Atomic Transactions,,,,
+cs/0610149,Canonical decomposition of catenation of factorial languages,,,,
+cs/0610174,A Fixed-Parameter Algorithm for #SAT with Parameter Incidence Treewidth,,,,
+cs/0611004,Linear Abadi and Plotkin Logic,,,,
+cs/0611025,A Logical Approach to Efficient Max-SAT solving,,,,
+cs/0611029,Linear Encodings of Bounded LTL Model Checking,,,,
+cs/0611040,The Formal System lambda-delta,,,,
+cs/0611046,Analytic Tableaux Calculi for KLM Logics of Nonmonotonic Reasoning,,,,
+cs/0611048,"Dense-Timed Petri Nets: Checking Zenoness, Token liveness and
+  Boundedness",,,,
+cs/0611051,"Numerical Simulation guided Lazy Abstraction Refinement for Nonlinear
+  Hybrid Automata",,,,
+cs/0611057,Formalising Sylow's theorems in Coq,,,,
+cs/0611100,Model Theory of Ultrafinitism I: Fuzzy Initial Segments of Arithmetics,,,,
+cs/0611119,Expressiveness of Metric modalities for continuous time,,,,
+cs/0612003,Predicate Abstraction via Symbolic Decision Procedures,,,,
+cs/0612069,Cores of Countably Categorical Structures,,,,
+cs/0612106,On Completeness of Logical Relations for Monadic Types,,,,
+cs/0612120,Generalizing the Paige-Tarjan Algorithm by Abstract Interpretation,,,,
+cs/0701022,Definable functions in the simply typed lambda-calculus,,,,
+cs/0701023,A Polynomial Time Algorithm for 3-SAT,,,,
+cs/0701029,The Inhabitation Problem for Rank Two Intersection Types,,,,
+cs/0701031,"On the implementation of construction functions for non-free concrete
+  data types",,,,
+cs/0701032,Polygraphic programs and polynomial-time functions,,,,
+cs/0701039,"On the Complexity of the Numerically Definite Syllogistic and Related
+  Fragments",,,,
+cs/0701054,"Nearly-Exponential Size Lower Bounds for Symbolic Quantifier Elimination
+  Algorithms and OBDD-Based Proofs of Unsatisfiability",,,,
+cs/0701073,"A decision procedure for linear ""big O"" equations",,,,
+cs/0701082,Recurrence with affine level mappings is P-time decidable for CLP(R),,,,
+cs/0701095,Propositional theories are strongly equivalent to logic programs,,,,
+cs/0701113,On factorisation forests,,,,
+cs/0701138,Real-Time Model-Checking: Parameters everywhere,,,,
+cs/0701154,Logic Meets Algebra: the Case of Regular Languages,,,,
+cs/0702011,Dealing With Logical Omniscience: Expressiveness and Pragmatics,,,,
+cs/0702027,"The Suspension Calculus and its Relationship to Other Explicit
+  Treatments of Substitution in Lambda Calculi",,,,
+cs/0702040,Polygraphs for termination of left-linear term rewriting systems,,,,
+cs/0702069,Feasible reactivity in a synchronous pi-calculus,,,,
+cs/0702089,"Mapping the Object-Role Modeling language ORM2 into Description Logic
+  language DLRifd",,,,
+cs/0702120,"On the decidability and complexity of Metric Temporal Logic over finite
+  words",,,,
+cs/0702169,Bistable Biorders: A Sequential Domain Theory,,,,
+cs/0702171,How Overlap Determines the Macronuclear Genes in Ciliates,,,,
+cs/0703007,Intensional properties of polygraphs,,,,
+cs/0703018,A Coding Theoretic Study on MLL proof nets,,,,
+cs/0703039,Transforming structures by set interpretations,,,,
+cs/0703051,An ExpTime Procedure for Description Logic $\mathcal{ALCQI}$ (Draft),,,,
+cs/0703064,Automatic Structures: Richness and Limitations,,,,
+cs/0703079,"Automata with Nested Pebbles Capture First-Order Logic with Transitive
+  Closure",,,,
+cs/0703098,Polynomial time algorithm for 3-SAT. Examples of use,,,,
+cs/0703146,A Polynomial Time Algorithm for SAT,,,,
+cs/9808005,First-Order Conditional Logic Revisited,,,,
+cs/9808006,Set-Theoretic Completeness for Epistemic and Conditional Logic,,,,
+cs/9808007,Plausibility Measures and Default Reasoning,,,,
+cs/9809003,Common knowledge revisited,,,,
+cs/9809008,"Comparing the expressive power of the Synchronous and the Asynchronous
+  pi-calculus",,,,
+cs/9809013,Reasoning about Noisy Sensors and Effectors in the Situation Calculus,,,,
+cs/9809014,Uniform Provability in Classical Logic,,,,
+cs/9809015,"Correspondences between Classical, Intuitionistic and Uniform
+  Provability",,,,
+cs/9809120,"A Natural Deduction style proof system for propositional $\mu$-calculus
+  and its formalization in inductive type theories",,,,
+cs/9810008,Axiomatizing Flat Iteration,,,,
+cs/9811012,"Deriving Abstract Semantics for Forward Analysis of Normal Logic
+  Programs",,,,
+cs/9811017,Formulas as Programs,,,,
+cs/9812019,Symmetries and transitions of bounded Turing machines,,,,
+cs/9901003,Fixpoint 3-valued semantics for autoepistemic logic,,,,
+cs/9901012,Extremal problems in logic programming and stable model computation,,,,
+cs/9901016,Representation Theory for Default Logic,,,,
+cs/9902026,Probabilistic Inductive Inference:a Survey,,,,
+cs/9903006,Designing SAT for HCP,,,,
+cs/9903007,Some Remarks on the Geometry of Grammar,,,,
+cs/9906007,MSO definable string transductions and two-way finite state transducers,,,,
+cs/9906010,Predicate Logic with Definitions,,,,
+cs/9906013,Combining Inclusion Polymorphism and Parametric Polymorphism,,,,
+cs/9907014,"No information can be conveyed by certain events: The case of the clever
+  widows of Fornicalia and the Stobon Oracle",,,,
+cs/9907022,Weak length induction and slow growing depth boolean circuits,,,,
+cs/9907027,"The Alma Project, or How First-Order Logic Can Help Us in Imperative
+  Programming",,,,
+cs/9909014,Reasoning About Common Knowledge with Infinitely Many Agents,,,,
+cs/9909019,Knowledge in Multi-Agent Systems: Initial Configurations and Broadcast,,,,
+cs/9910012,The Complexity of Temporal Logic over the Reals,,,,
+cs/9910014,"Processor Verification Using Efficient Reductions of the Logic of
+  Uninterpreted Functions to Propositional Logic",,,,
+cs/9911014,The Complexity of Poor Man's Logic,,,,
+math/0310175,"Defining Homomorphisms and Other Generalized Morphisms of Fuzzy
+  Relations in Monoidal Fuzzy Logics by Means of BK-Products",,,,
+math/0312422,"\Sigma\Pi-polycategories, additive linear logic, and process semantics",,,,
+math/0502024,The maximum entropy state,,,,
+math/0503453,Weakly complete axiomatization of exogenous quantum propositional logic,,,,
+math/0505418,Internalising modified realisability in constructive type theory,,,,
+math/0509248,"Deterministic modal Bayesian Logic: derive the Bayesian within the modal
+  logic T",,,,
+math/0512110,Computably Based Locally Compact Spaces,,,,
+math/0602053,Towards a Definition of an Algorithm,,,,
+math/0602493,The dimension of a variety,,,,
+math/0608116,Conflict Free Rule for Combining Evidences,,,,
+math/0612083,Termination orders for 3-dimensional rewriting,,,,
+math/0612084,Termination orders for 3-polygraphs,,,,
+math/0612088,Two polygraphic presentations of Petri nets,,,,
+math/0612089,The three dimensions of proofs,,,,
+math/0701801,"Deterministic modal Bayesian Logic: derive the Bayesian inference within
+  the modal logic T",,,,
+math/0701904,Noncomputable Spectral Sets,,,,
+math/0702334,An Example of Pi^0_3-complete Infinitary Rational Relation,,,,
+math/0703713,The logic of message passing,,,,
+math/9411236,On finite rigid structures,,,,
+math/9705225,Choiceless polynomial time,,,,
+math/9807179,Polynomial time logic: Inability to express,,,,

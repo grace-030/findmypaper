@@ -1,0 +1,160 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+cs/0606060,"Complex Networks: New Concepts and Tools for Real-Time Imaging and
+  Vision",1.3435705668679707e-05,0.0,9.0,0.0
+cs/0506089,"Field geology with a wearable computer: 1st results of the Cyborg
+  Astrobiologist System",4.411123543442139e-06,0.0,3.0,0.0
+cs/0602065,Similarity of Objects and the Meaning of Words,4.124040381858852e-06,0.0,5.0,0.0
+cs/0702082,"Invariant template matching in systems with spatiotemporal coding: a
+  vote for instability",3.49912997646896e-06,0.0,2.0,0.0
+cs/0405095,Blind Detection and Compensation of Camera Lens Geometric Distortions,3.1489657777846533e-06,0.0,2.0,0.0
+math/9905165,"Perception games, the image understanding and interpretational geometry",3.063517947006172e-06,0.0,5.0,4.0
+cs/0308003,"A Family of Simplified Geometric Distortion Models for Camera
+  Calibration",3.0472482127272877e-06,0.0,2.0,2.0
+cs/0504037,"Bayesian Restoration of Digital Images Employing Markov Chain Monte
+  Carlo a Review",2.613835337721669e-06,0.0,2.0,0.0
+cs/0603041,Locally Adaptive Block Thresholding Method with Continuity Constraint,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0606048,A New Quartet Tree Heuristic for Hierarchical Clustering,2.3936107127906745e-06,0.0,3.0,1.0
+cs/0505058,"The Cyborg Astrobiologist: Scouting Red Beds for Uncommon Features with
+  Geological Significance",2.2960610328299915e-06,0.0,2.0,1.0
+quant-ph/9802028,Analogue Quantum Computers for Data Analysis,2.183090591894573e-06,0.0,3.0,2.0
+cs/0006047,Geometric Morphology of Granular Materials,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0405029,A New Computational Framework For 2D Shape-Enclosing Contours,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0312044,Clustering by compression,1.8935506151611049e-06,0.0,2.0,5.0
+cs/0111054,The similarity metric,1.8563310916148584e-06,0.0,2.0,3.0
+q-bio/0411030,Statistical Mechanics Characterization of Neuronal Mosaics,1.60698551133943e-06,0.0,1.0,2.0
+cs/0410071,The Cyborg Astrobiologist: First Field Experience,1.60698551133943e-06,0.0,1.0,2.0
+cs/0409031,"Field Geology with a Wearable Computer: First Results of the Cyborg
+  Astrobiologist System",1.60698551133943e-06,0.0,1.0,0.0
+cs/0401004,"Cyborg Systems as Platforms for Computer-Vision Algorithm-Development
+  for Astrobiology",1.3189329710618589e-06,0.0,0.0,4.0
+cs/0307047,Rational Radial Distortion Models with Analytical Undistortion Formulae,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0502017,Estimating mutual information and multi--information in large networks,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0307072,Camera Calibration: a USU Implementation,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0001024,A Parallel Algorithm for Dilated Contour Extraction from Bilevel Images,1.3189329710618589e-06,0.0,0.0,2.0
+cs/9810017,General Theory of Image Normalization,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0602044,"Multilevel Thresholding for Image Segmentation through a Fast
+  Statistical Recursive Algorithm",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0303024,"Differential Methods in Catadioptric Sensor Design with Applications to
+  Panoramic Imaging",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0202009,Non-negative sparse coding,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0001025,Computational Geometry Column 38,,,,
+cs/0003065,"Image Compression with Iterated Function Systems, Finite Automata and
+  Zerotrees: Grand Unification",,,,
+cs/0003079,Differential Invariants under Gamma Correction,,,,
+cs/0005001,Robustness of Regional Matching Scheme over Global Matching Scheme,,,,
+cs/0005027,A Bayesian Reflection on Surfaces,,,,
+cs/0006001,Boosting the Differences: A fast Bayesian classifier neural network,,,,
+cs/0006002,"Distorted English Alphabet Identification : An application of Difference
+  Boosting Algorithm",,,,
+cs/0006040,"Correlation over Decomposed Signals: A Non-Linear Approach to Fast and
+  Effective Sequences Comparison",,,,
+cs/0007026,Integrating E-Commerce and Data Mining: Architecture and Challenges,,,,
+cs/0010023,Oracle Complexity and Nontransitivity in Pattern Recognition,,,,
+cs/0101010,"An Even Faster and More Unifying Algorithm for Comparing Trees via
+  Unbalanced Bipartite Matchings",,,,
+cs/0101036,The Generalized Universal Law of Generalization,,,,
+cs/0201019,"Structure from Motion: Theoretical Foundations of a Novel Approach Using
+  Custom Built Invariants",,,,
+cs/0202020,"The Mysterious Optimality of Naive Bayes: Estimation of the Probability
+  in the System of ""Classifiers""",,,,
+cs/0208005,Probabilistic Search for Object Segmentation and Recognition,,,,
+cs/0210009,"On the Cell-based Complexity of Recognition of Bounded Configurations by
+  Finite Dynamic Cellular Automata",,,,
+cs/0301001,Least squares fitting of circles and lines,,,,
+cs/0303015,Statistical efficiency of curve fitting algorithms,,,,
+cs/0307038,Manifold Learning with Geodesic Minimal Spanning Trees,,,,
+cs/0307045,"Flexible Camera Calibration Using a New Analytical Radial Undistortion
+  Formula with Application to Mobile Robot Localization",,,,
+cs/0307046,A New Analytical Radial Distortion Model for Camera Calibration,,,,
+cs/0307051,"An Analytical Piecewise Radial Distortion Model for Precision Camera
+  Calibration",,,,
+cs/0308009,"The Generalized Riemann or Henstock Integral Underpinning Multivariate
+  Data Analysis: Application to Faint Structure Finding in Price Processes",,,,
+cs/0308023,On the complexity of curve fitting algorithms,,,,
+cs/0308037,Distributed and Parallel Net Imaging,,,,
+cs/0308038,Image Analysis in Astronomy for very large vision machine,,,,
+cs/0309041,Fast Verification of Convexity of Piecewise-linear Surfaces,,,,
+cs/0401017,Better Foreground Segmentation Through Graph Cuts,,,,
+cs/0401018,"Factor Temporal Prognosis of Tick-Borne Encephalitis Foci Functioning on
+  the South of Russian Far East",,,,
+cs/0402020,Geometrical Complexity of Classification Problems,,,,
+cs/0402021,A Numerical Example on the Principles of Stochastic Discrimination,,,,
+cs/0406008,Image compression by rectangular wavelet transform,,,,
+cs/0406017,Using Self-Organising Mappings to Learn the Structure of Data Manifolds,,,,
+cs/0406043,"The Computational Complexity of Orientation Search Problems in
+  Cryo-Electron Microscopy",,,,
+cs/0408012,"Three-Dimensional Face Orientation and Gaze Detection from a Single
+  Image",,,,
+cs/0408049,Using Stochastic Encoders to Discover Structure in Data,,,,
+cs/0408050,Invariant Stochastic Encoders,,,,
+cs/0410017,"Automated Pattern Detection--An Algorithm for Constructing Optimally
+  Synchronizing Multi-Regular Language Filters",,,,
+cs/0410020,Adaptive Cluster Expansion (ACE): A Hierarchical Bayesian Network,,,,
+cs/0410036,Self-Organised Factorial Encoding of a Toroidal Manifold,,,,
+cs/0410042,Neural Architectures for Robot Intelligence,,,,
+cs/0503076,Geometric Models of Rolling-Shutter Cameras,,,,
+cs/0505064,"Multi-Modal Human-Machine Communication for Instructing Robot Grasping
+  Tasks",,,,
+cs/0505084,An explicit formula for the number of tunnels in digital objects,,,,
+cs/0506019,"An Efficient Approximation Algorithm for Point Pattern Matching Under
+  Noise",,,,
+cs/0507039,"Distributed Regression in Sensor Networks: Training Distributively with
+  Alternating Projections",,,,
+cs/0507040,Pattern Recognition for Conditionally Independent Data,,,,
+cs/0509022,Achievable Rates for Pattern Recognition,,,,
+cs/0509081,Automatic Face Recognition System Based on Local Fourier-Bessel Features,,,,
+cs/0509083,"Face Verification in Polar Frequency Domain: a Biologically Motivated
+  Approach",,,,
+cs/0510001,"Retinal Vessel Segmentation Using the 2-D Morlet Wavelet and Supervised
+  Classification",,,,
+cs/0510056,First-Order Modeling and Stability Analysis of Illusory Contours,,,,
+cs/0512084,Understanding physics from interconnected data,,,,
+cs/0601102,"Geometric symmetry in the quadratic Fisher discriminant operating on
+  image pixels",,,,
+cs/0602083,"A third level trigger programmable on FPGA for the gamma/hadron
+  separation in a Cherenkov telescope using pseudo-Zernike moments and the SVM
+  classifier",,,,
+cs/0603116,Fourier Analysis and Holographic Representations of 1D and 2D Signals,,,,
+cs/0604011,Semi-Supervised Learning -- A Statistical Physics Approach,,,,
+cs/0604062,"Biologically Inspired Hierarchical Model for Feature Extraction and
+  Localization",,,,
+cs/0604094,"A Fast and Accurate Nonlinear Spectral Method for Image Recognition and
+  Registration",,,,
+cs/0605025,"Face Recognition using Principal Component Analysis and Log-Gabor
+  Filters",,,,
+cs/0605027,"Recognition of expression variant faces using masked log-Gabor features
+  and Principal Component Analysis",,,,
+cs/0605103,A Better Alternative to Piecewise Linear Time Series Segmentation,,,,
+cs/0605131,"Notes on Geometric Measure Theory Applications to Image Processing;
+  De-noising, Segmentation, Pattern, Texture, Lines, Gestalt and Occlusion",,,,
+cs/0608009,Stability in multidimensional Size Theory,,,,
+cs/0609010,"An effective edge--directed frequency filter for removal of aliasing in
+  upsampled images",,,,
+cs/0609071,A kernel method for canonical correlation analysis,,,,
+cs/0609100,"Total Variation Minimization and Graph Cuts for Moving Objects
+  Segmentation",,,,
+cs/0610033,A kernel for time series based on global alignments,,,,
+cs/0610059,Camera motion estimation through planar deformation determination,,,,
+cs/0611115,"A higher-order active contour model of a `gas of circles' and its
+  application to tree crown extraction",,,,
+cs/0701057,"Cooperative Optimization for Energy Minimization: A Case Study of Stereo
+  Matching",,,,
+cs/0701127,"A novel set of rotationally and translationally invariant features for
+  images based on the non-commutative bispectrum",,,,
+cs/0701150,Contains and Inside relationships within combinatorial Pyramids,,,,
+cs/0703088,Plot 94 in ambiance X-Window,,,,
+cs/0703101,A Note on Approximate Nearest Neighbor Methods,,,,
+cs/9810003,A Linear Shift Invariant Multiscale Transform,,,,
+cs/9905013,Robust Combining of Disparate Classifiers through Order Statistics,,,,
+cs/9908017,A Differential Invariant for Zooming,,,,
+math-ph/9903036,Numerically Invariant Signature Curves,,,,
+math/0304192,"On reconstructing n-point configurations from the distribution of
+  distances or areas",,,,
+math/0311004,"Which Point Configurations are Determined by the Distribution of their
+  Pairwise Distances?",,,,
+math/0508171,Matrices of Forests and the Analysis of Digraphs,,,,
+math/0607243,"An active curve approach for tomographic reconstruction of binary
+  radially symmetric objects",,,,
+math/0701791,Linear versus Non-linear Acquisition of Step-Functions,,,,
+physics/0005062,Applying MDL to Learning Best Model Granularity,,,,
+physics/0603002,Functional dissipation microarrays for classification,,,,

@@ -1,0 +1,148 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+cs/0607105,"Nearly-Linear Time Algorithms for Preconditioning and Solving Symmetric,
+  Diagonally Dominant Linear Systems",7.5973090687537055e-06,0.0,2.0,1.0
+cs/0703119,Support-Graph Preconditioners for 2-Dimensional Trusses,6.677085462290693e-06,0.0,1.0,1.0
+cs/0408053,"Weighted average finite difference methods for fractional diffusion
+  equations",4.1709069493050325e-06,0.0,1.0,0.0
+math/0605334,"Gr\""obner Bases and Generation of Difference Schemes for Partial
+  Differential Equations",3.702975115490415e-06,0.0,6.0,1.0
+cs/0311011,"On an explicit finite difference method for fractional diffusion
+  equations",3.5551959620992585e-06,0.0,2.0,1.0
+math/0209047,A mechanical model for the transportation problem,3.0666198176792906e-06,1.990182755160072e-06,1.0,4.0
+cs/0609001,"A Robust Solution Procedure for Hyperelastic Solids with Large Boundary
+  Deformation",3.0472482127272877e-06,0.0,2.0,0.0
+cs/0610036,Optimization of Memory Usage in Tardos's Fingerprinting Codes,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0201015,On the Significance of Digits in Interval Notation,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0302011,Smoothed Analysis of Interior-Point Algorithms: Condition Number,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0404034,"Propagation by Selective Initialization and Its Application to Numerical
+  Constraint Satisfaction Problems",2.4711431321721443e-06,0.0,1.0,0.0
+hep-ph/0411100,"LSJK - a C++ library for arbitrary-precision numeric evaluation of the
+  generalized log-sine functions",2.4420340610205125e-06,9.50900136704692e-09,3.0,3.0
+quant-ph/0001077,Poly-locality in quantum computing,2.023424902134926e-06,0.0,2.0,6.0
+cs/0407022,"Solving Elliptic Finite Element Systems in Near-Linear Time with Support
+  Preconditioners",1.8950380516170012e-06,0.0,1.0,2.0
+cs/0303004,Reliability Conditions in Quadrature Algorithms,1.8033601126281784e-06,0.0,1.0,0.0
+cs/0505015,"Complex Mean and Variance of Linear Regression Model for High-Noised
+  Systems by Kriging",1.703003024765287e-06,0.0,1.0,0.0
+cs/0409033,Mean and Variance Estimation by Kriging,1.703003024765287e-06,0.0,1.0,1.0
+cs/0502045,Adaptive grids as parametrized scale-free networks,1.5295226748816362e-06,0.0,1.0,0.0
+cs/0206039,"Hidden Markov model segmentation of hydrological and enviromental time
+  series",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0309018,Using Propagation for Solving Complex Arithmetic Constraints,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0602025,"On local symbolic approximation and resolution of ODEs using Implicit
+  Function Theorem",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0308021,"A Bernstein-Bezier Sufficient Condition for Invertibility of Polynomial
+  Mapping Functions",1.3189329710618589e-06,0.0,0.0,2.0
+cs/0502066,On the Complexity of Real Functions,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0609079,Modern Statistics by Kriging,1.3189329710618589e-06,0.0,0.0,3.0
+nlin/0405038,When Chaos Meets Computers,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0102023,Factored Notation for Interval I/O,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0310022,"Smoothed Analysis of the Condition Numbers and Growth Factors of
+  Matrices",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0106045,A Continuous Model of Computation,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0410045,"Analysis of and workarounds for element reversal for a finite
+  element-based algorithm for warping triangular and tetrahedral meshes",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0601104,"The complexity of class polynomial computation via floating point
+  approximations",1.3189329710618589e-06,0.0,0.0,1.0
+math/9809071,Solving Degenerate Sparse Polynomial Systems Faster,1.3189329710618589e-06,0.0,0.0,1.0
+astro-ph/0502164,"Particle Swarm Optimization: An efficient method for tracing periodic
+  orbits in 3D galactic potentials",,,,
+astro-ph/0605514,An algorithm for solving the pulsar equation,,,,
+cond-mat/9808130,"Finite-difference methods for simulation models incorporating
+  non-conservative forces",,,,
+cs/0006026,Online Correction of Dispersion Error in 2D Waveguide Meshes,,,,
+cs/0007002,Interval Constraint Solving for Camera Control and Motion Planning,,,,
+cs/0101003,"Signal-Theoretic Characterization of Waveguide Mesh Geometries for
+  Models of Two--Dimensional Wave Propagation in Elastic Media",,,,
+cs/0202038,The efficient generation of unstructured control volumes in 2D and 3D,,,,
+cs/0206010,Performance Comparison of Function Evaluation Methods,,,,
+cs/0206031,A sufficient condition for global invertibility of Lipschitz mapping,,,,
+cs/0210015,"New Developments in Interval Arithmetic and Their Implications for
+  Floating-Point Standardization",,,,
+cs/0211016,"Efficient Solving of Quantified Inequality Constraints over the Real
+  Numbers",,,,
+cs/0306015,"Computing sharp and scalable bounds on errors in approximate zeros of
+  univariate polynomials",,,,
+cs/0310036,"Solving Sparse, Symmetric, Diagonally-Dominant Linear Systems in Time $O
+  (m^{1.31})$",,,,
+cs/0401008,"Algorithm xxx: Modified Bessel functions of imaginary order and positive
+  argument",,,,
+cs/0404047,Using matrices in post-processing phase of CFD simulations,,,,
+cs/0407018,"An algorithm for two-dimensional mesh generation based on the pinwheel
+  tiling",,,,
+cs/0411004,Computational Aspects of a Numerical Model for Combustion Flow,,,,
+cs/0411047,"Numerical Solutions of 2-D Steady Incompressible Driven Cavity Flow at
+  High Reynolds Numbers",,,,
+cs/0411048,Discussions on Driven Cavity Flow,,,,
+cs/0411049,"Fourth Order Compact Formulation of Navier-Stokes Equations and Driven
+  Cavity Flow at High Reynolds Numbers",,,,
+cs/0412009,"A Fully Sparse Implementation of a Primal-Dual Interior-Point Potential
+  Reduction Method for Semidefinite Programming",,,,
+cs/0412107,A Monte Carlo algorithm for efficient large matrix inversion,,,,
+cs/0412120,"An estimate of accuracy for interpolant numerical solutions of a PDE
+  problem",,,,
+cs/0502092,Divergence-free Wavelets for Navier-Stokes,,,,
+cs/0505080,"Dominance Based Crossover Operator for Evolutionary Multi-objective
+  Algorithms",,,,
+cs/0509067,"Decomposing Solution Sets of Polynomial Systems: A New Parallel
+  Monodromy Breakup Algorithm",,,,
+cs/0510051,Numerical resolution of some BVP using Bernstein polynomials,,,,
+cs/0607032,Asymptotic Analysis of a Leader Election Algorithm,,,,
+cs/0608090,A Condition Number Analysis of a Line-Surface Intersection Algorithm,,,,
+cs/0609081,Recurrence relations and fast algorithms,,,,
+cs/0609082,Classifying extrema using intervals,,,,
+cs/0609114,"A VFRoe scheme for 1D shallow water flows : wetting and drying
+  simulation",,,,
+cs/0610108,Doppler Spectrum Estimation by Ramanujan Fourier Transforms,,,,
+cs/0610122,Faithful Polynomial Evaluation with Compensated Horner Algorithm,,,,
+cs/0611049,On numerical stability of recursive present value computation method,,,,
+cs/0611143,"An informational approach to the global optimization of
+  expensive-to-evaluate functions",,,,
+cs/0701141,The Fundamental Theorems of Interval Analysis,,,,
+cs/0701183,"Certification of the QR factor R, and of lattice basis reducedness",,,,
+cs/0701188,"Faster Inversion and Other Black Box Matrix Computations Using Efficient
+  Block Projections",,,,
+cs/0701192,The pitfalls of verifying floating-point computations,,,,
+cs/0702148,"Linking Microscopic and Macroscopic Models for Evolution: Markov Chain
+  Network Training and Conservation Law Approximations",,,,
+cs/0702163,"First Passage Time for Multivariate Jump-diffusion Stochastic Models
+  With Applications in Finance",,,,
+cs/0702164,"Monte-Carlo Simulations of the First Passage Time for Multivariate
+  Jump-Diffusion Processes in Financial Applications",,,,
+cs/0702165,"Efficient estimation of default correlation for multivariate
+  jump-diffusion processes",,,,
+cs/0702166,"Solving Stochastic Differential Equations with Jump-Diffusion
+  Efficiently: Applications to FPT Problems in Credit Risk",,,,
+cs/0702167,"Finite Volume Analysis of Nonlinear Thermo-mechanical Dynamics of Shape
+  Memory Alloys",,,,
+cs/0702168,"Simulation of Phase Combinations in Shape Memory Alloys Patches by
+  Hybrid Optimization Methods",,,,
+cs/0702172,"Numerical Model For Vibration Damping Resulting From the First Order
+  Phase Transformations",,,,
+cs/0703003,Functions to Support Input and Output of Intervals,,,,
+cs/0703025,"LIBOPT - An environment for testing solvers on heterogeneous collections
+  of problems - Version 1.0",,,,
+cs/0703082,Remarks on the O(N) Implementation of the Fast Marching Method,,,,
+cs/0703093,"Some problems in asymptotic convex geometry and random matrices
+  motivated by numerical algorithms",,,,
+cs/0703150,"Type-II/III DCT/DST algorithms with reduced number of arithmetic
+  operations",,,,
+cs/9812003,"Neural Network Methods for Boundary Value Problems Defined in
+  Arbitrarily Shaped Domains",,,,
+cs/9907005,"Alternative Local Discriminant Bases Using Empirical Expectation and
+  Variance Estimation",,,,
+cs/9907015,"Linear-Time Approximation Algorithms for Computing Numerical Summation
+  with Provably Small Errors",,,,
+math/0008020,The Lattice of integer partitions and its infinite extension,,,,
+math/0106120,"Least Sqaure Method for Sum of the Functions Satysfying the Differential
+  Equations with Polynomial Coefficients",,,,
+math/0607648,Singular Values and Eigenvalues of Tensors: A Variational Approach,,,,
+math/0608789,One method for proving inequalities by computer,,,,
+nucl-th/0605001,Isospin asymmetry in nuclei and nuclear symmetry energy,,,,
+physics/0011053,Faster Evaluation of Multidimensional Integrals,,,,
+physics/0209085,"The calculation of a normal force between multiparticle contacts using
+  fractional operators",,,,
+physics/0502149,Fine Grid Numerical Solutions of Triangular Cavity Flow,,,,
+physics/0505121,"Numerical Solutions of 2-D Steady Incompressible Flow in a Driven Skewed
+  Cavity",,,,
+quant-ph/0304206,Harmonic inversion helps to beat time-energy uncertainty relations,,,,

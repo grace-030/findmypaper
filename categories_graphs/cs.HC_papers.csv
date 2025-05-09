@@ -1,0 +1,71 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+cs/9809119,"Droems: experimental mathematics, informatics and infinite dimensional
+  geometry",5.469945661302049e-06,0.0,8.0,4.0
+cs/0506089,"Field geology with a wearable computer: 1st results of the Cyborg
+  Astrobiologist System",4.411123543442139e-06,0.0,3.0,0.0
+cs/0609034,"Social Decision Making with Multi-Relational Networks and Grammar-Based
+  Particle Swarms",3.926962852946316e-06,0.0,1.0,0.0
+cs/0510034,COMODI: On the Graphical User Interface,3.62335329328243e-06,0.0,2.0,0.0
+cs/0111007,Explaining Scenarios for Information Personalization,3.1564676950366884e-06,0.0,2.0,1.0
+cs/0402022,"Automatically Generating Interfaces for Personalized Interaction with
+  Digital Libraries",2.4711431321721443e-06,0.0,1.0,0.0
+math/9901074,Differential interactive games: The short-term predictions,2.3000864119537216e-06,0.0,3.0,4.0
+cs/0505058,"The Cyborg Astrobiologist: Scouting Red Beds for Uncommon Features with
+  Geological Significance",2.2960610328299915e-06,0.0,2.0,1.0
+cs/0110022,Mixed-Initiative Interaction = Mixed Computation,1.703003024765287e-06,0.0,1.0,1.0
+cs/0410071,The Cyborg Astrobiologist: First Field Experience,1.60698551133943e-06,0.0,1.0,2.0
+cs/0205059,A Connection-Centric Survey of Recommender Systems Research,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0312016,"Taking the Initiative with Extempore: Exploring Out-of-Turn Interactions
+  with Websites",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0007007,Data sonification and sound visualization,,,,
+cs/0011007,Tree-gram Parsing: Lexical Dependencies and Structural Relations,,,,
+cs/0106011,Computational properties of environment-based disambiguation,,,,
+cs/0204030,Fast Hands-free Writing by Gaze Direction,,,,
+cs/0206026,Interleaved semantic interpretation in environment-based parsing,,,,
+cs/0207013,"A Compact Graph Model of Handwritten Images: Integration into
+  Authentification and Recognition",,,,
+cs/0212045,Local Community Identification through User Access Patterns,,,,
+cs/0307011,Supporting Out-of-turn Interactions in a Multimodal Web Interface,,,,
+cs/0310013,"WebTeach in practice: the entrance test to the Engineering faculty in
+  Florence",,,,
+cs/0312017,An Exploratory Study of Mobile Computing Use by Knowledge Workers,,,,
+cs/0408012,"Three-Dimensional Face Orientation and Gaze Detection from a Single
+  Image",,,,
+cs/0408057,The role of robust semantic analysis in spoken language dialogue systems,,,,
+cs/0410027,Detecting User Engagement in Everyday Conversations,,,,
+cs/0410042,Neural Architectures for Robot Intelligence,,,,
+cs/0412065,"A Framework for Creating Natural Language User Interfaces for
+  Action-Based Applications",,,,
+cs/0505011,SWiM: A Simple Window Mover,,,,
+cs/0505064,"Multi-Modal Human-Machine Communication for Instructing Robot Grasping
+  Tasks",,,,
+cs/0507028,Adapting CBPP platforms for instructional use,,,,
+cs/0602006,A Visual Query Language for Complex-Value Databases,,,,
+cs/0604019,"The Case for Modeling Security, Privacy, Usability and Reliability
+  (SPUR) in Automotive Software",,,,
+cs/0605147,"Utilisation de la linguistique en reconnaissance de la parole : un
+  \'{e}tat de l'art",,,,
+cs/0606007,"A parent-centered radial layout algorithm for interactive graph
+  visualization and animation",,,,
+cs/0610030,Paper to Screen: Processing Historical Scans in the ADS,,,,
+cs/0611014,Interactive Problem Solving in Prolog,,,,
+cs/0612046,Social Networks and Social Information Filtering on Digg,,,,
+cs/0612047,Social Browsing on Flickr,,,,
+cs/0612081,Personal Information Ecosystems and Implications for Design,,,,
+cs/0701199,A Virtual Logo Keyboard for People with Motor Disabilities,,,,
+cs/0702149,"Coupling Control and Human-Centered Automation in Mathematical Models of
+  Complex Systems",,,,
+cs/0703044,"BrlAPI: Simple, Portable, Concurrent, Application-level Control of
+  Braille Terminals",,,,
+cs/0703087,Social Information Processing in Social News Aggregation,,,,
+cs/9811030,"Generating Segment Durations in a Text-To-Speech System: A Hybrid
+  Rule-Based/Neural Network Approach",,,,
+cs/9811031,Speech Synthesis with Neural Networks,,,,
+cs/9811032,"Text-To-Speech Conversion with Neural Networks: A Recurrent TDNN
+  Approach",,,,
+cs/9812006,"A High Quality Text-To-Speech System Composed of Multiple Neural
+  Networks",,,,
+cs/9812015,"Adaptive Interaction Using the Adaptive Agent Oriented Software
+  Architecture (AAOSA)",,,,
+cs/9812023,Virtual Kathakali : Gesture Driven Metamorphosis,,,,
+cs/9906027,Human-Computer Conversation,,,,

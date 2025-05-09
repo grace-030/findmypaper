@@ -1,0 +1,25 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+cs/0204004,Models and Tools for Collaborative Annotation,1.60698551133943e-06,0.0,1.0,0.0
+cs/0303025,Algorithmic Clustering of Music,1.3189329710618589e-06,0.0,0.0,6.0
+cs/0204005,Creating Annotation Tools with the Annotation Graph Toolkit,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0309018,Treatment of sound on quantum computers,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0005022,Fractionally-addressed delay lines,,,,
+cs/0006026,Online Correction of Dispersion Error in 2D Waveguide Meshes,,,,
+cs/0006039,"Orthogonal Least Squares Algorithm for the Approximation of a Map and
+  its Derivatives with a RBF Network",,,,
+cs/0007006,DISCO: An object-oriented system for music composition and sound design,,,,
+cs/0007007,Data sonification and sound visualization,,,,
+cs/0007014,The Sound Manifesto,,,,
+cs/0010017,"Generalization of a 3-D resonator model for the simulation of spherical
+  enclosures",,,,
+cs/0101003,"Signal-Theoretic Characterization of Waveguide Mesh Geometries for
+  Models of Two--Dimensional Wave Propagation in Elastic Media",,,,
+cs/0103005,Source-Filter Decomposition of Harmonic Sounds,,,,
+cs/0103006,Flexible Software Framework for Modal Synthesis,,,,
+cs/0204006,"TableTrans, MultiTrans, InterTrans and TreeTrans: Diverse Tools Built on
+  the Annotation Graph Toolkit",,,,
+cs/0410027,Detecting User Engagement in Everyday Conversations,,,,
+cs/0612096,"Using state space differential geometry for nonlinear blind source
+  separation",,,,
+cs/0701177,"Pitch Tracking of Acoustic Signals based on Average Squared Mean
+  Difference Function",,,,

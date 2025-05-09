@@ -1,0 +1,62 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+cs/9809119,"Droems: experimental mathematics, informatics and infinite dimensional
+  geometry",5.469945661302049e-06,0.0,8.0,4.0
+cs/0410044,An Example of Clifford Algebras Calculations with GiNaC,3.368447926064598e-06,0.0,1.0,3.0
+cs/0508002,"Methods for Analytical Understanding of Agent-Based Modeling of Complex
+  Systems",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0212007,Optimized Color Gamuts for Tiled Displays,2.216996446913695e-06,0.0,2.0,2.0
+cs/0504107,"k-core decomposition: a tool for the visualization of large scale
+  networks",2.087073078468716e-06,0.0,2.0,10.0
+cs/0512010,"A geometry of information, I: Nerves, posets and differential forms",1.6666765505919896e-06,0.0,1.0,0.0
+quant-ph/0602063,Topological Quantum Error Correction with Optimal Encoding Rate,1.653235282243827e-06,1.3614434270373626e-08,6.0,4.0
+cs/0608003,On a solution to display non-filled-in quaternionic Julia sets,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0507012,Lattice Gas Cellular Automata for Computational Fluid Animation,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0207004,Optimally cutting a surface into a disk,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0001017,Bezier Curves Intersection Using Relief Perspective,,,,
+cs/0101021,"A Fast General Methodology for Information-Theoretically Optimal
+  Encodings of Graphs",,,,
+cs/0101033,Linear-Time Succinct Encodings of Planar Graphs via Canonical Orderings,,,,
+cs/0203026,"Conformal Geometry, Euclidean Space and Geometric Algebra",,,,
+cs/0212043,Computing Conformal Structure of Surfaces,,,,
+cs/0304011,Embedded Reflection Mapping,,,,
+cs/0305057,The Persint visualization program for the ATLAS experiment,,,,
+cs/0306010,"On multiple connectedness of regions visible due to multiple diffuse
+  reflections",,,,
+cs/0306012,GraXML - Modular Geometric Modeler,,,,
+cs/0306031,The FRED Event Display: an Extensible HepRep Client for GLAST,,,,
+cs/0306042,"IGUANA Architecture, Framework and Toolkit for Interactive Graphics",,,,
+cs/0307065,"Application of interactive parallel visualization for commodity-based
+  clusters using visualization APIs",,,,
+cs/0310002,The Graphics Card as a Streaming Computer,,,,
+cs/0310017,Circle and sphere blending with conformal geometric algebra,,,,
+cs/0312006,"Benchmarking and Implementation of Probability-Based Simulations on
+  Programmable Graphics Cards",,,,
+cs/0401023,Surface Triangulation -- The Metric Approach,,,,
+cs/0404022,An Algorithm for Transforming Color Images into Tactile Graphics,,,,
+cs/0405036,Single-Strip Triangulation of Manifolds with Arbitrary Topology,,,,
+cs/0405048,"Interactive visualization of higher dimensional data in a multiview
+  environment",,,,
+cs/0503054,Analytic Definition of Curves and Surfaces by Parabolic Blending,,,,
+cs/0510087,MathPSfrag: Creating Publication-Quality Labels in Mathematica Plots,,,,
+cs/0512070,Incremental and Transitive Discrete Rotations,,,,
+cs/0603115,Implementation of float-float operators on graphics hardware,,,,
+cs/0603132,Graphics Turing Test,,,,
+cs/0606007,"A parent-centered radial layout algorithm for interactive graph
+  visualization and animation",,,,
+cs/0606055,"Simple Methods For Drawing Rational Surfaces as Four or Six Bezier
+  Patches",,,,
+cs/0606056,Fast and Simple Methods For Computing Control Points,,,,
+cs/0606061,"On the Efficiency of Strategies for Subdividing Polynomial Triangular
+  Surface Patches",,,,
+cs/0606098,Outlier Robust ICP for Minimizing Fractional RMSD,,,,
+cs/0607050,Interactive Hatching and Stippling by Example,,,,
+cs/0702026,Shape preservation behavior of spline curves,,,,
+cs/0703088,Plot 94 in ambiance X-Window,,,,
+cs/9301112,A note on digitized angles,,,,
+cs/9809035,Separation-Sensitive Collision Detection for Convex Objects,,,,
+cs/9810020,Computational Geometry Column 33,,,,
+cs/9810021,Computational Geometry Column 32,,,,
+cs/9909018,Geometric compression for progressive transmission,,,,
+cs/9910017,Finite-resolution hidden surface removal,,,,
+math/0607597,A Vortex Method for Bi-phasic Fluids Interacting with Rigid Bodies,,,,
+math/0608789,One method for proving inequalities by computer,,,,

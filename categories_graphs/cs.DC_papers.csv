@@ -1,0 +1,490 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+cs/0611128,"Scale-Free Overlay Topologies with Hard Cutoffs for Unstructured
+  Peer-to-Peer Networks",3.507727815371592e-05,0.0,3.0,0.0
+cs/0606060,"Complex Networks: New Concepts and Tools for Real-Time Imaging and
+  Vision",1.3435705668679707e-05,0.0,9.0,0.0
+cs/9908014,An Introduction to Collective Intelligence,9.09495133914865e-06,5.7715299899642086e-05,12.0,5.0
+cs/0307019,Lattice QCD Production on Commodity Clusters at Fermilab,7.018216001623021e-06,0.0,1.0,0.0
+cond-mat/9812344,"Parallelization of a Dynamic Monte Carlo Algorithm: a Partially
+  Rejection-Free Conservative Approach",6.915007342277379e-06,0.0,4.0,2.0
+cs/0404014,A Modular and Fault-Tolerant Data Transport Framework,5.2789020724367525e-06,0.0,7.0,1.0
+cs/9912012,Avoiding Braess' Paradox through Collective Intelligence,5.252326499503554e-06,0.0,2.0,0.0
+hep-lat/0307015,"On the scaling of computational particle physics codes on cluster
+  computers",5.033491530514588e-06,3.6702055102807546e-08,7.0,2.0
+physics/0612134,Effective networks for real-time distributed processing,4.78415957435246e-06,0.0,3.0,0.0
+physics/0410226,"THE CAVES Project - Collaborative Analysis Versioning Environment
+  System; THE CODESH Project - Collaborative Development Shell",4.657503078974051e-06,0.0,1.0,0.0
+astro-ph/0112092,"Systolic and Hyper-Systolic Algorithms for the Gravitational N-Body
+  Problem, with an Application to Brownian Motion",4.339136880022827e-06,2.1167452561663348e-05,3.0,5.0
+quant-ph/0304112,Multiparty Quantum Coin Flipping,4.20272557708608e-06,1.8565137641418583e-08,7.0,8.0
+cs/0211013,"Algorithmic scalability in globally constrained conservative parallel
+  discrete event simulations of asynchronous systems",3.574625039529804e-06,0.0,1.0,1.0
+cs/0209023,Practical Load Balancing for Content Requests in Peer-to-Peer Networks,3.49912997646896e-06,0.0,2.0,0.0
+cs/0306043,Skip Graphs,3.3749066596554898e-06,0.0,1.0,0.0
+cond-mat/9909114,"From Massively Parallel Algorithms and Fluctuating Time Horizons to
+  Non-equilibrium Surface Growth",3.202008927026733e-06,0.0,1.0,1.0
+cs/0303016,Fast Parallel I/O on Cluster Computers,2.931679760450033e-06,1.7484414587728044e-06,6.0,1.0
+cs/0412038,"Tycoon: an Implementation of a Distributed, Market-based Resource
+  Allocation System",2.4711431321721443e-06,0.0,1.0,1.0
+cs/0302022,Fault-tolerant routing in peer-to-peer systems,2.4711431321721443e-06,0.0,1.0,1.0
+cs/0409024,Aperiodic Tilings: Breaking Translational Symmetry,2.4711431321721443e-06,0.0,1.0,1.0
+cs/0702042,A Formal Model for Programming Wireless Sensor Networks,2.4711431321721443e-06,0.0,1.0,0.0
+cs/9908002,"After Compilers and Operating Systems : The Third Advance in Application
+  Support",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0112020,Concurrent computing machines and physical space-time,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0407058,Communication-Aware Processor Allocation for Supercomputers,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0511094,A Machine-Independent port of the MPD language run time system to NetBSD,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0604109,CMS Software Distribution on the LCG and OSG Grids,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0401006,"Cluster computing performances using virtual processors and mathematical
+  software",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0501021,"Large-scale lattice Boltzmann simulations of complex fluids: advances
+  through the advent of computational grids",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0506034,"A Taxonomy of Data Grids for Distributed Data Sharing, Management and
+  Processing",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0010013,A Public-key based Information Management Model for Mobile Agents,2.4711431321721443e-06,0.0,1.0,0.0
+cs/9905005,General Principles of Learning-Based Multi-Agent Systems,2.418492420972594e-06,0.0,2.0,1.0
+hep-lat/0308005,"Parallel implementation of a lattice-gauge-theory code: studying quark
+  confinement on PC clusters",2.3376058541254275e-06,1.7504207905988487e-06,4.0,6.0
+cs/0307036,Small-World File-Sharing Communities,2.300725523621532e-06,7.4260550565674335e-09,1.0,1.0
+cs/9905003,Collective Choice Theory in Collaborative Computing,2.120978933487838e-06,0.0,1.0,0.0
+cs/9908013,Collective Intelligence for Control of Distributed Dynamical Systems,2.111630434508683e-06,0.0,4.0,0.0
+cs/0409032,"Desynchronization and Speedup in an Asynchronous Conservative Parallel
+  Update Protocol",2.087073078468716e-06,0.0,2.0,2.0
+cs/0602068,"Parallel Symbolic Computation of Curvature Invariants in General
+  Relativity",1.971745160783518e-06,0.0,2.0,0.0
+cs/0303026,Preserving Peer Replicas By Rate-Limited Sampled Voting in LOCKSS,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0006030,Multiagent Control of Self-reconfigurable Robots,1.8950380516170012e-06,0.0,1.0,3.0
+cs/0701075,"Open-architecture Implementation of Fragment Molecular Orbital Method
+  for Peta-scale Computing",1.8950380516170012e-06,0.0,1.0,0.0
+math/0608733,Context for models of concurrency,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0610120,Classdesc and Graphcode: support for scientific programming in C++,1.8950380516170012e-06,0.0,1.0,0.0
+math/0508533,On the cascade rollback synchronization,1.8950380516170012e-06,0.0,1.0,1.0
+cond-mat/0401229,On the Evolution of Time Horizons in Parallel and Grid Simulations,1.8950380516170012e-06,0.0,1.0,1.0
+cs/9904020,"ODP channel objects that provide services transparently for distributing
+  processing systems",1.8950380516170012e-06,0.0,1.0,2.0
+cs/0411050,Utilizing Reconfigurable Hardware Processors via Grid Services,1.703003024765287e-06,0.0,1.0,0.0
+cs/0411075,A Self-Reconfigurable Computing Platform Hardware Architecture,1.703003024765287e-06,0.0,1.0,0.0
+astro-ph/0703485,Towards Distributed Petascale Computing,1.703003024765287e-06,0.0,1.0,1.0
+cs/0405053,Synchronous Relaxation for Parallel Ising Spin Simulations,1.703003024765287e-06,0.0,1.0,2.0
+cs/0303031,A Bird's eye view of Matrix Distributed Processing,1.6595327799251628e-06,0.0,2.0,0.0
+hep-lat/0004007,"Matrix Distributed Processing: A set of C++ Tools for implementing
+  generic lattice computations on parallel systems",1.6547532124420126e-06,2.985274132740108e-06,2.0,7.0
+cs/0407066,ParFORM: Parallel Version of the Symbolic Manipulation Program FORM,1.5338009134419884e-06,0.0,3.0,2.0
+cs/0109004,Parallel Computing on a PC Cluster,1.4835344226490424e-06,0.0,1.0,2.0
+astro-ph/9912134,"Interfacing Interpreted and Compiled Languages to Support Applications
+  on a Massively Parallel Network of Workstations (MP-NOW)",1.3359408347109411e-06,0.0,1.0,0.0
+cs/0306055,BlueOx: A Java Framework for Distributed Data Analysis,1.3335417551030498e-06,0.0,1.0,0.0
+cs/0407017,"A Low Cost Distributed Computing Approach to Pulsar Searches at a Small
+  College",1.325406061854613e-06,0.0,1.0,0.0
+cs/0411028,"A machine-independent port of the SR language run-time system to the
+  NetBSD operating system",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0612042,"Decentralized Maximum Likelihood Estimation for Sensor Networks Composed
+  of Nonlinearly Coupled Dynamical Systems",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0306222,"Update statistics in conservative parallel discrete event simulations of
+  asynchronous systems",1.3189329710618589e-06,0.0,0.0,2.0
+cs/0602013,An Optimal Distributed Edge-Biconnectivity Algorithm,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0612093,A Calculus for Sensor Networks,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0309022,Proposed Specification of a Distributed XML-Query Network,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0112012,Computing the average parallelism in trace monoids,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0210010,"A Random Structure for Optimum Cache Size Distributed hash table (DHT)
+  Peer-to-Peer design",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0504029,Fast Distributed Algorithms for Computing Separable Functions,1.3189329710618589e-06,0.0,0.0,3.0
+math/0003117,Reliable Cellular Automata with Self-Organization,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0409022,"Topology of biological networks and reliability of information
+  processing",1.3189329710618589e-06,0.0,0.0,4.0
+cs/0404013,Tycoon: A Distributed Market-based Resource Allocation System,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0106058,"Enabling the Long-Term Archival of Signed Documents through Time
+  Stamping",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0112103,"Going through Rough Times: from Non-Equilibrium Surface Growth to
+  Algorithmic Scalability",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0409001,Probabilistic heuristics for disseminating information in networks,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0502039,Efficient Parallel Simulations of Asynchronous Cellular Arrays,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0302050,"Suppressing Roughness of Virtual Times in Parallel Discrete-Event
+  Simulations",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0405077,Fast Simulation of Multicomponent Dynamic Systems,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0612088,Non-Clairvoyant Batch Sets Scheduling: Fairness is Fair enough,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0306002,The NorduGrid architecture and tools,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0312049,Using virtual processors for SPMD parallel programs,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0205023,Performance evaluation of the GridFTP within the NorduGrid project,1.3189329710618589e-06,0.0,0.0,1.0
+cs/9905002,DRAFT : Task System and Item Architecture (TSIA),1.3189329710618589e-06,0.0,0.0,1.0
+math/0604226,A Dynamic View of Circular Colorings,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0101026,"Deterministic computations whose history is independent of the order of
+  asynchronous updating",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0005026,"A One-Time Pad based Cipher for Data Protection in Distributed
+  Environments",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0103015,Fitness Uniform Selection to Preserve Genetic Diversity,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0312603,Complex Grid Computing,1.3189329710618589e-06,0.0,0.0,4.0
+cs/9905004,Using Collective Intelligence to Route Internet Traffic,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0403341,"Roughening of the (1+1) interfaces in two-component surface growth with
+  an admixture of random deposition",1.3189329710618589e-06,0.0,0.0,2.0
+astro-ph/0107084,A Multi-Threaded Fast Convolver for Dynamically Parallel Image Filtering,,,,
+astro-ph/0510041,Acceleration of adaptive optics simulations using programmable logic,,,,
+astro-ph/0510688,Using the Parallel Virtual Machine for Everyday Analysis,,,,
+cond-mat/0609584,Random numbers for large scale distributed Monte Carlo simulations,,,,
+cs/0002005,"Fully Sequential and Distributed Dynamic Algorithms for Minimum Spanning
+  Trees",,,,
+cs/0002008,On Automata with Boundary,,,,
+cs/0003054,"A Problem-Specific Fault-Tolerance Mechanism for Asynchronous,
+  Distributed Systems",,,,
+cs/0003058,A note on knowledge-based programs and specifications,,,,
+cs/0004010,Design and Evaluation of Mechanisms for a Multicomputer Object Store,,,,
+cs/0004013,Sorting Integers on the AP1000,,,,
+cs/0006004,"A Note on ""Optimal Static Load Balancing in Distributed Computer
+  Systems""",,,,
+cs/0006008,Performing work efficiently in the presence of faults,,,,
+cs/0006009,Knowledge and common knowledge in a distributed environment,,,,
+cs/0007015,Phase Clocks for Transient Fault Repair,,,,
+cs/0011046,Available Stabilizing Heaps,,,,
+cs/0012001,Available and Stabilizing 2-3 Trees,,,,
+cs/0012024,Byzantine Agreement with Faulty Majority using Bounded Broadcast,,,,
+cs/0102016,A Scientific Data Management System for Irregular Applications,,,,
+cs/0102017,"Components and Interfaces of a Process Management System for Parallel
+  Programs",,,,
+cs/0103001,Construction of an algorithm in parallel for the Fast Fourier Transform,,,,
+cs/0104002,Replica Selection in the Globus Data Grid,,,,
+cs/0105013,Dijkstra's Self-Stabilizing Algorithm in Unsupportive Environments,,,,
+cs/0105034,On the Area of Hypercube Layouts,,,,
+cs/0106054,"Software Toolkit for Building Embedded and Distributed Knowledge-based
+  Systems",,,,
+cs/0106056,Randomized Two-Process Wait-Free Test-and-Set,,,,
+cs/0107034,NEOS Server 4.0 Administrative Guide,,,,
+cs/0108002,Bounded Concurrent Timestamp Systems Using Vector Clocks,,,,
+cs/0108016,"Verifying Sequential Consistency on Shared-Memory Multiprocessors by
+  Model Checking",,,,
+cs/0108019,"Scalable Unix Commands for Parallel Processors: A High-Performance
+  Implementation",,,,
+cs/0109017,Learning from the Success of MPI,,,,
+cs/0109027,Routing Permutations in Partitioned Optical Passive Star Networks,,,,
+cs/0110058,"Teaching Parallel Programming Using Both High-Level and Low-Level
+  Languages",,,,
+cs/0111023,"Distributed Control System for the Test Interferometer of the ALMA
+  Project",,,,
+cs/0111033,Modernising the ESRF control system with GNU/Linux,,,,
+cs/0201006,"On the Importance of Having an Identity or, is Consensus really
+  Universal?",,,,
+cs/0201016,A computer scientist looks at game theory,,,,
+cs/0202003,Simple Optimal Wait-free Multireader Registers,,,,
+cs/0202005,Secure History Preservation Through Timeline Entanglement,,,,
+cs/0202019,Hypernets -- Good (G)news for Gnutella,,,,
+cs/0203009,SPINning Parallel Systems Software,,,,
+cs/0203030,Source Routing and Scheduling in Packet Networks,,,,
+cs/0205021,An Overview of a Grid Architecture for Scientific Computing,,,,
+cs/0205037,"A Primal-Dual Parallel Approximation Technique Applied to Weighted Set
+  and Vertex Cover",,,,
+cs/0206012,Fast Deterministic Consensus in a Noisy Environment,,,,
+cs/0206038,"A Multilevel Approach to Topology-Aware Collective Operations in
+  Computational Grids",,,,
+cs/0206040,MPICH-G2: A Grid-Enabled Implementation of the Message Passing Interface,,,,
+cs/0207036,"System Description for a Scalable, Fault-Tolerant, Distributed Garbage
+  Collector",,,,
+cs/0207095,Eternity variables to prove simulation of specifications,,,,
+cs/0208004,Detecting Race Conditions in Parallel Programs that Use Semaphores,,,,
+cs/0208021,Implicit Simulations using Messaging Protocols,,,,
+cs/0208027,A Unified Theory of Shared Memory Consistency,,,,
+cs/0209014,Randomized protocols for asynchronous consensus,,,,
+cs/0209024,"Errors in Low and Lapsley's article ""Optimization Flow Control, I: Basic
+  Algorithm and Convergence""",,,,
+cs/0209025,"Correction to Low and Lapsley's article ""Optimization Flow Control, I:
+  Basic Algorithm and Convergence""",,,,
+cs/0209031,Locating Data in (Small-World?) Peer-to-Peer Scientific Collaborations,,,,
+cs/0210017,A New Interpretation of Amdahl's Law and Geometric Scalability,,,,
+cs/0210019,A Historic Name-Trail Service,,,,
+cs/0301035,On the Complexity of Buffer Allocation in Message Passing Systems,,,,
+cs/0302010,Authenticated Append-only Skip Lists,,,,
+cs/0302020,Analytical formulations of Peer-to-Peer Connection Efficiency,,,,
+cs/0303005,Fair Solution to the Reader-Writer-Problem with Semaphores only,,,,
+cs/0303010,Techniques and Applications of Computation Slicing,,,,
+cs/0303011,Lock-free dynamic hash tables with open addressing,,,,
+cs/0303033,A Digital Preservation Appliance Based on OpenBSD,,,,
+cs/0304012,Individual Communication Complexity,,,,
+cs/0305059,EU DataGRID testbed management and support at CERN,,,,
+cs/0305061,A Secure Infrastructure For System Console and Reset Access,,,,
+cs/0305063,"McRunjob: A High Energy Physics Workflow Planner for Grid Production
+  Processing",,,,
+cs/0305066,The CMS Integration Grid Testbed,,,,
+cs/0306001,Clarens Client and Server Applications,,,,
+cs/0306002,The Clarens web services architecture,,,,
+cs/0306003,R-GMA: First results after deployment,,,,
+cs/0306004,Managing Dynamic User Communities in a Grid of Autonomous Resources,,,,
+cs/0306007,"The first deployment of workload management services on the EU DataGrid
+  Testbed: feedback on design and implementation",,,,
+cs/0306008,The new BaBar Data Reconstruction Control System,,,,
+cs/0306011,"Grid Data Management in Action: Experience in Running and Supporting
+  Data Management Services in the EU DataGrid Project",,,,
+cs/0306029,A Software Data Transport Framework for Trigger Applications on Clusters,,,,
+cs/0306030,"Grid-based access control for Unix environments, Filesystems and Web
+  Sites",,,,
+cs/0306044,Compositional competitiveness for distributed algorithms,,,,
+cs/0306048,Parallel netCDF: A Scientific High-Performance I/O Interface,,,,
+cs/0306051,A data Grid testbed environment in Gigabit WAN with HPSS,,,,
+cs/0306061,Operational Aspects of Dealing with the Large BaBar Data Set,,,,
+cs/0306063,A Model for Grid User Management,,,,
+cs/0306069,Distributed Offline Data Reconstruction in BaBar,,,,
+cs/0306071,AliEnFS - a Linux File System for the AliEn Grid Services,,,,
+cs/0306073,"GridMonitor: Integration of Large Scale Facility Fabric Monitoring with
+  Meta Data Service in Grid Environment",,,,
+cs/0306075,"Data Management for Physics Analysis in Phenix (BNL, RHIC)",,,,
+cs/0306084,BaBar Web job submission with Globus authentication and AFS access,,,,
+cs/0306111,Sharing a conceptual model of grid resources and services,,,,
+cs/0306133,GRAPPA: Grid Access Portal for Physics Applications,,,,
+cs/0307007,Management of Grid Jobs and Information within SAMGrid,,,,
+cs/0307066,"Augernome & XtremWeb: Monte Carlos computation on a global computing
+  platform",,,,
+cs/0308013,"A Robust and Computational Characterisation of Peer-to-Peer Database
+  Systems",,,,
+cs/0308024,Relational Grid Monitoring Architecture (R-GMA),,,,
+cs/0308028,Finding Traitors in Secure Networks Using Byzantine Agreements,,,,
+cs/0308037,Distributed and Parallel Net Imaging,,,,
+cs/0308038,Image Analysis in Astronomy for very large vision machine,,,,
+cs/0309040,A distributed algorithm to find k-dominating sets,,,,
+cs/0309042,On reducing the complexity of matrix clocks,,,,
+cs/0309044,The combinatorics of resource sharing,,,,
+cs/0309049,Control and Debugging of Distributed Programs Using Fiddle,,,,
+cs/0310003,"The Wake Up and Report Problem is Time-Equivalent to the Firing Squad
+  Synchronization Problem",,,,
+cs/0310004,Determination of the Topology of a Directed Network,,,,
+cs/0310029,Optimizing Noncontiguous Accesses in MPI-IO,,,,
+cs/0310030,A Particular Bug Trap: Execution Replay Using Virtual Machines,,,,
+cs/0310059,Design and Implementation of MPICH2 over InfiniBand with RDMA Support,,,,
+cs/0311009,OGSA/Globus Evaluation for Data Intensive Applications,,,,
+cs/0311010,Problem of Application Job Monitoring in GRID Systems,,,,
+cs/0311021,LCG-1 Deployment and usage experience,,,,
+cs/0311025,"Fine-Grained Authorization for Job Execution in the Grid: Design and
+  Implementation",,,,
+cs/0311028,Using Counterfactuals in Knowledge-Based Programming,,,,
+cs/0311041,S-ToPSS: Semantic Toronto Publish/Subscribe System,,,,
+cs/0311047,"I know what you mean: semantic issues in Internet-scale
+  publish/subscribe systems",,,,
+cs/0312012,Methods to Model-Check Parallel Systems Software,,,,
+cs/0312031,Distributed WWW Programming using (Ciao-)Prolog and the PiLLoW library,,,,
+cs/0401027,ClassdescMP: Easy MPI programming in C++,,,,
+cs/0402012,"A Knowledge-Theoretic Analysis of Uniform Distributed Coordination and
+  Failure Detectors",,,,
+cs/0402027,"Efficient and Scalable Barrier over Quadrics and Myrinet with a New
+  NIC-Based Collective Message Passing Protocol",,,,
+cs/0403013,Predictable Software -- A Shortcut to Dependable Computing ?,,,,
+cs/0403015,Belle Computing System,,,,
+cs/0404015,"The study of distributed computing algorithms by multithread
+  applications",,,,
+cs/0404029,The Effect of Faults on Network Expansion,,,,
+cs/0404047,Using matrices in post-processing phase of CFD simulations,,,,
+cs/0405006,Bi-criteria Algorithm for Scheduling Jobs on Cluster Platforms,,,,
+cs/0405040,Supervisory Control of Fuzzy Discrete Event Systems,,,,
+cs/0405042,"A Distributed TDMA Slot Assignment Algorithm for Wireless Sensor
+  Networks",,,,
+cs/0405058,Neighborhood-Based Topology Recognition in Sensor Networks,,,,
+cs/0405068,Observability and Decentralized Control of Fuzzy Discrete Event Systems,,,,
+cs/0405086,"A New Dynamical Domain Decomposition Method for Parallel Molecular
+  Dynamics Simulation on Grid",,,,
+cs/0406005,Microreboot -- A Technique for Cheap Recovery,,,,
+cs/0406007,Parallel Mixed Bayesian Optimization Algorithm: A Scaleup Analysis,,,,
+cs/0406027,"Fluctuation in Peer-to-Peer Networks: Mitigating Its Effect on DHT
+  Performance",,,,
+cs/0406046,Cheap Recovery: A Key to Self-Managing State,,,,
+cs/0407053,Design of a Parallel and Distributed Web Search Engine,,,,
+cs/0407055,PELCR: Parallel Environment for Optimal Lambda-Calculus Reduction,,,,
+cs/0408016,Lock-Free and Practical Deques using Single-Word Compare-And-Swap,,,,
+cs/0408032,Performance Characterisation of Intra-Cluster Collective Communications,,,,
+cs/0408033,"Identifying Logical Homogeneous Clusters for Efficient Wide-area
+  Communications",,,,
+cs/0408034,Fast Tuning of Intra-Cluster Collective Communications,,,,
+cs/0408036,Consensus on Transaction Commit,,,,
+cs/0408039,Medians and Beyond: New Aggregation Techniques for Sensor Networks,,,,
+cs/0409017,"Near Optimal Routing for Small-World Networks with Augmented Local
+  Awareness",,,,
+cs/0410007,"A Shared Write-protected Root Filesystem for a Group of Networked
+  Clients",,,,
+cs/0410009,"Diffusive Load Balancing of Loosely-Synchronous Parallel Programs over
+  Peer-to-Peer Networks",,,,
+cs/0410016,HEP@Home - A distributed computing system based on BOINC,,,,
+cs/0410043,Strategy in Ulam's Game and Tree Code Give Error-Resistant Protocols,,,,
+cs/0410047,Simple Distributed Weighted Matchings,,,,
+cs/0410066,Fast Query Processing by Distributing an Index over CPU Caches,,,,
+cs/0410074,ReCord: A Distributed Hash Table with Recursive Structure,,,,
+cs/0411027,"Extremal Properties of Three Dimensional Sensor Networks with
+  Applications",,,,
+cs/0411046,"Balanced Overlay Networks (BON): Decentralized Load Balancing via
+  Self-Organized Random Networks",,,,
+cs/0411095,Embeddings into the Pancake Interconnection Network,,,,
+cs/0412013,Signals for Cellular Automata in dimension 2 or higher,,,,
+cs/0412014,Randomized Initialization of a Wireless Multihop Network,,,,
+cs/0412115,"Reductions in Distributed Computing Part I: Consensus and Atomic
+  Commitment Tasks",,,,
+cs/0412116,Reductions in Distributed Computing Part II: k-Threshold Agreement Tasks,,,,
+cs/0412118,Power Aware Routing for Sensor Databases,,,,
+cs/0412121,A Distributed Economics-based Infrastructure for Utility Computing,,,,
+cs/0501002,"A Survey of Fault-Tolerance and Fault-Recovery Techniques in Parallel
+  Systems",,,,
+cs/0501069,A Statistical Theory of Chord under Churn,,,,
+cs/0502003,Shawn: A new approach to simulating wireless sensor networks,,,,
+cs/0502019,"A Price-Anticipating Resource Allocation Mechanism for Distributed
+  Shared Clusters",,,,
+cs/0502069,"Koordinatenfreies Lokationsbewusstsein (Localization without
+  Coordinates)",,,,
+cs/0502090,UNICORE - From Project Results to Production Grids,,,,
+cs/0502093,Online Permutation Routing in Partitioned Optical Passive Star Networks,,,,
+cs/0503013,Pr\'{e}diction de Performances pour les Communications Collectives,,,,
+cs/0503045,Contextual Constraint Modeling in Grid Application Workflows,,,,
+cs/0504051,A Scalable Stream-Oriented Framework for Cluster Applications,,,,
+cs/0504105,Wikis in Tuple Spaces,,,,
+cs/0506001,"SafeMPI - Extending MPI for Byzantine Error Detection on Parallel
+  Clusters",,,,
+cs/0506097,A Flexible Thread Scheduler for Hierarchical Multiprocessor Machines,,,,
+cs/0507034,Papillon: Greedy Routing in Rings,,,,
+cs/0507039,"Distributed Regression in Sensor Networks: Training Distributively with
+  Alternating Projections",,,,
+cs/0507050,"Skip-Webs: Efficient Distributed Data Structures for Multi-Dimensional
+  Data Sets",,,,
+cs/0507072,Reliable Data Storage in Distributed Hash Tables,,,,
+cs/0508006,A New Approach for Boundary Recognition in Geometric Sensor Networks,,,,
+cs/0508052,Energy Optimal Data Propagation in Wireless Sensor Networks,,,,
+cs/0508124,Coding Schemes for Line Networks,,,,
+cs/0509067,"Decomposing Solution Sets of Polynomial Systems: A New Parallel
+  Monodromy Breakup Algorithm",,,,
+cs/0509099,State-Based Control of Fuzzy Discrete Event Systems,,,,
+cs/0510046,"Defining a Comprehensive Threat Model for High Performance Computational
+  Clusters",,,,
+cs/0510048,"Deterministic boundary recognition and topology extraction for large
+  sensor networks",,,,
+cs/0510065,A new authentication protocol for revocable anonymity in ad-hoc networks,,,,
+cs/0510094,"Big Science with a Small Budget: Non-Embarrassingly Parallel
+  Applications in a Non-Dedicated Network of Workstations",,,,
+cs/0511083,Gradient Based Routing in Wireless Sensor Networks: a Mixed Strategy,,,,
+cs/0512021,The Poster Session of SSS 2005,,,,
+cs/0512060,Distributed Navigation Algorithms for Sensor Networks,,,,
+cs/0512077,Flat Holonomies on Automata Networks,,,,
+cs/0601078,Exploring high performance distributed file storage using LDPC codes,,,,
+cs/0601089,Distributed Kernel Regression: An Algorithm for Training Collaboratively,,,,
+cs/0601111,Localization in Wireless Sensor Grids,,,,
+cs/0601131,Scalable Algorithms for Aggregating Disparate Forecasts of Probability,,,,
+cs/0602016,"Finding total unimodularity in optimization problems solved by linear
+  programs",,,,
+cs/0602033,Self-stabilization of Circular Arrays of Automata,,,,
+cs/0603076,User-Relative Names for Globally Connected Personal Devices,,,,
+cs/0603087,"IP over P2P: Enabling Self-configuring Virtual IP Networks for Grid
+  Computing",,,,
+cs/0603112,"A General Framework for Scalability and Performance Analysis of DHT
+  Routing Systems",,,,
+cs/0604094,"A Fast and Accurate Nonlinear Spectral Method for Image Recognition and
+  Registration",,,,
+cs/0605057,"SLA-Based Coordinated Superscheduling Scheme and Performance for
+  Computational Grids",,,,
+cs/0605060,"A Case for Cooperative and Incentive-Based Coupling of Distributed
+  Clusters",,,,
+cs/0605096,Circle Formation of Weak Robots and Lyndon Words,,,,
+cs/0605141,General Compact Labeling Schemes for Dynamic Trees,,,,
+cs/0606028,"Affine Transformations of Loop Nests for Parallel Execution and
+  Distribution of Data over Processors",,,,
+cs/0606047,"Asynchronous iterative computations with Web information retrieval
+  structures: The PageRank case",,,,
+cs/0606095,A verification algorithm for Declarative Concurrent Programming,,,,
+cs/0606122,Comparison of Image Similarity Queries in P2P Systems,,,,
+cs/0607025,The evolution of navigable small-world networks,,,,
+cs/0607028,"A Quasi-Optimal Leader Election Algorithm in Radio Networks with
+  Log-Logarithmic Awake Time Slots",,,,
+cs/0607031,"A distributed approximation algorithm for the minimum degree minimum
+  weight spanning trees",,,,
+cs/0607032,Asymptotic Analysis of a Leader Election Algorithm,,,,
+cs/0607034,"Quasi-Optimal Leader Election Algorithms in Radio Networks with
+  Loglogarithmic Awake Time Slots",,,,
+cs/0607040,PALS: Efficient Or-Parallelism on Beowulf Clusters,,,,
+cs/0607041,"Methods for Partitioning Data to Improve Parallel Execution Time for
+  Sorting on Heterogeneous Clusters",,,,
+cs/0608068,"The Aligned-Coordinated Geographical Routing for Multihop Wireless
+  Networks",,,,
+cs/0608069,JiTS: Just-in-Time Scheduling for Real-Time Sensor Data Dissemination,,,,
+cs/0608084,The computational power of population protocols,,,,
+cs/0608092,Self-Stabilizing Byzantine Pulse Synchronization,,,,
+cs/0608096,Linear-time Self-stabilizing Byzantine Clock Synchronization,,,,
+cs/0609035,Rational Secret Sharing and Multiparty Computation: Extended Abstract,,,,
+cs/0609074,A Non-anchored Unified Naming System for Ad Hoc Computing Environments,,,,
+cs/0609163,Labeling Schemes with Queries,,,,
+cs/0610098,Characterizing Solution Concepts in Games Using Knowledge-Based Programs,,,,
+cs/0610131,Scheduling and data redistribution strategies on star platforms,,,,
+cs/0610137,A Concurrent Calculus with Atomic Transactions,,,,
+cs/0610163,A Taxonomy of Peer-to-Peer Based Complex Queries: a Grid perspective,,,,
+cs/0611034,Strategies for Replica Placement in Tree Networks,,,,
+cs/0611091,"Lossy Bulk Synchronous Parallel Processing Model for Very Large Scale
+  Grids",,,,
+cs/0611098,"Analysis of an Efficient Distributed Algorithm for Mutual Exclusion
+  (Average-Case Analysis of Path Reversal)",,,,
+cs/0611108,"On the Complexity of Processing Massive, Unordered, Distributed Data",,,,
+cs/0611116,Discovering Network Topology in the Presence of Byzantine Faults,,,,
+cs/0611117,2FACE: Bi-Directional Face Traversal for Efficient Geometric Routing,,,,
+cs/0611139,"Static Safety for an Actor Dedicated Process Calculus by Abstract
+  Interpretation",,,,
+cs/0611165,"Partially ordered distributed computations on asynchronous
+  point-to-point networks",,,,
+cs/0612025,Registers,,,,
+cs/0612035,Distributed Slicing in Dynamic Systems,,,,
+cs/0612036,Revisiting Matrix Product on Master-Worker Platforms,,,,
+cs/0612043,About the Lifespan of Peer to Peer Networks,,,,
+cs/0612074,Energy Efficient Randomized Communication in Unknown AdHoc Networks,,,,
+cs/0612083,A Byzantine Fault Tolerant Distributed Commit Protocol,,,,
+cs/0612105,"Towards Parallel Computing on the Internet: Applications, Architectures,
+  Models and Programming Tools",,,,
+cs/0612125,Heterogeneous Strong Computation Migration,,,,
+cs/0701015,"Asynchronous Implementation of Failure Detectors with partial
+  connectivity and unknown participants",,,,
+cs/0701037,"DMTCP: Transparent Checkpointing for Cluster Computations and the
+  Desktop",,,,
+cs/0701064,"Causing Communication Closure: Safe Program Composition with Reliable
+  Non-FIFO Channels",,,,
+cs/0701115,"Browser-based distributed evolutionary computation: performance and
+  scaling behavior",,,,
+cs/0701134,Byzantine Fault Tolerance for Nondeterministic Applications,,,,
+cs/0701179,Scatter of Weak Robots,,,,
+cs/0701189,A New Self-Stabilizing Maximal Matching Algorithm,,,,
+cs/0701190,"A Peer-to-Peer Browsable File Index using a Popularity Based Global
+  Namespace",,,,
+cs/0702066,"Comments on ""Design and performance evaluation of load distribution
+  strategies for multiple loads on heterogeneous linear daisy chain networks''",,,,
+cs/0702076,A First Step Towards Automatically Building Network Representations,,,,
+cs/0702085,"Social Behaviours Applied to P2P Systems: An efficient Algorithm for
+  Resource Organisation",,,,
+cs/0702113,Fast Computation of Small Cuts via Cycle Space Sampling,,,,
+cs/0702114,Nearest Neighbor Network Traversal,,,,
+cs/0702126,Efficient Searching and Retrieval of Documents in PROSA,,,,
+cs/0702127,Exploiting social networks dynamics for P2P resource organisation,,,,
+cs/0702131,"AICA: a New Pair Force Evaluation Method for Parallel Molecular Dynamics
+  in Arbitrary Geometries",,,,
+cs/0703028,"Graphic processors to speed-up simulations for the design of high
+  performance solar receptors",,,,
+cs/0703094,Geographic Routing Around Obstacles in Wireless Sensor Networks,,,,
+cs/0703100,Approximation Algorithms for Multiprocessor Scheduling under Uncertainty,,,,
+cs/0703112,"User-level DSM System for Modern High-Performance Interconnection
+  Networks",,,,
+cs/0703117,"Self-adaptive Gossip Policies for Distributed Population-based
+  Algorithms",,,,
+cs/0703122,Rapid Almost-Complete Broadcasting in Faulty Networks,,,,
+cs/0703137,"ReSHAPE: A Framework for Dynamic Resizing and Scheduling of Homogeneous
+  Applications in a Parallel Environment",,,,
+cs/9809003,Common knowledge revisited,,,,
+cs/9809006,"The Design and Architecture of the Microsoft Cluster Service -- A
+  Practical Approach to High-Availability and Scalability",,,,
+cs/9809007,Locally Served Network Computers,,,,
+cs/9809019,Distributed Computation as Hierarchy,,,,
+cs/9809125,"Distributed Computation, the Twisted Isomorphism, and Auto-Poiesis",,,,
+cs/9810002,Pre-fetching tree-structured data in distributed memory,,,,
+cs/9810019,Gryphon: An Information Flow Based Approach to Message Brokering,,,,
+cs/9812014,An Adaptive Agent Oriented Software Architecture,,,,
+cs/9812015,"Adaptive Interaction Using the Adaptive Agent Oriented Software
+  Architecture (AAOSA)",,,,
+cs/9902005,Mutual Search,,,,
+cs/9903009,"Space-Efficient Routing Tables for Almost All Networks and the
+  Incompressibility Method",,,,
+cs/9908008,Secure Multicast in a WAN,,,,
+cs/9908010,On Propagating Updates in a Byzantine Environment,,,,
+cs/9908011,The Load and Availability of Byzantine Quorum Systems,,,,
+cs/9909011,Distributed Algorithms in Multihop Broadcast Networks,,,,
+cs/9909013,"Self-stabilizing mutual exclusion on a ring, even if K=N",,,,
+cs/9909015,A decision-theoretic approach to reliable message delivery,,,,
+cs/9910019,"Consistent Checkpointing in Distributed Databases: Towards a Formal
+  Approach",,,,
+math-ph/0610037,"Cellular Computing and Least Squares for partial differential problems
+  parallel solving",,,,
+physics/0501164,Performance of an Operating High Energy Physics Data Grid: D0SAR-Grid,,,,
+physics/0506155,"A low-cost parallel implementation of direct numerical simulation of
+  wall turbulence",,,,
+q-bio/0511045,"The use of the GARP genetic algorithm and internet grid computing in the
+  Lifemapper world atlas of species biodiversity",,,,

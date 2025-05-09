@@ -1,0 +1,558 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+math/0611666,"Anomalous heat-kernel decay for random walk among bounded random
+  conductances",2.5380705507268804e-05,0.0,4.0,1.0
+math/0411002,On umbral extensions of Stirling numbers and Dobinski-like formulas,2.342884059758028e-05,1.990182755160072e-06,8.0,2.0
+math/0411145,"Information on some recent applications of umbral extensions to discrete
+  mathematics",1.9731945692156652e-05,6.965639643060252e-06,7.0,2.0
+math/0503286,Cobweb posets as noncommutative prefabs,1.9475111996634805e-05,7.960731020640288e-06,7.0,3.0
+math/0406006,Fibonomial cumulative connection constants,1.341001572692523e-05,0.0,11.0,2.0
+cs/0609159,Duality for Several Families of Evaluation Codes,9.900479168901206e-06,0.0,1.0,1.0
+math/0510027,Prefab posets` Whitney numbers,9.443946480955787e-06,0.0,4.0,1.0
+math/0503210,An Introduction to Finite Fibonomial Calculus,8.916063269750888e-06,0.0,1.0,0.0
+math/0210052,"Criteria for Balance in Abelian Gain Graphs, with Applications to
+  Piecewise-Linear Geometry",8.647801664806624e-06,0.0,3.0,2.0
+math/0406140,"The structure and labelled enumeration of K_{3,3}-subdivision-free
+  projective-planar graphs",8.49782909618734e-06,0.0,3.0,2.0
+cs/0606059,Tromino tilings of Domino-Deficient Rectangles,8.353916810390902e-06,0.0,2.0,1.0
+math/0509004,Counting unlabelled toroidal graphs with no K33-subdivisions,7.860686100608187e-06,0.0,3.0,1.0
+physics/0702015,Size reduction of complex networks preserving modularity,7.1630014451197145e-06,0.0,2.0,0.0
+cs/9908003,Ununfoldable Polyhedra with Convex Faces,7.092384155769953e-06,0.0,3.0,4.0
+cs/0106019,Playing Games with Algorithms: Algorithmic Combinatorial Game Theory,6.40862984513277e-06,0.0,6.0,3.0
+math/0412233,"Extended finite operator calculus as an example of algebraization of
+  analysis",6.3998472960326766e-06,4.97545688790018e-06,8.0,1.0
+quant-ph/0406135,"A combinatorial approach for studying LOCC transformations of
+  multipartite states",5.808251211155915e-06,0.0,6.0,0.0
+cs/0604079,"Polynomial Constraint Satisfaction, Graph Bisection, and the Ising
+  Partition Function",5.655144290770314e-06,0.0,1.0,1.0
+cs/0604080,"Linear-programming design and analysis of fast algorithms for Max 2-Sat
+  and Max 2-CSP",5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0207140,Alternative solutions to diluted p-spin models and XORSAT problems,5.630745366194976e-06,2.015322041109144e-06,7.0,15.0
+cs/0510041,Feynman graphs and related Hopf algebras,4.918294102254547e-06,3.980365510320144e-06,7.0,2.0
+math/0411356,"Characterization and enumeration of toroidal K_{3,3}-subdivision-free
+  graphs",4.890755141989474e-06,0.0,1.0,3.0
+cs/0601048,Permutation Polynomial Interleavers: An Algebraic-Geometric Perspective,4.775563454392716e-06,0.0,3.0,0.0
+cs/0601075,On Universally Decodable Matrices for Space-Time Coding,4.715121399099865e-06,0.0,3.0,0.0
+cs/0007042,Computational Geometry Column 39,4.580159970007856e-06,0.0,3.0,0.0
+math/0411007,"The First Ascent into the Incidence Algebra of the Fibonacci Cobweb
+  Poset",4.478949026377364e-06,0.0,4.0,2.0
+math/0310144,A Generalization of Repetition Threshold,4.225862311604661e-06,0.0,2.0,0.0
+cs/0110054,Vertex-Unfoldings of Simplicial Manifolds,3.888061612129075e-06,0.0,2.0,0.0
+cs/0107024,Enumerating Foldings and Unfoldings between Polygons and Polytopes,3.888061612129075e-06,0.0,2.0,1.0
+math/0209316,"Cycle and Circle Tests of Balance in Gain Graphs: Forbidden Minors and
+  Their Groups",3.820742750620725e-06,0.0,1.0,1.0
+math/0403139,First contact remarks on umbra difference calculus references streams,3.7035192904816256e-06,1.791164479644065e-05,6.0,3.0
+cs/0304045,On a composition of digraphs,3.652283164703462e-06,0.0,4.0,0.0
+math/0703575,Convex Discrete Optimization,3.62335329328243e-06,0.0,2.0,0.0
+cond-mat/0209419,A Novel Approach Applied to the Largest Clique Problem,3.598152613543355e-06,0.0,3.0,1.0
+math/0605242,N-Fold Integer Programming,3.536507300222492e-06,0.0,2.0,0.0
+cs/0301034,Computing the Number of Longest Common Subsequences,3.49912997646896e-06,0.0,2.0,0.0
+q-bio/0610017,"Number sequence representation of protein structures based on the second
+  derivative of a folded tetrahedron sequence",3.3749066596554898e-06,0.0,1.0,0.0
+cs/0107008,Complex Tilings,3.3749066596554898e-06,0.0,1.0,2.0
+cs/0703153,The periodic domino problem is undecidable in the hyperbolic plane,3.3749066596554898e-06,0.0,1.0,0.0
+cs/9908005,Polygonal Chains Cannot Lock in 4D,3.2671434218216862e-06,0.0,2.0,2.0
+cs/0210020,"Tetris is Hard, Even to Approximate",3.2505926093504603e-06,0.0,1.0,0.0
+math/0411239,Very well-covered graphs with log-concave independence polynomials,3.1564676950366884e-06,0.0,2.0,0.0
+math/0209047,A mechanical model for the transportation problem,3.0666198176792906e-06,1.990182755160072e-06,1.0,4.0
+cs/0412095,"Partitioning Regular Polygons into Circular Pieces II:Nonconvex
+  Partitions",2.923024895913817e-06,0.0,1.0,0.0
+cs/0609156,Entangled Graphs,2.890899368205086e-06,0.0,4.0,0.0
+cs/0602089,"Pseudo-Codeword Analysis of Tanner Graphs from Projective and Euclidean
+  Planes",2.7949320459784846e-06,0.0,4.0,0.0
+cs/0607092,Representing graphs as the intersection of axis-parallel cubes,2.77239764133326e-06,0.0,1.0,0.0
+cs/9910009,Locked and Unlocked Polygonal Chains in 3D,2.6319495192480272e-06,0.0,1.0,2.0
+cs/0107023,Vertex-Unfoldings of Simplicial Polyhedra,2.6289266828598087e-06,0.0,1.0,2.0
+cs/0007019,"Examples, Counterexamples, and Enumeration Results for Foldings and
+  Unfoldings between Polygons and Polytopes",2.6289266828598087e-06,0.0,1.0,2.0
+math/0605472,An algebraic approach to Polya processes,2.615030420229383e-06,0.0,1.0,0.0
+math/0403054,"$\psi$-Poisson, $q$-Cigler, $\psi$-Dobinski, $\psi$-Rota and
+  $\psi$-coherent states",2.5853638926495685e-06,0.0,2.0,0.0
+cs/0406010,Another Proof of an Extension of a Curious Identity,2.4711431321721443e-06,0.0,1.0,0.0
+math/0607051,"Discrete differential geometry of triangle tiles and algebra of closed
+  trajectories",2.4711431321721443e-06,0.0,1.0,1.0
+cs/0703147,The finite tiling problem is undecidable in the hyperbolic plane,2.4711431321721443e-06,0.0,1.0,1.0
+cs/0412078,The vertex-transitive TLF-planar graphs,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0703031,Sampling Eulerian orientations of triangular lattice graphs,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0702016,A multivariate interlace polynomial,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0607009,"Almost Periodicity, Finite Automata Mappings and Related Effectiveness
+  Issues",2.4711431321721443e-06,0.0,1.0,0.0
+math/0703865,Solving Triangular Peg Solitaire,2.4711431321721443e-06,0.0,1.0,0.0
+math/0611194,Directed animals in the gas,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0409024,Aperiodic Tilings: Breaking Translational Symmetry,2.4711431321721443e-06,0.0,1.0,1.0
+cs/0407059,On rational definite summation,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0702014,Probabilistic Analysis of Linear Programming Decoding,2.4617523365140226e-06,0.0,1.0,0.0
+math/0411488,"The obstructions for toroidal graphs with no $K_{3,3}$'s",2.455359654223368e-06,0.0,1.0,1.0
+cs/0601066,On the Existence of Universally Decodable Matrices,2.429735359900988e-06,0.0,2.0,1.0
+cs/0007021,PushPush and Push-1 are NP-hard in 2D,2.429735359900988e-06,0.0,2.0,0.0
+nlin/0507021,Measuring Generalized Preferential Attachment in Dynamic Social Networks,2.415206884045539e-06,2.0167921533390666e-06,1.0,2.0
+cs/0606048,A New Quartet Tree Heuristic for Hierarchical Clustering,2.3936107127906745e-06,0.0,3.0,1.0
+cs/0703001,Embedding Graphs into the Extended Grid,2.3827141618200373e-06,0.0,1.0,0.0
+math/0402344,More on combinatorial interpretation of the fibonomial coefficients,2.2801819654147267e-06,0.0,5.0,9.0
+math/0405578,"$\psi$-Appell polynomials` solutions of an umbral difference
+  nonhomogeneous equation",2.262048328515672e-06,0.0,4.0,2.0
+math/0403017,"Combinatorial interpretation of the recurrence relation for fibonomial
+  coefficients",2.219587752477787e-06,0.0,5.0,7.0
+math/0611679,Longest Common Pattern between two Permutations,2.1703299503340145e-06,0.0,1.0,1.0
+cs/9907018,Hinged Dissection of Polyominoes and Polyforms,2.1309374023216702e-06,0.0,1.0,2.0
+cs/0411064,Lower-Stretch Spanning Trees,2.120978933487838e-06,0.0,1.0,0.0
+math/0402291,Information on Combinatorial Interpretation of Fibonomial Coefficients,2.077847654943744e-06,0.0,4.0,10.0
+math/0404158,"A note on mobiusien function and mobiusien inversion formula of
+  fibonacci cobweb poset",2.051904472094693e-06,0.0,3.0,2.0
+cs/0506051,"Comparison of two different implementations of a
+  finite-difference-method for first-order pde in mathematica and matlab",1.9803101477411127e-06,0.0,1.0,0.0
+math/0403107,"Cauchy type identities and corresponding fermatian matrices via
+  non-comuting variables of extended finite operator calculus",1.9780778757104045e-06,0.0,4.0,2.0
+math/0406258,The logarithmic fibbinomial formula,1.974176050177888e-06,0.0,3.0,2.0
+cs/0703065,Satisfying assignments of Random Boolean CSP: Clusters and Overlaps,1.9334450569873443e-06,0.0,2.0,0.0
+cs/0510043,On Minimal Pseudo-Codewords of Tanner Graphs from Projective Planes,1.9334450569873443e-06,0.0,2.0,4.0
+math/0410550,Further developements in finite fibonomial calculus,1.917483662773465e-06,0.0,4.0,1.0
+math/0405591,Fibonacci q-gaussian sequences,1.909089601043753e-06,0.0,2.0,1.0
+cond-mat/0209112,"Graph equivalence and characterization via a continuous evolution of a
+  physical analog",1.907393772811366e-06,0.0,2.0,3.0
+math/0109195,Separating Geometric Thickness from Book Thickness,1.8950380516170012e-06,0.0,1.0,4.0
+cs/0301030,Bounds on the Number of Longest Common Subsequences,1.8950380516170012e-06,0.0,1.0,1.0
+cs/0702124,A Sequential Algorithm for Generating Random Graphs,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0306097,A family of metrics on contact structures based on edge ideals,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0307042,A Note on Objects Built From Bricks without Corners,1.8950380516170012e-06,0.0,1.0,0.0
+math/0403123,"Pascal like matrices - an accessible factory of one source identities
+  and resulting applications",1.7908698881830702e-06,0.0,3.0,1.0
+math/0405577,On $\psi$-basic bernoulli-wardian polynomials,1.7908698881830702e-06,0.0,3.0,3.0
+math/0503295,Characterization of the Fibonacci Cobweb Poset as oDAG,1.7487256088734735e-06,0.0,2.0,0.0
+cs/0312056,The Geometric Thickness of Low Degree Graphs,1.719955952274848e-06,0.0,1.0,1.0
+cs/0407033,Track Layouts of Graphs,1.719955952274848e-06,0.0,1.0,0.0
+math/0204252,Separating Thickness from Geometric Thickness,1.719955952274848e-06,0.0,1.0,1.0
+cs/0611028,A Decomposition Theory for Binary Linear Codes,1.7142551080554676e-06,0.0,1.0,0.0
+cond-mat/0301035,Scaling and Universality in Continuous Length Combinatorial Optimization,1.7114246959463388e-06,0.0,1.0,2.0
+cs/0605013,Geometric representation of graphs in low dimension,1.703003024765287e-06,0.0,1.0,1.0
+math/0304476,"Simultaneous avoidance of large squares and fractional powers in
+  infinite binary words",1.703003024765287e-06,0.0,1.0,1.0
+math/0306081,Avoiding large squares in infinite binary words,1.703003024765287e-06,0.0,1.0,1.0
+cs/0001019,PushPush is NP-hard in 2D,1.703003024765287e-06,0.0,1.0,2.0
+cs/0303031,A Bird's eye view of Matrix Distributed Processing,1.6595327799251628e-06,0.0,2.0,0.0
+quant-ph/0306158,Information Processing beyond Quantum Computation,1.640779631657619e-06,0.0,1.0,0.0
+cs/0502085,Fast generation of random connected graphs with prescribed degrees,1.60698551133943e-06,0.0,1.0,0.0
+cs/0510049,"Bounds on the Pseudo-Weight of Minimal Pseudo-Codewords of Projective
+  Geometry Codes",1.5493750032839157e-06,0.0,1.0,1.0
+cs/0309023,Efficient Algorithms for Citation Network Analysis,1.5109679979135728e-06,0.0,1.0,0.0
+math/0301211,Binary trees and fibred categories,1.5109679979135728e-06,0.0,1.0,0.0
+cs/0612001,Polynomial Time Symmetry and Isomorphism Testing for Connected Graphs,1.505926781991736e-06,0.0,1.0,0.0
+math/0402254,"q-Poisson, q-Dobinski, q-Rota and q-coherent states",1.382944646679097e-06,0.0,1.0,1.0
+cond-mat/0209111,Approaches to Network Classification,1.3276196425245206e-06,0.0,1.0,2.0
+cs/0511056,Improved Upper Bounds on Stopping Redundancy,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0106001,Approximating the satisfiability threshold for random k-XOR-formulas,1.3189329710618589e-06,0.0,0.0,3.0
+cs/9911013,PushPush is NP-hard in 3D,1.3189329710618589e-06,0.0,0.0,3.0
+math/9910185,Geometric Thickness of Complete Graphs,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0202039,Generalized Cores,1.3189329710618589e-06,0.0,0.0,6.0
+math/0312397,"On Simple Characterisations of Sheffer psi- polynomials and Related
+  Propositions of the Calculus of Sequences",1.3189329710618589e-06,0.0,0.0,18.0
+cs/0112012,Computing the average parallelism in trace monoids,1.3189329710618589e-06,0.0,0.0,1.0
+math/0506082,"Discrete differential geometry of proteins: a new method for encoding
+  three-dimensional structures of proteins",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0602041,Why neighbor-joining works,1.3189329710618589e-06,0.0,0.0,4.0
+cs/0702155,"On a characterization of cellular automata in tilings of the hyperbolic
+  plane",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0508098,An Explicit Construction of Universally Decodable Matrices,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0310049,An O(m) Algorithm for Cores Decomposition of Networks,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0508019,On the Minimal Pseudo-Codewords of Codes from Finite Geometries,1.3189329710618589e-06,0.0,0.0,5.0
+math/0402078,Towards psi-extension of Rota`s Finite Operator Calculus,1.3189329710618589e-06,0.0,0.0,11.0
+cs/0406050,Finite-Length Scaling for Iteratively Decoded LDPC Ensembles,1.3189329710618589e-06,0.0,0.0,4.0
+math/0304095,Polynomial versus Exponential Growth in Repetition-Free Binary Words,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0212050,Open Problems from CCCG 2002,1.3189329710618589e-06,0.0,0.0,2.0
+quant-ph/0207131,Efficient Quantum Algorithms for Estimating Gauss Sums,1.3189329710618589e-06,0.0,0.0,8.0
+cs/0607055,"Boundary cliques, clique trees and perfect sequences of maximal cliques
+  of a chordal graph",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0603093,"About the domino problem in the hyperbolic plane from an algorithmic
+  point of view",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0204001,A steady state model for graph power laws,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0006035,On the Development of the Intersection of a Plane with a Polytope,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0502081,"Tables, Memorized Semirings and Applications",1.3189329710618589e-06,0.0,0.0,1.0
+math/0605610,Nonlinear Bipartite Matching,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0405020,A proof of Alon's second eigenvalue conjecture and related problems,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0302001,"Many Hard Examples in Exact Phase Transitions with Application to
+  Generating Hard Satisfiable Instances",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0305009,The Threshold for Random k-SAT is 2^k ln2 - O(k),1.3189329710618589e-06,0.0,0.0,1.0
+cs/0610057,Properties of codes in rank metric,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0504101,Single-solution Random 3-SAT Instances,1.3189329710618589e-06,0.0,0.0,2.0
+math/0606122,Diagonal Peg Solitaire,1.3189329710618589e-06,0.0,0.0,1.0
+math/0310193,The Satisfiability Threshold of Random 3-SAT Is at Least 3.52,1.3189329710618589e-06,0.0,0.0,1.0
+math/0604226,A Dynamic View of Circular Colorings,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0107033,Yet another zeta function and learning,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0601069,Fast Enumeration of Combinatorial Objects,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0409010,Distance properties of expander codes,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0309017,Enumerating planar locally finite Cayley graphs,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0411001,Synchronization from a Categorical Perspective,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0611088,T-Theory Applications to Online Algorithms for the Server Problem,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0507068,"On parity check collections for iterative erasure decoding that correct
+  all correctable erasure patterns of a given size",1.3189329710618589e-06,0.0,0.0,3.0
+cs/0503058,On the Stopping Distance and the Stopping Redundancy of Codes,1.3189329710618589e-06,0.0,0.0,1.0
+cs/9910024,On Reconfiguring Tree Linkages: Trees can Lock,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0302005,"Barnacle: An Assembly Algorithm for Clone-based Sequences of Whole
+  Genomes",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0508049,Characterizations of Pseudo-Codewords of LDPC Codes,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0308011,Short Cycles Connectivity,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0605026,Strongly Almost Periodic Sequences under Finite Automata Mappings,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0607135,"A polynomial-time approximation algorithm for the number of k-matchings
+  in bipartite graphs",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0607108,Properties of subspace subcodes of optimum codes in rank metric,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0508104,A Generalised Hadamard Transform,1.3189329710618589e-06,0.0,0.0,1.0
+math/0512578,On cobweb posets and their combinatorially admissible sequences,1.3189329710618589e-06,0.0,0.0,1.0
+math/0401083,"On extended umbral calculus, oscillator-like algebras and Generalized
+  Clifford Algebra",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0504090,Discrete Morse Theory for free chain complexes,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0508071,Every decision tree has an influential variable,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0004005,Exact Phase Transitions in Random Constraint Satisfaction Problems,,,,
+cs/0008002,Structure of some sand pile model,,,,
+cs/0008010,Flipturning polygons,,,,
+cs/0008018,The Bisimulation Problem for equational graphs of finite out-degree,,,,
+cs/0009010,Computing Crossing Numbers in Quadratic Time,,,,
+cs/0009023,The Rectilinear Crossing Number of K_10 is 62,,,,
+cs/0009028,"Toward the Rectilinear Crossing Number of $K_n$: New Drawings, Upper
+  Bounds, and Asymptotics",,,,
+cs/0010036,Lattice Structure and Convergence of a Game of Cards,,,,
+cs/0011011,Formal Properties of XML Grammars and Languages,,,,
+cs/0011015,A Decomposition Theorem for Maximum Weight Bipartite Matchings,,,,
+cs/0011026,When Can You Fold a Map?,,,,
+cs/0011045,Index Assignment for Multichannel Communication under Failure,,,,
+cs/0101024,On-Line Difference Maximization,,,,
+cs/0101028,Optimal Constructions of Hybrid Algorithms,,,,
+cs/0101032,"Total Protection of Analytic Invariant Information in Cross Tabulated
+  Tables",,,,
+cs/0102004,Computational Geometry Column 41,,,,
+cs/0102005,"Compact Encodings of Planar Graphs via Canonical Orderings and Multiple
+  Parentheses",,,,
+cs/0102006,Orderly Spanning Trees with Applications,,,,
+cs/0102007,Common-Face Embeddings of Planar Graphs,,,,
+cs/0102008,Optimal Bid Sequences for Multiple-Object Auctions with Unequal Budgets,,,,
+cs/0102009,"Optimal Augmentation for Bipartite Componentwise Biconnectivity in
+  Linear Time",,,,
+cs/0102010,The Enhanced Double Digest Problem for DNA Physical Mapping,,,,
+cs/0104001,Mantaining Dynamic Matrices for Fully Dynamic Transitive Closure,,,,
+cs/0104009,Evaluating Recommendation Algorithms by Graph Analysis,,,,
+cs/0105029,Coloring k-colorable graphs using relatively small palettes,,,,
+cs/0106002,Solving Assembly Line Balancing Problems by Combining IP and CP,,,,
+cs/0106014,L.T.Kuzin: Research Program,,,,
+cs/0106030,"Logic, Individuals and Concepts",,,,
+cs/0107007,The Risk Profile Problem for Stock Portfolio Optimization,,,,
+cs/0107011,Distributed Broadcast in Wireless Networks with Unknown Topology,,,,
+cs/0107031,The Complexity of Clickomania,,,,
+cs/0108021,Computational Geometry Column 42,,,,
+cs/0110030,Dense point sets have sparse Delaunay triangulations,,,,
+cs/0110031,"Depth-3 Arithmetic Circuits for S^2_n(X) and Extensions of the
+  Graham-Pollack Theorem",,,,
+cs/0110049,A Symmetric Strategy in Graph Avoidance Games,,,,
+cs/0110059,Nonorthogonal Polyhedra Built from Rectangles,,,,
+cs/0111061,On a Special Case of the Generalized Neighbourhood Problem,,,,
+cs/0112023,"Lower Bound on the Chromatic Number by Spectra of Weighted Adjacency
+  Matrices",,,,
+cs/0201009,The performance of the batch learner algorithm,,,,
+cs/0203008,Computational Geometry Column 43,,,,
+cs/0204002,Coin-Moving Puzzles,,,,
+cs/0204017,Solitaire Clobber,,,,
+cs/0205024,"A (non)static 0-order statistical model and its implementation for
+  compressing virtually uncompressible data",,,,
+cs/0205030,Approximation Algorithms for Covering/Packing Integer Programs,,,,
+cs/0205035,"Simple Strategies for Large Zero-Sum Games with Applications to
+  Complexity Theory",,,,
+cs/0205036,Randomized Rounding without Solving the Linear Program,,,,
+cs/0205040,Approximating the Minimum Equivalent Digraph,,,,
+cs/0205041,Faster Parametric Shortest Path and Minimum Balance Algorithms,,,,
+cs/0205042,Orienting Graphs to Optimize Reachability,,,,
+cs/0205043,Low-Degree Spanning Trees of Small Weight,,,,
+cs/0205045,Balancing Minimum Spanning and Shortest Path Trees,,,,
+cs/0205047,"K-Medians, Facility Location, and the Chernoff-Wald Bound",,,,
+cs/0205050,"A Network-Flow Technique for Finding Low-Weight Bounded-Degree Spanning
+  Trees",,,,
+cs/0205051,Rounding Algorithms for a Geometric Embedding of Minimum Multiway Cut,,,,
+cs/0205077,Designing Multi-Commodity Flow Trees,,,,
+cs/0206024,Sierpinski Gaskets for Logic Functions Representation,,,,
+cs/0207009,"Computing Elementary Symmetric Polynomials with a Sublinear Number of
+  Multiplications",,,,
+cs/0207026,"Linear-Time Algorithms for Computing Maximum-Density Sequence Segments
+  with Bioinformatics Applications",,,,
+cs/0207078,"Randomized Approximation Schemes for Cuts and Flows in Capacitated
+  Graphs",,,,
+cs/0208007,"On the graph coloring check-digit scheme with applications to verifiable
+  secret sharing",,,,
+cs/0209005,Sampling from a couple of positively correlated binomial variables,,,,
+cs/0209016,Sorting with a forklift,,,,
+cs/0210024,The Lazy Bureaucrat Scheduling Problem,,,,
+cs/0211036,Typical random 3-SAT formulae and the satisfiability threshold,,,,
+cs/0301004,Near Quadratic Matrix Multiplication Modulo Composites,,,,
+cs/0301025,PHORMA: Perfectly Hashed Order Restricted Multidimensional Array,,,,
+cs/0301036,Algorithms using Java for Spreadsheet Dependent Cell Recomputation,,,,
+cs/0302028,"The Boolean Functions Computed by Random Boolean Formulas OR How to Grow
+  the Right Function",,,,
+cs/0303008,Solution of the Linear Ordering Problem (NP=P),,,,
+cs/0305002,Hybrid Rounding Techniques for Knapsack Problems,,,,
+cs/0305006,On the Ramsey Numbers for Bipartite Multigraphs,,,,
+cs/0305039,"Periodicity and Unbordered Words: A Proof of the Extended Duval
+  Conjecture",,,,
+cs/0305051,Sharp Bounds for Bandwidth of Clique Products,,,,
+cs/0306010,"On multiple connectedness of regions visible due to multiple diffuse
+  reflections",,,,
+cs/0308006,Higher-Dimensional Packing with Order Constraints,,,,
+cs/0308027,A Comparison of Secret Sharing Schemes Based on Latin Squares and RSA,,,,
+cs/0310019,"A hierarchical Algorithm to Solve the Shortest Path Problem in Valued
+  Graphs",,,,
+cs/0311020,An Optimal Algorithm for the Maximum-Density Segment Problem,,,,
+cs/0402034,Kolmogorov complexity and symmetric relational structures,,,,
+cs/0403040,Generating connected acyclic digraphs uniformly at random,,,,
+cs/0404029,The Effect of Faults on Network Expansion,,,,
+cs/0404031,Characterisations of Intersection Graphs by Vertex Orderings,,,,
+cs/0405005,Maximum-likelihood decoding of Reed-Solomon Codes is NP-hard,,,,
+cs/0405034,Computational Geometry Column 45,,,,
+cs/0405040,Supervisory Control of Fuzzy Discrete Event Systems,,,,
+cs/0405059,Erratum : MCColor is not optimal on Meyniel graphs,,,,
+cs/0405067,Note on Counting Eulerian Circuits,,,,
+cs/0405068,Observability and Decentralized Control of Fuzzy Discrete Event Systems,,,,
+cs/0405110,An analysis of a bounded resource search puzzle,,,,
+cs/0406024,Layout of Graphs with Bounded Tree-Width,,,,
+cs/0406053,"Approximation Algorithms for Minimum PCR Primer Set Selection with
+  Amplification Length and Uniqueness Constraints",,,,
+cs/0407015,Resource Bounded Immunity and Simplicity,,,,
+cs/0407041,Exploiting Semidefinite Relaxations in Constraint Programming,,,,
+cs/0407061,A measure of similarity between graph vertices,,,,
+cs/0407063,Unfolding Smooth Prismatoids,,,,
+cs/0408011,The asymptotic number of binary codes and binary matroids,,,,
+cs/0408028,Calculus on Graphs,,,,
+cs/0408067,The Expected Size of the Rule k Dominating Set,,,,
+cs/0408068,Probabilistic Analysis of Rule 2,,,,
+cs/0409009,CrocoPat 2.1 Introduction and Reference Manual,,,,
+cs/0409013,Locally connected spanning trees on graphs,,,,
+cs/0409017,"Near Optimal Routing for Small-World Networks with Augmented Local
+  Awareness",,,,
+cs/0409023,Proximity Inversion Functions on the Non-Negative Integers,,,,
+cs/0410013,Fibonacci connection between Huffman codes and Wythoff array,,,,
+cs/0410021,Complexity Results in Graph Reconstruction,,,,
+cs/0410031,Similarity-Based Supervisory Control of Discrete Event Systems,,,,
+cs/0410039,"Generating All Maximal Induced Subgraphs for Hereditary,
+  Connected-Hereditary and Rooted-Hereditary Properties",,,,
+cs/0410047,Simple Distributed Weighted Matchings,,,,
+cs/0410052,A 2-chain can interlock with a k-chain,,,,
+cs/0411027,"Extremal Properties of Three Dimensional Sensor Networks with
+  Applications",,,,
+cs/0411093,Forbidden Subgraphs in Connected Graphs,,,,
+cs/0411095,Embeddings into the Pancake Interconnection Network,,,,
+cs/0412013,Signals for Cellular Automata in dimension 2 or higher,,,,
+cs/0412014,Randomized Initialization of a Wireless Multihop Network,,,,
+cs/0502038,The Number of Spanning Trees in Kn-complements of Quasi-threshold Graphs,,,,
+cs/0502043,"Compatible Triangulations and Point Partitions by Series-Triangular
+  Graphs",,,,
+cs/0502058,The Complexity of Computing the Size of an Interval,,,,
+cs/0502064,The Lattice of Machine Invariant Sets and Subword Complexity,,,,
+cs/0502070,"Bidimensionality, Map Graphs, and Grid Minors",,,,
+cs/0503009,Minimal chordal sense of direction and circulant graphs,,,,
+cs/0503039,Notes for Miscellaneous Lectures,,,,
+cs/0503083,Coarse and Sharp Thresholds of Boolean Constraint Satisfaction Problems,,,,
+cs/0504004,Statistical analysis of quality measures for mobile ad hoc networks,,,,
+cs/0504016,Shortened Array Codes of Large Girth,,,,
+cs/0504026,Searching Monotone Multi-dimensional Arrays,,,,
+cs/0504038,On Approximating Restricted Cycle Covers,,,,
+cs/0504082,Coloring Artemis graphs,,,,
+cs/0505036,Minimal Eulerian trail in a labeled digraph,,,,
+cs/0505075,On Searching a Table Consistent with Division Poset,,,,
+cs/0505084,An explicit formula for the number of tunnels in digital objects,,,,
+cs/0505086,"On the Ancestral Compatibility of Two Phylogenetic Trees with Nested
+  Taxa",,,,
+cs/0505088,6-cycle double covers of cubic graphs,,,,
+cs/0506011,"On the dimensions of certain LDPC codes based on q-regular bipartite
+  graphs",,,,
+cs/0506055,The Complexity of Kings,,,,
+cs/0507013,An O(n log n)-Time Algorithm for the Restricted Scaffold Assignment,,,,
+cs/0507015,Duality between Packings and Coverings of the Hamming Space,,,,
+cs/0507016,Minimizing makespan in flowshop with time lags,,,,
+cs/0507017,Minimum Cost and List Homomorphisms to Semicomplete Digraphs,,,,
+cs/0507030,Strictly convex drawings of planar graphs,,,,
+cs/0508022,Matrix Construction Using Cyclic Shifts of a Column,,,,
+cs/0508055,DNA Codes that Avoid Secondary Structures,,,,
+cs/0508085,On the Asymptotic Performance of Iterative Decoders for Product Codes,,,,
+cs/0508097,Tightness of LP via Max-product Belief Propagation,,,,
+cs/0508107,"New Upper Bounds on A(n,d)",,,,
+cs/0509004,Precoloring co-Meyniel graphs,,,,
+cs/0509023,Coloring vertices of a graph or finding a Meyniel obstruction,,,,
+cs/0509034,N-free extensions of posets.Note on a theorem of P.A.Grillet,,,,
+cs/0509046,On the number of t-ary trees with a given path length,,,,
+cs/0509054,Grid Vertex-Unfolding Orthogonal Polyhedra,,,,
+cs/0509060,Cluster Computing and the Power of Edge Recognition,,,,
+cs/0509073,Distance-Increasing Maps of All Length by Simple Mapping Algorithms,,,,
+cs/0509091,Minimum Cost Homomorphisms to Semicomplete Multipartite Digraphs,,,,
+cs/0509099,State-Based Control of Fuzzy Discrete Event Systems,,,,
+cs/0509100,Distance-2 Edge Coloring is NP-Complete,,,,
+cs/0510033,Coding for the Optical Channel: the Ghost-Pulse Constraint,,,,
+cs/0510064,Acyclic orientations with path constraints,,,,
+cs/0510089,Automata-based adaptive behavior for economic modeling using game theory,,,,
+cs/0511034,Generalized Hermitian Codes over GF(2^r),,,,
+cs/0511052,Mining Cellular Automata DataBases throug PCA Models,,,,
+cs/0512019,Amazing geometry of genetic space or are genetic algorithms convergent?,,,,
+cs/0512044,"Computation of the Ramsey Number $R(W_5,K_5)$",,,,
+cs/0512049,Mastermind is NP-Complete,,,,
+cs/0512051,Existence of finite test-sets for k-power-freeness of uniform morphisms,,,,
+cs/0512070,Incremental and Transitive Discrete Rotations,,,,
+cs/0512077,Flat Holonomies on Automata Networks,,,,
+cs/0512105,"A study of the edge-switching Markov-chain method for the generation of
+  random graphs",,,,
+cs/0601011,"Integrality gaps of semidefinite programs for Vertex Cover and relations
+  to $\ell_1$ embeddability of Negative Type metrics",,,,
+cs/0601026,"Algebraic Structures and Algorithms for Matching and Matroid Problems
+  (Preliminary Version)",,,,
+cs/0601027,Quasiperiodic Sturmian words and morphisms,,,,
+cs/0601050,Computing Fibonacci numbers on a Turing Machine,,,,
+cs/0602033,Self-stabilization of Circular Arrays of Automata,,,,
+cs/0602038,Minimum Cost Homomorphisms to Proper Interval Graphs and Bigraphs,,,,
+cs/0602069,Faster Algorithms for Constructing a Concept (Galois) Lattice,,,,
+cs/0603012,Improved Bounds and Schemes for the Declustering Problem,,,,
+cs/0603031,"Performance Analysis of CDMA Signature Optimization with Finite Rate
+  Feedback",,,,
+cs/0603069,"The neighbor-scattering number can be computed in polynomial time for
+  interval graphs",,,,
+cs/0603108,Minimizing Symmetric Set Functions Faster,,,,
+cs/0604007,"On the Complexity of Limit Sets of Cellular Automata Associated with
+  Probability Measures",,,,
+cs/0604013,On Covering a Graph Optimally with Induced Subgraphs,,,,
+cs/0604051,Structural Alignments of pseudo-knotted RNA-molecules in polynomial time,,,,
+cs/0604068,Unbiased Matrix Rounding,,,,
+cs/0604104,"On the Shannon Covers of Certain Irreducible Constrained Systems of
+  Finite Type",,,,
+cs/0604108,"An Algebraic View of the Relation between Largest Common Subtrees and
+  Smallest Common Supertrees",,,,
+cs/0605011,A Characterization of the Degree Sequences of 2-Trees,,,,
+cs/0605019,The Distribution of Patterns in Random Trees,,,,
+cs/0605076,Numeration-automatic sequences,,,,
+cs/0606001,"Tight Bounds for the Min-Max Boundary Decomposition Cost of Weighted
+  Graphs",,,,
+cs/0606087,Violator Spaces: Structure and Algorithms,,,,
+cs/0606097,Synonym search in Wikipedia: Synarcher,,,,
+cs/0607008,3-facial colouring of plane graphs,,,,
+cs/0607023,Sharp threshold for hamiltonicity of random geometric graphs,,,,
+cs/0607031,"A distributed approximation algorithm for the minimum degree minimum
+  weight spanning trees",,,,
+cs/0607039,Set-Theoretic Preliminaries for Computer Scientists,,,,
+cs/0607056,Reasoning with Intervals on Granules,,,,
+cs/0607057,The Average Size of Giant Components Between the Double-Jump,,,,
+cs/0607059,Creation and Growth of Components in a Random Hypergraph Process,,,,
+cs/0607073,Counting good truth assignments of random k-SAT formulae,,,,
+cs/0607082,Well quasi-orders and the shuffle closure of finite sets,,,,
+cs/0607109,Complexity and Applications of Edge-Induced Vertex-Cuts,,,,
+cs/0607115,Polynomial-time algorithm for vertex k-colorability of P_5-free graphs,,,,
+cs/0608008,The minimum linear arrangement problem on proper interval graphs,,,,
+cs/0608021,"The Shannon capacity of a graph and the independence numbers of its
+  powers",,,,
+cs/0608065,"Combinatorial and Arithmetical Properties of Infinite Words Associated
+  with Non-simple Quadratic Parry Numbers",,,,
+cs/0608066,k-Connectivity in the Semi-Streaming Model,,,,
+cs/0608085,"A Quadratic Time-Space Tradeoff for Unrestricted Deterministic Decision
+  Branching Programs",,,,
+cs/0608086,Analog Codes on Graphs,,,,
+cs/0608087,On an Improvement over R\'enyi's Equivocation Bound,,,,
+cs/0608101,Minimum Cost Homomorphisms to Semicomplete Bipartite Digraphs,,,,
+cs/0609009,"Finding heaviest H-subgraphs in real weighted graphs, with applications",,,,
+cs/0609103,Minimum-weight Cycle Covers and Their Approximability,,,,
+cs/0609113,Algebraic recognizability of regular tree languages,,,,
+cs/0609118,Duality of Fix-Points for Distributive Lattices,,,,
+cs/0609127,On Bus Graph Realizability,,,,
+cs/0609160,Redundancies of Correction-Capability-Optimized Reed-Muller Codes,,,,
+cs/0609161,"The Order Bound on the Minimum Distance of the One-Point Codes
+  Associated to a Garcia-Stichtenoth Tower of Function Fields",,,,
+cs/0609162,"On Semigroups Generated by Two Consecutive Integers and Improved
+  Hermitian Codes",,,,
+cs/0610003,"Embedding Metrics into Ultrametrics and Graphs into Spanning Trees with
+  Constant Average Distortion",,,,
+cs/0610042,A Polynomial Time Algorithm for The Traveling Salesman Problem,,,,
+cs/0610048,"MV3: A new word based stream cipher using rapid mixing and revolving
+  buffers",,,,
+cs/0610054,Enumeration Problems Related to Ground Horn Theories,,,,
+cs/0610121,"Construction algorithm for network error-correcting codes attaining the
+  Singleton bound",,,,
+cs/0610135,"Markov-modulated on/off processes for long-range dependent internet
+  traffic",,,,
+cs/0610168,Presentation Theorems for Coded Character Sets,,,,
+cs/0611024,A Relational Approach to Functional Decomposition of Logic Circuits,,,,
+cs/0611039,"Substitutions for tilings $\{p,q\}$",,,,
+cs/0611101,"Fourier meets M\""{o}bius: fast subset convolution",,,,
+cs/0611107,Rectangular Layouts and Contact Graphs,,,,
+cs/0611126,Hereditary Discrepancies in Different Numbers of Colors II,,,,
+cs/0612058,"Adaptive Simulated Annealing: A Near-optimal Connection between Sampling
+  and Counting",,,,
+cs/0612070,Generalizations of the Hanoi Towers Problem,,,,
+cs/0612099,Network Information Flow in Small World Networks,,,,
+cs/0612140,On simulating nondeterministic stochastic activity networks,,,,
+cs/0612142,What is the probability of connecting two points ?,,,,
+cs/0701023,A Polynomial Time Algorithm for 3-SAT,,,,
+cs/0701185,Graph Operations on Clique-Width Bounded Graphs,,,,
+cs/0702034,Graph Splicing System,,,,
+cs/0702049,Parameterized Algorithms for Directed Maximum Leaf Problems,,,,
+cs/0702060,A local balance property of episturmian words,,,,
+cs/0702061,Sudo-Lyndon,,,,
+cs/0702074,Dynamic Random Geometric Graphs,,,,
+cs/0702123,Tree automata and separable sets of input variables,,,,
+cs/0702129,Tree Automata and Essential Input Variables,,,,
+cs/0702136,Essential Inputs and Minimal Tree Automata,,,,
+cs/0702137,Tree Automata and Essential Subtrees,,,,
+cs/0702139,"Characterization of $m$-Sequences of Lengths $2^{2k}-1$ and $2^k-1$ with
+  Three-Valued Crosscorrelation",,,,
+cs/0703018,A Coding Theoretic Study on MLL proof nets,,,,
+cs/0703020,Counting preimages of TCP reordering patterns,,,,
+cs/0703029,"FPRAS for computing a lower bound for weighted matching polynomial of
+  graphs",,,,
+cs/0703064,Automatic Structures: Richness and Limitations,,,,
+cs/0703066,Discriminating and Identifying Codes in the Binary Hamming Space,,,,
+cs/0703098,Polynomial time algorithm for 3-SAT. Examples of use,,,,
+cs/0703146,A Polynomial Time Algorithm for SAT,,,,
+cs/9809017,The Complexity of Planar Counting Problems,,,,
+cs/9809060,New Applications of the Incompressibility Method: Part II,,,,
+cs/9809061,New Applications of the Incompressibility Method: Part I,,,,
+cs/9902005,Mutual Search,,,,
+cs/9906022,Zero-Parity Stabbing Information,,,,
+cs/9907002,"The Distribution of Cycle Lengths in Graphical Models for Iterative
+  Decoding",,,,
+cs/9907011,Reducing Randomness via Irrational Numbers,,,,
+cs/9910013,Map Graphs,,,,
+cs/9911004,Graph Ramsey games,,,,
+math-ph/0603068,A Spinorial Formulation of the Maximum Clique Problem of a Graph,,,,
+math-ph/0701043,"Strong Spatial Mixing and Rapid Mixing with Five Colours for the Kagome
+  Lattice",,,,
+math/0207136,Convex Matroid Optimization,,,,
+math/0207200,The Complexity of Three-Way Statistical Tables,,,,
+math/0211267,On alternative approach for verifiable secret sharing,,,,
+math/0211269,On ASGS framework: general requirements and an example of implementation,,,,
+math/0211317,On graph coloring check-digit method,,,,
+math/0302303,Cubefree binary words avoiding long squares,,,,
+math/0309083,Convex Combinatorial Optimization,,,,
+math/0309347,Nowhere-Zero Flow Polynomials,,,,
+math/0310109,Shortest paths in the Tower of Hanoi graph and finite automata,,,,
+math/0310232,Monotone properties of random geometric graphs have sharp thresholds,,,,
+math/0402125,"Poisson, Dobinski, Rota and coherent states",,,,
+math/0408365,Quasi-concave functions on antimatroids,,,,
+math/0409429,Bounding Fastest Mixing,,,,
+math/0411138,"Generating Functions For Kernels of Digraphs (Enumeration & Asymptotics
+  for Nim Games)",,,,
+math/0411250,Generating functions for generating trees,,,,
+math/0506538,Edit Distance between Unlabeled Ordered Trees,,,,
+math/0507032,Transitive Hall sets,,,,
+math/0508319,"Combinations and Mixtures of Optimal Policies in Unichain Markov
+  Decision Processes are Optimal",,,,
+math/0511343,"Random regular graphs of non-constant degree: Concentration of the
+  chromatic number",,,,
+math/0601624,"Asymptotics of Bernoulli random walks, bridges, excursions and meanders
+  with a given number of peaks",,,,
+math/0601755,Graph and Union of Graphs Compositions,,,,
+math/0602061,Spanning Forests of a Digraph and Their Applications,,,,
+math/0602575,Matrix-Forest Theorems,,,,
+math/0603727,Spectral Analysis of Pollard Rho Collisions,,,,
+math/0607088,Odd minimum cut sets and b-matchings revisited,,,,
+math/0607412,Direct and dual laws for automata with multiplicities,,,,
+math/0607420,"Transitive factorizations of free partially commutative monoids and Lie
+  algebras",,,,
+math/0608603,Sequences with constant number of return words,,,,
+math/0612612,The minimum size required of a solitaire army,,,,
+math/0701647,Counting non-isomorphic maximal independent sets of the n-cycle graph,,,,
+math/0703241,Sofic Trace of a Cellular Automaton,,,,
+math/9902043,The Average-Case Area of Heilbronn-Type Triangles,,,,
+nlin/0511061,"Self-synchronization of Cellular Automata: an attempt to control
+  patterns",,,,
+nlin/0512017,Symmetry pattern transition in cellular automata with complex behavior,,,,
+nlin/0603076,"Approximating the Amplitude and Form of Limit Cycles in the Weakly
+  Nonlinear Regime of Lienard Systems",,,,
+nlin/0605025,The Limit Cycles of Lienard Equations in the Weakly Nonlinear Regime,,,,
+physics/0703218,"Analysis of the structure of complex networks at different resolution
+  levels",,,,

@@ -1,0 +1,65 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+cs/0506089,"Field geology with a wearable computer: 1st results of the Cyborg
+  Astrobiologist System",4.411123543442139e-06,0.0,3.0,0.0
+cs/0505042,Iterative MILP Methods for Vehicle Control Problems,3.62335329328243e-06,0.0,2.0,0.0
+cs/0505058,"The Cyborg Astrobiologist: Scouting Red Beds for Uncommon Features with
+  Geological Significance",2.2960610328299915e-06,0.0,2.0,1.0
+math/0210018,Topological robotics: motion planning in projective spaces,2.187491248189088e-06,0.0,2.0,0.0
+math/0210115,"Topological Robotics: Subspace Arrangements and Collision Free Motion
+  Planning",2.187491248189088e-06,0.0,2.0,1.0
+cs/0006030,Multiagent Control of Self-reconfigurable Robots,1.8950380516170012e-06,0.0,1.0,3.0
+cs/0404002,Mathematical Analysis of Multi-Agent Systems,1.8536302793458448e-06,0.0,1.0,0.0
+cs/0611111,Distributed Control of Microscopic Robots in Biomedical Applications,1.8536302793458448e-06,0.0,1.0,0.0
+cs/0604110,Modeling and Mathematical Analysis of Swarms of Microscopic Robots,1.8536302793458448e-06,0.0,1.0,0.0
+cs/0205015,Instabilities of Robot Motion,1.703003024765287e-06,0.0,1.0,3.0
+cs/0410071,The Cyborg Astrobiologist: First Field Experience,1.60698551133943e-06,0.0,1.0,2.0
+cs/0409031,"Field Geology with a Wearable Computer: First Results of the Cyborg
+  Astrobiologist System",1.60698551133943e-06,0.0,1.0,0.0
+cs/0504081,A Decomposition Approach to Multi-Vehicle Cooperative Control,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0309018,Using Propagation for Solving Complex Arithmetic Constraints,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0501092,Multi-Vehicle Cooperative Control Using Mixed Integer Linear Programming,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0002014,Safe cooperative robot dynamics on graphs,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0303024,"Differential Methods in Catadioptric Sensor Design with Applications to
+  Panoramic Imaging",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0006005,Novelty Detection for Robot Neotaxis,,,,
+cs/0006006,A Real-Time Novelty Detector for a Mobile Robot,,,,
+cs/0006007,Novelty Detection on a Mobile Robot Using Habituation,,,,
+cs/0204043,Learning from Scarce Experience,,,,
+cs/0212022,Algorithms for Rapidly Dispersing Robot Swarms in Unknown Environments,,,,
+cs/0212027,Qualitative Study of a Robot Arm as a Hamiltonian System,,,,
+cs/0307004,State complexes for metamorphic robots,,,,
+cs/0311019,"Replay Debugging of Complex Real-Time Systems: Experiences from Two
+  Industrial Case Studies",,,,
+cs/0404036,Online Searching with an Autonomous Robot,,,,
+cs/0410042,Neural Architectures for Robot Intelligence,,,,
+cs/0502086,The Self-Organization of Speech Sounds,,,,
+cs/0503076,Geometric Models of Rolling-Shutter Cameras,,,,
+cs/0505064,"Multi-Modal Human-Machine Communication for Instructing Robot Grasping
+  Tasks",,,,
+cs/0507056,Explorations in engagement for humans and robots,,,,
+cs/0601004,"Integration of navigation and action selection functionalities in a
+  computational model of cortico-basal ganglia-thalamo-cortical loops",,,,
+cs/0603010,"Asymptotic constant-factor approximation algorithm for the Traveling
+  Salesperson Problem for Dubins' vehicle",,,,
+cs/0603023,"Metric State Space Reinforcement Learning for a Vision-Capable Mobile
+  Robot",,,,
+cs/0603026,The Snowblower Problem,,,,
+cs/0604111,Analysis of Dynamic Task Allocation in Multi-Robot Systems,,,,
+cs/0605070,Curve Shortening and the Rendezvous Problem for Mobile Autonomous Robots,,,,
+cs/0605096,Circle Formation of Weak Robots and Lyndon Words,,,,
+cs/0607060,Circle Formation of Weak Mobile Robots,,,,
+cs/0609097,Traveing Salesperson Problems for a double integrator,,,,
+cs/0609140,Motion Primitives for Robotic Flight Control,,,,
+cs/0611022,Multirobot rendezvous with visibility sensors in nonconvex environments,,,,
+cs/0612029,A Classification of 6R Manipulators,,,,
+cs/0701040,Curve Tracking Control for Legged Locomotion in Horizontal Plane,,,,
+cs/0701077,Asynchronous Distributed Searchlight Scheduling,,,,
+cs/0703067,"Target assignment for robotic networks: asymptotic performance under
+  limited communication",,,,
+cs/9811019,Locked and Unlocked Polygonal Chains in 3D,,,,
+cs/9811029,"A Human - machine interface for teleoperation of arm manipulators in a
+  complex environment",,,,
+math/0603155,Vers une commande multivariable sans mod\`ele,,,,
+math/0605498,"Cross-Entropic Learning of a Machine for the Decision in a Partially
+  Observable Universe",,,,
+nlin/0109019,Olfactory search at high Reynolds number,,,,

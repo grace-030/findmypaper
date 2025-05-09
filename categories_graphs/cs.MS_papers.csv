@@ -1,0 +1,98 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+cs/0512073,Schwerdtfeger-Fillmore-Springer-Cnops Construction Implemented in GiNaC,5.229028763014751e-06,0.0,2.0,2.0
+cs/0605090,Mathematica: A System of Computer Programs,4.715121399099865e-06,0.0,3.0,0.0
+nlin/0407062,"Construction of Single-valued Solutions for Nonintegrable Systems with
+  the Help of the Painleve Test",3.7642439946736098e-06,0.0,3.0,3.0
+cs/0510034,COMODI: On the Graphical User Interface,3.62335329328243e-06,0.0,2.0,0.0
+cs/9809105,Hyper-Systolic Matrix Multiplication,3.3749066596554898e-06,0.0,1.0,0.0
+cs/0410044,An Example of Clifford Algebras Calculations with GiNaC,3.368447926064598e-06,0.0,1.0,3.0
+cs/0401006,"Cluster computing performances using virtual processors and mathematical
+  software",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0609129,"One approach to the digital visualization of hedgehogs in holomorphic
+  dynamics",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0604066,Univariate polynomial real root isolation: Continued Fractions revisited,2.4711431321721443e-06,0.0,1.0,0.0
+hep-ph/0411100,"LSJK - a C++ library for arbitrary-precision numeric evaluation of the
+  generalized log-sine functions",2.4420340610205125e-06,9.50900136704692e-09,3.0,3.0
+cs/0606023,"Parallel Evaluation of Mathematica Programs in Remote Computers
+  Available in Network",2.429735359900988e-06,0.0,2.0,1.0
+cs/0610120,Classdesc and Graphcode: support for scientific programming in C++,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0509070,"A Maple Package for Computing Groebner Bases for Linear Recurrence
+  Relations",1.8849516847429144e-06,1.000793526998472e-06,3.0,6.0
+cs/0303004,Reliability Conditions in Quadrature Algorithms,1.8033601126281784e-06,0.0,1.0,0.0
+hep-th/0208218,"Introducing LambdaTensor1.0 - A package for explicit symbolic and
+  numeric Lie algebra and Lie group calculations",1.7922472202774598e-06,9.081280972907963e-06,3.0,4.0
+cs/0409033,Mean and Variance Estimation by Kriging,1.703003024765287e-06,0.0,1.0,1.0
+cs/0604088,How to Run Mathematica Batch-files in Background ?,1.703003024765287e-06,0.0,1.0,2.0
+cs/0201007,Algorithm for generating orthogonal matrices with rational elements,1.703003024765287e-06,0.0,1.0,2.0
+cs/0303031,A Bird's eye view of Matrix Distributed Processing,1.6595327799251628e-06,0.0,2.0,0.0
+hep-lat/0004007,"Matrix Distributed Processing: A set of C++ Tools for implementing
+  generic lattice computations on parallel systems",1.6547532124420126e-06,2.985274132740108e-06,2.0,7.0
+cs/9903002,"An Algebraic Programming Style for Numerical Software and its
+  Optimization",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0612085,"The Parma Polyhedra Library: Toward a Complete Set of Numerical
+  Abstractions for the Analysis and Verification of Hardware and Software
+  Systems",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0603005,A Basic Introduction on Math-Link in Mathematica,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0512072,Computations with one and two real algebraic numbers,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0608003,On a solution to display non-filled-in quaternionic Julia sets,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0503014,"ADF95: Tool for automatic differentiation of a FORTRAN code designed for
+  large numbers of independent variables",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0001018,Adaptive simulated annealing (ASA): Lessons learned,,,,
+cs/0004004,"Mathematical Software: Past, Present, and Future",,,,
+cs/0101001,Automatic Differentiation Tools in Optimization Software,,,,
+cs/0101018,"GPCG: A Case Study in the Performance and Scalability of Optimization
+  Algorithms",,,,
+cs/0102001,Benchmarking Optimization Software with Performance Profiles,,,,
+cs/0105033,Lectures on Reduce and Maple at UAM I - Mexico,,,,
+cs/0106051,"Users Guide for SnadiOpt: A Package Adding Automatic Differentiation to
+  Snopt",,,,
+cs/0107025,Computer validated proofs of a toolset for adaptable arithmetic,,,,
+cs/0107036,"TeXmacs interfaces to Maxima, MuPAD and REDUCE",,,,
+cs/0302026,"Recursive function templates as a solution of linear algebra expressions
+  in C++",,,,
+cs/0307009,"Finding the ""truncated"" polynomial that is closest to a function",,,,
+cs/0310055,Mace4 Reference Manual and Guide,,,,
+cs/0310056,OTTER 3.3 Reference Manual,,,,
+cs/0310057,An Introduction to Using Software Tools for Automatic Differentiation,,,,
+cs/0401008,"Algorithm xxx: Modified Bessel functions of imaginary order and positive
+  argument",,,,
+cs/0406025,Directional Consistency for Continuous Numerical Constraints,,,,
+cs/0406049,"A Fast, Vectorizable Algorithm for Producing Single-Precision
+  Sine-Cosine Pairs",,,,
+cs/0407052,"M@th Desktop and MD Tools - Mathematics and Mathematica Made Easy for
+  Students",,,,
+cs/0408029,"Tsnnls: A solver for large sparse least squares problems with
+  non-negative variables",,,,
+cs/0510051,Numerical resolution of some BVP using Bernstein polynomials,,,,
+cs/0512056,"PURRS: Towards Computer Algebra Support for Fully Automatic Worst-Case
+  Complexity Analysis",,,,
+cs/0602005,A library of Taylor models for PVS automatic proof checker,,,,
+cs/0603001,BioSig - An application of Octave,,,,
+cs/0604006,Sparse Matrix Implementation in Octave,,,,
+cs/0604038,UniCalc.LIN: a linear constraint solver for the UniCalc system,,,,
+cs/0604039,A Fixed-Point Type for Octave,,,,
+cs/0605081,Caract\'{e}ristiques arithm\'{e}tiques des processeurs graphiques,,,,
+cs/0606101,"Stochastic Formal Methods: An application to accuracy of numeric
+  software",,,,
+cs/0609082,Classifying extrema using intervals,,,,
+cs/0610110,Stochastic Formal Methods for Hybrid Systems,,,,
+cs/0610122,Faithful Polynomial Evaluation with Compensated Horner Algorithm,,,,
+cs/0612036,Revisiting Matrix Product on Master-Worker Platforms,,,,
+cs/0612126,The virtual reality framework for engineering objects,,,,
+cs/0701122,"Applications of Polyhedral Computations to the Analysis and Verification
+  of Hardware and Software Systems",,,,
+cs/0701186,Certification of bounds on expressions involving rounded operators,,,,
+cs/0702010,A canonical form for some piecewise defined functions,,,,
+cs/0703025,"LIBOPT - An environment for testing solvers on heterogeneous collections
+  of problems - Version 1.0",,,,
+cs/0703150,"Type-II/III DCT/DST algorithms with reduced number of arithmetic
+  operations",,,,
+cs/9809009,Developing numerical libraries in Java,,,,
+cs/9901008,"Fast Computational Algorithms for the Discrete Wavelet Transform and
+  Applications of Localized Orthonormal Bases in Signal Classification",,,,
+math/0603606,"Lanczos $\tau$-method optimal algorithm in APS for approximating the
+  mathematical functions",,,,
+math/0608789,One method for proving inequalities by computer,,,,
+math/0701020,Some notes on a method for proving inequalities by computer,,,,
+math/9905155,"An Implementation of the Bestvina-Handel Algorithm for Surface
+  Homeomorphisms",,,,

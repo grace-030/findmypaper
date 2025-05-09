@@ -1,0 +1,160 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+cs/0204041,Trust Brokerage Systems for the Internet,4.7530577026366125e-06,0.0,3.0,0.0
+cond-mat/0401191,Chaos and Annealing in Social networks,3.957759267031839e-06,5.970548265480216e-06,1.0,1.0
+quant-ph/0502185,Quantum Implementation of Parrondo's Paradox,3.378043850660089e-06,0.0,2.0,0.0
+cs/0703148,Computer Science and Game Theory: A Brief Survey,3.3749066596554898e-06,0.0,1.0,0.0
+quant-ph/0211191,An invitation to Quantum Game Theory,3.289312960425452e-06,2.0995865434159847e-05,5.0,6.0
+math/0411128,Why Delannoy numbers?,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0608057,Hybrid Elections Broaden Complexity-Theoretic Resistance to Control,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0703097,"On Approximating Optimal Weighted Lobbying, and Frequency of Correctness
+  versus Average-Case Polynomial Time",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0606091,"On computing fixpoints in well-structured regular model checking, with
+  applications to lossy channel systems",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0609056,"Matrix Games, Linear Programming, and Linear Approximation",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0602090,"On the Approximation and Smoothed Complexity of Leontief Market
+  Equilibria",2.4711431321721443e-06,0.0,1.0,0.0
+quant-ph/0309033,Correlated Equilibria of Classical Strategic Games with Quantum Signals,2.469829825203e-06,0.0,2.0,2.0
+cs/0406037,Propositional Computability Logic II,1.918556403795287e-06,0.0,2.0,3.0
+cond-mat/0402508,"Information Theory - The Bridge Connecting Bounded Rational Game Theory
+  and Statistical Physics",1.744402721345843e-06,5.960646858738125e-06,1.0,2.0
+cs/0403012,Distributed Control by Lagrangian Steepest Descent,1.744402721345843e-06,0.0,1.0,0.0
+nlin/0512015,A Predictive Theory of Games,1.744402721345843e-06,0.0,1.0,0.0
+cs/0312005,A Cartography for 2x2 Symmetric Games,1.6479250373189316e-06,0.0,1.0,0.0
+cs/0407054,From truth to computability I,1.5611770827737587e-06,0.0,1.0,3.0
+physics/0511201,Strategies for fast convergence in semiotic dynamics,1.446956322296335e-06,0.0,1.0,3.0
+physics/0512045,Topology Induced Coarsening in Language Games,1.446956322296335e-06,0.0,1.0,0.0
+cs/0510031,Computing Pure Nash Equilibria via Markov Random Fields,1.382944646679097e-06,0.0,1.0,0.0
+cond-mat/0211605,Evolution of Cooperation in a Spatial Prisoner's Dilemma,1.3189329710618589e-06,0.0,0.0,5.0
+quant-ph/0611234,Toward a general theory of quantum games,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0305017,Quantum computer: an appliance for playing market games,1.3189329710618589e-06,0.0,0.0,4.0
+cs/0602043,Computing Nash Equilibria: Approximation and Smoothed Complexity,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0507027,Anyone but Him: The Complexity of Precluding an Alternative,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0609112,A Richer Understanding of the Complexity of Election Systems,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0008025,Phutball Endgames are Hard,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0509075,Sharp transition towards shared vocabularies in multi-agent systems,1.3189329710618589e-06,0.0,0.0,9.0
+cs/0410069,Selfish peering and routing in the Internet,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0201010,Bundling Equilibrium in Combinatorial auctions,,,,
+cs/0201016,A computer scientist looks at game theory,,,,
+cs/0201017,"Collusion in Unrepeated, First-Price Auctions with an Uncertain Number
+  of Participants",,,,
+cs/0201021,Learning to Play Games in Extensive Form by Valuation,,,,
+cs/0202015,Combinatorial Auctions with Decreasing Marginal Utilities,,,,
+cs/0202016,Linear Programming helps solving large multi-unit combinatorial auctions,,,,
+cs/0202017,Truth Revelation in Approximately Efficient Combinatorial Auctions,,,,
+cs/0202023,Expected Qualitative Utility Maximization,,,,
+cs/0202028,"Classes of service under perfect competition and technological change: a
+  model for the dynamics of the Internet?",,,,
+cs/0202029,Nonstandard numbers for qualitative decision making,,,,
+cs/0202030,Generalized Qualitative Probability: Savage revisited,,,,
+cs/0202032,"Optimal Solutions for Multi-Unit Combinatorial Auctions: Branch and
+  Bound Heuristics",,,,
+cs/0204002,Coin-Moving Puzzles,,,,
+cs/0204017,Solitaire Clobber,,,,
+cs/0205005,"PSPACE-Completeness of Sliding-Block Puzzles and Other Problems through
+  the Nondeterministic Constraint Logic Model of Computation",,,,
+cs/0205066,Effectiveness of Preference Elicitation in Combinatorial Auctions,,,,
+cs/0205073,Vote Elicitation: Complexity and Strategy-Proofness,,,,
+cs/0205074,Complexity Results about Nash Equilibria,,,,
+cs/0205075,Complexity of Mechanism Design,,,,
+cs/0205076,Complexity of Manipulating Elections with Few Candidates,,,,
+cs/0207022,What is a Joint Goal? Games with Beliefs and Defeasible Desires,,,,
+cs/0207028,"Greedy Facility Location Algorithms Analyzed using Dual Fitting with
+  Factor-Revealing LP",,,,
+cs/0208023,"The STRESS Method for Boundary-point Performance Analysis of End-to-end
+  Multicast Timer-Suppression Mechanisms",,,,
+cs/0211002,Programming and Verifying Subgame Perfect Mechanisms,,,,
+cs/0305016,The one-round Voronoi game replayed,,,,
+cs/0306106,"Lexicographic probability, conditional probability, and nonstandard
+  probability",,,,
+cs/0307002,"AWESOME: A General Multiagent Learning Algorithm that Converges in
+  Self-Play and Learns a Best Response Against Stationary Opponents",,,,
+cs/0307003,How many candidates are needed to make elections hard to manipulate?,,,,
+cs/0307006,BL-WoLF: A Framework For Loss-Bounded Learnability In Zero-Sum Games,,,,
+cs/0307016,Complexity of Determining Nonemptiness of the Core,,,,
+cs/0307018,Universal Voting Protocol Tweaks to Make Manipulation Hard,,,,
+cs/0308028,Finding Traitors in Secure Networks Using Byzantine Agreements,,,,
+cs/0309016,"Using Simulated Annealing to Calculate the Trembles of Trembling Hand
+  Perfection",,,,
+cs/0309024,Results on the quantitative mu-calculus qMu,,,,
+cs/0310039,A Game Theoretic Framework for Incentives in P2P Systems,,,,
+cs/0403024,"Uniform Proofs of Order Independence for Various Strategy Elimination
+  Procedures",,,,
+cs/0404016,Parrondo's games with chaotic switching,,,,
+cs/0404040,Near Rationality and Competitive Equilibria in Networked Systems,,,,
+cs/0406061,The Complexity of Agreement,,,,
+cs/0409028,Incentive Systems in Multi-Level Markets for Virtual Goods,,,,
+cs/0409054,An Approximation Algorithm for Stackelberg Network Pricing,,,,
+cs/0410018,Utilitarian resource assignment,,,,
+cs/0412104,Negotiating over Bundles and Prices Using Aggregate Knowledge,,,,
+cs/0412106,"Online Learning of Aggregate Knowledge about Non-linear Preferences
+  Applied to Negotiating Prices and Bundles",,,,
+cs/0502013,Amazons is PSPACE-complete,,,,
+cs/0502019,"A Price-Anticipating Resource Allocation Mechanism for Distributed
+  Shared Clusters",,,,
+cs/0503035,The egalitarian sharing rule in provision of public projects,,,,
+cs/0504075,Dichotomy for Voting Systems,,,,
+cs/0506021,"Analysis of Relationship between Strategic and Aggregate Energy
+  Minimization in Delay-Constrained Wireless Networks",,,,
+cs/0506038,"A Game Theoretic Economics Framework to understanding Information
+  Security Oursourcing Market",,,,
+cs/0506054,"Efficiency Loss in a Network Resource Allocation Game: The Case of
+  Elastic Supply",,,,
+cs/0506098,Distributed Selfish Load Balancing,,,,
+cs/0507007,Strong normalisation for applied lambda calculi,,,,
+cs/0508028,Truth-telling Reservations,,,,
+cs/0508126,A Closed-Form Solution for the Finite Length Constant Modulus Receiver,,,,
+cs/0509063,Order Independence and Rationalizability,,,,
+cs/0509071,CP-nets and Nash equilibria,,,,
+cs/0511021,Games of fixed rank: A hierarchy of bimatrix games,,,,
+cs/0511093,Artificial Agents and Speculative Bubbles,,,,
+cs/0512034,Ensuring Trust in One Time Exchanges: Solving the QoS Problem,,,,
+cs/0512083,New directions in mechanism design,,,,
+cs/0601101,The topology of covert conflict,,,,
+cs/0602019,"Adaptive Channel Allocation Spectrum Etiquette for Cognitive Radio
+  Networks",,,,
+cs/0605132,Stable partitions in coalitional games,,,,
+cs/0606044,Frugality ratios and improved truthful mechanisms for vertex cover,,,,
+cs/0606127,Approximately Efficient Cost-Sharing Mechanisms,,,,
+cs/0607117,Bidding to the Top: VCG and Equilibria of Position-Based Auctions,,,,
+cs/0608011,The Many Faces of Rationalizability,,,,
+cs/0608058,Evolution of the Internet AS-Level Ecosystem,,,,
+cs/0608081,How Hard Is Bribery in Elections?,,,,
+cs/0608120,Controller synthesis & Ordinal Automata,,,,
+cs/0609035,Rational Secret Sharing and Multiparty Computation: Extended Abstract,,,,
+cs/0610026,Covering selfish machines,,,,
+cs/0610034,Postinal Determinacy of Games with Infinitely Many Priorities,,,,
+cs/0610035,Positional Determinacy of Games with Infinitely Many Priorities,,,,
+cs/0610098,Characterizing Solution Concepts in Games Using Knowledge-Based Programs,,,,
+cs/0610166,Tree Automata Make Ordinal Theory Easy,,,,
+cs/0611063,Characterizing Optimal Adword Auctions,,,,
+cs/0612039,Computing the Equilibria of Bimatrix Games using Dominance Heuristics,,,,
+cs/0612052,Budget Optimization in Search-Based Advertising Auctions,,,,
+cs/0612065,"An equilibrium model for matching impatient demand and patient supply
+  over time",,,,
+cs/0612072,Stochastic Models for Budget Optimization in Search-Based Advertising,,,,
+cs/0612108,On Using Matching Theory to Understand P2P Network Design,,,,
+cs/0701071,A bounded-degree network formation game,,,,
+cs/0701139,Time and the Prisoner's Dilemma,,,,
+cs/0701140,Predicate Abstraction with Under-approximation Refinement,,,,
+cs/0702054,Nash equilibria in Voronoi games on graphs,,,,
+cs/0702088,"Paths Beyond Local Search: A Nearly Tight Bound for Randomized
+  Fixed-Point Computation",,,,
+cs/0702153,Games on the Sperner Triangle,,,,
+cs/0702162,"Distributed Power Allocation with Rate Constraints in Gaussian Parallel
+  Interference Channels",,,,
+cs/0703019,The Stackelberg Minimum Spanning Tree Game,,,,
+cs/0703054,Linear time algorithms for Clobber,,,,
+cs/0703099,"Constrained Cost-Coupled Stochastic Games with Independent State
+  Processes",,,,
+cs/0703133,Computing Good Nash Equilibria in Graphical Games,,,,
+math/0006067,One-Dimensional Peg Solitaire,,,,
+math/0008172,"One-Dimensional Peg Solitaire, and Duotaire",,,,
+math/0411138,"Generating Functions For Kernels of Digraphs (Enumeration & Asymptotics
+  for Nim Games)",,,,
+math/0604611,"Variational optimization of probability measure spaces resolves the
+  chain store paradox",,,,
+math/0612046,On the Submodularity of Influence in Social Networks,,,,
+math/0703436,A parametric representation of totally mixed Nash equilibria,,,,
+math/0703902,Connectivity and equilibrium in random games,,,,
+physics/0210125,Ownership and Trade from Evolutionary Games,,,,
+q-bio/0506034,The Shapley Value of Phylogenetic Trees,,,,

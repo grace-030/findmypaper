@@ -1,0 +1,23 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+cs/0605002,"A Hybrid Quantum Encoding Algorithm of Vector Quantization for Image
+  Compression",7.301305056369203e-06,0.0,4.0,0.0
+cs/0608024,Cryptanalysis of an Encryption Scheme Based on Blind Source Separation,3.62335329328243e-06,0.0,2.0,0.0
+quant-ph/0510031,Image compression and entanglement,1.4218803617205998e-06,5.177537239774169e-06,2.0,6.0
+cs/0509036,Security Problems with Improper Implementations of Improved FEA-M,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0501014,On the Design of Perceptual MPEG-Video Encryption Algorithms,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0002004,Stochastic Model Checking for Multimedia,,,,
+cs/0007007,Data sonification and sound visualization,,,,
+cs/0312050,A Flexible Pragmatics-driven Language Generator for Animated Agents,,,,
+cs/0501013,"On the security of the Yen-Guo's domino signal encryption algorithm
+  (DSEA)",,,,
+cs/0503027,Authentication with Distortion Criteria,,,,
+cs/0504105,Wikis in Tuple Spaces,,,,
+cs/0509035,"Cryptanalysis of an MPEG-Video Encryption Scheme Based on Secret Huffman
+  Tables",,,,
+cs/0603130,Digital watermarking in the singular vector domain,,,,
+cs/0606034,A constructive and unifying framework for zero-bit watermarking,,,,
+cs/0607087,"Un filtre temporel cr\'edibiliste pour la reconnaissance d'actions
+  humaines dans les vid\'eos",,,,
+cs/0609131,"A Fast Block Matching Algorithm for Video Motion Estimation Based on
+  Particle Swarm Optimization and Motion Prejudgment",,,,
+cs/0610133,P2P IPTV Measurement: A Comparison Study,,,,

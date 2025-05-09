@@ -1,0 +1,1043 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+quant-ph/0607111,`Plausibilities of plausibilities': an approach through circumstances,2.9490507598205e-05,2.392319834497903e-06,14.0,3.0
+physics/0703126,The Laplace-Jaynes approach to induction,1.4367904520523772e-05,0.0,9.0,2.0
+cs/0602011,"The intuitionistic fragment of computability logic at the propositional
+  level",1.1668616013394351e-05,0.0,9.0,0.0
+nlin/0610040,Self-organizing traffic lights: A realistic simulation,1.0731190241241008e-05,0.0,2.0,0.0
+cs/0302012,The New AI: General & Sound & Relevant for Physics,9.529117872953568e-06,2.985274132740108e-06,6.0,3.0
+quant-ph/0203010,Entangled Quantum Networks,7.883278302297784e-06,9.95091377580036e-06,4.0,3.0
+cs/0606081,New Millennium AI and the Convergence of History,6.902254640558344e-06,0.0,2.0,0.0
+cond-mat/9810144,Relaxation in graph coloring and satisfiability problems,6.461497782047221e-06,0.0,5.0,1.0
+cs/0412023,Multidimensional data classification with artificial neural networks,5.762704557658616e-06,0.0,2.0,0.0
+cs/0309048,"Goedel Machines: Self-Referential Universal Problem Solvers Making
+  Provably Optimal Self-Improvements",5.277481045854505e-06,0.0,2.0,2.0
+cs/0307060,Neural realisation of the SP theory: cell assemblies revisited,5.172835476979688e-06,0.0,7.0,0.0
+cs/0512100,The logic of interactive Turing reduction,5.056535795997867e-06,0.0,7.0,1.0
+cs/0612109,Truncating the loop series expansion for Belief Propagation,4.889969468717268e-06,1.990182755160072e-06,5.0,1.0
+cs/0207097,Optimal Ordered Problem Solver,4.861985539809649e-06,0.0,4.0,1.0
+cs/0205022,The Traits of the Personable,4.820310432891641e-06,0.0,2.0,0.0
+cs/0501031,From truth to computability II,4.817763153020377e-06,0.0,6.0,3.0
+quant-ph/0202016,Neural Networks with c-NOT Gated Nodes,4.648085672191587e-06,0.0,3.0,1.0
+cs/0402014,"Self-Organising Networks for Classification: developing Applications to
+  Science Analysis for Astroparticle Physics",4.509948737656293e-06,1.990182755160072e-06,3.0,1.0
+cs/0506089,"Field geology with a wearable computer: 1st results of the Cyborg
+  Astrobiologist System",4.411123543442139e-06,0.0,3.0,0.0
+cs/0311031,"Towards an Intelligent Database System Founded on the SP Theory of
+  Computing and Cognition",4.370789514553709e-06,0.0,6.0,0.0
+cs/0604064,Quantum Fuzzy Sets: Blending Fuzzy Set Theory and Quantum Computation,4.229423834443482e-06,0.0,4.0,0.0
+cs/0506041,Competitive on-line learning with a convex loss function,4.219293954522469e-06,0.0,3.0,6.0
+quant-ph/0011122,Algorithmic Theories of Everything,3.906074167692073e-06,2.4745801305132824e-05,5.0,15.0
+cs/0201022,A theory of experiment,3.62335329328243e-06,0.0,2.0,0.0
+cs/0702082,"Invariant template matching in systems with spatiotemporal coding: a
+  vote for instability",3.49912997646896e-06,0.0,2.0,0.0
+cs/0412098,The Google Similarity Distance,3.4990187908037217e-06,0.0,1.0,3.0
+cs/0504089,Universal Similarity,3.3817361725173822e-06,0.0,3.0,0.0
+astro-ph/0506110,"Galactic Gradients, Postbiological Evolution and the Apparent Failure of
+  SETI",3.0472482127272877e-06,0.0,2.0,0.0
+cs/0005010,Extending and Implementing the Stable Model Semantics,2.9851365543205523e-06,0.0,2.0,0.0
+cs/0401009,Unifying Computing and Cognition: The SP Theory and its Applications,2.930526813165852e-06,0.0,4.0,0.0
+cs/0503082,"Spines of Random Constraint Satisfaction Problems: Definition and
+  Connection with Computational Complexity",2.782343450472716e-06,0.0,2.0,0.0
+cs/0306036,Sequence Prediction based on Monotone Complexity,2.7504423588240776e-06,0.0,2.0,0.0
+cs/0211004,The DLV System for Knowledge Representation and Reasoning,2.4711431321721443e-06,0.0,1.0,4.0
+cs/0308025,"Controlled hierarchical filtering: Model of neocortical sensory
+  processing",2.4711431321721443e-06,0.0,1.0,1.0
+cs/0109023,Integrating Multiple Knowledge Sources for Robust Semantic Parsing,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0412091,"The Combination of Paradoxical, Uncertain, and Imprecise Sources of
+  Information based on DSmT and Neutro-Fuzzy Inference",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0703118,Mathematical model of interest matchmaking in electronic social networks,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0611009,Efficient constraint propagation engines,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0607016,An Analysis of Arithmetic Constraints on Integer Intervals,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0604087,Probabilistic Automata for Computing with Words,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0609157,Sensor Scheduling for Optimal Observability Using Estimation Entropy,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0609056,"Matrix Games, Linear Programming, and Linear Approximation",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0411072,Extremal optimization for sensor report pre-processing,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0402035,Memory As A Monadic Control Construct In Problem-Solving,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0109006,On Properties of Update Sequences Based on Causal Rejection,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0509032,A Simple Model to Generate Hard Satisfiable Instances,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0507048,Redundancy in Logic III: Non-Mononotonic Reasoning,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0505058,"The Cyborg Astrobiologist: Scouting Red Beds for Uncommon Features with
+  Geological Significance",2.2960610328299915e-06,0.0,2.0,1.0
+cs/0205079,Connectives in Quantum and other Cumulative Logics,2.27910810532043e-06,0.0,2.0,0.0
+quant-ph/0507231,Algebras of Measurements: the logical structure of Quantum Mechanics,2.27910810532043e-06,0.0,2.0,1.0
+cs/0607005,Belief Conditioning Rules (BCRs),2.2356851087904607e-06,0.0,1.0,0.0
+cs/0408064,Proportional Conflict Redistribution Rules for Information Fusion,2.2356851087904607e-06,0.0,1.0,3.0
+cs/9906006,Learning Efficient Disambiguation,2.120978933487838e-06,0.0,1.0,0.0
+cs/9908013,Collective Intelligence for Control of Distributed Dynamical Systems,2.111630434508683e-06,0.0,4.0,0.0
+quant-ph/0202015,Semiclassical Neural Network,1.990213450659572e-06,0.0,1.0,3.0
+cs/0408010,A Simple Proportional Conflict Redistribution Rule,1.9803101477411127e-06,0.0,1.0,2.0
+cs/0604042,"Adaptative combination rule and proportional conflict redistribution
+  rule for information fusion",1.9803101477411127e-06,0.0,1.0,0.0
+cs/0610175,DSmT: A new paradigm shift for information fusion,1.9803101477411127e-06,0.0,1.0,0.0
+cs/0311051,"Integrating existing cone-shaped and projection-based cardinal direction
+  relations and a TCSP-like decidable generalisation",1.8950380516170012e-06,0.0,1.0,0.0
+cs/0307048,"Integrating cardinal direction relations and other orientation relations
+  in Qualitative Spatial Reasoning",1.8950380516170012e-06,0.0,1.0,0.0
+cs/0004001,"A Theory of Universal Artificial Intelligence based on Algorithmic
+  Complexity",1.8950380516170012e-06,0.0,1.0,8.0
+cs/0312044,Clustering by compression,1.8935506151611049e-06,0.0,2.0,5.0
+cs/0502078,"Semantical Characterizations and Complexity of Equivalences in Answer
+  Set Programming",1.8329263932102664e-06,0.0,1.0,0.0
+cs/0501084,"Towards Automated Integration of Guess and Check Programs in Answer Set
+  Programming: A Meta-Interpreter and Applications",1.8329263932102664e-06,0.0,1.0,0.0
+cs/0608103,Logic programs with monotone abstract constraint atoms,1.8329263932102664e-06,0.0,1.0,0.0
+cs/0106036,"Convergence and Error Bounds for Universal Prediction of Nonbinary
+  Sequences",1.7987436883202868e-06,0.0,2.0,0.0
+cs/0604075,Naming Games in Spatially-Embedded Random Networks,1.7364757480054112e-06,0.0,1.0,1.0
+cs/0404024,Computability Logic: a formal theory of interaction,1.703003024765287e-06,0.0,1.0,6.0
+cs/0310062,WSAT(cc) - a fast local-search ASP solver,1.703003024765287e-06,0.0,1.0,0.0
+cs/0310061,"Local-search techniques for propositional logic extended with
+  cardinality constraints",1.703003024765287e-06,0.0,1.0,0.0
+cs/0512010,"A geometry of information, I: Nerves, posets and differential forms",1.6666765505919896e-06,0.0,1.0,0.0
+quant-ph/0702072,Markovian Entanglement Networks,1.6383810959506128e-06,0.0,2.0,0.0
+cs/0508068,"Lossy source encoding via message-passing and decimation over
+  generalized codewords of LDGM codes",1.6195377825544766e-06,0.0,1.0,1.0
+cs/0410071,The Cyborg Astrobiologist: First Field Experience,1.60698551133943e-06,0.0,1.0,2.0
+cs/9908004,Extending the Stable Model Semantics with More Expressive Rules,1.60698551133943e-06,0.0,1.0,1.0
+cs/0003025,Logic Programming for Describing and Solving Planning Problems,1.60698551133943e-06,0.0,1.0,0.0
+cs/0508100,A primer on Answer Set Programming,1.60698551133943e-06,0.0,1.0,0.0
+cs/0311045,"Unsupervised Grammar Induction in a Framework of Information Compression
+  by Multiple Alignment, Unification and Search",1.60698551133943e-06,0.0,1.0,1.0
+cs/0612030,Loop corrections for approximate inference,1.60698551133943e-06,0.0,1.0,2.0
+cs/0307025,"Information Compression by Multiple Alignment, Unification and Search as
+  a Unifying Principle in Computing and Cognition",1.60698551133943e-06,0.0,1.0,3.0
+cs/0507041,Monotone Conditional Complexity Bounds on Future Prediction Errors,1.598232197713792e-06,0.0,1.0,0.0
+cs/0701120,Algorithmic Complexity Bounds on Future Prediction Errors,1.598232197713792e-06,0.0,1.0,0.0
+cs/0407054,From truth to computability I,1.5611770827737587e-06,0.0,1.0,3.0
+cs/0101019,General Loss Bounds for Universal Sequence Prediction,1.5194444616683535e-06,0.0,1.0,0.0
+cs/0102018,An effective Procedure for Speeding up Algorithms,1.5194444616683535e-06,0.0,1.0,2.0
+cs/0012011,"Towards a Universal Theory of Artificial Intelligence based on
+  Algorithmic Probability and Sequential Decision Theory",1.5194444616683535e-06,0.0,1.0,1.0
+cs/0204040,"Self-Optimizing and Pareto-Optimal Policies in General Environments
+  based on Bayes-Mixtures",1.5194444616683535e-06,0.0,1.0,0.0
+cs/0701125,Universal Algorithmic Intelligence: A mathematical top->down approach,1.5194444616683535e-06,0.0,1.0,0.0
+cs/9809032,Stable models and an alternative logic programming paradigm,1.3189329710618589e-06,0.0,0.0,4.0
+cs/9901014,"Minimum Description Length Induction, Bayesianism, and Kolmogorov
+  Complexity",1.3189329710618589e-06,0.0,0.0,4.0
+cs/9912008,New Error Bounds for Solomonoff Prediction,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0302015,"Unsupervised Learning in a Framework of Information Compression by
+  Multiple Alignment, Unification and Search",1.3189329710618589e-06,0.0,0.0,4.0
+cs/0505083,Defensive forecasting,1.3189329710618589e-06,0.0,0.0,6.0
+cs/0401004,"Cyborg Systems as Platforms for Computer-Vision Algorithm-Development
+  for Astrobiology",1.3189329710618589e-06,0.0,0.0,4.0
+cs/0411008,Intuitionistic computability logic,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0303009,Unfolding Partiality and Disjunctions in Stable Model Semantics,1.3189329710618589e-06,0.0,0.0,1.0
+cs/9903011,A complete anytime algorithm for balanced number partitioning,1.3189329710618589e-06,0.0,0.0,4.0
+nlin/0411066,Self-Organizing Traffic Lights,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0105025,Market-Based Reinforcement Learning in Partially Observable Worlds,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0004003,Searching for Spaceships,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0508101,Maximum Weight Matching via Max-Product Belief Propagation,1.3189329710618589e-06,0.0,0.0,2.0
+quant-ph/0205161,"Contextualizing Concepts using a Mathematical Generalization of the
+  Quantum Formalism",1.3189329710618589e-06,0.0,0.0,3.0
+cs/0501092,Multi-Vehicle Cooperative Control Using Mixed Integer Linear Programming,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0407021,"Multi-agent coordination using nearest neighbor rules: revisiting the
+  Vicsek model",1.3189329710618589e-06,0.0,0.0,1.0
+cs/9907032,Clausal Temporal Resolution,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0211014,"Vanquishing the XCB Question: The Methodology Discovery of the Last
+  Shortest Single Axiom for the Equivalential Calculus",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0301014,Convergence and Loss Bounds for Bayesian Sequence Prediction,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0412021,Finite Domain Bounds Consistency Revisited,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0404030,XML framework for concept description and knowledge representation,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0403016,A Comparative Study of Arithmetic Constraints on Integer Intervals,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0211035,Monadic Style Control Constructs for Inference Systems,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0302001,"Many Hard Examples in Exact Phase Transitions with Application to
+  Generating Hard Satisfiable Instances",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0003036,DLV - A System for Declarative Problem Solving,1.3189329710618589e-06,0.0,0.0,1.0
+cs/9903002,"An Algebraic Programming Style for Numerical Software and its
+  Optimization",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0202021,"Nonmonotonic Reasoning, Preferential Models and Cumulative Logics",1.3189329710618589e-06,0.0,0.0,3.0
+cs/0603110,"Asymptotic Learnability of Reinforcement Problems with Arbitrary
+  Dependence",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0302039,Kalman-filtering using local interactions,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0106008,"Computing Functional and Relational Box Consistency by Structured
+  Propagation in Atomic Constraint Systems",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0211033,Propositional satisfiability in declarative programming,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0502017,Estimating mutual information and multi--information in large networks,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0610075,On Geometric Algebra representation of Binary Spatter Codes,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0202018,Nonmonotonic Logics and Semantics,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0001002,Minimum Description Length and Compositionality,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0208033,Complete Axiomatizations for Reasoning About Knowledge and Time,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0504101,Single-solution Random 3-SAT Instances,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0103015,Fitness Uniform Selection to Preserve Genetic Diversity,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0307014,"Syntax, Parsing and Production of Natural Language in a Framework of
+  Information Compression by Multiple Alignment, Unification and Search",1.3189329710618589e-06,0.0,0.0,3.0
+cs/0307010,"Probabilistic Reasoning as Information Compression by Multiple
+  Alignment, Unification and Search: An Introduction and Overview",1.3189329710618589e-06,0.0,0.0,3.0
+cs/0307013,"'Computing' as Information Compression by Multiple Alignment,
+  Unification and Search",1.3189329710618589e-06,0.0,0.0,3.0
+cs/0002014,Safe cooperative robot dynamics on graphs,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0507045,In the beginning was game semantics,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0010022,"Noise-Tolerant Learning, the Parity Problem, and the Statistical Query
+  Model",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0307040,"Bridging the gap between modal temporal logics and constraint-based QSR
+  as an ALC(D) spatio-temporalisation with weakly cyclic TBoxes",1.3189329710618589e-06,0.0,0.0,2.0
+math/0308153,"Mathematics and Logic as Information Compression by Multiple Alignment,
+  Unification and Search",1.3189329710618589e-06,0.0,0.0,2.0
+cs/0307031,"Automatic Classification using Self-Organising Neural Networks in
+  Astrophysical Experiments",1.3189329710618589e-06,0.0,0.0,2.0
+cs/0610111,Local approximate inference algorithms,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0604070,Retraction and Generalized Extension of Computing with Words,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0410049,Intransitivity and Vagueness,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0506074,Redundancy in Logic II: 2CNF and Horn Propositional Formulae,1.3189329710618589e-06,0.0,0.0,1.0
+cs/9605103,Reinforcement Learning: A Survey,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0009027,A Classification Approach to Word Prediction,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0307063,"An Alternative to RDF-Based Languages for the Representation and
+  Processing of Ontologies in the Semantic Web",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0201005,Sharpening Occam's Razor,1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0404004,"Protocol Requirements for Self-organizing Artifacts: Towards an Ambient
+  Intelligence",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0406056,P=NP,1.3189329710618589e-06,0.0,0.0,1.0
+cs/9812004,Name Strategy: Its Existence and Implications,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0408190,From spin glasses to hard satisfiable formulas,,,,
+cond-mat/9703183,Finite size scaling of the bayesian perceptron,,,,
+cs/0001015,Multi-Agent Only Knowing,,,,
+cs/0002001,Computing large and small stable models,,,,
+cs/0002002,Uniform semantic treatment of default and autoepistemic logics,,,,
+cs/0002003,On the accuracy and running time of GSAT,,,,
+cs/0002015,Genetic Algorithms for Extension Search in Default Logic,,,,
+cs/0002016,SLT-Resolution for the Well-Founded Semantics,,,,
+cs/0003007,"Computing Circumscriptive Databases by Integer Programming: Revisited
+  (Extended Abstract)",,,,
+cs/0003008,"Consistency Management of Normal Logic Program by Top-down Abductive
+  Proof Procedure",,,,
+cs/0003009,Conditional indifference and conditional preservation,,,,
+cs/0003011,Automatic Belief Revision in SNePS,,,,
+cs/0003013,A flexible framework for defeasible logics,,,,
+cs/0003014,Applying Maxi-adjustment to Adaptive Information Filtering Agents,,,,
+cs/0003015,On the semantics of merging,,,,
+cs/0003016,"Abductive and Consistency-Based Diagnosis Revisited: a Modeling
+  Perspective",,,,
+cs/0003017,The lexicographic closure as a revision process,,,,
+cs/0003018,Description of GADEL,,,,
+cs/0003019,Extending Classical Logic with Inductive Definitions,,,,
+cs/0003020,ACLP: Integrating Abduction and Constraint Solving,,,,
+cs/0003021,Relevance Sensitive Non-Monotonic Inference on Belief Sequences,,,,
+cs/0003022,Hypothetical revision and matter-of-fact supposition,,,,
+cs/0003023,Probabilistic Default Reasoning with Conditional Constraints,,,,
+cs/0003024,A Compiler for Ordered Logic Programs,,,,
+cs/0003027,SLDNFA-system,,,,
+cs/0003028,Logic Programs with Compiled Preferences,,,,
+cs/0003029,Fuzzy Approaches to Abductive Inference,,,,
+cs/0003030,Problem solving in ID-logic with aggregates: some experiments,,,,
+cs/0003031,Optimal Belief Revision,,,,
+cs/0003032,cc-Golog: Towards More Realistic Logic-Based Robot Controllers,,,,
+cs/0003033,Smodels: A System for Answer Set Programming,,,,
+cs/0003034,"E-RES: A System for Reasoning about Actions, Events and Observations",,,,
+cs/0003035,Declarative Representation of Revision Strategies,,,,
+cs/0003037,QUIP - A Tool for Computing Nonmonotonic Reasoning Tasks,,,,
+cs/0003038,A Splitting Set Theorem for Epistemic Specifications,,,,
+cs/0003039,DES: a Challenge Problem for Nonmonotonic Reasoning Systems,,,,
+cs/0003040,Implementing Integrity Constraints in an Existing Belief Revision System,,,,
+cs/0003041,"Coherence, Belief Expansion and Bayesian Networks",,,,
+cs/0003042,Fages' Theorem and Answer Set Programming,,,,
+cs/0003044,"On the tractable counting of theory models and its application to belief
+  revision and truth maintenance",,,,
+cs/0003046,Linear Tabulated Resolution Based on Prolog Control Strategy,,,,
+cs/0003047,BDD-based reasoning in the fluent calculus - first results,,,,
+cs/0003048,PAL: Pertinence Action Language,,,,
+cs/0003049,Planning with Incomplete Information,,,,
+cs/0003050,A tableau methodology for deontic conditional logics,,,,
+cs/0003051,Local Diagnosis,,,,
+cs/0003052,A Consistency-Based Model for Belief Change: Preliminary Report,,,,
+cs/0003056,A note on the Declarative reading(s) of Logic Programming,,,,
+cs/0003057,XNMR: A tool for knowledge bases exploration,,,,
+cs/0003059,SATEN: An Object-Oriented Web-Based Revision and Extraction Engine,,,,
+cs/0003061,dcs: An Implementation of DATALOG with Constraints,,,,
+cs/0003067,Detecting Unsolvable Queries for Definite Logic Programs,,,,
+cs/0003076,Constraint Programming viewed as Rule-based Programming,,,,
+cs/0003077,DATALOG with constraints - an answer-set programming system,,,,
+cs/0003080,Some Remarks on Boolean Constraint Propagation,,,,
+cs/0003082,Representation results for defeasible logic,,,,
+cs/0004002,"Programming in Alma-0, or Imperative and Declarative Programming
+  Reconciled",,,,
+cs/0004005,Exact Phase Transitions in Random Constraint Satisfaction Problems,,,,
+cs/0005008,A Denotational Semantics for First-Order Logic,,,,
+cs/0005009,PSPACE Reasoning for Graded Modal Logics,,,,
+cs/0005012,Reasoning with Axioms: Theory and Pratice,,,,
+cs/0005013,Practical Reasoning for Very Expressive Description Logics,,,,
+cs/0005014,Practical Reasoning for Expressive Description Logics,,,,
+cs/0005017,Reasoning with Individuals for the Description Logic SHIQ,,,,
+cs/0005021,Modeling the Uncertainty in Complex Engineering Systems,,,,
+cs/0005030,Axiomatizing Causal Reasoning,,,,
+cs/0005031,Conditional Plausibility Measures and Bayesian Networks,,,,
+cs/0006009,Knowledge and common knowledge in a distributed environment,,,,
+cs/0006013,An evaluation of Naive Bayesian anti-spam filtering,,,,
+cs/0006031,Verifying Termination of General Logic Programs with Concrete Queries,,,,
+cs/0006041,Using a Diathesis Model for Semantic Parsing,,,,
+cs/0006042,Semantic Parsing based on Verbal Subcategorization,,,,
+cs/0006043,"Constraint compiling into rules formalism constraint compiling into
+  rules formalism for dynamic CSPs computing",,,,
+cs/0007002,Interval Constraint Solving for Camera Control and Motion Planning,,,,
+cs/0007004,Brainstorm/J: a Java Framework for Intelligent Agents,,,,
+cs/0007010,Boosting Applied to Word Sense Disambiguation,,,,
+cs/0007011,"Naive Bayes and Exemplar-Based approaches to Word Sense Disambiguation
+  Revisited",,,,
+cs/0007020,Polynomial-time Computation via Local Inference Relations,,,,
+cs/0007026,Integrating E-Commerce and Data Mining: Architecture and Challenges,,,,
+cs/0007032,Knowledge on Treelike Spaces,,,,
+cs/0007033,To Preference via Entrenchment,,,,
+cs/0007038,Modal Logics for Topological Spaces,,,,
+cs/0007039,Ordering-based Representations of Rational Inference,,,,
+cs/0007040,Entrenchment Relations: A Uniform Approach to Nonmonotonicity,,,,
+cs/0008016,Processing Self Corrections in a speech to speech system,,,,
+cs/0008020,"Explaining away ambiguity: Learning verb selectional preference with
+  Bayesian networks",,,,
+cs/0009022,"A Comparison between Supervised Learning Algorithms for Word Sense
+  Disambiguation",,,,
+cs/0010023,Oracle Complexity and Nontransitivity in Pattern Recognition,,,,
+cs/0010032,Super Logic Programs,,,,
+cs/0010037,On the relationship between fuzzy logic and four-valued relevance logic,,,,
+cs/0011007,Tree-gram Parsing: Lexical Dependencies and Structural Relations,,,,
+cs/0011008,"A Lambda-Calculus with letrec, case, constructors and non-determinism",,,,
+cs/0011012,"Causes and Explanations: A Structural-Model Approach, Part I: Causes",,,,
+cs/0011030,"Logic Programming Approaches for Representing and Solving Constraint
+  Satisfaction Problems: A Comparison",,,,
+cs/0011042,Order-consistent programs are cautiously monotonic,,,,
+cs/0012004,Improving Performance of heavily loaded agents,,,,
+cs/0012010,The Role of Commutativity in Constraint Propagation Algorithms,,,,
+cs/0101014,On the problem of computing the well-founded semantics,,,,
+cs/0101036,The Generalized Universal Law of Generalization,,,,
+cs/0102014,"On the predictability of Rainfall in Kerala- An application of ABF
+  Neural Network",,,,
+cs/0103020,Belief Revision: A Critique,,,,
+cs/0104017,Local Search Techniques for Constrained Portfolio Selection Problems,,,,
+cs/0104020,"Coaxing Confidences from an Old Friend: Probabilistic Classifications
+  from Transformation Rule Lists",,,,
+cs/0105003,"Rule Writing or Annotation: Cost-efficient Resource Usage for Base Noun
+  Phrase Chunking",,,,
+cs/0105015,The alldifferent Constraint: A Survey,,,,
+cs/0105017,Optimization Over Zonotopes and Training Support Vector Machines,,,,
+cs/0105021,"Solving Composed First-Order Constraints from Discrete-Time Robust
+  Control",,,,
+cs/0105022,Multi-Channel Parallel Adaptation Theory for Rule Discovery,,,,
+cs/0105027,Bounds on sample size for policy evaluation in Markov environments,,,,
+cs/0105036,Disjunctive Logic Programs with Inheritance,,,,
+cs/0106004,Soft Scheduling,,,,
+cs/0106014,L.T.Kuzin: Research Program,,,,
+cs/0106025,Information Integration and Computational Logic,,,,
+cs/0106031,"Complexity Results and Practical Algorithms for Logics in Knowledge
+  Representation",,,,
+cs/0106044,A Sequential Model for Multi-Class Classification,,,,
+cs/0106054,"Software Toolkit for Building Embedded and Distributed Knowledge-based
+  Systems",,,,
+cs/0107002,Enhancing Constraint Propagation with Composition Operators,,,,
+cs/0107013,The Logic Programming Paradigm and Prolog,,,,
+cs/0107014,Transformations of CCP programs,,,,
+cs/0107026,Annotated revision programs,,,,
+cs/0107027,Fixed-parameter complexity of semantics for logic programs,,,,
+cs/0107028,Propositional satisfiability in answer-set programming,,,,
+cs/0107029,"aspps --- an implementation of answer-set programming with propositional
+  schemata",,,,
+cs/0108008,"Using Methods of Declarative Logic Programming for Intelligent
+  Information Agents",,,,
+cs/0108013,"Convergent Approximate Solving of First-Order Constraints by Approximate
+  Quantifiers",,,,
+cs/0109025,Dynamic Global Constraints: A First View,,,,
+cs/0110003,The temporal calculus of conditional objects and conditional events,,,,
+cs/0110004,"Embedding conditional event algebras into temporal calculus of
+  conditionals",,,,
+cs/0110023,Set Unification,,,,
+cs/0110032,A logic-based approach to data integration,,,,
+cs/0111012,Intelligent Anticipated Exploration of Web Sites,,,,
+cs/0111038,Arc consistency for soft constraints,,,,
+cs/0111058,Bayesian Logic Programs,,,,
+cs/0111060,Gradient-based Reinforcement Planning in Policy-Search Methods,,,,
+cs/0112006,"A Logic Programming Approach to Knowledge-State Planning: Semantics and
+  Complexity",,,,
+cs/0112007,A Tight Upper Bound on the Number of Candidate Patterns,,,,
+cs/0112011,Interactive Constrained Association Rule Mining,,,,
+cs/0112013,"A Data Mining Framework for Optimal Product Selection in Retail
+  Supermarket Data: The Generalized PROFSET Model",,,,
+cs/0112015,Rational Competitive Analysis,,,,
+cs/0112019,Distribution of Mutual Information,,,,
+cs/0201013,"Computing Preferred Answer Sets by Meta-Interpretation in Answer Set
+  Programming",,,,
+cs/0201017,"Collusion in Unrepeated, First-Price Auctions with an Uncertain Number
+  of Participants",,,,
+cs/0201020,A Modal Logic Framework for Multi-agent Belief Fusion,,,,
+cs/0202001,The Deductive Database System LDL++,,,,
+cs/0202004,"A Qualitative Dynamical Modelling Approach to Capital Accumulation in
+  Unregulated Fisheries",,,,
+cs/0202007,"Steady State Resource Allocation Analysis of the Stochastic Diffusion
+  Search",,,,
+cs/0202012,Logic program specialisation through partial deduction: Control issues,,,,
+cs/0202016,Linear Programming helps solving large multi-unit combinatorial auctions,,,,
+cs/0202020,"The Mysterious Optimality of Naive Bayes: Estimation of the Probability
+  in the System of ""Classifiers""",,,,
+cs/0202022,What does a conditional knowledge base entail?,,,,
+cs/0202024,A note on Darwiche and Pearl,,,,
+cs/0202025,Distance Semantics for Belief Revision,,,,
+cs/0202026,Preferred History Semantics for Iterated Updates,,,,
+cs/0202030,Generalized Qualitative Probability: Savage revisited,,,,
+cs/0202031,Nonmonotonic inference operations,,,,
+cs/0202032,"Optimal Solutions for Multi-Unit Combinatorial Auctions: Branch and
+  Bound Heuristics",,,,
+cs/0202033,The logical meaning of Expansion,,,,
+cs/0202034,Covariance Plasticity and Regulated Criticality,,,,
+cs/0203002,Another perspective on Default Reasoning,,,,
+cs/0203003,Deductive Nonmonotonic Inference Operations: Antitonic Representations,,,,
+cs/0203004,Stereotypical Reasoning: Logical Properties,,,,
+cs/0203005,A Framework for Compiling Preferences in Logic Programs,,,,
+cs/0203007,Two results for proiritized logic programming,,,,
+cs/0203013,Representing and Aggregating Conflicting Beliefs,,,,
+cs/0203021,"NetNeg: A Connectionist-Agent Integrated System for Representing Musical
+  Knowledge",,,,
+cs/0204030,Fast Hands-free Writing by Gaze Direction,,,,
+cs/0204032,Belief Revision and Rational Inference,,,,
+cs/0204043,Learning from Scarce Experience,,,,
+cs/0204047,Sampling Strategies for Mining in Data-Scarce Domains,,,,
+cs/0204053,Qualitative Analysis of Correspondence for Experimental Algorithmics,,,,
+cs/0205013,Computing stable models: worst-case performance estimates,,,,
+cs/0205014,Ultimate approximations in nonmonotonic knowledge representation systems,,,,
+cs/0205078,A Spectrum of Applications of Automated Reasoning,,,,
+cs/0206003,Handling Defeasibilities in Action Domains,,,,
+cs/0206004,Mining All Non-Derivable Frequent Itemsets,,,,
+cs/0206006,Robust Feature Selection by Mutual Information Distributions,,,,
+cs/0206017,The Prioritized Inductive Logic Programs,,,,
+cs/0206023,Relational Association Rules: getting WARMeR,,,,
+cs/0206041,Anticipatory Guidance of Plot,,,,
+cs/0207008,Agent Programming with Declarative Goals,,,,
+cs/0207021,"Abduction, ASP and Open Logic Programs",,,,
+cs/0207023,Domain-Dependent Knowledge in Answer Set Planning,,,,
+cs/0207024,On Concise Encodings of Preferred Extensions,,,,
+cs/0207025,"""Minimal defence"": a refinement of the preferred semantics for
+  argumentation frameworks",,,,
+cs/0207029,Two Representations for Iterative Non-prioritized Change,,,,
+cs/0207030,Collective Argumentation,,,,
+cs/0207032,Alternative Characterizations for Strong Equivalence of Logic Programs,,,,
+cs/0207037,Some logics of belief and disbelief,,,,
+cs/0207038,"Iterated revision and the axiom of recovery: a unified treatment via
+  epistemic states",,,,
+cs/0207040,Well-Founded Argumentation Semantics for Extended Logic Programming,,,,
+cs/0207042,Logic Programming with Ordered Disjunction,,,,
+cs/0207045,Compilation of Propositional Weighted Bases,,,,
+cs/0207056,Modeling Complex Domains of Actions and Change,,,,
+cs/0207060,"Preferred well-founded semantics for logic programming by alternating
+  fixpoints: Preliminary report",,,,
+cs/0207064,Interpolation Theorems for Nonmonotonic Reasoning Systems,,,,
+cs/0207065,Embedding Default Logic in Propositional Argumentation Systems,,,,
+cs/0207071,"A Polynomial Translation of Logic Programs with Nested Expressions into
+  Disjunctive Logic Programs: Preliminary Report",,,,
+cs/0207072,Complexity of Nested Circumscription and Nested Abnormality Theories,,,,
+cs/0207073,Reinforcing Reachable Routes,,,,
+cs/0207075,"Nonmonotonic Probabilistic Logics between Model-Theoretic Probabilistic
+  Logic and Probabilistic Logic under Coherence",,,,
+cs/0207083,Evaluating Defaults,,,,
+cs/0207088,A Paraconsistent Higher Order Logic,,,,
+cs/0208008,Soft Concurrent Constraint Programming,,,,
+cs/0208009,Offline Specialisation in Prolog Using a Hand-Written Compiler Generator,,,,
+cs/0208017,Linking Makinson and Kraus-Lehmann-Magidor preferential entailments,,,,
+cs/0208034,"Causes and Explanations: A Structural-Model Approach. Part II:
+  Explanations",,,,
+cs/0209008,"The partition semantics of questions, syntactically",,,,
+cs/0209009,Question answering: from partitions to Prolog,,,,
+cs/0209019,Reasoning about Evolving Nonmonotonic Knowledge Bases,,,,
+cs/0209030,Extremal Optimization: an Evolutionary Local-Search Algorithm,,,,
+cs/0210004,Revising Partially Ordered Beliefs,,,,
+cs/0210007,Compilability of Abduction,,,,
+cs/0210023,Geometric Aspects of Multiagent Systems,,,,
+cs/0210026,Encoding a Taxonomy of Web Attacks with Different-Length Vectors,,,,
+cs/0210027,A uniform approach to logic programming semantics,,,,
+cs/0210030,Intelligence and Cooperative Search by Coupled Local Minimizers,,,,
+cs/0211006,Maximing the Margin in the Input Space,,,,
+cs/0211031,Redundancy in Logic I: CNF Propositional Formulae,,,,
+cs/0212008,"Principal Manifolds and Nonlinear Dimension Reduction via Local Tangent
+  Space Alignment",,,,
+cs/0212025,Searching for Plannable Domains can Speed up Reinforcement Learning,,,,
+cs/0212053,Merging Locally Correct Knowledge Bases: A Preliminary Report,,,,
+cs/0301006,Temporal plannability by variance of the episode length,,,,
+cs/0301007,Kalman filter control in the reinforcement learning framework,,,,
+cs/0301008,Formal Concept Analysis and Resolution in Algebraic Domains,,,,
+cs/0301010,"Comparisons and Computation of Well-founded Semantics for Disjunctive
+  Logic Programs",,,,
+cs/0301023,A semantic framework for preference handling in answer set programming,,,,
+cs/0302029,Defeasible Logic Programming: An Argumentative Approach,,,,
+cs/0302036,Constraint-based analysis of composite solvers,,,,
+cs/0302038,Tight Logic Programs,,,,
+cs/0303018,Multi-target particle filtering for the probability hypothesis density,,,,
+cs/0304007,A Method for Clustering Web Attacks Using Edit Distance,,,,
+cs/0305001,A Framework for Searching AND/OR Graphs with Cycles,,,,
+cs/0305040,Bounded LTL Model Checking with Stable Models,,,,
+cs/0305044,Updating beliefs with incomplete observations,,,,
+cs/0305052,On the Existence and Convergence Computable Universal Priors,,,,
+cs/0306017,Minimum Model Semantics for Logic Programs with Negation-as-Failure,,,,
+cs/0306022,Techniques for effective vocabulary selection,,,,
+cs/0306039,Bayesian Information Extraction Network,,,,
+cs/0306091,Universal Sequential Decisions in Unknown Environments,,,,
+cs/0306106,"Lexicographic probability, conditional probability, and nonstandard
+  probability",,,,
+cs/0306120,"Reinforcement Learning with Linear Function Approximation and LQ control
+  Converges",,,,
+cs/0306124,Updating Probabilities,,,,
+cs/0306126,"Bayesian Treatment of Incomplete Discrete Data applied to Mutual
+  Information and Feature Selection",,,,
+cs/0306135,Pruning Isomorphic Structural Sub-problems in Configuration,,,,
+cs/0307017,Definition and Complexity of Some Basic Metareasoning Problems,,,,
+cs/0307050,A ternary Relation Algebra of directed lines,,,,
+cs/0307056,From Statistical Knowledge Bases to Degrees of Belief,,,,
+cs/0307069,A logic for reasoning about upper probabilities,,,,
+cs/0307070,"Modeling Belief in Dynamic Systems, Part I: Foundations",,,,
+cs/0307071,"Modeling Belief in Dynamic Systems, Part II: Revisions and Update",,,,
+cs/0308002,Quantifying and Visualizing Attribute Interactions,,,,
+cs/0308030,"Learning in Multiagent Systems: An Introduction from a Game-Theoretic
+  Perspective",,,,
+cs/0309030,Model-Based Debugging using Multiple Abstract Models,,,,
+cs/0309053,A Hierarchical Situation Calculus,,,,
+cs/0310005,Using Artificial Intelligence for Model Selection,,,,
+cs/0310021,"Fuzzy Relational Modeling of Cost and Affordability for Advanced
+  Technology Manufacturing Environment",,,,
+cs/0310047,"Abductive Logic Programs with Penalization: Semantics, Complexity and
+  Implementation",,,,
+cs/0311001,"Modeling State in Software Debugging of VHDL-RTL Designs -- A
+  Model-Based Diagnosis Approach",,,,
+cs/0311003,Enhancing a Search Algorithm to Perform Intelligent Backtracking,,,,
+cs/0311007,Parametric Connectives in Disjunctive Logic Programming,,,,
+cs/0311008,"A Parameterised Hierarchy of Argumentation Semantics for Extended Logic
+  Programming and its Application to the Well-founded Semantics",,,,
+cs/0311014,"Optimality of Universal Bayesian Sequence Prediction for General Loss
+  and Alphabet",,,,
+cs/0311024,Logic-Based Specification Languages for Intelligent Software Agents,,,,
+cs/0311026,"Great Expectations. Part I: On the Customizability of Generalized
+  Expected Utility",,,,
+cs/0311027,"Great Expectations. Part II: Generalized Expected Utility as a Universal
+  Decision Rule",,,,
+cs/0311028,Using Counterfactuals in Knowledge-Based Programming,,,,
+cs/0311048,Turning CARTwheels: An Alternating Algorithm for Mining Redescriptions,,,,
+cs/0312020,Modeling Object Oriented Constraint Programs in Z,,,,
+cs/0312025,Soft Constraint Programming to Analysing Security Protocols,,,,
+cs/0312026,Speedup of Logic Programs by Binarization and Partial Deduction,,,,
+cs/0312028,"Minimal founded semantics for disjunctive logic programs and deductive
+  databases",,,,
+cs/0312029,Strong Equivalence Made Easy: Nested Expressions and Weight Constraints,,,,
+cs/0312036,What Causes a System to Satisfy a Specification?,,,,
+cs/0312037,"Characterizing and Reasoning about Probabilistic and Non-Probabilistic
+  Expectation",,,,
+cs/0312038,Responsibility and blame: a structural-model approach,,,,
+cs/0312040,Diagnostic reasoning with A-Prolog,,,,
+cs/0312041,Greedy Algorithms in Datalog,,,,
+cs/0312045,Weight Constraints as Nested Expressions,,,,
+cs/0312048,Representation Dependence in Probabilistic Inference,,,,
+cs/0312051,"Towards Automated Generation of Scripted Dialogue: Some Time-Honoured
+  Strategies",,,,
+cs/0312052,"Dialogue as Discourse: Controlling Global Properties of Scripted
+  Dialogue",,,,
+cs/0312053,On the Expressibility of Stable Logic Programming,,,,
+cs/0312057,Abduction in Well-Founded Semantics and Generalized Stable Models,,,,
+cs/0402013,"Corollaries on the fixpoint completion: studying the stable semantics by
+  means of the Clark completion",,,,
+cs/0402019,The Munich Rent Advisor: A Success for Logic Programming on the Internet,,,,
+cs/0402030,"Computational complexity and simulation of rare events of Ising spin
+  glasses",,,,
+cs/0402031,Parameter-less hierarchical BOA,,,,
+cs/0402032,Fitness inheritance in the Bayesian optimization algorithm,,,,
+cs/0402033,Recycling Computed Answers in Rewrite Systems for Abduction,,,,
+cs/0402053,The Complexity of Modified Instances,,,,
+cs/0402057,Integrating Defeasible Argumentation and Machine Learning Techniques,,,,
+cs/0403002,Epistemic Foundation of Stable Model Semantics,,,,
+cs/0403009,Demolishing Searle's Chinese Room,,,,
+cs/0403025,Distribution of Mutual Information from Complete and Incomplete Data,,,,
+cs/0403031,"Concept of E-machine: How does a ""dynamical"" brain learn to process
+  ""symbolic"" information? Part I",,,,
+cs/0403032,Where Fail-Safe Default Logics Fail,,,,
+cs/0403038,Tournament versus Fitness Uniform Selection,,,,
+cs/0403039,A Flexible Rule Compiler for Speech Synthesis,,,,
+cs/0404011,Parametric external predicates for the DLV System,,,,
+cs/0404012,"Toward the Implementation of Functions in the DLV System (Preliminary
+  Technical Report)",,,,
+cs/0404032,"When Do Differences Matter? On-Line Feature Extraction Through Cognitive
+  Economy",,,,
+cs/0404045,"Speculation on graph computation architectures and computing via
+  synchronization",,,,
+cs/0404051,Knowledge And The Action Description Language A,,,,
+cs/0404057,Convergence of Discrete MDL for Sequential Prediction,,,,
+cs/0405002,"Splitting an operator: Algebraic modularity results for logics with
+  fixpoint semantics",,,,
+cs/0405007,"""In vivo"" spam filtering: A challenge problem for data mining",,,,
+cs/0405038,Deductive Algorithmic Knowledge,,,,
+cs/0405043,"Prediction with Expert Advice by Following the Perturbed Leader for
+  General Weights",,,,
+cs/0405071,Regression with respect to sensing actions and partial states,,,,
+cs/0405090,Propositional Defeasible Logic has Linear Complexity,,,,
+cs/0405098,A Logic for Reasoning about Evidence,,,,
+cs/0405106,Pruning Search Space in Defeasible Argumentation,,,,
+cs/0405107,"A Framework for Combining Defeasible Argumentation with Labeled
+  Deduction",,,,
+cs/0405113,"A proposal to design expert system for the calculations in the domain of
+  QFT",,,,
+cs/0406025,Directional Consistency for Continuous Numerical Constraints,,,,
+cs/0406055,Web Services: A Process Algebra Approach,,,,
+cs/0407016,Learning for Adaptive Real-time Search,,,,
+cs/0407034,On the Complexity of Case-Based Planning,,,,
+cs/0407037,Generalized Evolutionary Algorithm based on Tsallis Statistics,,,,
+cs/0407039,On the Convergence Speed of MDL Predictions for Bernoulli Sequences,,,,
+cs/0407040,Decomposition Based Search - A theoretical and experimental evaluation,,,,
+cs/0407042,Postponing Branching Decisions,,,,
+cs/0407044,Reduced cost-based ranking for generating promising subproblems,,,,
+cs/0407049,Preferred Answer Sets for Ordered Logic Programs,,,,
+cs/0407057,Universal Convergence of Semimeasures on Individual Random Sequences,,,,
+cs/0407064,A Sequent Calculus and a Theorem Prover for Standard Conditional Logics,,,,
+cs/0408023,On Global Warming (Softening Global Constraints),,,,
+cs/0408037,"Multi-dimensional Type Theory: Rules, Categories, and Combinators for
+  Syntax and Semantics",,,,
+cs/0408044,FLUX: A Logic Programming Method for Reasoning Agents,,,,
+cs/0408055,"Cauchy Annealing Schedule: An Annealing Schedule for Boltzmann Selection
+  Scheme in Evolutionary Algorithms",,,,
+cs/0408056,A CHR-based Implementation of Known Arc-Consistency,,,,
+cs/0408057,The role of robust semantic analysis in spoken language dialogue systems,,,,
+cs/0408069,"The Integration of Connectionism and First-Order Knowledge
+  Representation and Reasoning as a Challenge for Artificial Intelligence",,,,
+cs/0409002,Default reasoning over domains and concept hierarchies,,,,
+cs/0409007,The Generalized Pignistic Transformation,,,,
+cs/0409019,Outlier Detection by Logic Programming,,,,
+cs/0409045,"Augmenting ALC(D) (atemporal) roles and (aspatial) concrete domain with
+  temporal roles and a spatial concrete domain -first results",,,,
+cs/0409046,"A TCSP-like decidable constraint language generalising existing cardinal
+  direction relations",,,,
+cs/0409047,"An ALC(D)-based combination of temporal constraints and spatial
+  constraints suitable for continuous (spatial) change",,,,
+cs/0410004,Applying Policy Iteration for Training Recurrent Neural Networks,,,,
+cs/0410014,Normal forms for Answer Sets Programming,,,,
+cs/0410015,"L1 regularization is better than L2 for learning and predicting chaotic
+  systems",,,,
+cs/0410050,"Sleeping Beauty Reconsidered: Conditioning and Reflection in
+  Asynchronous Systems",,,,
+cs/0410068,"Analyzing and Improving Performance of a Class of Anomaly-based
+  Intrusion Detectors",,,,
+cs/0411016,"Intelligent search strategies based on adaptive Constraint Handling
+  Rules",,,,
+cs/0411071,Comparing Multi-Target Trackers on Different Force Unit Levels,,,,
+cs/0411099,A Note on the PAC Bayesian Theorem,,,,
+cs/0412002,Ranking Pages by Topology and Popularity within Web Sites,,,,
+cs/0412026,Removing Propagation Redundant Constraints in Redundant Modeling,,,,
+cs/0412041,An Efficient and Flexible Engine for Computing Fixed Points,,,,
+cs/0412105,On the existence of stable models of non-stratified logic programs,,,,
+cs/0501025,A Logic for Non-Monotone Inductive Definitions,,,,
+cs/0501068,"Learning to automatically detect features for mobile robots using
+  second-order Hidden Markov Models",,,,
+cs/0501089,Issues in Exploiting GermaNet as a Resource in Real Applications,,,,
+cs/0501093,Transforming Business Rules Into Natural Language Text,,,,
+cs/0501094,Corpus based Enrichment of GermaNet Verb Frames,,,,
+cs/0501095,Context Related Derivation of Word Senses,,,,
+cs/0501096,Transforming and Enriching Documents for the Semantic Web,,,,
+cs/0502006,Neural network ensembles: Evaluation of aggregation algorithms,,,,
+cs/0502020,Population Sizing for Genetic Programming Based Upon Decision Making,,,,
+cs/0502021,"Oiling the Wheels of Change: The Role of Adaptive Automatic Problem
+  Decomposition in Non--Stationary Environments",,,,
+cs/0502022,Sub-Structural Niching in Non-Stationary Environments,,,,
+cs/0502023,Sub-structural Niching in Estimation of Distribution Algorithms,,,,
+cs/0502029,"Scalability of Genetic Programming and Probabilistic Incremental Program
+  Evolution",,,,
+cs/0502034,"Multiobjective hBOA, Clustering, and Scalability",,,,
+cs/0502057,"Decomposable Problems, Niching, and Scalability of Multiobjective
+  Estimation of Distribution Algorithms",,,,
+cs/0502067,"Master Algorithms for Active Experts Problems based on Increasing Loss
+  Values",,,,
+cs/0502082,Graphs and colorings for answer set programming,,,,
+cs/0502086,The Self-Organization of Speech Sounds,,,,
+cs/0502088,Towards a Systematic Account of Different Semantics for Logic Programs,,,,
+cs/0502096,"Property analysis of symmetric travelling salesman problem instances
+  acquired through evolution",,,,
+cs/0503018,Probabilistic Algorithmic Knowledge,,,,
+cs/0503030,A Suffix Tree Approach to Email Filtering,,,,
+cs/0503043,"Complexity Issues in Finding Succinct Solutions of PSPACE-Complete
+  Problems",,,,
+cs/0503044,Generating Hard Satisfiable Formulas by Hiding Solutions Deceptively,,,,
+cs/0503046,Hiding Satisfying Assignments: Two are Better than One,,,,
+cs/0503092,Monotonic and Nonmonotonic Preference Revision,,,,
+cs/0504024,Constraint-Based Qualitative Simulation,,,,
+cs/0504030,Sufficient conditions for convergence of the Sum-Product Algorithm,,,,
+cs/0504035,Fitness Uniform Deletion: A Simple Way to Preserve Diversity,,,,
+cs/0504072,"Knowledge Representation Issues in Semantic Graphs for Relationship
+  Detection",,,,
+cs/0504078,Adaptive Online Prediction by Following the Perturbed Leader,,,,
+cs/0504086,Componentwise Least Squares Support Vector Machines,,,,
+cs/0504108,"Cooperative Game Theory within Multi-Agent Systems for Systems
+  Scheduling",,,,
+cs/0505018,Temporal and Spatial Data Mining with Second-Order Hidden Models,,,,
+cs/0505035,Beyond Hypertree Width: Decomposition Methods Without Decompositions,,,,
+cs/0505041,Relational reasoning in the region connection calculus,,,,
+cs/0505064,"Multi-Modal Human-Machine Communication for Instructing Robot Grasping
+  Tasks",,,,
+cs/0505071,Summarization Techniques for Pattern Collections in Data Mining,,,,
+cs/0505080,"Dominance Based Crossover Operator for Evolutionary Multi-objective
+  Algorithms",,,,
+cs/0506023,Sparse Covariance Selection via Robust Maximum Likelihood Estimation,,,,
+cs/0506030,Preferential and Preferential-discriminative Consequence relations,,,,
+cs/0506031,A Constrained Object Model for Configuration Based Workflow Composition,,,,
+cs/0506095,"Deriving a Stationary Dynamic Bayesian Network from a Logic Program with
+  Recursive Loops",,,,
+cs/0507023,"Two-dimensional cellular automata and the analysis of correlated time
+  series",,,,
+cs/0507029,ATNoSFERES revisited,,,,
+cs/0507035,Enhancing Global SLS-Resolution with Loop Cutting and Tabling Mechanisms,,,,
+cs/0507039,"Distributed Regression in Sensor Networks: Training Distributively with
+  Alternating Projections",,,,
+cs/0507040,Pattern Recognition for Conditionally Independent Data,,,,
+cs/0507053,Nonrepetitive Paths and Cycles in Graphs with Application to Sudoku,,,,
+cs/0507056,Explorations in engagement for humans and robots,,,,
+cs/0507059,"Data complexity of answering conjunctive queries over SHIQ knowledge
+  bases",,,,
+cs/0507067,"Conjunctive Query Containment and Answering under Description Logics
+  Constraints",,,,
+cs/0508032,"Polymorphic Self-* Agents for Stigmergic Fault Mitigation in Large-Scale
+  Real-Time Embedded Systems",,,,
+cs/0508070,"MAP estimation via agreement on (hyper)trees: Message-passing and linear
+  programming",,,,
+cs/0508073,Universal Learning of Repeated Matrix Games,,,,
+cs/0508129,Temporal Phylogenetic Networks and Logic Programming,,,,
+cs/0508132,Planning with Preferences using Logic Programming,,,,
+cs/0509020,"Transitive Text Mining for Information Extraction and Hypothesis
+  Generation",,,,
+cs/0509025,A formally verified proof of the prime number theorem,,,,
+cs/0509040,Authoring case based training by document data extraction,,,,
+cs/0509058,Interactive Unawareness Revisited,,,,
+cs/0509071,CP-nets and Nash equilibria,,,,
+cs/0510036,Semantic Optimization Techniques for Preference Queries,,,,
+cs/0510037,Hi\'{e}rarchisation des r\`{e}gles d'association en fouille de textes,,,,
+cs/0510056,First-Order Modeling and Stability Analysis of Illusory Contours,,,,
+cs/0510079,Evidence with Uncertain Likelihoods,,,,
+cs/0510080,When Ignorance is Bliss,,,,
+cs/0510091,"An efficient memetic, permutation-based evolutionary algorithm for
+  real-world train timetabling",,,,
+cs/0511004,Evolutionary Computing,,,,
+cs/0511038,"Towards a unified theory of logic programming semantics: Level mapping
+  characterizations of selector generated models",,,,
+cs/0511042,Dimensions of Neural-symbolic Integration - A Structured Survey,,,,
+cs/0511073,Stochastic Process Semantics for Dynamical Grammar Syntax: An Overview,,,,
+cs/0511087,Robust Inference of Trees,,,,
+cs/0511090,Integration of Declarative and Constraint Programming,,,,
+cs/0511091,Evolution of Voronoi based Fuzzy Recurrent Controllers,,,,
+cs/0511093,Artificial Agents and Speculative Bubbles,,,,
+cs/0512037,Evolving Stochastic Learning Algorithm Based on Tsallis Entropic Index,,,,
+cs/0512045,Branch-and-Prune Search Strategies for Numerical Constraint Solving,,,,
+cs/0512071,"""Going back to our roots"": second generation biocomputing",,,,
+cs/0601001,Truecluster: robust scalable clustering with model selection,,,,
+cs/0601004,"Integration of navigation and action selection functionalities in a
+  computational model of cortico-basal ganglia-thalamo-cortical loops",,,,
+cs/0601031,"Divide-and-Evolve: a New Memetic Scheme for Domain-Independent Temporal
+  Planning",,,,
+cs/0601032,Efficient Open World Reasoning for Planning,,,,
+cs/0601043,"Combining Relational Algebra, SQL, Constraint Modelling, and Local
+  Search",,,,
+cs/0601051,A Constructive Semantic Characterization of Aggregates in ASP,,,,
+cs/0601072,Fast Frequent Querying with Lazy Control Flow Compilation,,,,
+cs/0601089,Distributed Kernel Regression: An Algorithm for Training Collaboratively,,,,
+cs/0601109,"Certainty Closure: Reliable Constraint Reasoning with Incomplete or
+  Erroneous Data",,,,
+cs/0601131,Scalable Algorithms for Aggregating Disparate Forecasts of Probability,,,,
+cs/0602004,Conjunctive Queries over Trees,,,,
+cs/0602021,Using Domain Knowledge in Evolutionary System Identification,,,,
+cs/0602022,Avoiding the Bloat with Stochastic Grammar-based Genetic Programming,,,,
+cs/0602027,Explaining Constraint Programming,,,,
+cs/0602031,Classifying Signals with Local Classifiers,,,,
+cs/0602038,Minimum Cost Homomorphisms to Proper Interval Graphs and Bigraphs,,,,
+cs/0602083,"A third level trigger programmable on FPGA for the gamma/hadron
+  separation in a Cherenkov telescope using pseudo-Zernike moments and the SVM
+  classifier",,,,
+cs/0603025,Open Answer Set Programming with Guarded Programs,,,,
+cs/0603034,Metatheory of actions: beyond consistency,,,,
+cs/0603038,"Estimation of linear, non-gaussian causal models in the presence of
+  confounding latent variables",,,,
+cs/0603058,Convergence of Min-Sum Message Passing for Quadratic Optimization,,,,
+cs/0603078,Consensus Propagation,,,,
+cs/0603080,Yet Another Efficient Unification Algorithm,,,,
+cs/0603081,"Application of Support Vector Regression to Interpolation of Sparse
+  Shock Physics Data Sets",,,,
+cs/0604010,Nearly optimal exploration-exploitation decision thresholds,,,,
+cs/0604038,UniCalc.LIN: a linear constraint solver for the UniCalc system,,,,
+cs/0604054,New results on rewrite-based satisfiability procedures,,,,
+cs/0604086,A Knowledge-Based Approach for Selecting Information Sources,,,,
+cs/0605012,Perspective alignment in spatial language,,,,
+cs/0605017,"Reasoning and Planning with Sensing Actions, Incomplete Information, and
+  Static Causal Laws using Answer Set Programming",,,,
+cs/0605024,A Formal Measure of Machine Intelligence,,,,
+cs/0605038,An Unfolding-Based Semantics for Logic Programming with Aggregates,,,,
+cs/0605059,Ontological Representations of Software Patterns,,,,
+cs/0605064,Modal Logics of Topological Relations,,,,
+cs/0605065,On the possible Computational Power of the Human Mind,,,,
+cs/0605106,Supervisory Control of Fuzzy Discrete Event Systems: A Formal Approach,,,,
+cs/0605108,Diagnosability of Fuzzy Discrete Event Systems,,,,
+cs/0605112,An Algorithm to Determine Peer-Reviewers,,,,
+cs/0605123,Classification of Ordinal Data,,,,
+cs/0606024,Consecutive Support: Better Be Close!,,,,
+cs/0606029,Belief Calculus,,,,
+cs/0606070,Is there an Elegant Universal Theory of Prediction?,,,,
+cs/0606084,"The Completeness of Propositional Resolution: A Simple and
+  Constructive<br> Proof",,,,
+cs/0606115,"Evaluating Variable Length Markov Chain Models for Analysis of User Web
+  Navigation Sessions",,,,
+cs/0607013,Database Querying under Changing Preferences,,,,
+cs/0607037,"The Minimal Cost Algorithm for Off-Line Diagnosability of Discrete Event
+  Systems",,,,
+cs/0607056,Reasoning with Intervals on Granules,,,,
+cs/0607065,Decomposable Theories,,,,
+cs/0607071,Islands for SAT,,,,
+cs/0607143,"Target Type Tracking with PCR5 and Dempster's rules: A Comparative
+  Analysis",,,,
+cs/0607147,Fusion of qualitative beliefs using DSmT,,,,
+cs/0608002,"An Introduction to the DSm Theory for the Combination of Paradoxical,
+  Uncertain, and Imprecise Sources of Information",,,,
+cs/0608015,"Towards ""Propagation = Logic + Control""",,,,
+cs/0608017,Infinite Qualitative Simulations by Means of Constraint Programming,,,,
+cs/0608019,Relation Variables in Qualitative Spatial Reasoning,,,,
+cs/0608028,Using Sets of Probability Measures to Represent Uncertainty,,,,
+cs/0608037,"Cascade hash tables: a series of multilevel double hashing schemes with
+  O(1) worst case lookup time",,,,
+cs/0608078,"Searching for Globally Optimal Functional Forms for Inter-Atomic
+  Potentials Using Parallel Tempering and Genetic Programming",,,,
+cs/0608099,Automated verification of weak equivalence within the SMODELS system,,,,
+cs/0609052,"Undecidability of the unification and admissibility problems for modal
+  and description logics",,,,
+cs/0609111,"A State-Based Regression Formulation for Domains with Sensing
+  Actions<br> and Incomplete Information",,,,
+cs/0609119,"Verification, Validation and Integrity of Distributed and Interchanged
+  Rule Based Policies and Contracts in the Semantic Web",,,,
+cs/0609136,The ALVIS Format for Linguistically Annotated Documents,,,,
+cs/0609142,Modular self-organization,,,,
+cs/0610006,"A Typed Hybrid Description Logic Programming Language with Polymorphic
+  Order-Sorted DL-Typed Unification for Semantic Web Type Systems",,,,
+cs/0610016,Norm Based Causal Reasoning in Textual Corpus,,,,
+cs/0610060,Comparing Typical Opening Move Choices Made by Humans and Chess Engines,,,,
+cs/0610067,"Language, logic and ontology: uncovering the structure of commonsense
+  knowledge",,,,
+cs/0610093,Semantic results for ontic and epistemic change,,,,
+cs/0610095,Solving planning domains with polytree causal graphs is NP-complete,,,,
+cs/0610156,Adaptation Knowledge Discovery from a Case Base,,,,
+cs/0610165,Decentralized Failure Diagnosis of Stochastic Discrete Event Systems,,,,
+cs/0610170,"Low-complexity modular policies: learning to play Pac-Man and a new
+  framework beyond MDPs",,,,
+cs/0611020,"An associative memory for the on-line recognition and prediction of
+  temporal sequences",,,,
+cs/0611025,A Logical Approach to Efficient Max-SAT solving,,,,
+cs/0611046,Analytic Tableaux Calculi for KLM Logics of Nonmonotonic Reasoning,,,,
+cs/0611085,"Fuzzy Logic Classification of Imaging Laser Desorption Fourier Transform
+  Mass Spectrometry Data",,,,
+cs/0611104,"Learning and discrimination through STDP in a top-down modulated
+  associative memory",,,,
+cs/0611118,A Neutrosophic Description Logic,,,,
+cs/0611124,Low-rank matrix factorization with attributes,,,,
+cs/0611135,"Genetic Programming for Kernel-based Learning with Co-evolving Subsets
+  Selection",,,,
+cs/0611138,"Functional Brain Imaging with Multi-Objective Multi-Modal Evolutionary
+  Optimization",,,,
+cs/0611140,"On the Benefits of Inoculation, an Example in Train Scheduling",,,,
+cs/0611141,A Generic Global Constraint based on MDDs,,,,
+cs/0611150,A Novel Bayesian Classifier using Copula Functions,,,,
+cs/0612046,Social Networks and Social Information Filtering on Digg,,,,
+cs/0612047,Social Browsing on Flickr,,,,
+cs/0612068,Interactive Configuration by Regular String Constraints,,,,
+cs/0612095,Approximation of the Two-Part MDL Code,,,,
+cs/0612104,Sufficient Conditions for Coarse-Graining Evolutionary Dynamics,,,,
+cs/0701039,"On the Complexity of the Numerically Definite Syllogistic and Related
+  Fragments",,,,
+cs/0701057,"Cooperative Optimization for Energy Minimization: A Case Study of Stereo
+  Matching",,,,
+cs/0701083,A Backtracking-Based Algorithm for Computing Hypertree-Decompositions,,,,
+cs/0701095,Propositional theories are strongly equivalent to logic programs,,,,
+cs/0701127,"A novel set of rotationally and translationally invariant features for
+  images based on the non-commutative bispectrum",,,,
+cs/0701139,Time and the Prisoner's Dilemma,,,,
+cs/0701184,"Structure and Problem Hardness: Goal Asymmetry and DPLL Proofs in<br>
+  SAT-Based Planning",,,,
+cs/0702011,Dealing With Logical Omniscience: Expressiveness and Pragmatics,,,,
+cs/0702028,Uniform and Partially Uniform Redistribution Rules,,,,
+cs/0702072,Logic Programming with Satisfiability,,,,
+cs/0702144,Slope One Predictors for Online Rating-Based Collaborative Filtering,,,,
+cs/0702149,"Coupling Control and Human-Centered Automation in Mathematical Models of
+  Complex Systems",,,,
+cs/0702170,Generic Global Constraints based on MDDs,,,,
+cs/0703087,Social Information Processing in Social News Aggregation,,,,
+cs/0703124,Modelling Complexity in Musical Rhythm,,,,
+cs/0703135,Dependency Parsing with Dynamic Bayesian Network,,,,
+cs/0703138,Reinforcement Learning for Adaptive Routing,,,,
+cs/0703156,Case Base Mining for Adaptation Knowledge Acquisition,,,,
+cs/9308101,Dynamic Backtracking,,,,
+cs/9308102,"A Market-Oriented Programming Environment and its Application to
+  Distributed Multicommodity Flow Problems",,,,
+cs/9309101,An Empirical Analysis of Search in GSAT,,,,
+cs/9311101,The Difficulties of Learning Logic Programs with Cut,,,,
+cs/9311102,Software Agents: Completing Patterns and Constructing User Interfaces,,,,
+cs/9312101,Decidable Reasoning in Terminological Knowledge Representation Systems,,,,
+cs/9401101,Teleo-Reactive Programs for Agent Control,,,,
+cs/9402101,"Learning the Past Tense of English Verbs: The Symbolic Pattern
+  Associator vs. Connectionist Models",,,,
+cs/9402102,"Substructure Discovery Using Minimum Description Length and Background
+  Knowledge",,,,
+cs/9402103,Bias-Driven Revision of Logical Domain Theories,,,,
+cs/9403101,"Exploring the Decision Forest: An Empirical Investigation of Occam's
+  Razor in Decision Tree Induction",,,,
+cs/9406101,"A Semantics and Complete Algorithm for Subsumption in the CLASSIC
+  Description Logic",,,,
+cs/9406102,Applying GSAT to Non-Clausal Formulas,,,,
+cs/9408101,Random Worlds and Maximum Entropy,,,,
+cs/9408102,"Pattern Matching and Discourse Processing in Information Extraction from
+  Japanese Text",,,,
+cs/9408103,A System for Induction of Oblique Decision Trees,,,,
+cs/9409101,On Planning while Learning,,,,
+cs/9412101,Wrap-Up: a Trainable Discourse Module for Information Extraction,,,,
+cs/9412102,Operations for Learning with Graphical Models,,,,
+cs/9412103,Total-Order and Partial-Order Planning: A Comparative Analysis,,,,
+cs/9501101,Solving Multiclass Learning Problems via Error-Correcting Output Codes,,,,
+cs/9501102,A Domain-Independent Algorithm for Plan Adaptation,,,,
+cs/9501103,"Truncating Temporal Differences: On the Efficient Implementation of
+  TD(lambda) for Reinforcement Learning",,,,
+cs/9503101,On the Informativeness of the DNA Promoter Sequences Domain Theory,,,,
+cs/9503102,"Cost-Sensitive Classification: Empirical Evaluation of a Hybrid Genetic
+  Decision Tree Induction Algorithm",,,,
+cs/9504101,"Rerepresenting and Restructuring Domain Theories: A Constructive
+  Induction Approach",,,,
+cs/9505101,Using Pivot Consistency to Decompose and Solve Functional CSPs,,,,
+cs/9505102,Adaptive Load Balancing: A Study in Multi-Agent Learning,,,,
+cs/9505103,Provably Bounded-Optimal Agents,,,,
+cs/9505104,Pac-Learning Recursive Logic Programs: Efficient Algorithms,,,,
+cs/9505105,Pac-learning Recursive Logic Programs: Negative Results,,,,
+cs/9506101,FLECS: Planning with a Flexible Commitment Strategy,,,,
+cs/9506102,"Induction of First-Order Decision Lists: Results on Learning the Past
+  Tense of English Verbs",,,,
+cs/9507101,"Building and Refining Abstract Planning Cases by Change of
+  Representation Language",,,,
+cs/9508101,Using Qualitative Hypotheses to Identify Inaccurate Data,,,,
+cs/9508102,An Integrated Framework for Learning and Reasoning,,,,
+cs/9510101,Diffusion of Context and Credit Information in Markovian Models,,,,
+cs/9510102,Improving Connectionist Energy Minimization,,,,
+cs/9510103,"Learning Membership Functions in a Function-Based Object Recognition
+  System",,,,
+cs/9511101,Flexibly Instructable Agents,,,,
+cs/9512101,OPUS: An Efficient Admissible Algorithm for Unordered Search,,,,
+cs/9512102,"Vision-Based Road Detection in Automotive Systems: A Real-Time
+  Expectation-Driven Approach",,,,
+cs/9512103,Generalization of Clauses under Implication,,,,
+cs/9512104,Decision-Theoretic Foundations for Causal Reasoning,,,,
+cs/9512105,Translating between Horn Representations and their Characteristic Models,,,,
+cs/9512106,Statistical Feature Combination for the Evaluation of Game Positions,,,,
+cs/9512107,Rule-based Machine Learning Methods for Functional Prediction,,,,
+cs/9601101,"The Design and Experimental Analysis of Algorithms for Temporal
+  Reasoning",,,,
+cs/9602101,"Well-Founded Semantics for Extended Logic Programs with Dynamic
+  Preferences",,,,
+cs/9602102,Logarithmic-Time Updates and Queries in Probabilistic Networks,,,,
+cs/9603101,Quantum Computing and Phase Transitions in Combinatorial Search,,,,
+cs/9603102,Mean Field Theory for Sigmoid Belief Networks,,,,
+cs/9603103,Improved Use of Continuous Attributes in C4.5,,,,
+cs/9603104,Active Learning with Statistical Models,,,,
+cs/9604101,A Divergence Critic for Inductive Proof,,,,
+cs/9604102,Practical Methods for Proving Termination of General Logic Programs,,,,
+cs/9604103,Iterative Optimization and Simplification of Hierarchical Clusterings,,,,
+cs/9605101,Further Experimental Evidence against the Utility of Occam's Razor,,,,
+cs/9605102,Least Generalizations and Greatest Specializations of Sets of Clauses,,,,
+cs/9605104,"Adaptive Problem-solving for Large-scale Scheduling Problems: A Case
+  Study",,,,
+cs/9605105,A Formal Framework for Speedup Learning from Problems and Solutions,,,,
+cs/9605106,2Planning for Contingencies: A Decision-based Approach,,,,
+cs/9606101,A Principled Approach Towards Symbolic Geometric Constraint Satisfaction,,,,
+cs/9606102,On Partially Controlled Multi-Agent Systems,,,,
+cs/9608103,Spatial Aggregation: Theory and Applications,,,,
+cs/9608104,A Hierarchy of Tractable Subsets for Computing Stable Models,,,,
+cs/9609101,"Accelerating Partial-Order Planners: Some Techniques for Effective
+  Search Control and Pruning",,,,
+cs/9609102,Cue Phrase Classification Using Machine Learning,,,,
+cs/9610101,Mechanisms for Automated Negotiation in State Oriented Domains,,,,
+cs/9610102,Learning First-Order Definitions of Functions,,,,
+cs/9611101,MUSE CSP: An Extension to the Constraint Satisfaction Problem,,,,
+cs/9612101,Exploiting Causal Independence in Bayesian Network Inference,,,,
+cs/9612102,"Quantitative Results Comparing Three Intelligent Interfaces for
+  Information Capture: A Case Study Adding Name Information into an Electronic
+  Personal Organizer",,,,
+cs/9612103,Characterizations of Decomposable Dependency Models,,,,
+cs/9701101,Improved Heterogeneous Distance Functions,,,,
+cs/9701102,"SCREEN: Learning a Flat Syntactic and Semantic Spoken Language Analysis
+  Using Artificial Neural Networks",,,,
+cs/9703101,A Uniform Framework for Concept Definitions in Description Logics,,,,
+cs/9704101,Lifeworld Analysis,,,,
+cs/9705101,"Query DAGs: A Practical Paradigm for Implementing Belief-Network
+  Inference",,,,
+cs/9705102,"Connectionist Theory Refinement: Genetically Searching the Space of
+  Network Topologies",,,,
+cs/9706101,Flaw Selection Strategies for Partial-Order Planning,,,,
+cs/9706102,A Complete Classification of Tractability in RCC-5,,,,
+cs/9707101,"A New Look at the Easy-Hard-Easy Pattern of Combinatorial Search
+  Difficulty",,,,
+cs/9707102,Eight Maximal Tractable Subclasses of Allen's Algebra with Metric Time,,,,
+cs/9707103,"Defining Relative Likelihood in Partially-Ordered Preferential
+  Structures",,,,
+cs/9709101,Towards Flexible Teamwork,,,,
+cs/9709102,Identifying Hierarchical Structure in Sequences: A linear-time algorithm,,,,
+cs/9710101,Analysis of Three-Dimensional Protein Images,,,,
+cs/9711102,"Storing and Indexing Plan Derivations through Explanation-based Analysis
+  of Retrieval Failures",,,,
+cs/9711103,"A Model Approximation Scheme for Planning in Partially Observable
+  Stochastic Domains",,,,
+cs/9711104,Dynamic Non-Bayesian Decision Making,,,,
+cs/9712101,When Gravity Fails: Local Search Topology,,,,
+cs/9712102,Bidirectional Heuristic Search Reconsidered,,,,
+cs/9801101,Incremental Recompilation of Knowledge,,,,
+cs/9801102,Monotonicity and Persistence in Preferential Logics,,,,
+cs/9803101,Synthesizing Customized Planners from Specifications,,,,
+cs/9803102,"Cached Sufficient Statistics for Efficient Machine Learning with Large
+  Datasets",,,,
+cs/9803103,Tractability of Theory Patching,,,,
+cs/9805101,Integrative Windowing,,,,
+cs/9806101,Model-Based Diagnosis using Structured System Descriptions,,,,
+cs/9806102,"A Selective Macro-learning Algorithm and its Application to the NxN
+  Sliding-Tile Puzzle",,,,
+cs/9808001,Chess Pure Strategies are Probably Chaotic,,,,
+cs/9808005,First-Order Conditional Logic Revisited,,,,
+cs/9808006,Set-Theoretic Completeness for Epistemic and Conditional Logic,,,,
+cs/9808007,Plausibility Measures and Default Reasoning,,,,
+cs/9808101,The Computational Complexity of Probabilistic Planning,,,,
+cs/9809013,Reasoning about Noisy Sensors and Effectors in the Situation Calculus,,,,
+cs/9809034,Semantics and Conversations for an Agent Communication Language,,,,
+cs/9809108,Learning Nested Agent Models in an Information Economy,,,,
+cs/9809110,Similarity-Based Models of Word Cooccurrence Probabilities,,,,
+cs/9810005,Anytime Coalition Structure Generation with Worst Case Guarantees,,,,
+cs/9810016,SYNERGY: A Linear Planner Based on Genetic Programming,,,,
+cs/9810018,A Proof Theoretic View of Constraint Programming,,,,
+cs/9810020,Computational Geometry Column 33,,,,
+cs/9811024,The Essence of Constraint Propagation,,,,
+cs/9811029,"A Human - machine interface for teleoperation of arm manipulators in a
+  complex environment",,,,
+cs/9812017,"A reusable iterative optimization software library to solve
+  combinatorial problems with approximate reasoning",,,,
+cs/9812022,Hypertree Decompositions and Tractable Queries,,,,
+cs/9901001,"TDLeaf(lambda): Combining Temporal Difference Learning with Game-Tree
+  Search",,,,
+cs/9901002,"KnightCap: A chess program that learns by combining TD(lambda) with
+  game-tree search",,,,
+cs/9901003,Fixpoint 3-valued semantics for autoepistemic logic,,,,
+cs/9901012,Extremal problems in logic programming and stable model computation,,,,
+cs/9901016,Representation Theory for Default Logic,,,,
+cs/9902006,A Discipline of Evolutionary Programming,,,,
+cs/9903016,"Modeling Belief in Dynamic Systems, Part II: Revision and Update",,,,
+cs/9904004,Mixing Metaphors,,,,
+cs/9905008,Inducing a Semantically Annotated Lexicon via EM-Based Clustering,,,,
+cs/9906010,Predicate Logic with Definitions,,,,
+cs/9906016,Automatically Selecting Useful Phrases for Dialogue Act Tagging,,,,
+cs/9906019,"Resolving Part-of-Speech Ambiguity in the Greek Language Using Learning
+  Techniques",,,,
+cs/9906029,Events in Property Patterns,,,,
+cs/9907026,"Mixing representation levels: The hybrid approach to automatic text
+  generation",,,,
+cs/9909009,The Rough Guide to Constraint Propagation,,,,
+cs/9909010,"Automatic Generation of Constraint Propagation Algorithms for Small
+  Finite Domains",,,,
+cs/9909014,Reasoning About Common Knowledge with Infinitely Many Agents,,,,
+cs/9909019,Knowledge in Multi-Agent Systems: Initial Configurations and Broadcast,,,,
+cs/9910015,PIPE: Personalizing Recommendations via Partial Evaluation,,,,
+cs/9910016,Probabilistic Agent Programs,,,,
+cs/9911012,Cox's Theorem Revisited,,,,
+math/0408146,"Learning a Machine for the Decision in a Partially Observable Markov
+  Universe",,,,
+math/0502315,"Strong Asymptotic Assertions for Discrete MDL in Regression and
+  Classification",,,,
+math/0510276,An algorithmic and a geometric characterization of Coarsening At Random,,,,
+math/0605498,"Cross-Entropic Learning of a Machine for the Decision in a Partially
+  Observable Universe",,,,
+math/0608571,Intensional Models for the Theory of Types,,,,
+math/0611937,Remarks on Inheritance Systems,,,,
+nlin/0304006,Determining possible avenues of approach using ANTS,,,,
+nlin/0509007,"Lattices for Dynamic, Hierarchic & Overlapping Categorization: the Case
+  of Epistemic Communities",,,,
+physics/0005062,Applying MDL to Learning Best Model Granularity,,,,
+physics/0308041,Ensembles of Protein Molecules as Statistical Analog Computers,,,,
+q-bio/0403022,Intelligent encoding and economical communication in the visual stream,,,,
+q-bio/0701009,Attribute Exploration of Discrete Temporal Transitions,,,,

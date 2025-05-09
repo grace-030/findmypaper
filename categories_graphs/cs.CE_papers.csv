@@ -1,0 +1,207 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+cond-mat/0504025,Point process model of 1/f noise versus a sum of Lorentzians,1.0893747286915562e-05,7.046440502284184e-06,12.0,3.0
+cond-mat/0304132,Causalities of the Taiwan Stock Market,5.295247239606113e-06,0.0,4.0,0.0
+cs/0307053,"Hamevol1.0: a C++ code for differential equations based on Runge-Kutta
+  algorithm. An application to matter enhanced neutrino oscillation",4.742562398462867e-06,0.0,8.0,0.0
+cs/0506089,"Field geology with a wearable computer: 1st results of the Cyborg
+  Astrobiologist System",4.411123543442139e-06,0.0,3.0,0.0
+astro-ph/0504006,Virtual Observatory: From Concept to Implementation,4.260462129331721e-06,0.0,4.0,1.0
+math/0309285,An Algorithm for Optimal Partitioning of Data on an Interval,3.62335329328243e-06,0.0,2.0,1.0
+cs/0510034,COMODI: On the Graphical User Interface,3.62335329328243e-06,0.0,2.0,0.0
+cs/0311011,"On an explicit finite difference method for fractional diffusion
+  equations",3.5551959620992585e-06,0.0,2.0,1.0
+cond-mat/0412723,Modelling financial markets by the multiplicative sequence of trades,3.348758391394161e-06,4.885753495776897e-07,5.0,4.0
+cs/0509012,Kriging Scenario For Capital Markets,3.1564676950366884e-06,0.0,2.0,0.0
+cs/0305055,Goodness-of-fit of the Heston model,3.078280775473588e-06,0.0,1.0,0.0
+cs/0609001,"A Robust Solution Procedure for Hyperelastic Solids with Large Boundary
+  Deformation",3.0472482127272877e-06,0.0,2.0,0.0
+cond-mat/0301307,Nonextensive statistical mechanics and economics,2.8928011107265413e-06,6.442869050953456e-06,5.0,4.0
+cond-mat/0303089,Multiplicative point process as a model of trading activity,2.8183614485973225e-06,4.885753495776897e-07,4.0,5.0
+cs/0407029,Static versus Dynamic Arbitrage Bounds on Multivariate Option Prices,2.697084014042981e-06,0.0,2.0,0.0
+cs/0410005,A dynamical model of a GRID market,2.587952801650048e-06,0.0,1.0,0.0
+cs/0507025,Comparison of Resampling Schemes for Particle Filtering,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0307064,Implementing an Agent Trade Server,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0506034,"A Taxonomy of Data Grids for Distributed Data Sharing, Management and
+  Processing",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0605073,"Analytic Properties and Covariance Functions of a New Class of
+  Generalized Gibbs Random Fields",2.4060086373771908e-06,0.0,1.0,2.0
+q-bio/0403036,The Triplet Genetic Code had a Doublet Predecessor,2.3926175333662813e-06,0.0,3.0,0.0
+cs/0505058,"The Cyborg Astrobiologist: Scouting Red Beds for Uncommon Features with
+  Geological Significance",2.2960610328299915e-06,0.0,2.0,1.0
+cs/0510027,A Market Test for the Positivity of Arrow-Debreu Prices,2.120978933487838e-06,0.0,1.0,0.0
+cs/0506051,"Comparison of two different implementations of a
+  finite-difference-method for first-order pde in mathematica and matlab",1.9803101477411127e-06,0.0,1.0,0.0
+physics/0007075,Optimization of Trading Physics Models of Markets,1.955466569203392e-06,0.0,1.0,0.0
+cs/0610120,Classdesc and Graphcode: support for scientific programming in C++,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0502076,Learning nonsingular phylogenies and hidden Markov models,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0406021,A direct formulation for sparse PCA using semidefinite programming,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0306097,A family of metrics on contact structures based on edge ideals,1.8950380516170012e-06,0.0,1.0,0.0
+q-bio/0604024,The transposition distance for phylogenetic trees,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0609145,A Semidefinite Relaxation for Air Traffic Flow Scheduling,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0111054,The similarity metric,1.8563310916148584e-06,0.0,2.0,3.0
+cs/0304009,Stochastic Volatility in a Quantitative Model of Stock Market Returns,1.72520813686752e-06,0.0,1.0,1.0
+cond-mat/0002331,"From naive to sophisticated behavior in multiagents based financial
+  market models",1.6754612126118354e-06,0.0,2.0,2.0
+cs/0303031,A Bird's eye view of Matrix Distributed Processing,1.6595327799251628e-06,0.0,2.0,0.0
+hep-lat/0505005,Parallel Programming with Matrix Distributed Processing,1.619608361258071e-06,0.0,1.0,1.0
+cs/0410071,The Cyborg Astrobiologist: First Field Experience,1.60698551133943e-06,0.0,1.0,2.0
+cs/0609079,Modern Statistics by Kriging,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0204056,Trading Agents for Roaming Users,1.3189329710618589e-06,0.0,0.0,1.0
+cs/9903002,"An Algebraic Programming Style for Numerical Software and its
+  Optimization",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0206039,"Hidden Markov model segmentation of hydrological and enviromental time
+  series",1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0211024,"Exploring the cooperative regimes in a model of agents without memory or
+  ""tags"": indirect reciprocity vs. selfish incentives",1.3189329710618589e-06,0.0,0.0,2.0
+cs/0509002,Component Based Programming in Scientific Computing: The Viable Approach,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0001048,High-resolution path-integral development of financial options,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0509003,COMODI: Architecture for a Component-Based Scientific Computing System,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0608293,"Automatic Trading Agent. RMT based Portfolio Theory and Portfolio
+  Selection",1.3189329710618589e-06,0.0,0.0,1.0
+math/0509575,"Evolutionary Trees and the Ising Model on the Bethe Lattice: a Proof of
+  Steel's Conjecture",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0312019,"A theoretical investigation of ferromagnetic tunnel junctions with
+  4-valued conductances",,,,
+cond-mat/0407439,"A Theoretical Study on Spin-Dependent Transport of ""Ferromagnet/Carbon
+  Nanotube Encapsulating Magnetic Atoms/Ferromagnet"" Junctions with 4-Valued
+  Conductances",,,,
+cond-mat/0412587,"Spin dependent transport of ``nonmagnetic metal/zigzag nanotube
+  encapsulating magnetic atoms/nonmagnetic metal'' junctions",,,,
+cs/0001018,Adaptive simulated annealing (ASA): Lessons learned,,,,
+cs/0002012,On The Closest String and Substring Problems,,,,
+cs/0010021,"Towards Understanding the Predictability of Stock Markets from the
+  Perspective of Computational Complexity",,,,
+cs/0010031,Opportunity Cost Algorithms for Combinatorial Auctions,,,,
+cs/0011016,Designing Proxies for Stock Market Indices is Computationally Hard,,,,
+cs/0011018,"Optimal Buy-and-Hold Strategies for Financial Markets with Bounded Daily
+  Returns",,,,
+cs/0011023,Optimal Bidding Algorithms Against Cheating in Multiple-Object Auctions,,,,
+cs/0101015,"Combinatorial Toolbox for Protein Sequence Design and Landscape Analysis
+  in the Grand Canonical Model",,,,
+cs/0101016,"A Dynamic Programming Approach to De Novo Peptide Sequencing via Tandem
+  Mass Spectrometry",,,,
+cs/0101030,Tree Contractions and Evolutionary Trees,,,,
+cs/0101031,"Cavity Matchings, Label Compressions, and Unrooted Evolutionary Trees",,,,
+cs/0102003,"Fast Pricing of European Asian Options with Provable Accuracy:
+  Single-stock and Basket Options",,,,
+cs/0102008,Optimal Bid Sequences for Multiple-Object Auctions with Unequal Budgets,,,,
+cs/0102010,The Enhanced Double Digest Problem for DNA Physical Mapping,,,,
+cs/0104017,Local Search Techniques for Constrained Portfolio Selection Problems,,,,
+cs/0105004,Parallel implementation of the TRANSIMS micro-simulation,,,,
+cs/0105021,"Solving Composed First-Order Constraints from Discrete-Time Robust
+  Control",,,,
+cs/0106028,"Pricing Virtual Paths with Quality-of-Service Guarantees as Bundle
+  Derivatives",,,,
+cs/0107007,The Risk Profile Problem for Stock Portfolio Optimization,,,,
+cs/0110067,Analysis of Investment Policy in Belarus,,,,
+cs/0111051,"Predicting RNA Secondary Structures with Arbitrary Pseudoknots by
+  Maximizing the Number of Stacking Pairs",,,,
+cs/0112009,DNA Self-Assembly For Constructing 3D Boxes,,,,
+cs/0202004,"A Qualitative Dynamical Modelling Approach to Capital Accumulation in
+  Unregulated Fisheries",,,,
+cs/0202027,"BSML: A Binding Schema Markup Language for Data Interchange in Problem
+  Solving Environments (PSEs)",,,,
+cs/0202038,The efficient generation of unstructured control volumes in 2D and 3D,,,,
+cs/0203023,Agent trade servers in financial exchange systems,,,,
+cs/0204019,"Fast Universalization of Investment Strategies with Provably Good
+  Relative Returns",,,,
+cs/0204047,Sampling Strategies for Mining in Data-Scarce Domains,,,,
+cs/0204051,Parrondo Strategies for Artificial Traders,,,,
+cs/0204053,Qualitative Analysis of Correspondence for Experimental Algorithmics,,,,
+cs/0205034,"Data-Collection for the Sloan Digital Sky Survey: a Network-Flow
+  Heuristic",,,,
+cs/0208040,"Using Hierarchical Data Mining to Characterize Performance of Wireless
+  System Configurations",,,,
+cs/0302034,Interest Rate Model Calibration Using Semidefinite Programming,,,,
+cs/0302035,"Risk-Management Methods for the Libor Market Model Using Semidefinite
+  Programming",,,,
+cs/0306016,Modelling Biochemical Operations on RNA Secondary Structures,,,,
+cs/0308009,"The Generalized Riemann or Henstock Integral Underpinning Multivariate
+  Data Analysis: Application to Faint Structure Finding in Price Processes",,,,
+cs/0310021,"Fuzzy Relational Modeling of Cost and Affordability for Advanced
+  Technology Manufacturing Environment",,,,
+cs/0310043,"Value-at-Risk and Expected Shortfall for Quadratic portfolio of
+  securities with mixture of elliptic Distributed Risk Factors",,,,
+cs/0311048,Turning CARTwheels: An Alternating Algorithm for Mining Redescriptions,,,,
+cs/0501052,Stochastic Differential Games in a Non-Markovian Setting,,,,
+cs/0501054,Arbitrage in Fractal Modulated Markets When the Volatility is Stochastic,,,,
+cs/0501055,Consistency Problems for Jump-Diffusion Models,,,,
+cs/0505001,"Modelling investment in artificial stock markets: Analytical and
+  Numerical Results",,,,
+cs/0505008,Data Mining on Crash Simulation Data,,,,
+cs/0506023,Sparse Covariance Selection via Robust Maximum Likelihood Estimation,,,,
+cs/0507055,ReacProc: A Tool to Process Reactions Describing Particle Interactions,,,,
+cs/0508102,Investigations of Process Damping Forces in Metal Cutting,,,,
+cs/0508117,"Long-term neuronal behavior caused by two synaptic modification
+  mechanisms",,,,
+cs/0509017,Traders imprint themselves by adaptively updating their own avatar,,,,
+cs/0509028,Projecting the Forward Rate Flow onto a Finite Dimensional Manifold,,,,
+cs/0509029,Quickest detection of a minimum of disorder times,,,,
+cs/0509053,Underwater Hacker Missile Wars: A Cryptography and Engineering Contest,,,,
+cs/0510084,R\'{e}flexions sur la question fr\'{e}quentielle en traitement du signal,,,,
+cs/0511024,"Heat kernel expansion for a family of stochastic volatility models :
+  delta-geometry",,,,
+cs/0512016,"A linear-time algorithm for finding the longest segment which scores
+  above a given threshold",,,,
+cs/0512063,"Complex Random Vectors and ICA Models: Identifiability, Uniqueness and
+  Separability",,,,
+cs/0603003,Analyse non standard du bruit,,,,
+cs/0604078,"The emergence of knowledge exchange: an agent-based model of a software
+  market",,,,
+cs/0607140,"Stylized Facts in Internal Rates of Return on Stock Index and its
+  Derivative Transactions",,,,
+cs/0609081,Recurrence relations and fast algorithms,,,,
+cs/0610053,Towards a Bayesian framework for option pricing,,,,
+cs/0610108,Doppler Spectrum Estimation by Ramanujan Fourier Transforms,,,,
+cs/0611049,On numerical stability of recursive present value computation method,,,,
+cs/0612052,Budget Optimization in Search-Based Advertising Auctions,,,,
+cs/0612126,The virtual reality framework for engineering objects,,,,
+cs/0701119,The framework for simulation of dynamics of mechanical aggregates,,,,
+cs/0702131,"AICA: a New Pair Force Evaluation Method for Parallel Molecular Dynamics
+  in Arbitrary Geometries",,,,
+cs/0702148,"Linking Microscopic and Macroscopic Models for Evolution: Markov Chain
+  Network Training and Conservation Law Approximations",,,,
+cs/0702149,"Coupling Control and Human-Centered Automation in Mathematical Models of
+  Complex Systems",,,,
+cs/0702163,"First Passage Time for Multivariate Jump-diffusion Stochastic Models
+  With Applications in Finance",,,,
+cs/0702164,"Monte-Carlo Simulations of the First Passage Time for Multivariate
+  Jump-Diffusion Processes in Financial Applications",,,,
+cs/0702165,"Efficient estimation of default correlation for multivariate
+  jump-diffusion processes",,,,
+cs/0702166,"Solving Stochastic Differential Equations with Jump-Diffusion
+  Efficiently: Applications to FPT Problems in Credit Risk",,,,
+cs/0702167,"Finite Volume Analysis of Nonlinear Thermo-mechanical Dynamics of Shape
+  Memory Alloys",,,,
+cs/0702168,"Simulation of Phase Combinations in Shape Memory Alloys Patches by
+  Hybrid Optimization Methods",,,,
+cs/0702172,"Numerical Model For Vibration Damping Resulting From the First Order
+  Phase Transformations",,,,
+cs/0703068,Option Valuation using Fourier Space Time Stepping,,,,
+cs/9901008,"Fast Computational Algorithms for the Discrete Wavelet Transform and
+  Applications of Localized Orthonormal Bases in Signal Classification",,,,
+cs/9902024,"Algorithms of Two-Level Parallelization for DSMC of Unsteady Flows in
+  Molecular Gasdynamics",,,,
+cs/9905016,"Programs with Stringent Performance Objectives Will Often Exhibit
+  Chaotic Behavior",,,,
+cs/9907043,"A simple C++ library for manipulating scientific data sets as structured
+  data",,,,
+math/0010173,Hot-pressing process modeling for medium density fiberboard (MDF),,,,
+math/0202276,"A numerical method for solution of ordinary differential equations of
+  fractional order",,,,
+math/0504378,"A Short Proof that Phylogenetic Tree Reconstruction by Maximum
+  Likelihood is Hard",,,,
+math/0603155,Vers une commande multivariable sans mod\`ele,,,,
+math/0702116,"A Direct Matrix Method for Computing Analytical Jacobians of Discretized
+  Nonlinear Integro-differential Equations",,,,
+nlin/0002040,The dynamics of iterated transportation simulations,,,,
+nlin/0210041,"Simple Model for the Dynamics of Correlations in the Evolution of
+  Economic Entities Under Varying Economic Conditions",,,,
+physics/0209085,"The calculation of a normal force between multiparticle contacts using
+  fractional operators",,,,
+q-bio/0310011,"Complex Independent Component Analysis of Frequency-Domain
+  Electroencephalographic Data",,,,
+q-bio/0603007,"Compression ratios based on the Universal Similarity Metric still yield
+  protein distances far from CATH distances",,,,
+quant-ph/9703022,"Reversibility and Adiabatic Computation: Trading Time and Space for
+  Energy",,,,

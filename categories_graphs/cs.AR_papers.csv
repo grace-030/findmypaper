@@ -1,0 +1,58 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+cs/0304045,On a composition of digraphs,3.652283164703462e-06,0.0,4.0,0.0
+cs/0303016,Fast Parallel I/O on Cluster Computers,2.931679760450033e-06,1.7484414587728044e-06,6.0,1.0
+cs/0511012,"Parameters Affecting the Resilience of Scale-Free Networks to Random
+  Failures",2.598039282245321e-06,1.990182755160072e-06,1.0,1.0
+cs/0411050,Utilizing Reconfigurable Hardware Processors via Grid Services,1.703003024765287e-06,0.0,1.0,0.0
+cs/0407032,"Exposing Software Defined Radio Functionality To Native Operating System
+  Applications via Virtual Devices",1.703003024765287e-06,0.0,1.0,0.0
+cs/0411075,A Self-Reconfigurable Computing Platform Hardware Architecture,1.703003024765287e-06,0.0,1.0,0.0
+cs/0502061,A Geographic Directed Preferential Internet Topology Model,1.703003024765287e-06,0.0,1.0,0.0
+cs/0502062,Tree Parity Machine Rekeying Architectures,1.60698551133943e-06,0.0,1.0,0.0
+cs/0508029,Selfish vs. Unselfish Optimization of Network Creation,1.5513666970506823e-06,0.0,1.0,0.0
+cs/0309018,Using Propagation for Solving Complex Arithmetic Constraints,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0405015,A High-Level Reconfigurable Computing Platform Software Frameworks,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0010007,Towards a Theory of Cache-Efficient Algorithms,,,,
+cs/0108016,"Verifying Sequential Consistency on Shared-Memory Multiprocessors by
+  Model Checking",,,,
+cs/0207012,"Synthesis of Low-Power Digital Circuits Derived from Binary Decision
+  Diagrams",,,,
+cs/0207014,On the Information Engine of Circuit Design,,,,
+cs/0302020,Analytical formulations of Peer-to-Peer Connection Efficiency,,,,
+cs/0307041,High-density and Secure Data Transmission via Linear Combinations,,,,
+cs/0310002,The Graphics Card as a Streaming Computer,,,,
+cs/0310059,Design and Implementation of MPICH2 over InfiniBand with RDMA Support,,,,
+cs/0311017,2 P2P or Not 2 P2P?,,,,
+cs/0402027,"Efficient and Scalable Barrier over Quadrics and Myrinet with a New
+  NIC-Based Collective Message Passing Protocol",,,,
+cs/0403007,End-User Effects of Microreboots in Three-Tiered Internet Systems,,,,
+cs/0408020,Collaborative Storage Management In Sensor Networks,,,,
+cs/0409025,Topics in asynchronous systems,,,,
+cs/0411019,Programmable Ethernet Switches and Their Applications,,,,
+cs/0503066,"A Practical Approach for Circuit Routing on Dynamic Reconfigurable
+  Devices",,,,
+cs/0505005,Defragmenting the Module Layout of a Partially Reconfigurable Device,,,,
+cs/0510039,"DyNoC: A Dynamic Infrastructure for Communication in Dynamically
+  Reconfigurable Devices",,,,
+cs/0603115,Implementation of float-float operators on graphics hardware,,,,
+cs/0605034,Peer to Peer Networks for Defense Against Internet Worms,,,,
+cs/0605039,Fast and Generalized Polynomial Time Memory Consistency Verification,,,,
+cs/0608077,The Effect of Scheduling on Link Capacity in Multi-hopWireless Networks,,,,
+cs/0609074,A Non-anchored Unified Naming System for Ad Hoc Computing Environments,,,,
+cs/0612121,Power Assignment Problems in Wireless Communication,,,,
+cs/0701130,"On the Correlation of Geographic and Network Proximity at Internet Edges
+  and its Implications for Mobile Unicast and Multicast Routing",,,,
+cs/0702062,Noise Limited Computational Speed,,,,
+cs/9809007,Locally Served Network Computers,,,,
+cs/9809021,Producing NLP-based On-line Contentware,,,,
+cs/9810011,"Flysig: Dataflow Oriented Delay-Insensitive Processor for Rapid
+  Prototyping of Signal Processing",,,,
+cs/9811021,"Automatic Hardware Synthesis for a Hybrid Reconfigurable CPU Featuring
+  Philips CPLDs",,,,
+cs/9903009,"Space-Efficient Routing Tables for Almost All Networks and the
+  Incompressibility Method",,,,
+cs/9910014,"Processor Verification Using Efficient Reductions of the Logic of
+  Uninterpreted Functions to Propositional Logic",,,,
+nlin/0506030,Chaos in computer performance,,,,
+q-bio/0505021,"Characterizing Self-Developing Biological Neural Networks: A First Step
+  Towards their Application To Computing Systems",,,,

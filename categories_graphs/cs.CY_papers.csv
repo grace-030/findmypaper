@@ -1,0 +1,55 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+nlin/0609033,Fame Emerges as a Result of Small Memory,6.562222645108905e-06,0.0,4.0,0.0
+cs/0702048,Finding Community Structure in Mega-scale Social Networks,5.079786457713151e-06,0.0,6.0,0.0
+cs/0609034,"Social Decision Making with Multi-Relational Networks and Grammar-Based
+  Particle Swarms",3.926962852946316e-06,0.0,1.0,0.0
+physics/0701168,"A Gap in the Community-Size Distribution of a Large-Scale Social
+  Networking Site",2.5943296800307303e-06,0.0,2.0,1.0
+physics/0504026,Let Your CyberAlter Ego Share Information and Manage Spam,2.5480775912908228e-06,0.0,2.0,0.0
+cs/0703118,Mathematical model of interest matchmaking in electronic social networks,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0611068,Wikipedia: organisation from a bottom-up approach,2.4257049113833638e-06,0.0,1.0,0.0
+cs/0601030,Journal Status,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0611137,Rhythms of social interaction: messaging within a massive online network,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0605015,Collaborative Tagging and Semiotic Dynamics,1.3189329710618589e-06,0.0,0.0,4.0
+cs/0511005,The egalitarian effect of search engines,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/9904050,"A Computer Scientist's View of Life, the Universe, and Everything",1.3189329710618589e-06,0.0,0.0,2.0
+cs/0001016,Take-home Complexity,,,,
+cs/0005003,CoRR: A Computing Research Repository,,,,
+cs/0005004,A response to the commentaries on CoRR,,,,
+cs/0105018,"HTTP Cookies: Standards, Privacy, and Politics",,,,
+cs/0109036,Competition and Price Dispersion in International Long Distance Calling,,,,
+cs/0110008,Analyzing Website Choice Using Clickstream Data,,,,
+cs/0110041,Towards Solving the Interdisciplinary Language Barrier Problem,,,,
+cs/0110042,An Architecture for Security and Privacy in Mobile Communications,,,,
+cs/0302025,Cryptographic Randomized Response Techniques,,,,
+cs/0305042,"Untraceable Email Cluster Bombs: On Agent-Based Distributed Denial of
+  Service",,,,
+cs/0308015,Rethinking OpenPGP PKI and OpenPGP Public Keyserver,,,,
+cs/0308040,Open source software and peer review,,,,
+cs/0309002,El informe NERA analizado,,,,
+cs/0310033,A Hash of Hash Functions,,,,
+cs/0401002,A Comparison of Cryptography Courses,,,,
+cs/0404005,Government mandated blocking of foreign Web content,,,,
+cs/0406052,NoSEBrEaK - Attacking Honeynets,,,,
+cs/0406057,Modelling the costs and benefits of Honeynets,,,,
+cs/0407048,Technological networks and the spread of computer viruses,,,,
+cs/0408048,Journal of New Democratic Methods: An Introduction,,,,
+cs/0409028,Incentive Systems in Multi-Level Markets for Virtual Goods,,,,
+cs/0505050,"The QDF file format: an electronic system to describe ancient andean
+  khipus",,,,
+cs/0512033,Bootstrapping the Long Tail in Peer to Peer Systems,,,,
+cs/0512069,Reconstructing Websites for the Lazy Webmaster,,,,
+cs/0605110,Mapping the Bid Behavior of Conference Referees,,,,
+cs/0606018,Emerging Markets for RFID Traces,,,,
+cs/0606088,"Breaking barriers for people with voice disabilities: Combining virtual
+  keyboards with speech synthesizers, and VoIP applications",,,,
+cs/0611014,Interactive Problem Solving in Prolog,,,,
+cs/0702140,Assessing the Value of Coooperation in Wikipedia,,,,
+cs/0703083,Characterization of Search Engine Caches,,,,
+cs/0703087,Social Information Processing in Social News Aggregation,,,,
+cs/9809018,Influencing Software Usage,,,,
+cs/9903013,The Impact of Net Culture on Mainstream Societies: a Global Analysis,,,,
+cs/9904001,"A Proposal for the Establishment of Review Boards - a flexible approach
+  to the selection of academic knowledge",,,,
+nlin/0609042,"A Formal Treatment of Generalized Preferential Attachment and its
+  Empirical Validation",,,,

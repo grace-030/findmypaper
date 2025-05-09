@@ -1,0 +1,113 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+cs/0611005,Protocols for Scholarly Communication,1.7885706892948723e-05,0.0,1.0,0.0
+cs/0211041,"An Approach to Automatic Indexing of Scientific Publications in High
+  Energy Physics for Database SPIRES HEP",1.3023662982226964e-05,0.0,9.0,0.0
+physics/0509134,On the genre-fication of Music: a percolation approach (long version),9.912068444873598e-06,4.97545688790018e-06,4.0,3.0
+cs/0101027,"Open Archives Initiative protocol development and implementation at
+  arXiv",8.115681058198059e-06,0.0,9.0,0.0
+cs/0106057,"Exposing and harvesting metadata using the OAI metadata harvesting
+  protocol: A tutorial",6.459169798936356e-06,0.0,1.0,0.0
+cs/0512090,Collaborative tagging as a tripartite network,4.551505513465682e-06,1.990182755160072e-06,1.0,1.0
+cs/0308044,EqRank: A Self-Consistent Equivalence Relation on Graph Vertexes,2.8768306041766743e-06,0.0,2.0,0.0
+cs/0611130,Quantitative Analysis of the Publishing Landscape in High-Energy Physics,2.764875582065803e-06,0.0,2.0,0.0
+cs/0402022,"Automatically Generating Interfaces for Personalized Interaction with
+  Digital Libraries",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0503029,The Effect of Use and Access on Citations,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0307049,Limit groups and groups acting freely on $\bbR^n$-trees,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0608027,"myADS-arXiv - a Tailor-Made, Open Access, Virtual Journal",2.4711431321721443e-06,0.0,1.0,2.0
+cs/0611068,Wikipedia: organisation from a bottom-up approach,2.4257049113833638e-06,0.0,1.0,0.0
+cs/0610011,Creation and use of Citations in the ADS,2.3469198153586743e-06,0.0,1.0,0.0
+cs/0609126,E-prints and Journal Articles in Astronomy: a Productive Co-existence,2.3469198153586743e-06,0.0,1.0,0.0
+physics/0612122,Ranking Scientific Publications Using a Simple Model of Network Traffic,2.326623202104131e-06,0.0,2.0,0.0
+cs/0512080,EqRank: Theme Evolution in Citation Graphs,2.090515509930159e-06,0.0,34.0,0.0
+cs/0501019,Clustering SPIRES with EqRank,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0303026,Preserving Peer Replicas By Rate-Limited Sampled Voting in LOCKSS,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0607066,Generalized h-index for Disclosing Latent Facts in Citation Networks,1.703003024765287e-06,0.0,1.0,0.0
+cs/0203024,The structure of broad topics on the Web,1.703003024765287e-06,0.0,1.0,0.0
+cs/0204020,"Seven Dimensions of Portability for Language Documentation and
+  Description",1.60698551133943e-06,0.0,1.0,0.0
+cs/0308022,"Extending Dublin Core Metadata to Support the Description and Discovery
+  of Language Resources",1.60698551133943e-06,0.0,1.0,0.0
+cs/0110014,The Open Language Archives Community and Asian Language Resources,1.60698551133943e-06,0.0,1.0,0.0
+cs/0309023,Efficient Algorithms for Citation Network Analysis,1.5109679979135728e-06,0.0,1.0,0.0
+cs/0502056,Co-Authorship Networks in the Digital Library Research Community,1.505926781991736e-06,1.990182755160072e-06,1.0,1.0
+cs/0601030,Journal Status,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0401028,Automated Resolution of Noisy Bibliographic References,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0605015,Collaborative Tagging and Semiotic Dynamics,1.3189329710618589e-06,0.0,0.0,4.0
+cs/0108004,Links tell us about lexical and semantic Web content,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0105030,The OLAC Metadata Set and Controlled Vocabularies,1.3189329710618589e-06,0.0,0.0,4.0
+astro-ph/0008307,"Science User Scenarios for a Virtual Observatory Design Reference
+  Mission: Science Requirements for Data Mining",,,,
+astro-ph/0010583,Data Mining in Astronomical Databases,,,,
+astro-ph/0609794,The Future of Technical Libraries,,,,
+cs/0005003,CoRR: A Computing Research Repository,,,,
+cs/0005004,A response to the commentaries on CoRR,,,,
+cs/0007003,Using compression to identify acronyms in text,,,,
+cs/0205071,"A Scalable Architecture for Harvest-Based Digital Libraries - The
+  ODU/Southampton Experiments",,,,
+cs/0206007,"Using the Annotated Bibliography as a Resource for Indicative
+  Summarization",,,,
+cs/0303033,A Digital Preservation Appliance Based on OpenBSD,,,,
+cs/0305010,The NPC Framework for Building Information Dissemination Networks,,,,
+cs/0307008,Eprints and the Open Archives Initiative,,,,
+cs/0310041,A Dynamic Programming Algorithm for the Segmentation of Greek Texts,,,,
+cs/0311005,On The Cost Distribution of a Memory Bound Function,,,,
+cs/0401001,"Initial Experiences Re-Exporting Duplicate and Similarity Computation
+  with an OAI-PMH aggregator",,,,
+cs/0401029,"Dynamic Linking of Smart Digital Objects Based on User Navigation
+  Patterns",,,,
+cs/0408054,Providing Authentic Long-term Archival Access to Complex Relational Data,,,,
+cs/0411077,Transparent Format Migration of Preserved Web Content,,,,
+cs/0411078,Notes On The Design Of An Internet Adversary,,,,
+cs/0503007,"Toward alternative metrics of journal impact: A comparison of download
+  and citation data",,,,
+cs/0503016,"File-based storage of Digital Objects and constituent datastreams:
+  XMLtapes and Internet Archive ARC files",,,,
+cs/0504036,"Scientific impact quantity and quality: Analysis of two sources of
+  bibliographic data",,,,
+cs/0506010,The OAI Data-Provider Registration and Validation Service,,,,
+cs/0506046,Dictionaries merger for text expansion in question answering,,,,
+cs/0506049,"Exploitation de dictionnaires \'{e}lectroniques pour la
+  d\'{e}sambigu\""{i}sation s\'{e}mantique lexicale",,,,
+cs/0507028,Adapting CBPP platforms for instructional use,,,,
+cs/0508130,A Fresh Look at the Reliability of Long-term Digital Storage,,,,
+cs/0509018,Requirements for Digital Preservation Systems: A Bottom-Up Approach,,,,
+cs/0509072,Folksonomy as a Complex Network,,,,
+cs/0511002,Bibliographic Classification using the ADS Databases,,,,
+cs/0512068,Dynamic Web File Format Transformations with Grace,,,,
+cs/0602076,Exploring term-document matrices from matrix models in text mining,,,,
+cs/0603073,VXA: A Virtual Architecture for Durable Compressed Archives,,,,
+cs/0605110,Mapping the Bid Behavior of Conference Referees,,,,
+cs/0605112,An Algorithm to Determine Peer-Reviewers,,,,
+cs/0605113,An Architecture for the Aggregation and Analysis of Scholarly Usage Data,,,,
+cs/0605127,Analyzing Large Collections of Electronic Text Using OLAP,,,,
+cs/0606008,Repository Replication Using NNTP and SMTP,,,,
+cs/0608004,Separating the articles of authors with the same name,,,,
+cs/0610007,Full Text Searching in the Astrophysics Data System,,,,
+cs/0610008,Connectivity in the Astronomy Digital Library,,,,
+cs/0610029,Data in the ADS -- Understanding How to Use it Better,,,,
+cs/0610030,Paper to Screen: Processing Historical Scans in the ADS,,,,
+cs/0610031,Pathways: Augmenting interoperability across scholarly repositories,,,,
+cs/0610154,"Usage Impact Factor: the effects of sample characteristics on
+  usage-based impact metrics",,,,
+cs/0612123,"Electronic Laboratory Notebook Assisting Reflectance Spectrometry in
+  Legal Medicine",,,,
+cs/0701035,Finding Astronomical Communities Through Co-readership Analysis,,,,
+cs/0702140,Assessing the Value of Coooperation in Wikipedia,,,,
+cs/0703043,A Comparison of On-Line Computer Science Citation Databases,,,,
+cs/0703083,Characterization of Search Engine Caches,,,,
+cs/9812009,"Vocal Access to a Newspaper Archive: Design Issues and Preliminary
+  Investigation",,,,
+cs/9901009,"Competition and cooperation: Libraries and publishers in the transition
+  to electronic scholarly journals",,,,
+cs/9902011,Content-Based Book Recommending Using Learning for Text Categorization,,,,
+cs/9902012,Digital Library Technology for Locating and Accessing Scientific Data,,,,
+cs/9902018,ZBroker: A Query Routing Broker for Z39.50 Databases,,,,
+cs/9902022,Semi-Automatic Indexing of Multilingual Documents,,,,
+cs/9902023,A New Ranking Principle for Multimedia Information Retrieval,,,,
+cs/9904001,"A Proposal for the Establishment of Review Boards - a flexible approach
+  to the selection of academic knowledge",,,,
+cs/9912002,A Geometric Model for Information Retrieval Systems,,,,
+nlin/0509007,"Lattices for Dynamic, Hierarchic & Overlapping Categorization: the Case
+  of Epistemic Communities",,,,
+quant-ph/0406211,Numerical simulations of mixed states quantum computation,,,,

@@ -1,0 +1,959 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+quant-ph/0412143,Limits on Efficient Computation in the Physical World,2.7521244920157797e-05,0.0029479994478036,100.0,3.0
+hep-th/0602072,Computational complexity of the landscape I,2.4023928901861395e-05,0.0068229769815117,61.0,20.0
+cs/0607036,Combinatorial laplacians and positivity under partial transpose,2.281742582748254e-05,1.990182755160072e-06,21.0,1.0
+cs/0604113,One-in-Two-Matching Problem is NP-complete,2.1771329158181355e-05,0.0,14.0,0.0
+quant-ph/0612107,"How a Clebsch-Gordan Transform Helps to Solve the Heisenberg Hidden
+  Subgroup Problem",2.157632942233928e-05,0.0,18.0,0.0
+cond-mat/0603350,The number of matchings in random graphs,2.025414237535378e-05,0.0,7.0,3.0
+cs/0703059,Geometry and the complexity of matrix multiplication,1.8002094679962426e-05,0.0,6.0,0.0
+quant-ph/0611021,Merlin-Arthur Games and Stoquastic Complexity,1.761667652666611e-05,2.4753516855224776e-09,10.0,1.0
+quant-ph/0505188,Lower Bounds on Matrix Rigidity via a Quantum Argument,1.5170246019152643e-05,1.990182755160072e-06,10.0,1.0
+quant-ph/0602114,"The quantum measurement problem and physical reality: a computation
+  theoretic perspective",1.292949649198721e-05,0.0,17.0,0.0
+quant-ph/0412187,"Quantum Computing, Postselection, and Probabilistic Polynomial-Time",1.2313305327060553e-05,1.974005740999684e-05,15.0,11.0
+quant-ph/0502072,NP-complete Problems and Physical Reality,1.1813775888480143e-05,6.745354401851358e-05,32.0,5.0
+cs/0604003,Hypercomputing the Mandelbrot Set?,1.1177345564908152e-05,0.0,1.0,0.0
+cs/0506081,Three lines proof of the lower bound for the matrix rigidity,9.369103706547652e-06,0.0,1.0,1.0
+cs/0412022,Zeno machines and hypercomputation,8.674352702158302e-06,1.990182755160072e-06,7.0,1.0
+quant-ph/0305028,Polynomial degree vs. quantum query complexity,8.580318411269921e-06,6.280679278711842e-06,22.0,9.0
+quant-ph/0311039,Multilinear Formulas and Skepticism of Quantum Computing,8.399769799828203e-06,1.2651221993271826e-05,15.0,6.0
+quant-ph/0504012,Quantum search algorithms,8.045270554725352e-06,1.9806580323701277e-06,29.0,2.0
+quant-ph/0609138,On the Impossibility of a Quantum Sieve Algorithm for Graph Isomorphism,7.522875854945386e-06,1.2291468952969955e-05,7.0,6.0
+cs/0610086,The central nature of the Hidden Subgroup problem,7.240957216539498e-06,0.0,4.0,0.0
+quant-ph/0603199,Computational complexity of the quantum separability problem,6.756278612852137e-06,9.436186682256944e-07,10.0,6.0
+quant-ph/0406196,Improved Simulation of Stabilizer Circuits,6.525339186130433e-06,0.000152809101681,24.0,20.0
+quant-ph/0508200,"A new quantum lower bound method, with an application to strong direct
+  product theorem for quantum search",6.511934752083076e-06,3.472762686283536e-05,16.0,3.0
+cs/0312011,Constraint Optimization and Statistical Mechanics,6.499656301371134e-06,3.980365510320144e-06,10.0,2.0
+cs/0106019,Playing Games with Algorithms: Algorithmic Combinatorial Game Theory,6.40862984513277e-06,0.0,6.0,3.0
+quant-ph/0603173,Strengths and Weaknesses of Quantum Fingerprinting,6.239490589713424e-06,1.4852110113134864e-08,5.0,2.0
+cs/0012017,Towards Robust Quantum Computation,6.041355482899229e-06,0.0,43.0,12.0
+math/0411107,First Steps in Algorithmic Fewnomial Theory,5.910063314450265e-06,0.0,1.0,3.0
+cs/0603047,The Quantum Separability Problem for Gaussian States,5.903607388428924e-06,4.532141505343506e-07,10.0,1.0
+cs/0509042,Computing over the Reals: Foundations for Scientific Computing,5.782188934031143e-06,0.0,3.0,2.0
+cond-mat/9906017,Algorithmic Complexity in Minority Game,5.700839135890636e-06,3.9729394552635765e-06,7.0,2.0
+cs/0405021,Computing Multi-Homogeneous Bezout Numbers is Hard,5.655144290770314e-06,0.0,1.0,1.0
+cs/0507008,Complexity Science for Simpletons,5.582110567169916e-06,0.0,5.0,0.0
+cond-mat/0403725,"Threshold values, stability analysis and high-q asymptotics for the
+  coloring problem on random graphs",5.563834876732981e-06,2.3144411600597404e-06,9.0,2.0
+cs/0309033,Lower bounds for predecessor searching in the cell probe model,5.534495703266921e-06,3.980365510320144e-06,9.0,2.0
+quant-ph/9912100,"Quantum Computing, NP-complete Problems and Chaotic Dynamics",5.441079230899272e-06,9.28256882070929e-08,12.0,5.0
+quant-ph/0511013,"Bounded-Error Quantum State Identification and Exponential Separations
+  in Communication Complexity",5.4114119867805074e-06,1.9976088102166394e-06,9.0,2.0
+quant-ph/0602087,A quantum secret ballot,5.370390382559777e-06,0.0,3.0,0.0
+cs/0505076,On the Solution of Graph Isomorphism by Dynamical Algorithms,5.211630483524607e-06,0.0,2.0,0.0
+cond-mat/0501707,Focused Local Search for Random 3-Satisfiability,5.180774509268802e-06,1.990182755160072e-06,5.0,1.0
+quant-ph/0309220,Robust Polynomials and Quantum Algorithms,5.147020861815457e-06,1.998283906130873e-06,5.0,3.0
+cond-mat/0702421,A Hike in the Phases of the 1-in-3 Satisfiability,4.893816523862216e-06,0.0,1.0,0.0
+quant-ph/0402123,"Quantum and Classical Strong Direct Product Theorems and Optimal
+  Time-Space Tradeoffs",4.885519576778793e-06,0.0001037242964863,16.0,5.0
+quant-ph/0412088,"Quantum and Classical Communication-Space Tradeoffs from Rectangle
+  Bounds",4.874995170898736e-06,7.035980590047952e-07,9.0,1.0
+cs/0301015,Some remarks on the survey decimation algorithm for K-satisfiability,4.8728859175195616e-06,0.0,5.0,7.0
+cs/0207097,Optimal Ordered Problem Solver,4.861985539809649e-06,0.0,4.0,1.0
+cond-mat/0312483,Survey Propagation as local equilibrium equations,4.769638044564371e-06,4.968793692085723e-05,6.0,5.0
+cs/9911002,"Numeration systems on a regular language: Arithmetic operations,
+  Recognizability and Formal power series",4.715121399099865e-06,0.0,3.0,0.0
+cs/0511107,Phase transition in the assignment problem for random matrices,4.545628950366656e-06,0.0,3.0,0.0
+quant-ph/0508201,Entanglement in Interactive Proof Systems with Binary Answers,4.543809836993235e-06,0.0,7.0,0.0
+quant-ph/0402095,Limitations of Quantum Advice and One-Way Communication,4.48594934526523e-06,0.0024703527503614,15.0,14.0
+math/0702109,Longest Common Separable Pattern between Permutations,4.470212365460655e-06,0.0,3.0,0.0
+quant-ph/0307017,Quaternionic Computing,4.452634750140976e-06,0.0,7.0,0.0
+math/0311047,Assessing security of some group based cryptosystems,4.349725255294025e-06,0.0,6.0,0.0
+cs/0208044,"Gales and supergales are equivalent for defining constructive Hausdorff
+  dimension",4.184454539333505e-06,0.0,3.0,4.0
+quant-ph/0208062,"Exponential Lower Bound for 2-Query Locally Decodable Codes via a
+  Quantum Argument",4.166230761203298e-06,2.4111092559364727e-05,5.0,9.0
+cs/0512042,Points on Computable Curves,4.165555570275477e-06,0.0,1.0,0.0
+cs/0607139,Parallel repetition: simplifications and the no-signaling case,4.1241865590936415e-06,0.0,4.0,0.0
+cs/0308010,On the probabilistic approach to the random satisfiability problem,4.097008383449108e-06,0.0,8.0,2.0
+cond-mat/0508125,Criticality and Universality in the Unit-Propagation Search Rule,4.032599225667829e-06,0.0,5.0,0.0
+cs/0511011,The Impact of Social Networks on Multi-Agent Recommender Systems,3.929929438147267e-06,0.0,1.0,0.0
+cs/0110005,Two-way Quantum One-counter Automata,3.9257938376566565e-06,0.0,4.0,0.0
+quant-ph/0208043,Quantum Circuits with Unbounded Fan-out,3.909186922676516e-06,0.0,4.0,1.0
+quant-ph/0011122,Algorithmic Theories of Everything,3.906074167692073e-06,2.4745801305132824e-05,5.0,15.0
+quant-ph/9910033,Almost-Everywhere Superiority for Quantum Computing,3.892808671487802e-06,0.0,1.0,4.0
+cond-mat/0208460,Coloring random graphs,3.891458732887366e-06,9.95091377580036e-07,5.0,1.0
+cs/0502041,Logarithmic Lower Bounds in the Cell-Probe Model,3.847962259679367e-06,0.0,1.0,0.0
+cs/0603043,Time-Space Trade-Offs for Predecessor Search,3.847962259679367e-06,0.0,1.0,0.0
+cs/0212047,On local equilibrium equations for clustering states,3.76372134866179e-06,5.134800223072416e-06,6.0,8.0
+cs/0110056,Probabilistic analysis of a differential equation for linear programming,3.758417733575704e-06,0.0,1.0,4.0
+quant-ph/0510230,QMA/qpoly Is Contained In PSPACE/poly: De-Merlinizing Quantum Protocols,3.65686994557109e-06,1.990182755160072e-06,7.0,2.0
+math/0703575,Convex Discrete Optimization,3.62335329328243e-06,0.0,2.0,0.0
+cs/0106037,Using the No-Search Easy-Hard Technique for Downward Collapse,3.62335329328243e-06,0.0,2.0,0.0
+quant-ph/0407008,Classically-Controlled Quantum Computation,3.608624938957646e-06,0.0,3.0,0.0
+cs/0508037,The Phase Transition in Exact Cover,3.5783526452298373e-06,0.0,4.0,1.0
+math/0605242,N-Fold Integer Programming,3.536507300222492e-06,0.0,2.0,0.0
+cs/0703145,"The Simultaneous Triple Product Property and Group-theoretic Results for
+  the Exponent of Matrix Multiplication",3.49912997646896e-06,0.0,2.0,0.0
+cs/0601100,Pseudorandomness and Combinatorial Constructions,3.49912997646896e-06,0.0,2.0,0.0
+cs/0203029,Forbidden Information,3.4870386309160864e-06,0.0,1.0,0.0
+math/0303386,"Generic properties of Whitehead's Algorithm and isomorphism rigidity of
+  random one-relator groups",3.473524114317413e-06,0.0,1.0,3.0
+quant-ph/0305179,"Polynomial Degree and Lower Bounds in Quantum Complexity: Collision and
+  Element Distinctness with Small Range",3.3961649150574408e-06,1.3232610286047804e-05,16.0,13.0
+quant-ph/0109068,"Improved Quantum Communication Complexity Bounds for Disjointness and
+  Equality",3.393718334371495e-06,5.417183396181666e-06,18.0,10.0
+cs/0302003,"Approximate analysis of search algorithms with ""physical"" methods",3.3867383762404244e-06,0.0001351977862367,5.0,8.0
+cs/0502044,"The complexity of computing the Hilbert polynomial of smooth
+  equidimensional complex projective varieties",3.3749066596554898e-06,0.0,1.0,0.0
+cs/0107008,Complex Tilings,3.3749066596554898e-06,0.0,1.0,2.0
+quant-ph/0501056,The Symmetric Group Defies Strong Fourier Sampling: Part I,3.355288189079041e-06,0.0,10.0,7.0
+math/0408122,Perfect Delaunay Polytopes and Perfect Inhomogeneous Forms,3.343951855096574e-06,0.0,2.0,1.0
+quant-ph/0511200,"A New Quantum Lower Bound Method, with Applications to Direct Product
+  Theorems and Time-Space Tradeoffs",3.3146121768561484e-06,0.0,1.0,0.0
+cs/0304044,Hardness of approximating the weight enumerator of a binary linear code,3.2974079273724773e-06,0.0,2.0,1.0
+cs/0210020,"Tetris is Hard, Even to Approximate",3.2505926093504603e-06,0.0,1.0,0.0
+quant-ph/0308125,Quantum NP and a Quantum Hierarchy,3.2352076230257644e-06,0.0,3.0,0.0
+cs/0703110,"Geometric Complexity Theory IV: nonstandard quantum group for the
+  Kronecker problem",3.162960539154676e-06,0.0,2.0,0.0
+cs/0504048,Oracles Are Subtle But Not Malicious,3.1579454805981443e-06,0.0,5.0,0.0
+cs/0603054,Testing Graph Isomorphism in Parallel by Playing a Game,3.157191212357669e-06,0.0,2.0,0.0
+quant-ph/0307149,Lower Bounds for Local Search by Quantum Arguments,3.140715610074268e-06,1.3616606900478562e-06,10.0,8.0
+quant-ph/0104100,Lower bounds in the quantum cell probe model,3.124455482156666e-06,2.61012753145248e-05,8.0,2.0
+cs/0606078,Dimension Extractors and Optimal Decompression,3.0723650484733613e-06,0.0,2.0,0.0
+cond-mat/0301272,Relaxation and Metastability in the RandomWalkSAT search procedure,3.063762512394843e-06,1.2325220305084198e-05,4.0,6.0
+quant-ph/0002066,Quantum lower bounds by quantum arguments,3.0570133409123945e-06,0.0,12.0,30.0
+math/0604366,"The Kesten-Stigum Reconstruction Bound Is Tight for Roughly Symmetric
+  Binary Channels",3.0472482127272877e-06,0.0,2.0,0.0
+quant-ph/9904079,Average-Case Quantum Query Complexity,2.987144243328112e-06,0.0,14.0,1.0
+math/0304100,"A Direct Ultrametric Approach to Additive Complexity and the Shub-Smale
+  Tau Conjecture",2.9576588731707384e-06,0.0,2.0,0.0
+cs/0607079,Length-based cryptanalysis: The case of Thompson's Group,2.9015067166880227e-06,0.0,1.0,0.0
+cond-mat/0411079,"Long range frustration in finite connectivity spin glasses: A mean field
+  theory and its application to the random $K$-satisfiability problem",2.8778170892216544e-06,0.0,3.0,0.0
+cs/0209018,Probabilistic Reversible Automata and Quantum Automata,2.861587366067956e-06,0.0,6.0,0.0
+cs/0412062,Isomorphic Implication,2.855213185875573e-06,0.0,2.0,0.0
+quant-ph/0211029,Quantum Zero-Error Algorithms Cannot be Composed,2.847594680717299e-06,7.4260550565674335e-09,5.0,2.0
+quant-ph/0210020,Quantum Certificate Complexity,2.844850143112096e-06,4.0602057539489126e-05,10.0,3.0
+quant-ph/0102054,Quantum Pushdown Automata,2.822861156178135e-06,0.0,4.0,0.0
+cond-mat/0508152,A Universal Scaling Theory for Complexity of Analog Computation,2.814864531334454e-06,0.0,2.0,0.0
+quant-ph/0403140,"Improved Lower Bounds for Locally Decodable Codes and Private
+  Information Retrieval",2.8138956997984938e-06,1.990182755160072e-06,3.0,3.0
+cs/0511017,Short Quantum Games,2.8106451442512724e-06,0.0,3.0,0.0
+cs/0503082,"Spines of Random Constraint Satisfaction Problems: Definition and
+  Connection with Computational Complexity",2.782343450472716e-06,0.0,2.0,0.0
+cs/0404044,A note on dimensions of polynomial size circuits,2.77239764133326e-06,0.0,1.0,0.0
+cond-mat/0702546,A Landscape Analysis of Constraint Satisfaction Problems,2.7626283890600466e-06,0.0,4.0,0.0
+cs/0409012,A New Look at Survey Propagation and its Generalizations,2.733482091102976e-06,2.5248587192329267e-08,4.0,2.0
+cond-mat/0507451,Landscape of solutions in constraint satisfaction problems,2.7224187394329163e-06,0.0,3.0,0.0
+quant-ph/0403056,Quantum Identification of Boolean Oracles,2.678346398652239e-06,2.820406187152521e-06,5.0,3.0
+quant-ph/0204010,Quantum Optimization Problems,2.6559322573374663e-06,0.0,3.0,2.0
+quant-ph/0209060,Quantum Lower Bound for Recursive Fourier Sampling,2.615445822497721e-06,1.990182755160072e-06,7.0,3.0
+quant-ph/0605181,The BQP-hardness of approximating the Jones Polynomial,2.5122627273681604e-06,7.522751391116359e-07,5.0,7.0
+cond-mat/0607290,A rigorous proof of the cavity method for counting matchings,2.506177963606904e-06,0.0,2.0,0.0
+cs/0206022,The Fastest and Shortest Algorithm for All Well-Defined Problems,2.502591415315477e-06,0.0,3.0,0.0
+cs/0408043,The Arithmetical Complexity of Dimension and Randomness,2.4962599679182183e-06,0.0,1.0,0.0
+cs/0211025,"Effective Strong Dimension, Algorithmic Information, and Computational
+  Complexity",2.4962599679182183e-06,0.0,1.0,0.0
+cs/0511074,Every Sequence is Decompressible from a Random One,2.4962599679182183e-06,0.0,1.0,0.0
+cs/0507057,A new sibling of BQP,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0508001,Dimensions of Copeland-Erdos Sequences,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0410035,"Overhead-Free Computation, DCFLs, and CFLs",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0507048,Redundancy in Logic III: Non-Mononotonic Reasoning,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0603084,Random 3CNF formulas elude the Lovasz theta function,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0509032,A Simple Model to Generate Hard Satisfiable Instances,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0602075,The approximability of MAX CSP with fixed-value constraints,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0208026,Mathematical basis for polySAT implication operator,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0602090,"On the Approximation and Smoothed Complexity of Leontief Market
+  Equilibria",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0703097,"On Approximating Optimal Weighted Lobbying, and Frequency of Correctness
+  versus Average-Case Polynomial Time",2.4711431321721443e-06,0.0,1.0,0.0
+quant-ph/0407023,"An extension of Chaitin's halting probability \Omega to a measurement
+  operator in an infinite dimensional quantum system",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0112021,Exact Complexity of the Winner Problem for Young Elections,2.4711431321721443e-06,0.0,1.0,0.0
+cs/9911007,"One-Way Functions in Worst-Case Cryptography: Algebraic and Security
+  Properties",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0608057,Hybrid Elections Broaden Complexity-Theoretic Resistance to Control,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0608053,Renormalization group approach to the P versus NP question,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0612060,The Common Prefix Problem On Trees,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0312007,"Counting complexity classes for numeric computations II: algebraic and
+  semialgebraic sets",2.4711431321721443e-06,0.0,1.0,1.0
+cs/0004007,Deciding first-order properties of locally tree-decomposable structures,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0604066,Univariate polynomial real root isolation: Continued Fractions revisited,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0612089,"On the time complexity of 2-tag systems and small universal Turing
+  machines",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0211032,"Solution Bounds for a Hypothetical Polynomial Time Aproximation
+  Algorithm for the TSP",2.4711431321721443e-06,0.0,1.0,0.0
+nlin/0511018,The Role of Redundancy in the Robustness of Random Boolean Networks,2.4711431321721443e-06,0.0,1.0,1.0
+quant-ph/0604056,Quantum Versus Classical Proofs and Advice,2.436534033297683e-06,1.1499776687598713e-07,11.0,2.0
+cs/9908018,Construction of regular languages and recognizability of polynomials,2.429735359900988e-06,0.0,2.0,1.0
+quant-ph/0110018,Algorithmic Information Theoretic Issues in Quantum Mechanics,2.4158851147439846e-06,6.5021295333520975e-06,7.0,5.0
+cond-mat/0609099,Geometrical organization of solutions to random linear Boolean equations,2.399937372048682e-06,0.0,2.0,0.0
+quant-ph/0603135,Interaction in Quantum Communication,2.396344187069094e-06,0.0,3.0,0.0
+cond-mat/0308147,"Instability of one-step replica-symmetry-broken phase in satisfiability
+  problems",2.383840461076936e-06,6.471555766693449e-05,4.0,5.0
+cs/0506068,Quantum Arthur-Merlin Games,2.3617347492816663e-06,2.223487825048367e-06,4.0,2.0
+cs/0208043,Gales Suffice for Constructive Dimension,2.27910810532043e-06,0.0,2.0,1.0
+quant-ph/0007021,The Quantum Complexity of Set Membership,2.264768154143438e-06,0.0,6.0,2.0
+cs/0702013,"A polynomial time algorithm to approximate the mixed volume within a
+  simply exponential factor",2.25053788980118e-06,0.0,1.0,0.0
+nlin/0311008,"Phase Transitions in Random Boolean Networks with Different Updating
+  Schemes",2.247923571429882e-06,0.0,2.0,0.0
+cs/0001014,Nondeterministic Quantum Query and Quantum Communication Complexities,2.242850331034992e-06,3.463150927400894e-05,2.0,6.0
+quant-ph/0007071,"A Numerical Study of the Performance of a Quantum Adiabatic Evolution
+  Algorithm for Satisfiability",2.232976716899537e-06,0.0,4.0,20.0
+cs/0304020,A direct sum theorem in communication complexity via message compression,2.178423907319409e-06,5.955696155367081e-06,2.0,1.0
+quant-ph/0501066,The Symmetric Group Defies Strong Fourier Sampling: Part II,2.1673732789760065e-06,0.0,7.0,10.0
+math/0510264,"Gowers Uniformity, Influence of Variables, and PCPs",2.1535632477036245e-06,0.0,2.0,0.0
+quant-ph/0102108,Quantum Kolmogorov Complexity Based on Classical Descriptions,2.1396433197498973e-06,0.0,3.0,1.0
+quant-ph/9902053,A better lower bound for quantum algorithms searching an ordered list,2.127274410394491e-06,0.0,8.0,6.0
+quant-ph/0110006,"Quantum Certificate Verification: Single versus Multiple Quantum
+  Certificates",2.1094546288754065e-06,0.0,2.0,4.0
+q-bio/0311039,Hierarchical Clustering Based on Mutual Information,2.0996441857736717e-06,0.0,2.0,5.0
+math/0406416,Non-computable Julia sets,2.094114128539939e-06,0.0,2.0,1.0
+math/0502354,On computational complexity of Siegel Julia sets,2.094114128539939e-06,0.0,2.0,1.0
+quant-ph/0111102,Quantum Lower Bound for the Collision Problem,2.050742249043521e-06,0.0,9.0,21.0
+math/0501388,Efficiently Detecting Torsion Points and Subtori,2.0456653061975597e-06,0.0,1.0,0.0
+quant-ph/0406046,The hidden subgroup problem and permutation group theory,2.040376601733645e-06,0.0,6.0,7.0
+quant-ph/0406180,The Complexity of the Local Hamiltonian Problem,2.0344328588443893e-06,0.000745104956322,6.0,18.0
+quant-ph/0109070,On Quantum Versions of the Yao Principle,2.012539582801992e-06,0.0,10.0,1.0
+quant-ph/0108010,Classical simulation of noninteracting-fermion quantum circuits,1.986149961550516e-06,1.4852110113134864e-08,6.0,16.0
+cs/0703065,Satisfying assignments of Random Boolean CSP: Clusters and Overlaps,1.9334450569873443e-06,0.0,2.0,0.0
+math/0604371,Constructing Non-Computable Julia Sets,1.9334450569873443e-06,0.0,2.0,0.0
+quant-ph/9904066,Probabilities to accept languages by quantum finite automata,1.93011961101526e-06,0.0,4.0,4.0
+cs/0111052,A comparison of Zeroes and Ones of a Boolean Polynomial,1.919232748263198e-06,0.0,2.0,1.0
+quant-ph/0108033,Fermionic Linear Optics and Matchgates,1.904140471147773e-06,2.535109190331155e-05,4.0,19.0
+cs/0702124,A Sequential Algorithm for Generating Random Graphs,1.8950380516170012e-06,0.0,1.0,0.0
+math/0603262,"Computing the Top Betti Numbers of Semi-algebraic Sets Defined by
+  Quadratic Inequalities in Polynomial Time",1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/0405319,"Critical behaviour of combinatorial search algorithms, and the
+  unitary-propagation universality class",1.8950380516170012e-06,0.0,1.0,3.0
+cs/0701123,Feasible Depth,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0602047,Approximability of Integer Programming with Generalised Constraints,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0507052,Finite automata for testing uniqueness of Eulerian trails,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0506100,On the NP-Completeness of Some Graph Cluster Measures,1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/0504070,Clustering of solutions in the random satisfiability problem,1.8950380516170012e-06,0.0,1.0,2.0
+cs/0204037,Kolmogorov's Structure Functions and Model Selection,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0606037,Average-Case Complexity,1.8950380516170012e-06,0.0,1.0,0.0
+quant-ph/0205133,"Adaptive Quantum Computation, Constant Depth Quantum Circuits and
+  Arthur-Merlin Games",1.870601593785996e-06,0.0,1.0,6.0
+cs/0111054,The similarity metric,1.8563310916148584e-06,0.0,2.0,3.0
+gr-qc/0209061,Computers with closed timelike curves can solve hard problems,1.8455085789547183e-06,0.0,2.0,2.0
+quant-ph/9802049,Quantum Lower Bounds by Polynomials,1.8397480383002648e-06,0.0,12.0,73.0
+quant-ph/9909094,Quantum Computation and Quadratically Signed Weight Enumerators,1.8333759816249431e-06,0.0,6.0,5.0
+cs/0502078,"Semantical Characterizations and Complexity of Equivalences in Answer
+  Set Programming",1.8329263932102664e-06,0.0,1.0,0.0
+cs/9910010,Communication Complexity Lower Bounds by Polynomials,1.831022127685097e-06,0.0,8.0,8.0
+quant-ph/0201007,A lower bound on the quantum query complexity of read-once functions,1.817921728191513e-06,0.0,2.0,7.0
+quant-ph/0110067,"Frontier between separability and quantum entanglement in a many spin
+  system",1.815789495980043e-06,5.330012340541858e-07,2.0,4.0
+nlin/0303021,Contextual Random Boolean Networks,1.7990205381911442e-06,0.0,2.0,2.0
+cs/0106036,"Convergence and Error Bounds for Universal Prediction of Nonbinary
+  Sequences",1.7987436883202868e-06,0.0,2.0,0.0
+quant-ph/9811046,Lower Bounds for Quantum Search and Derandomization,1.7822972340885e-06,0.0,11.0,5.0
+quant-ph/0312003,"An Algorithmic Argument for Nonadaptive Query Complexity Lower Bounds on
+  Advised Quantum Computation",1.773809257617561e-06,0.0,2.0,0.0
+cs/0212009,"On the survey-propagation equations for the random K-satisfiability
+  problem",1.7667582643360705e-06,3.983901727013748e-06,2.0,9.0
+quant-ph/0308072,Computational Complexity Measures of Multipartite Quantum Entanglement,1.753099118726604e-06,0.0,3.0,3.0
+cs/0304030,Small Spans in Scaled Dimension,1.703003024765287e-06,0.0,1.0,1.0
+cs/0612133,Tales of Huffman,1.703003024765287e-06,0.0,1.0,0.0
+cs/0512101,On the Complexity of finding Stopping Distance in Tanner Graphs,1.703003024765287e-06,0.0,1.0,0.0
+quant-ph/0610200,"Quantum List Decoding of Classical Block Codes of Polynomially Small
+  Rate from Quantumly Corrupted Codewords",1.703003024765287e-06,0.0,1.0,0.0
+cs/9906017,"Generalization of automatic sequences for numeration systems on a
+  regular language",1.703003024765287e-06,0.0,1.0,2.0
+cs/0506059,Existentially Restricted Quantified Constraint Satisfaction,1.703003024765287e-06,0.0,1.0,1.0
+cs/9904019,Bounds for Small-Error and Zero-Error Quantum Algorithms,1.6862426257812426e-06,0.0,9.0,12.0
+cond-mat/0011181,Simplest random K-satisfiability problem,1.644135299819827e-06,0.0,2.0,4.0
+cs/0412102,Quantum Interactive Proofs with Competing Provers,1.643183961507714e-06,7.4260550565674335e-09,1.0,3.0
+quant-ph/0005106,Interaction in Quantum Communication Complexity,1.6431693161728177e-06,0.0,2.0,4.0
+quant-ph/0302079,3-Local Hamiltonian is QMA-complete,1.6240387156621523e-06,1.990182755160072e-06,2.0,13.0
+quant-ph/0411051,Quantum Communication Cannot Simulate a Public Coin,1.6228817893808843e-06,0.0,3.0,6.0
+cond-mat/0301271,"Solving satisfiability problems by fluctuations: The dynamics of
+  stochastic local search algorithms",1.6211586882477964e-06,0.0,1.0,6.0
+quant-ph/0211174,Quantum Time-Space Tradeoffs for Sorting,1.617046991710406e-06,0.0,6.0,4.0
+cond-mat/0006316,"Statistical mechanics perspective on the phase transition in vertex
+  covering finite-connectivity random graphs",1.60698551133943e-06,0.0,1.0,4.0
+cs/0102013,"Quantum Multi-Prover Interactive Proof Systems with Limited Prior
+  Entanglement",1.60698551133943e-06,0.0,1.0,2.0
+cs/0503026,On Generalized Computable Universal Priors and their Convergence,1.598232197713792e-06,0.0,1.0,0.0
+cs/0501076,"Geometric Complexity III: on deciding positivity of
+  Littlewood-Richardson coefficients",1.5863492863473591e-06,0.0,1.0,2.0
+cs/0107015,From Neel to NPC: Colouring Small Worlds,1.5856086514792729e-06,0.0,2.0,1.0
+cond-mat/0212451,Constraint Satisfaction by Survey Propagation,1.574385168732984e-06,1.990182755160072e-06,2.0,10.0
+cs/0411076,"Lower bounds on the Deterministic and Quantum Communication Complexity
+  of Hamming Distance",1.57360097769142e-06,0.0,1.0,1.0
+quant-ph/0505088,A Note on Shared Randomness and Shared Entanglement in Communication,1.57360097769142e-06,0.0,1.0,1.0
+quant-ph/9909012,Analysis of Quantum Functions,1.5553383020444351e-06,0.0,2.0,0.0
+quant-ph/0304052,Quantum Search on Bounded-Error Inputs,1.550416394745273e-06,0.0,1.0,7.0
+q-bio/0311037,Hierarchical Clustering Using Mutual Information,1.5493750032839157e-06,0.0,1.0,0.0
+cs/0611052,"On the Solution-Space Geometry of Random Constraint Satisfaction
+  Problems",1.5493750032839157e-06,0.0,1.0,0.0
+cs/0611103,"Barriers and local minima in energy landscapes of stochastic local
+  search",1.5493750032839157e-06,0.0,1.0,0.0
+cs/0610171,"Coupling of quantum angular momenta: an insight into analogic/discrete
+  and local/global models of computation",1.5475688179632491e-06,0.0,1.0,1.0
+quant-ph/9811080,A note on quantum black-box complexity of almost all Boolean functions,1.5323155368314797e-06,0.0,4.0,2.0
+cs/0012011,"Towards a Universal Theory of Artificial Intelligence based on
+  Algorithmic Probability and Sequential Decision Theory",1.5194444616683535e-06,0.0,1.0,1.0
+cs/0102018,An effective Procedure for Speeding up Algorithms,1.5194444616683535e-06,0.0,1.0,2.0
+cs/0009002,Succinct quantum proofs for properties of finite groups,1.5192280608550145e-06,0.0,1.0,10.0
+cond-mat/0411077,"Long Range Frustrations in a Spin Glass Model of the Vertex Cover
+  Problem",1.5109679979135728e-06,0.0,1.0,1.0
+cond-mat/0009417,"Typical solution time for a vertex-covering algorithm on
+  finite-connectivity random graphs",1.5109679979135728e-06,0.0,1.0,2.0
+quant-ph/0511272,Quantum Advantage without Entanglement,1.5109679979135728e-06,0.0,1.0,3.0
+quant-ph/9804066,"The quantum query complexity of approximating the median and related
+  statistics",1.4985732440318648e-06,0.0,3.0,37.0
+cs/9911009,Two-way finite automata with quantum and classical states,1.4838003116431354e-06,0.0,2.0,1.0
+nlin/0408006,Introduction to Random Boolean Networks,1.4835344226490424e-06,0.0,1.0,3.0
+nlin/0402006,Updating Schemes in Random Boolean Networks: Do They Really Matter?,1.4835344226490424e-06,0.0,1.0,0.0
+quant-ph/9812032,NQP_{C} = co-C_{=}P,1.4835344226490424e-06,0.0,1.0,2.0
+cs/0211012,Phase Transitions and all that,1.481534135440843e-06,0.0,1.0,1.0
+cs/0005032,Computational Complexity and Phase Transitions,1.481534135440843e-06,0.0,1.0,0.0
+cs/0407056,On the hardness of distinguishing mixed-state quantum computations,1.4756766699133106e-06,4.001405999647085e-06,1.0,4.0
+quant-ph/0507234,Grover's Quantum Search Algorithm and Diophantine Approximation,1.4675449661889224e-06,0.0,3.0,0.0
+quant-ph/9802062,"1-way quantum finite automata: strengths, weaknesses and generalizations",1.4580958495522512e-06,0.0,2.0,11.0
+quant-ph/0501060,A quantum lower bound for the query complexity of Simon's problem,1.4341539871728873e-06,0.0,1.0,0.0
+cs/9911008,"On quantum and classical space-bounded processes with algebraic
+  transition amplitudes",1.4276256066574263e-06,0.0,1.0,1.0
+cs/9901015,PSPACE has 2-round quantum interactive proof systems,1.4012336968554504e-06,0.0,1.0,1.0
+quant-ph/0205083,Quantum Random Walks Hit Exponentially Faster,1.389377167697951e-06,0.0,2.0,42.0
+quant-ph/0211179,Comparing EQP and MOD_{p^k}P using Polynomial Degree Lower Bounds,1.3865990665231049e-06,0.0,4.0,0.0
+quant-ph/0410040,An Application of Quantum Finite Automata to Interactive Proof Systems,1.383816294062021e-06,0.0,1.0,0.0
+quant-ph/9904093,Optimal lower bounds for quantum automata and random access codes,1.382944646679097e-06,0.0,1.0,20.0
+quant-ph/9804043,Dense Quantum Coding and a Lower Bound for 1-way Quantum Automata,1.382944646679097e-06,0.0,1.0,16.0
+cs/0304008,A Physics-Free Introduction to the Quantum Computation Model,1.3665114285505072e-06,0.0,1.0,0.0
+quant-ph/0603034,New upper and lower bounds for randomized and quantum Local Search,1.3549395385965551e-06,0.0,1.0,0.0
+quant-ph/0608026,Search via Quantum Walk,1.351068429080645e-06,0.0,2.0,1.0
+quant-ph/0306182,Quantum Computing Without Entanglement,1.3498881420060156e-06,1.6620692392327507e-06,1.0,5.0
+quant-ph/0506200,Solving Satisfiability Problems by the Ground-State Quantum Computer,1.3382882551273936e-06,0.0,2.0,0.0
+quant-ph/0011067,Efficient Quantum Algorithms for Shifted Quadratic Character Problems,1.3189329710618589e-06,0.0,0.0,9.0
+cond-mat/0408370,"Computational complexity and fundamental limitations to fermionic
+  quantum Monte Carlo simulations",1.3189329710618589e-06,0.0,0.0,8.0
+cs/0203016,Dimension in Complexity Classes,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0607135,"A polynomial-time approximation algorithm for the number of k-matchings
+  in bipartite graphs",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0310060,Puzzle: Zermelo-Fraenkel set theory is inconsistent,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0508071,Every decision tree has an influential variable,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0305100,Polynomial time quantum computation with advice,1.3189329710618589e-06,0.0,0.0,4.0
+math/0410580,Filled Julia sets with empty interior are computable,1.3189329710618589e-06,0.0,0.0,5.0
+cond-mat/0409532,Poisson convergence in the restricted $k$-partioning problem,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0203017,The Dimensions of Individual Strings and Sequences,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0502066,On the Complexity of Real Functions,1.3189329710618589e-06,0.0,0.0,3.0
+cs/9901014,"Minimum Description Length Induction, Bayesianism, and Kolmogorov
+  Complexity",1.3189329710618589e-06,0.0,0.0,4.0
+quant-ph/9805006,"Quantum Oracle Interrogation: Getting all information for almost half
+  the price",1.3189329710618589e-06,0.0,0.0,11.0
+cond-mat/9907343,"A variational description of the ground state structure in random
+  satisfiability problems",1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0101133,Time and Space Bounds for Reversible Simulation,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0206122,On communication over an entanglement-assisted quantum channel,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0009009,"The definition of a random sequence of qubits: from Noncommutative
+  Algorithmic Probability Theory to Quantum Algorithmic Information Theory and
+  back",1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0607174,"Exponential Separation of Quantum and Classical One-Way Communication
+  Complexity for a Boolean Function",1.3189329710618589e-06,0.0,0.0,2.0
+cs/0305009,The Threshold for Random k-SAT is 2^k ln2 - O(k),1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/9904050,"A Computer Scientist's View of Life, the Universe, and Everything",1.3189329710618589e-06,0.0,0.0,2.0
+cs/0307013,"'Computing' as Information Compression by Multiple Alignment,
+  Unification and Search",1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/0310227,Random k-SAT: Two Moments Suffice to Cross a Sharp Threshold,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0611234,Toward a general theory of quantum games,1.3189329710618589e-06,0.0,0.0,1.0
+math/0605610,Nonlinear Bipartite Matching,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0507003,The role of Quantum Interference in Quantum Computing,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0306134,The Complexity of Boolean Constraint Isomorphism,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0307062,Euclidean algorithms are Gaussian,1.3189329710618589e-06,0.0,0.0,1.0
+math/9809071,Solving Degenerate Sparse Polynomial Systems Faster,1.3189329710618589e-06,0.0,0.0,1.0
+math/9809009,Uncomputably Large Integral Points on Algebraic Plane Curves?,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0612134,"Geometric Complexity Theory II: Towards explicit obstructions for
+  embeddings among class varieties",1.3189329710618589e-06,0.0,0.0,1.0
+cs/9808002,Downward Collapse from a Weaker Hypothesis,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0012023,The Tale of One-way Functions,1.3189329710618589e-06,0.0,0.0,6.0
+cs/0605140,Inapproximability of the Tutte polynomial,1.3189329710618589e-06,0.0,0.0,1.0
+cs/9912001,"The phase transition in random Horn satisfiability and its algorithmic
+  implications",1.3189329710618589e-06,0.0,0.0,1.0
+math/9809201,On quantification with a finite universe,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0504101,Single-solution Random 3-SAT Instances,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0609141,Polygon Convexity: A Minimal O(n) Test,1.3189329710618589e-06,0.0,0.0,2.0
+cs/9910001,"Fixed-parameter tractability, definability, and model checking",1.3189329710618589e-06,0.0,0.0,1.0
+cs/9907040,"Characterizations of the Existence of Partial and Total One-Way
+  Permutations",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0101026,"Deterministic computations whose history is independent of the order of
+  asynchronous updating",1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0212001,"A Generalization of Chaitin's Halting Probability \Omega and Halting
+  Self-Similar Sets",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0110025,"Recognizing When Heuristics Can Approximate Minimum Vertex Covers Is
+  Complete for Parallel Access to NP",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0112001,An Average Case NP-Complete Graph Coloring Problem,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0302001,"Many Hard Examples in Exact Phase Transitions with Application to
+  Generating Hard Satisfiable Instances",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0104015,"Application of Support Vector Machine to detect an association between a
+  disease or trait and multiple SNP variations",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0204024,The Geometric Maximum Traveling Salesman Problem,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0205064,Three complete deterministic polynomial algorithms for 3SAT,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0309018,Using Propagation for Solving Complex Arithmetic Constraints,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0310046,Theory of One Tape Linear Time Turing Machines,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0503052,Zeta-Dimension,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0409051,Quantum Complexity Classes,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0201005,Sharpening Occam's Razor,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0203019,"Unpredictability of wave function's evolution in nonintegrable quantum
+  systems",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0503032,"Complexity and Approximation of Fixing Numerical Attributes in Databases
+  Under Integrity Constraints",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0412042,The approximability of three-valued MAX CSP,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0508069,Real Hypercomputation and Continuity,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0507027,Anyone but Him: The Complexity of Precluding an Alternative,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/9903035,Quantum Bounded Query Complexity,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/9806090,Two Classical Queries versus One Quantum Query,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0406056,P=NP,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0111062,"One-way communication complexity and the Neciporuk lower bound on
+  formula size",1.3189329710618589e-06,0.0,0.0,1.0
+nlin/0303016,Algorithmic Chaos,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0007027,"Efficient cache use for stencil operations on structured discretization
+  grids",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0208006,Rectangle Size Bounds and Threshold Covers in Communication Complexity,1.3189329710618589e-06,0.0,0.0,1.0
+cs/9910008,Translating Equality Downwards,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0604052,On the Role of Shared Entanglement,1.3189329710618589e-06,0.0,0.0,2.0
+cs/9812012,"Quantum simulations of classical random walks and undirected graph
+  connectivity",1.3189329710618589e-06,0.0,0.0,8.0
+math/0503503,"Noise stability of functions with low influences: invariance and
+  optimality",1.3189329710618589e-06,0.0,0.0,2.0
+math/0203239,"Generic-case complexity, decision problems in group theory and random
+  walks",1.3189329710618589e-06,0.0,0.0,3.0
+math/0301274,"On the existence of a new family of Diophantine equations for $\bf
+  \Omega$",1.3189329710618589e-06,0.0,0.0,3.0
+quant-ph/0602088,"Quantum Hardcore Functions by Complexity-Theoretical Quantum List
+  Decoding",1.3189329710618589e-06,0.0,0.0,3.0
+cs/0601069,Fast Enumeration of Combinatorial Objects,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0602043,Computing Nash Equilibria: Approximation and Smoothed Complexity,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0609112,A Richer Understanding of the Complexity of Election Systems,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0008025,Phutball Endgames are Hard,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0409044,Some Applications of Coding Theory in Computational Complexity,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0609096,Finite-State Dimension and Lossy Decompressors,1.3189329710618589e-06,0.0,0.0,2.0
+quant-ph/0003035,One Complexity Theorist's View of Quantum Computing,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0112014,Guaranteeing the diversity of number generators,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0607106,"The Complexity of Quantified Constraint Satisfaction: Collapsibility,
+  Sink Algebras, and the Three-Element Case",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0612365,"Gibbs States and the Set of Solutions of Random Constraint Satisfaction
+  Problems",1.3189329710618589e-06,0.0,0.0,3.0
+cs/9906024,A decision procedure for well-formed linear quantum cellular automata,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0111053,Meaningful Information,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0207035,Computational complexity arising from degree correlations in networks,1.3189329710618589e-06,0.0,0.0,3.0
+quant-ph/9604007,A decision procedure for unitary linear quantum cellular automata,1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/0112142,Boosting search by rare events,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0603019,"Characterizing the NP-PSPACE Gap in the Satisfiability Problem for Modal
+  Logic",1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/9703009,Reversible Simulation of Irreversible Computation by Pebble Games,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0504092,On Optimality Condition of Complex Systems: Computational Evidence,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0506053,Pairs of SAT Assignment in Random Boolean Formulae,1.3189329710618589e-06,0.0,0.0,5.0
+cond-mat/0001137,"The number of guards needed by a museum: A phase transition in vertex
+  covering of random graphs",1.3189329710618589e-06,0.0,0.0,4.0
+quant-ph/0212071,"Upper bound by Kolmogorov complexity for the probability in computable
+  POVM measurement",1.3189329710618589e-06,0.0,0.0,2.0
+math/0206273,Average-case complexity and decision problems in group theory,1.3189329710618589e-06,0.0,0.0,3.0
+cs/9811023,Complexity limitations on quantum computation,1.3189329710618589e-06,0.0,0.0,10.0
+cs/0406006,Dichotomy Theorems for Alternation-Bounded Quantified Boolean Formulas,1.3189329710618589e-06,0.0,0.0,3.0
+quant-ph/0008059,Quantum Algorithms for Weighing Matrices and Quadratic Residues,1.3189329710618589e-06,0.0,0.0,5.0
+quant-ph/9903042,An Almost-Quadratic Lower Bound for Quantum Formula Size,1.3189329710618589e-06,0.0,0.0,1.0
+astro-ph/0305447,Fast n-point correlation functions and three-point lensing application,1.3189329710618589e-06,0.0,0.0,4.0
+cs/0212002,Survey propagation: an algorithm for satisfiability,1.3189329710618589e-06,0.0,0.0,18.0
+chao-dyn/9909031,"Noncommutative Martin-Lof randomness : on the concept of a random
+  sequence of qubits",,,,
+cond-mat/0111153,"Hiding solutions in random satisfiability problems: A statistical
+  mechanics approach",,,,
+cond-mat/0302536,Phase Diagram for the Constrained Integer Partitioning Problem,,,,
+cond-mat/0404424,Travelling Salesman Problem with a Center,,,,
+cond-mat/0606128,"Simplifying Random Satisfiability Problem by Removing Frustrating
+  Interactions",,,,
+cond-mat/0702613,Finding long cycles in graphs,,,,
+cs/0001013,Query Complexity: Worst-Case Quantum Versus Average-Case Classical,,,,
+cs/0002012,On The Closest String and Substring Problems,,,,
+cs/0004005,Exact Phase Transitions in Random Constraint Satisfaction Problems,,,,
+cs/0005009,PSPACE Reasoning for Graded Modal Logics,,,,
+cs/0007025,A Moment of Perfect Clarity I: The Parallel Census Technique,,,,
+cs/0010005,"Low Ambiguity in Strong, Total, Associative, One-Way Functions",,,,
+cs/0010008,The Light Lexicographic path Ordering,,,,
+cs/0010011,If P \neq NP then Some Strongly Noninvertible Functions are Invertible,,,,
+cs/0010021,"Towards Understanding the Predictability of Stock Markets from the
+  Perspective of Computational Complexity",,,,
+cs/0010023,Oracle Complexity and Nontransitivity in Pattern Recognition,,,,
+cs/0011016,Designing Proxies for Stock Market Indices is Computationally Hard,,,,
+cs/0011019,"A Moment of Perfect Clarity II: Consequences of Sparse Sets Hard for NP
+  with Respect to Weak Reductions",,,,
+cs/0101015,"Combinatorial Toolbox for Protein Sequence Design and Landscape Analysis
+  in the Grand Canonical Model",,,,
+cs/0102019,Easy and Hard Constraint Ranking in OT: Algorithms and Complexity,,,,
+cs/0102024,P-Immune Sets with Holes Lack Self-Reducibility Properties,,,,
+cs/0105027,Bounds on sample size for policy evaluation in Markov environments,,,,
+cs/0105029,Coloring k-colorable graphs using relatively small palettes,,,,
+cs/0106012,Computational Properties of Metaquerying Problems,,,,
+cs/0106041,"Computing Complete Graph Isomorphisms and Hamiltonian Cycles from
+  Partial Ones",,,,
+cs/0106045,"A Note on the Complexity of Computing the Smallest Four-Coloring of
+  Planar Graphs",,,,
+cs/0106049,Recursively Undecidable Properties of NP,,,,
+cs/0107010,Algorithms for Boolean Function Query Properties,,,,
+cs/0107031,The Complexity of Clickomania,,,,
+cs/0108010,A Note on Tiling under Tomographic Constraints,,,,
+cs/0109011,Communication Complexity and Secure Function Evaluation,,,,
+cs/0109018,Exact Complexity of Exact-Four-Colorability,,,,
+cs/0110038,Counting is Easy,,,,
+cs/0110039,Two heads are better than two tapes,,,,
+cs/0110040,A New Approach to Formal Language Theory by Kolmogorov Complexity,,,,
+cs/0110049,A Symmetric Strategy in Graph Avoidance Games,,,,
+cs/0111009,"On the complexity of inducing categorical and quantitative association
+  rules",,,,
+cs/0111038,Arc consistency for soft constraints,,,,
+cs/0111056,"Some Facets of Complexity Theory and Cryptography: A Five-Lectures
+  Tutorial",,,,
+cs/0111057,Towards a characterization of the star-free sets of integers,,,,
+cs/0112002,"Program schemes with binary write-once arrays and the complexity classes
+  they capture",,,,
+cs/0112009,DNA Self-Assembly For Constructing 3D Boxes,,,,
+cs/0201001,Lower Bounds for Matrix Product,,,,
+cs/0201006,"On the Importance of Having an Identity or, is Consensus really
+  Universal?",,,,
+cs/0202036,Equivalence and Isomorphism for Boolean Constraint Satisfaction,,,,
+cs/0203014,"Active Virtual Network Management Prediction: Complexity as a Framework
+  for Prediction, Optimization, and Assurance",,,,
+cs/0204009,"New Results on Monotone Dualization and Generating Hypergraph
+  Transversals",,,,
+cs/0205005,"PSPACE-Completeness of Sliding-Block Puzzles and Other Problems through
+  the Nondeterministic Constraint Logic Model of Computation",,,,
+cs/0205007,On-Line Paging against Adversarially Biased Random Inputs,,,,
+cs/0205008,Improved Bicriteria Existence Theorems for Scheduling,,,,
+cs/0205010,Approximate Data Structures with Applications,,,,
+cs/0205011,On Strongly Connected Digraphs with Bounded Cycle Length,,,,
+cs/0205012,Polynomial-Time Approximation Scheme for Data Broadcast,,,,
+cs/0205031,Lecture Notes on Evasiveness of Graph Properties,,,,
+cs/0205032,On-Line End-to-End Congestion Control,,,,
+cs/0205033,On-Line File Caching,,,,
+cs/0205035,"Simple Strategies for Large Zero-Sum Games with Applications to
+  Complexity Theory",,,,
+cs/0205046,"On the Number of Iterations for Dantzig-Wolfe Optimization and
+  Packing-Covering Approximation Algorithms",,,,
+cs/0205056,Parameterized Intractability of Motif Search Problems,,,,
+cs/0205073,Vote Elicitation: Complexity and Strategy-Proofness,,,,
+cs/0205074,Complexity Results about Nash Equilibria,,,,
+cs/0205075,Complexity of Mechanism Design,,,,
+cs/0207009,"Computing Elementary Symmetric Polynomials with a Sublinear Number of
+  Multiplications",,,,
+cs/0207024,On Concise Encodings of Preferred Extensions,,,,
+cs/0207027,"Permutation graphs, fast forward permutations, and sampling the cycle
+  structure of a permutation",,,,
+cs/0207072,Complexity of Nested Circumscription and Nested Abnormality Theories,,,,
+cs/0207084,"Paraconsistent Reasoning via Quantified Boolean Formulas,I: Axiomatising
+  Signed Systems",,,,
+cs/0208018,Does P = NP?,,,,
+cs/0208041,Perfectly Secure Message Transmission Revisited,,,,
+cs/0209015,Does NP not equal P?,,,,
+cs/0209032,Complexity Results on DPLL and Resolution,,,,
+cs/0210007,Compilability of Abduction,,,,
+cs/0210008,Cellular automata and communication complexity,,,,
+cs/0210009,"On the Cell-based Complexity of Recognition of Bounded Configurations by
+  Finite Dynamic Cellular Automata",,,,
+cs/0210011,A Note on Induction Schemas in Bounded Arithmetic,,,,
+cs/0211026,How long is a Proof? - A short note,,,,
+cs/0211031,Redundancy in Logic I: CNF Propositional Formulae,,,,
+cs/0211036,Typical random 3-SAT formulae and the satisfiability threshold,,,,
+cs/0212001,Traveling Salesmen in the Presence of Competition,,,,
+cs/0212016,"Complexity of the Exact Domatic Number Problem and of the Exact Conveyor
+  Flow Shop Problem",,,,
+cs/0212018,"Real numbers having ultimately periodic representations in abstract
+  numeration systems",,,,
+cs/0212055,"Mathematical foundations of modern cryptography: computational
+  complexity perspective",,,,
+cs/0212056,On the Work of Madhu Sudan: the 2002 Nevalinna Prize Winner,,,,
+cs/0301004,Near Quadratic Matrix Multiplication Modulo Composites,,,,
+cs/0301012,Hard satisfiable formulas for DPLL-type algorithms,,,,
+cs/0301013,Independence Properties of Algorithmically Random Sequences,,,,
+cs/0301016,Lower Bounds on the Bounded Coefficient Complexity of Bilinear Maps,,,,
+cs/0301024,Complexity and Completeness of Immanants,,,,
+cs/0302025,Cryptographic Randomized Response Techniques,,,,
+cs/0302028,"The Boolean Functions Computed by Random Boolean Formulas OR How to Grow
+  the Right Function",,,,
+cs/0303008,Solution of the Linear Ordering Problem (NP=P),,,,
+cs/0304012,Individual Communication Complexity,,,,
+cs/0304026,A New Multilayered PCP and the Hardness of Hypergraph Vertex Cover,,,,
+cs/0304038,"How NP got a new definition: a survey of probabilistically checkable
+  proofs",,,,
+cs/0304039,Approximation thresholds for combinatorial optimization problems,,,,
+cs/0304040,Hardness as randomness: a survey of universal derandomization,,,,
+cs/0304041,"$P \ne NP$, propositional proof complexity, and resolution lower bounds
+  for the weak pigeonhole principle",,,,
+cs/0305002,Hybrid Rounding Techniques for Knapsack Problems,,,,
+cs/0305005,An In-Place Sorting with O(n log n) Comparisons and O(n) Moves,,,,
+cs/0305052,On the Existence and Convergence Computable Universal Priors,,,,
+cs/0306025,Permutation Generation: Two New Permutation Algorithms,,,,
+cs/0306035,"A Transformational Decision Procedure for Non-Clausal Propositional
+  Formulas",,,,
+cs/0306049,Hyperdense Coding Modulo 6 with Filter-Machines,,,,
+cs/0306091,Universal Sequential Decisions in Unknown Environments,,,,
+cs/0306131,Complexity of Cycle Length Modularity Problems in Graphs,,,,
+cs/0307003,How many candidates are needed to make elections hard to manipulate?,,,,
+cs/0307016,Complexity of Determining Nonemptiness of the Core,,,,
+cs/0307017,Definition and Complexity of Some Basic Metareasoning Problems,,,,
+cs/0307018,Universal Voting Protocol Tweaks to Make Manipulation Hard,,,,
+cs/0307020,Defying Dimensions Mod 6,,,,
+cs/0307041,High-density and Secure Data Transmission via Linear Combinations,,,,
+cs/0308012,"Constant-Depth Frege Systems with Counting Axioms Polynomially Simulate
+  Nullstellensatz Refutations",,,,
+cs/0308023,On the complexity of curve fitting algorithms,,,,
+cs/0309006,"The KR-Benes Network: A Control-Optimal Rearrangeable Permutation
+  Network",,,,
+cs/0309016,"Using Simulated Annealing to Calculate the Trembles of Trembling Hand
+  Perfection",,,,
+cs/0309052,Minimal DFAs for Testing Divisibility,,,,
+cs/0311053,Weak Bezout inequality for D-modules,,,,
+cs/0312015,Soft lambda-calculus: a language for polynomial time computation,,,,
+cs/0312039,Uniform test of algorithmic randomness over a general space,,,,
+cs/0401011,"Heuristic average-case analysis of the backtrack resolution of random
+  3-Satisfiability instances",,,,
+cs/0402034,Kolmogorov complexity and symmetric relational structures,,,,
+cs/0402053,The Complexity of Modified Instances,,,,
+cs/0404021,Decidability and Universality in Symbolic Dynamical Systems,,,,
+cs/0405005,Maximum-likelihood decoding of Reed-Solomon Codes is NP-hard,,,,
+cs/0405067,Note on Counting Eulerian Circuits,,,,
+cs/0406040,Alchemistry of the P versus NP question,,,,
+cs/0406044,On the Computational Complexity of the Forcing Chromatic Number,,,,
+cs/0406061,The Complexity of Agreement,,,,
+cs/0407015,Resource Bounded Immunity and Simplicity,,,,
+cs/0407034,On the Complexity of Case-Based Planning,,,,
+cs/0407057,Universal Convergence of Semimeasures on Individual Random Sequences,,,,
+cs/0408007,"Online convex optimization in the bandit setting: gradient descent
+  without a gradient",,,,
+cs/0408066,Robust Locally Testable Codes and Products of Codes,,,,
+cs/0409015,The strength of replacement in weak arithmetic,,,,
+cs/0409043,Inapproximability of Combinatorial Optimization Problems,,,,
+cs/0410021,Complexity Results in Graph Reconstruction,,,,
+cs/0410023,All Superlinear Inverse Schemes are coNP-Hard,,,,
+cs/0410032,The state complexity of L^2 and L^k,,,,
+cs/0410057,Generalized Counters and Reversal Complexity,,,,
+cs/0411007,Basic properties for sand automata,,,,
+cs/0411037,A Note on Bulk Quantum Turing Machine,,,,
+cs/0412013,Signals for Cellular Automata in dimension 2 or higher,,,,
+cs/0412048,On computing fixed points for generalized sandpiles,,,,
+cs/0501003,Implementation of Motzkin-Burger algorithm in Maple,,,,
+cs/0501022,Algebraic Properties for Selector Functions,,,,
+cs/0501026,On the Sensitivity of Cyclically-Invariant Boolean Functions,,,,
+cs/0501073,Optimal Union-Find in Constraint Handling Rules,,,,
+cs/0501075,"Simple extractors via constructions of cryptographic pseudo-random
+  generators",,,,
+cs/0502005,Model-Checking Problems as a Basis for Parameterized Intractability,,,,
+cs/0502013,Amazons is PSPACE-complete,,,,
+cs/0502058,The Complexity of Computing the Size of an Interval,,,,
+cs/0502064,The Lattice of Machine Invariant Sets and Subword Complexity,,,,
+cs/0502068,Limits of Rush Hour Logic Complexity,,,,
+cs/0502074,On sample complexity for computational pattern recognition,,,,
+cs/0503034,"Comment on ""Some non-conventional ideas about algorithmic complexity""",,,,
+cs/0503043,"Complexity Issues in Finding Succinct Solutions of PSPACE-Complete
+  Problems",,,,
+cs/0503046,Hiding Satisfying Assignments: Two are Better than One,,,,
+cs/0503049,"Enforcing and Defying Associativity, Commutativity, Totality, and Strong
+  Noninvertibility for One-Way Functions in Complexity Theory",,,,
+cs/0503062,"On the Complexity of Nonrecursive XQuery and Functional Query Languages
+  on Complex Values",,,,
+cs/0503083,Coarse and Sharp Thresholds of Boolean Constraint Satisfaction Problems,,,,
+cs/0503091,Resource Bounded Unprovability of Computational Lower Bounds,,,,
+cs/0504027,Linear Datalog and Bounded Path Duality of Relational Structures,,,,
+cs/0504038,On Approximating Restricted Cycle Covers,,,,
+cs/0504047,Pushdown dimension,,,,
+cs/0504062,Conditional Hardness for Approximate Coloring,,,,
+cs/0504075,Dichotomy for Voting Systems,,,,
+cs/0504088,"Time, Space, and Energy in Reversible Computing",,,,
+cs/0504096,"P-Selectivity, Immunity, and the Power of One Bit",,,,
+cs/0505002,"Tight Lower Bounds for Query Processing on Streaming and External Memory
+  Data",,,,
+cs/0505013,Theories for TC0 and Other Small Complexity Classes,,,,
+cs/0505030,Computing the Rank and a Small Nullspace Basis of a Polynomial Matrix,,,,
+cs/0505035,Beyond Hypertree Width: Decomposition Methods Without Decompositions,,,,
+cs/0505073,Reasoning about transfinite sequences,,,,
+cs/0505079,"Application of Kolmogorov complexity and universal codes to identity
+  testing and nonparametric testing of serial independence for time series",,,,
+cs/0505082,"Fast generators for the Diffie-Hellman key agreement protocol and
+  malicious standards",,,,
+cs/0506055,The Complexity of Kings,,,,
+cs/0506069,A generating function method for the average-case analysis of DPLL,,,,
+cs/0506079,Quantitative Models and Implicit Complexity,,,,
+cs/0506080,The Geometry of Linear Higher-Order Recursion,,,,
+cs/0506082,Open Questions in the Theory of Semifeasible Computation,,,,
+cs/0506090,An Exact 2.9416^n Algorithm for the Three Domatic Number Problem,,,,
+cs/0506096,Polynomial Synthesis of Asynchronous Automata,,,,
+cs/0507020,"First-order queries on structures of bounded degree are computable with
+  constant delay",,,,
+cs/0507059,"Data complexity of answering conjunctive queries over SHIQ knowledge
+  bases",,,,
+cs/0507063,Theoretical cryptanalysis of the Klimov-Shamir number generator TF-1,,,,
+cs/0508113,"Asymptotically fast polynomial matrix algorithms for multivariable
+  systems",,,,
+cs/0508133,"Decompositions of graphs of functions and efficient iterations of lookup
+  tables",,,,
+cs/0509016,NP-hardness of the cluster minimization problem revisited,,,,
+cs/0509060,Cluster Computing and the Power of Edge Recognition,,,,
+cs/0509100,Distance-2 Edge Coloring is NP-Complete,,,,
+cs/0510018,"Candidate One-Way Functions and One-Way Permutations Based on Quasigroup
+  String Transformations",,,,
+cs/0510092,"Context Semantics, Linear Logic and Computational Complexity",,,,
+cs/0511030,The Linear Arrangement Problem Parameterized Above Guaranteed Value,,,,
+cs/0511044,Various Solutions to the Firing Squad Synchronization Problems,,,,
+cs/0511045,An Invariant Cost Model for the Lambda Calculus,,,,
+cs/0512008,"Cohomology in Grothendieck Topologies and Lower Bounds in Boolean
+  Complexity",,,,
+cs/0512035,Semidefinite programming and arithmetic circuit evaluation,,,,
+cs/0512049,Mastermind is NP-Complete,,,,
+cs/0512053,"Online Learning and Resource-Bounded Dimension: Winnow Yields New Lower
+  Bounds for Hard Sets",,,,
+cs/0512056,"PURRS: Towards Computer Algebra Support for Fully Automatic Worst-Case
+  Complexity Analysis",,,,
+cs/0601002,Minimum-weight triangulation is NP-hard,,,,
+cs/0601081,"An O(1) Solution to the Prefix Sum Problem on a Specialized Memory
+  Architecture",,,,
+cs/0601086,Comments on Beckmann's Uniform Reducts,,,,
+cs/0601112,"Complexity of the Guarded Two-Variable Fragment with Counting
+  Quantifiers",,,,
+cs/0602001,Query-Monotonic Turing Reductions,,,,
+cs/0602004,Conjunctive Queries over Trees,,,,
+cs/0602010,"Reducing Tile Complexity for Self-Assembly Through Temperature
+  Programming",,,,
+cs/0602032,Finite-State Dimension and Real Arithmetic,,,,
+cs/0603017,A Measure of Space for Computing over the Reals,,,,
+cs/0603026,The Snowblower Problem,,,,
+cs/0603060,An Improved Exact Algorithm for the Domatic Number Problem,,,,
+cs/0603077,"Packrat Parsing: Simple, Powerful, Lazy, Linear Time",,,,
+cs/0604002,"Complexity of Consistent Query Answering in Databases under
+  Cardinality-Based and Incremental Repair Semantics",,,,
+cs/0604007,"On the Complexity of Limit Sets of Cellular Automata Associated with
+  Probability Measures",,,,
+cs/0604051,Structural Alignments of pseudo-knotted RNA-molecules in polynomial time,,,,
+cs/0604058,Solving Classical String Problems on Compressed Texts,,,,
+cs/0605003,A New Cryptosystem Based On Hidden Order Groups,,,,
+cs/0605048,"On Learning Thresholds of Parities and Unions of Rectangles in Random
+  Walk Models",,,,
+cs/0605050,A Polynomial Time Nilpotence Test for Galois Groups and Related Results,,,,
+cs/0605064,Modal Logics of Topological Relations,,,,
+cs/0605065,On the possible Computational Power of the Human Mind,,,,
+cs/0605094,Proof Search in Hajek's Basic Logic,,,,
+cs/0606009,The Consequences of Eliminating NP Solutions,,,,
+cs/0606012,"On the communication between cells of a cellular automaton on the penta-
+  and heptagrids of the hyperbolic plane",,,,
+cs/0606033,"Natural Halting Probabilities, Partial Randomness, and Zeta Functions",,,,
+cs/0606038,Tight Bounds on the Complexity of Recognizing Odd-Ranked Elements,,,,
+cs/0606040,Approximation Algorithms for Multi-Criteria Traveling Salesman Problems,,,,
+cs/0606050,"Syntactic Characterisations of Polynomial-Time Optimisation Classes
+  (Syntactic Characterizations of Polynomial-Time Optimization Classes)",,,,
+cs/0606056,Fast and Simple Methods For Computing Control Points,,,,
+cs/0606057,Approximability of Bounded Occurrence Max Ones,,,,
+cs/0606058,"Lower bounds and complete problems in nondeterministic linear time and
+  sublinear space complexity classes",,,,
+cs/0606064,Improved Exponential Time Lower Bound of Knapsack Problem under BT model,,,,
+cs/0606070,Is there an Elegant Universal Theory of Prediction?,,,,
+cs/0606080,On the structure of linear-time reducibility,,,,
+cs/0606120,On symmetric sandpiles,,,,
+cs/0607033,Planar Graphs: Logical Complexity and Parallel Isomorphism Tests,,,,
+cs/0607037,"The Minimal Cost Algorithm for Off-Line Diagnosability of Discrete Event
+  Systems",,,,
+cs/0607054,Elementary Proof of a Theorem of Jean Ville,,,,
+cs/0607093,An Elegant Argument that P is not NP,,,,
+cs/0607109,Complexity and Applications of Edge-Induced Vertex-Cuts,,,,
+cs/0607118,A new function algebra of EXPTIME functions by safe nested recursion,,,,
+cs/0608013,"Pull-Based Data Broadcast with Dependencies: Be Fair to Users, not to
+  Items",,,,
+cs/0608020,Quasi-friendly sup-interpretations,,,,
+cs/0608030,"On Quasi-Interpretations, Blind Abstractions and Implicit Complexity",,,,
+cs/0608036,Reversal Complexity Revisited,,,,
+cs/0608054,Dispersion of Mass and the Complexity of Randomized Geometric Algorithms,,,,
+cs/0608067,On Polynomial Time Computable Numbers,,,,
+cs/0608074,From Invariants to Canonization in Parallel,,,,
+cs/0608081,How Hard Is Bribery in Elections?,,,,
+cs/0608084,The computational power of population protocols,,,,
+cs/0608085,"A Quadratic Time-Space Tradeoff for Unrestricted Deterministic Decision
+  Branching Programs",,,,
+cs/0608094,On Universality in Real Computation,,,,
+cs/0608095,Stationary Algorithmic Probability,,,,
+cs/0608097,A study of fuzzy and many-valued logics in cellular automata,,,,
+cs/0608101,Minimum Cost Homomorphisms to Semicomplete Bipartite Digraphs,,,,
+cs/0608106,Lp Computable Functions and Fourier Series,,,,
+cs/0609008,On the freeze quantifier in Constraint LTL: decidability and complexity,,,,
+cs/0609012,Baire Categories on Small Complexity Classes and Meager-Comeager Laws,,,,
+cs/0609015,Residual Finite Tree Automata,,,,
+cs/0609020,Fast algorithms for computing isogenies between elliptic curves,,,,
+cs/0609022,Dichotomies and Duality in First-order Model Checking Problems,,,,
+cs/0609031,Approximation Algorithms for the Bipartite Multi-cut Problem,,,,
+cs/0609072,"The Connectivity of Boolean Satisfiability: Computational and Structural
+  Dichotomies",,,,
+cs/0609082,Classifying extrema using intervals,,,,
+cs/0609101,"Can rare SAT formulas be easily recognized? On the efficiency of message
+  passing algorithms for K-SAT at large clause-to-variable ratios",,,,
+cs/0609103,Minimum-weight Cycle Covers and Their Approximability,,,,
+cs/0609108,Generalized Majority-Minority Operations are Tractable,,,,
+cs/0609128,Max-Cut and Max-Bisection are NP-hard on unit disk graphs,,,,
+cs/0609130,A Predicative Harmonization of the Time and Provable Hierarchies,,,,
+cs/0610009,VPSPACE and a Transfer Theorem over the Reals,,,,
+cs/0610022,Iterative Decoding of Low-Density Parity Check Codes (A Survey),,,,
+cs/0610027,LTL with the Freeze Quantifier and Register Automata,,,,
+cs/0610042,A Polynomial Time Algorithm for The Traveling Salesman Problem,,,,
+cs/0610049,"Restricted Complexity, General Complexity",,,,
+cs/0610095,Solving planning domains with polytree causal graphs is NP-complete,,,,
+cs/0610101,Entropy generation in a model of reversible computation,,,,
+cs/0610113,"CHAC. A MOACO Algorithm for Computation of Bi-Criteria Military Unit
+  Path in the Battlefield",,,,
+cs/0610174,A Fixed-Parameter Algorithm for #SAT with Parameter Incidence Treewidth,,,,
+cs/0611091,"Lossy Bulk Synchronous Parallel Processing Model for Very Large Scale
+  Grids",,,,
+cs/0611108,"On the Complexity of Processing Massive, Unordered, Distributed Data",,,,
+cs/0701004,An algebraic approach to complexity of data stream computations,,,,
+cs/0701008,On the Computational Complexity of Defining Sets,,,,
+cs/0701023,A Polynomial Time Algorithm for 3-SAT,,,,
+cs/0701032,Polygraphic programs and polynomial-time functions,,,,
+cs/0701033,A Counterexample to a Proposed Proof of P=NP by S. Gubin,,,,
+cs/0701039,"On the Complexity of the Numerically Definite Syllogistic and Related
+  Fragments",,,,
+cs/0701049,On the Complexity of a Derivative Chess Problem,,,,
+cs/0701054,"Nearly-Exponential Size Lower Bounds for Symbolic Quantifier Elimination
+  Algorithms and OBDD-Based Proofs of Unsatisfiability",,,,
+cs/0701089,Constructive Dimension and Turing Degrees,,,,
+cs/0701128,Interference Automata,,,,
+cs/0702047,Hierarchical Unambiguity,,,,
+cs/0702053,The DFAs of Finitely Different Languages,,,,
+cs/0702073,Tradeoff between decoding complexity and rate for codes on graphs,,,,
+cs/0702078,A Local Algorithm for Finding Dense Subgraphs,,,,
+cs/0702120,"On the decidability and complexity of Metric Temporal Logic over finite
+  words",,,,
+cs/0702123,Tree automata and separable sets of input variables,,,,
+cs/0702129,Tree Automata and Essential Input Variables,,,,
+cs/0702136,Essential Inputs and Minimal Tree Automata,,,,
+cs/0702137,Tree Automata and Essential Subtrees,,,,
+cs/0702153,Games on the Sperner Triangle,,,,
+cs/0702160,A Quantifier-Free String Theory for ALOGTIME Reasoning,,,,
+cs/0703007,Intensional properties of polygraphs,,,,
+cs/0703011,Can we Compute the Similarity Between Surfaces?,,,,
+cs/0703024,Algorithmic Information Theory: a brief non-technical guide to the field,,,,
+cs/0703029,"FPRAS for computing a lower bound for weighted matching polynomial of
+  graphs",,,,
+cs/0703081,Randomized Computations on Large Data Sets: Tight Lower Bounds,,,,
+cs/0703085,Dimension and Relative Frequencies,,,,
+cs/0703098,Polynomial time algorithm for 3-SAT. Examples of use,,,,
+cs/0703100,Approximation Algorithms for Multiprocessor Scheduling under Uncertainty,,,,
+cs/0703101,A Note on Approximate Nearest Neighbor Methods,,,,
+cs/0703105,New List Decoding Algorithms for Reed-Solomon and BCH Codes,,,,
+cs/0703146,A Polynomial Time Algorithm for SAT,,,,
+cs/9301111,Nested satisfiability,,,,
+cs/9301113,Textbook examples of recursion,,,,
+cs/9808001,Chess Pure Strategies are Probably Chaotic,,,,
+cs/9808003,"Creating Strong Total Commutative Associative Complexity-Theoretic
+  One-Way Functions from Any Complexity-Theoretic One-Way Function",,,,
+cs/9809001,Immunity and Simplicity for Exact Counting and Other Counting Classes,,,,
+cs/9809002,Tally NP Sets and Easy Census Functions,,,,
+cs/9809017,The Complexity of Planar Counting Problems,,,,
+cs/9809060,New Applications of the Incompressibility Method: Part II,,,,
+cs/9809061,New Applications of the Incompressibility Method: Part I,,,,
+cs/9809064,"Approximation Algorithms for PSPACE-Hard Hierarchically and Periodically
+  Specified Problems",,,,
+cs/9809103,Bicriteria Network Design Problems,,,,
+cs/9809114,The descriptive complexity approach to LOGCFL,,,,
+cs/9809115,A Generalized Quantifier Concept in Computational Complexity Theory,,,,
+cs/9809116,"The Complexity of Computing Optimal Assignments of Generalized
+  Propositional Formulae",,,,
+cs/9809117,Hard instance generation for SAT,,,,
+cs/9809118,The Boolean Hierarchy over Level 1/2 of the Straubing-Therien Hierarchy,,,,
+cs/9811005,Writing and Editing Complexity Theory: Tales and Tools,,,,
+cs/9812013,The Self-Organizing Symbiotic Agent,,,,
+cs/9901010,Average-Case Complexity of Shellsort,,,,
+cs/9902005,Mutual Search,,,,
+cs/9902006,A Discipline of Evolutionary Programming,,,,
+cs/9902026,Probabilistic Inductive Inference:a Survey,,,,
+cs/9903009,"Space-Efficient Routing Tables for Almost All Networks and the
+  Incompressibility Method",,,,
+cs/9903012,"Formalization of the class of problems solvable by a nondeterministic
+  Turing machine",,,,
+cs/9903020,Tiling with bars under tomographic constraints,,,,
+cs/9904016,Brittle System Analysis,,,,
+cs/9905016,"Programs with Stringent Performance Objectives Will Often Exhibit
+  Chaotic Behavior",,,,
+cs/9906007,MSO definable string transductions and two-way finite state transducers,,,,
+cs/9906008,A Lower Bound on the Average-Case Complexity of Shellsort,,,,
+cs/9906018,"Reconstructing Polyatomic Structures from Discrete X-Rays:
+  NP-Completeness Proof for Three Atoms",,,,
+cs/9906028,On the Power of Positive Turing Reductions,,,,
+cs/9906033,Robust Reductions,,,,
+cs/9907033,"Unambiguous Computation: Boolean Hierarchies and Sparse Turing-Complete
+  Sets",,,,
+cs/9907034,Polynomial-Time Multi-Selectivity,,,,
+cs/9907035,Easy Sets and Hard Certificate Schemes,,,,
+cs/9907036,"Exact Analysis of Dodgson Elections: Lewis Carroll's 1876 Voting System
+  is Complete for Parallel Access to NP",,,,
+cs/9907037,"Boolean Operations, Joins, and the Extended Low Hierarchy",,,,
+cs/9907038,A Second Step Towards Complexity-Theoretic Analogs of Rice's Theorem,,,,
+cs/9907039,Raising NP Lower Bounds to Parallel NP Lower Bounds,,,,
+cs/9907041,Restrictive Acceptance Suffices for Equivalence Problems,,,,
+cs/9909020,Query Order,,,,
+cs/9910002,"What's Up with Downward Collapse: Using the Easy-Hard Technique to Link
+  Boolean and Polynomial Hierarchy Collapses",,,,
+cs/9910003,R_{1-tt}^{SN}(NP) Distinguishes Robust Many-One and Turing Completeness,,,,
+cs/9910004,An Introduction to Query Order,,,,
+cs/9910005,Query Order and the Polynomial Hierarchy,,,,
+cs/9910006,Self-Specifying Machines,,,,
+cs/9910007,A Downward Collapse within the Polynomial Hierarchy,,,,
+cs/9910012,The Complexity of Temporal Logic over the Reals,,,,
+cs/9911004,Graph Ramsey games,,,,
+cs/9911014,The Complexity of Poor Man's Logic,,,,
+cs/9912002,A Geometric Model for Information Retrieval Systems,,,,
+math-ph/0407056,Internal Turing Machines,,,,
+math-ph/0605049,"Some elementary rigorous remark about the replica formalism in the
+  Statistical Physics' approach to threshold phenomena in Computational
+  Complexity Theory",,,,
+math/0112257,The computational complexity of the local postage stamp problem,,,,
+math/0204068,Computational problems for vector-valued quadratic forms,,,,
+math/0205049,"The asymptotic complexity of partial sorting -- How to learn large
+  posets by pairwise comparisons",,,,
+math/0410282,"Balanced Boolean functions that can be evaluated so that every input bit
+  is unlikely to be read",,,,
+math/0411378,"Do All Elliptic Curves of the Same Order Have the Same Difficulty of
+  Discrete Log?",,,,
+math/0504378,"A Short Proof that Phylogenetic Tree Reconstruction by Maximum
+  Likelihood is Hard",,,,
+math/0505617,On computational complexity of Riemann mapping,,,,
+math/0507041,The conjugacy problem and related problems in lattice-ordered groups,,,,
+math/0508350,Toward accurate polynomial evaluation in rounded arithmetic,,,,
+math/0510520,Counting Solutions to Binomial Complete Intersections,,,,
+math/0603207,Fast matrix multiplication is stable,,,,
+math/0607071,NP-completeness of 4-incidence colorability of semi-cubic graphs,,,,
+math/0612264,Fast linear algebra is stable,,,,
+math/0701102,"Almost Euclidean sections of the N-dimensional cross-polytope using O(N)
+  random bits",,,,
+math/0702334,An Example of Pi^0_3-complete Infinitary Rational Relation,,,,
+math/0703241,Sofic Trace of a Cellular Automaton,,,,
+math/9409219,"Proving probabilistic correctness statements: the case of Rabin's
+  algorithm for mutual exclusion",,,,
+math/9409220,Number of faults a system can withstand without repairs,,,,
+math/9409221,Proving time bounds for randomized distributed algorithms,,,,
+math/9409223,On the minimum latency problem,,,,
+math/9409224,An on-line algorithm for improving performance in navigation,,,,
+math/9409225,"The complexity of approximating PSPACE-Complete problems for
+  hierarchical specifications",,,,
+math/9409226,Geometry based heuristics for unit disk graphs,,,,
+math/9410208,Three-dimensional alpha shapes,,,,
+math/9410209,"Simulation of simplicity: a technique to cope with degenerate cases in
+  geometric algorithms",,,,
+math/9411219,Lower bounds for identifying subset members with subset queries,,,,
+math/9411222,The complexity of broadcasting in bounded-degree networks,,,,
+math/9504213,"Path optimization and near-greedy analysis for graph partitioning: an
+  empirical study",,,,
+math/9508218,An analysis of Bennett's pebble game,,,,
+nlin/0102026,Parity Problem With A Cellular Automaton Solution,,,,
+nlin/0207032,Modulo Three Problem With A Cellular Automaton Solution,,,,
+physics/0005058,"On the computational capabilities of physical systems part I: the
+  impossibility of infallible computation",,,,
+physics/0005059,"On the computational capabilities of physical systems part II:
+  relationship with conventional computer science",,,,
+physics/0005074,Evolution of Biological Complexity,,,,
+q-bio/0403022,Intelligent encoding and economical communication in the visual stream,,,,
+quant-ph/0104053,Quantum Formulas: a Lower Bound and Simulation,,,,
+quant-ph/0207158,Non-Interactive Quantum Statistical and Perfect Zero-Knowledge,,,,
+quant-ph/0507270,"Quantum Minimal One Way Information: Relative Hardness and Quantum
+  Advantage of Combinatorial Tasks",,,,
+quant-ph/0511025,Quantum Weakly Nondeterministic Communication Complexity,,,,
+quant-ph/0606066,Exponential Separation of Quantum and Classical Online Space Complexity,,,,
+quant-ph/0607173,"The one-way communication complexity of the Boolean Hidden Matching
+  Problem",,,,
+quant-ph/0703141,"Semidefinite programming characterization and spectral adversary method
+  for quantum complexity with noncommuting unitary queries",,,,
+quant-ph/0703215,Classical Interaction Cannot Replace a Quantum Message,,,,
+quant-ph/9703022,"Reversibility and Adiabatic Computation: Trading Time and Space for
+  Energy",,,,
+quant-ph/9905026,Quantum finite multitape automata,,,,
+quant-ph/9906084,A Foundation of Programming a Multi-Tape Quantum Turing machine,,,,

@@ -1,0 +1,367 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+physics/0007070,"Predictability, complexity and learning",1.226015183387453e-05,0.0,20.0,10.0
+cs/0609045,Metric entropy in competitive on-line prediction,1.141554075563908e-05,0.0,7.0,0.0
+cs/0302012,The New AI: General & Sound & Relevant for Physics,9.529117872953568e-06,2.985274132740108e-06,6.0,3.0
+cs/9908014,An Introduction to Collective Intelligence,9.09495133914865e-06,5.7715299899642086e-05,12.0,5.0
+physics/0009032,Information theory and learning: a physical approach,8.669252579238984e-06,0.0,18.0,2.0
+cs/0607134,Leading strategies in competitive on-line prediction,5.418497295467596e-06,0.0,7.0,1.0
+cs/0207097,Optimal Ordered Problem Solver,4.861985539809649e-06,0.0,4.0,1.0
+cs/0506041,Competitive on-line learning with a convex loss function,4.219293954522469e-06,0.0,3.0,6.0
+cs/0511011,The Impact of Social Networks on Multi-Agent Recommender Systems,3.929929438147267e-06,0.0,1.0,0.0
+quant-ph/0011122,Algorithmic Theories of Everything,3.906074167692073e-06,2.4745801305132824e-05,5.0,15.0
+cs/0210025,An Algorithm for Pattern Discovery in Time Series,3.74491211126436e-06,0.0,4.0,4.0
+quant-ph/0411140,Improved Bounds on Quantum Learning Algorithms,3.69921463482929e-06,0.0,2.0,2.0
+cs/0412098,The Google Similarity Distance,3.4990187908037217e-06,0.0,1.0,3.0
+cs/0511058,On-line regression competitive with reproducing kernel Hilbert spaces,3.437204147250898e-06,0.0,4.0,3.0
+cs/0512059,Competing with wild prediction rules,2.9338698722567488e-06,0.0,2.0,3.0
+cs/0306036,Sequence Prediction based on Monotone Complexity,2.7504423588240776e-06,0.0,2.0,0.0
+physics/0610051,Structural Inference of Hierarchies in Networks,2.7477566474032742e-06,1.1855363910363431e-06,1.0,1.0
+cond-mat/0009165,"Occam factors and model-independent Bayesian learning of continuous
+  distributions",2.63325480671671e-06,0.0,1.0,4.0
+cs/0506004,Non-asymptotic calibration and resolution,2.5903403026107627e-06,0.0,3.0,6.0
+cs/0506007,Defensive forecasting for linear protocols,2.522467233781108e-06,0.0,3.0,1.0
+cs/0606093,Predictions as statements and decisions,2.522467233781108e-06,0.0,3.0,5.0
+cs/0606077,On Sequence Prediction for Arbitrary Measures,2.4711431321721443e-06,0.0,1.0,1.0
+math/0105235,Mathematics of learning,2.4711431321721443e-06,0.0,1.0,0.0
+cs/9906005,Memory-Based Shallow Parsing,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0502004,Asymptotic Log-loss of Prequential Maximum Likelihood Codes,2.4711431321721443e-06,0.0,1.0,0.0
+q-bio/0401033,Parametric Inference for Biological Sequence Analysis,2.4711431321721443e-06,0.0,1.0,1.0
+cs/0211007,Approximating Incomplete Kernel Matrices by the em Algorithm,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0602183,Nonlinear parametric model for Granger causality of time series,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0308025,"Controlled hierarchical filtering: Model of neocortical sensory
+  processing",2.4711431321721443e-06,0.0,1.0,1.0
+cs/9905005,General Principles of Learning-Based Multi-Agent Systems,2.418492420972594e-06,0.0,2.0,1.0
+cs/0406011,"Blind Construction of Optimal Nonlinear Recursive Predictors for
+  Discrete Sequences",2.3524240798252057e-06,0.0,2.0,2.0
+cs/0009001,Complexity analysis for algorithmically simple strings,2.332930898007217e-06,0.0,1.0,1.0
+cs/0607136,Competing with Markov prediction strategies,2.3019616852077628e-06,0.0,2.0,1.0
+cs/9908013,Collective Intelligence for Control of Distributed Dynamical Systems,2.111630434508683e-06,0.0,4.0,0.0
+cs/0312018,Mapping Subsets of Scholarly Information,1.912778586725516e-06,0.0,1.0,0.0
+cs/0309015,"Reliable and Efficient Inference of Bayesian Networks from Sparse Data
+  by Statistical Learning Theory",1.8950380516170012e-06,0.0,1.0,0.0
+cs/0004001,"A Theory of Universal Artificial Intelligence based on Algorithmic
+  Complexity",1.8950380516170012e-06,0.0,1.0,8.0
+cond-mat/0511159,Learning by message-passing in networks of discrete synapses,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0502076,Learning nonsingular phylogenies and hidden Markov models,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0106036,"Convergence and Error Bounds for Universal Prediction of Nonbinary
+  Sequences",1.7987436883202868e-06,0.0,2.0,0.0
+cs/0607067,Competing with stationary prediction strategies,1.7816328086349507e-06,0.0,1.0,3.0
+cs/0612117,"Statistical Mechanics of On-line Learning when a Moving Teacher Goes
+  around an Unlearnable True Teacher",1.60698551133943e-06,0.0,1.0,0.0
+cs/0612030,Loop corrections for approximate inference,1.60698551133943e-06,0.0,1.0,2.0
+cs/0508043,Sequential Predictions based on Algorithmic Complexity,1.598232197713792e-06,0.0,1.0,0.0
+cs/0503026,On Generalized Computable Universal Priors and their Convergence,1.598232197713792e-06,0.0,1.0,0.0
+cs/0701120,Algorithmic Complexity Bounds on Future Prediction Errors,1.598232197713792e-06,0.0,1.0,0.0
+cs/0507041,Monotone Conditional Complexity Bounds on Future Prediction Errors,1.598232197713792e-06,0.0,1.0,0.0
+cs/0101019,General Loss Bounds for Universal Sequence Prediction,1.5194444616683535e-06,0.0,1.0,0.0
+cs/0204040,"Self-Optimizing and Pareto-Optimal Policies in General Environments
+  based on Bayes-Mixtures",1.5194444616683535e-06,0.0,1.0,0.0
+cs/0012011,"Towards a Universal Theory of Artificial Intelligence based on
+  Algorithmic Probability and Sequential Decision Theory",1.5194444616683535e-06,0.0,1.0,1.0
+cs/0102018,An effective Procedure for Speeding up Algorithms,1.5194444616683535e-06,0.0,1.0,2.0
+cs/0701125,Universal Algorithmic Intelligence: A mathematical top->down approach,1.5194444616683535e-06,0.0,1.0,0.0
+cs/0001027,Pattern Discovery and Computational Mechanics,1.43889051050059e-06,0.0,1.0,1.0
+nlin/0006025,"Information Bottlenecks, Causal States, and Statistical Relevance Bases:
+  How to Represent Relevant Information in Memoryless Transduction",1.4341539871728873e-06,0.0,1.0,3.0
+cs/0302015,"Unsupervised Learning in a Framework of Information Compression by
+  Multiple Alignment, Unification and Search",1.3189329710618589e-06,0.0,0.0,4.0
+physics/0004057,The information bottleneck method,1.3189329710618589e-06,0.0,0.0,10.0
+cs/0303025,Algorithmic Clustering of Music,1.3189329710618589e-06,0.0,0.0,6.0
+cs/0505083,Defensive forecasting,1.3189329710618589e-06,0.0,0.0,6.0
+cs/9901014,"Minimum Description Length Induction, Bayesianism, and Kolmogorov
+  Complexity",1.3189329710618589e-06,0.0,0.0,4.0
+cs/9912008,New Error Bounds for Solomonoff Prediction,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0603110,"Asymptotic Learnability of Reinforcement Problems with Arbitrary
+  Dependence",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0501028,"An Empirical Study of MDL Model Selection with Infinite Parametric
+  Complexity",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0105025,Market-Based Reinforcement Learning in Partially Observable Worlds,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0202383,Extended Comment on Language Trees and Zipping,1.3189329710618589e-06,0.0,0.0,2.0
+cs/9906004,Cascaded Grammatical Relation Assignment,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0301014,Convergence and Loss Bounds for Bayesian Sequence Prediction,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0103015,Fitness Uniform Selection to Preserve Genetic Diversity,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0107033,Yet another zeta function and learning,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0010022,"Noise-Tolerant Learning, the Parity Problem, and the Statistical Query
+  Model",1.3189329710618589e-06,0.0,0.0,1.0
+cs/9905004,Using Collective Intelligence to Route Internet Traffic,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0204052,"Required sample size for learning sparse Bayesian networks with many
+  variables",1.3189329710618589e-06,0.0,0.0,2.0
+cs/0502017,Estimating mutual information and multi--information in large networks,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0201005,Sharpening Occam's Razor,1.3189329710618589e-06,0.0,0.0,1.0
+math/0406077,A tutorial introduction to the minimum description length principle,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0009027,A Classification Approach to Word Prediction,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0603090,Topological Grammars for Data Approximation,1.3189329710618589e-06,0.0,0.0,1.0
+q-bio/0402029,Fluctuation-dissipation theorem and models of learning,1.3189329710618589e-06,0.0,0.0,1.0
+math/0006233,Algorithmic Statistics,1.3189329710618589e-06,0.0,0.0,2.0
+astro-ph/0605042,How accurate are the time delay estimates in gravitational lensing?,,,,
+cmp-lg/9712002,Machine Learning of User Profiles: Representational Issues,,,,
+cond-mat/9703183,Finite size scaling of the bayesian perceptron,,,,
+cs/0001004,"Multiplicative Algorithm for Orthgonal Groups and Independent Component
+  Analysis",,,,
+cs/0001008,"Predicting the expected behavior of agents that learn about agents: the
+  CLRI framework",,,,
+cs/0002006,Multiplicative Nonholonomic/Newton -like Algorithm,,,,
+cs/0003072,"MOO: A Methodology for Online Optimization through Mining the Offline
+  Optimum",,,,
+cs/0005021,Modeling the Uncertainty in Complex Engineering Systems,,,,
+cs/0005027,A Bayesian Reflection on Surfaces,,,,
+cs/0007026,Integrating E-Commerce and Data Mining: Architecture and Challenges,,,,
+cs/0008009,Data Mining to Measure and Improve the Success of Web Sites,,,,
+cs/0008022,A Learning Approach to Shallow Parsing,,,,
+cs/0009007,Robust Classification for Imprecise Environments,,,,
+cs/0010006,Applications of Data Mining to Electronic Commerce,,,,
+cs/0011032,Top-down induction of clustering trees,,,,
+cs/0011033,Web Mining Research: A Survey,,,,
+cs/0011038,"Provably Fast and Accurate Recovery of Evolutionary Trees through
+  Harmonic Greedy Triplets",,,,
+cs/0011044,Scaling Up Inductive Logic Programming by Learning from Interpretations,,,,
+cs/0103003,Learning Policies with External Memory,,,,
+cs/0104005,Bootstrapping Structure using Similarity,,,,
+cs/0104006,ABL: Alignment-Based Learning,,,,
+cs/0104007,Bootstrapping Syntax and Recursion using Alignment-Based Learning,,,,
+cs/0105027,Bounds on sample size for policy evaluation in Markov environments,,,,
+cs/0105032,Learning to Cooperate via Policy Search,,,,
+cs/0106044,A Sequential Model for Multi-Class Classification,,,,
+cs/0108018,Bipartite graph partitioning and data clustering,,,,
+cs/0110036,Efficient algorithms for decision tree cross-validation,,,,
+cs/0110053,Machine Learning in Automated Text Categorization,,,,
+cs/0111003,The Use of Classifiers in Sequential Inference,,,,
+cs/0201009,The performance of the batch learner algorithm,,,,
+cs/0201014,The Dynamics of AdaBoost Weights Tells You What's Hard to Classify,,,,
+cs/0201021,Learning to Play Games in Extensive Form by Valuation,,,,
+cs/0203012,Interface agents: A review of the field,,,,
+cs/0204043,Learning from Scarce Experience,,,,
+cs/0205025,Bootstrapping Structure into Language: Alignment-Based Learning,,,,
+cs/0205070,Thumbs up? Sentiment Classification using Machine Learning Techniques,,,,
+cs/0205072,Unsupervised Learning of Morphology without Morphemes,,,,
+cs/0206006,Robust Feature Selection by Mutual Information Distributions,,,,
+cs/0206017,The Prioritized Inductive Logic Programs,,,,
+cs/0211006,Maximing the Margin in the Input Space,,,,
+cs/0212008,"Principal Manifolds and Nonlinear Dimension Reduction via Local Tangent
+  Space Alignment",,,,
+cs/0301007,Kalman filter control in the reinforcement learning framework,,,,
+cs/0305052,On the Existence and Convergence Computable Universal Priors,,,,
+cs/0306091,Universal Sequential Decisions in Unknown Environments,,,,
+cs/0306120,"Reinforcement Learning with Linear Function Approximation and LQ control
+  Converges",,,,
+cs/0306126,"Bayesian Treatment of Incomplete Discrete Data applied to Mutual
+  Information and Feature Selection",,,,
+cs/0307002,"AWESOME: A General Multiagent Learning Algorithm that Converges in
+  Self-Play and Learns a Best Response Against Stationary Opponents",,,,
+cs/0307006,BL-WoLF: A Framework For Loss-Bounded Learnability In Zero-Sum Games,,,,
+cs/0307038,Manifold Learning with Geodesic Minimal Spanning Trees,,,,
+cs/0309016,"Using Simulated Annealing to Calculate the Trembles of Trembling Hand
+  Perfection",,,,
+cs/0309035,"Combining Independent Modules to Solve Multiple-choice Synonym and
+  Analogy Problems",,,,
+cs/0311014,"Optimality of Universal Bayesian Sequence Prediction for General Loss
+  and Alphabet",,,,
+cs/0311042,Toward Attribute Efficient Learning Algorithms,,,,
+cs/0312004,"Improving spam filtering by combining Naive Bayes with simple k-nearest
+  neighbor searches",,,,
+cs/0312060,Part-of-Speech Tagging with Minimal Lexicalization,,,,
+cs/0402021,A Numerical Example on the Principles of Stochastic Discrimination,,,,
+cs/0402032,Fitness inheritance in the Bayesian optimization algorithm,,,,
+cs/0403025,Distribution of Mutual Information from Complete and Incomplete Data,,,,
+cs/0403031,"Concept of E-machine: How does a ""dynamical"" brain learn to process
+  ""symbolic"" information? Part I",,,,
+cs/0403038,Tournament versus Fitness Uniform Selection,,,,
+cs/0404032,"When Do Differences Matter? On-Line Feature Extraction Through Cognitive
+  Economy",,,,
+cs/0404057,Convergence of Discrete MDL for Sequential Prediction,,,,
+cs/0405043,"Prediction with Expert Advice by Following the Perturbed Leader for
+  General Weights",,,,
+cs/0407016,Learning for Adaptive Real-time Search,,,,
+cs/0407039,On the Convergence Speed of MDL Predictions for Bernoulli Sequences,,,,
+cs/0407057,Universal Convergence of Semimeasures on Individual Random Sequences,,,,
+cs/0407065,"Word Sense Disambiguation by Web Mining for Word Co-occurrence
+  Probabilities",,,,
+cs/0408007,"Online convex optimization in the bandit setting: gradient descent
+  without a gradient",,,,
+cs/0408048,Journal of New Democratic Methods: An Introduction,,,,
+cs/0408058,Non-negative matrix factorization with sparseness constraints,,,,
+cs/0410004,Applying Policy Iteration for Training Recurrent Neural Networks,,,,
+cs/0410015,"L1 regularization is better than L2 for learning and predicting chaotic
+  systems",,,,
+cs/0410017,"Automated Pattern Detection--An Algorithm for Constructing Optimally
+  Synchronizing Multi-Regular Language Filters",,,,
+cs/0410036,Self-Organised Factorial Encoding of a Toroidal Manifold,,,,
+cs/0410042,Neural Architectures for Robot Intelligence,,,,
+cs/0411099,A Note on the PAC Bayesian Theorem,,,,
+cs/0412003,"Mining Heterogeneous Multivariate Time-Series for Learning Meaningful
+  Patterns: Application to Home Health Telecare",,,,
+cs/0412106,"Online Learning of Aggregate Knowledge about Non-linear Preferences
+  Applied to Negotiating Prices and Bundles",,,,
+cs/0501018,Combining Independent Modules in Lexical Multiple-Choice Problems,,,,
+cs/0501063,Bandit Problems with Side Observations,,,,
+cs/0502016,Stability Analysis for Regularized Least Squares Regression,,,,
+cs/0502067,"Master Algorithms for Active Experts Problems based on Increasing Loss
+  Values",,,,
+cs/0502074,On sample complexity for computational pattern recognition,,,,
+cs/0502086,The Self-Organization of Speech Sounds,,,,
+cs/0503071,"Consistency in Models for Distributed Learning under Communication
+  Constraints",,,,
+cs/0503072,Distributed Learning in Wireless Sensor Networks,,,,
+cs/0504001,Probabilistic and Team PFIN-type Learning: General Properties,,,,
+cs/0504063,Selection in Scale-Free Small World,,,,
+cs/0504078,Adaptive Online Prediction by Following the Perturbed Leader,,,,
+cs/0504086,Componentwise Least Squares Support Vector Machines,,,,
+cs/0505028,A linear memory algorithm for Baum-Welch training,,,,
+cs/0505064,"Multi-Modal Human-Machine Communication for Instructing Robot Grasping
+  Tasks",,,,
+cs/0506022,Asymptotics of Discrete MDL for Online Prediction,,,,
+cs/0506075,"Seeing stars: Exploiting class relationships for sentiment
+  categorization with respect to rating scales",,,,
+cs/0506085,On the Job Training,,,,
+cs/0506095,"Deriving a Stationary Dynamic Bayesian Network from a Logic Program with
+  Recursive Loops",,,,
+cs/0506101,Efficient Multiclass Implementations of L1-Regularized Maximum Entropy,,,,
+cs/0507033,Multiresolution Kernels,,,,
+cs/0507039,"Distributed Regression in Sensor Networks: Training Distributively with
+  Alternating Projections",,,,
+cs/0507040,Pattern Recognition for Conditionally Independent Data,,,,
+cs/0507044,Defensive Universal Learning with Experts,,,,
+cs/0507062,FPL Analysis for Adaptive Bandits,,,,
+cs/0508027,Expectation maximization as message passing,,,,
+cs/0508073,Universal Learning of Repeated Matrix Games,,,,
+cs/0508103,Corpus-based Learning of Analogies and Semantic Relations,,,,
+cs/0509055,Learning Optimal Augmented Bayes Networks,,,,
+cs/0510038,Learning Unions of $\omega(1)$-Dimensional Rectangles,,,,
+cs/0510080,When Ignorance is Bliss,,,,
+cs/0511087,Robust Inference of Trees,,,,
+cs/0511088,Bounds on Query Convergence,,,,
+cs/0511105,The Signed Distance Function: A New Tool for Binary Classification,,,,
+cs/0511108,"Parameter Estimation of Hidden Diffusion Processes: Particle Filter vs.
+  Modified Baum-Welch Algorithm",,,,
+cs/0512015,"Joint fixed-rate universal lossy coding and identification of
+  continuous-alphabet memoryless sources",,,,
+cs/0512018,"DAMNED: A Distributed and Multithreaded Neural Event-Driven simulation
+  framework",,,,
+cs/0512050,Preference Learning in Terminology Extraction: A ROC-based approach,,,,
+cs/0512053,"Online Learning and Resource-Bounded Dimension: Winnow Yields New Lower
+  Bounds for Hard Sets",,,,
+cs/0512063,"Complex Random Vectors and ICA Models: Identifiability, Uniqueness and
+  Separability",,,,
+cs/0601044,"Genetic Programming, Validation Sets, and Parsimony Pressure",,,,
+cs/0601074,Joint universal lossy coding and identification of i.i.d. vector sources,,,,
+cs/0601089,Distributed Kernel Regression: An Algorithm for Training Collaboratively,,,,
+cs/0601115,Decision Making with Side Information and Unbounded Loss Functions,,,,
+cs/0602053,How to Beat the Adaptive Multi-Armed Bandit,,,,
+cs/0602062,Learning rational stochastic languages,,,,
+cs/0602092,"Inconsistent parameter estimation in Markov random fields: Benefits in
+  the computation-limited setting",,,,
+cs/0602093,Rational stochastic languages,,,,
+cs/0603023,"Metric State Space Reinforcement Learning for a Vision-Capable Mobile
+  Robot",,,,
+cs/0604010,Nearly optimal exploration-exploitation decision thresholds,,,,
+cs/0604011,Semi-Supervised Learning -- A Statistical Physics Approach,,,,
+cs/0604015,Revealing the Autonomous System Taxonomy: The Machine Learning Approach,,,,
+cs/0604046,"Concerning the differentiability of the energy function in vector
+  quantization algorithms",,,,
+cs/0605009,On the Foundations of Universal Sequence Prediction,,,,
+cs/0605024,A Formal Measure of Machine Intelligence,,,,
+cs/0605035,Query Chains: Learning to Rank from Implicit Feedback,,,,
+cs/0605036,Evaluating the Robustness of Learning from Implicit Feedback,,,,
+cs/0605037,"Minimally Invasive Randomization for Collecting Unbiased Preferences
+  from Clickthrough Logs",,,,
+cs/0605040,General Discounting versus Average Reward,,,,
+cs/0605048,"On Learning Thresholds of Parities and Unions of Rectangles in Random
+  Walk Models",,,,
+cs/0607047,PAC Classification based on PAC Estimates of Label Class Distributions,,,,
+cs/0607085,"Using Pseudo-Stochastic Rational Languages in Probabilistic Grammatical
+  Inference",,,,
+cs/0607110,"A Theory of Probabilistic Boosting, Decision Trees and Matryoshki",,,,
+cs/0608033,A Study on Learnability for Rigid Lambek Grammars,,,,
+cs/0608100,Similarity of Semantic Relations,,,,
+cs/0609007,A Massive Local Rules Search Approach to the Classification Problem,,,,
+cs/0609049,"Scanning and Sequential Decision Making for Multi-Dimensional Data -
+  Part I: the Noiseless Case",,,,
+cs/0609071,A kernel method for canonical correlation analysis,,,,
+cs/0609093,"PAC Learning Mixtures of Axis-Aligned Gaussians with No Separation
+  Assumption",,,,
+cs/0609140,Motion Primitives for Robotic Flight Control,,,,
+cs/0610033,A kernel for time series based on global alignments,,,,
+cs/0610126,Fitness Uniform Optimization,,,,
+cs/0610155,"Nonlinear Estimators and Tail Bounds for Dimension Reduction in $l_1$
+  Using Cauchy Random Projections",,,,
+cs/0610170,"Low-complexity modular policies: learning to play Pac-Man and a new
+  framework beyond MDPs",,,,
+cs/0611011,Hedging predictions in machine learning,,,,
+cs/0611024,A Relational Approach to Functional Decomposition of Logic Circuits,,,,
+cs/0611054,"How Random is a Coin Toss? Bayesian Inference and the Symbolic Dynamics
+  of Deterministic Chaos",,,,
+cs/0611114,"Very Sparse Stable Random Projections, Estimators and Tail Bounds for
+  Stable Random Projections",,,,
+cs/0611123,Functional Bregman Divergence and Bayesian Estimation of Distributions,,,,
+cs/0611124,Low-rank matrix factorization with attributes,,,,
+cs/0611145,"A Unified View of TD Algorithms; Introducing Full-Gradient TD and
+  Equi-Gradient Descent TD",,,,
+cs/0611150,A Novel Bayesian Classifier using Copula Functions,,,,
+cs/0612095,Approximation of the Two-Part MDL Code,,,,
+cs/0612096,"Using state space differential geometry for nonlinear blind source
+  separation",,,,
+cs/0701052,"Time Series Forecasting: Obtaining Long Term Trends with Self-Organizing
+  Maps",,,,
+cs/0701105,A Delta Debugger for ILP Query Execution,,,,
+cs/0703055,Support and Quantile Tubes,,,,
+cs/0703062,Bandit Algorithms for Tree Search,,,,
+cs/0703125,Intrinsic dimension of a dataset: what properties does one expect?,,,,
+cs/0703132,Structure induction by lossless graph compression,,,,
+cs/0703138,Reinforcement Learning for Adaptive Routing,,,,
+cs/9809110,Similarity-Based Models of Word Cooccurrence Probabilities,,,,
+cs/9809111,Evolution of Neural Networks to Play the Game of Dots-and-Boxes,,,,
+cs/9809122,Practical algorithms for on-line sampling,,,,
+cs/9811003,A Winnow-Based Approach to Context-Sensitive Spelling Correction,,,,
+cs/9811006,Machine Learning of Generic and User-Focused Summarization,,,,
+cs/9811010,Learning to Resolve Natural Language Ambiguities: A Unified Approach,,,,
+cs/9812021,Forgetting Exceptions is Harmful in Language Learning,,,,
+cs/9901001,"TDLeaf(lambda): Combining Temporal Difference Learning with Game-Tree
+  Search",,,,
+cs/9901002,"KnightCap: A chess program that learns by combining TD(lambda) with
+  game-tree search",,,,
+cs/9902006,A Discipline of Evolutionary Programming,,,,
+cs/9902026,Probabilistic Inductive Inference:a Survey,,,,
+cs/9905007,"An Efficient, Probabilistically Sound Algorithm for Segmentation and
+  Word Discovery",,,,
+cs/9905008,Inducing a Semantically Annotated Lexicon via EM-Based Clustering,,,,
+cs/9905009,Inside-Outside Estimation of a Lexicalized PCFG for German,,,,
+cs/9905010,"Statistical Inference and Probabilistic Modelling for Constraint-Based
+  NLP",,,,
+cs/9905011,"Ensembles of Radial Basis Function Networks for Spectroscopic Detection
+  of Cervical Pre-Cancer",,,,
+cs/9905012,Linear and Order Statistics Combiners for Pattern Classification,,,,
+cs/9905013,Robust Combining of Disparate Classifiers through Order Statistics,,,,
+cs/9905014,"Hierarchical Reinforcement Learning with the MAXQ Value Function
+  Decomposition",,,,
+cs/9905015,State Abstraction in MAXQ Hierarchical Reinforcement Learning,,,,
+cs/9906016,Automatically Selecting Useful Phrases for Dialogue Act Tagging,,,,
+cs/9910011,A statistical model for word discovery in child directed speech,,,,
+cs/9912016,HMM Specialization with Selective Lexicalization,,,,
+math/0012163,Learning Complexity Dimensions for a Continuous-Time Control System,,,,
+math/0105236,"Harmonic mean, random polynomials and stochastic matrices",,,,
+math/0305121,Robust Estimators under the Imprecise Dirichlet Model,,,,
+math/0406221,"Suboptimal behaviour of Bayes and MDL in classification under
+  misspecification",,,,
+math/0408146,"Learning a Machine for the Decision in a Partially Observable Markov
+  Universe",,,,
+math/0411515,Fast Non-Parametric Bayesian Inference on Infinite Trees,,,,
+math/0502315,"Strong Asymptotic Assertions for Discrete MDL in Regression and
+  Classification",,,,
+math/0508319,"Combinations and Mixtures of Optimal Policies in Unichain Markov
+  Decision Processes are Optimal",,,,
+math/0602505,MDL Convergence Speed for Bernoulli Sequences,,,,
+math/0604233,"Generalization error bounds in semi-supervised classification under the
+  cluster assumption",,,,
+math/0605498,"Cross-Entropic Learning of a Machine for the Decision in a Partially
+  Observable Universe",,,,
+math/0606315,Bayesian Regression of Piecewise Constant Functions,,,,
+math/0608522,Graph Laplacians and their convergence on random neighborhood graphs,,,,
+math/0608713,"Occam's hammer: a link between randomized learning and multiple testing
+  FDR control",,,,
+math/0609461,Cross-Entropy method: convergence issues for extended implementation,,,,
+math/0701419,Strategies for prediction under imperfect monitoring,,,,
+math/0702804,The Loss Rank Principle for Model Selection,,,,
+nlin/0306055,A Model for Prejudiced Learning in Noisy Environments,,,,
+nlin/0404032,Metrics for more than two points at once,,,,
+nlin/0408039,Stability and Diversity in Collective Adaptation,,,,
+q-bio/0610040,Metric learning pairwise kernel for graph inference,,,,

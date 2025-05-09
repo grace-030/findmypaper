@@ -1,0 +1,438 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+quant-ph/0401041,"Quantum Watermarking by Frequency of Error when Observing Qubits in
+  Dissimilar Bases",3.87655033506555e-05,0.0,4.0,0.0
+cs/0701085,Variations on the Fibonacci Universal Code,1.7775437937957215e-05,0.0,2.0,0.0
+quant-ph/0701168,Using quantum key distribution for cryptographic purposes: a survey,1.1301313514556956e-05,0.0,13.0,0.0
+math/0509523,Permutation Polynomials modulo m,1.026119467838564e-05,0.0,3.0,2.0
+quant-ph/0405089,Combinatorial Approaches in Quantum Information Theory,6.975451553424628e-06,1.0193144619312202e-06,12.0,2.0
+cs/0612038,"Non-Archimedean analysis, T-functions, and cryptography",6.04429362832881e-06,0.0,5.0,0.0
+quant-ph/0611033,Approximate Randomization of Quantum States With Fewer Bits of Key,5.927897179649229e-06,0.0,3.0,0.0
+quant-ph/0508149,Variable Bias Coin Tossing,5.813219750016872e-06,0.0,3.0,1.0
+quant-ph/0204022,A New Protocol and Lower Bounds for Quantum Coin Flipping,5.159126340488651e-06,0.0,5.0,11.0
+quant-ph/0403069,"Computational Indistinguishability between Quantum States and Its
+  Cryptographic Application",5.103215742306914e-06,0.0,5.0,1.0
+quant-ph/0503027,A Three-Stage Quantum Cryptography Protocol,4.99597713211323e-06,0.0,3.0,0.0
+cs/0204041,Trust Brokerage Systems for the Internet,4.7530577026366125e-06,0.0,3.0,0.0
+cs/0506003,Authentication and routing in simple Quantum Key Distribution networks,4.626646950292932e-06,0.0,2.0,0.0
+math/0311047,Assessing security of some group based cryptosystems,4.349725255294025e-06,0.0,6.0,0.0
+cs/0501017,Public Key Cryptography based on Semigroup Actions,4.31215572623082e-06,0.0,2.0,0.0
+quant-ph/0306161,"How to reuse a one-time pad and other notes on authentication,
+  encryption and protection of quantum information",4.215793196726431e-06,6.134636895574934e-05,15.0,8.0
+quant-ph/0304112,Multiparty Quantum Coin Flipping,4.20272557708608e-06,1.8565137641418583e-08,7.0,8.0
+cs/0206020,Multidimensional Network Monitoring for Intrusion Detection,4.137346715430839e-06,0.0,3.0,0.0
+quant-ph/0505089,Quantum key distribution with trusted quantum relay,4.017182936561178e-06,1.990182755160072e-06,2.0,1.0
+cs/0509059,On an authentication scheme based on the Root Problem in the braid group,3.984618991179121e-06,0.0,2.0,0.0
+cs/0309010,Homomorphic public-key cryptosystems over groups and rings,3.826788423397162e-06,0.0,1.0,0.0
+quant-ph/0504207,Applications of quantum message sealing,3.797299472495285e-06,0.0,5.0,1.0
+quant-ph/9811056,A Quick Glance at Quantum Cryptography,3.784130604586271e-06,0.0,10.0,4.0
+cs/0608024,Cryptanalysis of an Encryption Scheme Based on Blind Source Separation,3.62335329328243e-06,0.0,2.0,0.0
+cs/0509047,"Secure multiplex coding to attain the channel capacity in wiretap
+  channels",3.522303351720881e-06,0.0,1.0,0.0
+cs/0504012,Improving Spam Detection Based on Structural Similarity,3.4675240949546483e-06,0.0,2.0,0.0
+cs/0604018,Cryptographic Pseudo-Random Sequences from the Chaotic Henon Map,3.3749066596554898e-06,0.0,1.0,0.0
+cs/0702112,"The General Gaussian Multiple Access and Two-Way Wire-Tap Channels:
+  Achievable Rates and Cooperative Jamming",3.3353007530048587e-06,0.0,3.0,0.0
+quant-ph/0306118,Unconditionally Secure Multipartite Quantum Key Distribution,3.3002497169707964e-06,2.22781651697023e-08,3.0,2.0
+math/0502327,Decoding by Linear Programming,3.165574474187545e-06,0.0,3.0,1.0
+cs/0301022,Homomorphic public-key cryptosystems and encrypting boolean circuits,3.0472482127272877e-06,0.0,2.0,1.0
+cs/0405111,Attrition Defenses for a Peer-to-Peer Digital Preservation System,3.0472482127272877e-06,0.0,2.0,0.0
+cs/0607079,Length-based cryptanalysis: The case of Thompson's Group,2.9015067166880227e-06,0.0,1.0,0.0
+cs/0602012,Wreath Products in Stream Cipher Design,2.8243243169835936e-06,0.0,4.0,0.0
+quant-ph/0403140,"Improved Lower Bounds for Locally Decodable Codes and Private
+  Information Retrieval",2.8138956997984938e-06,1.990182755160072e-06,3.0,3.0
+quant-ph/0502009,"Quantum Information Theoretical Analysis of Various Constructions for
+  Quantum Secret Sharing",2.809458561544573e-06,0.0,8.0,0.0
+cs/0602063,Group Signature Schemes Using Braid Groups,2.697084014042981e-06,0.0,2.0,0.0
+cs/0601049,Undeniable Signature Schemes Using Braid Groups,2.697084014042981e-06,0.0,2.0,0.0
+quant-ph/0409201,Quantum Anonymous Transmissions,2.5738746836733296e-06,5.170078326580684e-06,3.0,4.0
+cs/0611067,Implementing the modular eballot system V0.6,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0702095,A note on using finite non-abelian $p$-groups in the MOR cryptosystem,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0702161,"Perfectly Secure Steganography: Capacity, Error Exponents, and Code
+  Constructions",2.4711431321721443e-06,0.0,1.0,0.0
+math/0605232,"Borne sur le degr\'e des polyn\^omes presque parfaitement
+  non-lin\'eaires",2.4711431321721443e-06,0.0,1.0,0.0
+cs/9911007,"One-Way Functions in Worst-Case Cryptography: Algebraic and Security
+  Properties",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0610036,Optimization of Memory Usage in Tardos's Fingerprinting Codes,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0304013,Hidden Polynomial(s) Cryptosystems,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0606085,Provably Secure Universal Steganographic Systems,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0010013,A Public-key based Information Management Model for Mobile Agents,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0606063,"FLAIM: A Multi-level Anonymization Framework for Computer and Network
+  Logs",2.4711431321721443e-06,0.0,1.0,0.0
+quant-ph/0410017,Quantum seals,2.4662194151447867e-06,0.0,3.0,4.0
+quant-ph/0503139,Approximate Quantum Error-Correcting Codes and Secret Sharing Schemes,2.427713926270903e-06,5.970548265480216e-06,6.0,2.0
+cs/0411003,Applications of LDPC Codes to the Wiretap Channel,2.3097588034205697e-06,1.990182755160072e-06,1.0,1.0
+cs/0702051,"The Gaussian multiple access wire-tap channel: wireless secrecy and
+  cooperative jamming",2.183090591894573e-06,0.0,2.0,0.0
+quant-ph/0311064,Multipartite Bound Information exists and can be activated,2.151041990926711e-06,0.0,4.0,4.0
+quant-ph/9603004,Is Quantum Bit Commitment Really Possible?,2.138229759427605e-06,0.0,5.0,21.0
+quant-ph/9906103,"Secure Classical Bit Commitment using Fixed Capacity Communication
+  Channels",2.130245677801671e-06,0.0,3.0,20.0
+math/0411644,"The conjugacy search problem in public key cryptography: unnecessary and
+  insufficient",2.1254800838390582e-06,0.0,2.0,0.0
+nlin/0501018,Return-Map Cryptanalysis Revisited,2.120978933487838e-06,0.0,1.0,0.0
+quant-ph/0605041,Invertible Quantum Operations and Perfect Encryption of Quantum States,2.119550080424351e-06,0.0,3.0,1.0
+quant-ph/0204063,Lower bound for a class of weak quantum coin flipping protocols,2.058336415938984e-06,0.0,4.0,8.0
+cond-mat/0701319,"Statistical Cryptography using a Fisher-Schr\""{o}dinger Model",2.0555134432006454e-06,0.0,1.0,0.0
+quant-ph/0307200,Generalized Quantum Secret Sharing,2.0082727798306e-06,5.268368705201902e-06,5.0,6.0
+cs/0306032,"Length-Based Attacks for Certain Group Based Encryption Rewriting
+  Systems",1.985414404365336e-06,0.0,1.0,0.0
+math/0410068,Combinatorial group theory and public key cryptography,1.9334450569873443e-06,0.0,2.0,0.0
+quant-ph/9611031,Insecurity of Quantum Secure Computations,1.923975901195528e-06,0.0,7.0,5.0
+quant-ph/0508072,Generic Security Proof of Quantum Key Exchange using Squeezed States,1.915569399038366e-06,0.0,4.0,0.0
+quant-ph/0407200,Assisted Quantum Secret Sharing,1.905063511271469e-06,0.0,3.0,1.0
+cs/0101020,More Robust Multiparty Protocols with Oblivious Transfer,1.897448338563708e-06,0.0,2.0,0.0
+cs/0607069,"The B-Exponential Map: A Generalization of the Logistic Map, and Its
+  Applications In Generating Pseudo-random Numbers",1.8950380516170012e-06,0.0,1.0,1.0
+cs/0405022,Encryption Schemes using Finite Frames and Hadamard Arrays,1.8950380516170012e-06,0.0,1.0,0.0
+math/0512140,A new key exchange protocol based on the decomposition problem,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0411065,"An Evaluated Certification Services System for the German National Root
+  CA - Legally Binding and Trustworthy Transactions in E-Business and
+  E-Government",1.8950380516170012e-06,0.0,1.0,1.0
+math/0506180,Constructions in public-key cryptography over matrix groups,1.8950380516170012e-06,0.0,1.0,2.0
+cs/0402060,"Pseudorandom number generation by p-adic ergodic transformations: an
+  addendum",1.8826157199356543e-06,0.0,2.0,3.0
+quant-ph/0307076,Quantum Symmetrically-Private Information Retrieval,1.8805403749964089e-06,0.0,2.0,1.0
+quant-ph/0409125,Simulatable security for quantum protocols,1.7310775986718605e-06,7.160261081740756e-06,3.0,4.0
+cs/0011004,Anonymous Oblivious Transfer,1.7210321227072591e-06,0.0,1.0,2.0
+quant-ph/0403076,Quantum key distribution using polarized coherent states,1.703003024765287e-06,0.0,1.0,1.0
+cs/0107030,Reconciliation of a Quantum-Distributed Gaussian Key,1.703003024765287e-06,0.0,1.0,7.0
+quant-ph/0111099,Quantum Bit String Commitment,1.696293379665565e-06,0.0,5.0,2.0
+quant-ph/0206123,On bit-commitment based quantum coin flipping,1.6779339245503456e-06,0.0,3.0,3.0
+cs/0504045,Analyzing Worms and Network Traffic using Compression,1.664296064763144e-06,0.0,1.0,3.0
+quant-ph/9911043,Cheat Sensitive Quantum Bit Commitment,1.6330218946925245e-06,0.0,4.0,23.0
+quant-ph/0212043,Large N Quantum Cryptography,1.615190049227862e-06,0.0,4.0,4.0
+quant-ph/0409029,Why Classical Certification is Impossible in a Quantum World,1.6081565630698364e-06,0.0,2.0,2.0
+cs/0502062,Tree Parity Machine Rekeying Architectures,1.60698551133943e-06,0.0,1.0,0.0
+cs/0110019,New approach for network monitoring and intrusion detection,1.60698551133943e-06,0.0,1.0,1.0
+quant-ph/0605182,Maximally Non-Local and Monogamous Quantum Correlations,1.5808378863827083e-06,7.650490321730376e-06,1.0,4.0
+quant-ph/0205128,Authentication of Quantum Messages,1.5779426016460151e-06,0.0,4.0,11.0
+quant-ph/9810068,Unconditionally Secure Bit Commitment,1.573624343159288e-06,0.0,3.0,7.0
+cs/0502048,An Automated Analysis of the Security of Quantum Key Distribution,1.5594113172996338e-06,1.4852110113134864e-08,3.0,1.0
+math/0602154,What is the Inverse of Repeated Square and Multiply Algorithm?,1.5493750032839157e-06,0.0,1.0,0.0
+cs/0401030,Pseudorandom number generation by $p$-adic ergodic transformations,1.5493750032839157e-06,0.0,1.0,4.0
+cs/0609091,Using shifted conjugacy in braid-based cryptography,1.5493750032839157e-06,0.0,1.0,0.0
+quant-ph/0606049,Full security of quantum key distribution from no-signaling constraints,1.5237098886788116e-06,3.341724775455345e-08,2.0,7.0
+quant-ph/9910087,"Unconditionally Secure Commitment of a Certified Classical Bit is
+  Impossible",1.5208218957720924e-06,0.0,3.0,2.0
+quant-ph/0405101,No Signalling and Quantum Key Distribution,1.5168461513496216e-06,0.0,2.0,6.0
+cs/0608076,Oblivious-Transfer Amplification,1.5091354097613563e-06,0.0,2.0,0.0
+quant-ph/0111097,A proposal for founding mistrustful quantum cryptography on coin tossing,1.4885304137539677e-06,0.0,2.0,2.0
+quant-ph/9904091,A simple proof of the unconditional security of quantum key distribution,1.4868933201603412e-06,0.0,2.0,8.0
+quant-ph/0404075,"Small Pseudo-Random Families of Matrices: Derandomizing Approximate
+  Quantum Encryption",1.4727251245175134e-06,7.668664233433563e-07,2.0,5.0
+quant-ph/9810067,Coin Tossing is Strictly Weaker Than Bit Commitment,1.4504724279318345e-06,0.0,2.0,7.0
+quant-ph/0612014,"A Tight High-Order Entropic Quantum Uncertainty Relation With
+  Applications",1.4380502653739212e-06,0.0,1.0,1.0
+quant-ph/0511175,A Proof of the Security of Quantum Key Distribution,1.422793088027807e-06,0.0,2.0,0.0
+quant-ph/0503157,Secure Communication Using Qubits,1.384016365567762e-06,0.0,1.0,0.0
+cs/0508094,"Conference Key Agreement and Quantum Sharing of Classical Secrets with
+  Noisy GHZ States",1.3671913449870383e-06,0.0,1.0,0.0
+cs/0207080,Public-key cryptography and invariant theory,1.3189329710618589e-06,0.0,0.0,2.0
+cs/9904005,Transport Level Security: a proof using the Gong-Needham-Yahalom Logic,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0611065,"On the security of new key exchange protocols based on the triple
+  decomposition problem",1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0611167,"Continuous Variable Quantum Cryptography using Two-Way Quantum
+  Communication",1.3189329710618589e-06,0.0,0.0,1.0
+cs/9907040,"Characterizations of the Existence of Partial and Total One-Way
+  Permutations",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0607011,A simple generalization of El-Gamal cryptosystem to non-abelian groups,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0607131,Tardos fingerprinting is better than we thought,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0411067,Towards a Flexible Intra-Trustcenter Management Protocol,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0501014,On the Design of Perceptual MPEG-Video Encryption Algorithms,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0509036,Security Problems with Improper Implementations of Improved FEA-M,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0409005,"Sharing Computer Network Logs for Security and Privacy: A Motivation for
+  New Methodologies of Anonymization",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0012023,The Tale of One-way Functions,1.3189329710618589e-06,0.0,0.0,6.0
+cs/0406001,"Side-Information Coding with Turbo Codes and its Application to Quantum
+  Key Distribution",1.3189329710618589e-06,0.0,0.0,3.0
+cs/0112014,Guaranteeing the diversity of number generators,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0611066,A modular eballot system - V0.6,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0304014,Commitment Capacity of Discrete Memoryless Channels,1.3189329710618589e-06,0.0,0.0,5.0
+cs/0605028,The Gaussian Multiple Access Wire-Tap Channel,1.3189329710618589e-06,0.0,0.0,4.0
+cs/0410024,"The Key Authority - Secure Key Management in Hierarchical Public Key
+  Infrastructures",1.3189329710618589e-06,0.0,0.0,2.0
+cs/0411030,Security of public key cryptosystems based on Chebyshev Polynomials,1.3189329710618589e-06,0.0,0.0,1.0
+math/0404076,Probabilistic Solutions of Equations in the Braid Group,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0207079,On non-abelian homomorphic public-key cryptosystems,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0106058,"Enabling the Long-Term Archival of Signed Documents through Time
+  Stamping",1.3189329710618589e-06,0.0,0.0,2.0
+math/0209267,Length-based conjugacy search in the Braid group,1.3189329710618589e-06,0.0,0.0,5.0
+quant-ph/0609028,Secure Controlled Teleportation,1.3189329710618589e-06,0.0,0.0,1.0
+math/0505487,Thompson's group and public key cryptography,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0005026,"A One-Time Pad based Cipher for Data Protection in Distributed
+  Environments",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0501008,Multipartite Secret Correlations and Bound Information,1.3189329710618589e-06,0.0,0.0,1.0
+math/0110086,Randomness,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0508222,Cryptography In the Bounded Quantum-Storage Model,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0107004,On Concurrent and Resettable Zero-Knowledge Proofs for NP,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0408046,Authenticated tree parity machine key exchange,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0607454,Encryption of Covert Information into Multiple Statistical Distributions,,,,
+cs/0001026,A Logic for SDSI's Linked Local Name Spaces,,,,
+cs/0003053,Security of the Cao-Li Public Key Cryptosystem,,,,
+cs/0006045,Security Policy Consistency,,,,
+cs/0010019,"The Random Oracle Methodology, Revisited",,,,
+cs/0101032,"Total Protection of Analytic Invariant Information in Cross Tabulated
+  Tables",,,,
+cs/0101034,Data Security Equals Graph Connectivity,,,,
+cs/0102012,Chaos for Stream Cipher,,,,
+cs/0105028,When being Weak is Brave: Privacy in Recommender Systems,,,,
+cs/0107003,Lower Bounds for Zero-knowledge on the Internet,,,,
+cs/0109011,Communication Complexity and Secure Function Evaluation,,,,
+cs/0110009,"Algorithmic Self-Assembly of DNA Tiles and its Application to
+  Cryptanalysis",,,,
+cs/0110024,Pretty-Simple Password-Authenticated Key-Exchange Protocol,,,,
+cs/0111056,"Some Facets of Complexity Theory and Cryptography: A Five-Lectures
+  Tutorial",,,,
+cs/0201003,Trust enhancement by multiple random beacons,,,,
+cs/0202005,Secure History Preservation Through Timeline Entanglement,,,,
+cs/0205002,A Polynomial Description of the Rijndael Advanced Encryption Standard,,,,
+cs/0207027,"Permutation graphs, fast forward permutations, and sampling the cycle
+  structure of a permutation",,,,
+cs/0208007,"On the graph coloring check-digit scheme with applications to verifiable
+  secret sharing",,,,
+cs/0208028,A logical reconstruction of SPKI,,,,
+cs/0208041,Perfectly Secure Message Transmission Revisited,,,,
+cs/0210026,Encoding a Taxonomy of Web Attacks with Different-Length Vectors,,,,
+cs/0212055,"Mathematical foundations of modern cryptography: computational
+  complexity perspective",,,,
+cs/0301020,Differential Fault Analysis on A.E.S,,,,
+cs/0302010,Authenticated Append-only Skip Lists,,,,
+cs/0302025,Cryptographic Randomized Response Techniques,,,,
+cs/0302037,Hidden Polynomial(s) Cryptosystems,,,,
+cs/0304007,A Method for Clustering Web Attacks Using Edit Distance,,,,
+cs/0304010,Efficient linear feedback shift registers with maximal period,,,,
+cs/0305034,Cryptanalysis of HFE,,,,
+cs/0306107,On the Relationship between Strand Spaces and Multi-Agent Systems,,,,
+cs/0307029,"The ray attack, an inefficient trial to break RSA cryptosystems",,,,
+cs/0307057,Secrecy in Multiagent Systems,,,,
+cs/0308015,Rethinking OpenPGP PKI and OpenPGP Public Keyserver,,,,
+cs/0308027,A Comparison of Secret Sharing Schemes Based on Latin Squares and RSA,,,,
+cs/0308028,Finding Traitors in Secure Networks Using Byzantine Agreements,,,,
+cs/0309050,"Computing Igusa's Local Zeta Functions of Univariate Polynomials, and
+  Linear Feedback Shift Registers",,,,
+cs/0309051,New Lattice Based Cryptographic Constructions,,,,
+cs/0310033,A Hash of Hash Functions,,,,
+cs/0311005,On The Cost Distribution of a Memory Bound Function,,,,
+cs/0311025,"Fine-Grained Authorization for Job Execution in the Grid: Design and
+  Implementation",,,,
+cs/0311039,Quantum m-out-of-n Oblivious Transfer,,,,
+cs/0312025,Soft Constraint Programming to Analysing Security Protocols,,,,
+cs/0312034,Sharing secret color images using cellular automata with memory,,,,
+cs/0401002,A Comparison of Cryptography Courses,,,,
+cs/0402004,Baptista-type chaotic cryptosystems: Problems and countermeasures,,,,
+cs/0402042,Anonymity and Information Hiding in Multiagent Systems,,,,
+cs/0402046,Spam filter analysis,,,,
+cs/0402052,Continued fractions and RSA with small secret exponent,,,,
+cs/0402054,On the Security of the Yi-Tan-Siew Chaos-Based Cipher,,,,
+cs/0403043,Stream cipher based on quasigroup string transformations in $Z_p^*$,,,,
+cs/0404054,New Covert Channels in HTTP,,,,
+cs/0405035,"Security-Performance Tradeoffs of Inheritance based Key Predistribution
+  for Wireless Sensor Networks",,,,
+cs/0405066,A Logic for Reasoning about Digital Rights,,,,
+cs/0406052,NoSEBrEaK - Attacking Honeynets,,,,
+cs/0406057,Modelling the costs and benefits of Honeynets,,,,
+cs/0406058,Proofs of Zero Knowledge,,,,
+cs/0406059,Ermittlung von Verwundbarkeiten mit elektronischen Koedern,,,,
+cs/0407004,Zero-error communication over networks,,,,
+cs/0409018,PKI Scalability Issues,,,,
+cs/0410010,A New Proxy Ring Signature Scheme,,,,
+cs/0410023,All Superlinear Inverse Schemes are coNP-Hard,,,,
+cs/0410025,Outflanking and securely using the PIN/TAN-System,,,,
+cs/0410068,"Analyzing and Improving Performance of a Class of Anomaly-based
+  Intrusion Detectors",,,,
+cs/0411010,A Trace Logic for Local Security Properties,,,,
+cs/0411066,Using LDAP Directories for Management of PKI Processes,,,,
+cs/0411068,Planning for Directory Services in Public Key Infrastructures,,,,
+cs/0412044,TulaFale: A Security Tool for Web Services,,,,
+cs/0412045,Validating a Web Service Security Abstraction by Typing,,,,
+cs/0412103,"Chosen-Plaintext Cryptanalysis of a Clipped-Neural-Network-Based Chaotic
+  Cipher",,,,
+cs/0501001,A Survey of Distributed Intrusion Detection Approaches,,,,
+cs/0501013,"On the security of the Yen-Guo's domino signal encryption algorithm
+  (DSEA)",,,,
+cs/0501075,"Simple extractors via constructions of cryptographic pseudo-random
+  generators",,,,
+cs/0502052,Log Analysis Case Study Using LoGS,,,,
+cs/0502064,The Lattice of Machine Invariant Sets and Subword Complexity,,,,
+cs/0502091,An Audit Logic for Accountability,,,,
+cs/0503027,Authentication with Distortion Criteria,,,,
+cs/0503036,Timed Analysis of Security Protocols,,,,
+cs/0503060,Multi-Dimensional Hash Chains and Application to Micropayment Schemes,,,,
+cs/0503061,Integrity Constraints in Trust Management,,,,
+cs/0503080,"Enforcing Semantic Integrity on Untrusted Clients in Networked Virtual
+  Environments",,,,
+cs/0504007,The Bandwidth Exchange Architecture,,,,
+cs/0504019,Efficient Authenticated Encryption Schemes with Public Verifiability,,,,
+cs/0504083,On the Unicity Distance of Stego Key,,,,
+cs/0504093,A Multi-proxy Signature Scheme for Partial delegation with Warrant,,,,
+cs/0504097,"ID-based Ring Signature and Proxy Ring Signature Schemes from Bilinear
+  Pairings",,,,
+cs/0505072,Steganographic Codes -- a New Problem of Coding Theory,,,,
+cs/0505082,"Fast generators for the Diffie-Hellman key agreement protocol and
+  malicious standards",,,,
+cs/0506015,Cryptanalysis of Key Issuing Protocols in ID-based Cryptosystems,,,,
+cs/0506064,"Optimal multiple assignments based on integer programming in secret
+  sharing schemes with general access structures",,,,
+cs/0506065,"Strongly secure ramp secret sharing schemes for general access
+  structures",,,,
+cs/0506066,Impersonation with the Echo Protocol,,,,
+cs/0506087,"Primal-dual distance bounds of linear codes with application to
+  cryptography",,,,
+cs/0507001,Asymptotically Optimal Tree-based Group Key Management Schemes,,,,
+cs/0507063,Theoretical cryptanalysis of the Klimov-Shamir number generator TF-1,,,,
+cs/0507071,"Security for Distributed Web-Applications via Aspect-Oriented
+  Programming",,,,
+cs/0508011,A Secure Traitor Tracing Scheme against Key Exposure,,,,
+cs/0508015,Chosen-ciphertext attack on noncommutative Polly Cracker,,,,
+cs/0508022,Matrix Construction Using Cyclic Shifts of a Column,,,,
+cs/0508079,Re-visiting the One-Time Pad,,,,
+cs/0508114,"A Family of Binary Sequences with Optimal Correlation Property and Large
+  Linear Span",,,,
+cs/0508133,"Decompositions of graphs of functions and efficient iterations of lookup
+  tables",,,,
+cs/0509035,"Cryptanalysis of an MPEG-Video Encryption Scheme Based on Secret Huffman
+  Tables",,,,
+cs/0509053,Underwater Hacker Missile Wars: A Cryptography and Engineering Contest,,,,
+cs/0509056,Pairing-based identification schemes,,,,
+cs/0509064,On joint coding for watermarking and encryption,,,,
+cs/0510018,"Candidate One-Way Functions and One-Way Permutations Based on Quasigroup
+  String Transformations",,,,
+cs/0510022,Cryptographic Authentication of Navigation Protocols,,,,
+cs/0510042,Secure and {\sl Practical} Identity-Based Encryption,,,,
+cs/0510046,"Defining a Comprehensive Threat Model for High Performance Computational
+  Clusters",,,,
+cs/0510065,A new authentication protocol for revocable anonymity in ad-hoc networks,,,,
+cs/0511014,"Flat and One-Variable Clauses: Complexity of Verifying Cryptographic
+  Protocols with Single Blind Copying",,,,
+cs/0511043,Poseidon: a 2-tier Anomaly-based Intrusion Detection System,,,,
+cs/0511046,Generalized Kasami Sequences: The Large Set,,,,
+cs/0511050,"Secret Key and Private Key Constructions for Simple Multiterminal Source
+  Models",,,,
+cs/0511051,The Private Key Capacity Region for Three Terminals,,,,
+cs/0511063,Pathwords: a user-friendly schema for common passwords management,,,,
+cs/0601024,Further Results on the Distinctness of Decimations of l-sequences,,,,
+cs/0601034,Using First-Order Logic to Reason about Policies,,,,
+cs/0601068,Checkbochs: Use Hardware to Check Software,,,,
+cs/0601076,Learning by Test-infecting Symmetric Ciphers,,,,
+cs/0601085,A Formal Foundation for ODRL,,,,
+cs/0602007,"Fuzzy Extractors: How to Generate Strong Keys from Biometrics and Other
+  Noisy Data",,,,
+cs/0602037,Cryptanalysis of the CFVZ cryptosystem,,,,
+cs/0602097,The Cubic Public-Key Transformation,,,,
+cs/0603008,Linear Secret Sharing from Algebraic-Geometric Codes,,,,
+cs/0603011,Intrinsically Legal-For-Trade Objects by Digital Signatures,,,,
+cs/0603051,Transitive trust in mobile scenarios,,,,
+cs/0603074,Peer-to-Peer Communication Across Network Address Translators,,,,
+cs/0603107,Towards an information-theoretically safe cryptographic protocol,,,,
+cs/0603129,"A Business Goal Driven Approach for Understanding and Specifying
+  Information Security Requirements",,,,
+cs/0604019,"The Case for Modeling Security, Privacy, Usability and Reliability
+  (SPUR) in Automotive Software",,,,
+cs/0604026,APHRODITE: an Anomaly-based Architecture for False Positive Reduction,,,,
+cs/0605003,A New Cryptosystem Based On Hidden Order Groups,,,,
+cs/0605023,"The Gaussian Multiple Access Wire-Tap Channel with Collective Secrecy
+  Constraints",,,,
+cs/0605034,Peer to Peer Networks for Defense Against Internet Worms,,,,
+cs/0605088,"TARMAC: Traffic-Analysis Reslient MAC Protocol for Multi-Hop Wireless
+  Networks",,,,
+cs/0605097,"A Generalized Two-Phase Analysis of Knowledge Flows in Security
+  Protocols",,,,
+cs/0605109,Knowledge Flow Analysis for Security Protocols,,,,
+cs/0605115,Key Distillation and the Secret-Bit Fraction,,,,
+cs/0605139,"Construction and Count of Boolean Functions of an Odd Number of
+  Variables with Maximum Algebraic Immunity",,,,
+cs/0606011,Vectorial Resilient $PC(l)$ of Order $k$ Boolean Functions from AG-Codes,,,,
+cs/0606018,Emerging Markets for RFID Traces,,,,
+cs/0606030,"Explicit Randomness is not Necessary when Modeling Probabilistic
+  Encryption",,,,
+cs/0606032,A secure archive for Voice-over-IP conversations,,,,
+cs/0606034,A constructive and unifying framework for zero-bit watermarking,,,,
+cs/0606123,Use MPLS in Lan's,,,,
+cs/0607035,"Resettable Zero Knowledge in the Bare Public-Key Model under Standard
+  Assumption",,,,
+cs/0607042,"Towards a classical proof of exponential lower bound for 2-probe smooth
+  codes",,,,
+cs/0607049,Secure Component Deployment in the OSGi(tm) Release 4 Platform,,,,
+cs/0607104,"Reducing the Computation of Linear Complexities of Periodic Sequences
+  over $GF(p^m)$",,,,
+cs/0607142,"Employing Trusted Computing for the forward pricing of pseudonyms in
+  reputation systems",,,,
+cs/0607146,Modeling Adversaries in a Logic for Security Protocol Analysis,,,,
+cs/0608022,Expressing Security Properties Using Selective Interleaving Functions,,,,
+cs/0608031,Secure Positioning of Mobile Terminals with Simplex Radio Communication,,,,
+cs/0608055,MDS Ideal Secret Sharing Scheme from AG-codes on Elliptic Curves,,,,
+cs/0608080,Lower Bounds on the Algebraic Immunity of Boolean Functions,,,,
+cs/0609035,Rational Secret Sharing and Multiparty Computation: Extended Abstract,,,,
+cs/0609057,"Concurrently Non-Malleable Zero Knowledge in the Authenticated
+  Public-Key Model",,,,
+cs/0609166,Private Approximate Heavy Hitters,,,,
+cs/0610014,Implementing a Unification Algorithm for Protocol Analysis with XOR,,,,
+cs/0610048,"MV3: A new word based stream cipher using rapid mixing and revolving
+  buffers",,,,
+cs/0610084,"Share and Disperse: How to Resist Against Aggregator Compromises in
+  Sensor Networks",,,,
+cs/0610105,How To Break Anonymity of the Netflix Prize Dataset,,,,
+cs/0611027,Efficient and Dynamic Group Key Agreement in Ad hoc Networks,,,,
+cs/0611033,Cryptanalyse de Achterbahn-128/80,,,,
+cs/0611035,The Role of Quasi-identifiers in k-Anonymity Revisited,,,,
+cs/0611062,A framework for compositional verification of security protocols,,,,
+cs/0611102,Extending the Trusted Path in Client-Server Interaction,,,,
+cs/0611142,A Symbolic Intruder Model for Hash-Collision Attacks,,,,
+cs/0612064,Bounds on Key Appearance Equivocation for Substitution Ciphers,,,,
+cs/0612073,On the Fingerprinting Capacity Under the Marking Assumption,,,,
+cs/0612084,"Achievable Rates for the General Gaussian Multiple Access Wire-Tap
+  Channel with Collective Secrecy",,,,
+cs/0612098,Algorithms and Approaches of Proxy Signature: A Survey,,,,
+cs/0701024,Secure Communication over Fading Channels,,,,
+cs/0701069,Finding low-weight polynomial multiples using discrete logarithm,,,,
+cs/0701102,Coding Solutions for the Secure Biometric Storage Problem,,,,
+cs/0701124,Group Secret Key Generation Algorithms,,,,
+cs/0701144,Trusted Ticket Systems and Applications,,,,
+cs/0701145,Non-Repudiation in Internet Telephony,,,,
+cs/0702092,"A Note on the Periodicity and the Output Rate of Bit Search Type
+  Generators",,,,
+cs/0702097,Avoiding bias in cards cryptography,,,,
+cs/0702115,Guessing based on length functions,,,,
+cs/0702139,"Characterization of $m$-Sequences of Lengths $2^{2k}-1$ and $2^k-1$ with
+  Three-Valued Crosscorrelation",,,,
+cs/0703032,"An $L (1/3 + \epsilon)$ Algorithm for the Discrete Logarithm Problem for
+  Low Degree Curves",,,,
+cs/0703106,"Practical Identity-Based Encryption (IBE) in Multiple PKG Environments
+  and Its Applications",,,,
+cs/0703140,How to Guarantee Secrecy for Cryptographic Protocols,,,,
+cs/9808003,"Creating Strong Total Commutative Associative Complexity-Theoretic
+  One-Way Functions from Any Complexity-Theoretic One-Way Function",,,,
+cs/9809031,"Security amplification by composition: The case of doubly-iterated,
+  ideal ciphers",,,,
+cs/9809124,Security Policy Specification Using a Graphical Approach,,,,
+cs/9902010,"Multiparty computation unconditionally secure against Q^2 adversary
+  structures",,,,
+cs/9903001,Introduction to the RSA algorithm and modular arithmetic,,,,
+cs/9908008,Secure Multicast in a WAN,,,,
+cs/9908009,Secure Execution of Java Applets using a Remote Playground,,,,
+cs/9908010,On Propagating Updates in a Byzantine Environment,,,,
+cs/9908011,The Load and Availability of Byzantine Quorum Systems,,,,
+cs/9909012,Certificate Revocation Paradigms,,,,
+cs/9912019,Quantum Bit Commitment Expansion,,,,
+math/0211267,On alternative approach for verifiable secret sharing,,,,
+math/0211269,On ASGS framework: general requirements and an example of implementation,,,,
+math/0211317,On graph coloring check-digit method,,,,
+math/0411378,"Do All Elliptic Curves of the Same Order Have the Same Difficulty of
+  Discrete Log?",,,,
+math/0601487,Constructing pairing-friendly elliptic curves with embedding degree 10,,,,
+math/0602282,"The Diffie-Hellman Key Exchange Protocol and non-abelian nilpotent
+  groups",,,,
+math/0603727,Spectral Analysis of Pollard Rho Collisions,,,,
+math/0606022,"Imprimitive permutations groups generated by the round functions of
+  key-alternating block ciphers and truncated differential cryptanalysis",,,,
+math/0606771,Hard Instances of the Constrained Discrete Logarithm Problem,,,,
+math/0611918,Solving random equations in Garside groups using length functions,,,,
+math/0703656,Using decision problems in public key cryptography,,,,
+nlin/0407052,Breaking a chaos-noise-based secure communication scheme,,,,
+nlin/0504059,Discrete Physics: a new way to look at cryptography,,,,
+nlin/0608020,"Cryptanalysis of a chaotic block cipher with external key and its
+  improved version",,,,
+quant-ph/0605150,"Using quantum oblivious transfer to cheat sensitive quantum bit
+  commitment",,,,
+quant-ph/0703107,Quantum Key Distribution with Classical Bob,,,,

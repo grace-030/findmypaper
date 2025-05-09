@@ -1,0 +1,39 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+cs/9908002,"After Compilers and Operating Systems : The Third Advance in Application
+  Support",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0412038,"Tycoon: an Implementation of a Distributed, Market-based Resource
+  Allocation System",2.4711431321721443e-06,0.0,1.0,1.0
+cs/9904020,"ODP channel objects that provide services transparently for distributing
+  processing systems",1.8950380516170012e-06,0.0,1.0,2.0
+cs/9905002,DRAFT : Task System and Item Architecture (TSIA),1.3189329710618589e-06,0.0,0.0,1.0
+cs/0104012,"System Support for Bandwidth Management and Content Adaptation in
+  Internet Applications",,,,
+cs/0111035,Open Source Real Time Operating Systems Overview,,,,
+cs/0309044,The combinatorics of resource sharing,,,,
+cs/0403007,End-User Effects of Microreboots in Three-Tiered Internet Systems,,,,
+cs/0403013,Predictable Software -- A Shortcut to Dependable Computing ?,,,,
+cs/0406005,Microreboot -- A Technique for Cheap Recovery,,,,
+cs/0410007,"A Shared Write-protected Root Filesystem for a Group of Networked
+  Clients",,,,
+cs/0411080,"Modeling the input history of programs for improved instruction-memory
+  performance",,,,
+cs/0502027,"Markets are Dead, Long Live Markets",,,,
+cs/0502090,UNICORE - From Project Results to Production Grids,,,,
+cs/0503074,A File System Abstraction for Sense and Respond Systems,,,,
+cs/0504051,A Scalable Stream-Oriented Framework for Cluster Applications,,,,
+cs/0508130,A Fresh Look at the Reliability of Long-term Digital Storage,,,,
+cs/0511010,"A Survey of Virtualization Techniques Focusing on Secure On-Demand
+  Cluster Computing",,,,
+cs/0601068,Checkbochs: Use Hardware to Check Software,,,,
+cs/0603075,Unmanaged Internet Protocol: Taming the Edge Network Management Crisis,,,,
+cs/0603076,User-Relative Names for Globally Connected Personal Devices,,,,
+cs/0607049,Secure Component Deployment in the OSGi(tm) Release 4 Platform,,,,
+cs/0611116,Discovering Network Topology in the Presence of Byzantine Faults,,,,
+cs/0611117,2FACE: Bi-Directional Face Traversal for Efficient Geometric Routing,,,,
+cs/0612079,Executing the same binary on several operating systems,,,,
+cs/0701037,"DMTCP: Transparent Checkpointing for Cluster Computations and the
+  Desktop",,,,
+cs/9809006,"The Design and Architecture of the Microsoft Cluster Service -- A
+  Practical Approach to High-Availability and Scalability",,,,
+cs/9903014,"Perpetual Adaptation of Software to Hardware: An Extensible Architecture
+  for Providing Code Optimization as a Central System Service",,,,

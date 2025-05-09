@@ -1,0 +1,34 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+quant-ph/0502101,"Thresholds for Linear Optics Quantum Computing with Photon Loss at the
+  Detectors",5.103520491506028e-06,1.4100659267333568e-06,9.0,4.0
+quant-ph/0211014,Efficient Quantum Circuits for Non-Qubit Quantum Error-Correcting Codes,2.911825096938466e-06,0.0,14.0,4.0
+quant-ph/0303091,"Comment on ""Probabilistic Quantum Memories""",2.040216773359791e-06,0.0,1.0,2.0
+quant-ph/0312164,On optimal quantum codes,1.7647515269713487e-06,1.9521403691669772e-05,5.0,3.0
+quant-ph/0511148,Limitations of Quantum Coset States for Graph Isomorphism,1.703003024765287e-06,0.0,1.0,3.0
+quant-ph/9812070,"Polynomial-Time Solution to the Hidden Subgroup Problem for a Class of
+  non-abelian Groups",1.6731509930381831e-06,0.0,2.0,27.0
+quant-ph/0409135,Equivalence of Decoupling Schemes and Orthogonal Arrays,1.6324909159458247e-06,0.0,2.0,5.0
+quant-ph/9807064,Fast Quantum Fourier Transforms for a Class of Non-abelian Groups,1.6099935172936942e-06,0.0,4.0,5.0
+quant-ph/0109088,"Simulating Hamiltonians in Quantum Networks: Efficient Schemes and
+  Complexity Bounds",1.4682515369185148e-06,7.700733395875701e-07,1.0,11.0
+quant-ph/0309121,Quantum Software Reusability,1.462974508309704e-06,0.0,2.0,3.0
+quant-ph/0010082,Beyond Stabilizer Codes I: Nice Error Bases,1.4403218946553475e-06,0.0,1.0,7.0
+quant-ph/0502031,Mutually Unbiased Bases are Complex Projective 2-Designs,1.3827465909521965e-06,2.750390761691641e-09,1.0,13.0
+quant-ph/0503239,"On Approximately Symmetric Informationally Complete Positive
+  Operator-Valued Measures and Related Systems of Quantum States",1.3827465909521965e-06,2.750390761691641e-09,1.0,4.0
+quant-ph/9712040,Computing Local Invariants of Qubit Systems,1.3757392235254796e-06,0.0,1.0,18.0
+quant-ph/0408078,Efficient Decoupling Schemes Based on Hamilton Cycles,1.3393578841462218e-06,0.0,1.0,1.0
+quant-ph/0309120,Constructions of Mutually Unbiased Bases,1.3189329710618589e-06,0.0,0.0,31.0
+quant-ph/0301078,On the Monomiality of Nice Error Bases,1.3189329710618589e-06,0.0,0.0,5.0
+quant-ph/0109063,"Universal Simulation of Hamiltonians Using a Finite Set of Control
+  Operations",1.3189329710618589e-06,0.0,0.0,16.0
+quant-ph/0502138,New Tales of the Mean King,1.3189329710618589e-06,0.0,0.0,5.0
+quant-ph/0312228,Remarks on Clifford codes,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0503114,"On the Power of Random Bases in Fourier Sampling: Hidden Subgroup
+  Problem in the Heisenberg Group",1.3189329710618589e-06,0.0,0.0,4.0
+quant-ph/0407054,Implementation of group-covariant POVMs by orthogonal measurements,1.3189329710618589e-06,0.0,0.0,2.0
+quant-ph/0111038,Discrete Cosine Transforms on Quantum Computers,1.3189329710618589e-06,0.0,0.0,3.0
+quant-ph/0111039,"On the Irresistible Efficiency of Signal Processing Methods in Quantum
+  Computing",1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0010076,Beyond Stabilizer Codes II: Clifford Codes,,,,
+quant-ph/0208130,Engineering Functional Quantum Algorithms,,,,

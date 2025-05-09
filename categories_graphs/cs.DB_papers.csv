@@ -1,0 +1,257 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+cs/0311031,"Towards an Intelligent Database System Founded on the SP Theory of
+  Computing and Cognition",4.370789514553709e-06,0.0,6.0,0.0
+cs/0412098,The Google Similarity Distance,3.4990187908037217e-06,0.0,1.0,3.0
+cs/0401015,Query Answering in Peer-to-Peer Data Exchange Systems,3.4370183180622248e-06,0.0,2.0,0.0
+cs/0307073,Search and Navigation in Relational Databases,3.3749066596554898e-06,0.0,1.0,0.0
+cs/0410053,"An Extended Generalized Disjunctive Paraconsistent Data Model for
+  Disjunctive Information",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0211020,"Monadic Datalog and the Expressive Power of Languages for Web
+  Information Extraction",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0004007,Deciding first-order properties of locally tree-decomposable structures,2.4711431321721443e-06,0.0,1.0,0.0
+cs/9904002,A geometric framework for modelling similarity search,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0505059,"Consistent query answers on numerical databases under aggregate
+  constraints",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0610011,Creation and use of Citations in the ADS,2.3469198153586743e-06,0.0,1.0,0.0
+cs/0010033,A Formal Framework for Linguistic Annotation (revised version),2.2158564365873934e-06,0.0,2.0,0.0
+cs/0204026,Querying Databases of Annotated Speech,2.2158564365873934e-06,0.0,2.0,0.0
+cs/0212004,Minimal-Change Integrity Maintenance Using Tuple Deletions,1.8950380516170012e-06,0.0,1.0,1.0
+cs/0211042,Database Repairs and Analytic Tableaux,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0703056,Unasssuming View-Size Estimation Techniques in OLAP,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0703058,"A Comparison of Five Probabilistic View-Size Estimation Techniques in
+  OLAP",1.8950380516170012e-06,0.0,1.0,0.0
+cs/0007023,Towards a query language for annotation graphs,1.5493750032839157e-06,0.0,1.0,0.0
+cs/0307032,Data Management and Mining in Astrophysical Databases,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0610010,"One-Pass, One-Hash n-Gram Statistics Estimation",1.3189329710618589e-06,0.0,0.0,2.0
+cs/0106046,"Expressing the cone radius in the relational calculus with real
+  polynomial constraints",1.3189329710618589e-06,0.0,0.0,1.0
+cs/9901004,"On the geometry of similarity search: dimensionality curse and
+  concentration of measure",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0503032,"Complexity and Approximation of Fixing Numerical Attributes in Databases
+  Under Integrity Constraints",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0310012,A Formal Comparison of Visual Web Wrapper Generators,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0409020,"A Generalized Disjunctive Paraconsistent Data Model for Negative and
+  Disjunctive Information",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0611094,Reducing Order Enforcement Cost in Complex Query Plans,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0204010,On the Computational Complexity of Consistent Query Answers,1.3189329710618589e-06,0.0,0.0,2.0
+physics/0509039,The Dynamics of Viral Marketing,1.3189329710618589e-06,0.0,0.0,1.0
+astro-ph/0008307,"Science User Scenarios for a Virtual Observatory Design Reference
+  Mission: Science Requirements for Data Mining",,,,
+astro-ph/0010583,Data Mining in Astronomical Databases,,,,
+cs/0002013,Computing and Comparing Semantics of Programs in Multi-valued Logics,,,,
+cs/0003005,"Don't Trash your Intermediate Results, Cache 'em",,,,
+cs/0003006,"Materialized View Selection and Maintenance Using Multi-Query
+  Optimization",,,,
+cs/0003043,Automatic Classification of Text Databases through Query Probing,,,,
+cs/0004010,Design and Evaluation of Mechanisms for a Multicomputer Object Store,,,,
+cs/0007026,Integrating E-Commerce and Data Mining: Architecture and Challenges,,,,
+cs/0007044,"Managing Periodically Updated Data in Relational Databases: A Stochastic
+  Modeling Approach",,,,
+cs/0008009,Data Mining to Measure and Improve the Success of Web Sites,,,,
+cs/0010006,Applications of Data Mining to Electronic Commerce,,,,
+cs/0011024,Algorithms for Rewriting Aggregate Queries Using Views,,,,
+cs/0011033,Web Mining Research: A Survey,,,,
+cs/0011041,EquiX---A Search and Query Language for XML,,,,
+cs/0101034,Data Security Equals Graph Connectivity,,,,
+cs/0104008,Event Indexing Systems for Efficient Selection and Analysis of HERA Data,,,,
+cs/0106012,Computational Properties of Metaquerying Problems,,,,
+cs/0106021,Object-oriented solutions,,,,
+cs/0106023,Object-oriented tools for advanced applications,,,,
+cs/0106024,Objects and their computational framework,,,,
+cs/0106026,Event Driven Computations for Relational Query Language,,,,
+cs/0106027,Event Driven Objects,,,,
+cs/0106029,"Building Views with Description Logics in ADE: Application Development
+  Environment",,,,
+cs/0106030,"Logic, Individuals and Concepts",,,,
+cs/0106034,Solving equations in the relational algebra,,,,
+cs/0106035,Polymorphic type inference for the relational algebra,,,,
+cs/0106055,A Seamless Integration of Association Rule Mining with Database Systems,,,,
+cs/0109040,"The Building of BODHI, a Bio-diversity Database System",,,,
+cs/0110020,"Structuring Business Metadata in Data Warehouse Systems for Effective
+  Business Support",,,,
+cs/0110032,A logic-based approach to data integration,,,,
+cs/0110044,EquiX--A Search and Query Language for XML,,,,
+cs/0112007,A Tight Upper Bound on the Number of Candidate Patterns,,,,
+cs/0112011,Interactive Constrained Association Rule Mining,,,,
+cs/0112013,"A Data Mining Framework for Optimal Product Selection in Retail
+  Supermarket Data: The Generalized PROFSET Model",,,,
+cs/0202001,The Deductive Database System LDL++,,,,
+cs/0202005,Secure History Preservation Through Timeline Entanglement,,,,
+cs/0202037,Towards practical meta-querying,,,,
+cs/0204046,Optimal Aggregation Algorithms for Middleware,,,,
+cs/0205060,Optimizing Queries Using a Meta-level Database,,,,
+cs/0206004,Mining All Non-Derivable Frequent Itemsets,,,,
+cs/0206023,Relational Association Rules: getting WARMeR,,,,
+cs/0207011,Improving Web Database Access Using Decision Diagrams,,,,
+cs/0207076,Introducing Dynamic Behavior in Amalgamated Knowledge Bases,,,,
+cs/0207085,"Repairing Inconsistent Databases: A Model-Theoretic Approach and
+  Abductive Reasoning",,,,
+cs/0207093,Preference Queries,,,,
+cs/0207094,Answer Sets for Consistent Query Answering in Inconsistent Databases,,,,
+cs/0210028,Equivalences Among Aggregate Queries with Negation,,,,
+cs/0212017,Classes of Spatiotemporal Objects and Their Closure Properties,,,,
+cs/0212049,"An Ehrenfeucht-Fraisse Game Approach to Collapse Results in Database
+  Theory",,,,
+cs/0212052,"Improving the Functionality of UDDI Registries through Web Service
+  Semantics",,,,
+cs/0301017,"Completeness and Decidability Properties for Functional Dependencies in
+  XML",,,,
+cs/0302004,Unique Pattern Matching in Strings,,,,
+cs/0303022,Probabilistic behavior of hash tables,,,,
+cs/0306006,"Experience with the Open Source based implementation for ATLAS
+  Conditions Data Management System",,,,
+cs/0306013,Transparent Persistence with Java Data Objects,,,,
+cs/0306019,Relational databases for data management in PHENIX,,,,
+cs/0306023,The Redesigned BaBar Event Store: Believe the Hype,,,,
+cs/0306049,Hyperdense Coding Modulo 6 with Filter-Machines,,,,
+cs/0306056,Twelve Ways to Build CMS Crossings from ROOT Files,,,,
+cs/0306061,Operational Aspects of Dealing with the Large BaBar Data Set,,,,
+cs/0306065,"POOL File Catalog, Collection and Metadata Components",,,,
+cs/0306081,"An on-line Integrated Bookkeeping: electronic run log book and Meta-Data
+  Repository for ATLAS",,,,
+cs/0308001,"Two- versus three-dimensional connectivity testing of first-order
+  queries to semi-algebraic sets",,,,
+cs/0308004,DPG: A Cache-Efficient Accelerator for Sorting and for Join Operators,,,,
+cs/0308013,"A Robust and Computational Characterisation of Peer-to-Peer Database
+  Systems",,,,
+cs/0308014,On the expressive power of semijoin queries,,,,
+cs/0309011,Indexing of Tables Referencing Complex Structures,,,,
+cs/0310028,Providing Diversity in K-Nearest Neighbor Query Results,,,,
+cs/0310035,Supporting Exploratory Queries in Database Centric Web Applications,,,,
+cs/0310038,On Addressing Efficiency Concerns in Privacy Preserving Data Mining,,,,
+cs/0311038,"XPath-Logic and XPathLog: A Logic-Programming Style XML Data
+  Manipulation Language",,,,
+cs/0311041,S-ToPSS: Semantic Toronto Publish/Subscribe System,,,,
+cs/0311047,"I know what you mean: semantic issues in Internet-scale
+  publish/subscribe systems",,,,
+cs/0312041,Greedy Algorithms in Datalog,,,,
+cs/0312042,Declarative Semantics for Active Rules,,,,
+cs/0312043,On A Theory of Probabilistic Deductive Databases,,,,
+cs/0312046,"On the Abductive or Deductive Nature of Database Schema Validation and
+  Update Processing Problems",,,,
+cs/0402003,Semantic Optimization of Preference Queries,,,,
+cs/0402007,"An Integrated Approach for Extraction of Objects from XML and
+  Transformation to Heterogeneous Object Oriented Databases",,,,
+cs/0402008,"A Use-Case Driven Approach in Requirements Engineering : The Mammogrid
+  Project",,,,
+cs/0402009,Resolving Clinicians Queries Across a Grids Infrastructure,,,,
+cs/0402016,Perspects in astrophysical databases,,,,
+cs/0403014,Search Efficiency in Indexing Structures for Similarity Searching,,,,
+cs/0404003,Enhancing the expressive power of the U-Datalog language,,,,
+cs/0405007,"""In vivo"" spam filtering: A challenge problem for data mining",,,,
+cs/0405069,Mining Frequent Itemsets from Secondary Memory,,,,
+cs/0405076,An Abductive Framework For Computing Knowledge Base Updates,,,,
+cs/0406016,"Schema-based Scheduling of Event Processors and Buffer Minimization for
+  Queries on Structured Data Streams",,,,
+cs/0406055,Web Services: A Process Algebra Approach,,,,
+cs/0406058,Proofs of Zero Knowledge,,,,
+cs/0406060,"Well-Definedness and Semantic Type-Checking in the Nested Relational
+  Calculus and XQuery",,,,
+cs/0407007,The semijoin algebra and the guarded fragment,,,,
+cs/0407035,A Framework for High-Accuracy Privacy-Preserving Mining,,,,
+cs/0408036,Consensus on Transaction Commit,,,,
+cs/0408039,Medians and Beyond: New Aggregation Techniques for Sensor Networks,,,,
+cs/0408051,Scalable XSLT Evaluation,,,,
+cs/0408054,Providing Authentic Long-term Archival Access to Complex Relational Data,,,,
+cs/0410001,The Infati Data,,,,
+cs/0410038,Frequent Knot Discovery,,,,
+cs/0410054,Paraconsistent Intuitionistic Fuzzy Relational Data Model,,,,
+cs/0410070,Using image partitions in 4th Dimension,,,,
+cs/0501006,"Formal Languages and Algorithms for Similarity based Retrieval from
+  Sequence Databases",,,,
+cs/0501029,"Estimating Range Queries using Aggregate Data with Integrity
+  Constraints: a Probabilistic Approach",,,,
+cs/0501042,Maintaining Consistency of Data on the Web,,,,
+cs/0502075,"How far will you walk to find your shortcut: Space Efficient Synopsis
+  Construction Algorithms",,,,
+cs/0503012,"First-order Complete and Computationally Complete Query Languages for
+  Spatio-Temporal Databases",,,,
+cs/0503022,Theory and Practice of Transactional Method Caching,,,,
+cs/0503061,Integrity Constraints in Trust Management,,,,
+cs/0503062,"On the Complexity of Nonrecursive XQuery and Functional Query Languages
+  on Complex Values",,,,
+cs/0503092,Monotonic and Nonmonotonic Preference Revision,,,,
+cs/0504051,A Scalable Stream-Oriented Framework for Cluster Applications,,,,
+cs/0505002,"Tight Lower Bounds for Query Processing on Streaming and External Memory
+  Data",,,,
+cs/0505038,Efficient Management of Short-Lived Data,,,,
+cs/0505071,Summarization Techniques for Pattern Collections in Data Mining,,,,
+cs/0505074,Instance-Independent View Serializability for Semistructured Databases,,,,
+cs/0506002,HepToX: Heterogeneous Peer to Peer XML Databases,,,,
+cs/0506026,Database Reformulation with Integrity Constraints (extended abstract),,,,
+cs/0506063,Priority-Based Conflict Resolution in Inconsistent Relational Databases,,,,
+cs/0507067,"Conjunctive Query Containment and Answering under Description Logics
+  Constraints",,,,
+cs/0508130,A Fresh Look at the Reliability of Long-term Digital Storage,,,,
+cs/0510036,Semantic Optimization Techniques for Preference Queries,,,,
+cs/0511052,Mining Cellular Automata DataBases throug PCA Models,,,,
+cs/0601114,"Efficient Query Answering over Conceptual Schemas of Relational
+  Databases : Technical Report",,,,
+cs/0602004,Conjunctive Queries over Trees,,,,
+cs/0602006,A Visual Query Language for Complex-Value Databases,,,,
+cs/0602039,Path Summaries and Path Partitioning in Modern XML Databases,,,,
+cs/0602076,Exploring term-document matrices from matrix models in text mining,,,,
+cs/0603028,On the tree-transformation power of XSLT,,,,
+cs/0603053,"Automatic generation of simplified weakest preconditions for integrity
+  constraint verification",,,,
+cs/0604002,"Complexity of Consistent Query Answering in Databases under
+  Cardinality-Based and Incremental Repair Semantics",,,,
+cs/0604076,Semantically Correct Query Answers in the Presence of Null Values,,,,
+cs/0605103,A Better Alternative to Piecewise Linear Time Series Segmentation,,,,
+cs/0605124,Semantics and Complexity of SPARQL,,,,
+cs/0605127,Analyzing Large Collections of Electronic Text Using OLAP,,,,
+cs/0606024,Consecutive Support: Better Be Close!,,,,
+cs/0606062,Logics for Unranked Trees: An Overview,,,,
+cs/0606065,"On the complexity of XPath containment in the presence of disjunction,
+  DTDs, and variables",,,,
+cs/0606075,"10^(10^6) Worlds and Beyond: Efficient Representation and Processing of
+  Incomplete Information",,,,
+cs/0606094,"On Typechecking Top-Down XML Tranformations: Fixed Input or Output
+  Schemas",,,,
+cs/0607013,Database Querying under Changing Preferences,,,,
+cs/0607039,Set-Theoretic Preliminaries for Computer Scientists,,,,
+cs/0608091,On-line topological simplification of weighted graphs,,,,
+cs/0610007,Full Text Searching in the Astrophysics Data System,,,,
+cs/0610008,Connectivity in the Astronomy Digital Library,,,,
+cs/0610029,Data in the ADS -- Understanding How to Use it Better,,,,
+cs/0610105,How To Break Anonymity of the Netflix Prize Dataset,,,,
+cs/0610128,"Hierarchical Bin Buffering: Online Local Moments for Dynamic External
+  Memory Arrays",,,,
+cs/0611031,Efficient Threshold Aggregation of Moving Objects,,,,
+cs/0611035,The Role of Quasi-identifiers in k-Anonymity Revisited,,,,
+cs/0612031,Estimating Aggregate Properties on Probabilistic Streams,,,,
+cs/0612055,Linear Probing with Constant Independence,,,,
+cs/0612083,A Byzantine Fault Tolerant Distributed Commit Protocol,,,,
+cs/0612086,"An asynchronous, decentralised commitment protocol for semantic
+  optimistic replication",,,,
+cs/0612102,The Dichotomy of Conjunctive Queries on Probabilistic Structures,,,,
+cs/0612103,The Boundary Between Privacy and Utility in Data Anonymization,,,,
+cs/0612114,Demaq: A Foundation for Declarative XML Message Processing,,,,
+cs/0612123,"Electronic Laboratory Notebook Assisting Reflectance Spectrometry in
+  Legal Medicine",,,,
+cs/0612127,bdbms -- A Database Management System for Biological Data,,,,
+cs/0702142,An Optimal Linear Time Algorithm for Quasi-Monotonic Segmentation,,,,
+cs/0702143,Attribute Value Reordering For Efficient Hybrid OLAP,,,,
+cs/0702144,Slope One Predictors for Online Rating-Based Collaborative Filtering,,,,
+cs/0702159,Perfect Hashing for Data Management Applications,,,,
+cs/0703081,Randomized Computations on Large Data Sets: Tight Lower Bounds,,,,
+cs/0703113,Automatic Selection of Bitmap Join Indexes in Data Warehouses,,,,
+cs/0703114,Clustering-Based Materialized View Selection in Data Warehouses,,,,
+cs/9809004,Performance / Price Sort,,,,
+cs/9809005,"The Five-Minute Rule Ten Years Later, and Other Computer Storage Rules
+  of Thumb",,,,
+cs/9809023,Similarity-Based Queries for Time Series Data,,,,
+cs/9809033,Efficient Retrieval of Similar Time Sequences Using DFT,,,,
+cs/9810002,Pre-fetching tree-structured data in distributed memory,,,,
+cs/9812022,Hypertree Decompositions and Tractable Queries,,,,
+cs/9902005,Mutual Search,,,,
+cs/9902018,ZBroker: A Query Routing Broker for Z39.50 Databases,,,,
+cs/9907043,"A simple C++ library for manipulating scientific data sets as structured
+  data",,,,
+cs/9909016,Least expected cost query optimization: an exercise in utility,,,,
+cs/9910019,"Consistent Checkpointing in Distributed Databases: Towards a Formal
+  Approach",,,,
+cs/9910021,Efficient and Extensible Algorithms for Multi Query Optimization,,,,
+cs/9912015,Comparative Analysis of Five XML Query Languages,,,,
+math/0703019,Reading policies for joins: An asymptotic analysis,,,,
+physics/0504185,Frequency of occurrence of numbers in the World Wide Web,,,,

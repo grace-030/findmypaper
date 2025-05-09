@@ -1,0 +1,7 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+cs/0209018,Probabilistic Reversible Automata and Quantum Automata,2.861587366067956e-06,0.0,6.0,0.0
+quant-ph/0102054,Quantum Pushdown Automata,2.822861156178135e-06,0.0,4.0,0.0
+cs/0410032,The state complexity of L^2 and L^k,,,,
+cs/9809118,The Boolean Hierarchy over Level 1/2 of the Straubing-Therien Hierarchy,,,,
+math/0610067,On the context-freeness of the set of words containing overlaps,,,,
+quant-ph/9905026,Quantum finite multitape automata,,,,

@@ -1,0 +1,213 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+nlin/0505009,A General Methodology for Designing Self-Organizing Systems,8.599137784477346e-06,0.0,7.0,1.0
+cs/0506050,The Workshop - Implementing Well Structured Enterprise Applications,4.651340137579245e-06,0.0,3.0,0.0
+cond-mat/0306509,Bug propagation and debugging in asymmetric software structures,4.320524592179016e-06,0.0,3.0,0.0
+cs/0508105,"A Tracer Driver for Versatile Dynamic Analyses of Constraint Logic
+  Programs",3.62335329328243e-06,0.0,2.0,0.0
+cs/0310042,"Rigorous design of tracers: an experiment for constraint logic
+  programming",3.62335329328243e-06,0.0,3.0,0.0
+cs/0007008,Compiling Language Definitions: The ASF+SDF Compiler,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0111043,"Prototyping CLP(FD) Tracers: a Trace Model and an Experimental
+  Validation Environment",2.4711431321721443e-06,0.0,2.0,0.0
+cs/0505058,"The Cyborg Astrobiologist: Scouting Red Beds for Uncommon Features with
+  Geological Significance",2.2960610328299915e-06,0.0,2.0,1.0
+physics/0511064,Logarithmic growth dynamics in software networks,2.21975012828474e-06,0.0,1.0,0.0
+cond-mat/0305575,"Software systems as complex networks: structure, function, and
+  evolvability of software collaboration graphs",2.0039206807917755e-06,0.0,1.0,1.0
+cs/0305037,Power Law Distributions in Class Relationships,1.6269640167695072e-06,3.980365510320144e-06,1.0,2.0
+cs/0410071,The Cyborg Astrobiologist: First Field Experience,1.60698551133943e-06,0.0,1.0,2.0
+cs/9903002,"An Algebraic Programming Style for Numerical Software and its
+  Optimization",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0508023,"Software Libraries and Their Reuse: Entropy, Kolmogorov Complexity, and
+  Zipf's Law",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0608104,Heap Reference Analysis Using Access Graphs,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0306098,"Making refactoring decisions in large-scale Java systems: an empirical
+  stance",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0111039,"An Integrated Development Environment for Declarative Multi-Paradigm
+  Programming",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0010038,Collecting Graphical Abstract Views of Mercury Program Executions,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0012005,Value Withdrawal Explanation in CSP,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0207047,Tracing and Explaining Execution of CLP(FD) Programs,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0306047,Concrete uses of XML in software development and data analysis,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0111040,"Combining Propagation Information and Search Tree Visualization using
+  ILOG OPL Studio",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0212046,Confluent Drawings: Visualizing Non-planar Diagrams in a Planar Way,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0207048,"CLPGUI: a generic graphical user interface for constraint logic
+  programming over finite domains",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0307201,Punctuated Equilibrium in Software Evolution,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0306511,Closed source versus open source in a model of software bug dynamics,,,,
+cs/0007006,DISCO: An object-oriented system for music composition and sound design,,,,
+cs/0009030,"From Syntactic Theories to Interpreters: A Specification Language and
+  Its Compilation",,,,
+cs/0011005,Non-intrusive on-the-fly data race detection using execution replay,,,,
+cs/0011006,Execution replay and debugging,,,,
+cs/0011017,Automatic Debugging Support for UML Designs,,,,
+cs/0011027,Extended Abstract - Model-Based Debugging of Java Programs,,,,
+cs/0011029,Systematic Debugging of Attribute Grammars,,,,
+cs/0012007,"Kima - an Automated Error Correction System for Concurrent Logic
+  Programs",,,,
+cs/0012009,Finding Failure Causes through Automated Testing,,,,
+cs/0012012,A brief overview of the MAD debugging activities,,,,
+cs/0012014,Slicing of Constraint Logic Programs,,,,
+cs/0101007,"Assertion checker for the C programming language based on computations
+  over event traces",,,,
+cs/0101008,A Knowledge-based Automated Debugger in Learning System,,,,
+cs/0101009,Generation of and Debugging with Logical Pre and Postconditions,,,,
+cs/0105006,"Reverse Engineering from Assembler to Formal Specifications via Program
+  Transformations",,,,
+cs/0105008,Applying Slicing Technique to Software Architectures,,,,
+cs/0105009,Using Dependence Analysis to Support Software Architecture Understanding,,,,
+cs/0105010,On Assessing the Complexity of Software Architectures,,,,
+cs/0105018,"HTTP Cookies: Standards, Privacy, and Politics",,,,
+cs/0106014,L.T.Kuzin: Research Program,,,,
+cs/0106027,Event Driven Objects,,,,
+cs/0106030,"Logic, Individuals and Concepts",,,,
+cs/0111037,User-friendly explanations for constraint programming,,,,
+cs/0111041,"On the Design of a Tool for Supporting the Construction of Logic
+  Programs",,,,
+cs/0111046,HyperPro An integrated documentation environment for CLP,,,,
+cs/0201011,A Backward Analysis for Constraint Logic Programs,,,,
+cs/0202002,A Refinement Calculus for Logic Programs,,,,
+cs/0202006,Approximate Computation of Reach Sets in Hybrid Systems,,,,
+cs/0202027,"BSML: A Binding Schema Markup Language for Data Interchange in Problem
+  Solving Environments (PSEs)",,,,
+cs/0204034,"Monitoring and Debugging Concurrent and Distributed Object-Oriented
+  Systems",,,,
+cs/0204035,"Semantic Properties for Lightweight Specification in Knowledgeable
+  Development Environments",,,,
+cs/0204036,Semantic Component Composition,,,,
+cs/0205052,Three-Tiered Specification of Micro-Architectures,,,,
+cs/0207044,Declarative program development in Prolog with GUPU,,,,
+cs/0207046,COINS: a constraint-based interactive solving system,,,,
+cs/0207049,More Precise Yet Efficient Type Inference for Logic Programs,,,,
+cs/0207050,"Value withdrawal explanations: a theoretical tool for programming
+  environments",,,,
+cs/0207051,Exporting Prolog source code,,,,
+cs/0207053,An Architecture for Making Object-Oriented Systems Available from Prolog,,,,
+cs/0207054,"Enhancing Usefulness of Declarative Programming Frameworks through
+  Complete Integration",,,,
+cs/0301032,"Subclassing errors, OOP, and practically checkable rules to prevent them",,,,
+cs/0303010,Techniques and Applications of Computation Slicing,,,,
+cs/0303027,"Numerical Coverage Estimation for the Symbolic Simulation of Real-Time
+  Systems",,,,
+cs/0306005,The Virtual Monte Carlo,,,,
+cs/0306028,An Abstract Programming System,,,,
+cs/0306042,"IGUANA Architecture, Framework and Toolkit for Interactive Graphics",,,,
+cs/0306054,OVAL: the CMS Testing Robot,,,,
+cs/0306057,IceCube's Development Environment,,,,
+cs/0306076,FAYE: A Java Implement of the Frame/Stream/Stop Analysis Model,,,,
+cs/0306080,BOA: Framework for Automated Builds,,,,
+cs/0306083,The Athena Startup Kit,,,,
+cs/0306085,GANGA: a user-Grid interface for Atlas and LHCb,,,,
+cs/0306089,The StoreGate: a Data Model for the Atlas Software Architecture,,,,
+cs/0308040,Open source software and peer review,,,,
+cs/0309029,Instrumenting self-modifying code,,,,
+cs/0309030,Model-Based Debugging using Multiple Abstract Models,,,,
+cs/0309031,Timestamp Based Execution Control for C and Java Programs,,,,
+cs/0309032,Towards declarative diagnosis of constraint programs over finite domains,,,,
+cs/0309037,Postmortem Object Type Identification,,,,
+cs/0309047,Causes and Effects in Computer Programs,,,,
+cs/0309055,A mathematical framework for automated bug localization,,,,
+cs/0310007,Event-based Program Analysis with DeWiz,,,,
+cs/0310015,"Debugging Tool for Localizing Faulty Processes in Message Passing
+  Programs",,,,
+cs/0310016,Debugging Backwards in Time,,,,
+cs/0310024,"Availability Guarantee for Deterministic Replay Starting Points in
+  Real-Time Systems",,,,
+cs/0310026,Generalized Systematic Debugging for Attribute Grammars,,,,
+cs/0310040,Automated Fault Localization Using Potential Invariants,,,,
+cs/0311001,"Modeling State in Software Debugging of VHDL-RTL Designs -- A
+  Model-Based Diagnosis Approach",,,,
+cs/0311040,Idempotent I/O for safe time travel,,,,
+cs/0402006,MammoGrid: Large-Scale Distributed Mammogram Analysis,,,,
+cs/0402007,"An Integrated Approach for Extraction of Objects from XML and
+  Transformation to Heterogeneous Object Oriented Databases",,,,
+cs/0402008,"A Use-Case Driven Approach in Requirements Engineering : The Mammogrid
+  Project",,,,
+cs/0402009,Resolving Clinicians Queries Across a Grids Infrastructure,,,,
+cs/0404037,"Model-checking Driven Black-box Testing Algorithms for Systems with
+  Unspecified Components",,,,
+cs/0404043,Benchmarking Blunders and Things That Go Bump in the Night,,,,
+cs/0406026,Improving Prolog Programs: Refactoring for Prolog,,,,
+cs/0407038,Model Checking of Statechart Models: Survey and Research Directions,,,,
+cs/0407050,Modeling and Validating Hybrid Systems Using VDM and Mathematica,,,,
+cs/0408013,Roles Are Really Great!,,,,
+cs/0408015,On the Theory of Structural Subtyping,,,,
+cs/0408045,On computing the fixpoint of a set of boolean equations,,,,
+cs/0409009,CrocoPat 2.1 Introduction and Reference Manual,,,,
+cs/0409016,"Using a hierarchy of Domain Specific Languages in complex software
+  systems design",,,,
+cs/0410073,On Spatial Conjunction as Second-Order Logic,,,,
+cs/0411096,Inter-Package Dependency Networks in Open-Source Software,,,,
+cs/0501036,Enabling Agents to Dynamically Select Protocols for Interactions,,,,
+cs/0501059,"Under-approximation of the Greatest Fixpoint in Real-Time System
+  Verification",,,,
+cs/0501060,"Under-approximation of the Greatest Fixpoints in Real-Time System
+  Verification",,,,
+cs/0501070,Extending Design by Contract for Aspect-Oriented Programming,,,,
+cs/0502025,EPspectra: A Formal Toolkit for Developing DSP Software Applications,,,,
+cs/0502040,"Testing Systems of Concurrent Black-boxes--an Automata-Theoretic and
+  Decompositional Approach",,,,
+cs/0503015,"A Systematic Aspect-Oriented Refactoring and Testing Strategy, and its
+  Application to JHotDraw",,,,
+cs/0503050,Systematic Method for Path-Complete White Box Testing,,,,
+cs/0504109,"Prototype of Fault Adaptive Embedded Software for Large-Scale Real-Time
+  Systems",,,,
+cs/0505004,Pluggable AOP: Designing Aspect Mechanisms for Third-party Composition,,,,
+cs/0508091,Extending Prolog with Incomplete Fuzzy Information,,,,
+cs/0508108,Proving or Disproving likely Invariants with Constraint Reasoning,,,,
+cs/0508109,Enhancing the Alloy Analyzer with Patterns of Analysis,,,,
+cs/0508111,"A Generic Framework for the Analysis and Specialization of Logic
+  Programs",,,,
+cs/0508123,On Algorithms and Complexity for Sets with Cardinality Constraints,,,,
+cs/0510011,"Diophantus' 20th Problem and Fermat's Last Theorem for n=4:
+  Formalization of Fermat's Proofs in the Coq Proof Assistant",,,,
+cs/0512019,Amazing geometry of genetic space or are genetic algorithms convergent?,,,,
+cs/0601035,Deductive Object Programming,,,,
+cs/0601072,Fast Frequent Querying with Lazy Control Flow Compilation,,,,
+cs/0603016,Object-Oriented Modeling of Programming Paradigms,,,,
+cs/0604019,"The Case for Modeling Security, Privacy, Usability and Reliability
+  (SPUR) in Automotive Software",,,,
+cs/0604073,Octave-GTK: A GTK binding for GNU Octave,,,,
+cs/0605038,An Unfolding-Based Semantics for Logic Programming with Aggregates,,,,
+cs/0605059,Ontological Representations of Software Patterns,,,,
+cs/0605109,Knowledge Flow Analysis for Security Protocols,,,,
+cs/0606003,Modeling Aspect Mechanisms: A Top-Down Approach,,,,
+cs/0606092,Static Analysis using Parameterised Boolean Equation Systems,,,,
+cs/0609104,On Verifying Complex Properties using Symbolic Shape Analysis,,,,
+cs/0609119,"Verification, Validation and Integrity of Distributed and Interchanged
+  Rule Based Policies and Contracts in the Semantic Web",,,,
+cs/0610085,Symbolic Simulation-Checking of Dense-Time Systems,,,,
+cs/0610096,Partial Evaluation for Program Comprehension,,,,
+cs/0610097,Reuse of Specification Patterns with the B Method,,,,
+cs/0611071,Capabilities Engineering: Constructing Change-Tolerant Systems,,,,
+cs/0611072,"Reconciling Synthesis and Decomposition: A Composite Approach to
+  Capability Identification",,,,
+cs/0612082,Developing efficient parsers in Prolog: the CLF manual (v1.0),,,,
+cs/0701081,Fingerprinting Logic Programs,,,,
+cs/0701132,Certifying controls and systems software,,,,
+cs/0702083,Improving Prolog programs: Refactoring for Prolog,,,,
+cs/0703012,"Pre-Requirement Specification Traceability: Bridging the Complexity Gap
+  through Capabilities",,,,
+cs/0703042,Recommender System for Online Dating Service,,,,
+cs/0703080,A Systematic Approach to Web-Application Development,,,,
+cs/9809051,"Spoken Language Dialogue Systems and Components: Best practice in
+  development and evaluation (DISC 24823) - Periodic Progress Report 1: Basic
+  Details of the Action",,,,
+cs/9810009,Object-Oriented Design of Graph Oriented Data Structures,,,,
+cs/9810013,Early Experience with ASDL in lcc,,,,
+cs/9810022,"Broy-Lamport Specification Problem: A Gurevich Abstract State Machine
+  Solution",,,,
+cs/9810023,Equivalence is in the Eye of the Beholder,,,,
+cs/9810024,Evolving Algebras and Partial Evaluation,,,,
+cs/9810025,An Offline Partial Evaluator for Evolving Algebras,,,,
+cs/9810026,"The Railroad Crossing Problem: An Experiment with Instantaneous Actions
+  and Immediate Reactions",,,,
+cs/9811014,Abstract State Machines 1988-1998: Commented ASM Bibliography,,,,
+cs/9903018,LuaJava - A Scripting Tool for Java,,,,
+cs/9906029,Events in Property Patterns,,,,
+cs/9906030,SCR3: towards usability of formal methods,,,,
+cs/9906031,Events in Linear-Time Properties,,,,
+cs/9906032,Formal Modeling in a Commercial Setting: A Case Study,,,,
+cs/9912018,Computation in an algebra of test selection criteria,,,,
+physics/0405154,The ATLAS Tile Calorimeter Test Beam Monitoring Program,,,,

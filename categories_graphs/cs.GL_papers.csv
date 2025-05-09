@@ -1,0 +1,30 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+nlin/0505009,A General Methodology for Designing Self-Organizing Systems,8.599137784477346e-06,0.0,7.0,1.0
+cs/0507008,Complexity Science for Simpletons,5.582110567169916e-06,0.0,5.0,0.0
+quant-ph/9809016,An Introduction to Quantum Computing for Non-Physicists,3.4814697371956297e-06,0.0,20.0,22.0
+quant-ph/9905043,"Operation of universal gates in a DXD superconducting solid state
+  quantum computer",2.895189656122831e-06,0.0,5.0,3.0
+physics/0601203,Optimal Traffic Networks,2.7849097187273647e-06,0.0,3.0,4.0
+cs/0607007,Theory of sexes by Geodakian as it is advanced by Iskrin,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0402037,The pre-history of quantum computation,2.129257146127116e-06,0.0,4.0,1.0
+cs/0306132,Classical and Nonextensive Information Theory,2.0933597303180223e-06,0.0,2.0,0.0
+cs/0408006,Why Two Sexes?,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0306609,"Signatures of small-world and scale-free properties in large computer
+  programs",,,,
+cs/0001016,Take-home Complexity,,,,
+cs/0101011,Multiple-Size Divide-and-Conquer Recurrences,,,,
+cs/0210001,Edsger Wybe Dijkstra (1930 -- 2002): A Portrait of a Genius,,,,
+cs/0403009,Demolishing Searle's Chinese Room,,,,
+cs/0404026,DAB Content Annotation and Receiver Hardware Control with XML,,,,
+cs/0410075,Some first thoughts on the stability of the asynchronous systems,,,,
+cs/0602070,Methods for scaling a large member base,,,,
+cs/0608062,Tarski's influence on computer science,,,,
+cs/0610127,The intersection and the union of the asynchronous systems,,,,
+cs/0702141,"Recruitment, Preparation, Retention: A case study of computing culture
+  at the University of Illinois at Urbana-Champaign",,,,
+cs/9301114,Theory and practice,,,,
+cs/9809010,The Revolution Yet to Happen,,,,
+cs/9811005,Writing and Editing Complexity Theory: Tales and Tools,,,,
+cs/9904016,Brittle System Analysis,,,,
+cs/9907014,"No information can be conveyed by certain events: The case of the clever
+  widows of Fornicalia and the Stobon Oracle",,,,

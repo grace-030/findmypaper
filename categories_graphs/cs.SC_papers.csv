@@ -1,0 +1,196 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+hep-th/0612240,"All order epsilon-expansion of Gauss hypergeometric functions with
+  integer and half/integer values of parameters",2.715298085826005e-05,0.0,44.0,0.0
+cs/0604052,"Extension of the functionality of the symbolic program FORM by external
+  software",1.4107287100983516e-05,0.0,23.0,0.0
+cs/0611041,Groebner Bases Applied to Systems of Linear Difference Equations,1.3926279801372476e-05,0.0,13.0,0.0
+math-ph/0508065,"Finding Liouvillian first integrals of rational ODEs of any order in
+  finite terms",7.3955508779886174e-06,0.0,4.0,0.0
+cs/0608005,A field-theory motivated approach to symbolic computer algebra,6.694331333329797e-06,1.4330786046032405e-08,5.0,1.0
+math/0510304,Stationary or static space-times and Young tableaux,6.3056413020003536e-06,0.0,5.0,0.0
+hep-ph/0702279,The Multithreaded version of FORM,5.965886813281882e-06,0.0,15.0,0.0
+cs/0405021,Computing Multi-Homogeneous Bezout Numbers is Hard,5.655144290770314e-06,0.0,1.0,1.0
+math/0507410,"Methods for the construction of generators of algebraic curvature
+  tensors",5.340107666330683e-06,0.0,6.0,0.0
+cs/0512073,Schwerdtfeger-Fillmore-Springer-Cnops Construction Implemented in GiNaC,5.229028763014751e-06,0.0,2.0,2.0
+cs/0510041,Feynman graphs and related Hopf algebras,4.918294102254547e-06,3.980365510320144e-06,7.0,2.0
+cs/0510093,ParFORM: recent development,3.964042904822408e-06,7.4260550565674335e-09,6.0,1.0
+math/0605334,"Gr\""obner Bases and Generation of Difference Schemes for Partial
+  Differential Equations",3.702975115490415e-06,0.0,6.0,1.0
+math/0411056,"Generators of algebraic curvature tensors based on a (2,1)-symmetry",3.5168186122354062e-06,0.0,5.0,2.0
+cs/0411063,"From Tensor Equations to Numerical Code -- Computer Algebra Tools for
+  Numerical Relativity",3.49912997646896e-06,0.0,2.0,0.0
+cs/0502044,"The complexity of computing the Hilbert polynomial of smooth
+  equidimensional complex projective varieties",3.3749066596554898e-06,0.0,1.0,0.0
+cs/0410044,An Example of Clifford Algebras Calculations with GiNaC,3.368447926064598e-06,0.0,1.0,3.0
+cs/0412061,"Free quasi-symmetric functions, product actions and quantum field theory
+  of partitions",3.2723775160645485e-06,0.0,4.0,0.0
+math/0607368,The Newton Polytope of the Implicit Equation,3.057599544256278e-06,2.018899310593236e-06,4.0,2.0
+hep-th/0305176,"Mapping the vacuum structure of gauged maximal supergravities: an
+  application of high-performance symbolic algebra",2.9648353256828188e-06,1.1345991518086937e-07,15.0,3.0
+cs/0608032,Satisfying KBO Constraints,2.923024895913817e-06,0.0,1.0,0.0
+cs/0409006,Maple+GrTensorII libraries for cosmology,2.7283387479621047e-06,0.0,1.0,0.0
+cs/0304043,gTybalt - a free computer algebra system,2.542653451564413e-06,0.0,3.0,0.0
+cs/0407059,On rational definite summation,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0304013,Hidden Polynomial(s) Cryptosystems,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0604066,Univariate polynomial real root isolation: Continued Fractions revisited,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0606091,"On computing fixpoints in well-structured regular model checking, with
+  applications to lossy channel systems",2.4711431321721443e-06,0.0,1.0,0.0
+math/0312171,"Short formulas for algebraic covariant derivative curvature tensors via
+  Algebraic Combinatorics",2.4497348458031034e-06,0.0,5.0,2.0
+math/0610121,"Fast Jacobian group operations for C_{3,4} curves over a large finite
+  field",2.187491248189088e-06,0.0,2.0,0.0
+cs/0602068,"Parallel Symbolic Computation of Curvature Invariants in General
+  Relativity",1.971745160783518e-06,0.0,2.0,0.0
+cs/0610132,List Decoding of Hermitian Codes using Groebner Bases,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0605021,SAT Techniques for Lexicographic Path Orders,1.8950380516170012e-06,0.0,1.0,1.0
+cs/0509070,"A Maple Package for Computing Groebner Bases for Linear Recurrence
+  Relations",1.8849516847429144e-06,1.000793526998472e-06,3.0,6.0
+math-ph/0201011,Symbolic Expansion of Transcendental Functions,1.735729214003082e-06,1.7622349132648492e-08,8.0,32.0
+cs/0501030,"Generalized Laplace transformations and integration of hyperbolic
+  systems of linear partial differential equations",1.703003024765287e-06,0.0,1.0,1.0
+cs/0609075,"On factorization and solution of multidimensional linear partial
+  differential equations",1.703003024765287e-06,0.0,1.0,1.0
+math/0310020,"Generators of algebraic covariant derivative curvature tensors and Young
+  symmetrizers",1.692862531308238e-06,0.0,3.0,5.0
+math/0301042,"On the symmetry classes of the first covariant derivatives of tensor
+  fields",1.6208493962388451e-06,0.0,2.0,3.0
+cs/0407066,ParFORM: Parallel Version of the Symbolic Manipulation Program FORM,1.5338009134419884e-06,0.0,3.0,2.0
+math-ph/0504048,On Compatibility of Discrete Relations,1.4762727422239383e-06,3.980365510320144e-06,2.0,2.0
+math/0212278,"Determination of the structure of algebraic curvature tensors by means
+  of Young symmetrizers",1.3909461061312514e-06,0.0,1.0,11.0
+cs/0512067,Solving Partial Order Constraints for LPO Termination,1.3189329710618589e-06,0.0,0.0,2.0
+cs/9811002,"Factorization of linear partial differential operators and Darboux
+  integrability of nonlinear PDEs",1.3189329710618589e-06,0.0,0.0,3.0
+cs/0503073,Tensor manipulation in GPL Maxima,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0512072,Computations with one and two real algebraic numbers,1.3189329710618589e-06,0.0,0.0,1.0
+math/0603248,"Computing the First Betti Numberand Describing the Connected Components
+  of Semi-algebraic Sets",1.3189329710618589e-06,0.0,0.0,2.0
+cs/0004015,"Introduction to the GiNaC Framework for Symbolic Computation within the
+  C++ Programming Language",1.3189329710618589e-06,0.0,0.0,11.0
+math/0211156,Ideal decompositions and computation of tensor normal forms,1.3189329710618589e-06,0.0,0.0,6.0
+cs/0304004,Quasi-Optimal Arithmetic for Quaternion Polynomials,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0601104,"The complexity of class polynomial computation via floating point
+  approximations",1.3189329710618589e-06,0.0,0.0,1.0
+math/9809009,Uncomputably Large Integral Points on Algebraic Plane Curves?,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0011008,"A Lambda-Calculus with letrec, case, constructors and non-determinism",,,,
+cs/0011043,Rewriting Calculus: Foundations and Applications,,,,
+cs/0105033,Lectures on Reduce and Maple at UAM I - Mexico,,,,
+cs/0106013,The Set of Equations to Evaluate Objects,,,,
+cs/0106042,MACE 2.0 Reference Manual and Guide,,,,
+cs/0107036,"TeXmacs interfaces to Maxima, MuPAD and REDUCE",,,,
+cs/0110023,Set Unification,,,,
+cs/0206010,Performance Comparison of Function Evaluation Methods,,,,
+cs/0206032,A correct proof of the heuristic GCD algorithm,,,,
+cs/0301027,A comparison of four approaches to the calculation of conservation laws,,,,
+cs/0301028,"The integration of systems of linear PDEs using conservation laws of
+  syzygies",,,,
+cs/0301029,Size reduction and partial decoupling of systems of equations,,,,
+cs/0302037,Hidden Polynomial(s) Cryptosystems,,,,
+cs/0303027,"Numerical Coverage Estimation for the Symbolic Simulation of Real-Time
+  Systems",,,,
+cs/0304003,TCTL Inevitability Analysis of Dense-time Systems,,,,
+cs/0305034,Cryptanalysis of HFE,,,,
+cs/0309003,Model Checking Linear Logic Specifications,,,,
+cs/0309008,"Digital Version of Green`s Theorem and its Application to The Coverage
+  Problem in Formal Verification",,,,
+cs/0309045,"A uniform approach to constraint-solving for lists, multisets, compact
+  lists, and sets",,,,
+cs/0309050,"Computing Igusa's Local Zeta Functions of Univariate Polynomials, and
+  Linear Feedback Shift Registers",,,,
+cs/0310055,Mace4 Reference Manual and Guide,,,,
+cs/0310056,OTTER 3.3 Reference Manual,,,,
+cs/0311053,Weak Bezout inequality for D-modules,,,,
+cs/0401012,Algebraic Elimination of epsilon-transitions,,,,
+cs/0403008,"Polynomial-time computing over quadratic maps I: sampling in real
+  algebraic sets",,,,
+cs/0404008,Efficient dot product over word-size finite fields,,,,
+cs/0405060,"An unexpected application of minimization theory to module
+  decompositions",,,,
+cs/0405107,"A Framework for Combining Defeasible Argumentation with Labeled
+  Deduction",,,,
+cs/0406002,A novel approach to symbolic algebra,,,,
+cs/0406030,Abstract Canonical Inference,,,,
+cs/0409029,"Efficient polynomial time algorithms computing industrial-strength
+  primitive roots",,,,
+cs/0412005,Jordan Normal and Rational Normal Form Algorithms,,,,
+cs/0501003,Implementation of Motzkin-Burger algorithm in Maple,,,,
+cs/0501074,Efficient Computation of the Characteristic Polynomial,,,,
+cs/0503008,"Approximation of dynamical systems using S-systems theory : application
+  to biological systems",,,,
+cs/0505030,Computing the Rank and a Small Nullspace Basis of a Polynomial Matrix,,,,
+cs/0508113,"Asymptotically fast polynomial matrix algorithms for multivariable
+  systems",,,,
+cs/0509025,A formally verified proof of the prime number theorem,,,,
+cs/0510014,Computing the Kalman form,,,,
+cs/0510057,Towards a diagrammatic modeling of the LinBox C++ linear algebra library,,,,
+cs/0511033,"Fast (Multi-)Evaluation of Linearly Recurrent Sequences: Improvements
+  and Applications",,,,
+cs/0511066,An introspective algorithm for the integer determinant,,,,
+cs/0601051,A Constructive Semantic Characterization of Aggregates in ASP,,,,
+cs/0601133,Dense Linear Algebra over Finite Fields: the FFLAS and FFPACK packages,,,,
+cs/0602008,Demand Analysis with Partial Predicates,,,,
+cs/0602064,Computing spectral sequences,,,,
+cs/0603063,Unary Primitive Recursive Functions,,,,
+cs/0603071,An Explicit Solution to Post's Problem over the Reals,,,,
+cs/0603082,Solving Sparse Integer Linear Systems,,,,
+cs/0604060,"Polynomial Time Nondimensionalisation of Ordinary Differential Equations
+  via their Lie Point Symmetries",,,,
+cs/0604084,"A Recursive Method for Determining the One-Dimensional Submodules of
+  Laurent-Ore Modules",,,,
+cs/0604101,"Fast computation of power series solutions of systems of differential
+  equations",,,,
+cs/0605068,Low Complexity Algorithms for Linear Recurrences,,,,
+cs/0605082,"Efficient algorithm for computing the Euler-Poincar\'e characteristic of
+  a semi-algebraic set defined by few quadratic inequalities",,,,
+cs/0606031,"Complexity of Resolution of Parametric Systems of Polynomial Equations
+  and Inequations",,,,
+cs/0608016,ACD Term Rewriting,,,,
+cs/0608064,"A linear algebra approach to the differentiation index of generic DAE
+  systems",,,,
+cs/0609020,Fast algorithms for computing isogenies between elliptic curves,,,,
+cs/0610051,"Strong bi-homogeneous B\'{e}zout theorem and its use in effective real
+  algebraic geometry",,,,
+cs/0610136,Bounds on the coefficients of the characteristic and minimal polynomials,,,,
+cs/0612003,Predicate Abstraction via Symbolic Decision Procedures,,,,
+cs/0612033,"Acronym-Meaning Extraction from Corpora Using Multi-Tape Weighted
+  Finite-State Machines",,,,
+cs/0612041,Viterbi Algorithm Generalized for n-Tape Best-Path Search,,,,
+cs/0612050,Explicit factors of some iterated resultants and discriminants,,,,
+cs/0612094,"Reduction of Algebraic Parametric Systems by Rectification of their
+  Affine Expanded Lie Symmetries",,,,
+cs/0612119,Symmetric Subresultants and Applications,,,,
+cs/0701117,Maximum Entropy in the framework of Algebraic Statistics: A First Step,,,,
+cs/0701121,"Signature Sequence of Intersection Curve of Two Quadrics for Exact
+  Morphological Classification",,,,
+cs/0701151,Time- and Space-Efficient Evaluation of Some Hypergeometric Constants,,,,
+cs/0701183,"Certification of the QR factor R, and of lattice basis reducedness",,,,
+cs/0701188,"Faster Inversion and Other Black Box Matrix Computations Using Efficient
+  Block Projections",,,,
+cs/0702010,A canonical form for some piecewise defined functions,,,,
+cs/0702065,Towards a New ODE Solver Based on Cartan's Equivalence Method,,,,
+cs/0703026,"Formal proof for delayed finite field arithmetic using floating point
+  operators",,,,
+cs/0703121,Differential Equations for Algebraic Functions,,,,
+cs/9811017,Formulas as Programs,,,,
+cs/9901006,Object Oriented and Functional Programming for Symbolic Manipulation,,,,
+cs/9906029,Events in Property Patterns,,,,
+gr-qc/0209096,"Gravity, torsion, Dirac field and computer algebra using MAPLE and
+  REDUCE",,,,
+math/0207135,"The Hilbert Zonotope and a Polynomial Time Algorithm for Universal
+  Grobner Bases",,,,
+math/0304192,"On reconstructing n-point configurations from the distribution of
+  distances or areas",,,,
+math/0304283,Whitehead method and Genetic Algorithms,,,,
+math/0304305,"Balanced presentations of the trivial group on two generators and the
+  Andrews-Curtis conjecture",,,,
+math/0304306,Genetic algorithms and the Andrews-Curtis conjecture,,,,
+math/0502172,An hybrid system approach to nonlinear optimal control problems,,,,
+math/0603263,"Computing the First Few Betti Numbers of Semi-algebraic Sets in Single
+  Exponential Time",,,,
+math/0607411,Extending the scalars of minimizations,,,,
+math/0607412,Direct and dual laws for automata with multiplicities,,,,
+math/0607420,"Transitive factorizations of free partially commutative monoids and Lie
+  algebras",,,,
+math/0609360,Minimal Polynomials for the Coordinates of the Harborth Graph,,,,
+nlin/0605009,Sufficient set of integrability conditions of an orthonomic system,,,,

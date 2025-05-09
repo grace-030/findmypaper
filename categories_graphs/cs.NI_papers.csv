@@ -1,0 +1,481 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+cs/0611128,"Scale-Free Overlay Topologies with Hard Cutoffs for Unstructured
+  Peer-to-Peer Networks",3.507727815371592e-05,0.0,3.0,0.0
+cond-mat/0106096,Statistical mechanics of complex networks,1.654360914784671e-05,0.0001718433929188,41.0,69.0
+cond-mat/0404593,The shortest path to complex networks,1.6529934134427936e-05,0.0001083482457285,19.0,12.0
+cond-mat/0204102,Accelerated growth of networks,7.602998138767531e-06,3.1629646557977715e-05,15.0,5.0
+cs/0206011,A Statistical Physics Perspective on Web Growth,7.361984275037008e-06,0.0,3.0,1.0
+cond-mat/0602611,"k-core (bootstrap) percolation on complex networks: Critical phenomena
+  and nonlocal effects",7.340817644004221e-06,5.853081576403605e-08,7.0,1.0
+cs/0607080,New Model of Internet Topology Using k-shell Decomposition,7.319313424148455e-06,1.990182755160072e-06,3.0,1.0
+cond-mat/0203227,Ising Model on Networks with an Arbitrary Distribution of Connections,6.718002801356636e-06,9.878881041751656e-06,7.0,5.0
+cond-mat/0501169,"Towards a Theory of Scale-Free Graphs: Definition, Properties, and
+  Implications (Extended Version)",6.056313659559851e-06,1.0115762658074322e-05,4.0,4.0
+cs/0511007,"K-core decomposition of Internet graphs: hierarchies, self-similarity
+  and measurement biases",5.866725662627713e-06,1.1550971838494378e-05,4.0,7.0
+cs/0612040,The Workshop on Internet Topology (WIT) Report,5.407328793111961e-06,0.0,3.0,0.0
+cond-mat/0506330,A program generating homogeneous random graphs with given weights,5.396414230520362e-06,3.980365510320144e-06,3.0,1.0
+cs/9912012,Avoiding Braess' Paradox through Collective Intelligence,5.252326499503554e-06,0.0,2.0,0.0
+cond-mat/0609098,"Synchronization in Weighted Uncorrelated Complex Networks in a Noisy
+  Environment: Optimization and Connections with Transport Efficiency",5.242324830116169e-06,5.06771873786375e-06,6.0,5.0
+cs/0506003,Authentication and routing in simple Quantum Key Distribution networks,4.626646950292932e-06,0.0,2.0,0.0
+cs/0608088,Radial Structure of the Internet,4.031176180036077e-06,0.0,2.0,0.0
+quant-ph/0505089,Quantum key distribution with trusted quantum relay,4.017182936561178e-06,1.990182755160072e-06,2.0,1.0
+cs/0604017,AS Relationships: Inference and Validation,3.975235538925736e-06,0.0,3.0,0.0
+cs/0506071,"Signal transmission on lossy lines as a dissipative quantum state
+  propagation",3.971656735392224e-06,0.0,3.0,0.0
+cs/0304045,On a composition of digraphs,3.652283164703462e-06,0.0,4.0,0.0
+cs/0510052,"Remarks on ""Toward Compact Interdomain Routing""",3.62335329328243e-06,0.0,2.0,0.0
+cs/0508033,Lessons from Three Views of the Internet Topology,3.5947239051154034e-06,1.3541154593654448e-05,5.0,1.0
+cs/0512095,"The Internet AS-Level Topology: Three Data Sources and One Definitive
+  Metric",3.5947239051154034e-06,0.0,5.0,0.0
+cond-mat/0406404,"A statistical approach to the traceroute-like exploration of networks:
+  theory and simulations",3.5639713552924924e-06,5.970548265480216e-06,2.0,3.0
+cs/0605067,Efficient Operation of Coded Packet Networks,3.49912997646896e-06,0.0,2.0,0.0
+cs/0209023,Practical Load Balancing for Content Requests in Peer-to-Peer Networks,3.49912997646896e-06,0.0,2.0,0.0
+cs/0404010,On the universality of rank distributions of website popularity,3.477705344085171e-06,0.0,2.0,1.0
+cond-mat/0509102,k-core organization of complex networks,3.234979454854909e-06,0.0,4.0,0.0
+cs/0107001,Analysis of Network Traffic in Switched Ethernet Systems,3.234418268738941e-06,1.990182755160072e-06,3.0,1.0
+cs/9912011,Adaptivity in Agent-Based Routing for Data Networks,2.902659663719872e-06,0.0,1.0,0.0
+cond-mat/0305582,On the Tomography of Networks and Multicast Trees,2.875306218013343e-06,1.7912882472283406e-05,3.0,6.0
+cond-mat/0402143,Personal Email Networks: An Effective Anti-Spam Tool,2.737706112522473e-06,3.980365510320144e-06,4.0,3.0
+cond-mat/0701184,Transport optimization on complex networks,2.679051972526776e-06,0.0,3.0,1.0
+cond-mat/0506002,Correlations in interacting systems with a network topology,2.650233333816397e-06,0.0,1.0,0.0
+cs/0511012,"Parameters Affecting the Resilience of Scale-Free Networks to Random
+  Failures",2.598039282245321e-06,1.990182755160072e-06,1.0,1.0
+physics/0504026,Let Your CyberAlter Ego Share Information and Manage Spam,2.5480775912908228e-06,0.0,2.0,0.0
+cond-mat/0206084,Internet topology at the router and autonomous system level,2.527512226562572e-06,3.148790097903107e-05,2.0,16.0
+cs/0511080,A dissemination strategy for immunizing scale-free networks,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0609030,Space Division Multiple Access with a Sum Feedback Rate Constraint,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0302017,A Proposal to Separate Handles from Names on the Internet,2.4711431321721443e-06,0.0,1.0,0.0
+math/0510013,Network Kriging,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0606054,Threshold-Controlled Global Cascading in Wireless Sensor Networks,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0010013,A Public-key based Information Management Model for Mobile Agents,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0402026,"Redundancy and Robustness of the AS-level Internet topology and its
+  models",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0512088,Analysis of loss networks with routing,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0410059,Accuracy and Scaling Phenomena in Internet Mapping,2.459610766402485e-06,0.0,1.0,0.0
+cs/0702156,Analysis of Steiner subtrees of Random Trees for Traceroute Algorithms,2.459610766402485e-06,0.0,1.0,0.0
+nlin/0507021,Measuring Generalized Preferential Attachment in Dynamic Social Networks,2.415206884045539e-06,2.0167921533390666e-06,1.0,2.0
+cs/0510007,"Network Inference from TraceRoute Measurements: Internet Topology
+  `Species'",2.3879263448248617e-06,1.9827567001035044e-06,2.0,2.0
+cond-mat/0308288,Compact Routing on Internet-Like Graphs,2.3534188608214047e-06,5.808259381747969e-06,4.0,3.0
+cond-mat/0204111,Principles of statistical mechanics of random networks,2.3390214780393398e-06,6.376562199898719e-06,3.0,16.0
+cs/0307036,Small-World File-Sharing Communities,2.300725523621532e-06,7.4260550565674335e-09,1.0,1.0
+cs/0405070,Traffic-driven model of the World Wide Web graph,2.1917074790453144e-06,0.0,2.0,3.0
+cs/0511101,Chinese Internet AS-level Topology,2.157667735611946e-06,7.4260550565674335e-09,1.0,2.0
+cond-mat/0401065,Exploration of scale-free networks,2.1501828403329858e-06,7.960731020640288e-06,1.0,1.0
+cs/0504107,"k-core decomposition: a tool for the visualization of large scale
+  networks",2.087073078468716e-06,0.0,2.0,10.0
+cond-mat/0505193,Organization of complex networks without multiple connections,2.0487899940293523e-06,0.0,2.0,1.0
+cs/0402011,Accurately modeling the Internet topology,1.975122871787422e-06,1.275424492624071e-05,2.0,3.0
+cond-mat/0503087,"On the Bias of Traceroute Sampling; or, Power-law Degree Distributions
+  in Regular Graphs",1.969089007118788e-06,2.970422022626973e-09,1.0,4.0
+cs/0611157,Bounding the Bias of Tree-Like Sampling in IP Topologies,1.935436750754111e-06,0.0,2.0,1.0
+cond-mat/0406765,Competition and adaptation in an Internet evolution model,1.9106578588649985e-06,1.990182755160072e-06,1.0,2.0
+cs/0207092,Packet delay in models of data networks,1.8950380516170012e-06,0.0,1.0,1.0
+cs/0503064,Minimum-Cost Multicast over Coded Packet Networks,1.8950380516170012e-06,0.0,1.0,1.0
+cs/0202008,CUP: Controlled Update Propagation in Peer-to-Peer Networks,1.8950380516170012e-06,0.0,1.0,1.0
+cond-mat/0602351,"Synchronization in Network Structures: Entangled Topology as Optimal
+  Architecture for Network Design",1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/0603861,Congestion-gradient driven transport on complex networks,1.844475321205136e-06,6.893052610749851e-06,3.0,2.0
+cs/0502061,A Geographic Directed Preferential Internet Topology Model,1.703003024765287e-06,0.0,1.0,0.0
+cs/0412007,Exploring networks with traceroute-like probes: theory and simulations,1.703003024765287e-06,0.0,1.0,2.0
+cs/0601082,Search in Complex Networks : a New Method of Naming,1.703003024765287e-06,0.0,1.0,0.0
+cond-mat/0504185,"Disaster Management in Scale-Free Networks: Recovery from and Protection
+  Against Intentional Attacks",1.703003024765287e-06,0.0,1.0,0.0
+cs/0503010,"Optimized network structure and routing metric in wireless multihop ad
+  hoc communication",1.6979618088434505e-06,0.0,2.0,0.0
+cond-mat/0607017,Optimal routing on complex networks,1.6958410962516149e-06,0.0,2.0,1.0
+cs/0604023,Communication Bottlenecks in Scale-Free Networks,1.6869071420374689e-06,6.599455258190691e-06,2.0,7.0
+cs/0411013,Efficient Algorithms for Large-Scale Topology Discovery,1.60698551133943e-06,0.0,1.0,0.0
+cs/0502085,Fast generation of random connected graphs with prescribed degrees,1.60698551133943e-06,0.0,1.0,0.0
+cs/0605007,Systematic Topology Analysis and Generation Using Degree Correlations,1.5606674080161098e-06,0.0,1.0,2.0
+cs/0508029,Selfish vs. Unselfish Optimization of Network Creation,1.5513666970506823e-06,0.0,1.0,0.0
+cond-mat/0107212,Intentional Walks on Scale Free Small Worlds,1.5295226748816362e-06,3.6684711979442975e-06,1.0,8.0
+cs/0308036,The Rich-Club Phenomenon In The Internet Topology,1.5295226748816362e-06,0.0,1.0,0.0
+cs/0506099,DIMES: Let the Internet Measure Itself,1.4944048890051102e-06,0.0,1.0,6.0
+cs/0411051,Describing and Simulating Internet Routes,1.4453347717451726e-06,5.966092632446275e-06,1.0,2.0
+cs/0609115,Measuring Fundamental Properties of Real-World Complex Networks,1.42173165549154e-06,0.0,1.0,0.0
+cond-mat/0402268,Competition-Induced Preferential Attachment,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0206410,Optimal network topologies for local search with congestion,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0406152,Scalable Percolation Search in Power Law Networks,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0703061,Coding for Errors and Erasures in Random Network Coding,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0103016,Search in Power-Law Networks,1.3189329710618589e-06,0.0,0.0,5.0
+cs/0210010,"A Random Structure for Optimum Cache Size Distributed hash table (DHT)
+  Peer-to-Peer design",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0511035,Decoding the structure of the WWW: facts versus sampling biases,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0504029,Fast Distributed Algorithms for Computing Separable Functions,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0510070,On Coding for Reliable Communication over Packet Networks,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9907038,The diameter of the world wide web,1.3189329710618589e-06,0.0,0.0,9.0
+cs/0012019,A Note on Power-Laws of Internet Topology,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0409001,Probabilistic heuristics for disseminating information in networks,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0412037,"A Statistical Framework for Efficient Monitoring of End-to-End Network
+  Properties",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0204181,Local Search in Unstructured Networks,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0211024,Narses: A Scalable Flow-Based Network Simulator,1.3189329710618589e-06,0.0,0.0,2.0
+adap-org/9909006,Performance of data networks with random links,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0410069,Selfish peering and routing in the Internet,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0508021,Toward Compact Interdomain Routing,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0510028,"Geo-aggregation permits low stretch and routing tables of logarithmical
+  size",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0303029,Towards Modelling The Internet Topology - The Interactive Growth Model,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0307012,Observation-based Cooperation Enforcement in Ad Hoc Networks,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0301011,Open Network Handles Implemented in DNS,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0209012,"Analysis of a Cone-Based Distributed Topology Control Algorithm for
+  Wireless Multi-hop Networks",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0005026,"A One-Time Pad based Cipher for Data Protection in Distributed
+  Environments",1.3189329710618589e-06,0.0,0.0,1.0
+cs/9905004,Using Collective Intelligence to Route Internet Traffic,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0508131,Point Process Models of 1/f Noise and Internet Traffic,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0309054,"Active Internet Traffic Filtering: Real-time Response to Denial of
+  Service Attacks",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9905036,Restart Strategies and Internet Congestion,,,,
+cond-mat/0208488,On the Prospects of Chaos Aware Traffic Modeling,,,,
+cond-mat/0502205,"Degree Distribution of Competition-Induced Preferential Attachment
+  Graphs",,,,
+cond-mat/9703191,A Potts Neuron Approach to Communication Routing,,,,
+cs/0001005,Effect of different packet sizes on RED performance,,,,
+cs/0001007,RED behavior with different packet sizes,,,,
+cs/0002011,An Internet Multicast System for the Stock Market,,,,
+cs/0006029,Systematic Performance Evaluation of Multipoint Protocols,,,,
+cs/0006037,"A Decision-Theoretic Approach to Resource Allocation in Wireless
+  Multimedia Networks",,,,
+cs/0007005,"Systematic Testing of Multicast Routing Protocols: Analysis of Forward
+  and Backward Search Techniques",,,,
+cs/0008006,Algorithms for Analysing Firewall and Router Access Lists,,,,
+cs/0010018,Internet Packet Filter Management and Rectangle Geometry,,,,
+cs/0102011,A Price Dynamics in Bandwidth Markets for Point-to-point Connections,,,,
+cs/0104012,"System Support for Bandwidth Management and Content Adaptation in
+  Internet Applications",,,,
+cs/0106028,"Pricing Virtual Paths with Quality-of-Service Guarantees as Bundle
+  Derivatives",,,,
+cs/0110013,A Proposal for Dynamic Access Lists for TCP/IP Packet Filering,,,,
+cs/0201004,Analysis of Non-Gaussian Nature of Network Traffic,,,,
+cs/0202019,Hypernets -- Good (G)news for Gnutella,,,,
+cs/0203014,"Active Virtual Network Management Prediction: Complexity as a Framework
+  for Prediction, Optimization, and Assurance",,,,
+cs/0203030,Source Routing and Scheduling in Packet Networks,,,,
+cs/0204054,Navigating the Small World Web by Textual Cues,,,,
+cs/0205001,A Calculus for End-to-end Statistical Service Guarantees,,,,
+cs/0205032,On-Line End-to-End Congestion Control,,,,
+cs/0205033,On-Line File Caching,,,,
+cs/0205038,Competitive Paging Algorithms,,,,
+cs/0205044,The K-Server Dual and Loose Competitiveness for Paging,,,,
+cs/0205058,Content Distribution in Unicast Replica Meshes,,,,
+cs/0207073,Reinforcing Reachable Routes,,,,
+cs/0208023,"The STRESS Method for Boundary-point Performance Analysis of End-to-end
+  Multicast Timer-Suppression Mechanisms",,,,
+cs/0209004,"Analysis of Non-Gaussian Nature of Network Traffic and its Implication
+  on Network Performance",,,,
+cs/0209011,Gossip Based Ad-Hoc Routing,,,,
+cs/0209013,Minimum-Energy Mobile Wireless Networks Revisited,,,,
+cs/0209024,"Errors in Low and Lapsley's article ""Optimization Flow Control, I: Basic
+  Algorithm and Convergence""",,,,
+cs/0209025,"Correction to Low and Lapsley's article ""Optimization Flow Control, I:
+  Basic Algorithm and Convergence""",,,,
+cs/0210019,A Historic Name-Trail Service,,,,
+cs/0302009,Data Structure for a Time-Based Bandwidth Reservations Problem,,,,
+cs/0302020,Analytical formulations of Peer-to-Peer Connection Efficiency,,,,
+cs/0303012,"The measurements, parameters and construction of Web proxy cache",,,,
+cs/0303014,Theoretical study of cache syatems,,,,
+cs/0305010,The NPC Framework for Building Information Dissemination Networks,,,,
+cs/0305042,"Untraceable Email Cluster Bombs: On Agent-Based Distributed Denial of
+  Service",,,,
+cs/0305045,"Semiclassical Quantum Computation Solutions to the Count to Infinity
+  Problem: A Brief Discussion",,,,
+cs/0305064,The use of Ethernet in the DataFlow of the ATLAS Trigger & DAQ,,,,
+cs/0306037,Flow-based analysis of Internet traffic,,,,
+cs/0306090,Worldwide Fast File Replication on Grid Datafarm,,,,
+cs/0306121,Reachability problems for communicating finite state machines,,,,
+cs/0307026,"Improving the Security and Performance of the BaBar Detector Controls
+  System",,,,
+cs/0309006,"The KR-Benes Network: A Control-Optimal Rearrangeable Permutation
+  Network",,,,
+cs/0311017,2 P2P or Not 2 P2P?,,,,
+cs/0311049,Performance of TCP/UDP under Ad Hoc IEEE802.11,,,,
+cs/0401010,On the Cost of Participating in a Peer-to-Peer Network,,,,
+cs/0403007,End-User Effects of Microreboots in Three-Tiered Internet Systems,,,,
+cs/0403042,"Protecting Public-Access Sites Against Distributed Denial-of-Service
+  Attacks",,,,
+cs/0403044,Scalable Probabilistic Models for 802.11 Protocol Verification,,,,
+cs/0404005,Government mandated blocking of foreign Web content,,,,
+cs/0404017,"Exploring tradeoffs in pleiotropy and redundancy using evolutionary
+  computing",,,,
+cs/0404019,Optimizing genetic algorithm strategies for evolving networks,,,,
+cs/0404040,Near Rationality and Competitive Equilibria in Networked Systems,,,,
+cs/0404054,New Covert Channels in HTTP,,,,
+cs/0405035,"Security-Performance Tradeoffs of Inheritance based Key Predistribution
+  for Wireless Sensor Networks",,,,
+cs/0405042,"A Distributed TDMA Slot Assignment Algorithm for Wireless Sensor
+  Networks",,,,
+cs/0406019,"Providing Service Guarantees in High-Speed Switching Systems with
+  Feedback Output Queuing",,,,
+cs/0406027,"Fluctuation in Peer-to-Peer Networks: Mitigating Its Effect on DHT
+  Performance",,,,
+cs/0406046,Cheap Recovery: A Key to Self-Managing State,,,,
+cs/0407048,Technological networks and the spread of computer viruses,,,,
+cs/0408009,"Performance Analysis of Multicast Mobility in a Hierarchical Mobile IP
+  Proxy Environment",,,,
+cs/0408020,Collaborative Storage Management In Sensor Networks,,,,
+cs/0408022,Diagnosabilities of regular networks,,,,
+cs/0408024,Non-uniform Information Dissemination for Sensor Networks,,,,
+cs/0408042,Dynamic Localization Protocols for Mobile Sensor Networks,,,,
+cs/0409022,Two Models for the Study of Congested Internet Connections,,,,
+cs/0411017,"Analysis of 802.11b MAC: A QoS, Fairness, and Performance Perspective",,,,
+cs/0411019,Programmable Ethernet Switches and Their Applications,,,,
+cs/0411069,CDN: Content Distribution Network,,,,
+cs/0411070,Data Path Processing in Fast Programmable Routers,,,,
+cs/0411079,"Supporting Bandwidth Guarantee and Mobility for Real-Time Applications
+  on Wireless LANs",,,,
+cs/0411081,"Reconfigurations dynamiques de services dans un intergiciel a composants
+  CORBA CCM",,,,
+cs/0411082,"Support pour la reconfiguration d'implantation dans les applications a
+  composants Java",,,,
+cs/0411083,"Contractualisation des ressources pour le deploiement des composants
+  logiciels",,,,
+cs/0411084,Gestion transactionnelle de la reprise sur erreurs dans le deploiement,,,,
+cs/0411085,"Deploiement d'ordonnanceurs de processus specifiques dans un systeme
+  d'exploitation generaliste",,,,
+cs/0411086,"A Software Architecture for Automatic Deployment of CORBA Components
+  Using Grid Technologies",,,,
+cs/0411087,"Pandora : une plate-forme efficace pour la construction d'applications
+  autonomes",,,,
+cs/0411088,Des correctifs de securite a la mise a jour,,,,
+cs/0411089,Gestion Dynamique des Services Techniques pour Modele a Composants,,,,
+cs/0411090,"Local heuristics and the emergence of spanning subgraphs in complex
+  networks",,,,
+cs/0412020,Towards Reliable Network Wide Broadcast in Mobile Ad Hoc Networks,,,,
+cs/0412118,Power Aware Routing for Sensor Databases,,,,
+cs/0501027,Enforcing Bulk Mail Classification,,,,
+cs/0501069,A Statistical Theory of Chord under Churn,,,,
+cs/0503051,"Construction of Small Worlds in the Physical Topology of Wireless
+  Networks",,,,
+cs/0503074,A File System Abstraction for Sense and Respond Systems,,,,
+cs/0503075,"Statistical Modelling of Information Sharing: Community, Membership and
+  Content",,,,
+cs/0503090,Effects of variations of load distribution on network performance,,,,
+cs/0504002,On the Effect of Fading on Ad hoc Networking,,,,
+cs/0504004,Statistical analysis of quality measures for mobile ad hoc networks,,,,
+cs/0504007,The Bandwidth Exchange Architecture,,,,
+cs/0504040,DTN Routing in a Mobility Pattern Space,,,,
+cs/0504051,A Scalable Stream-Oriented Framework for Cluster Applications,,,,
+cs/0504099,"The Capacity of Random Ad hoc Networks under a Realistic Link Layer
+  Model",,,,
+cs/0505022,"Collaborative Beamforming for Distributed Wireless Ad Hoc Sensor
+  Networks",,,,
+cs/0506021,"Analysis of Relationship between Strategic and Aggregate Energy
+  Minimization in Delay-Constrained Wireless Networks",,,,
+cs/0506066,Impersonation with the Echo Protocol,,,,
+cs/0507021,Finding routes in anonymous sensor networks,,,,
+cs/0507034,Papillon: Greedy Routing in Rings,,,,
+cs/0507046,Revisiting Internet AS-level Topology Discovery,,,,
+cs/0507047,Inferring AS Relationships: Dead End or Lively Beginning?,,,,
+cs/0507072,Reliable Data Storage in Distributed Hash Tables,,,,
+cs/0508009,"IMPACT: Investigation of Mobile-user Patterns Across University Campuses
+  using WLAN Trace Analysis",,,,
+cs/0508016,Distributed Algorithms for Optimal Rate-Reliability Tradeoff in Networks,,,,
+cs/0508047,"Further Results on Coding for Reliable Communication over Packet
+  Networks",,,,
+cs/0508074,"Throughput and Delay in Random Wireless Networks with Restricted
+  Mobility",,,,
+cs/0508095,Capacity of Ultra Wide Band Wireless Ad Hoc Networks,,,,
+cs/0508124,Coding Schemes for Line Networks,,,,
+cs/0509052,"Club Formation by Rational Sharing : Content, Viability and Community
+  Structure",,,,
+cs/0509085,"An Improved Lower Bound to the Number of Neighbors Required for the
+  Asymptotic Connectivity of Ad Hoc Networks",,,,
+cs/0510023,On the capacity of mobile ad hoc networks with delay constraints,,,,
+cs/0510065,A new authentication protocol for revocable anonymity in ad-hoc networks,,,,
+cs/0510077,Connection state overhead in a dynamic linear network,,,,
+cs/0510082,"Architectural Considerations for a Self-Configuring Routing Scheme for
+  Spontaneous Networks",,,,
+cs/0511008,"Analysis of Stochastic Service Guarantees in Communication Networks: A
+  Basic Calculus",,,,
+cs/0511053,A Model Based Approach to Reachability Routing,,,,
+cs/0511059,Virtual Coordinate Backtracking for Void Traversal in Geographic Routing,,,,
+cs/0511102,Evaluating Mobility Pattern Space Routing for DTNs,,,,
+cs/0512011,Understanding the internet topology evolution dynamics,,,,
+cs/0512033,Bootstrapping the Long Tail in Peer to Peer Systems,,,,
+cs/0512060,Distributed Navigation Algorithms for Sensor Networks,,,,
+cs/0512087,"Fundamental Limits and Scaling Behavior of Cooperative Multicasting in
+  Wireless Networks",,,,
+cs/0601015,"Perturbation Analysis of a Variable M/M/1 Queue: A Probabilistic
+  Approach",,,,
+cs/0601016,"Integration of streaming services and TCP data transmission in the
+  Internet",,,,
+cs/0601073,A Theory of Routing for Large-Scale Wireless Ad-Hoc Networks,,,,
+cs/0601101,The topology of covert conflict,,,,
+cs/0601130,From Dumb Wireless Sensors to Smart Networks using Network Coding,,,,
+cs/0602034,A topology visualisation tool for large-scale communications networks,,,,
+cs/0603062,"Implementation and Deployment of a Distributed Network Topology
+  Discovery Algorithm",,,,
+cs/0603074,Peer-to-Peer Communication Across Network Address Translators,,,,
+cs/0603075,Unmanaged Internet Protocol: Taming the Edge Network Management Crisis,,,,
+cs/0603076,User-Relative Names for Globally Connected Personal Devices,,,,
+cs/0603078,Consensus Propagation,,,,
+cs/0603087,"IP over P2P: Enabling Self-configuring Virtual IP Networks for Grid
+  Computing",,,,
+cs/0604015,Revealing the Autonomous System Taxonomy: The Machine Learning Approach,,,,
+cs/0604053,"Survivable Routing in IP-over-WDM Networks in the Presence of Multiple
+  Failures",,,,
+cs/0604096,Polynomial-time algorithms for coding across multiple unicasts,,,,
+cs/0604105,"Jumps: Enhancing hop-count positioning in sensor networks using multiple
+  coordinates",,,,
+cs/0605030,A Delay Analysis of Maximal Matching Switching with Speedup,,,,
+cs/0605034,Peer to Peer Networks for Defense Against Internet Worms,,,,
+cs/0605052,"Node-Based Optimal Power Control, Routing, and Congestion Control in
+  Wireless Networks",,,,
+cs/0605080,A Locating-First Approach for Scalable Overlay Multicast,,,,
+cs/0605088,"TARMAC: Traffic-Analysis Reslient MAC Protocol for Multi-Hop Wireless
+  Networks",,,,
+cs/0605089,Aligned Virtual Coordinates for Greedy Routing in WSNs,,,,
+cs/0605133,Efficient Route Tracing from a Single Source,,,,
+cs/0606002,Mining Behavioral Groups in Large Wireless LANs,,,,
+cs/0606005,The KAA project: a trust policy point of view,,,,
+cs/0606049,Decentralized Erasure Codes for Distributed Networked Storage,,,,
+cs/0606076,"A Flexible Bandwidth Reservation Framework for Bulk Data Transfers in
+  Grid Networks",,,,
+cs/0606110,Optimal Scheduling of Peer-to-Peer File Dissemination,,,,
+cs/0606122,Comparison of Image Similarity Queries in P2P Systems,,,,
+cs/0606123,Use MPLS in Lan's,,,,
+cs/0607026,Path-independent load balancing with unreliable machines,,,,
+cs/0607028,"A Quasi-Optimal Leader Election Algorithm in Radio Networks with
+  Log-Logarithmic Awake Time Slots",,,,
+cs/0607034,"Quasi-Optimal Leader Election Algorithms in Radio Networks with
+  Loglogarithmic Awake Time Slots",,,,
+cs/0607038,"Retouched Bloom Filters: Allowing Networked Applications to Flexibly
+  Trade Off False Positives Against False Negatives",,,,
+cs/0607097,"Dynamic Packet Aggregation to Solve Performance Anomaly in 802.11
+  Wireless Networks",,,,
+cs/0608012,"Opti{c,m}al: Optical/Optimal Routing in Massively Dense Wireless
+  Networks",,,,
+cs/0608014,Localization for Anchoritic Sensor Networks,,,,
+cs/0608025,"User-Network Association in a WLAN-UMTS Hybrid Cell: Global & Individual
+  Optimality",,,,
+cs/0608026,"New Cross-Layer Channel Switching Policy for TCP Transmission on 3G UMTS
+  Downlink",,,,
+cs/0608041,The Dynamics of A Self-Forming Network,,,,
+cs/0608044,Network Coding in a Multicast Switch,,,,
+cs/0608058,Evolution of the Internet AS-Level Ecosystem,,,,
+cs/0608068,"The Aligned-Coordinated Geographical Routing for Multihop Wireless
+  Networks",,,,
+cs/0608069,JiTS: Just-in-Time Scheduling for Real-Time Sensor Data Dissemination,,,,
+cs/0608077,The Effect of Scheduling on Link Capacity in Multi-hopWireless Networks,,,,
+cs/0608082,Competition and Request Routing Policies in Content Delivery Networks,,,,
+cs/0608109,"Realistic Boundary Conditions for Ad Hoc Network Node Mobility Models
+  and a New Approach to the Random Waypoint Model",,,,
+cs/0609011,"Scheduling for Stable and Reliable Communication over Multiaccess
+  Channels and Degraded Broadcast Channels",,,,
+cs/0609014,A simple stability condition for RED using TCP mean-field modeling,,,,
+cs/0609026,Rarest First and Choke Algorithms Are Enough,,,,
+cs/0609038,"On Performance of Event-to-Sink Transport in Transmit-Only Sensor
+  Networks",,,,
+cs/0609068,"The heterogeneity of inter-contact time distributions: its importance
+  for routing in delay tolerant networks",,,,
+cs/0609074,A Non-anchored Unified Naming System for Ad Hoc Computing Environments,,,,
+cs/0609086,About the Capacity of Flat and Self-Organized Ad Hoc and Hybrid Networks,,,,
+cs/0609106,Throughput Optimal Distributed Control of Stochastic Wireless Networks,,,,
+cs/0609116,"Theory and Practice of Triangle Problems in Very Large (Sparse
+  (Power-Law)) Graphs",,,,
+cs/0609149,"Dynamic Spectrum Access: Signal Processing, Networking, and Regulatory
+  Policy",,,,
+cs/0610013,Cooperative Processes for Scientific Workflows,,,,
+cs/0610040,Crosstalk-free Conjugate Networks for Optical Multicast Switching,,,,
+cs/0610044,"M\'{e}canismes de Transmission Multipoint pour R\'{e}seaux Locaux Sans
+  Fil IEEE 802.11",,,,
+cs/0610050,"The Mathematical Parallels Between Packet Switching and Information
+  Transmission",,,,
+cs/0610078,Rapid Prototyping over IEEE 802.11,,,,
+cs/0610084,"Share and Disperse: How to Resist Against Aggregator Compromises in
+  Sensor Networks",,,,
+cs/0610109,Intrusion detection mechanisms for VoIP applications,,,,
+cs/0610121,"Construction algorithm for network error-correcting codes attaining the
+  Singleton bound",,,,
+cs/0610133,P2P IPTV Measurement: A Comparison Study,,,,
+cs/0610134,A Markov Chain based method for generating long-range dependence,,,,
+cs/0610135,"Markov-modulated on/off processes for long-range dependent internet
+  traffic",,,,
+cs/0610163,A Taxonomy of Peer-to-Peer Based Complex Queries: a Grid perspective,,,,
+cs/0611003,"A Scalable Protocol for Cooperative Time Synchronization Using Spatial
+  Averaging",,,,
+cs/0611016,"Increasing Data Resilience of Mobile Devices with a Collaborative Backup
+  Service",,,,
+cs/0611056,"Using Existing Network Simulators for Power-Aware Self-Organizing
+  Wireless Sensor Network Protocols",,,,
+cs/0611064,Distributed Link Scheduling with Constant Overhead,,,,
+cs/0611079,Managing network congestion with a Kohonen-based RED queue,,,,
+cs/0611105,Clustering and Sharing Incentives in BitTorrent Systems,,,,
+cs/0611144,"Coding Improves the Optimal Delay-Throughput Trade-offs in Mobile Ad-Hoc
+  Networks: Two-Dimensional I.I.D. Mobility Models",,,,
+cs/0612034,Predictable Disruption Tolerant Networks and Delivery Guarantees,,,,
+cs/0612045,SIMPS: Using Sociology for Personal Mobility,,,,
+cs/0612059,"Synchronization recovery and state model reduction for soft decoding of
+  variable length codes",,,,
+cs/0612066,Optimal Filtering for DDoS Attacks,,,,
+cs/0612086,"An asynchronous, decentralised commitment protocol for semantic
+  optimistic replication",,,,
+cs/0612108,On Using Matching Theory to Understand P2P Network Design,,,,
+cs/0612118,Gossiping with Multiple Messages,,,,
+cs/0612121,Power Assignment Problems in Wireless Communication,,,,
+cs/0612130,Stratification in P2P Networks - Application to BitTorrent,,,,
+cs/0612142,What is the probability of connecting two points ?,,,,
+cs/0701001,On High Spatial Reuse Link Scheduling in STDMA Wireless Ad Hoc Networks,,,,
+cs/0701046,Cooperation Between Stations in Wireless Networks,,,,
+cs/0701094,"Maximizing the Probability of Delivery of Multipoint Relay Broadcast
+  Protocol in Wireless Ad Hoc Networks with a Realistic Physical Layer",,,,
+cs/0701130,"On the Correlation of Geographic and Network Proximity at Internet Edges
+  and its Implications for Mobile Unicast and Multicast Routing",,,,
+cs/0701133,The Case for Redundant Arrays of Internet Links (RAIL),,,,
+cs/0701153,Online Bandwidth Allocation,,,,
+cs/0701190,"A Peer-to-Peer Browsable File Index using a Popularity Based Global
+  Namespace",,,,
+cs/0701198,Fitting the WHOIS Internet data,,,,
+cs/0702015,Network Coding for Distributed Storage Systems,,,,
+cs/0702037,Evolutionary Approaches to Minimizing Network Coding Resources,,,,
+cs/0702038,"Genetic Representations for Evolutionary Minimization of Network Coding
+  Resources",,,,
+cs/0702063,Entropy vectors and network codes,,,,
+cs/0702102,"Paging and Registration in Cellular Networks: Jointly Optimal Policies
+  and an Iterative Algorithm",,,,
+cs/0702125,Bayesian Network Tomography and Inference,,,,
+cs/0702132,"Uplink Capacity and Interference Avoidance for Two-Tier Femtocell
+  Networks",,,,
+cs/0702154,"On the Capacity of the Single Source Multiple Relay Single Destination
+  Mesh Network",,,,
+cs/0702158,"Joint Design and Separation Principle for Opportunistic Spectrum Access
+  in the Presence of Sensing Errors",,,,
+cs/0703014,"Asymptotic Capacity Bounds for Wireless Networks with Non-Uniform
+  Traffic",,,,
+cs/0703063,"Convergence and Optimal Buffer Sizing for Window Based AIMD Congestion
+  Control",,,,
+cs/0703107,Clustering and Sharing Incentives in BitTorrent Systems,,,,
+cs/0703138,Reinforcement Learning for Adaptive Routing,,,,
+cs/0703139,"TCP throughput guarantee in the DiffServ Assured Forwarding service:
+  what about the results?",,,,
+cs/9808004,"Differentiated End-to-End Internet Services using a Weighted
+  Proportional Fair Sharing TCP",,,,
+cs/9809030,"Fast, Approximate Synthesis of Fractional Gaussian Noise for Generating
+  Self-Similar Network Traffic",,,,
+cs/9809101,Flood Routing Technique for Data Networks,,,,
+cs/9809102,Analysis of Performance of Dynamic Multicast Routing Algorithms,,,,
+cs/9811028,TCP Trunking,,,,
+cs/9903009,"Space-Efficient Routing Tables for Almost All Networks and the
+  Incompressibility Method",,,,
+cs/9904012,Active Virtual Network Management Protocol,,,,
+cs/9904013,Network Management of Predictive Mobile Networks,,,,
+cs/9904014,A Control and Management Network for Wireless ATM Systems,,,,
+cs/9904015,Mobile ATM Buffer Capacity Analysis,,,,
+cs/9904016,Brittle System Analysis,,,,
+cs/9905006,"The Design and Analysis of Virtual Network Configuration for a Wireless
+  Mobile ATM Network",,,,
+cs/9908009,Secure Execution of Java Applets using a Remote Playground,,,,
+cs/9909011,Distributed Algorithms in Multihop Broadcast Networks,,,,
+cs/9910018,Decoupling Control from Data for TCP Congestion Control,,,,
+math/0211307,On the multiresolution structure of Internet traffic traces,,,,
+math/0508171,Matrices of Forests and the Analysis of Digraphs,,,,
+math/0602073,On Proximity Measures for Graph Vertices,,,,
+math/0602573,The Forest Metrics for Graph Vertices,,,,
+math/0604367,Network Delay Inference from Additive Metrics,,,,
+nlin/0703036,Statistical User Model for the Internet Access,,,,
+physics/0402078,Self-generated Self-similar Traffic,,,,

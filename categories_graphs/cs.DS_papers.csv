@@ -1,0 +1,745 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+quant-ph/0609205,Group Theoretical Formulation of Quantum Partial Search Algorithm,1.954294572487797e-05,1.990182755160072e-06,11.0,1.0
+math/0210052,"Criteria for Balance in Abelian Gain Graphs, with Applications to
+  Piecewise-Linear Geometry",8.647801664806624e-06,0.0,3.0,2.0
+cs/0304018,Quasiconvex Analysis of Backtracking Algorithms,8.557712187303251e-06,0.0,7.0,2.0
+quant-ph/0504012,Quantum search algorithms,8.045270554725352e-06,1.9806580323701277e-06,29.0,2.0
+cs/0504110,Computing finite-dimensional bipartite quantum separability,7.834818749749407e-06,2.6588858403220847e-06,13.0,3.0
+cs/0607105,"Nearly-Linear Time Algorithms for Preconditioning and Solving Symmetric,
+  Diagonally Dominant Linear Systems",7.5973090687537055e-06,0.0,2.0,1.0
+cs/0605002,"A Hybrid Quantum Encoding Algorithm of Vector Quantization for Image
+  Compression",7.301305056369203e-06,0.0,4.0,0.0
+cs/0312011,Constraint Optimization and Statistical Mechanics,6.499656301371134e-06,3.980365510320144e-06,10.0,2.0
+cs/0106019,Playing Games with Algorithms: Algorithmic Combinatorial Game Theory,6.40862984513277e-06,0.0,6.0,3.0
+cond-mat/0510064,Brownian Functionals in Physics and Computer Science,6.3342929101049e-06,1.182413662664242e-05,3.0,4.0
+cs/0207082,Dynamic Generators of Topologically Embedded Graphs,5.803550298689531e-06,0.0,4.0,0.0
+cs/0309033,Lower bounds for predecessor searching in the cell probe model,5.534495703266921e-06,3.980365510320144e-06,9.0,2.0
+cs/0701045,Polygon Convexity: Another O(n) Test,5.430880348249121e-06,0.0,3.0,0.0
+cs/0302030,The traveling salesman problem for cubic graphs,5.369996950027008e-06,0.0,2.0,2.0
+cond-mat/0109313,"Extreme Value Statistics and Traveling Fronts: An Application to
+  Computer Science",5.280933683704502e-06,0.0,3.0,0.0
+quant-ph/0412033,"Efficient Quantum Algorithms for the Hidden Subgroup Problem over a
+  Class of Semi-direct Product Groups",5.104610747021206e-06,3.980365510320144e-06,3.0,8.0
+cs/0301015,Some remarks on the survey decimation algorithm for K-satisfiability,4.8728859175195616e-06,0.0,5.0,7.0
+cs/0512090,Collaborative tagging as a tripartite network,4.551505513465682e-06,1.990182755160072e-06,1.0,1.0
+cs/0402005,Improved randomized selection,4.527116820765776e-06,0.0,3.0,0.0
+quant-ph/0403120,Quantum walks and their algorithmic applications,4.486639015944291e-06,8.929824798545011e-05,27.0,20.0
+cs/0608079,"Algorithmic linear dimension reduction in the l_1 norm for sparse
+  vectors",4.363259677553194e-06,0.0,2.0,0.0
+cs/0702057,"An Efficient Algorithm to Recognize Locally Equivalent Graphs in
+  Non-Binary Case",4.194102774161413e-06,0.0,3.0,2.0
+cs/0502041,Logarithmic Lower Bounds in the Cell-Probe Model,3.847962259679367e-06,0.0,1.0,0.0
+cs/0603043,Time-Space Trade-Offs for Predecessor Search,3.847962259679367e-06,0.0,1.0,0.0
+math/0209316,"Cycle and Circle Tests of Balance in Gain Graphs: Forbidden Minors and
+  Their Groups",3.820742750620725e-06,0.0,1.0,1.0
+cs/0212047,On local equilibrium equations for clustering states,3.76372134866179e-06,5.134800223072416e-06,6.0,8.0
+cs/0205061,"Aging, double helix and small world property in genetic algorithms",3.7012657112466978e-06,0.0,1.0,0.0
+cs/0602002,"Simulating Network Influence Algorithms Using Particle-Swarms: PageRank
+  and PageRank-Priors",3.6616836536952738e-06,1.990182755160072e-06,3.0,1.0
+math/0309285,An Algorithm for Optimal Partitioning of Data on an Interval,3.62335329328243e-06,0.0,2.0,1.0
+cs/0602079,SISO APP Searches in Lattices with Tanner Graphs,3.62335329328243e-06,0.0,2.0,0.0
+cs/0211013,"Algorithmic scalability in globally constrained conservative parallel
+  discrete event simulations of asynchronous systems",3.574625039529804e-06,0.0,1.0,1.0
+cs/0603089,Convex Separation from Optimization via Heuristics,3.5498525493635425e-06,0.0,1.0,0.0
+cs/0301034,Computing the Number of Longest Common Subsequences,3.49912997646896e-06,0.0,2.0,0.0
+cs/0703145,"The Simultaneous Triple Product Property and Group-theoretic Results for
+  the Exponent of Matrix Multiplication",3.49912997646896e-06,0.0,2.0,0.0
+physics/0302034,Power and beauty of interval methods,3.3749066596554898e-06,0.0,1.0,0.0
+cs/0306043,Skip Graphs,3.3749066596554898e-06,0.0,1.0,0.0
+cs/0606109,Maximum gradient embeddings and monotone clustering,3.3749066596554898e-06,0.0,1.0,0.0
+cs/0406020,Algorithms for Drawing Media,3.339701409299373e-06,0.0,3.0,2.0
+cs/0007029,"Dimension-Dependent behavior in the satisfability of random k-Horn
+  formulae",3.056964425943153e-06,0.0,5.0,0.0
+quant-ph/0303081,Quantum random walks - an introductory overview,2.8878975994711343e-06,4.59238859441643e-05,11.0,45.0
+cs/0308044,EqRank: A Self-Consistent Equivalence Relation on Graph Vertexes,2.8768306041766743e-06,0.0,2.0,0.0
+cond-mat/0311552,Extremal Properties of Random Structures,2.8683630018526232e-06,7.959920905543208e-06,1.0,3.0
+math/0605472,An algebraic approach to Polya processes,2.615030420229383e-06,0.0,1.0,0.0
+quant-ph/0503238,Optimization of Partial Search,2.47841120889052e-06,7.960731020640288e-06,4.0,2.0
+cond-mat/0510429,Phase Transition in the Aldous-Shields Model of Growing Trees,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0703031,Sampling Eulerian orientations of triangular lattice graphs,2.4711431321721443e-06,0.0,1.0,0.0
+math/0411128,Why Delannoy numbers?,2.4711431321721443e-06,0.0,1.0,0.0
+math/0703921,Sparse Hypergraphs and Pebble Game Algorithms,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0511084,Ramsey partitions and proximity data structures,2.4711431321721443e-06,0.0,1.0,1.0
+cs/0306122,The Best Trail Algorithm for Assisted Navigation of Web Sites,2.4711431321721443e-06,0.0,1.0,1.0
+cs/0302022,Fault-tolerant routing in peer-to-peer systems,2.4711431321721443e-06,0.0,1.0,1.0
+cs/0401003,Randomized selection with tripartitioning,2.4711431321721443e-06,0.0,2.0,1.0
+cs/0301019,Smoothed Analysis of Interior-Point Algorithms: Termination,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0004007,Deciding first-order properties of locally tree-decomposable structures,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0305097,"Traveling Front Solutions to Directed Diffusion Limited Aggregation,
+  Digital Search Trees and the Lempel-Ziv Data Compression Algorithm",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0407058,Communication-Aware Processor Allocation for Supercomputers,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0603084,Random 3CNF formulas elude the Lovasz theta function,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0702025,"Algebraic Signal Processing Theory: Cooley-Tukey Type Algorithms for
+  DCTs and DSTs",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0612089,"On the time complexity of 2-tag systems and small universal Turing
+  machines",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0701011,Infinite-Alphabet Prefix Codes Optimal for $\beta$-Exponential Penalties,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0612060,The Common Prefix Problem On Trees,2.4711431321721443e-06,0.0,1.0,0.0
+cs/9904002,A geometric framework for modelling similarity search,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0212044,"Solving a ""Hard"" Problem to Approximate an ""Easy"" One: Heuristics for
+  Maximum Matchings and Maximum Traveling Salesman Problems",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0602067,Renyi to Renyi -- Source Coding under Siege,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0410048,Worst-Case Optimal Tree Layout in External Memory,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0505061,EAH: A New Encoder based on Adaptive Variable-length Codes,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0302011,Smoothed Analysis of Interior-Point Algorithms: Condition Number,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0702156,Analysis of Steiner subtrees of Random Trees for Traceroute Algorithms,2.459610766402485e-06,0.0,1.0,0.0
+quant-ph/0404060,A quantum Fourier transform algorithm,2.434902736530719e-06,0.0,5.0,1.0
+cs/0011009,Small Maximal Independent Sets and Faster Exact Graph Coloring,2.4297353599009875e-06,0.0,2.0,4.0
+cs/0606048,A New Quartet Tree Heuristic for Hierarchical Clustering,2.3936107127906745e-06,0.0,3.0,1.0
+cs/0703001,Embedding Graphs into the Extended Grid,2.3827141618200373e-06,0.0,1.0,0.0
+quant-ph/0311001,Quantum walk algorithm for element distinctness,2.232283708639202e-06,0.0003653733291851,4.0,31.0
+cs/0010033,A Formal Framework for Linguistic Annotation (revised version),2.2158564365873934e-06,0.0,2.0,0.0
+quant-ph/0402107,Coins Make Quantum Walks Faster,2.209881883105405e-06,0.0003220873610064,10.0,21.0
+math/0611679,Longest Common Pattern between two Permutations,2.1703299503340145e-06,0.0,1.0,1.0
+quant-ph/9902053,A better lower bound for quantum algorithms searching an ordered list,2.127274410394491e-06,0.0,8.0,6.0
+cs/0411064,Lower-Stretch Spanning Trees,2.120978933487838e-06,0.0,1.0,0.0
+cs/0512080,EqRank: Theme Evolution in Citation Graphs,2.090515509930159e-06,0.0,34.0,0.0
+cs/0606116,New Algorithms for Regular Expression Matching,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0702151,Succinct Sampling on Streams,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0009006,"Improved Algorithms for 3-Coloring, 3-Edge-Coloring, and Constraint
+  Satisfaction",1.8950380516170012e-06,0.0,1.0,3.0
+cs/0609085,"Improved Approximate String Matching and Regular Expression Matching on
+  Ziv-Lempel Compressed Texts",1.8950380516170012e-06,0.0,1.0,0.0
+cs/0702029,On the variance of subset sum estimation,1.8950380516170012e-06,0.0,1.0,0.0
+cs/9911003,Subgraph Isomorphism in Planar Graphs and Related Problems,1.8950380516170012e-06,0.0,1.0,1.0
+cs/0301030,Bounds on the Number of Longest Common Subsequences,1.8950380516170012e-06,0.0,1.0,1.0
+cs/0407036,All Maximal Independent Sets and Dynamic Dominance for Sparse Graphs,1.8902794808615776e-06,0.0,1.0,0.0
+cs/0609046,Exhausting Error-Prone Patterns in LDPC Codes,1.886523988428108e-06,0.0,2.0,0.0
+cs/0304005,Quantum Computation and Lattice Problems,1.7704518377025375e-06,0.0,4.0,5.0
+cs/0405053,Synchronous Relaxation for Parallel Ising Spin Simulations,1.703003024765287e-06,0.0,1.0,2.0
+cs/0308039,"A new approach to relevancy in Internet searching - the ""Vox Populi
+  Algorithm""",1.703003024765287e-06,0.0,1.0,0.0
+cs/0701012,$D$-ary Bounded-Length Huffman Coding,1.703003024765287e-06,0.0,1.0,0.0
+cs/0605013,Geometric representation of graphs in low dimension,1.703003024765287e-06,0.0,1.0,1.0
+cs/0402028,The lattice dimension of a graph,1.703003024765287e-06,0.0,1.0,3.0
+cond-mat/0504185,"Disaster Management in Scale-Free Networks: Recovery from and Protection
+  Against Intentional Attacks",1.703003024765287e-06,0.0,1.0,0.0
+cs/0508084,Source Coding for Quasiarithmetic Penalties,1.703003024765287e-06,0.0,1.0,0.0
+cs/0201007,Algorithm for generating orthogonal matrices with rational elements,1.703003024765287e-06,0.0,1.0,2.0
+cs/0505015,"Complex Mean and Variance of Linear Regression Model for High-Noised
+  Systems by Kriging",1.703003024765287e-06,0.0,1.0,0.0
+quant-ph/0210064,A Quantum Random Walk Search Algorithm,1.5614504707332352e-06,0.0,6.0,27.0
+cond-mat/0605190,Message passing for vertex covers,1.5109679979135728e-06,0.0,1.0,0.0
+cs/0309023,Efficient Algorithms for Citation Network Analysis,1.5109679979135728e-06,0.0,1.0,0.0
+cs/0005032,Computational Complexity and Phase Transitions,1.481534135440843e-06,0.0,1.0,0.0
+cond-mat/0310600,Finding Communities in Linear Time: A Physics Approach,1.426135683872644e-06,1.0727936106814849e-07,1.0,5.0
+cs/0609115,Measuring Fundamental Properties of Real-World Complex Networks,1.42173165549154e-06,0.0,1.0,0.0
+quant-ph/0608026,Search via Quantum Walk,1.351068429080645e-06,0.0,2.0,1.0
+cs/9903011,A complete anytime algorithm for balanced number partitioning,1.3189329710618589e-06,0.0,0.0,4.0
+cs/0006046,3-Coloring in Time O(1.3289^n),1.3189329710618589e-06,0.0,0.0,2.0
+cs/0206033,Algorithms for Media,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0602041,Why neighbor-joining works,1.3189329710618589e-06,0.0,0.0,4.0
+cs/0409057,"Fast Construction of Nets in Low Dimensional Metrics, and Their
+  Applications",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0403453,Unicyclic Components in Random Graphs,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0308011,Short Cycles Connectivity,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0211001,Fast and Simple Computation of All Longest Common Subsequences,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0302005,"Barnacle: An Assembly Algorithm for Clone-based Sequences of Whole
+  Genomes",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0504029,Fast Distributed Algorithms for Computing Separable Functions,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0602085,Twenty (or so) Questions: $D$-ary Length-Bounded Prefix Coding,1.3189329710618589e-06,0.0,0.0,3.0
+astro-ph/0305447,Fast n-point correlation functions and three-point lensing application,1.3189329710618589e-06,0.0,0.0,4.0
+quant-ph/9607014,A Quantum Algorithm for Finding the Minimum,1.3189329710618589e-06,0.0,0.0,32.0
+cs/0310049,An O(m) Algorithm for Cores Decomposition of Networks,1.3189329710618589e-06,0.0,0.0,2.0
+math/0207121,The Shannon-McMillan Theorem for Ergodic Quantum Lattice Systems,1.3189329710618589e-06,0.0,0.0,7.0
+cs/0202039,Generalized Cores,1.3189329710618589e-06,0.0,0.0,6.0
+quant-ph/0506265,Quantum Complexity of Testing Group Commutativity,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0101004,Decomposing Finite Abelian Groups,1.3189329710618589e-06,0.0,0.0,1.0
+cs/9912001,"The phase transition in random Horn satisfiability and its algorithmic
+  implications",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0309005,"Indexing Schemes for Similarity Search In Datasets of Short Protein
+  Fragments",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0310022,"Smoothed Analysis of the Condition Numbers and Growth Factors of
+  Matrices",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0509026,Sampling to estimate arbitrary subset sums,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0312054,Partitioning schemes for quicksort and quickselect,1.3189329710618589e-06,0.0,0.0,2.0
+quant-ph/9703009,Reversible Simulation of Irreversible Computation by Pebble Games,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0207004,Optimally cutting a surface into a disk,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0612088,Non-Clairvoyant Batch Sets Scheduling: Fairness is Fair enough,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0307062,Euclidean algorithms are Gaussian,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0509039,The Dynamics of Viral Marketing,1.3189329710618589e-06,0.0,0.0,1.0
+cs/9912014,"Fast Hierarchical Clustering and Other Applications of Dynamic Closest
+  Pairs",1.3189329710618589e-06,0.0,0.0,1.0
+math/0606122,Diagonal Peg Solitaire,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0410498,Understanding Search Trees via Statistical Physics,1.3189329710618589e-06,0.0,0.0,1.0
+math/0702744,Matrix norms and rapid mixing for spin systems,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0111050,"Smoothed Analysis of Algorithms: Why the Simplex Algorithm Usually Takes
+  Polynomial Time",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0010022,"Noise-Tolerant Learning, the Parity Problem, and the Statistical Query
+  Model",1.3189329710618589e-06,0.0,0.0,1.0
+math/0406094,"Merging costs for the additive Marcus-Lushnikov process, and Union-Find
+  algorithms",1.3189329710618589e-06,0.0,0.0,1.0
+cs/9901004,"On the geometry of similarity search: dimensionality curse and
+  concentration of measure",1.3189329710618589e-06,0.0,0.0,1.0
+math/0509575,"Evolutionary Trees and the Ising Model on the Bethe Lattice: a Proof of
+  Steel's Conjecture",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0204024,The Geometric Maximum Traveling Salesman Problem,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0211010,Efficient Tree Layout in a Multilevel Memory Hierarchy,1.3189329710618589e-06,0.0,0.0,1.0
+cs/9907001,Setting Parameters by Example,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0509069,Fast and Compact Regular Expression Matching,1.3189329710618589e-06,0.0,0.0,2.0
+cs/9906024,A decision procedure for well-formed linear quantum cellular automata,1.3189329710618589e-06,0.0,0.0,1.0
+math/0406353,On metric Ramsey-type phenomena,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9810347,"An exact representation of the fermion dynamics in terms of Poisson
+  processes and its connection with Monte Carlo algorithms",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0312055,Randomized selection with quintary partitions,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0604016,On Conditional Branches in Optimal Search Trees,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0611088,T-Theory Applications to Online Algorithms for the Server Problem,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0511003,Optimal Prefix Codes for Infinite Alphabets with Nonlinear Costs,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0505007,Adaptive Codes: A New Class of Non-standard Variable-length Codes,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0406035,"Optimal Free-Space Management and Routing-Conscious Dynamic Placement
+  for Reconfigurable Devices",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0403028,"An Application of Rational Trees in a Logic Programming Interpreter for
+  a Procedural Language",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0405077,Fast Simulation of Multicomponent Dynamic Systems,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/0101133,Time and Space Bounds for Reversible Simulation,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0205034,"Phase Transition in a Random Fragmentation Problem with Applications to
+  Computer Science",,,,
+cond-mat/0205336,Exact Solution of a Drop-push Model for Percolation,,,,
+cond-mat/0307058,Finite size scaling approach to dynamic storage allocation problem,,,,
+cond-mat/0503627,How to Simulate Billiards and Similar Systems,,,,
+cs/0002005,"Fully Sequential and Distributed Dynamic Algorithms for Minimum Spanning
+  Trees",,,,
+cs/0003072,"MOO: A Methodology for Online Optimization through Mining the Offline
+  Optimum",,,,
+cs/0003078,About the finding of independent vertices of a graph,,,,
+cs/0005009,PSPACE Reasoning for Graded Modal Logics,,,,
+cs/0005027,A Bayesian Reflection on Surfaces,,,,
+cs/0006029,Systematic Performance Evaluation of Multipoint Protocols,,,,
+cs/0006040,"Correlation over Decomposed Signals: A Non-Linear Approach to Fast and
+  Effective Sequences Comparison",,,,
+cs/0007005,"Systematic Testing of Multicast Routing Protocols: Analysis of Forward
+  and Backward Search Techniques",,,,
+cs/0007006,DISCO: An object-oriented system for music composition and sound design,,,,
+cs/0008002,Structure of some sand pile model,,,,
+cs/0008011,"All Pairs Shortest Paths using Bridging Sets and Rectangular Matrix
+  Multiplication",,,,
+cs/0009005,Fast Approximation of Centrality,,,,
+cs/0009010,Computing Crossing Numbers in Quadratic Time,,,,
+cs/0010007,Towards a Theory of Cache-Efficient Algorithms,,,,
+cs/0010023,Oracle Complexity and Nontransitivity in Pattern Recognition,,,,
+cs/0010031,Opportunity Cost Algorithms for Combinatorial Auctions,,,,
+cs/0011015,A Decomposition Theorem for Maximum Weight Bipartite Matchings,,,,
+cs/0011018,"Optimal Buy-and-Hold Strategies for Financial Markets with Bounded Daily
+  Returns",,,,
+cs/0011019,"A Moment of Perfect Clarity II: Consequences of Sparse Sets Hard for NP
+  with Respect to Weak Reductions",,,,
+cs/0011023,Optimal Bidding Algorithms Against Cheating in Multiple-Object Auctions,,,,
+cs/0011038,"Provably Fast and Accurate Recovery of Evolutionary Trees through
+  Harmonic Greedy Triplets",,,,
+cs/0011045,Index Assignment for Multichannel Communication under Failure,,,,
+cs/0011046,Available Stabilizing Heaps,,,,
+cs/0011047,Dancing links,,,,
+cs/0012001,Available and Stabilizing 2-3 Trees,,,,
+cs/0101010,"An Even Faster and More Unifying Algorithm for Comparing Trees via
+  Unbalanced Bipartite Matchings",,,,
+cs/0101011,Multiple-Size Divide-and-Conquer Recurrences,,,,
+cs/0101014,On the problem of computing the well-founded semantics,,,,
+cs/0101016,"A Dynamic Programming Approach to De Novo Peptide Sequencing via Tandem
+  Mass Spectrometry",,,,
+cs/0101021,"A Fast General Methodology for Information-Theoretically Optimal
+  Encodings of Graphs",,,,
+cs/0101024,On-Line Difference Maximization,,,,
+cs/0101028,Optimal Constructions of Hybrid Algorithms,,,,
+cs/0101030,Tree Contractions and Evolutionary Trees,,,,
+cs/0101031,"Cavity Matchings, Label Compressions, and Unrooted Evolutionary Trees",,,,
+cs/0101032,"Total Protection of Analytic Invariant Information in Cross Tabulated
+  Tables",,,,
+cs/0101033,Linear-Time Succinct Encodings of Planar Graphs via Canonical Orderings,,,,
+cs/0101034,Data Security Equals Graph Connectivity,,,,
+cs/0102005,"Compact Encodings of Planar Graphs via Canonical Orderings and Multiple
+  Parentheses",,,,
+cs/0102006,Orderly Spanning Trees with Applications,,,,
+cs/0102007,Common-Face Embeddings of Planar Graphs,,,,
+cs/0102008,Optimal Bid Sequences for Multiple-Object Auctions with Unequal Budgets,,,,
+cs/0102009,"Optimal Augmentation for Bipartite Componentwise Biconnectivity in
+  Linear Time",,,,
+cs/0102010,The Enhanced Double Digest Problem for DNA Physical Mapping,,,,
+cs/0103001,Construction of an algorithm in parallel for the Fast Fourier Transform,,,,
+cs/0104001,Mantaining Dynamic Matrices for Fully Dynamic Transitive Closure,,,,
+cs/0104009,Evaluating Recommendation Algorithms by Graph Analysis,,,,
+cs/0105024,Constraint Propagation in Presence of Arrays,,,,
+cs/0105028,When being Weak is Brave: Privacy in Recommender Systems,,,,
+cs/0105029,Coloring k-colorable graphs using relatively small palettes,,,,
+cs/0106029,"Building Views with Description Logics in ADE: Application Development
+  Environment",,,,
+cs/0107007,The Risk Profile Problem for Stock Portfolio Optimization,,,,
+cs/0107010,Algorithms for Boolean Function Query Properties,,,,
+cs/0107011,Distributed Broadcast in Wireless Networks with Unknown Topology,,,,
+cs/0107031,The Complexity of Clickomania,,,,
+cs/0109027,Routing Permutations in Partitioned Optical Passive Star Networks,,,,
+cs/0110011,The Minimum Expectation Selection Problem,,,,
+cs/0110038,Counting is Easy,,,,
+cs/0111038,Arc consistency for soft constraints,,,,
+cs/0111051,"Predicting RNA Secondary Structures with Arbitrary Pseudoknots by
+  Maximizing the Number of Stacking Pairs",,,,
+cs/0112018,"Fast Context-Free Grammar Parsing Requires Fast Boolean Matrix
+  Multiplication",,,,
+cs/0112022,Faster Algorithm of String Comparison,,,,
+cs/0201008,"Using Tree Automata and Regular Expressions to Manipulate Hierarchically
+  Structured Data",,,,
+cs/0201014,The Dynamics of AdaBoost Weights Tells You What's Hard to Classify,,,,
+cs/0202005,Secure History Preservation Through Timeline Entanglement,,,,
+cs/0203018,Improving Table Compression with Combinatorial Optimization,,,,
+cs/0204009,"New Results on Monotone Dualization and Generating Hypergraph
+  Transversals",,,,
+cs/0204019,"Fast Universalization of Investment Strategies with Provably Good
+  Relative Returns",,,,
+cs/0204033,Randomized selection revisited,,,,
+cs/0204046,Optimal Aggregation Algorithms for Middleware,,,,
+cs/0205007,On-Line Paging against Adversarially Biased Random Inputs,,,,
+cs/0205008,Improved Bicriteria Existence Theorems for Scheduling,,,,
+cs/0205010,Approximate Data Structures with Applications,,,,
+cs/0205011,On Strongly Connected Digraphs with Bounded Cycle Length,,,,
+cs/0205012,Polynomial-Time Approximation Scheme for Data Broadcast,,,,
+cs/0205024,"A (non)static 0-order statistical model and its implementation for
+  compressing virtually uncompressible data",,,,
+cs/0205029,A Codebook Generation Algorithm for Document Image Compression,,,,
+cs/0205030,Approximation Algorithms for Covering/Packing Integer Programs,,,,
+cs/0205032,On-Line End-to-End Congestion Control,,,,
+cs/0205033,On-Line File Caching,,,,
+cs/0205034,"Data-Collection for the Sloan Digital Sky Survey: a Network-Flow
+  Heuristic",,,,
+cs/0205036,Randomized Rounding without Solving the Linear Program,,,,
+cs/0205037,"A Primal-Dual Parallel Approximation Technique Applied to Weighted Set
+  and Vertex Cover",,,,
+cs/0205038,Competitive Paging Algorithms,,,,
+cs/0205039,Sequential and Parallel Algorithms for Mixed Packing and Covering,,,,
+cs/0205040,Approximating the Minimum Equivalent Digraph,,,,
+cs/0205041,Faster Parametric Shortest Path and Minimum Balance Algorithms,,,,
+cs/0205042,Orienting Graphs to Optimize Reachability,,,,
+cs/0205043,Low-Degree Spanning Trees of Small Weight,,,,
+cs/0205044,The K-Server Dual and Loose Competitiveness for Paging,,,,
+cs/0205045,Balancing Minimum Spanning and Shortest Path Trees,,,,
+cs/0205046,"On the Number of Iterations for Dantzig-Wolfe Optimization and
+  Packing-Covering Approximation Algorithms",,,,
+cs/0205047,"K-Medians, Facility Location, and the Chernoff-Wald Bound",,,,
+cs/0205048,Huffman Coding with Letter Costs: A Linear-Time Approximation Scheme,,,,
+cs/0205049,"Prefix Codes: Equiprobable Words, Unequal Letter Costs",,,,
+cs/0205050,"A Network-Flow Technique for Finding Low-Weight Bounded-Degree Spanning
+  Trees",,,,
+cs/0205051,Rounding Algorithms for a Geometric Embedding of Minimum Multiway Cut,,,,
+cs/0205077,Designing Multi-Commodity Flow Trees,,,,
+cs/0206009,"Implementation and complexity of the watershed-from-markers algorithm
+  computed as a minimal cost forest",,,,
+cs/0206012,Fast Deterministic Consensus in a Noisy Environment,,,,
+cs/0207009,"Computing Elementary Symmetric Polynomials with a Sublinear Number of
+  Multiplications",,,,
+cs/0207013,"A Compact Graph Model of Handwritten Images: Integration into
+  Authentification and Recognition",,,,
+cs/0207024,On Concise Encodings of Preferred Extensions,,,,
+cs/0207026,"Linear-Time Algorithms for Computing Maximum-Density Sequence Segments
+  with Bioinformatics Applications",,,,
+cs/0207028,"Greedy Facility Location Algorithms Analyzed using Dual Fitting with
+  Factor-Revealing LP",,,,
+cs/0207061,"Linear-Time Pointer-Machine Algorithms for Path-Evaluation Problems on
+  Trees and Graphs",,,,
+cs/0207066,Polynomial Time Data Reduction for Dominating Set,,,,
+cs/0207078,"Randomized Approximation Schemes for Cuts and Flows in Capacitated
+  Graphs",,,,
+cs/0208004,Detecting Race Conditions in Parallel Programs that Use Semaphores,,,,
+cs/0209014,Randomized protocols for asynchronous consensus,,,,
+cs/0209016,Sorting with a forklift,,,,
+cs/0209033,"Preemptive Scheduling of Equal-Length Jobs to Maximize Weighted
+  Throughput",,,,
+cs/0210003,On the Reflexivity of Point Sets,,,,
+cs/0210006,Dynamic Ordered Sets with Exponential Search Trees,,,,
+cs/0210013,On the Sum-of-Squares Algorithm for Bin Packing,,,,
+cs/0210016,Compact Floor-Planning via Orderly Spanning Trees,,,,
+cs/0210024,The Lazy Bureaucrat Scheduling Problem,,,,
+cs/0211009,"Improved Phylogeny Comparisons: Non-Shared Edges Nearest Neighbor
+  Interchanges, and Subtree Transfers",,,,
+cs/0211018,Indexing schemes for similarity search: an illustrated paradigm,,,,
+cs/0211019,Schedulers for Rule-based Constraint Programming,,,,
+cs/0212054,"Improved Compact Visibility Representation of Planar Graph via
+  Schnyder's Realizer",,,,
+cs/0301021,PHORMA: Perfectly Hashable Order Restricted Multidimensional Arrays,,,,
+cs/0301036,Algorithms using Java for Spreadsheet Dependent Cell Recomputation,,,,
+cs/0302009,Data Structure for a Time-Based Bandwidth Reservations Problem,,,,
+cs/0303011,Lock-free dynamic hash tables with open addressing,,,,
+cs/0303022,Probabilistic behavior of hash tables,,,,
+cs/0305002,Hybrid Rounding Techniques for Knapsack Problems,,,,
+cs/0305005,An In-Place Sorting with O(n log n) Comparisons and O(n) Moves,,,,
+cs/0306023,The Redesigned BaBar Event Store: Believe the Hype,,,,
+cs/0306025,Permutation Generation: Two New Permutation Algorithms,,,,
+cs/0306044,Compositional competitiveness for distributed algorithms,,,,
+cs/0306104,Efficient pebbling for list traversal synopses,,,,
+cs/0306113,"Symbolic Parametric Analysis of Embedded Systems with BDD-like
+  Data-Structures",,,,
+cs/0306123,"Heuristic to reduce the complexity of complete bipartite graphs to
+  accelerate the search for maximum weighted matchings with small error",,,,
+cs/0307005,"Optimal Adaptive Algorithms for Finding the Nearest and Farthest Point
+  on a Parametric Black-Box Curve",,,,
+cs/0307034,Range Mode and Range Median Queries on Lists and Trees,,,,
+cs/0307043,"An Extension of the Lovasz Local Lemma, and its Applications to Integer
+  Programming",,,,
+cs/0308004,DPG: A Cache-Efficient Accelerator for Sorting and for Join Operators,,,,
+cs/0308006,Higher-Dimensional Packing with Order Constraints,,,,
+cs/0308041,"Static Data Structure for Discrete Advance Bandwidth Reservations on the
+  Internet",,,,
+cs/0309014,Optimal Covering Tours with Turn Costs,,,,
+cs/0309016,"Using Simulated Annealing to Calculate the Trembles of Trembling Hand
+  Perfection",,,,
+cs/0309043,Finding approximate palindromes in strings,,,,
+cs/0310003,"The Wake Up and Report Problem is Time-Equivalent to the Firing Squad
+  Synchronization Problem",,,,
+cs/0310004,Determination of the Topology of a Directed Network,,,,
+cs/0310019,"A hierarchical Algorithm to Solve the Shortest Path Problem in Valued
+  Graphs",,,,
+cs/0310027,On the continuous Fermat-Weber problem,,,,
+cs/0310032,"A combinatorial characterization of higher-dimensional orthogonal
+  packing",,,,
+cs/0310034,"Minimizing the stabbing number of matchings, trees, and triangulations",,,,
+cs/0310036,"Solving Sparse, Symmetric, Diagonally-Dominant Linear Systems in Time $O
+  (m^{1.31})$",,,,
+cs/0310037,Maximum dispersion and geometric maximum weight cliques,,,,
+cs/0310065,Maintaining Information in Fully-Dynamic Trees with Top Trees,,,,
+cs/0311018,"Ackermann Encoding, Bisimulations, and OBDDs",,,,
+cs/0311020,An Optimal Algorithm for the Maximum-Density Segment Problem,,,,
+cs/0311030,"Set K-Cover Algorithms for Energy Efficient Monitoring in Wireless
+  Sensor Networks",,,,
+cs/0401001,"Initial Experiences Re-Exporting Duplicate and Similarity Computation
+  with an OAI-PMH aggregator",,,,
+cs/0401011,"Heuristic average-case analysis of the backtrack resolution of random
+  3-Satisfiability instances",,,,
+cs/0401012,Algebraic Elimination of epsilon-transitions,,,,
+cs/0402019,The Munich Rent Advisor: A Success for Logic Programming on the Internet,,,,
+cs/0402044,"A General Framework for Bounds for Higher-Dimensional Orthogonal Packing
+  Problems",,,,
+cs/0402045,The Freeze-Tag Problem: How to Wake Up a Swarm of Robots,,,,
+cs/0403022,Fast Multipoint-Evaluation of Bivariate Polynomials,,,,
+cs/0403037,Schedulers and Redundancy for a Class of Constraint Propagation Rules,,,,
+cs/0403040,Generating connected acyclic digraphs uniformly at random,,,,
+cs/0404036,Online Searching with an Autonomous Robot,,,,
+cs/0404058,Efficient coroutine generation of constrained Gray sequences,,,,
+cs/0405006,Bi-criteria Algorithm for Scheduling Jobs on Cluster Platforms,,,,
+cs/0405058,Neighborhood-Based Topology Recognition in Sensor Networks,,,,
+cs/0405094,"The Complexity of Maximum Matroid-Greedoid Intersection and Weighted
+  Greedoid Maximization",,,,
+cs/0405110,An analysis of a bounded resource search puzzle,,,,
+cs/0406003,Algorithms for weighted multi-tape automata,,,,
+cs/0406028,"Ramsey-type theorems for metric spaces with applications to online
+  problems",,,,
+cs/0406034,Better algorithms for unfair metrical task systems and applications,,,,
+cs/0406036,Online Companion Caching,,,,
+cs/0406043,"The Computational Complexity of Orientation Search Problems in
+  Cryo-Electron Microscopy",,,,
+cs/0406045,Online Searching with Turn Cost,,,,
+cs/0406053,"Approximation Algorithms for Minimum PCR Primer Set Selection with
+  Amplification Length and Uniqueness Constraints",,,,
+cs/0407003,Insertion Sort is O(n log n),,,,
+cs/0407023,Efficient Hashing with Lookups in two Memory Accesses,,,,
+cs/0408003,Multi-Embedding of Metric Spaces,,,,
+cs/0408016,Lock-Free and Practical Deques using Single-Word Compare-And-Swap,,,,
+cs/0408026,"Incremental Construction of Minimal Acyclic Sequential Transducers from
+  Unsorted Data",,,,
+cs/0408039,Medians and Beyond: New Aggregation Techniques for Sensor Networks,,,,
+cs/0408040,Hash sort: A linear time complexity multiple-dimensional sort algorithm,,,,
+cs/0409009,CrocoPat 2.1 Introduction and Reference Manual,,,,
+cs/0409013,Locally connected spanning trees on graphs,,,,
+cs/0409016,"Using a hierarchy of Domain Specific Languages in complex software
+  systems design",,,,
+cs/0409017,"Near Optimal Routing for Small-World Networks with Augmented Local
+  Awareness",,,,
+cs/0410013,Fibonacci connection between Huffman codes and Wythoff array,,,,
+cs/0410017,"Automated Pattern Detection--An Algorithm for Constructing Optimally
+  Synchronizing Multi-Regular Language Filters",,,,
+cs/0410039,"Generating All Maximal Induced Subgraphs for Hereditary,
+  Connected-Hereditary and Rooted-Hereditary Properties",,,,
+cs/0410046,A Note on Scheduling Equal-Length Jobs to Maximize Throughput,,,,
+cs/0411027,"Extremal Properties of Three Dimensional Sensor Networks with
+  Applications",,,,
+cs/0411093,Forbidden Subgraphs in Connected Graphs,,,,
+cs/0411095,Embeddings into the Pancake Interconnection Network,,,,
+cs/0412004,Finding Approximate Palindromes in Strings Quickly and Simply,,,,
+cs/0412006,The Accelerated Euclidean Algorithm,,,,
+cs/0412008,Measured descent: A new embedding method for finite metrics,,,,
+cs/0412094,"Preemptive Multi-Machine Scheduling of Equal-Length Jobs to Minimize the
+  Average Flow Time",,,,
+cs/0412100,Formal Test Purposes and The Validity of Test Cases,,,,
+cs/0412107,A Monte Carlo algorithm for efficient large matrix inversion,,,,
+cs/0501020,Enhancing Histograms by Tree-Like Bucket Indices,,,,
+cs/0501042,Maintaining Consistency of Data on the Web,,,,
+cs/0501045,Improved Approximation Algorithms for Geometric Set Cover,,,,
+cs/0501073,Optimal Union-Find in Constraint Handling Rules,,,,
+cs/0502014,On the asymptotic behavior of some Algorithms,,,,
+cs/0502032,On Dynamic Range Reporting in One Dimension,,,,
+cs/0502054,Improved Tag Set Design and Multiplexing Algorithms for Universal Arrays,,,,
+cs/0502065,Highly Scalable Algorithms for Robust String Barcoding,,,,
+cs/0502070,"Bidimensionality, Map Graphs, and Grid Minors",,,,
+cs/0502073,A note on the Burrows-Wheeler transformation,,,,
+cs/0502075,"How far will you walk to find your shortcut: Space Efficient Synopsis
+  Construction Algorithms",,,,
+cs/0503023,The Weighted Maximum-Mean Subtree and Other Bicriterion Subtree Problems,,,,
+cs/0503057,Exact and Approximation Algorithms for DNA Tag Set Design,,,,
+cs/0503065,Data-Structure Rewriting,,,,
+cs/0504023,Correlation Clustering with a Fixed Number of Clusters,,,,
+cs/0504026,Searching Monotone Multi-dimensional Arrays,,,,
+cs/0504103,Incremental Medians via Online Bidding,,,,
+cs/0504104,The reverse greedy algorithm for the metric k-median problem,,,,
+cs/0505005,Defragmenting the Module Layout of a Partially Reconfigurable Device,,,,
+cs/0505027,"The Generic Multiple-Precision Floating-Point Addition With Exact
+  Rounding (as in the MPFR Library)",,,,
+cs/0505028,A linear memory algorithm for Baum-Welch training,,,,
+cs/0505048,"Improved Combinatorial Group Testing Algorithms for Real-World Problem
+  Sizes",,,,
+cs/0505071,Summarization Techniques for Pattern Collections in Data Mining,,,,
+cs/0505075,On Searching a Table Consistent with Division Poset,,,,
+cs/0505077,Efficient Approximation of Convex Recolorings,,,,
+cs/0506027,Sorting a Low-Entropy Sequence,,,,
+cs/0506104,"Computing minimal models, stable models and answer sets",,,,
+cs/0507047,Inferring AS Relationships: Dead End or Lively Beginning?,,,,
+cs/0507050,"Skip-Webs: Efficient Distributed Data Structures for Multi-Dimensional
+  Data Sets",,,,
+cs/0507051,Confluent Layered Drawings,,,,
+cs/0507053,Nonrepetitive Paths and Cycles in Graphs with Application to Sudoku,,,,
+cs/0508006,A New Approach for Boundary Recognition in Geometric Sensor Networks,,,,
+cs/0508045,Multicommodity Flow Algorithms for Buffered Global Routing,,,,
+cs/0508083,A General Framework for Codes Involving Redundancy Minimization,,,,
+cs/0508086,High-performance BWT-based Encoders,,,,
+cs/0508087,Modelling the Eulerian Path Problem using a String Matching Framework,,,,
+cs/0508089,Modelling the EAH Data Compression Algorithm using Graph Theory,,,,
+cs/0508090,Translating the EAH Data Compression Algorithm into Automata Theory,,,,
+cs/0508097,Tightness of LP via Max-product Belief Propagation,,,,
+cs/0508122,"Streaming and Sublinear Approximation of Entropy and Information
+  Distances",,,,
+cs/0508125,A Sorting Algorithm Based on Calculation,,,,
+cs/0509015,"Optimal Prefix Codes with Fewer Distinct Codeword Lengths are Faster to
+  Construct",,,,
+cs/0509031,"On the Worst-case Performance of the Sum-of-Squares Algorithm for Bin
+  Packing",,,,
+cs/0509038,Algorithms for Max Hamming Exact Satisfiability,,,,
+cs/0509061,"Guarantees for the Success Frequency of an Algorithm for Finding
+  Dodgson-Election Winners",,,,
+cs/0510017,Partial fillup and search time in LC tries,,,,
+cs/0510019,Entropy based Nearest Neighbor Search in High Dimensions,,,,
+cs/0510086,Balanced Allocation on Graphs,,,,
+cs/0511020,Pbit and other list sorting algorithms,,,,
+cs/0511030,The Linear Arrangement Problem Parameterized Above Guaranteed Value,,,,
+cs/0511044,Various Solutions to the Firing Squad Synchronization Problems,,,,
+cs/0511082,Approximating Clustering of Fingerprint Vectors with Missing Values,,,,
+cs/0511108,"Parameter Estimation of Hidden Diffusion Processes: Particle Filter vs.
+  Modified Baum-Welch Algorithm",,,,
+cs/0512016,"A linear-time algorithm for finding the longest segment which scores
+  above a given threshold",,,,
+cs/0512021,The Poster Session of SSS 2005,,,,
+cs/0512046,A polynomial algorithm for the k-cluster problem on interval graphs,,,,
+cs/0512052,High-Throughput SNP Genotyping by SBE/SBH,,,,
+cs/0512060,Distributed Navigation Algorithms for Sensor Networks,,,,
+cs/0512061,Matching Subsequences in Trees,,,,
+cs/0512081,De Dictionariis Dynamicis Pauco Spatio Utentibus,,,,
+cs/0512091,"Data Structures for Halfplane Proximity Queries and Incremental Voronoi
+  Diagrams",,,,
+cs/0601011,"Integrality gaps of semidefinite programs for Vertex Cover and relations
+  to $\ell_1$ embeddability of Negative Type metrics",,,,
+cs/0601026,"Algebraic Structures and Algorithms for Matching and Matroid Problems
+  (Preliminary Version)",,,,
+cs/0601081,"An O(1) Solution to the Prefix Sum Problem on a Specialized Memory
+  Architecture",,,,
+cs/0601084,Randomized Fast Design of Short DNA Words,,,,
+cs/0601116,"A unifying framework for seed sensitivity and its application to subset
+  seeds",,,,
+cs/0601117,Finding Cliques of a Graph using Prime Numbers,,,,
+cs/0601127,Truly Online Paging with Locality of Reference,,,,
+cs/0602016,"Finding total unimodularity in optimization problems solved by linear
+  programs",,,,
+cs/0602029,Approximate Weighted Farthest Neighbors and Minimum Dilation Stars,,,,
+cs/0602053,How to Beat the Adaptive Multi-Armed Bandit,,,,
+cs/0602057,Plane Decompositions as Tools for Approximation,,,,
+cs/0602069,Faster Algorithms for Constructing a Concept (Galois) Lattice,,,,
+cs/0602073,An O(n^{2.75}) algorithm for online topological ordering,,,,
+cs/0603012,Improved Bounds and Schemes for the Declustering Problem,,,,
+cs/0603026,The Snowblower Problem,,,,
+cs/0603048,"Homogeneity vs. Adjacency: generalising some graph decomposition
+  algorithms",,,,
+cs/0603050,Multiple serial episode matching,,,,
+cs/0603053,"Automatic generation of simplified weakest preconditions for integrity
+  constraint verification",,,,
+cs/0603077,"Packrat Parsing: Simple, Powerful, Lazy, Linear Time",,,,
+cs/0603122,Complexity of Monadic inf-datalog. Application to temporal logic,,,,
+cs/0604008,Minimum-Cost Coverage of Point Sets by Disks,,,,
+cs/0604045,An exact algorithm for higher-dimensional orthogonal packing,,,,
+cs/0604051,Structural Alignments of pseudo-knotted RNA-molecules in polynomial time,,,,
+cs/0604055,"Beyond Hirsch Conjecture: walks on random polytopes and smoothed
+  complexity of the simplex method",,,,
+cs/0604058,Solving Classical String Problems on Compressed Texts,,,,
+cs/0604065,Unifying two Graph Decompositions with Modular Decomposition,,,,
+cs/0604068,Unbiased Matrix Rounding,,,,
+cs/0604097,Approximation algorithms for wavelet transform coding of data streams,,,,
+cs/0604108,"An Algebraic View of the Relation between Largest Common Subtrees and
+  Smallest Common Supertrees",,,,
+cs/0605050,A Polynomial Time Nilpotence Test for Galois Groups and Related Results,,,,
+cs/0605078,The Complexity of Mean Flow Time Scheduling Problems with Release Times,,,,
+cs/0605099,Alphabetic Coding with Exponential Costs,,,,
+cs/0605102,Restricted Strip Covering and the Sensor Cover Problem,,,,
+cs/0605112,An Algorithm to Determine Peer-Reviewers,,,,
+cs/0605126,Power-aware scheduling for makespan and flow,,,,
+cs/0606001,"Tight Bounds for the Min-Max Boundary Decomposition Cost of Weighted
+  Graphs",,,,
+cs/0606038,Tight Bounds on the Complexity of Recognizing Odd-Ranked Elements,,,,
+cs/0606040,Approximation Algorithms for Multi-Criteria Traveling Salesman Problems,,,,
+cs/0606042,"Enabling user-driven Checkpointing strategies in Reverse-mode Automatic
+  Differentiation",,,,
+cs/0606067,Scheduling Algorithms for Procrastinators,,,,
+cs/0606110,Optimal Scheduling of Peer-to-Peer File Dissemination,,,,
+cs/0606124,Weighted hierarchical alignment of directed acyclic graph,,,,
+cs/0607025,The evolution of navigable small-world networks,,,,
+cs/0607026,Path-independent load balancing with unreliable machines,,,,
+cs/0607045,Improved online hypercube packing,,,,
+cs/0607046,Strip Packing vs. Bin Packing,,,,
+cs/0607078,Complex Lattice Reduction Algorithm for Low-Complexity MIMO Detection,,,,
+cs/0607098,List decoding of noisy Reed-Muller-like codes,,,,
+cs/0607100,New Upper Bounds on The Approximability of 3D Strip Packing,,,,
+cs/0607115,Polynomial-time algorithm for vertex k-colorability of P_5-free graphs,,,,
+cs/0608008,The minimum linear arrangement problem on proper interval graphs,,,,
+cs/0608013,"Pull-Based Data Broadcast with Dependencies: Be Fair to Users, not to
+  Items",,,,
+cs/0608037,"Cascade hash tables: a series of multilevel double hashing schemes with
+  O(1) worst case lookup time",,,,
+cs/0608050,"Post-Processing Hierarchical Community Structures: Quality Improvements
+  and Multi-scale View",,,,
+cs/0608054,Dispersion of Mass and the Complexity of Randomized Geometric Algorithms,,,,
+cs/0608066,k-Connectivity in the Semi-Streaming Model,,,,
+cs/0608091,On-line topological simplification of weighted graphs,,,,
+cs/0608124,The Tree Inclusion Problem: In Linear Space and Faster,,,,
+cs/0609009,"Finding heaviest H-subgraphs in real weighted graphs, with applications",,,,
+cs/0609031,Approximation Algorithms for the Bipartite Multi-cut Problem,,,,
+cs/0609032,CR-precis: A deterministic summary structure for update data streams,,,,
+cs/0609103,Minimum-weight Cycle Covers and Their Approximability,,,,
+cs/0609116,"Theory and Practice of Triangle Problems in Very Large (Sparse
+  (Power-Law)) Graphs",,,,
+cs/0609118,Duality of Fix-Points for Distributive Lattices,,,,
+cs/0609128,Max-Cut and Max-Bisection are NP-hard on unit disk graphs,,,,
+cs/0610001,Practical Entropy-Compressed Rank/Select Dictionary,,,,
+cs/0610042,A Polynomial Time Algorithm for The Traveling Salesman Problem,,,,
+cs/0610046,"Streaming Maximum-Minimum Filter Using No More than Three Comparisons
+  per Element",,,,
+cs/0610119,Approximate Convex Optimization by Online Game Playing,,,,
+cs/0610128,"Hierarchical Bin Buffering: Online Local Moments for Dynamic External
+  Memory Arrays",,,,
+cs/0610155,"Nonlinear Estimators and Tail Bounds for Dimension Reduction in $l_1$
+  Using Cauchy Random Projections",,,,
+cs/0610163,A Taxonomy of Peer-to-Peer Based Complex Queries: a Grid perspective,,,,
+cs/0610174,A Fixed-Parameter Algorithm for #SAT with Parameter Incidence Treewidth,,,,
+cs/0611001,"A near-optimal fully dynamic distributed algorithm for maintaining
+  sparse spanners",,,,
+cs/0611019,Algorithmic Aspects of a General Modular Decomposition Theory,,,,
+cs/0611023,Faster Streaming algorithms for graph spanners,,,,
+cs/0611098,"Analysis of an Efficient Distributed Algorithm for Mutual Exclusion
+  (Average-Case Analysis of Path Reversal)",,,,
+cs/0611101,"Fourier meets M\""{o}bius: fast subset convolution",,,,
+cs/0611107,Rectangular Layouts and Contact Graphs,,,,
+cs/0611114,"Very Sparse Stable Random Projections, Estimators and Tail Bounds for
+  Stable Random Projections",,,,
+cs/0611116,Discovering Network Topology in the Presence of Byzantine Faults,,,,
+cs/0611117,2FACE: Bi-Directional Face Traversal for Efficient Geometric Routing,,,,
+cs/0612031,Estimating Aggregate Properties on Probabilistic Streams,,,,
+cs/0612033,"Acronym-Meaning Extraction from Corpora Using Multi-Tape Weighted
+  Finite-State Machines",,,,
+cs/0612037,Least Significant Digit First Presburger Automata,,,,
+cs/0612041,Viterbi Algorithm Generalized for n-Tape Best-Path Search,,,,
+cs/0612052,Budget Optimization in Search-Based Advertising Auctions,,,,
+cs/0612055,Linear Probing with Constant Independence,,,,
+cs/0612058,"Adaptive Simulated Annealing: A Near-optimal Connection between Sampling
+  and Counting",,,,
+cs/0612072,Stochastic Models for Budget Optimization in Search-Based Advertising,,,,
+cs/0612074,Energy Efficient Randomized Communication in Unknown AdHoc Networks,,,,
+cs/0612100,Improved results for a memory allocation problem,,,,
+cs/0701023,A Polynomial Time Algorithm for 3-SAT,,,,
+cs/0701079,Practical Binary Adaptive Block Coder,,,,
+cs/0701083,A Backtracking-Based Algorithm for Computing Hypertree-Decompositions,,,,
+cs/0701142,Knowledge State Algorithms: Randomization with Limited Information,,,,
+cs/0701153,Online Bandwidth Allocation,,,,
+cs/0701185,Graph Operations on Clique-Width Bounded Graphs,,,,
+cs/0701189,A New Self-Stabilizing Maximal Matching Algorithm,,,,
+cs/0702032,Finding large and small dense subgraphs,,,,
+cs/0702043,Deciding k-colourability of $P_5$-free graphs in polynomial time,,,,
+cs/0702049,Parameterized Algorithms for Directed Maximum Leaf Problems,,,,
+cs/0702054,Nash equilibria in Voronoi games on graphs,,,,
+cs/0702056,A probabilistic analysis of a leader election algorithm,,,,
+cs/0702078,A Local Algorithm for Finding Dense Subgraphs,,,,
+cs/0702113,Fast Computation of Small Cuts via Cycle Space Sampling,,,,
+cs/0702142,An Optimal Linear Time Algorithm for Quasi-Monotonic Segmentation,,,,
+cs/0702159,Perfect Hashing for Data Management Applications,,,,
+cs/0703010,"An optimal bifactor approximation algorithm for the metric uncapacitated
+  facility location problem",,,,
+cs/0703013,NLC-2 graph recognition and isomorphism,,,,
+cs/0703019,The Stackelberg Minimum Spanning Tree Game,,,,
+cs/0703020,Counting preimages of TCP reordering patterns,,,,
+cs/0703093,"Some problems in asymptotic convex geometry and random matrices
+  motivated by numerical algorithms",,,,
+cs/0703098,Polynomial time algorithm for 3-SAT. Examples of use,,,,
+cs/0703100,Approximation Algorithms for Multiprocessor Scheduling under Uncertainty,,,,
+cs/0703109,Tag-Cloud Drawing: Algorithms for Cloud Visualization,,,,
+cs/0703132,Structure induction by lossless graph compression,,,,
+cs/0703133,Computing Good Nash Equilibria in Graphical Games,,,,
+cs/0703146,A Polynomial Time Algorithm for SAT,,,,
+cs/0703150,"Type-II/III DCT/DST algorithms with reduced number of arithmetic
+  operations",,,,
+cs/9301115,Context-free multilanguages,,,,
+cs/9301116,The problem of compatible representatives,,,,
+cs/9608105,Shellsort with three increments,,,,
+cs/9801103,Linear probing and graphs,,,,
+cs/9809012,"A Fully Polynomial Randomized Approximation Scheme for the All Terminal
+  Network Reliability Problem",,,,
+cs/9809064,"Approximation Algorithms for PSPACE-Hard Hierarchically and Periodically
+  Specified Problems",,,,
+cs/9809103,Bicriteria Network Design Problems,,,,
+cs/9809122,Practical algorithms for on-line sampling,,,,
+cs/9810009,Object-Oriented Design of Graph Oriented Data Structures,,,,
+cs/9811019,Locked and Unlocked Polygonal Chains in 3D,,,,
+cs/9812007,Minimum Cuts in Near-Linear Time,,,,
+cs/9812008,Approximate Graph Coloring by Semidefinite Programming,,,,
+cs/9901010,Average-Case Complexity of Shellsort,,,,
+cs/9902005,Mutual Search,,,,
+cs/9902006,A Discipline of Evolutionary Programming,,,,
+cs/9903009,"Space-Efficient Routing Tables for Almost All Networks and the
+  Incompressibility Method",,,,
+cs/9903010,"A class of problems of NP to be worth to search an efficient solving
+  algorithm",,,,
+cs/9903012,"Formalization of the class of problems solvable by a nondeterministic
+  Turing machine",,,,
+cs/9903020,Tiling with bars under tomographic constraints,,,,
+cs/9906008,A Lower Bound on the Average-Case Complexity of Shellsort,,,,
+cs/9906018,"Reconstructing Polyatomic Structures from Discrete X-Rays:
+  NP-Completeness Proof for Three Atoms",,,,
+cs/9906021,Reconstructing hv-Convex Polyominoes from Orthogonal Projections,,,,
+cs/9907011,Reducing Randomness via Irrational Numbers,,,,
+cs/9907015,"Linear-Time Approximation Algorithms for Computing Numerical Summation
+  with Provably Small Errors",,,,
+cs/9910013,Map Graphs,,,,
+cs/9912020,Additive models in high dimensions,,,,
+math-ph/0701043,"Strong Spatial Mixing and Rapid Mixing with Five Colours for the Kagome
+  Lattice",,,,
+math/0005235,"Smoothness and decay properties of the limiting Quicksort density
+  function",,,,
+math/0005236,"A characterization of the set of fixed points of the Quicksort
+  transformation",,,,
+math/0005237,Perfect simulation from the Quicksort limit distribution,,,,
+math/0211317,On graph coloring check-digit method,,,,
+math/0302315,Memory Efficient Arithmetic,,,,
+math/0410593,The Schreier-Sims algorithm for matrix groups,,,,
+math/0411138,"Generating Functions For Kernels of Digraphs (Enumeration & Asymptotics
+  for Nim Games)",,,,
+math/0411250,Generating functions for generating trees,,,,
+math/0502232,Individual displacements in hashing with coalesced chains,,,,
+math/0508183,On a Duality between Metrics and $\Sigma$-Proximities,,,,
+math/0508199,Extending Utility Representations of Partial Orders,,,,
+math/0510573,Fast Monte-Carlo Low Rank Approximations for Matrices,,,,
+math/0602059,The Matrix of Maximum Out Forests of a Digraph and Its Applications,,,,
+math/0602073,On Proximity Measures for Graph Vertices,,,,
+math/0603207,Fast matrix multiplication is stable,,,,
+math/0604367,Network Delay Inference from Additive Metrics,,,,
+math/0607411,Extending the scalars of minimizations,,,,
+math/0608210,Recognising the Suzuki groups in their natural representations,,,,
+math/0612264,Fast linear algebra is stable,,,,
+math/0702325,Neighbor selection and hitting probability in small-world graphs,,,,
+math/0703927,"On Computing the Distinguishing Numbers of Planar Graphs and Beyond: a
+  Counting Approach",,,,
+math/9610221,"Extensions and Corrections for: ``A Convex Geometric Approach to
+  Counting the Roots of a Polynomial System''",,,,
+math/9702221,Some New Applications of Toric Geometry,,,,
+math/9702222,Toric Generalized Characteristic Polynomials,,,,
+math/9704218,"A simple polynomial time algorithm to approximate the permanent within a
+  simply exponential factor",,,,
+quant-ph/9703022,"Reversibility and Adiabatic Computation: Trading Time and Space for
+  Energy",,,,

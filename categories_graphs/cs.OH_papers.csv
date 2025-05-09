@@ -1,0 +1,65 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+quant-ph/0605219,Classical simulators of quantum computers and no-go theorems,4.192703788960801e-05,0.0,13.0,0.0
+quant-ph/0503230,Programmable Quantum Networks with Pure States,2.13489929815028e-05,1.93454984705114e-06,34.0,3.0
+physics/0602026,"Preferential attachment in the growth of social networks: the case of
+  Wikipedia",5.257856291871513e-06,5.986461240601432e-06,2.0,3.0
+cs/0609107,A multipurpose Hopf deformation of the Algebra of Feynman-like Diagrams,5.022362329402956e-06,0.0,3.0,0.0
+quant-ph/0406119,On Quantum Cellular Automata,4.277618003022028e-06,3.332936009288117e-07,8.0,2.0
+math/0002216,About the globular homology of higher dimensional automata,2.697084014042981e-06,0.0,1.0,1.0
+cs/0001001,Von Neumann Quantum Logic vs. Classical von Neumann Architecture?,2.637222930811856e-06,0.0,3.0,0.0
+math/0610680,"Gaussian limits for multidimensional random sequential packing at
+  saturation (extended version)",1.703003024765287e-06,0.0,1.0,0.0
+astro-ph/0005101,"Data Streams from the Low Frequency Instrument On-Board the Planck
+  Satellite: Statistical Analysis and Compression Efficiency",1.6504049457397862e-06,0.0,1.0,0.0
+math/9912059,Combinatorics of branchings in higher dimensional automata,1.60698551133943e-06,0.0,1.0,1.0
+cs/0507054,f2mma: FORTRAN to Mathematica translator,1.3698731424373288e-06,0.0,1.0,0.0
+quant-ph/9904108,Self-Testing of Universal and Fault-Tolerant Sets of Quantum Gates,1.3510789486071229e-06,0.0,1.0,1.0
+cs/0401019,Using biased coins as oracles,1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/0403341,"Roughening of the (1+1) interfaces in two-component surface growth with
+  an admixture of random deposition",1.3189329710618589e-06,0.0,0.0,2.0
+cs/9903005,Numeration systems on a regular language,1.3189329710618589e-06,0.0,0.0,3.0
+math/0103011,The branching nerve of HDA and the Kan condition,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0002018,Efficient generation of rotating workforce schedules,,,,
+cs/0003075,On the theory of system administration,,,,
+cs/0110029,"How to Commission, Operate and Maintain a Large Future Accelerator
+  Complex from Far Remote",,,,
+cs/0111002,"L-Fuzzy Valued Inclusion Measure, L-Fuzzy Similarity and L-Fuzzy
+  Distance",,,,
+cs/0206025,"The Lattice of Fuzzy Intervals and Sufficient Conditions for its
+  Distributivity",,,,
+cs/0207007,"Evolutionary Circuit Design: Information Theory Perspective on Signal
+  Propagation",,,,
+cs/0207019,Information Measures in Detecting and Recognizing Symmetries,,,,
+cs/0207020,"Towards Efficient Calculation of Information Measures for Reordering of
+  Binary Decision Diagrams",,,,
+cs/0304042,On probabilistic analog automata,,,,
+cs/0306014,"SCRAM: Software configuration and management for the LHC Computing Grid
+  project",,,,
+cs/0306033,Multi-valued Connectives for Fuzzy Sets,,,,
+cs/0401013,Verification of Process Rewrite Systems in normal form,,,,
+cs/0403004,"New Visualization of Surfaces in Parallel Coordinates - Eliminating
+  Ambiguity and Some ""Over-Plotting""",,,,
+cs/0403005,"Algebraic Curves in Parallel Coordinates - Avoiding the ""Over-Plotting""
+  Problem",,,,
+cs/0403027,An approach to membrane computing under inexactitude,,,,
+cs/0405003,"Model checking for Process Rewrite Systems and a class of action--based
+  regular properties",,,,
+cs/0407030,Scheduling with Fuzzy Methods,,,,
+cs/0505040,Asynchronous pseudo-systems,,,,
+cs/0508128,Mapping DEVS Models onto UML Models,,,,
+cs/0602009,Efficient Teamwork,,,,
+cs/0602017,Quasi-Linear Soft Tissue Models Revisited,,,,
+cs/0603105,"A unifying framework for seed sensitivity and its application to subset
+  seeds (Extended abstract)",,,,
+cs/0603106,Estimating seed sensitivity on homogeneous alignments,,,,
+cs/0610005,Domain Wall Displacement Detection Technology Research Report,,,,
+cs/0701187,Verification Across Intellectual Property Boundaries,,,,
+cs/0702019,A Dynamic I/O Model for TRACON Traffic Management,,,,
+cs/0702098,A Sum-Product Model as a Physical Basis for Shadow Fading,,,,
+cs/0703096,Asynchronous Event-Driven Particle Algorithms,,,,
+cs/9911010,The Sources of Certainty in Computation and Formal Systems,,,,
+math/9902151,"Homotopy invariants of higher dimensional categories and concurrency in
+  computer science",,,,
+nlin/0502027,"Two-body problem on a sphere. Reduction, stochasticity, periodic orbits",,,,
+nlin/0503024,Galton Board,,,,
+physics/0609217,Stochastic Model for Power Grid Dynamics,,,,

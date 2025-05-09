@@ -1,0 +1,917 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+dg-ga/9712005,"PU(2) monopoles. II: Top-level Seiberg-Witten moduli spaces and Witten's
+  conjecture in low degrees",8.377410997063432e-06,0.0003423409823406,18.0,16.0
+funct-an/9612004,"On the infinite dimensional hidden symmetries. I. Infinite dimensional
+  geometry of $q_R$-conformal symmetries",7.659613212225666e-06,0.0,11.0,6.0
+gr-qc/9503038,Stress-Energy-Momentum Tensors in Constraint Field Theories,6.823758401844917e-06,0.0,4.0,2.0
+alg-geom/9503004,"The canonical class and the $C^\infty$ properties of K\""ahler surfaces",6.491195753332623e-06,0.0,8.0,5.0
+gr-qc/9510061,"Stress-Energy-Momentum Tensors in Lagrangian Field Theory. Part 1.
+  Superpotentials",6.303791906876081e-06,0.0,6.0,4.0
+dg-ga/9606003,Equivariant Seiberg-Witten Floer Homology,5.901786391352175e-06,0.0003390400854643,7.0,7.0
+dg-ga/9709007,"General existence of minimal surfaces of genus zero with catenoidal ends
+  and prescribed flux",5.655144290770314e-06,0.0,1.0,1.0
+dg-ga/9709006,An inverse problem of the flux for minimal surfaces,5.655144290770314e-06,0.0,1.0,1.0
+dg-ga/9707023,Singular Reduction and Quantization,5.114569970042485e-06,0.0,6.0,0.0
+hep-th/9501075,"Localization and Diagonalization: A review of functional integral
+  techniques for low-dimensional gauge theories and topological field theories",5.11272694481074e-06,0.0,15.0,21.0
+hep-th/9709193,Integration over the u-plane in Donaldson theory,5.088988436408409e-06,7.586838854007959e-05,35.0,80.0
+dg-ga/9710032,"PU(2) Monopoles, I: Regularity, Uhlenbeck Compactness, and
+  Transversality",4.865000481174527e-06,2.8036091804534024e-07,19.0,14.0
+hep-th/9709192,Lectures in Topological Quantum Field Theory,4.709844419621792e-06,2.698131916172119e-05,21.0,22.0
+dg-ga/9709018,"Investigation and application of the dressing action on surfaces of
+  constant mean curvature",4.651340137579245e-06,0.0,3.0,0.0
+dg-ga/9709013,"Deformations of representations of fundamental groups of open Kaehler
+  manifolds",4.577965903101972e-06,0.0,1.0,1.0
+dg-ga/9709022,PU(2) monopoles and relations between four-manifold invariants,4.379303852207873e-06,8.574766440886339e-08,16.0,17.0
+dg-ga/9510006,"Group systems, groupoids, and moduli spaces of parabolic bundles",4.288868609347431e-06,0.0,6.0,5.0
+dg-ga/9601011,Seiberg-Witten Floer Homology and Heegaard Splittings,4.253891018552932e-06,1.990182755160072e-06,5.0,6.0
+dg-ga/9507005,On a Full Quantization of the Torus,4.054913671981395e-06,0.0,2.0,1.0
+funct-an/9702002,"On the infinite-dimensional hidden symmetries. III. $q_R$-conformal
+  symmetries at $q_R\to\infty$ and Berezin-Karasev-Maslov asymptotic
+  quantization of $C^\infty(S^1)$",4.037083739956716e-06,0.0,7.0,3.0
+hep-th/9707104,"Supermanifolds of classical solutions for Lagrangian field models with
+  ghost and fermion fields",4.0131233986173686e-06,0.0,3.0,0.0
+alg-geom/9712011,Mirror Principle I,3.899342226694321e-06,0.0001346369629719,14.0,20.0
+dg-ga/9511009,Regularized and $L^2$-Determinants,3.897130121293731e-06,0.0,2.0,0.0
+adap-org/9410001,"Belavkin-Kolokoltsov Watch-Dog Effects in Interactively Controlled
+  Stochastic Computer-Graphic Dynamical Systems. A Summary of Mathematical
+  Researches",3.895828764866227e-06,0.0,7.0,0.0
+hep-th/9708080,The Dynamics of Classical Chiral $QCD_{2}$ Currents,3.670919484292037e-06,0.0,3.0,2.0
+hep-th/9709229,"Canonical Structure of Classical Field Theory in the Polymomentum Phase
+  Space",3.668828192343129e-06,0.0,10.0,36.0
+dg-ga/9710017,Topological rigidity of Hamiltonian loops and quantum homology,3.6539586560806655e-06,0.0,4.0,1.0
+gr-qc/9411011,"Crushing singularities in spacetimes with spherical, plane and
+  hyperbolic symmetry",3.640899022823612e-06,0.0,4.0,1.0
+dg-ga/9601001,"Some curvature estimates for Riemannian manifolds equipped with
+  foliations of rank 2",3.62335329328243e-06,0.0,2.0,0.0
+dg-ga/9710029,Ring structure of the Floer Cohomology of $\Sigma \times S^1$,3.62335329328243e-06,0.0,2.0,6.0
+dg-ga/9712011,"Quadratic Differentials, Quaternionic Forms, and Surfaces",3.62335329328243e-06,0.0,2.0,3.0
+dg-ga/9703014,Geometry of growth: Approximation theorems for L^2 invariants,3.62335329328243e-06,0.0,2.0,0.0
+dg-ga/9702016,"The Variational Sequence on Finite Jet Bundle Extensions and the
+  Lagrangian Formalism",3.540537748740117e-06,0.0,3.0,3.0
+hep-th/9706160,BRST Symmetries for the Tangent Gauge Group,3.494412528355918e-06,0.0,2.0,0.0
+dg-ga/9504002,Symplectic Surgery and the Spin-C Dirac operator,3.460181475387737e-06,0.0,3.0,7.0
+hep-th/9506002,The other topological twisting of N=4 Yang-Mills,3.429568328008366e-06,0.0,14.0,19.0
+funct-an/9701009,"On the infinite dimensional hidden symmetries. II. $q_R$-conformal
+  modular functor",3.411774364854123e-06,0.0,7.0,4.0
+dg-ga/9706012,Circle-valued Morse theory and Reidemeister torsion,3.402979966459974e-06,2.3602784562916877e-05,3.0,4.0
+dg-ga/9601007,Adiabatic limits of Seiberg-Witten equations on Seifert manifolds,3.342439332697169e-06,2.7862558572241007e-05,3.0,3.0
+alg-geom/9703011,Moduli of flat bundles on open Kaehler manifolds,3.25270768760725e-06,0.0,2.0,1.0
+hep-th/9710072,Twistor Spaces for QKT Manifolds,3.2068241028759243e-06,2.1916007069438478e-05,2.0,12.0
+dg-ga/9612005,Classical mechanical systems based on Poisson symmetry,3.1907458482130085e-06,0.0,4.0,0.0
+dg-ga/9710010,Mathematical Background of Formalism of Operator Manifold,3.1564676950366884e-06,0.0,2.0,1.0
+dg-ga/9705002,Holomorphic Morse Inequalities and Symplectic Reduction,3.0655397478584933e-06,0.0,2.0,0.0
+dg-ga/9702020,Differential Geometry of Time-Dependent Mechanics,3.053936473844464e-06,0.0,2.0,5.0
+gr-qc/9709084,The Cosmological Time Function,3.0472482127272877e-06,0.0,2.0,3.0
+hep-th/9710082,"Supersymmetric Yang-Mills, octonionic instantons and triholomorphic
+  curves",2.9924278057192973e-06,2.092763683395267e-07,14.0,6.0
+dg-ga/9707018,"Moduli spaces of flat connections on 2-manifolds, cobordism, and
+  Witten's volume formulas",2.990303628742664e-06,0.0,3.0,0.0
+q-alg/9601023,Differential Calculi and Linear Connections,2.970434201986602e-06,0.0,3.0,10.0
+dg-ga/9511008,Hamiltonian torus actions on symplectic orbifolds and toric varieties,2.927219026310537e-06,0.0,2.0,4.0
+dg-ga/9707021,Lie Group Valued Moment Maps,2.9004849454260223e-06,0.0,2.0,10.0
+dg-ga/9602003,Seiberg-Witten-Floer Theory for Homology 3-Spheres,2.876128810744902e-06,2.06892014286501e-06,3.0,5.0
+dg-ga/9411009,Poisson structures on certain moduli spaces for bundles on a surface,2.8678094106447453e-06,0.0,5.0,1.0
+dg-ga/9706014,"Simple homotopy type of the Novikov complex and Lefschetz
+  $\zeta$-function of the gradient flow",2.8649819342021715e-06,1.806344256105479e-05,3.0,7.0
+dg-ga/9612018,A symplectic proof of Verlinde factorization,2.857513593734042e-06,0.0,3.0,4.0
+dg-ga/9709005,Higher-Order Lagrangian Formalism on Grassmann Manifolds,2.8425236638611105e-06,0.0,2.0,1.0
+dg-ga/9409004,On the nonHamiltonian interaction of two rotators,2.833209880203161e-06,0.0,2.0,4.0
+dg-ga/9711019,"Poisson harmonic forms, Kostant harmonic forms, and the
+  $S^1$-equivariant cohomology of $K/T$",2.825309620707311e-06,0.0,4.0,2.0
+alg-geom/9712024,Symplectic cutting of Kaehler manifolds,2.821664191473816e-06,0.0,2.0,1.0
+dg-ga/9601012,A compact symmetric symplectic non-Kaehler manifold,2.785437981828769e-06,0.0,2.0,0.0
+dg-ga/9510004,Periodic Hamiltonian flows on four dimensional manifolds,2.785437981828769e-06,0.0,2.0,2.0
+dg-ga/9711004,"Critical-exponent Sobolev norms and the slice theorem for the quotient
+  space of connections",2.7708212367575183e-06,0.0,7.0,4.0
+alg-geom/9608029,"Intersection theory on moduli spaces of holomorphic bundles of arbitrary
+  rank on a Riemann surface",2.769980809945188e-06,0.0,5.0,7.0
+dg-ga/9702008,Duality for Lie-Rinehart algebras and the modular class,2.7637679349938048e-06,0.0,3.0,3.0
+gr-qc/9705058,Universal Spin Structure in Gauge Gravitation Theory,2.759608450905896e-06,0.0,2.0,1.0
+dg-ga/9710027,Generalized Symplectic Manifolds,2.759195672449716e-06,0.0,3.0,2.0
+hep-th/9710048,Gauge theories on manifolds with boundary,2.717315054946265e-06,0.0,2.0,8.0
+cond-mat/9703137,Local Writhing Dynamics,2.7015851643942016e-06,0.0,3.0,2.0
+dg-ga/9708012,On the Kobayashi-Royden pseudonorm for almost complex manifolds,2.7015851643942016e-06,0.0,2.0,2.0
+hep-th/9407037,Lagrangian Formalism Over Graded Algebras,2.7015851643942016e-06,0.0,2.0,5.0
+dg-ga/9707019,Fusion of Hamiltonian loop group manifolds and cobordism,2.5743862635170345e-06,0.0,3.0,3.0
+solv-int/9612004,"Riemannian Manifolds with Diagonal Metric. The Lam\'e and Bourlet
+  Systems",2.5479571429128302e-06,0.0,2.0,1.0
+dg-ga/9712010,"Weyl groups of Hamiltonian manifolds, I",2.516341409751863e-06,0.0,2.0,6.0
+hep-th/9710168,Gauge theory and the division algebras,2.500360943634711e-06,3.456763818917326e-05,12.0,8.0
+physics/9703016,Gauge-potential approach to the kinematics of a moving car,2.4711431321721443e-06,0.0,1.0,0.0
+dg-ga/9603017,"The hyperbolic moduli space of flat connections and the isomorphism of
+  symplectic multiplicity spaces",2.4711431321721443e-06,0.0,1.0,1.0
+dg-ga/9704008,A-hat Genus and Collapsing,2.4711431321721443e-06,0.0,1.0,0.0
+dg-ga/9710002,Residual Amenability and the Approximation of L^2-invariants,2.4711431321721443e-06,0.0,1.0,0.0
+dg-ga/9710025,Topology of solutions of the Liouville equation,2.4711431321721443e-06,0.0,1.0,0.0
+hep-th/9611139,A Generalization of the Casson Invariant,2.4711431321721443e-06,0.0,1.0,0.0
+dg-ga/9712006,The decomposition and classification of radiant affine 3-manifolds,2.4711431321721443e-06,0.0,1.0,0.0
+dg-ga/9606012,Hinges and geometric constructions of boundaries of symmetric spaces,2.4711431321721443e-06,0.0,1.0,0.0
+dg-ga/9702019,"Conformally flat Einstein-like 4-manifolds and conformally flat
+  Riemannian 4-manifolds all of whose Jacobi operators have parallel
+  eigenspaces along every geodesic",2.4711431321721443e-06,0.0,1.0,0.0
+dg-ga/9710012,"Uhlenbeck compactness and transversality for the moduli space of PU(2)
+  monopoles",2.4355468081364928e-06,0.0,8.0,0.0
+dg-ga/9603015,Non-abelian convexity by symplectic cuts,2.4301016316239663e-06,0.0,3.0,5.0
+dg-ga/9606007,Example of a non-log-concave Duistermaat-Heckman measure,2.428356873612775e-06,0.0,1.0,0.0
+hep-th/9508162,"N=2 Supersymmetric QCD and Four Manifolds; (I) the Donaldson and the
+  Seiberg-Witten Invariants",2.4058865166357524e-06,2.9704220226269734e-08,8.0,14.0
+hep-th/9707118,Euclidean D-branes and higher-dimensional gauge theory,2.369253839861463e-06,3.133583684233856e-06,12.0,38.0
+hep-th/9701128,The Geometry of Supersymmetric Gauge Theories in Four Dimensions,2.315902256500353e-06,4.239847185929424e-06,14.0,27.0
+dg-ga/9701009,"Equivariant Holomorphic Morse Inequalities III: Non-Isolated Fixed
+  Points",2.2960610328299915e-06,0.0,2.0,2.0
+dg-ga/9710026,Introduction to the Tangent Grupoid,2.2877184598445777e-06,3.4519340348989628e-06,3.0,3.0
+dg-ga/9708005,"Exterior differential systems: a geometric approach to PDE. Lecture
+  notes from the 1997 Daewoo workshop",2.27910810532043e-06,0.0,2.0,0.0
+hep-th/9611185,A Nonrelativistic Chiral Soliton in One Dimension,2.245979448334096e-06,0.0,2.0,10.0
+dg-ga/9411008,Smooth structures on certain moduli spaces for bundles on a surface,2.2081850382722614e-06,0.0,4.0,3.0
+hep-th/9507140,Polynomial Invariants for SU(2) Monopoles,2.199237436638672e-06,1.0619700757978129e-07,4.0,15.0
+hep-th/9611091,Field Interactions and Strings in Higher Order Anisotropic Spaces,2.194105588023513e-06,0.0,6.0,0.0
+hep-th/9610096,"The Cauchy Problem for Abstract Evolution Equations with Ghost and
+  Fermion Degrees of Freedom",2.183090591894573e-06,0.0,2.0,1.0
+hep-th/9702054,Twisted Baryon Number in N=2 Supersymmetric QCD,2.1164828575411117e-06,7.072433387207077e-10,9.0,10.0
+funct-an/9702004,Pseudodifferential operators on differential groupoids,2.1057279096485964e-06,0.0,3.0,4.0
+dg-ga/9703013,Gromov Invariants and Symplectic Maps,2.087073078468716e-06,0.0,2.0,2.0
+dg-ga/9704005,"Lie-Rinehart algebras, Gerstenhaber algebras, and B-V algebras",2.080766615618114e-06,0.0,1.0,1.0
+hep-th/9704159,"A note on the Faddeev-Popov determinant and Chern-Simons perturbation
+  theory",2.0783859038826906e-06,0.0,3.0,1.0
+dg-ga/9506008,"The Centralizer of Invariant Functions and Division Properties of the
+  Moment Map",2.0516935928226183e-06,0.0,2.0,2.0
+alg-geom/9711030,"Quantum cohomology of the moduli space of stable bundles over a Riemann
+  surface",2.042664539296745e-06,0.0,2.0,2.0
+dg-ga/9603002,Equivariant torsion of locally symmetric spaces,2.00800849255242e-06,0.0,1.0,1.0
+dg-ga/9601003,Cobordism theory and localization formulas for Hamiltonian group actions,1.9900738180385784e-06,0.0,1.0,0.0
+hep-th/9610204,"Modular Invariance and Structure of the Exact Wilsonian Action of N=2
+  SYM",1.9854078245385597e-06,0.000184130405768,6.0,9.0
+hep-th/9705161,Supersymmetry and the cohomology of (hyper)Kaehler manifolds,1.982181394322366e-06,9.056164703131015e-11,2.0,3.0
+hep-th/9611034,Superstrings in Higher Order Extensions of Finsler Superspaces,1.961335858506284e-06,0.0,4.0,0.0
+alg-geom/9612015,Recent Developments in Seiberg-Witten Theory and Complex Geometry,1.952648559672516e-06,0.0,3.0,13.0
+dg-ga/9601009,"The quantization of constrained systems: from symplectic reduction to
+  Rieffel induction",1.933090641715859e-06,0.0,2.0,1.0
+hep-th/9710069,On Field Theoretic Generalizations of a Poisson Algebra,1.930180436735256e-06,6.957303950653393e-07,4.0,28.0
+dg-ga/9602010,Polyhedral representations of discrete differential manifolds,1.927529660948608e-06,0.0,3.0,6.0
+hep-th/9703083,"Local U(2,2) Symmetry in Relativistic Quantum Mechanics",1.912769945896358e-06,0.0,2.0,16.0
+dg-ga/9707014,Nonlocal invariants in index theory,1.8950380516170012e-06,0.0,1.0,0.0
+dg-ga/9512009,A closed form for unitons,1.8950380516170012e-06,0.0,1.0,0.0
+dg-ga/9509003,Harmonic Maps with Prescribed Singularities on Unbounded Domains,1.8950380516170012e-06,0.0,1.0,0.0
+dg-ga/9712018,"New families of conservative systems on $S^2$ possessing an integral of
+  fourth degree in momenta",1.8950380516170012e-06,0.0,1.0,1.0
+dg-ga/9709004,"Symplectic and contact Lie algebras with an application to Monge-Ampere
+  equations",1.8950380516170012e-06,0.0,1.0,1.0
+dg-ga/9603007,On symmetries of constant mean curvature surfaces,1.8950380516170012e-06,0.0,1.0,1.0
+dg-ga/9512004,"The Space of Harmonic Maps from the 2-sphere to the Complex Projective
+  Plane",1.8950380516170012e-06,0.0,1.0,1.0
+dg-ga/9706003,The cohomology ring of polygon spaces,1.8950380516170012e-06,0.0,1.0,1.0
+dg-ga/9708008,"On analytical applications of stable homotopy (the Arnold conjecture,
+  critical points)",1.8950380516170012e-06,0.0,1.0,1.0
+dg-ga/9612003,Delocalized $L^2$-Invariants,1.8950380516170012e-06,0.0,1.0,0.0
+dg-ga/9412002,Differential Geometry of Composite Fibred Manifolds,1.891792767938804e-06,0.0,3.0,3.0
+hep-th/9603169,Twisted N=2 Supersymmetry with Central Charge and Equivariant Cohomology,1.8682113651993115e-06,0.0,5.0,13.0
+dg-ga/9704009,Rozansky-Witten invariants via formal geometry,1.862284418519868e-06,0.0010494373173231,4.0,7.0
+q-alg/9609022,"Noninvertibility and ``Semi-'' Analogs of (Super) Manifolds, Fiber
+  Bundles and Homotopies",1.8438618728375733e-06,0.0,1.0,3.0
+hep-th/9607194,"Locally Anisotropic Interactions: I. Nonlinear Connections in Higher
+  Order Anisotropic Superspaces",1.833312507271808e-06,0.0,3.0,1.0
+hep-th/9612255,Novel algebraic structures from the polysymplectic form in field theory,1.8312944610584976e-06,8.575358835756586e-07,2.0,6.0
+dg-ga/9506006,Extended moduli spaces and the Kan construction.II.Lattice gauge theory,1.803421194485659e-06,0.0,1.0,2.0
+dg-ga/9612009,"Almost Complex and Almost Product Einstein Manifolds from a Variational
+  Principle",1.78904585332167e-06,4.074063455455982e-06,3.0,6.0
+dg-ga/9408001,Convexity Properties of the Moment Mapping Re-examined,1.7806708801023322e-06,0.0,1.0,6.0
+dg-ga/9702018,"Dual Teichm\"" uller spaces",1.779817035505973e-06,0.0,2.0,19.0
+dg-ga/9705008,Quantization of Presymplectic Manifolds and Circle Actions,1.7750088652002515e-06,0.0,1.0,4.0
+dg-ga/9506009,"Multiplicity-free Hamiltonian actions need not be K\""ahler",1.7750088652002515e-06,0.0,1.0,2.0
+alg-geom/9610004,"Partial Resolutions of Orbifold Singularities via Moduli Spaces of
+  HYM-type Bundles",1.771586962926614e-06,0.0,2.0,15.0
+gr-qc/9710027,"Physical Applications of a Generalized Clifford Calculus (Papapetrou
+  equations and Metamorphic Curvature)",1.7629494640579889e-06,0.0,4.0,22.0
+dg-ga/9702006,Moduli spaces of PU(2)-monopoles,1.7129971300302856e-06,0.0,2.0,7.0
+dg-ga/9708004,The Symmetries of Solitons,1.703003024765287e-06,0.0,1.0,0.0
+dg-ga/9505005,Extended moduli spaces and the Kan construction,1.703003024765287e-06,0.0,1.0,3.0
+dg-ga/9610001,Abelian Chern-Simons theory,1.703003024765287e-06,0.0,1.0,1.0
+dg-ga/9706015,On the Flux Conjectures,1.703003024765287e-06,0.0,1.0,2.0
+gr-qc/9610009,"Generation of Source Terms in General Relativity by differential
+  structures",1.703003024765287e-06,0.0,1.0,0.0
+alg-geom/9704002,"Birational Models of the Moduli Spaces of Stable Vector Bundles over
+  Curves",1.703003024765287e-06,0.0,1.0,0.0
+alg-geom/9412012,"On Degenerate Secant and Tangential Varieties and Local Differential
+  Geometry",1.703003024765287e-06,0.0,1.0,0.0
+gr-qc/9712092,A Closed Formula for the Riemann Normal Coordinate Expansion,1.7026741036275642e-06,0.0,4.0,8.0
+solv-int/9506004,Holomorphic Curves and Toda Systems,1.6934012734227016e-06,0.0,2.0,0.0
+dg-ga/9707001,"Multivector Fields and Connections. Setting Lagrangian Equations in
+  Field Theories",1.6799955945028647e-06,0.0,2.0,5.0
+hep-th/9607196,"Locally Anisotropic Interactions: III. Higher Order Anisotropic
+  Supergravity",1.6732833182287124e-06,0.0,3.0,1.0
+dg-ga/9710024,"Nonexistence of Finite-dimensional Quantizations of a Noncompact
+  Symplectic Manifold",1.663470731807139e-06,0.0,1.0,3.0
+dg-ga/9705001,Uniformization of four manifolds,1.6389361424161614e-06,0.0,3.0,0.0
+dg-ga/9702015,Conformal invariant functionals of immersions of tori into R^3,1.6261890140246016e-06,0.0,2.0,3.0
+hep-th/9511151,"Index Theory, Gerbes, and Hamiltonian Quantization",1.6171520715845208e-06,0.0,2.0,8.0
+dg-ga/9604008,Torus actions on compact quotients,1.60698551133943e-06,0.0,1.0,0.0
+dg-ga/9612006,Free motion on the Poisson plane and sphere,1.60698551133943e-06,0.0,1.0,0.0
+alg-geom/9609020,Non-abelian Seiberg-Witten theory and projectively stable pairs,1.60698551133943e-06,0.0,1.0,13.0
+dg-ga/9612008,Free motion on the Poisson SU(n) group,1.60698551133943e-06,0.0,1.0,0.0
+dg-ga/9604004,"Incidence coefficients in the Novikov complex for Morse forms:
+  rationality and exponential growth properties",1.60698551133943e-06,0.0,1.0,4.0
+dg-ga/9602007,Equivariant Holomorphic Morse Inequalities I: A Heat Kernel Proof,1.60698551133943e-06,0.0,1.0,2.0
+dg-ga/9711013,"Complex Generated by Variational Derivatives. Lagrangian Formalism of
+  Infinite Order and a Generalized Stokes' Formula",1.60698551133943e-06,0.0,1.0,0.0
+dg-ga/9512002,A Lefschetz formula for flows,1.60698551133943e-06,0.0,1.0,0.0
+dg-ga/9706001,An Obstruction to Quantizing Compact Symplectic Manifolds,1.60698551133943e-06,0.0,1.0,4.0
+dg-ga/9701008,Geometric zeta-functions on p-adic groups,1.60698551133943e-06,0.0,1.0,0.0
+dg-ga/9603001,Holomorphic torsion for Hermitian locally symmetric spaces,1.60698551133943e-06,0.0,1.0,2.0
+dg-ga/9505004,Geometry of Lagrangian First-order Classical Field Theories,1.5915900200866967e-06,0.0,2.0,5.0
+dg-ga/9411007,"The singularities of Yang-Mills connections for bundles on a surface.
+  II. The stratification",1.5900443620206666e-06,0.0,1.0,4.0
+hep-th/9703019,On the generalizations of Poisson structures,1.5833702796265734e-06,0.0,1.0,8.0
+dg-ga/9411006,"The singularities of Yang-Mills connections for bundles on a surface. I.
+  The local model",1.5781802573116728e-06,0.0,2.0,5.0
+gr-qc/9608019,"Normal frames and the validity of the equivalence principle. I. Cases in
+  a neighborhood and at a point",1.5493750032839157e-06,0.0,1.0,11.0
+q-alg/9503003,Lie Algebroids Associated to Poisson Actions,1.5493750032839157e-06,0.0,1.0,0.0
+hep-th/9712042,Special Kahler Manifolds,1.5233261005804858e-06,3.217768528025937e-05,7.0,42.0
+hep-th/9409063,Homotopy G-algebras and moduli space operad,1.5186039848991248e-06,0.0,5.0,8.0
+dg-ga/9710028,"Surfaces in Lie sphere geometry and the stationary Davey-Stewartson
+  hierarchy",1.5109679979135728e-06,0.0,1.0,1.0
+dg-ga/9702012,Kodaira Dimension and the Yamabe Problem,1.5109679979135728e-06,0.0,1.0,0.0
+hep-th/9705138,Higher Dimensional Analogues of Donaldson-Witten Theory,1.5008140477939027e-06,3.062436649578552e-07,2.0,41.0
+hep-th/9612186,"The Z_2-graded Schouten-Nijenhuis bracket and generalized super-Poisson
+  structures",1.4926790719849618e-06,0.0,1.0,5.0
+dg-ga/9711008,"Classification of stationary compact homogeneous special pseudo K\""ahler
+  manifolds of semisimple groups",1.4844419418532088e-06,0.0,2.0,1.0
+q-alg/9507030,Submanifolds and Quotient Manifolds in Noncommutative Geometry,1.4835344226490424e-06,0.0,1.0,2.0
+hep-th/9605067,"The Schouten-Nijenhuis bracket, cohomology and generalized Poisson
+  structures",1.4785464998736731e-06,0.0,2.0,8.0
+hep-th/9601031,On the Composition of Gauge Structures,1.4629592412006444e-06,0.0,1.0,0.0
+dg-ga/9609004,"Spinors, Nonlinear Connections, and Nearly Autoparallel Maps of
+  Generalized Finsler Spaces",1.446956322296335e-06,0.0,1.0,3.0
+hep-th/9709147,The semiclassical approximation for the Chern-Simons partition function,1.4443639049728944e-06,0.0,1.0,1.0
+dg-ga/9706013,Seiberg-Witten Equations on Three-Manifolds with Euclidean Ends,1.444327816612359e-06,0.0,2.0,0.0
+gr-qc/9709053,Normal frames and the validity of the equivalence principle,1.4401114134806728e-06,0.0,1.0,10.0
+dg-ga/9707025,A remark on Berezin's quantization and cut locus,1.4341539871728873e-06,0.0,1.0,0.0
+dg-ga/9708001,Geometry via coherent states,1.4341539871728873e-06,0.0,1.0,0.0
+hep-th/9705046,D-Brane Bound States Redux,1.4238839603134736e-06,1.7848271028114508e-05,5.0,131.0
+hep-th/9612182,Self-Duality in D <= 8-dimensional Euclidean Gravity,1.4104368166654907e-06,2.8579729287471446e-09,1.0,21.0
+q-alg/9501017,Boundary values as Hamiltonian variables. II. Graded Structures,1.407564521916496e-06,0.0,1.0,8.0
+hep-th/9607195,"Locally Anisotropic Interactions: II. Torsions and Curvatures of Higher
+  Order Anisotropic Superspaces",1.4012336968554504e-06,0.0,1.0,0.0
+solv-int/9611003,Some explicit solutions of the Lam\'e and Bourlet type equations,1.3957469818025443e-06,0.0,1.0,0.0
+q-alg/9611022,"Deformation quantization of compact K\""ahler manifolds via
+  Berezin-Toeplitz operators",1.3957469818025443e-06,0.0,1.0,2.0
+dg-ga/9709015,Pseudo-Kaehler Quantization on Flag Manifolds,1.3957469818025443e-06,0.0,1.0,2.0
+hep-th/9511169,Higher bundle gerbes and cohomology classes in gauge theories,1.3867100393624637e-06,0.0,1.0,6.0
+hep-th/9411102,Monopoles and Four-Manifolds,1.3590652548268145e-06,0.0,6.0,83.0
+hep-th/9508117,Monopole and Dyon Bound States in N=2 Supersymmetric Yang-Mills Theories,1.3549395385965551e-06,0.0,1.0,31.0
+dg-ga/9606005,Lectures on Gromov invariants for symplectic 4-manifolds,1.3332569304436613e-06,0.0,1.0,0.0
+dg-ga/9508005,"Introduction to Seiberg-Witten's Invariants, Part I: Theory of Spinors",1.3332569304436613e-06,0.0,1.0,2.0
+dg-ga/9408003,Modular operads,1.330994046675568e-06,0.0,1.0,21.0
+q-alg/9709043,Hochschild cohomology and characteristic classes for star-products,1.3230525143117365e-06,9.95091377580036e-07,1.0,5.0
+dg-ga/9703009,The Seiberg-Witten theory of homology 3-spheres,1.3189329710618589e-06,0.0,0.0,5.0
+dg-ga/9711003,On the localization theorem in equivariant cohomology,1.3189329710618589e-06,0.0,0.0,2.0
+hep-th/9609031,Multidimensional Toda type systems,1.3189329710618589e-06,0.0,0.0,15.0
+dg-ga/9506011,"Generalized Weierstrass formulae, soliton equations and Willmore
+  surfaces. I. Tori of revolution and the mKdV equation",1.3189329710618589e-06,0.0,0.0,8.0
+alg-geom/9611021,Virtual neighborhoods and pseudo-holomorphic curves,1.3189329710618589e-06,0.0,0.0,16.0
+dg-ga/9708013,"Invariants of Velocities, and Higher Order Grassmann Bundles",1.3189329710618589e-06,0.0,0.0,3.0
+dg-ga/9703010,Geometric Quantization and No Go Theorems,1.3189329710618589e-06,0.0,0.0,4.0
+dg-ga/9507004,Localisation of the Donaldson's invariants along Seiberg-Witten classes,1.3189329710618589e-06,0.0,0.0,33.0
+dg-ga/9502008,A Groenewold-Van Hove Theorem for S^2,1.3189329710618589e-06,0.0,0.0,4.0
+dg-ga/9703020,"Closed curves in R^3: a characterization in terms of curvature and
+  torsion, the Hasimoto map and periodic solutions of the Filament Equation",1.3189329710618589e-06,0.0,0.0,3.0
+q-alg/9603021,Homological Reduction of Constrained Poisson Algebras,1.3189329710618589e-06,0.0,0.0,3.0
+dg-ga/9703005,The Kobayashi pseudodistance on almost complex manifolds,1.3189329710618589e-06,0.0,0.0,5.0
+dg-ga/9511018,Connected sum constructions for constant scalar curvature metrics,1.3189329710618589e-06,0.0,0.0,1.0
+alg-geom/9407002,Differential-geometric characterizations of complete intersections,1.3189329710618589e-06,0.0,0.0,3.0
+dg-ga/9504003,Variational Aspects of the Seiberg-Witten Functional,1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9602008,"Equivariant Holomorphic Morse Inequalities II: Torus and Non-Abelian
+  Group Actions",1.3189329710618589e-06,0.0,0.0,4.0
+dg-ga/9602009,"Lagrangian embedding, Maslov indexes and Integer graded symplectic Floer
+  cohomology",1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9709001,The structure of stable minimal hypersurfaces in R^n,1.3189329710618589e-06,0.0,0.0,1.0
+gr-qc/9708068,Gauge dependence in the theory of non-linear spacetime perturbations,1.3189329710618589e-06,0.0,0.0,2.0
+dg-ga/9603008,Connectedness of spaces of symplectic embeddings,1.3189329710618589e-06,0.0,0.0,1.0
+alg-geom/9610005,Resolutions of Orbifold Singularities and Flows on the McKay Quiver,1.3189329710618589e-06,0.0,0.0,18.0
+dg-ga/9505002,Determinant Line Bundles Revisited,1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9602002,Associativity properties of the symplectic sum,1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9507002,$Pin$-structures on surfaces and quadratic forms,1.3189329710618589e-06,0.0,0.0,1.0
+funct-an/9606005,Homology of pseudodifferential operators I. Manifolds with boundary,1.3189329710618589e-06,0.0,0.0,25.0
+alg-geom/9703019,A New look at the vortex equations and dimensional reduction,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9612009,R-torsion and linking numbers from simplicial abelian gauge theories,1.3189329710618589e-06,0.0,0.0,17.0
+dg-ga/9611006,"Projectively invariant symbol map and cohomology of vector fields Lie
+  algebras intervening in quantization",1.3189329710618589e-06,0.0,0.0,3.0
+dg-ga/9407003,Proper group actions and symplectic stratified spaces,1.3189329710618589e-06,0.0,0.0,1.0
+gr-qc/9604015,Spinors in Higher Dimensional and Locally Anisotropic Spaces,1.3189329710618589e-06,0.0,0.0,8.0
+dg-ga/9612011,The normal symbol on Riemannian manifolds,1.3189329710618589e-06,0.0,0.0,4.0
+dg-ga/9609006,On constant mean curvature surfaces with periodic metric,1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9701006,Moment maps and non-compact cobordisms,1.3189329710618589e-06,0.0,0.0,2.0
+alg-geom/9601005,Higher genus symplectic invariants and sigma model coupled with gravity,1.3189329710618589e-06,0.0,0.0,10.0
+dg-ga/9712004,"Generalized Symmetries of Partial Differential Equations and Quasiexact
+  Solvability",1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9511007,Examples of non-Kaehler Hamiltonian torus actions,1.3189329710618589e-06,0.0,0.0,2.0
+dg-ga/9602001,On Poisson actions of compact Lie groups on symplectic manifolds,1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9712008,Projectivity of moment map quotients,1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9412007,Meromorphic Potentials and Smooth CMC Surfaces,1.3189329710618589e-06,0.0,0.0,2.0
+dg-ga/9511011,"$\pi_1$ of symplectic automorphism groups and invertibles in quantum
+  homology rings",1.3189329710618589e-06,0.0,0.0,3.0
+dg-ga/9710022,Analytic Torsion for Quaternionic manifolds and related topics,1.3189329710618589e-06,0.0,0.0,3.0
+dg-ga/9509005,Notes on Seiberg-Witten Gauge Theory,1.3189329710618589e-06,0.0,0.0,10.0
+dg-ga/9712021,On the Spinor Representation of Surfaces in Euclidean 3-Space,1.3189329710618589e-06,0.0,0.0,2.0
+hep-th/9606163,"Generating Functional in CFT and Effective Action for Two-Dimensional
+  Quantum Gravity on Higher Genus Riemann Surfaces",1.3189329710618589e-06,0.0,0.0,2.0
+hep-th/9607132,"Supergeometry and Quantum Field Theory, or: What is a Classical
+  Configuration?",1.3189329710618589e-06,0.0,0.0,4.0
+dg-ga/9706002,Extensions of Lie-Rinehart algebras and the Chern-Weil construction,1.3189329710618589e-06,0.0,0.0,1.0
+gr-qc/9507013,"Inhomogeneous Cosmological Models with Homogeneous Inner Hypersurface
+  Geometry",1.3189329710618589e-06,0.0,0.0,4.0
+q-alg/9507028,On the first order operators in bimodules,1.3189329710618589e-06,0.0,0.0,4.0
+dg-ga/9709017,"Linear transports along paths in vector bundles V. Properties of
+  curvature and torsion",1.3189329710618589e-06,0.0,0.0,6.0
+dg-ga/9709016,Transports along maps in fibre bundles,1.3189329710618589e-06,0.0,0.0,7.0
+dg-ga/9503016,Symetric Monopoles,1.3189329710618589e-06,0.0,0.0,4.0
+hep-th/9407102,Symmetric Monopoles,1.3189329710618589e-06,0.0,0.0,5.0
+gr-qc/9407011,Parametric Manifolds I: Extrinsic Approach,1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9611004,"Nijenhuis tensors and obstructions for pseudoholomorphic mapping
+  constructions",1.3189329710618589e-06,0.0,0.0,1.0
+gr-qc/9407012,Parametric Manifolds II: Intrinsic Approach,1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9508013,Manin Triples for Lie Bialgebroids,1.3189329710618589e-06,0.0,0.0,12.0
+alg-geom/9604023,"On an unusual conjecture of Kontsevich and variants of Castelnuovo's
+  lemma",1.3189329710618589e-06,0.0,0.0,3.0
+gr-qc/9412036,"N-Black Hole Stationary and Axially Symmetric Solutions of the
+  Einstein-Maxwell Equations",1.3189329710618589e-06,0.0,0.0,2.0
+dg-ga/9609012,Quantization of symplectic tori in a real polarization,1.3189329710618589e-06,0.0,0.0,3.0
+dg-ga/9710014,Double vector bundles and duality,1.3189329710618589e-06,0.0,0.0,3.0
+dg-ga/9603016,Donaldson Wall-Crossing Invariants Via Topology,1.3189329710618589e-06,0.0,0.0,7.0
+dg-ga/9705010,Local Properties of Self-Dual Harmonic 2-forms on a 4-Manifold,1.3189329710618589e-06,0.0,0.0,2.0
+alg-geom/9611025,"On symmetric degeneracy loci, spaces of symmetric matrices of constant
+  rank and dual varieties",1.3189329710618589e-06,0.0,0.0,2.0
+dg-ga/9702002,"Gluing formulae for Donaldson invariants for connected sums along
+  surfaces",1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9702004,Donaldson invariants for connected sums along surfaces of genus 2,1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9704004,"Transports along Paths in Fibre Bundles. III. Consistency with Bundle
+  Morphisms",1.3189329710618589e-06,0.0,0.0,6.0
+gr-qc/9604016,"Nonlinear Connections in Superbundles and Locally Anisotropic
+  Supergravity",1.3189329710618589e-06,0.0,0.0,14.0
+hep-th/9512075,"Supersymmetric sigma-models, twistors, and the Atiyah-Hitchin metric",1.3189329710618589e-06,0.0,0.0,9.0
+dg-ga/9712012,Integration of Lie bialgebroids,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9703035,Yang-Mills Flow and Uniformization Theorems,1.3189329710618589e-06,0.0,0.0,2.0
+dg-ga/9611002,"Equivariant Poisson Cohomology and a Spectral Sequence Associated with a
+  Moment Map",1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9612012,Morse theory on the loop space of flat tori and symplectic Floer theory,1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9511006,Geometric zeta-functions of locally symmetric spaces,1.3189329710618589e-06,0.0,0.0,4.0
+dg-ga/9610013,Surfaces of revolution in terms of solitons,1.3189329710618589e-06,0.0,0.0,6.0
+q-alg/9503020,Connections on central bimodules,1.3189329710618589e-06,0.0,0.0,7.0
+gr-qc/9701067,A class of anisotropic (Finsler-) space-time geometries,1.3189329710618589e-06,0.0,0.0,2.0
+dg-ga/9605005,A canonical way to deform a Lagrangian submanifold,1.3189329710618589e-06,0.0,0.0,7.0
+dg-ga/9407015,Bundle gerbes,1.3189329710618589e-06,0.0,0.0,17.0
+dg-ga/9707024,Fedosov Manifolds,1.3189329710618589e-06,0.0,0.0,18.0
+q-alg/9601016,Berezin-Toeplitz Quantization of compact Kaehler manifolds,1.3189329710618589e-06,0.0,0.0,15.0
+dg-ga/9601004,Supersymmetry and the generalized Lichnerowicz formula,1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9706008,A frame bundle generalization of multisymplectic field theories,1.3189329710618589e-06,0.0,0.0,5.0
+dg-ga/9712020,Weinstein Conjecture and GW Invariants,1.3189329710618589e-06,0.0,0.0,2.0
+dg-ga/9711018,Relative torsion for representations in finite type Hilbert modules,1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9710003,Non-Symplectic Geometry of First Order Time-Dependent Mechanics,1.3189329710618589e-06,0.0,0.0,4.0
+alg-geom/9603003,"Seiberg-Witten invariants for manifolds with $b_+=1$, and the universal
+  wall crossing formula",1.3189329710618589e-06,0.0,0.0,7.0
+q-alg/9503004,"Phase Space Reduction for Star-Products: An Explicit Construction for
+  CP^n",1.3189329710618589e-06,0.0,0.0,7.0
+dg-ga/9710021,Topology of the set of smooth solutions to the Liouville equation,1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9510010,Torsions for manifolds with boundary and glueing formulas,1.3189329710618589e-06,0.0,0.0,1.0
+funct-an/9610003,"$C^*$-algebras of $b$-pseudodifferential operators and an
+  $\R^k$-equivariant index theorem",1.3189329710618589e-06,0.0,0.0,2.0
+alg-geom/9702014,Semisimple Frobenius (super)manifolds and quantum cohomology of $P^r$,1.3189329710618589e-06,0.0,0.0,2.0
+dg-ga/9710020,The Weierstrass representation of closed surfaces in $R^3$,1.3189329710618589e-06,0.0,0.0,4.0
+gr-qc/9604013,Locally Anisotropic Gravity and Strings,1.3189329710618589e-06,0.0,0.0,4.0
+dg-ga/9707004,Poisson Actions and Scattering Theory for Integrable Systems,1.3189329710618589e-06,0.0,0.0,3.0
+dg-ga/9708006,Pseudo-holomorphic curves and the Weinstein conjecture,1.3189329710618589e-06,0.0,0.0,2.0
+dg-ga/9706011,"The universal cover of an affine three-manifold with holonomy of
+  shrinkable dimension $\leq 2$",1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9512003,The Spinor Representation of Minimal Surfaces,1.3189329710618589e-06,0.0,0.0,2.0
+dg-ga/9707015,"A Strong Maximum Principle for Weak Solutions of Quasi-Linear Elliptic
+  Equations with Applications to Lorentzian and Riemannian Geometry",1.3189329710618589e-06,0.0,0.0,2.0
+hep-th/9607133,"The Cauchy Problem for Classical Field Equations with Ghost and Fermion
+  Fields",1.3189329710618589e-06,0.0,0.0,2.0
+dg-ga/9609001,On the eta-invariant of certain nonlocal boundary value problems,1.3189329710618589e-06,0.0,0.0,2.0
+dg-ga/9409005,On multilinear operators commuting with Lie derivatives,1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9712013,"Double Lie algebroids and second-order geometry, II",1.3189329710618589e-06,0.0,0.0,2.0
+dg-ga/9702009,"Locally conformal flat Riemannian manifolds with constant principal
+  Ricci curvatures and locally conformal flat C-spaces",1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9703015,"The transversal wave equation and the noncommutative geodesic flow in
+  Riemannian foliations",1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9707013,"Sequences of Levy Transformations and Multi-Wro\'nski Determinant
+  Solutions of the Darboux System",1.3189329710618589e-06,0.0,0.0,2.0
+dg-ga/9602012,Polygon spaces and Grassmannians,1.3189329710618589e-06,0.0,0.0,2.0
+dg-ga/9611001,Dirac structures and Poisson homogeneous spaces,1.3189329710618589e-06,0.0,0.0,4.0
+dg-ga/9701002,Harmonic morphisms with fibers of dimension one,1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9508012,Controlled Geometry via Smoothing,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9608050,"The von Karman equations, the stress function, and elastic ridges in
+  high dimensions",1.3189329710618589e-06,0.0,0.0,1.0
+physics/9702010,"""Falling cat"" connections and the momentum map",1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9702176,The sh Lie structure of Poisson brackets in field theory,1.3189329710618589e-06,0.0,0.0,2.0
+dg-ga/9706004,"Odd Invariant Semidensity and Divergence-like Operators on an Odd
+  Symplectic Superspace",1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9702001,On Distortion and Thickness of Knots,1.3189329710618589e-06,0.0,0.0,2.0
+dg-ga/9611008,Instantons and the information metric,1.3189329710618589e-06,0.0,0.0,3.0
+dg-ga/9701004,The eta-form and a generalized Maslov index,1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9412003,"Symplectic and Poisson structures of certain moduli spaces. II.
+  Projective representations of cocompact discrete planar groups",1.3189329710618589e-06,0.0,0.0,3.0
+dg-ga/9407002,A ``stable'' version of the Gromov-Lawson conjecture,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/9609025,On Quantizing $T^*S^1$,1.3189329710618589e-06,0.0,0.0,2.0
+dg-ga/9503006,Witten-Helffer-Sjostrand Theory for a Generalized Morse Functions,1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9707020,Comparison and Rigidity Theorems in Semi-Riemannian Geometry,1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9605001,Obstruction Results in Quantization Theory,1.3189329710618589e-06,0.0,0.0,2.0
+hep-th/9612100,The Multidimensional Darboux Transformation,1.3189329710618589e-06,0.0,0.0,6.0
+dg-ga/9608002,Higher spectral flow,1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9704006,Quantum Hall Effect on the Hyperbolic Plane,1.3189329710618589e-06,0.0,0.0,2.0
+dg-ga/9608001,Backlund transformations and knots of constant torsion,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9704150,A doubled discretisation of abelian Chern-Simons theory,1.3189329710618589e-06,0.0,0.0,2.0
+gr-qc/9605022,"Existence of constant mean curvature foliations in spacetimes with
+  two-dimensional local symmetry",1.3189329710618589e-06,0.0,0.0,2.0
+dg-ga/9410002,3-manifolds with(out) metrics of nonpositive curvature,1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9612017,SU(n)-Connections and Noncommutative Differential Geometry,1.3189329710618589e-06,0.0,0.0,2.0
+hep-th/9405012,Eta-Invariants and Determinant Lines,1.3189329710618589e-06,0.0,0.0,4.0
+alg-geom/9501001,Cohomology of compact hyperkaehler manifolds,1.3189329710618589e-06,0.0,0.0,2.0
+dg-ga/9610009,"Coordinates on Schubert cells, Kostant's harmonic forms, and the
+  Bruhat-Poisson structure on $G/B$",1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9503001,Non-standard connections in classical mechanics,1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9704014,Radiation structures on isotropic hypersurfaces,1.3189329710618589e-06,0.0,0.0,1.0
+q-alg/9702032,"Cartan-Calculus and its Generalizations via a Path-Integral Approach to
+  Classical Mechanics",1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9511017,A remark on positively curved manifolds of dimensions 7 and 13,1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9611010,Projectively flat Finsler 2-spheres of constant curvature,1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9511005,Modified Novikov--Veselov equation and differential geometry of surfaces,1.3189329710618589e-06,0.0,0.0,10.0
+dg-ga/9711009,Prescribing Mean Curvature: Existence and Uniqueness Problems,1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9610006,Bonnet pairs and isothermic surfaces,1.3189329710618589e-06,0.0,0.0,1.0
+gr-qc/9404002,The Patchwork Divergence Theorem,1.3189329710618589e-06,0.0,0.0,2.0
+dg-ga/9510003,On the space of harmonic $2$-spheres in ${\bf C}P^2$,1.3189329710618589e-06,0.0,0.0,2.0
+dg-ga/9612001,Heat kernel and moduli spaces II,1.3189329710618589e-06,0.0,0.0,2.0
+dg-ga/9601005,Two nontrivial index theorems in odd dimensions,1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9703001,Gerstenhaber algebras and BV-algebras in Poisson geometry,1.3189329710618589e-06,0.0,0.0,9.0
+quant-ph/9612002,Borel Quantization: Kinematics and Dynamics,1.3189329710618589e-06,0.0,0.0,3.0
+gr-qc/9604017,"Nearly Autoparallel Maps, Tensor Integral and Conservation Laws in
+  Locally Anisotrpoic Spaces",1.3189329710618589e-06,0.0,0.0,9.0
+dg-ga/9705003,Symplectic aspects of the first eigenvalue,1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9503003,"Invariant operators on manifolds with almost Hermitian symmetric
+  structures, I. Invariant differentiation",1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9711014,Kahler geometry of toric varieties and extremal metrics,1.3189329710618589e-06,0.0,0.0,4.0
+dg-ga/9512010,"Weierstrass representations for harmonic morphisms on Euclidean spaces
+  and spheres",1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9511004,"On one family of 13-dimensional closed Riemannian positively curved
+  manifolds",1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9508003,Quantization and Coherent States over Lagrangian Submanifolds,1.3189329710618589e-06,0.0,0.0,1.0
+alg-geom/9607015,Master Spaces for stable pairs,1.3189329710618589e-06,0.0,0.0,4.0
+dg-ga/9710035,Equivariant K-Theory of Simply Connected Lie Groups,1.3189329710618589e-06,0.0,0.0,1.0
+alg-geom/9602010,Non-abelian monopoles and vortices,1.3189329710618589e-06,0.0,0.0,16.0
+dg-ga/9703008,Classical Mechanics of Spinning Patricle in a Curved Space,1.3189329710618589e-06,0.0,0.0,3.0
+dg-ga/9708007,"On the Lusternik-Schnirelmann category of symplectic manifolds and the
+  Arnold conjecture",1.3189329710618589e-06,0.0,0.0,2.0
+alg-geom/9607012,Quantum integrable systems and differential Galois theory,1.3189329710618589e-06,0.0,0.0,3.0
+dg-ga/9604002,"Self-duality in Dimensions $2n>4$: Equivalence of Various Definitions,
+  and an Upper Bound for $p_2$",1.3189329710618589e-06,0.0,0.0,2.0
+hep-th/9701164,Lyapunov exponents and Hodge theory,1.3189329710618589e-06,0.0,0.0,5.0
+gr-qc/9604014,Stochastic Processes and Diffusion on Spaces with Local Anisotropy,1.3189329710618589e-06,0.0,0.0,11.0
+hep-th/9709135,Topology and physics-a historical essay,1.3189329710618589e-06,0.0,0.0,5.0
+gr-qc/9606055,TT-tensors and conformally flat structures on 3-manifolds,1.3189329710618589e-06,0.0,0.0,2.0
+hep-th/9511196,Overview and Warmup Example for Perturbation Theory with Instantons,1.3189329710618589e-06,0.0,0.0,3.0
+dg-ga/9610016,Von Neumann categories and extended $L^2$ cohomology,1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9612010,Long time behavior of leafwise heat flow for Riemannian foliations,1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9609003,"Approximating L^2 invariants of amenable covering spaces: A
+  combinatorial approach",1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9710033,On the variation of the Poisson structures of certain moduli spaces,1.3189329710618589e-06,0.0,0.0,3.0
+dg-ga/9603009,Supermanifold Forms and Integration. A Dual Theory,1.3189329710618589e-06,0.0,0.0,4.0
+dg-ga/9707022,On the Determinant of One-Dimensional Elliptic Boundary Value Problems,1.3189329710618589e-06,0.0,0.0,2.0
+dg-ga/9710031,Frobenius Manifolds from Yang-Mills Instantons,1.3189329710618589e-06,0.0,0.0,4.0
+dg-ga/9610012,Integrable geodesic flows of non-holonomic metrics,1.3189329710618589e-06,0.0,0.0,2.0
+dg-ga/9607006,"Diffeomorphisms, Analytic Torsion and Noncommutative Geometry",1.3189329710618589e-06,0.0,0.0,2.0
+dg-ga/9611005,"Some classificational problems in four-dimensional geometry:
+  distributions, almost complex structures and Monge-Ampere equations",1.3189329710618589e-06,0.0,0.0,2.0
+hep-th/9605213,Higher-order simple Lie algebras,1.3189329710618589e-06,0.0,0.0,11.0
+dg-ga/9711016,Scattering theory and deformations of asymptotically hyperbolic metrics,1.3189329710618589e-06,0.0,0.0,2.0
+dg-ga/9711005,"New examples of conservative systems on S^2 possessing an integral cubic
+  in momenta",1.3189329710618589e-06,0.0,0.0,2.0
+dg-ga/9612004,"Circle-valued Morse theory, Reidemeister torsion, and Seiberg-Witten
+  invariants of 3-manifolds",1.3189329710618589e-06,0.0,0.0,7.0
+dg-ga/9511012,Constraints for Seiberg-Witten basic classes of glued manifolds,1.3189329710618589e-06,0.0,0.0,2.0
+dg-ga/9412005,Symplectic toric orbifolds,1.3189329710618589e-06,0.0,0.0,3.0
+dg-ga/9707017,"Scalar Curvature Rigidity for asymptotically locally hyperbolic
+  manifolds",1.3189329710618589e-06,0.0,0.0,10.0
+dg-ga/9508011,Uniton Bundles,1.3189329710618589e-06,0.0,0.0,2.0
+q-alg/9511027,Some aspects of noncommutative differential geometry,1.3189329710618589e-06,0.0,0.0,6.0
+dg-ga/9612014,"Knots, Links, and 4-Manifolds",1.3189329710618589e-06,0.0,0.0,6.0
+dg-ga/9610008,"Transverse measures, the modular class, and a cohomology pairing for Lie
+  algebroids",1.3189329710618589e-06,0.0,0.0,7.0
+dg-ga/9710001,Integral Invariants of 3-Manifolds,1.3189329710618589e-06,0.0,0.0,15.0
+q-alg/9512004,On Curvature in Noncommutative Geometry,1.3189329710618589e-06,0.0,0.0,10.0
+dg-ga/9608005,Gromov-Witten invariants of general symplectic manifolds,1.3189329710618589e-06,0.0,0.0,17.0
+dg-ga/9603006,"The Incidence Coefficients in the Novikov Complex are generically
+  rational functions",1.3189329710618589e-06,0.0,0.0,4.0
+gr-qc/9602010,Twistors and Nearly Autoparallel Maps,1.3189329710618589e-06,0.0,0.0,9.0
+dg-ga/9711002,The moduli space of special Lagrangian submanifolds,1.3189329710618589e-06,0.0,0.0,39.0
+dg-ga/9610005,The Spinor Representation of Surfaces in Space,1.3189329710618589e-06,0.0,0.0,16.0
+dg-ga/9703002,"Space-time Averages in Macroscopic Gravity and Volume-preserving
+  Coordinates",1.3189329710618589e-06,0.0,0.0,3.0
+dg-ga/9409002,Scalar-Flat Kaehler Surfaces of All Genera,1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9409003,The spectrum of an asymptotically hyperbolic Einstein manifold,1.3189329710618589e-06,0.0,0.0,2.0
+dg-ga/9710030,Classical lifting processes and multiplicative vector fields,1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9704002,Killing spinors are Killing vector fields in Riemannian Supergeometry,1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9703016,Hamiltonian versus Lagrangian formulations of supermechanic,1.3189329710618589e-06,0.0,0.0,1.0
+alg-geom/9603025,Seiberg-Witten invariants for manifolds with $b_+=1$,1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9409001,"Fano Manifolds, Contact Structures, and Quaternionic Geometry",1.3189329710618589e-06,0.0,0.0,2.0
+dg-ga/9606004,From symplectic deformation to isotopy,1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9707009,L^2-torsion of hyperbolic manifolds of finite volume,1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9710018,Three Cocycles on $\Diff(S^1)$ Generalizing the Schwarzian Derivative,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9704124,Non-Split Geometry on Products of Vector Bundles,1.3189329710618589e-06,0.0,0.0,1.0
+dg-ga/9507003,Cohomology of a Quaternionic Complex,1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9406166,Derivations and noncommutative differential calculus II,1.3189329710618589e-06,0.0,0.0,2.0
+alg-geom/9502002,A Generalization of the Kodaira Vanishing and Embedding Theorem,,,,
+alg-geom/9505015,Stratified Picard--Lefschetz theory,,,,
+alg-geom/9606019,Non-Hermitian Yang-Mills connections,,,,
+alg-geom/9607007,"On the algebraic dimension of twistor spaces over the connected sum of
+  four complex projective planes",,,,
+alg-geom/9610020,"Weil-Petersson geometry and determinant bundles on inductive limits of
+  moduli spaces",,,,
+alg-geom/9612019,"Is a linear space contained in a variety? - On the number of derivatives
+  needed to tell",,,,
+alg-geom/9704005,The global nilpotent variety is Lagrangian,,,,
+alg-geom/9710028,On the infinitesimal rigidity of homogeneous varieties,,,,
+alg-geom/9711003,"Pure Hodge structure on the $L_2$-cohomology of varieties with isolated
+  singularities",,,,
+chao-dyn/9502012,"Complex Trkalian Fields and Solutions to Euler's Equations for the Ideal
+  Fluid",,,,
+chao-dyn/9603017,"Dynamical Zeta Functions, Nielsen theory and Reidemeister torsion",,,,
+dg-ga/9406001,On extremals with prescribed Lagrangian densities,,,,
+dg-ga/9406002,Characteristic Numbers and Generalized Path Integrals,,,,
+dg-ga/9406003,"On the Existence of Jenkins-Strebel Differentials Using Harmonic Maps
+  from Surfaces to Graphs",,,,
+dg-ga/9406004,Moduli Spaces of Singular Yamabe Metrics,,,,
+dg-ga/9406005,$n$-transitivity of certain diffeomorphism groups,,,,
+dg-ga/9406006,Basic differential forms for actions of Lie groups,,,,
+dg-ga/9406007,"The Spectral Flow of the Odd Signature operator and Higher Massey
+  Products",,,,
+dg-ga/9407001,Teichmuller Space is Not Gromov Hyperbolic,,,,
+dg-ga/9407004,"Transformation de Fourier-Mukai sur les Surfaces Hyperk\""ahl\'eriennes",,,,
+dg-ga/9407005,A note on the index bundle over the moduli space of monopoles,,,,
+dg-ga/9407006,All regulators of flat bundles are torsion,,,,
+dg-ga/9407007,Rationality of secondary classes,,,,
+dg-ga/9407008,Jumps of the eta invariant,,,,
+dg-ga/9407009,Int\'egration symplectique des vari\'et\'es de Poisson r\'eguli\`eres,,,,
+dg-ga/9407010,Quadratic Equations in Groups from the Global Geometry Viewpoint,,,,
+dg-ga/9407011,Pr\'equantification de Certaines Vari\'et\'es de Poisson,,,,
+dg-ga/9407012,"Theta and zeta functions for odd-dimensional locally symmetric spaces of
+  rank one",,,,
+dg-ga/9407013,Theta and zeta functions for locally symmetric spaces of rank one,,,,
+dg-ga/9407014,A theta function for hyperbolic surfaces with cusps,,,,
+dg-ga/9408002,Witten deformation of Ray-Singer analytic torsion,,,,
+dg-ga/9408004,The Moduli Space of Complete Embedded Constant Mean Curvature Surfaces,,,,
+dg-ga/9408005,On the Dirichlet problem for harmonic maps with prescribed singularities,,,,
+dg-ga/9410001,Dressing orbits of harmonic maps,,,,
+dg-ga/9410003,On Rumin's Complex and Adiabatic Limits,,,,
+dg-ga/9410004,"A construction of singular solutions for a semilinear elliptic equation
+  using asymptotic analysis",,,,
+dg-ga/9410005,"Hermitian structures and harmonic morphisms in higher dimensional
+  Euclidean spaces",,,,
+dg-ga/9410006,"Geometry of Cyclic Quotients, I: Knotted Totally Geodesic Submanifolds
+  in Positively Curved Spheres",,,,
+dg-ga/9410007,"The Fr\""olicher-Nijenhuis bracket for derivation based non commutative
+  differential forms",,,,
+dg-ga/9411001,Self-Dual Manifolds with Positive Ricci Curvature,,,,
+dg-ga/9411002,Yamabe Spectra,,,,
+dg-ga/9411003,Ricci Curvature and Betti Numbers,,,,
+dg-ga/9411004,$\Gamma$-Cohomology and the Selberg Zeta Function,,,,
+dg-ga/9411005,Einstein Metrics and Mostow Rigidity,,,,
+dg-ga/9411010,Curved Flats and Isothermic Surfaces,,,,
+dg-ga/9411011,"The number of functionally independent invariants of a
+  pseudo--Riemannian metric",,,,
+dg-ga/9411012,Pseudoconvex and Disprisoning Homogeneous Sprays,,,,
+dg-ga/9411013,"Witten deformation of the analytic torsion and the spectral sequence of
+  a filtration",,,,
+dg-ga/9411014,Smoothing Riemannian Metrics with Ricci Curvature Bounds,,,,
+dg-ga/9411015,Integral geometry of plane curves and knot invariants,,,,
+dg-ga/9412006,On the Scalar Curvature of Complex Surfaces,,,,
+dg-ga/9501001,Exotic Holonomy on Moduli Spaces of Rational Curves,,,,
+dg-ga/9501002,Products and relations in symplectic Floer homology,,,,
+dg-ga/9501003,A Simple Geometric Representative for $\mu$ of a Point,,,,
+dg-ga/9501004,The Twistor correspondence of the Dolbeault complex over $\C^n$,,,,
+dg-ga/9501005,"Spaces of Geodesics: Products, Coverings, Connectedness",,,,
+dg-ga/9501006,Simpson's Theory and Superrigidity of Complex Hyperbolic Lattices,,,,
+dg-ga/9502001,"Analytic and Reidemeister torsion for representations in finite type
+  Hilbert modules",,,,
+dg-ga/9502002,The inverse Penrose transform on Riemannian twistor spaces,,,,
+dg-ga/9502003,"K\""ahlerian Killing Spinors, Complex Contact Structures and Twistor
+  Spaces",,,,
+dg-ga/9502004,"Torus bundles and the group cohomology of GL(N,Z)",,,,
+dg-ga/9502005,Cohomology of Kaehler manifolds with c_1=0,,,,
+dg-ga/9502006,"Twistor theory, complex homogeneous manifolds and $G$-structures",,,,
+dg-ga/9502007,Coherent states and geodesics: cut locus and conjugate locus,,,,
+dg-ga/9502009,"On the number of geodesic segments connecting two points on manifolds of
+  non-positive curvature",,,,
+dg-ga/9503002,"Mayer-Vietoris Formula for Determinants of Elliptic Operators of
+  Laplace-Beltrami Type (after Burghelea, Friedlander and Kappeler)",,,,
+dg-ga/9503004,"Invariant operators on manifolds with almost Hermitian symmetric
+  structures, II. Normal Cartan connections",,,,
+dg-ga/9503005,Secondary analytic indices,,,,
+dg-ga/9503007,Characteristic Classes in Symplectic Topology,,,,
+dg-ga/9503008,"Homotopy and Homology Vanishing Theorems and the Stability of Stochastic
+  Flows",,,,
+dg-ga/9503009,The Ring of Invariants for Smooth Completions of Kac-Moody Lie Algebras,,,,
+dg-ga/9503010,Isometric Immersions of Space Forms and Soliton Theory,,,,
+dg-ga/9503011,Analytic subsets of Hilbert spaces,,,,
+dg-ga/9503012,Geometry of Kodaira moduli spaces,,,,
+dg-ga/9503013,"Fundamental Group of Self-Dual Four-Manifolds with Positive Scalar
+  Curvature",,,,
+dg-ga/9503014,Eisenstein series and Scattering matrices,,,,
+dg-ga/9503015,Projective structures on moduli spaces of compact complex hypersurfaces,,,,
+dg-ga/9504001,Symplectic Approach of Wess-Zumino-Witten Model and Gauge Field Theories,,,,
+dg-ga/9505001,A Decomposition of Smooth Simply-connected h-Cobordant 4-Manifolds,,,,
+dg-ga/9505003,On Ribbon $R^4$'s,,,,
+dg-ga/9505006,Constant mean curvature surfaces via integrable dynamical system,,,,
+dg-ga/9505007,The Radius Rigidity Theorem for Manifolds of Positive Curvature,,,,
+dg-ga/9506001,"Fuchsian groups of the second kind and representations carried by the
+  limit set",,,,
+dg-ga/9506002,"Polarized 4-Manifolds, Extremal K\""ahler Metrics, and S-W Theory",,,,
+dg-ga/9506003,The twistor transform of a Verlinde formula,,,,
+dg-ga/9506004,Integrable Gradient Flows and Morse Theory,,,,
+dg-ga/9506005,Adiabatic Limits and Spectral Geometry of Foliations,,,,
+dg-ga/9506007,"Rokhlin Conjecture and Topology of Quotients of Complex Surfaces by
+  Complex Conjugation",,,,
+dg-ga/9506010,"Volumes of Discrete Groups and Topological Complexity of Homology
+  Spheres",,,,
+dg-ga/9506012,Einstein Metrics on Complex Surfaces,,,,
+dg-ga/9507001,Curved flats in symmetric spaces,,,,
+dg-ga/9508001,On the $L^{n\over 2}$-norm of Scalar Curvature,,,,
+dg-ga/9508002,"Quantization of K\""ahler manifolds admitting $H$-projective mappings",,,,
+dg-ga/9508004,On isometric and minimal isometric embeddings,,,,
+dg-ga/9508006,Novikov type inequalities for differential forms with non-isolated zeros,,,,
+dg-ga/9508007,Rank one symmetric spaces and Rigidity,,,,
+dg-ga/9508008,Equivalence of Geometric and Combinatorial Dehn Functions,,,,
+dg-ga/9508009,The Novikov-Bott inequalities,,,,
+dg-ga/9508010,Stiefel-Whitney Classes and the Conormal Cycle of a Singular Variety,,,,
+dg-ga/9508014,On the Incompleteness of Berger's List of Holonomy Representations,,,,
+dg-ga/9509001,Affine connections on involutive G-structures,,,,
+dg-ga/9509002,"On the Geometry of Complex Grassmann Manifold, Its Noncompact Dual and
+  Coherent States",,,,
+dg-ga/9509004,"On a class of K\""ahler manifolds whose geodesic flows are integrable",,,,
+dg-ga/9510001,"The Marked Length Spectrum vs. The Laplace Spectrum on Forms on
+  Riemannian Nilmanifolds",,,,
+dg-ga/9510002,Compact null hypersurfaces and collapsing Riemannian manifolds,,,,
+dg-ga/9510005,The Geometric Phase in the Three-Body Problem,,,,
+dg-ga/9510007,"Sturm theory, Ghys theorem on zeroes of the Schwarzian derivative and
+  flattening of Legendrian curves",,,,
+dg-ga/9510008,Theorem on six vertices of a plane curve via the Sturm theory,,,,
+dg-ga/9510009,Substantial Riemannian Submersions of S(15) with 7- dimensional fibres,,,,
+dg-ga/9511001,Quadratic harmonic morphisms and O-systems,,,,
+dg-ga/9511002,"On the classification of quadratic harmonic morphisms between Euclidean
+  spaces",,,,
+dg-ga/9511003,Complete lifts of harmonic maps and morphisms between Euclidean spaces,,,,
+dg-ga/9511010,A Generalisation of Obata's theorem,,,,
+dg-ga/9511013,Donaldson invariants for some glued manifolds,,,,
+dg-ga/9511014,The First Eigenvalue of $P$-manifolds,,,,
+dg-ga/9511015,4-Manifolds without Einstein Metrics,,,,
+dg-ga/9511016,"Periodic orbits in magnetic fields and Ricci curvature of Lagrangian
+  systems",,,,
+dg-ga/9512001,On the index of Dirac operators on arithmetic quotients,,,,
+dg-ga/9512005,Quotients by complex conjugation for real complete intersection surfaces,,,,
+dg-ga/9512006,"Energy of embedded surfaces invariant under Moebius tranformations,
+  addendum",,,,
+dg-ga/9512007,Exotic deformation quantization,,,,
+dg-ga/9512008,Harmonic morphisms between almost Hermitian manifolds,,,,
+dg-ga/9512011,$L^2$-Cohomology of Geometrically Infinite Hyperbolic 3-Manifolds,,,,
+dg-ga/9512012,"Regularisable and minimal orbits for group actions in infinite
+  dimensions",,,,
+dg-ga/9601002,Hamilton dynamics and $H$-planar curves,,,,
+dg-ga/9601006,On the Negative Case of the Singular Yamabe Problem,,,,
+dg-ga/9601008,Gluing and moduli for noncompact geometric problems,,,,
+dg-ga/9601010,Indefinite Kaehler-Einstein metrics on Compact Complex Surfaces,,,,
+dg-ga/9602004,"Space of linear differential operators on the real line as a module over
+  the Lie algebra of vector fields",,,,
+dg-ga/9602005,Conformal Invariants of Manifolds of Non-positive Scalar Curvature,,,,
+dg-ga/9602006,"Three-manifolds class field theory (Homology of coverings for a
+  non-virtually Haken manifold)",,,,
+dg-ga/9603003,"Group cohomology and the singularities of the Selberg zeta function
+  associated to a Kleinian group",,,,
+dg-ga/9603004,"Decomposability of quotients by complex conjugation for rational and
+  Enriques surfaces",,,,
+dg-ga/9603005,"Harmonic morphisms, conformal foliations and shear-free ray congruences",,,,
+dg-ga/9603010,Quasi-rigidity of hyperbolic 3-manifolds and scattering theory,,,,
+dg-ga/9603011,Minimal Geodesics and Nilpotent Fundamental Groups,,,,
+dg-ga/9603012,Finite dimensional imbeddings of harmonic spaces,,,,
+dg-ga/9603013,Harmonic manifolds with some specific volume densities,,,,
+dg-ga/9603014,A Pinching constant for harmonic manifolds,,,,
+dg-ga/9604001,"Conformal Deformation of Warped Products and Scalar Curvature Functions
+  on Open Manifolds",,,,
+dg-ga/9604003,"Sharp Bounds for Eigenvalues and Multiplicities on Surfaces of
+  Revolution",,,,
+dg-ga/9604005,The Zero-in-the-Spectrum Question,,,,
+dg-ga/9604006,Rotationally Symmetric $p$-harmonic maps,,,,
+dg-ga/9604007,Smooth structures on collarable ends of 4-manifolds,,,,
+dg-ga/9605002,The Fermi Flow and its Application to Geometry,,,,
+dg-ga/9605003,Flux homomorphism on symplectic groupoids,,,,
+dg-ga/9605004,Constant scalar curvature metrics with isolated singularities,,,,
+dg-ga/9605006,Theory of connections on graded principal bundles,,,,
+dg-ga/9605007,"Structure ""Hyper-Lie Poisson""",,,,
+dg-ga/9605008,Rotationally Symmetric F-harmonic Maps Equations,,,,
+dg-ga/9605009,Yamabe Constants and the Perturbed Seiberg-Witten Equations,,,,
+dg-ga/9606001,Symplectic packing in dimension 4,,,,
+dg-ga/9606002,"Harmonic two-spheres in compact symmetric spaces, revisited",,,,
+dg-ga/9606006,Positive paths in the linear symplectic group,,,,
+dg-ga/9606008,Novikov inequalities with symmetry,,,,
+dg-ga/9606009,"On Livsic's Theorem, Superrigidity, and Anosov Actions of Semisimple Lie
+  Groups",,,,
+dg-ga/9606010,"Smooth classification of Cartan actions of higher rank semisimple Lie
+  groups and their lattices",,,,
+dg-ga/9606011,Analytic fields on compact balanced Hermitian manifolds,,,,
+dg-ga/9606013,Homological algebra of Novikov-Shubin invariants and Morse inequalities,,,,
+dg-ga/9606014,Combinatorial invariants computing the Ray-Singer analytic torsion,,,,
+dg-ga/9607001,"Twistor spaces of non-flat Bochner-K\""ahler manifolds",,,,
+dg-ga/9607002,The index of operators on foliated bundles,,,,
+dg-ga/9607003,An Intrinsic Approach to Lichnerowicz Conjecture,,,,
+dg-ga/9607004,Exotic holonomies $\E_7^{(a)}$,,,,
+dg-ga/9607005,"Differential operators of Fuchs type, conical singularities, and
+  asymptotic methods",,,,
+dg-ga/9608003,Pseudo Harmonic Morphisms,,,,
+dg-ga/9608004,Pluriharmonic Morphisms,,,,
+dg-ga/9608006,Almost complex structures and geometric quantization,,,,
+dg-ga/9608007,Discriminants of convex curves are homeomorphic,,,,
+dg-ga/9608008,"Kaehler structures on Kc/(P,P)",,,,
+dg-ga/9608009,"A universal lower bound for the first eigenvalue of the Dirac operator
+  on quaternionic Kaehler manifolds",,,,
+dg-ga/9608010,Stability of symmetric tops via one variable calculus,,,,
+dg-ga/9609002,"Approximating L^2 invariants of amenable covering spaces: A heat kernel
+  approach",,,,
+dg-ga/9609005,Stiefel-Whitney Currents,,,,
+dg-ga/9609007,Great sphere foliations and manifolds with curvature bounded above,,,,
+dg-ga/9609008,Deforming a map into a harmonic map,,,,
+dg-ga/9609009,On index formulas for manifolds with metric horns,,,,
+dg-ga/9609010,On a theorem by do Carmo and Dajczer,,,,
+dg-ga/9609011,The spectrum of Kleinian manifolds,,,,
+dg-ga/9610002,"Determinant lines, von Neumann algebras and $L^2$ torsion",,,,
+dg-ga/9610003,Groups quasi-isometric to symmetric spaces,,,,
+dg-ga/9610004,"Moduli Spaces of Embedded Constant Mean Curvature Surfaces with Few Ends
+  and Special Symmetry",,,,
+dg-ga/9610007,De Rham theorem for extended L^2-cohomology,,,,
+dg-ga/9610010,"The Penrose transform on conformally Bochner-K\""ahler manifolds",,,,
+dg-ga/9610011,Canonical coordinates and Bergman metrics,,,,
+dg-ga/9610014,"Uniqueness of Positive Solutions of the Conformal Scalar Curvature
+  Equation and Applications to Conformal Transformations",,,,
+dg-ga/9610015,Equivariant Novikov inequalities,,,,
+dg-ga/9610017,"Twistor Bundles, Einstein Equations and Real Structures",,,,
+dg-ga/9610018,Twisted L^2 invariants of non-simply connected manifolds,,,,
+dg-ga/9610019,Von Neumann spectra near the spectral gap,,,,
+dg-ga/9610020,"Asymptotic properties of energy of harmonic maps on asymptotically
+  hyperbolic manifolds",,,,
+dg-ga/9611003,"Pseudo-orbits, pseudoleaves and geometric entropy of foliations",,,,
+dg-ga/9611007,On Young hulls of convex curves in R^{2n},,,,
+dg-ga/9611009,A discrete version of the Darboux transform for isothermic surfaces,,,,
+dg-ga/9611011,The spherical phylon group and invariants of the Laplace transform,,,,
+dg-ga/9612002,"On quadratic and nonquadratic forms: Application to nonbijective R^{2m}
+  -> R^{2m-n} transformations",,,,
+dg-ga/9612007,Twisted Legendre transformation,,,,
+dg-ga/9612013,"Harmonic morphisms from three-dimensional Euclidean and spherical space
+  forms",,,,
+dg-ga/9612015,Asimptotic dimension and Novikov-Shubin invariants for open manifolds,,,,
+dg-ga/9612016,"Intersection numbers on moduli spaces and symmetries of a Verlinde
+  formula",,,,
+dg-ga/9701001,Seiberg-Witten equations on tubes,,,,
+dg-ga/9701003,Singular connection and Riemann theta function,,,,
+dg-ga/9701005,"On the total curvature of minimal annuli in $R^3$ and Nitsche's
+  conjecture",,,,
+dg-ga/9701007,Representatives of the Thom class of a vector bundle,,,,
+dg-ga/9701010,Bott-type and equivariant Seiberg-Witten Floer homology I,,,,
+dg-ga/9701011,"Moduli Spaces of Stable Polygons and Symplectic Structures on
+  $\bar{M}_{0,n}$",,,,
+dg-ga/9702003,A fake smooth CP^2 # RP^4,,,,
+dg-ga/9702005,H-projectively-equivalent four-dimensional Kahler manifolds,,,,
+dg-ga/9702007,Tight immersions and local differential geometry,,,,
+dg-ga/9702010,"Continuous Families of Riemannian manifolds, isospectral on functions
+  but not on 1-forms",,,,
+dg-ga/9702011,"Continuous families of isospectral Riemannian metrics which are not
+  locally isometric",,,,
+dg-ga/9702013,"Differential Geometry of generalized almost quaternionic structures, 1",,,,
+dg-ga/9702014,"Differential Geometry of generalized almost quaternionic structures, 2",,,,
+dg-ga/9702017,Geometric Residue Theorems for Bundle Maps,,,,
+dg-ga/9703003,Twisted product of Lie groups,,,,
+dg-ga/9703004,"Correspondences, von Neumann algebras and holomorphic L^2 torsion",,,,
+dg-ga/9703006,A smooth counterexample to the Hamiltonian Seifert conjecture in R^6,,,,
+dg-ga/9703007,"On representation varieties of Artin groups, projective arrangements and
+  the fundamental groups of smooth complex algebraic varieties",,,,
+dg-ga/9703011,New Geometric Framework for SU(2) Gauge Theory,,,,
+dg-ga/9703012,Noncommutative spectral geometry of Riemannian foliations,,,,
+dg-ga/9703017,Sections along maps in Geometry and Physics,,,,
+dg-ga/9703018,Higher order Lagrangian supermechanics,,,,
+dg-ga/9703019,Can We Look at The Quantisation Rules as Constraints?,,,,
+dg-ga/9703021,"Eigenvalue Estimates for the Dirac Operator on Quaternionic Kaehler
+  Manifolds",,,,
+dg-ga/9703022,Separated nets in Euclidean space and Jacobians of biLipschitz maps,,,,
+dg-ga/9704001,"Characteristic Classes for the Degenerations of Two-Plane Fields in Four
+  Dimensions",,,,
+dg-ga/9704003,On Guichard's nets and Cyclic systems,,,,
+dg-ga/9704007,A Compactness Theorem for Invariant Connections,,,,
+dg-ga/9704010,Seiberg-Witten Theory and Z/2^p actions on spin 4-manifolds,,,,
+dg-ga/9704011,"Differential Rigidity of Anosov Actions of Higher Rank Abelian Groups
+  and Algebraic Lattice Actions",,,,
+dg-ga/9704012,Deformations of Nonholonomic Two-plane Fields in Four Dimensions,,,,
+dg-ga/9704013,Chaotic Geodesics in Carnot Groups,,,,
+dg-ga/9704015,Bounded and $L^2$ Harmonic Forms on Universal Covers,,,,
+dg-ga/9704016,"Variations of the boundary geometry of 3--dimensional hyperbolic convex
+  cores",,,,
+dg-ga/9704017,A Schlafli-type formula for convex cores of hyperbolic 3-manifolds,,,,
+dg-ga/9705004,Invariants in c U p-Geometry,,,,
+dg-ga/9705005,Semidirect products and the Pukanszky condition,,,,
+dg-ga/9705006,"An Extension of the Work of V. Guillemin on Complex Powers and Zeta
+  Functions of Elliptic Pseudodifferential Operators",,,,
+dg-ga/9705007,On the Scalar Curvature of Einstein Manifolds,,,,
+dg-ga/9705009,Surfaces in 4-Manifolds,,,,
+dg-ga/9706005,Surgery on Lagrangian and Legendrian Singularities,,,,
+dg-ga/9706006,On the homotopy invariance of L^2 torsion for covering spaces,,,,
+dg-ga/9706007,Duality of subanalytic sets,,,,
+dg-ga/9706009,Relative equilibria at singular points of the moment map,,,,
+dg-ga/9706010,Quantization formula for singular reductions,,,,
+dg-ga/9706016,Harmonic Spinors for Twisted Dirac Operators,,,,
+dg-ga/9706017,Quaternionic Killing Spinors,,,,
+dg-ga/9707002,Systolic freedom of orientable manifolds,,,,
+dg-ga/9707003,Almost Diameter Rigidity for the Cayley Plane,,,,
+dg-ga/9707005,Equivariant Higher Analytic Torsion and Equivariant Euler Characteristic,,,,
+dg-ga/9707006,Linearization of Nambu Structures,,,,
+dg-ga/9707007,"Zeta Functions, Determinants and Torsion for Open Manifolds",,,,
+dg-ga/9707008,On nodal sets for Dirac and Laplace operators,,,,
+dg-ga/9707010,Torsion and fibrations,,,,
+dg-ga/9707011,"Dimension theory of arbitrary modules over finite von Neumann algebras
+  and applications to $L^2$-Betti numbers",,,,
+dg-ga/9707012,Remark About Heat Diffusion on Periodic Spaces,,,,
+dg-ga/9707016,"Volumes, middle-dimensional systoles, and Whitehead products",,,,
+dg-ga/9707026,"Coherent states, transition amplitudes and embeddings",,,,
+dg-ga/9708002,Yamabe Invariants and Spin^c Structures,,,,
+dg-ga/9708009,Tree-like curves and their inflection points,,,,
+dg-ga/9708010,"On the noncommutative residue for pseudodifferential operators with
+  log-polyhomogeneous symbols",,,,
+dg-ga/9708011,Contact Topology and Hydrodynamics,,,,
+dg-ga/9708014,On the geometry and topology of manifolds of positive bi-Ricci curvature,,,,
+dg-ga/9709002,"Ricci curvature, minimal surfaces and sphere theorems",,,,
+dg-ga/9709003,Kahler manifolds with large isometry group,,,,
+dg-ga/9709008,"Irreducible constant mean curvature 1 surfaces in hyperbolic space with
+  positive genus",,,,
+dg-ga/9709009,Euler class and free generation,,,,
+dg-ga/9709010,"continious cohomology of groups of volume-preserving and symplectic
+  diffepmorphisms, measurable transfer and higher asymtotic cycles",,,,
+dg-ga/9709011,"A Bernstein theorem for complete spacelike constant mean curvature
+  hypersurfaces in Minkowski space",,,,
+dg-ga/9709012,"From a Relativistic Phenomenology of Anyons to a Model of Unification of
+  Forces via the Spencer Theory of Lie Structures",,,,
+dg-ga/9709014,"The First Eigenvalue of the Dirac Operator on Quaternionic Kaehler
+  Manifolds",,,,
+dg-ga/9709019,"Supplement on Curved flats in the space of point pairs and Isothermic
+  surfaces: A Quaternionic Calculus",,,,
+dg-ga/9709020,"Foliation by Constant Mean Curvature Spheres on Asymptotically Flat
+  Manifolds",,,,
+dg-ga/9709021,Corrigenda to: Introduction to Symplectic Topology,,,,
+dg-ga/9710004,"Isospectral deformations of closed Riemannian manifolds with different
+  scalar curvature",,,,
+dg-ga/9710005,"The differential equation $\Delta u = 8\pi - 8\pi h\exp {u}$ on a
+  compact Riemann surface",,,,
+dg-ga/9710006,An analysis of the two-vortex case in the Chern-Simons Higgs model,,,,
+dg-ga/9710007,Lie algebroids and Poisson-Nijenhuis structures,,,,
+dg-ga/9710008,Deficiencies of Lattice Subgroups of Lie Groups,,,,
+dg-ga/9710009,"Cocycles, symplectic structures and intersection",,,,
+dg-ga/9710011,The beta function of a knot,,,,
+dg-ga/9710013,"Tangent and cotangent lifts and graded Lie algebras associated with Lie
+  algebroids",,,,
+dg-ga/9710015,"A new flux for mean curvature 1 surfaces in hyperbolic 3-space, and
+  applications",,,,
+dg-ga/9710019,Cap-prodcut structures on the Fintushel-Stern spectral sequence,,,,
+dg-ga/9710023,Existence results for mean field equations,,,,
+dg-ga/9710034,Mutation and Gauge Theory I: Yang-Mills Invariants,,,,
+dg-ga/9711001,Upper bounds for regularized determinants,,,,
+dg-ga/9711006,"Finite energy Seiberg-Witten moduli spaces on 4-manifolds bounding
+  Seifert fibrations",,,,
+dg-ga/9711007,Morse theory of harmonic forms,,,,
+dg-ga/9711010,Continuous families of isospectral metrics on simply connected manifolds,,,,
+dg-ga/9711011,Equivariant torsion and G-CW-complexes,,,,
+dg-ga/9711012,Totally geodesic orbits of isometries,,,,
+dg-ga/9711015,"Isometry groups and geodesic foliations of Lorentz manifolds. Part I:
+  Foundations of Lorentz dynamics",,,,
+dg-ga/9711017,Discrete surfaces of constant mean curvature via dressing,,,,
+dg-ga/9711020,"Isometry groups and geodesic foliations of Lorentz manifolds. Part II:
+  Geometry of analytic Lorentz manifolds with large isometry groups",,,,
+dg-ga/9712001,Higher analytic torsion and cohomology of diffeomorphism groups,,,,
+dg-ga/9712002,Positively curved 7-dimensional manifolds,,,,
+dg-ga/9712003,The Positive Fundamental Group of Sp(2) and Sp(4),,,,
+dg-ga/9712007,The functional definition of geodesics,,,,
+dg-ga/9712009,Notes on affine isometric actions of discrete groups,,,,
+dg-ga/9712014,Parallel Connections Over Symmetric Spaces,,,,
+dg-ga/9712015,Simple Type is Not a Boundary Phenomenon,,,,
+dg-ga/9712016,Simple Type and the Boundary of Moduli Space,,,,
+dg-ga/9712017,Jacobi vector fields of integrable geodesic flows,,,,
+dg-ga/9712019,The minimum principle from a Hamiltonian point of view,,,,
+funct-an/9607002,On self-adjointness of a Schroedinger operator,,,,
+funct-an/9609002,Supermatrix Representations of Semigroup Bands,,,,
+gr-qc/9508001,"Existence of maximal hypersurfaces in some spherically symmetric
+  spacetimes",,,,
+gr-qc/9701066,"On 3+1 decompositions with respect to an observer field via differential
+  forms",,,,
+gr-qc/9706078,On a global conformal invariant of initial data sets,,,,
+hep-th/9602037,Presymplectic Geometry and Fermat's Principle for anisotropic media,,,,
+hep-th/9610239,"Sphere-like Solutions in Surface Functional Theory and Dirac's Membrane
+  Model",,,,
+hep-th/9701038,Topological charges and the genus of surfaces,,,,
+math/9712234,Isospectrality and 3-manifold groups,,,,
+q-alg/9505008,On the spaces of polynomial knots,,,,
+q-alg/9601007,New Generalized Poisson Structures,,,,
+solv-int/9502004,Isothermic surfaces in $\E^3$ as soliton surfaces,,,,

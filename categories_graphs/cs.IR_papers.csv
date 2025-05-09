@@ -1,0 +1,190 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+cs/0211041,"An Approach to Automatic Indexing of Scientific Publications in High
+  Energy Physics for Database SPIRES HEP",1.3023662982226964e-05,0.0,9.0,0.0
+cs/0701180,Ontology from Local Hierarchical Structure in Text,7.120126889556909e-06,0.0,2.0,2.0
+cs/0702067,The Haar Wavelet Transform of a Dendrogram: Additional Notes,6.420138464716299e-06,0.0,6.0,0.0
+cond-mat/0403233,Artificial Sequences and Complexity Measures,5.19936710597502e-06,0.0,6.0,0.0
+cs/0205022,The Traits of the Personable,4.820310432891641e-06,0.0,2.0,0.0
+cs/0701072,"Tagging, Folksonomy & Co - Renaissance of Manual Indexing?",4.707288470749315e-06,0.0,2.0,0.0
+cs/0602065,Similarity of Objects and the Meaning of Words,4.124040381858852e-06,0.0,5.0,0.0
+quant-ph/0210176,Quantum Pattern Recognition,3.937127024872019e-06,4.084330281112088e-08,5.0,5.0
+cs/0412098,The Google Similarity Distance,3.4990187908037217e-06,0.0,1.0,3.0
+cs/0504089,Universal Similarity,3.3817361725173822e-06,0.0,3.0,0.0
+cs/0111007,Explaining Scenarios for Information Personalization,3.1564676950366884e-06,0.0,2.0,1.0
+cs/0608107,The Haar Wavelet Transform of a Dendrogram,3.1211905276850624e-06,0.0,2.0,2.0
+math/0607507,"In-Degree and PageRank of Web pages: Why do they follow similar power
+  laws?",2.493670421517055e-06,0.0,1.0,0.0
+cs/0306122,The Best Trail Algorithm for Assisted Navigation of Web Sites,2.4711431321721443e-06,0.0,1.0,1.0
+cs/0010013,A Public-key based Information Management Model for Mobile Agents,2.4711431321721443e-06,0.0,1.0,0.0
+cs/9904002,A geometric framework for modelling similarity search,2.4711431321721443e-06,0.0,1.0,0.0
+nlin/0409013,Epistemic communities: description and hierarchic categorization,2.415206884045539e-06,0.0,1.0,0.0
+cs/0610011,Creation and use of Citations in the ADS,2.3469198153586743e-06,0.0,1.0,0.0
+cs/0312018,Mapping Subsets of Scholarly Information,1.912778586725516e-06,0.0,1.0,0.0
+cs/0501019,Clustering SPIRES with EqRank,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0308039,"A new approach to relevancy in Internet searching - the ""Vox Populi
+  Algorithm""",1.703003024765287e-06,0.0,1.0,0.0
+cs/0203024,The structure of broad topics on the Web,1.703003024765287e-06,0.0,1.0,0.0
+cs/0205059,A Connection-Centric Survey of Recommender Systems Research,1.3189329710618589e-06,0.0,0.0,1.0
+cs/9901004,"On the geometry of similarity search: dimensionality curse and
+  concentration of measure",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0511016,How to make the top ten: Approximating PageRank from in-degree,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0108003,The Partial Evaluation Approach to Information Personalization,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0312016,"Taking the Initiative with Extempore: Exploring Out-of-Turn Interactions
+  with Websites",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0005026,"A One-Time Pad based Cipher for Data Protection in Distributed
+  Environments",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0604016,On Conditional Branches in Optimal Search Trees,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0511005,The egalitarian effect of search engines,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0108004,Links tell us about lexical and semantic Web content,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0309022,Proposed Specification of a Distributed XML-Query Network,1.3189329710618589e-06,0.0,0.0,1.0
+astro-ph/0008307,"Science User Scenarios for a Virtual Observatory Design Reference
+  Mission: Science Requirements for Data Mining",,,,
+astro-ph/0010583,Data Mining in Astronomical Databases,,,,
+cond-mat/0402581,Dictionary based methods for information extraction,,,,
+cs/0003043,Automatic Classification of Text Databases through Query Probing,,,,
+cs/0004008,"How to Evaluate your Question Answering System Every Day and Still Get
+  Real Work Done",,,,
+cs/0007003,Using compression to identify acronyms in text,,,,
+cs/0007017,Fuzzy data: XML may handle it,,,,
+cs/0007041,Relevance as Deduction: A Logical View of Information Retrieval,,,,
+cs/0011028,"Retrieval from Captioned Image Databases Using Natural Language
+  Processing",,,,
+cs/0102002,On the Automated Classification of Web Sites,,,,
+cs/0104008,Event Indexing Systems for Efficient Selection and Analysis of HERA Data,,,,
+cs/0104009,Evaluating Recommendation Algorithms by Graph Analysis,,,,
+cs/0106039,Iterative Residual Rescaling: An Analysis and Generalization of LSI,,,,
+cs/0108018,Bipartite graph partitioning and data clustering,,,,
+cs/0108023,Information Extraction Using the Structured Language Model,,,,
+cs/0110041,Towards Solving the Interdisciplinary Language Barrier Problem,,,,
+cs/0110053,Machine Learning in Automated Text Categorization,,,,
+cs/0111012,Intelligent Anticipated Exploration of Web Sites,,,,
+cs/0202019,Hypernets -- Good (G)news for Gnutella,,,,
+cs/0204054,Navigating the Small World Web by Textual Cues,,,,
+cs/0205071,"A Scalable Architecture for Harvest-Based Digital Libraries - The
+  ODU/Southampton Experiments",,,,
+cs/0212045,Local Community Identification through User Access Patterns,,,,
+cs/0304007,A Method for Clustering Web Attacks Using Edit Distance,,,,
+cs/0306026,BdbServer++: A User Driven Data Location and Retrieval Tool,,,,
+cs/0306039,Bayesian Information Extraction Network,,,,
+cs/0307011,Supporting Out-of-turn Interactions in a Multimodal Web Interface,,,,
+cs/0308042,"Centralized reward system gives rise to fast and efficient work sharing
+  for intelligent Internet agents lacking direct communication",,,,
+cs/0309035,"Combining Independent Modules to Solve Multiple-choice Synonym and
+  Analogy Problems",,,,
+cs/0310013,"WebTeach in practice: the entrance test to the Engineering faculty in
+  Florence",,,,
+cs/0311029,Staging Transformations for Multimodal Web Interaction Management,,,,
+cs/0312008,"Embedding Web-based Statistical Translation Models in Cross-Language
+  Information Retrieval",,,,
+cs/0402061,A Correlation-Based Distance,,,,
+cs/0405007,"""In vivo"" spam filtering: A challenge problem for data mining",,,,
+cs/0405044,"Corpus structure, language models, and ad hoc information retrieval",,,,
+cs/0405069,Mining Frequent Itemsets from Secondary Memory,,,,
+cs/0407035,A Framework for High-Accuracy Privacy-Preserving Mining,,,,
+cs/0407053,Design of a Parallel and Distributed Web Search Engine,,,,
+cs/0407061,A measure of similarity between graph vertices,,,,
+cs/0407065,"Word Sense Disambiguation by Web Mining for Word Co-occurrence
+  Probabilities",,,,
+cs/0410017,"Automated Pattern Detection--An Algorithm for Constructing Optimally
+  Synchronizing Multi-Regular Language Filters",,,,
+cs/0411026,A Search Relevancy Tuning Method Using Expert Results Content Evaluation,,,,
+cs/0411069,CDN: Content Distribution Network,,,,
+cs/0412002,Ranking Pages by Topology and Popularity within Web Sites,,,,
+cs/0501018,Combining Independent Modules in Lexical Multiple-Choice Problems,,,,
+cs/0502052,Log Analysis Case Study Using LoGS,,,,
+cs/0503011,"Shuffling a Stacked Deck: The Case for Partially Randomized Ranking of
+  Search Engine Results",,,,
+cs/0503033,"An Introduction to the Summarization of Evolving Events: Linear and
+  Non-linear Evolution",,,,
+cs/0503079,Space-time databases modeling global semantic networks,,,,
+cs/0504036,"Scientific impact quantity and quality: Analysis of two sources of
+  bibliographic data",,,,
+cs/0504063,Selection in Scale-Free Small World,,,,
+cs/0505008,Data Mining on Crash Simulation Data,,,,
+cs/0506047,Analyse et expansion des textes en question-r\'{e}ponse,,,,
+cs/0506048,Enriching a Text by Semantic Disambiguation for Information Extraction,,,,
+cs/0506078,Dynamical Neural Network: Information and Topology,,,,
+cs/0507024,"Experiments in Clustering Homogeneous XML Documents to Validate an
+  Existing Typology",,,,
+cs/0507069,"Users and Assessors in the Context of INEX: Are Relevance Dimensions
+  Relevant?",,,,
+cs/0507070,"Hybrid XML Retrieval: Combining Information Retrieval and a Native XML
+  Database",,,,
+cs/0508017,"Enhancing Content-And-Structure Information Retrieval using a Native XML
+  Database",,,,
+cs/0508036,"Exp\'{e}riences de classification d'une collection de documents XML de
+  structure homog\`{e}ne",,,,
+cs/0508092,Summarizing Reports on Evolving Events; Part I: Linear Evolution,,,,
+cs/0508103,Corpus-based Learning of Analogies and Semantic Relations,,,,
+cs/0509020,"Transitive Text Mining for Information Extraction and Hypothesis
+  Generation",,,,
+cs/0509040,Authoring case based training by document data extraction,,,,
+cs/0509072,Folksonomy as a Complex Network,,,,
+cs/0510025,Practical Semantic Analysis of Web Sites and Documents,,,,
+cs/0510037,Hi\'{e}rarchisation des r\`{e}gles d'association en fouille de textes,,,,
+cs/0510054,The Nature of Novelty Detection,,,,
+cs/0510084,R\'{e}flexions sur la question fr\'{e}quentielle en traitement du signal,,,,
+cs/0511002,Bibliographic Classification using the ADS Databases,,,,
+cs/0512063,"Complex Random Vectors and ICA Models: Identifiability, Uniqueness and
+  Separability",,,,
+cs/0512069,Reconstructing Websites for the Lazy Webmaster,,,,
+cs/0601045,"PageRank without hyperlinks: Structural re-ranking using links induced
+  by language models",,,,
+cs/0601046,"Better than the real thing? Iterative pseudo-query processing using
+  cluster-based language models",,,,
+cs/0601047,"Automatic Detection of Trends in Dynamical Text: An Evolutionary
+  Approach",,,,
+cs/0601081,"An O(1) Solution to the Prefix Sum Problem on a Specialized Memory
+  Architecture",,,,
+cs/0602076,Exploring term-document matrices from matrix models in text mining,,,,
+cs/0603073,VXA: A Virtual Architecture for Durable Compressed Archives,,,,
+cs/0605035,Query Chains: Learning to Rank from Implicit Feedback,,,,
+cs/0605036,Evaluating the Robustness of Learning from Implicit Feedback,,,,
+cs/0605037,"Minimally Invasive Randomization for Collecting Unbiased Preferences
+  from Clickthrough Logs",,,,
+cs/0606069,"Inference and Evaluation of the Multinomial Mixture Model for Text
+  Clustering",,,,
+cs/0606073,"Comparison of the estimation of the degree of polarization from four or
+  two intensity images degraded by speckle noise",,,,
+cs/0606097,Synonym search in Wikipedia: Synarcher,,,,
+cs/0606115,"Evaluating Variable Length Markov Chain Models for Analysis of User Web
+  Navigation Sessions",,,,
+cs/0606118,Adapting a general parser to a sublanguage,,,,
+cs/0606119,"Lexical Adaptation of Link Grammar to the Biomedical Sublanguage: a
+  Comparative Evaluation of Three Approaches",,,,
+cs/0607012,A Flexible Structured-based Representation for XML Document Mining,,,,
+cs/0608004,Separating the articles of authors with the same name,,,,
+cs/0608049,"Solving non-uniqueness in agglomerative hierarchical clustering using
+  multidendrograms",,,,
+cs/0608100,Similarity of Semantic Relations,,,,
+cs/0610091,On the Behavior of Journal Impact Factor Rank-Order Distribution,,,,
+cs/0610155,"Nonlinear Estimators and Tail Bounds for Dimension Reduction in $l_1$
+  Using Cauchy Random Projections",,,,
+cs/0611124,Low-rank matrix factorization with attributes,,,,
+cs/0611131,"Scatter Networks: A New Approach for Analyzing Information Scatter on
+  the Web",,,,
+cs/0611150,A Novel Bayesian Classifier using Copula Functions,,,,
+cs/0612027,Experimental Information and Statistical Modeling of Physical Laws,,,,
+cs/0612043,About the Lifespan of Peer to Peer Networks,,,,
+cs/0612046,Social Networks and Social Information Filtering on Digg,,,,
+cs/0612123,"Electronic Laboratory Notebook Assisting Reflectance Spectrometry in
+  Legal Medicine",,,,
+cs/0701028,Statistical keyword detection in literary corpora,,,,
+cs/0702085,"Social Behaviours Applied to P2P Systems: An efficient Algorithm for
+  Resource Organisation",,,,
+cs/0702126,Efficient Searching and Retrieval of Documents in PROSA,,,,
+cs/0702127,Exploiting social networks dynamics for P2P resource organisation,,,,
+cs/0703027,Interroger un corpus par le sens,,,,
+cs/0703042,Recommender System for Online Dating Service,,,,
+cs/0703101,A Note on Approximate Nearest Neighbor Methods,,,,
+cs/9902005,Mutual Search,,,,
+cs/9904001,"A Proposal for the Establishment of Review Boards - a flexible approach
+  to the selection of academic knowledge",,,,
+cs/9910015,PIPE: Personalizing Recommendations via Partial Evaluation,,,,
+cs/9912002,A Geometric Model for Information Retrieval Systems,,,,
+math/0602070,The Matrix-Forest Theorem and Measuring Relations in Small Social Groups,,,,
+math/0607648,Singular Values and Eigenvalues of Tensors: A Variational Approach,,,,
+nlin/0509007,"Lattices for Dynamic, Hierarchic & Overlapping Categorization: the Case
+  of Epistemic Communities",,,,
+nlin/0611054,A Model of a Trust-based Recommendation System on a Social Network,,,,
+physics/0608166,Information filtering via Iterative Refinement,,,,

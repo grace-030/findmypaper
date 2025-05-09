@@ -1,0 +1,95 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+cs/0612143,"Exact solutions for the two- and all-terminal reliabilities of a simple
+  ladder network",5.799736112949483e-06,0.0,5.0,0.0
+cs/0701005,"Exact solutions for the two- and all-terminal reliabilities of the
+  Brecht-Colbourn ladder and the generalized fan",5.799736112949483e-06,0.0,5.0,0.0
+cs/0702135,"High Performance Direct Gravitational N-body Simulations on Graphics
+  Processing Units",4.0928376822021615e-06,0.0,4.0,0.0
+cs/0107001,Analysis of Network Traffic in Switched Ethernet Systems,3.234418268738941e-06,1.990182755160072e-06,3.0,1.0
+cs/0608102,Analysis of a Reputation System for Mobile Ad-Hoc Networks with Liars,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0703058,"A Comparison of Five Probabilistic View-Size Estimation Techniques in
+  OLAP",1.8950380516170012e-06,0.0,1.0,0.0
+cs/0611093,Effectiveness of Garbage Collection in MIT/GNU Scheme,1.8950380516170012e-06,0.0,1.0,1.0
+cond-mat/0002469,"Non-equilibrium Surface Growth and Scalability of Parallel Algorithms
+  for Large Asynchronous Systems",1.8950380516170012e-06,0.0,1.0,2.0
+cs/0703056,Unasssuming View-Size Estimation Techniques in OLAP,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0412027,Correlated dynamics in human printing behavior,1.5006160548457837e-06,0.0,1.0,3.0
+cs/0007027,"Efficient cache use for stencil operations on structured discretization
+  grids",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0604016,On Conditional Branches in Optimal Search Trees,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0309018,Using Propagation for Solving Complex Arithmetic Constraints,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0103016,Search in Power-Law Networks,1.3189329710618589e-06,0.0,0.0,5.0
+cs/0211024,Narses: A Scalable Flow-Based Network Simulator,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0502039,Efficient Parallel Simulations of Asynchronous Cellular Arrays,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0112103,"Going through Rough Times: from Non-Equilibrium Surface Growth to
+  Algorithmic Scalability",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0012010,The Role of Commutativity in Constraint Propagation Algorithms,,,,
+cs/0103014,"Faster-than-light effects and negative group delays in optics and
+  electronics, and their applications",,,,
+cs/0202019,Hypernets -- Good (G)news for Gnutella,,,,
+cs/0205062,"Minimizing Cache Misses in Scientific Computing Using Isoperimetric
+  Bodies",,,,
+cs/0210017,A New Interpretation of Amdahl's Law and Geometric Scalability,,,,
+cs/0301005,Modelling Delay Jitter in Voice over IP,,,,
+cs/0305054,A Monitoring System for the BaBar INFN Computing Cluster,,,,
+cs/0305060,"Performance comparison between iSCSI and other hardware and software
+  solutions",,,,
+cs/0306073,"GridMonitor: Integration of Large Scale Facility Fabric Monitoring with
+  Meta Data Service in Grid Environment",,,,
+cs/0306090,Worldwide Fast File Replication on Grid Datafarm,,,,
+cs/0311049,Performance of TCP/UDP under Ad Hoc IEEE802.11,,,,
+cs/0312006,"Benchmarking and Implementation of Probability-Based Simulations on
+  Programmable Graphics Cards",,,,
+cs/0402054,On the Security of the Yi-Tan-Siew Chaos-Based Cipher,,,,
+cs/0404001,"On the Practicality of Intrinsic Reconfiguration As a Fault Recovery
+  Method in Analog Systems",,,,
+cs/0404035,Elements for Response Time Statistics in ERP Transaction Systems,,,,
+cs/0404043,Benchmarking Blunders and Things That Go Bump in the Night,,,,
+cs/0408009,"Performance Analysis of Multicast Mobility in a Hierarchical Mobile IP
+  Proxy Environment",,,,
+cs/0410066,Fast Query Processing by Distributing an Index over CPU Caches,,,,
+cs/0411019,Programmable Ethernet Switches and Their Applications,,,,
+cs/0501073,Optimal Union-Find in Constraint Handling Rules,,,,
+cs/0502003,Shawn: A new approach to simulating wireless sensor networks,,,,
+cs/0505085,Improving PARMA Trailing,,,,
+cs/0507004,"An End-to-End Probabilistic Network Calculus with Moment Generating
+  Functions",,,,
+cs/0511008,"Analysis of Stochastic Service Guarantees in Communication Networks: A
+  Basic Calculus",,,,
+cs/0605030,A Delay Analysis of Maximal Matching Switching with Speedup,,,,
+cs/0605039,Fast and Generalized Polynomial Time Memory Consistency Verification,,,,
+cs/0606120,On symmetric sandpiles,,,,
+cs/0607041,"Methods for Partitioning Data to Improve Parallel Execution Time for
+  Sorting on Heterogeneous Clusters",,,,
+cs/0608063,A Generic Lazy Evaluation Scheme for Exact Geometric Computations,,,,
+cs/0608069,JiTS: Just-in-Time Scheduling for Real-Time Sensor Data Dissemination,,,,
+cs/0608077,The Effect of Scheduling on Link Capacity in Multi-hopWireless Networks,,,,
+cs/0610028,Memory and compiler optimizations for low-power and -energy,,,,
+cs/0610134,A Markov Chain based method for generating long-range dependence,,,,
+cs/0610135,"Markov-modulated on/off processes for long-range dependent internet
+  traffic",,,,
+cs/0611037,On Conditional Branches in Optimal Decision Trees,,,,
+cs/0611064,Distributed Link Scheduling with Constant Overhead,,,,
+cs/0611087,"A Combined LIFO-Priority Scheme for Overload Control of E-commerce Web
+  Servers",,,,
+cs/0611091,"Lossy Bulk Synchronous Parallel Processing Model for Very Large Scale
+  Grids",,,,
+cs/0612105,"Towards Parallel Computing on the Internet: Applications, Architectures,
+  Models and Programming Tools",,,,
+cs/0612141,Exact Failure Frequency Calculations for Extended Systems,,,,
+cs/0701001,On High Spatial Reuse Link Scheduling in STDMA Wireless Ad Hoc Networks,,,,
+cs/0701130,"On the Correlation of Geographic and Network Proximity at Internet Edges
+  and its Implications for Mobile Unicast and Multicast Routing",,,,
+cs/0701191,The parallel implementation of the Astr\'{e}e static analyzer,,,,
+cs/0701193,A Static Analyzer for Large Safety-Critical Software,,,,
+cs/0701195,"An Abstract Monte-Carlo Method for the Analysis of Probabilistic
+  Programs",,,,
+cs/0702062,Noise Limited Computational Speed,,,,
+cs/9808004,"Differentiated End-to-End Internet Services using a Weighted
+  Proportional Fair Sharing TCP",,,,
+cs/9809004,Performance / Price Sort,,,,
+cs/9810010,C++ Templates as Partial Evaluation,,,,
+cs/9902024,"Algorithms of Two-Level Parallelization for DSMC of Unsteady Flows in
+  Molecular Gasdynamics",,,,
+cs/9904016,Brittle System Analysis,,,,
+physics/0405154,The ATLAS Tile Calorimeter Test Beam Monitoring Program,,,,

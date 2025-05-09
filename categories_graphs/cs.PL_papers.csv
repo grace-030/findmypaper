@@ -1,0 +1,423 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+quant-ph/0511145,Semantics and simulation of communication in quantum programming,4.011662524909751e-05,0.0,6.0,0.0
+cs/0605090,Mathematica: A System of Computer Programs,4.715121399099865e-06,0.0,3.0,0.0
+quant-ph/0501151,Structuring quantum effects: superoperators as arrows,4.2842287654556805e-06,0.0,3.0,0.0
+cs/0204015,Design Patterns for Functional Strategic Programming,3.62335329328243e-06,0.0,2.0,0.0
+cs/0608051,Modules over Monads and Linearity,3.5785533883780654e-06,0.0,3.0,0.0
+cs/0703155,Liveness of Heap Data for Functional Programs,3.49912997646896e-06,0.0,2.0,0.0
+cs/0612063,Improving Precision of Type Analysis Using Non-Discriminative Union,3.3749066596554898e-06,0.0,1.0,0.0
+quant-ph/0602156,Quantum Predicative Programming,3.279263423862175e-06,0.0,3.0,0.0
+cs/0211004,The DLV System for Knowledge Representation and Reasoning,2.4711431321721443e-06,0.0,1.0,4.0
+cs/0106059,CHR as grammar formalism. A first report,2.4711431321721443e-06,0.0,1.0,2.0
+cs/9811015,An Emptiness Algorithm for Regular Types with Set Operators,2.4711431321721443e-06,0.0,1.0,1.0
+cs/0404055,"Finite-Tree Analysis for Constraint Logic-Based Languages: The Complete
+  Unabridged Version",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0512065,Tradeoffs in Metaprogramming,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0702042,A Formal Model for Programming Wireless Sensor Networks,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0701147,A Generic Analysis Environment for Curry Programs,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0703116,"On the Design of Generic Static Analyzers for Modern Imperative
+  Languages",2.4711431321721443e-06,0.0,1.0,0.0
+cs/9908002,"After Compilers and Operating Systems : The Third Advance in Application
+  Support",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0607016,An Analysis of Arithmetic Constraints on Integer Intervals,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0611009,Efficient constraint propagation engines,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0111043,"Prototyping CLP(FD) Tracers: a Trace Model and an Experimental
+  Validation Environment",2.4711431321721443e-06,0.0,2.0,0.0
+cs/0511094,A Machine-Independent port of the MPD language run time system to NetBSD,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0005002,"Application Software, Domain-Specific Languages, and Language Design
+  Assistants",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0004011,Task Frames,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0007008,Compiling Language Definitions: The ASF+SDF Compiler,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0606023,"Parallel Evaluation of Mathematica Programs in Remote Computers
+  Available in Network",2.429735359900988e-06,0.0,2.0,1.0
+cs/0408027,CHR Grammars,2.3469198153586743e-06,0.0,1.0,1.0
+quant-ph/0612199,Lineal: A linear-algebraic Lambda-calculus,2.2847470839263382e-06,0.0,3.0,0.0
+quant-ph/0407005,"A Process Algebraic Approach to Concurrent and Distributed Quantum
+  Computation: Operational Semantics",2.143049589481156e-06,0.0,2.0,1.0
+cs/0103009,Toward an architecture for quantum programming,2.042042504209638e-06,4.646006432347736e-05,8.0,9.0
+cs/0611093,Effectiveness of Garbage Collection in MIT/GNU Scheme,1.8950380516170012e-06,0.0,1.0,1.0
+quant-ph/0508116,A probabilistic branching bisimulation for quantum processes,1.8261377253543384e-06,1.990182755160072e-06,1.0,1.0
+cs/0507043,Proof rules for purely quantum programs,1.7327842274509898e-06,0.0,1.0,1.0
+cs/0110022,Mixed-Initiative Interaction = Mixed Computation,1.703003024765287e-06,0.0,1.0,1.0
+quant-ph/0306077,Quantum Domain Theory - Definitions and Applications,1.7000925000356084e-06,8.955822398220324e-06,2.0,2.0
+cs/0003010,TSIA: A Dataflow Model,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0010038,Collecting Graphical Abstract Views of Mercury Program Executions,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0012005,Value Withdrawal Explanation in CSP,1.3189329710618589e-06,0.0,0.0,2.0
+cs/9905002,DRAFT : Task System and Item Architecture (TSIA),1.3189329710618589e-06,0.0,0.0,1.0
+cs/9911001,Semantics of Programming Languages: A Tool-Oriented Approach,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0612093,A Calculus for Sensor Networks,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0411001,Synchronization from a Categorical Perspective,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0106008,"Computing Functional and Relational Box Consistency by Structured
+  Propagation in Atomic Constraint Systems",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0608104,Heap Reference Analysis Using Access Graphs,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0108003,The Partial Evaluation Approach to Information Personalization,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0603005,A Basic Introduction on Math-Link in Mathematica,1.3189329710618589e-06,0.0,0.0,3.0
+cs/0007013,Applying Constraint Handling Rules to HPSG,1.3189329710618589e-06,0.0,0.0,1.0
+cs/9810001,On Dart-Zobel Algorithm for Testing Regular Type Inclusion,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0512067,Solving Partial Order Constraints for LPO Termination,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0111039,"An Integrated Development Environment for Declarative Multi-Paradigm
+  Programming",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0211035,Monadic Style Control Constructs for Inference Systems,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0403016,A Comparative Study of Arithmetic Constraints on Integer Intervals,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0411028,"A machine-independent port of the SR language run-time system to the
+  NetBSD operating system",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0508023,"Software Libraries and Their Reuse: Entropy, Kolmogorov Complexity, and
+  Zipf's Law",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0612116,Adventures in time and space,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0612085,"The Parma Polyhedra Library: Toward a Complete Set of Numerical
+  Abstractions for the Analysis and Verification of Hardware and Software
+  Systems",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0204013,The Sketch of a Polymorphic Symphony,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0203001,Towards Generic Refactoring,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0111040,"Combining Propagation Information and Search Tree Visualization using
+  ILOG OPL Studio",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0404006,"Delimited continuations in natural language: quantification and polarity
+  sensitivity",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0002016,SLT-Resolution for the Well-Founded Semantics,,,,
+cs/0003062,Reasoning with Higher-Order Abstract Syntax in a Logical Framework,,,,
+cs/0003068,A Polyvariant Binding-Time Analysis for Off-line Partial Deduction,,,,
+cs/0003070,The (Lazy) Functional Side of Logic Programming,,,,
+cs/0003076,Constraint Programming viewed as Rule-based Programming,,,,
+cs/0004002,"Programming in Alma-0, or Imperative and Declarative Programming
+  Reconciled",,,,
+cs/0004006,On Redundancy Elimination Tolerant Scheduling Rules,,,,
+cs/0005008,A Denotational Semantics for First-Order Logic,,,,
+cs/0005018,On Modular Termination Proofs of General Logic Programs,,,,
+cs/0005023,"C++ programming language for an abstract massively parallel SIMD
+  architecture",,,,
+cs/0005033,"Multimethods and separate static typechecking in a language with
+  C++-like object model",,,,
+cs/0006033,"Verifying Termination and Error-Freedom of Logic Programs with block
+  Declarations",,,,
+cs/0006034,Type Classes and Constraint Handling Rules,,,,
+cs/0007020,Polynomial-time Computation via Local Inference Relations,,,,
+cs/0009029,The Concurrent Language Aldwych,,,,
+cs/0009030,"From Syntactic Theories to Interpreters: A Specification Language and
+  Its Compilation",,,,
+cs/0010008,The Light Lexicographic path Ordering,,,,
+cs/0010009,An Approach to the Implementation of Overlapping Rules in Standard ML,,,,
+cs/0010016,Towards rule-based visual programming of generic visual systems,,,,
+cs/0010028,Sequence-Based Abstract Interpretation of Prolog,,,,
+cs/0010034,Static Analysis Techniques for Equational Logic Programming,,,,
+cs/0011005,Non-intrusive on-the-fly data race detection using execution replay,,,,
+cs/0011006,Execution replay and debugging,,,,
+cs/0011008,"A Lambda-Calculus with letrec, case, constructors and non-determinism",,,,
+cs/0011017,Automatic Debugging Support for UML Designs,,,,
+cs/0011025,"Termination analysis of logic programs using acceptability with general
+  term orders",,,,
+cs/0011027,Extended Abstract - Model-Based Debugging of Java Programs,,,,
+cs/0011036,"Automatic Termination Analysis of Programs Containing Arithmetic
+  Predicates",,,,
+cs/0011043,Rewriting Calculus: Foundations and Applications,,,,
+cs/0012007,"Kima - an Automated Error Correction System for Concurrent Logic
+  Programs",,,,
+cs/0012008,A General Framework for Automatic Termination Analysis of Logic Programs,,,,
+cs/0012012,A brief overview of the MAD debugging activities,,,,
+cs/0101007,"Assertion checker for the C programming language based on computations
+  over event traces",,,,
+cs/0101008,A Knowledge-based Automated Debugger in Learning System,,,,
+cs/0101009,Generation of and Debugging with Logical Pre and Postconditions,,,,
+cs/0101022,"Semantics and Termination of Simply-Moded Logic Programs with Dynamic
+  Scheduling",,,,
+cs/0101023,Properties of Input-Consuming Derivations,,,,
+cs/0101025,Decomposing Non-Redundant Sharing by Complementation,,,,
+cs/0102025,An Effective Fixpoint Semantics for Linear Logic Programs,,,,
+cs/0102030,"Soundness, Idempotence and Commutativity of Set-Sharing",,,,
+cs/0103008,The Limits of Horn Logic Programs,,,,
+cs/0104003,Chain Programs for Writing Deterministic Metainterpreters,,,,
+cs/0105006,"Reverse Engineering from Assembler to Formal Specifications via Program
+  Transformations",,,,
+cs/0105011,Component Programming and Interoperability in Constraint Solver Design,,,,
+cs/0105015,The alldifferent Constraint: A Survey,,,,
+cs/0105020,A Logical Framework for Convergent Infinite Computations,,,,
+cs/0105024,Constraint Propagation in Presence of Arrays,,,,
+cs/0106004,Soft Scheduling,,,,
+cs/0106013,The Set of Equations to Evaluate Objects,,,,
+cs/0106017,An object evaluator to generate flexible applications,,,,
+cs/0106018,Building the access pointers to a computation environment,,,,
+cs/0106021,Object-oriented solutions,,,,
+cs/0106023,Object-oriented tools for advanced applications,,,,
+cs/0106024,Objects and their computational framework,,,,
+cs/0106026,Event Driven Computations for Relational Query Language,,,,
+cs/0106050,Classes of Terminating Logic Programs,,,,
+cs/0106052,Acceptability with general orderings,,,,
+cs/0106053,Inference of termination conditions for numerical loops,,,,
+cs/0107013,The Logic Programming Paradigm and Prolog,,,,
+cs/0107014,Transformations of CCP programs,,,,
+cs/0107022,An interactive semantics of logic programming,,,,
+cs/0109002,Probabilistic asynchronous pi-calculus,,,,
+cs/0109003,On the generalized dining philosophers problem,,,,
+cs/0109024,Verification of Timed Automata Using Rewrite Rules and Strategies,,,,
+cs/0109025,Dynamic Global Constraints: A First View,,,,
+cs/0109033,CLP versus LS on Log-based Reconciliation Problems,,,,
+cs/0109060,Branching: the Essence of Constraint Solving,,,,
+cs/0109072,Higher-Order Pattern Complement and the Strict Lambda-Calculus,,,,
+cs/0110007,"Variable and Value Ordering When Solving Balanced Academic Curriculum
+  Problems",,,,
+cs/0110034,Inference of termination conditions for numerical loops in Prolog,,,,
+cs/0110035,On termination of meta-programs,,,,
+cs/0110037,"Practical Aspects for a Working Compile Time Garbage Collection System
+  for Mercury",,,,
+cs/0111037,User-friendly explanations for constraint programming,,,,
+cs/0111041,"On the Design of a Tool for Supporting the Construction of Logic
+  Programs",,,,
+cs/0111046,HyperPro An integrated documentation environment for CLP,,,,
+cs/0111049,An Environment for the Exploration of Non Monotonic Logic Programs,,,,
+cs/0201011,A Backward Analysis for Constraint Logic Programs,,,,
+cs/0201012,Efficient Groundness Analysis in Prolog,,,,
+cs/0201029,The Witness Properties and the Semantics of the Prolog Cut,,,,
+cs/0202010,Using parametric set constraints for locating errors in CLP programs,,,,
+cs/0202012,Logic program specialisation through partial deduction: Control issues,,,,
+cs/0203006,Composing Programs in a Rewriting Logic for Declarative Programming,,,,
+cs/0203022,Three Optimisations for Sharing,,,,
+cs/0204016,Making Abstract Domains Condensing,,,,
+cs/0204018,A Framework for Datatype Transformation,,,,
+cs/0204031,"A Dynamic Approach to Characterizing Termination of General Logic
+  Programs",,,,
+cs/0205018,Typed Generic Traversal With Term Rewriting Strategies,,,,
+cs/0205026,Monads for natural language semantics,,,,
+cs/0205052,Three-Tiered Specification of Micro-Architectures,,,,
+cs/0207008,Agent Programming with Declarative Goals,,,,
+cs/0207070,"A continuation semantics of interrogatives that accounts for Baker's
+  ambiguity",,,,
+cs/0207076,Introducing Dynamic Behavior in Amalgamated Knowledge Bases,,,,
+cs/0207089,Defining Rough Sets by Extended Logic Programs,,,,
+cs/0208008,Soft Concurrent Constraint Programming,,,,
+cs/0208009,Offline Specialisation in Prolog Using a Hand-Written Compiler Generator,,,,
+cs/0208029,"Logic programming in the context of multiparadigm programming: the Oz
+  experience",,,,
+cs/0208042,Proving correctness of Timed Concurrent Constraint Programs,,,,
+cs/0211019,Schedulers for Rule-based Constraint Programming,,,,
+cs/0212003,"Ownership Confinement Ensures Representation Independence for
+  Object-Oriented Programs",,,,
+cs/0212048,Strategic polymorphism requires just two combinators!,,,,
+cs/0301003,Flavor: A Language for Media Representation,,,,
+cs/0301032,"Subclassing errors, OOP, and practically checkable rules to prevent them",,,,
+cs/0302004,Unique Pattern Matching in Strings,,,,
+cs/0302026,"Recursive function templates as a solution of linear algebra expressions
+  in C++",,,,
+cs/0303021,A Development Calculus for Specifications,,,,
+cs/0306017,Minimum Model Semantics for Logic Programs with Negation-as-Failure,,,,
+cs/0307022,Transformations of Logic Programs with Goals as Arguments,,,,
+cs/0308007,On Applying Or-Parallelism and Tabling to Logic Programs,,,,
+cs/0309003,Model Checking Linear Logic Specifications,,,,
+cs/0309028,cTI: A constraint-based termination inference tool for ISO-Prolog,,,,
+cs/0309045,"A uniform approach to constraint-solving for lists, multisets, compact
+  lists, and sets",,,,
+cs/0310020,Pure Prolog Execution in 21 Rules,,,,
+cs/0311002,Computing Convex Hulls with a Linear Solver,,,,
+cs/0311016,Generic and Efficient Program Monitoring by trace analysis,,,,
+cs/0311023,The Chameleon Type Debugger (Tool Demonstration),,,,
+cs/0311029,Staging Transformations for Multimodal Web Interaction Management,,,,
+cs/0311040,Idempotent I/O for safe time travel,,,,
+cs/0311043,"Combining Logic Programs and Monadic Second Order Logics by Program
+  Transformation",,,,
+cs/0311044,"Derivation of Efficient Logic Programs by Specialization and Reduction
+  of Nondeterminism",,,,
+cs/0312023,"Inferring Termination Conditions for Logic Programs using Backwards
+  Analysis",,,,
+cs/0312026,Speedup of Logic Programs by Binarization and Partial Deduction,,,,
+cs/0312027,An Open Ended Tree,,,,
+cs/0312031,Distributed WWW Programming using (Ciao-)Prolog and the PiLLoW library,,,,
+cs/0401016,Generalized Strong Preservation by Abstract Interpretation,,,,
+cs/0401021,"A correct, precise and efficient integration of set-sharing, freeness
+  and linearity for the analysis of finite and rational tree languages",,,,
+cs/0401022,Enhanced sharing analysis techniques: a comprehensive evaluation,,,,
+cs/0401024,A system for reflection in C++,,,,
+cs/0402043,The UPLNC Compiler: Design and Implementation,,,,
+cs/0402048,Transformation Rules for Locally Stratified Constraint Logic Programs,,,,
+cs/0402058,A Tribute to Alain Colmerauer,,,,
+cs/0403010,Polymorphic lemmas and definitions in Lambda Prolog and Twelf,,,,
+cs/0403011,Specialization of Functional Logic Programs Based on Needed Narrowing,,,,
+cs/0403034,Phantom Types and Subtyping,,,,
+cs/0403037,Schedulers and Redundancy for a Class of Constraint Propagation Rules,,,,
+cs/0404020,A treatment of higher-order features in logic programming,,,,
+cs/0404050,"A General Framework For Lazy Functional Logic Programming With Algebraic
+  Polymorphic Types",,,,
+cs/0404052,Multi-Threading And Message Communication In Qu-Prolog,,,,
+cs/0404053,Constraint Logic Programming with Hereditary Harrop Formula,,,,
+cs/0405075,"Reduction Strategies in Lambda Term Normalization and their Effects on
+  Heap Usage",,,,
+cs/0405079,Higher-Order Concurrent Win32 Programming,,,,
+cs/0405080,Reactive Programming in Standard ML,,,,
+cs/0405082,"Aspects de la Programmation d'Applications Win32 avec un Langage
+  Fonctionnel",,,,
+cs/0405083,The Design of a COM-Oriented Module System,,,,
+cs/0405084,A Framework for Interoperability,,,,
+cs/0405085,On the Expressive Power of First-Order Boolean Functions in PCF,,,,
+cs/0405088,High-Level Networking With Mobile Code And First Order AND-Continuations,,,,
+cs/0405097,A Coalgebraic Approach to Kleene Algebra with Tests,,,,
+cs/0405100,Typing constraint logic programs,,,,
+cs/0405101,Worst-Case Groundness Analysis Using Definite Boolean Functions,,,,
+cs/0405102,A Proof Theoretic Approach to Failure in Functional Logic Programming,,,,
+cs/0406012,Secure Prolog-Based Mobile Code,,,,
+cs/0406014,O(1) Reversible Tree Navigation Without Cycles,,,,
+cs/0406026,Improving Prolog Programs: Refactoring for Prolog,,,,
+cs/0406041,Non-Termination Inference of Logic Programs,,,,
+cs/0406060,"Well-Definedness and Semantic Type-Checking in the Nested Relational
+  Calculus and XQuery",,,,
+cs/0407041,Exploiting Semidefinite Relaxations in Constraint Programming,,,,
+cs/0407043,A Hyper-Arc Consistency Algorithm for the Soft Alldifferent Constraint,,,,
+cs/0407045,The First-Order Theory of Sets with Cardinality Constraints is Decidable,,,,
+cs/0408013,Roles Are Really Great!,,,,
+cs/0408014,Typestate Checking and Regular Graph Constraints,,,,
+cs/0408015,On the Theory of Structural Subtyping,,,,
+cs/0408018,On Role Logic,,,,
+cs/0408019,On Generalized Records and Spatial Conjunction in Role Logic,,,,
+cs/0408023,On Global Warming (Softening Global Constraints),,,,
+cs/0408025,Optimizing compilation of constraint handling rules in HAL,,,,
+cs/0408045,On computing the fixpoint of a set of boolean equations,,,,
+cs/0409009,CrocoPat 2.1 Introduction and Reference Manual,,,,
+cs/0409016,"Using a hierarchy of Domain Specific Languages in complex software
+  systems design",,,,
+cs/0409030,Automatic Generation of CHR Constraint Solvers,,,,
+cs/0409038,Checking modes of HAL programs,,,,
+cs/0410073,On Spatial Conjunction as Second-Order Logic,,,,
+cs/0411016,"Intelligent search strategies based on adaptive Constraint Handling
+  Rules",,,,
+cs/0412012,Jartege: a Tool for Random Generation of Unit Tests for Java Classes,,,,
+cs/0412041,An Efficient and Flexible Engine for Computing Fixed Points,,,,
+cs/0412043,"Widening Operators for Weakly-Relational Numeric Abstractions (Extended
+  Abstract)",,,,
+cs/0501043,"Proving Correctness and Completeness of Normal Programs - a Declarative
+  Approach",,,,
+cs/0501070,Extending Design by Contract for Aspect-Oriented Programming,,,,
+cs/0501073,Optimal Union-Find in Constraint Handling Rules,,,,
+cs/0503015,"A Systematic Aspect-Oriented Refactoring and Testing Strategy, and its
+  Application to JHotDraw",,,,
+cs/0503028,"Stabilization of Cooperative Information Agents in Unpredictable
+  Environment: A Logic Programming Approach",,,,
+cs/0503055,Optimality in Goal-Dependent Analysis of Sharing,,,,
+cs/0503065,Data-Structure Rewriting,,,,
+cs/0503067,Contextual equivalence for higher-order pi-calculus revisited,,,,
+cs/0504050,"Mapping Fusion and Synchronized Hyperedge Replacement into Logic
+  Programming",,,,
+cs/0504051,A Scalable Stream-Oriented Framework for Cluster Applications,,,,
+cs/0505004,Pluggable AOP: Designing Aspect Mechanisms for Third-party Composition,,,,
+cs/0505085,Improving PARMA Trailing,,,,
+cs/0506005,Programming Finite-Domain Constraint Propagators in Action Rules,,,,
+cs/0506035,Fast Recompilation of Object Oriented Modules,,,,
+cs/0506061,Security Policies as Membranes in Systems for Global Computing,,,,
+cs/0507036,Improved Inference for Checking Annotations,,,,
+cs/0507037,Type Inference for Guarded Recursive Data Types,,,,
+cs/0508048,"An Operational Foundation for Delimited Continuations in the CPS
+  Hierarchy",,,,
+cs/0508091,Extending Prolog with Incomplete Fuzzy Information,,,,
+cs/0508106,"An Improved Non-Termination Criterion for Binary Constraint Logic
+  Programs",,,,
+cs/0508108,Proving or Disproving likely Invariants with Constraint Reasoning,,,,
+cs/0508111,"A Generic Framework for the Analysis and Specialization of Logic
+  Programs",,,,
+cs/0508123,On Algorithms and Complexity for Sets with Cardinality Constraints,,,,
+cs/0508129,Temporal Phylogenetic Networks and Logic Programming,,,,
+cs/0509027,Haskell's overlooked object system,,,,
+cs/0509057,Language embeddings that preserve staging and safety,,,,
+cs/0510074,"Practical Datatype Specializations with Phantom Types and Recursion
+  Schemes",,,,
+cs/0511090,Integration of Declarative and Constraint Programming,,,,
+cs/0511092,"The SL synchronous language, revisited",,,,
+cs/0512026,Checking C++ Programs for Dimensional Consistency,,,,
+cs/0512055,"Termination Analysis of General Logic Programs for Moded Queries: A
+  Dynamic Approach",,,,
+cs/0512057,Resource Control for Synchronous Cooperative Threads,,,,
+cs/0512058,Reactive concurrent programming revisited,,,,
+cs/0512096,"Book review ""The Haskell Road to Logic, Maths and Programming""",,,,
+cs/0601003,Incremental copying garbage collection for WAM-based Prolog systems,,,,
+cs/0601013,Forward slicing of functional logic programs by partial evaluation,,,,
+cs/0601019,Canonical Abstract Syntax Trees,,,,
+cs/0601037,"Constraint-based verification of abstract models of multitreaded
+  programs",,,,
+cs/0601038,"Constraint-based automatic verification of abstract models of
+  multithreaded programs",,,,
+cs/0601039,Removing Redundant Arguments Automatically,,,,
+cs/0601051,A Constructive Semantic Characterization of Aggregates in ASP,,,,
+cs/0601071,Constraint Functional Logic Programming over Finite Domains,,,,
+cs/0601072,Fast Frequent Querying with Lazy Control Flow Compilation,,,,
+cs/0602008,Demand Analysis with Partial Predicates,,,,
+cs/0602027,Explaining Constraint Programming,,,,
+cs/0602098,Compositional Semantics for the Procedural Interpretation of Logic,,,,
+cs/0602099,Towards Applicative Relational Programming,,,,
+cs/0603016,Object-Oriented Modeling of Programming Paradigms,,,,
+cs/0603028,On the tree-transformation power of XSLT,,,,
+cs/0603077,"Packrat Parsing: Simple, Powerful, Lazy, Linear Time",,,,
+cs/0603079,A compositional Semantics for CHR,,,,
+cs/0605043,"Continuations, proofs and tests",,,,
+cs/0605104,Parsing Transformative LR(1) Languages,,,,
+cs/0606003,Modeling Aspect Mechanisms: A Top-Down Approach,,,,
+cs/0606019,A synchronous pi-calculus,,,,
+cs/0606072,Relational Parametricity and Control,,,,
+cs/0606094,"On Typechecking Top-Down XML Tranformations: Fixed Input or Output
+  Schemas",,,,
+cs/0607040,PALS: Efficient Or-Parallelism on Beowulf Clusters,,,,
+cs/0607101,Deriving Escape Analysis by Abstract Interpretation: Proofs of results,,,,
+cs/0608015,"Towards ""Propagation = Logic + Control""",,,,
+cs/0608016,ACD Term Rewriting,,,,
+cs/0608030,"On Quasi-Interpretations, Blind Abstractions and Implicit Complexity",,,,
+cs/0608035,Resource Usage Analysis for the Pi-Calculus,,,,
+cs/0608125,"Decidability of Type-checking in the Calculus of Algebraic Constructions
+  with Size Annotations",,,,
+cs/0609002,On the confluence of lambda-calculus with conditional rewriting,,,,
+cs/0609062,Nominal Logic Programming,,,,
+cs/0609092,Analysis of Equality Relationships for Imperative Programs,,,,
+cs/0609104,On Verifying Complex Properties using Symbolic Shape Analysis,,,,
+cs/0610028,Memory and compiler optimizations for low-power and -energy,,,,
+cs/0610062,"A type-based termination criterion for dependently-typed higher-order
+  rewrite systems",,,,
+cs/0610164,Complexity of Data Flow Analysis for Non-Separable Frameworks,,,,
+cs/0611014,Interactive Problem Solving in Prolog,,,,
+cs/0612003,Predicate Abstraction via Symbolic Decision Procedures,,,,
+cs/0612106,On Completeness of Logical Relations for Monadic Types,,,,
+cs/0701031,"On the implementation of construction functions for non-free concrete
+  data types",,,,
+cs/0701081,Fingerprinting Logic Programs,,,,
+cs/0701082,Recurrence with affine level mappings is P-time decidable for CLP(R),,,,
+cs/0701105,A Delta Debugger for ILP Query Execution,,,,
+cs/0701106,On using Tracer Driver for External Dynamic Process Observation,,,,
+cs/0701107,JavaTA: A Logic-based Debugger for Java,,,,
+cs/0701108,"Towards Execution Time Estimation for Logic Programs via Static Analysis
+  and Profiling",,,,
+cs/0701110,A Web-based Tool Combining Different Type Analyses,,,,
+cs/0701111,Some Issues on Incremental Abstraction-Carrying Code,,,,
+cs/0701176,Towards Practical Typechecking for Macro Tree Transducers,,,,
+cs/0701191,The parallel implementation of the Astr\'{e}e static analyzer,,,,
+cs/0701192,The pitfalls of verifying floating-point computations,,,,
+cs/0701193,A Static Analyzer for Large Safety-Critical Software,,,,
+cs/0701195,"An Abstract Monte-Carlo Method for the Analysis of Probabilistic
+  Programs",,,,
+cs/0702027,"The Suspension Calculus and its Relationship to Other Explicit
+  Treatments of Substitution in Lambda Calculi",,,,
+cs/0702072,Logic Programming with Satisfiability,,,,
+cs/0702169,Bistable Biorders: A Sequential Domain Theory,,,,
+cs/0703073,A New Numerical Abstract Domain Based on Difference-Bound Matrices,,,,
+cs/0703074,"Field-Sensitive Value Analysis of Embedded C Programs with Union Types
+  and Pointer Arithmetics",,,,
+cs/0703075,A Few Graph-Based Relational Numerical Abstract Domains,,,,
+cs/0703076,Symbolic Methods to Enhance the Precision of Numerical Abstract Domains,,,,
+cs/0703077,"Relational Abstract Domains for the Detection of Floating-Point Run-Time
+  Errors",,,,
+cs/0703084,The Octagon Abstract Domain,,,,
+cs/9401102,Mini-indexes for literate programs,,,,
+cs/9809008,"Comparing the expressive power of the Synchronous and the Asynchronous
+  pi-calculus",,,,
+cs/9809016,"Scoping Constructs in Logic Programming: Implementation Problems and
+  their Solution",,,,
+cs/9810010,C++ Templates as Partial Evaluation,,,,
+cs/9810013,Early Experience with ASDL in lcc,,,,
+cs/9810018,A Proof Theoretic View of Constraint Programming,,,,
+cs/9811001,A Polymorphic Groundness Analysis of Logic Programs,,,,
+cs/9811012,"Deriving Abstract Semantics for Forward Analysis of Normal Logic
+  Programs",,,,
+cs/9811021,"Automatic Hardware Synthesis for a Hybrid Reconfigurable CPU Featuring
+  Philips CPLDs",,,,
+cs/9901006,Object Oriented and Functional Programming for Symbolic Manipulation,,,,
+cs/9901007,Universal Object Oriented Languages and Computer Algebra,,,,
+cs/9903014,"Perpetual Adaptation of Software to Hardware: An Extensible Architecture
+  for Providing Code Optimization as a Central System Service",,,,
+cs/9906013,Combining Inclusion Polymorphism and Parametric Polymorphism,,,,
+cs/9907027,"The Alma Project, or How First-Order Logic Can Help Us in Imperative
+  Programming",,,,
+cs/9909009,The Rough Guide to Constraint Propagation,,,,
+cs/9909010,"Automatic Generation of Constraint Propagation Algorithms for Small
+  Finite Domains",,,,
+math/0607462,De l'oprateur de trace dans les jeux de Conway,,,,
+math/9810022,Active Libraries: Rethinking the roles of compilers and libraries,,,,

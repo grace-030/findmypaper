@@ -1,0 +1,141 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+cs/9908014,An Introduction to Collective Intelligence,9.09495133914865e-06,5.7715299899642086e-05,12.0,5.0
+cond-mat/0601021,Characterizing correlations of flow oscillations at bottlenecks,6.595868685722698e-06,0.0,5.0,0.0
+nlin/0609033,Fame Emerges as a Result of Small Memory,6.562222645108905e-06,0.0,4.0,0.0
+cs/9912012,Avoiding Braess' Paradox through Collective Intelligence,5.252326499503554e-06,0.0,2.0,0.0
+physics/0510117,Modeling bursts and heavy tails in human dynamics,4.6550580227754655e-06,0.0,5.0,3.0
+cs/0511011,The Impact of Social Networks on Multi-Agent Recommender Systems,3.929929438147267e-06,0.0,1.0,0.0
+nlin/0211013,A Spin Glass Model of Human Logic Systems,3.589408331622433e-06,7.960731020640288e-06,1.0,1.0
+nlin/0411063,"Detecting synchronization in spatially extended discrete systems by
+  complexity measurements",3.3749066596554898e-06,0.0,1.0,0.0
+cs/9912011,Adaptivity in Agent-Based Routing for Data Networks,2.902659663719872e-06,0.0,1.0,0.0
+cs/0306119,A Method for Solving Distributed Service Allocation Problems,2.902659663719872e-06,0.0,1.0,0.0
+cs/0511012,"Parameters Affecting the Resilience of Scale-Free Networks to Random
+  Failures",2.598039282245321e-06,1.990182755160072e-06,1.0,1.0
+cs/0410005,A dynamical model of a GRID market,2.587952801650048e-06,0.0,1.0,0.0
+cs/0603020,Reasoning About Knowledge of Unawareness,2.4711431321721443e-06,0.0,1.0,1.0
+cs/0702068,"Distributed Decision Through Self-Synchronizing Sensor Networks in the
+  Presence of Propagation Delays and Nonreciprocal Channels",2.4711431321721443e-06,0.0,1.0,0.0
+cs/0608057,Hybrid Elections Broaden Complexity-Theoretic Resistance to Control,2.4711431321721443e-06,0.0,1.0,0.0
+cs/0703097,"On Approximating Optimal Weighted Lobbying, and Frequency of Correctness
+  versus Average-Case Polynomial Time",2.4711431321721443e-06,0.0,1.0,0.0
+nlin/0611044,"Why the Maxwellian Distribution is the Attractive Fixed Point of the
+  Boltzmann Equation",2.4711431321721443e-06,0.0,1.0,0.0
+cs/9905005,General Principles of Learning-Based Multi-Agent Systems,2.418492420972594e-06,0.0,2.0,1.0
+cs/9905003,Collective Choice Theory in Collaborative Computing,2.120978933487838e-06,0.0,1.0,0.0
+cs/9908013,Collective Intelligence for Control of Distributed Dynamical Systems,2.111630434508683e-06,0.0,4.0,0.0
+cs/0006030,Multiagent Control of Self-reconfigurable Robots,1.8950380516170012e-06,0.0,1.0,3.0
+cs/0612014,Going Stupid with EcoLab,1.8950380516170012e-06,0.0,1.0,0.0
+cs/0404002,Mathematical Analysis of Multi-Agent Systems,1.8536302793458448e-06,0.0,1.0,0.0
+cs/0611111,Distributed Control of Microscopic Robots in Biomedical Applications,1.8536302793458448e-06,0.0,1.0,0.0
+cs/0604110,Modeling and Mathematical Analysis of Swarms of Microscopic Robots,1.8536302793458448e-06,0.0,1.0,0.0
+cond-mat/0307630,Product Distribution Field Theory,1.8017064855899449e-06,1.3921377879378414e-05,1.0,4.0
+cond-mat/0402508,"Information Theory - The Bridge Connecting Bounded Rational Game Theory
+  and Statistical Physics",1.744402721345843e-06,5.960646858738125e-06,1.0,2.0
+cs/0403012,Distributed Control by Lagrangian Steepest Descent,1.744402721345843e-06,0.0,1.0,0.0
+cs/0604075,Naming Games in Spatially-Embedded Random Networks,1.7364757480054112e-06,0.0,1.0,1.0
+cs/0612012,Geographic Gossip on Geometric Random Graphs via Affine Combinations,1.703003024765287e-06,0.0,1.0,0.0
+math/0301268,Improving Search Algorithms by Using Intelligent Coordinates,1.60698551133943e-06,0.0,1.0,0.0
+cs/0508029,Selfish vs. Unselfish Optimization of Network Creation,1.5513666970506823e-06,0.0,1.0,0.0
+cond-mat/0301459,Collectives for the Optimal Combination of Imperfect Objects,1.521436557250164e-06,0.0,1.0,0.0
+physics/0511201,Strategies for fast convergence in semiotic dynamics,1.446956322296335e-06,0.0,1.0,3.0
+physics/0512045,Topology Induced Coarsening in Language Games,1.446956322296335e-06,0.0,1.0,0.0
+cond-mat/0606125,Microscopic activity patterns in the Naming Game,1.446956322296335e-06,0.0,1.0,1.0
+nlin/0211010,Evolution and anti-evolution in a minimal stock market model,1.3521148086954738e-06,0.0,1.0,0.0
+cs/0407021,"Multi-agent coordination using nearest neighbor rules: revisiting the
+  Vicsek model",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0506092,"Emergent Statistical Wealth Distributions in Simple Monetary Exchange
+  Models: A Critical Review",1.3189329710618589e-06,0.0,0.0,1.0
+cs/0609112,A Richer Understanding of the Complexity of Election Systems,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0401026,EcoLab: Agent Based Modeling for C++ programmers,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0404013,Tycoon: A Distributed Market-based Resource Allocation System,1.3189329710618589e-06,0.0,0.0,1.0
+physics/0509075,Sharp transition towards shared vocabularies in multi-agent systems,1.3189329710618589e-06,0.0,0.0,9.0
+nlin/0411066,Self-Organizing Traffic Lights,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0611717,Non-equilibrium phase transition in negotiation dynamics,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0507027,Anyone but Him: The Complexity of Precluding an Alternative,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0502081,"Tables, Memorized Semirings and Applications",1.3189329710618589e-06,0.0,0.0,1.0
+physics/0602033,Community Structure in the United States House of Representatives,1.3189329710618589e-06,0.0,0.0,2.0
+cs/0501092,Multi-Vehicle Cooperative Control Using Mixed Integer Linear Programming,1.3189329710618589e-06,0.0,0.0,1.0
+cs/0105025,Market-Based Reinforcement Learning in Partially Observable Worlds,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0109121,Coordination of Decisions in a Spatial Agent Model,,,,
+cond-mat/0410594,A model of student's dilemma,,,,
+cs/0001008,"Predicting the expected behavior of agents that learn about agents: the
+  CLRI framework",,,,
+cs/0003014,Applying Maxi-adjustment to Adaptive Information Filtering Agents,,,,
+cs/0012004,Improving Performance of heavily loaded agents,,,,
+cs/0102011,A Price Dynamics in Bandwidth Markets for Point-to-point Connections,,,,
+cs/0105032,Learning to Cooperate via Policy Search,,,,
+cs/0106054,"Software Toolkit for Building Embedded and Distributed Knowledge-based
+  Systems",,,,
+cs/0108008,"Using Methods of Declarative Logic Programming for Intelligent
+  Information Agents",,,,
+cs/0201016,A computer scientist looks at game theory,,,,
+cs/0203012,Interface agents: A review of the field,,,,
+cs/0203021,"NetNeg: A Connectionist-Agent Integrated System for Representing Musical
+  Knowledge",,,,
+cs/0205066,Effectiveness of Preference Elicitation in Combinatorial Auctions,,,,
+cs/0205073,Vote Elicitation: Complexity and Strategy-Proofness,,,,
+cs/0205074,Complexity Results about Nash Equilibria,,,,
+cs/0205075,Complexity of Mechanism Design,,,,
+cs/0207022,What is a Joint Goal? Games with Beliefs and Defeasible Desires,,,,
+cs/0210023,Geometric Aspects of Multiagent Systems,,,,
+cs/0210030,Intelligence and Cooperative Search by Coupled Local Minimizers,,,,
+cs/0307002,"AWESOME: A General Multiagent Learning Algorithm that Converges in
+  Self-Play and Learns a Best Response Against Stationary Opponents",,,,
+cs/0307003,How many candidates are needed to make elections hard to manipulate?,,,,
+cs/0307006,BL-WoLF: A Framework For Loss-Bounded Learnability In Zero-Sum Games,,,,
+cs/0307016,Complexity of Determining Nonemptiness of the Core,,,,
+cs/0307018,Universal Voting Protocol Tweaks to Make Manipulation Hard,,,,
+cs/0308028,Finding Traitors in Secure Networks Using Byzantine Agreements,,,,
+cs/0308030,"Learning in Multiagent Systems: An Introduction from a Game-Theoretic
+  Perspective",,,,
+cs/0402042,Anonymity and Information Hiding in Multiagent Systems,,,,
+cs/0412104,Negotiating over Bundles and Prices Using Aggregate Knowledge,,,,
+cs/0412106,"Online Learning of Aggregate Knowledge about Non-linear Preferences
+  Applied to Negotiating Prices and Bundles",,,,
+cs/0501036,Enabling Agents to Dynamically Select Protocols for Interactions,,,,
+cs/0503028,"Stabilization of Cooperative Information Agents in Unpredictable
+  Environment: A Logic Programming Approach",,,,
+cs/0504075,Dichotomy for Voting Systems,,,,
+cs/0504108,"Cooperative Game Theory within Multi-Agent Systems for Systems
+  Scheduling",,,,
+cs/0508028,Truth-telling Reservations,,,,
+cs/0508032,"Polymorphic Self-* Agents for Stigmergic Fault Mitigation in Large-Scale
+  Real-Time Embedded Systems",,,,
+cs/0509017,Traders imprint themselves by adaptively updating their own avatar,,,,
+cs/0509061,"Guarantees for the Success Frequency of an Algorithm for Finding
+  Dodgson-Election Winners",,,,
+cs/0510089,Automata-based adaptive behavior for economic modeling using game theory,,,,
+cs/0604078,"The emergence of knowledge exchange: an agent-based model of a software
+  market",,,,
+cs/0604111,Analysis of Dynamic Task Allocation in Multi-Robot Systems,,,,
+cs/0605070,Curve Shortening and the Rendezvous Problem for Mobile Autonomous Robots,,,,
+cs/0605132,Stable partitions in coalitional games,,,,
+cs/0608081,How Hard Is Bribery in Elections?,,,,
+cs/0609041,"Primitive operations for the construction and reorganization of
+  minimally persistent formations",,,,
+cs/0610093,Semantic results for ontic and epistemic change,,,,
+cs/0610098,Characterizing Solution Concepts in Games Using Knowledge-Based Programs,,,,
+cs/0610113,"CHAC. A MOACO Algorithm for Computation of Bi-Criteria Military Unit
+  Path in the Battlefield",,,,
+cs/0701077,Asynchronous Distributed Searchlight Scheduling,,,,
+cs/0702091,Observable Graphs,,,,
+cs/0702097,Avoiding bias in cards cryptography,,,,
+cs/0703087,Social Information Processing in Social News Aggregation,,,,
+cs/0703133,Computing Good Nash Equilibria in Graphical Games,,,,
+cs/9809034,Semantics and Conversations for an Agent Communication Language,,,,
+cs/9809108,Learning Nested Agent Models in an Information Economy,,,,
+cs/9810005,Anytime Coalition Structure Generation with Worst Case Guarantees,,,,
+cs/9812014,An Adaptive Agent Oriented Software Architecture,,,,
+cs/9902006,A Discipline of Evolutionary Programming,,,,
+cs/9903017,"SIMMUNE, a tool for simulating and analyzing immune system behavior",,,,
+math-ph/0211067,"Method of Additional Structures on the Objects of a Monoidal Kleisli
+  Category as a Background for Information Transformers Theory",,,,
+math/0112216,Classification of Finite Dynamical Systems,,,,
+math/0602171,"Preference fusion when the number of alternatives exceeds two: indirect
+  scoring procedures",,,,
+math/0602522,Characterizations of scoring methods for preference aggregation,,,,
+math/0602552,From Incomplete Preferences to Ranking via Optimization,,,,
+nlin/0505043,"A network analysis of committees in the United States House of
+  Representatives",,,,
+nlin/0703036,Statistical User Model for the Internet Access,,,,
