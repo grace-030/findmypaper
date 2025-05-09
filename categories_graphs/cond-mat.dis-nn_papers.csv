@@ -1,0 +1,1429 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+math-ph/0703019,"Integrable Structure of Ginibre's Ensemble of Real Random Matrices and a
+  Pfaffian Integration Theorem",9.689213738909653e-05,0.0,2.0,0.0
+cond-mat/0611707,Universality class of 3D site-diluted and bond-diluted Ising systems,7.599698137996484e-05,0.0,26.0,0.0
+cond-mat/0601278,Synchronization in Small-World-Connected Computer Networks,7.232840378709774e-05,1.0269392641045748e-05,70.0,2.0
+cond-mat/0612656,Dynamic crossover in the global persistence at criticality,5.645178383003461e-05,0.0,1.0,0.0
+cond-mat/0611346,"Functional Renormalization for Disordered Systems, Basic Recipes and
+  Gourmet Dishes",5.114427728932098e-05,0.0,26.0,0.0
+cond-mat/0104072,"""Single Ring Theorem"" and the Disk-Annulus Phase Transition",4.2616322036767295e-05,1.990182755160072e-06,51.0,1.0
+cond-mat/0109126,Replica treatment of non-Hermitian disordered Hamiltonians,4.17905961596307e-05,0.0,5.0,0.0
+cond-mat/0303207,Developments in Random Matrix Theory,4.160142971296562e-05,0.0010170513923027,42.0,3.0
+cond-mat/0606211,Thermodynamic formalism for systems with Markov dynamics,4.068421786170623e-05,7.903778890706461e-06,25.0,4.0
+physics/0505008,Socioeconomic development and stability: A complex network blueprint,3.870907628082788e-05,0.0,29.0,0.0
+cond-mat/0207421,Phase transitions in two-dimensional random Potts models,3.654197011093791e-05,2.133435697103564e-06,28.0,6.0
+cond-mat/0701301,"Extreme fluctuations in noisy task-completion landscapes on scale-free
+  networks",3.565338323427106e-05,6.70401529035815e-06,4.0,1.0
+cond-mat/0303516,The structure and function of complex networks,3.512526677791997e-05,6.795209096651202e-05,38.0,36.0
+cond-mat/0502448,Strong disorder RG approach of random systems,3.50097337546642e-05,1.238725217320899e-05,22.0,6.0
+cond-mat/0408048,"Thermal fluctuations in pinned elastic systems: field theory of rare
+  events and droplets",3.3395164989500206e-05,6.612199145938859e-07,35.0,5.0
+cond-mat/0211279,"Level-spacing distributions of the Gaussian unitary random matrix
+  ensemble",3.3203834518309376e-05,1.85458491867262e-07,11.0,1.0
+cond-mat/0409486,"The O(n) Model in the $n\to 0$ Limit (self-avoiding-walks) and
+  Logarithmic Conformal Field Theory",3.2098257880810405e-05,0.0,34.0,0.0
+cond-mat/0612654,Diffusion Poles and the Anderson Transition,3.139855362288937e-05,0.0,8.0,0.0
+cond-mat/0406334,Ma-Dasgupta renormalization studies of various disordered systems,2.958504323526104e-05,0.0,16.0,0.0
+cond-mat/0311029,Disorder effects in diluted magnetic semiconductors,2.943748797924349e-05,0.0,26.0,0.0
+cond-mat/0702244,"Extreme value problems in Random Matrix Theory and other disordered
+  systems",2.92699411975186e-05,0.0,13.0,0.0
+hep-th/0411030,"Unquenched QCD Dirac Operator Spectra at Nonzero Baryon Chemical
+  Potential",2.8302922308024897e-05,1.844147736739832e-05,72.0,14.0
+cond-mat/0212140,"Energy spectra and eigenstates of quasiperiodic tight-binding
+  Hamiltonians",2.7352795048055272e-05,0.0,23.0,2.0
+cond-mat/0111519,"Dynamics and Configurational Entropy in the LW Model for Supercooled
+  Orthoterphenyl",2.5688455859278445e-05,1.990182755160072e-06,9.0,1.0
+cond-mat/0606728,The random-anisotropy model in the strong-anisotropy limit,2.5154923596902168e-05,0.0,13.0,0.0
+cond-mat/0505185,Characterization of complex networks: A survey of measurements,2.5059551597593083e-05,1.4078208441774217e-05,17.0,16.0
+cond-mat/9906076,"Replica Symmetry Breaking in Short-Range Spin Glasses: Theoretical
+  Foundations and Numerical Evidences",2.503206055436889e-05,0.0004210568423318,42.0,15.0
+cond-mat/0110013,"Superconductivity in an Exactly Solvable Model of the Pseudogap State:
+  Absence of Self Averaging",2.441388687247509e-05,1.7657697122109094e-06,14.0,1.0
+cond-mat/0606320,"High-temperature series for the bond-diluted Ising model in 3, 4 and 5
+  dimensions",2.301055856574168e-05,2.187460839906536e-06,18.0,2.0
+cond-mat/0311378,"Exact multi-electronic electron-concentration dependent ground-states
+  for disordered two-dimensional two-band systems in presence of disordered
+  hoppings and finite on-site random interactions",2.2756710727846923e-05,0.0,9.0,0.0
+cond-mat/0412448,"Maximal planar networks with large clustering coefficient and power-law
+  degree distribution",2.229395874726417e-05,7.646721809353703e-06,18.0,1.0
+cond-mat/0701116,"Growing dynamical length, scaling and heterogeneities in the 3d
+  Edwards-Anderson model",2.19164578137828e-05,0.0,14.0,0.0
+hep-lat/0306002,Localization in Lattice QCD,2.160560080457869e-05,9.743516915135006e-06,61.0,35.0
+cond-mat/0603657,On the number of circuits in random graphs,2.104337050928349e-05,3.974177131106338e-06,9.0,2.0
+cond-mat/0202039,Potential Energy Landscape Equation of State,2.0952757277903944e-05,0.0,1.0,0.0
+cond-mat/0605470,"Quasi-stationary criticality of the Order-Parameter of the d=3
+  Random-Field Ising Antiferromagnet Fe(0.85)Zn(0.15)F2: A Synchrotron X-ray
+  Scattering Study",2.0708131140352245e-05,0.0,5.0,0.0
+physics/0612121,Identifying Complex Networks by Random Walks,2.0421446037104837e-05,0.0,5.0,0.0
+cond-mat/0612537,Dynamics of neural cryptography,2.0315275813224955e-05,0.0,12.0,0.0
+cond-mat/0603350,The number of matchings in random graphs,2.025414237535378e-05,0.0,7.0,3.0
+cond-mat/0111090,"Finite-Size Scaling of the Level Compressibility at the Anderson
+  Transition",1.9565028480083438e-05,0.0,25.0,0.0
+cond-mat/0609617,Electron transport in disordered graphene,1.945074982314684e-05,5.175066286709832e-06,23.0,4.0
+cond-mat/0610817,3D Ising and other models from symplectic fermions,1.9078973286099785e-05,2.9991605912269505e-06,13.0,2.0
+cond-mat/0208182,"Scaling, domains, and states in the four-dimensional random field Ising
+  magnet",1.8320222325008112e-05,5.970548265480216e-06,19.0,2.0
+cond-mat/0602257,"Quantum Adiabatic Evolution Algorithm and Quantum Phase Transition in
+  3-Satisfiability Problem",1.819848450441023e-05,0.0,5.0,0.0
+cond-mat/0610744,"Anderson transition: numerical vs analytical results (comment on the
+  review article by P.Markos cond-mat/0609580)",1.817190183023184e-05,7.4260550565674335e-09,8.0,1.0
+cond-mat/0604124,"Critical behavior of the random-anisotropy model in the
+  strong-anisotropy limit",1.8102826575201477e-05,1.2485958035171297e-07,31.0,1.0
+cond-mat/9906378,"Critical exponents of random XX and XY chains: Exact results via random
+  walks",1.8077420265978163e-05,1.990182755160072e-06,3.0,1.0
+cond-mat/0501199,"Functional Renormalization for pinned elastic systems away from their
+  steady states",1.7971458406451664e-05,5.574732161871437e-06,5.0,4.0
+cond-mat/0001358,"Universal Statistics of Inviscid Burgers Turbulence in Arbitrary
+  Dimensions",1.7841562734964774e-05,0.0,11.0,0.0
+cond-mat/0301630,"Quantum interference in nested d-wave superconductors: a real-space
+  perspective",1.7812825051455674e-05,2.815350623619081e-06,4.0,2.0
+cond-mat/0211106,Hiking through glassy phases: physics beyond aging,1.7802015936342483e-05,7.131679552509473e-06,9.0,4.0
+cond-mat/0605211,"On the identification of quasiprimary scaling operators in local
+  scale-invariance",1.7787453247073704e-05,5.803640459193826e-06,2.0,6.0
+cond-mat/0607498,"Ising spin glass models versus Ising models: an effective mapping at
+  high temperature I. General result",1.7397478827716036e-05,1.990182755160072e-06,2.0,1.0
+cond-mat/0211446,Ising model on 3D random lattices: A Monte Carlo study,1.738557575303258e-05,0.0,15.0,0.0
+cond-mat/9904280,"Random quantum magnets with long-range correlated disorder: Enhancement
+  of critical and Griffiths-McCoy singularities",1.7265941840436538e-05,0.0,3.0,1.0
+cond-mat/0509012,"Scaling Invariance in Spectra of Complex Networks: A Diffusion Factorial
+  Moment Approach",1.717280706880739e-05,1.1139082584851151e-08,6.0,1.0
+cond-mat/0312327,Aging Dynamics of the Heisenberg Spin Glass,1.712723597740542e-05,1.165014905160354e-05,5.0,4.0
+cond-mat/0510563,"Influence Functional for Decoherence of Interacting Electrons in
+  Disordered Conductors",1.7106545009149605e-05,3.980365510320144e-06,17.0,7.0
+cond-mat/0411656,"Supersymmetry Breaking in Disordered Systems and Relation to Functional
+  Renormalization and Replica-Symmetry Breaking",1.7084871748352633e-05,0.0,14.0,1.0
+cond-mat/9910431,Mode-coupling theory for heteropolymers,1.68877474561246e-05,3.965513400207009e-06,5.0,2.0
+q-bio/0503041,"Morphological complex networks: Can individual morphology determine the
+  general connectivity and dynamics of networks?",1.656017445778808e-05,2.91766361054897e-06,16.0,2.0
+cond-mat/0106096,Statistical mechanics of complex networks,1.654360914784671e-05,0.0001718433929188,41.0,69.0
+cond-mat/0404223,"Thermal conduction of one-dimensional isotopically disordered harmonic
+  lattice",1.648207859927941e-05,0.0,2.0,0.0
+cond-mat/0501252,Strength Distribution in Derivative Networks,1.637582086900839e-05,0.0,11.0,0.0
+cond-mat/0504681,A Crash Course on Aging,1.624672866680453e-05,0.0,4.0,0.0
+cond-mat/0703080,"Microwave photoconductivity of a 2D electron gas: Mechanisms and their
+  interplay at high radiation power",1.616694673570563e-05,0.0,8.0,0.0
+cond-mat/0402627,Energy size effects of two-dimensional Ising spin glasses,1.6056402309857544e-05,0.0,13.0,0.0
+cond-mat/9909289,"Thermodynamic chaos and infinitely many critical exponents in the
+  Baxter-Wu model",1.593682615331487e-05,0.0,6.0,0.0
+cond-mat/0510556,"Decoherence in weak localization I: Pauli principle in influence
+  functional",1.5862350892783696e-05,3.980365510320144e-06,19.0,3.0
+cond-mat/0510438,Some applications of recent theories of disordered systems,1.577277849487592e-05,0.0,13.0,0.0
+cond-mat/0311235,"Inelastically scattering particles and wealth distribution in an open
+  economy",1.565502104796302e-05,8.085613237960267e-05,25.0,5.0
+cond-mat/0207273,Temperature shifts in the Sinai model: static and dynamical effects,1.5628252763012777e-05,2.4272591384894693e-06,13.0,3.0
+cond-mat/0211082,"Limit order market analysis and modelling: on an universal cause for
+  over-diffusive prices",1.5594606851532255e-05,0.0,13.0,0.0
+cond-mat/0211590,"Quantum interference effect on the density of states in disordered
+  d-wave superconductors",1.551546694323288e-05,4.5490199241316e-06,4.0,1.0
+cond-mat/0504750,"Fluctuation theorem for non-equilibrium relaxational systems driven by
+  external forces",1.542367257626719e-05,3.858435685060224e-06,7.0,3.0
+cond-mat/0310100,Critical properties of the three- and four-dimensional gauge glass,1.5204597022536784e-05,1.36403318067636e-05,13.0,1.0
+cond-mat/0110363,Statistical Physics of the Glass Phase,1.5133168888446596e-05,5.664550867977796e-05,28.0,3.0
+cond-mat/0703466,Local scale-invariance in disordered systems,1.5012465513101006e-05,2.2373371003760853e-08,7.0,1.0
+cond-mat/0504082,Dynamical scaling in Ising and vector spin glasses,1.4973086966979024e-05,0.0,8.0,0.0
+cond-mat/9911221,"Universality and multifractal behaviour of spin-spin correlation
+  functions in disordered Potts models",1.4880572650910818e-05,2.0962652375401166e-06,10.0,2.0
+cond-mat/0503750,"The Landau-Lifshitz/Looyenga dielectric mixture expression and its
+  self-similar fractal nature",1.4789824897991052e-05,0.0,6.0,0.0
+physics/0510239,An evolving network model with community structure,1.4585835643181208e-05,0.0,10.0,0.0
+cond-mat/0610639,"Quantum critical spin liquids and conformal field theory in 2+1
+  dimensions",1.4541925164453107e-05,2.966168923860256e-07,9.0,2.0
+quant-ph/9907009,The importance of quantum decoherence in brain processes,1.438953358328472e-05,9.920160359714877e-06,16.0,9.0
+cond-mat/0611715,"Numerical evidence for relevance of disorder in a Poland-Scheraga DNA
+  denaturation model with self-avoidance: Scaling behavior of average
+  quantities",1.4282212440432694e-05,1.9976088102166394e-06,8.0,1.0
+cond-mat/0605120,Anchored Critical Percolation Clusters and 2-D Electrostatics,1.4240217175715389e-05,0.0,13.0,0.0
+cond-mat/0512004,Euclidean random matrices: solved and open problems,1.4238996129349766e-05,0.0,13.0,0.0
+cond-mat/0703527,Entanglement entropy in aperiodic singlet phases,1.4200997883692864e-05,0.0,7.0,0.0
+cond-mat/0612523,Replica symmetric spin glass field theory,1.4093507851222591e-05,0.0,12.0,0.0
+cond-mat/0411291,Dynamical breakdown of the Ising spin-glass order under a magnetic field,1.4092046663326464e-05,1.9976088102166394e-06,2.0,3.0
+cond-mat/0510681,"Scaling Invariance in Wave Functions of Quantum Systems on Complex
+  Networks",1.4054997627244811e-05,0.0,4.0,0.0
+cond-mat/0701216,"How to calculate the fractal dimension of a complex network: the box
+  covering algorithm",1.3966035994471294e-05,0.0,3.0,0.0
+cond-mat/0605676,"Exploring self-similarity of complex cellular networks: The
+  edge-covering method with simulated annealing and log-periodic sampling",1.395688152456577e-05,1.990182755160072e-06,2.0,1.0
+cond-mat/0005173,First Steps in Glass Theory,1.3819535351954446e-05,7.491920571854901e-06,22.0,7.0
+cond-mat/0412638,"Static properties of the dissipative random quantum Ising ferromagnetic
+  chain",1.3803934962616058e-05,3.2042166611527225e-06,3.0,1.0
+cond-mat/0411528,The so-called two dimensional metal-insulator transition,1.3802097483145036e-05,1.0985616515242533e-05,8.0,7.0
+cond-mat/0206035,Energy dynamics in the Sinai model,1.3787559667672278e-05,2.000207929486438e-06,9.0,2.0
+cond-mat/0508042,"Disordered ultracold atomic gases in optical lattices: A case study of
+  Fermi-Bose mixtures",1.3709510642684836e-05,4.843785215223402e-05,21.0,4.0
+hep-th/0207273,"The Neveu-Schwarz and Ramond Algebras of Logarithmic Superconformal
+  Field Theory",1.3683137127510836e-05,1.9335388238649914e-06,50.0,9.0
+physics/0205030,Thinking about the brain,1.34689317241518e-05,0.0,16.0,5.0
+cond-mat/0406682,"Diluted models in statistical mechanics: Out of equilibrium dynamics and
+  optimization algorithms",1.3460446708778158e-05,0.0,8.0,0.0
+cond-mat/0312338,"Broad relaxation spectrum and the field theory of glassy dynamics for
+  pinned elastic systems",1.3459132927488952e-05,2.416661195406314e-06,10.0,5.0
+chao-dyn/9804045,Macroscopic chaos in globally coupled maps,1.3423803402703878e-05,0.0,3.0,1.0
+cond-mat/0205644,Universality classes in nonequilibrium lattice systems,1.3378100647073986e-05,0.0002637749231547,20.0,26.0
+cond-mat/0603819,Sudden emergence of q-regular subgraphs in random graphs,1.3362932187697617e-05,0.0,3.0,1.0
+physics/0509078,Minority Games with heterogeneous timescales,1.3293422724972802e-05,0.0,10.0,0.0
+cond-mat/0501656,"Effect of nonmagnetic disorder on criticality in the ""dirty"" U(1) spin
+  liquid",1.3070200289907805e-05,4.082827031100637e-08,5.0,1.0
+cond-mat/0406750,Unusual localisation effects in quantum percolation,1.3018323913790416e-05,0.0,9.0,0.0
+cond-mat/0512019,Coupled logistic maps and non-linear differential equations,1.3007407643066008e-05,0.0,3.0,0.0
+cond-mat/0503108,"Extremal noise events, intermittency and Log-Poisson statistics in
+  non-equilibrium aging of complex systems",1.2917239994728224e-05,0.0,4.0,0.0
+cond-mat/0212490,"Violation of the fluctuation-dissipation theorem in glassy systems:
+  basic notions and the numerical evidence",1.2824278033577968e-05,1.4966450841774836e-05,10.0,17.0
+cond-mat/0111172,Zero Temperature Properties of RNA Secondary Structures,1.2776791735726514e-05,1.5271967912557248e-06,4.0,1.0
+cond-mat/0209333,Chaos in temperature in the Sherrington-Kirkpatrick model,1.2750845870404836e-05,1.4250953275222266e-07,4.0,3.0
+cond-mat/0103393,Singular Fermi Liquids,1.2726619636650874e-05,0.0006815005067211,22.0,16.0
+physics/0701089,"On the Separability of Attractors in Grandmother Dynamic Systems with
+  Structured Connectivity",1.2685636130691484e-05,0.0,14.0,0.0
+cond-mat/0009378,Disorder and Two-Particle Interaction in Low-Dimensional Quantum Systems,1.2650082626560288e-05,0.0,13.0,0.0
+cond-mat/0410019,"Disorder induced transitions in layered Coulomb gases and application to
+  flux lattices in superconductors",1.2596714499712457e-05,0.0,7.0,0.0
+cond-mat/0401506,Heterogeneities and local fluctuations in glassy systems,1.258958586152862e-05,2.403382485049872e-06,10.0,2.0
+cond-mat/0607518,"Ising spin glass models versus Ising models: an effective mapping at
+  high temperature II. Applications to graphs and networks",1.2568762062682773e-05,0.0,1.0,0.0
+cond-mat/0504411,Disorder-Driven Non-Fermi Liquid Behavior of Correlated Electrons,1.2546101215251791e-05,2.271502762133356e-06,8.0,1.0
+cond-mat/0702545,The classical granular temperature and slightly beyond,1.2520039875220534e-05,0.0,3.0,1.0
+cond-mat/0412674,"""Glassy Dynamics"" in Ising Spin Glasses -- Experiment and Simulation",1.2512527517332296e-05,3.018909133253224e-06,5.0,1.0
+cond-mat/0312712,Expanded Complex Networks and their Percolations,1.2506403060796802e-05,2.016173947858058e-06,9.0,5.0
+gr-qc/0110077,A Geometric Renormalisation Group in Discrete Quantum Space-Time,1.2503884063121646e-05,1.2623636309545045e-06,24.0,5.0
+cond-mat/0408557,"Plateaux formation, abrupt transitions, and fractional states in a
+  competitive population with limited resources",1.2462874402113052e-05,3.297168445115952e-06,6.0,3.0
+cond-mat/0402037,"Correlation Length of the Two-Dimensional Ising Spin Glass with Gaussian
+  Interactions",1.2455066335474511e-05,9.958339830856928e-06,16.0,2.0
+cond-mat/0602337,Discrete Scale Invariance in Scale Free Graphs,1.2445434809102769e-05,3.980365510320144e-06,13.0,1.0
+cond-mat/0011335,"Delocalization effects and charge reorganizations induced by repulsive
+  interactions in strongly disordered chains",1.24453228181355e-05,3.980365510320144e-06,7.0,2.0
+cond-mat/0407347,"Inhomogeneity-induced second-order phase transitions in Potts model on
+  hierarchical lattices",1.2390133913282386e-05,0.0,5.0,0.0
+cond-mat/0109316,Keldysh and Doi-Peliti Techniques for out-of-Equilibrium Systems,1.2346316403476212e-05,0.0002685013612671,7.0,17.0
+cond-mat/0510557,"Decoherence in weak localization II: Bethe-Salpeter calculation of
+  Cooperon",1.2318417375521046e-05,7.960731020640288e-06,7.0,4.0
+cond-mat/0203560,Low temperature nonequilibrium dynamics in transverse Ising spin glass,1.2300251809722715e-05,0.0,8.0,0.0
+physics/0007070,"Predictability, complexity and learning",1.226015183387453e-05,0.0,20.0,10.0
+cond-mat/0303377,Exact analytical expression for magnetoresistance using quantum groups,1.2205976657327576e-05,0.0,4.0,0.0
+cond-mat/0703164,Non-equilibrium dynamics of spin facilitated glass models,1.2184447197955242e-05,0.0,9.0,0.0
+cond-mat/0509600,"Fickian crossover and lengthscales from two point functions in
+  supercooled liquids",1.2171150950115017e-05,0.0,3.0,0.0
+cond-mat/0012415,Dynamics in a supercooled molecular liquid: Theory and Simulations,1.2069990204057671e-05,3.980365510320144e-06,4.0,2.0
+cond-mat/0607657,"Disordered free fermions and the Cardy Ostlund fixed line at low
+  temperature",1.2042748709321364e-05,0.0,7.0,0.0
+cond-mat/9912304,Multiscaling of energy correlations in the random-bond Potts model,1.203970136374949e-05,0.0,4.0,2.0
+cond-mat/0603347,Phase transitions in random magnetic bilayer,1.1915527766733584e-05,0.0,2.0,0.0
+cond-mat/0304612,Real-space renormalization at the quantum Hall transition,1.1885636837257188e-05,0.0,21.0,0.0
+cond-mat/0608590,Electron transport in disordered Luttinger liquid,1.1874233119356792e-05,0.0,6.0,0.0
+cond-mat/0012240,Disordered Dirac Fermions: the Marriage of Three Different Approaches,1.1865021531128836e-05,0.0001225517490241,39.0,22.0
+cond-mat/0510815,"Intrinsic spin current for an arbitrary Hamiltonian and scattering
+  potential",1.1803100186131769e-05,4.26754161951673e-06,8.0,6.0
+cond-mat/0004327,"Shallow Coulomb Gap and Weak Level-Level Correlations in a Deeply
+  Insulating Electron System with Interactions",1.180197692792254e-05,0.0,7.0,0.0
+cond-mat/9910375,Physics of glassy systems,1.174344436776591e-05,0.0,6.0,0.0
+cond-mat/0408338,"Square lattice site percolation at increasing ranges of neighbor
+  interactions",1.1735062783789612e-05,1.990182755160072e-06,12.0,1.0
+cond-mat/0408359,Restoring site percolation on a damaged square lattice,1.1710377456964422e-05,0.0,2.0,1.0
+cond-mat/0302275,"Driven depinning of strongly disordered media and anisotropic mean-field
+  limits",1.1655600165763158e-05,0.0,12.0,0.0
+cond-mat/0108374,Nature of the glassy phase of RNA secondary structure,1.1650874020388464e-05,2.745602160515763e-08,4.0,1.0
+cond-mat/0612272,"The pair annihilation reaction D + D --> 0 in disordered media and
+  conformal invariance",1.159119873941973e-05,1.990182755160072e-06,2.0,1.0
+cond-mat/0006161,Is dynamic ultrametricity observable in spin glasses?,1.1588268890303998e-05,0.0,9.0,0.0
+cond-mat/0101123,"Phases of a conserved mass model of aggregation with fragmentation at
+  fixed sites",1.1563803270591384e-05,0.0,5.0,0.0
+cond-mat/0109309,Quantum spin glass transition in the two-dimensional electron gas,1.1540697852539554e-05,1.4820152590929066e-05,4.0,2.0
+cond-mat/0406297,"Derivation of the Functional Renormalization Group Beta-Function at
+  order 1/N for Manifolds Pinned by Disorder",1.1503788975554424e-05,3.751206530047418e-07,18.0,4.0
+cond-mat/0012277,"Polymer Films in the Normal-Liquid and Supercooled State: A Review of
+  Recent Monte Carlo Simulation Results",1.1422145849329498e-05,0.0,7.0,0.0
+cond-mat/0501547,Obtaining Stiffness Exponents from Bond-diluted Lattice Spin Glasses,1.1421550430064823e-05,1.990182755160072e-06,4.0,1.0
+cond-mat/9702070,Out of equilibrium dynamics in spin-glasses and other glassy systems,1.1252312262466884e-05,0.0,19.0,58.0
+cond-mat/0009239,Dynamical spin-glass-like behavior in an evolutionary game,1.1211063578145776e-05,0.0,11.0,0.0
+q-bio/0506019,"Hierarchy, Fractality, Small-World and Resilience of Haversian Bone
+  Structure: A Complex Network Study",1.1170658396830089e-05,0.0,4.0,0.0
+cond-mat/0608543,Electron-Phonon Coupling and Raman Spectroscopy in Graphene,1.1166879792940324e-05,8.310346485310437e-05,9.0,3.0
+cond-mat/0410734,"Heterogeneous slow dynamics in a two dimensional doped classical
+  antiferromagnet",1.1160028073242691e-05,0.0,10.0,0.0
+cond-mat/0211527,Tree Networks with Causal Structure,1.1156830949686784e-05,2.1380850183700403e-06,16.0,2.0
+cond-mat/0104399,"Aging, rejuvenation and memory effects in Ising and Heisenberg spin
+  glasses",1.1151270818995924e-05,6.59575330824686e-06,5.0,7.0
+cond-mat/0504025,Point process model of 1/f noise versus a sum of Lorentzians,1.0893747286915562e-05,7.046440502284184e-06,12.0,3.0
+physics/0601118,Learning about knowledge: A complex network approach,1.0848545622982576e-05,1.247939730745011e-06,5.0,3.0
+nlin/0608028,Universality in Complex Networks: Random Matrix Analysis,1.078339310859252e-05,0.0,2.0,1.0
+cond-mat/0302026,Numerical study of the SK Model in magnetic field,1.0779210010350328e-05,1.990182755160072e-06,6.0,2.0
+cond-mat/0703770,"Large-scale Monte Carlo simulations of the isotropic three-dimensional
+  Heisenberg spin glass",1.0755696902419415e-05,1.990182755160072e-06,9.0,1.0
+physics/0603025,Visual Saliency and Attention as Random Walks on Complex Networks,1.0695741557259216e-05,7.4260550565674335e-09,4.0,1.0
+cond-mat/0402596,Bond dilution in the 3D Ising model: a Monte Carlo study,1.06861943999746e-05,2.7582490210107607e-08,7.0,2.0
+physics/0609124,Dynamical Phenomena on Complex Networks,1.0670447037715523e-05,0.0,16.0,0.0
+cond-mat/0702616,Conductivity of disordered graphene at half filling,1.0617927549458171e-05,0.0,4.0,0.0
+cond-mat/0105001,Out of equilibrium dynamics of a Quantum Heisenberg Spin Glass,1.0570500298885028e-05,0.0004725150155607,4.0,2.0
+cond-mat/0504016,"Nature of the phase transition of the three-dimensional isotropic
+  Heisenberg spin glass",1.0567009547856748e-05,0.0,3.0,0.0
+cond-mat/0003455,Phenomenological glass model for vibratory granular compaction,1.0562939629422833e-05,1.990182755160072e-06,11.0,1.0
+cond-mat/0502471,Linking physics and algorithms in the random-field Ising model,1.056191077750369e-05,1.990182755160072e-06,2.0,1.0
+quant-ph/0401101,"Phase Structure of the Random-Plaquette Z_2 Gauge Model: Accuracy
+  Threshold for a Toric Quantum Memory",1.0526904004997372e-05,2.264421910924029e-05,11.0,4.0
+cond-mat/0412043,Dissipative quantum disordered models,1.0501547362214823e-05,0.0,7.0,0.0
+cond-mat/0609774,"Analysis of Localization Phenomena in Weakly Interacting Disordered
+  Lattice Gases",1.0459318341367907e-05,4.010069730546413e-06,5.0,1.0
+cond-mat/0504384,Non-equilbrium Dynamics in Amorphous Si_3B_3N_7,1.0397899250092373e-05,0.0,3.0,0.0
+cond-mat/0104304,"Hopping in the Glass Configuration Space: Subaging and Generalized
+  Scaling Laws",1.0350768916946073e-05,0.0,5.0,0.0
+cond-mat/0203278,Shortest paths and load scaling in scale-free trees,1.0349533696343589e-05,2.818198984828793e-05,14.0,3.0
+cond-mat/0109552,A Classification of random Dirac fermions,1.0244126155381105e-05,1.9033054907166225e-05,9.0,3.0
+cond-mat/0605276,Random anisotropy disorder in superfluid 3He-A in aerogel,1.019139528452233e-05,1.9976088102166394e-06,6.0,1.0
+cond-mat/0009292,"Order-parameter fluctuations (OPF) in spin glasses: Monte Carlo
+  simulations and exact results for small sizes",1.0151972460102897e-05,1.884103326785353e-05,10.0,3.0
+cond-mat/0310743,Two Combinatorial Models with identical Statics yet different Dynamics,1.0139985959073634e-05,0.0,7.0,0.0
+cond-mat/0307222,"Competition between homogeneous and local processes in a diffusive
+  many-body system",1.0135070245097035e-05,0.0,3.0,0.0
+cond-mat/0412447,Universal aging properties at a disordered critical point,1.0112528053726815e-05,2.717438537008464e-07,3.0,3.0
+physics/0404021,Increment definitions for scale dependent analysis of stochastic data,9.99135561047877e-06,0.0,2.0,2.0
+cond-mat/0305102,Analytical results for the Sznajd model of opinion formation,9.956424500469648e-06,0.0,12.0,4.0
+cond-mat/0412158,"What do we learn from the shape of the dynamical susceptibility of
+  glass-formers?",9.921558501542904e-06,1.772342073289272e-05,7.0,6.0
+cond-mat/0005270,"Numerical study of disorder effects on the three-dimensional Hubbard
+  model",9.919845924026056e-06,0.0,4.0,0.0
+cond-mat/0407031,Absence of an Almeida-Thouless line in Three-Dimensional Spin Glasses,9.904751445440712e-06,9.325886512203994e-06,8.0,4.0
+cond-mat/0403346,"Complex Networks, Simple Vision",9.891142478657813e-06,4.0784337612261e-06,7.0,6.0
+cond-mat/0404658,"Slowly evolving random graphs II: Adaptive geometry in
+  finite-connectivity Hopfield models",9.865572355005802e-06,0.0,4.0,0.0
+cond-mat/9904168,The Superconductor-Insulator Transition in 2D,9.855476295726592e-06,0.0,3.0,2.0
+cond-mat/0602300,"Localization of electronic states in amorphous materials: recursive
+  Green's function method and the metal-insulator transition at E<>0",9.758583565774622e-06,0.0,12.0,1.0
+cond-mat/0403122,Anderson Localization in Euclidean Random Matrices,9.75588634903482e-06,1.990182755160072e-06,1.0,2.0
+cond-mat/0606584,"On Irregular Interconnect Fabrics for Self-Assembled Nanoscale
+  Electronics",9.74124413237002e-06,7.4260550565674335e-09,3.0,1.0
+cond-mat/0212070,Energy exponents and corrections to scaling in Ising spin glasses,9.66376932569152e-06,3.864795069863314e-05,12.0,11.0
+cond-mat/0603290,"Probing tails of energy distributions using importance-sampling in the
+  disorder with a guiding function",9.619901125574329e-06,0.0,4.0,0.0
+cond-mat/0606747,Bounds on the shear load of cohesionless granular matter,9.60068093542824e-06,0.0,4.0,0.0
+cond-mat/9809268,Computer Simulations of Supercooled Liquids and Glasses,9.541648855989784e-06,0.0,13.0,2.0
+cond-mat/0003032,Metal-insulator transition in 2D: resistance in the critical region,9.525048496405643e-06,0.0,11.0,11.0
+cond-mat/0512022,Genetic attack on neural cryptography,9.518435951709912e-06,0.0,11.0,1.0
+cond-mat/0208100,Local excitations of a spin glass in a magnetic field,9.484897406589704e-06,2.498867526534941e-06,6.0,5.0
+cond-mat/9812430,"Effect of disorder on quantum phase transitions in anisotropic XY spin
+  chains in a transverse field",9.47746643056682e-06,3.980365510320144e-06,11.0,1.0
+cond-mat/0702610,The Phase Diagram of 1-in-3 Satisfiability Problem,9.436112852260498e-06,0.0,2.0,0.0
+cond-mat/0403194,"Impact of network structure on the capacity of wireless multihop ad hoc
+  communication",9.433680667003446e-06,1.990182755160072e-06,2.0,1.0
+cond-mat/0510727,Surface criticality in random field magnets,9.409700616393403e-06,0.0,1.0,0.0
+cond-mat/0311657,"Ground-state energy and frustration of the Sherrington-Kirkpatrick model
+  and related models",9.39742744141324e-06,8.902002605675436e-06,6.0,2.0
+cond-mat/0610857,Local fluctuations in the aging of a simple glass,9.396453296905387e-06,0.0,12.0,1.0
+cond-mat/0603534,Damped Soft Phonons and Diffuse Scattering in 40PMN-60PT,9.379002847531143e-06,0.0,4.0,0.0
+cond-mat/0004407,Random networks created by biological evolution,9.373335874308709e-06,0.0,13.0,5.0
+cond-mat/9910181,Random Defect Lines in Conformal Minimal Models,9.372581646214263e-06,6.011058272096137e-06,10.0,3.0
+cond-mat/0209350,"Off-equilibrium fluctuation-dissipation relations in the 3d Ising Spin
+  Glass in a magnetic field",9.326545600975196e-06,0.0009704368747922,10.0,2.0
+cond-mat/0012222,The Quantum Spherical p-Spin-Glass Model,9.308768347943691e-06,0.0,8.0,2.0
+cond-mat/0406345,Rejuvenation and Memory in model Spin Glasses in 3 and 4 dimensions,9.305133690330678e-06,1.0647524872375124e-05,5.0,4.0
+quant-ph/0607053,Error-Resistant Distributed Quantum Computation in Trapped Ion Chain,9.293926181374205e-06,2.1525016788268648e-06,18.0,2.0
+cond-mat/0703017,"On the critical weight statistics of the Random Energy Model and of the
+  Directed Polymer on the Cayley Tree",9.28431954934924e-06,0.0,2.0,0.0
+cond-mat/0509042,Fluctuation-dissipation relations for complex networks,9.281779909090991e-06,0.0,5.0,0.0
+cond-mat/0210489,Magnetic field chaos in the SK Model,9.279326675973226e-06,1.7021986169993555e-05,8.0,4.0
+cond-mat/0106603,"Localization properties of two interacting particles in a quasi-periodic
+  potential with a metal-insulator transition",9.276036862901568e-06,0.0,10.0,3.0
+cond-mat/0508755,Glassy phases in layered Ising magnets with random interlayer exchange,9.259072109530628e-06,1.990182755160072e-06,5.0,1.0
+cond-mat/0501730,Computer Simulations of Opinions,9.245590601984551e-06,4.717622868067108e-06,7.0,5.0
+cond-mat/0612502,Network Structure Revealed by Short Cycles,9.212760192461452e-06,0.0,8.0,0.0
+cond-mat/0611416,"Ensemble averaged coherent state path integral for disordered bosons
+  with a repulsive interaction (Derivation of mean field equations)",9.17889524184956e-06,0.0,2.0,1.0
+cond-mat/0308422,"On the thermodynamics of first-order phase transition smeared by frozen
+  disorder",9.154717348692513e-06,5.10541285139011e-09,5.0,1.0
+cond-mat/0508108,Time scale for the onset of Fickian diffusion in supercooled liquids,9.153072061909928e-06,4.856102926720945e-07,4.0,1.0
+cond-mat/0107424,Mean-field glassy phase of the random field Ising model,9.138093868745989e-06,0.0,6.0,0.0
+cond-mat/0305538,Crossover from entropic to thermal dynamics in glassy models,9.093668025555204e-06,3.7130275282837164e-09,6.0,1.0
+cond-mat/0406575,Perturbation: the Catastrophe Causer in Scale-Free Networks,9.089172603405947e-06,5.68768307741642e-09,6.0,1.0
+cond-mat/0107151,"Multiparticle ring exchange in the Wigner glass and its possible
+  relevance to strongly interacting two-dimensional electron systems in the
+  presence of disorder",9.080813686174569e-06,5.50137387645857e-06,6.0,1.0
+cond-mat/0506209,Universality-class dependence of energy distributions in spin glasses,9.061808338308642e-06,5.670427080704227e-07,3.0,1.0
+cond-mat/0403706,Memory effects in classical and quantum mean-field disordered models,9.058578779799338e-06,0.0,6.0,0.0
+cond-mat/9701016,Numerical Simulations of Spin Glass Systems,9.049235151352964e-06,0.0,15.0,23.0
+cond-mat/0207071,Ultrametricity Between States at Different Temperatures in Spin-Glasses,9.022035218847256e-06,4.5146860294659584e-08,7.0,1.0
+cond-mat/0306029,Interaction-induced magnetoresistance in a two-dimensional electron gas,8.988047190669808e-06,7.960731020640288e-06,5.0,1.0
+cond-mat/0303453,"A consequence of local equilibration and heterogeneity in glassy
+  materials",8.924716269302972e-06,3.980365510320144e-06,6.0,3.0
+cond-mat/0612505,"Minimal Model for Disorder-induced Missing Moment of Inertia in Solid
+  $^4$He",8.924546195652706e-06,0.0,4.0,2.0
+cond-mat/9710315,Absence of Localization in Certain Field Effect Transistors,8.909476441380857e-06,0.0,17.0,1.0
+cond-mat/0108225,Glassy dynamics in granular compaction: sand on random graphs,8.868626102767886e-06,2.8331844026672897e-05,6.0,6.0
+cond-mat/0612086,Non-linear susceptibilities of spherical models,8.859578263351007e-06,0.0,6.0,0.0
+cond-mat/0601455,"Statistical Properties of Functionals of the Paths of a Particle
+  Diffusing in a One-Dimensional Random Potential",8.840833597864095e-06,0.0,3.0,0.0
+cond-mat/9905248,"Fluctuations, response and aging dynamics in a simple glass-forming
+  liquid out of equilibrium",8.835728251238032e-06,1.9284165675500154e-05,8.0,6.0
+cond-mat/0410146,Ageing and dynamical scaling in the critical Ising spin glass,8.827713180259535e-06,0.0,1.0,1.0
+nlin/0702024,Advective collisions,8.827562513332386e-06,0.0,2.0,0.0
+cond-mat/0206239,"Rigorous decimation-based construction of ground pure states for spin
+  glass models on random lattices",8.819681119556779e-06,0.0001073190115678,4.0,11.0
+cond-mat/0512296,Two Lectures on Iterative Coding and Statistical Mechanics,8.800533029472781e-06,0.0,3.0,0.0
+cond-mat/0212486,"Neural Networks, Game Theory and Time Series Generation",8.755566468421563e-06,0.0,9.0,0.0
+cond-mat/0203404,"Impurity-Semiconductor Band Hybridization Effects on the Critical
+  Temperature of Diluted Magnetic Semiconductors",8.755172770524356e-06,3.5554219662128566e-05,7.0,4.0
+cond-mat/0404018,Analytic solution of attractor neural networks on scale-free graphs,8.75401551564467e-06,1.9827567001035044e-06,6.0,1.0
+nlin/0502055,"Sufficient Conditions for Fast Switching Synchronization in Time Varying
+  Network Topologies",8.731977405795529e-06,0.0,8.0,0.0
+cond-mat/0703369,"Comment on ``Spin-glass transition of the three-dimensional Heisenberg
+  spin glass''",8.731895430494529e-06,0.0,1.0,1.0
+q-bio/0502005,Cliques and duplication-divergence network growth,8.701130740940533e-06,0.0,8.0,0.0
+cond-mat/0512678,"Transport properties of 2D-electron gas in a n-InGaAs/GaAs DQW in a
+  vicinity of low magnetic-field-induced Hall insulator--quantum Hall liquid
+  transition",8.690776677342933e-06,3.980365510320144e-06,4.0,1.0
+cond-mat/0006045,"Inherent structures and non-equilibrium dynamics of 1D constrained
+  kinetic models: a comparison study",8.68054414897009e-06,1.617282435116145e-06,5.0,4.0
+physics/0009032,Information theory and learning: a physical approach,8.669252579238984e-06,0.0,18.0,2.0
+cond-mat/0401018,Reinforcing the Resilience of Complex Networks,8.645517393398944e-06,0.0,10.0,0.0
+cond-mat/0307592,Three dimensional resonating valence bond liquids and their excitations,8.642506871754924e-06,6.275044515091219e-05,9.0,4.0
+cond-mat/0610821,"Numerical Calculation of the Functional renormalization group
+  fixed-point functions at the depinning transition",8.616774379596407e-06,3.0015514453388466e-08,7.0,2.0
+cond-mat/0302296,On network bipartivity,8.583841808708555e-06,2.9704220226269734e-08,7.0,1.0
+cond-mat/0102285,"Self generated randomness, defect wandering and viscous flow in stripe
+  glasses",8.580343539630216e-06,5.0732803920831695e-06,4.0,2.0
+cond-mat/0012070,"Reply to the Comment on `Glassy Transition in a Disordered Model for the
+  RNA Secondary Structure'",8.573993518761223e-06,0.0,4.0,0.0
+gr-qc/0308089,Scale Free Small World Networks and the Structure of Quantum Space-Time,8.55196148310876e-06,2.1474592403739864e-06,10.0,3.0
+cond-mat/0610661,"Density matrix renormalization on random graphs and the quantum
+  spin-glass transition",8.546868788398191e-06,3.200485106291746e-06,2.0,2.0
+cond-mat/0102257,Continuum time limit and stationary states of the Minority Game,8.520427614450385e-06,4.028634868187833e-06,20.0,8.0
+cond-mat/0210708,"A survey of rigorous results on random Schroedinger operators for
+  amorphous solids",8.514781206969677e-06,0.0,6.0,3.0
+cond-mat/0311535,On large deviation properties of Erdos-Renyi random graphs,8.477911437960753e-06,0.0,3.0,2.0
+cond-mat/0402036,Low-temperature behavior of two-dimensional Gaussian Ising spin glasses,8.445769729125666e-06,1.2290909663228916e-05,2.0,4.0
+cond-mat/0210132,Managing catastrophic changes in a collective,8.419459361182768e-06,0.0,3.0,0.0
+cond-mat/0102248,"Aging effects and dynamic scaling in the 3d Edwards-Anderson spin
+  glasses: a comparison with experiments",8.406460222394825e-06,1.0300173077766616e-05,9.0,2.0
+cond-mat/0403416,Approximating satisfiability transition by suppressing fluctuations,8.399113747662967e-06,3.980365510320144e-06,3.0,2.0
+cond-mat/0107134,"Equilibrium Distribution of the Inherent States and their Dynamics in
+  Glassy Systems and Granular Media",8.373849040611891e-06,2.611103266352136e-06,5.0,2.0
+cond-mat/0107489,"The three-dimensional random field Ising magnet: interfaces, scaling,
+  and the nature of states",8.363278240421772e-06,3.1265468565850304e-05,5.0,6.0
+astro-ph/0407201,Eyes Wide Open - Optimising Cosmological Surveys in a Crowded Market,8.35419916099134e-06,3.5790969533790367e-06,19.0,5.0
+cond-mat/0304576,Energetics of clusters in the two-dimensional Ising spin glass,8.348504250597983e-06,8.443424599317171e-06,18.0,2.0
+cond-mat/0607411,"Probing the tails of the ground state energy distribution for the
+  directed polymer in a random medium of dimension $d=1,2,3$ via a Monte-Carlo
+  procedure in the disorder",8.336776826625297e-06,0.0,5.0,0.0
+cond-mat/0508586,"Survey propagation at finite temperature: application to a Sourlas code
+  as a toy model",8.320589546158597e-06,0.0,9.0,0.0
+cond-mat/0312046,O(N) algorithms for disordered systems,8.320380508892744e-06,0.0,7.0,1.0
+cond-mat/0303260,"Anomalous force diffusion in nearly-ordered packings of frictionless
+  discs",8.320336959360071e-06,0.0,5.0,0.0
+cond-mat/0003287,On the Energy Minima of the SK Model,8.216138022922414e-06,0.0010090026146345,13.0,2.0
+cond-mat/0409323,Finite-size effects and intermittency in a simple aging system,8.171763819696603e-06,1.990182755160072e-06,9.0,1.0
+cond-mat/0007372,"Glassiness and constrained dynamics of a short-range non-disordered spin
+  model",8.139011536433895e-06,2.385750846263147e-06,7.0,3.0
+cond-mat/0111397,Mesoscopic Coulomb Drag,8.134374558677189e-06,0.0,6.0,0.0
+cond-mat/0012497,The waiting-time distribution of LIFFE bond futures,8.13237648989176e-06,2.22781651697023e-08,1.0,3.0
+cond-mat/0503012,Temperature Cycles in the Heisenberg Spin Glass,8.130253469649888e-06,0.0,6.0,2.0
+cond-mat/0701349,"Griffiths singularities and algebraic order in the exact solution of an
+  Ising model on a fractal modular network",8.113292256613824e-06,0.0,5.0,0.0
+cond-mat/0410676,"Aging dynamics across a dynamic Almeida-Thouless line in three
+  dimensional short-range Issuing spin glass
+  Cu$_{0.5}$Co$_{0.5}$Cl$_{2}$-FeCl$_{3}$ graphite bi-intercalation compound",8.106264430255082e-06,0.0,2.0,0.0
+cond-mat/0505575,"Transitions in collective response in multi-agent models of competing
+  populations driven by resource level",8.102639184851123e-06,0.0,4.0,0.0
+cond-mat/0205226,"Universal Behavior of the Resistance Noise across the Metal-Insulator
+  Transition in Silicon Inversion Layers",8.06555163531981e-06,8.84960432544885e-06,4.0,3.0
+cond-mat/0603266,"Study of the phase transition in the 3d Ising spin glass from out of
+  equilibrium numerical simulations",8.04849083646188e-06,0.0,3.0,0.0
+physics/0504033,Strong correlations between text quality and complex networks features,8.041222072624561e-06,0.0,6.0,0.0
+cond-mat/0209256,Vibrational Modes in LiBC: Theory Compared with Experiment,8.020748357218077e-06,9.95091377580036e-07,3.0,2.0
+cond-mat/0504241,Cycles and clustering in bipartite networks,8.006261112824351e-06,2.0215478565172733e-06,6.0,3.0
+cond-mat/0702396,"Ising model S=1, 3/2 and 2 on directed networks",8.005571004478953e-06,0.0,4.0,0.0
+cond-mat/0201427,Spin Ice State in Frustrated Magnetic Pyrochlore Materials,7.966525096322919e-06,0.0,5.0,0.0
+cond-mat/0501315,"2-loop Functional Renormalization for elastic manifolds pinned by
+  disorder in N dimensions",7.944768209528558e-06,0.0,2.0,1.0
+cond-mat/0304333,On the stochastic dynamics of disordered spin models,7.902232055195082e-06,6.068279734256335e-06,12.0,4.0
+cond-mat/0501047,Influence of pore-scale disorder on viscous fingering during drainage,7.891905268412647e-06,0.0,1.0,0.0
+quant-ph/0203010,Entangled Quantum Networks,7.883278302297784e-06,9.95091377580036e-06,4.0,3.0
+cond-mat/0006360,Critical points in two-dimensional replica sigma models,7.778244612937169e-06,0.0001063463368264,18.0,8.0
+cond-mat/0103428,Aging dynamics of quantum spin glasses of rotors,7.776490289691275e-06,0.0004725150155607,2.0,3.0
+cond-mat/0305044,Aging dynamics of heterogeneous spin models,7.772293916587589e-06,4.950703371044955e-09,8.0,1.0
+cond-mat/0111174,"Ising Spin Glasses : interaction distribution dependence of the critical
+  exponents",7.749972863086799e-06,2.6049843048599776e-05,4.0,3.0
+cond-mat/0005366,"Tricritical Points in the Sherrington-Kirkpatrick Model in the Presence
+  of Discrete Random Fields",7.740413975381973e-06,0.0,4.0,0.0
+cs/0609154,"Loop Calculus Helps to Improve Belief Propagation and Linear Programming
+  Decodings of Low-Density-Parity-Check Codes",7.732841197175994e-06,7.960731020640288e-06,13.0,5.0
+hep-th/0502125,Two-dimensional models,7.725478010757099e-06,0.0,2.0,1.0
+cond-mat/0408264,"Epidemic spreading on undirected and directed scale-free networks with
+  correlations",7.683053881664402e-06,0.0,2.0,0.0
+cond-mat/0502035,Disorder driven phase transitions of the large q-state Potts model in 3d,7.662101773554484e-06,0.0,1.0,1.0
+cond-mat/0602276,Condition numbers and scale free graphs,7.655517189312558e-06,0.0,2.0,0.0
+cond-mat/0601332,Random walks and polymers in the presence of quenched disorder,7.653411137716187e-06,2.620537197685092e-06,11.0,1.0
+cond-mat/0503486,Reduction of Two-Dimensional Dilute Ising Spin Glasses,7.631825409156674e-06,0.0,1.0,1.0
+cond-mat/0005102,"Two-dimensional Granular Gas of Inelastic Spheres with Multiplicative
+  Driving",7.623326747395854e-06,0.0,7.0,0.0
+cond-mat/0105474,"Non-universal scaling in a model of information transmission and herd
+  behavior",7.611640360747066e-06,3.980365510320144e-06,1.0,3.0
+cond-mat/0202473,Overlap Among States at Different Temperatures in the SK Model,7.603539197973901e-06,0.0001024770890046,8.0,12.0
+cond-mat/9907126,Statistics of energy levels and eigenfunctions in disordered systems,7.588997972052934e-06,0.0,8.0,11.0
+cond-mat/0608312,On Cavity Approximations for Graphical Models,7.57653639577291e-06,0.0,2.0,0.0
+cond-mat/0212065,Loschmidt Echo and Lyapunov Exponent in a Quantum Disordered System,7.5751237736749475e-06,2.1897579848053216e-05,5.0,1.0
+cond-mat/0612499,What makes a crystal supersolid ?,7.573368755023422e-06,0.0,9.0,1.0
+cond-mat/9902305,Mean-field theory of strongly disordered superconductors,7.566036308730596e-06,0.0,2.0,1.0
+cond-mat/0207605,On the Aizenman exponent in critical percolation,7.548802038679981e-06,0.0,14.0,0.0
+cond-mat/0506780,"Exact Enumeration of Ground States in the Sherrington-Kirkpatrick Spin
+  Glass",7.535815829648906e-06,0.0,2.0,1.0
+cond-mat/0312432,Recent Progress in Spin Glasses,7.513571888150276e-06,3.40154430167258e-05,10.0,10.0
+cond-mat/0509055,Synchronization in Complex Networks: a Reply on a recent Comment,7.512455198155269e-06,0.0,4.0,0.0
+cond-mat/0701527,Entanglement entropy of aperiodic quantum spin chains,7.509862129683683e-06,5.948270100310514e-06,1.0,4.0
+cond-mat/0611735,Random matrix analysis of network Laplacians,7.508547499191271e-06,3.995217620433279e-06,1.0,2.0
+cond-mat/0005541,"Chaotic, memory and cooling rate effects in spin glasses: Is the
+  Edwards-Anderson model a good spin glass?",7.503205251944778e-06,2.993883856427667e-05,14.0,11.0
+cond-mat/0203134,Multifractality at the spin quantum Hall transition,7.492000349200315e-06,1.3196365936641471e-05,6.0,2.0
+cond-mat/0702601,"Replica Symmetry Breaking Condition Exposed by Random Matrix Calculation
+  of Landscape Complexity",7.482099521709301e-06,0.0,4.0,0.0
+cond-mat/0507561,"Low density spin-polarized transport in 2D semiconductor structures: The
+  enigma of temperature dependent magnetoresistance of Si MOSFETs in an
+  in-plane applied magnetic field",7.482022350138698e-06,0.0,7.0,0.0
+cond-mat/0108208,"Vibrational properties of amorphous silicon from tight-binding O(N)
+  calculation",7.476557220674645e-06,0.0,1.0,0.0
+cond-mat/0507197,The partially asymmetric zero range process with quenched disorder,7.467662403102185e-06,2.1489043186797275e-06,2.0,1.0
+cond-mat/0610518,"Particle displacements in the elastic deformation of amorphous
+  materials: local fluctuations vs. non-affine field",7.462671345737005e-06,0.0,1.0,1.0
+cond-mat/0511283,"Effect of degree correlations on the loop structure of scale-free
+  networks",7.42207179893711e-06,8.080898093373835e-08,1.0,1.0
+cond-mat/0107318,Renormalization group for network models of Quantum Hall transitions,7.3870578010220174e-06,1.8466452342754317e-05,11.0,3.0
+cond-mat/0502546,"Heat conduction in one dimensional systems: Fourier law, chaos, and heat
+  control",7.362833690974784e-06,0.0,2.0,0.0
+cond-mat/0302371,"Single spin- and chiral-glass transition in vector spin glasses in
+  three-dimensions",7.360411981347324e-06,1.0720599267889686e-05,9.0,11.0
+cond-mat/0310087,"Aging in Spin Glasses in three, four and infinite dimensions",7.341734822710363e-06,0.0,2.0,0.0
+cond-mat/0607615,Overlap Fluctuations from Random Overlap Structures,7.341431140449908e-06,3.2553552663758246e-06,5.0,2.0
+cond-mat/0106176,Droplets in Disordered Metallic Quantum Critical Systems,7.335785297561334e-06,4.733505159287824e-06,2.0,2.0
+cs/0607080,New Model of Internet Topology Using k-shell Decomposition,7.319313424148455e-06,1.990182755160072e-06,3.0,1.0
+cond-mat/0405139,"Monte Carlo study of the ordering of the weakly anisotropic Heisenberg
+  spin glass in magnetic fields",7.307770073433778e-06,0.0,2.0,0.0
+cond-mat/9801083,"Dual theory of the superfluid-Bose glass transition in disordered
+  Bose-Hubbard model in one and two dimensions",7.290790621869284e-06,0.0,2.0,1.0
+cond-mat/0602524,"Field-induced quantum disordered phases in S=1/2 weakly-coupled dimer
+  systems with site dilution",7.271463645806207e-06,5.970548265480216e-06,3.0,2.0
+cond-mat/0406354,Biology helps to construct weighted scale free networks,7.245466922543078e-06,0.0,3.0,1.0
+cond-mat/9611168,Glass phase of two-dimensional triangular elastic lattices with disorder,7.244790182655557e-06,0.0,7.0,3.0
+cond-mat/9906320,Dephasing in Disordered Conductors due to Fluctuating Electric Fields,7.242578395866874e-06,0.0,5.0,0.0
+cond-mat/0609254,"Positive-Overlap Transition and Critical Exponents in Mean Field Spin
+  Glasses",7.233002946038282e-06,0.0,2.0,0.0
+cond-mat/0307713,Ground-state energy fluctuations in the Sherrington-Kirkpatrick model,7.224049696672339e-06,1.3015998893783337e-05,4.0,12.0
+physics/0608091,"Anomalous fluctuations in Minority Games and related multi-agent models
+  of financial markets",7.1924219236361785e-06,0.0,4.0,0.0
+cond-mat/0511529,"Why one needs a functional renormalization group to survive in a
+  disordered world",7.184901766508563e-06,0.0,9.0,0.0
+cond-mat/0006211,Critical Behavior of the Three-Dimensional Ising Spin Glass,7.176470822124939e-06,0.0003919505825347,6.0,15.0
+cond-mat/0612627,Gaussian excitations model for glass-former dynamics and thermodynamics,7.143543907033281e-06,1.990182755160072e-06,3.0,1.0
+cond-mat/0612041,"Stability properties and probability distribution of multi-overlaps in
+  dilute spin glasses",7.124298914828693e-06,0.0,3.0,0.0
+cond-mat/0307499,The signal-to-noise analysis of the Little-Hopfield model revisited,7.102454136209839e-06,7.960731020640288e-06,3.0,3.0
+quant-ph/0702252,Convergence of Quantum Annealing with Real-Time Schrodinger Dynamics,7.101218764658724e-06,0.0,3.0,0.0
+cond-mat/0407148,"Localization Properties of Electronic States in Polaron Model of
+  poly(dG)-poly(dC) and poly(dA)-poly(dT) DNA polymers",7.095127502266564e-06,0.0,4.0,2.0
+cond-mat/0302544,Connectivity Distribution of Spatial Networks,7.091575935056103e-06,1.991667966171385e-06,7.0,2.0
+cond-mat/0410595,"The onset of jamming as the sudden emergence of an infinite $k$-core
+  cluster",7.076016813040007e-06,0.0,6.0,11.0
+cond-mat/9809357,"Phase diagram and validity of one-parameter scaling near the
+  two-dimensional metal-insulator transition",7.073634241749689e-06,0.0,5.0,4.0
+cond-mat/0606312,"Strong disorder fixed points in the two-dimensional random-bond Ising
+  model",7.051599067475583e-06,0.0,5.0,0.0
+cond-mat/0411374,Neural cryptography with queries,7.0288294445819184e-06,0.0,10.0,2.0
+cond-mat/0702243,"Dissipation peak as an indicator of sample inhomogeneity in solid $^4$He
+  oscillator experiments",7.028626210427464e-06,0.0,2.0,0.0
+cond-mat/0610525,"How to measure Functional RG fixed-point functions for dynamics and at
+  depinning",7.018631526478769e-06,9.740243600938636e-08,4.0,2.0
+cond-mat/0202479,Colored minority games,7.010580562874252e-06,3.7130275282837164e-09,10.0,1.0
+cond-mat/0501663,Clustering and Synchronization of Oscillator Networks,7.008483909968701e-06,2.1535559664045558e-08,6.0,2.0
+cond-mat/0206316,"Temperature chaos in a replica symmetry broken spin glass model - A
+  hierarchical model with temperature chaos -",7.007254935927375e-06,8.17702402780112e-06,5.0,3.0
+cond-mat/0507490,Non-equilibrium relaxation of an elastic string in a random potential,6.99837563337327e-06,0.0,4.0,0.0
+cond-mat/0410230,Strength distribution in gradient networks,6.997653781772332e-06,0.0,7.0,1.0
+cond-mat/9702241,"Two interacting particles in a random potential: The random matrix model
+  revisited",6.992961449917026e-06,0.0,2.0,5.0
+cond-mat/0503437,Dynamics of disordered elastic systems,6.98011600643417e-06,0.0,6.0,0.0
+cond-mat/0003282,Equilibrating Glassy Systems with Parallel Tempering,6.966931931368492e-06,0.0,2.0,2.0
+cond-mat/0412007,"Exact calculation of the energy contributions to the T=0 random-field
+  Ising model with metastable dynamics on the Bethe lattice",6.941111385955181e-06,0.0,3.0,0.0
+cond-mat/0612303,"Response of Complex Systems to Complex Perturbations: the Complexity
+  Matching Effect",6.894796304671696e-06,0.0,2.0,1.0
+cond-mat/0605691,"Magnetic disorder and dynamical properties of a Bose-Einstein condensate
+  in atomic waveguides",6.870197176383204e-06,0.0,5.0,0.0
+cond-mat/0102384,Dynamics of the Time Horizon Minority Game,6.867813392766497e-06,1.325550827597284e-06,8.0,3.0
+cond-mat/0511433,"Gel to glass transition in simulation of a valence-limited colloidal
+  system",6.844887704323073e-06,1.990182755160072e-06,3.0,1.0
+cond-mat/0404742,"Asymmetrically extremely dilute neural networks with non-trivial
+  dynamics",6.831319948868569e-06,0.0,1.0,0.0
+cond-mat/0104322,"The relaxation dynamics of a viscous silica melt: II The intermediate
+  scattering functions",6.825864213075504e-06,0.0,2.0,1.0
+cond-mat/0202044,"Elementary explanation of the inexistence of decoherence at zero
+  temperature for systems with purely elastic scattering",6.819223288772889e-06,0.0,7.0,16.0
+cond-mat/0412196,"Scale-free properties of weighted networks with connectivity-driven
+  topology",6.816290419104273e-06,4.945932536310896e-07,6.0,2.0
+cond-mat/0310080,"Generating droplets in two-dimensional Ising spin glasses by using
+  matching algorithms",6.811636838771464e-06,1.1139082584851151e-08,4.0,1.0
+cond-mat/0501655,"Evolving Model of Weighted Networks Inspired by Scientific Collaboration
+  Networks",6.811379293103903e-06,7.547151825930167e-07,6.0,4.0
+cond-mat/0204041,"On Renyi entropies characterizing the shape and the extension of the
+  phase space representation of quantum wave functions in disordered systems",6.8073544518806e-06,0.0,2.0,4.0
+cond-mat/0203416,Ferromagnetic ordering in graphs with arbitrary degree distribution,6.805696551654661e-06,1.3939447946682727e-05,7.0,5.0
+quant-ph/0702169,Quantum wavefunction annealing of spin glasses,6.80552149568168e-06,0.0,5.0,0.0
+quant-ph/0007088,Quantum Brain?,6.8036903982389775e-06,4.132151175863526e-06,5.0,7.0
+cond-mat/0210473,"Dynamical mean-field approximation to coupled active rotator networks
+  subject to white noises",6.801308779104164e-06,0.0,2.0,3.0
+cond-mat/0508116,"Numerical Study of Spin Hall Transport in a Two Dimensional Hole Gas
+  System",6.778857859554657e-06,0.0,13.0,1.0
+cond-mat/0206297,Interaction effects on random Dirac fermions,6.773182414373742e-06,0.0,3.0,0.0
+cond-mat/0212028,Number of loops of size h in growing scale-free networks,6.761470316129164e-06,2.22781651697023e-08,4.0,2.0
+cond-mat/0206529,Glassy behavior of electrons near metal-insulator transitions,6.758229894341168e-06,1.9180007680645345e-06,3.0,2.0
+cond-mat/0002128,Statistical Physics of Structural Glasses,6.756226771290926e-06,1.2701956409059962e-05,16.0,9.0
+cond-mat/0011028,Quantum TAP equations,6.7441624924712566e-06,0.0009510005793869,4.0,3.0
+cond-mat/9703188,"Sparse random matrix configurations for two or three interacting
+  electrons in a random potential",6.743364173294224e-06,0.0,4.0,1.0
+cond-mat/0603647,Diffusive Capture Process on Complex Networks,6.721557376417448e-06,0.0,1.0,0.0
+cond-mat/0002299,Creep and depinning in disordered media,6.719839602203206e-06,0.0,2.0,6.0
+cond-mat/9911467,Correlated random band matrices: localization-delocalization transitions,6.6643147216999095e-06,0.0,6.0,0.0
+cond-mat/0404434,"Distributive routing & congestion control in wireless multihop ad hoc
+  communication networks",6.643076752417287e-06,0.0,1.0,0.0
+cond-mat/0601266,Non-equilibrium relaxation of an elastic string in random media,6.641814043472301e-06,0.0,2.0,0.0
+cond-mat/0610035,"Classical Particle in a Box with Random Potential: exploiting rotational
+  symmetry of replicated Hamiltonian",6.634700819285996e-06,5.6586887993929405e-06,5.0,3.0
+cond-mat/0508092,Quantum-to-classical correspondence in open chaotic systems,6.626320833090974e-06,0.0,5.0,0.0
+cond-mat/0012323,Extended Ensemble Monte Carlo,6.595994780816843e-06,2.786627159976929e-05,7.0,2.0
+cond-mat/0111129,Ordering in Heisenberg Spin Glasses,6.57905754814589e-06,1.0437320382005527e-05,3.0,2.0
+physics/0602144,Fast Community Identification by Hierarchical Growth,6.577946519599804e-06,0.0,6.0,0.0
+cond-mat/0012161,The +/-J Spin Glass: Effects of Ground State Degeneracy,6.570878925712941e-06,0.0002655439665662,11.0,3.0
+cond-mat/0206092,Ground state of the random-bond spin-1 Heisenberg chain,6.553395806000037e-06,0.0,5.0,1.0
+cond-mat/0603118,Interacting Fermi Gases in Disordered One-Dimensional Lattices,6.544332589873494e-06,0.0,3.0,0.0
+cond-mat/0009211,Adaptive learning by extremal dynamics and negative feedback,6.542580001780634e-06,0.0,3.0,0.0
+cond-mat/0208451,"Wave function statistics and multifractality at the spin quantum Hall
+  transition",6.541961032114513e-06,9.594452563991742e-05,5.0,1.0
+cond-mat/0102011,Core percolation in random graphs: a critical phenomena analysis,6.528981543129276e-06,0.0,6.0,4.0
+cond-mat/0411413,Low Temperature Specific Heat of some Quantum Mean Field glassy phases,6.523826212071901e-06,0.0,4.0,0.0
+math/0311045,"A Phase Transition and Stochastic Domination in Pippenger's
+  Probabilistic Failure Model for Boolean Networks with Unreliable Gates",6.523214867372587e-06,0.0,1.0,0.0
+cond-mat/0512309,"Aging, memory and rejuvenation: some lessons from simple models",6.516993886291476e-06,0.0,2.0,1.0
+cond-mat/0411227,Specific Heat of Quantum Elastic Systems Pinned by Disorder,6.514434138830092e-06,1.990182755160072e-06,4.0,1.0
+cond-mat/0701193,"Random Matrices, the Ulam Problem, Directed Polymers & Growth Models,
+  and Sequence Matching",6.503105193735524e-06,1.990182755160072e-06,8.0,1.0
+cs/0312011,Constraint Optimization and Statistical Mechanics,6.499656301371134e-06,3.980365510320144e-06,10.0,2.0
+cond-mat/0004080,SUE: A Special Purpose Computer for Spin Glass Models,6.491774659542026e-06,0.0,7.0,3.0
+cond-mat/0012451,Correct extrapolation of overlap distribution in spin glasses,6.488919051374499e-06,8.077524786478107e-05,5.0,7.0
+cond-mat/0010397,"Classical Correlation-Length Exponent in Non-Universal Quantum Phase
+  Transition of Diluted Heisenberg Antiferromagnet",6.472681417369497e-06,0.0,3.0,1.0
+cond-mat/9904285,"Numerical investigation of the thermodynamic limit for ground states in
+  models with quenched disorder",6.471362061546445e-06,0.0,7.0,3.0
+cond-mat/0408648,On the Consensus Threshold for the Opinion Dynamics of Krause-Hegselmann,6.468963704325147e-06,2.442504608694887e-06,6.0,3.0
+cond-mat/0207366,"Scale-free Networks without Growth or Preferential Attachment: Good get
+  Richer",6.4641731295403055e-06,1.7543548213414532e-05,5.0,6.0
+cond-mat/9810144,Relaxation in graph coloring and satisfiability problems,6.461497782047221e-06,0.0,5.0,1.0
+cond-mat/0305393,"On the existence of a finite-temperature transition in the
+  two-dimensional gauge glass",6.455641387134068e-06,1.990182755160072e-06,10.0,2.0
+cond-mat/0609234,"Statics and dynamics of elastic manifolds in media with long-range
+  correlated disorder",6.422561660864006e-06,0.0,3.0,0.0
+cond-mat/0008119,"Phase diagram of disordered fermion model on two-dimensional square
+  lattice with $\pi$-flux",6.404920852226504e-06,0.0,9.0,0.0
+math-ph/0505075,Kinetic Limit for Wave Propagation in a Random Medium,6.404117247139937e-06,1.791164479644065e-05,5.0,4.0
+cond-mat/0402201,Imbibition in Disordered Media,6.399721080518857e-06,1.990182755160072e-06,8.0,1.0
+cond-mat/9908216,Exact results and scaling properties of small-world networks,6.388877055148223e-06,0.0,16.0,5.0
+cond-mat/0511133,Statistical networks emerging from link-node interactions,6.384854882521428e-06,0.0,5.0,0.0
+cond-mat/9808192,Two interacting particles at the metal-insulator transition,6.384562682381137e-06,0.0,6.0,1.0
+cond-mat/0409140,"Theory of enhanced performance emerging in a sparsely-connected
+  competitive population",6.383985616231342e-06,0.0,2.0,2.0
+cond-mat/0507231,Spanning Trees in Random Satisfiability Problems,6.382628202656923e-06,0.0,2.0,0.0
+cond-mat/0306272,The three-dimensional randomly dilute Ising model: Monte Carlo results,6.378163926041384e-06,3.1175077858656846e-06,7.0,8.0
+cond-mat/0311370,Stimulated and spontaneous relaxation in glassy systems,6.36916023988631e-06,5.098869224097421e-05,7.0,5.0
+cond-mat/0304642,"Quenched Disorder Distributions in Three-Dimensional Diluted
+  Ferromagnets",6.355189620570184e-06,3.95205367541698e-06,2.0,4.0
+cond-mat/0501115,"Monte Carlo Study of Phase Transitions in the Bond-Diluted 3D 4-State
+  Potts Model",6.355189620570184e-06,1.990182755160072e-06,2.0,1.0
+hep-th/0612154,Exact classical solutions of nonlinear sigma models on supermanifolds,6.35292906717494e-06,0.0,8.0,0.0
+cond-mat/0212232,A Farewell to Liouvillians,6.349739549102522e-06,0.0,1.0,1.0
+cond-mat/0103616,Interfaces (and Regional Congruence?) in Spin Glasses,6.349401143652776e-06,2.217043421400696e-05,10.0,2.0
+cond-mat/0109197,"Modified Thouless-Anderson-Palmer equations for the
+  Sherrington-Kirkpatrick spin glass: Numerical solutions",6.341633849215337e-06,0.0,2.0,1.0
+cond-mat/9904432,"Spin glass behavior upon diluting frustrated magnets and spin liquids: a
+  Bethe-Peierls treatment",6.334643875732467e-06,0.0,2.0,0.0
+cond-mat/0510064,Brownian Functionals in Physics and Computer Science,6.3342929101049e-06,1.182413662664242e-05,3.0,4.0
+cond-mat/0312064,Effects of dissipation on disordered quantum spin models,6.315717916855541e-06,2.467843375072853e-06,3.0,3.0
+cond-mat/0104129,"Molecular dynamics simulation study of the high frequency sound waves in
+  the fragile glass former ortho-terphenyl",6.313927843528986e-06,1.990182755160072e-06,3.0,2.0
+cond-mat/0301454,Slow dynamics under gravity: a nonlinear diffusion model,6.306680133298285e-06,0.0,2.0,0.0
+cond-mat/0011200,"Griffiths effects and quantum critical points in dirty superconductors
+  without spin-rotation invariance: One-dimensional examples",6.306194298499366e-06,8.140908927103689e-06,7.0,3.0
+cond-mat/0411191,"Spin-glass chain in a magnetic field : influence of the disorder
+  distribution on ground state properties and low-energy excitations",6.283886578676534e-06,0.0,2.0,0.0
+cond-mat/0504513,"Functionals of the Brownian motion, localization and metric graphs",6.278266436646181e-06,2.923888695444692e-05,5.0,2.0
+cond-mat/0412761,Hierarchical characterization of complex networks,6.2719207890784005e-06,2.593039376388184e-05,12.0,12.0
+cond-mat/0308282,Thermodynamic Properties of the Dipolar Spin Ice Model,6.258540403936587e-06,3.980365510320144e-06,9.0,2.0
+cond-mat/9809188,"Interaction induced delocalization of two particles: large system size
+  calculations and dependence on interaction strength",6.247329967384408e-06,0.0,8.0,2.0
+nlin/0612061,Unmixing in Random Flows,6.237295044101895e-06,0.0,2.0,0.0
+cond-mat/0408487,"Microscopic Theory for the Quantum to Classical Crossover in Chaotic
+  Transport",6.232546813432884e-06,1.632749821762122e-05,1.0,1.0
+cond-mat/9710024,Coupled Minimal Models with and without Disorder,6.232509831190432e-06,0.0,8.0,3.0
+physics/0404015,Stochastic analysis of different rough surfaces,6.2312493713254565e-06,0.0,2.0,1.0
+physics/9912005,"Bayesian Field Theory: Nonparametric Approaches to Density Estimation,
+  Regression, Classification, and Inverse Quantum Problems",6.21737073044464e-06,0.0,7.0,2.0
+cond-mat/0108023,A Random Matrix Approach to Cross-Correlations in Financial Data,6.214884675239623e-06,0.0002471124075417,10.0,9.0
+cond-mat/0408405,Kovacs effect in facilitated spin models of strong and fragile glasses,6.2085192168887055e-06,0.0,2.0,0.0
+cond-mat/0304590,Local excitations in mean field spin glasses,6.208192973088168e-06,4.489050281695013e-06,3.0,1.0
+cond-mat/0511655,The synchronizability of highly clustered scale-free networks,6.207020097367275e-06,7.178519888015186e-08,6.0,1.0
+cond-mat/0508646,"Dopant-Induced Local Pairing Inhomogeneity in
+  Bi$_2$Sr$_2$CaCu$_2$O$_{8+\delta}$",6.199587517895382e-06,6.884276470083671e-06,5.0,5.0
+cond-mat/0609705,"Critical fluctuations and breakdown of Stokes-Einstein relation in the
+  Mode-Coupling Theory of glasses",6.198389201835305e-06,1.8964213325543733e-05,5.0,1.0
+cond-mat/0107447,"Lattice Dirac fermions in a non-Abelian random gauge potential: Many
+  flavors, chiral symmetry restoration and localization",6.190893825107269e-06,7.117160928153608e-07,3.0,2.0
+cond-mat/0011146,"Fokker-Planck equations and density of states in disordered quantum
+  wires",6.185366649194022e-06,8.841176993057785e-06,6.0,4.0
+cond-mat/0005244,"On the existence of a variational principle for deterministic cellular
+  automaton models of highway traffic flow",6.1760624130200696e-06,0.0,7.0,1.0
+cond-mat/0107582,Particle-hole symmetric localization in two dimensions,6.163115556590777e-06,1.1139082584851149e-07,2.0,3.0
+cond-mat/0308240,Static response in disk packings,6.15612256880157e-06,2.985274132740108e-05,2.0,3.0
+cond-mat/0510430,Boolean Dynamics of Kauffman Models with a Scale-Free Network,6.153997206709795e-06,2.364001681734049e-07,4.0,1.0
+cond-mat/0602041,Interface free energies in p-spin glass models,6.14921109705185e-06,0.0,5.0,0.0
+cond-mat/0412519,"When it comes to spintronics, there may be some room in the middle",6.136945548515699e-06,0.0,2.0,0.0
+cond-mat/0507525,"An algorithm for counting circuits: application to real-world and random
+  graphs",6.1349189407811575e-06,2.0709917360938104e-06,4.0,1.0
+cond-mat/0702131,"Directed polymer in a random medium of dimension 1+1 and 1+3: weights
+  statistics in the low-temperature phase",6.120521139366951e-06,0.0,4.0,1.0
+cond-mat/9909285,Critical statistics in a power-law random banded matrix ensemble,6.119333032687596e-06,6.032432057618278e-06,4.0,3.0
+cond-mat/9912328,Three-state neural network: from mutual information to the hamiltonian,6.119117400064861e-06,0.0,2.0,0.0
+cond-mat/0203167,"Infinite-Order Percolation and Giant Fluctuations in a Protein
+  Interaction Network",6.118953176034621e-06,4.9643178053153285e-06,3.0,8.0
+cond-mat/0605673,"Self-consistent multi-mode lasing theory for complex or random lasing
+  media",6.118278930390038e-06,0.0,4.0,1.0
+cond-mat/0602349,Computing the number of metastable states in infinite-range models,6.10895604611903e-06,1.9818284432214337e-07,5.0,2.0
+cond-mat/0611436,Rectification effects in coherent transport through single molecules,6.107026054511987e-06,0.0,1.0,1.0
+cond-mat/0204398,"Universality of the Crossing Probability for the Potts Model for
+  q=1,2,3,4",6.105765953846279e-06,0.0,5.0,0.0
+cond-mat/9708222,Driven Dynamics of Periodic Elastic Media in Disorder,6.099146899280996e-06,0.0,3.0,1.0
+cond-mat/0110219,"Monte Carlo Studies of the Ordering of the Three-Dimensional Isotropic
+  Heisenberg Spin Glass in Magnetic Fields",6.095526101671075e-06,1.24275031371656e-05,4.0,1.0
+cond-mat/0204168,"Exact solutions for the statistics of extrema of some random 1D
+  landscapes, Application to the equilibrium and the dynamics of the toy model",6.095094127853285e-06,9.38407715006541e-07,6.0,10.0
+cond-mat/0304636,Average distance in growing trees,6.087195923764641e-06,0.0,3.0,0.0
+cond-mat/0008241,"Density of states for dirty d-wave superconductors: A unified and dual
+  approach for different types of disorder",6.081428987514442e-06,8.79508682124874e-06,7.0,3.0
+cond-mat/0301403,Ordering and Broken Symmetry in Short-Ranged Spin Glasses,6.073458001689584e-06,1.3894149010837668e-05,5.0,4.0
+cond-mat/9901067,"Static and Dynamic Properties of a Viscous Silica Melt Molecular
+  Dynamics Computer Simulations",6.063958736264456e-06,0.0,3.0,5.0
+cond-mat/0410579,"Number and length of attractors in a critical Kauffman model with
+  connectivity one",6.063552729854114e-06,0.0,3.0,3.0
+math-ph/0312043,"Multiplying unitary random matrices - universality and spectral
+  properties",6.059375798240314e-06,0.0,6.0,1.0
+cond-mat/0501169,"Towards a Theory of Scale-Free Graphs: Definition, Properties, and
+  Implications (Extended Version)",6.056313659559851e-06,1.0115762658074322e-05,4.0,4.0
+cond-mat/0603622,"Non-Hermitean Random Matrix Theory: Summation of Planar Diagrams, the
+  ""Single-Ring"" Theorem and the Disk-Annulus Phase Transition",6.054508004305906e-06,1.6457630040642576e-07,7.0,1.0
+cond-mat/0505138,Defect energy of infinite-component vector spin glasses,6.052035426445219e-06,0.0,4.0,0.0
+cond-mat/0011413,"Strong Coupling Fixed Points of Current Interactions and Disordered
+  Fermions in 2D",6.041566523511071e-06,1.0720205810155248e-05,19.0,7.0
+cond-mat/9810282,"Schwinger-Keldysh Approach to Disordered and Interacting Electron
+  Systems: Derivation of Finkelstein's Renormalization Group Equations",6.0292146615176925e-06,9.030436650313698e-05,3.0,3.0
+cond-mat/0508609,"Cavity approach for real variables on diluted graphs and application to
+  synchronization in small-world lattices",6.026251986815238e-06,0.0,1.0,0.0
+cond-mat/0104264,"State Hierarchy Induced by Correlated Spin Domains in short range spin
+  glasses",6.0200720855008095e-06,3.383681986524951e-05,7.0,3.0
+cond-mat/0107555,Damage spreading in small world Ising models,6.008024102919032e-06,0.0,3.0,1.0
+cond-mat/0205244,Simple models of small world networks with directed links,6.006856045977727e-06,0.0,2.0,0.0
+cond-mat/0005047,"On the Effects of Changing the Boundary Conditions on the Ground State
+  of Ising Spin Glasses",6.004529268557675e-06,1.990182755160072e-06,7.0,8.0
+cond-mat/0407734,"Heterogeneous dynamics of the three dimensional Coulomb glass out of
+  equilibrium",5.9821016177041615e-06,0.0,3.0,2.0
+cond-mat/9802111,XY models with disorder and symmetry-breaking fields in two dimensions,5.977978837095875e-06,0.0,4.0,2.0
+cond-mat/9912111,Quasi-long-range order in nematics confined in random porous media,5.975188499174175e-06,0.0,2.0,0.0
+cond-mat/0202295,Localization of thermal packets and metastable states in Sinai model,5.956002891648407e-06,1.4852110113134864e-08,4.0,2.0
+cond-mat/0504418,"A mean field description of jamming in non-cohesive frictionless
+  particulate systems",5.953524698755547e-06,0.0,7.0,0.0
+cond-mat/0104547,Mean-field approximation for a limit order driven market model,5.952484806846285e-06,8.281536599084037e-06,8.0,4.0
+cond-mat/0409449,Zero temperature phase diagram of finite connectivity spin glasses,5.949167943131317e-06,1.0251384442755505e-06,3.0,2.0
+cond-mat/0407748,"Magnetism of One-Dimensional Ni monoatomic chain on Au(110)-(1x2)
+  surface",5.941391913970334e-06,0.0,3.0,0.0
+cond-mat/0603731,"Signature of the electron-electron interaction in the magnetic field
+  dependence of nonlinear I-V characteristics in mesoscopic conductors",5.933154089214736e-06,4.302158008558098e-07,5.0,3.0
+cond-mat/0511539,Geometric effects on critical behaviours of the Ising model,5.918156803376336e-06,0.0,2.0,0.0
+cond-mat/0403172,"Parallel dynamics of disordered Ising spin systems on finitely connected
+  random graphs",5.914293168394225e-06,1.990182755160072e-06,4.0,1.0
+cond-mat/0206224,"On the Tail of the Overlap Probability Distribution in the
+  Sherrington--Kirkpatrick Model",5.903513606094636e-06,7.231078264849342e-06,5.0,2.0
+cond-mat/0003052,Vortex-glass phases in type-II superconductors,5.900874066479213e-06,0.0,4.0,3.0
+cond-mat/0107566,Anomalous stress relaxation in random macromolecular networks,5.899222190970461e-06,0.0,3.0,0.0
+cond-mat/0511375,"1/f noise in a dilute GaAs two-dimensional hole system in the insulating
+  phase",5.898628635590931e-06,0.0,4.0,0.0
+cond-mat/0012015,"Role of a parallel magnetic field in two dimensional disordered clusters
+  containing a few correlated electrons",5.892156534480754e-06,3.934856812441045e-06,9.0,4.0
+cond-mat/0302390,Melting transition of an Ising glass driven by magnetic field,5.880123532414176e-06,0.0,1.0,0.0
+cond-mat/0601027,Hysteretic optimization for the Sherrington-Kirkpatrick spin glass,5.875015247321308e-06,8.664416899253921e-07,2.0,1.0
+cond-mat/0407130,Extremal Optimization for Sherrington-Kirkpatrick Spin Glasses,5.875015247321308e-06,4.308673980722697e-06,2.0,4.0
+cond-mat/0603018,Rigorous Inequalities between Length and Time Scales in Glassy Systems,5.873749826418227e-06,3.071072271781271e-05,3.0,4.0
+cond-mat/0106357,Numerical results for the Anderson transition. Comment,5.871507119228095e-06,0.0,6.0,2.0
+cond-mat/0605639,Hopping conductivity of a suspension of flexible wires in an insulator,5.866803729762933e-06,0.0,3.0,0.0
+cond-mat/0306610,Systematic identification of statistically significant network measures,5.8624123852448e-06,5.977974320536784e-06,2.0,5.0
+cond-mat/0403294,Electrical noise properties in aging materials,5.8540203399349545e-06,9.95091377580036e-06,7.0,1.0
+cond-mat/0501197,Continuum Limit of the Integrable sl(2/1) 3-\bar{3} Superspin Chain,5.852367737882543e-06,2.644371971457701e-06,10.0,6.0
+cond-mat/9904124,"Lennard-Jones binary mixture: a thermodynamical approach to glass
+  transition",5.850886941707446e-06,8.246142403797689e-05,10.0,11.0
+cond-mat/0607817,"Mosaic multi-state scenario vs. one-state description of supercooled
+  liquids",5.850229654174903e-06,3.980365510320144e-06,4.0,1.0
+cond-mat/0106005,"The critical exponent of the localization length at the Anderson
+  transition in 3D disordered systems is larger than 1",5.840337303289136e-06,0.0,11.0,6.0
+cond-mat/0108191,Modified TAP equations for the SK spin glass,5.835896996266983e-06,0.0,1.0,1.0
+cond-mat/0504086,"Diagrammatic Analysis of the Unitary Group for Double Barrier Ballistic
+  Cavities: Equivalence with Circuit Theory",5.823312980342088e-06,0.0,2.0,0.0
+cond-mat/0610691,Mode statistics in random lasers,5.821996350622634e-06,0.0,1.0,0.0
+cond-mat/0309278,Size dependence of the internal energy in Ising and vector spin glasses,5.815675110630771e-06,0.0,7.0,1.0
+cond-mat/0507687,"Phononless thermally activated transport through a disordered array of
+  quantum wires",5.813885026896663e-06,0.0,4.0,0.0
+cond-mat/0012184,Disorder Driven Melting of the Vortex Line Lattice,5.805771545350872e-06,0.0,1.0,1.0
+cond-mat/0212305,Disorder-induced rounding of certain quantum phase transitions,5.802574245024336e-06,0.0,2.0,0.0
+cond-mat/0606635,Quantum chaos and fluctuations in isolated nuclear spin systems,5.801814807351457e-06,0.0,1.0,0.0
+cond-mat/0401237,Message passing in random satisfiability problems,5.799665930342826e-06,3.980365510320144e-06,8.0,2.0
+cond-mat/0406391,Theory of Networked Minority Games based on Strategy Pattern Dynamics,5.787410345656195e-06,0.0,5.0,1.0
+cond-mat/9811252,The role of the energy gap in protein folding dynamics,5.785545697284649e-06,0.0,4.0,0.0
+cond-mat/0310782,Evidence for a Vanishing Complexity of the Sherrington-Kirkpatrick model,5.774360039169462e-06,4.243038760050017e-05,9.0,5.0
+cond-mat/0406590,"Models for the magnetic ac susceptibility of granular superferromagnetic
+  CoFe/Al$_2$O$_3$",5.773321934807347e-06,0.0,1.0,0.0
+cond-mat/0701211,"Disorder effects in the quantum Heisenberg model: An Extended Dynamical
+  mean-field theory analysis",5.773321934807347e-06,0.0,1.0,0.0
+cond-mat/9802104,"Application of a continous time cluster algorithm to the Two-dimensional
+  Random Quantum Ising Ferromagnet",5.758322312258808e-06,3.980365510320144e-06,5.0,8.0
+quant-ph/0508018,Disordered complex systems using cold gases and trapped ions,5.750949172491235e-06,1.438638221305426e-05,4.0,3.0
+cond-mat/0212438,A single saddle model for the beta-relaxation in supercooled liquids,5.738273305179535e-06,2.98686543025223e-06,5.0,1.0
+cond-mat/0011074,Fast Monte Carlo algorithm for supercooled soft spheres,5.737754896034603e-06,0.0,2.0,0.0
+cond-mat/9905050,On the possibility of optimal investment,5.728641645988581e-06,0.0,6.0,0.0
+cond-mat/9802092,A Study of Cross-Over Effects For The 2D Random Bond Potts Model,5.72402768850138e-06,0.0,7.0,19.0
+cond-mat/9904361,"Percolation-type description of the metal-insulator transition in two
+  dimensions",5.721986529646239e-06,0.0,9.0,4.0
+cond-mat/9905388,Disordered d-wave superconductors with chiral symmetry,5.717320552026371e-06,4.146046060586393e-06,10.0,2.0
+cond-mat/0203141,"Quantum Impurities in the Two-Dimensional Spin One-Half Heisenberg
+  Antiferromagnet",5.71602702995523e-06,0.0,2.0,0.0
+cond-mat/0605490,"Finite temperature Functional RG, droplets and decaying Burgers
+  Turbulence",5.7067572179522e-06,2.9968535101504125e-06,9.0,7.0
+cond-mat/0211417,Low-energy fixed points of random Heisenberg models,5.701106519650881e-06,0.0,4.0,0.0
+cond-mat/9909210,"Energy-level statistics at the metal-insulator transition in anisotropic
+  systems",5.69412257640501e-06,0.0,13.0,6.0
+cond-mat/0012054,Onset Temperature of Slow Dynamics in Glass Forming Liquids,5.69174190855745e-06,1.9673457049187724e-06,6.0,2.0
+cond-mat/0606797,"Nonlinear Diffusion Through Large Complex Networks Containing Regular
+  Subgraphs",5.679326981876062e-06,0.0,3.0,0.0
+cond-mat/9810119,Mean-Field Approximations to the Longest Common Subsequence Problem,5.678260575878476e-06,0.0,4.0,0.0
+cond-mat/0503269,"Strong disorder renormalization group on fractal lattices: Heisenberg
+  models and magnetoresistive effects in tight binding models",5.676434735517614e-06,0.0,1.0,1.0
+cond-mat/0303349,On the theory of plateau-plateau transitions in Quantum Hall Effect,5.672174547159766e-06,0.0,4.0,0.0
+cond-mat/0507157,"Quantum localization in bilayer Heisenberg antiferromagnets with site
+  dilution",5.671000136016526e-06,0.0,2.0,0.0
+cond-mat/0410355,"Anomalous heat conduction and anomalous diffusion in nonlinear lattices,
+  single walled nanotubes, and billiard gas channels",5.668652143565432e-06,0.0,4.0,1.0
+cond-mat/0506014,"Stability of thermodynamic and dynamical order in a system of globally
+  coupled rotors",5.667450478064312e-06,0.0,4.0,0.0
+cond-mat/0205021,Barkhausen Noise and Critical Scaling in the Demagnetization Curve,5.667235636323189e-06,0.0,3.0,2.0
+cond-mat/0505021,The Memory Effect in Electron Glasses,5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0412209,A Numerical Study of Coulomb Interaction Effects on 2D Hopping Transport,5.655144290770314e-06,0.0,2.0,2.0
+cond-mat/0410406,"Finite Temperature Transitions in Large Magnetic Field in Dipolar Spin
+  Ice",5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0610469,"Interaction of two level systems in amorphous materials with arbitrary
+  phonon fields",5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0302445,A Numerical Study of Transport and Shot Noise at 2D Hopping,5.655144290770314e-06,0.0,2.0,2.0
+cond-mat/0503160,"Neutron scattering studies of the spin ices Ho2Ti2O7 and Dy2Ti2O7 in
+  applied magnetic field",5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0603697,Floppy modes and non-affine deformations in random fiber networks,5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0508703,"History dependence, memory and metastability in electron glasses",5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0507085,Structure and Relaxation Dynamics of a Colloidal Gel,5.650405363854393e-06,1.0149020886148314e-05,4.0,2.0
+cond-mat/0303582,Linear and non linear response in the aging regime of the 1D trap model,5.642904205575049e-06,0.0,3.0,4.0
+hep-th/0507242,Operator Algebra in Logarithmic Conformal Field Theory,5.634680025549072e-06,0.0,6.0,1.0
+cond-mat/0207140,Alternative solutions to diluted p-spin models and XORSAT problems,5.630745366194976e-06,2.015322041109144e-06,7.0,15.0
+cond-mat/0511194,Transport on randomly evolving trees,5.6290958826441975e-06,0.0,3.0,0.0
+cond-mat/0112502,A model for the size distribution of customer groups and businesses,5.627301770031067e-06,0.0,1.0,0.0
+cond-mat/0108399,"Non-universal scaling and dynamical feedback in generalized models of
+  financial markets",5.627301770031067e-06,0.0,1.0,1.0
+cond-mat/0701230,Coexisting Order in the Pseudogap State of Cuprates,5.623897433717151e-06,0.0,3.0,0.0
+nucl-th/0701096,A Global Model of $\beta^-$-Decay Half-Lives Using Neural Networks,5.618884926583211e-06,0.0,3.0,0.0
+cond-mat/0403765,"Mott--Hubbard transition vs. Anderson localization of correlated,
+  disordered electrons",5.6182120764188e-06,2.391189728214713e-05,2.0,7.0
+cond-mat/9904303,"Numerical Simulations of the 4D Edwards-Anderson Spin Glass with Binary
+  Couplings",5.609481618514044e-06,1.6531190426162037e-05,11.0,7.0
+cond-mat/9910278,Ground State Structure of Spin Glasses,5.59915335562313e-06,4.626931595082245e-06,5.0,3.0
+cond-mat/0207588,An Investigation of Crash Avoidance in a Complex System,5.599103326581899e-06,6.646319275627839e-07,7.0,1.0
+cond-mat/0206228,Crash Avoidance in a Complex System,5.599103326581899e-06,0.0,7.0,0.0
+cond-mat/9806160,Effects of randomness on the antiferromagnetic spin-1 chain,5.5942108340879295e-06,0.0,4.0,0.0
+cond-mat/0106401,"Inner Market as a ""Black Box""",5.583040733007253e-06,0.0,5.0,0.0
+cs/0601113,"An Efficient Pseudo-Codeword Search Algorithm for Linear Programming
+  Decoding of LDPC Codes",5.5708013619125e-06,1.990182755160072e-06,8.0,5.0
+cond-mat/0403725,"Threshold values, stability analysis and high-q asymptotics for the
+  coloring problem on random graphs",5.563834876732981e-06,2.3144411600597404e-06,9.0,2.0
+cond-mat/0201305,Two-dimensional Dirac fermions with random axial-vector potential,5.549557998821836e-06,0.0,6.0,0.0
+cond-mat/0312611,"Tranverse Ising Model, Glass and Quantum Annealing",5.545448551222691e-06,0.0,3.0,0.0
+cond-mat/0603251,High Frequency dynamics in metallic glasses,5.536966646733281e-06,0.0,1.0,0.0
+cond-mat/9908256,Numerical results for two interacting particles in a random environment,5.535683823913975e-06,0.0,5.0,0.0
+cond-mat/0312501,Properties of atypical graphs from negative complexities,5.531766851798989e-06,0.0,2.0,1.0
+cond-mat/0206352,An exactly solvable random satisfiability problem,5.52413809976015e-06,2.131277801234853e-06,6.0,2.0
+cond-mat/9902054,"Charge Relaxation Resistances and Charge Fluctuations in Mesoscopic
+  Conductors",5.51295228403898e-06,0.0,5.0,1.0
+cond-mat/9709165,"Numerical Simulations of Finite Dimensional Spin Glasses Show a Mean
+  Field like Behavior",5.504642421374634e-06,0.0,9.0,0.0
+cond-mat/0302406,Feshbach resonance described by the boson fermion coupling,5.496108908245544e-06,6.126495421668133e-08,5.0,1.0
+cond-mat/0107366,Zero-temperature responses of a 3D spin glass in a field,5.489553942390772e-06,6.592455622950906e-06,4.0,3.0
+cond-mat/0309501,"Influence of quenched dilution on the quasi-long-range ordered phase of
+  the 2d XY model",5.4884119451358745e-06,0.0,6.0,0.0
+cond-mat/9902212,"Magnetic critical behavior of two-dimensional random-bond Potts
+  ferromagnets in confined geometries",5.487120671895559e-06,1.4042666093540956e-05,6.0,6.0
+cond-mat/9611078,Phase randomness in a one-dimensional disordered absorbing medium,5.48413264008019e-06,0.0,5.0,0.0
+cond-mat/0002130,The influence of critical behavior on the spin glass phase,5.478326982346147e-06,5.967537176965613e-06,3.0,5.0
+physics/0507111,Financial Applications of Random Matrix Theory: Old Laces and New Pieces,5.4681757000812965e-06,9.149226621488856e-07,4.0,2.0
+cond-mat/9907499,Potential energy landscape of finite-size mean-field models for glasses,5.46521557962099e-06,0.0010064803373535,2.0,8.0
+cond-mat/0204225,"Dynamical Critical Phenomena in three-dimensional Heisenberg Spin
+  Glasses",5.455965261127473e-06,0.0,2.0,0.0
+cond-mat/0007105,"Statistics of resonances and of delay times in quasiperiodic
+  Schr""odinger equations",5.44735696001582e-06,0.0,6.0,0.0
+math-ph/0410032,"Spontaneous symmetry breaking of a hyperbolic sigma model in three
+  dimensions",5.441636817694974e-06,2.802738489262896e-06,2.0,2.0
+cond-mat/0310684,"Superparamagnetism and Spin Glass Dynamics of Interacting Magnetic
+  Nanoparticle Systems",5.432949491202801e-06,0.0,2.0,0.0
+cond-mat/0107527,Roughness at the depinning threshold for a long-range elastic string,5.432620960610683e-06,0.0,3.0,4.0
+cond-mat/0607616,"Structural Properties of the Disordered Spherical and other Mean Field
+  Spin Models",5.427218123446341e-06,0.0,5.0,0.0
+cond-mat/0305434,Critical equation of state of randomly dilute Ising systems,5.425035638357745e-06,6.419498087604741e-07,7.0,3.0
+cond-mat/0601711,Conformal Invariance and SLE in Two-Dimensional Ising Spin Glasses,5.412773876772561e-06,1.3930760641005442e-05,1.0,8.0
+cond-mat/0509020,"Inhomogeneous percolation models for spreading phenomena in random
+  graphs",5.406189278020127e-06,0.0,4.0,0.0
+cond-mat/0606237,On the flexibility of complex systems,5.405625912906396e-06,0.0,1.0,0.0
+cond-mat/0506330,A program generating homogeneous random graphs with given weights,5.396414230520362e-06,3.980365510320144e-06,3.0,1.0
+cond-mat/0607229,Universal distribution of threshold forces at the depinning transition,5.387390974033536e-06,2.096417404779889e-07,2.0,1.0
+cond-mat/0404469,"Localization threshold of Instantaneous Normal Modes from level-spacing
+  statistics",5.387236656845106e-06,0.0,1.0,0.0
+cond-mat/0511286,Signatures of photon localization,5.387090661604773e-06,0.0,3.0,0.0
+cond-mat/0703038,Entanglement entropy of the random spin-1 Heisenberg chain,5.385772280958674e-06,1.9827567001035044e-06,2.0,2.0
+cond-mat/9906450,Quantum Hall effect at low magnetic fields,5.374914238108122e-06,1.990182755160072e-06,7.0,2.0
+cond-mat/9802140,"Velocity shift of surface acoustic waves due to interaction with
+  composite fermions in a modulated structure",5.370011575679698e-06,0.0,3.0,2.0
+cond-mat/0601058,Synchronization Landscapes in Small-World-Connected Computer Networks,5.367764801854007e-06,1.4852110113134864e-08,4.0,1.0
+cond-mat/0104433,Vibrational spectra in glasses,5.365981127162072e-06,0.0,2.0,6.0
+cond-mat/0209139,"Energy Barriers and Activated Dynamics in a Supercooled Lennard-Jones
+  Liquid",5.365343457603808e-06,5.615344139149475e-05,5.0,7.0
+cond-mat/0203089,"Survival probability and order statistics of diffusion on disordered
+  media",5.351668534947859e-06,0.0,4.0,0.0
+cond-mat/0203238,"Interactions and Disorder in Quantum Dots: Instabilities and Phase
+  Transitions",5.332131270305266e-06,0.0,5.0,0.0
+cond-mat/0502156,Scale Free Subnetworks by Design and Dynamics,5.3257851182384494e-06,1.5757939172050708e-07,6.0,1.0
+cond-mat/0205039,Delocalization and Heisenberg's uncertainty relation,5.316131482491309e-06,0.0,2.0,0.0
+cond-mat/0005109,Error-correcting code on a cactus: a solvable model,5.314887070925485e-06,0.0,3.0,0.0
+cond-mat/0201226,Magnetic Field Scaling in Spin Glasses and the Mean-Field Theory,5.311821544082076e-06,6.456954871685383e-06,2.0,2.0
+cond-mat/0112297,Self-organized criticality in the Kardar-Parisi-Zhang-equation,5.309670303601146e-06,0.0,3.0,1.0
+cond-mat/0510209,"Is the droplet theory for the Ising spin glass inconsistent with replica
+  field theory?",5.30899456397474e-06,0.0,6.0,1.0
+cond-mat/0008039,Glassy behaviour in a simple topological model,5.293118385930731e-06,0.0,2.0,2.0
+cond-mat/0412017,"Central mode and soft mode behavior in PbMg1/Nb2/3O3 relaxor
+  ferroelectric",5.289270146350182e-06,0.0,2.0,2.0
+cond-mat/0408349,Loops structure of the Internet at the Autonomous System Level,5.287209857783586e-06,1.8414906746022996e-05,9.0,8.0
+cond-mat/0109313,"Extreme Value Statistics and Traveling Fronts: An Application to
+  Computer Science",5.280933683704502e-06,0.0,3.0,0.0
+cond-mat/0505281,"No robust phases in aerogel: 3He-A with orientational disorder in the
+  Ginzburg-Landau model",5.279135134102134e-06,0.0,2.0,4.0
+cond-mat/9802108,"Critical Behavior of the Two-Dimensional Random Quantum Ising
+  Ferromagnet",5.277005509621247e-06,0.0002081389571373,2.0,6.0
+cond-mat/9908376,"Correlation length-exponent relation for the two-dimensional random
+  Ising model",5.27649374394372e-06,0.0,6.0,1.0
+cond-mat/9808140,Evidence for the droplet/scaling picture of spin glasses,5.264994521711938e-06,0.0,2.0,2.0
+cond-mat/0112052,Coupled Growing Networks,5.263760811044039e-06,2.809052667508865e-06,6.0,2.0
+cond-mat/0404594,Neutron Scattering Investigation of the Spin Ice State in Dy2Ti2O7,5.263613002068853e-06,0.0,3.0,0.0
+cond-mat/0108247,Metastable configurations of spin models on random graphs,5.257874408497087e-06,0.0,5.0,1.0
+cond-mat/0112139,"Long-lived states in synchronized traffic flow. Empirical prompt and
+  dynamical trap model",5.250816679302589e-06,0.0,4.0,0.0
+cond-mat/0603327,Anomalous impurity resonance in graphene,5.250006670656994e-06,0.0,4.0,3.0
+cond-mat/0011132,Griffiths phase of the Kondo insulator fixed point,5.246862060730315e-06,0.0,4.0,0.0
+cond-mat/0101326,Stylized facts of financial markets and market crashes in Minority Games,5.244986400151416e-06,9.532084270609907e-06,17.0,7.0
+cond-mat/0609098,"Synchronization in Weighted Uncorrelated Complex Networks in a Noisy
+  Environment: Optimization and Connections with Transport Efficiency",5.242324830116169e-06,5.06771873786375e-06,6.0,5.0
+cond-mat/0304321,Tipping the balances of a small world,5.240645585787497e-06,2.3470614645105758e-07,3.0,2.0
+cond-mat/0404350,Quantum percolation in granular metals,5.236575879015132e-06,2.846654438350849e-09,5.0,1.0
+cond-mat/9712153,Correlations of Wave Functions in Disordered Systems,5.233993758209181e-06,0.0,6.0,2.0
+cond-mat/0603607,"Enhancement of variation of fundamental constants in ultracold atom and
+  molecule systems near Feshbach resonances",5.232508548368096e-06,0.0,5.0,0.0
+physics/0505158,Surviving opinions in Sznajd models on complex networks,5.231384970858306e-06,0.0,3.0,0.0
+cond-mat/0111458,On the definition of temperature in dense granular media,5.222882752864838e-06,6.68344955091069e-08,4.0,3.0
+cond-mat/0701265,"Charge and momentum transfer in supercooled melts: Why should their
+  relaxation times differ?",5.213844960296199e-06,0.0,4.0,0.0
+cond-mat/0606132,"Numerical study of the directed polymer in a 1+3 dimensional random
+  medium",5.212976027446614e-06,1.990182755160072e-06,4.0,1.0
+cond-mat/0603814,Dynamics of a quantum phase transition in the random Ising model,5.209615709317449e-06,0.0,4.0,0.0
+cond-mat/0202355,Thermodynamics of strongly disordered spin ladders,5.190527653874676e-06,0.0,1.0,0.0
+cond-mat/0403261,"Tap Complexity, the Cavity Method and Supersymmetry",5.179800493930984e-06,1.996351959934532e-05,8.0,5.0
+cond-mat/0210079,Force-induced unzipping of DNA with long-range correlated sequence,5.178373091780056e-06,0.0,5.0,0.0
+cond-mat/0406718,Unzipping of DNA with correlated base-sequence,5.178373091780056e-06,0.0,5.0,0.0
+cond-mat/0411732,"Zero-Temperature Limit of the SUSY-breaking Complexity in Diluted
+  Spin-Glass Models",5.176175969243466e-06,0.0,3.0,2.0
+cond-mat/0302576,"Interacting electrons in a two-dimensional disordered environment:
+  Effect of a Zeeman magnetic field",5.175353323589237e-06,0.0,3.0,0.0
+cond-mat/0009144,Random quantum magnets with broad disorder distribution,5.173542255800296e-06,0.0,1.0,1.0
+cond-mat/0401035,Ising Model on Edge-Dual of Random Networks,5.172534171541936e-06,0.0,8.0,0.0
+cond-mat/0008472,The dynamical structure factor in topologically disordered systems,5.157022577184061e-06,0.0,8.0,0.0
+cond-mat/0012275,"Origin of Spin Ice Behavior in Ising Pyrochlore Magnets with Long Range
+  Dipole Interactions: an Insight from Mean-Field Theory",5.150997807140682e-06,9.34290537079583e-06,5.0,5.0
+cond-mat/0110413,"Spin-models of granular compaction: From one-dimensional models to
+  random graphs",5.13651473684769e-06,0.0,3.0,0.0
+cond-mat/0110472,Glassy states in a shaken sandbox,5.13651473684769e-06,0.0,3.0,0.0
+q-bio/0411009,"Growth-Driven Percolations: The Dynamics of Community Formation in
+  Neuronal Systems",5.135019324994562e-06,3.929466436913029e-06,3.0,2.0
+cond-mat/0403436,Kinetic theory of fluctuations in conducting systems,5.1207347276951415e-06,2.0224419988986824e-05,5.0,3.0
+cond-mat/0111323,Human Sexual Contact Network as a Bipartite Graph,5.113562906897532e-06,4.084330281112088e-08,5.0,2.0
+cond-mat/0009382,Large-scale low-energy excitations in 3-d spin glasses,5.110588352892846e-06,5.5094781381649e-05,7.0,4.0
+cond-mat/9904309,Symmetry between absorption and amplification in disordered media,5.109143455702854e-06,0.0,2.0,0.0
+cond-mat/0508028,A generative model for feedback networks,5.1089109380504205e-06,6.128242728740265e-06,4.0,4.0
+cond-mat/0505581,"Decision Making, Strategy dynamics, and Crowd Formation in Agent-based
+  models of Competing Populations",5.108259375711795e-06,0.0,2.0,0.0
+physics/0609116,"On the Dynamics of the $h-$index in Complex Networks with Coexisting
+  Communities",5.106552175322363e-06,0.0,4.0,0.0
+cond-mat/9809369,"Scaling the localisation lengths for two interacting particles in
+  one-dimensional random potentials",5.100887800121722e-06,0.0,4.0,0.0
+cond-mat/0505289,"Arrested phase separation in a short-ranged attractive colloidal system:
+  A numerical study",5.08814002214223e-06,0.0,3.0,0.0
+cond-mat/0102256,Quantum mechanical relaxation of open quasiperiodic systems,5.086516160940561e-06,0.0,3.0,0.0
+cond-mat/9902352,"Critical behavior of two-dimensional random hopping fermions with
+  \pi-flux",5.083541902562464e-06,1.3804820548349452e-05,13.0,3.0
+cond-mat/9905189,On the origin of ultrametricity,5.080537850075468e-06,9.6790093082448e-07,6.0,1.0
+cond-mat/0310205,Influence of topology on the performance of a neural network,5.078080598651527e-06,2.0347390854994767e-06,1.0,2.0
+cond-mat/0510836,"Evolving network - simulation study. From regular lattice to scale free
+  network",5.076126662782614e-06,0.0,4.0,0.0
+nlin/0508009,Spectral correlations of individual quantum graphs,5.075319818267011e-06,1.3464089037710614e-05,2.0,1.0
+cond-mat/9707046,"On the distribution of the Wigner time delay in one-dimensional
+  disordered systems",5.072196777501091e-06,0.0,6.0,3.0
+cond-mat/0209531,The Oslo rice pile model is a quenched Edwards-Wilkinson equation,5.065426048194237e-06,2.1403747635958403e-05,6.0,2.0
+cond-mat/9805195,Non-Hermitian Delocalization and Eigenfunctions,5.057717442272415e-06,7.68494513209796e-06,8.0,4.0
+cond-mat/0003508,Test of molecular mode coupling theory: A first resume,5.056768763379525e-06,0.0,3.0,1.0
+cond-mat/0405381,Random Networks with Tunable Degree Distribution and Clustering,5.042809622844111e-06,0.0,5.0,0.0
+cond-mat/0003031,"Thermodynamic Fingerprints of Disorder in Flux Line Lattices and other
+  Glassy Mesoscopic Systems",5.040502824907706e-06,2.174115189876672e-07,2.0,1.0
+cond-mat/0005105,"Critical Exponents of the KPZ Equation via Multi-Surface Coding
+  Numerical Simulations",5.039911341633895e-06,0.0,6.0,4.0
+cond-mat/0604126,"Strong disorder renormalization group study of S=1/2 Heisenberg
+  antiferromagnet layers/bilayers with bond randomness, site dilution and dimer
+  dilution",5.032041733749528e-06,0.0,2.0,2.0
+cond-mat/0405566,The statistical mechanics of networks,5.027431101737711e-06,2.9050571142510165e-06,3.0,4.0
+cond-mat/0411330,"Hysteresis and avalanches in the T=0 random-field Ising model with
+  2-spin-flip dynamics",5.0270605677598245e-06,4.97545688790018e-06,4.0,2.0
+cond-mat/0106497,Classical molecular dynamics simulations of amorphous silica surfaces,5.026308705524253e-06,0.0,2.0,0.0
+cond-mat/0103619,"The ordering temperature and critical exponents of the binomial Ising
+  spin glass in dimension three",5.024542623515621e-06,2.862813377179653e-05,2.0,2.0
+cond-mat/0206198,"Stochastic Renormalization Group in Percolation: I. Fluctuations and
+  Crossover",5.018632533335675e-06,0.0,3.0,0.0
+cond-mat/0506735,Electrodynamics of Amorphous Media at Low Temperatures,5.017613287357487e-06,0.0,3.0,4.0
+cond-mat/0009152,Multiple Domain Growth and Memory in the Droplet Model for Spin-Glasses,5.016225427237409e-06,5.1172218735308e-06,11.0,8.0
+cond-mat/0307583,"Geometry of large-scale low-energy excitations in the one-dimensional
+  Ising spin glass with power-law interactions",5.009931375146939e-06,3.0748695164163245e-07,13.0,1.0
+cond-mat/0212469,Generating correlated networks from uncorrelated ones,5.005109709268932e-06,0.0,6.0,1.0
+cond-mat/0205375,"Fluctuation of the Correlation Dimension and the Inverse Participation
+  Number at the Anderson Transition",4.99575528804216e-06,0.0,2.0,0.0
+cond-mat/0108035,Quasiparticle conductivities in disordered d-wave superconductors,4.991611544809916e-06,1.6581388412367976e-06,2.0,2.0
+cond-mat/9908002,"Transitions from the Quantum Hall State to the Anderson Insulator: Fa te
+  of Delocalized States",4.97989477870726e-06,0.0,4.0,0.0
+cond-mat/0205476,Scale-Free Networks are Ultrasmall,4.977890032854528e-06,1.1281291539184444e-05,4.0,5.0
+cond-mat/0009061,Dynamics of localization in a waveguide,4.975597458638799e-06,5.847519971314064e-06,4.0,3.0
+cond-mat/0306668,"Probing inhomogeneities in type II superconductors by means of thermal
+  fluctuations, magnetic fields and isotope effects",4.972763060288605e-06,7.566374636143348e-05,4.0,1.0
+cond-mat/0605200,"Mott glass in site-diluted S=1 antiferromagnets with single-ion
+  anisotropy",4.972445437548428e-06,0.0,1.0,0.0
+cond-mat/0202252,"Responses of Ensemble Neurons to Spike-Train Signals with Independent
+  Noises: Stochastic Resonance and Spike Variability",4.966907238954575e-06,0.0,1.0,2.0
+cond-mat/9808273,"Localization in non-chiral network models for two-dimensional disordered
+  wave mechanical systems",4.959950583840026e-06,0.0,3.0,1.0
+cond-mat/0302500,Replica equivalence in the Edwards-Anderson model,4.959092806401432e-06,0.0,5.0,0.0
+cond-mat/0407289,"Low-temperature properties of some disordered systems from the
+  statistical properties of nearly degenerate two-level excitations",4.954329483435392e-06,1.990182755160072e-06,3.0,1.0
+cond-mat/9805398,Collective Behavior of Asperities in Dry Friction at Small Velocities,4.952594646740362e-06,0.0,3.0,0.0
+cond-mat/0407353,The Sznajd Consensus Model with Continuous Opinions,4.948568691872812e-06,1.065475388579278e-05,5.0,3.0
+cond-mat/0004168,"Metastable states in disordered Ising magnets in mean-field
+  approximation",4.945901136839241e-06,0.0,7.0,1.0
+cond-mat/0111241,"Fluctuation-dissipation relations and effective temperatures in simple
+  non-mean field systems",4.94530985950559e-06,1.990182755160072e-06,4.0,7.0
+cond-mat/0501081,"The dynamics of critical Kauffman networks under asynchronous stochastic
+  update",4.945117219702781e-06,0.0,5.0,1.0
+cond-mat/9703112,Two Interacting Electrons in a Quasiperiodic Chain,4.941641056843582e-06,0.0,3.0,0.0
+cond-mat/9708071,Non-Hermitian Localization and Population Biology,4.937461662070833e-06,0.0010343422379562,8.0,21.0
+cond-mat/9911144,"Dynamical phase transitions in glasses induced by the ruggedness of the
+  free energy landscape",4.936756491698543e-06,0.0,6.0,0.0
+cond-mat/0612400,Compressibility stripes for mesoscopic quantum Hall samples,4.928401955452941e-06,0.0,4.0,0.0
+cond-mat/0004013,"The effect of rare regions on a disordered itinerant quantum
+  antiferromagnet with cubic anisotropy",4.906229200557316e-06,0.0,2.0,0.0
+cond-mat/0506795,Dynamic critical behaviour in Ising spin glasses,4.905266680373925e-06,0.0,3.0,0.0
+cond-mat/0101114,Spin Correlations in Ho$_{2}$Ti$_{2}$O$_{7}$: a Dipolar Spin Ice System,4.89831826022057e-06,1.965040406473893e-05,4.0,6.0
+cond-mat/0402451,"Approximation schemes for the dynamics of diluted spin models: the Ising
+  ferromagnet on a Bethe lattice",4.89718692153205e-06,3.980365510320144e-06,4.0,1.0
+cond-mat/0702421,A Hike in the Phases of the 1-in-3 Satisfiability,4.893816523862216e-06,0.0,1.0,0.0
+cond-mat/0407128,An associative network with spatially organized connectivity,4.885317634849113e-06,0.0,3.0,0.0
+cond-mat/0312653,Lattice models of disorder with order,4.884970722252441e-06,0.0,3.0,0.0
+cond-mat/9905433,"Theory of Non-linear Susceptibility and Correlation Length in Glasses
+  and Liquids",4.879052512562146e-06,9.80039056788409e-05,3.0,12.0
+cond-mat/0512002,Survey-propagation decimation through distributed local computations,4.873386882158244e-06,0.0,6.0,0.0
+cs/0301015,Some remarks on the survey decimation algorithm for K-satisfiability,4.8728859175195616e-06,0.0,5.0,7.0
+cond-mat/9812199,"First Order Metal-Insulator Transition in Two-dimensional Disordered
+  Systems",4.872604985096442e-06,0.0,7.0,0.0
+cond-mat/0608038,Simulations of Quantum XXZ Models on Two-Dimensional Frustrated Lattices,4.871077769315512e-06,0.0,3.0,1.0
+cond-mat/0402294,The Tails of the Crossing Probability,4.865164360389241e-06,0.0,6.0,0.0
+cond-mat/0408617,"Glassy dynamics: mean-field `landscape' pictures versus growing length
+  scale scenarii",4.8627157525752425e-06,2.3953153143572506e-06,3.0,3.0
+cond-mat/0509366,On the dynamics of the glass transition on Bethe lattices,4.861347953430878e-06,5.599694186854494e-05,6.0,5.0
+cond-mat/0507241,Critical slowing down in random anisotropy magnets,4.858154212680717e-06,0.0,2.0,0.0
+cond-mat/0604590,"Mechanical and dielectric response of microcomposites of the type:
+  ferroelastic-dielectric",4.8580475848488665e-06,3.980365510320144e-06,3.0,1.0
+cond-mat/0411433,Biased random satisfiability problems: From easy to hard instances,4.855958383548083e-06,0.0,4.0,0.0
+cond-mat/0201313,Go with the Winners: a General Monte Carlo Strategy,4.855235465592269e-06,5.335820028930899e-06,6.0,5.0
+cond-mat/0406425,Modelling Selforganization and Innovation Processes in Networks,4.85098277583261e-06,0.0,18.0,0.0
+cond-mat/0211521,Binder Parameter of a Heisenberg Spin-Glass Model in Four Dimensions,4.847298427134931e-06,4.429818652077154e-07,2.0,1.0
+cond-mat/0506652,The theoretical capacity of the Parity Source Coder,4.842607068537991e-06,7.77735765814543e-06,3.0,2.0
+cond-mat/0304021,Topology and Computational Performance of Attractor Neural Networks,4.840765733148365e-06,4.024921840659549e-06,5.0,1.0
+cond-mat/0509807,"Collective dynamics and expansion of a Bose-Einstein condensate in a
+  random potential",4.8382900988560346e-06,0.0,5.0,0.0
+cond-mat/9909203,A geometrical picture for finite dimensional spin glasses,4.835395719903526e-06,7.22659429020569e-05,3.0,6.0
+cond-mat/0106468,"Critical exponents of a three dimensional weakly diluted quenched Ising
+  model",4.831678646891534e-06,3.339842384089356e-05,4.0,31.0
+cond-mat/0206453,Omori's law in the Internet traffic,4.824338771955343e-06,0.0001118308340066,2.0,1.0
+cond-mat/9903370,"The response of glassy systems to random perturbations: A bridge between
+  equilibrium and off-equilibrium",4.822731220827129e-06,0.0001129192460442,4.0,19.0
+cond-mat/0512448,Bump formation in a binary attractor neural network,4.820310432891641e-06,0.0,2.0,0.0
+cond-mat/9705113,Thouless numbers for few-particle systems with disorder and interactions,4.813791860633388e-06,0.0,8.0,4.0
+cond-mat/0609145,Flows on Graphs with Random Capacities,4.81041193068274e-06,0.0,2.0,0.0
+cond-mat/0412023,From Large Scale Rearrangements to Mode Coupling Phenomenology,4.803464952985975e-06,1.8235090750015585e-07,3.0,1.0
+cond-mat/9907246,Conducting phase in the two-dimensional disordered Hubbard model,4.798531528824154e-06,0.0,4.0,1.0
+cond-mat/0106114,Analyzing and modelling 1+1d markets,4.7961634621089925e-06,1.1235621300586494e-06,7.0,5.0
+physics/9710023,Aftershocks in Coherent-Noise Models,4.790218299313383e-06,0.0,3.0,1.0
+cond-mat/0003332,Multifractality and critical fluctuations at the Anderson transition,4.785389898979741e-06,0.0,5.0,0.0
+cond-mat/0406040,"Localization of Electronic States in Chain Model Based on Real DNA
+  Sequence",4.777784701054056e-06,0.0,1.0,4.0
+cond-mat/0611504,"Anderson Transition and Generalized Lyapunov Exponents (comment on
+  comment by P.Markos, L.Schweitzer and M.Weyrauch, cond-mat/0402068)",4.775563454392716e-06,0.0,3.0,0.0
+cond-mat/0411486,"Supply and Production Networks: From the Bullwhip Effect to Business
+  Cycles",4.775563454392716e-06,0.0,3.0,1.0
+cond-mat/0007260,"Collective dynamics of liquid aluminum probed by Inelastic X-ray
+  Scattering",4.775563454392716e-06,0.0,3.0,0.0
+cond-mat/0001335,The Physics of the Glass Transition,4.771281890113351e-06,0.0,9.0,0.0
+cond-mat/0001363,Frustration and sound attenuation in structural glasses,4.771008165025357e-06,0.0,4.0,0.0
+cond-mat/0106195,"Distribution of the delay time and the dwell time for wave reflection
+  from a long random potential",4.769981178426669e-06,0.0,5.0,0.0
+cond-mat/0312483,Survey Propagation as local equilibrium equations,4.769638044564371e-06,4.968793692085723e-05,6.0,5.0
+cond-mat/0606696,Statistical mechanics of error exponents for error-correcting codes,4.761968202324769e-06,1.876546229368217e-06,4.0,1.0
+physics/0503031,"Competitive Advantage for Multiple-Memory Strategies in an Artificial
+  Market",4.7595318951702825e-06,0.0,5.0,0.0
+cond-mat/0007144,"Comment on ""Liquid Limits: The Glass Transition and Liquid-Gas Spinodal
+  Boundaries of Metastable Liquids""",4.740326669468548e-06,2.0465788973396653e-06,2.0,3.0
+cond-mat/9712027,Introduction to the statistical theory of Darwinian evolution,4.734155682121559e-06,0.0,5.0,25.0
+hep-th/9811212,The Microscopic Spectral Density of the QCD Dirac Operator,4.730112972813177e-06,0.0001717554384125,10.0,46.0
+cond-mat/9812401,"Comment on ""Ising Spin Glasses in a Magnetic Field""",4.727496695485474e-06,0.0,3.0,2.0
+q-bio/0701049,Random RNA under tension,4.720429924862225e-06,0.0,3.0,0.0
+cond-mat/0005452,"Scaling of crossing probabilities for the q-state Potts model at
+  criticality",4.7201580046065805e-06,1.990182755160072e-06,6.0,1.0
+physics/9805029,Hierarchical noise in large systems of independent agents,4.717476312318796e-06,0.0,1.0,0.0
+cond-mat/9906270,"How to evaluate ground-state landscapes of disordered systems
+  thermodynamical correctly",4.712450765389955e-06,0.0,3.0,1.0
+cond-mat/0302527,"Glass Transition in a Two-Dimensional Electron System in Silicon in a
+  Parallel Magnetic Field",4.702379102631749e-06,1.990182755160072e-06,1.0,1.0
+cond-mat/0211386,Aging Continuous Time Random Walks,4.701139521565866e-06,0.0,4.0,1.0
+cond-mat/9911159,"Random solids and random solidification: What can be learned by
+  exploring systems obeying permanent random constraints?",4.700911818086915e-06,0.0,3.0,0.0
+cond-mat/0501668,"Non-linear susceptibility in glassy systems: a probe for cooperative
+  dynamical length scales",4.695227257240531e-06,0.0,6.0,1.0
+cond-mat/0412658,Self-avoiding walks on scale-free networks,4.689670497992088e-06,0.0,4.0,0.0
+cond-mat/0204413,Discreteness and entropic fluctuations in GREM-like systems,4.689179358668541e-06,0.0001146344785427,4.0,2.0
+math-ph/0608045,Spin Glass Computations and Ruelle's Probability Cascades,4.666859423183127e-06,0.0,5.0,1.0
+cond-mat/0210223,Dephasing from interactions and spin disorder,4.666342048465971e-06,0.0,5.0,0.0
+cond-mat/0103024,Minority Games and stylized facts,4.666263452018586e-06,1.3614434270373628e-07,13.0,1.0
+cond-mat/0401351,"Electronic Localization Properties of a Double Strand of DNA: A Simple
+  Model with Long-Range Correlated Hopping Disorder",4.662740240842264e-06,0.0,2.0,2.0
+cond-mat/0110111,Cluster Growth in a Growing Tree Network,4.661762339337163e-06,1.990182755160072e-06,4.0,1.0
+cond-mat/0004343,Dynamical response of a pinned two-dimensional Wigner crystal,4.661272429776293e-06,0.0,3.0,1.0
+cond-mat/9906067,Boundary critical behaviour of two-dimensional random Potts models,4.652189275360982e-06,1.2087689019956395e-05,5.0,5.0
+cond-mat/0001228,"Field distributions and effective-medium approximation for weakly
+  nonlinear media",4.651340137579245e-06,0.0,3.0,0.0
+cond-mat/0210428,Are waves all localized in two dimensional random media?,4.651340137579245e-06,0.0,3.0,0.0
+cond-mat/9907084,"Self-organized criticality in a model of biological evolution with long
+  range interactions",4.651340137579245e-06,0.0,3.0,1.0
+physics/0505031,The Epidemics of Corruption,4.648162475791553e-06,4.09104909282992e-06,6.0,3.0
+quant-ph/0202016,Neural Networks with c-NOT Gated Nodes,4.648085672191587e-06,0.0,3.0,1.0
+cond-mat/0406649,Complexity in Mean-Field Spin-Glass Models: Ising $p$-spin,4.644454414252586e-06,0.0,5.0,1.0
+cond-mat/0007113,Monte Carlo Simulations of Spin Glasses at Low Temperatures,4.626035749492272e-06,0.0001787981704359,5.0,20.0
+cond-mat/0102160,Fluctuation effects in disordered Peierls systems,4.6243335514033895e-06,3.7689674281665456e-06,2.0,2.0
+cond-mat/0401449,Landscapes and Fragilities,4.623134334191634e-06,0.0,4.0,4.0
+cond-mat/0005380,An exact-diagonalization study of rare events in disordered conductors,4.6173774760091565e-06,0.0,2.0,0.0
+cond-mat/0003122,Sub-aging in a Domain Growth Model,4.609490618718232e-06,1.990182755160072e-06,5.0,2.0
+cond-mat/0105308,Theory of Microemulsion Glasses,4.604910211530504e-06,5.0435761718569e-06,1.0,2.0
+cond-mat/0506521,"Energy statistics in disordered systems: The local REM conjecture and
+  beyond",4.600481355050562e-06,0.0,4.0,0.0
+cond-mat/0507471,Synchronization in Complex Networks: a Comment on two recent PRL papers,4.6004267538096966e-06,0.0,6.0,1.0
+cond-mat/0010010,"Discrete energy landscapes and replica symmetry breaking at zero
+  temperature",4.597840332052653e-06,0.0,4.0,2.0
+cond-mat/0212363,On Ising and dimer models in two and three dimensions,4.596660081386083e-06,0.0001708005326048,4.0,4.0
+cond-mat/0006132,Knowing a network by walking on it: emergence of scaling,4.594347331809969e-06,0.0,8.0,19.0
+cond-mat/0305041,"Crossover from random-exchange to random-field critical behavior in
+  Ising models",4.592473297055928e-06,5.510058948610165e-07,3.0,4.0
+cond-mat/9902342,"Statistics of Coulomb Blockade Peak Spacings within the Hartree-Fock
+  Approximation",4.580476185641609e-06,0.0,3.0,4.0
+cond-mat/0510714,"Acoustic damping in Li$_2$O-2B$_2$O$_3$ glass observed by inelastic
+  x-ray and optical Brillouin scattering",4.580159970007856e-06,0.0,3.0,1.0
+cond-mat/9705096,Statics and Dynamics of Disordered Elastic Systems,4.559709922524477e-06,0.0,7.0,33.0
+cond-mat/0609717,"Determinant Quantum Monte Carlo Study of the Screening of the One Body
+  Potential near a Metal-Insulator Transition",4.554909346026627e-06,0.0,2.0,0.0
+cond-mat/0605448,Random polymers and delocalization transitions,4.549222367131449e-06,1.4266628081441589e-06,4.0,3.0
+cond-mat/0512167,The dynamic exponent of the Ising model on negatively curved surfaces,4.54605143317165e-06,0.0,1.0,2.0
+cond-mat/0310389,Quantum-classical transitions in Lifshits tails with magnetic fields,4.544364411579962e-06,0.0,2.0,1.0
+cond-mat/0106023,"The two-dimensional random-bond Ising model, free fermions and the
+  network model",4.540567389384864e-06,6.156667015988871e-06,5.0,4.0
+cond-mat/0003449,Metallic Spin Glass in Infinite Dimensions,4.536985275978071e-06,0.0,2.0,0.0
+cond-mat/0109243,Antipersistent binary time series,4.535934941904233e-06,0.0,4.0,0.0
+cond-mat/0002460,"The excess wing in the dielectric loss of glass-forming ethanol: A
+  relaxation process",4.534059758234596e-06,0.0,3.0,3.0
+cond-mat/9803088,Quantum Monte Carlo Study of Random Antiferromagnetic Heisenberg Chain,4.527116820765776e-06,0.0,2.0,3.0
+cond-mat/0106530,"Fragility of the spin-glass-like collective state to a magnetic field in
+  an interacting Fe-C nanoparticle system",4.527116820765776e-06,0.0,2.0,0.0
+cond-mat/0108233,Cyclotron resonance in antidot arrays,4.527116820765776e-06,0.0,3.0,0.0
+cond-mat/0009135,"Critical behavior of ferromagnetic spin models with aperiodic exchange
+  interactions",4.527116820765776e-06,0.0,2.0,0.0
+cond-mat/0304207,Investigation of a Protein Complex Network,4.527116820765776e-06,0.0,2.0,1.0
+cond-mat/0102251,Interacting particles at a metal-insulator transition,4.526322470019998e-06,0.0,2.0,4.0
+cond-mat/0009198,"Transport Properties and Density of States of Quantum Wires with
+  Off-diagonal Disorder",4.525237009483222e-06,1.990182755160072e-06,1.0,2.0
+cond-mat/0112020,"Quantum transport through mesoscopic disordered interfaces, junctions,
+  and multilayers",4.522373394666947e-06,0.0,1.0,0.0
+cond-mat/0008115,"Evidence for the double degeneracy of the ground-state in the 3D $\pm J$
+  spin glass",4.520713465456047e-06,0.0,5.0,9.0
+cond-mat/0512215,"Absence of zero-temperature transmission rate of a double-chain
+  tight-binding model for DNA with random sequence of nucleotides in
+  thermodynamic limit",4.520115041460564e-06,0.0,2.0,0.0
+cond-mat/0112261,Strongly disordered spin ladders,4.518518973825055e-06,1.990182755160072e-06,5.0,1.0
+cond-mat/9908034,Similarity of percolation thresholds on the hcp and fcc lattices,4.515025475212901e-06,0.0,1.0,0.0
+cond-mat/0511177,"Quantum disorder and Griffiths singularities in bond-diluted
+  two-dimensional Heisenberg antiferromagnets",4.515025475212901e-06,0.0,1.0,0.0
+cond-mat/9711279,Critical Behaviour of Random Bond Potts Models: A Transfer Matrix Study,4.512112986261706e-06,0.0,2.0,9.0
+cond-mat/9908480,"Exact solution of a modified El Farol's bar problem: Efficiency and the
+  role of market impact",4.5104283324750405e-06,9.863629339152187e-05,3.0,27.0
+cond-mat/0505453,"One-dimensional cluster growth and branching gels in colloidal systems
+  with short-range depletion attraction and screened electrostatic repulsion",4.507433505410053e-06,3.038124847328491e-05,3.0,5.0
+cond-mat/9803334,"Reflection coefficient and localization length of waves in
+  one-dimensional random media",4.506955909658643e-06,1.990182755160072e-06,3.0,1.0
+q-bio/0411019,A simple derivation of the Gompertz law for human mortality,4.504611069009671e-06,0.0,1.0,0.0
+cond-mat/0610854,Localization of interacting fermions at high temperature,4.5022929763327535e-06,0.0,2.0,0.0
+cond-mat/0502252,"Quantum Correction to Conductivity Close to Ferromagnetic Quantum
+  Critical Point in Two Dimensions",4.500835502943323e-06,0.0,3.0,0.0
+cond-mat/0406158,"Statistical Mechanics of Dilute Batch Minority Games with Random
+  External Information",4.49112413815129e-06,0.0,7.0,2.0
+cond-mat/0201030,2d random Dirac fermions: large N approach,4.486401025199277e-06,0.0,3.0,0.0
+cond-mat/9807391,Density of states in the non-hermitian Lloyd model,4.481726819083363e-06,0.0,8.0,0.0
+cond-mat/0406172,A super-Ohmic energy absorption in driven quantum chaotic systems,4.479127926427014e-06,0.0,2.0,0.0
+cond-mat/0109136,Ground states of two-dimensional $\pm$J Edwards-Anderson spin glasses,4.475961922187627e-06,0.0,6.0,0.0
+cond-mat/0607349,Theory of Structural Glasses and Supercooled Liquids,4.474212688447314e-06,0.0,3.0,5.0
+cond-mat/0502605,"Finite-Size Scaling in the Energy-Entropy Plane for the 2D +- J Ising
+  Spin Glass",4.466560042612233e-06,0.0,3.0,2.0
+cond-mat/9711271,A numerical study of the Random Dimerized XX spin-1/2 chain,4.465742701834397e-06,0.0,3.0,0.0
+cond-mat/0407503,Analysis of weighted networks,4.46415812226839e-06,2.256724825956606e-05,3.0,5.0
+cond-mat/0611763,Ising Model Scaling Behaviour on z-Preserving Small-World Networks,4.461962530461261e-06,0.0,5.0,0.0
+cond-mat/9906249,Capital flow in a two-component dynamical system,4.459220157990226e-06,0.0,12.0,2.0
+cond-mat/0010371,Computer Science in Physics,4.457822704818995e-06,0.0,7.0,0.0
+cond-mat/0402535,"Metal-insulator transition and glassy behavior in two-dimensional
+  electron systems",4.454843416799474e-06,0.0,2.0,0.0
+cond-mat/0001369,Dipolar Interactions and Origin of Spin Ice in Ising Pyrochlore Magnets,4.447213765174658e-06,0.0,2.0,0.0
+cond-mat/0608555,Critical Fidelity,4.443377833452185e-06,0.0,2.0,0.0
+cond-mat/0203004,Anomalous Quantum Diffusion at the Superfluid-Insulator Transition,4.439200053190975e-06,7.165209702336171e-05,3.0,2.0
+cond-mat/0012213,"Intermediate liquid-solid regime near the quantum melting of a two
+  dimensional Wigner molecule",4.436429442401061e-06,2.9803234293690627e-06,3.0,3.0
+cond-mat/0511171,Semi-Poisson statistics in quantum chaos,4.435532521671518e-06,0.0,4.0,0.0
+cond-mat/0609704,"Nonequilibrium structures and dynamic transitions in driven vortex
+  lattices with disorder",4.434842184005817e-06,0.0,3.0,0.0
+cond-mat/9803094,"Disorder-enhanced delocalization and local-moment quenching in a
+  disordered antiferromagnet",4.433018954868417e-06,2.22781651697023e-08,2.0,2.0
+cond-mat/0307752,Universality of the Lyapunov regime for the Loschmidt echo,4.430279520246971e-06,3.984078537848427e-06,4.0,9.0
+cond-mat/0307443,"Anisotropy and universality: the Oslo model, the rice pile experiment
+  and the quenched Edwards-Wilkinson equation",4.429648418783423e-06,9.338957696508356e-06,3.0,4.0
+cond-mat/0104155,Statistical ensemble of scale-free random graphs,4.423100824305134e-06,3.980365510320144e-06,11.0,4.0
+cond-mat/0703405,"Topology and Dynamics of Attractor Neural Networks: The Role of
+  Loopiness",4.422872904755412e-06,0.0,2.0,0.0
+cond-mat/9904414,"Gauge Invariance and the Critical Properties of Quantum Hall Plateaux
+  Transitions",4.416890511095296e-06,2.680427640892613e-05,7.0,3.0
+cond-mat/0607614,Ageing in disordered magnets and local scale-invariance,4.413408413633906e-06,1.990182755160072e-06,3.0,2.0
+cond-mat/9707341,Zero Modes and Thermodynamics of Disordered Spin-1/2 Ladders,4.411096563814204e-06,0.0,8.0,4.0
+cond-mat/0412650,"Spontaneous relaxation in generalized oscillator models with glassy
+  dynamics",4.410382642360035e-06,0.0,4.0,0.0
+math-ph/0505055,The Ghirlanda-Guerra Identities,4.407821217162313e-06,4.321650868200292e-06,2.0,4.0
+cond-mat/0610706,"NMR Probing Spin Excitations in the Ring-Like Structure of a Two-Subband
+  System",4.402893503952305e-06,0.0,2.0,0.0
+cond-mat/0106325,Disorder induced cross-over effects at quantum critical points,4.396807341591407e-06,2.3956453612486537e-05,3.0,4.0
+cond-mat/0312572,"Crossover effects in the random exchange spin-1/2 antiferromagnetic
+  chain",4.393975199593941e-06,1.990182755160072e-06,3.0,1.0
+cond-mat/0305073,Cluster model of glass transition in simple liquids,4.392553030018995e-06,0.0,3.0,0.0
+cond-mat/0303210,Theory of the [111] magnetization plateau in spin ice,4.391563857013501e-06,1.779082881930031e-06,5.0,3.0
+cond-mat/0406546,Aging and Memory Effects in Superparamagnets and Superspin Glasses,4.389256524993298e-06,1.990182755160072e-06,5.0,2.0
+cond-mat/0009425,"Critical behavior of the thermoelectric transport properties in
+  amorphous systems near the metal-insulator transition",4.387329771106658e-06,0.0,1.0,0.0
+cond-mat/9809300,Disordered periodic systems at the upper critical dimension,4.384147183927571e-06,0.0,4.0,0.0
+cond-mat/0406263,"Ground state clusters for short-range attractive and long-range
+  repulsive potentials",4.382930095680508e-06,0.0,4.0,0.0
+cond-mat/0204336,"Itineration of the Internet over Nonequilibrium Stationary States in
+  Tsallis Statistics",4.375927655711967e-06,0.0001146530469427,5.0,2.0
+cond-mat/9911226,"Activated processes and Inherent Structure dynamics of finite-size
+  mean-field models for glasses",4.366497279960858e-06,0.0001362815175065,4.0,12.0
+cond-mat/0307250,Near optimal configurations in mean field disordered systems,4.365966032582314e-06,0.0,4.0,0.0
+cond-mat/0701256,"Long-range correlated random field and random anisotropy O(N) models: A
+  functional renormalization group study",4.364398220632344e-06,0.0,1.0,0.0
+cond-mat/0101070,"Numerical Study of the Localization-Delocalization Transition for
+  Vibrations in Amorphous Silicon",4.361485731681149e-06,0.0,2.0,1.0
+cond-mat/0108017,Financial Market Dynamics,4.361387580091172e-06,0.0,4.0,8.0
+cond-mat/0412399,Emergence of weight-topology correlations in complex scale-free networks,4.350261010510934e-06,6.101824886583228e-06,5.0,6.0
+cond-mat/9906078,An investigation of site-bond percolation on many lattices,4.348173415360582e-06,0.0,1.0,1.0
+cond-mat/0111521,"Random Magnetism in $S=1/2$ Heisenberg Chains with Bond Alternation and
+  Randomness on the Strong Bonds",4.340450834447055e-06,3.980365510320144e-06,1.0,3.0
+cond-mat/9905017,"Intermediate Regime between the Fermi Glass and the Mott Insulator in
+  one Dimension",4.339801513971384e-06,0.0,2.0,1.0
+cond-mat/9706218,Non-Hermitean Localization and De-Localization,4.339637462212644e-06,0.0001364826723827,14.0,19.0
+cond-mat/0006476,"Statistics of energy levels and zero temperature dynamics for
+  deterministic spin models with glassy behaviour",4.338619724892374e-06,0.0,3.0,0.0
+cond-mat/0501324,Thermal noise properties of two aging materials,4.338364390919941e-06,9.95091377580036e-06,5.0,2.0
+cond-mat/9803067,Decoherence and the Thouless Crossover in One-Dimensional Conductors,4.337564785512166e-06,0.0,2.0,2.0
+cond-mat/0511622,"Disorder-induced critical phenomena--new universality classes in
+  Anderson localization",4.335836990172537e-06,7.975583130753422e-06,2.0,2.0
+nlin/0110040,"Nonlinear Analysis of the Eckhaus Instability: Modulated Amplitude Waves
+  and Phase Chaos with Non-zero Average Phase Gradient",4.335081793914062e-06,0.0,3.0,0.0
+physics/0512011,A Review of Recent Studies of Geographical Scale-Free Networks,4.331412407345664e-06,7.690887835952622e-07,7.0,1.0
+cond-mat/9810297,On loss of quantum coherence in an interacting Fermi gas,4.328693578248906e-06,0.0,5.0,6.0
+cond-mat/9902231,"Universal scaling, beta function, and metal-insulator transitions",4.326403532216183e-06,0.0,4.0,2.0
+cond-mat/0306509,Bug propagation and debugging in asymmetric software structures,4.320524592179016e-06,0.0,3.0,0.0
+cond-mat/0011353,"Scaling approach to order-parameter fluctuations in disordered
+  frustrated systems",4.3113494876271866e-06,0.0,7.0,0.0
+cond-mat/0110238,The noncommutative replica approach,4.306194096278912e-06,1.4852110113134864e-08,10.0,5.0
+cond-mat/9808053,Interaction effects and phase relaxation in disordered systems,4.305515993925067e-06,0.0,4.0,33.0
+cond-mat/9811177,"Comment on ""Evidence for nontrivial ground-state structure of 3d +/- J
+  spin glasses""",4.30117593889494e-06,0.0,4.0,0.0
+cond-mat/0702199,"Two-dimensional spin-filtered chiral network model for the Z_2 quantum
+  spin-Hall effect",4.294271632728661e-06,0.0,2.0,0.0
+cond-mat/9908336,"Dynamics and statistics of simple models with infinite-range attractive
+  interaction",4.287273966993423e-06,5.645020654608884e-05,6.0,9.0
+cond-mat/0111158,"Weak quenched disorder and criticality: resummation of asymptotic(?)
+  series",4.2832102639956605e-06,2.675630952606234e-06,3.0,4.0
+cond-mat/0602212,"Universality in three-dimensional Ising spin glasses: A Monte Carlo
+  study",4.279697113729223e-06,2.04089880284497e-05,3.0,7.0
+cond-mat/0304579,Continuum percolation of wireless ad hoc communication networks,4.278937744858475e-06,0.0,3.0,0.0
+cond-mat/9803342,"Network Model for a 2D Disordered Electron System with Spin-Orbit
+  Scattering",4.271351258022924e-06,0.0,6.0,2.0
+cond-mat/0309576,Parisi States in a Heisenberg Spin-Glass Model in Three Dimensions,4.271193346579789e-06,0.0,1.0,0.0
+cond-mat/0210521,Sub-diffusion and localization in the one dimensional trap model,4.271062111276443e-06,3.987791565376711e-06,5.0,4.0
+cond-mat/0005172,"The dynamics of the spherical p-spin model: from microscopic to
+  asymptotics",4.264812796315341e-06,1.990182755160072e-06,4.0,2.0
+cond-mat/0012144,"Localization Characteristics of Relativistic vs Nonrelativistic Fermions
+  on a Lattice",4.263917507405499e-06,0.0,2.0,0.0
+cond-mat/0504690,Finitely connected vector spin systems with random matrix interactions,4.26182427237557e-06,1.990182755160072e-06,3.0,1.0
+cond-mat/0405563,Replica symmetry breaking in the `small world' spin glass,4.253022926945507e-06,9.95091377580036e-06,4.0,4.0
+cond-mat/0401270,Internet's Critical Path Horizon,4.2524665599974e-06,0.0,6.0,0.0
+cond-mat/0305612,Why social networks are different from other types of networks,4.249907502320099e-06,1.3012368879469022e-05,4.0,6.0
+cond-mat/9910232,Off-Equilibrium Dynamics at Very Low Temperatures in 3d Spin Glasses,4.248960989671682e-06,5.287103131825307e-05,4.0,3.0
+cond-mat/0104428,"Statistical mechanics methods and phase transitions in optimization
+  problems",4.248939175027813e-06,0.0,7.0,4.0
+math-ph/0408019,Addition of Free Unitary Random Matrices,4.248295649767041e-06,0.0,1.0,0.0
+physics/0503199,Opinion dynamics and decision of vote in bipolar political systems,4.238654066716033e-06,1.9827567001035044e-06,4.0,1.0
+cond-mat/0511072,"Delocalization transition of the selective interface model: distribution
+  of pseudo-critical temperatures",4.235872465866094e-06,0.0,4.0,0.0
+cond-mat/0512606,Trapped ion chain as a neural network,4.232823828677271e-06,1.4852110113134863e-09,3.0,1.0
+cond-mat/0301486,"Magnetization enumerator of real-valued symmetric channels in Gallager
+  error-correcting codes",4.22586231160466e-06,0.0,2.0,0.0
+cond-mat/0312039,Glassy Dynamics and Aging in Disordered Systems,4.209301134281804e-06,0.0,5.0,0.0
+cond-mat/0012313,Correlation effects in a simple model of small-world network,4.20772725939292e-06,0.0,7.0,1.0
+cond-mat/0611313,"Statistical Neurodynamics for sequence processing neural networks with
+  finite dilution",4.1999930719845695e-06,1.990182755160072e-06,2.0,1.0
+cond-mat/9906186,"Ground State and Spin Glass Phase of the Large N Infinite Range Spin
+  Glass Via Supersymmetry",4.199958298819334e-06,0.0,2.0,0.0
+cond-mat/0408073,Spin glasses in the limit of an infinite number of spin components,4.199861651998353e-06,1.425658020248735e-07,3.0,1.0
+cond-mat/9704155,"Revisiting the Theory of Finite Size Scaling in Disordered Systems: \nu
+  Can Be Less Than 2/d",4.199458373837573e-06,0.0,3.0,3.0
+cond-mat/0202135,"Critical Behavior and Lack of Self Averaging in the Dynamics of the
+  Random Potts Model in Two Dimensions",4.198625384176371e-06,0.0,6.0,1.0
+cond-mat/0412306,Voting and Catalytic Processes with Inhomogeneities,4.19078782517804e-06,2.2575207371964995e-08,3.0,1.0
+cond-mat/0101146,Superballistic spreading of wave packets,4.189908929564321e-06,0.0,2.0,0.0
+cond-mat/0107237,Self-organized branching process for a one-dimensional ricepile model,4.184187213649583e-06,0.0,3.0,0.0
+cond-mat/0409245,"Double chains with base pairing: delocalization irrespective to DNA
+  sequencing",4.183530822279433e-06,0.0,1.0,0.0
+cond-mat/0307554,"Intermittency of glassy relaxation and the emergence of a
+  non-equilibrium spontaneous measure in the aging regime",4.18238281024716e-06,1.990182755160072e-06,6.0,7.0
+cond-mat/9903272,Melting of the Electron Glass,4.179095444565104e-06,0.0,5.0,2.0
+cond-mat/0307184,The q-component static model : modeling social networks,4.1783749154557065e-06,1.3218378000690005e-06,3.0,2.0
+cond-mat/0502134,"Energy transport along FPU-beta chains containing binary isotopic
+  disorder: Zero temperature systems",4.17695262208147e-06,0.0,2.0,0.0
+cond-mat/0104527,"Using Entropy-Based Methods to Study General Constrained Parameter
+  Optimization Problems",4.172024798573043e-06,0.0,4.0,0.0
+cond-mat/0308515,General duality for abelian-group-valued statistical-mechanics models,4.170535012898188e-06,1.336689910182138e-07,1.0,1.0
+cond-mat/0303445,"Universal dependence of the fluctuation-dissipation ratio on the
+  transition rates in trap models",4.1702556735068604e-06,5.287480688007349e-06,4.0,8.0
+cond-mat/9912336,Jamming and Fluctuations in Granular Drag,4.164530281036357e-06,0.0,2.0,0.0
+cond-mat/0102523,Stick-Slip Fluctuations in Granular Drag,4.164530281036357e-06,0.0,2.0,2.0
+cond-mat/0609113,Glass Phenomenology from the Connection to Spin Glasses,4.156522208043753e-06,2.985274132740108e-06,3.0,3.0
+cond-mat/0602517,"Spin-Hall effect in semiconductor heterostructures with cubic Rashba
+  spin-orbit interaction",4.148192046014586e-06,6.480722480526911e-07,6.0,1.0
+cond-mat/0603521,Local and cluster critical dynamics of the 3d random-site Ising model,4.146854844249496e-06,0.0,1.0,0.0
+physics/0607272,"Beyond the average: detecting global singular nodes from local features
+  in complex networks",4.145591568423238e-06,3.5273761518695305e-08,3.0,1.0
+cond-mat/0007493,"On the Effects of a Bulk Perturbation on the Ground State of 3D Ising
+  Spin Glasses",4.139437693863379e-06,6.504569515744942e-05,7.0,11.0
+cond-mat/0312537,Self-organized critical network dynamics,4.137418616909712e-06,1.4852110113134863e-09,1.0,1.0
+cond-mat/0005095,On nonlinear susceptibility in supercooled liquids,4.129645931296118e-06,1.7782909968309047e-06,5.0,1.0
+cond-mat/0106331,Low field hysteresis in disordered ferromagnets,4.128278206266183e-06,0.0,2.0,2.0
+cond-mat/0609132,"Comment to ""Packing Hyperspheres in High-Dimensional Euclidean Space""",4.114538931504376e-06,0.0,2.0,0.0
+cond-mat/9910124,"On the universality of distribution of ranked cluster masses at critical
+  percolation",4.113604228987466e-06,0.0,3.0,0.0
+cond-mat/0507559,Mechanical Spectroscopy on Volcanic Glasses,4.112851992002675e-06,0.0,2.0,0.0
+cond-mat/0606113,"Analytic determination of dynamical and mosaic length scales in a Kac
+  glass model",4.110353438306911e-06,1.3462472173092044e-05,3.0,2.0
+math-ph/0302013,Monotonicity and Thermodynamic Limit for Short Range Disordered Models,4.1016287241885015e-06,1.233949974576672e-05,2.0,5.0
+quant-ph/0205020,Study of Optimization Problems by Quantum Annealing,4.100292487063275e-06,1.1941096530960432e-05,6.0,4.0
+cs/0308010,On the probabilistic approach to the random satisfiability problem,4.097008383449108e-06,0.0,8.0,2.0
+cond-mat/9612038,"Scaling and Crossover Functions for the Conductance in the Directed
+  Network Model of Edge States",4.095442277202466e-06,0.0,3.0,3.0
+cond-mat/9902036,"Effect of Local Magnetic Moments on the Metallic Behavior in Two
+  Dimensions",4.09472774015017e-06,0.0,4.0,2.0
+cond-mat/0007417,"Universal saturation of electron dephasing in three-dimensional
+  disordered metals",4.091647093711683e-06,7.4260550565674335e-09,1.0,1.0
+cond-mat/9804017,"Small Window Overlaps Are Effective Probes of Replica Symmetry Breaking
+  in 3D Spin Glasses",4.091485917159071e-06,0.0,7.0,1.0
+cond-mat/0502314,"Numerical study of the 6-vertex model with domain wall boundary
+  conditions",4.087541985246875e-06,1.990182755160072e-06,6.0,1.0
+cond-mat/0506301,Nonextensive aspects of small-world networks,4.085098475079258e-06,1.047073762976008e-05,3.0,6.0
+cond-mat/0508723,Message passing algorithms for non-linear nodes and data compression,4.083176067329934e-06,3.996207761107488e-06,2.0,3.0
+cond-mat/0206075,"Finite Size Scaling analysis of the avalanches in the 3d Gaussian Random
+  Field Ising Model with metastable dynamics",4.082946664796544e-06,0.0,2.0,0.0
+cond-mat/0403754,"Spanning avalanches in the three-dimensional Gaussian Random Field Ising
+  Model with metastable dynamics: field dependence and geometrical properties",4.082946664796544e-06,0.0,2.0,3.0
+cond-mat/0309488,Defining and identifying communities in networks,4.0823836317670185e-06,5.374981214119021e-06,7.0,9.0
+cond-mat/0509386,Insulating state of granular superconductors in a strong-coupling regime,4.079392053477547e-06,0.0,2.0,2.0
+cond-mat/0607018,"Surface phase transitions in one-dimensional channels arranged in a
+  triangular cross-sectional structure: Theory and Monte Carlo simulations",4.077912272267393e-06,0.0,2.0,0.0
+cond-mat/0404038,Dynamic model of fiber bundles,4.075235057024103e-06,0.0,2.0,0.0
+cond-mat/0002186,"Phase Diagram Of A Hard-sphere System In A Quenched Random Potential: A
+  Numerical Study",4.075235057024103e-06,0.0,2.0,0.0
+cond-mat/0211037,Conductance statistics near the Anderson transition,4.075235057024103e-06,0.0,3.0,2.0
+cond-mat/0005216,Multi-Choice Minority Game,4.074185044054586e-06,0.0,4.0,2.0
+cond-mat/0402198,"Scaling of the spin stiffness in random spin-1/2 chains : Crossover from
+  pure-metallic behaviour to random singlet-localized regime",4.072658679277594e-06,0.0,1.0,0.0
+cond-mat/0007502,Carrier-induced ferromagnetism in p-Zn1-xMnxTe,4.070486285438274e-06,0.0,5.0,1.0
+cond-mat/0107600,Dynamical Solution of the On-Line Minority Game,4.0692352466521325e-06,0.0,3.0,1.0
+cond-mat/0208378,"Fingerprints of classical diffusion in open 2D mesoscopic systems in the
+  metallic regime",4.069189384247665e-06,0.0,2.0,2.0
+cond-mat/0304245,"Statistical Properties of The First Excited State of an Interacting Many
+  Particle Disordered System",4.068634072582331e-06,0.0,3.0,1.0
+cond-mat/0402529,Minimizing energy below the glass thresholds,4.068456090830325e-06,0.0,7.0,0.0
+physics/0607159,An indicator for community structure,4.068448298626506e-06,0.0,3.0,0.0
+cond-mat/0302580,"Anomalies and non-log-normal tails in one-dimensional localization with
+  power-law disorder",4.065785572495089e-06,0.0,3.0,0.0
+cond-mat/0611514,"Feasibility of single-order parameter description of equilibrium viscous
+  liquid dynamics",4.063143711471229e-06,0.0,1.0,2.0
+cond-mat/0202036,The breakdown of the shear modulus at the glass transition,4.061321806251608e-06,3.0268600410568857e-05,1.0,4.0
+cond-mat/9906416,"Scattering on spin fluctuations in itinerant quantum disordered
+  ferromagnets near quantum phase transition",4.06096194762025e-06,0.0,3.0,0.0
+cond-mat/0006098,Social organization in the Minority Game model,4.059380280593727e-06,0.0,5.0,1.0
+cond-mat/0502552,Loops of any size and Hamilton cycles in random scale-free networks,4.059203115930604e-06,4.03889632608418e-06,3.0,6.0
+cond-mat/0206135,"Dynamical mean-field theory of spiking neuron ensembles: response to a
+  single spike with independent noises",4.057098038694793e-06,0.0,1.0,1.0
+cond-mat/0506509,Mixing properties of growing networks and the Simpson's paradox,4.05679415623446e-06,0.0,3.0,0.0
+cond-mat/0310268,"The path-integral analysis of an associative memory model storing an
+  infinite number of finite limit cycles",4.055966801845784e-06,0.0,1.0,0.0
+cond-mat/0506672,Diffusion in scale-free networks with annealed disorder,4.052862718562853e-06,0.0,2.0,0.0
+cond-mat/0006472,"Exactly solvable model with two conductor-insulator transitions driven
+  by impurities",4.052696315005297e-06,0.0,4.0,4.0
+cond-mat/0303535,The urban economy as a scale-free network,4.052609094504521e-06,0.0,4.0,0.0
+cond-mat/9810319,Point-Contact Conductances at the Quantum Hall Transition,4.0506298874984165e-06,0.0,2.0,3.0
+cond-mat/0311627,"Can One Make Any Crash Prediction in Finance Using the Local Hurst
+  Exponent Idea?",4.040301055480448e-06,0.0,2.0,0.0
+cond-mat/0409759,A unifying model for several two-dimensional phase transitions,4.036255774755942e-06,0.0,4.0,1.0
+cond-mat/0612189,"Comparison of Ising magnet on directed versus undirected Erdos-Renyi and
+  scale-free network",4.035579530665707e-06,0.0,4.0,1.0
+cond-mat/0501020,Percolation and roughness in ballistic deposition of complex shapes,4.035015949422194e-06,0.0,1.0,1.0
+cond-mat/0011065,"Coupled dynamics of fast spins and slow exchange interactions in the XY
+  spin-glass",4.029131201546402e-06,0.0,1.0,0.0

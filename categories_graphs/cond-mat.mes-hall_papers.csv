@@ -1,0 +1,1473 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+hep-th/0608202,"Numerical simulations of a non-commutative theory: the scalar model on
+  the fuzzy sphere",0.0001494169424672,2.7492237378831444e-06,89.0,3.0
+hep-th/0701144,Electric-magnetic Duality and Deformations of Three-Dimensional CFT's,5.307920025698458e-05,0.0,46.0,0.0
+cond-mat/0411386,"Linear Algebra with Disordered Sparse Matrices that have Spatial
+  Structure: Theory and Computation",4.373614806490423e-05,0.0,46.0,0.0
+cond-mat/0703075,Incomplete pure dephasing of N-qubit entangled W states,4.1898608679540206e-05,3.980365510320144e-06,4.0,2.0
+cond-mat/0109126,Replica treatment of non-Hermitian disordered Hamiltonians,4.17905961596307e-05,0.0,5.0,0.0
+cond-mat/0703005,Phase-space theory for dispersive detectors of superconducting qubits,4.130040039038486e-05,2.4753516855224776e-09,6.0,1.0
+hep-th/0610157,Quantum Hall Effect on the Flag Manifold F_2,4.061451679208856e-05,0.0,26.0,0.0
+cond-mat/0512586,Entanglement Entropy dynamics in Heisenberg chains,3.759645744280023e-05,8.191952116440294e-06,49.0,4.0
+cond-mat/0603341,"Functional Renormalization-Group Analysis of Luttinger Liquids with
+  Impurities",3.732525928998634e-05,0.0,47.0,0.0
+cond-mat/0403388,Full counting statistics of a chaotic cavity with asymmetric leads,3.7141363458575854e-05,1.003136270557984e-06,31.0,2.0
+hep-th/0606196,"Logarithmic extensions of minimal models: characters and modular
+  transformations",3.663440109544448e-05,8.409073700616251e-07,33.0,1.0
+quant-ph/0508144,Quantum measurement of a mesoscopic spin ensemble,3.61050168599526e-05,9.910764125709416e-05,30.0,10.0
+cond-mat/0611438,Quantum Description of Nuclear Spin Cooling in a Quantum Dot,3.522902282457686e-05,4.0051190271753685e-06,27.0,1.0
+cond-mat/0405512,Current noise in a vibrating quantum dot array,3.379155604932098e-05,1.775088471869987e-05,31.0,5.0
+hep-th/0503040,"Infinite-dimensional representations of the rotation group and Dirac's
+  monopole problem",3.346501018852585e-05,2.704794259531393e-07,23.0,1.0
+hep-th/0411254,"Lorentz Symmetry Breaking and Planar Effects from Non-Linear
+  Electrodynamics",3.284429717091955e-05,0.0,10.0,0.0
+quant-ph/0610078,"Effective Quantum Dynamics of Interacting Systems with Inhomogeneous
+  Coupling",3.2426036225202184e-05,2.014936272015297e-06,4.0,1.0
+cond-mat/0505086,Collective Chaos Induced by Structures of Complex Networks,3.229393606028533e-05,3.955859528633472e-06,6.0,2.0
+hep-th/0611282,"Modular Symmetry and Fractional Charges in N=2 Supersymmetric Yang-Mills
+  and the Quantum Hall Effect",3.1791748884949124e-05,0.0,48.0,0.0
+cond-mat/0612654,Diffusion Poles and the Anderson Transition,3.139855362288937e-05,0.0,8.0,0.0
+hep-th/0703193,"U_e(1)xU_g(1) Actions in 2+1-Dimensions: Full Vectorial Electric and
+  Magnetic Fields",3.1157451765030455e-05,6.149220941604018e-07,22.0,3.0
+hep-th/0503034,"Nonassociativity, Dirac monopoles and Aharonov-Bohm effect",3.068271520554885e-05,0.0,12.0,1.0
+cond-mat/0411190,Current and current fluctuations in quantum shuttles,3.0678128389060444e-05,0.0,24.0,0.0
+cond-mat/0703757,Spontaneous Symmetry Breaking and Quantum Hall Effect in Graphene,3.0032821667453765e-05,0.0,13.0,0.0
+hep-th/0212084,K-matrices for 2D conformal field theories,2.9891415769079327e-05,0.0,41.0,0.0
+cond-mat/0412028,Recipes for spin-based quantum computing,2.7108617805513947e-05,7.096225005300524e-05,27.0,2.0
+cond-mat/0507527,"Full Counting Statistics in Strongly Interacting Systems: Non-Markovian
+  Effects",2.6823892520775128e-05,0.0,4.0,1.0
+quant-ph/0703014,Quantum Capacity of a dephasing channel with memory,2.5572794952459527e-05,1.990182755160072e-06,6.0,1.0
+cond-mat/0508263,Superstatistical Brownian motion,2.5240713644536497e-05,0.0,14.0,0.0
+hep-th/0407109,"Planar Supersymmetric Quantum Mechanics of a Charged Particle in an
+  External Electromagnetic Field",2.4853606746989596e-05,3.553897777071557e-08,19.0,1.0
+cond-mat/0702129,Exactly solvable models in atomic and molecular physics,2.4511748550023625e-05,0.0,17.0,0.0
+cond-mat/9910158,Shot Noise in Mesoscopic Conductors,2.428665687423317e-05,0.00024305606677,25.0,23.0
+hep-th/0506008,The beat of a fuzzy drum: fuzzy Bessel functions for the disc,2.360597562280602e-05,3.675537073070216e-07,29.0,1.0
+hep-th/0703194,Effective Fractional Hall Effect with Pseudo-Photons,2.2886191026752448e-05,8.899162529101824e-08,14.0,3.0
+cond-mat/0301167,One-dimensional optical lattices and impenetrable bosons,2.2624814126178333e-05,1.990182755160072e-06,4.0,1.0
+cond-mat/0609580,Numerical Analysis of the Anderson Localization,2.212819014440855e-05,3.980365510320144e-06,10.0,2.0
+cond-mat/0004084,"Non-abelian quantum Hall states - exclusion statistics, K-matrices and
+  duality",2.210458506464012e-05,4.555897467198089e-06,37.0,5.0
+cond-mat/0609571,"Non-commutative mechanics, in mathematical & in condensed matter physics",2.2046140270756167e-05,8.298380418741869e-08,27.0,1.0
+cond-mat/0508500,"Full Counting Statistics for a Single-Electron Transistor,
+  Non-equilibrium Effects at Intermediate Conductance",2.199619329928281e-05,0.0,3.0,0.0
+cond-mat/0508532,Edge spin accumulation in semiconductor two-dimensional hole gases,2.185454263373877e-05,0.0001344995428797,18.0,8.0
+cond-mat/0608219,"Notes on the minimal longitudinal dc conductivity of perfect bilayer
+  graphene",2.1648535808562483e-05,3.990319690206316e-05,17.0,2.0
+cond-mat/0511212,"Superconductor-to-Metal Transitions in Dissipative Chains of Mesoscopic
+  Grains and Nanowires",2.1567077660596533e-05,4.0525794754743945e-06,9.0,2.0
+hep-th/0503162,Quantum Hall Liquid on a Noncommutative Superplane,2.12645144888138e-05,5.599461984899986e-06,41.0,5.0
+cond-mat/0302315,"Comments on ""Gauge Theory of Composite Fermions:Particle-Flux Separation
+  in Quantum Hall Systems"" by I. Ichinose and Tetsuo Matsui, cond-mat/0210142
+  v2, 7 Feb. 2003",2.1197655525981947e-05,0.0,12.0,0.0
+cond-mat/0306401,All-Electrical Quantum Computation with Mobile Spin Qubits,2.1047147224424804e-05,0.0001810231193308,23.0,4.0
+math-ph/0502015,Lectures on random matrix theory and symmetric spaces,2.0598284582691395e-05,5.934903201208693e-06,27.0,1.0
+hep-th/0611340,"Towards a universal set of topologically protected gates for quantum
+  computation with Pfaffian qubits",2.05486232214824e-05,0.0,29.0,0.0
+cond-mat/0703425,Entanglement creation in circuit QED via Landau-Zener sweeps,2.0503245736023716e-05,0.0,2.0,1.0
+cond-mat/0411007,"Resolving the order parameter of High-T$_{c}$ Superconductors through
+  quantum pumping spectroscopy",2.040257645806273e-05,0.0,11.0,0.0
+quant-ph/0507145,"Explanation of the Gibbs paradox within the framework of quantum
+  thermodynamics",2.0136027556676496e-05,0.0,10.0,1.0
+cond-mat/0409771,Coherent and Collective Quantum Optical Effects in Mesoscopic Systems,1.996216974645058e-05,2.3408839160347147e-05,14.0,4.0
+cond-mat/0510688,"Extended Bose-Hubbard model with incompressible states at fractional
+  numbers",1.989916815198792e-05,3.7130275282837164e-09,6.0,1.0
+cond-mat/0408599,Principal problems in Bose-Einstein condensation of dilute gases,1.981704099743443e-05,1.990182755160072e-06,20.0,1.0
+cond-mat/0703311,"Coherence and Entanglement in Two-Qubit Dynamics: Interplay of the
+  Induced Exchange Interaction and Quantum Noise due to Thermal Bosonic
+  Environment",1.9735105628616856e-05,0.0,2.0,0.0
+cond-mat/0501246,"Real-space renormalization-group approach to the integer quantum Hall
+  effect",1.95823595555763e-05,0.0,28.0,0.0
+cond-mat/0111090,"Finite-Size Scaling of the Level Compressibility at the Anderson
+  Transition",1.9565028480083438e-05,0.0,25.0,0.0
+cond-mat/0609617,Electron transport in disordered graphene,1.945074982314684e-05,5.175066286709832e-06,23.0,4.0
+hep-th/0610269,Jain States in a Matrix Theory of the Quantum Hall Effect,1.937123522711181e-05,1.2360766753189402e-06,21.0,1.0
+cond-mat/0612212,Current-voltage correlations in interferometers,1.9285333498889423e-05,0.0,4.0,0.0
+cond-mat/0402135,Quantum phase transitions in two-dimensional systems,1.9278030339326728e-05,0.0,13.0,0.0
+cond-mat/0405515,"Quantum phase transitions of fractons (a fractal scaling theory for the
+  FQHE)",1.9119501650321575e-05,0.0,18.0,0.0
+hep-th/0507156,The Complex Laguerre Symplectic Ensemble of Non-Hermitian Matrices,1.903662472828033e-05,2.4698235085063705e-06,37.0,4.0
+cond-mat/0011511,Phase Diagram of Bilayer Composite Fermion States,1.893828516419521e-05,1.990182755160072e-06,5.0,1.0
+cond-mat/0405237,"Quantum Hall Smectics, Sliding Symmetry and the Renormalization Group",1.893098138515451e-05,3.421988621603049e-07,26.0,2.0
+cond-mat/0701670,"Transport Properties of Multiple Quantum Dots Arranged in Parallel:
+  Results from the Bethe Ansatz",1.879177782503375e-05,2.1333296455150204e-06,9.0,1.0
+cond-mat/0405453,Thermopower of Single-Molecule Devices,1.839309682991804e-05,0.0,2.0,0.0
+hep-th/0610070,"The WZNW model on PSU(1,1|2)",1.8327759405315256e-05,6.7846766674775154e-06,49.0,10.0
+cond-mat/0602330,Spin Hall Effect,1.828004686775724e-05,2.2884516566015075e-06,13.0,6.0
+cond-mat/0612087,"Wide-band detection of the third moment of shot noise by a hysteretic
+  Josephson junction",1.826496705502166e-05,1.990182755160072e-06,5.0,2.0
+cond-mat/0610744,"Anderson transition: numerical vs analytical results (comment on the
+  review article by P.Markos cond-mat/0609580)",1.817190183023184e-05,7.4260550565674335e-09,8.0,1.0
+cond-mat/0601269,Phase transitions in the boson-fermion resonance model in one dimension,1.81361127489885e-05,1.9629611670654582e-06,18.0,1.0
+cond-mat/0702392,"Exciton condensation in semiconductor quantum wells in nonuniform
+  electric field",1.8025119166789688e-05,0.0,7.0,0.0
+cond-mat/0602617,Kondo Physics and Exact Solvability of Double Dots Systems,1.7910926511124366e-05,1.357208352983808e-07,2.0,2.0
+quant-ph/0606029,"Dynamic generation of entangling wave packets in XY spin system with
+  decaying long range couplings",1.7899663846628546e-05,0.0,6.0,0.0
+cond-mat/0304678,Quantum pumping and dissipation: from closed to open systems,1.7819320498060586e-05,9.46029575633412e-06,2.0,3.0
+cond-mat/0107283,Pairing symmetry transitions in the even-denominator FQHE system,1.7640271159824043e-05,0.0,1.0,0.0
+hep-th/0510034,"Fractional quantum Hall effect on the two-sphere: a matrix model
+  proposal",1.7398124519750202e-05,1.1257332505539384e-06,33.0,3.0
+hep-th/0605036,Quantum Fields on Star Graphs,1.7316462509423763e-05,4.897537120986118e-07,18.0,4.0
+cond-mat/0608682,"Anomalous Hall effect in 2D Dirac band: link between Kubo-Streda formula
+  and semiclassical Boltzmann equation approach",1.7202468760777477e-05,5.8240915310721e-06,16.0,4.0
+cond-mat/0103044,Transport in Quantum Dots from the Integrability of the Anderson Model,1.7123962671808546e-05,1.0903924174726513e-06,11.0,3.0
+cond-mat/0510563,"Influence Functional for Decoherence of Interacting Electrons in
+  Disordered Conductors",1.7106545009149605e-05,3.980365510320144e-06,17.0,7.0
+cond-mat/0408075,Quantum-to-Classical Crossover in Full Counting Statistics,1.7030110765658864e-05,2.210910333879113e-05,3.0,3.0
+cond-mat/9901308,Charging effects in niobium nanostructures,1.698305776871199e-05,0.0,16.0,0.0
+cond-mat/0409593,Landau-Zener quantum tunneling in disordered nanomagnets,1.693771252140093e-05,0.0,11.0,0.0
+hep-ph/0510066,"Gauge independent approach to chiral symmetry breaking in a strong
+  magnetic field",1.6866167698601446e-05,1.46140317938324e-05,3.0,8.0
+cond-mat/9612179,Random-Matrix Theory of Quantum Transport,1.68613312767262e-05,0.0,15.0,15.0
+cond-mat/0606550,Quantum computing with spins in solids,1.683537744023655e-05,6.287747741033225e-06,20.0,4.0
+hep-th/0408052,"A universal conformal field theory approach to the chiral persistent
+  currents in the mesoscopic fractional quantum Hall states",1.6635051518650005e-05,4.9089117192114594e-09,16.0,1.0
+hep-th/0611090,Bosonization and Scale Invariance on Quantum Wires,1.651529694161524e-05,0.0,17.0,0.0
+cond-mat/0210125,"Full Counting Statistics of Superconductor--Normal-Metal
+  Heterostructures",1.6383616541984928e-05,2.488326103752821e-05,8.0,6.0
+cond-mat/0506438,Anyons in an exactly solved model and beyond,1.6317267097349002e-05,6.099381678279848e-05,38.0,23.0
+cond-mat/0703080,"Microwave photoconductivity of a 2D electron gas: Mechanisms and their
+  interplay at high radiation power",1.616694673570563e-05,0.0,8.0,0.0
+cond-mat/0310315,"Spin-Hall and spin-diagonal conductivity in the presence of Rashba and
+  Dresselhaus spin-orbit coupling",1.6086733444843144e-05,0.0002055339499673,13.0,18.0
+cond-mat/9911245,Quantum Computation and Spin Electronics,1.6064992089504783e-05,0.0015076372282895,26.0,15.0
+cond-mat/0510556,"Decoherence in weak localization I: Pauli principle in influence
+  functional",1.5862350892783696e-05,3.980365510320144e-06,19.0,3.0
+cond-mat/0307675,Quantum pumping: Coherent Rings versus Open Conductors,1.570828523424763e-05,1.1450478511494192e-05,6.0,1.0
+cond-mat/0201001,"Memory Effects in Electron Transport in Si Inversion Layers in the
+  Dilute Regime: Individuality versus Universality",1.5702807131059135e-05,4.240436567051215e-06,12.0,7.0
+cond-mat/0703810,"Role of the trigonal warping on the minimal conductivity of bilayer
+  graphene",1.5670984031209917e-05,0.0,9.0,0.0
+cond-mat/0610402,"Entanglement properties and moment distributions of a system of
+  hard-core anyons on a ring",1.561073074647889e-05,5.353056884397549e-06,4.0,3.0
+cond-mat/0606236,The Luttinger model following a sudden interaction switch-on,1.5586992268720508e-05,1.990182755160072e-06,5.0,1.0
+cond-mat/0312180,Full Counting Statistics in Quantum Contacts,1.519872393432012e-05,5.970548265480216e-06,11.0,2.0
+cond-mat/0510422,Transport in Two Dimensional Electronic Micro-emulsions,1.5122714631863289e-05,9.95091377580036e-06,7.0,3.0
+cond-mat/0403507,"Positive cross-correlations due to Dynamical Channel-Blockade in a
+  three-terminal quantum dot",1.511626042191246e-05,2.4599159644073835e-05,10.0,3.0
+cond-mat/0302586,Hidden quantum pump effects in quantum coherent rings,1.504812904643044e-05,5.509634466240246e-06,11.0,1.0
+cond-mat/0603594,Novel electric field effects on Landau levels in Graphene,1.4820815296459424e-05,0.0,13.0,4.0
+cond-mat/0602261,"Shot noise in transport through ""double quantum dots""",1.4787131542332253e-05,0.0,4.0,0.0
+cond-mat/0110108,"Parafermion statistics and the application to non-abelian quantum Hall
+  states",1.4606093772158175e-05,5.588714870835167e-05,19.0,1.0
+cond-mat/0103617,Counting statistics of charge pumping in an open system,1.449512557991791e-05,0.0001422112198662,20.0,26.0
+hep-th/0108173,"The nu=5/2 quantum Hall state revisited: spontaneous breaking of the
+  chiral fermion parity and phase transition between abelian and non-abelian
+  statistics",1.448195679765461e-05,3.561290540399413e-07,21.0,6.0
+cond-mat/0510083,The Smeagol method for spin- and molecular-electronics,1.4425440397697172e-05,0.0,10.0,1.0
+cond-mat/0608303,Understanding spin Hall effects from the motion in SU(2)XU(1) fields,1.4383817435011687e-05,0.0,7.0,0.0
+cond-mat/9810381,"Hausdorff dimension, anyonic distribution functions, and duality",1.4320921965751836e-05,3.980365510320144e-06,15.0,2.0
+hep-th/0603050,Schwinger Model In Noncommutating Space-Time,1.416345958025393e-05,1.6035424460492003e-06,21.0,5.0
+hep-th/0602133,"Exotic galilean symmetry and non-commutative mechanics in mathematical &
+  in condensed matter physics",1.4130710903059182e-05,1.5750422180355883e-06,28.0,4.0
+quant-ph/0602224,"Anomalously Slow Cross Symmetry Phase Relaxation, Thermalized
+  Non-Equilibrated Matter and Quantum Computing Beyond the Quantum Chaos Border",1.409971636486497e-05,0.0,9.0,2.0
+cond-mat/0611147,Unusual field and temperature dependence of Hall effect in graphene,1.4038545498418216e-05,0.0,10.0,0.0
+cond-mat/0404426,Interference Effects in the Conductance of Multi-Level Quantum Dots,1.3962500442521076e-05,2.114871136073768e-05,5.0,2.0
+cond-mat/0307757,"Radiation-intensity and temperature dependence of microwave-induced
+  magnetoresistance oscillations in high-mobility two-dimensional electron
+  systems",1.3941520318367772e-05,9.95091377580036e-07,15.0,3.0
+cond-mat/0311339,"Chiral persistent currents and magnetic susceptibilities in the
+  parafermion quantum Hall states in the second Landau level with Aharonov-Bohm
+  flux",1.3857942917265184e-05,4.9089117192114594e-09,18.0,2.0
+cond-mat/0509748,Quantum Noise in the Electromechanical Shuttle,1.3822340716433754e-05,1.975330645046937e-06,2.0,1.0
+hep-th/0605289,"Effective Wess-Zumino-Witten Action for Edge States of Quantum Hall
+  Systems on Bergman Ball",1.3818322962357904e-05,1.6136914362189442e-08,25.0,2.0
+cond-mat/0606413,"Electronic Hong-Ou-Mandel interferometer for multi-mode entanglement
+  detection",1.376752653424326e-05,0.0,5.0,1.0
+cond-mat/0409146,Density profiles for atomic quantum Hall states,1.37388925264837e-05,1.3894215806041878e-05,9.0,2.0
+hep-th/0511302,"A Novel ""Magnetic"" Field And Its Dual Non-Commutative Phase Space",1.3437289995115214e-05,8.702377309534203e-06,15.0,6.0
+cond-mat/0012438,"Perturbative spectrum of Trapped Weakly Interacting Bosons in Two
+  Dimensions",1.3423542534471475e-05,2.700383656933612e-09,1.0,1.0
+cond-mat/0703037,Quantum Impurity Entanglement,1.3403714256732215e-05,0.0,10.0,0.0
+cond-mat/0010310,Aharonov-Bohm effect of excitons in nano-rings,1.324444369892745e-05,0.0,6.0,3.0
+cond-mat/0210498,Shot noise for entangled and spin-polarized electrons,1.320126221134242e-05,1.001201356164407e-06,21.0,5.0
+cond-mat/0506733,Symmetric space description of carbon nanotubes,1.3181099443692076e-05,0.0,9.0,0.0
+cond-mat/0212016,Fast noise in the Landau-Zener theory,1.3148313261228117e-05,0.0,10.0,0.0
+cond-mat/9907494,Interactions and Weak Localization: Perturbation Theory and Beyond,1.3147908738303722e-05,0.0011089417934718,10.0,4.0
+cond-mat/0603510,A novel approach to transport through correlated quantum dots,1.306278504076591e-05,0.0,3.0,0.0
+cond-mat/0611265,"Current distribution in systems with anomalous diffusion:
+  renormalisation group approach",1.3050368379395309e-05,0.0,3.0,0.0
+cond-mat/0606505,Photon-assisted electron transport in graphene,1.2927653674596944e-05,7.577810950269884e-06,8.0,4.0
+cond-mat/0406280,F/S interfaces: point contact versus atomic thickness geometries,1.2878288224808216e-05,0.0,2.0,0.0
+hep-th/0606007,"Supersymmetric Chern-Simons Theory and Supersymmetric Quantum Hall
+  Liquid",1.2876746723687316e-05,8.094615373355642e-08,23.0,1.0
+cond-mat/0610416,"Nonlocal transport mediated by nonlocal Hikami boxes: Condensation of
+  evanescent quasiparticles injected into the superconducting gap",1.2873866986207915e-05,0.0,2.0,0.0
+cond-mat/0610213,"Comment on ``Dipole transitions and Stark effect in the charge-dyon
+  system,'' by L. Mardoyan et al., cond-mat/0609768",1.2764592622086609e-05,0.0,2.0,1.0
+cond-mat/0112379,Paired and clustered quantum Hall states,1.2710306296543312e-05,5.392480250994979e-05,3.0,2.0
+cond-mat/0312691,"A universal Hamiltonian for a quantum dot in the presence of spin-orbit
+  interaction",1.2655448858990212e-05,5.970548265480216e-06,3.0,3.0
+cond-mat/0511750,"Spin Hall effect in clean two dimensional electron gases with Rashba
+  spin-orbit coupling",1.2652812837393758e-05,2.5415885386004075e-05,7.0,6.0
+cond-mat/9812165,"Chaos in Quantum Dots: Dynamical Modulation of Coulomb Blockade Peak
+  Heights",1.2631466025357411e-05,0.0,1.0,5.0
+cond-mat/0506653,"Differences between application of some basic principles of quantum
+  mechanics on atomic and mesoscopic levels",1.2615053723829208e-05,1.990182755160072e-06,4.0,1.0
+cond-mat/0108098,Aharonov-Bohm ring with fluctuating flux,1.2584184208187956e-05,0.0,2.0,0.0
+cond-mat/0609345,"Investigation of possibility of creation of a superconductor quantum
+  register",1.2561639116127272e-05,0.0,2.0,0.0
+cond-mat/0405136,"Microwave-induced magnetotransport phenomena in two-dimensional electron
+  systems: Importance of electrodynamic effects",1.2543647681790704e-05,1.1145023428896368e-05,13.0,4.0
+cond-mat/0011335,"Delocalization effects and charge reorganizations induced by repulsive
+  interactions in strongly disordered chains",1.24453228181355e-05,3.980365510320144e-06,7.0,2.0
+cond-mat/0001439,Metal-Kondo insulating transitions and transport in one dimension,1.2436689855197183e-05,2.9704220226269734e-08,4.0,2.0
+cond-mat/0603522,Granular Electronic Systems,1.2425981333148874e-05,1.1208880059801538e-05,4.0,7.0
+cond-mat/0407468,"Kubo formula for Floquet states and photoconductivity oscillations in a
+  2D electron gas",1.242206767670278e-05,1.990182755160072e-06,7.0,2.0
+cond-mat/0501242,Dynamics of Shuttle Devices,1.2390862764519312e-05,3.958087345150442e-06,6.0,2.0
+cond-mat/0201026,"Single and vertically coupled type II quantum dots in a perpendicular
+  magnetic field: exciton groundstate properties",1.235037833761828e-05,0.0,2.0,0.0
+cond-mat/0109316,Keldysh and Doi-Peliti Techniques for out-of-Equilibrium Systems,1.2346316403476212e-05,0.0002685013612671,7.0,17.0
+cond-mat/0510557,"Decoherence in weak localization II: Bethe-Salpeter calculation of
+  Cooperon",1.2318417375521046e-05,7.960731020640288e-06,7.0,4.0
+cond-mat/0108018,On the Cooling of Electrons in a Silicon Inversion Layer,1.2311484394442154e-05,2.5702839690404644e-06,14.0,2.0
+cond-mat/0608160,"On polynomials interpolating between the stationary state of a O(n)
+  model and a Q.H.E. ground state",1.2299610570296103e-05,1.990182755160072e-06,18.0,5.0
+hep-th/9711061,Renormalization Group Transformation for the Wave Function,1.2291916771422464e-05,7.4260550565674335e-09,9.0,2.0
+cond-mat/0511398,Multi-particle correlations of an oscillating scatterer,1.212438133452548e-05,0.0,4.0,0.0
+cond-mat/0607720,Time-dependent evolution of two coupled Luttinger liquids,1.211260979727409e-05,0.0,2.0,0.0
+cond-mat/0405581,Realistic operation of an entangler : a density matrix approach,1.2069644566415935e-05,0.0,3.0,0.0
+cond-mat/0607657,"Disordered free fermions and the Cardy Ostlund fixed line at low
+  temperature",1.2042748709321364e-05,0.0,7.0,0.0
+cond-mat/0611423,"Quantum spin Hall effect in three dimensional materials: Lattice
+  computation of Z$_2$ topological invariants and its application to Bi and Sb",1.1996803701835029e-05,0.0,14.0,0.0
+cond-mat/0005124,"On the ""anomalous"" resurgence of shot noise in long conductors",1.19837424133511e-05,3.980365510320144e-06,8.0,2.0
+cond-mat/0504353,Intrinsic Spin Hall Effect,1.198011975207312e-05,6.204521378520539e-07,24.0,12.0
+cond-mat/0606788,"Quantum master equation scheme of time-dependent density functional
+  theory to time-dependent transport in nano-electronic devices",1.1973549193547729e-05,1.990182755160072e-06,6.0,1.0
+cond-mat/0611580,Quantum pump driven fermionic Mach-Zehnder interferometer,1.1947284624702604e-05,1.990182755160072e-06,4.0,1.0
+hep-th/0602273,Algebraic approach to parafermionic conformal field theories,1.189245875653166e-05,3.9774311726823003e-08,12.0,1.0
+cond-mat/0304612,Real-space renormalization at the quantum Hall transition,1.1885636837257188e-05,0.0,21.0,0.0
+hep-th/0302014,Non-minimal Maxwell-Chern-Simons theory and the composite Fermion model,1.1883571746706206e-05,0.0,9.0,1.0
+cond-mat/0012240,Disordered Dirac Fermions: the Marriage of Three Different Approaches,1.1865021531128836e-05,0.0001225517490241,39.0,22.0
+cond-mat/0512054,Spin-Hall effect: Back to the Beginning on a Higher Level,1.1814629270036395e-05,1.8894240860240768e-05,18.0,7.0
+cond-mat/0510815,"Intrinsic spin current for an arbitrary Hamiltonian and scattering
+  potential",1.1803100186131769e-05,4.26754161951673e-06,8.0,6.0
+cond-mat/0004327,"Shallow Coulomb Gap and Weak Level-Level Correlations in a Deeply
+  Insulating Electron System with Interactions",1.180197692792254e-05,0.0,7.0,0.0
+cond-mat/0005016,"Effective action of a compressible QH state edge: application to
+  tunneling",1.1764600974103137e-05,0.0,3.0,11.0
+cond-mat/0609258,"Current-driven ferromagnetic resonance, mechanical torques and rotary
+  motion in magnetic nanostructures",1.1719468370526791e-05,7.960731020640288e-06,5.0,1.0
+cond-mat/0208429,"A Novel CFT Approach to Bulk Wave Functions in the Fractional Quantum
+  Hall Effect",1.1682401712839977e-05,0.0,18.0,0.0
+cond-mat/0210409,"Energy dependent counting statistics in diffusive superconducting tunnel
+  junctions",1.167399589492367e-05,5.324557523557724e-06,7.0,1.0
+cond-mat/0503653,"Full counting-statistics in a single-electron transistor in the presence
+  of nonequilibrium quantum fluctuations of charge",1.1653228104522812e-05,1.979043672575221e-06,5.0,1.0
+quant-ph/0503015,"Exploring super-radiant phase transitions via coherent control of a
+  multi-qubit--cavity system",1.162326197825974e-05,0.0,12.0,0.0
+cond-mat/0411697,"The effect of in-plane magnetic field on the spin Hall effect in
+  Rashba-Dresselhaus system",1.1586960725945937e-05,6.580077678928477e-07,17.0,2.0
+hep-th/0306247,The Fuzzy Disc,1.1575538976730371e-05,1.318475041756975e-05,36.0,16.0
+quant-ph/0310047,Single spin measurement using spin-orbital entanglement,1.1530066589133836e-05,0.0001752726909913,8.0,6.0
+cond-mat/0201232,"Multiple gaps in quantum Hall effect including review of prl 1998-2001
+  papers",1.1510318854437589e-05,8.452751028407915e-06,8.0,4.0
+cond-mat/0405304,"Controlling Decoherence of Transported Quantum Spin Information in
+  Semiconductor Spintronics",1.150746774270862e-05,0.0,4.0,0.0
+cond-mat/0501672,Current-induced macrospin vs spin-wave excitations in spin valves,1.1498621422271236e-05,0.0,4.0,2.0
+hep-th/0505138,N=2 Supersymmetric Yang-Mills and the Quantum Hall Effect,1.1495181705478085e-05,3.056295610207002e-06,31.0,3.0
+cond-mat/0601315,"Spin Hall effect in two-dimensional $p$-type semiconductors in a
+  magnetic field",1.1493888102480731e-05,9.603059429228035e-07,12.0,1.0
+cond-mat/0703705,Gauge Field Formulation of Adiabatic Spin Torques,1.14877027305143e-05,0.0,5.0,0.0
+hep-th/0410070,Supersymmetric Embedding of the Quantum Hall Matrix Model,1.1438058260272067e-05,1.1177128924607955e-06,16.0,5.0
+cond-mat/0605338,"Controllable pi junction in a Josephson quantum-dot device with
+  molecular spin",1.1426279152298464e-05,3.980365510320144e-06,5.0,2.0
+cond-mat/0601034,"From a few to many electrons in quantum dots under strong magnetic
+  fields: Properties of rotating electron molecules with multiple rings",1.1375828476453756e-05,0.0,4.0,0.0
+cond-mat/0103160,Quantum dots with two electrons: Singlet-triplet transitions,1.128924344062524e-05,0.0,6.0,0.0
+cond-mat/0312029,"Microscopic theory of equilibrium properties of F/S/F trilayers with
+  weak ferromagnets",1.1256250897106836e-05,4.8103456637701166e-08,4.0,1.0
+cond-mat/0610201,Transport regimes in surface disordered graphene sheets,1.1252203751348813e-05,6.1598827723745045e-06,6.0,2.0
+cond-mat/0412229,Entanglement distillation by adiabatic passage in coupled quantum dots,1.1233170660257192e-05,5.52718642919393e-06,5.0,3.0
+cond-mat/0609301,"Linear temperature dependence of conductivity in Si two-dimensional
+  electrons near the apparent metal-to-insulator transition",1.121363075648336e-05,0.0,2.0,0.0
+cond-mat/0108339,Decoherence and dephasing in spin-based solid state quantum computers,1.1205232396753416e-05,2.510326788535671e-05,9.0,17.0
+cond-mat/0612589,Nonlinear resonance in a three-terminal carbon nanotube resonator,1.1193600736464806e-05,0.0,2.0,0.0
+cond-mat/0402597,Shot Noise of a Quantum Shuttle,1.1176827994380854e-05,0.0,6.0,2.0
+cond-mat/0609768,Dipole transitions and Stark effect in the charge-dyon system,1.1111471164960028e-05,1.990182755160072e-06,2.0,1.0
+cond-mat/0610805,"Experimental Studies of Low-field Landau Quantization in Two-dimensional
+  Electron Systems in GaAs/AlGaAs Heterostructures",1.1104250981764096e-05,0.0,3.0,0.0
+cond-mat/0311010,"Demonstration of a 1/4 cycle phase shift in the radiation-induced
+  oscillatory-magnetoresistance in GaAs/AlGaAs devices",1.1074340065969892e-05,0.0,9.0,0.0
+cond-mat/9912324,"Bilayer Quantum Hall Systems at Filling Factor \nu=2: An Exact
+  Diagonalisation Study",1.106200752085684e-05,0.0,3.0,0.0
+hep-th/0412219,"Matrix models and growth processes: from viscous flows to the quantum
+  Hall effect",1.1057136295982207e-05,2.0578227462576456e-05,39.0,11.0
+cond-mat/0603668,Fermi Edge Singularities in Transport through Quantum Dots,1.1043615190581003e-05,0.0,8.0,1.0
+cond-mat/0402368,"Electrical current noise of a beam splitter as a test of
+  spin-entanglement",1.1030023907235855e-05,1.953052479877235e-06,13.0,1.0
+gr-qc/0408010,On the interaction of mesoscopic quantum systems with gravity,1.1012574685669424e-05,1.2918997199513367e-05,8.0,7.0
+cond-mat/0610810,Interference effects in interacting quantum dots,1.0948257910804747e-05,3.0698208532815567e-06,4.0,5.0
+cond-mat/9808161,Quantum Chaos in Quantum Wells,1.093962321411057e-05,0.0,7.0,1.0
+cond-mat/0604585,"Theoretical study of interacting hole gas in p-doped bulk III-V
+  semiconductors",1.0938986444258914e-05,0.0,6.0,0.0
+cond-mat/0210070,"Theory of the Ramsey spectroscopy and anomalous segregation in
+  ultra-cold rubidium",1.0925355695527427e-05,0.0,3.0,0.0
+cond-mat/0503513,Charge and spin density modulations in semiconductor quantum wires,1.0919626282408985e-05,0.0,5.0,0.0
+cond-mat/0701260,"Pseudopotentials for Multi-particle Interactions in the Quantum Hall
+  Regime",1.09172085735153e-05,0.0,6.0,0.0
+cond-mat/0609072,Topological Entanglement Entropy from the Holographic Partition Function,1.0896317007031296e-05,2.734049844200653e-07,23.0,4.0
+cond-mat/0605259,"Effect of the Coulomb interaction on the electron relaxation of
+  weakly-confined quantum dot systems",1.087967397613506e-05,0.0,2.0,0.0
+cond-mat/0701748,"Subgap tunneling via quantum-interference effect: insulators and charge
+  density waves",1.0868443046539178e-05,0.0,7.0,1.0
+cond-mat/0508060,"Quantum simulation of manybody effects in steady-state nonequilibrium:
+  electron-phonon coupled quantum dots",1.0867180473698307e-05,0.0,1.0,0.0
+cond-mat/0604526,"Unified description of the Zitterbewegung for spintronic, graphene and
+  superconducting systems",1.0856690681329928e-05,3.7138153689035534e-05,10.0,3.0
+cond-mat/0312122,The conductance of molecular wires and DFT based transport calculations,1.085273276513261e-05,0.0,5.0,1.0
+cond-mat/0203263,"Quantum Hall states and boson triplet condensate for rotating spin-1
+  bosons",1.0847984989575583e-05,0.0,5.0,0.0
+cond-mat/0702420,"Possibility of magnetic field induced Composite Fermi sea in neutral
+  Graphene",1.0813271319894338e-05,0.0,7.0,1.0
+cond-mat/9902176,Dephasing in Metals by Two-Level Systems in the 2-Channel-Kondo Regime,1.0811311725858133e-05,0.0006305137367735,11.0,6.0
+cond-mat/0309228,Spin interference effects in ring conductors subject to Rashba coupling,1.080439703462111e-05,5.970548265480216e-06,4.0,5.0
+cond-mat/0303324,"Spontaneous Symmetry Breaking and Exotic Quantum Order in Integer
+  Quantum Hall Systems under a Tilted Magnetic Field",1.076755021309304e-05,2.293556342517356e-06,6.0,2.0
+cond-mat/0502512,"General topological features and instanton vacuum in quantum Hall and
+  spin liquids",1.0734375986374582e-05,0.0,4.0,0.0
+hep-th/0611147,On the SU(2|1) WZW model and its statistical mechanics applications,1.072976098757238e-05,0.0,16.0,0.0
+cond-mat/0409626,Theory of solid state quantum information processing,1.0714059066303546e-05,6.2572298843600606e-06,20.0,11.0
+cond-mat/0604440,"Modeling molecular conduction in DNA wires: Charge transfer theories and
+  dissipative quantum transport",1.0705290557018151e-05,0.0,1.0,0.0
+cond-mat/0609133,Quantum detectors for the third cumulant of current fluctuations,1.0643725814331629e-05,3.980365510320144e-06,5.0,1.0
+cond-mat/0411444,Rashba effect and magnetic field in quantum wires,1.0638912429165325e-05,1.990182755160072e-06,4.0,2.0
+cond-mat/0702616,Conductivity of disordered graphene at half filling,1.0617927549458171e-05,0.0,4.0,0.0
+cond-mat/0110331,"Microwave Rectification at the Boundary between Two-Dimensional Electron
+  Systems",1.0536968108809836e-05,1.990182755160072e-06,2.0,1.0
+cond-mat/0410045,Nonextensive thermodynamics of the two-site Hubbard model,1.0523059296212216e-05,0.0,5.0,0.0
+cond-mat/0011287,"An effective lowest Landau level treatment of demagnetization in
+  superconducting mesoscopic disks",1.0509837718808309e-05,0.0,6.0,0.0
+cond-mat/0508300,"Dichotomy in short superconducting nanowires: thermal phase slippage vs.
+  Coulomb blockade",1.0509176576035385e-05,0.0,2.0,1.0
+cond-mat/0508732,"Current induced transverse spin-wave instability in thin ferromagnets:
+  beyond linear stability analysis",1.0507149490162803e-05,0.0,6.0,1.0
+cond-mat/0610508,"Pseudo-diffusive conduction at the Dirac point of a
+  normal-superconductor junction in graphene",1.0498995278747842e-05,0.0,5.0,0.0
+cond-mat/0311528,"Breakdown of Universality in Quantum Chaotic Transport: the Two-Phase
+  Dynamical Fluid Model",1.0484086166708385e-05,1.990182755160072e-06,3.0,1.0
+nlin/0207051,"Random Matrices close to Hermitian or unitary: overview of methods and
+  results",1.047986902383656e-05,0.0010174337910478,6.0,9.0
+cond-mat/9809079,"Reflection Symmetry and Quantized Hall Resistivity near Quantum Hall
+  Transition",1.0464445952327785e-05,0.0,7.0,4.0
+cond-mat/0602470,"Relaxation, dephasing, and quantum control of electron spins in double
+  quantum dots",1.041885065726404e-05,2.197095056237514e-05,7.0,16.0
+cond-mat/0605683,"Entanglement entropy of 2D conformal quantum critical points: hearing
+  the shape of a quantum drum",1.0395529555758529e-05,4.660609855192512e-07,4.0,3.0
+cond-mat/0608267,"Adiabatic charge pumping through a dot at the junction of N quantum
+  wires",1.0382080614053606e-05,3.980365510320144e-06,7.0,2.0
+math-ph/0306008,On the spectrum of curved quantum waveguides,1.0378779542881484e-05,0.0,5.0,4.0
+cond-mat/0508048,"Giant isotope effect in the incoherent tunneling specific heat of the
+  molecular nanomagnet Fe8",1.0376222969130342e-05,0.0,1.0,0.0
+cond-mat/0402139,Interactions in high-mobility 2D electron and hole systems,1.031812849774775e-05,5.970548265480216e-06,2.0,4.0
+quant-ph/0512078,Roots and Fruits of Decoherence,1.0315007738000125e-05,7.009634926544136e-06,7.0,4.0
+cond-mat/0410322,Full counting statistics of nano-electromechanical systems,1.0308040756660388e-05,2.286125063398184e-06,3.0,4.0
+cond-mat/0103005,Dynamics of a mesoscopic qubit under continuous quantum measurement,1.028523915209928e-05,1.9105287568258803e-06,13.0,1.0
+cond-mat/0211392,Electron energy and phase relaxation on magnetic impurities,1.0256181559733109e-05,0.0,5.0,0.0
+cond-mat/0109552,A Classification of random Dirac fermions,1.0244126155381105e-05,1.9033054907166225e-05,9.0,3.0
+cond-mat/0509453,Streda-like formula in spin Hall effect,1.0243909861339776e-05,0.0,8.0,0.0
+cond-mat/0506589,Nondissipative Spin Hall Effect via Quantized Edge Transport,1.0231600735013931e-05,3.490245876586693e-08,8.0,4.0
+cond-mat/0609243,Ballistic transmission through a graphene bilayer,1.0229149345802213e-05,3.1391698603457265e-06,4.0,4.0
+cond-mat/0006392,"Wess-Zumino-Berry phase interference in spin tunneling at excited levels
+  with a magnetic field",1.022884850731804e-05,0.0,12.0,0.0
+cond-mat/9907027,"Shot-noise in non-degenerate semiconductors with energy-dependent
+  elastic scattering",1.022877203344877e-05,0.0,3.0,2.0
+quant-ph/0605223,Entanglement and statistics in Hong-Ou-Mandel interferometry,1.0191442870538302e-05,0.0,3.0,1.0
+quant-ph/0507012,"Abelian and non-Abelian geometric phases in adiabatic open quantum
+  systems",1.0133474330688716e-05,9.00441201035591e-06,3.0,4.0
+quant-ph/0108133,On Classical and Quantum Cryptography,1.0099544495258373e-05,2.654781833862902e-05,26.0,5.0
+hep-th/0409028,"Anomaly Cancellations on Lower-Dimensional Hypersurfaces by Inflow from
+  the Bulk",1.0065956875468033e-05,5.996292115107597e-07,22.0,1.0
+cond-mat/0611049,"Signal amplification in a nanomechanical Duffing resonator via
+  stochastic resonance",1.001665619158372e-05,1.990182755160072e-06,3.0,1.0
+hep-th/0611268,"Multi-center MICZ-Kepler system, supersymmetry and integrability",9.97612260239602e-06,0.0,3.0,0.0
+cond-mat/0606016,Multiple crossovers in interacting quantum wires,9.91071045758058e-06,0.0,5.0,0.0
+cond-mat/0503204,Tunable Fano effect in parallel-coupled double quantum dot system,9.884184341643798e-06,0.0,4.0,0.0
+hep-th/0504093,"Modular group representations and fusion in logarithmic conformal field
+  theories and in the quantum group center",9.861763561139498e-06,1.3711468753735697e-06,21.0,8.0
+cond-mat/0505375,Probing electronic excitations in molecular conduction,9.809314093816062e-06,0.0,7.0,4.0
+cond-mat/0512411,"Comment on ``Influence Functional for Decoherence of Interacting
+  Electrons in Disordered Conductors'' (cond-mat/0510563v1) and on related
+  papers (cond-mat/0510556v1 and cond-mat/0510557v1)",9.790282879568729e-06,0.0,3.0,2.0
+cond-mat/0602300,"Localization of electronic states in amorphous materials: recursive
+  Green's function method and the metal-insulator transition at E<>0",9.758583565774622e-06,0.0,12.0,1.0
+cond-mat/0109541,"Spin, spin-orbit, and electron-electron interactions in mesoscopic
+  systems",9.746298205303088e-06,0.0,8.0,18.0
+cond-mat/0604537,Robust Transport Properties in Graphene,9.73890254697638e-06,3.488134684526535e-05,4.0,7.0
+cond-mat/0512465,"Voltage probe model of spin decay in a chaotic quantum dot, with
+  applications to spin-flip noise and entanglement production",9.73296391802608e-06,1.1142203248807627e-06,7.0,1.0
+cond-mat/0611309,"Semiconductor quantum dots in high magnetic fields: The
+  composite-fermion view",9.67523258077725e-06,0.0,1.0,0.0
+cond-mat/0306001,Mesoscopic effects in adiabatic spin pumping,9.64326509570273e-06,2.007783933731648e-06,4.0,2.0
+cond-mat/0001113,Non-Linear and Non-Local Meissner Effect in Superconducting Wires,9.636978194742438e-06,0.0,1.0,0.0
+cond-mat/0202426,"Transport, Noise, and Conservation in the Electron Gas: How to Build a
+  Credible Mesoscopic Theory",9.6340420633702e-06,0.0,5.0,0.0
+cond-mat/0402431,"Universal conductance of nanowires near the superconductor-metal quantum
+  transition",9.631354261943578e-06,3.980365510320144e-06,5.0,1.0
+cond-mat/9710205,Reply to Skorik's Comment,9.62178751557599e-06,0.0,18.0,1.0
+cond-mat/0601638,Excess conductance of a spin-filtering quantum dot,9.602791776502126e-06,0.0,2.0,0.0
+cond-mat/0612122,"Suppression of weak-localization (and enhancement of noise) by
+  tunnelling in semiclassical chaotic transport",9.60208586230445e-06,0.0,5.0,0.0
+cond-mat/0210318,Theoretical models of ferromagnetic III-V semiconductors,9.586474110592438e-06,1.1085908992190832e-07,6.0,1.0
+quant-ph/0210019,Induced vortex tunneling in a superconducting wire,9.58177392951313e-06,0.0,4.0,1.0
+cond-mat/0509702,"Small-angle impurity scattering and the spin Hall conductivity in 2D
+  systems",9.581644540901723e-06,7.501354553452399e-06,14.0,7.0
+cond-mat/0702429,"Charge transport in a Tomonaga-Luttinger liquid: effects of pumping and
+  bias",9.581186089980704e-06,0.0,5.0,0.0
+cond-mat/9910228,"Coexistence of Weak Localization and a Metallic Phase in Si/SiGe Quantum
+  Wells",9.555911168412142e-06,0.0,11.0,5.0
+quant-ph/0407121,Quantum information and triangular optical lattices,9.554116207853524e-06,7.310310679392046e-05,17.0,3.0
+cond-mat/0208356,Floquet scattering theory of quantum pumps,9.54593144986249e-06,9.943487720743792e-06,7.0,5.0
+cond-mat/0005404,"Side-gate modulation of critical current in mesoscopic Josephson
+  junction",9.539473846737096e-06,0.0,2.0,1.0
+cond-mat/0003032,Metal-insulator transition in 2D: resistance in the critical region,9.525048496405643e-06,0.0,11.0,11.0
+cond-mat/0610665,"New Numerical Results Indicate a Half-Filling SU(4) Kondo State in
+  Carbon Nanotubes",9.5041131747357e-06,0.0,7.0,0.0
+cond-mat/0411617,"Squeezing of a nanomechanical resonator by quantum nondemolition
+  measurement and feedback",9.502444308292406e-06,0.0,5.0,0.0
+cond-mat/0601490,From insulator to quantum Hall liquid at low magnetic fields,9.489712673570516e-06,1.990182755160072e-06,1.0,1.0
+cond-mat/0601645,"Analysis of the Strong Coupling Limit of the Richardson Hamiltonian
+  using the Dyson Mapping",9.477608052491574e-06,4.835041886517103e-07,3.0,1.0
+cond-mat/0007317,"Granulated superconductors:from the nonlinear sigma model to the
+  Bose-Hubbard description",9.468811238947562e-06,0.0003131343055112,3.0,2.0
+cond-mat/0206261,"A Novel Meron-induced Pseudospin Wave in Bilayer Quantum Hall Coherent
+  State and the Residual Zero-bias Peak in Tunneling Conductance",9.46001826241322e-06,3.92773582313736e-06,4.0,2.0
+cond-mat/0602398,On electron (anti)localization in graphene,9.45606240552598e-06,0.0,9.0,4.0
+cond-mat/0311099,Shape oscillation of a rotating Bose-Einstein condensate,9.45111442156731e-06,2.519626948987373e-06,10.0,2.0
+hep-th/0611301,Noncommutative Description of Quantum Spin Hall Effect,9.428105528609804e-06,0.0,14.0,0.0
+cond-mat/0010442,Frequency-dependent shot noise in long disordered SNS contacts,9.405882751847794e-06,0.0,3.0,1.0
+cond-mat/0306508,"On the phase of oscillatory microwave photoresistance and
+  zero-resistance states",9.393559696099224e-06,1.4097127849050547e-06,23.0,3.0
+cond-mat/0006362,"Theories of Low-Energy Quasi-Particle States in Disordered d-Wave
+  Superconductors",9.385366759687076e-06,0.0008533306843083,12.0,17.0
+cond-mat/0512138,"Electron transport in a Pt-CO-Pt nanocontact: First-principles
+  calculations",9.317507747682074e-06,0.0,4.0,0.0
+cond-mat/0407088,"Fractional charges and quantum phase transitions in imbalanced bilayer
+  quantum Hall systems",9.306075862345994e-06,2.034861274798088e-06,6.0,6.0
+cond-mat/0411107,Modeling of quantum electromechanical systems,9.22781929153748e-06,1.9827567001035044e-06,2.0,1.0
+cond-mat/0401369,Spintronics?,9.216814597750603e-06,0.0,3.0,5.0
+cond-mat/0408540,Edge excitations and Topological orders in rotating Bose gases,9.216576262658156e-06,2.1924543500341944e-08,3.0,1.0
+cond-mat/0504373,"Violation of the Fluctuation-Dissipation Theorem and Heating Effects in
+  the Time-Dependent Kondo Model",9.211783233962964e-06,0.0,2.0,0.0
+cond-mat/0603604,"Interference as a Probe of Spin Incoherence in Strongly Interacting
+  Quantum Wires",9.195264436348463e-06,8.930161228279966e-06,4.0,2.0
+cond-mat/0504555,Noise and Bistabilities in Quantum Shuttles,9.18270411987704e-06,0.0,3.0,0.0
+cond-mat/0504206,Photo-excited zero-resistance states in the GaAs/AlGaAs system,9.182234415870923e-06,0.0,7.0,0.0
+cond-mat/0507721,Tuning of coupling modes in laterally parallel double open quantum dots,9.163956358300304e-06,0.0,5.0,0.0
+cond-mat/0607145,"Theory of the spin-torque-driven ferromagnetic resonance in a
+  ferromagnet/normal-metal/ferromagnet structure",9.162214499208398e-06,5.970548265480216e-06,2.0,2.0
+cond-mat/0611599,Ab-initio GMR and current-induced torques in Au/Cr multilayers,9.15846493862884e-06,0.0,5.0,0.0
+cond-mat/0510676,"Entangling Pairs of Nano-Cantilevers, Cooper-Pair Boxes and Mesoscopic
+  Teleportation",9.15695922858005e-06,0.0,1.0,0.0
+cond-mat/0412660,"Vortices and Edge Reconstruction in Small Quantal Systems at High
+  Angular Momenta",9.152491304082471e-06,0.0,2.0,1.0
+cond-mat/9707187,Quantum Versus Classical Decay Laws in Open Chaotic Systems,9.15211124249012e-06,0.0,2.0,1.0
+cond-mat/9907230,"Quasiclassical theory of superconductivity: a multiple interface
+  geometry(II)",9.14750716501636e-06,0.0,4.0,0.0
+cond-mat/0306529,"A Solvable Regime of Disorder and Interactions in Ballistic
+  Nanostructures, Part I: Consequences for Coulomb Blockade",9.146619564110426e-06,6.015654673971959e-06,9.0,1.0
+cond-mat/0703196,Spin transverse force and quantum transverse transport,9.137526562661872e-06,0.0,5.0,0.0
+cond-mat/0606782,"Measurement, control, and decay of quantum-dot spins",9.130414661538703e-06,1.9976088102166394e-06,8.0,2.0
+cond-mat/9707086,"Charge Fluctuations in Quantum Point Contacts and Chaotic Cavities in
+  the Presence of Transport",9.108906688159765e-06,0.0,8.0,0.0
+physics/0308016,Modes of wave-chaotic dielectric resonators,9.094172148923114e-06,0.0,8.0,2.0
+cond-mat/0209601,Surface Fluctuations and the Stability of Metal Nanowires,9.087592082995425e-06,0.0,2.0,1.0
+cond-mat/0412226,"Measuring non-Gaussian fluctuations through incoherent Cooper pair
+  current",9.08629191193934e-06,0.0,2.0,0.0
+cond-mat/0612469,Nonlinear Current of Strongly Irradiated Quantum Hall Gas,9.080263674345071e-06,5.957346389824096e-06,6.0,3.0
+cond-mat/0002120,"Energy level dynamics in systems with weakly multifractal eigenstates:
+  equivalence to 1D correlated fermions",9.069677447765156e-06,1.338590152004354e-05,2.0,3.0
+cond-mat/0701162,Electron scattering from a mesoscopic disk in Rashba system,9.06119805556113e-06,0.0,9.0,0.0
+cond-mat/0011139,Dephasing of Electrons by Two-Level Defects in Quantum Dots,9.059999517062943e-06,1.990182755160072e-06,5.0,1.0
+cond-mat/0601448,Spin-detection in a quantum electromechanical shuttle system,9.055367050355283e-06,0.0,4.0,0.0
+cond-mat/0205054,Pseudogap Kondo Physics from Charge Fluctuations in a Quantum Dot,9.054440945634129e-06,0.0,3.0,3.0
+cond-mat/0002016,Localization and delocalization in dirty superconducting wires,9.039278689624744e-06,8.723170541693214e-08,5.0,4.0
+cond-mat/0612519,"The effect of sample properties on the electron velocity in quantum Hall
+  bars",9.018412560848984e-06,0.0,3.0,0.0
+quant-ph/0406133,Quantum Information Processing in Nanostructures,9.015776807287512e-06,1.0825460759239489e-05,7.0,6.0
+cond-mat/0609544,Voltage and dephasing probes: a full counting statistics discussion,9.014516153438836e-06,3.980365510320144e-06,5.0,1.0
+cond-mat/0208548,Low-temperature Dephasing and Renormalization in Model Systems,9.000536654265602e-06,1.5921462041280577e-05,5.0,3.0
+cond-mat/0307153,"The effective mass and g-factor of the strongly correlated 2-D electron
+  fluid. Evidence for a coupled-valley condensate in the Si system",8.999267510628337e-06,1.5467652123275078e-05,8.0,2.0
+cond-mat/0306029,Interaction-induced magnetoresistance in a two-dimensional electron gas,8.988047190669808e-06,7.960731020640288e-06,5.0,1.0
+cond-mat/0406167,"Single-qubit gates and measurements in the surface acoustic wave quantum
+  computer",8.960137134729029e-06,0.0,8.0,0.0
+cond-mat/0509021,"Renormalization-group analysis of the one-dimensional extended Hubbard
+  model with a single impurity",8.951642118641017e-06,7.960731020640288e-06,3.0,2.0
+cond-mat/0110454,"Magnetoconductance of a two-dimensional metal in the presence of
+  spin-orbit coupling",8.94309076845634e-06,0.0,12.0,0.0
+cond-mat/0601422,Quantized invariant tori in Andreev billiards of mixed phase space,8.941921967751467e-06,0.0,4.0,0.0
+cond-mat/9704096,"The second order nonlinear conductance of a two-dimensional mesoscopic
+  conductor",8.915153370405641e-06,0.0,1.0,0.0
+cond-mat/9710315,Absence of Localization in Certain Field Effect Transistors,8.909476441380857e-06,0.0,17.0,1.0
+cond-mat/0009361,"Hamiltonian theory of gaps, masses and polarization in quantum Hall
+  states: full disclosure",8.908938727710988e-06,0.0,7.0,1.0
+cond-mat/0310057,Interaction and dimensionality in the quantum Hall physics,8.899715299230074e-06,0.0,3.0,0.0
+cond-mat/0102100,"Ground-State Magnetization for Interacting Fermions in a Disordered
+  Potential : Kinetic Energy, Exchange Interaction and Off-Diagonal
+  Fluctuations",8.898601963219312e-06,0.0,7.0,5.0
+cond-mat/0212623,Two-dimensional tunnel correlations with dissipation,8.897031956070778e-06,0.0,3.0,0.0
+cond-mat/0209187,"Noise of a single-electron transistor in the regime of large quantum
+  fluctuations of island charge out of equilibrium",8.889766591738643e-06,1.990182755160072e-06,3.0,1.0
+cond-mat/0701610,"Role of magnetic scattering in 0-pi transitions in a
+  superconductor/ferromagnetic metal/superconductor junction",8.883546660519077e-06,0.0,4.0,0.0
+cond-mat/0412393,Resonant scattering properties close to a p-wave Feshbach resonance,8.873622297112667e-06,5.120580534716566e-06,6.0,2.0
+cond-mat/0409242,Nonlocal magnetization dynamics in ferromagnetic heterostructures,8.854013779358077e-06,0.0,4.0,14.0
+cond-mat/0210320,"Comments on``Theoretical search for the nested quantum Hall effect of
+  composite fermions"" by Mandal and Jain,Phys.Rev.B 66,155302(2002);
+  cond-mat/0210181",8.853231427695597e-06,5.671362060627704e-06,9.0,5.0
+cond-mat/0510260,"Kinetics of 2D electrons in the magnetic field in the presence of
+  microwave radiation. Response of a non-equilibrium system to a weak
+  measurement field",8.847897360492429e-06,7.543928946354217e-09,10.0,1.0
+cond-mat/0410716,"Spin Hall Current Driven by Quantum Interferences in Mesoscopic Rashba
+  Rings",8.801771144345905e-06,2.289316330762803e-06,11.0,4.0
+cond-mat/0502641,Shot noise of spin current in ferromagnet-normal-metal systems,8.789138157896619e-06,0.0,2.0,0.0
+cond-mat/0411012,Spin-Based Quantum Dot Quantum Computing,8.771235568063543e-06,1.7868152376855006e-05,7.0,10.0
+cond-mat/0008141,Chern-Simons versus dipolar composite fermions at finite wavevector,8.756791782150557e-06,0.0,2.0,0.0
+cond-mat/0506323,Dynamical projection of atoms to Feshbach molecules at strong coupling,8.74181316877853e-06,7.307608758927337e-06,7.0,3.0
+cond-mat/0505345,Strongly enhanced shot noise in chains of quantum dots,8.73985793950773e-06,2.167247069162605e-06,2.0,3.0
+cond-mat/9904451,"Does spin-orbit coupling play a role in metal-nonmetal transition in
+  two-dimensional systems?",8.732348906142624e-06,0.0,9.0,2.0
+cond-mat/0512678,"Transport properties of 2D-electron gas in a n-InGaAs/GaAs DQW in a
+  vicinity of low magnetic-field-induced Hall insulator--quantum Hall liquid
+  transition",8.690776677342933e-06,3.980365510320144e-06,4.0,1.0
+cond-mat/0011126,Semiclassical Concepts in Magnetoelectronics,8.690288194763745e-06,0.0,6.0,0.0
+cond-mat/0604601,"Graphene integer quantum Hall effect in the ferromagnetic and
+  paramagnetic regimes",8.684259914135365e-06,1.1277702279240438e-05,8.0,6.0
+cond-mat/0502351,"Sign Changes of Intrinsic Spin Hall Effect in Semiconductors and Simple
+  Metals: First-Principles Calculations",8.662895382375807e-06,2.0014632864126675e-06,9.0,3.0
+cond-mat/0003276,Negative length orbits in normal-superconductor billiard systems,8.662513868183024e-06,0.0,5.0,0.0
+cond-mat/0701696,"Intrinsic anomalous Hall effect in ferromagnetic metals studied by the
+  multi d-orbital tight-binding model",8.659698222436497e-06,0.0,5.0,0.0
+cond-mat/0602299,"Entanglement production with multimode Bose-Einstein condensates in
+  optical lattices",8.654404912909585e-06,0.0,4.0,0.0
+cond-mat/0604633,Orbital and spin relaxation in single and coupled quantum dots,8.64682597554494e-06,0.0,5.0,1.0
+cond-mat/0304398,A fractal-like structure for the fractional quantum Hall effect,8.620024283016148e-06,4.656727273873196e-06,3.0,4.0
+cond-mat/0502005,Spin Polarization and Dichroism Effects by Electric Field,8.589946288862724e-06,0.0,7.0,1.0
+cond-mat/9909282,"Finite-temperature phase transitions in $\nu=2$ bilayer quantum Hall
+  systems",8.585893059773607e-06,1.990182755160072e-06,4.0,1.0
+cond-mat/0606193,Detection of current-induced spins by ferromagnetic contacts,8.561893718331247e-06,0.0,7.0,0.0
+cond-mat/0506090,Singlet-triplet decoherence due to nuclear spins in a double quantum dot,8.556118763884617e-06,0.0,9.0,2.0
+cond-mat/0409216,"Quantitative test of a quantum theory for the resistive transition in a
+  superconducting single-walled carbon nanotube bundle",8.547412999044606e-06,0.0,2.0,1.0
+cond-mat/0309074,"On the scaling approach to electron-electron interactions in a chaotic
+  quantum dot",8.533795544363637e-06,4.025471918811888e-06,1.0,1.0
+cond-mat/0210708,"A survey of rigorous results on random Schroedinger operators for
+  amorphous solids",8.514781206969677e-06,0.0,6.0,3.0
+cond-mat/0311283,Quantum-to-classical crossover of mesoscopic conductance fluctuations,8.498498392195023e-06,0.0,1.0,1.0
+quant-ph/0510194,Beam Splitter for Spin Waves in Quantum Spin Network,8.487303825008172e-06,4.739597013710599e-07,3.0,1.0
+cond-mat/9908285,K-matrices for non-abelian quantum Hall states,8.472130342425925e-06,2.0453096548999617e-06,12.0,4.0
+cond-mat/0011301,Vortex charge in mesoscopic superconductors,8.463085190167575e-06,0.0,5.0,0.0
+cond-mat/0202353,Magnetic field effects in energy relaxation mediated by Kondo impurities,8.41184057615729e-06,0.0,5.0,1.0
+cond-mat/0409334,"Manifestation of the spin-Hall effect through transport measurements in
+  the mesoscopic regime",8.406867065734628e-06,0.0,18.0,8.0
+cond-mat/0701535,"Duality, the Semi-Circle Law and Quantum Hall Bilayers",8.381906926324503e-06,0.0,13.0,0.0
+quant-ph/0507256,"An approximate method for treating dispersion in one-way quantum
+  channels",8.374188312809688e-06,0.0,1.0,0.0
+cond-mat/0703324,The Resonant Light Absorption by Semiconductor Quantum Dots,8.36535078738492e-06,0.0,6.0,0.0
+cond-mat/0606387,The electron lifetime in Luttinger liquids,8.322786874923267e-06,7.05363940445526e-06,3.0,2.0
+quant-ph/0211070,Numerical study of induced vortex tunneling,8.303616482760369e-06,0.0,2.0,1.0
+cond-mat/0507638,Population inversion of driven two-level systems in a structureless bath,8.300775528000548e-06,0.0,4.0,0.0
+cond-mat/0603525,Level Repulsion in Constrained Gaussian Random-Matrix Ensembles,8.283100837007206e-06,1.990182755160072e-06,8.0,1.0
+cond-mat/0207622,"Non-Perturbative Aspects of Fano Resonances in Quantum Dots: An Exact
+  Treatment",8.27878764656286e-06,1.3861969438925876e-07,3.0,3.0
+cond-mat/0005435,"Ballistic reflection at a side-gate in a
+  superconductor-semiconductor-superconductor structure",8.275131714366213e-06,0.0,2.0,1.0
+cond-mat/0701045,Andreev reflection in bilayer graphene,8.262517575868211e-06,1.341766366660461e-07,6.0,1.0
+cond-mat/0605361,"Scattering wave function approach to multi-terminal mesoscopic system
+  with spin-orbit coupling",8.258030591444184e-06,1.3624478237906293e-06,5.0,1.0
+cond-mat/0207533,Mesoscopic Stern-Gerlach device to polarize spin currents,8.257979514539714e-06,1.0569373607026584e-05,8.0,4.0
+quant-ph/0312120,"Quantum chaos and random matrix theoryfor fidelity decay in quantum
+  computationswith static imperfections",8.252155463990402e-06,2.227317199588914e-06,6.0,3.0
+cond-mat/0602101,Defect mediated melting and the breaking of quantum double symmetries,8.248805534786513e-06,5.985400375593351e-06,3.0,3.0
+cond-mat/0106100,"Charge fluctuation induced dephasing in a gated mesoscopic
+  interferometer",8.247243198805713e-06,1.990182755160072e-06,3.0,1.0
+cond-mat/9811288,Fun with Quantum Dots,8.2423730702189e-06,0.0,7.0,0.0
+cond-mat/9705224,The field theory of Skyrme lattices in quantum Hall ferromagnets,8.237040560836613e-06,0.0,5.0,0.0
+cond-mat/0611491,"Formation of a ""Cluster Molecule"" (C20)2 and its thermal stability",8.221360442886334e-06,0.0,5.0,0.0
+cond-mat/0301380,"Comments on ""Fractional Quantum Hall Effect of Composite Fermions, W.
+  Pan, et al, Phys. Rev. Lett. 90, 016801 (2003)",8.21783265268436e-06,4.956891750258761e-07,7.0,1.0
+quant-ph/0403100,Coherent quantum control of $\Lambda$-atoms through the stochastic limit,8.214794669420375e-06,0.0,1.0,0.0
+cond-mat/0103089,Random-matrix ensembles in p-wave vortices,8.205913555668346e-06,1.585809350231984e-05,14.0,6.0
+cond-mat/0405155,Universality of the one dimensional Bose gas with delta interaction,8.197067677843613e-06,0.0,4.0,0.0
+cond-mat/0311159,"Electron spin dynamics in quantum dots and related nanostructures due to
+  hyperfine interaction with nuclei",8.196214524296294e-06,1.20920929837773e-07,7.0,2.0
+cond-mat/0609395,Conductance through an array of quantum dots,8.193639712517484e-06,0.0,3.0,0.0
+cond-mat/0407258,"Investigation of trial wavefunction approach to bilayer Quantum Hall
+  systems",8.191834965778438e-06,3.980365510320144e-06,3.0,2.0
+cond-mat/0002256,Theoretical Perspectives on Spintronics and Spin-Polarized Transport,8.166632750719518e-06,2.3605502268736525e-05,7.0,3.0
+cond-mat/0602585,"Readout methods and devices for Josephson-junction-based solid-state
+  qubits",8.165264398503224e-06,3.7681884034408728e-06,5.0,1.0
+cond-mat/0611447,"Cotunneling through quantum dots coupled to magnetic leads: zero-bias
+  anomaly for non-collinear magnetic configurations",8.16223899910849e-06,0.0,4.0,0.0
+cond-mat/0408220,"Collective Spin Dynamics in the ""Coherence Window"" for Quantum
+  Nanomagnets",8.158727828111437e-06,1.990182755160072e-06,7.0,1.0
+cond-mat/0111397,Mesoscopic Coulomb Drag,8.134374558677189e-06,0.0,6.0,0.0
+cond-mat/0501394,"Microwave photoconductivity of a two-dimensional electron gas due to
+  intra-Landau-level transitions",8.131676513178567e-06,0.0,6.0,0.0
+cond-mat/9807393,"Universal critical temperature for Kosterlitz-Thouless transitions in
+  bilayer quantum magnets",8.12399500596072e-06,1.990182755160072e-06,8.0,2.0
+cond-mat/0211036,"The effect of large quantum fluctuation on the noise of a
+  single-electron transistor",8.122939776858358e-06,0.0,2.0,1.0
+cond-mat/0203080,Ferromagnetism in Diluted Magnetic Semiconductor Heterojunction Systems,8.100436099126888e-06,0.0,13.0,0.0
+cond-mat/0509636,Fermat Principle for spinning light,8.098448324710736e-06,2.389811646069158e-06,8.0,5.0
+cond-mat/9911188,Charge fluctuations and dephasing in coulomb coupled conductors,8.097454971801076e-06,5.238916102393263e-05,10.0,10.0
+cond-mat/0410181,Parity measurement of one- and two-electron double well systems,8.096248150370285e-06,2.8603733517508066e-07,4.0,2.0
+cond-mat/9811035,"Quantum conductivity corrections in two dimensional long-range
+  disordered systems with strong spin-orbit splitting of electron spectrum",8.086660239112333e-06,0.0,12.0,0.0
+cond-mat/0205226,"Universal Behavior of the Resistance Noise across the Metal-Insulator
+  Transition in Silicon Inversion Layers",8.06555163531981e-06,8.84960432544885e-06,4.0,3.0
+cond-mat/0601338,"Semi-fermionic representation for spin systems under equilibrium and
+  non-equilibrium conditions",8.060764082815134e-06,0.0,4.0,0.0
+cond-mat/0601674,Electric Dipole Induced Spin Resonance in Quantum Dots,8.048324916822344e-06,9.95091377580036e-06,2.0,9.0
+cond-mat/0610768,"Cotunneling through two-level quantum dots weakly coupled to
+  ferromagnetic leads",8.029440718137995e-06,7.4260550565674335e-09,2.0,1.0
+cond-mat/0607397,"Generation of twin Fock states via transition from a two-component Mott
+  insulator to a superfluid",7.997567404155693e-06,3.5138594484735573e-06,4.0,1.0
+cond-mat/0505511,"Visibility of current and shot noise in electrical Mach-Zehnder and
+  Hanbury Brown Twiss interferometers",7.976689727481044e-06,1.990182755160072e-06,7.0,1.0
+cond-mat/0404411,"Microwave absorption/reflection and magneto-transport experiments on
+  high-mobility electron gas",7.976370802546962e-06,1.5241482933267514e-05,6.0,7.0
+cond-mat/9903045,Non-abelian Exclusion Statistics,7.965809067625568e-06,0.0,8.0,8.0
+cond-mat/0112330,Charge densities and charge noise in mesoscopic conductors,7.959488284768919e-06,2.628031045945939e-05,9.0,5.0
+cond-mat/0011307,Proximity Action theory of superconductive nanostructures,7.95387005303919e-06,0.0,4.0,0.0
+cond-mat/0508176,Detecting a true quantum pump effect,7.947039565103987e-06,0.0,5.0,0.0
+cond-mat/0502106,"Magnetic field symmetry of pump currents of adiabatically driven
+  mesoscopic structures",7.942585867089828e-06,1.9117887320338936e-05,8.0,3.0
+cond-mat/0310276,Josephson effect in quasi one-dimensional unconventional superconductors,7.90905687321013e-06,0.0,5.0,0.0
+cond-mat/0407427,Effective temperature of a dissipative driven mesoscopic system,7.906548091393833e-06,3.980365510320144e-06,8.0,2.0
+cond-mat/0612492,"Scattering by magnetic and spin-orbit impurities and the Josephson
+  current in superconductor-ferromagnet-superconductor junctions",7.894176381104642e-06,0.0,3.0,1.0
+cond-mat/0503716,Spintronic transport and Kondo effect in quantum dots,7.889781025218622e-06,0.0,10.0,0.0
+cond-mat/0209349,"Correlation energy, quantum phase transition, and bias potential effects
+  in quantum Hall bilayers at nu=1",7.87514894125274e-06,0.0,5.0,0.0
+cond-mat/0009393,"Comment on ``Anomalous crossover between thermal and shot noise in
+  macroscopic diffusive conductors''",7.86004039283512e-06,0.0,5.0,0.0
+cond-mat/0201292,"BCS and Generalized BCS Superconductivity in Relativistic Quantum Field
+  Theory. II. Numerical Calculations",7.847926423594564e-06,0.0,8.0,0.0
+cond-mat/0104243,"An Investigation of Orientational Symmetry-Breaking Mechanisms in High
+  Landau Levels",7.841961366014318e-06,1.4852110113134864e-08,7.0,3.0
+quant-ph/0509175,Topological Quantum Computing with Only One Mobile Quasiparticle,7.841634112514532e-06,7.626944718946894e-07,4.0,2.0
+cond-mat/0507309,"Flux-dependent Kondo temperature in an Aharonov-Bohm interferometer with
+  an in-line quantum dot",7.832381316061474e-06,1.3983261671516476e-05,3.0,2.0
+hep-th/0505129,LLL vs. LLM: Half BPS Sector of N=4 SYM Equals to Quantum Hall System,7.816904590496316e-06,2.06321806450145e-05,35.0,25.0
+hep-th/0408002,"Quantized Normal Matrices: Some Exact Results and Collective Field
+  Formulation",7.782346044114297e-06,9.640989556078423e-09,7.0,2.0
+cond-mat/0507178,"Intrinsic phonon decoherence and quantum gates in coupled lateral
+  quantum dot charge qubits",7.782192399882099e-06,2.5480661980142613e-06,6.0,1.0
+cond-mat/0404614,Well-defined quasiparticles in interacting metallic grains,7.779723942893308e-06,3.2008879163405e-07,3.0,2.0
+hep-th/0508062,Oscillator potential for the four-dimensional Hall effect,7.778082577860424e-06,7.561451318784973e-07,13.0,3.0
+cond-mat/0506671,"Quantum-classical correspondence in the wavefunctions of Andreev
+  billiards",7.769974044805896e-06,2.0050348652732067e-06,5.0,2.0
+cond-mat/0611485,Long-range-correlated disorder in graphene,7.767801524940343e-06,1.2202775100339964e-06,7.0,1.0
+cond-mat/0609714,"Theoretical Evidence for the Berry-Phase Mechanism of Anomalous Hall
+  Transport: First-principles Studies on CuCr$_2$Se$_{4-x}$Br$_x$",7.76476927339523e-06,0.0,2.0,0.0
+cond-mat/0302025,Andreev bound states in ferromagnet-superconductor nanostructures,7.760241011919146e-06,0.0,2.0,0.0
+cond-mat/0207287,"Electromodulation of the Magnetoresistance in Diluted Magnetic
+  Semiconductors Based Heterostructures",7.759570657696439e-06,0.0,5.0,0.0
+cond-mat/0610633,Quantum versus classical hyperfine-induced dynamics in a quantum dot,7.758666923476738e-06,0.0,4.0,0.0
+cond-mat/0603053,"Non-activated transport of strongly interacting two-dimensional holes in
+  GaAs",7.751200038505384e-06,2.985274132740108e-06,2.0,2.0
+cond-mat/0506531,Intrinsic Spin Hall Edges,7.748422668594304e-06,7.111608796622386e-08,12.0,5.0
+cond-mat/0603306,Theory of Spin Hall Effects in Semiconductors,7.747845858649266e-06,9.544037715733503e-05,7.0,25.0
+quant-ph/0412084,Optimized design of universal two-qubit gates,7.746524406460737e-06,5.843497574201196e-05,7.0,1.0
+cond-mat/0402590,"Quantized charge pumping by surface acoustic waves in ballistic quasi-1D
+  channels",7.728024042067783e-06,0.0,7.0,0.0
+cond-mat/0506588,"Imaging mesoscopic spin Hall flow: Spatial distribution of local spin
+  currents and spin densities in and out of multiterminal spin-orbit coupled
+  semiconductor nanostructures",7.701477475641153e-06,2.3170890733584386e-07,19.0,2.0
+cond-mat/0603142,"""Wormhole"" geometry for entrapping topologically-protected qubits in
+  non-Abelian quantum Hall states and probing them with voltage and noise
+  measurements",7.69659052357225e-06,4.942347907338399e-06,4.0,3.0
+cond-mat/9812186,"The Chern-Simons Fermi Liquid Description of Fractional Quantum Hall
+  States",7.695282554317237e-06,0.0,7.0,6.0
+cond-mat/0612229,"A gentle introduction to the functional renormalization group: the Kondo
+  effect in quantum dots",7.689484352983531e-06,0.0,1.0,0.0
+cond-mat/0211618,"Electrical quantum measurement of a two-level system at arbitrary
+  voltage and temperature",7.689160564573609e-06,2.900230612288788e-05,10.0,12.0
+hep-th/0611300,Thermodynamical Properties of Hall Systems,7.679789481659712e-06,0.0,8.0,0.0
+cond-mat/0111201,Dipole and Quadrupole Skyrmions in S=1 (Pseudo)Spin Systems,7.668026612744852e-06,1.990182755160072e-06,4.0,1.0
+cond-mat/0510782,Leggett-Garg inequality with a kicked quantum pump,7.656196681409988e-06,7.964832338629045e-06,2.0,4.0
+cond-mat/0612275,Spin torque and force due to current for general spin textures,7.653218095497128e-06,0.0,3.0,2.0
+cond-mat/0407233,"Cyclostationary measurement of low-frequency odd moments of current
+  fluctuations",7.641142767783039e-06,1.990182755160072e-06,7.0,1.0
+cond-mat/0001355,"Phase interference of spin tunneling in an arbitrarily directed magnetic
+  field",7.636610949740357e-06,0.0,11.0,0.0
+cond-mat/0202241,Noise through Quantum Pumps,7.631575001314568e-06,0.0,8.0,3.0
+cond-mat/0507526,Reduced visibility of quantum oscillations in the spin-boson model,7.621540474104751e-06,5.966146830345301e-07,5.0,2.0
+cond-mat/0605205,"Non-universal suppression of the excitation gap in chaotic Andreev
+  billiards: Superconducting terminals as sensitive probes for scarred states",7.618822370119251e-06,0.0,3.0,0.0
+cond-mat/0401456,Dynamical Spin-Blockade in a quantum dot with paramagnetic leads,7.6050873593557935e-06,0.0,5.0,1.0
+cond-mat/0102451,"Stability and Activation Gaps of Parafermionic Hall States in the Second
+  Landau Level",7.604001393459384e-06,7.249467750736255e-08,15.0,3.0
+cond-mat/9907126,Statistics of energy levels and eigenfunctions in disordered systems,7.588997972052934e-06,0.0,8.0,11.0
+cond-mat/0105252,Twocomponent Fermi vapour in a 2D rotating trap,7.5832650682163955e-06,0.0,6.0,0.0
+cond-mat/0407029,"Noise and Full Counting Statistics of Incoherent Multiple Andreev
+  Reflection",7.581875282148768e-06,2.8223597249556085e-06,6.0,2.0
+cond-mat/0212065,Loschmidt Echo and Lyapunov Exponent in a Quantum Disordered System,7.5751237736749475e-06,2.1897579848053216e-05,5.0,1.0
+cond-mat/0510495,"Temperature effects on microwave-induced resistivity oscillations and
+  zero resistance states in 2D electron systems",7.549043811294415e-06,0.0,3.0,0.0
+cond-mat/0407279,"Non-vanishing spin Hall currents in disordered spin-orbit coupling
+  systems",7.547588276501015e-06,3.9569651336018046e-05,18.0,17.0
+cond-mat/0603792,Bose-Einstein condensates in fast rotation,7.533682948057822e-06,0.0,8.0,0.0
+cond-mat/0411338,"Microwave induced resistance oscillations on a high-mobility 2DEG:
+  absorption/reflection and temperature damping experiments",7.527201370701542e-06,4.726684043505171e-06,8.0,4.0
+cond-mat/0006333,"Continuous quantum measurement of two coupled quantum dots using a point
+  contact: A quantum trajectory approach",7.505959291099999e-06,0.0001044492858275,16.0,7.0
+cond-mat/0111001,Stripe and bubble phases in quantum Hall systems,7.499360089762185e-06,0.0001482591477587,9.0,19.0
+cond-mat/0501141,"Full counting statistics of super-Poissonian shot noise in multi-level
+  quantum dots",7.493905063797359e-06,4.081653675115557e-06,5.0,1.0
+cond-mat/0401364,Resistance of superconducting nanowires connected to normal metal leads,7.493491090399999e-06,1.990182755160072e-06,1.0,2.0
+cond-mat/0203134,Multifractality at the spin quantum Hall transition,7.492000349200315e-06,1.3196365936641471e-05,6.0,2.0
+quant-ph/0701148,"Inelastic collisions in an exactly solvable two-mode Bose-Einstein
+  Condensate",7.446976296167724e-06,0.0,6.0,0.0
+cond-mat/0006432,The fractional quantum Hall effect in infinite layer systems,7.438169647252852e-06,7.4260550565674335e-09,4.0,2.0
+cond-mat/9610144,"Charge-Relaxation and Dwell Time in the fluctuating Admittance of a
+  Chaotic Cavity",7.422564472206039e-06,0.0,2.0,2.0
+cond-mat/0404123,Entangled Hanbury Brown Twiss effects with edge states,7.415771109731196e-06,0.0,11.0,0.0
+cond-mat/0607125,"Topologically protected quantum gates for computation with non-Abelian
+  anyons in the Pfaffian quantum Hall state",7.415619365117313e-06,0.0,14.0,1.0
+cond-mat/0304201,Numerical Analysis of the Stub Transistor,7.407642223541491e-06,0.0,5.0,0.0
+cond-mat/0402548,Spin and Current Variations in Josephson Junctions,7.40443613058615e-06,0.0,2.0,0.0
+cond-mat/0107318,Renormalization group for network models of Quantum Hall transitions,7.3870578010220174e-06,1.8466452342754317e-05,11.0,3.0
+cond-mat/9906170,Luttinger liquid behavior in multi-wall carbon nanotubes,7.376834361087243e-06,0.0,3.0,0.0
+cond-mat/0509038,"Shot noise and spin-orbit coherent control of entangled and spin
+  polarized electrons",7.376465209551443e-06,0.0,5.0,0.0
+cond-mat/0611190,"Molecular junctions in the Coulomb blockade regime: rectification and
+  nesting",7.37136818688287e-06,0.0,2.0,1.0
+cond-mat/9612115,Screening of persistent currents in mesoscopic metal rings,7.37136818688287e-06,0.0,2.0,1.0
+cond-mat/0106229,"Theory of combined exciton-cyclotron resonance in a two-dimensional
+  electron gas: The strong magnetic field regime",7.37136818688287e-06,0.0,2.0,1.0
+cond-mat/9907001,Plateaux Transitions in the Pairing Model:Topology and Selection Rule,7.364112083464815e-06,3.6393274565077154e-08,7.0,1.0
+cond-mat/0306731,"Quasiclassical fluctuations of the superconductor proximity gap in a
+  chaotic system",7.354904651991219e-06,6.537493296487577e-05,2.0,2.0
+cond-mat/0609460,Large spin-orbit effects in small quantum dots,7.345064983613176e-06,0.0,3.0,0.0
+cond-mat/0310632,"Spin-Dependent Transport through the Finite Array of Quantum Dots: Spin
+  Gun",7.343032366235184e-06,0.0,5.0,0.0
+cond-mat/0510842,"Longitudinal and spin-Hall conductance of a two-dimensional Rashba
+  system with arbitrary disorder",7.339923290980011e-06,0.0,14.0,0.0
+cond-mat/0212049,Tunneling measurement of quantum spin oscillations,7.323842214001065e-06,3.772846018644586e-05,6.0,4.0
+cond-mat/0005328,"Properties of strongly correlated two-dimensional electron gas in
+  semiconductor layers",7.3149591251186576e-06,9.406336404985413e-08,9.0,4.0
+cond-mat/0603184,Viscosity of a two-dimensional Fermi liquid,7.285589248964673e-06,9.95091377580036e-07,4.0,1.0
+cond-mat/0701570,"Numerical Renormalization Group Approach to a Quantum Dot Coupled to
+  Normal and Superconducting Leads",7.268514000272844e-06,0.0,4.0,0.0
+cond-mat/9906320,Dephasing in Disordered Conductors due to Fluctuating Electric Fields,7.242578395866874e-06,0.0,5.0,0.0
+cond-mat/0210033,Quantum Disorder and Quantum Chaos in Andreev Billiards,7.242452451375663e-06,2.587794535837336e-05,4.0,2.0
+cond-mat/0508031,"Quantum Hall states of atomic Bose gases: density profiles in
+  single-layer and multi-layer geometries",7.240591003684034e-06,9.97213107596198e-06,2.0,2.0
+cond-mat/0212522,Quantum Andreev map: A paradigm of quantum chaos in superconductivity,7.239981268939086e-06,0.0,3.0,0.0
+cond-mat/0504137,Non-collinear single-electron spin-valve transistors,7.2197699223779375e-06,0.0,7.0,2.0
+cond-mat/0611783,Stochastic dynamics of a Josephson junction threshold detector,7.218403623633127e-06,0.0,2.0,1.0
+cond-mat/0307663,Universal Intrinsic Spin-Hall Effect,7.209414350375058e-06,0.0001147136467766,7.0,19.0
+cond-mat/0607531,"Three dimensional topological invariants for time reversal invariant
+  Hamiltonians and the three dimensional quantum spin Hall effect",7.198245620086339e-06,3.8037979440923577e-05,10.0,5.0
+cond-mat/0402459,"Broken symmetry, excitons, gapless modes and topological excitations in
+  Trilayer Quantum Hall systems",7.1789451229030735e-06,0.0,5.0,1.0
+cond-mat/0211223,"Comments on ``Evidence of Landau Levels and Interactions in Low-Lying
+  Excitations of Composite Fermions ..."" by Dujovne, Pinczuk, Kang, Dennis,
+  Pfeiffer and West, cond-mat/0211022",7.177552356739808e-06,4.956891750258761e-07,10.0,2.0
+cond-mat/0209666,"Violation of classical electrodynamics by composite fermions in the
+  quantum Hall effect",7.161308027793705e-06,1.7587593026987382e-06,8.0,7.0
+cond-mat/0703162,"Decoherence and interactions in an electronic Mach-Zehnder
+  interferometer",7.154332865698797e-06,0.0,3.0,2.0
+cond-mat/0402492,"Fulde-Ferrell-Larkin-Ovchinnikov-like state in
+  Ferromagnet-Superconductor Proximity System",7.151298378099254e-06,0.0,1.0,0.0
+cond-mat/0311503,Phonon effects in molecular transistors: Quantum and classical treatment,7.130657824038629e-06,1.8936440394246959e-07,5.0,9.0
+cond-mat/0309634,Spin detection in quantum dots by electric currents,7.130546788999904e-06,0.0,7.0,0.0
+cond-mat/0607174,Composite Dirac fermions in graphene,7.127885513210061e-06,1.990182755160072e-06,6.0,4.0
+cond-mat/0302504,"Quantum dots in high magnetic fields: Rotating-Wigner-molecule versus
+  composite-fermion approach",7.118035683628067e-06,0.0,2.0,1.0
+cond-mat/0609441,Protected qubit based on a superconducting current mirror,7.117927044719592e-06,0.0,12.0,0.0
+cond-mat/0607774,Band Collapse and the Quantum Hall Effect in Graphene,7.107045511167282e-06,0.0,4.0,0.0
+cond-mat/0609016,"Self-consistent calculation of the electron distribution near a
+  Quantum-Point Contact in the integer Quantum Hall Effect",7.106387714380375e-06,0.0,7.0,1.0
+nlin/0512058,Periodic-Orbit Approach to Universality in Quantum Chaos,7.10626618824865e-06,1.167069674154958e-05,3.0,4.0
+cond-mat/0509607,The Non-Dissipative Spin-Hall Current,7.095977514042987e-06,0.0,5.0,2.0
+cond-mat/0502380,Kondo screening cloud in a double-quantum dot system,7.093307845797646e-06,0.0,5.0,0.0
+cond-mat/0008041,"Confinement symmetry, mobility anisotropy, and metallic behavior in
+  (311)A GaAs 2D holes",7.092568122043998e-06,0.0,1.0,2.0
+cond-mat/0510664,"Non-equilibrium spin polarization effects in spin-orbit coupling system
+  and contacting metallic leads",7.085073853446566e-06,0.0,2.0,2.0
+cond-mat/0202455,Strongly Correlated States in Low Dimensions (Thesis),7.083792599523426e-06,3.002558103939804e-05,8.0,4.0
+cond-mat/0304417,Spontaneous Pseudospin Spiral Order in Bilayer Quantum Hall Systems,7.082954994738908e-06,0.0,2.0,0.0
+cond-mat/9809357,"Phase diagram and validity of one-parameter scaling near the
+  two-dimensional metal-insulator transition",7.073634241749689e-06,0.0,5.0,4.0
+astro-ph/0406504,Could dark energy be measured in the lab?,7.071144143704372e-06,1.5943216658781552e-05,14.0,15.0
+cond-mat/0311656,"Microwave Rectificatin of the Current at the Metal-Metal Junction for
+  Dilute 2D Metals",7.063509368603028e-06,0.0,1.0,0.0
+cond-mat/0302162,"Current carrying Andreev bound states in a Superconductor-Ferromagnet
+  proximity system",7.059568873628188e-06,1.990182755160072e-06,5.0,1.0
+cond-mat/0608022,Voltage generation by ferromagnetic resonance,7.05802233216888e-06,3.980365510320144e-06,1.0,3.0
+cond-mat/0609005,"Oscillatory multiband dynamics of free particles: The ubiquity of
+  zitterbewegung effects",7.056026499977056e-06,7.471102832147775e-06,4.0,2.0
+cond-mat/0203509,"Collective modes, chaotic behavior and self-trapping in the dynamics of
+  three coupled Bose-Einstein condensates",7.055574304339453e-06,2.9704220226269734e-08,5.0,2.0
+cond-mat/0305556,"Comments on `` Scattering of bunched fractionally charged
+  quasiparticles"" by Chung, Heiblem and Umansky, cond-mat/0305325",7.053204494339654e-06,0.0,6.0,0.0
+cond-mat/0504646,Simulation of Si:P spin-based quantum computer architecture,7.051733244167259e-06,0.0,5.0,0.0
+cond-mat/0006388,Enhancement of magnetoresistance in manganite multilayers,7.0486228431182624e-06,0.0,1.0,1.0
+cond-mat/0310353,"Pions versus Magnons: From QCD to Antiferromagnets and Quantum Hall
+  Ferromagnets",7.047355236655387e-06,0.0,8.0,0.0
+quant-ph/0002077,The Physical Implementation of Quantum Computation,7.047135248855001e-06,0.0008665020472483,37.0,43.0
+cond-mat/9911316,Interaction and Quantum Decoherence in Disordered Conductors,7.046256429347393e-06,0.0,4.0,0.0
+cond-mat/0412269,Density correlations in ultracold atomic Fermi gases,7.042993577828245e-06,1.4414867527620868e-05,4.0,4.0
+cond-mat/0409084,"Statistics of Impedance, Local Density of States, and Reflection in
+  Quantum Chaotic Systems with Absorption",7.0255801818158665e-06,5.970548265480216e-06,6.0,2.0
+cond-mat/0506292,Coherence Network in the Quantum Hall Bilayer,7.020756355425245e-06,0.0,3.0,0.0
+quant-ph/0608119,Decoherence of Anyonic Charge in Interferometry Measurements,6.998299180474708e-06,0.0,15.0,0.0
+cond-mat/0504444,"A minimal approach for the local statistical properties of a
+  one-dimensional disordered wire",6.997989812416306e-06,0.0,6.0,0.0
+cond-mat/0703717,"Testable signatures of quantum non-locality in a two-dimensional chiral
+  p-wave superconductor",6.986177860273269e-06,0.0,4.0,0.0
+cond-mat/0409005,Quantum Phases in Partially Filled Landau Levels,6.98211569758162e-06,0.0,3.0,0.0
+cond-mat/0703179,Transient regime in non-linear transport through many-level quantum dots,6.97420651173292e-06,0.0,2.0,0.0
+cond-mat/0401515,"Discrete easy-axis tilting in Mn12-acetate, as determined by EPR:
+  implications for the magnetic quantum tunneling mechanism",6.971911797582502e-06,0.0,3.0,3.0
+cond-mat/0311612,Topological spin pumps I,6.969627668157548e-06,1.743387726107343e-05,9.0,2.0
+cond-mat/0606676,"Qubit feedback and control with kicked quantum nondemolition
+  measurements: A quantum Bayesian analysis",6.965725387324989e-06,0.0,5.0,1.0
+cond-mat/9905023,"Coulomb blockade conductance peak fluctuations in quantum dots and the
+  independent particle model",6.961748917578442e-06,0.0,7.0,0.0
+cond-mat/0406531,"Spin susceptibilities, spin densities and their connection to
+  spin-currents",6.937371847767449e-06,0.0,14.0,8.0
+cond-mat/0307024,Double quantum dot turnstile as an electron spin entangler,6.931620086214846e-06,2.232603974906729e-06,5.0,2.0
+cond-mat/0210069,"Observation of narrow-band noise accompanying the breakdown of
+  insulating states in high Landau levels",6.922929062009083e-06,5.454738295231128e-06,3.0,2.0
+cond-mat/0004065,"Nonlinear voltage dependence of the shot noise in mesoscopic degenerate
+  conductors with strong electron-electron scattering",6.919428589920751e-06,0.0,2.0,0.0
+cond-mat/0609577,Josephson current through a quantum dot with spin-orbit coupling,6.903026344161529e-06,0.0,2.0,0.0
+cond-mat/0104347,Valley Splitting in Si-Inversion Layers at Low Magnetic Fields,6.893349487602315e-06,0.0010342463394031,11.0,16.0
+cond-mat/0703453,Suppression of electron spin decoherence in a quantum dot,6.8858899659749725e-06,0.0,5.0,0.0
+cond-mat/0702207,"Weak localization in a system with a barrier: Dephasing and weak Coulomb
+  blockade",6.885278420307646e-06,0.0,3.0,0.0
+cond-mat/0610299,0-pi transition in SFS junctions with strongly spin-dependent scattering,6.878689136253887e-06,0.0,1.0,1.0
+cond-mat/0703822,Infrared spectroscopy of Landau levels in graphene,6.854874871116413e-06,0.0,6.0,1.0
+physics/0401142,Magnetic Backgrounds and Noncommutative Field Theory,6.8546737562940135e-06,1.2887845734000783e-05,52.0,11.0
+cond-mat/0310757,"Radiation induced oscillations of the Hall resistivity in
+  two-dimensional electron systems",6.852801072404822e-06,0.0,6.0,3.0
+cond-mat/0108359,Quantum Phase Transition in a Multi-Level Dot,6.84887063475303e-06,0.0,3.0,3.0
+cond-mat/0306402,Rotating spin-1 bosons in the lowest Landau level,6.839367589090947e-06,5.138663484869429e-05,3.0,7.0
+cond-mat/0403678,Fully polarized states and decoherence,6.838718619836051e-06,0.0,6.0,1.0
+cond-mat/0611189,Pseudo-diffusive magnetotransport in graphene,6.838691172779246e-06,2.6343728852794336e-06,2.0,2.0
+cond-mat/9811007,Thermodynamics for Fractal Statistics,6.8349173169338506e-06,0.0,1.0,2.0
+cond-mat/0502272,Geometric phases and criticality in spin chain systems,6.834301326505316e-06,0.0,2.0,0.0
+cond-mat/0304265,Shot noise from action correlations,6.833804780692346e-06,0.0,7.0,2.0
+cond-mat/0107380,From the Fermi Liquid Towards the Wigner Solid in Two Dimensions,6.829516938296875e-06,9.22086339950151e-06,8.0,4.0
+cond-mat/0202044,"Elementary explanation of the inexistence of decoherence at zero
+  temperature for systems with purely elastic scattering",6.819223288772889e-06,0.0,7.0,16.0
+cond-mat/0512662,"Semiclassical Theory of Quantum Chaotic Transport: Phase-Space
+  Splitting, Coherent Backscattering and Weak Localization",6.81104366226722e-06,7.879584753024485e-06,2.0,5.0
+cond-mat/0007037,External voltage sources and Tunneling in quantum wires,6.807604496295214e-06,0.0,3.0,1.0
+cond-mat/0307223,"Nonlinear effects in microwave photoconductivity of two-dimensional
+  electron systems",6.807573565328889e-06,0.0,11.0,1.0
+cond-mat/9907242,Self-consistent theory of transport in superconducting wires,6.8057742188693815e-06,0.0,4.0,1.0
+cond-mat/0405542,Conductance of a quantum wire at low electron density,6.799293554845351e-06,0.0,2.0,1.0
+cond-mat/0506676,Spin transverse force on spin current in an electric field,6.787536080364401e-06,0.0,4.0,2.0
+cond-mat/0508116,"Numerical Study of Spin Hall Transport in a Two Dimensional Hole Gas
+  System",6.778857859554657e-06,0.0,13.0,1.0
+cond-mat/0205436,"The Signs of Quantum Dot-Lead Matrix Elements: The Effect on Transport
+  vs. Spectral Properties",6.778803578188282e-06,0.0,4.0,1.0
+cond-mat/0202375,"A first-principles approach to electrical transport in atomic-scale
+  nanostructures",6.775400888620354e-06,0.0,6.0,1.0
+cond-mat/0211535,Thermal correction to resistivity in dilute 2D systems,6.774142098046164e-06,0.0,3.0,0.0
+cond-mat/0609144,"Low frequency Rabi spectroscopy of dissipative two level systems. The
+  dressed state approach",6.771217809948728e-06,0.0,4.0,0.0
+cond-mat/0407292,"Floquet scattering theory for current and heat noise in large amplitude
+  adiabatic pumps",6.763970589495994e-06,4.97545688790018e-06,9.0,4.0
+cond-mat/0008407,Magnetic field effects on quantum ring excitons,6.762475210875033e-06,0.0,3.0,1.0
+cond-mat/0207381,"Low temperature properties of a quantum particle coupled to dissipative
+  environments",6.7621474296955e-06,1.791164479644065e-05,10.0,1.0
+cond-mat/0409446,Magnetothermal Transport of Oriented Graphite at Low Temperatures,6.7613328590551645e-06,1.9976088102166394e-06,2.0,1.0
+cond-mat/0611722,Valley Kondo Effect in Silicon Quantum Dots,6.758138381961402e-06,0.0,4.0,0.0
+cond-mat/0411070,"A prohibition of equilibrium spin currents in multi-terminal ballistic
+  devices",6.757106158653155e-06,0.0,12.0,0.0
+cond-mat/0009201,Effects of dissipation on quantum phase transitions,6.756979743999172e-06,0.000304194246451,8.0,4.0
+hep-th/0405276,Supersymmetric Dissipative Quantum Mechanics from Superstrings,6.744835396864754e-06,2.756308739750753e-07,18.0,1.0
+cond-mat/0303312,A new class of solutions of the DMPK equation,6.737724842176917e-06,0.0,1.0,1.0
+cond-mat/0402588,Localization from sigma-model geodesics,6.737724842176917e-06,0.0,1.0,0.0
+cond-mat/0512500,Operating a quantum pump in a closed circuit,6.731611820864416e-06,1.990182755160072e-06,3.0,1.0
+cond-mat/0412320,"Full counting statistics of Andreev scattering in an asymmetric chaotic
+  cavity",6.73090751627528e-06,0.0,3.0,1.0
+cond-mat/0203074,"Spin and e-e interactions in quantum dots: Leading order corrections to
+  universality and temperature effects",6.722392585826156e-06,0.0,6.0,6.0
+cond-mat/0302481,Kondo effect and spin filtering in triangular artificial atoms,6.709432003348358e-06,0.0,3.0,0.0
+cond-mat/0306375,"Feedback of the electromagnetic environment on current and voltage
+  fluctuations out of equilibrium",6.708590530098655e-06,3.2312001661004984e-05,10.0,5.0
+cond-mat/0302236,Crossed Andreev reflection at ferromagnetic domain walls,6.703547450569229e-06,2.751821949191835e-06,7.0,2.0
+cond-mat/0409588,A model for the microwave assisted zero resistance states,6.703391653670804e-06,0.0,3.0,1.0
+cond-mat/0201259,Dissipation and noise in adiabatic quantum pumps,6.682276491184502e-06,2.2158849903064417e-05,7.0,7.0
+cond-mat/0402253,"Spin and Valley dependent analysis of the two-dimensional low-density
+  electron system in Si-MOSFETS",6.67404709421863e-06,3.980365510320144e-06,2.0,2.0
+cond-mat/0412503,Charge qubit dynamics in a double quantum dot coupled to phonons,6.668096739067902e-06,2.402456471199893e-06,2.0,1.0
+cond-mat/0602499,"Long-lived memory for electronic spin in a quantum dot: Numerical
+  analysis",6.667408158788568e-06,0.0,5.0,0.0
+cond-mat/0306392,Clustering in quantum Hall effect: Spin-charge coupling,6.666452163348041e-06,0.0,7.0,0.0
+cond-mat/9911467,Correlated random band matrices: localization-delocalization transitions,6.6643147216999095e-06,0.0,6.0,0.0
+cond-mat/0001022,"Universal Transverse Conductance between Quantum Hall Regions and (2+1)D
+  Bosonization",6.645949391939027e-06,0.0,4.0,1.0
+cond-mat/0006497,Spin-splitting in GaAs 2D holes,6.6457768228008205e-06,0.0,5.0,1.0
+cond-mat/0403385,One-dimensional conduction in Charge-Density Wave nanowires,6.64549719761325e-06,0.0,2.0,1.0
+cond-mat/0503505,On A Proper Definition of Spin Current,6.645040171720959e-06,7.235256848934128e-05,5.0,27.0
+cond-mat/0206406,Heisenberg Dimer Single Molecule Magnets in a Strong Magnetic Field,6.639266811214175e-06,0.0,3.0,1.0
+cond-mat/0508076,Spin Accumulation in the Extrinsic Spin Hall Effect,6.632315714418631e-06,1.936444048806277e-06,4.0,3.0
+cond-mat/0508092,Quantum-to-classical correspondence in open chaotic systems,6.626320833090974e-06,0.0,5.0,0.0
+cond-mat/0511250,Charge and Statistics of Quasiparticles in Fractional Quantum Hall Effec,6.622000975437055e-06,0.0,3.0,0.0
+cond-mat/0308133,Statistics of current fluctuations at non-zero frequencies,6.612172866810681e-06,7.780175060464917e-06,9.0,1.0
+cond-mat/9810295,"Quantum computing and single-qubit measurements using the spin filter
+  effect",6.608448818791429e-06,0.0,5.0,6.0
+cond-mat/0611071,"Spin-polarized quantum transport through a T-shape quantum dot-array: a
+  model of spin splitter",6.60771792407767e-06,0.0,3.0,0.0
+cond-mat/0512289,"Measurement of Magnetization Dynamics in Single-Molecule Magnets Induced
+  by Pulsed Millimeter-Wave Radiation",6.606802590624238e-06,0.0,1.0,0.0
+cond-mat/0408168,Strongly correlated regimes in a double quantum-dot device,6.604963287283345e-06,2.8858911330298144e-06,2.0,2.0
+cond-mat/9910480,"Disordered 2d quasiparticles in class D: Dirac fermions with random
+  mass, and dirty superconductors",6.603964765955263e-06,0.0009802897319121,11.0,12.0
+cond-mat/0203101,"Electron spin coherence in semiconductors: Considerations for a
+  spin-based solid state quantum computer architecture",6.59871370059062e-06,3.998744080620275e-06,3.0,4.0
+cond-mat/0108096,"Skyrmion $\leftrightarrow$ pseudoSkyrmion Transition in Bilayer Quantum
+  Hall States at $\nu =1$",6.5823223399586485e-06,0.0,1.0,0.0
+cond-mat/0402407,Statistics of Quasiparticles in Fractional Quantum Hall States,6.580792962945484e-06,0.0,3.0,0.0
+cond-mat/0601237,Entanglement entropy and the Berry phase in solid states,6.578802355593648e-06,0.0001418227723054,3.0,6.0
+cond-mat/0703745,"Full counting statistics of transport through two-channel Coulomb
+  blockade systems",6.577525025462367e-06,0.0,4.0,0.0
+hep-th/0505095,Quantum Hall Effect on Higher Dimensional Spaces,6.567942456356791e-06,2.4571847560936794e-06,13.0,6.0
+cond-mat/0601678,"Wavefunctions and counting formulas for quasiholes of clustered quantum
+  Hall states on a sphere",6.567503498345323e-06,0.0,6.0,0.0
+cond-mat/0604564,Pattern formation of indirect excitons in coupled quantum wells,6.563041634809114e-06,1.990182755160072e-06,3.0,1.0
+cond-mat/0611314,Quantum Dynamics of Electron-Nuclei Coupled System in Quantum Dots,6.5608886681335645e-06,0.0,4.0,0.0
+cond-mat/0605321,"Spectral properties of rotating electrons in quantum dots and their
+  relation to quantum Hall liquids",6.560343479216536e-06,1.990182755160072e-06,3.0,1.0
+cond-mat/0208540,Quantum Necking in Stressed Metallic Nanowires,6.55890781825366e-06,0.0,1.0,1.0
+hep-th/0201016,Higher-Dimensional Quantum Hall Effect in String Theory,6.554595974455033e-06,0.000760033282676,37.0,27.0
+cond-mat/0209031,Reversing the sign of current-current correlations,6.55225679982332e-06,1.1824833360235446e-05,8.0,4.0
+cond-mat/0208451,"Wave function statistics and multifractality at the spin quantum Hall
+  transition",6.541961032114513e-06,9.594452563991742e-05,5.0,1.0
+quant-ph/0209056,A modern review of the two-level approximation,6.541785292473912e-06,4.402884933131034e-07,5.0,10.0
+cond-mat/0303237,"Upper critical field in dirty two-band superconductors: breakdown of the
+  anisotropic Ginzburg-Landau theory",6.539626322787883e-06,2.266416940452363e-05,6.0,4.0
+hep-th/0408194,Chiral actions from phase space (quantum Hall) droplets,6.532942717310617e-06,1.7316938793316582e-05,27.0,11.0
+math-ph/0011013,"Intermixture of extended edge and localized bulk energy levels in
+  macroscopic Hall systems",6.528370420767684e-06,0.0,3.0,3.0
+cond-mat/0209387,Scanning Tunneling Spectroscopy in MgB 2,6.518351006858279e-06,0.0,7.0,1.0
+cond-mat/0601466,"Conserved Spin and Orbital Angular Momentum Hall Current in a
+  Two-Dimensional Electron System with Rashba and Dresselhaus Spin-orbit
+  Coupling",6.5175757346456e-06,0.0,5.0,0.0
+cond-mat/0007349,Sliding Phases via Magnetic Fields,6.517007253756006e-06,0.0,4.0,0.0
+cond-mat/0605653,Elastic Light Scattering by Semiconductor Quantum Dots,6.516797567025923e-06,0.0,8.0,0.0
+cond-mat/0611523,"Crossover from diffusive to non-diffusive dynamics in the
+  two-dimensional electron gas with Rashba spin-orbit coupling",6.513256238826592e-06,0.0,2.0,1.0
+cond-mat/0501684,Theory of momentum resolved tunneling into a short quantum wire,6.513256238826592e-06,0.0,2.0,1.0
+cond-mat/0309163,"Field Theory of Anisotropic Quantum Hall Gas: Metrology and a Novel
+  Quantum Hall Regime",6.51212885038134e-06,0.0,3.0,0.0
+cond-mat/0408448,Stability of vortex structures in quantum dots,6.503187453768289e-06,0.0,4.0,1.0
+cond-mat/0703777,Fluctuation theorem in quantum heat conduction,6.480734252437477e-06,0.0,3.0,0.0
+cond-mat/0311439,High-bias stability of monatomic chains,6.471237503008244e-06,0.0,2.0,0.0
+cond-mat/9811005,Landau-Ginzburg Theories for Non-Abelian Quantum Hall States,6.470962208083531e-06,5.855025335417142e-06,9.0,8.0
+cond-mat/0004139,Coherent and incoherent pumping of electrons in double quantum dots,6.4670222388181776e-06,0.0,1.0,0.0
+cond-mat/0508181,"The definition of the spin current: The angular spin current and its
+  physical consequences",6.464989316385646e-06,0.0,7.0,1.0
+cond-mat/0311285,"Distribution of reflection eigenvalues in many-channel chaotic cavities
+  with absorption",6.463118273512503e-06,0.0,1.0,0.0
+cond-mat/0101163,"Ground state and far-infrared absorption of two-electron rings in a
+  magnetic field",6.458993199926778e-06,0.0,4.0,0.0
+cond-mat/0306553,"Tunneling, dissipation, and superfluid transition in quantum Hall
+  bilayers",6.453759106782637e-06,0.0,2.0,0.0
+cond-mat/0601634,"High-contrast dispersive readout of a superconducting flux qubit using a
+  nonlinear resonator",6.45329194103808e-06,2.2023598620393427e-06,2.0,2.0
+cond-mat/0412190,Phonon Decoherence of a Double Quantum Dot Charge Qubit,6.441043644711912e-06,7.935207184159119e-07,2.0,1.0
+cond-mat/0208408,"Scattering matrix ensemble for time-dependent transport through a
+  chaotic quantum dot",6.438202371047246e-06,1.6515356034137911e-06,3.0,4.0
+cond-mat/0505403,"Superconducting proximity effect in a diffusive ferromagnet with
+  spin-active interfaces",6.432170394082109e-06,0.0,2.0,0.0
+cond-mat/9905139,"Ballistic Four-Terminal Josephson Junction: Bistable States and Magnetic
+  Flux Transfer",6.415372312934422e-06,0.0,5.0,0.0
+cond-mat/0406010,Quantum interference in resonant tunneling and single spin measurements,6.412928260431631e-06,1.4267602607274558e-05,2.0,3.0
+cond-mat/0501238,Molecular transport calculations with Wannier functions,6.412410216873845e-06,4.45563303394046e-08,6.0,4.0
+cond-mat/9806263,Supercurrent switching in Three- and Four- Terminal Josephson Junctions,6.405824012091304e-06,0.0,2.0,2.0
+quant-ph/0403135,"Entanglement at the boundary of spin chains near a quantum critical
+  point and in systems with boundary critical points",6.404766549431449e-06,0.0,4.0,0.0
+cond-mat/9901346,Kinetic theory of shot noise in non-degenerate diffusive conductors,6.402961995598994e-06,0.0,5.0,1.0
+cond-mat/0508220,Charge fluctuations in open chaotic cavities,6.398852301349294e-06,3.977866357176107e-06,5.0,2.0
+quant-ph/0012010,Bell's Theorem and Locality in Space,6.397630211927621e-06,0.000151502209294,12.0,11.0
+cond-mat/0511099,Hamiltonian aspects of Bogoliubov quasiparticles,6.394906702444379e-06,1.1347465795765365e-07,6.0,2.0
+cond-mat/0307161,Electron transport through interacting quantum dots,6.381090565970224e-06,9.95091377580036e-06,8.0,3.0
+cond-mat/0310222,Quantum phase transition of Ising-coupled Kondo impurities,6.380714546092308e-06,1.990182755160072e-06,2.0,2.0
+cond-mat/0207617,"Quasiclassical calculation of spontaneous current in restricted
+  geometries",6.376560292370841e-06,0.0,3.0,0.0
+hep-th/0107115,Geometry of the Gauge Algebra in Noncommutative Yang-Mills Theory,6.37599642729743e-06,3.899431871371739e-06,67.0,21.0
+quant-ph/0702078,"Atomic Entanglement vs Photonic Visibility for Quantum Criticality of
+  Hybrid System",6.373303836563965e-06,0.0,4.0,0.0
+cond-mat/0302130,"Group theoretical analysis of symmetry breaking in two-dimensional
+  quantum dots",6.360957089322769e-06,0.0,1.0,1.0
+cond-mat/9812264,Disorder Induced Ferromagnetism in Restricted Geometries,6.355472688138928e-06,0.0,2.0,2.0
+cond-mat/0006503,Fractons and Luttinger liquids,6.348862715689536e-06,0.0,2.0,0.0
+chao-dyn/9712008,Spatial Correlations in Chaotic Eigenfunctions,6.347733714156326e-06,0.0,11.0,0.0
+cond-mat/0408119,Spin Dynamics and Spin Transport,6.347705503071036e-06,5.752934071073278e-06,12.0,6.0
+cond-mat/0409476,Sum rules for spin-Hall conductivity cancelation,6.343257072350361e-06,0.0,13.0,6.0
+cond-mat/0011248,Effects of nuclear spins on the coherent evolution of a phase qubit,6.342590983163489e-06,0.0,4.0,0.0
+cond-mat/0406676,"Quasiparticle self-energy and many-body effective mass enhancement in a
+  two-dimensional electron liquid",6.328926749759396e-06,2.5993261882039024e-05,2.0,4.0
+cond-mat/0510289,Quantum stirring of particles in closed devices,6.318902976696179e-06,0.0,1.0,1.0
+chao-dyn/9908009,"A Trace Formula for Products of Diagonal Matrix Elements in Chaotic
+  Systems",6.31852202366747e-06,0.0,6.0,0.0
+hep-th/0403225,Chern-Simons Gauge Theory and the AdS(3)/CFT(2) Correspondence,6.318145925928852e-06,0.0001090924185121,22.0,15.0
+cond-mat/0604029,Inelastic tunneling effects on noise properties of molecular junctions,6.313974783191031e-06,0.0,6.0,0.0
+cond-mat/0510177,"Nuclear spin state narrowing via gate--controlled Rabi oscillations in a
+  double quantum dot",6.313755560927835e-06,0.0,4.0,5.0
+cond-mat/0207135,"Spin Polarized Current in the Ground State of Superconductor -
+  Ferromagnet - Insulator Trilayers",6.306952820338089e-06,0.0,3.0,2.0
+cond-mat/0311136,"Decoherence and dephasing in multilevel systems interacting with thermal
+  environment",6.305720828440007e-06,0.0,8.0,0.0
+cond-mat/0306186,Maximized Orbital and Spin Kondo effects in a single-electron transistor,6.298187421997879e-06,0.0,6.0,0.0
+cond-mat/0312324,Quantum current magnification in a multi-channel mesoscopic ring,6.296751168097763e-06,0.0,3.0,0.0
+cond-mat/0612234,Modulation theory of quantum tunneling into a Calogero-Sutherland fluid,6.293149082227406e-06,3.414624875563588e-05,4.0,1.0
+cond-mat/0412561,"Local quantum critical behavior in magnetic Kondo impurity models with
+  partially screened moment",6.2783288091952185e-06,0.0,2.0,0.0
+cond-mat/0504513,"Functionals of the Brownian motion, localization and metric graphs",6.278266436646181e-06,2.923888695444692e-05,5.0,2.0
+cond-mat/0601242,Probing Non-Abelian Statistics with QuasiParticle Interferometry,6.274066480867934e-06,1.295723344314118e-05,20.0,7.0
+cond-mat/0505474,"Quantum corrections to the conductivity and Hall coefficient of a
+  two-dimensional electron gas in a dirty AlGaAs/GaAs/AlGaAs quantum well: from
+  the diffusive to the ballistic regime",6.273993179516137e-06,8.911266067880921e-09,4.0,1.0
+cond-mat/0305019,"Radiation induced zero-resistance states: a dressed electronic structure
+  effect",6.269743675471325e-06,5.00715671308057e-05,14.0,7.0
+physics/0504068,"Surface Electromagnetic Waves Thermally Excited: Radiative Heat
+  Transfer, Coherence Properties and Casimir Forces Revisited in the Near Field",6.266081943013162e-06,0.0,1.0,0.0
+chao-dyn/9711020,Random Matrix Elements and Eigenfunctions in Chaotic Systems,6.263521680744111e-06,0.0,9.0,3.0
+cond-mat/9801088,"The role of a form of vector potential - normalization of the
+  antisymmetric gauge",6.252409226042986e-06,0.0,5.0,0.0
+cond-mat/0202372,Electron Transport in Metallic Grains,6.249386389654767e-06,0.0,3.0,0.0
+cond-mat/0408317,"Statistics of Impedance and Scattering Matrices of Chaotic Microwave
+  Cavities with Multiple Ports",6.247457197654288e-06,0.0,5.0,2.0
+cond-mat/9809188,"Interaction induced delocalization of two particles: large system size
+  calculations and dependence on interaction strength",6.247329967384408e-06,0.0,8.0,2.0
+cond-mat/0402662,"Decoherence of transported spin in multichannel spin-orbit coupled
+  spintronic devices: Scattering approach to spin density matrix from the
+  ballistic to the localized regime",6.245296656317563e-06,1.990182755160072e-06,5.0,3.0
+cond-mat/0101104,"Classical and quantum magnetization reversal studied in nanometer-sized
+  particles and clusters",6.234634353000759e-06,0.0,5.0,2.0
+cond-mat/0605747,"Nature of Spin Hall Effect in a finite Ballistic Two-Dimensional System
+  with Rashba and Dresselhaus spin-orbit interaction",6.233952010744037e-06,0.0,3.0,0.0
+hep-th/0304037,"The Spectrum of the Dirac Operator on Coset Spaces with Homogeneous
+  Gauge Fields",6.233616384647366e-06,0.0001470427713725,15.0,10.0
+cond-mat/0502417,Shot noise in the chaotic-to-regular crossover regime,6.232546813432884e-06,1.1568693851576831e-06,1.0,2.0
+cond-mat/0408487,"Microscopic Theory for the Quantum to Classical Crossover in Chaotic
+  Transport",6.232546813432884e-06,1.632749821762122e-05,1.0,1.0
+cond-mat/0409166,"Semiclassical theory of spin-polarized shot noise in mesoscopic
+  diffusive conductors",6.229758672729908e-06,1.984579211784054e-06,3.0,1.0
+cond-mat/0007443,Transport and Coulomb drag for two interacting carbon nanotubes,6.228457068127769e-06,0.0,3.0,1.0
+cond-mat/0507695,Inelastic electron transport in granular arrays,6.223253378019564e-06,1.320648887001818e-05,6.0,1.0
+cond-mat/0201362,Spin Fluctuation Induced Dephasing in a Mesoscopic Ring,6.223013416850675e-06,0.0,4.0,0.0
+cond-mat/0005171,"Interband absorption and luminescence in small quantum dots under strong
+  magnetic fields",6.2196419141030135e-06,0.0,5.0,0.0
+hep-th/0309128,From the fuzzy disc to edge currents in Chern-Simons Theory,6.2149832699346746e-06,1.4047633271235202e-06,15.0,4.0
+cond-mat/0509576,"Kondo physics in transport through a quantum dot with Luttinger liquid
+  leads",6.2075702734010495e-06,5.970548265480216e-06,1.0,4.0
+cond-mat/0702075,"Comment on ``Quantum Statistical Mechanics of an Ideal Gas with
+  Fractional Exclusion Statistics in Arbitrary Dimension""",6.203304000045244e-06,0.0,2.0,0.0
+cond-mat/0703505,Macroscopic Many-Qubit Interactions in Superconducting Flux Qubits,6.197190096636881e-06,0.0,1.0,0.0
+cond-mat/0011146,"Fokker-Planck equations and density of states in disordered quantum
+  wires",6.185366649194022e-06,8.841176993057785e-06,6.0,4.0
+cond-mat/0508291,"Stability of the quantum spin Hall effect: effects of interactions,
+  disorder, and Z_2 topology",6.181761659193475e-06,1.964191562462086e-06,8.0,1.0
+cond-mat/0412259,Ehrenfest time in the weak dynamical localization,6.17420873898839e-06,0.0,7.0,2.0
+cond-mat/0103553,"Noise effect on the nonadiabatic transition and correction to the
+  tunneling energy gap estimated by the Landau-Zener-Stuckelberg formula",6.171810053506971e-06,0.0,3.0,3.0
+cond-mat/0511461,Physics at the FQMT'04 conference,6.1650428611909735e-06,0.0,7.0,0.0
+cond-mat/0409401,A many-fermion generalization of the Caldeira-Leggett model,6.161981416811616e-06,0.0,3.0,2.0
+chao-dyn/9907006,The quantum three-dimensional Sinai billiard - a semiclassical analysis,6.157465455999856e-06,0.0,6.0,1.0
+cond-mat/0003048,"Phonon-mediated drag at $\nu=1/2$: A test of the Chern-Simons composite
+  fermion theory",6.151450760671436e-06,0.0,4.0,1.0
+cond-mat/0507467,Persistent spin current in mesoscopic ferrimagnetic spin ring,6.149963538747821e-06,0.0,5.0,0.0
+cond-mat/0007297,"Permanent magnetic moment in mesoscopic metals with spin-orbit
+  interaction",6.142814735593024e-06,0.0,2.0,0.0
+cond-mat/0412519,"When it comes to spintronics, there may be some room in the middle",6.136945548515699e-06,0.0,2.0,0.0
+cond-mat/0510615,"Orbital magnetic field effects in spin liquid with spinon Fermi sea:
+  Possible application to $\kappa$-(ET)$_2$Cu$_2$(CN)$_3$",6.128163486858833e-06,0.0,8.0,0.0
+cond-mat/0508616,"Detecting Non-Abelian Statistics in the nu=5/2 Fractional Quantum Hall
+  State",6.127691311603943e-06,2.1351194555837514e-05,18.0,16.0
+cond-mat/0205449,"Interaction Effects in Conductivity of Si Inversion Layers at
+  Intermediate Temperatures",6.126269547157682e-06,2.3171594354997343e-05,4.0,12.0
+cond-mat/0603570,Equation of motion approach to non-adiabatic quantum charge pumping,6.124555606649849e-06,0.0,2.0,1.0
+cond-mat/0607096,"Hofstadter butterflies of carbon nanotubes: Pseudofractality of the
+  magnetoelectronic spectrum",6.121805726382446e-06,0.0,2.0,0.0
+cond-mat/9909285,Critical statistics in a power-law random banded matrix ensemble,6.119333032687596e-06,6.032432057618278e-06,4.0,3.0
+cond-mat/0605673,"Self-consistent multi-mode lasing theory for complex or random lasing
+  media",6.118278930390038e-06,0.0,4.0,1.0
+cond-mat/0410500,Superconducting nanostructures fabricated with the STM,6.1090807027976376e-06,0.0,2.0,0.0
+quant-ph/0607106,Decoherence and Recoherence in a Vibrating RF SQUID,6.109060897918355e-06,0.0,4.0,1.0
+cond-mat/0104402,Conductance through contact barriers of a finite length quantum wire,6.108218186616731e-06,0.0,4.0,4.0
+cond-mat/9608027,"Spectral correlations in disordered mesoscopic metals and their
+  relevance for persistent currents",6.107026054511987e-06,0.0,1.0,1.0
+cond-mat/0107611,"Charged hydrogenic problem in a magnetic field: Non-commutative
+  translations, unitary transformations, and coherent states",6.107026054511987e-06,0.0,1.0,1.0
+cond-mat/0611436,Rectification effects in coherent transport through single molecules,6.107026054511987e-06,0.0,1.0,1.0
+cond-mat/0407520,"Symmetries of the Resistance of Mesoscopic Samples in the Quantum Hall
+  Regime",6.105213061743833e-06,0.0,2.0,0.0
+cond-mat/9705250,"Electron-Electron Interaction in Disordered Mesoscopic Systems: Weak
+  Localization and Mesoscopic Fluctuations of Polarizability and Capacitance",6.103032510343518e-06,0.0,2.0,4.0
+cond-mat/0407813,"Metal-insulator transition in a two-dimensional electron system: the
+  orbital effect of in-plane magnetic field",6.099617579490079e-06,0.0,4.0,0.0
+cond-mat/0008170,"Scattering Theory of Kondo Mirages and Observation of Single Kondo Atom
+  Phase Shift",6.090580585578732e-06,0.0,3.0,3.0
+cond-mat/0109060,Magnetolocalization in disordered quantum wires,6.085609230594169e-06,0.0,5.0,0.0
+cond-mat/0304182,Charge and currents distribution in graphs,6.083347640134804e-06,0.0,4.0,0.0
+cond-mat/0511478,Recent Advances in Studies of Current Noise,6.081726088812796e-06,9.163422542896113e-06,4.0,7.0
+cond-mat/0402616,Thermal conduction of carbon nanotubes using molecular dynamics,6.078430374041914e-06,0.0,3.0,4.0
+cond-mat/0408526,Creation and detection of mobile and non-local spin-entangled electrons,6.074346413531169e-06,0.0,6.0,1.0
+cond-mat/0404366,Transport spectroscopy of Kondo quantum dots coupled by RKKY interaction,6.072248228268742e-06,5.389462943085212e-05,2.0,4.0
+cond-mat/0301441,Quantum Shuttle in Phase Space,6.07107513430861e-06,0.0,9.0,3.0
+cond-mat/0703225,"Theory of electron-phonon interaction in a nonequilibrium open
+  electronic system",6.067853226447038e-06,0.0,3.0,0.0
+cond-mat/0502606,Magnetoconductance through a vibrating molecule in the Kondo regime,6.061797079493977e-06,0.0,1.0,0.0
+cond-mat/0402568,"Magneto-transport and magneto-optical properties of ferromagnetic
+  (III,Mn)V semicondcutors: a review",6.048280336493841e-06,0.0,7.0,1.0
+cond-mat/0011413,"Strong Coupling Fixed Points of Current Interactions and Disordered
+  Fermions in 2D",6.041566523511071e-06,1.0720205810155248e-05,19.0,7.0
+cond-mat/9810282,"Schwinger-Keldysh Approach to Disordered and Interacting Electron
+  Systems: Derivation of Finkelstein's Renormalization Group Equations",6.0292146615176925e-06,9.030436650313698e-05,3.0,3.0
+cond-mat/0608533,Valley filter and valley valve in graphene,6.026362016901514e-06,7.960731020640288e-06,6.0,4.0
+cond-mat/0408570,Decoherence of Rabi oscillations in a single quantum dot,6.018896484305298e-06,0.0,1.0,0.0
+cond-mat/0609457,"Functional renormalization group for non-equilibrium quantum many-body
+  problems",6.016992528703317e-06,1.4772454565305872e-07,7.0,1.0
+cond-mat/0502021,"Crossed conductance in FSF double junctions: role of out-of-equilibrium
+  populations",6.004973256310084e-06,1.990182755160072e-06,3.0,1.0
+math-ph/0308030,Colored Hofstadter butterflies,6.004646517197675e-06,0.0,5.0,0.0
+cond-mat/0310496,Production and detection of three-qubit entanglement in the Fermi sea,5.991286976438222e-06,8.348266270564029e-07,8.0,1.0
+cond-mat/0404135,"Charge ordering and interlayer phase coherence in quantum Hall
+  superlattices",5.9888484104749545e-06,0.0,1.0,0.0
+cond-mat/0304597,Spin Current Through a Magnetic-Oscillating Quantum Dot,5.98162732222666e-06,0.0,7.0,0.0
+cond-mat/0510182,2D SNS junction with Rashba spin-orbit interaction,5.97418274391733e-06,0.0,4.0,0.0
+cond-mat/0502220,Spin Photovoltaic Effect in Quantum Wires with Rashba Interaction,5.966110146359929e-06,0.0,1.0,0.0
+cond-mat/0407283,Sign of the crossed conductances at a FSF double interface,5.963783085531604e-06,0.0,2.0,3.0
+cond-mat/0506552,Vibration-assisted tunneling through competing molecular states,5.95990196099373e-06,5.002885424312612e-05,7.0,10.0
+cond-mat/0410089,Rectification in Luttinger liquids,5.956440704112947e-06,0.0,3.0,0.0
+cond-mat/0403744,"Green's function for magnetically incoherent interacting electrons in
+  one dimension",5.956398799931429e-06,0.0,1.0,1.0
+cond-mat/0609333,"Andreev Bound States in the Kondo Quantum Dots Coupled to
+  Superconducting Leads",5.956398799931429e-06,0.0,1.0,0.0
+cond-mat/0002087,Striped quantum Hall phases,5.954283985897652e-06,0.0003949442492167,11.0,5.0
+cond-mat/0606589,Quantum transport of massless Dirac fermions in graphene,5.951958347673656e-06,9.40102534702092e-05,3.0,15.0
+cond-mat/0010441,"Ground state spin and Coulomb blockade peak motion in chaotic quantum
+  dots",5.942676087739554e-06,0.0,7.0,7.0
+cond-mat/0508470,Electron-vibration interaction in transport through atomic gold wires,5.940909437526948e-06,3.980365510320144e-06,4.0,2.0
+quant-ph/0108073,Quantum Information in Space and Time,5.939628062762797e-06,6.24538747910973e-08,11.0,6.0
+quant-ph/9911062,Atomic Quantum Computer,5.933783535874169e-06,0.0,8.0,5.0
+cond-mat/0603731,"Signature of the electron-electron interaction in the magnetic field
+  dependence of nonlinear I-V characteristics in mesoscopic conductors",5.933154089214736e-06,4.302158008558098e-07,5.0,3.0
+cond-mat/0408094,Reply to the Comment of M. V. Cheremisin (cond-mat/0408050),5.931486723668134e-06,0.0,3.0,0.0
+cond-mat/0209629,Noisy quantum measurement of solid-state qubits: Bayesian approach,5.930359020890062e-06,4.249800904341084e-06,10.0,5.0
+cond-mat/0701480,Nuclear Spins as Quantum Memory in Semiconductor Nanostructures,5.925839447058761e-06,0.0,3.0,0.0
+cond-mat/0703531,Two Anderson Impurity problem: Kondo-doublets beyond the Kondo Limit,5.924125668078249e-06,0.0,3.0,0.0
+cond-mat/0607278,"Dictionary between scattering matrix and Keldysh formalisms for quantum
+  transport driven by time-periodic fields",5.920025279927699e-06,0.0,2.0,0.0
+cond-mat/0407583,Do quantum dots allow one access to pseudogap Kondo physics?,5.90598555800466e-06,7.4260550565674335e-09,3.0,1.0
+cond-mat/0311220,Flux Qubit in Charge-Phase Regime,5.899704499880486e-06,5.439520179123927e-05,3.0,2.0
+cond-mat/0612494,"Transmission phase lapses in quantum dots: the role of dot-lead coupling
+  asymmetry",5.898853040463978e-06,0.0,4.0,0.0
+cond-mat/0511375,"1/f noise in a dilute GaAs two-dimensional hole system in the insulating
+  phase",5.898628635590931e-06,0.0,4.0,0.0
+cond-mat/0603755,"Kinetic magnetoelectric effect in a 2D semiconductor strip due to
+  boundary-confinement induced spin-orbit coupling",5.898260790204026e-06,3.7130275282837164e-09,4.0,3.0
+cond-mat/0012015,"Role of a parallel magnetic field in two dimensional disordered clusters
+  containing a few correlated electrons",5.892156534480754e-06,3.934856812441045e-06,9.0,4.0
+cond-mat/0205127,Phase separation in the two-dimensional electron liquid in MOSFETs,5.891020018007002e-06,1.020110110687281e-06,3.0,6.0
+cond-mat/0510452,Resonant inelastic tunneling in molecular junctions,5.889295791534616e-06,0.0,4.0,0.0
+cond-mat/0208239,Quantum properties of atomic-sized conductors,5.88191722879669e-06,0.0,3.0,7.0
+cond-mat/0304206,"Symmetry of Magnetic Quantum Tunneling in Single Molecule Magnet
+  Mn12-acetate",5.881085172641151e-06,0.0,1.0,1.0
+cond-mat/0410773,Wigner Crystallization in inhomogeneous one dimensional wires,5.881085172641151e-06,0.0,1.0,1.0
+cond-mat/0610124,"Spin-density induced by electromagnetic wave in two-dimensional electron
+  gas",5.881085172641151e-06,0.0,1.0,1.0
+cond-mat/0305310,"Persistent current in ballistic mesoscopic rings with Rashba spin-orbit
+  coupling",5.87684730439981e-06,0.0,4.0,0.0
+cond-mat/0505131,"Spin Hall effect, Hall effect and spin precession in diffusive normal
+  metals",5.871838724996441e-06,0.0,3.0,0.0
+cond-mat/9810289,A Field Theory for Partially Polarized Quantum Hall States,5.871223961575432e-06,0.0,3.0,0.0
+cond-mat/0412573,Chain of Superconducting Loops as a Possible Quantum Register,5.86903993406996e-06,0.0,11.0,0.0
+cond-mat/0308003,Fermi liquid behavior of metallic 2D holes at high temperatures,5.862607428220248e-06,0.0,3.0,1.0
+cond-mat/0409643,"Quantum master equation approach to quantum transport through mesoscopic
+  systems",5.860734900318134e-06,1.6189551877908658e-06,4.0,1.0
+cond-mat/9709225,"Phenomenological Understanding of a Transport Regime with Reflection
+  Symmetry in the Quantum Hall System in a Composite Fermion Picture",5.853749086126992e-06,0.0,4.0,2.0
+cond-mat/0203009,"Exact results for a tunnel-coupled pair of trapped Bose-Einstein
+  condensates",5.852848398048031e-06,0.0,2.0,5.0
+cond-mat/0401361,Full Counting Statistics of a charge shuttle,5.842235096502634e-06,4.826935786768832e-08,4.0,3.0
+cond-mat/0508340,"Consistency in Formulation of Spin Current and Torque Associated with a
+  Variance of Angular Momentum",5.840425212585215e-06,0.0,5.0,2.0
+cond-mat/0106005,"The critical exponent of the localization length at the Anderson
+  transition in 3D disordered systems is larger than 1",5.840337303289136e-06,0.0,11.0,6.0
+cond-mat/0103098,"Interactions in Chaotic Nanoparticles: Fluctuations in Coulomb Blockade
+  Peak Spacings",5.835826955416975e-06,0.0,5.0,5.0
+cond-mat/0203287,"Possible Pairing-Induced Even-Denominator Fractional Quantum Hall Effect
+  in the Lowest Landau Level",5.835122313800201e-06,0.0,3.0,0.0
+cond-mat/0506553,Non-extensive thermodynamics of transition-metal nanoclusters,5.832180035703107e-06,0.0,9.0,0.0
+cond-mat/0507098,Magnetostatic field noise near metallic surfaces,5.8282700076900455e-06,0.0,4.0,0.0
+cond-mat/0508465,"Magnetic Field Effects on Quasiparticles in Strongly Correlated Local
+  Systems",5.827926256977218e-06,2.071869360782313e-06,2.0,2.0
+cond-mat/0103516,"Aharonov-Bohm oscillations and spin transport in a mesoscopic ring with
+  a magnetic impurity",5.826059864766919e-06,0.0,4.0,0.0
+cond-mat/0504086,"Diagrammatic Analysis of the Unitary Group for Double Barrier Ballistic
+  Cavities: Equivalence with Circuit Theory",5.823312980342088e-06,0.0,2.0,0.0
+cond-mat/0501191,Auxiliary-level-assisted operations with charge qubits in semiconductors,5.822240253621178e-06,0.0,6.0,0.0
+cond-mat/0610691,Mode statistics in random lasers,5.821996350622634e-06,0.0,1.0,0.0
+cond-mat/0409320,"Transport properties of single channel quantum wires with an impurity:
+  Influence of finite length and temperature on average current and noise",5.821522703781585e-06,1.990182755160072e-06,2.0,2.0
+cond-mat/0503187,"Non-Abelian gauge potentials for ultra-cold atoms with degenerate dark
+  states",5.813196217803882e-06,0.0,3.0,0.0
+cond-mat/9810148,"S-matrix network models for coherent waves in random media: construction
+  and renormalization",5.808938542060753e-06,0.0,1.0,3.0
+cond-mat/0210469,Quantum critical fluctuations in disordered d-wave superconductors,5.808576287961386e-06,0.0,2.0,0.0
+cond-mat/0611562,"Inelastic transport theory from first-principles: methodology and
+  applications for nanoscale devices",5.799365868426763e-06,0.0,4.0,3.0
+cond-mat/0212552,Fractional charge in quantum Hall effect,5.794525046808893e-06,0.0001728936639665,3.0,11.0
+cond-mat/0409158,Vibrational Sidebands and Kondo-effect in Molecular Transistors,5.78954059716232e-06,7.4260550565674335e-09,4.0,2.0
+cond-mat/0306603,"Measuring Luttinger Liquid Correlations from Charge Fluctuations in a
+  Nanoscale Structure",5.787806451177719e-06,0.0,2.0,0.0
+cond-mat/0512620,Shot noise in chaotic cavities with an arbitrary number of open channels,5.781824174771858e-06,0.0,3.0,0.0
+cond-mat/0207440,Quantum Interferometry with Electrons: Outstanding Challenges,5.781783873115026e-06,0.0,7.0,5.0
+cond-mat/0504274,Decoherence of Phase Qubit using High-Tc Superconductor,5.776455118632589e-06,0.0,3.0,0.0
+cond-mat/0001412,High-field noise in metallic diffusive conductors,5.77629323906533e-06,5.970548265480216e-06,7.0,1.0
+cond-mat/0608539,"Dynamics of edge Majorana fermions in $\nu=\frac{5}2$ fractional quantum
+  Hall effects",5.749481316885458e-06,0.0,3.0,0.0
+cond-mat/0307307,"Crossed Andreev Reflection in Structures Consisting of a Superconductor
+  with Ferromagnetic Leads",5.745455927038632e-06,0.0,2.0,0.0
+cond-mat/9907148,"Mesoscopic fluctuations of the ground state spin of a small metal
+  particle",5.74534861856223e-06,0.0,5.0,1.0
+cond-mat/0406647,"Super-poissonian noise, negative differential conductance, and
+  relaxation effects in transport through molecules, quantum dots and nanotubes",5.7450044045008814e-06,2.0529681473074883e-05,2.0,6.0
+cond-mat/0405300,"Modulating Unpolarized Current in Quantum Spintronics: Visibility of
+  Spin-Interference Effects in Multichannel Aharonov-Casher Mesoscopic Rings",5.744355323495864e-06,0.0,3.0,2.0
+cond-mat/0102415,"Hall Coefficient and electron-electron interaction of 2D electrons in
+  Si-MOSFET's",5.742334881611724e-06,0.0,5.0,0.0
+cond-mat/0101215,Optical dipole traps and atomic waveguides based on Bessel light beams,5.736409281271363e-06,0.0,5.0,0.0
+hep-th/0306266,A Quantum Hall Fluid of Vortices,5.7357233596504905e-06,9.404961479219602e-06,17.0,2.0
+cond-mat/0610433,Spins in few-electron quantum dots,5.734804889103562e-06,1.9103343487329173e-05,6.0,7.0
+cond-mat/0610560,Semiclassical Approach to Chaotic Quantum Transport,5.733018202264224e-06,1.7993181049876492e-06,4.0,1.0
+cond-mat/0204209,"Infrared conductivity of metallic (III,Mn)V ferromagnets",5.725334962096838e-06,0.0,4.0,1.0
+cond-mat/9904361,"Percolation-type description of the metal-insulator transition in two
+  dimensions",5.721986529646239e-06,0.0,9.0,4.0
+cond-mat/0304385,"NRG study of the Kondo effect in the presence of itinerant-electron
+  ferromagnetism",5.708250039235121e-06,5.970548265480216e-06,2.0,2.0
+cond-mat/0510153,Transport in magnetically ordered Pt nanocontacts,5.7077713657032855e-06,0.0,1.0,1.0
+cond-mat/0612293,Spin-orbit induced spin-qubit control in nanowires,5.707681273334445e-06,0.0,3.0,0.0
+cond-mat/0205316,Josephson effect in S$_{\rm F}$XS$_{\rm F}$ junctions,5.700244205841559e-06,0.0,2.0,0.0
+cond-mat/0503333,Deterministic Weak Localization in Periodic Structures,5.696484424552172e-06,0.0,2.0,0.0
+cond-mat/0205186,"Possible realization of an ideal quantum computer in Josephson junction
+  array",5.693120477629051e-06,8.037984365533529e-05,10.0,8.0
+cond-mat/9907358,Keldysh action for disordered superconductors,5.691715108479653e-06,7.84680339584195e-06,7.0,2.0
+cond-mat/9907497,"Quantum Decoherence and the ""P(E)-Theory""",5.682589715667776e-06,0.0004704673256776,1.0,5.0
+cond-mat/0503445,Ab-initio methods for spin-transport at the nanoscale level,5.680783226351659e-06,0.0,4.0,3.0
+cond-mat/0608720,Coherent transport in graphene nanoconstrictions,5.677069767674945e-06,0.0,7.0,0.0
+cond-mat/0506446,Quantum state tomography with quantum shotnoise,5.673838909675694e-06,5.678412377627373e-07,2.0,2.0
+cond-mat/0303349,On the theory of plateau-plateau transitions in Quantum Hall Effect,5.672174547159766e-06,0.0,4.0,0.0
+hep-th/0112185,Noncommutative Field Theory and the Dynamics of Quantum Hall Fluids,5.660763572227476e-06,6.41219353347768e-05,31.0,9.0
+cond-mat/9809228,Spectral Gaps of Quantum Hall Systems with Interactions,5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0501466,"The Cyclotron Spin-Flip Mode as the Lowest-Energy Excitation of
+  Unpolarized Integer Quantum Hall States",5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0504208,"Efficient algorithm for current spectral density calculation in
+  single-electron tunneling and hopping",5.655144290770314e-06,0.0,2.0,2.0
+cond-mat/0509452,Mesoscopic Resistance Fluctuations in Cobalt Nanoparticles,5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0411181,Spin dynamics and level structure of quantum-dot quantum wells,5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0510410,"From ballistic transport to tunneling in electromigrated ferromagnetic
+  breakjunctions",5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0302445,A Numerical Study of Transport and Shot Noise at 2D Hopping,5.655144290770314e-06,0.0,2.0,2.0
+cond-mat/0508740,Topological defects in flat nanomagnets: the magnetostatic limit,5.655144290770314e-06,0.0,2.0,2.0
+cond-mat/0307534,"Coulomb blockade and quantum tunnelling in the low-conductivity phase of
+  granular metals",5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0411429,Faraday Rotation Spectroscopy of Quantum-Dot Quantum Wells,5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0508741,Composite domain walls in flat nanomagnets: the magnetostatic limit,5.655144290770314e-06,0.0,2.0,2.0
+cond-mat/0512287,Mesoscopic anisotropic magnetoconductance fluctuations in ferromagnets,5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/9811112,Insensitivity of Quantized Hall Conductance to Disorder and Interactions,5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0402526,"Evolution of excitons via biexcitons to an electron-hole plasma without
+  level crossing between band edge and exciton in a quantum wire",5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0411707,"Zero-Momentum Cyclotron Spin-Flip Mode in a Spin-Unpolarized Quantum
+  Hall System",5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0506080,Adiabatic pumping through interacting quantum dots,5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0403703,"Density of States and Conductivity of Granular Metal or Array of Quantum
+  Dots",5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0510094,Magnetoresistance of atomic-scale electromigrated nickel nanocontacts,5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0412209,A Numerical Study of Coulomb Interaction Effects on 2D Hopping Transport,5.655144290770314e-06,0.0,2.0,2.0
+cond-mat/0703720,"Friction of the surface plasmon by high-energy particle-hole pairs: Are
+  memory effects important?",5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0107241,Theory of Electron-Phonon Dynamics in Insulating Nanoparticles,5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0703721,Sidebands in the light absorption of driven metallic nanoparticles,5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0405217,"Analytic theory of correlation energy and spin polarization in the 2D
+  electron gas",5.655144290770314e-06,0.0,1.0,0.0
+cond-mat/0612651,"Effect of electron-electron interactions on the conductivity of clean
+  graphene",5.649268857708518e-06,3.980365510320144e-06,4.0,2.0
+cond-mat/0401182,Electron Dephasing in Mesoscopic Metal Wires,5.642904975591286e-06,0.0,3.0,4.0
+chao-dyn/9808014,A Matrix Element for Chaotic Tunnelling Rates and Scarring Intensities,5.639721075225431e-06,0.0,5.0,2.0
+cond-mat/0702376,"Fluctuation theorem for counting-statistics in electron transport
+  through quantum junctions",5.6379773728032495e-06,0.0,5.0,2.0
+cond-mat/0403191,"Spin susceptibility of two-dimensional electrons in narrow AlAs quantum
+  wells",5.6343150927932325e-06,0.0,2.0,1.0
+cond-mat/0003485,Resistance Jumps and Hysteresis in Ferromagnetic Wires,5.6325473821537255e-06,0.0,7.0,1.0
+cond-mat/0511715,Coulomb drag between two spin incoherent Luttinger liquids,5.632399386413185e-06,1.0920343983440038e-05,4.0,1.0
+cond-mat/0211430,"Nanoscale phase separation in $La_{0.7}Ca_{0.3}MnO_3$ films: evidence
+  for the texture driven optical anisotropy",5.631976548029731e-06,0.0,1.0,0.0
+cond-mat/0006506,Notes on Infinite Layer Quantum Hall Systems,5.627147074226992e-06,0.0,3.0,1.0
+cond-mat/0510559,Landau-Zener interferometry with superconducting qubits,5.624722565387316e-06,0.0,3.0,5.0
+cond-mat/9907098,"Visibility diagrams and experimental stripe structure in the quantum
+  Hall effect",5.6170064233624885e-06,0.0,6.0,0.0
+cond-mat/0401462,"Evidence of a first order phase transition between Wigner crystal and
+  Bubble Phases of 2D electrons in higher Landau levels",5.611948068620922e-06,1.990182755160072e-06,3.0,1.0
+cond-mat/0111007,"Excitons in quantum-ring structures in a magnetic field: Optical
+  properties and persistent currents",5.610265049764747e-06,0.0,2.0,1.0
+cond-mat/0111006,"Magnetoexcitons in quantum-ring structures: a novel magnetic
+  interference effect",5.610265049764747e-06,0.0,2.0,1.0
+cond-mat/0507336,Shot noise of photon-excited electron-hole pairs in open quantum dots,5.605342294757952e-06,0.0,3.0,0.0
+cond-mat/0603337,"Nonequilibrium Steady States and Fano-Kondo Resonances in an AB Ring
+  with a Quantum Dot",5.605123977916453e-06,1.0002896161196332e-05,3.0,3.0
+cond-mat/0302154,Ghost Fano resonance in a double quantum dot molecule attached to leads,5.602699317989824e-06,0.0,2.0,0.0
+cond-mat/0508282,"Ordered Dissipative Structures in Exciton Systems in Semiconductor
+  Quantum Wells",5.594933260259464e-06,0.0,6.0,1.0
+cond-mat/0108061,Effect of inelastic scattering on parametric pumping,5.593425571806935e-06,1.7852236355988107e-05,3.0,3.0
+cond-mat/0008402,"Two-dimensional array of diffusive SNS junctions with high-transparent
+  interfaces",5.576545225849642e-06,0.0,2.0,0.0
+cond-mat/0205250,"Effect of Subband Landau Level Coupling to the Linearly Dispersing
+  Collective Mode in a Quantum Hall Ferromagnet",5.572970409659303e-06,0.0,3.0,1.0
+hep-th/0510271,Boundary RG Flow Associated with the AKNS Soliton Hierarchy,5.570764406492894e-06,0.0,6.0,1.0
+cond-mat/0208318,"Charge and current fluctuations in a superconducting single electron
+  transistor near a Cooper pair resonance",5.57042683651506e-06,1.8861179374442845e-05,6.0,1.0
+quant-ph/0412122,Robust Charge-based Qubit Encoding,5.566207032342451e-06,7.0514813677305625e-06,3.0,2.0
+cond-mat/0310323,"Spin quantum tunneling via entangled states in a dimer of exchange
+  coupled single-molecule magnets",5.562046602531412e-06,0.0,3.0,0.0
+cond-mat/0301612,"Spin swap gate in the presence of qubit inhomogeneity in a double
+  quantum dot",5.560159439283686e-06,0.0,3.0,0.0
+cond-mat/0507228,"Coulomb corrections to the extrinsic spin-Hall effect of a
+  two-dimensional electron gas",5.556713660797509e-06,3.171761895179623e-06,9.0,1.0
+quant-ph/0505018,"Performance of cavity-parametric amplifiers, employing Kerr
+  nonlinearites, in the presence of two-photon loss",5.555439565396201e-06,0.0,4.0,12.0
+cond-mat/0605230,"Influence of band structure effects on domain-wall resistance in diluted
+  ferromagnetic semiconductors",5.554538494904111e-06,0.0,3.0,0.0
+cond-mat/0502359,"Universal statistics of the local Green's function in quantum chaotic
+  systems with absorption",5.551941802539383e-06,1.990182755160072e-06,3.0,2.0
+cond-mat/0603730,"Solving spin quantum-master equations with matrix continued-fraction
+  methods: application to superparamagnets",5.549403613431083e-06,0.0,6.0,0.0
+cond-mat/9912423,"Two-species percolation and Scaling theory of the metal-insulator
+  transition in two dimensions",5.545678842678149e-06,0.0,12.0,2.0
+cond-mat/0005135,"Spin dynamics of Mn12-acetate in the thermally-activated tunneling
+  regime: ac-susceptibility and magnetization relaxation",5.53759292393817e-06,0.0,5.0,2.0
+cond-mat/9908256,Numerical results for two interacting particles in a random environment,5.535683823913975e-06,0.0,5.0,0.0
+cond-mat/0610033,"Decay and fusion as two different mechanisms of stability loss for the
+  (C_20)_2 cluster dimer",5.5355765335110034e-06,0.0,5.0,1.0
+cond-mat/9709243,"Nonzero temperature transport near fractional quantum Hall critical
+  points",5.532767964864875e-06,0.0,4.0,4.0
+cond-mat/0404212,The Density Matrix Renormalization Group for finite Fermi systems,5.5315908929041375e-06,1.990182755160072e-06,5.0,1.0
+cond-mat/9904245,Dynamical response of a weakly pinned two-dimensional Wigner crystal,5.527048320295241e-06,0.0,1.0,1.0
+quant-ph/0411038,Read out of a Nuclear Spin Qubit,5.521329868637753e-06,0.0,3.0,1.0
+cond-mat/0608512,Spin-spin coupling in electrostatically coupled quantum dots,5.51799981261865e-06,1.1941096530960432e-05,4.0,1.0
+cond-mat/9902054,"Charge Relaxation Resistances and Charge Fluctuations in Mesoscopic
+  Conductors",5.51295228403898e-06,0.0,5.0,1.0
+cond-mat/0701096,Spin Hall Effect For Anyons,5.51194895140999e-06,0.0,6.0,0.0
+cond-mat/0203487,"Thermally-Activated Magnetic Reversal Induced by a Spin-Polarized
+  Current",5.50952320518162e-06,0.0,4.0,2.0
+hep-th/0409115,"A matrix model for a quantum hall droplet with manifest particle-hole
+  symmetry",5.508569516639812e-06,7.421108621247025e-06,28.0,15.0
+cond-mat/0005542,A dual point description of mesoscopic superconductors,5.508073516737923e-06,3.7872880788493904e-08,6.0,4.0
+cond-mat/0304269,Quasiparticles in quantum Hall effect: Smet's fractional charge,5.504686895782526e-06,6.635180193043025e-06,10.0,4.0
+cond-mat/0402607,Electronic structure of d-wave superconducting quantum wires,5.502878378537422e-06,1.990182755160072e-06,3.0,1.0
+cond-mat/0308342,"Vortex lattices in rapidly rotating Bose-Einstein condensates: modes and
+  correlation functions",5.501452857076231e-06,4.034651073603519e-06,10.0,4.0
+cond-mat/0602647,Gauge field for edge state in graphene,5.50006731970653e-06,0.0,5.0,1.0
+cond-mat/0609756,Integral and fractional Quantum Hall Ising ferromagnets,5.496269871910976e-06,0.0,4.0,0.0
+cond-mat/0307207,"Coherence and Coulomb blockade in single electron devices: a unified
+  treatment of interaction effects",5.496150807370375e-06,0.0,5.0,0.0
+cond-mat/0202453,"Spin and interaction effects in quantum dots: a Hartree-Fock-Koopmans
+  approach",5.493949293809888e-06,3.367429141688183e-05,4.0,4.0
+cond-mat/0511287,Universal features of electron-phonon interactions in atomic wires,5.491197430452261e-06,0.0,2.0,0.0
+hep-th/9810105,"A Unified Conformal Field Theory Description of Paired Quantum Hall
+  States",5.490341798646099e-06,4.0147261352992655e-06,4.0,16.0
+cond-mat/9907453,Conductance distribution of disordered quasi one-dimensional wires,5.489130700592816e-06,0.0,2.0,0.0
+cond-mat/9611078,Phase randomness in a one-dimensional disordered absorbing medium,5.48413264008019e-06,0.0,5.0,0.0
+cond-mat/0703690,"Control of electron spin decoherence caused by electron-nuclear spin
+  dynamics in a quantum dot",5.482093612352718e-06,0.0,2.0,0.0
+cond-mat/9710195,Mesoscopic charge quantization,5.480801091657612e-06,0.0,2.0,5.0
+cond-mat/0004206,"Weak anisotropy and disorder dependence of the in-plane
+  magnetoresistance in high mobility (100) Si-inversion layers",5.477904229579709e-06,2.306175984271177e-05,7.0,11.0
+cond-mat/0501385,"Charge dynamics effects in conductance through a large semi-open quantum
+  dot",5.477710097690274e-06,0.0,2.0,0.0
+cond-mat/0512362,"Enhancement of electron spin coherence by optical preparation of nuclear
+  spins",5.47360889235836e-06,0.0,2.0,3.0
+cond-mat/0603176,"Dissipation-driven quantum phase transitions in a Tomonaga-Luttinger
+  liquid electrostatically coupled to a metallic gate",5.46815979263392e-06,0.0,3.0,0.0
+cond-mat/0504661,Fermi liquid parameters in 2D with spin-orbit interaction,5.467619972044781e-06,1.990182755160072e-06,3.0,1.0
+cond-mat/0007445,Microscopic theory for quantum mirages in quantum corrals,5.465943359513047e-06,0.0,3.0,2.0
+cond-mat/0305107,"Kondo effect in a quantum dot coupled to ferromagnetic leads: A
+  numerical renormalization group analysis",5.460777143949565e-06,8.955822398220324e-06,5.0,2.0
+cond-mat/9903143,Skyrmion dynamics in quantum Hall ferromagnets,5.4607655539202125e-06,0.0,2.0,0.0
+cond-mat/0409038,"Spin-Hall Effect in Two-Dimensional Electron Systems with Rashba
+  Spin-Orbit Coupling and Disorder",5.457851930712153e-06,4.782833307813103e-07,10.0,11.0
+cond-mat/0207662,"Magnetoresistance of a 2D electron gas caused by electron interactions
+  in the transition from the diffusive to the ballistic regime",5.455489937895819e-06,4.472341657817736e-06,6.0,3.0
+cond-mat/0505597,"Charge Hall effect driven by spin-dependent chemical potential gradients
+  and Onsager relations in mesoscopic systems",5.451072867522958e-06,0.0,15.0,1.0
+cond-mat/0105257,"Spin-phase interference, coherent superposition, and quantum tunneling
+  at excited levels in nano-antiferromagnets",5.449237427110536e-06,0.0,10.0,0.0
+cond-mat/0607699,Topological Insulators in Three Dimensions,5.448718488234521e-06,0.0,6.0,2.0
+cond-mat/0007105,"Statistics of resonances and of delay times in quasiperiodic
+  Schr""odinger equations",5.44735696001582e-06,0.0,6.0,0.0
+cond-mat/0201402,$\nu=2$ Bilayer Quantum Hall System in Tilted Magnetic Field,5.445502026305183e-06,0.0,4.0,0.0
+quant-ph/9912100,"Quantum Computing, NP-complete Problems and Chaotic Dynamics",5.441079230899272e-06,9.28256882070929e-08,12.0,5.0
+cond-mat/0504288,Correlated electron transport through parallel double-quantum-dot,5.437120734078702e-06,5.076648706331805e-07,2.0,1.0
+cond-mat/0207457,Gate errors in solid state quantum computation,5.436489915319079e-06,3.7130275282837164e-09,3.0,2.0
+cond-mat/0109407,Illumination of quantum Hall effect,5.434948749513642e-06,0.0,6.0,1.0
+cond-mat/9902190,"Local densities, distribution functions, and wave function correlations
+  for spatially resolved shot noise at nanocontacts",5.432123234086433e-06,0.0,4.0,0.0
+cond-mat/0406018,Andreev billiards,5.431657503849898e-06,5.542401918907541e-05,5.0,11.0
+cond-mat/0402387,Quantum thermodynamics: thermodynamics at the nanoscale,5.425482140490757e-06,0.0,6.0,3.0
+cond-mat/0611341,Topological Insulators with Inversion Symmetry,5.423876667763468e-06,9.718773103233656e-05,6.0,3.0
+cond-mat/0407526,"Exponential sensitivity to dephasing of electrical conduction through a
+  quantum dot",5.4194786998654e-06,0.0,4.0,0.0
+cond-mat/0310424,"Resistance of a 1D random chain: Hamiltonian version of the transfer
+  matrix approach",5.418789002696247e-06,0.0,1.0,0.0
+cond-mat/0311104,"Quantum Description of Shuttle Instability in Nanoelectromechanical
+  Single Electron Transistor",5.415894909811318e-06,0.0,6.0,1.0
+cond-mat/0407177,A spin field effect transistor for low leakage current,5.412492118688952e-06,0.0,3.0,0.0
+cond-mat/0410507,Spin-polarized transport through carbon nanotubes,5.411091582333923e-06,0.0,3.0,0.0
+cond-mat/0506154,"Spin dynamics and violation of the fluctuation dissipation theorem in a
+  non-equilibrium ohmic spin boson model",5.407851365590588e-06,0.0,3.0,0.0
+cond-mat/0506061,"Critical points and non-Fermi liquids in the underscreened pseudogap
+  Kondo model",5.40533951976484e-06,0.0,3.0,0.0
+cond-mat/0610443,Exchange-controlled single-electron-spin rotations in quantum dots,5.404011115804382e-06,0.0,4.0,1.0
+cond-mat/0103073,Incommensurate ground state of double-layer quantum Hall systems,5.404004195476845e-06,1.990182755160072e-06,4.0,1.0
+cond-mat/0610304,"Magnetic Field Dependence of Dephasing Rate due to Diluted Kondo
+  Impurities",5.403231823464846e-06,1.990182755160072e-06,2.0,3.0
+cond-mat/9901137,Quantum Computers and Quantum Coherence,5.401493353531286e-06,0.0,29.0,23.0
+cond-mat/0206021,Rippled state of double-layer quantum Hall systems,5.400085200002424e-06,0.0,4.0,0.0
+cond-mat/0504787,Decoherence of a two-qubit system with a variable bath coupling operator,5.390267439018564e-06,4.22232924435707e-06,4.0,1.0
+cond-mat/0209206,"Twenty years since the discovery of the Fractional Quantum Hall Effect:
+  current state of the theory",5.38910318777068e-06,0.0002042603484083,3.0,8.0
+cond-mat/0402099,"Effects of dephasing on shot-noise in an electronic Mach-Zehnder
+  interferometer",5.385925688557352e-06,7.4260550565674335e-09,1.0,2.0
+cond-mat/0406188,"Persistent currents in multicomponent Tomonaga-Luttinger liquid:
+  application to mesoscopic semiconductor ring with spin-orbit interaction",5.379328662011815e-06,0.0,5.0,1.0
+cond-mat/9911239,Anisotropic magnetoresistance of GaAs two-dimensional holes,5.377615632143558e-06,0.0,4.0,4.0
+cond-mat/9906450,Quantum Hall effect at low magnetic fields,5.374914238108122e-06,1.990182755160072e-06,7.0,2.0
+cond-mat/0607280,Tunable Noise Cross-Correlations in a Double Quantum Dot,5.374431474592125e-06,0.0,4.0,0.0
+cond-mat/0612490,Phase lapses in transmission through interacting two-level quantum dots,5.373180979134589e-06,4.663816334104562e-06,6.0,3.0
+quant-ph/0606081,Mass Detection with Nonlinear Nanomechanical Resonator,5.370939109368518e-06,0.0,4.0,1.0
+cond-mat/9802140,"Velocity shift of surface acoustic waves due to interaction with
+  composite fermions in a modulated structure",5.370011575679698e-06,0.0,3.0,2.0
+cond-mat/0410286,Electronic shell effects and the stability of alkali nanowires,5.36272301706595e-06,0.0,2.0,0.0
+hep-th/0411137,Supersymmetric Quantum Hall Effect on Fuzzy Supersphere,5.361509948952658e-06,5.205973731522554e-06,6.0,6.0
+cond-mat/0607746,The mesoscopic conductance of ballistic rings,5.359038189693253e-06,0.0,2.0,0.0
+cond-mat/0510236,"Quantum master equation descriptions of a nanomechanical resonator
+  coupled to a single-electron transistor",5.358776152262751e-06,0.0,4.0,0.0
+math-ph/0307030,Leaky quantum wire and dots: a resonance model,5.351668534947859e-06,0.0,4.0,1.0
+cond-mat/0602514,Parity meter for charge qubits: an efficient quantum entangler,5.351065294434126e-06,1.567722734164236e-08,4.0,1.0
+cond-mat/0504449,Single Qubit Rabi Oscillation Decohered by Many Two-Level Systems,5.341598281155305e-06,1.990182755160072e-06,2.0,2.0
+cond-mat/0010402,Quantum superconductor-metal transition in a proximity array,5.339057041222024e-06,0.0,4.0,2.0
+cond-mat/0506035,"Fundamental aspects of electron correlations and quantum transport in
+  one-dimensional systems",5.33742838184379e-06,3.010935302680466e-06,6.0,2.0
+cond-mat/0203238,"Interactions and Disorder in Quantum Dots: Instabilities and Phase
+  Transitions",5.332131270305266e-06,0.0,5.0,0.0
+cond-mat/0509098,"Inelatic cotunneling current and shot noise of an interacting quantum
+  dot with ferromagnetic correlations",5.331142256577276e-06,2.0050348652732067e-06,2.0,1.0
+quant-ph/0009026,Testing Bell's Inequality with Ballistic Electrons in Semiconductors,5.331097000884852e-06,2.890899929128194e-06,9.0,4.0
+cond-mat/0305492,"Residual resistance in two-dimensional, microwave driven Hall systems",5.328143458039236e-06,1.2786924201903403e-05,13.0,9.0

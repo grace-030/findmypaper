@@ -1,0 +1,1552 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+cond-mat/9707221,The Loop Algorithm,0.0001886825825843,0.0012924929783002,140.0,42.0
+cond-mat/0610456,The flow equation approach to the pairing instability problem,0.0001081549980995,0.0,3.0,0.0
+cond-mat/0511293,Electronic Structure Calculations using Dynamical Mean Field Theory,9.204141593451451e-05,4.1813347642495406e-05,37.0,10.0
+cond-mat/0012117,Colossal Magnetoresistant Materials: The Key Role of Phase Separation,8.735096990594665e-05,0.0010001856513488,77.0,6.0
+cond-mat/0511660,Flow Equations and Normal Ordering. A Survey,8.330934235534466e-05,3.980365510320144e-06,76.0,1.0
+cond-mat/0602236,Flow equation approach to the pairing problems,7.980261243849611e-05,1.990182755160072e-06,4.0,1.0
+hep-ph/0608242,Effective Theory of Wilson Lines and Deconfinement,6.44545889785244e-05,1.4168276476722518e-05,44.0,6.0
+cond-mat/0001147,"Magnetic Susceptibilities of Spin-1/2 Antiferromagnetic Heisenberg
+  Ladders and Applications to Ladder Oxide Compounds",5.595434161822344e-05,0.000180927500456,53.0,37.0
+nucl-th/0701041,Spectral convexity for attractive SU(2N) fermions,5.227366139057049e-05,0.0,33.0,0.0
+cond-mat/0511085,"Electronic Structure Calculations with Dynamical Mean-Field Theory: A
+  Spectral Density Functional Approach",4.650192170422361e-05,6.464903039991117e-05,37.0,12.0
+cond-mat/0609039,New Trends in Density Matrix Renormalization,4.580818731066749e-05,0.0,38.0,0.0
+cond-mat/9912459,Fractons and high-$T_{c}$ superconductivity,4.301186862557745e-05,6.742505775842128e-05,45.0,4.0
+hep-lat/0511058,"The critical region of strong-coupling lattice QCD in different large-N
+  limits",4.143410007186365e-05,1.78658160848125e-05,22.0,5.0
+cond-mat/0203479,Optical Conductivity in a Two - Dimensional Model of the Pseudogap State,4.120481964125445e-05,0.0,11.0,0.0
+cond-mat/0209191,"Superconductivity of overdoped cuprates: the modern face of the
+  ancestral two-electron exchange",3.746777852733889e-05,7.912541431589646e-06,29.0,2.0
+cond-mat/0603341,"Functional Renormalization-Group Analysis of Luttinger Liquids with
+  Impurities",3.732525928998634e-05,0.0,47.0,0.0
+cond-mat/0408344,"A model of phase fluctuations in a lattice d-wave superconductor:
+  application to the Cooper pair charge-density-wave in underdoped cuprates",3.620744718631244e-05,0.0003243248716761,15.0,8.0
+cond-mat/0511334,"Pseudogap and high-temperature superconductivity from weak to strong
+  coupling. Towards quantitative theory",3.518648182073665e-05,3.279858849657205e-05,17.0,9.0
+hep-ph/0407265,Anomalous magnetic moment in parity-conserving QED3,3.424487258586923e-05,0.0002640936182603,21.0,1.0
+cond-mat/0311421,Novel Phases and Old Puzzles in QED3 and related models,3.318021676268552e-05,5.43591385150993e-05,27.0,7.0
+cond-mat/0601372,Quantum phase transitions from topology in momentum space,3.1877638424797416e-05,6.901020500629588e-05,21.0,13.0
+cond-mat/0506515,"Towards a global theory for the high T_c cuprates: Explanation of the
+  puzzling optical properties",3.113425857682297e-05,0.0,24.0,0.0
+cond-mat/0607078,"Strong electronic correlations in superconducting organic charge
+  transfer salts",3.1015909512139946e-05,5.070951431374272e-06,16.0,1.0
+hep-th/0701036,"Quantum critical transport, duality, and M-theory",3.0653785176243955e-05,6.142552790154227e-07,58.0,1.0
+hep-th/9810113,"Exclusion Statistics in Conformal Field Theory -- generalized fermions
+  and spinons for level-1 WZW theories",3.0415629253148143e-05,0.0001148701224694,56.0,16.0
+cond-mat/0012301,"Two-particle self-consistent approximation, pseudogap and
+  superconductivity in the attractive Hubbard model",2.989546653447552e-05,0.0,28.0,0.0
+cond-mat/0512494,Damping of zero sound in Luttinger liquids,2.959489536931507e-05,3.0505253961400863e-05,3.0,8.0
+cond-mat/0702027,High-energy magnetic excitations from dynamic stripes in LBCO (x=1/8),2.904184006269723e-05,1.7141482769955803e-06,8.0,1.0
+cond-mat/0703223,"""Waterfalls"" phenomenon in superconducting cuprates",2.855835148394668e-05,1.1896109704675662e-06,12.0,1.0
+cond-mat/0405038,SO(5) Theory of Antiferromagnetism and Superconductivity,2.8527664010137e-05,5.5723629324388095e-05,25.0,11.0
+cond-mat/0604057,"Antiferromagnetism and Superconductivity in layered organic conductors:
+  Variational cluster approach",2.771656009585507e-05,4.012508813342771e-06,3.0,2.0
+cond-mat/0507459,How optimal inhomogeneity produces high temperature superconductivity,2.7441161993066524e-05,3.399121650109727e-05,45.0,11.0
+cond-mat/0107271,"P-wave pairing and ferromagnetism in the metal-insulator transition in
+  two dimensions",2.7381671173662605e-05,0.0002945369728695,13.0,3.0
+cond-mat/0212140,"Energy spectra and eigenstates of quasiperiodic tight-binding
+  Hamiltonians",2.7352795048055272e-05,0.0,23.0,2.0
+cond-mat/0507527,"Full Counting Statistics in Strongly Interacting Systems: Non-Markovian
+  Effects",2.6823892520775128e-05,0.0,4.0,1.0
+cond-mat/0012082,Phase Fluctuations and Pseudogap Phenomena,2.6372113522376288e-05,6.081118987108704e-06,34.0,5.0
+cond-mat/0503393,Evolution of Entanglement Entropy in One-Dimensional Systems,2.636293790144465e-05,1.4702083283136426e-05,43.0,6.0
+nucl-th/0412112,"Density matrix renormalization group and wave function factorization for
+  nuclei",2.604364469989142e-05,0.0,15.0,0.0
+cond-mat/0702377,A symmetry principle for Topological Quantum Order,2.6012945790067054e-05,6.612540766820622e-06,12.0,2.0
+cond-mat/0502116,"Effective Interaction between the inter-penetrating Kagome lattices in
+  Na_xCoO_2",2.593923000479429e-05,9.23209327397052e-06,17.0,2.0
+cond-mat/0301303,Bond order from disorder in the planar pyrochlore magnet,2.5736047734442323e-05,9.86731613336402e-06,19.0,7.0
+cond-mat/0504703,"Renormalization, Conservation Laws and Transport in Correlated Electron
+  Systems",2.534449080046744e-05,1.4881517883813787e-05,44.0,4.0
+cond-mat/0510343,"A variational approach to the low energy properties of even-legged
+  d-dimensional quantum spin systems",2.506151028645697e-05,6.68555510636658e-06,9.0,3.0
+cond-mat/0602237,"Zero-temperature Kosterlitz-Thouless transition in a two-dimensional
+  quantum system",2.4838444271671828e-05,2.676801451451887e-06,8.0,2.0
+cond-mat/0602528,"High-dimensional fractionalization and spinon deconfinement in
+  pyrochlore antiferromagnets",2.4596927971648454e-05,1.3429792690831714e-05,5.0,6.0
+cond-mat/0702129,Exactly solvable models in atomic and molecular physics,2.4511748550023625e-05,0.0,17.0,0.0
+cond-mat/9712219,"From Nagaoka's ferromagnetism to flat-band ferromagnetism and beyond: An
+  introduction to ferromagnetism in the Hubbard model",2.442557483234066e-05,0.0,16.0,8.0
+cond-mat/0110013,"Superconductivity in an Exactly Solvable Model of the Pseudogap State:
+  Absence of Self Averaging",2.441388687247509e-05,1.7657697122109094e-06,14.0,1.0
+cond-mat/9910158,Shot Noise in Mesoscopic Conductors,2.428665687423317e-05,0.00024305606677,25.0,23.0
+cond-mat/0103330,"Transport Properties Calculation in the Superconducting State for a
+  Quasi-Twodimensional System",2.425601442716937e-05,0.0,11.0,0.0
+cond-mat/0107421,"Quantum-critical theory of the spin-fermion model and its application to
+  cuprates. Normal state analysis",2.3573621376203644e-05,0.0001254121125909,23.0,16.0
+cond-mat/0311378,"Exact multi-electronic electron-concentration dependent ground-states
+  for disordered two-dimensional two-band systems in presence of disordered
+  hoppings and finite on-site random interactions",2.2756710727846923e-05,0.0,9.0,0.0
+cond-mat/0601507,"Evidence for strong electronic correlations in the spectra of
+  Sr$_2$RuO$_4$",2.272577375124423e-05,5.259549098472874e-06,4.0,3.0
+hep-lat/0609062,Chiral Symmetry Restoration in Anisotropic QED(3),2.270435332621645e-05,0.0,24.0,0.0
+cond-mat/0702187,Universality of the single-particle spectra of cuprate superconductors,2.253752665970837e-05,0.0,3.0,1.0
+cond-mat/0208307,Low temperature electronic properties of Sr_2RuO_4 II: Superconductivity,2.2506672750075823e-05,9.936061665687225e-06,17.0,3.0
+cond-mat/0410599,Generalized Elitzur's Theorem and Dimensional Reduction,2.2454185778480692e-05,1.9472200715778067e-06,10.0,3.0
+cond-mat/0208383,"Kinetic energy driven stripe formation and pairing in repulsive
+  electronic systems",2.222651318313131e-05,2.052243358132814e-06,22.0,2.0
+cond-mat/0504541,"Deconfined Quantum Criticality at the Quantum Phase Transition from
+  Antiferromagnetism to Algebraic Spin Liquid",2.212205487702819e-05,9.735821328342015e-06,17.0,1.0
+cond-mat/0508500,"Full Counting Statistics for a Single-Electron Transistor,
+  Non-equilibrium Effects at Intermediate Conductance",2.199619329928281e-05,0.0,3.0,0.0
+cond-mat/0305281,"Analytic theory of ground-state properties of a three-dimensional
+  electron gas at varying spin polarization",2.180468852308672e-05,0.0,3.0,0.0
+cond-mat/0108238,Spin and charge order in Mott insulators and d-wave superconductors,2.180107743131471e-05,8.643822064441409e-05,15.0,8.0
+nucl-th/0509038,"Unusual photon isospin mixing and instantaneous Coulomb effects on the
+  thermodynamics of compact matter",2.1773411044473262e-05,1.3739411425512132e-05,9.0,4.0
+hep-th/0605073,Aspects of Holographic Entanglement Entropy,2.1539730622958735e-05,0.0001775911696064,79.0,14.0
+cond-mat/0605539,"Dynamical mean-field theory using Wannier functions: a flexible route to
+  electronic structure calculations of strongly correlated materials",2.1505887147904087e-05,1.990182755160072e-06,11.0,1.0
+cond-mat/0408703,"Single particle spectral weight and ARPES spectra in the bond-ordered
+  stripe phase of doped antiferromagnets",2.1414220081413416e-05,1.990182755160072e-06,3.0,1.0
+hep-th/0608213,AdS/CFT and Strong Subadditivity of Entanglement Entropy,2.1128781892760686e-05,2.913840794070237e-06,39.0,6.0
+cond-mat/0701105,The numerical renormalization group method for quantum impurity systems,2.1027367902427097e-05,5.244686001275925e-05,17.0,9.0
+cond-mat/0409363,Superconductivity in heavy fermion compounds,2.0963177629685956e-05,2.700377620714629e-05,12.0,3.0
+quant-ph/0610262,"An application of renormalization in Hilbert space at phase transition
+  points in strongly interacting systems",2.089643844347483e-05,0.0,7.0,0.0
+cond-mat/0403417,Critical properties of the N-color London model,2.080334472708377e-05,0.0,4.0,0.0
+hep-th/0607013,"Integrable Models and Confinement in (2+1)-Dimensional Weakly-Coupled
+  Yang-Mills Theory",2.0693292041291632e-05,1.5538279779537468e-06,7.0,4.0
+cond-mat/0607202,Correlated Fermions on a Checkerboard Lattice,2.0587434731641546e-05,1.4629881277309046e-05,20.0,1.0
+cond-mat/0605402,Bosonization of Interacting Fermions in Arbitrary Dimensions,2.0339613739028176e-05,0.0,10.0,1.0
+cond-mat/0409292,The density-matrix renormalization group,2.033219976922725e-05,0.0011789998568441,15.0,25.0
+cond-mat/9805386,"Soliton Approach to Spin-Peierls Antiferromagnets: Large-Scale Numerical
+  Results",2.004486451025428e-05,0.0,12.0,9.0
+cond-mat/0510688,"Extended Bose-Hubbard model with incompressible states at fractional
+  numbers",1.989916815198792e-05,3.7130275282837164e-09,6.0,1.0
+cond-mat/0702191,"Phase Transitions and Pairing Signature in Strongly Attractive Fermi
+  Atomic Gases",1.964711148085756e-05,0.0,5.0,0.0
+cond-mat/9807366,Fermi liquids and Luttinger liquids,1.9565507595971863e-05,0.0,38.0,47.0
+math-ph/0505071,Solutions of the Gaudin Equation and Gaudin Algebras,1.954182934995689e-05,0.0,5.0,0.0
+cond-mat/0701020,"Algebraic vortex liquid theory of a quantum antiferromagnet on the
+  kagome lattice",1.9521792478221905e-05,9.946558258147384e-06,8.0,1.0
+math-ph/0411021,"Analytical Bethe Ansatz for closed and open gl(n)-spin chains in any
+  representation",1.9455608551493268e-05,1.614211370188881e-05,42.0,10.0
+cond-mat/0306520,One-Dimensional Quantum Spin Liquids,1.943145764756811e-05,2.410651763065151e-06,6.0,3.0
+cond-mat/0408578,"Bond-centered, bond-ordered stripes in doped antiferromagnets",1.9416330422991213e-05,3.920652411198616e-06,15.0,1.0
+cond-mat/0501093,"Quasiparticles and order parameter near quantum phase transition in
+  heavy fermion metals",1.940317600898673e-05,1.990182755160072e-06,7.0,1.0
+cond-mat/0011268,"A Mechanism for Ferrimagnetism and Incommensurability in One-Dimensional
+  Systems",1.935950339717975e-05,7.4260550565674335e-09,2.0,1.0
+cond-mat/0510218,ARPES on HTSC: simplicity vs. complexity,1.924558181349876e-05,9.62298064998095e-06,21.0,1.0
+cond-mat/0703633,"Exact results on the Kitaev model on a hexagonal lattice: spin states,
+  string and brane correlators, and anyonic excitations",1.920795374030035e-05,1.040458467748201e-06,6.0,2.0
+cond-mat/0010376,"Magnetization Plateaux in Quasi-One-Dimensional Strongly Correlated
+  Electron Systems: A Brief Review",1.90613821061702e-05,2.3795660126620503e-05,6.0,8.0
+cond-mat/0610611,Magnetic properties and the electronic structure of LiCoO_2,1.901176349549097e-05,0.0,6.0,0.0
+cond-mat/0011511,Phase Diagram of Bilayer Composite Fermion States,1.893828516419521e-05,1.990182755160072e-06,5.0,1.0
+cond-mat/0403406,"SO(4) Theory of Competition between Triplet Superconductivity and
+  Antiferromagnetism in Bechgaard Salts",1.8914350121275524e-05,4.846806102849845e-07,6.0,2.0
+cond-mat/0309572,"Mechanism of High Temperature Superconductivity in a striped Hubbard
+  Model",1.8847654934654484e-05,0.0009663489326191,27.0,6.0
+cond-mat/9704103,"Exotic Kondo Effects in Metals: Magnetic Ions in a Crystalline Electric
+  Field and Tunneling Centers",1.8771764784605837e-05,0.0,16.0,24.0
+cond-mat/0510286,"The effect of collective spin-1 excitations on electronic spectra in
+  high-Tc superconductors",1.8711725400871377e-05,2.5156998019672853e-05,28.0,2.0
+cond-mat/9904437,Consilience of High-Tc Theories,1.866423011094683e-05,2.2972452861416992e-06,28.0,3.0
+cond-mat/0311466,Topological Order and Conformal Quantum Critical Points,1.8646333162003757e-05,0.0011150351702353,44.0,8.0
+cond-mat/0208600,Planar and Stripe Orders of Doped Mott Insulators In Dual Spin Models,1.8638612695290214e-05,0.0,11.0,0.0
+cond-mat/0505230,"Deconfined quantum criticality in the two dimensional Kondo lattice
+  model",1.8617637442612903e-05,8.226211383690663e-06,6.0,2.0
+cond-mat/0003271,"Thermodynamics of Spin S = 1/2 Antiferromagnetic Uniform and
+  Alternating-Exchange Heisenberg Chains",1.853783668520809e-05,1.0282115831323268e-06,19.0,3.0
+cond-mat/0610539,"Spin Dynamics of the Spin-1/2 Kagome Lattice Antiferromagnet
+  ZnCu_3(OH)_6Cl_2",1.827462805954861e-05,6.815754440855316e-06,5.0,3.0
+cond-mat/0701087,Magnetic Susceptibility of the Kagome Antiferromagnet ZnCu3(OH)6Cl2,1.818262982395351e-05,7.960088530515597e-06,4.0,2.0
+cond-mat/0410720,"Discrete Sliding Symmetries, Dualities, and Self-dualities of Quantum
+  Orbital Compass Models and (p+ip) Superconducting Arrays",1.8092054313304317e-05,6.249274172556297e-06,6.0,3.0
+cond-mat/0208306,"Low temperature electronic properties of Sr_2RuO_4 I: Microscopic model
+  and normal state properties",1.7984977901584148e-05,1.9827567001035044e-06,13.0,4.0
+cond-mat/0310405,Two-dimensional quantum antiferromagnets,1.791870803665232e-05,0.0001947788541492,18.0,53.0
+cond-mat/0304350,"On the (anisotropic) uniform metallic ground states of fermions
+  interacting through arbitrary two-body potentials in d dimensions",1.7819755034452854e-05,2.925584883307001e-06,12.0,3.0
+cond-mat/0003163,Competing orders and quantum criticality in doped antiferromagnets,1.776453535907447e-05,0.0010662689150461,15.0,7.0
+cond-mat/0108384,"Theory of High \tc Ferromagnetism in $SrB_6$ family: A case of Doped
+  Spin-1 Mott insulator in a Valence Bond Solid Phase",1.7679277463674545e-05,0.0,8.0,0.0
+cond-mat/0311056,Universality of Entropy Scaling in 1D Gap-less Models,1.7640984169884596e-05,0.0007499957845154,20.0,12.0
+cond-mat/0107283,Pairing symmetry transitions in the even-denominator FQHE system,1.7640271159824043e-05,0.0,1.0,0.0
+hep-th/0703078,Super-Hubbard models and applications,1.7629345300010204e-05,0.0,24.0,0.0
+cond-mat/0610621,"Theory of quasiparticle spectra for Fe, Co, and Ni: bulk and surface",1.755646968679901e-05,0.0,1.0,1.0
+cond-mat/0409469,"Competition between Triplet Superconductivity and Antiferromagnetism in
+  Quasi One-Dimensional Electron Systems",1.752728741779106e-05,0.0,8.0,1.0
+cond-mat/0101390,"Monte Carlo determination of the phase diagram of the double-exchange
+  model",1.7496479361715327e-05,0.0,3.0,0.0
+cond-mat/0105200,"Thermodynamics of the interplay between magnetism and high-temperature
+  superconductivity",1.7467209185053726e-05,0.0017546043072442,6.0,5.0
+cond-mat/0410407,The ALPS project: open source software for strongly correlated systems,1.745437138369964e-05,9.801736975653856e-05,10.0,11.0
+cond-mat/0609250,"Tl2Ba2CuO6+d Brings Spectroscopic Probes Deep Into the Overdoped Regime
+  of the High-Tc Cuprates",1.725721698087123e-05,7.960731020640288e-06,8.0,2.0
+cond-mat/0103044,Transport in Quantum Dots from the Integrability of the Anderson Model,1.7123962671808546e-05,1.0903924174726513e-06,11.0,3.0
+cond-mat/0508508,Lieb-Schultz-Mattis theorem for quasi-topological systems,1.7099097068373437e-05,0.0,20.0,0.0
+cond-mat/0210683,How to detect fluctuating order in the high-temperature superconductors,1.6938435428776822e-05,0.0006163541263497,20.0,33.0
+quant-ph/0703227,Regional versus Global Entanglement in Resonating-Valence-Bond states,1.6766802359107193e-05,0.0,3.0,0.0
+hep-th/0508024,Noncritical M-Theory in 2+1 Dimensions as a Nonrelativistic Fermi Liquid,1.6691863469313906e-05,1.1113284667788574e-05,62.0,14.0
+cond-mat/0301210,"The fermionic limit of the delta-function Bose gas: a pseudopotential
+  approach",1.6670406304861485e-05,0.0,4.0,1.0
+cond-mat/0410453,"Comment on ``Quasiparticle Anisotropy and Pseudogap Formation from the
+  Weak-Coupling Renormalization Group Point of View''",1.6656830321162166e-05,0.0,3.0,0.0
+cond-mat/0101235,Competition of Zener and polaron phases in doped CMR manganites,1.6582196432901498e-05,1.990182755160072e-06,3.0,1.0
+cond-mat/0104519,"Bond operator theory of doped antiferromagnets: from Mott insulators
+  with bond-centered charge order, to superconductors with nodal fermions",1.6574194740166183e-05,7.85596712320523e-05,17.0,8.0
+cond-mat/0403123,"Strongly Correlated Electron Materials: Dynamical Mean-Field Theory and
+  Electronic Structure",1.6518569218831463e-05,0.0001044147711928,29.0,16.0
+cond-mat/0612011,"Mapping of Coulomb gases and sine-Gordon models to statistics of random
+  surfaces",1.646812431256405e-05,0.0,1.0,1.0
+cond-mat/0302622,Ferromagnetic Polarons in La0.5Ca0.5MnO3 and La0.33Ca0.67MnO3,1.6443819488277447e-05,1.4177824313998545e-05,5.0,3.0
+cond-mat/9904063,"A link between the spin fluctuation and Fermi surface in high T_C
+  cuprates --- A consistent description within the single-band Hubbard model",1.6377775289866065e-05,0.0,3.0,0.0
+cond-mat/0111263,Extrinsic Magnetotransport Phenomena in Ferromagnetic Oxides,1.6299421364298668e-05,0.0,9.0,0.0
+cond-mat/0610816,Quantum critical spin liquids and superconductivity in the cuprates,1.6285683907626194e-05,2.2785492601987655e-07,9.0,2.0
+cond-mat/0208334,"Spin collective mode and quasiparticle contributions to STM spectra of
+  d-wave superconductors with pinning",1.6215984158200264e-05,0.000140847814048,12.0,8.0
+cond-mat/0509480,Kondo Effect in Artificial and Real Molecules,1.621064550296137e-05,0.0,12.0,0.0
+cond-mat/0202531,"On the heavy-fermion behavior of the pyrochlore transition-metal oxide
+  $LiV_{2}O_{4}$",1.6050232293063173e-05,7.975583130753422e-06,4.0,3.0
+cond-mat/0608078,Non-associative slave-boson decomposition,1.6043655878642215e-05,0.0,3.0,0.0
+cond-mat/0604139,Bose-Fermi Mixtures in a Three-dimensional Optical Lattice,1.6002933019706095e-05,9.269200017379392e-07,5.0,1.0
+cond-mat/0703152,"$t-J$ model one-electron renormalizations: high energy features in
+  photoemission experiments of high-$T_c$ cuprates",1.598871880006573e-05,0.0,9.0,0.0
+cond-mat/0612270,Cooper pairs and exclusion statistics from coupled free-fermion chains,1.597987427623143e-05,0.0,14.0,0.0
+cond-mat/0312212,Charge accumulation on a Luttinger liquid,1.593269914966493e-05,0.0,15.0,0.0
+cond-mat/0409112,"Stochastic series expansion algorithm for the S=1/2 XY model with
+  four-site ring exchange",1.591362652215855e-05,0.0,8.0,0.0
+cond-mat/0609239,"Effects of a strict site-occupation constraint in the description of
+  quantum spin systems at finite temperature",1.5908435174525725e-05,0.0,9.0,0.0
+cond-mat/9908250,"Experiments on Ladders Reveal a Complex Interplay between a Spin-Gapped
+  Normal State and Superconductivity",1.5889309439222374e-05,8.875334899138665e-05,18.0,15.0
+cond-mat/0701501,"Quantum critical point in graphene approached in the limit of infinitely
+  strong Coulomb interaction",1.578664178101351e-05,0.0,9.0,0.0
+cond-mat/0505089,Momentum space topology and quantum phase transitions,1.577190538186155e-05,0.0006898400068545,17.0,3.0
+cond-mat/0201001,"Memory Effects in Electron Transport in Si Inversion Layers in the
+  Dilute Regime: Individuality versus Universality",1.5702807131059135e-05,4.240436567051215e-06,12.0,7.0
+cond-mat/0610402,"Entanglement properties and moment distributions of a system of
+  hard-core anyons on a ring",1.561073074647889e-05,5.353056884397549e-06,4.0,3.0
+cond-mat/0412654,"Effect of Dynamical Coulomb Correlations on the Fermi Surface of
+  Na_0.3CoO_2",1.5574578087327167e-05,1.0057964699343084e-06,9.0,2.0
+cond-mat/0602527,"Increasing of entanglement entropy from pure to random quantum critical
+  chains",1.553992563042473e-05,5.153122105928187e-06,4.0,2.0
+cond-mat/0304641,Thermal Conductivity of Spin-1/2 Chains,1.552415743313172e-05,1.1941096530960432e-05,4.0,1.0
+cond-mat/0204500,"Phenomenological description of competing antiferromagnetism and d-wave
+  superconductivity in high $T_{c}$ cuprates",1.550838502014341e-05,3.699612534375402e-06,15.0,3.0
+cond-mat/0702479,"Superconducting Fluctuation and Pseudogap in Disordered Short Coherence
+  Length Superconductor",1.5402667875700768e-05,0.0,4.0,0.0
+cond-mat/0502464,Frustrated Quantum Magnets,1.536735591709574e-05,9.036584545335087e-06,16.0,10.0
+cond-mat/0308504,From nodal liquid to nodal Mottness in a frustrated Hubbard model,1.5277351272876895e-05,1.990182755160072e-06,7.0,1.0
+cond-mat/0612539,Subband filling and Mott transition in Ca_{2-x}Sr_xRuO_4,1.526504718441255e-05,0.0,3.0,0.0
+cond-mat/0606300,"Interpretation of low-temperature nuclear quadrupole resonance spectra
+  in La(1.875)Ba(0.125)CuO(4) in terms of two-dimensional spin superstructure",1.5256412911234854e-05,1.990182755160072e-06,6.0,1.0
+cond-mat/0701052,"Dispersion of the odd magnetic resonant mode in near-optimally doped
+  Bi2Sr2CaCu2O8+d",1.522431166823253e-05,2.0068913790373486e-06,8.0,2.0
+cond-mat/0406511,"Deconfined quantum criticality of the O(3) nonlinear $\sigma$ model in
+  two spacial dimensions: A renormalization group study",1.521549292530138e-05,6.56041350991035e-06,8.0,4.0
+cond-mat/0208301,Orbital-singlet pairing and order parameter symmetry in Sr_2RuO_4,1.520385695112923e-05,1.990182755160072e-06,5.0,3.0
+cond-mat/0502528,"Temperature dependence of the optical spectral weight in the cuprates:
+  Role of electron correlations",1.5162179110292183e-05,5.033345813017071e-06,2.0,2.0
+cond-mat/0501436,"Charge-Transfer Excitations in the Model Superconductor
+  HgBa$_2$CuO$_{\bf 4+\delta}$",1.510794945375712e-05,0.0,3.0,0.0
+cond-mat/0509041,Complexity in Strongly Correlated Electronic Systems,1.508923944024746e-05,3.345400682120161e-07,4.0,1.0
+cond-mat/0510351,Electrodynamics of correlated electron matter,1.5029632905356944e-05,0.0,8.0,0.0
+quant-ph/0309188,Correlation Functions in Spin Chains and Information Theory,1.5024430929532528e-05,0.0012747563419089,27.0,3.0
+cond-mat/0105284,"Haldane Gapped Spin Chains: Exact Low Temperature Expansions of
+  Correlation Functions",1.494731694439779e-05,0.0009787249811817,19.0,6.0
+cond-mat/0404527,Quantum phase transitions in $d-wave$ superconductors,1.487752417110304e-05,3.3184410628432414e-07,7.0,5.0
+hep-th/0506070,"Determinant Representation of Correlation Functions for the
+  $U_q(gl(1|1))$ Free Fermion Model",1.485344145460819e-05,0.0,7.0,0.0
+cond-mat/0401474,"Superconducting Puddles and ""Colossal'' Effects in Underdoped Cuprates",1.47889360101278e-05,3.907101963484151e-05,6.0,3.0
+cond-mat/0201140,A Spin Fluctuation Model for D-wave Superconductivity,1.4775458439902568e-05,9.65960565012958e-05,11.0,28.0
+cond-mat/0312540,"Unconventional Superconductivity and Magnetism in Lanthanide and
+  Actinide Intermetallic Compounds",1.4714387605204977e-05,2.934839995593255e-06,16.0,4.0
+cond-mat/0306025,Exactly soluble isotropic spin-1/2 ladder models,1.4653493467120466e-05,2.0880137973598384e-06,5.0,2.0
+cond-mat/0208308,Low temperature electronic properties of Sr_2RuO_4 III: Magnetic fields,1.459975676044555e-05,0.0,4.0,3.0
+cond-mat/0501712,Dissymmetrical tunnelling in heavy fermion metals,1.4565002461788728e-05,0.0,1.0,0.0
+cond-mat/0610710,Numerical Studies of the 2D Hubbard Model,1.4545480218285078e-05,1.990182755160072e-06,12.0,1.0
+cond-mat/0610639,"Quantum critical spin liquids and conformal field theory in 2+1
+  dimensions",1.4541925164453107e-05,2.966168923860256e-07,9.0,2.0
+cond-mat/0103617,Counting statistics of charge pumping in an open system,1.449512557991791e-05,0.0001422112198662,20.0,26.0
+cond-mat/0605526,"Quantum Monte Carlo study for multiorbital systems with preserved spin
+  and orbital rotational symmetries",1.449054492191856e-05,1.6217474993170875e-05,3.0,2.0
+cond-mat/0102111,Pseudogap in High - Temperature Superconductors,1.445889243414536e-05,6.832644860051377e-06,27.0,5.0
+hep-th/0512261,Aspects of the Functional Renormalisation Group,1.4401953425197765e-05,0.0008532132161411,19.0,24.0
+cond-mat/0608303,Understanding spin Hall effects from the motion in SU(2)XU(1) fields,1.4383817435011687e-05,0.0,7.0,0.0
+cond-mat/0505214,"Spin and orbital degrees of freedom in transition metal oxides and oxide
+  thin films studied by soft x-ray absorption spectroscopy",1.4369610241925676e-05,0.0,12.0,0.0
+hep-th/0512219,Critical Boundary Sine-Gordon Revisited,1.4344705660926904e-05,5.265675824047233e-08,30.0,1.0
+cond-mat/0203245,"Magnetoresistances observed by decomposition of the magnetic moment in
+  La1-xCaxMnO3 films",1.4335376214690854e-05,0.0,2.0,0.0
+cond-mat/0307578,"Low Temperature Transport Properties of Strongly Interacting Systems-
+  Thermal Conductivity of Spin-1/2 Chains",1.43167306107861e-05,9.95091377580036e-06,1.0,1.0
+cond-mat/0703506,"Mott phases and quantum phase transitions of extended Bose-Hubbard
+  models in 2+1 dimensions",1.4288808891294843e-05,0.0,5.0,0.0
+cond-mat/0407216,"Exact ground states of a frustrated 2D magnet: deconfined fractional
+  excitations at a first order quantum phase transition",1.4134375409783787e-05,8.530455724758142e-06,2.0,2.0
+cond-mat/0211027,"Understanding correlated electron systems by a classification of Mott
+  insulators",1.4114728502070569e-05,0.0001846445492227,14.0,3.0
+quant-ph/0510016,Understanding entangled spins in QED,1.4064453796900484e-05,7.163430735527069e-06,3.0,4.0
+cond-mat/0410596,The Fermi surface of Na$_{x}$CoO$_2$,1.400182696292043e-05,1.901070094481263e-07,7.0,2.0
+cond-mat/0212134,Holes as Dipoles in a Doped Antiferromagnet and Stripe Instabilities,1.3993605247189e-05,0.0,8.0,0.0
+cond-mat/0404426,Interference Effects in the Conductance of Multi-Level Quantum Dots,1.3962500442521076e-05,2.114871136073768e-05,5.0,2.0
+cond-mat/0303611,Towards Exact Results in Nodal Antiferromagnetic Planar Liquids,1.3939841157771396e-05,1.40392811353416e-06,15.0,2.0
+cond-mat/0405271,Dimensional reduction in superconducting arrays and frustrated magnets,1.3913820061930187e-05,6.690729997044578e-08,3.0,4.0
+cond-mat/0508313,Momentum-resolved spectral functions of SrVO$_3$ calculated by LDA+DMFT,1.3868472561852244e-05,1.6903115795424917e-08,13.0,1.0
+cond-mat/0604238,Microscopic origin of diagonal stripe phases in doped nickelates,1.3804100185511829e-05,0.0,2.0,0.0
+cond-mat/0203209,"Mixed valence on a pyrochlore lattice - LiV2O4 as a geometrically
+  frustrated magnet",1.3801827546794836e-05,0.0,3.0,0.0
+cond-mat/0508747,"Non-perturbative behavior of the quantum phase transition to a nematic
+  Fermi fluid",1.3747639986291015e-05,3.995217620433279e-06,12.0,3.0
+cond-mat/0306457,"The Dependence of the Superconducting Transition Temperature of Organic
+  Molecular Crystals on Intrinsically Non-Magnetic Disorder: a Signature of
+  either Unconventional Superconductivity or Novel Local Magnetic Moment
+  Formation",1.373190803543746e-05,4.052547497415682e-06,6.0,3.0
+cond-mat/0701524,Paramagnon-induced dispersion anomalies in the cuprates,1.3702649466966408e-05,7.4260550565674335e-09,7.0,2.0
+cond-mat/9911418,"Interpretation of Inelastic Neutron Scattering Data Using the Phase
+  Diagram of Hole-Doped Cuprates",1.366406873808541e-05,0.0,12.0,0.0
+cond-mat/0510801,"Applications of exact solution for strongly interacting one dimensional
+  bose-fermi mixture: low-temperature correlation functions, density profiles
+  and collective modes",1.360198299664967e-05,5.158595383749808e-05,12.0,7.0
+cond-mat/0401526,"Magnetization plateaus for spin-one bosons in optical lattices:
+  Stern-Gerlach experiments with strongly correlated atoms",1.358055542680282e-05,6.82814258105722e-06,7.0,3.0
+hep-ph/0111310,"Radiatively-induced Magnetic moment in four-dimensional anisotropic QED
+  in an external magnetic field",1.3540185039467282e-05,1.333169541980088e-07,11.0,1.0
+cond-mat/0410445,Doping a Mott Insulator: Physics of High Temperature Superconductivity,1.3442655134872348e-05,0.0002985756182084,17.0,50.0
+cond-mat/0703790,"Impurity spin textures across conventional and deconfined quantum
+  critical points of two-dimensional antiferromagnets",1.3414386924746545e-05,0.0,3.0,0.0
+cond-mat/0703037,Quantum Impurity Entanglement,1.3403714256732215e-05,0.0,10.0,0.0
+cond-mat/0008406,"Conjectures for the microscopic theory of high temperature
+  superconductivity",1.339682451386904e-05,0.0,5.0,0.0
+cond-mat/0512111,"Phase structure of an Abelian two-Higgs model and high temperature
+  superconductors",1.3304892473593997e-05,0.0,4.0,0.0
+cond-mat/9708185,"Revisiting two holes in a locally antiferromagnetic background: the role
+  of retardation and Coulomb repulsion effects",1.3261882328083863e-05,0.0,8.0,4.0
+cond-mat/0312594,"Mode-Coupling Model of Mott Gap Collapse in the Cuprates: Natural Phase
+  Boundary for Quantum Critical Points",1.3248060259920942e-05,7.720380332333231e-06,12.0,3.0
+cond-mat/9711229,Effect of Spin-1 Impurities in Dimerized Heisenberg Chains,1.3219525820192634e-05,0.0,13.0,1.0
+cond-mat/0608624,"Fermionization and fractional statistics in the strongly interacting
+  one-dimensional Bose gas",1.3142964367809811e-05,4.045642394392253e-07,11.0,1.0
+cond-mat/0404005,"Homogenous nodal superconductivity coexisting with inhomogeneous charge
+  order in strongly underdoped Bi-2212",1.3139482642274736e-05,0.0005575299243421,11.0,47.0
+cond-mat/0703809,Enhanced triplet superconductivity in noncentrosymmetric systems,1.3116107536575044e-05,0.0,4.0,0.0
+cond-mat/0501656,"Effect of nonmagnetic disorder on criticality in the ""dirty"" U(1) spin
+  liquid",1.3070200289907805e-05,4.082827031100637e-08,5.0,1.0
+cond-mat/0603510,A novel approach to transport through correlated quantum dots,1.306278504076591e-05,0.0,3.0,0.0
+cond-mat/0401041,Quantum phases and phase transitions of Mott insulators,1.3019728361421916e-05,0.0001169652902285,13.0,15.0
+cond-mat/0406750,Unusual localisation effects in quantum percolation,1.3018323913790416e-05,0.0,9.0,0.0
+cond-mat/0702119,"Hole dynamics in an antiferromagnet across a deconfined quantum critical
+  point",1.3009012365697247e-05,1.7015130481339433e-06,6.0,1.0
+cond-mat/0111478,"Sharp increase of the effective mass near the critical density in a
+  metallic 2D electron system",1.298586216743348e-05,0.0002730232758236,8.0,7.0
+cond-mat/0409412,Role of non-magnetic disorder in a doped U(1) spin liquid,1.2965572704223143e-05,1.4852110113134864e-08,7.0,1.0
+cond-mat/0108088,SET based experiments for HTSC materials: II,1.2960540277154078e-05,0.0,16.0,0.0
+cond-mat/0512115,Neutron Scattering Studies of Antiferromagnetic Correlations in Cuprates,1.295134705924268e-05,3.927293549246327e-05,7.0,15.0
+cond-mat/0701418,Doped Spin Ladder: Zhang-Rice Singlets or Rung-centred Holes?,1.2911744406149428e-05,0.0,2.0,0.0
+cond-mat/0305394,"Two nonmagnetic impurities in the DSC and DDW state of the cuprate
+  superconductors as a probe for the pseudogap",1.2875664227321211e-05,0.0,5.0,0.0
+cond-mat/0503233,"Ferromagnetic and triplet-pairing instabilities controlled by the
+  trigonal distortion of the CoO_6 octahedra in Na_xCoO_2*yH_2O",1.2867043574063534e-05,5.970548265480216e-06,5.0,2.0
+quant-ph/0703272,Optimal Resources for Topological 2D Stabilizer Codes: Comparative Study,1.2817455948133112e-05,0.0,10.0,0.0
+cond-mat/0412285,"Anisotropic spin and charge excitations in superconductors: signature of
+  electronic nematic order",1.2808107858132356e-05,1.990182755160072e-06,2.0,1.0
+cond-mat/0303513,"Theoretical Study of Half-Doped Models for Manganites: Fragility of the
+  CE Phase with Disorder, Two Types of Colossal Magnetoresistances, and
+  Charge-Ordered States for Electron-Doped Materials",1.2782088229570308e-05,5.380460428767083e-05,5.0,6.0
+cond-mat/0103393,Singular Fermi Liquids,1.2726619636650874e-05,0.0006815005067211,22.0,16.0
+cond-mat/9702034,"Slave-Boson Mean-Field Theory of the Antiferromagnetic State in the
+  Doubly Degenerate Hubbard Model - the Half-Filled Case -",1.2718885577034426e-05,0.0,2.0,3.0
+cond-mat/0312691,"A universal Hamiltonian for a quantum dot in the presence of spin-orbit
+  interaction",1.2655448858990212e-05,5.970548265480216e-06,3.0,3.0
+cond-mat/0009378,Disorder and Two-Particle Interaction in Low-Dimensional Quantum Systems,1.2650082626560288e-05,0.0,13.0,0.0
+cond-mat/0106037,"Haldane-Gapped Spin Chains as Luttinger Liquids: Correlation Functions
+  at Finite Field",1.263544786038167e-05,1.482569545258908e-05,18.0,4.0
+cond-mat/0605161,Phonons and d-wave pairing in the two-dimensional Hubbard model,1.261943529264415e-05,3.6891158759198033e-06,5.0,2.0
+cond-mat/9806169,Electronic properties of the pseudogap system (TaSe4)2I,1.2612224639125309e-05,0.0,6.0,1.0
+cond-mat/0402565,Formation of Electronic Nematic Phase in Interacting Systems,1.2610539716933327e-05,4.045714794817937e-06,19.0,2.0
+cond-mat/0601580,"NaxCoO2: Enhanced low-energy excitations of electrons on a 2D triangular
+  lattice",1.2577601784331978e-05,0.0,2.0,0.0
+cond-mat/0504650,Exact ground states of extended t-J_{z} models on a square lattice,1.2573747819163556e-05,4.484632047054391e-06,4.0,3.0
+cond-mat/0411290,"Anisotropic Diamagnetic Response in Type-II Superconductors with Gap and
+  Fermi-Surface Anisotropies",1.2549646129942962e-05,0.0,3.0,0.0
+cond-mat/0504411,Disorder-Driven Non-Fermi Liquid Behavior of Correlated Electrons,1.2546101215251791e-05,2.271502762133356e-06,8.0,1.0
+cond-mat/0602304,"Breakup of the Fermi surface near the Mott transition in low-dimensional
+  systems",1.2541747979395183e-05,1.3049152655811362e-05,7.0,7.0
+cond-mat/9911471,Spin Waves in Canted Phases: An Application to Doped Manganites,1.2513352097535817e-05,0.0,12.0,0.0
+hep-th/0411067,Loop Operators and the Kondo Problem,1.2460594974445926e-05,1.856363903806436e-06,53.0,6.0
+cond-mat/9910449,Phenomenological model of high-Tc superconductivity: a MCS model,1.245410996322817e-05,0.0,16.0,2.0
+cond-mat/0011335,"Delocalization effects and charge reorganizations induced by repulsive
+  interactions in strongly disordered chains",1.24453228181355e-05,3.980365510320144e-06,7.0,2.0
+cond-mat/0001439,Metal-Kondo insulating transitions and transport in one dimension,1.2436689855197183e-05,2.9704220226269734e-08,4.0,2.0
+cond-mat/0105249,Non-linear excitations in 1D correlated insulators,1.243200708687121e-05,0.0,4.0,0.0
+cond-mat/0603522,Granular Electronic Systems,1.2425981333148874e-05,1.1208880059801538e-05,4.0,7.0
+cond-mat/0201026,"Single and vertically coupled type II quantum dots in a perpendicular
+  magnetic field: exciton groundstate properties",1.235037833761828e-05,0.0,2.0,0.0
+cond-mat/0610530,Matrix Product States Algorithms and Continuous Systems,1.2349161685252707e-05,3.2179571911792213e-09,12.0,1.0
+hep-lat/0509045,Gauge invariance in a Z_2 hamiltonian lattice gauge theory,1.234302631198437e-05,0.0,5.0,0.0
+cond-mat/0010001,Pairing fluctuations and pseudogaps in the attractive Hubbard model,1.233720567310314e-05,3.738863248636304e-05,11.0,8.0
+quant-ph/0606056,"Application of a renormalization algorithm in Hilbert space to the study
+  of many-body quantum systems",1.2311944589787346e-05,0.0,4.0,1.0
+cond-mat/0508134,"Superfluidity of p-wave and s-wave atomic Fermi gases in optical
+  lattices",1.2295851261114772e-05,7.826458674092517e-08,5.0,1.0
+cond-mat/0612091,Evolution of the Electronic Structure of 1T-CuxTiSe2,1.2275466840972616e-05,0.0,3.0,2.0
+cond-mat/0608707,Electromagnons in multiferroic YMn2O5 and TbMn2O5,1.2258757998619255e-05,0.0,4.0,0.0
+cond-mat/0107429,Bulk Band Gaps in Divalent Hexaborides,1.2232540009275844e-05,0.0,5.0,7.0
+cond-mat/9806116,"Solution of quantum double exchange on the complete graph from spl(2,1)
+  dynamical supersymmetry",1.2217777669828068e-05,0.0,6.0,1.0
+cond-mat/0502067,"Benchmarking a semiclassical impurity solver for dynamical-mean-field
+  theory: self-energies and magnetic transitions of the single-orbital Hubbard
+  model",1.2217076921445266e-05,0.0,6.0,0.0
+quant-ph/0608013,"Entanglement, quantum phase transitions and quantum algorithms",1.2211136558212548e-05,0.0,25.0,0.0
+quant-ph/0511185,Excitation and Entanglement Transfer Versus Spectral Gap,1.2190560841766998e-05,1.3206645856422697e-05,10.0,6.0
+nucl-th/0602050,Density functional theory for fermions close to the unitary regime,1.2186074880122886e-05,1.5268628942421883e-06,25.0,3.0
+cond-mat/0602592,"Crystal-field states in NaCoO2 and in wet cobalt superconductors
+  (NaxCoO2)",1.2165008628183608e-05,0.0,6.0,1.0
+cond-mat/0501133,Nonequilibrium quantum phase transition in itinerant electron systems,1.214850401021108e-05,1.990182755160072e-06,5.0,1.0
+cond-mat/0607720,Time-dependent evolution of two coupled Luttinger liquids,1.211260979727409e-05,0.0,2.0,0.0
+cond-mat/0605597,"Classical simulation of infinite-size quantum lattice systems in one
+  spatial dimension",1.209452801570285e-05,1.399622300378322e-05,17.0,9.0
+cond-mat/0608065,A microscopic model for spiral ordering along (110) on the MnSi lattice,1.207015872569126e-05,0.0,3.0,1.0
+cond-mat/0603553,"Localization of strongly correlated electrons as Jahn-Teller polarons in
+  manganites",1.205996962458742e-05,9.818095501416773e-07,3.0,1.0
+hep-th/0212019,RG study of a non local sine-Gordon model,1.2018633271028677e-05,0.0,7.0,0.0
+cond-mat/0201401,Tuning order in cuprate superconductors,1.1992719407281944e-05,0.0,17.0,0.0
+cond-mat/0308149,"Temperature Effect and Fermi Surface Investigation in the Scanning
+  Tunneling Microscopy of Bi$_2$Sr$_2$CaCu$_2$O$_8$",1.1989690674477114e-05,0.0,5.0,0.0
+cond-mat/0410125,"Comparison of the phase diagram of the half-filled layered organic
+  superconductors with the phase diagram of the RVB theory of the
+  Hubbard-Heisenberg model",1.1949773045006018e-05,1.990182755160072e-06,5.0,2.0
+cond-mat/0404224,Sea-Boson Analysis of the Infinite-U Hubbard Model,1.1909327264199827e-05,0.0,4.0,0.0
+hep-th/0302014,Non-minimal Maxwell-Chern-Simons theory and the composite Fermion model,1.1883571746706206e-05,0.0,9.0,1.0
+cond-mat/0608590,Electron transport in disordered Luttinger liquid,1.1874233119356792e-05,0.0,6.0,0.0
+cond-mat/0601005,"Crystal field, spin-orbit coupling and magnetism in a ferromagnet YTiO3",1.1848741553589492e-05,0.0,12.0,0.0
+cond-mat/0507327,"Role of spin-orbit coupling on the spin triplet pairing in
+  Na_{x}CoO_{2}yH_{2}O II: Multiple phase diagram under the magnetic field",1.1841392671472788e-05,9.95091377580036e-06,7.0,2.0
+cond-mat/0405218,"Infrared spectroscopy of the charge ordering transition in
+  Na$_{0.5}$CoO$_2$",1.1828307948821012e-05,2.421247570110344e-07,13.0,3.0
+cond-mat/9904213,Possible Ordered States in the 2D Extended Hubbard Model,1.1805345635581916e-05,0.0,4.0,3.0
+cond-mat/0004327,"Shallow Coulomb Gap and Weak Level-Level Correlations in a Deeply
+  Insulating Electron System with Interactions",1.180197692792254e-05,0.0,7.0,0.0
+cond-mat/0510053,Present status of the theory of high Tc cuprates,1.1785261157888389e-05,5.389334113718204e-06,15.0,2.0
+cond-mat/0509624,Resonating plaquette phase of a quantum six-vertex model,1.1783177638646904e-05,1.7328326637560736e-06,2.0,4.0
+cond-mat/0005016,"Effective action of a compressible QH state edge: application to
+  tunneling",1.1764600974103137e-05,0.0,3.0,11.0
+cond-mat/0208077,On the Zero-Bias Conductance Peak in the Tunneling Spectroscopy,1.1757953360167996e-05,0.0,2.0,0.0
+cond-mat/0702593,"Extensions to the Kondo lattice model to achieve realistic Curie
+  temperatures and appropriate behavior of the resistivity for manganites",1.1751223197995335e-05,0.0,5.0,0.0
+cond-mat/0412208,Impurity Quantum Phase Transitions,1.1743901485521077e-05,7.026670582936915e-08,11.0,3.0
+cond-mat/0107550,Bound states in d-density-wave phases,1.1677618779258793e-05,1.990182755160072e-06,7.0,1.0
+cond-mat/0407443,"Ward identity and optical-conductivity sum rule in the d-density wave
+  state",1.16610502300107e-05,7.023528568177144e-06,7.0,1.0
+cond-mat/0503653,"Full counting-statistics in a single-electron transistor in the presence
+  of nonequilibrium quantum fluctuations of charge",1.1653228104522812e-05,1.979043672575221e-06,5.0,1.0
+cond-mat/0408329,Putting competing orders in their place near the Mott transition,1.1618695535237316e-05,0.0001076605327135,9.0,7.0
+cond-mat/0208361,Bosonic effective action for interacting fermions,1.1575176415910202e-05,0.0002755273744811,8.0,13.0
+cond-mat/0505393,Novel Mott Transitions in Non-Isotropic Two-Band Hubbard Model,1.1562217667291493e-05,2.735541239854623e-06,11.0,8.0
+cond-mat/0609106,"Renormalization group fixed points, universal phase diagram, and 1/N
+  expansion for quantum liquids with interactions near the unitarity limit",1.1554500193168738e-05,3.651599523675197e-06,14.0,8.0
+cond-mat/0308090,"On the break in the single-particle energy dispersions and the
+  `universal' nodal Fermi velocity in the high-temperature copper-oxide
+  superconductors",1.1550646365557804e-05,9.926160258945134e-07,10.0,1.0
+cond-mat/0109309,Quantum spin glass transition in the two-dimensional electron gas,1.1540697852539554e-05,1.4820152590929066e-05,4.0,2.0
+cond-mat/0703705,Gauge Field Formulation of Adiabatic Spin Torques,1.14877027305143e-05,0.0,5.0,0.0
+cond-mat/0005250,Damping of collective modes and quasiparticles in d-wave superconductors,1.1484787574958545e-05,0.0006188210710799,20.0,4.0
+cond-mat/0607079,"Symmetry of the superconducting order parameter in frustrated systems
+  determined by the spatial anisotropy of spin correlations",1.1417343861351923e-05,1.990182755160072e-06,1.0,2.0
+quant-ph/0608067,"When are correlations quantum? -- Verification and quantification of
+  entanglement by simple measurements",1.138991576105289e-05,1.0327148416154082e-06,8.0,3.0
+cond-mat/0611772,"Edge singularities in high-energy spectra of gapped one-dimensional
+  magnets in strong magnetic fields",1.138723184218206e-05,0.0,4.0,0.0
+cond-mat/0601034,"From a few to many electrons in quantum dots under strong magnetic
+  fields: Properties of rotating electron molecules with multiple rings",1.1375828476453756e-05,0.0,4.0,0.0
+hep-ph/0107223,"Spatially Anisotropic Four-Dimensional Gauge Interactions, Planar
+  Fermions and Magnetic Catalysis",1.1345455666219848e-05,2.600346783303773e-05,11.0,3.0
+cond-mat/0503409,"Zero-field incommensurate spin-Peierls phase with interchain frustration
+  in TiOCl",1.1341787522335826e-05,1.5921462041280577e-05,8.0,4.0
+cond-mat/0411381,"Magnetic oscillations in planar systems with the Dirac-like spectrum of
+  quasiparticle excitations II: transport properties",1.1341639134981446e-05,7.4260550565674335e-09,3.0,1.0
+cond-mat/0607747,Classical dimers with aligning interactions on the square lattice,1.1303508753842331e-05,0.0,4.0,0.0
+cond-mat/0603198,"Anderson-like impurity in the one-dimensional t-J model: formation of
+  local states and magnetic behaviour",1.1277129460330074e-05,0.0,15.0,0.0
+cond-mat/0312447,"On the nature of superconductivity in the t-J model of high-Tc
+  superconductors",1.127428505473283e-05,5.9583037774163634e-05,2.0,4.0
+cond-mat/0509765,"Finite temperature density matrix and two-point correlations in the
+  antiferromagnetic XXZ chain",1.1259173519145657e-05,1.8952259606839296e-06,7.0,2.0
+cond-mat/0412235,"Resonating Valence Bond Theory of Superconductivity for Dopant Carriers:
+  Application to the Cobaltates",1.1245925263075323e-05,1.0870377381370015e-05,3.0,1.0
+cond-mat/0609301,"Linear temperature dependence of conductivity in Si two-dimensional
+  electrons near the apparent metal-to-insulator transition",1.121363075648336e-05,0.0,2.0,0.0
+cond-mat/0608543,Electron-Phonon Coupling and Raman Spectroscopy in Graphene,1.1166879792940324e-05,8.310346485310437e-05,9.0,3.0
+hep-lat/0608007,Anomalous superfluidity in 2+1 dimensional two-color lattice QCD,1.114761977243392e-05,0.0,7.0,0.0
+cond-mat/0301048,"Magnetic, orbital and charge ordering in the electron-doped manganites",1.1139046588419472e-05,3.9729394552635765e-06,8.0,2.0
+cond-mat/0511460,"Antiferromagnetic to superconducting phase transition in the hole- and
+  electron-doped Hubbard model at zero temperature",1.1126562650382e-05,1.184791176892846e-05,8.0,10.0
+cond-mat/0407094,"Ferromagnetic fluctuation and possible triplet superconductivity in
+  Na_xCoO_2*yH_2O: Fluctuation-exchange study of multi-orbital Hubbard model",1.1094249937189828e-05,9.160668792138752e-06,8.0,10.0
+cond-mat/0507390,"Dynamical correlations and quantum phase transition in the quantum Potts
+  model",1.10631406715248e-05,5.004248356769216e-07,4.0,3.0
+cond-mat/0009002,Dual Nature of the Electronic Structure of the Stripe Phase,1.1050571110101005e-05,0.0004929770931491,5.0,11.0
+cond-mat/0602256,Doping quantum dimer models on the square lattice,1.1041146423921604e-05,0.0,3.0,1.0
+cond-mat/0204345,Electronic phases of low-dimensional conductors,1.1026243769230808e-05,3.2946930934304293e-06,7.0,2.0
+cond-mat/0206282,Theory of d-density wave viewed from a vertex model and its implications,1.101911502657757e-05,0.0010969733530304,8.0,4.0
+cond-mat/9912272,Exact Dynamics of the SU(K) Haldane-Shastry Model,1.0997032608046165e-05,0.0,7.0,0.0
+cond-mat/0502370,Charge instabilities at the metamagnetic transition,1.0995479876063554e-05,0.0,3.0,0.0
+cond-mat/9908008,Quantum phase transitions in antiferromagnets and superfluids,1.0955833201976404e-05,6.914042713391268e-05,12.0,8.0
+hep-lat/0509038,Fermion propagators in QED3 with velocity anisotropies,1.0954283144276733e-05,0.0,12.0,0.0
+cond-mat/0601048,"In-plane anisotropy of spin excitations in the normal and
+  superconducting states of underdoped YBa$_2$Cu$_3$O$_{6+x}$",1.0947768207456046e-05,1.514068515392561e-05,3.0,10.0
+cond-mat/0303008,"Two-Component Scaling near the Metal-Insulator Bifurcation in
+  Two-Dimensions",1.0945263349551716e-05,3.980365510320144e-06,6.0,2.0
+cond-mat/0604585,"Theoretical study of interacting hole gas in p-doped bulk III-V
+  semiconductors",1.0938986444258914e-05,0.0,6.0,0.0
+cond-mat/0702366,"Majorana Fermions, Exact Mappings between Classical and Topological
+  Orders",1.0935423820453824e-05,0.0,2.0,2.0
+cond-mat/0101214,Mott-Superfluid transition in bosonic ladders,1.092313464179557e-05,0.0,4.0,0.0
+cond-mat/0701260,"Pseudopotentials for Multi-particle Interactions in the Quantum Hall
+  Regime",1.09172085735153e-05,0.0,6.0,0.0
+cond-mat/0308421,Appearance of Fermion Condensate in Fermi Liquids,1.091652373256206e-05,4.45563303394046e-08,11.0,1.0
+hep-th/0403178,"Renormalization group limit-cycles and field theories for elliptic
+  S-matrices",1.0901013979797329e-05,0.0007294858376786,19.0,10.0
+cond-mat/0301071,Ferromagnetism in the Hubbard model: A constructive approach,1.0892114725396296e-05,0.0,8.0,4.0
+cond-mat/0610748,"Magnetic vortices instead of stripes: another interpretation of magnetic
+  neutron scattering in lanthanum cuprates",1.0874089369424036e-05,0.0,2.0,1.0
+cond-mat/0701748,"Subgap tunneling via quantum-interference effect: insulators and charge
+  density waves",1.0868443046539178e-05,0.0,7.0,1.0
+cond-mat/0508060,"Quantum simulation of manybody effects in steady-state nonequilibrium:
+  electron-phonon coupled quantum dots",1.0867180473698307e-05,0.0,1.0,0.0
+cond-mat/0112508,Whither Correlated Electron Theory?,1.086238800430313e-05,0.0,5.0,0.0
+cond-mat/0209061,"Checkerboard local density of states in striped domains pinned by
+  vortices",1.0850438355416056e-05,8.828133575741698e-05,8.0,2.0
+cond-mat/0702420,"Possibility of magnetic field induced Composite Fermi sea in neutral
+  Graphene",1.0813271319894338e-05,0.0,7.0,1.0
+cond-mat/9902176,Dephasing in Metals by Two-Level Systems in the 2-Channel-Kondo Regime,1.0811311725858133e-05,0.0006305137367735,11.0,6.0
+cond-mat/0402615,"Vertex Models and Random Labyrinths: Phase Diagrams for Ice-type Vertex
+  Models",1.0776937753850322e-05,0.0,9.0,0.0
+cond-mat/0012069,Raman Scattering from Magnetic Excitations in coupled Spin Ladders,1.0775526331807876e-05,0.0,6.0,0.0
+cond-mat/0303324,"Spontaneous Symmetry Breaking and Exotic Quantum Order in Integer
+  Quantum Hall Systems under a Tilted Magnetic Field",1.076755021309304e-05,2.293556342517356e-06,6.0,2.0
+cond-mat/9910514,Quantum phase transitions in electronic systems,1.0758877898561771e-05,4.9483928175528814e-05,7.0,3.0
+cond-mat/0502512,"General topological features and instanton vacuum in quantum Hall and
+  spin liquids",1.0734375986374582e-05,0.0,4.0,0.0
+cond-mat/0409227,Conductivity rules in the Fermi and charge-spin separated liquid,1.0730605949704535e-05,1.791164479644065e-05,4.0,2.0
+cond-mat/9911166,Bethe ansatz for the SU(4) extension of the Hubbard Model,1.0715319208352806e-05,0.0,7.0,2.0
+cond-mat/0702475,"Luttinger liquids with curvature: Density correlations and Coulomb drag
+  effect",1.0714552485900572e-05,3.2185770220702075e-05,4.0,1.0
+cond-mat/0507454,Emergent physics on vacuum energy and cosmological constant,1.0708543413843685e-05,7.040584222457758e-05,3.0,1.0
+cond-mat/0404713,"Strongly-correlated crystal-field approach to 3d oxides - the orbital
+  magnetism in 3d-ion compounds",1.0702728097541626e-05,0.0,13.0,8.0
+cond-mat/0605316,Symmetry and Topological Order,1.0686109447470908e-05,4.540850268209734e-06,2.0,5.0
+cond-mat/9912320,"One-dimensional metallic behavior of the stripe phase in
+  La$_{2-x}$Sr$_x$CuO$_4$",1.0657207672208714e-05,0.0,2.0,0.0
+cond-mat/0611421,"Pairing in Asymmetrical Fermi Systems with Intra- and Inter-Species
+  Correlations",1.0640514366073953e-05,0.0,8.0,0.0
+quant-ph/0610099,A class of quantum many-body states that can be efficiently simulated,1.0623780207577292e-05,2.643296547394233e-05,18.0,4.0
+cond-mat/9701023,"Crossover between Luttinger and Fermi liquid behavior in weakly coupled
+  metallic chains",1.0607542230656671e-05,0.0,3.0,3.0
+quant-ph/0501059,Star clusters dynamics in a laboratory: electrons in an ultracold plasma,1.0605812393060847e-05,0.0,8.0,0.0
+cond-mat/9901057,The Phase Separation Scenario for Manganese Oxides,1.0603595609857606e-05,0.0,14.0,4.0
+quant-ph/0401144,Quantum Phase Transitions in Anti-ferromagnetic Planar Cubic Lattices,1.057404841245627e-05,1.7445840133280037e-06,22.0,3.0
+cond-mat/0105001,Out of equilibrium dynamics of a Quantum Heisenberg Spin Glass,1.0570500298885028e-05,0.0004725150155607,4.0,2.0
+cond-mat/0109524,Magnetic excitations in two-leg spin 1/2 ladders: experiment and theory,1.0560069450439176e-05,0.0009780748457158,4.0,4.0
+cond-mat/0110331,"Microwave Rectification at the Boundary between Two-Dimensional Electron
+  Systems",1.0536968108809836e-05,1.990182755160072e-06,2.0,1.0
+cond-mat/0604467,Orbital ordering phenomena in $d$- and $f$-electron systems,1.0535923017654287e-05,0.0,7.0,0.0
+physics/9711001,"Algebraic approach to q-deformed supersymmetric variants of the Hubbard
+  model with pair hoppings",1.0533042557775093e-05,0.0,15.0,5.0
+cond-mat/0307147,"Fermi-surface topology and the effects of intrinsic disorder in a class
+  of charge-transfer salts containing magnetic ions,
+  \beta''-(BEDT-TTF)_4[(H_3O)M(C_2O_4)_3]Y",1.0526961210591448e-05,0.0,4.0,0.0
+cond-mat/0206300,Pressure Effects and Large Polarons in Layered MgB_2 Superconductor,1.0519915547622537e-05,0.0,6.0,0.0
+cond-mat/0309140,Metal-insulator transition in two-dimensional electron systems,1.0518181441218824e-05,2.789226279246728e-05,7.0,2.0
+hep-th/0006243,"Integrable Ladder t-J Model with Staggered Shift of the Spectral
+  Parameter",1.050754294620389e-05,9.945400492500786e-06,7.0,5.0
+cond-mat/0702343,"Spectroscopy of Collective Excitations in Interacting Low-Dimensional
+  Many-Body Systems Using Quench Dynamics",1.0486052469073709e-05,3.6631830320716425e-07,3.0,1.0
+cond-mat/0509586,"Geometric frustration inherent to the trillium lattice, a sublattice of
+  the B20 structure",1.047658424945635e-05,0.0,2.0,1.0
+cond-mat/0303502,Charge ordering and inter-layer coupling in cuprates,1.0426109914568302e-05,5.93122392847612e-06,14.0,2.0
+cond-mat/0205194,"Pair condensation and inter-layer coupling in cuprates: pairing on a
+  superlattice",1.0426109914568302e-05,1.990182755160072e-06,14.0,1.0
+cond-mat/0605284,The Electronic States of Two Oppositely doped Mott Insulators Bilayers,1.040446466284336e-05,1.990182755160072e-06,3.0,1.0
+cond-mat/0605683,"Entanglement entropy of 2D conformal quantum critical points: hearing
+  the shape of a quantum drum",1.0395529555758529e-05,4.660609855192512e-07,4.0,3.0
+cond-mat/0407701,"Quantum Monte Carlo simulation for the spin-drag conductance of the
+  Hubbard model",1.0385088507349498e-05,0.0,3.0,0.0
+cond-mat/9807265,"Interaction between impurities and solitons in quasi one-dimensional
+  spin-Peierls systems",1.036412000616324e-05,0.0,10.0,11.0
+cond-mat/0104122,"Quantum Monte Carlo simulations of the t-Jz model with stripes on the
+  square lattice",1.034727086174946e-05,0.0,6.0,0.0
+cond-mat/0408016,Spin Gap in Chains with Hidden Symmetries,1.0340316870155238e-05,0.0,2.0,1.0
+cond-mat/0402139,Interactions in high-mobility 2D electron and hole systems,1.031812849774775e-05,5.970548265480216e-06,2.0,4.0
+cond-mat/0702052,Quantum fluctuation-induced uniaxial and biaxial spin nematics,1.028387850252071e-05,1.9976088102166394e-06,4.0,1.0
+cond-mat/0003197,Cyclotron effective masses in layered metals,1.0270730568257176e-05,0.0,4.0,0.0
+cond-mat/0408411,"Disproportionation Transition at Critical Interaction Strength:
+  Na$_{1/2}$CoO$_2$",1.0262684962435744e-05,0.0,8.0,2.0
+cond-mat/0701134,"SU(2) gauge theory of the Hubbard model and application to the honeycomb
+  lattice",1.0255750471694524e-05,0.0,8.0,0.0
+math-ph/0402045,"Ferromagnetic Domain Wall Ground States in One-Dimensional Deformed
+  Flat-Band Hubbard Model",1.0255616962971249e-05,0.0,3.0,0.0
+cond-mat/9809168,A Model Study of the Low-Energy Charge Dynamics of NaV_2O_5,1.0244434818331355e-05,0.0,9.0,0.0
+cond-mat/0306492,"Quasiparticle heat transport in the mixed state of high $T_c$
+  superconductors",1.0235089406126809e-05,9.534612529199336e-07,3.0,2.0
+cond-mat/0407563,"Multi-orbital analysis on the Superconductivity in Na_{x}CoO_{2} \cdot y
+  H_{2}O",1.0230057274855925e-05,3.3211026056654106e-05,10.0,8.0
+cond-mat/0305081,Insulator-Metal Transition in the Rutile-based VO2,1.0228501517785576e-05,0.0,2.0,8.0
+cond-mat/0512330,"Recent progress in first-principles studies of magnetoelectric
+  multiferroics",1.022479840960164e-05,0.0,3.0,0.0
+cond-mat/0505241,"Interorbital charge transfers and Fermi-surface deformations in strongly
+  correlated metals: models, BaVS$_3$ and Na$_{x}$CoO$_2$",1.022343963233825e-05,0.0,5.0,1.0
+cond-mat/0312630,"Infrared probe of the electronic structure and charge dynamics in
+  Na$_{0.7}$CoO$_2$",1.0222541432990948e-05,5.771011174608143e-06,10.0,7.0
+cond-mat/0108417,"Collective dynamics of hydrogen atoms in the KIO_3*HIO_3 crystal
+  dictated by a substructure of the hydrogen atoms' matter waves",1.0211480268357645e-05,9.229374020673962e-06,13.0,7.0
+cond-mat/0606183,"Non-resonant Raman response of inhomogeneous structures in the electron
+  doped $t-t'$ Hubbard model",1.0207267123464614e-05,0.0,7.0,0.0
+cond-mat/0502071,Realizing non-Abelian statistics,1.0199719674449603e-05,8.34641306975827e-06,26.0,4.0
+cond-mat/0302385,The optical conductivity of half-filled Hubbard ladders,1.0178195655135764e-05,0.0,2.0,1.0
+cond-mat/0703645,"Transport properties in Cu$_{x}$TiSe$_{2}$ (0.015$\leq$x$\leq$0.110)
+  Single Crystal",1.0168244563734222e-05,0.0,3.0,1.0
+cond-mat/0407114,"Gapped spin liquid states in a one-dimensional Hubbard model with
+  antiferromagnetic exchange interaction",1.014708417907158e-05,0.0,5.0,0.0
+cond-mat/0004090,"Possible Localized Modes in the Uniform Quantum Heisenberg Chains of
+  Sr2CuO3",1.0141966401038116e-05,0.0,5.0,0.0
+cond-mat/0703011,"Spin dynamics across the superfluid-insulator transition of spinful
+  bosons",1.0116587684585304e-05,0.0,6.0,0.0
+cond-mat/0412505,Strong Coupling Solver for the Quantum Impurity Model,1.0084519807406344e-05,1.990182755160072e-06,3.0,1.0
+cond-mat/0502292,"Thermodynamic properties of Fermi systems with flat single-particle
+  spectra",1.0079242727781284e-05,2.2938386772143103e-06,2.0,3.0
+cond-mat/0312595,"Magnetic Quantum Critical Point in YBa_2Cu_3O_{7-delta}? Resolving the
+  Correlation Length Controversy",1.0058075948690892e-05,4.0866175792030045e-06,6.0,1.0
+cond-mat/0510282,"Spin and Charge Josephson effects between non-uniform superconductors
+  with coexisting helimagnetic order",1.004521192026826e-05,0.0,2.0,0.0
+cond-mat/0510257,"Subgap tunneling through channels of polarons and bipolarons in chain
+  conductors",9.979432257192897e-06,0.0,2.0,0.0
+cond-mat/9802198,"A strongly correlated electron model for the layered organic
+  superconductors kappa-(BEDT-TTF)2X",9.945789547035282e-06,2.0628816264289284e-06,9.0,7.0
+cond-mat/0005270,"Numerical study of disorder effects on the three-dimensional Hubbard
+  model",9.919845924026056e-06,0.0,4.0,0.0
+cond-mat/0310764,Ordered phases of XXZ-symmetric spin-1/2 zigzag ladder,9.919434282682604e-06,0.0,3.0,0.0
+cond-mat/0612162,"Thermodynamic properties of the coupled dimer system
+  Cu$_2$(C$_5$H$_{12}$N$_2$)$_2$Cl$_4$",9.917417064229505e-06,0.0,2.0,1.0
+hep-th/0002123,Integrable Chain Model with Additional Staggered Model Parameter,9.893841791434867e-06,1.193558324766086e-05,6.0,2.0
+cond-mat/0606691,"Competing Orders and Hidden Duality Symmetries in Two-leg Spin Ladder
+  Systems",9.886195888849864e-06,1.9976088102166394e-06,5.0,1.0
+cond-mat/0510150,From Mott Insulator to Band Insulator: A DMFT Study,9.881490994287165e-06,0.0,9.0,0.0
+cond-mat/0111582,Taking N to zero with S matrices,9.86417155491691e-06,0.0,14.0,1.0
+cond-mat/0606604,NiO - from first principles,9.78127357054307e-06,1.9976088102166394e-06,7.0,1.0
+cond-mat/0412663,Why the magnetic interactions in Na$_{x}$CoO$_{2}$ are 3D,9.769302057605529e-06,3.981108115825801e-06,5.0,1.0
+cond-mat/0410224,Magnetic ordering and spin waves in $\bf Na_{0.82}CoO_2$,9.74837751230694e-06,1.990925360665729e-06,1.0,5.0
+cond-mat/9912339,On Bose-Einstein condensate inside moving exciton-phonon droplets,9.710078692607276e-06,0.0,4.0,0.0
+cond-mat/0003085,"Non-Fermi Liquid Behavior in U and Ce Alloys: Criticality, Disorder,
+  Dissipation, and Griffiths-McCoy singularities",9.705297559414796e-06,4.550356266520866e-05,5.0,5.0
+cond-mat/0605194,"A Renormalisation-Group Algorithm for Eigenvalue Density Functions of
+  Interacting Quantum Systems",9.69672701899444e-06,2.950530803725453e-08,16.0,3.0
+cond-mat/0607188,"Partial localization of correlated electrons: spin dependent masses,
+  saturated ferromagnetism, and effective s-d model",9.695332723905408e-06,0.0,3.0,0.0
+cond-mat/0412421,"Applications of Massive Integrable Quantum Field Theories to Problems in
+  Condensed Matter Physics",9.689203846220736e-06,1.354102399387871e-05,13.0,11.0
+cond-mat/0204514,Two-Hole and Four-Hole Bound States in a t-J Ladder at half-filling,9.674804769993846e-06,2.4405911826592385e-06,3.0,1.0
+cond-mat/0202426,"Transport, Noise, and Conservation in the Electron Gas: How to Build a
+  Credible Mesoscopic Theory",9.6340420633702e-06,0.0,5.0,0.0
+cond-mat/0305628,Clustered States as a New Paradigm of Condensed Matter Physics,9.630229680819774e-06,2.007510216958729e-06,9.0,2.0
+cond-mat/0603661,"Temperature Dependence of the Conductivity Sum Rule in the Normal State
+  due to Inelastic Scattering",9.622613200697754e-06,2.2752168683951283e-08,6.0,1.0
+cond-mat/0001297,One dimensional model for doubly degenerate electrons,9.619976970230912e-06,0.0,6.0,0.0
+cond-mat/0011054,"Transport Properties Calculation for a Quasi-Bidimensional System using
+  T-Matrix Approximation",9.618728307697737e-06,8.893215299005778e-08,8.0,1.0
+cond-mat/0305635,Strong Coupling Expansion for the Pairing Hamiltonian,9.609098489913884e-06,0.0,6.0,3.0
+cond-mat/0604001,Doping effects in low dimensional antiferromagnets,9.60601950344132e-06,0.0,2.0,0.0
+cond-mat/0702429,"Charge transport in a Tomonaga-Luttinger liquid: effects of pumping and
+  bias",9.581186089980704e-06,0.0,5.0,0.0
+cond-mat/0507682,"Orbital-selective Mott transitions in the 2-band J_z-model: a
+  high-precision quantum Monte Carlo study",9.578931987793064e-06,0.0,9.0,1.0
+cond-mat/9903271,"Field induced $d_{x^2-y^2}+id_{xy}$ state and marginal stability of
+  high-Tc superconductors",9.541997870686449e-06,5.977586748099418e-06,4.0,5.0
+cond-mat/0204002,Magnetic Order in YBa$_2$Cu$_3$O$_{6+x}$ Superconductors,9.512604735360491e-06,0.0009735293708334,4.0,3.0
+cond-mat/0610665,"New Numerical Results Indicate a Half-Filling SU(4) Kondo State in
+  Carbon Nanotubes",9.5041131747357e-06,0.0,7.0,0.0
+cond-mat/0602112,"Half-metallic ferromagnetism induced by dynamic electron correlations in
+  VAs",9.500351194171348e-06,0.0,3.0,0.0
+cond-mat/0008005,"Weak-localization type description of conduction in the ""anomalous""
+  metallic state",9.496933116144488e-06,0.0008535702713326,11.0,8.0
+cond-mat/0303379,"Staggered dimer order in S=1/2 quantum spin ladder system with four spin
+  exchange",9.485851316392304e-06,0.0,6.0,0.0
+cond-mat/0211075,"Quantum Group Based Theory for Antiferromagnetism and Superconductivity:
+  Proof and Further Evidence",9.48283802449198e-06,0.0,7.0,0.0
+cond-mat/0601645,"Analysis of the Strong Coupling Limit of the Richardson Hamiltonian
+  using the Dyson Mapping",9.477608052491574e-06,4.835041886517103e-07,3.0,1.0
+cond-mat/9812430,"Effect of disorder on quantum phase transitions in anisotropic XY spin
+  chains in a transverse field",9.47746643056682e-06,3.980365510320144e-06,11.0,1.0
+cond-mat/0606159,"Low-energy dynamics of the two-dimensional S=1/2 Heisenberg
+  antiferromagnet on percolating clusters",9.474339351942142e-06,0.0,2.0,1.0
+cond-mat/0007170,Quantum phase transitions in d-wave superconductors,9.473920213876757e-06,5.069363129130988e-06,9.0,3.0
+cond-mat/0607173,Spin nematic correlations in bilinear-biquadratic S=1 spin chains,9.46534304758504e-06,7.677682425692704e-07,5.0,4.0
+cond-mat/0206531,"Mott Transitions in the 2D Half-Filled Hubbard Model: Correlator
+  Projection Method with Projective Dynamical Mean-Field Approximation",9.46129272150655e-06,0.0,4.0,0.0
+cond-mat/0702384,"Effect of temperature on quantum criticality in the frustrated two-leg
+  Heisenberg ladder",9.458973877002052e-06,0.0,2.0,0.0
+cond-mat/9704168,The Metal-Insulator Transition in the Doubly Degenerate Hubbard Model,9.454895664465185e-06,0.0,3.0,1.0
+cond-mat/0611553,"Resonating Valence Bond States in 2 and 3D: Brief History and Recent
+  Examples",9.450424078045684e-06,5.6370508838489155e-08,7.0,1.0
+cond-mat/0608673,"Spin-quadrupole ordering of spin-3/2 ultracold fermionic atoms in
+  optical lattices in the one-band Hubbard model",9.446492611063864e-06,0.0,5.0,1.0
+cond-mat/0502652,Deconfinement in the presence of a Fermi surface,9.443970992296009e-06,1.0635680060252885e-05,5.0,6.0
+cond-mat/0508695,"Optical-conductivity sum rule in cuprates and unconventional charge
+  density waves: a short review",9.405179270015242e-06,8.937157049938854e-07,8.0,2.0
+cond-mat/0503715,"Dynamical variational principles for strongly correlated electron
+  systems",9.389021361313432e-06,2.9995026774925595e-06,7.0,3.0
+cond-mat/0703284,"Mott insulating phases and quantum phase transitions of interacting
+  spin-3/2 fermionic cold atoms in optical lattices at half filling",9.380204128540034e-06,0.0,6.0,0.0
+cond-mat/0409141,U-J Synergy Effect for the High Tc Superconductors,9.373000506650431e-06,8.168660562224176e-08,4.0,1.0
+cond-mat/0403420,"Absence of hole pairing in a simple t-J model on the Shastry-Sutherland
+  lattice",9.356666659397784e-06,0.0,2.0,0.0
+cond-mat/0402485,"Observation of First-Order Metal-Insulator Transition without Structural
+  Phase Transition in VO_2",9.351813832620622e-06,0.0,4.0,1.0
+cond-mat/0503405,Optical study of orbital excitations in transition-metal oxides,9.349230255943394e-06,5.970548265480216e-06,10.0,6.0
+cond-mat/9705206,Non-zero temperature transport near quantum critical points,9.347749589206184e-06,0.0,7.0,8.0
+cond-mat/0607633,Spin dynamics in the diluted ferromagnetic Kondo lattice model,9.3266786778161e-06,0.0,5.0,1.0
+cond-mat/9801126,"Intrinsic temperature dependences of transport coefficients within the
+  hot-spot model for normal state YBCO",9.301728480923945e-06,0.0,6.0,0.0
+cond-mat/0407257,Thermal transport in antiferromagnetic spin-chain materials,9.2936232268918e-06,7.960731020640288e-06,2.0,2.0
+cond-mat/0202425,"On the perturbative expansion of the magnetization in the
+  out-of-equilibrium Kondo model",9.272721943861411e-06,9.220685028571228e-07,5.0,7.0
+cond-mat/0410381,"Temperature Dependence of the Magnetic Susceptibility for
+  Triangular-Lattice Antiferromagnets with spatially anisotropic exchange
+  constants",9.250214902414772e-06,3.920957069867604e-06,6.0,1.0
+cond-mat/0612363,"Systematic Low-Energy Effective Field Theory for Electron-Doped
+  Antiferromagnets",9.24782007795374e-06,0.0,6.0,0.0
+cond-mat/0609702,"Exact Diagonalization Dynamical Mean Field Theory for Multi-Band
+  Materials: Effect of Coulomb correlations on the Fermi surface of Na_0.3CoO_2",9.23446219154845e-06,1.1400866530263328e-06,5.0,2.0
+cond-mat/0408337,"A global non-analytical fit method for the complex lineshape analysis of
+  Bi$_2$Sr$_2$CaCu$_2$O$_{8+\delta}$",9.230460441544218e-06,0.0,2.0,1.0
+cond-mat/0204064,Magnetism and superconductivity in Ce_2RhIn_8,9.220864781619784e-06,5.881435604801407e-06,3.0,2.0
+cond-mat/0504373,"Violation of the Fluctuation-Dissipation Theorem and Heating Effects in
+  the Time-Dependent Kondo Model",9.211783233962964e-06,0.0,2.0,0.0
+cond-mat/0603604,"Interference as a Probe of Spin Incoherence in Strongly Interacting
+  Quantum Wires",9.195264436348463e-06,8.930161228279966e-06,4.0,2.0
+cond-mat/0306651,Charge order versus Zener polarons: ferroelectricity in manganites,9.187217320138332e-06,9.958339830856928e-06,3.0,4.0
+cond-mat/0606075,Klein spin model ground states on general lattices,9.183283350741125e-06,1.1429428185023356e-06,3.0,3.0
+cond-mat/0412660,"Vortices and Edge Reconstruction in Small Quantal Systems at High
+  Angular Momenta",9.152491304082471e-06,0.0,2.0,1.0
+cond-mat/0605005,Phase Transition in Imbalanced Fermion Superfluids,9.150436169756944e-06,8.402077204855143e-06,15.0,5.0
+cond-mat/0408489,Models of the Pseudogap State in High - Temperature Superconductors,9.129846879865375e-06,5.775923736161975e-06,9.0,5.0
+cond-mat/0212149,Spin-Orbital Fluctuations and a large mass enhancement in LiV_2O_4,9.125156606751952e-06,3.987791565376711e-06,2.0,3.0
+cond-mat/0408115,"Phenomenological models of dielectric functions and screened Coulomb
+  potential",9.118420389799552e-06,1.0946005153380396e-05,5.0,2.0
+cond-mat/0206451,"Ground-state properties of the Rokhsar-Kivelson dimer model on the
+  triangular lattice",9.097343833055312e-06,2.0257755078259063e-05,11.0,4.0
+cond-mat/9712310,"Ferromagnetic transition and phase diagram of the one-dimensional
+  Hubbard model with next-nearest-neighbor hopping",9.087893691778614e-06,0.0,10.0,1.0
+cond-mat/0402184,"Single-particle excitations and phonon softening in the one-dimensional
+  spinless Holstein model",9.087592082995425e-06,0.0,2.0,1.0
+cond-mat/0309392,Dipole Interactions In Nanosystems,9.087592082995425e-06,0.0,2.0,1.0
+cond-mat/0202171,Response functions of gapped spin systems in high magnetic field,9.086242441631372e-06,3.5362166936035393e-08,2.0,1.0
+cond-mat/0107151,"Multiparticle ring exchange in the Wigner glass and its possible
+  relevance to strongly interacting two-dimensional electron systems in the
+  presence of disorder",9.080813686174569e-06,5.50137387645857e-06,6.0,1.0
+cond-mat/0612469,Nonlinear Current of Strongly Irradiated Quantum Hall Gas,9.080263674345071e-06,5.957346389824096e-06,6.0,3.0
+cond-mat/0108214,Ground states of quantum antiferromagnets in two dimensions,9.079532158752812e-06,7.916304646341316e-05,14.0,12.0
+cond-mat/0605567,"Comment on Phys. Rev. Lett.'s paper ""All-Electron Self-Consistent GW
+  Approximation: Application to Si, MnO, and NiO"": band vs localized
+  description of NiO",9.064281296406022e-06,0.0,7.0,0.0
+cond-mat/0105302,"Integrable generalised spin ladder models based on the SU(1|3) and
+  SU(3|1) algebras",9.060238856054569e-06,1.1205608374265237e-06,2.0,2.0
+cond-mat/0507705,"Charge states of strongly correlated 3d oxides: from typical insulator
+  to unconventional electron-hole Bose liquid",9.055285151197689e-06,0.0,2.0,0.0
+cond-mat/0205054,Pseudogap Kondo Physics from Charge Fluctuations in a Quantum Dot,9.054440945634129e-06,0.0,3.0,3.0
+cond-mat/0206096,"Optical evidence for mass enhancement of quasiparticles in pyrochlore
+  Cd$_2$Re$_2$O$_7$",9.046086131740255e-06,0.0,3.0,0.0
+cond-mat/0405168,"Kinetic energy driven superconductivity in the electron doped cobaltate
+  Na$_{x}$CoO$_{2}\cdot y$H$_{2}$O",9.0410596086669e-06,1.2860560136530087e-05,5.0,1.0
+cond-mat/9704064,Effects of disorder on two strongly correlated coupled chains,9.039180742845887e-06,0.0,2.0,2.0
+cond-mat/0108487,"$\Pi$ \`{a} la node: disordered d-wave superconductors in two dimensions
+  for the random masses",9.015594479711568e-06,3.957787324868879e-06,7.0,1.0
+cond-mat/0701427,"Matrix product decomposition and classical simulation of quantum
+  dynamics in the presence of a symmetry",9.015131851805825e-06,4.801566332429647e-07,9.0,1.0
+cond-mat/9609076,"Solution of effective Hamiltonian of impurity hopping between two sites
+  in a metal",9.003918542928747e-06,0.0,7.0,3.0
+cond-mat/0512258,High-Temperature Criticality in Strongly Constrained Quantum Systems,9.002202485055927e-06,2.170601136055808e-07,5.0,1.0
+cond-mat/0307153,"The effective mass and g-factor of the strongly correlated 2-D electron
+  fluid. Evidence for a coupled-valley condensate in the Si system",8.999267510628337e-06,1.5467652123275078e-05,8.0,2.0
+cond-mat/9901214,"Exchange interactions and magnetic properties of the layered vanadates
+  CaV2O5, MgV2O5, CaV3O7 and CaV4O9",8.984607563755146e-06,0.0,5.0,5.0
+cond-mat/9811028,"Dynamical Transition from Triplets to Spinon Excitations: A Series
+  Expansion Study of the $J_1-J_2-\delta$ spin-half chain",8.981405546038907e-06,0.0,6.0,5.0
+cond-mat/0307728,"Correlation length in cuprates deduced from the impurity-induced
+  magnetization",8.978461773281084e-06,2.096434824042932e-06,1.0,4.0
+cond-mat/0512634,"Doping Dependence of Bilayer Resonant Spin Excitations in $\bf
+  (Y,Ca)Ba_2Cu_3O_{6+x}$",8.960976144998084e-06,6.089703536068084e-06,2.0,6.0
+cond-mat/0611601,"Heavy-fermion spin liquid in the strong hybridization limit of the
+  finite-U Anderson lattice model",8.95474579784072e-06,0.0,5.0,0.0
+cond-mat/0509021,"Renormalization-group analysis of the one-dimensional extended Hubbard
+  model with a single impurity",8.951642118641017e-06,7.960731020640288e-06,3.0,2.0
+cond-mat/9910432,Magnetotransport in nearly antiferromagnetic metals,8.942206947972166e-06,4.74993621946581e-05,9.0,2.0
+cond-mat/9705266,Dynamics and transport near quantum-critical points,8.935392313052592e-06,0.0,8.0,10.0
+cond-mat/0211655,"Exact solution for the two-site Kondo-Lattice Model - a limiting case
+  for an insulator",8.93344085450695e-06,0.0,3.0,1.0
+cond-mat/0211670,"Exact solution for the two-site correlated Kondo-Lattice Model - a
+  limiting case for a metal",8.93344085450695e-06,0.0,3.0,1.0
+cond-mat/0212475,"The Wave Functions for the Free-Fermion Part of the Spectrum of the
+  $SU_q(N)$ Quantum Spin Models",8.924052435605868e-06,2.839005969414472e-07,14.0,2.0
+quant-ph/0601019,Simulating adiabatic evolution of gapped spin systems,8.919761359882789e-06,9.051064936735144e-06,24.0,8.0
+cond-mat/9904169,"Generalized nonlinear sigma model approach to alternating spin chains
+  and ladders",8.918595787087324e-06,0.0,4.0,0.0
+cond-mat/0506151,"Phase diagram of orbital-selective Mott transitions at finite
+  temperatures",8.912835670084149e-06,1.9877074034745493e-06,11.0,2.0
+cond-mat/9710315,Absence of Localization in Certain Field Effect Transistors,8.909476441380857e-06,0.0,17.0,1.0
+cond-mat/9801157,Hole Pairs in the Two-Dimensional Hubbard Model,8.908761337322821e-06,0.0,4.0,0.0
+cond-mat/0502256,"Electronic Structure of Sodium Cobalt Oxide: Comparing Mono- and
+  Bilayer-hydrate",8.900671508139919e-06,5.1982385395972036e-08,5.0,2.0
+cond-mat/0212623,Two-dimensional tunnel correlations with dissipation,8.897031956070778e-06,0.0,3.0,0.0
+cond-mat/0308516,Two-dimensional tunnel bifurcations with dissipation,8.897031956070778e-06,0.0,3.0,0.0
+cond-mat/0407785,Critical field theory of the Kondo lattice model in two dimensions,8.895518419085601e-06,0.0,7.0,0.0
+cond-mat/9901002,"The equation of state and specific heat of the electron gas on a one
+  dimensional lattice",8.890490905312868e-06,0.0,5.0,0.0
+cond-mat/0209187,"Noise of a single-electron transistor in the regime of large quantum
+  fluctuations of island charge out of equilibrium",8.889766591738643e-06,1.990182755160072e-06,3.0,1.0
+cond-mat/0101458,Stripe Ansatzs from Exactly Solved Models,8.86459721824185e-06,0.0,4.0,0.0
+solv-int/9810002,Integrable open boundary conditions for XXC models,8.860248171739476e-06,1.5905514767537984e-05,8.0,2.0
+cond-mat/0307541,"Ferromagnetism and triplet superconductivity in the two-dimensional
+  Hubbard model",8.847257746716479e-06,0.0,2.0,0.0
+cond-mat/0010168,"Magnetic properties of (VO)_2P_2O_7: two-plane structure and spin-phonon
+  interactions",8.828761917456707e-06,0.0,1.0,0.0
+cond-mat/9909041,"Transport properties of strongly correlated metals:a dynamical
+  mean-field approach",8.825619743050008e-06,0.0,10.0,2.0
+cond-mat/0604040,Phonon spectral function of the Holstein polaron,8.820699397435381e-06,0.0,4.0,0.0
+cond-mat/0507484,"Irreversible dynamics of the phase boundary in U(Ru0.9)Rh0.04)2Si2 and
+  implications for ordering",8.820621766673362e-06,0.0,4.0,0.0
+cond-mat/0211699,"New Collective Modes in the Superconducting Ground States in the Gauge
+  Theory Description of the Cuprates",8.809449668690631e-06,2.6258800637703767e-05,7.0,5.0
+quant-ph/0702030,"Exact diagonalization for spin-1/2 chains and the first order quantum
+  phase transitions of the XXX chain in a uniform transverse field",8.80427409536953e-06,0.0,5.0,0.0
+cond-mat/0510449,Mott transitions in two-orbital Hubbard systems,8.802288784428423e-06,2.0853594985001457e-06,7.0,2.0
+cond-mat/9912020,"Quantum impurity dynamics in two-dimensional antiferromagnets and
+  superconductors",8.797919236211729e-06,3.436446891445026e-05,14.0,7.0
+cond-mat/0610538,"Optical and thermodynamic properties of the high-temperature
+  superconductor HgBa_2CuO_4+delta",8.792531552397892e-06,0.0,3.0,0.0
+cond-mat/0209115,"Magnetism and unconventional superconductivity in
+  Ce$_n$M$_m$In$_{3n+2m}$ heavy-fermion crystals",8.788889501290336e-06,1.990182755160072e-06,7.0,1.0
+cond-mat/0308153,"Stripe-Like Inhomogeneities, Spectroscopies, Pairing, and Coherence in
+  the High-Tc Cuprates",8.783379641904194e-06,4.542948195659541e-06,14.0,7.0
+cond-mat/9808167,SO(N) symmetries in the two--chain model of correlated fermions,8.779802981437607e-06,0.0,11.0,15.0
+cond-mat/0408470,Excitation spectrum of d-wave Fermi surface deformation,8.777990473011506e-06,3.977395088297517e-06,2.0,1.0
+cond-mat/9810033,"Anomalous Resonance of the Symmetric Single-Impurity Anderson Model in
+  the Presence of Pairing Fluctuations",8.776767861576683e-06,0.0,2.0,0.0
+cond-mat/0210243,"High temperature specific heat and magnetic measurements in
+  Nd0.5Sr0.5MnO3 and R0.5Ca0.5MnO3 (R=Nd, Sm, Dy and Ho) samples",8.761470339441656e-06,0.0,5.0,0.0
+cond-mat/0404055,Quantum Cluster Theories,8.752243370967595e-06,6.283030387930336e-05,9.0,24.0
+cond-mat/0011464,"Spin wave dispersion softening in the ferromagnetic Kondo lattice model
+  for manganites",8.746989856224614e-06,0.0,2.0,1.0
+cond-mat/0003377,The Numerical Renormalization Group Method for correlated electrons,8.744802368551896e-06,0.0,6.0,3.0
+cond-mat/0407058,Models of coherent exciton condensation,8.744223690331396e-06,0.0,4.0,0.0
+cond-mat/0503346,Electron correlation and Fermi surface topology of Na$_x$CoO$_2$,8.74188376117309e-06,9.90413927317133e-07,5.0,3.0
+cond-mat/0505345,Strongly enhanced shot noise in chains of quantum dots,8.73985793950773e-06,2.167247069162605e-06,2.0,3.0
+cond-mat/0306296,"Weak ferromagnetism and other instabilities of the two-dimensional t-t'
+  Hubbard model at Van Hove fillings",8.719569288675514e-06,1.990182755160072e-06,6.0,1.0
+cond-mat/0102201,Lattice anisotropy as microscopic origin of static stripes in cuprates,8.71567084630756e-06,2.599119269798601e-08,4.0,3.0
+cond-mat/0509724,"Site occupation constraints in mean-field approaches of quantum spin
+  systems at finite temperature",8.709430402955471e-06,2.9704220226269728e-08,2.0,1.0
+cond-mat/0604386,"Phonon-mediated tuning of instabilities in the Hubbard model at
+  half-filling",8.704639315487357e-06,5.639421427065674e-06,4.0,1.0
+cond-mat/0602537,Evolution of the spectrum of the Hubbard model with filling,8.699546486501557e-06,5.752868173885874e-07,3.0,1.0
+cond-mat/0003492,"Spectral properties and pseudogaps in a model with d-wave pairing
+  symmetry",8.698659889541514e-06,0.0,2.0,1.0
+cond-mat/0504199,On the crystal field in the modern solid-state theory,8.696923291178481e-06,0.0,11.0,5.0
+cond-mat/0404532,"Approximate ground state of a confined Coulomb anyon gas in an external
+  magnetic field",8.694582748256185e-06,0.0,6.0,0.0
+nlin/0502050,"Drinfeld Twists and Symmetric Bethe Vectors of Supersymmetric Fermion
+  Models",8.673831051334523e-06,9.323904380957874e-07,12.0,1.0
+cond-mat/0107319,"Lattice vibrations of alpha'-NaV_2O_5 in the low-temperature phase.
+  Magnetic bound states?",8.672847217586853e-06,0.0,4.0,0.0
+cond-mat/0407429,Exactly-Solvable Models Derived from a Generalized Gaudin Algebra,8.665439921433055e-06,8.296465923956856e-06,6.0,5.0
+cond-mat/0701696,"Intrinsic anomalous Hall effect in ferromagnetic metals studied by the
+  multi d-orbital tight-binding model",8.659698222436497e-06,0.0,5.0,0.0
+cond-mat/9704037,"Gutzwiller-correlated wave functions for degenerate bands: exact results
+  in infinite dimensions",8.644310597733026e-06,0.0,8.0,1.0
+cond-mat/0307592,Three dimensional resonating valence bond liquids and their excitations,8.642506871754924e-06,6.275044515091219e-05,9.0,4.0
+cond-mat/0004280,"Mean-field study of the interplay between antiferromagnetism and d-wave
+  superconductivity",8.641138545202709e-06,5.38385696701632e-07,4.0,2.0
+cond-mat/0110127,"Relationships between the superconducting gap, pseudogap and transition
+  temperature in High-T_c superconductors",8.640722176432452e-06,0.0,6.0,0.0
+cond-mat/0201039,"The effects of magnetic field on the d-density wave order in the
+  cuprates",8.632645413656227e-06,4.986140080625086e-06,3.0,2.0
+cond-mat/0204115,"Boundaries, Cusps and Caustics in the Multimagnon Continua of 1D Quantum
+  Spin Systems",8.631960579865754e-06,9.802939270448908e-06,9.0,2.0
+cond-mat/0307009,"Spin clustering and ferromagnetic couplings in a dilute magnetic
+  semiconductor",8.60919270458073e-06,1.1941096530960432e-05,3.0,6.0
+cond-mat/0412193,"Interplay between ferromagnetism and superconductivity in tunneling
+  currents",8.60660395142064e-06,1.990182755160072e-06,4.0,1.0
+cond-mat/0401619,"Insulator to Metal Transition Induced by Disorder in a Model for
+  Manganites",8.605925131403159e-06,3.996567812261746e-06,3.0,3.0
+cond-mat/9705069,"A Quantum Monte Carlo Method and Its Applications to Multi-Orbital
+  Hubbard Models",8.602902825461872e-06,0.0,7.0,0.0
+cond-mat/0111244,"The interplay between double exchange, super-exchange, and Lifshitz
+  localization in doped manganites",8.59833018982051e-06,3.962013332670034e-05,5.0,2.0
+cond-mat/0507305,"Role of spin-orbit coupling on the spin triplet pairing in
+  Na_{x}CoO_{2}yH_{2}O I: d-vector under zero magnetic field",8.580837092145964e-06,1.179071891606494e-05,8.0,1.0
+cond-mat/0102285,"Self generated randomness, defect wandering and viscous flow in stripe
+  glasses",8.580343539630216e-06,5.0732803920831695e-06,4.0,2.0
+cond-mat/0401101,Finite temperature superfluid density in very underdoped cuprates,8.570277543035796e-06,0.0,2.0,0.0
+cond-mat/0602451,"Influence of Spatial Correlations in Strongly Correlated Electron
+  Systems: Extension to Dynamical Mean Field Approximation",8.554032007094303e-06,6.330599136553524e-06,4.0,3.0
+hep-th/0110026,Lectures on the functional renormalization group method,8.544665032225423e-06,2.203100648858394e-05,13.0,28.0
+cond-mat/0404541,"Confinement and deconfinement of spinons in a frustrated spin-1/2
+  Heisenberg model",8.51295592823908e-06,9.007440446138775e-08,5.0,1.0
+cond-mat/0401578,"C-Axis Tunneling Spectra in High-T$_c$ Superconductors in the Presence
+  of a d Charge-Density Wave",8.509973896878864e-06,0.0,7.0,0.0
+cond-mat/0107138,"Renormalized mean-field theory of the neutron scattering in cuprate
+  superconductors",8.508759361745129e-06,8.006328450289462e-06,5.0,3.0
+cond-mat/0602406,"Non - Fermi Liquid Behavior in Fluctuating Gap Model: From Pole to Zero
+  of the Green's function",8.505570469184782e-06,1.0341226372308891e-06,3.0,1.0
+cond-mat/0511176,"Ordering in a frustrated pyrochlore antiferromagnet proximate to a spin
+  liquid",8.505231825755703e-06,4.6915023498162025e-06,4.0,2.0
+cond-mat/0201342,Optimizing the speed of a Josephson junction,8.502153216043711e-06,0.0,5.0,0.0
+cond-mat/0304094,Charge Inhomogeneities in Strongly Correlated Systems,8.494316187494495e-06,1.6193014232983592e-05,6.0,6.0
+cond-mat/0304629,High temperature thermal conductivity of 2-leg spin-1/2 ladders,8.490740109550072e-06,0.0,6.0,1.0
+cond-mat/0303613,Magnons in the half-doped manganites,8.483397279509567e-06,0.0,1.0,0.0
+cond-mat/0503727,"The One-Particle Spectral Function and the Local Density of States in a
+  Phenomenological Mixed-Phase Model for High-Temperature Superconductors",8.47608801788168e-06,3.226762595830905e-05,4.0,1.0
+cond-mat/0308108,Magnetic and orbital order in overdoped bilayer manganites,8.46527976160636e-06,0.0,6.0,0.0
+cond-mat/0009202,"Non-magnetic impurities as probes of insulating and doped Mott
+  insulators in two dimensions",8.462127239959073e-06,0.0001493933258185,13.0,13.0
+cond-mat/0110519,"A Theory for High-$T_c$ Superconductors Considering Inhomogeneous Charge
+  Distribution",8.461256998501531e-06,0.0,8.0,1.0
+cond-mat/0508381,"Theoretical high-$T_c$ d-wave superconducting gap in an inhomogeneous
+  medium",8.457912485377611e-06,0.0,3.0,0.0
+cond-mat/0106026,"Probing d-wave pairing correlations in the pseudogap regime of the
+  cuprate superconductors via low-energy states near impurities",8.457908750330663e-06,1.746066707156319e-07,3.0,1.0
+cond-mat/0612040,"Relation between the one-particle spectral function and dynamic spin
+  susceptibility in superconducting Bi$_2$Sr$_2$CaCu$_2$O$_{8-\delta}$",8.456994202224573e-06,0.0,6.0,1.0
+cond-mat/0307338,Lattice fermion models with supersymmetry,8.443027155226325e-06,8.06070915608262e-05,16.0,10.0
+cond-mat/0611230,Classifying Vortices in S=3 Bose-Einstein Condensates,8.436201494734628e-06,5.966835237951932e-06,5.0,3.0
+cond-mat/0512507,In-plane ferromagnetism in charge-ordering $Na_{0.55}CoO_2$,8.429739705775766e-06,0.0,3.0,0.0
+cond-mat/0211299,Effect of Ring Exchange on Orbital Antiferromagnet,8.41669013827619e-06,0.0,10.0,0.0
+cond-mat/0403147,"The anisotropic quantum antiferromagnet on the Sierpinski gasket: Ground
+  state and thermodynamics",8.415947291885533e-06,0.0,4.0,0.0
+cond-mat/0008157,Tunneling between coupled Luttinger liquids,8.40718094215753e-06,1.4852110113134864e-08,10.0,1.0
+cond-mat/0307517,"Dynamical Structure Factor for the Alternating Heisenberg Chain: A
+  Linked Cluster Calculation",8.382338586121006e-06,1.990182755160072e-06,5.0,1.0
+cond-mat/0701535,"Duality, the Semi-Circle Law and Quantum Hall Bilayers",8.381906926324503e-06,0.0,13.0,0.0
+cond-mat/0109146,Frustrated quantum magnets,8.374421667980314e-06,5.212267891666118e-05,13.0,30.0
+cond-mat/0007454,Ferromagnetism from Undressing,8.367102561856336e-06,0.0,3.0,0.0
+cond-mat/0603156,"Nodal-antinodal dichotomy and magic doping fractions in a stripe ordered
+  antiferromagnet",8.366247502276367e-06,0.0,4.0,0.0
+cond-mat/0111328,"Field theoretical study of a spin-1/2 ladder with unequal chain
+  exchanges",8.350025307817853e-06,0.0,3.0,0.0
+cond-mat/0505509,A resolution to doping asymmetry puzzle in high Tc cuprates,8.349114371936093e-06,2.644336502859271e-06,8.0,2.0
+cond-mat/9911074,Phase diagram of the su(8) quantum spin tube,8.348447044546906e-06,3.980365510320144e-06,6.0,2.0
+cond-mat/0312349,Robust two-qubit quantum registers,8.33822928313194e-06,5.644479298685188e-05,1.0,3.0
+cond-mat/0606387,The electron lifetime in Luttinger liquids,8.322786874923267e-06,7.05363940445526e-06,3.0,2.0
+cond-mat/0409701,Antiferromagnetism and charged vortices in high-Tc superconductors,8.322547593497388e-06,0.0,9.0,0.0
+cond-mat/9907315,Integrable open supersymmetric U model with boundary impurity,8.300045961962824e-06,0.0,5.0,0.0
+cond-mat/0606766,"Two-Hole Bound States from a Systematic Low-Energy Effective Field
+  Theory for Magnons and Holes in an Antiferromagnet",8.291998042766162e-06,8.534688197715068e-06,7.0,4.0
+cond-mat/0606009,"Ferroelectricity and Charge Ordering in Quasi One-Dimensional Organic
+  Conductors",8.28371004260334e-06,0.0,5.0,0.0
+cond-mat/9809028,"Coexistence of charge density wave and spin-Peierls orders in
+  quarter-filled quasi-one dimensional correlated electron systems",8.280077114622624e-06,0.0,11.0,2.0
+cond-mat/0207622,"Non-Perturbative Aspects of Fano Resonances in Quantum Dots: An Exact
+  Treatment",8.27878764656286e-06,1.3861969438925876e-07,3.0,3.0
+cond-mat/0702166,Collective coherence in planar semiconductor microcavities,8.27639166559605e-06,2.164473891194792e-06,5.0,1.0
+cond-mat/0012173,"Experimental implications of quantum phase fluctuations in layered
+  superconductors",8.26113015490154e-06,0.0,1.0,0.0
+cond-mat/0103456,"Doping dependence of the resonance peak and incommensuration in
+  high-$T_{c}$ superconductors",8.258492936869067e-06,9.996511205449534e-06,4.0,1.0
+cond-mat/0602101,Defect mediated melting and the breaking of quantum double symmetries,8.248805534786513e-06,5.985400375593351e-06,3.0,3.0
+cond-mat/9811288,Fun with Quantum Dots,8.2423730702189e-06,0.0,7.0,0.0
+cond-mat/0512486,"Collective dispersion relations for the 1D interacting two-component
+  Bose and Fermi gases",8.238645082133426e-06,0.0,6.0,0.0
+cond-mat/0408373,"Persistent superfluid phase in a three-dimensional quantum XY model with
+  ring exchange",8.22954707209032e-06,0.0,5.0,1.0
+cond-mat/0306683,Phase diagram of two-component bosons on an optical lattice,8.228010919517741e-06,1.5559356768545508e-06,9.0,1.0
+cond-mat/0012166,"Theory of spin wave excitations of metallic A-type antiferromagnetic
+  manganites",8.223434462162709e-06,0.0,2.0,0.0
+cond-mat/0110048,Pressure-Induced Magnetism and Hidden Order in URu_2Si_2,8.213962807868213e-06,1.6316032003543107e-05,4.0,3.0
+cond-mat/9906008,Charge density wave and quantum fluctuations in a molecular crystal,8.21346868830567e-06,0.0,1.0,0.0
+cond-mat/9907193,"Functional Bosonization of Non-Relativistic Fermions in $(2+1)$
+  Dimensions",8.207786518043461e-06,0.0,3.0,2.0
+cond-mat/0301077,From the Bose-Einstein to Fermion Condensation,8.207483652219222e-06,2.413467893384416e-08,14.0,1.0
+cond-mat/0211314,Mott-Hubbard transition of cold atoms in optical lattices,8.203992616291196e-06,2.03622429651079e-06,4.0,2.0
+cond-mat/0609395,Conductance through an array of quantum dots,8.193639712517484e-06,0.0,3.0,0.0
+cond-mat/0701669,Single-gap s-wave superconductivity in Cu$_x$TiSe$_2$,8.189045637730307e-06,0.0,4.0,2.0
+cond-mat/0306204,"Spin-exchange interactions of spin-one bosons in optical lattices:
+  singlet, nematic and dimerized Phases",8.179342649274826e-06,2.055823660670988e-05,14.0,5.0
+cond-mat/0610540,"Ground state and excitation properties of the quantum kagom\'{e} system
+  ZnCu$_{3}$(OH)$_{6}$Cl$_{2}$ investigated by local probes",8.175396794722205e-06,2.82424984795032e-06,3.0,6.0
+cond-mat/0203076,"Neutron scattering search for static magnetism in oxygen ordered
+  YBa2Cu3O6.5",8.172521295886351e-06,2.057017250669179e-06,8.0,2.0
+cond-mat/0306341,"Theory of strongly phase fluctuating d-wave superconductors and the spin
+  response in underdoped cuprates",8.154792057443166e-06,0.0,1.0,0.0
+cond-mat/0403182,"Influence of Generic Scale Invariance on Classical and Quantum Phase
+  Transitions",8.144500571027563e-06,1.1043575289785184e-05,10.0,6.0
+cond-mat/0611414,"Projected wavefunction study of Spin-1/2 Heisenberg model on the Kagome
+  lattice",8.14392788254151e-06,0.0,4.0,2.0
+cond-mat/9807393,"Universal critical temperature for Kosterlitz-Thouless transitions in
+  bilayer quantum magnets",8.12399500596072e-06,1.990182755160072e-06,8.0,2.0
+cond-mat/0211036,"The effect of large quantum fluctuation on the noise of a
+  single-electron transistor",8.122939776858358e-06,0.0,2.0,1.0
+cond-mat/0412724,Magnetic state of plutonium ion in metallic Pu and its compounds,8.108762255783955e-06,0.0,3.0,0.0
+cond-mat/0302064,"A method to include the spin-fluctuation in the ab-initio
+  electronic-structure calculation",8.10300870161326e-06,0.0,1.0,0.0
+cond-mat/0007138,Phase transitions in the one-dimensional spin-S $J_1-J_2$ XY model,8.097629782321915e-06,0.0,4.0,1.0
+cond-mat/0612192,Correlation functions of the one-dimensional attractive Bose gas,8.095944644726352e-06,0.0,1.0,1.0
+cond-mat/0011232,"Spin orthogonality catastrophe in two-dimensional antiferromagnets and
+  superconductors",8.094292979577725e-06,1.0128419032909509e-06,4.0,1.0
+cond-mat/0208017,Quasiparticles as composite objects in the RVB superconductor,8.091252523109918e-06,0.0,2.0,1.0
+cond-mat/0303373,"Superconductivity and the high field ordered phase in the heavy fermion
+  compound PrOs$_4$Sb$_{12}$",8.08915055539752e-06,0.0,5.0,0.0
+cond-mat/9811035,"Quantum conductivity corrections in two dimensional long-range
+  disordered systems with strong spin-orbit splitting of electron spectrum",8.086660239112333e-06,0.0,12.0,0.0
+cond-mat/0205226,"Universal Behavior of the Resistance Noise across the Metal-Insulator
+  Transition in Silicon Inversion Layers",8.06555163531981e-06,8.84960432544885e-06,4.0,3.0
+cond-mat/0601338,"Semi-fermionic representation for spin systems under equilibrium and
+  non-equilibrium conditions",8.060764082815134e-06,0.0,4.0,0.0
+cond-mat/0109419,Quantum phase transitions of correlated electrons in two dimensions,8.05804357803635e-06,7.388564185778758e-05,7.0,8.0
+cond-mat/0002356,"Commensurate-Incommensurate Phase Transitions for Multichain Quantum
+  Spin Models: Exact Results",8.048706562676432e-06,0.0,4.0,1.0
+cond-mat/0506457,Superfluid-Insulator Transitions on the Triangular Lattice,8.034762383518777e-06,5.970548265480216e-06,10.0,2.0
+cond-mat/0506710,No sliding in time,8.024142724569205e-06,0.0,10.0,0.0
+cond-mat/0601411,"Applying Adaptive Time-Dependent DMRG to Calculate the Conductance of
+  Strongly Correlated Nanostructures",8.020292066094469e-06,4.326590656845101e-06,5.0,2.0
+cond-mat/0501637,"Local quantum critical point in the pseudogap Anderson model: finite-T
+  dynamics and omega/T scaling",8.014001977466202e-06,0.0,4.0,0.0
+cond-mat/0601103,"Pomeranchuk and Topological Fermi Surface Instabilities from Central
+  Interactions",8.008008131333353e-06,0.0,5.0,0.0
+cond-mat/0407766,Kondo Effect on Mesoscopic Scale (Review),8.001505163817156e-06,0.0,6.0,0.0
+cond-mat/0610754,"Gauge symmetry and non-abelian topological sectors in a geometrically
+  constrained model on the honeycomb lattice",7.990524010449042e-06,0.0,9.0,0.0
+cond-mat/0302030,"Electronic states around a vortex core in high-Tc superconductors based
+  on the t-J model",7.985730245327427e-06,0.0001988823156811,7.0,5.0
+cond-mat/0003221,"High Temperature Expansion for Frustrated and Unfrustrated S=1/2 Spin
+  Chains",7.984988431698212e-06,8.78997383529032e-08,2.0,2.0
+cond-mat/0512648,"Spin waves in a band ferromagnet: spin-rotationally symmetric study with
+  self-energy and vertex corrections",7.969965633135201e-06,1.990182755160072e-06,4.0,2.0
+cond-mat/9812103,A generalized spin ladder in a magnetic field,7.969260284943643e-06,0.0,11.0,3.0
+hep-th/0207232,Induced N=2 composite supersymmetry in 2+1 dimensions,7.961527057083587e-06,2.3952182520983377e-06,6.0,3.0
+cond-mat/0411054,"Nonbonding oxygen holes and spinless scenario of magnetic response in
+  doped cuprates",7.945954596815507e-06,0.0,5.0,0.0
+cond-mat/0005485,"A Fermi liquid model for the overdoped and optimally doped cuprate
+  superconductors: scattering rate, susceptibility, spin resonance peak and
+  superconducting transition",7.942064750173347e-06,0.0,9.0,5.0
+cond-mat/9810014,Ground State Properties of Anderson Impurity in a Gapless Host,7.929843723291284e-06,0.0,2.0,1.0
+cond-mat/0204193,Nernst coefficient and Magnetoresistance in High-Tc Superconductors,7.92718443719751e-06,5.970548265480216e-06,4.0,2.0
+cond-mat/0511416,Valence and Na content dependences of superconductivity in NaxCoO2.yH2O,7.905379902696762e-06,5.970548265480216e-06,4.0,3.0
+cond-mat/9808048,Bond-Operator Mean Field Theory for the Bilayer Heisenberg Model,7.9047095616466e-06,0.0,4.0,0.0
+cond-mat/9905145,"The Finite Temperature Mott Transition in the Hubbard Model in Infinite
+  Dimensions",7.89582830710881e-06,0.0,3.0,0.0
+cond-mat/0503716,Spintronic transport and Kondo effect in quantum dots,7.889781025218622e-06,0.0,10.0,0.0
+cond-mat/9909430,"The Symmetries and Origins of the Order Parameters for Pairing and Phase
+  Coherence in Cuprates",7.881963068163825e-06,0.0,10.0,2.0
+cond-mat/0201292,"BCS and Generalized BCS Superconductivity in Relativistic Quantum Field
+  Theory. II. Numerical Calculations",7.847926423594564e-06,0.0,8.0,0.0
+cond-mat/0104243,"An Investigation of Orientational Symmetry-Breaking Mechanisms in High
+  Landau Levels",7.841961366014318e-06,1.4852110113134864e-08,7.0,3.0
+cond-mat/0404287,"Electron Phonon Interaction and Strong Correlations in High-Temperature
+  Superconductors: One can not avoid unavoidable",7.838655445249772e-06,1.0645155326715805e-05,13.0,4.0
+cond-mat/0507309,"Flux-dependent Kondo temperature in an Aharonov-Bohm interferometer with
+  an in-line quantum dot",7.832381316061474e-06,1.3983261671516476e-05,3.0,2.0
+cond-mat/0503170,Thermal entanglement properties of small spin clusters,7.82468208978577e-06,1.2069416008577406e-07,16.0,1.0
+cond-mat/0606154,Quantum phase transitions of the diluted O(3) rotor model,7.817204277848104e-06,0.0,1.0,1.0
+cond-mat/0605426,Phases of Mott-Hubbard bilayers,7.816960700228482e-06,0.0,1.0,1.0
+cond-mat/0203213,Impurity Effect on Ferromagnetic Transition in Double-Exchange Systems,7.816244296874076e-06,0.0,4.0,0.0
+cond-mat/9803256,"Renormalization-group study of Anderson and Kondo impurities in gapless
+  Fermi systems",7.801817942251165e-06,0.0,2.0,2.0
+cond-mat/0303074,"Nernst effect and the thermoelectric power in strongly coupled
+  electron-phonon systems",7.801439700665755e-06,0.0,2.0,0.0
+cond-mat/0304096,Pseudogaps in the t-J model: Extended DMFT study,7.795290122200782e-06,6.155329984194973e-05,9.0,1.0
+cond-mat/0102374,"Effective interactions in the stripe state of the two-dimensional
+  Hubbard model",7.794237867058607e-06,0.0,4.0,0.0
+cond-mat/0407597,"Quantum phase transition for the BEC--BCS crossover in condensed matter
+  physics and CPT violation in elementary particle physics",7.787868604897991e-06,0.0001067095640331,16.0,10.0
+cond-mat/0301221,Excess current in superconducting Sr$_2$RuO$_4$,7.78531573470454e-06,0.0,2.0,0.0
+cond-mat/0606346,"Dynamic spin-response function of the high-temperature
+  Bi$_2$Sr$_2$CaCu$_2$O$_{8+\delta}$ superconductor form angle resolved
+  photoemission spectra",7.784974789217488e-06,7.4260550565674335e-09,1.0,3.0
+cond-mat/0404614,Well-defined quasiparticles in interacting metallic grains,7.779723942893308e-06,3.2008879163405e-07,3.0,2.0
+cond-mat/0006360,Critical points in two-dimensional replica sigma models,7.778244612937169e-06,0.0001063463368264,18.0,8.0
+cond-mat/0503768,"Superconductivity-Induced Transfer of In-Plane Spectral Weight in
+  Bi2Sr2CaCu2O8: Resolving a Controversy",7.772905586011024e-06,2.039584760212314e-06,5.0,3.0
+cond-mat/0603548,"Non-Fermi-liquid phases in the two-band Hubbard model:
+  Finite-temperature exact diagonalization study of Hund's rule coupling",7.75985486238581e-06,2.3294555452444574e-07,3.0,1.0
+cond-mat/0603053,"Non-activated transport of strongly interacting two-dimensional holes in
+  GaAs",7.751200038505384e-06,2.985274132740108e-06,2.0,2.0
+cond-mat/0407450,"Local density of states of a d-wave superconductor with inhomogeneous
+  antiferromagnetic correlations",7.746409821518518e-06,1.1710317589202491e-08,6.0,1.0
+cond-mat/0601060,Pairing Symmetry Competition in Organic Superconductors,7.743826915236147e-06,5.970548265480216e-06,4.0,3.0
+cond-mat/0004186,"Effect of Non-Magnetic Impurities (Zn,Li) in a Hole Doped Spin-Fermion
+  Model for Cuprates",7.729266714444364e-06,0.0,5.0,0.0
+cond-mat/0608251,"Magnetic Excitations of Coupled Spin Ladders: a Quantum Monte Carlo
+  Study",7.720316754875178e-06,1.2780224262489611e-06,6.0,1.0
+cond-mat/0701135,"Pairing Symmetry and Upward Curvature of Upper Critical Field in
+  Superconducting $Na_{0.35} Co O_2 \cdot y H_2 O$",7.712507390560748e-06,0.0,1.0,0.0
+cond-mat/9907206,Electronic Structure and Heavy Fermion Behavior in LiV_2O_4,7.711117979363945e-06,0.0,2.0,2.0
+cond-mat/9709112,Doped Antiferromagnets in High Dimension,7.706421275439824e-06,0.0,6.0,2.0
+cond-mat/0407654,The bulge in the basal plane area of cuprate superconductors,7.704296755681122e-06,3.959572556161756e-06,3.0,2.0
+hep-lat/0506009,"Matrix product representation of gauge invariant states in a Z_2 lattice
+  gauge theory",7.690556061660609e-06,1.826037633570772e-06,10.0,1.0
+cond-mat/0612229,"A gentle introduction to the functional renormalization group: the Kondo
+  effect in quantum dots",7.689484352983531e-06,0.0,1.0,0.0
+quant-ph/0307108,Renormalisation and fixed points in Hilbert Space,7.682144759097562e-06,0.0,3.0,0.0
+cond-mat/0502487,Spin-1/2 fermions on spin-dependent optical lattices,7.681398038373916e-06,2.224155997478906e-06,3.0,1.0
+cond-mat/0206421,"Stripes and holes in a two-dimensional model of spinless fermions and
+  hardcore bosons",7.680350315444106e-06,1.521023003729806e-07,5.0,3.0
+cond-mat/0610214,Multiferroicity induced by dislocated spin-density waves,7.676739307904632e-06,0.0,4.0,0.0
+cond-mat/0107431,Raman Response in Antiferromagnetic Two-Leg S=1/2 Heisenberg Ladders,7.67379867395953e-06,0.0,5.0,3.0
+cond-mat/0010395,"Realistic modeling of strongly correlated electron systems: An
+  introduction to the LDA+DMFT approach",7.670538351717859e-06,0.0,5.0,5.0
+cond-mat/0111201,Dipole and Quadrupole Skyrmions in S=1 (Pseudo)Spin Systems,7.668026612744852e-06,1.990182755160072e-06,4.0,1.0
+cond-mat/0610488,High energy scales in electronic self-energy imaged by optics,7.660669938746362e-06,3.1560733990411595e-08,7.0,2.0
+cond-mat/0101414,"Approach to the metal-insulator transition in La(1-x)CaxMnO3 (0<x<.2):
+  magnetic inhomogeneity and spin wave anomaly",7.653494780221117e-06,0.0,3.0,0.0
+cond-mat/0003200,"Bond and charge density waves in the isotropic interacting
+  two-dimensional quarter-filled band and the insulating state proximate to
+  organic superconductivity",7.650300092011665e-06,4.45563303394046e-08,6.0,2.0
+cond-mat/9908225,Ordered phases in spin-Peierls systems,7.64616955804444e-06,1.990182755160072e-06,5.0,1.0
+cond-mat/0603853,"Suppression of electron-electron repulsion and superconductivity in
+  Ultra Small Carbon Nanotubes",7.646050796524799e-06,0.0,5.0,0.0
+quant-ph/0401151,Luttinger liquid of polarons in one-dimensional boson-fermion mixtures,7.62844712783007e-06,2.562587869923552e-06,13.0,1.0
+cond-mat/0409470,Competing orders II: the doped quantum dimer model,7.618653473494381e-06,0.0,11.0,1.0
+cond-mat/0508114,"Effects of an external magnetic field on the gaps and quantum
+  corrections in an ordered Heisenberg antiferromagnet with
+  Dzyaloshinskii-Moriya anisotropy",7.596681864320579e-06,0.0,4.0,0.0
+cond-mat/0402011,Resonant magnetic mode in superconducting 2-leg ladders,7.594579077705173e-06,1.990182755160072e-06,3.0,1.0
+cond-mat/9812379,"Effects of biquadratic exchange on the spectrum of elementary
+  excitations in spin ladders",7.5917304481077985e-06,0.0,4.0,1.0
+cond-mat/0610191,"Sensitivity of the interlayer magnetoresistance of layered metals to
+  intralayer anisotropies",7.590806176156248e-06,0.0,1.0,0.0
+cond-mat/0001227,"Critical properties of the double-frequency sine-Gordon model with
+  applications",7.590018044632495e-06,3.9729394552635765e-06,6.0,4.0
+hep-th/0410198,"Induced tunneling in QFT: soliton creation in collisions of highly
+  energetic particles",7.583732015953338e-06,1.990182755160072e-06,15.0,2.0
+cond-mat/0701428,From density-matrix renormalization group to matrix product states,7.544712501838623e-06,0.0,4.0,0.0
+cond-mat/9902311,"Transition from Haldane Phase to Spin Liquid and Incommensurate
+  Correlation in Spin-1/2 Heisenberg Chains",7.531793205381908e-06,0.0,8.0,0.0
+cond-mat/0703027,Valence Bond Entanglement Entropy,7.509862129683683e-06,1.2314874635474324e-07,1.0,1.0
+cond-mat/0606380,Finite Energy Electronic Correlations in Low-Dimensional Systems,7.507418135944934e-06,0.0,6.0,0.0
+math-ph/0608046,A Multi-Dimensional Lieb-Schultz-Mattis Theorem,7.506518123607981e-06,0.0,7.0,0.0
+cond-mat/0110209,Ferromagnetism and disorder: A dynamical mean-field study,7.503492933140001e-06,0.0,3.0,0.0
+cond-mat/0012203,Metallic Ferromagnetism - an Electronic Correlation Phenomenon,7.496378548100677e-06,0.0,4.0,7.0
+cond-mat/0407085,"Strong- and weak-coupling mechanisms for pseudogap in electron-doped
+  cuprates",7.496027793255849e-06,3.230834913638427e-07,4.0,2.0
+cond-mat/0501141,"Full counting statistics of super-Poissonian shot noise in multi-level
+  quantum dots",7.493905063797359e-06,4.081653675115557e-06,5.0,1.0
+cond-mat/0006085,A critical examination of the spin dynamics in high-$T_C$ cuprates,7.492671458735259e-06,3.421505772942942e-05,12.0,11.0
+cond-mat/0411594,"Chiral symmetry breaking in ${\rm QED}_{3}$ in presence of irrelevant
+  interactions: a renormalization group study",7.49141783411923e-06,2.2758173147990847e-05,3.0,2.0
+cond-mat/0406635,Single particle spectrum of the flux phase in the FM Kondo Model,7.4871588895062465e-06,7.96964228670817e-06,1.0,1.0
+cond-mat/0602189,"Magnetic excitations and their anisotropy in YBCO: slave-boson
+  mean-field analysis of bilayer t-J model",7.484988502364817e-06,0.0,6.0,0.0
+cond-mat/0505606,"Na$_x$CoO$_2$ in the x -> 0 Regime: Coupling of Structure and
+  Correlation effects",7.472590296519156e-06,1.990182755160072e-06,5.0,1.0
+hep-th/0412253,Real-Time Instantons and Suppression of Collision-Induced Tunneling,7.463210080488959e-06,0.0,2.0,1.0
+cond-mat/0212066,"Flow of the quasiparticle weight in the N-patch renormalization group
+  scheme",7.45892175726294e-06,0.0,7.0,0.0
+cond-mat/0409335,Properties of the superconducting state in a two-band model,7.445151451559248e-06,0.0,6.0,0.0
+cond-mat/0507380,"Universal relaxational dynamics of gapped one dimensional models in the
+  quantum sine-Gordon universality class",7.444818680865059e-06,1.0261457896347723e-08,4.0,1.0
+cond-mat/0006432,The fractional quantum Hall effect in infinite layer systems,7.438169647252852e-06,7.4260550565674335e-09,4.0,2.0
+cond-mat/9910079,Bosons in a Lattice: Exciton-Phonon Condensate in Cu2O,7.437888978295945e-06,2.4753516855224776e-09,9.0,1.0
+cond-mat/0608129,"Spin Liquid States on the Triangular and Kagome Lattices: A Projective
+  Symmetry Group Analysis of Schwinger Boson States",7.427965793345731e-06,8.458486654997908e-07,7.0,1.0
+cond-mat/0105295,"Exact ground state of one- and two-dimensional frustrated quantum spin
+  systems",7.42423371937024e-06,0.0,1.0,0.0
+cond-mat/9910231,"Translational symmetry breaking in two-dimensional antiferromagnets and
+  superconductors",7.421969228177163e-06,2.6681785788197214e-05,7.0,14.0
+cond-mat/9909224,The magnetism of the t-t' Hubbard model,7.421568605589235e-06,0.0,5.0,1.0
+cond-mat/0003065,"Modeling of the Magnetic Susceptibilities of the Ambient- and
+  High-Pressure Phases of (VO)_{2}P_{2}O_{7}",7.407569405609653e-06,1.990182755160072e-06,9.0,1.0
+cond-mat/0212090,Multiphase Superconductivity in Skutterudite PrOs_4Sb_12,7.407093137668467e-06,0.0,3.0,5.0
+cond-mat/0408529,Thermal transport of the XXZ chain in a magnetic field,7.405072062456051e-06,3.980365510320144e-06,3.0,1.0
+cond-mat/0511442,Static vs. dynamical mean field theory of Mott antiferromagnets,7.404638549411897e-06,5.992826430649918e-06,2.0,2.0
+cond-mat/9811089,"Lax pair formulation for a small-polaron chain with integrable
+  boundaries",7.401749982513897e-06,0.0,3.0,0.0
+cond-mat/0107253,Interacting fermions in self-similar potentials,7.400755667746818e-06,0.0,6.0,0.0
+cond-mat/0409247,Competing orders in one dimensional spin 3/2 fermionic systems,7.389730954915105e-06,3.0781627793229364e-05,6.0,5.0
+cond-mat/0008384,"New interpretation of slave boson mean-field theory of the $t-J$ model:
+  short-range antiferromagnetic and d-wave pairing correlations",7.377683131893318e-06,0.0,3.0,1.0
+cond-mat/0409506,"Theory of isotope effect in photoemission spectra of high-T_c
+  superconducting cuprates",7.377292093833967e-06,9.710530140219254e-06,4.0,1.0
+cond-mat/9906170,Luttinger liquid behavior in multi-wall carbon nanotubes,7.376834361087243e-06,0.0,3.0,0.0
+cond-mat/0006055,Metallic behavior and related phenomena in two dimensions,7.37363250162192e-06,0.0004187003955439,8.0,26.0
+cond-mat/0106229,"Theory of combined exciton-cyclotron resonance in a two-dimensional
+  electron gas: The strong magnetic field regime",7.37136818688287e-06,0.0,2.0,1.0
+cond-mat/0501165,"Extrinsic inhomogeneity effects in magnetic, transport and
+  magnetoresistive properties of La_{1-x}Ca_{x}MnO_{3} (x\approx 0.33) crystal
+  prepared by the floating zone method",7.354849639701799e-06,0.0,5.0,0.0
+cond-mat/0407767,Fragmentation of bands and the Fermi surfaces in stripe phases,7.3496833050130545e-06,0.0,2.0,0.0
+cond-mat/0308272,Half-Metallicity of LSMO,7.346673491227829e-06,0.0,4.0,0.0
+cond-mat/0307587,Cluster Dynamical Mean Field Theories,7.346014180822601e-06,2.6732508735644276e-05,2.0,8.0
+cond-mat/0310632,"Spin-Dependent Transport through the Finite Array of Quantum Dots: Spin
+  Gun",7.343032366235184e-06,0.0,5.0,0.0
+cond-mat/0004441,"Ising-model description of the SU(2)_1 quantum critical point in a
+  dimerized two-leg spin-1/2 ladder",7.341798948329316e-06,0.0,4.0,0.0
+cond-mat/9912200,Low-energy behavior of the spin-tube and spin-orbital models,7.337247184752079e-06,0.0,9.0,5.0
+cond-mat/0106176,Droplets in Disordered Metallic Quantum Critical Systems,7.335785297561334e-06,4.733505159287824e-06,2.0,2.0
+cond-mat/0606003,The Pairing Interaction in the 2D Hubbard Model,7.330685801272693e-06,4.928476872065423e-06,5.0,6.0
+cond-mat/0004243,Triplet Dispersion in CuGeO_3: Perturbative Analysis,7.320444023361875e-06,0.0,3.0,0.0
+cond-mat/0601385,Spin wave instabilities and field induced transitions in heavy fermions,7.315302201252572e-06,0.0,3.0,0.0
+cond-mat/0005328,"Properties of strongly correlated two-dimensional electron gas in
+  semiconductor layers",7.3149591251186576e-06,9.406336404985413e-08,9.0,4.0
+cond-mat/0601382,Collective excitations in unconventional charge-density wave systems,7.3117130764807135e-06,0.0,2.0,0.0
+cond-mat/0405468,"Fourier Transformed Scanning Tunneling Peaks in the $d$-density wave
+  phase",7.310231234887344e-06,0.0,6.0,2.0
+cond-mat/0105446,"Fractionalization patterns in strongly correlated electron systems:
+  Spin-charge separation and beyond",7.308059335252184e-06,8.088473513478925e-06,6.0,9.0
+quant-ph/0602094,"Scaling Behavior of Entanglement in Two- and Three-Dimensional Free
+  Fermions",7.2997607982085855e-06,0.0006864279971962,4.0,6.0
+cond-mat/0402405,"Triplet superconductivity vs. easy-plane ferromagnetism in a 1D
+  itinerant electron system with transverse spin anisotropy",7.297472315752543e-06,0.0,1.0,1.0
+cond-mat/9709169,Universal scaling behavior of coupled chains of interacting fermions,7.294855140350391e-06,0.0,3.0,1.0
+cond-mat/0108416,"Operator Projection Theory for Electron Differentiation in Underdoped
+  Cuprate Superconductors",7.29281954418315e-06,0.0,5.0,3.0
+cond-mat/0411267,Functional renormalization group in the two-dimensional Hubbard model,7.292769301428363e-06,5.083694736339144e-06,5.0,4.0
+cond-mat/0007503,"Commensurate-incommensurate transition in two-coupled chains of nearly
+  half-filled electrons",7.291144039506563e-06,0.0,5.0,1.0
+cond-mat/0603184,Viscosity of a two-dimensional Fermi liquid,7.285589248964673e-06,9.95091377580036e-07,4.0,1.0
+cond-mat/0602524,"Field-induced quantum disordered phases in S=1/2 weakly-coupled dimer
+  systems with site dilution",7.271463645806207e-06,5.970548265480216e-06,3.0,2.0
+cond-mat/0112343,"Competing orders in a magnetic field: spin and charge order in the
+  cuprate superconductors",7.266686732744401e-06,0.0017042703710603,13.0,8.0
+cond-mat/0503399,"Criticality in quantum triangular antiferromagnets via fermionized
+  vortices",7.260927683369897e-06,1.288459845008154e-05,6.0,2.0
+cond-mat/0102502,A new class of magnetic materials: Sr2FeMoO6 and related compounds,7.259236215622272e-06,0.0,3.0,0.0
+cond-mat/0008284,"Asymmetric shape and dynamic stability of exciton-phonon solitons moving
+  in a periodic medium",7.250581357359964e-06,0.0,6.0,0.0
+cond-mat/0411761,"Field- and temperature induced topological phase transitions in the
+  three-dimensional $N$-component London superconductor",7.245122341671052e-06,2.3442024178610147e-05,6.0,2.0
+cond-mat/9906320,Dephasing in Disordered Conductors due to Fluctuating Electric Fields,7.242578395866874e-06,0.0,5.0,0.0
+cond-mat/0303447,"Anomalous specific heat jump in the heavy fermion superconductor
+  CeCoIn$_5$",7.242151630047721e-06,0.0,3.0,0.0
+cond-mat/0402025,"Quantum Phase Transitions in a Cuprate Superconductor
+  Bi_{2}Sr_{2-x}La_{x}CuO_{6+\delta}",7.239092551985082e-06,0.0,2.0,0.0
+cond-mat/0501103,"Field-angle resolved specific heat and thermal conductivity in the
+  vortex phase of UPd_2Al_3",7.237691335775819e-06,5.963122210423648e-06,2.0,1.0
+cond-mat/0011233,"Static hole in a critical antiferromagnet: field-theoretic
+  renormalization group",7.235955340270637e-06,0.0,2.0,1.0
+cond-mat/0611229,"Magnetostriction in the Bose-Einstein Condensate quantum magnet
+  NiCl2-4SC(NH2)2",7.2354064818972115e-06,0.0,3.0,0.0
+cond-mat/0302550,"Open Questions in CMR Manganites, Relevance of Clustered States, and
+  Analogies with other Compounds",7.234081574561102e-06,6.442294383422168e-05,7.0,11.0
+cond-mat/0303053,Superconducting fluctuations in the Luther-Emery liquid,7.221276992309467e-06,1.977187158811079e-06,4.0,2.0
+cond-mat/0510608,Doping Evolution of the Underlying Fermi Surface in La2-xSrxCuO4,7.207668220880256e-06,3.084051498727147e-05,2.0,14.0
+cond-mat/0409527,"Towards realistic electronic structure calculations of strongly
+  correlated electron systems",7.206416302532116e-06,0.0,5.0,1.0
+cond-mat/0603504,"Triplet superconductivity in a 1D itinerant electron system with
+  transverse spin anisotropy",7.200198899204389e-06,0.0,2.0,0.0
+cond-mat/0701476,"Superfluid Insulator Transitions of Hard-Core Bosons on the Checkerboard
+  Lattice",7.193321251982349e-06,1.2582001229118617e-07,3.0,1.0
+cond-mat/0607487,"The bulge in the basal plane area of cuprate superconductors - evidence
+  for 3a singlet hole pairs",7.178863622484087e-06,0.0,3.0,0.0
+cond-mat/0410296,"Strongly Correlated Impurity Band Superconductivity in Diamond: X-ray
+  Spectroscopic evidence for upper Hubbard and mid-gap bands",7.174619284362358e-06,2.8730677235806453e-07,9.0,5.0
+cond-mat/0609748,Quantum Noise Analysis of Spin Systems Realized with Cold Atoms,7.160565381284757e-06,1.819383488859021e-08,9.0,1.0
+cond-mat/0702011,"Perturbative calculation of non-local corrections to dynamical mean
+  field theory",7.1440225661370665e-06,0.0,1.0,0.0
+cond-mat/0510321,"Diagonalization- and Numerical Renormalization-Group-Based Methods for
+  Interacting Quantum Systems",7.143810493547804e-06,5.94841109543941e-06,7.0,4.0
+cond-mat/0405211,"Superconducting Gap Function in Antiferromagnetic Heavy-Fermion
+  UPd_2Al_3 Probed by Angle Resolved Magnetothermal Transport Measurements",7.139609913979001e-06,1.0166400924217444e-05,4.0,4.0
+cond-mat/0703352,"Interaction-Induced Adiabatic Cooling for Antiferromagnetism in Optical
+  Lattices",7.139395090749338e-06,0.0,2.0,0.0
+cond-mat/0605226,Checkerboard order in the t--J model on the square lattice,7.133399138375041e-06,0.0,1.0,0.0
+cond-mat/9912429,Superconductivity in striped Hubbard Clusters,7.129962044662829e-06,0.0,11.0,0.0
+cond-mat/0408004,Itinerant metamagnetism induced by electronic nematic order,7.125738244188919e-06,1.990182755160072e-06,2.0,1.0
+nucl-th/0408014,The Kinetic Energy Density in Kohn-Sham Density Functional Theory,7.125367217789898e-06,4.115220710734091e-06,9.0,5.0
+cond-mat/9809380,"Phase Separation in Models for Manganites: Theoretical Aspects and
+  Comparison with Experiments",7.121180715573539e-06,0.0,9.0,5.0
+cond-mat/0302504,"Quantum dots in high magnetic fields: Rotating-Wigner-molecule versus
+  composite-fermion approach",7.118035683628067e-06,0.0,2.0,1.0
+cond-mat/0607236,"Stability and properties of striped phases in systems of interacting
+  fermions or hard-core bosons",7.115213613601367e-06,0.0,5.0,0.0
+cond-mat/0403718,"Order and disorder in the triangular-lattice t-J-V model at 2/3 electron
+  density",7.114773547915547e-06,3.980365510320144e-06,8.0,2.0
+cond-mat/0207463,Incomplete information and correlated electrons,7.10925189537019e-06,0.0,8.0,1.0
+cond-mat/9802053,Dynamical effects of phonons on soliton binding in spin-Peierls systems,7.101997982932888e-06,0.0,7.0,7.0
+cond-mat/0611774,"Antiferromagnetism in two-dimensional t-J model: pseudospin
+  representation",7.100563985445068e-06,0.0,1.0,0.0
+cond-mat/0608690,Hidden symmetry and quantum phases in spin-3/2 cold atomic systems,7.0989524842418975e-06,9.90140674208991e-09,7.0,4.0
+cond-mat/0205667,Pressure Induced Change in the Magnetic Modulation of CeRhIn5,7.097763190974559e-06,0.0,1.0,1.0
+cond-mat/0506560,Enhancement of pairing due to the presence of resonant cavities,7.092778058392024e-06,0.0,3.0,0.0
+cond-mat/0008041,"Confinement symmetry, mobility anisotropy, and metallic behavior in
+  (311)A GaAs 2D holes",7.092568122043998e-06,0.0,1.0,2.0
+cond-mat/0202455,Strongly Correlated States in Low Dimensions (Thesis),7.083792599523426e-06,3.002558103939804e-05,8.0,4.0
+cond-mat/0204085,MgB2: superconductivity and pressure effects,7.083064445826186e-06,2.721111135505484e-09,11.0,2.0
+cond-mat/0304417,Spontaneous Pseudospin Spiral Order in Bilayer Quantum Hall Systems,7.082954994738908e-06,0.0,2.0,0.0
+cond-mat/0306537,Absence of U(1) spin liquids in two dimensions,7.0791997967577375e-06,2.496817840133261e-06,6.0,2.0
+cond-mat/9809357,"Phase diagram and validity of one-parameter scaling near the
+  two-dimensional metal-insulator transition",7.073634241749689e-06,0.0,5.0,4.0
+cond-mat/0211244,"The non-Fermi-liquid nature of the metallic states of the Hubbard
+  Hamiltonian",7.0725656632872775e-06,1.8553851843460272e-08,4.0,3.0
+cond-mat/0111393,"A Duality Between Unidirectional Charge Density Wave Order and
+  Superconductivity",7.068947842519338e-06,2.158245813776281e-06,3.0,3.0
+quant-ph/0307131,"Entanglement, quantum phase transition and scaling in XXZ chain",7.064166538537899e-06,7.246913533611927e-08,2.0,3.0
+cond-mat/0408281,"Robustness of the global non-analytical fit to the analysis of
+  peak-dip-hump lineshape in bilayer-split spectra of
+  Bi$_2$Sr$_2$CaCu$_2$O$_{8+\delta}$",7.059941859947431e-06,0.0,2.0,1.0
+cond-mat/0404683,Magnetocaloric effect in one-dimensional antiferromagnets,7.042708579786707e-06,0.0,4.0,0.0
+cond-mat/0611067,"Suppression of superconductivity in the Hubbard model by buckling and
+  breathing phonons",7.041431858601857e-06,0.0,2.0,0.0
+cond-mat/9901191,Quantum Lifshitz Point,7.033876254614731e-06,0.0,6.0,2.0
+cond-mat/0205197,"Phase Diagram of a Model for Diluted Magnetic Semiconductors Beyond
+  Mean-Field Approximations",7.030377843817921e-06,4.091224600242052e-06,6.0,2.0
+cond-mat/0412314,"Dynamical Mean-Field Theory - from Quantum Impurity Physics to Lattice
+  Problems",7.024850964307678e-06,3.980365510320144e-06,8.0,1.0
+cond-mat/0506292,Coherence Network in the Quantum Hall Bilayer,7.020756355425245e-06,0.0,3.0,0.0
+cond-mat/0506474,"Probing Magnetic Gap Collapse within a Three-band Model of Resonant
+  inelastic x-ray scattering (RIXS) in the Cuprates",7.0167782961120094e-06,0.0,4.0,1.0
+cond-mat/0306542,The directed-loop algorithm,7.015979889270496e-06,0.0,4.0,0.0
+cond-mat/0407587,Competition between singlet and triplet pairings in Na_xCoO_2 yH_2O,7.010460540611348e-06,2.143827213502598e-06,10.0,5.0
+cond-mat/0610361,"Strong charge fluctuations manifested in the high-temperature Hall
+  coefficient of high-T_c cuprates",7.007807707062963e-06,0.0,1.0,1.0
+cond-mat/0107115,"Ground-State Phase Diagram of Quantum Heisenberg Antiferromagnets on the
+  Anisotropic Dimerized Square Lattice",7.003369938262287e-06,6.994377599727935e-05,3.0,5.0
+cond-mat/0402679,"Thermodynamic properties and thermal correlation lengths of a Hubbard
+  model with bond-charge interaction",6.998117122799431e-06,0.0,2.0,0.0
+cond-mat/0009091,"Mixing of magnetic and phononic excitations in incommensurate
+  Spin-Peierls systems",6.995938343625719e-06,0.0,1.0,0.0
+cond-mat/0310590,Phase Diagram of the Heisenberg Spin Ladder with Ring Exchange,6.987829217989235e-06,0.0,2.0,0.0
+cond-mat/0703717,"Testable signatures of quantum non-locality in a two-dimensional chiral
+  p-wave superconductor",6.986177860273269e-06,0.0,4.0,0.0
+cond-mat/0611390,"Devil's staircases, quantum dimer models, and stripe formation in strong
+  coupling models of quantum frustration",6.983556390537864e-06,0.0,2.0,0.0
+cond-mat/0409005,Quantum Phases in Partially Filled Landau Levels,6.98211569758162e-06,0.0,3.0,0.0
+cond-mat/0102171,"Exact Langevin equation for electrons in thermostat, Fokker-Planck
+  kinetics and flicker noise",6.978329434323824e-06,0.0,3.0,5.0
+cond-mat/9708007,Double exchange magnets: Spin-dynamics in the paramagnetic phase,6.962953635854868e-06,0.0,2.0,4.0
+cond-mat/0006265,Magnetic resonance peak and nonmagnetic impurities,6.959658690585952e-06,1.0814648686432429e-05,9.0,4.0
+cond-mat/0406513,Investigation of the Spin Density Wave in NaxCoO2,6.953039968673786e-06,0.0,6.0,1.0
+cond-mat/0305512,"Theory of spin response in underdoped cuprates as strongly fluctuating
+  d-wave superconductors",6.950442874635424e-06,1.990182755160072e-06,3.0,1.0
+cond-mat/0502461,"The Truncated Polynomial Expansion Monte Carlo Method for Fermion
+  Systems Coupled to Classical Fields: A Model Independent Implementation",6.937461520876139e-06,3.422884709874851e-05,1.0,1.0
+cond-mat/0303279,"Finite-Energy Pseudoparticle Theory for the 1D Hubbard Model II: Holon
+  and Spinon Dominant Processes for the Few-Electron Spectral Weight Properties",6.93480255210445e-06,1.990182755160072e-06,5.0,4.0
+cond-mat/0106600,"Renormalized perturbation calculations for the single impurity Anderson
+  model",6.927647502565794e-06,7.4260550565674335e-09,1.0,1.0
+cond-mat/0410290,"Cooperative effect of phonons and electronic correlations for
+  superconductivity in cobaltates",6.927141515057996e-06,0.0,7.0,0.0
+cond-mat/0310333,Continuous Charge Modulated Diagonal Phase in Manganites,6.922652603299882e-06,0.0,2.0,0.0
+cond-mat/0207571,"Dilute limit of a strongly-interacting model of spinless fermions and
+  hardcore bosons on the square lattice",6.922426109664364e-06,0.0,3.0,0.0
+cond-mat/0703293,Theory of inelastic scattering from quantum impurities,6.920023729314264e-06,0.0,3.0,0.0
+cond-mat/9704210,"Electronic structure and magnetic properties of the linear chain
+  cuprates Sr_2CuO_3 and Ca_2CuO_3",6.914478948788879e-06,0.0,7.0,0.0
+cond-mat/0503458,"Existence of Fermion Zero Modes and Deconfinement of Spinons in Quantum
+  Antiferromagnetism resulting from Algebraic Spin Liquid",6.9124663727996684e-06,1.8565137641418583e-08,11.0,1.0
+cond-mat/0008048,"Renormalization group analysis of quantum critical points in d-wave
+  superconductors",6.91189996861608e-06,1.3456361693088638e-05,6.0,4.0
+cond-mat/0102138,"Finite-temperature dynamical magnetic susceptibility of
+  quasi-one-dimensional frustrated spin-1/2 Heisenberg antiferromagnets",6.911171389787735e-06,3.990266917062234e-06,5.0,3.0
+cond-mat/0101027,"Spin and Current Correlation Functions in the \bf d-density Wave State
+  of the Cuprates",6.904741192898639e-06,5.592835295413236e-06,6.0,6.0
+cond-mat/9807127,"Quantum Monte Carlo Simulation of the Trellis Lattice Heisenberg Model
+  for SrCu$_2$O$_3$ and CaV$_2$O$_5$",6.900147257966376e-06,6.37872815524536e-05,2.0,4.0
+cond-mat/0204320,Conductivity of quantum-spin chains: A Quantum Monte Carlo approach,6.899958320131052e-06,0.0,3.0,1.0
+cond-mat/0110368,Dominant mode in the cuprates: electronic vs. phononic scenario,6.896787638308931e-06,0.0,4.0,0.0
+cond-mat/0405236,Supercurrent in Nodal Superconductors,6.8954220975014605e-06,0.0,8.0,3.0
+cond-mat/0104347,Valley Splitting in Si-Inversion Layers at Low Magnetic Fields,6.893349487602315e-06,0.0010342463394031,11.0,16.0
+cond-mat/0401063,Band structure of Charge Ordered Doped Antiferromagnets,6.891788440863905e-06,6.324931581513038e-08,4.0,2.0
+cond-mat/0105104,Electron fractionalization and cuprate superconductivity,6.88934658614553e-06,3.4885913066478904e-06,14.0,4.0
+cond-mat/0702443,"Valence bond solids for SU(n) spin chains: exact models, spinon
+  confinement, and the Haldane gap",6.888489608765508e-06,0.0,3.0,0.0
+cond-mat/0610562,"CoO2-Layer-Thickness Dependence of Magnetic Properties and Possible Two
+  Different Superconducting States in NaxCoO2.yH2O",6.876615640473369e-06,1.990182755160072e-06,4.0,1.0
+cond-mat/0501462,"Magnetic ground state of CeNi$_{1-x}$Cu$_{x}$: A calorimetric
+  investigation",6.873868091396655e-06,0.0,2.0,0.0
+cond-mat/9902150,Kondo screening in gapless magnetic alloys,6.867276241397119e-06,0.0,2.0,0.0
+cond-mat/0412241,"Modulation of the local density of states within the $d$-density wave
+  theory in the underdoped cuprates",6.860164957258497e-06,1.3168231185303252e-05,8.0,3.0
+cond-mat/0108359,Quantum Phase Transition in a Multi-Level Dot,6.84887063475303e-06,0.0,3.0,3.0
+cond-mat/0101150,"Internal Modes and Magnon Scattering on Topological Solitons in 2d
+  Easy-Axis Ferromagnets",6.836970153141587e-06,0.0,1.0,0.0
+cond-mat/0604511,Quasiparticle states of the Hubbard model near the Fermi level,6.835924907364302e-06,0.0,4.0,0.0
+cond-mat/9803131,"Weak Coupling Phases of the Attractive $t-t'$ Hubbard Model at the Van
+  Hove Filling",6.833030000582689e-06,0.0,7.0,1.0
+cond-mat/0107380,From the Fermi Liquid Towards the Wigner Solid in Two Dimensions,6.829516938296875e-06,9.22086339950151e-06,8.0,4.0
+cond-mat/0407310,The magnetic nature of superconductivity in doped cuprates,6.82764226725795e-06,1.876060182463989e-05,4.0,3.0
+cond-mat/0509188,"Energetic balance of the superconducting transition across the BCS-Bose
+  E instein crossover in the attractive Hubbard model",6.82447652980646e-06,0.0,3.0,0.0
+cond-mat/0512183,Physics of Complex Magnetic Materials: Quasiparticle Many-Body Dynamics,6.823476245951099e-06,0.0,4.0,0.0
+cond-mat/0612466,"Nonequilibrium dynamical mean-field theory of strongly correlated
+  electrons",6.81012449644001e-06,0.0,3.0,0.0
+cond-mat/0007037,External voltage sources and Tunneling in quantum wires,6.807604496295214e-06,0.0,3.0,1.0
+cond-mat/0607773,"Nonequilibrium magnetotransport through a quantum dot: An interpolative
+  perturbative approach",6.802398659526977e-06,1.9976088102166394e-06,5.0,1.0
+cond-mat/0601271,"Quantum Monte Carlo Study of Strongly Correlated Electrons: Cellular
+  Dynamical Mean-Field Theory",6.7996227120364185e-06,1.1443334065694024e-05,7.0,4.0
+cond-mat/0405542,Conductance of a quantum wire at low electron density,6.799293554845351e-06,0.0,2.0,1.0
+cond-mat/0103633,"Exact renormalization group flow equations for non-relativistic
+  fermions: scaling towards the Fermi surface",6.795595812713451e-06,0.0001163846722371,6.0,3.0
+cond-mat/0001374,"Magnetic excitations in coupled Haldane spin chains near the quantum
+  critical point",6.795263106327727e-06,0.0,1.0,0.0
+cond-mat/0506434,A brief note about V_2O_3,6.795200548644679e-06,0.0,4.0,0.0
+cond-mat/0208517,Exact integral equation for the renormalized Fermi surface,6.794202996959575e-06,0.0,5.0,2.0
+cond-mat/0108213,"Time Correlation Functions of Three Classical Heisenberg Spins on an
+  Isosceles Triangle and on a Chain: Strong Effects of Broken Symmetry",6.788320168858906e-06,0.0,1.0,3.0
+cond-mat/0103396,"Short-ranged RVB physics, quantum dimer models and Ising gauge theories",6.781593686667322e-06,0.0006740646719177,9.0,18.0
+cond-mat/0407700,On the Stacking Charge Order in NaV2O5,6.774340640311722e-06,0.0,2.0,0.0
+cond-mat/0504191,"Ring Exchange Mechanism for Triplet Superconductivity in a Two-Chain
+  Hubbard Model: Possible Relevance to Bechgaard Salts",6.772332438900164e-06,1.990182755160072e-06,3.0,1.0
+cond-mat/0312499,"Pseudogap and Spin Fluctuations in the Normal State of Electron-Doped
+  Cuprates",6.770220469546117e-06,4.901196337334506e-09,2.0,5.0
+cond-mat/0309438,Competing density-wave orders in a one-dimensional hard-boson model,6.7675679468825615e-06,1.3367189791683118e-05,4.0,4.0
+cond-mat/0409446,Magnetothermal Transport of Oriented Graphite at Low Temperatures,6.7613328590551645e-06,1.9976088102166394e-06,2.0,1.0
+cond-mat/0206529,Glassy behavior of electrons near metal-insulator transitions,6.758229894341168e-06,1.9180007680645345e-06,3.0,2.0
+cond-mat/0611722,Valley Kondo Effect in Silicon Quantum Dots,6.758138381961402e-06,0.0,4.0,0.0
+cond-mat/0009201,Effects of dissipation on quantum phase transitions,6.756979743999172e-06,0.000304194246451,8.0,4.0
+cond-mat/0504778,Extended Variational Cluster Approximation,6.751896361643038e-06,0.0,6.0,1.0
+cond-mat/0510098,"Evolution of Superconductivity in Electron-Doped Cuprates: Magneto-Raman
+  Spectroscopy",6.740971734158325e-06,5.73016462989911e-06,1.0,1.0
+cond-mat/0007470,"Large non-adiabatic hole polarons and matrix element effects in the
+  angle-resolved photoemission spectroscopy of dielectric cuprates",6.7202225988723496e-06,0.0,6.0,0.0
+cond-mat/0502396,Time evolution of one-dimensional Quantum Many Body Systems,6.71987339744088e-06,6.863822526820662e-06,6.0,2.0
+cond-mat/0204539,"Density matrix renormalization group analysis of the spin 1/2 XXZ chain
+  in an XY symmetric random magnetic field",6.715309799268224e-06,0.0,2.0,0.0
+cond-mat/0105593,"Anisotropy in the electronic screening of oxygen lattice modes in
+  YBa(2)Cu(3)O(6.95)",6.714944621645006e-06,5.354991849398424e-05,4.0,9.0
+cond-mat/0610126,Quantum phase transition in the heavy-fermion compound YbIr$_2$Si$_2$,6.7031054951752456e-06,0.0,1.0,0.0
+cond-mat/0504188,Valence transition in the periodic Anderson model,6.7031054951752456e-06,0.0,1.0,0.0
+cond-mat/0511257,"Tails of the dynamical structure factor of 1D spinless fermions beyond
+  the Tomonaga approximation",6.699606134643397e-06,1.2916096279892538e-05,4.0,3.0
+cond-mat/9909023,Orbital Polarization and Fluctuation in Manganese Oxides,6.697839144964154e-06,0.0,7.0,0.0
+cond-mat/0208547,Orbital state and magnetic properties of LiV_2 O_4,6.695523895087448e-06,0.0,4.0,0.0
+cond-mat/0612220,Dual vortex theory of doped Mott insulators,6.687100355254411e-06,1.1316845477871913e-07,3.0,1.0
+cond-mat/9801004,Marginal Fermi Liquid in a lattice of three-body bound-states,6.68230795121977e-06,0.0,4.0,1.0
+cond-mat/9812086,Hidden Integrability of a Kondo Impurity in an Unconventional Host,6.677085462290693e-06,0.0,1.0,1.0
+cond-mat/0108171,"Kondo effect of impurity moments in d-wave superconductors: Quantum
+  phase transition and spectral properties",6.675289835119811e-06,0.0,8.0,1.0
+cond-mat/0402253,"Spin and Valley dependent analysis of the two-dimensional low-density
+  electron system in Si-MOSFETS",6.67404709421863e-06,3.980365510320144e-06,2.0,2.0
+cond-mat/9906409,Boundary Kondo impurities in the generalized supersymmetric t-J model,6.669108579055795e-06,0.0,13.0,3.0
+cond-mat/0512173,Theory of Raman scattering on electron-doped high-$T_c$ superconductor,6.668510530347849e-06,3.980365510320144e-06,2.0,1.0
+cond-mat/0603227,"Competition between d-wave superconductivity and antiferromagnetism in
+  the 2D Hubbard model",6.665062424603478e-06,4.705815530494561e-06,4.0,4.0
+cond-mat/0512241,Quantum degenerate Bose-Fermi mixtures on 1-D optical lattices,6.661113008384225e-06,1.6521047276220465e-05,7.0,3.0
+cond-mat/0611723,Electrical resistivity near Pomeranchuk instability in two dimensions,6.654345271819588e-06,1.990182755160072e-06,4.0,1.0
+cond-mat/0606743,Prediction of quantum stripe ordering in optical lattices,6.651020989968648e-06,4.108730176297952e-06,3.0,2.0
+cond-mat/0510832,"Magnetic properties of antiferromagnetic quantum Heisenberg spin systems
+  with a strict single particle site occupation",6.6472321106746485e-06,1.990182755160072e-06,5.0,1.0
+cond-mat/0403385,One-dimensional conduction in Charge-Density Wave nanowires,6.64549719761325e-06,0.0,2.0,1.0
+cond-mat/0702565,From Luttinger to Fermi liquids in organic conductors,6.645030399364193e-06,0.0,4.0,0.0
+cond-mat/0602675,Distinguishing Patterns of Charge Order: Stripes or Checkerboards,6.637451227614614e-06,1.5718583277499854e-05,6.0,7.0
+cond-mat/0508141,Complex Electronic Behavior in a 1D Correlated Quantum Liquid,6.63703748452169e-06,9.841439212708008e-06,3.0,3.0
+cond-mat/0701509,Doped Mott insulator as the origin of heavy Fermion behavior in LiV2O4,6.624196438128863e-06,0.0,2.0,0.0
+cond-mat/0305385,"Role of spinon and spinon singlet pair excitations on phase transitions
+  in $d-wave$ superconductors",6.620962166058806e-06,0.0,3.0,0.0
+cond-mat/0510761,Vortices in Superfluid Fermi Gases through the BEC to BCS Crossover,6.620060733663146e-06,9.148589383274592e-07,4.0,3.0
+cond-mat/9711022,Quantum Monte Carlo Loop Algorithm for the t-J Model,6.6084468058477e-06,0.0001656549522486,5.0,3.0
+cond-mat/0609087,"Symmetry constraints on the electrical polarization in novel
+  multiferroic materials",6.605003767724206e-06,0.0,4.0,1.0
+cond-mat/0408168,Strongly correlated regimes in a double quantum-dot device,6.604963287283345e-06,2.8858911330298144e-06,2.0,2.0
+cond-mat/0106286,"Planar pyrochlore, quantum ice and sliding ice",6.60291074223407e-06,1.3368617103107589e-05,10.0,21.0
+cond-mat/9706073,"Hole-pair symmetry and excitations in the strong-coupling extended t-J_z
+  model",6.600299982084503e-06,0.0,6.0,1.0
+cond-mat/0009067,Competing Quantum Orderings in Cuprate Superconductors: A Minimal Model,6.600131565489524e-06,5.177210023901457e-06,6.0,4.0
+cond-mat/0602015,"Domain-wall excitons and optical conductivity in one-dimensional Wigner
+  lattices",6.598081567387543e-06,0.0,4.0,0.0
+cond-mat/0601302,"Quantum magnetism with multicomponent polar molecules in an optical
+  lattice",6.584559970090228e-06,0.0,2.0,3.0
+cond-mat/0601237,Entanglement entropy and the Berry phase in solid states,6.578802355593648e-06,0.0001418227723054,3.0,6.0
+cond-mat/0110168,"N\'eel transition, spin fluctuations, and pseudogap in underdoped
+  cuprates by a Lorentz invariant four-fermion model in 2+1 dimensions",6.577782843466465e-06,1.493261555912001e-05,4.0,4.0
+cond-mat/0703745,"Full counting statistics of transport through two-channel Coulomb
+  blockade systems",6.577525025462367e-06,0.0,4.0,0.0
+cond-mat/0503764,"Orbital selective Mott transition in multi-band systems: slave-spin
+  representation and dynamical mean-field theory",6.576495523580483e-06,3.316738945023468e-05,5.0,14.0
+cond-mat/0103471,"Dynamical mean-field theory of a double-exchange model with diagonal
+  disorder",6.57471836970248e-06,0.0,4.0,4.0
+cond-mat/0602606,Electron-phonon interaction and antiferromagnetic correlations,6.571150514180103e-06,1.9976088102166394e-06,3.0,1.0
+cond-mat/0605306,"Quantum critical behavior in itinerant electron systems -- Eliashberg
+  theory and instability of a ferromagnetic quantum-critical point",6.56535071043368e-06,9.95091377580036e-06,3.0,4.0
+cond-mat/0312617,Quantum criticality beyond the Landau-Ginzburg-Wilson paradigm,6.562832149912843e-06,0.0009659538631391,7.0,21.0
+cond-mat/0512165,Entanglement renormalization,6.56059184371084e-06,1.635146400293041e-05,9.0,15.0
+cond-mat/0605321,"Spectral properties of rotating electrons in quantum dots and their
+  relation to quantum Hall liquids",6.560343479216536e-06,1.990182755160072e-06,3.0,1.0
+cond-mat/0406023,"Luttinger liquid versus charge density wave behaviour in the
+  one-dimensional spinless fermion Holstein model",6.55890781825366e-06,0.0,1.0,1.0
+cond-mat/0702362,"Evidence for local lattice distortions in giant magnetocapacitive
+  CdCr2S4",6.55890781825366e-06,0.0,1.0,0.0
+cond-mat/0311262,Octupole Ordering Model for the Phase IV of CexLa1-xB6,6.55890781825366e-06,0.0,1.0,0.0
+cond-mat/0210421,Tail states in superconductors with weak magnetic impurities,6.55890781825366e-06,0.0,1.0,1.0
+cond-mat/0003246,Electrodynamics of quasi-two-dimensional BEDT-TTF charge transfer salts,6.55890781825366e-06,0.0,1.0,1.0
+cond-mat/0211073,"Doping dependence of chemical potential and entropy in hole- and
+  electron-doped high-Tc cuprates",6.55691448207565e-06,0.0,3.0,0.0
+cond-mat/0206092,Ground state of the random-bond spin-1 Heisenberg chain,6.553395806000037e-06,0.0,5.0,1.0
+cond-mat/0212483,"New sum rules relating the 1-body momentum distribution of the
+  homogeneous electron gas to the Overhauser 2-body wave functions of its pair
+  density",6.551936831588614e-06,0.0,4.0,0.0
+cond-mat/0603118,Interacting Fermi Gases in Disordered One-Dimensional Lattices,6.544332589873494e-06,0.0,3.0,0.0
+cond-mat/0303585,"Condensation energy, charge ordering and inter-layer coupling in
+  cuprates",6.542290219678645e-06,1.9948240395704267e-06,3.0,3.0
+cond-mat/0603545,"Excitations of a low-dimensional dimerized spin ladder under a magnetic
+  field",6.537575269726257e-06,0.0,4.0,0.0
+cond-mat/0105464,Field-Induced Magnetic Order in Quantum Spin Liquids,6.537002984964815e-06,0.0,4.0,1.0
+cond-mat/0602357,"Low-energy excitations in the magnetized state of the bond-alternating
+  quantum S=1 chain system NTENP",6.53533182161989e-06,0.0,3.0,1.0
+cond-mat/0109466,Phonon anomalies due to stripe collective modes in high T_c cuprates,6.529386984193125e-06,0.0,8.0,0.0
+cond-mat/9812389,"Classical versus Quantum Effects in the B=0 Conducting Phase in Two
+  Dimensions",6.522277298904711e-06,0.0,8.0,5.0
+hep-ph/0102183,Frontiers of Inflationary Cosmology,6.521366759835804e-06,5.492899390642853e-05,30.0,3.0
+cond-mat/0703290,"Metal-insulator (fermion-boson)-crossover origin of pseudogap phase of
+  cuprates I: anomalous heat conductivity, insulator resistivity boundary,
+  nonlinear entropy",6.51900801551886e-06,0.0,4.0,0.0
+cond-mat/0007349,Sliding Phases via Magnetic Fields,6.517007253756006e-06,0.0,4.0,0.0
+cond-mat/0412733,Self-consistent GW combined with single site DMFT for a Hubbard model,6.516676666205536e-06,0.0,6.0,0.0
+cond-mat/0501684,Theory of momentum resolved tunneling into a short quantum wire,6.513256238826592e-06,0.0,2.0,1.0
+cond-mat/0505545,"Anisotropy of incommensurate spin and charge fluctuations in detwinned
+  YBa$_2$Cu$_3$O$_{6+\delta}$",6.509229986985386e-06,0.0,2.0,0.0
+cond-mat/0008073,"Theory of Coexistence of Superconductivity and Ferroelectricity : A
+  Dynamical Symmetry Model",6.503878696058145e-06,0.0,5.0,0.0
+cond-mat/9911171,Stripes Disorder and Correlation lengths in doped antiferromagnets,6.493240249071885e-06,1.4852110113134864e-08,5.0,3.0
+cond-mat/0606383,Possible role of 3He impurities in solid 4He,6.492497948067758e-06,0.0,2.0,0.0
+cond-mat/0204440,Coexistence of ferromagnetism and superconductivity,6.490085659263464e-06,2.044640492241567e-06,4.0,1.0
+cond-mat/9803245,"Peierls instability and optical response in the one--dimensional
+  half--filled Holstein model of spinless fermions",6.484910880212139e-06,0.0,4.0,0.0
+cond-mat/0702585,"Electron Correlation and Pairing States in Superconductors without
+  Inversion Symmetry",6.481430218037945e-06,1.9696095516105e-06,2.0,1.0
+cond-mat/0306708,"Numerical Renormalization Group for Bosonic Systems and Application to
+  the Subohmic Spin-Boson Model",6.481364264977823e-06,1.0853421722096676e-06,2.0,2.0
+cond-mat/0505747,"Origin of the Weak Pseudo-gap Behaviors in Na_{0.35}CoO_2: Absence of
+  Small Hole Pockets",6.474021622385323e-06,0.0,2.0,0.0
+cond-mat/9811005,Landau-Ginzburg Theories for Non-Abelian Quantum Hall States,6.470962208083531e-06,5.855025335417142e-06,9.0,8.0
+cond-mat/0004139,Coherent and incoherent pumping of electrons in double quantum dots,6.4670222388181776e-06,0.0,1.0,0.0
+cond-mat/0312158,Many-body theory of degenerate systems: A simple example,6.463890377752666e-06,1.6745033383065023e-06,2.0,1.0
+cond-mat/0210248,Aspects of Duality in Nodal Liquids,6.4625001331179145e-06,0.0,3.0,2.0
+cond-mat/0310504,The planar pyrochlore antiferromagnet: A large-N analysis,6.460201872271527e-06,3.7130275282837164e-09,6.0,3.0
+cond-mat/0611019,Infrared Hall conductivity of Na$_{0.7}$CoO$_2$,6.459905193979271e-06,0.0,5.0,0.0
+cond-mat/0611347,"Existence and topological stability of Fermi points in multilayered
+  graphene",6.455234270527425e-06,0.0,8.0,0.0
+cond-mat/0306553,"Tunneling, dissipation, and superfluid transition in quantum Hall
+  bilayers",6.453759106782637e-06,0.0,2.0,0.0
+cond-mat/0111175,"Spectral properties of the Holstein double-exchange model and
+  application to manganites",6.451144580419857e-06,0.0,1.0,0.0
+cond-mat/0107496,"Antiferromagnetism and Superconductivity in a Model with Extended
+  Pairing Interactions",6.449792978751588e-06,0.0,5.0,0.0
+cond-mat/0606165,"An exact study of charge-spin separation, pairing fluctuations and
+  pseudogaps in four-site Hubbard clusters",6.4480252661578665e-06,0.0,2.0,0.0
+cond-mat/0302427,Correlation and surface effects in Vanadium Oxides,6.447423038141124e-06,0.0,2.0,0.0
+cond-mat/0606285,LDA+DMFT computation of the electronic spectrum of NiO,6.443867564928386e-06,3.995217620433279e-06,2.0,1.0
+cond-mat/0607210,"Degenerate perturbation theory of quantum fluctuations in a pyrochlore
+  antiferromagnet",6.443731043946207e-06,3.120646619995189e-06,5.0,2.0
+cond-mat/0303411,"Magnetic and superconducting instabilities in the periodic Anderson
+  model: an RPA stud",6.442139707212752e-06,0.0,5.0,0.0
+cond-mat/0111269,"Resonant X-ray Scattering in Manganites - Study of Orbital Degree of
+  Freedom -",6.4417670376514095e-06,0.0,6.0,0.0
+cond-mat/9803086,Nodal Liquid Theory of the Pseudo-Gap Phase of High-Tc Superconductors,6.441028392633032e-06,0.0,2.0,14.0
+cond-mat/0212195,"Fermi 1D quantum gas: Luttinger liquid approach and spin-charge
+  separation",6.439224227428146e-06,3.620843119373175e-06,11.0,1.0
+cond-mat/0302152,"Quantum dimer model with extensive ground-state entropy on the kagome
+  lattice",6.423639445478048e-06,1.2449105731687829e-05,3.0,6.0
+cond-mat/9711216,"Interchain coherence of coupled Luttinger liquids at all orders in
+  perturbation theory",6.418232433456792e-06,0.0,4.0,0.0
+cond-mat/0606149,"Magnetic field dependence of the superconducting gap node topology in
+  non-centrosymmetric CePt$_3$Si",6.414273798825928e-06,3.959792306770572e-06,3.0,1.0
+cond-mat/0503389,"Angular-dependent Magnetoresistance Oscillations in Na$_{0.48}$CoO$_{2}$
+  Single Crystal",6.408420417393004e-06,0.0,6.0,0.0
+cond-mat/0204566,"In-plane Magnetoconductivity of Si-MOSFET's: A Quantitative Comparison
+  between Theory and Experiment",6.407860129910948e-06,6.6377563880785445e-06,4.0,10.0
+cond-mat/0007299,Measuring anisotropic scattering in the cuprates,6.406240822822895e-06,3.0350272673536012e-05,4.0,9.0
+cond-mat/0508691,Slave-boson theory of the Mott transition in the two-band Hubbard model,6.403582716055935e-06,1.4852110113134864e-08,6.0,1.0
+hep-th/0610262,Confinement in (2+1)-Dimensional Gauge Theories at Weak Coupling,6.3988060046727015e-06,0.0,3.0,1.0
+cond-mat/0402147,"Imaging phase separation near the Mott boundary in the correlated
+  organic superconductors $\kappa$-(BEDT-TTF)$_{2}$X",6.39878186262624e-06,0.0,3.0,0.0
+cond-mat/0411745,"Resonating Valence Bond wave function: from lattice models to realistic
+  systems",6.398751609912547e-06,0.0,4.0,0.0
+cond-mat/0111368,ARPES Spectra of the Hubbard model,6.397458913028285e-06,3.980365510320144e-06,4.0,2.0
+cond-mat/0403155,Charge ordering and magneto-polarons in Na$_{0.82}$CoO$_2$,6.395795783292126e-06,2.9794290311939428e-06,11.0,4.0

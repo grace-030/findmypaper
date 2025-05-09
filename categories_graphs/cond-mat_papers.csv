@@ -1,0 +1,1417 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+hep-th/0306138,Heat kernel expansion: user's manual,8.921083380956964e-05,0.0004847181473103,162.0,54.0
+cond-mat/0304363,Random matrix theory and symmetric spaces,5.707766058986665e-05,7.082954942172007e-06,83.0,9.0
+hep-th/0003190,"A Collection of Exercises in Two-Dimensional Physics, Part 1",4.926360093773162e-05,2.5619240618061808e-05,78.0,11.0
+hep-th/0111228,Bits and Pieces in Logarithmic Conformal Field Theory,3.657257139383127e-05,0.0015231256104299,127.0,67.0
+cond-mat/0307559,Vortex Rings in two Component Bose-Einstein Condensates,3.250509516907189e-05,8.092611320955428e-05,30.0,6.0
+hep-th/0109162,Quantum Field Theory on Noncommutative Spaces,3.216292833367945e-05,0.0023302478754585,245.0,345.0
+cond-mat/0210312,Dynamics of glassy systems,3.1689188739820154e-05,0.0009709577040732,36.0,92.0
+hep-th/9905229,Fractons and Fractal Statistics,3.108551512798182e-05,0.0,25.0,0.0
+cond-mat/0303557,"Density Matrix Renormalization: A Review of the Method and its
+  Applications",2.9847686978945227e-05,0.0009804778858551,39.0,3.0
+cond-mat/0304344,"There is life in the old horse yet or what else we can learn studying
+  spin-1/2 XY chains",2.8447688234113028e-05,0.0,14.0,0.0
+hep-th/0008222,"Fractal statistics, fractal index and fractons",2.8286897607004105e-05,6.779994806793523e-05,6.0,1.0
+cond-mat/0306407,"Non-linear Response of the trap model in the aging regime : Exact
+  results in the strong disorder limit",2.750758565682875e-05,1.5966840803580124e-06,14.0,1.0
+cond-mat/0309644,Adiabatic quantum pump in the presence of external ac voltages,2.703506512242138e-05,0.0,17.0,0.0
+cond-mat/0211196,Granular media: some ideas from statistical physics,2.665589099060133e-05,5.985975010806061e-05,27.0,6.0
+cond-mat/0106247,Numerical study of quantum percolation,2.426064315816521e-05,0.0,2.0,0.0
+hep-th/0002181,"Fractal index, central charge and fractons",2.419855194445155e-05,7.5549271760619e-06,5.0,4.0
+cond-mat/0306675,"Low Temperature Properties of Finite Dimensional Ising Spin Glasses :
+  (some) Numerical Simulations",2.370139583640055e-05,0.0009742844857354,18.0,3.0
+hep-th/0208202,"Integrable aspects of the scaling q-state Potts models II: finite-size
+  effects",2.3451468561804506e-05,1.4561674741093027e-06,45.0,3.0
+hep-th/0309077,Affine Toda-Sutherland Systems,2.2089077001803637e-05,3.41774098290059e-08,15.0,1.0
+cond-mat/9901306,Reaction Diffusion Models in One Dimension with Disorder,2.178689225755542e-05,0.0,21.0,5.0
+hep-th/0206226,Rotational Symmetry Breaking in Multi-Matrix Models,2.1381966929891404e-05,1.7581183183676626e-06,74.0,15.0
+gr-qc/0005091,Superfluid analogies of cosmological phenomena,2.095795831569396e-05,0.0008292726086434,33.0,53.0
+cond-mat/0310378,"A fourth-order time-splitting Laguerre-Hermite pseudo-spectral method
+  for Bose-Einstein condensates",1.9607585684171308e-05,0.0,2.0,0.0
+cond-mat/0303650,Multiplicative Noise in Non-equilibrium Phase Transitions: A tutorial,1.932586101062299e-05,1.7937635989138633e-05,14.0,7.0
+hep-ph/0108236,Supersymmetry Structure and Phenomena,1.882314141830108e-05,0.0001360458226487,74.0,19.0
+cond-mat/9910082,Density Matrix Renormalization,1.87943073249129e-05,2.953084363203617e-05,19.0,6.0
+cond-mat/9909179,"The partition function for ""composite particles""",1.850100272127273e-05,1.975330645046937e-06,8.0,1.0
+cond-mat/0204136,Nonlinear waves in a cylindrical Bose-Einstein condensate,1.8419924094017837e-05,1.990182755160072e-06,6.0,1.0
+hep-th/9709100,New Developments in the Continuous Renormalization Group,1.8051866909681323e-05,2.960738608236489e-05,25.0,18.0
+hep-lat/0103036,"Non-perturbative computation of the bubble nucleation rate in the cubic
+  anisotropy model",1.801364975152603e-05,1.3172072341232422e-07,30.0,3.0
+cond-mat/0305309,Ground states and dynamics of multi-component Bose-Einstein condensates,1.8000641750568208e-05,1.9976088102166394e-06,7.0,1.0
+hep-th/0308052,Quantum & Classical Eigenfunctions in Calogero & Sutherland Systems,1.791920577507283e-05,7.001709053335009e-08,10.0,2.0
+cond-mat/0112315,"Continuous quantum measurement of a Bose-Einstein condensate: a
+  stochastic Gross-Pitaevskii equation",1.741764573963254e-05,0.0,3.0,0.0
+cond-mat/0311017,Constructive Methods of Invariant Manifolds for Kinetic Problems,1.7305334217887365e-05,2.6649654306727853e-05,19.0,5.0
+hep-th/0012256,"Magnetic catalysis of parity breaking in a massive Gross-Neveu model and
+  high-temperature superconductivity",1.708233261584677e-05,0.0002748962243518,9.0,3.0
+cond-mat/0305194,SU(N) Evolution of a Frustrated Spin Ladder,1.7064684029898812e-05,1.1930295244620467e-06,20.0,1.0
+nlin/0210047,Path integration over closed loops and Gutzwiller's trace formula,1.682258500697842e-05,1.990182755160072e-06,8.0,1.0
+hep-th/0012058,Spin chains from super-models,1.6681616691426103e-05,1.5329606262408774e-06,21.0,3.0
+hep-ph/0005122,"Non-Perturbative Renormalization Flow in Quantum Field Theory and
+  Statistical Physics",1.667261884960157e-05,0.0018731411538575,33.0,112.0
+hep-th/0302144,"Integrable quantum field theories with supergroup symmetries: the
+  $OSP(1/2)$ case",1.6566771025997026e-05,2.4438808102568467e-06,14.0,2.0
+cond-mat/0301096,Is Econophysics a Solid Science?,1.65491272914544e-05,1.3428008964553252e-05,10.0,4.0
+cond-mat/0112368,Novel aspects of spin-polarized transport and spin dynamics,1.6451708576151044e-05,4.265270452467659e-06,14.0,1.0
+hep-th/0301045,Half-monopoles and half-vortices in the Yang-Mills theory,1.642207737404331e-05,4.946796497944055e-07,4.0,1.0
+hep-th/0304140,"Perturbation theory including topological degrees of freedom: Yang-Mills
+  theory in three Euclidean dimensions",1.6364400935698166e-05,0.0,7.0,0.0
+cond-mat/9907411,"`Composite particles' and the eigenstates of Calogero-Sutherland and
+  Ruijsenaars-Schneider",1.6327124751504833e-05,3.7130275282837164e-09,5.0,1.0
+cond-mat/0209689,"Nanoscale Phase Separation in Colossal Magnetoresistance Materials: A
+  Lesson for the Cuprates?",1.6150259401470308e-05,4.634908359812321e-05,11.0,6.0
+cond-mat/9609118,Parquet solution for a flat Fermi surface,1.6001067511503774e-05,0.0,17.0,2.0
+solv-int/9908001,"Non-additive fusion, Hubbard models and non-locality",1.5988748657539178e-05,0.0,2.0,0.0
+cond-mat/0108474,"Universal solutions for interacting bosons in one-dimensional harmonic
+  traps",1.598733772974475e-05,0.0,4.0,0.0
+cond-mat/0206540,Spin-polarized bipolar transport and its applications,1.5937704626951113e-05,1.8793236652381636e-06,8.0,1.0
+hep-th/0201108,The ODE/IM correspondence and PT-symmetric quantum mechanics,1.5883565668456524e-05,1.0214366259327406e-05,38.0,3.0
+hep-ph/0302055,"Dynamical renormalization group approach to relaxation in quantum field
+  theory",1.5774594608877457e-05,1.2093925210838176e-05,4.0,7.0
+cond-mat/0304486,"Exact multilocal renormalization on the effective action : application
+  to the random sine Gordon model statics and non-equilibrium dynamics",1.549946002193483e-05,1.6033752672050483e-05,15.0,9.0
+hep-ph/0206053,A Step Beyond the Bounce: Bubble Dynamics in Quantum Phase Transitions,1.5235159099911237e-05,2.6049162015456832e-06,31.0,2.0
+hep-th/9711008,Boundary fields and renormalization group flow in the two-matrix model,1.5160911596567664e-05,1.9877074034745497e-06,12.0,3.0
+hep-ph/0011333,The Condensed Matter Physics of QCD,1.506626669704701e-05,0.0017545681472741,109.0,489.0
+cond-mat/0202178,Lieb Mode in a Quasi One-Dimensional Bose-Einstein Condensate of Atoms,1.5028405853195444e-05,0.0,4.0,1.0
+hep-th/9812166,On the Free-Energy of Three-Dimensional CFTs and Polylogarithms,1.4817983078228056e-05,1.773889563580577e-06,8.0,5.0
+cond-mat/0101404,Two leg quantum Ising ladder: A bosonization study of the ANNNI model,1.4760524440644438e-05,0.0,1.0,0.0
+cond-mat/0106539,"Separation of time and length scales in spin-glasses: temperature as a
+  microscope",1.467793672865095e-05,2.2035285660551446e-06,11.0,5.0
+cond-mat/0201481,Spin-drift transport and its applications,1.4674864512781748e-05,2.275087697307587e-06,4.0,3.0
+cond-mat/9812180,A first principle computation of the thermodynamics of glasses,1.4594781926017735e-05,0.0006088857105223,16.0,7.0
+hep-th/0008171,Fractal distribution function and fractal-deformed Heisenberg algebras,1.4588806725936551e-05,0.0,3.0,2.0
+solv-int/9903003,New Integrable Models from Fusion,1.4377802375474754e-05,1.9693147742740405e-06,5.0,1.0
+cond-mat/0011430,"Analytical Results for Trapped Weakly Interacting Bosons in Two
+  Dimensions",1.3998494956405748e-05,1.9928831388170057e-06,9.0,1.0
+cond-mat/0007133,Dimerization of Ferrimagnets on Chains and Square Lattices,1.3736416857890404e-05,0.0,8.0,0.0
+cond-mat/0207289,BEC Collapse and Dynamical Squeezing of Vacuum Fluctuations,1.363014047842144e-05,0.0001396198298919,20.0,8.0
+cond-mat/0211558,Spatially heterogeneous ages in glassy dynamics,1.359864838702983e-05,7.618210631567714e-05,24.0,6.0
+hep-ph/0110220,"Nonequilibrium Phenomena in Quantum Field Theory: From Linear Response
+  to Dynamical Renormalization Group",1.3511640663293236e-05,1.2934628110097566e-05,20.0,1.0
+hep-th/0201165,New Critical Matrix Models and Generalized Universality,1.348432108667852e-05,7.586559238607633e-05,41.0,8.0
+cond-mat/0207495,Optimal quantum pump in the presence of a superconducting lead,1.3452450069824162e-05,6.541856119103119e-06,4.0,2.0
+cond-mat/0010183,Glassy effects in the swelling/collapse dynamics of homogeneous polymers,1.335643703778339e-05,0.0,7.0,0.0
+hep-th/0208021,Dirac Spectra and Real QCD at Nonzero Chemical Potential,1.33355328685941e-05,4.770961872187486e-07,13.0,3.0
+hep-th/0304095,"Universal random matrix correlations of ratios of characteristic
+  polynomials at the spectral edges",1.3146088034715335e-05,0.0001370786923432,32.0,6.0
+quant-ph/0204058,Quantum Entanglement in Second-quantized Condensed Matter Systems,1.304007464533111e-05,0.0010686790631187,17.0,13.0
+hep-th/0212051,Characteristic Polynomials of Complex Random Matrix Models,1.2914760040698138e-05,0.0001473837041495,44.0,10.0
+hep-th/9905054,Conformal field theory of the integer quantum Hall plateau transition,1.285317568806373e-05,0.0006137294387594,13.0,50.0
+quant-ph/0304098,Ground state entanglement in quantum spin chains,1.2814061221833324e-05,0.0007585764478445,45.0,60.0
+cond-mat/0303270,"Anomalous diffusion, Localization, Aging and Sub-aging effects in trap
+  models at very low temperature",1.277735702298323e-05,3.7130275282837164e-09,7.0,3.0
+cond-mat/0208025,Exclusion particle models of limit order financial markets,1.2726446621300162e-05,1.3248082220916271e-06,17.0,2.0
+cond-mat/0010120,Local magnetic properties of periodic nonuniform spin-1/2 XX chains,1.2668339443704984e-05,2.56793964122475e-05,4.0,1.0
+math-ph/0110017,The spectral gap for the ferromagnetic spin-J XXZ chain,1.2658135550308816e-05,1.4727352388184604e-05,12.0,6.0
+gr-qc/0011026,Analog gravity from Bose-Einstein condensates,1.2600874749868396e-05,2.5132496416283865e-05,29.0,28.0
+cond-mat/0202378,Variational Perturbation Theory for Markov Processes,1.2540848587711247e-05,0.0,8.0,1.0
+cond-mat/0007093,Multispecies reaction-diffusion systems,1.2509674800574802e-05,0.0,5.0,0.0
+astro-ph/0108300,Kolmogorov-Burgers Model for Star Forming Turbulence,1.2298724984555696e-05,1.1941983531981076e-05,17.0,3.0
+cond-mat/9806038,Theory of Bose-Einstein condensation in trapped gases,1.227916226755373e-05,7.379908088143244e-05,15.0,48.0
+cond-mat/9902249,"One and Two Dimensional Spin Systems in the Regime Close to
+  Deconfinement of Spinons",1.22270238537616e-05,0.0,6.0,0.0
+hep-th/0312275,Correlation Functions of The Tri-critical 3-states Potts Model,1.2059789812437756e-05,0.0,4.0,0.0
+cond-mat/9801242,Flat-band ferromagnetism induced by off-site repulsions,1.2049141464769013e-05,0.0,5.0,1.0
+hep-th/0204246,The solution of a chiral random matrix model with complex eigenvalues,1.1925984412193515e-05,8.102093864274162e-05,41.0,18.0
+cond-mat/0105124,Exactly solvable models through the empty interval method,1.1924657947276952e-05,4.171470105109203e-06,5.0,4.0
+cond-mat/9411017,Monte Carlo Studies of Ising Spin Glasses and Random Field Systems,1.1918962696097892e-05,0.0,14.0,0.0
+cond-mat/0310520,"Weakly nonlocal continuum theories of granular media: restrictions from
+  the Second Law",1.184087029336052e-05,0.0,7.0,1.0
+cond-mat/9902336,"On the localization of random heteropolymers at the interface between
+  two selective solvents",1.168862356205931e-05,5.918565880084244e-06,6.0,1.0
+hep-th/0007112,"Half-Integer Winding Number Solutions to the Landau-Ginzburg-Higgs
+  Equations and Instability of the Abrikosov-Nielsen-Olesen Vortex",1.1524079808224369e-05,0.0,9.0,1.0
+quant-ph/0305155,Cavity QED and Quantum Computation in the Strong Coupling Regime,1.1472040294366488e-05,0.0,18.0,1.0
+cond-mat/0304148,Deformation of dark solitons in inhomogeneous Bose-Einstein condensates,1.1417908868800498e-05,0.0,3.0,1.0
+cond-mat/9812230,"Continuous phase transition in a spin-glass model without time-reversal
+  symmetry",1.1378423946383124e-05,0.0,10.0,0.0
+cond-mat/0204403,Slow dynamics in the 3--D gonihedric model,1.1258316890250903e-05,1.990182755160072e-06,15.0,2.0
+cond-mat/0102326,Spin Polarized Ground State for Interacting Electrons in Two Dimensions,1.1235255800178894e-05,0.0,7.0,1.0
+cond-mat/9708085,Moving glass theory of driven lattices with disorder,1.1227326867676204e-05,0.0,12.0,2.0
+cond-mat/9501093,SPIN AND CHARGE MODES OF THE t-J LADDER,1.1136304142073996e-05,0.0,4.0,2.0
+cond-mat/0305618,"On a non-linear Fluctuation Theorem for the aging dynamics of disordered
+  trap models",1.113135583112272e-05,1.976391510055018e-06,12.0,2.0
+cond-mat/0307491,"Probing semiclassical analogue gravity in Bose--Einstein condensates
+  with widely tunable interactions",1.108564213191334e-05,1.057972529119575e-05,25.0,11.0
+chao-dyn/9712015,"Quantum Mechanics and Semiclassics of Hyperbolic n-Disk Scattering
+  Systems",1.1067148833794452e-05,0.0,10.0,2.0
+cond-mat/9707206,Quantum relaxation in open chaotic systems,1.1064564954839864e-05,0.0,5.0,1.0
+cond-mat/0109073,Explosion-implosion duality in the Bose-Einstein condensation,1.1060559318157432e-05,1.778395651912893e-05,8.0,4.0
+solv-int/9911008,Multidimensional analogs of geometric s<-->t duality,1.1040629157892955e-05,0.0,5.0,3.0
+hep-ph/0009058,The Phases of QCD in Heavy Ion Collisions and Compact Stars,1.1035773313326044e-05,2.3006881304459213e-05,94.0,30.0
+hep-th/0106053,"Microscopic correlations of non-Hermitian Dirac operators in
+  three-dimensional QCD",1.0989276261519856e-05,1.569973210639812e-05,29.0,12.0
+cond-mat/0302361,A Unified Algebraic Approach to Few and Many-Body Correlated Systems,1.0939772318135404e-05,1.9864697276317883e-06,14.0,1.0
+cond-mat/0006491,Off equilibrium properties of vortex creep in superconductors,1.0874304904389512e-05,0.0,3.0,4.0
+cond-mat/0309059,"Some Further Results for the Stationary Points and Dynamics of
+  Supercooled Liquids",1.0864061517320304e-05,3.980365510320144e-06,4.0,1.0
+hep-th/0001110,Effective Low Energy Theories and QCD Dirac Spectra,1.0857280118651698e-05,6.899616553255327e-06,27.0,13.0
+cond-mat/9910052,"Collective modes in a system with two spin-density waves: the `Ribault'
+  phase of quasi-one-dimensional organic conductors",1.0841595851318535e-05,0.0,5.0,0.0
+cond-mat/0210319,"Competition between adaptive agents: from learning to collective
+  efficiency and back",1.0768467905063308e-05,0.0,22.0,0.0
+cond-mat/9508080,"Quantum phase transitions in spins systems and the high temperature
+  limit of continuum quantum field theories",1.075195209305317e-05,0.0,7.0,14.0
+hep-th/0001085,Trans-Planckian redshifts and the substance of the space-time river,1.074892244035298e-05,0.0001700893811566,31.0,27.0
+hep-ph/9909369,"Dynamical Renormalization Group Approach to Quantum Kinetics in Scalar
+  and Gauge Theories",1.063501525702068e-05,1.0351141655118524e-05,23.0,10.0
+cond-mat/0205450,Linear spin waves in a trapped Bose gas,1.0606509539852157e-05,1.990182755160072e-06,5.0,1.0
+cond-mat/0006258,"Creep of superconducting vortices in the limit of vanishing temperature:
+  A fingerprint of off-equilibrium dynamics",1.05820012675391e-05,0.0,5.0,2.0
+hep-th/9910033,Calogero-Moser Models V: Supersymmetry and Quantum Lax Pair,1.056200389986743e-05,1.2276197850365417e-05,25.0,21.0
+cond-mat/0101065,Memory effects in response functions of driven vortex matter,1.0551228565132667e-05,0.0,4.0,2.0
+cond-mat/9807138,Real-time non-equilibrium dynamics of quantum glassy systems,1.053211595030688e-05,0.0003627860932806,14.0,2.0
+cond-mat/0111523,"Exact results on the dynamics of multi-component Bose-Einstein
+  condensate",1.0530334939461033e-05,3.822786576244798e-06,10.0,2.0
+cond-mat/0007106,Turbulence for (and by) amateurs,1.0515021901388194e-05,1.5888124331492446e-05,11.0,7.0
+cond-mat/9708112,Glassy trapping of manifolds in nonpotential random flows,1.0508788305688248e-05,0.0,6.0,0.0
+cond-mat/0205340,Theory of spin-polarized bipolar transport in magnetic p-n junctions,1.0407670049740812e-05,0.0,9.0,1.0
+cond-mat/0309312,"Berry's Phases of Ground States of Interacting Spin-One Bosons: Chains
+  of Monopoles and Monosegments",1.0374473977733898e-05,4.6963751906895454e-06,7.0,2.0
+cond-mat/0006057,"Exact renormalization group and applications to disordered problems:
+  part I",1.0356048457611246e-05,8.31245458899843e-05,10.0,7.0
+hep-th/0107160,"SU(2)_0 and OSp(2|2)_{-2} WZNW models : Two current algebras, one
+  Logarithmic CFT",1.0312489686739998e-05,8.345848192237772e-05,64.0,24.0
+hep-ph/0110012,"Dynamics near the critical point: the hot renormalization group in
+  quantum field theory",1.0307694820212836e-05,3.4565333748931835e-06,5.0,3.0
+hep-th/0103051,"Spectral equivalences, Bethe Ansatz equations, and reality properties in
+  PT-symmetric quantum mechanics",1.027135778964746e-05,5.438067409899798e-05,25.0,34.0
+cond-mat/0108464,The liquid-glass transition of silica,1.0253443160721876e-05,3.7130275282837164e-09,4.0,1.0
+cond-mat/0207473,"Carbon nanotube-based quantum pump in the presence of superconducting
+  lead",1.0195688854467911e-05,0.0,7.0,1.0
+cond-mat/9902027,"Initial-Value Problem for Inhomogeneous Condensate: Gaussian
+  Approximation and Beyond",1.0171541509379464e-05,0.0,2.0,0.0
+nlin/0304032,Decay of the classical Loschmidt echo in integrable systems,1.0141684593667255e-05,1.9907397092893145e-05,4.0,2.0
+hep-th/0206086,"Microscopic universality of complex matrix model correlation functions
+  at weak non-Hermiticity",1.0110422137409048e-05,8.620776388796666e-07,30.0,9.0
+cond-mat/9904034,"Making, probing and understanding Bose-Einstein condensates",1.00559454080097e-05,2.193651228692306e-05,10.0,45.0
+cond-mat/9812144,"Thermodynamics of the t-J Ladder: A Stable Finite Temperature Density
+  Matrix Renormalization Group Calculation",1.004249061322722e-05,6.011503282746807e-06,3.0,2.0
+quant-ph/0210166,"N-Level System Interacting with Single Radiation Mode and Multi Cat
+  States of Schrodinger in the Strong Coupling Regime",9.987445017961285e-06,1.617647621130079e-05,25.0,11.0
+cond-mat/9712203,Quantum Decoherence and Weak Localization at Low Temperatures,9.940180414633e-06,0.0,3.0,10.0
+cond-mat/9901220,"Influence of finite Hund rules and charge transfer on properties of
+  Haldane systems",9.849016869546914e-06,0.0,1.0,0.0
+cond-mat/0108143,"Freezing transitions and the density of states of 2D random Dirac
+  Hamiltonians",9.799600854286883e-06,8.953165787897723e-06,10.0,4.0
+cond-mat/0304614,"Functional Renormalization Group and the Field Theory of Disordered
+  Elastic Systems",9.789836851727376e-06,0.0,19.0,2.0
+cond-mat/0105247,Spin Electronics and Spin Computation,9.782633474226744e-06,0.0,11.0,0.0
+hep-lat/0011040,Maximum Entropy Analysis of the Spectral Functions in Lattice QCD,9.751688541300388e-06,0.0004451764730069,17.0,44.0
+cond-mat/0212212,"Localization properties of the anomalous diffusion phase $x ~ t^{\mu}$
+  in the directed trap model and in the Sinai diffusion with bias",9.724278835055768e-06,2.8643355218188674e-08,7.0,2.0
+hep-ph/0401076,Skyrmion formation in 1+1 dimensions with chemical potential,9.709629945493631e-06,0.0,5.0,0.0
+cond-mat/0111441,Mirages and enhanced magnetic interactions in quantum corrals,9.629217718701815e-06,0.0,2.0,0.0
+cond-mat/0202123,Compression and diffusion: a joint approach to detect complexity,9.624984008250944e-06,0.0,8.0,3.0
+cond-mat/0204570,Spin polarized parametric pumping,9.60682053174199e-06,2.988987160268392e-06,8.0,4.0
+hep-th/9804205,Bosonized Massive N-flavor Schwinger Model,9.550941895468364e-06,1.4852110113134864e-08,6.0,6.0
+cond-mat/9411093,Phase Ordering of 2D XY Systems Below T_{KT},9.539473846737096e-06,0.0,3.0,1.0
+cond-mat/0304239,Critical behavior of a bounded Kardar-Parisi-Zhang equation,9.539054025318703e-06,0.0,7.0,2.0
+hep-th/0301229,Organizing boundary RG flows,9.523617583408613e-06,1.425861200605515e-06,33.0,21.0
+quant-ph/0311017,Universality of Entanglement and Quantum Computation Complexity,9.50340546941044e-06,0.0001172377727991,36.0,10.0
+cond-mat/0011461,"Magnetic Field Effect for Two Electrons in a Two Dimensional Random
+  Potential",9.501120061228562e-06,0.0,5.0,0.0
+cond-mat/9810218,Dislocations and Bragg glasses in two dimensions,9.499537424560773e-06,0.0,9.0,5.0
+cond-mat/9806010,Induced Gravity in Superfluid 3He,9.495873812637404e-06,0.0012180927964375,15.0,14.0
+hep-ph/0101191,On propagation of photon in a medium,9.492198922824164e-06,0.0,9.0,1.0
+hep-ph/0311370,On the Recent Results of E835 Experiment at FNAL,9.488717870252412e-06,3.603916278115906e-07,16.0,1.0
+cond-mat/0105023,"Binary self-similar one-dimensional quasilattices: Mutual
+  local-derivability classification and substitution rules",9.47115750303679e-06,0.0,2.0,0.0
+hep-ph/0207094,Flow Equations without Mean Field Ambiguity,9.430765824626051e-06,7.519011253579198e-05,28.0,13.0
+cond-mat/0210710,More statistical properties of order books and price impact,9.410111983727582e-06,0.0,7.0,3.0
+cond-mat/0309029,"Finite-size scaling properties of random transverse-field Ising chains :
+  Comparison between canonical and microcanonical ensembles for the disorder",9.39603687544488e-06,0.0,3.0,0.0
+cond-mat/9702048,"The 2-Channel Kondo Model I: Review of Experimental Evidence for its
+  Realization in Metal Nanoconstrictions",9.342926795893778e-06,0.0,7.0,2.0
+hep-th/9811023,The long delayed solution of the Bukhvostov Lipatov model,9.319145694548308e-06,0.0,5.0,5.0
+cond-mat/9910185,Coupled-mode theory for Bose-Einstein condensates,9.287487243212504e-06,5.569541292425575e-08,5.0,1.0
+cond-mat/0106083,Spectroscopic and magnetic mirages of impurities in nanoscopic systems,9.258396166796068e-06,0.0,5.0,1.0
+cond-mat/0202311,"Option Pricing from Path Integral for Non-Gaussian Fluctuations. Natural
+  Martingale and Application to Truncated L\'evy Distributions",9.199128376850775e-06,1.3931279286120504e-05,5.0,2.0
+hep-ph/9810301,Counting defects in an instantaneous quench,9.19352520495808e-06,1.9737266450021007e-05,15.0,10.0
+cond-mat/0106248,"Periodically-dressed Bose-Einstein condensates: a superfluid with an
+  anisotropic and variable critical velocity",9.174248748476804e-06,0.0,2.0,0.0
+quant-ph/0012117,"Exactly Solvable Three-body SUSY Systems with Internal Degrees of
+  Freedom",9.119254952611117e-06,0.0,9.0,0.0
+cs/9908014,An Introduction to Collective Intelligence,9.09495133914865e-06,5.7715299899642086e-05,12.0,5.0
+nucl-th/0111044,Time dependence of critical behavior in multifragmentation,9.09250518615902e-06,0.0,1.0,1.0
+quant-ph/9702026,"Spontaneous Symmetry Breaking, Off-diagonal Long-range Order, and
+  Nucleation of Quantum State",9.087592082995425e-06,0.0,2.0,1.0
+cond-mat/9707302,Nonequilibrium Steady States of Driven Periodic Media,9.074989311640242e-06,0.0,4.0,3.0
+hep-th/0005277,Quantum Calogero-Moser Models: Integrability for all Root Systems,9.072683347892195e-06,1.4411773661488148e-05,27.0,18.0
+hep-th/0204039,Quantum vs Classical Integrability in Calogero-Moser Systems,9.068460093535506e-06,1.1745956834745778e-06,16.0,6.0
+math-ph/0305058,Howe Duality for an Induced Model of Lattice U(N) Yang-Mills Theory,9.061741575008772e-06,3.401803367185043e-06,11.0,2.0
+cond-mat/9806270,Quantum transport of composite fermions in narrow constrictions,9.06144884164991e-06,0.0,12.0,1.0
+cond-mat/0006030,Squeezed Condensates,9.049287371086324e-06,6.071431829278991e-07,9.0,4.0
+hep-ph/9911247,"Unraveling critical dynamics: The formation and evolution of topological
+  textures",9.030412766009784e-06,1.5358355345545073e-07,10.0,2.0
+hep-th/0111013,Dualities in Quantum Hall System and Noncommutative Chern-Simons Theory,9.011855431616244e-06,0.0001246299119662,48.0,7.0
+cond-mat/0302488,Born Effective Charges and Infrared Response of LiBC,9.007793598580138e-06,0.0,3.0,1.0
+hep-th/0103178,"Supersymmetric Calogero-Moser-Sutherland models and Jack
+  superpolynomials",8.993064084522992e-06,8.8031651480256e-06,20.0,7.0
+cond-mat/9901317,`Baryonic' bound-state instability in trapped fermionic atoms,8.99025328579595e-06,2.629408709335552e-07,6.0,5.0
+hep-th/9912048,"Calculating the infra-red limit of quantum field theory using
+  analyticity of correlation functions",8.989977172197767e-06,0.0,9.0,0.0
+cond-mat/9510121,"Effective $\sigma$ Model Formulation for Two Interacting Electrons in a
+  Disordered Metal",8.984781207428696e-06,0.0,4.0,0.0
+cond-mat/0012290,"Nonequilibrium dynamics of random field Ising spin chains: exact results
+  via real space RG",8.983731829734757e-06,3.7114431696605057e-06,7.0,5.0
+math-ph/0209019,On some integrals over the U(N) unitary group and their large N limit,8.958887642559078e-06,1.5454022287094833e-05,20.0,13.0
+cond-mat/0202256,"Complex Diffusion Monte-Carlo method: tests by the simulations of 2D
+  electron in magnetic field and 2D fermions-anyons in parabolic well",8.909698980174826e-06,0.0,3.0,0.0
+quant-ph/0303063,Programmable networks for quantum algorithms,8.89431805719607e-06,0.0,18.0,0.0
+cond-mat/9705052,Vortex Velocity Pair Correlations,8.891526607626084e-06,0.0,2.0,0.0
+hep-th/9808176,"Goldstone and Pseudo-Goldstone Bosons in Nuclear, Particle and
+  Condensed-Matter Physics",8.86891712565542e-06,4.9184436466312754e-05,16.0,20.0
+cond-mat/0306633,Estimation of vortex density after superconducting film quench,8.847798754069936e-06,2.540485036366859e-07,4.0,5.0
+hep-th/0306100,On the magnetic perturbation of the Ising model on the sphere,8.827386815212945e-06,4.121806340890083e-07,9.0,1.0
+astro-ph/0102220,The growth of structure in the intergalactic medium,8.822816784622132e-06,2.86309599948693e-07,7.0,1.0
+cond-mat/0006373,Freezing of dynamical exponents in low dimensional random media,8.798946072394865e-06,3.0197613127250337e-07,7.0,2.0
+cond-mat/9507013,Antiferromagnetic Interactions and the Superconducting Gap Function,8.753983731893947e-06,0.0,4.0,0.0
+cond-mat/9812029,Quantum kinetics and thermalization in a particle bath model,8.633699645168966e-06,0.001110931976227,11.0,1.0
+cond-mat/9505104,"Square-lattice Heisenberg antiferromagnet with two kinds of
+  nearest-neighbor regular bonds",8.629760415080478e-06,0.0,4.0,0.0
+cond-mat/9712080,Dynamical Behavior of the Dissipative Two-State System,8.619660709972712e-06,0.0,7.0,4.0
+hep-th/0105177,"Integrable structure of W_3 Conformal Field Theory, Quantum Boussinesq
+  Theory and Boundary Affine Toda Theory",8.541175739611247e-06,4.08257623443357e-06,29.0,13.0
+hep-ph/9809251,"Thermal Renormalization Group-Equations and the Phase-Transition of
+  Scalar O(N)-Theories",8.519802865381002e-06,9.749445650333464e-06,12.0,3.0
+hep-th/0101190,"Fractional helicity, Lorentz symmetry breaking, compactification and
+  anyons",8.508570488029449e-06,1.9562064319537716e-05,18.0,3.0
+hep-ph/0106259,"On the dynamics of phase transitions and the nonequilibrium formation of
+  topological defects",8.50276220471098e-06,0.0,16.0,0.0
+cond-mat/9903019,Scaling properties in off equilibrium dynamical processes,8.501667775768286e-06,0.0,8.0,0.0
+hep-ph/9507312,Thermal Mixing of Phases: Numerical and Analytical Studies,8.45813481959441e-06,0.0,6.0,3.0
+cond-mat/0210196,The noncommutative replica procedure,8.450286778065296e-06,0.0,9.0,2.0
+cond-mat/9511123,Spin-flip scattering in the quantum Hall regime,8.439769956831482e-06,0.0,6.0,0.0
+cond-mat/9910387,"Aging in glassy systems: new experiments, simple models, and open
+  questions",8.433108878799267e-06,9.454452335333812e-05,14.0,31.0
+astro-ph/0307318,"The Cluster Expansion for the Self-Gravitating gas and the Thermodynamic
+  Limit",8.427248623216238e-06,2.0148076823173475e-06,3.0,3.0
+cond-mat/0309415,How Do Networks Become Navigable?,8.384771468323292e-06,1.990182755160072e-06,3.0,1.0
+cond-mat/0401292,"Phases of a rotating Bose-Einstein condensate with anharmonic
+  confinement",8.383344320627141e-06,9.799356175576133e-08,6.0,1.0
+cond-mat/0007309,"Lectures on Non Perturbative Field Theory and Quantum Impurity Problems:
+  Part II",8.373864684431847e-06,7.860430978978966e-06,14.0,23.0
+cond-mat/0106011,Vortices in superfluid trapped Fermi gases at zero temperature,8.356814837761307e-06,0.0,4.0,0.0
+cond-mat/9905275,Tunneling singularities in the open Hubbard chain,8.353152960720485e-06,0.0,14.0,0.0
+cond-mat/0204040,Elusive physical electron propagator in QED-like effective theories,8.336496293839746e-06,9.76442963245494e-05,10.0,5.0
+quant-ph/0309132,"Quantum Optical Construction of Generalized Pauli and Walsh-Hadamard
+  Matrices in Three Level Systems",8.324611015731462e-06,6.762810943838758e-06,15.0,15.0
+cond-mat/9703156,A local approach for global partial density of states,8.311302838058762e-06,0.0,3.0,1.0
+cond-mat/0102488,Conformal symmetry and the nonlinear Schrodinger equation,8.297381057887235e-06,4.017495785602981e-06,9.0,5.0
+hep-th/9608098,Universality and Critical Phenomena in String Defect Statistics,8.284191468400084e-06,0.0,3.0,2.0
+cond-mat/9409088,The Energy-Scaling Approach to Phase-Ordering Growth Laws,8.275131714366213e-06,0.0,2.0,1.0
+cond-mat/9612240,Nonhermitean Random Matrix Models,8.259457335240518e-06,0.000709567086808,13.0,17.0
+cond-mat/0208188,"On the nature of ferromagnetism in diluted magnetic semiconductors:
+  GaAs:Mn, GaP:Mn",8.250353539523197e-06,0.0,4.0,0.0
+cond-mat/9812045,"Perturbation of infra-red fixed points and duality in quantum impurity
+  problems",8.241498359795557e-06,5.980202137053753e-06,5.0,4.0
+cond-mat/9811300,"Random Walkers in 1-D Random Environments: Exact Renormalization Group
+  Analysis",8.21607356003145e-06,0.0001058995900202,9.0,10.0
+hep-th/0203006,Critical exponents from optimised renormalisation group flows,8.197126326028366e-06,0.0011014512474423,35.0,19.0
+cond-mat/0308561,Quantum Phase Diagram for Homogeneous Bose-Einstein Condensate,8.195590485824704e-06,2.0044160273518258e-06,7.0,2.0
+quant-ph/0112105,Information and Computation: Classical and Quantum Aspects,8.189796749966646e-06,1.9900464701129244e-05,41.0,17.0
+quant-ph/9904013,Sonoluminescence as a QED vacuum effect. I: The Physical Scenario,8.164937463974423e-06,0.0,11.0,10.0
+cond-mat/0212278,"Soliton-sound interactions in quasi-one-dimensional Bose-Einstein
+  condensates",8.161400085566336e-06,0.0,2.0,1.0
+hep-th/0209132,"Kosterlitz-Thouless-like deconfinement mechanism in the 2+1 dimensional
+  Abelian Higgs model",8.15348693442365e-06,4.763993602913287e-05,6.0,7.0
+quant-ph/0203015,Spin squeezing and entanglement in spinor-1 condensates,8.153364850906041e-06,4.45563303394046e-08,3.0,2.0
+cond-mat/0301518,"Comment on ""Self segregation versus clustering in the Evolutionary
+  Minority Game""",8.14572939829996e-06,0.0,1.0,3.0
+cond-mat/0112202,"Gauge (non-)invariant Green functions of Dirac fermions coupled to gauge
+  fields",8.140874444472e-06,5.8379797083304025e-06,6.0,8.0
+hep-ph/0305069,Inhomogeneous Superconductivity in Condensed Matter and QCD,8.112692461138803e-06,1.2766905773647588e-05,9.0,48.0
+hep-ph/9912474,"The Thermal Renormalization Group for Fermions, Universality, and the
+  Chiral Phase-Transition",8.106348153938443e-06,3.938154199164263e-06,2.0,4.0
+cond-mat/0205570,Superfluidity in Dilute Trapped Bose Gases,8.097597379841016e-06,7.797357809395804e-08,4.0,2.0
+cond-mat/0205108,"2-loop Functional Renormalization Group Theory of the Depinning
+  Transition",8.087758569643932e-06,2.5419280065694586e-05,9.0,16.0
+cond-mat/0310140,Dynamics of the spin-boson model with a structured environment,8.080619750374193e-06,0.0,2.0,0.0
+cond-mat/9902239,"Renormalization group study of one-dimensional systems with roughening
+  transitions",8.059886188445473e-06,4.9699918257373375e-09,7.0,1.0
+hep-th/0112161,On dimensional regularization of sums,8.056856347928951e-06,1.6312984382965109e-06,7.0,9.0
+cond-mat/0112227,"Surface flows of granular materials: A short introduction to some recent
+  models",8.018484350576424e-06,0.0,5.0,0.0
+cond-mat/0111434,Surface states and their possible role in the superconductivity of MgB2,8.01746731905945e-06,5.363474414372595e-07,9.0,3.0
+hep-th/0111159,Derivative expansion and renormalisation group flows,7.995717190598195e-06,0.0006070871171183,29.0,19.0
+hep-ph/0110165,Measuring Cosmic Defect Correlations in Liquid Crystals,7.993350242383132e-06,5.618643486803474e-06,7.0,5.0
+cond-mat/0105378,Where the Tsallis Statistic is valid?,7.969416968328673e-06,0.0,9.0,1.0
+cond-mat/0008104,"Features of Hopping Integral and Unconventional Orbital Modes for
+  Quantum Skyrmions in Heisenberg Ferromagnet",7.966476415403099e-06,0.0,5.0,0.0
+cond-mat/0009320,Edge Singularity for the Optically Induced Kondo Effect in a Quantum Dot,7.935381921885137e-06,0.0,1.0,0.0
+hep-ph/0007357,Exact and Truncated Dynamics in Nonequilibrium Field Theory,7.888054508426889e-06,6.267554022658274e-05,30.0,18.0
+cond-mat/9802091,"Axial anomaly in 3He-A: Simulation of baryogenesis and generation of
+  primordial magnetic field in Manchester and Helsinki",7.8851419878714e-06,0.0015545958007321,16.0,6.0
+cond-mat/9801306,"Extreme Type-II Superconductors in a Magnetic Field: A Theory of
+  Critical Fluctuations",7.882123977970172e-06,0.0,6.0,8.0
+cond-mat/0210645,Some puzzling problems in nonequilibrium field theories,7.86493826736711e-06,4.253891871570383e-06,8.0,5.0
+cond-mat/9607129,"Quantum Hall Effect in Quasi-One-Dimensional Conductors: The Roles of
+  Moving FISDW, Finite Temperature, and Edge States",7.82324995062454e-06,0.0,2.0,1.0
+cond-mat/9607199,"Temperature Evolution of the Quantum Hall Effect in
+  Quasi-One-Dimensional Organic Conductors",7.82324995062454e-06,0.0,2.0,1.0
+cond-mat/9905407,The Dynamics of Structural Transitions in Sodium Chloride Clusters,7.792391649233983e-06,0.0,5.0,0.0
+cond-mat/0212300,Specific heat of the quantum Bragg Glass,7.784019618713738e-06,0.0,5.0,2.0
+cond-mat/0306528,"Anisotropic transport in the two-dimensional electron gas in the
+  presence of spin-orbit coupling",7.782414722199366e-06,4.478255414815274e-05,6.0,1.0
+cond-mat/0208011,Macroscopic entanglement jumps in model spin systems,7.768956652552655e-06,1.215487144880547e-06,6.0,4.0
+cond-mat/9910104,Phase diagram of an exactly solvable t-J ladder model,7.722696057045659e-06,0.0,10.0,5.0
+hep-th/9707172,An extended q-deformed su(2) algebra and the Bloch electron problem,7.675000854269031e-06,0.0,3.0,0.0
+cond-mat/9811078,"Quantum phase transitions in cuprates: stripes and antiferromagnetic
+  supersolids",7.66792950674455e-06,1.1944161604356891e-05,9.0,4.0
+cond-mat/9903250,Effective temperatures out of equilibrium,7.662809522398495e-06,0.0,13.0,13.0
+hep-th/0205253,"Convergence of the Gaussian Expansion Method in Dimensionally Reduced
+  Yang-Mills Integrals",7.634633676818173e-06,2.4567103870705665e-06,29.0,12.0
+cond-mat/0106492,Spontaneous Magnetization of the O(3) Ferromagnet at Low Temperatures,7.617274125703046e-06,1.273897717636758e-05,12.0,4.0
+cond-mat/9911330,Non-Fermi Behavior of the Strongly Correlated Electron Systems,7.601478727604215e-06,4.950703371044955e-09,8.0,1.0
+math-ph/0003018,An Introduction to Quantum Algebras and Their Applications,7.565830047956268e-06,0.0,6.0,1.0
+cond-mat/9910506,Andreev Spectroscopy for Superconducting Phase Qubits,7.563887281469573e-06,5.970548265480216e-06,3.0,1.0
+hep-th/0203166,Instanton Expansion of Noncommutative Gauge Theory in Two Dimensions,7.554455709551528e-06,6.098323232592422e-06,47.0,30.0
+cond-mat/9901297,"Pseudogaps and Extrinsic Losses in Photoemission Experiments on Poorly
+  Conducting Solids",7.552841656559222e-06,0.0,1.0,1.0
+cond-mat/0208559,On the Normal State Electronic properties of Layered Sr_2 RuO_4,7.55237024771956e-06,0.0,5.0,0.0
+math-ph/0103043,Zeros of Jones Polynomials for Families of Knots and Links,7.526362655623972e-06,1.990182755160072e-06,7.0,1.0
+hep-th/0205076,"From integrability to conductance, impurity systems",7.473618081478332e-06,3.270751620720806e-05,5.0,15.0
+hep-th/9710032,Chaos in M(atrix) Theory,7.465622046014767e-06,6.333201794207481e-06,15.0,14.0
+quant-ph/0303118,"A Generalized Hamiltonian Characterizing the Interaction of the
+  Two-Level Atom and both the Single Radiation Mode and External Field",7.392838670973988e-06,0.0,14.0,2.0
+cond-mat/0208111,"Singularity formation in the Gross-Pitaevskii Equation and Collapse in
+  BEC",7.388946246237333e-06,0.0,6.0,0.0
+cond-mat/0211536,Non-adiabatic charge pump: an exact solution,7.369061074542803e-06,5.52448657635338e-06,2.0,2.0
+cond-mat/0207168,"The Kondo state in quantum point contacts and the local moment in
+  semiconductor quantum dots - two sides of the same phenomenon",7.354156261078595e-06,0.0,8.0,0.0
+hep-th/0104028,"On the Microscopic Spectra of the Massive Dirac Operator for Chiral
+  Orthogonal and Chiral Symplectic Ensembles",7.353537283226103e-06,3.3493680766489576e-06,37.0,5.0
+cond-mat/9607059,"A Neutron Scattering Study of Magnetic Excitations in the Spin Ladder
+  (VO)2P2O7",7.331259866897557e-06,0.0,5.0,1.0
+hep-th/9904199,"The Spectral Density of the QCD Dirac Operator and Patterns of Chiral
+  Symmetry Breaking",7.317576074205271e-06,6.188109603027802e-05,19.0,24.0
+hep-th/9708160,Ghost Systems: A Vertex Algebra Point of View,7.291935627838201e-06,7.88763750495082e-06,24.0,8.0
+cond-mat/9505087,Multi-Component Quantum Hall Systems: The Sum of their Parts and More,7.267013330050471e-06,0.0,8.0,3.0
+cond-mat/9806208,Fermionization and Hubbard Models,7.266051131352737e-06,1.9797487647170563e-06,4.0,1.0
+cond-mat/0307358,"Tuning the interactions of spin-polarized fermions using
+  quasi-one-dimensional confinement",7.26519303008969e-06,2.784847312996243e-05,2.0,5.0
+cond-mat/0206441,Longitudinal spin decoherence in spin diffusion in semiconductors,7.251840839981321e-06,0.0,3.0,0.0
+hep-ph/9807550,Chiral Disorder and QCD Phase Transitions,7.225479088702708e-06,2.548918675543362e-07,6.0,1.0
+cond-mat/0307175,"Effectively attractive Bose-Einstein condensates in a rotating toroidal
+  trap",7.20714337528849e-06,0.0,2.0,0.0
+hep-th/0106275,Coupling integrable field theories to mechanical systems at the boundary,7.207073548673683e-06,1.9937189718536758e-06,19.0,6.0
+physics/9910016,Binding Energies and Scattering Observables in the 4^He_3 Atomic System,7.20062767979354e-06,1.1941096530960432e-05,9.0,7.0
+cond-mat/0312082,"The Efficiency of Defect Production in Planar Superconductors and Liquid
+  Crystals",7.190205205477689e-06,1.6847499864304806e-07,9.0,2.0
+cond-mat/0307198,Dephasing of entangled electron-hole pairs in a degenerate electron gas,7.183829708783345e-06,1.0657275845773617e-08,5.0,3.0
+cond-mat/9607167,Deterministic Soluble Model of Coarsening,7.180098209035726e-06,0.0,2.0,0.0
+hep-th/0208111,"Integrable aspects of the scaling q-state Potts models I: bound states
+  and bootstrap closure",7.162119917512918e-06,5.889340676192514e-06,13.0,6.0
+cond-mat/0208569,"BEC Collapse, Particle Production and Squeezing of the Vacuum",7.131633954895781e-06,0.0,8.0,7.0
+cond-mat/9705133,"Semiclassical wave functions and energy levels of Bose-condensed gases
+  in spherically symmetric traps",7.130690614072365e-06,0.0,1.0,3.0
+hep-th/0306224,The Shapes of Dirichlet Defects,7.096045396631883e-06,2.3091118467157378e-07,33.0,5.0
+cond-mat/0010193,Semiclassical theory of trapped fermionic dipoles,7.095855135122111e-06,0.0,2.0,0.0
+nucl-th/0208057,Quasiparticle Properties in Effective Field Theory,7.094931788019856e-06,2.7313264421285224e-06,8.0,2.0
+cond-mat/9804206,"Crossover from Weak- to Strong-Coupling Superconductivity and to Normal
+  State with Pseudogap",7.087434520428507e-06,0.0,13.0,6.0
+hep-ph/0306124,"The approach to thermalization in the classical phi^4 theory in 1+1
+  dimensions: energy cascades and universal scaling",7.085708836997602e-06,8.232831279249085e-06,12.0,5.0
+math-ph/0303064,"Scaling Analysis and Renormalisation Group for General (Quantum) Many
+  Body Systems in the Critical Regime",7.07307771909241e-06,0.0,5.0,0.0
+cond-mat/9907138,"Nonperturbative XY-model approach to strong coupling superconductivity
+  in two and three dimensions",7.072788246549492e-06,0.0,14.0,6.0
+cond-mat/9408002,Quasi-Ballistic Electron Transport in Random Superlattices,7.022880927548207e-06,0.0,3.0,0.0
+cond-mat/9902140,"Barrier effects on the collective excitations of split Bose-Einstein
+  condensates",7.018957662002062e-06,6.312146798082319e-08,10.0,1.0
+cond-mat/9807300,Cantori and dynamical localization in the Bunimovich Stadium,7.016070252586027e-06,0.0,6.0,1.0
+hep-ph/0204076,Thermodynamics of chiral symmetry at low densities,6.986862438200957e-06,1.7922107311483788e-05,41.0,20.0
+cond-mat/9808265,The double-funnel energy landscape of the 38-atom Lennard-Jones cluster,6.974654439285102e-06,0.0,7.0,2.0
+cond-mat/0111327,Disordered Systems and Logarithmic Conformal Field Theory,6.932532955265533e-06,2.041237392641689e-06,22.0,12.0
+cond-mat/0106003,"Hydrodynamic Excitations in a Spin-Polarized Fermi Gas under Harmonic
+  Confinement in One Dimension",6.930284861125874e-06,0.0,3.0,0.0
+cond-mat/0105033,"Excited States of the Cooper Problem in a Three-Dimensional Disordered
+  System",6.915117689714403e-06,0.0,3.0,0.0
+cond-mat/0209299,"Conservation laws in the quantum Hall Liouvillian theory and its
+  generalizations",6.912132882142718e-06,1.990182755160072e-06,3.0,1.0
+hep-lat/9608085,"Improvements for Vachaspati-Vilenkin-type Algorithms for Cosmic String
+  and Disclination Formation",6.900372156320092e-06,0.0,4.0,1.0
+cond-mat/9701129,"Finite-Size Effects in Critical Phenomena from Mean Field Approach with
+  $\phi^4$ Model",6.89955487542712e-06,0.0,1.0,2.0
+quant-ph/0305052,"Implementation of controlled multi-qudit operations for a solid-state
+  quantum computer based on charge qudits",6.887170904308899e-06,1.718210281925056e-05,5.0,3.0
+hep-lat/0003015,Series expansions for lattice Green functions,6.885347183477653e-06,0.0,11.0,0.0
+cond-mat/0006460,"Coexistence of charge density waves, bond order waves and spin density
+  waves in quasi-one dimensional charge transfer salts",6.873055043490227e-06,2.22781651697023e-08,2.0,1.0
+hep-ph/0004250,"The imprints of nonextensive statistical mechanics in high energy
+  collisions",6.863097758113883e-06,0.0001327553431167,7.0,9.0
+cond-mat/9905099,Constant rate linear interface depinning and self organized criticality,6.856139715442306e-06,0.0,11.0,0.0
+hep-th/0007077,One-point functions in perturbed boundary conformal field theories,6.855032761400029e-06,1.2531123809360653e-05,19.0,9.0
+solv-int/9805008,"Exact Kink Solitons in the Presence of Diffusion, Dispersion, and
+  Polynomial Nonlinearity",6.848452084704024e-06,0.0,4.0,0.0
+cond-mat/9609174,"Non Fermi liquid renormalization of the conductivity of fermions coupled
+  to gauge fields",6.84689289669883e-06,0.0,4.0,3.0
+cond-mat/9712122,Excitation spectrum in a cylindrical Bose-Einstein gas,6.8419071197035496e-06,0.0,7.0,2.0
+hep-lat/9701001,"Perturbation theory predictions and Monte Carlo simulations for the 2-d
+  O(n) non-linear sigma-model",6.837306504382678e-06,0.0,9.0,10.0
+cond-mat/0107549,Mirror Options,6.821474373645792e-06,0.0,5.0,0.0
+cond-mat/0209675,"Disorder-induced noncollinear ferromagnetism in models for (III,Mn)V
+  semiconductors",6.818485367355301e-06,2.1010418450819804e-06,6.0,1.0
+cond-mat/9705245,"Non-monotonic field-dependence of the ZFC magnetization peak in some
+  systems of magnetic nanoparticles",6.8073544518806e-06,0.0,2.0,0.0
+cond-mat/0111423,Xray-Edge Spectra From Sea-Bosons-I,6.795263106327727e-06,0.0,1.0,2.0
+cond-mat/9910111,"Computer simulations of the mechanism of thickness selection in polymer
+  crystals",6.795263106327727e-06,0.0,1.0,0.0
+cond-mat/9701004,Phenomenological Theory of Mode Collapse-revival in Confined Bose Gas,6.777385458597289e-06,0.0,3.0,1.0
+cond-mat/0303545,"A far-from-equilibrium fluctuation-dissipation relation for an
+  Ising-Glauber-like model",6.773811894064978e-06,0.0,7.0,8.0
+hep-ph/0009172,"Non-Fermi Liquid Aspects of Cold and Dense QED and QCD: Equilibrium and
+  Non-Equilibrium",6.753712085454511e-06,7.507030279847114e-05,18.0,13.0
+cond-mat/9811012,Finite temperature excitations of Bose gases in anisotropic traps,6.741455084347648e-06,0.0,3.0,0.0
+cond-mat/0205267,"Formation of a molecular Bose-Einstein condensate and an entangled
+  atomic gas by Feshbach resonance",6.737417624835575e-06,0.0,3.0,8.0
+cond-mat/0008443,"Percolation, Bose-Einstein Condensation, and String Proliferation",6.737299597491101e-06,0.0,4.0,0.0
+cond-mat/9801034,A divergent correlation length in off-equilibrium glasses,6.7229267730494575e-06,0.0007355028496219,8.0,8.0
+cond-mat/9905337,"Thermodynamical Properties of a Spin 1/2 Heisenberg Chain Coupled to
+  Phonons",6.721208697627475e-06,1.893243032451641e-05,6.0,5.0
+cond-mat/9711202,Low-energy excitations in 2-leg and 3-leg quantum spin ladders,6.720367424340534e-06,0.0,4.0,2.0
+cond-mat/9606115,A note on ferromagnetism in the Hubbard model on the complete graph,6.716783798152682e-06,0.0,4.0,1.0
+cond-mat/0308606,Lifetime of molecule-atom mixtures near a Feshbach resonance in 40K,6.702256082900057e-06,0.0,7.0,7.0
+cond-mat/0005136,"Generation and evolution of vortex-antivortex pairs in Bose-Einstein
+  condensates",6.686203035324121e-06,4.063407665674935e-06,7.0,4.0
+hep-th/0203161,Symmetry Breaking Boundary States and Defect Lines,6.678022202353981e-06,4.375531676365452e-05,53.0,35.0
+cond-mat/9906165,Output from an atom laser: theory vs. experiment,6.6552343145130495e-06,0.0,2.0,0.0
+hep-lat/0303001,Dynamical fermions as a global correction,6.6518597396587e-06,1.2817969170663256e-05,19.0,4.0
+hep-th/9910123,"Free harmonic oscillators, Jack polynomials and Calogero-Sutherland
+  systems",6.6364498542162216e-06,4.058699782516849e-06,9.0,2.0
+cond-mat/0203573,"Quantum fluctuations of charge and phase transitions of a large
+  Coulomb-blockaded quantum dot",6.61459215869694e-06,0.0,6.0,1.0
+cond-mat/9505022,Effective action approach to a bi-layer frustrated antiferromagnet,6.5998962094840025e-06,0.0,9.0,1.0
+cond-mat/0102354,"On the Belitz-Kirkpatrick comment on ""Specific heat of a Fermi system
+  near ferromagnetic quantum phase transition"", by I.Grosu, D.Bodea and
+  M.Crisan (cond-mat/0101392)",6.5914917142572e-06,0.0,6.0,0.0
+hep-lat/9806029,Phase Structure of lattice SU(2)xU_S(1) three-dimensional Gauge Theory,6.559724510826508e-06,3.8012774484467547e-07,13.0,4.0
+cond-mat/0002053,Quantum Critical Dynamics of the Skyrmion Lattice,6.550543677672237e-06,0.0,3.0,2.0
+cond-mat/9701154,"Statistical mechanics and thermodynamics for multispecies exclusion
+  statistics",6.547365659326567e-06,0.0,6.0,2.0
+math/0111199,Critical resonance in the non-intersecting lattice path model,6.5415845854982735e-06,0.0,8.0,0.0
+hep-th/9802071,Parity breaking in 2+1 dimensions and finite temperature,6.538222267296158e-06,2.0933086926483387e-05,6.0,14.0
+cond-mat/9809154,Magnon splitting induced by charge ordering in NaV_2O_5,6.529252609692146e-06,0.0,4.0,2.0
+cond-mat/0109378,Ratchet-Induced Segregation and Transport of Non-Spherical Grains,6.503187453768289e-06,0.0,3.0,0.0
+cond-mat/0204508,Mobility edge scaling at semiclassical and dissipative Hall transitions,6.5015467487955885e-06,0.0,3.0,0.0
+cond-mat/9506132,"Calculation of the single-particle Green's function of interacting
+  fermions in arbitrary dimension via functional bosonization",6.474520324866333e-06,0.0,5.0,5.0
+cond-mat/9606120,On the presence of mid-gap states in CaV4O9,6.443243943677937e-06,0.0,7.0,2.0
+cond-mat/0309638,"Uniqueness of thermodynamic projector and kinetic basis of molecular
+  individualism",6.438586898991408e-06,9.95091377580036e-07,5.0,3.0
+cond-mat/9408024,Singlet Stripe Phases in the planar t-J Model,6.436263289199856e-06,0.0,5.0,1.0
+quant-ph/0202162,Entanglement in a simple quantum phase transition,6.431058793050902e-06,0.001024635729933,15.0,43.0
+astro-ph/0009333,Matter in Strong Magnetic Fields,6.411999452125377e-06,0.0004254625123383,8.0,13.0
+cond-mat/9901181,The effect of temperature jumps during polymer crystallization,6.3920557584013394e-06,0.0,1.0,1.0
+cond-mat/9606069,Spatial organization in cyclic Lotka-Volterra systems,6.387322794242829e-06,0.0,7.0,1.0
+hep-th/9707173,"Exact Two-Point Correlation Functions of Turbulence Without Pressure in
+  Three-Dimensions",6.378597387486955e-06,1.1941096530960432e-05,10.0,1.0
+cond-mat/9805402,Probing the Gauge Structure of high-temperature superconductors,6.36811613945166e-06,0.0,9.0,5.0
+cond-mat/0304268,"Spin Photocurrents in Quantum Wells review part II, (part I:
+  cond-mat/0304266)",6.364580425194509e-06,0.0,9.0,1.0
+cond-mat/9811399,Phase Transition in the Passive Scalar Advection,6.361434952021164e-06,0.0,2.0,10.0
+quant-ph/9601030,Universal Superpositions of Coherent States and Self-Similar Potentials,6.357932075650843e-06,0.0,7.0,3.0
+cond-mat/0205485,A two atomic species superfluid,6.343541534489248e-06,0.0,5.0,5.0
+quant-ph/9506017,"Events and Piecewise Deterministic Dynamics in Event-Enhanced Quantum
+  Theory",6.333359388783914e-06,0.0,2.0,1.0
+hep-th/0102153,Quadratic Algebra associated with Rational Calogero-Moser Models,6.325715021563896e-06,2.5912344994760657e-06,15.0,5.0
+cond-mat/9609073,Determination of Exchange Parameters for CaV_4O_9,6.3112306222803486e-06,0.0,5.0,2.0
+hep-ph/9907492,The Casimir energy of skyrmions in the 2+1-dimensional O(3)-model,6.307006421775788e-06,1.990182755160072e-06,6.0,1.0
+cond-mat/0202312,"Generating vortex rings in Bose-Einstein condensates in the line-source
+  approximation",6.305967174471166e-06,0.0,1.0,0.0
+cond-mat/0007125,"How to measure the Bogoliubov quasiparticle amplitudes in a trapped
+  condensate",6.304428907556394e-06,0.0,2.0,0.0
+cond-mat/0106126,Electron Fractionalization,6.303106527750731e-06,3.580276025237094e-05,13.0,4.0
+cond-mat/9805153,Magnetic Susceptibility for $CaV_4O_9$,6.301376467598332e-06,0.0,4.0,3.0
+cond-mat/9711286,\lambda-transition in low dimensional systems with SU_q(2) symmetry,6.278425985070725e-06,0.0,3.0,0.0
+cond-mat/9811314,Berry's Phase Induced Bose-Einstein condensation into a Vortex State,6.273392358438391e-06,0.0,4.0,4.0
+cond-mat/9609159,Renormalization-group study of a magnetic impurity in a Luttinger liquid,6.27006196222023e-06,0.0,1.0,0.0
+hep-ph/0109209,"Rest masses of elementary particles as effective masses at zero
+  temperature",6.263936594729881e-06,0.0,9.0,0.0
+hep-th/0301042,"Russian Doll Renormalization Group, Kosterlitz-Thouless Flows, and the
+  Cyclic sine-Gordon model",6.261504871217269e-06,4.545310085523921e-06,18.0,18.0
+cond-mat/0103234,"Single hole spectral function and spin-charge separation in the t-J
+  model",6.258002249019639e-06,0.0,4.0,2.0
+cond-mat/0310157,"Resonant nucleation of spatio-temporal order via parametric modal
+  amplification",6.256790793860811e-06,2.261506039775627e-06,6.0,3.0
+hep-th/0202039,Duality in Scalar Field Theory on Noncommutative Phase Spaces,6.25181575076601e-06,4.891162876536982e-05,27.0,28.0
+hep-th/0010246,"Particle-Vortex Duality and the Modular Group: Applications to the
+  Quantum Hall Effect and Other 2-D Systems",6.248903151343154e-06,8.07767325934947e-06,18.0,15.0
+cond-mat/9507137,Numerical Simulations of the Random Phase Sine Gordon Model,6.245098811358535e-06,0.0,7.0,2.0
+nlin/0305049,"Algebraic Bethe ansatz method for the exact calculation of energy
+  spectra and form factors: applications to models of Bose-Einstein condensates
+  and metallic nanograins",6.228949405325997e-06,5.971826125603586e-08,4.0,2.0
+hep-th/0309199,Goedel-type Universes and the Landau Problem,6.220633520091071e-06,0.0001192762143368,46.0,13.0
+hep-th/9604174,Topics in 2D integrable field theories with boundary interactions,6.2167505382372805e-06,0.0,11.0,5.0
+cond-mat/9606077,Shape Phase Transition of Polyampholytes in Two Dimensions,6.215826155780574e-06,0.0,5.0,0.0
+cond-mat/9812337,Hikami boxes and the Sinai billiard,6.212688675531587e-06,0.0,3.0,0.0
+cond-mat/9712134,"DMRG study of the spin gap in a one dimensional Hubbard model: effect of
+  the distant transfer and exchange coupling",6.20247897488539e-06,0.0,5.0,3.0
+quant-ph/0206139,Entangling Two Bose-Einstein Condensates by Stimulated Bragg Scattering,6.197188187016058e-06,0.0,5.0,0.0
+hep-th/0304207,A Matrix Model for Bilayered Quantum Hall Systems,6.17695659448796e-06,4.248605986553041e-07,12.0,2.0
+hep-th/0112167,"Ising field theory in a magnetic field: analytic properties of the free
+  energy",6.167765270108204e-06,1.3921338072424328e-05,14.0,13.0
+hep-th/0310100,"Compact U(1) gauge theories in 2+1 dimensions and the physics of low
+  dimensional insulating materials",6.165037018182048e-06,6.909922909038834e-07,3.0,1.0
+cond-mat/0307344,Three Dimensional Simulation of Jet Formation in Collapsing Condensates,6.142967236540268e-06,0.0001354094620817,6.0,1.0
+quant-ph/9802063,"Quantum Mechanics in Cell Microtubules: Wild Imagination or Realistic
+  Possibility?",6.14153657008353e-06,7.167426253277713e-06,7.0,3.0
+cond-mat/9605189,"Shadow features and shadow bands in the paramagnetic state of cuprate
+  superconductors",6.131208745617734e-06,0.0,4.0,2.0
+cond-mat/0301619,Evolutionary Stability of Ecological Hierarchy,6.120590128688668e-06,0.0,1.0,0.0
+cond-mat/0001018,"Advantages and Disadvantages of Layer Growth Model in Which Particles
+  Maximize Number of Lateral Bonds",6.119117400064861e-06,0.0,2.0,0.0
+gr-qc/0307037,Cosmic Dynamics of Bose-Einstein Condensates,6.115204130782458e-06,1.8565137641418583e-08,9.0,2.0
+hep-th/9710103,Various Shades of Blue's Functions,6.109448112946871e-06,0.0001914616148771,19.0,12.0
+quant-ph/9506014,Quantum Mechanics with Event Dynamics,6.102209282579059e-06,0.0,2.0,1.0
+cond-mat/9509135,"DC and AC Josephson Effect in a Superconductor-Luttinger
+  Liquid-Superconductor System",6.099150870374425e-06,0.0,1.0,0.0
+cond-mat/9808029,Two-level Hamiltonian of a superconducting quantum point contact,6.095390699185913e-06,0.0,5.0,3.0
+cond-mat/9812110,Lectures on Non Perturbative Field Theory and Quantum Impurity Problems,6.085120167597088e-06,3.2495198505531084e-05,18.0,50.0
+hep-th/0305240,All about the Static Fermion Bags in the Gross-Neveu Model,6.067387263959281e-06,3.4121788911976987e-06,7.0,2.0
+math-ph/0204001,"Distribution of the first particle in discrete orthogonal polynomial
+  ensembles",6.058864673596768e-06,1.5305774707543208e-06,13.0,8.0
+astro-ph/0308148,Neutron Stars as Type-I Superconductors,6.058227721670732e-06,5.03679758296733e-05,2.0,7.0
+cond-mat/0010463,"Eliminating leading corrections to scaling in the 3-dimensional
+  O(N)-symmetric phi^4 model: N=3 and 4",6.058155026759958e-06,1.0369940320483371e-06,16.0,6.0
+cond-mat/0211081,"A consistent Lie algebraic representation of quantum phase and number
+  operators",6.055792262050865e-06,8.036603616372808e-06,3.0,5.0
+hep-ph/0110141,Hints on the power corrections from current correlators in x-space,6.050857829834302e-06,1.078579159625538e-07,13.0,4.0
+cond-mat/0005431,Vortices observed and to be observed,6.037675446302735e-06,7.95846116271827e-05,9.0,8.0
+cond-mat/0007091,"Dynamics of two colliding Bose-Einstein condensates in an elongated
+  magneto-static trap",6.0198505013588e-06,0.0,2.0,2.0
+gr-qc/0307060,Asymptotic quasinormal mode spectrum of rotating black holes,6.018969265232569e-06,2.256597153076883e-06,21.0,12.0
+cond-mat/9707231,"Breit-Wigner width and participation ratio in finite interacting Fermi
+  systems",6.007111227746882e-06,0.0,6.0,3.0
+cond-mat/0301465,"Higher correlations, universal distributions and finite size scaling in
+  the field theory of depinning",6.005838932334684e-06,1.0838734915749374e-05,10.0,10.0
+cond-mat/9606155,Landau Level Mixing and Levitation of Extended States in Two Dimensions,5.992496357899706e-06,0.0,3.0,0.0
+math-ph/0111041,Mixed State Holonomies,5.9758299710878034e-06,2.042165140556044e-07,5.0,1.0
+hep-th/0204248,"A Matrix Model for \nu_{k_1k_2}=\frac{k_1+k_2}{k_1 k_2} Fractional
+  Quantum Hall States",5.974534065138279e-06,2.6944653704934955e-06,20.0,6.0
+cond-mat/9602028,Zero temperature phase transitions in quantum Heisenberg ferromagnets,5.945211527800131e-06,0.0,5.0,2.0
+hep-ph/0305156,Vorton Existence and Stability,5.941447666798315e-06,0.0,1.0,2.0
+cond-mat/9812362,"Phase diagram of quantized vortices in a trapped Bose-Einstein condensed
+  gas",5.939555585100051e-06,0.0,8.0,1.0
+cond-mat/9911147,"The energy-level statistics in the core of a vortex in a p-wave
+  superconductor",5.928290841020024e-06,4.143075758303977e-05,9.0,9.0
+cond-mat/9402035,Equal Time Correlations in Haldane Gap Antiferromagnets,5.927773615503002e-06,0.0,4.0,0.0
+cond-mat/9804156,Interaction and Quantum Decoherence,5.925514978248853e-06,0.0,4.0,5.0
+hep-th/0309177,"SL(2,Z) Action on Three-Dimensional CFTs and Holography",5.919501652367489e-06,4.487440982093136e-05,27.0,25.0
+cond-mat/0206480,"Dynamics of optically generated vortices in a one-component ultracold
+  fermionic gases",5.917006251919084e-06,0.0,1.0,0.0
+cond-mat/9911461,Cooper problem in the vicinity of Anderson transition,5.906297696135643e-06,0.0,4.0,2.0
+cond-mat/0006369,"Issues, Concepts, and Challenges in Spintronics",5.8919320296288986e-06,8.152841285616696e-05,5.0,6.0
+hep-th/0103195,Optimised Renormalisation Group Flows,5.890076641561541e-06,0.0003875942583161,23.0,40.0
+cond-mat/0101452,"Complex diffusion Monte-Carlo method: test by the simulation of the 2D
+  fermions",5.874804273729237e-06,9.95091377580036e-07,3.0,1.0
+hep-th/9607072,The Critical Exponents Of The Matrix Valued Gross-Neveu Model,5.873430393380975e-06,0.0,12.0,0.0
+cond-mat/9812008,"Random Magnetic Interactions and Spin Glass Order Competing with
+  Superconductivity: Interference of the Quantum Parisi Phase",5.872816228494095e-06,0.0,5.0,0.0
+hep-lat/9904014,"Vacuum structure of gauge theory on lattice with two parallel plaquette
+  action",5.863698287555683e-06,0.0,1.0,0.0
+hep-th/9910102,Differential equations and integrable models: the SU(3) case,5.861037150040879e-06,4.531350777131095e-06,19.0,13.0
+cond-mat/0006122,Evolutionary minority game with heterogeneous strategy distribution,5.85389231246472e-06,0.0,10.0,0.0
+hep-lat/0110041,"A new method for Monte Carlo simulation of theories with Grassmann
+  variables",5.845852799263919e-06,0.0,6.0,0.0
+cond-mat/0209292,"Avoided Phase Transitions and Glassy Dynamics In Geometrically
+  Frustrated Systems and Non-Abelian Theories",5.8426076477435984e-06,3.421668680251331e-05,7.0,3.0
+cond-mat/9504063,"Quantum Boltzmann equation of composite fermions interacting with a
+  gauge field",5.842075085967848e-06,0.0,3.0,0.0
+cond-mat/9906183,Where are we in the theory of High Temperature Superconductors ?,5.835477013774806e-06,0.0,9.0,2.0
+cond-mat/9912315,"Ferromagnetic Semiconductor - Singlet (or Triplet) Superconductor -
+  Ferromagnetic Semiconductor Systems as Possible Logic Circuits and Switches",5.830680556092212e-06,1.9820804728067196e-05,5.0,1.0
+hep-ph/0310006,Dark matter from SU(4) model,5.830637158671292e-06,2.2041665509560097e-06,6.0,4.0
+cond-mat/0003481,"Damping of condensate collective modes due to equilibration with the
+  non-condensate",5.82757568776044e-06,4.826935786768832e-08,7.0,5.0
+cond-mat/9903149,"Metal-insulator transition in the one-dimensional Holstein model at half
+  filling",5.825344376839196e-06,0.0,6.0,1.0
+nlin/0107011,Soliton ratchets,5.817895477152603e-06,0.0,1.0,0.0
+hep-th/0201167,New Multicritical Random Matrix Ensembles,5.816426767806406e-06,1.466178992260088e-05,12.0,8.0
+chao-dyn/9907018,"Anomalous scaling of a passive scalar advected by the synthetic
+  compressible flow",5.795244435468687e-06,0.0,6.0,7.0
+hep-th/0107255,"Some Consequences of the Generalised Uncertainty Principle: Statistical
+  Mechanical, Cosmological, and Varying Speed of Light",5.792402602089919e-06,4.968166098601083e-06,35.0,10.0
+quant-ph/9905034,Sonoluminescence as a QED vacuum effect. II: Finite Volume Effects,5.786421093627426e-06,0.0,9.0,7.0
+cond-mat/0212347,"Symmetry of anisotropic exchange interactions in semiconductor
+  nanostructures",5.785256899111478e-06,0.0001077822393209,4.0,3.0
+cond-mat/0203512,New Class of Solvable and Integrable Many-Body Models,5.78403556660402e-06,8.150914071693851e-06,2.0,5.0
+cond-mat/9806112,"Hydrodynamic modes and pulse propagation in a cylindrical Bose gas above
+  the Bose-Einstein transition",5.7783868303103015e-06,0.0,2.0,0.0
+hep-th/0011154,The point-splitting regularization of (2+1)d parity breaking models,5.771296344862704e-06,0.0,4.0,0.0
+chao-dyn/9911004,"Quantum limit of the laser linewidth in chaotic cavities and statistics
+  of residues of scattering matrix poles",5.7657493960328655e-06,0.0,4.0,0.0
+cond-mat/0309582,The Network Topology of the Interbank Market,5.754975156718458e-06,7.008935061363276e-05,4.0,8.0
+cond-mat/9805015,"Finite Temperature Perturbation Theory for a Spatially Inhomogeneous
+  Bose-condensed Gas",5.744395325853433e-06,0.0,6.0,4.0
+cond-mat/0111375,"Nonequilibrium relaxation of Bose-Einstein condensates: Real-time
+  equations of motion and Ward identities",5.741301873991121e-06,7.4260550565674335e-09,10.0,1.0
+cond-mat/9912172,"Probing the statistical properties of Bose-Einstein condensates with
+  light",5.740653201937121e-06,0.0,1.0,0.0
+cond-mat/0007004,"Low-Lying Excitations from the Yrast Line of Weakly Interacting Trapped
+  Bosons",5.7403012028697375e-06,2.4978548826635907e-08,9.0,2.0
+quant-ph/9909051,"The Markov approximation revisited: Inconsistency of the standard
+  quantum Brownian motion model",5.736487580889042e-06,0.0,4.0,0.0
+q-alg/9503021,"Classical and Quantum sl(1|2) Superalgebras, Casimir Operators and
+  Quantum Chain Hamiltonians",5.735738588651288e-06,0.0,6.0,8.0
+cond-mat/0101306,Ghost excitonic insulator transition in layered graphite,5.731203193212281e-06,5.937377035520592e-05,3.0,7.0
+hep-th/9409170,"Excitation Spectrum and Correlation Functions of the Z_3-Chiral Potts
+  Quantum Spin Chain",5.725534864953118e-06,0.0,1.0,0.0
+cond-mat/0211126,Finite one dimensional impenetrable Bose systems: Occupation numbers,5.722792486334365e-06,5.24705036135647e-06,5.0,3.0
+hep-th/9610178,Quantum Group Symmetry in Multiple Chern-Simons Theory on a Torus,5.711706600952593e-06,0.0,6.0,0.0
+cond-mat/9903339,Quantum opening of the Coulomb gap in two dimensions,5.699310563873821e-06,0.0,5.0,2.0
+cond-mat/0003273,Creation of Skyrmions in a Spinor Bose-Einstein Condensate,5.6931778583906015e-06,0.0,2.0,3.0
+cond-mat/0012135,"Comment on ""Hole-Burning Experiments within Glassy Models with Infinite
+  Range Interactions""",5.6896870487439215e-06,0.0,2.0,0.0
+cond-mat/9711257,"N=1 Supersymmetric Spin-Charge Separation in effective gauge theories of
+  planar magnetic superconductors",5.685461227505636e-06,2.3928399626717285e-08,9.0,2.0
+cond-mat/0012474,"Molecular dynamics simulation of the fragile glass former
+  ortho-terphenyl: a flexible molecule model. II. Collective dynamics",5.6736540519652185e-06,0.0,1.0,1.0
+cond-mat/9602055,"Studies of Quantum Spin Ladders at T=0 and at High Temperatures by
+  Series Expansions",5.667025945802781e-06,0.0,7.0,1.0
+math-ph/0210010,"Universal Results for Correlations of Characteristic Polynomials:
+  Riemann-Hilbert Approach",5.657521340233168e-06,5.959252534875213e-05,7.0,17.0
+cond-mat/0212538,Laser cooling of a trapped two-component Fermi gas,5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0207261,"Thomas-Fermi approximation to static vortex states in superfluid trapped
+  atomic gases",5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/9702140,Sine-Gordon mean field theory of a Coulomb Gas,5.655144290770314e-06,0.0,1.0,0.0
+cond-mat/0009371,"Analysis of g_2 for the cold-collision frequency shift in the hydrogen
+  condensate experiments",5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0108451,"Theory of the cold collision frequency shift in 1S--2S spectroscopy of
+  Bose-Einstein-condensed and non-condensed hydrogen",5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0211460,Parametric quantum spin pump,5.640658224540378e-06,0.0,4.0,1.0
+cond-mat/0103070,"Aging and memory phenomena in magnetic and transport properties of
+  vortex matter: a brief review",5.63556566922437e-06,0.0,4.0,3.0
+cond-mat/9712090,Quantum aging in mean-field models,5.634938606108603e-06,0.0,9.0,1.0
+cond-mat/9608151,Initial Stages of Bose-Einstein Condensation,5.633949150030979e-06,0.0,2.0,1.0
+hep-th/0106011,"Quantum Hall states on the cylinder as unitary matrix Chern-Simons
+  theory",5.623588422516336e-06,2.097128980632907e-05,35.0,32.0
+cond-mat/0012071,"Vortex nucleation and hysteresis phenomena in rotating Bose-Einstein
+  condensates",5.621877197245792e-06,1.9827567001035044e-06,2.0,2.0
+cond-mat/9801212,"Local Spontaneous Symmetry Breaking for Film System Within Scalar
+  $\phi^4$ Model for Phase Transition",5.6192232114923785e-06,0.0,2.0,0.0
+quant-ph/0309027,Entanglement and the Phase Transition in Single Mode Superradiance,5.604547353747073e-06,8.820013824912137e-06,5.0,7.0
+hep-th/0002225,Universal Ratios in the 2-D Tricritical Ising Model,5.596579293042232e-06,3.307123850259985e-06,5.0,1.0
+cond-mat/0208516,"Bose-Einstein Condensates in Optical Lattices: Band-Gap Structure and
+  Solitons",5.592001397420451e-06,3.960562696835964e-08,5.0,1.0
+hep-th/0007208,"Super-Calogero-Moser-Sutherland systems and free super-oscillators : a
+  mapping",5.583340739564922e-06,7.275771562347357e-06,11.0,9.0
+cond-mat/0305634,"Functional Renormalization Group at Large N for Disordered Elastic
+  Systems, and Relation to Replica Symmetry Breaking",5.564087284966011e-06,9.193939732659878e-07,11.0,5.0
+solv-int/9905007,The continuum limit of sl(N/K) integrable super spin chains,5.563515729573969e-06,1.6738549145120427e-05,6.0,13.0
+nlin/0112015,Measuring the Lyapunov exponent using quantum mechanics,5.555768932399136e-06,6.593358950485574e-05,5.0,12.0
+cond-mat/9504101,Mesoscopic phenomena in multiple light scattering,5.555103665062591e-06,0.0,3.0,0.0
+hep-th/9607233,"Spontaneous Symmetry Breaking at Two Loop in 3-d Massless Scalar
+  Electrodynamics",5.539838668934738e-06,0.0,7.0,1.0
+cond-mat/0110224,Calculus of Sea-Displacement Operators,5.536966646733281e-06,0.0,1.0,1.0
+hep-th/0207120,"Calculating Vacuum Energies in Renormalizable Quantum Field Theories: A
+  New Approach to the Casimir Problem",5.525629843888817e-06,1.855029525801024e-05,16.0,28.0
+hep-ph/9901446,Boundary Effects in the Magnetic Catalysis of Chiral Symmetry Breaking,5.517505963638972e-06,3.9254134125102463e-08,5.0,1.0
+hep-ph/9901390,$\theta$ Vacuum: A Matrix Model,5.514323335701426e-06,6.860711527086612e-06,6.0,3.0
+hep-th/9911177,"On the thermodynamics of the 2+1 dimensional Gross-Neveu model with
+  complex chemical potential",5.510470347136138e-06,2.7842543718432835e-06,13.0,4.0
+cond-mat/9605075,Coupled Luttinger Liquids,5.509555210246688e-06,0.0,9.0,25.0
+cond-mat/0011152,"Quantum Phase Transitions and Vortex Dynamics in Superconducting
+  Networks",5.508216489215142e-06,1.2156654807938696e-05,3.0,8.0
+cond-mat/0211491,"Polyelectrolytes in the presence of multivalent ions: gelation versus
+  segregation",5.4940438037564114e-06,0.0,1.0,0.0
+quant-ph/0309047,"A redefinition of Concurrence and its generalisation to bosonic
+  subsystems of N qubit systems",5.4931830849286296e-06,1.2510160266305469e-06,2.0,8.0
+cond-mat/9703167,New Class of Random Matrix Ensembles with Multifractal Eigenvectors,5.4912801901248245e-06,0.0,3.0,1.0
+quant-ph/0305026,What is random about a quantum random walk?,5.4905604162773965e-06,0.0,5.0,0.0
+cond-mat/9812088,"The mechanism of thickness selection in the Sadler-Gilmer model of
+  polymer crystallization",5.489130700592816e-06,0.0,2.0,1.0
+quant-ph/9805031,Sonoluminescence as a QED vacuum effect: Probing Schwinger's proposal,5.484207528271828e-06,0.0,11.0,13.0
+hep-th/9804025,On thermodynamic approaches to conformal field theory,5.482273385324418e-06,0.0,10.0,2.0
+hep-th/0101110,"Exact renormalization group equations and the field theoretical approach
+  to critical phenomena",5.46888537167088e-06,1.540560152408796e-05,10.0,1.0
+hep-th/9607064,The SU(n)_1 WZW Models: Spinon Decomposition and Yangian Structure,5.4681782078860725e-06,0.0,20.0,13.0
+cond-mat/9606053,"Matrix-Product States for a One-Dimensional Lattice Gas with Parallel
+  Dynamics",5.462909208739871e-06,0.0,3.0,5.0
+cond-mat/9911377,"Collisionless dynamics of dilute Bose gases: Role of quantum and thermal
+  fluctuations",5.44628937206758e-06,7.4260550565674335e-09,4.0,4.0
+cond-mat/9711140,"Quasi-particle excitations and dynamical structure function of trapped
+  Bose-condensates in the WKB approximation",5.443440133778568e-06,0.0,6.0,0.0
+cond-mat/0004102,"Subdiffusive fluctuations of ""pulled"" fronts with multiplicative noise",5.438923296460432e-06,3.980365510320144e-06,4.0,2.0
+hep-th/9901108,Dirac Particles in Twisted Tubes,5.425731940165068e-06,0.0,2.0,0.0
+cond-mat/9903321,Predicting Financial Crashes Using Discrete Scale Invariance,5.4232718055624726e-06,0.0,2.0,4.0
+cond-mat/0109183,"Bloch Waves and Bloch Bands of Bose-Einstein Condensates in Optical
+  Lattices",5.4173700959795526e-06,3.7130275282837164e-09,2.0,3.0
+cond-mat/0108175,"Consistent refinement of Bethe strings for spin and electron models and
+  a new non-Bethe solution",5.390719721627818e-06,0.0,1.0,0.0
+hep-lat/9711039,"Dynamical fermion mass generation at a tricritical point in strongly
+  coupled U(1) lattice gauge theory",5.389389479665889e-06,1.990182755160072e-06,5.0,3.0
+cond-mat/0105111,Zero sound density oscillations in Fermi-Bose mixtures,5.376048485760439e-06,7.4260550565674335e-09,3.0,1.0
+cond-mat/0002296,"Delocalization of two-particle ring near the Fermi level of 2d Anderson
+  model",5.374572809958348e-06,0.0,2.0,1.0
+cond-mat/0307538,"Momentum distribution of a trapped Fermi gas with large scattering
+  length",5.365046876288235e-06,0.0,9.0,2.0
+cond-mat/9510055,"A unified framework for the Kondo problem and for an impurity in a
+  Luttinger liquid",5.362374084779137e-06,0.0,13.0,22.0
+hep-th/0007176,Skyrmions in the Quantum Hall effect and noncommutative solitons,5.354637836225095e-06,2.924835032201129e-08,4.0,6.0
+cond-mat/9604063,"Higher-Order Results for the Relation between Channel Conductance and
+  the Coulomb Blockade for Two Tunnel-Coupled Quantum Dots",5.351668534947859e-06,0.0,4.0,2.0
+hep-lat/0012006,Percolation and Deconfinement in SU(2) Gauge Theory,5.350224322574884e-06,9.975228480311333e-06,8.0,3.0
+cond-mat/9812349,"A density matrix renormalisation group algorithm for quantum lattice
+  systems with a large number of states per site",5.349170730325169e-06,0.0,3.0,2.0
+chao-dyn/9910001,Kicked Burgers Turbulence,5.346024265977915e-06,1.3931279286120504e-05,5.0,8.0
+cond-mat/0309127,"Localization of Two-Component Bose-Einstein Condensates in Optical
+  Lattices",5.342788131407612e-06,0.0,4.0,1.0
+hep-th/0009125,The effect of a topological gauge field on Bose-Einstein condensation,5.319048403901256e-06,0.0,3.0,1.0
+hep-th/9808179,Hamiltonian Formulation of the W-Infinity Minimal Models,5.314366783099646e-06,0.0,4.0,2.0
+cond-mat/9909313,"Iordanskii Force and the Gravitational Aharonov-Bohm effect for a Moving
+  Vortex",5.307225480332752e-06,0.0014741506718128,6.0,4.0
+cond-mat/0110080,Quantum Depletion of an Excited Condensate,5.306283556148722e-06,9.943487720743792e-06,4.0,4.0
+hep-th/0006064,A gauge invariant exact renormalization group II,5.304709529374015e-06,2.965230763572997e-05,15.0,27.0
+quant-ph/0311087,Diverging Entanglement Length in Gapped Quantum Spin Systems,5.298225350219456e-06,0.0006588515573708,4.0,23.0
+cond-mat/9907422,Weighted Fixed Points in Self-Similar Analysis of Time Series,5.297782100896711e-06,0.0,6.0,0.0
+cond-mat/0207179,"Square-lattice s=1/2 XY model and the Jordan-Wigner fermions: The
+  ground-state and thermodynamic properties",5.2969833790438e-06,1.6708623877276725e-08,3.0,1.0
+cond-mat/0202021,"Metal-Insulator Transition and Ferromagnetism in Diluted Magnetic
+  Semiconductors",5.294001133386182e-06,0.0,10.0,8.0
+chao-dyn/9911003,"Structure of Quantum Chaotic Wavefunctions: Ergodicity, Localization,
+  and Transport",5.276587382561437e-06,0.0,2.0,0.0
+cond-mat/9609064,"Variational and DMRG studies of the Frustrated Antiferromagnetic
+  Heisenberg S=1 Quantum Spin Chain",5.272696270746038e-06,0.0,2.0,0.0
+cond-mat/9806101,Elements for a Theory of Financial Risks,5.271011655920954e-06,0.0,10.0,7.0
+hep-lat/0301025,Supersymetry on the Noncommutative Lattice,5.263723906062634e-06,3.000994038170517e-05,40.0,16.0
+cond-mat/0101113,A superfluid gyroscope with cold atomic gases,5.263432187375546e-06,0.0,3.0,0.0
+cond-mat/0304266,"Spin Photocurrents in Quantum Wells review part I, (part II:
+  cond-mat/one of the next numbers)",5.260051677816517e-06,0.0,8.0,4.0
+hep-th/9503229,"The $W_{1 + \infty }$ effective theory of the Calogero- Sutherland model
+  and Luttinger systems.",5.254007223283364e-06,0.0,18.0,1.0
+cond-mat/9902171,3He and Universe parallelism,5.241427990405126e-06,6.90086082603409e-06,11.0,9.0
+cond-mat/9509068,Thermal transport in a Luttinger liquid,5.239021848982975e-06,0.0,2.0,0.0
+cond-mat/0203173,"Monte Carlo simulations of an impurity band model for III-V diluted
+  magnetic semiconductors",5.233750513838342e-06,0.0,12.0,3.0
+cond-mat/9601047,"The ground state of the two-leg Hubbard ladder: a density--matrix
+  renormalization group study",5.232362222569504e-06,0.0,5.0,13.0
+hep-th/9810082,"Universal critical coupling constants for the three-dimensional n-vector
+  model from field theory",5.2294182260826206e-06,0.0,15.0,6.0
+cond-mat/0204481,"Role of dipolar and exchange interactions in the positions and widths of
+  EPR transitions for the single-molecule magnets Fe8 and Mn12",5.224983436393256e-06,0.0,2.0,0.0
+cond-mat/9508140,"Vortices in superconducting films - statistics and fractional quantum
+  Hall effect",5.223698606242311e-06,0.0,5.0,0.0
+nucl-th/0301006,Factorization of shell-model ground-states,5.223165407492523e-06,0.0,12.0,2.0
+quant-ph/0210112,Explicit Solution of the Time Evolution of the Wigner Function,5.222693848810309e-06,0.0,5.0,0.0
+cond-mat/0009319,A supersymmetric mean-field approach to the infinite-U Hubbard model,5.2183272531221135e-06,0.0,4.0,0.0
+cond-mat/9712074,Coulomb effects in a ballistic one-channel S-S-S device,5.211666205498845e-06,0.0,7.0,3.0
+cond-mat/9704250,Ordering kinetics of defect structures,5.189376652091001e-06,0.0,1.0,1.0
+hep-ph/0202041,"Classical Behaviour After a Phase Transition: II. The Formation of
+  Classical Defects",5.184334578036333e-06,2.711928158495904e-07,2.0,4.0
+cond-mat/9609147,"A topological characterization of delocalization in a spin-orbit
+  coupling system",5.182433714622181e-06,0.0,1.0,0.0
+cond-mat/9501123,Ground states of the infinite q-deformed Heisenberg ferromagnet,5.179621098842564e-06,0.0,5.0,29.0
+hep-ph/9810296,Effect of Color Screening on Heavy Quarkonia Regge Trajectories,5.167992024771393e-06,1.8470004316632383e-05,9.0,9.0
+hep-lat/0207020,"String Breaking and Monopoles: a Case Study in the 3D Abelian Higgs
+  Model",5.167976861239644e-06,6.699061973701624e-06,6.0,4.0
+quant-ph/0312055,Decoherence of number states in phase-sensitive reservoirs,5.166721175988025e-06,0.0,7.0,1.0
+cond-mat/0101084,Direct Quantization of Open Dissipative Systems,5.165071746945762e-06,0.0,2.0,0.0
+cond-mat/9603079,Thermal currents in highly correlated systems,5.163531694107127e-06,0.0,3.0,6.0
+cond-mat/9903208,"Pseudogap Formation in an Electronic System with d-wave Attraction at
+  Low-density",5.163188347970583e-06,0.0,4.0,1.0
+astro-ph/0202448,Phase structure of self-gravitating systems,5.155844353528096e-06,1.1420810324304856e-05,2.0,1.0
+cond-mat/9508020,Josephson Current and Proximity Effect in Luttinger Liquids,5.1543078295033504e-06,0.0,4.0,1.0
+cond-mat/0212492,Images of the Dark Soliton in a Depleted Condensate,5.154243976043112e-06,0.0,2.0,2.0
+cond-mat/0110372,Bogoliubov theory of entanglement in a Bose-Einstein condensate,5.1476641638423535e-06,0.0,2.0,1.0
+hep-th/9508111,An SU(2) Analog of the Azbel--Hofstadter Hamiltonian,5.137203203038952e-06,0.0,9.0,6.0
+quant-ph/0109098,"Quantum machine language and quantum computation with Josephson
+  junctions",5.131073007621767e-06,2.894555002999867e-06,13.0,2.0
+cond-mat/9706187,Fermi-Bose Correspondence at Finite Temperature,5.129747137815303e-06,0.0,4.0,0.0
+hep-th/0104119,Supersymmetry and the spontaneous breakdown of PT symmetry,5.1281730783445385e-06,1.41981945571856e-05,18.0,19.0
+cond-mat/0207308,"Bose-Einstein condensate collapse: a comparison between theory and
+  experiment",5.125549785199672e-06,0.0,2.0,3.0
+cond-mat/9811185,"Reply to a Comment on ""Quantum Decoherence in Disordered Mesoscopic
+  Systems"" (cond-mat/9808078, cond-mat/9808053)",5.124688653645454e-06,0.0,6.0,5.0
+cond-mat/9712149,"On a Connection Between Nonlinear Response to an External Field and
+  Equilibrium Properties of Systems with Interaction: Comment on
+  cond-mat/9711226 by Kopietz and Voelker",5.124636100397634e-06,0.0,2.0,3.0
+cond-mat/9506115,"Fractional dimensional Fock space and Haldane's exclusion statistics.
+  q/p case",5.119064263981171e-06,0.0,3.0,0.0
+quant-ph/9805023,"Sonoluminescence: Bogolubov coefficients for the QED vacuum of a
+  time-dependent dielectric bubble",5.113423138085387e-06,0.0,5.0,12.0
+quant-ph/9802019,"Volume Elements of Monotone Metrics on the n x n Density Matrices as
+  Densities-of-States for Thermodynamic Purposes. II",5.112201300363063e-06,0.0,7.0,8.0
+cond-mat/0104486,"Phase transition in an asymmetric generalization of the zero-temperature
+  q-state Potts model",5.110159699869896e-06,0.0,3.0,0.0
+hep-th/0210087,Multi-leg integrable ladder models,5.109947978647579e-06,2.22781651697023e-08,4.0,2.0
+cond-mat/0309511,Spin textures in slowly rotating Bose-Einstein Condensates,5.107557896682751e-06,2.317346036558757e-06,4.0,2.0
+hep-th/9709034,"Expectation values of local fields in Bullough-Dodd model and integrable
+  perturbed conformal field theories",5.105581752533246e-06,0.0,2.0,15.0
+hep-th/9409071,Discrete-time Calogero-Moser Model and Lattice KP Equations,5.0968583904041545e-06,0.0,8.0,1.0
+cond-mat/0010118,"Spin-Peierls instability in a quantum spin chain with
+  Dzyaloshinskii-Moriya interaction",5.092704452703872e-06,0.0,3.0,0.0
+cond-mat/9707005,"Eigenvalue distribution of large random matrices, from one matrix to
+  several coupled matrices",5.089641557756655e-06,0.0002219440750188,2.0,29.0
+hep-th/0103013,Quantum Hall states as matrix Chern-Simons theory,5.085282734617872e-06,1.3590493370672076e-05,33.0,96.0
+cond-mat/9907270,"Log-periodic power law bubbles in Latin-American and Asian markets and
+  correlated anti-bubbles in Western stock markets: An empirical study",5.081507002496737e-06,0.0007526885966744,5.0,7.0
+cond-mat/0303584,"Self-referential behaviour, overreaction and conventions in financial
+  markets",5.080555130850584e-06,4.024921840659549e-06,5.0,5.0
+chao-dyn/9509005,"Edge Diffraction, Trace Formulae and the Cardioid Billiard",5.074670476788378e-06,0.0,1.0,4.0
+cond-mat/9807363,Nonergodic Behavior of Interacting Bosons in Harmonic Traps,5.072970560527422e-06,0.0,4.0,0.0
+chao-dyn/9806004,"Renormalization group and anomalous scaling in a simple model of passive
+  scalar advection in compressible flow",5.066800160489815e-06,0.0,6.0,1.0
+hep-th/9812061,Theoretical and Phenomenological Aspects of Superstring Theories,5.063062438499634e-06,9.098481060079693e-08,56.0,2.0
+hep-ph/9910348,Fluctuations from dissipation in a hot non-Abelian plasma,5.053839927651048e-06,5.489811600175704e-06,6.0,7.0
+cond-mat/0011165,Multi-mode description of an interacting Bose-Einstein condensate,5.044409041958673e-06,0.0,3.0,0.0
+cond-mat/9609009,"How should we interpret the two transport relaxation times in the
+  cuprates ?",5.042912108534709e-06,0.0,6.0,2.0
+cond-mat/9609257,Ground state and excited states of a trapped dilute condensed Bose gas,5.041369612845205e-06,0.0,4.0,1.0
+hep-ph/9809334,"Vortex tension as an order parameter in three-dimensional U(1)+Higgs
+  theory",5.0408567731433545e-06,5.063726848406846e-06,17.0,14.0
+cond-mat/9806330,"On Growth, Disorder, and Field Theory",5.038673118438915e-06,1.990182755160072e-06,2.0,3.0
+hep-ph/9606329,Macroscopic Universality : Why QCD in Matter is Subtle?,5.03581411080076e-06,0.0,5.0,11.0
+hep-th/0304120,"N=2 boundary supersymmetry in integrable models and perturbed boundary
+  conformal field theory",5.034198867617311e-06,1.808194754659608e-06,9.0,4.0
+cond-mat/0009021,"Damped Bogoliubov excitations of a condensate interacting with a static
+  thermal cloud",5.032742497013574e-06,0.0,3.0,0.0
+hep-ph/0011189,Imprints of Nonextensivity in Multiparticle Production,5.028774991202063e-06,0.0,6.0,0.0
+hep-th/9910058,A gauge invariant exact renormalization group I,5.0182236008795104e-06,1.4164750834839109e-05,17.0,37.0
+cond-mat/0111040,"Coherent Tunneling of Atoms from Bose-condensed Gases at Finite
+  Temperatures",5.0165091967096985e-06,0.0,4.0,0.0
+cond-mat/0101014,"Vortices in Bose-Einstein condensates confined in a multiply connected
+  Laguerre-Gaussian optical trap",5.014307085497727e-06,0.0,5.0,0.0
+nlin/0307057,"Hamiltonian Hopf bifurcations in the discrete nonlinear Schr\""odinger
+  trimer: oscillatory instabilities, quasiperiodic solutions and a 'new' type
+  of self-trapping transition",5.010952119661852e-06,0.0,2.0,0.0
+cond-mat/0304583,Fermi edge singularity in a non-equilibrium system,5.005285037450855e-06,3.9729394552635765e-06,2.0,2.0
+gr-qc/9511077,Semiclassical Gravity and Mesoscopic Physics,5.005148352123088e-06,2.22781651697023e-08,12.0,13.0
+cond-mat/9811096,"Application of Renormalization Group Techniques to a Homogeneous Bose
+  Gas at Finite Temperature",5.00091117247494e-06,5.862005733087172e-06,2.0,7.0
+hep-lat/9602025,Universality of the Ising Model on Sphere-like Lattices,4.990074981695158e-06,0.0,2.0,4.0
+hep-th/0204169,Logarithmic conformal field theory with boundary,4.987136145596667e-06,1.229070416026614e-06,9.0,16.0
+cond-mat/9801262,"Excitations of a Bose-Einstein Condensate at Non-Zero Temperature: A
+  Study of Zeroth, First and Second Sound",4.986041715968426e-06,0.0,6.0,16.0
+hep-th/9809058,Finite Size Formula in the XYZ Spin Chain,4.984586908006232e-06,0.0,4.0,0.0
+quant-ph/0209122,Entanglement of two-mode Bose-Einstein condensates,4.983808076407465e-06,7.14329460396326e-07,9.0,5.0
+cond-mat/0004012,"A class of N-body problems with nearest- and next-to-nearest neighbour
+  interactions",4.981974129136943e-06,0.0,3.0,7.0
+cond-mat/0306561,"Detecting mirror matter on Earth via its thermal imprint on ordinary
+  matter",4.98130650213454e-06,2.3433888117359695e-07,20.0,10.0
+cond-mat/0210162,"Five-Loop Critical Temperature Shift in Weakly Interacting Homogeneous
+  Bose-Einstein Condensate",4.976410735133791e-06,1.0659782298687007e-05,14.0,15.0
+cond-mat/0306634,"Collective character of spin excitations in a system of Mn$^{2+}$ spins
+  coupled to a two-dimensional electron gas",4.974592268491157e-06,0.0,1.0,1.0
+cond-mat/9705099,Molecular-field approach to the spin-Peierls transition in CuGeO_3,4.9683985239486375e-06,0.0,4.0,1.0
+hep-ph/0004159,Relaxing Near the Critical Point,4.959338160730974e-06,5.894729221358357e-06,8.0,7.0
+cond-mat/0302355,Condensate Heating by Atomic Losses,4.957648907886189e-06,0.0,2.0,0.0
+cond-mat/0002180,"Quantum Tunneling of Magnetization in Molecular Complexes with Large
+  Spins. Effect of the Environment",4.950299932589941e-06,0.0,6.0,12.0
+cond-mat/0011431,Simulations of Bose fields at finite temperature,4.947273862804227e-06,0.0,3.0,2.0
+cond-mat/0203095,"Optical generation of quasisolitons in a single-component gas of neutral
+  fermionic atoms",4.939809007440605e-06,1.990182755160072e-06,2.0,1.0
+chao-dyn/9510016,"Sensitivity of the eigenfunctions and the level curvature distribution
+  in quantum billiards",4.9331190207894044e-06,0.0,4.0,1.0
+cond-mat/9710040,Spectral Curves of Non-Hermitean Hamiltonians,4.933037719030927e-06,0.0001544718030077,17.0,14.0
+hep-th/0303008,Holomorphic matrix models,4.930898910272016e-06,1.504058772530775e-05,28.0,31.0
+cond-mat/0102456,"Quantum Group based Modeling for the description of high temperature
+  superconductivity and antiferromagnetism: Some supporting evidence",4.928542928862507e-06,3.034806114226383e-07,7.0,2.0
+math-ph/0112061,"Tutte Polynomials and Related Asymptotic Limiting Functions for
+  Recursive Families of Graphs",4.924867630266179e-06,2.780829669117906e-06,4.0,3.0
+cond-mat/0104478,"Local Dynamics and Strong Correlation Physics I: 1D and 2D Half-filled
+  Hubbard Models",4.917374773238477e-06,0.0,2.0,1.0
+cond-mat/9805112,"Fictitious flux confinement: magnetic pairing in coupled spin chains or
+  planes",4.917296629584716e-06,0.0,2.0,1.0
+cond-mat/9708002,Quantized Conductance of One-Dimensional Doped Mott Insulator,4.91535766196315e-06,0.0,2.0,0.0
+cond-mat/0009474,Single-Block Renormalization Group: Quantum Mechanical Problems,4.914145593634003e-06,7.960731020640288e-06,2.0,4.0
+nlin/0105057,Food Web Structure and the Evolution of Ecological Communities,4.913779839230756e-06,0.0,3.0,1.0
+nucl-th/0208058,Effective Field Theory for Fermi Systems in a large N expansion,4.910140396684019e-06,1.817956196415417e-06,17.0,5.0
+cond-mat/0110311,Electronic and magnetic structure of CsV$_2$O$_5$,4.901963749729281e-06,0.0,3.0,0.0
+cond-mat/0301053,Specific heat of classical disordered elastic systems,4.901058602252091e-06,0.0,5.0,1.0
+hep-th/9906098,Supersymmetric Rotating Black Holes and Causality Violation,4.8920472531639535e-06,5.5942691736862185e-06,12.0,45.0
+cond-mat/9901029,"Issues and Observations on Applications of the Constrained-Path Monte
+  Carlo Method to Many-Fermion Systems",4.889283193392927e-06,5.970548265480216e-06,5.0,2.0
+hep-th/0106070,"The spectrum of boundary states in sine-Gordon model with integrable
+  boundary conditions",4.886252187340946e-06,3.934740896336238e-06,11.0,11.0
+quant-ph/0208133,Entanglement in the One-dimensional Kondo Necklace Model,4.884539509529538e-06,6.68344955091069e-08,4.0,1.0
+cond-mat/9602073,Multicritical crossovers near the dilute Bose gas quantum critical point,4.8822960417793925e-06,0.0,2.0,0.0
+cond-mat/0305673,Theory of Phase Transition in the Evolutionary Minority Game,4.874836201246962e-06,3.980365510320144e-06,3.0,1.0
+quant-ph/9910054,Scattering of short laser pulses from trapped fermions,4.874212412408519e-06,0.0,2.0,1.0
+cond-mat/9605051,Magnetoresistance and Hall Constant of Composite Fermions,4.868479706861053e-06,0.0,6.0,3.0
+cond-mat/9912114,"Study of Pairing Correlations in the Attractive Hubbard Model on Chains,
+  Ladders, and Squares",4.86133700514882e-06,0.0,3.0,2.0
+hep-th/0205117,Broken quantum symmetry and confinement phases in planar physics,4.859953681348807e-06,0.0,1.0,0.0
+hep-th/0007010,Tutorial on quasi-sparse eigenvector diagonalization,4.8597568081977895e-06,0.0,2.0,3.0
+hep-th/9808145,"Variational Resummation of $\epsilon$-Expansions of Critical Exponents
+  of Nonlinear O(N)-Symmetric $\sigma$-Model in $2+\epsilon$ Dimensions",4.851764205182356e-06,2.1892010306760792e-05,17.0,3.0
+cond-mat/0005495,Dynamically Induced Multi-Channel Kondo Effect,4.848729594917541e-06,0.0,1.0,1.0
+cond-mat/9910338,"Cumulant ratios and their scaling functions for Ising systems in strip
+  geometries",4.840995315871972e-06,0.0,2.0,0.0
+cond-mat/0209071,Tuning p-wave interactions in an ultracold Fermi gas of atoms,4.839780432108674e-06,0.0,4.0,3.0
+math/0304281,"Eigenbundles, Quaternions, and Berry's Phase",4.839587182253022e-06,0.0,1.0,2.0
+cond-mat/9607001,"Thermoelectric Response of an Interacting Two-Dimensional Electron Gas
+  in Quantizing Magnetic Field",4.823144497273535e-06,0.0,2.0,1.0
+cond-mat/9709259,Damping in dilute Bose gases: a mean-field approach,4.8119963964246844e-06,0.0,8.0,8.0
+cond-mat/9808336,Decoherence of Bose-Einstein condensates in traps at finite temperature,4.805922900981412e-06,0.0,6.0,0.0
+cond-mat/0105171,"Zurek-Kibble Causality Bounds in Time-Dependent Ginzburg-Landau Theory
+  and Quantum Field Theory",4.798856010950973e-06,3.2726771921174155e-05,8.0,5.0
+cond-mat/9609210,Non-Fermi Liquids in the Extended Hubbard Model,4.7985206623747e-06,0.0,4.0,0.0
+solv-int/9712008,The XXC Models,4.794692977023384e-06,0.0,5.0,2.0
+cond-mat/9507057,Analytical Results for Random Band Matrices with Preferential Basis,4.7931660795707736e-06,0.0,5.0,1.0
+hep-ph/9909372,"Dynamics of Symmetry Breaking Out of Equilibrium: From Condensed Matter
+  to QCD and the Early Universe",4.793053659550442e-06,1.3677076911507758e-05,10.0,16.0
+cond-mat/9805023,Quantal Brownian Motion - Dephasing and Dissipation,4.790025861903353e-06,0.0,5.0,0.0
+cond-mat/9412096,Aharonov-Bohm Oscillations in a One-Dimensional Wigner Crystal-Ring,4.775563454392716e-06,0.0,3.0,0.0
+cond-mat/9809101,Multifractal dimension spectra in polymer physics,4.775563454392716e-06,0.0,3.0,0.0
+cond-mat/9611054,"Effects of boundary conditions on magnetization switching in kinetic
+  Ising models of nanoscale ferromagnets",4.775563454392716e-06,0.0,3.0,0.0
+cond-mat/9511119,"Aharonov-Bohm oscillations and resonant tunneling in strongly correlated
+  quantum dots",4.775563454392716e-06,0.0,3.0,0.0
+cond-mat/9402047,Critical Properties of the Mott Transition in the Hubbard Model,4.775563454392716e-06,0.0,3.0,0.0
+cond-mat/9411029,"Universal Fluctuation of the Hall Conductance in the Random Magnetic
+  Field",4.775563454392716e-06,0.0,3.0,1.0
+cond-mat/0003281,"Glass transition of a particle in a random potential, front selection in
+  nonlinear RG and entropic phenomena in Liouville and SinhGordon models",4.774707824473654e-06,1.393566740956302e-05,6.0,10.0
+hep-th/0105303,Orbital Magnetism of Two-Dimension Noncommutative Confined System,4.774447998792299e-06,3.1849457254005864e-06,12.0,17.0
+cond-mat/9806215,Charge ordering and opening of spin gap in NaV_2O_5,4.771588968351362e-06,0.0,7.0,25.0
+hep-th/9704056,Universality of Correlation Functions in Random Matrix Models of QCD,4.770371140750202e-06,1.5921462041280645e-06,10.0,5.0
+hep-ph/9909246,"On the Convergence of the Expansion of Renormalization Group Flow
+  Equation",4.769520573204133e-06,7.533293563301813e-06,9.0,11.0
+cond-mat/9710128,"Damping of low-energy excitations of a trapped Bose condensate at finite
+  temperatures",4.769088134933602e-06,0.0,4.0,3.0
+hep-th/0206172,"Polynomials Associated with Equilibrium Positions in Calogero-Moser
+  Systems",4.763343174012563e-06,1.4051378424200956e-07,7.0,4.0
+nucl-th/9811001,Stochastic number projection method in the pairing-force problem,4.7551016967442334e-06,0.0,2.0,0.0
+cond-mat/0005162,Aging and Non Linear Glassy Dynamics in a Mean-Field Model,4.752717862073579e-06,0.0,4.0,1.0
+cond-mat/9607212,"Cosmology, Particle Physics and Superfluid 3He",4.743543012331108e-06,0.0,4.0,1.0
+cond-mat/0207158,"Enhancement of the scissors mode of an expanding Bose-Einstein
+  condensate",4.7378243679365726e-06,0.0,2.0,0.0
+cond-mat/0310460,Bose-Einstein transition temperature in a dilute repulsive gas,4.731545072703747e-06,5.320598605419871e-05,6.0,4.0
+cond-mat/9810322,"Temperature dependence of the diffuse scattering fine structure in
+  equiatomic CuAu",4.730551950880508e-06,0.0,1.0,0.0
+chao-dyn/9808011,"Anomalous scaling regimes of a passive scalar advected by the synthetic
+  velocity field",4.719198313918415e-06,0.0,5.0,4.0
+cond-mat/9506049,On the number of metastable states in spin glasses,4.713462099483814e-06,0.0,4.0,0.0
+cond-mat/0203508,"Transition to an Insulating Phase Induced by Attractive Interactions in
+  the Disordered Three-Dimensional Hubbard Model",4.712108866920533e-06,0.0,2.0,0.0
+cond-mat/0312385,Notes on RVB-Vanilla by Anderson et al,4.709335464914136e-06,4.123703375043323e-06,5.0,4.0
+cond-mat/9903305,"Evolution of the Potential Energy Surface with Size for Lennard-Jones
+  Clusters",4.708638468522879e-06,0.0,1.0,3.0
+hep-th/0008123,Exact Scheme Independence,4.7063368044157e-06,5.174877115267765e-06,19.0,23.0
+hep-th/0306274,Nonsemisimple Fusion Algebras and the Verlinde Formula,4.697714187617892e-06,2.8911192332286035e-06,15.0,8.0
+cond-mat/9702156,"Diagrammatic Method for Wide Correlators in Gaussian Orthogonal and
+  Symplectic Random Matrix Ensembles",4.688212876656214e-06,0.0002279183363118,7.0,3.0
+cond-mat/9708029,Non-Hermitean De-Localization: Multiple Scattering and Bounds,4.6811163592869685e-06,1.3516473952148274e-05,17.0,18.0
+cond-mat/0107567,Nonlinear coupling between scissors modes of a Bose-Einstein condensate,4.676215704302319e-06,0.0,3.0,0.0
+cond-mat/0106232,"Evidence for internal field in graphite: A conduction electron spin
+  resonance study",4.6686171655701785e-06,4.215111361830526e-06,3.0,6.0
+cond-mat/9606083,"Theory of finite temperature crossovers near quantum critical points
+  close to, or above, their upper-critical dimension",4.6630779982448665e-06,0.0,5.0,3.0
+hep-lat/0112018,(1+1)-dimensional Baryons from the SU(N) Color-Flavor Transformation,4.6521159004983954e-06,2.0131360162440078e-06,6.0,2.0
+hep-lat/0207021,"Cluster Percolation and Critical Behaviour in Spin Models and SU(N)
+  Gauge Theories",4.651340137579245e-06,0.0,3.0,2.0
+cond-mat/9710058,"Density matrix renormalization group study of the polaron problem in the
+  Holstein model",4.651340137579245e-06,0.0,3.0,2.0
+cond-mat/9912305,Self-consistent cluster CPA methods and the nested CPA theory,4.644606415801116e-06,0.0,4.0,0.0
+nlin/0108014,Consolidating boundary methods for finding the eigenstates of billiards,4.636225955638153e-06,0.0,2.0,2.0
+cond-mat/9607188,Renormalization Group Theory of the Three-Dimensional Dilute Bose Gas,4.635275048279667e-06,0.0,7.0,1.0
+cond-mat/9812347,"Rheology, and how to stop aging",4.63281270988335e-06,0.0,7.0,20.0
+cond-mat/9612144,"New evidence for super-roughening in crystalline surfaces with
+  disordered substrate",4.632318845003841e-06,0.0,4.0,0.0
+nucl-th/0207004,"Renormalization group approach to neutron matter: quasiparticle
+  interactions, superfluid gaps and the equation of state",4.628525439144369e-06,2.1488167995085663e-06,4.0,2.0
+cond-mat/0112490,"Exactly solvable models through the empty interval method, for
+  more-than-two-site interactions",4.627157446473498e-06,0.0,1.0,1.0
+cond-mat/0012233,"Monte Carlo Study of Ferromagnetism in (III,Mn)V Semiconductors",4.624361871964419e-06,0.0,4.0,5.0
+hep-th/0112141,Calogero-Moser models with noncommutative spin interactions,4.622372613652295e-06,3.314278018375437e-06,18.0,1.0
+cond-mat/0002056,Fermi systems with long scattering lengths,4.621033293172142e-06,1.679212896695067e-07,5.0,6.0
+cond-mat/0310687,Imaging of spinor gases,4.616277097180375e-06,5.58126163972029e-06,4.0,1.0
+cond-mat/0210258,The Bogoliubov Theory of a BEC in Particle Representation,4.611985859553103e-06,0.0,3.0,1.0
+cond-mat/0203382,"Specific heat and magnetic measurements in Nd0.5Sr0.5MnO3,
+  Nd0.5Ca0.5MnO3 and Ho0.5Ca0.5MnO3 samples",4.610367857002267e-06,0.0,4.0,0.0
+cond-mat/0201100,Ultracold dipolar gases - a challenge for experiments and theory,4.609873787786035e-06,0.0,6.0,4.0
+cond-mat/0206527,Dilute resonating gases and the third virial coefficient,4.609707250990242e-06,0.0,14.0,1.0
+chao-dyn/9911005,The passive polymer problem,4.60133120873313e-06,0.0,5.0,6.0
+gr-qc/9811014,"Effective spacetime and Hawking radiation from moving domain wall in
+  thin film of 3He-A",4.599124453658349e-06,0.0,2.0,11.0
+cond-mat/9709212,Dilute Bose gas in a torus: vortices and persistent currents,4.595409465912615e-06,0.0,4.0,32.0
+cond-mat/9603172,The asymmetric exclusion model with sequential update,4.589894853170913e-06,0.0,3.0,2.0
+hep-th/0108157,Finite size effects in boundary sine-Gordon theory,4.585070502523663e-06,4.593770176222378e-06,18.0,12.0
+nucl-th/9804026,"The physics of Hanbury Brown--Twiss intensity interferometry: from stars
+  to nuclear collisions",4.583749091202494e-06,0.0,3.0,6.0
+cond-mat/9503107,"Thermodynamic limit of the density matrix renormalization for the spin-1
+  Heisenberg chain",4.583528427541002e-06,0.0,4.0,3.0
+cond-mat/0001326,Improved Theory of Single-Particle Properties Using Sea-bosons,4.580159970007856e-06,0.0,2.0,1.0
+hep-th/0010033,"Duality and quasiparticles in the Calogero-Sutherland model: Some exact
+  results",4.56996046828623e-06,1.99107388176686e-06,1.0,4.0
+cond-mat/0009199,Non-extensivity Effects and the Highest Energy Cosmic Ray Affair,4.567001942499739e-06,0.0,5.0,2.0
+cond-mat/9901121,Bosons in a Toroidal Trap: Ground State and Vortices,4.554224232532675e-06,7.4260550565674335e-09,2.0,1.0
+math-ph/0106006,"Negative moments of characteristic polynomials of random matrices:
+  Ingham-Siegel integral as an alternative to Hubbard-Stratonovich
+  transformation",4.554048103527527e-06,0.0,4.0,13.0
+cond-mat/9902153,Theory of strong outcoupling from Bose-Einstein condensates,4.546115814985064e-06,0.0,2.0,1.0
+hep-ph/9803419,Thouless Energy and Correlations of QCD Dirac Eigenvalues,4.546053495044002e-06,1.0934149410381385e-05,18.0,9.0
+cond-mat/9806351,"Measurement of relative phase diffusion between two Bose-Einstein
+  condensates",4.541650233466296e-06,0.0,5.0,0.0
+cond-mat/0308064,"Dynamical model and nonextensive statistical mechanics of a market index
+  on large time windows",4.539487635401889e-06,0.0,4.0,0.0
+hep-th/9905088,"Renormalization-group Method for Reduction of Evolution Equations;
+  invariant manifolds and envelopes",4.538658191442589e-06,3.25739325460633e-05,10.0,4.0
+cond-mat/9807123,Integrability and Quantum Chaos in Spin Glass Shards,4.536061509397327e-06,0.0,4.0,0.0
+cond-mat/0207132,Quantum diffusion of prices and profits,4.534751157988168e-06,1.6664954087577996e-06,5.0,2.0
+cond-mat/0003362,Decrumpling membranes by quantum effects,4.534707514131739e-06,0.0,2.0,0.0
+hep-th/9801089,Boundary conditions changing operators in non conformal theories,4.5330252867897855e-06,0.0,3.0,2.0
+cond-mat/0002136,"Thermodynamic properties of the periodic nonuniform spin-1/2 isotropic
+  XY chains in a transverse field",4.529113432978666e-06,0.0,4.0,0.0
+cond-mat/9910197,Dynamical Transverse Meissner Effect and Transition in Moving Bose Glass,4.527116820765776e-06,0.0,2.0,1.0
+cond-mat/9807292,Current partition: Nonequilibrium Green's function Approach,4.522911346184618e-06,0.0,3.0,0.0
+cond-mat/0212141,Dynamics of entanglement between quantum dot spin-qubits,4.518259054615802e-06,7.186052567642611e-05,9.0,1.0
+cond-mat/0209453,Lack of self-averaging in neutral evolution of proteins,4.515025475212901e-06,0.0,1.0,0.0
+cond-mat/0006382,"Condensate Oscillations, Kinetic Equations and Two-Fluid Hydrodynamics
+  in a Bose Gas",4.5127721996980905e-06,2.22781651697023e-08,5.0,2.0
+cond-mat/0012375,Finite temperature hydrodynamic modes of trapped quantum gases,4.5117746355232e-06,7.4260550565674335e-09,7.0,1.0
+cond-mat/0012294,"Off-axis vortices in trapped Bose condensed gases: angular momentum and
+  frequency splitting",4.510764871285835e-06,0.0,2.0,1.0
+nucl-th/0308052,Zone Determinant Expansions for Nuclear Lattice Simulations,4.505941179384396e-06,1.1105844450322441e-07,12.0,4.0
+hep-lat/9912058,Chiral fermions on a finite lattice,4.4919129804311645e-06,0.0,7.0,0.0
+hep-th/9605052,Effective Field Theory for Coherent Optical Pulse Propagation,4.488361666701763e-06,0.0,2.0,2.0
+cond-mat/0011030,Superconductor-Insulator Quantum Phase Transitions,4.488121448616587e-06,0.0,1.0,1.0
+cond-mat/9907198,Coherent Magnetic Moment Reversal in Small Particles with Nuclear Spins,4.487510914115145e-06,0.0,4.0,3.0
+hep-th/9804150,"String Holonomy and Extrinsic Geometry in Four-dimensional Topological
+  Gauge Theory",4.487213025050632e-06,7.812509030328082e-08,7.0,1.0
+quant-ph/0205025,Entanglement Properties of the Harmonic Chain,4.4745629464454575e-06,3.1199039704372856e-06,8.0,4.0
+cond-mat/9408015,Haldane's Fractional Exclusion Statistics for Multicomponent Systems,4.461576193271004e-06,0.0,8.0,7.0
+cond-mat/0105614,Anomalous Hall effect and weak localization corrections in a ferromagnet,4.4609497161022185e-06,0.0001387251233387,2.0,2.0
+cond-mat/9609007,"Zero-Temperature Phase Transitions of Antiferromagnetic Ising Model of
+  General Spin on a Triangular Lattice",4.455491155241207e-06,0.0,6.0,1.0
+cond-mat/0010471,Theory of Ferromagnetism in Diluted Magnetic Semiconductors,4.454773080014101e-06,0.0,3.0,12.0
+cond-mat/0002366,Single and Paired Point Defects in a 2D Wigner Crystal,4.453142191562527e-06,0.0,3.0,1.0
+cond-mat/9711248,Many-body band structure and Fermi surface of the Kondo lattice,4.451308642582955e-06,0.0,2.0,7.0
+quant-ph/9808058,Dephasing and collapse in continuous measurement of a single system,4.448261871209857e-06,0.0,6.0,17.0
+cond-mat/9910271,Signatures of an intermediate 2d Coulomb phase at low temperatures,4.4327099261839854e-06,0.0,4.0,0.0
+cond-mat/0008103,Power-laws in economy and finance: some ideas from physics,4.430151969520391e-06,8.351674010015132e-05,12.0,16.0
+cond-mat/0103108,Levy Matrices and Financial Covariances,4.427984610229486e-06,2.474805728229925e-06,8.0,6.0
+quant-ph/0310005,Minimum decoherence cat-like states in Gaussian noisy channels,4.427296827506993e-06,0.0,3.0,2.0
+cond-mat/0008286,Exact solutions for interacting boson systems under rotation,4.423153054189903e-06,1.5887707245568905e-05,6.0,4.0
+cond-mat/9902168,"Chaos and energy spreading for time-Dependent Hamiltonians, and the
+  various Regimes in the theory of Quantum Dissipation",4.418400114029396e-06,0.0,3.0,4.0
+cond-mat/0211545,Ballistic expansion of a dipolar condensate,4.416360267203975e-06,0.0,5.0,0.0
+hep-lat/9703006,"Fermion determinants in matrix models of QCD at nonzero chemical
+  potential",4.413256237810284e-06,9.134942537061801e-08,5.0,17.0
+cond-mat/9706002,Hydrodynamic excitations of Bose condensates in anisotropic traps,4.412175935819798e-06,0.0,4.0,6.0
+cond-mat/9809203,"Stationary states of the Gross-Pitaevskii equation with linear
+  counterpart",4.4041482607769605e-06,0.0,4.0,0.0
+hep-th/9707252,Soliton and Domain Wall in the Self-Dual CP(1) Model,4.397615376125383e-06,0.0,6.0,0.0
+gr-qc/0012094,"Quantum Phase Transitions and the Breakdown of Classical General
+  Relativity",4.395472881927086e-06,0.0002435458274522,2.0,31.0
+cond-mat/0009187,"Shape deformations and angular momentum transfer in trapped
+  Bose-Einstein condensates",4.394319330426781e-06,4.125586142537463e-09,7.0,1.0
+cond-mat/9411126,Fermions in a random medium,4.39067535693318e-06,0.0,3.0,0.0
+hep-th/0203003,Vortices in De Sitter Spacetimes,4.385894840444793e-06,3.990707446747082e-06,14.0,8.0
+hep-ph/9904229,Semilocal and Electroweak Strings,4.384668864959551e-06,2.1302520392077548e-05,6.0,55.0
+cond-mat/9903207,"On the equivalence between the Barkhausen effect and directed Abelian
+  sandpile models",4.3800349791603945e-06,0.0,4.0,1.0
+cond-mat/0005054,Trapped condensates of atoms with dipole interactions,4.3784974778464575e-06,7.4260550565674335e-09,4.0,1.0
+quant-ph/9810096,Sympathetic cooling of an atomic Bose-Fermi gas mixture,4.378333230919161e-06,0.0,6.0,1.0
+nucl-th/0010066,Effective Field Theory Power Counting at Finite Density,4.378191845073218e-06,0.0002528573933534,2.0,27.0
+cond-mat/9512154,Evidence of a Critical time in Constrained Kinetic Ising models,4.375433017492702e-06,0.0,3.0,0.0
+cond-mat/0112325,Knots in Condensed Matters,4.372032517760614e-06,1.2331560329947696e-05,5.0,10.0
+cond-mat/9401041,Gauge Interactions and Bosonized Fermion Liquids,4.370789514553709e-06,0.0,4.0,1.0
+cond-mat/0103140,Free Random Levy Variables and Financial Probabilities,4.37011329199818e-06,5.702151412074436e-08,7.0,1.0
+cond-mat/9607117,"Condensate fraction and critical temperature of a trapped interacting
+  Bose gas",4.36825949360586e-06,0.0,6.0,6.0
+math-ph/0201045,"Characteristic polynomials of random Hermitian matrices and
+  Duistermaat-Heckman localisation on non-compact Kaehler manifolds",4.364691698144988e-06,1.190495410789108e-07,8.0,7.0
+nlin/0103027,"Staggered Anisotropy Parameter Modification of the Anisotropic $t-J$
+  Model",4.362116897610659e-06,3.7130275282837166e-08,5.0,3.0
+quant-ph/0207149,Generalizations of entanglement based on coherent states and convex sets,4.359651611499701e-06,0.0002279503943859,14.0,10.0
+hep-th/9512105,Affine Toda Systems Coupled to Matter Fields,4.3570314239593285e-06,2.194558204288292e-05,8.0,11.0
+q-alg/9706019,"Intertwining Operators for a Degenerate Double Affine Hecke Algebra and
+  Multivariable Orthogonal Polynomials",4.356557227890294e-06,4.2965032827283016e-08,7.0,3.0
+hep-th/0002251,The diagonalization of quantum field Hamiltonians,4.355883587469294e-06,7.960731020640288e-06,3.0,8.0
+cond-mat/0205364,Magnetization plateaux in a generalised ladder model,4.352333991039121e-06,5.940844045253947e-08,3.0,1.0
+cond-mat/9802023,Ground-state properties of bosons in three- and two-dimensional traps,4.3503805240473804e-06,0.0,2.0,4.0
+cond-mat/9704232,Frictional Coulomb drag in strong magnetic fields,4.349616452313047e-06,0.0,3.0,0.0
+cond-mat/9607191,Local-moment formation in gapless Fermi systems,4.343035112242766e-06,0.0,4.0,1.0
+cond-mat/9903038,"Quantum Group based Modelling for the description of high temperature
+  superconductivity and antiferromagnetism",4.338502278543884e-06,1.1579920181271568e-05,4.0,10.0
+hep-th/9806110,From chiral Random Matrix Theory to chiral Perturbation Theory,4.337783053422933e-06,2.1120328950873405e-05,19.0,46.0
+cond-mat/0008168,"Basis-dependent dynamics of trapped Bose-Einstein condensates and
+  analogies with semi-classical laser theory",4.334584478370156e-06,0.0,4.0,0.0
+cond-mat/0306351,Geometric construction of the Quantum Hall Effect in all even dimensions,4.324580640848042e-06,2.248505807498781e-06,14.0,10.0
+cond-mat/0105151,Rejuvenation in the Random Energy Model,4.322553574514197e-06,3.7130275282837164e-09,3.0,2.0
+cond-mat/9706158,"A single chain analysis of doped quasi one dimensional spin 1 compounds:
+  paramagnetic versus spin 1/2 doping",4.32211093555052e-06,0.0,4.0,1.0
+cond-mat/9803197,"Jamming, Force Chains and Fragile Matter",4.315392824931095e-06,0.0,5.0,2.0
+astro-ph/0304214,Reconstruction of the early Universe as a convex optimization problem,4.312028221117353e-06,1.990182755160072e-06,4.0,1.0
+hep-th/9610003,Scaling Limit of the Ising Model in a Field,4.311832499909133e-06,0.0,5.0,1.0
+cond-mat/0012350,"What can superconductivity learn from quantized vorticity in He-3
+  superfluids?",4.309804111074242e-06,6.1279496796788365e-06,5.0,4.0
+cond-mat/0205288,An introduction to symmetric spaces,4.308045475609387e-06,0.0,5.0,1.0
+cond-mat/0201149,"The role of point-like topological excitations at criticality: from
+  vortices to global monopoles",4.305661214356212e-06,4.2799660993406695e-06,2.0,2.0
+cond-mat/9801131,"A Systematic Improvement for Calculation to Conductivity in Anomalous
+  Propagation of Surface Acoustic Wave at $\nu={1/2}$",4.305507969789745e-06,0.0,3.0,0.0
+cond-mat/9802040,"Logarithmic Conformal Field Theory Solutions of Two Dimensional
+  Magnetohydrodynamics",4.305499107502429e-06,0.0,14.0,5.0
+cond-mat/0205649,The Architecture of Complex Systems,4.305053123518789e-06,0.0,4.0,0.0
+q-alg/9709011,"Asymptotics of Jack polynomials as the number of variables goes to
+  infinity",4.302733679538038e-06,0.0,8.0,5.0
+cond-mat/9704212,"The Short Range RVB State of Even Spin Ladders: A Recurrent Variational
+  Approach",4.302015900203777e-06,0.0,5.0,2.0
+cond-mat/0202445,On Kelvin-Helmholtz instability in superfluids,4.300795333258002e-06,0.0,2.0,4.0
+hep-th/9802039,Elements of the Continuous Renormalization Group,4.2972816224525874e-06,1.3292999042880804e-05,5.0,28.0
+cond-mat/0002428,"High-field AFMR in single-crystalline La_{0.95}Sr_{0.05}MnO_3:
+  Experimental evidence for the existence of a canted magnetic structure",4.295873487276359e-06,0.0,2.0,0.0
+cond-mat/9502025,Neutron scattering and superconducting order parameter in YBa2Cu3O7,4.29547588726343e-06,0.0,4.0,1.0
+cond-mat/0309041,"Surface assembly and ultrafast operation of all-nanoscale
+  resonant-tunneling transistors",4.295130266118502e-06,0.0,2.0,0.0
+hep-th/0002122,The Field Theory of the q->4+ Potts Model,4.2920546428746085e-06,5.145496671297719e-08,3.0,2.0
+cond-mat/0107626,"Stress response function of a granular layer: quantitative comparison
+  between experiments and isotropic elasticity",4.289084593342065e-06,0.0,1.0,0.0
+math-ph/0207005,"Painlev\'e transcendent evaluations of finite system density matrices
+  for 1d impenetrable Bosons",4.286483759261019e-06,1.990182755160072e-06,5.0,4.0
+cond-mat/0210542,"Nonequilibrium transitions in complex networks: a model of social
+  interaction",4.286399468030769e-06,0.0,6.0,0.0
+cond-mat/9602083,"Crossover from two- to three-dimensional critical behavior for nearly
+  antiferromagnetic itinerant electrons",4.2861721043908695e-06,0.0,2.0,0.0
+cond-mat/0012101,"Ground State of a trapped Bose-Einstein Condensate in Two Dimensions;
+  Beyond the Mean-field Approximation",4.279839806212036e-06,0.0,5.0,0.0
+cond-mat/0206233,The spectral dimension of random trees,4.278670187138834e-06,0.0,1.0,0.0
+cond-mat/9807080,Collapse transitions of a periodic hydrophilic hydrophobic chain,4.278670187138834e-06,0.0,1.0,0.0
+cond-mat/9810131,Shift Operators for XXX-Heisenberg Chain,4.274030504751543e-06,0.0,1.0,0.0
+cond-mat/0011303,Low-lying excitations of a trapped rotating Bose-Einstein condensate,4.2668326985035045e-06,8.776246885034241e-09,2.0,2.0
+cond-mat/0310304,Condensates and correlated boson systems,4.265807128652516e-06,0.0,3.0,0.0
+math-ph/9810010,"Adding and multiplying random matrices: a generalization of Voiculescu's
+  formulae",4.26038128543942e-06,2.5634894587707443e-06,12.0,1.0
+hep-th/0201008,"The XXX spin s quantum chain and the alternating $s^{1}$, $s^{2}$ chain
+  with boundaries",4.2579316273986255e-06,1.996975189750064e-06,3.0,4.0
+cond-mat/0003402,Collective oscillations of two colliding Bose-Einstein condensates,4.248058624664108e-06,0.0,3.0,1.0
+hep-th/9911078,Conformal Field Theory and the Exact Solution of the BCS Hamiltonian,4.238910200810799e-06,0.0,4.0,3.0
+quant-ph/0302178,"Realistic simulations of single-spin nondemolition measurement by
+  magnetic resonance force microscopy",4.2338953884116834e-06,0.0,3.0,1.0
+cond-mat/0305562,Residual Resistance in a 2DES: A Phenomenological Approach,4.228428653586858e-06,0.0,9.0,4.0
+cond-mat/0204465,"Instability of isolated triplet excitations on the Shastry-Sutherland
+  lattice (SSL)",4.228349342210297e-06,0.0,1.0,0.0
+cond-mat/9609045,"Topological Order in the Phase Diagram for High-Temperature
+  Superconductors with Point Defects",4.225862311604661e-06,0.0,2.0,7.0
+hep-th/0104024,Large-n Critical Behavior of O(n)xO(m) Spin Models,4.222968014077753e-06,0.0,3.0,6.0
+astro-ph/0109483,"A reconstruction of the initial conditions of the Universe by optimal
+  mass transportation",4.221463240352292e-06,3.980365510320144e-06,1.0,2.0
+cond-mat/0210113,Orbital currents and cheap vortices in underdoped cuprates,4.221226116268051e-06,5.326205179800464e-06,4.0,4.0
+nucl-th/0311083,Phases of hot nuclear matter at subnuclear densities,4.215300736497825e-06,0.0,3.0,1.0
+cond-mat/0009286,Dislocation-Mediated Melting: The One-Component Plasma Limit,4.214800647668597e-06,0.0,2.0,0.0
+cond-mat/0010050,Large Stock Market Price Drawdowns Are Outliers,4.212906402681011e-06,1.8978555127696548e-05,2.0,11.0
+cond-mat/0207115,"Spin Tunneling in Magnetic Molecules: Quasisingular Perturbations and
+  Discontinuous SU(2) Instantons",4.212621967719032e-06,0.0,4.0,0.0
+cond-mat/0307721,"Dirac monopoles and dipoles in ferromagnetic spinor Bose-Einstein
+  condensates",4.211100593715573e-06,0.0,2.0,2.0
+cond-mat/0003379,Theory of the evolutionary minority game,4.210296756349623e-06,3.980365510320144e-06,5.0,5.0
+cond-mat/0401132,Large stock price changes: volume or liquidity?,4.210071893875253e-06,9.95091377580036e-06,5.0,4.0
+hep-th/9211009,"A Quadratic Deformation of the Heisenberg-Weyl and Quantum Oscillator
+  Enveloping Algebras",4.205859541399298e-06,0.0,5.0,0.0
+quant-ph/0207002,Exchange Gate on the Qudit Space and Fock Space,4.204846452553913e-06,4.035673009930456e-05,9.0,19.0
+cond-mat/9709115,"Finite-size scaling properties and Casimir forces in an exactly solvable
+  quantum statistical-mechanical model",4.201697025192722e-06,0.0,3.0,0.0
+cond-mat/9711100,Low temperature transport in the XXZ model,4.201628536193564e-06,0.0,3.0,2.0
+hep-th/0009113,Relevant boundary perturbations of CFT: A case study,4.201224998225997e-06,3.6564244499544583e-08,14.0,4.0
+chem-ph/9608001,"Monte Carlo Optimization of Trial Wave Functions in Quantum Mechanics
+  and Statistical Mechanics",4.199458373837573e-06,0.0,3.0,2.0
+cond-mat/0212362,"Scaling and nonscaling finite-size effects in the Gaussian and the mean
+  spherical model with free boundary conditions",4.199458373837573e-06,0.0,3.0,1.0
+cond-mat/9601050,"Edge states of integral quantum Hall states versus edge states of
+  antiferromagnetic quantum spin chains",4.199458373837573e-06,0.0,3.0,2.0
+cond-mat/9801052,"Monte Carlo simulation of magnetization reversal via domain-wall motion
+  in Fe sesquilayers on W(110)",4.199458373837573e-06,0.0,3.0,1.0
+cond-mat/9807307,"Avalanche mixing of granular solids in a rotating 2D drum and discrete
+  mapping",4.199458373837573e-06,0.0,3.0,0.0
+hep-th/0304240,Massless N=1 Super Sinh-Gordon: Form Factors approach,4.198057633730637e-06,0.0,5.0,3.0
+cond-mat/0102403,Local gauge invariance and formation of topological defects,4.197842253000149e-06,9.766142959274305e-08,9.0,2.0
+cond-mat/9704075,"The Interface Tension of the 3-Dimensional Ising Model in the Scaling
+  Region",4.192607794884409e-06,0.0,7.0,10.0
+cond-mat/0301021,An exploding glass ?,4.19237081092248e-06,1.6973840129296988e-08,4.0,1.0
+hep-ph/0205219,"Crystalline Color Superconductivity: Effective Lagrangian and Phonon
+  Dispersion Law",4.192361698107539e-06,7.79236684574941e-08,9.0,9.0
+cond-mat/9503166,The structural glass transition and the entropy of the metastable states,4.18949655459615e-06,0.0,3.0,3.0
+hep-th/0111267,Hall Effect in Noncommutative Coordinates,4.18593123086421e-06,7.170979081303844e-05,11.0,18.0
+hep-ph/9603348,QCD-Inspired Spectra from Blue's Functions,4.185112032517401e-06,0.0,8.0,7.0
+cond-mat/0203511,"Statistical properties of stock order books: empirical results and
+  models",4.184134239124308e-06,1.5936314151393778e-06,4.0,6.0
+quant-ph/0308042,Adiabatic quantum computation and quantum phase transitions,4.182997345417258e-06,3.2769534913500216e-06,18.0,8.0
+cond-mat/9707313,"One-Dimensional Disordered Supersymmetric Quantum Mechanics: A Brief
+  Survey",4.181339642907508e-06,0.0,7.0,10.0
+cond-mat/0001014,"Spin-Peierls instability in the spin-1/2 transverse XX chain with
+  Dzyaloshinskii-Moriya interaction",4.180424090815879e-06,0.0,2.0,3.0
+cond-mat/0305307,"Stability of the quantized circulation of an attractive Bose-Einstein
+  condensate in a rotating torus",4.178274672762004e-06,7.4260550565674335e-09,2.0,1.0
+cond-mat/9310041,On the 3d Ising Spin Glass,4.170112560123659e-06,0.0,4.0,4.0
+cond-mat/9909410,"Impurity pinning in transport through 1D Mott-Hubbard and spin gap
+  insulators",4.167759062970705e-06,0.0,1.0,0.0
+cond-mat/9604134,"Spin-Peierls states of quantum antiferromagnets on the $Ca V_4 O_9$
+  lattice",4.165592963109716e-06,0.0,6.0,4.0
+hep-th/9612117,"Three dimensional massive scalar field theory and the derivative
+  expansion of the renormalization group",4.164978424233943e-06,0.0007111232633513,5.0,14.0
+cond-mat/0308062,Effects of Inhomogeneity on the Spectrum of the Mott-Insulator State,4.161281696991179e-06,1.8565137641418583e-08,1.0,2.0
+cond-mat/9809292,"Localization length of a soliton from a non-magnetic impurity in a
+  general double-spin-chain model",4.156169060681209e-06,0.0,2.0,0.0
+cond-mat/0310749,Quantum Monte Carlo study of quasi-one-dimensional Bose gases,4.153671395344434e-06,1.4852110113134864e-08,7.0,1.0
+cond-mat/0012050,"Correlation versus mean-field contributions to excitons, multi-excitons,
+  and charging energies in semiconductor quantum dots",4.153414942917341e-06,0.0,4.0,0.0
+cond-mat/9606161,Diffusion Thermopower at Even Denominator Fractions,4.152627712691898e-06,0.0,3.0,2.0
+hep-ph/0007010,Anomalous magnetic moment of muon in 3-3-1 models,4.147836124164611e-06,0.0,10.0,2.0
+cond-mat/9711129,Instability of charge ordered states in doped antiferromagnets,4.145595874389284e-06,0.0009717661386473,3.0,2.0
+hep-th/9802119,"Induced Magnetic moments in three-dimensional gauge theories with
+  external magnetic fields",4.134885422460147e-06,4.0487732264186964e-07,8.0,3.0
+cond-mat/0305686,Many-body effect in spin dephasing in n-typed GaAs quantum wells,4.128697461989794e-06,0.0,4.0,0.0
+cond-mat/0305429,Manipulation of spin dephasing in InAs quantum wires,4.128697461989794e-06,0.0,4.0,0.0
+hep-th/0307134,"Novel multi-band quantum soliton states for a derivative nonlinear
+  Schrodinger model",4.127146569588024e-06,0.0,3.0,0.0
+cond-mat/9805272,"On the theory of vortex quantum tunnelling in the dense Bose superfluid
+  helium II",4.1268219617905845e-06,0.0,3.0,0.0
+cond-mat/0208309,Chiral exponents in O(N) x O(m) spin models at O(1/N^2),4.124577924237267e-06,0.0,3.0,0.0
+hep-ph/9812468,A Goldstone Boson Primer,4.12418994010541e-06,1.8136270732142e-05,9.0,2.0
+cond-mat/0304278,"Remarkable site selectivity properties of the ARPES matrix element in
+  Bi$_2$Sr$_2$CaCu$_2$O$_8$",4.122853110340973e-06,0.0,3.0,0.0
+cond-mat/0012309,The Volatility in a Multi-share Financial Market Model,4.119264927879921e-06,0.0,6.0,0.0
+cond-mat/0202420,"Phase Diagram of the Extended Hubbard Model with Pair Hopping
+  Interaction",4.118117521547967e-06,0.0,3.0,0.0
+cond-mat/9612054,Vortex annihilation in the ordering kinetics of the O(2) model,4.11664282929526e-06,0.0,4.0,1.0
+hep-ph/0011354,"The Specific Heat of Normal, Degenerate Quark Matter: Non-Fermi Liquid
+  Corrections",4.107553244617647e-06,1.1027240578058629e-07,13.0,6.0
+cond-mat/0307122,"Dynamics of zz spin correlations in the square-lattice spin-1/2
+  isotropic XY model",4.106104777983071e-06,0.0,2.0,0.0
+cond-mat/9406110,"Composite Fermions and the Energy Gap in the Fractional Quantum Hall
+  Effect",4.10163899479119e-06,0.0,2.0,0.0
+cond-mat/9604121,"Ferromagnetism in an itinerant electron system: Hubbard model on
+  complete graph",4.101070439885805e-06,0.0,3.0,4.0
+gr-qc/0304061,Phenomenology of effective gravity,4.099629679225943e-06,1.0884904785802308e-05,9.0,8.0
+cond-mat/9504028,"Kondo effect versus Jahn-Teller effect: A new class of quantum impurity
+  problems",4.095594321587628e-06,0.0,2.0,0.0
+cond-mat/0101057,Uniting Bose-Einstein condensates in optical resonators,4.094525650321308e-06,1.2995596348993007e-08,3.0,3.0
+cond-mat/0305689,"Term Structure of Interest Rates. Emergence of Power Laws and Scaling
+  Laws",4.084803838282661e-06,0.0,3.0,0.0
+hep-th/9908131,The massless Thirring model in spherical field theory,4.083183538184686e-06,0.0,1.0,0.0
+hep-th/9906166,Convergence of derivative expansions of the renormalization group,4.0767733104893305e-06,3.643469868954233e-06,5.0,9.0
+cond-mat/0210095,Two-body correlations in N-body boson systems,4.076591341755463e-06,0.0,1.0,0.0
+cond-mat/9509173,Direct test of composite fermion model in quantum Hall systems,4.075235057024103e-06,0.0,3.0,0.0
+cond-mat/9602021,Normal state property of the t-J model,4.075235057024103e-06,0.0,3.0,0.0
+cond-mat/0211009,Transport properties of 1D disordered models: a novel approach,4.075235057024103e-06,0.0,2.0,1.0
+cond-mat/9407066,"Three-dimensional effects on extended states in disordered models of
+  polymers",4.075235057024103e-06,0.0,3.0,1.0
+astro-ph/0201126,Strangeness Nucleation in Neutron Star Matter,4.073813712844732e-06,0.0,5.0,0.0
+nucl-th/9802058,"A new Perspective on the Scalar meson Puzzle, from Spontaneous Chiral
+  Symmetry Breaking Beyond BCS",4.071854306174975e-06,0.0,3.0,4.0
+cond-mat/9911017,Evaporative Cooling of a Two-Component Degenerate Fermi Gas,4.065008084912177e-06,6.7825846551122005e-06,4.0,7.0
+hep-th/0212119,Asymmetric Cosets,4.063676204780714e-06,1.113255621197232e-06,24.0,11.0
+cond-mat/0310187,"Regular and Random Magnetic Resonance Force Microscopy Signal with a
+  Cantilever Oscillating Parallel to a Sample Surface",4.063143711471229e-06,0.0,1.0,0.0
+hep-th/9908159,Anyon Condensation and Persistent Currents,4.063143711471229e-06,0.0,1.0,0.0
+cond-mat/0207175,"Exactly solvable models through the generalized empty interval method,
+  for multi-species interactions",4.063143711471229e-06,0.0,1.0,2.0
+hep-th/9605005,Parquet Approximation in Large $N$ Matrix Theories,4.06252423017436e-06,0.0,5.0,3.0
+hep-th/9605169,The Ising model with a boundary magnetic field on a random surface,4.060340075519347e-06,2.1562782201763575e-08,8.0,5.0
+cond-mat/9801158,"The generalized multi-channel Kondo model: Thermodynamics and fusion
+  equations",4.058745560966372e-06,0.0,2.0,4.0
+nlin/0107069,Energy fluxes in helical magnetohydrodynamics and dynamo action,4.052474755990488e-06,0.0,3.0,2.0
+cond-mat/9809349,Excitation spectrum of the two-dimensional attractive Hubbard model,4.049248876786497e-06,0.0,5.0,1.0
+cond-mat/9707305,"Self-consistent calculation of particle-hole diagrams on the Matsubara
+  frequency: FLEX approximation",4.040166037298717e-06,0.0,1.0,0.0
+hep-th/0303187,Reflection-Transmission Algebras,4.038370408662605e-06,3.880901828792027e-05,19.0,19.0
+cond-mat/0003118,Coulomb drag between one-dimensional conductors,4.037324006501235e-06,0.0,1.0,1.0
+cond-mat/0005302,Dynamic splitting of a Bose-Einstein Condensate,4.035740919343214e-06,1.8565137641418582e-09,3.0,1.0
+hep-lat/9603002,"A strong-coupling analysis of two-dimensional O(N) sigma models with
+  N<=2 on square, triangular and honeycomb lattices",4.031621392736259e-06,0.0,6.0,6.0
+quant-ph/9506020,Decoherence: Basic Concepts and Their Interpretation,4.019350962728736e-06,0.000129760178538,9.0,7.0
+hep-th/0105164,"Universal Lax pairs for Spin Calogero-Moser Models and Spin Exchange
+  Models",4.010020948778415e-06,1.6715742793124473e-07,11.0,5.0
+cond-mat/0211357,Theoretical study of photon emission from molecular wires,4.009519846315088e-06,0.0,5.0,0.0
+cond-mat/9405039,"Superconductivity in the Two-Dimensional $t$-$J$ Model at Low Hole
+  Doping",4.007423346985859e-06,0.0,3.0,2.0
+cond-mat/0302019,Classical and Quantum Mechanics of Anyons,4.007423346985859e-06,0.0,3.0,1.0
+cond-mat/9608042,"Spectral flow in the supersymmetric $t$-$J$ model with a $1/r^2$
+  interaction",4.007423346985859e-06,0.0,3.0,0.0
+cond-mat/9807412,Finite-Temperature Collective Excitation of a Bose-Einstein Condensate,4.003095073940578e-06,1.4852110113134864e-08,4.0,2.0
+cond-mat/0005159,"Analytical results for a trapped, weakly-interacting Bose-Einstein
+  condensate under rotation",3.998556296171524e-06,1.1566643330532304e-08,6.0,4.0
+cond-mat/0103540,Non-Gaussian equilibrium in a long-range Hamiltonian system,3.990543635292312e-06,1.0098436751252064e-05,4.0,8.0
+hep-th/0209108,"Marginally Stable Topologically Non-Trivial Solitons in the Gross-Neveu
+  Model",3.989847784744348e-06,0.0,2.0,1.0
+cond-mat/9504107,"The Single-Particle density of States, Bound States, Phase-Shift Flip,
+  and a Resonance in the Presence of an Aharonov-Bohm Potential",3.985594173262475e-06,0.0,5.0,1.0
+hep-th/0312142,Functional bosonization with time dependent perturbations,3.982254463401058e-06,1.990182755160072e-06,4.0,1.0
+cond-mat/9911374,"Monopole, half-quantum vortices and nexus in chiral superfluids and
+  superconductors",3.976716910536408e-06,0.0004819952087584,7.0,5.0
+gr-qc/0004049,Links between gravity and dynamics of quantum liquids,3.973762286768053e-06,2.2935021014038443e-05,8.0,9.0
+cond-mat/0202408,Magnetic properties of SO(5) superconductivity,3.969203909220197e-06,0.0,5.0,1.0
+cond-mat/9610180,Weakly nonlinear quantum transport: an exactly solvable model,3.968692789957992e-06,0.0,3.0,2.0
+cond-mat/9610005,Bose-Einstein Condensation in a Harmonic Potential,3.968529498224237e-06,0.0,4.0,4.0
+cond-mat/0008387,From market games to real-world markets,3.966625093564905e-06,2.985274132740108e-06,7.0,9.0
+hep-ph/9806479,Chiral Disorder and QCD at Finite Chemical Potential,3.963781907152553e-06,0.0,7.0,1.0
+cond-mat/9902279,"A Two-dimensional Infinte System Density Matrix Renormalization Group
+  Algorithm",3.960342656320561e-06,0.0,2.0,0.0
+hep-lat/0010039,Introduction to stochastic error correction methods,3.952782333537815e-06,1.6267959003683657e-05,7.0,5.0
+cond-mat/9608012,"Charged Many-Electron -- Single Hole Complexes in a Double Quantum Well
+  near a Metal Plate",3.951214711156134e-06,0.0,1.0,0.0
+cond-mat/9603117,"Effect of non-magnetic impurities on the gap of a $d_{x^2-y^2}$
+  superconductor as seen by angle-resolved photoemission",3.951011740210633e-06,0.0,2.0,0.0
+cond-mat/9410093,On the Static and Dynamical Transition in the Mean-Field Potts Glass,3.947027144560639e-06,0.0,7.0,2.0
+cond-mat/0210302,"Magnetic Quantum Oscillations of the Longitudinal Conductivity
+  $\sigma_{zz}$ in Quasi two-dimensional Metals",3.942950843175383e-06,0.0,2.0,0.0
+nlin/0107037,"Crashes, Recoveries, and `Core-shifts' in a Model of Evolving Networks",3.937642034786911e-06,3.1574262698216664e-06,6.0,3.0
+cond-mat/0003324,Breakdown of universality in multi-cut matrix models,3.937383746378518e-06,7.770101644293753e-06,11.0,22.0
+cond-mat/0211401,Vortex nucleation in Bose-Einstein condensates in time-dependent traps,3.936853135391014e-06,0.0,4.0,1.0
+cond-mat/9707130,"Intermediate Valence Model for the Colossal Magnetoresistance in
+  Tl_{2}Mn_{2}O_{7}",3.935794547068277e-06,0.0,3.0,0.0
+quant-ph/0011123,Frequently Asked Questions about Decoherence,3.934720772095245e-06,1.0349237062123309e-06,6.0,2.0
+cond-mat/9505114,Pair correlation functions in one-dimensional correlated-hopping models,3.932131380088853e-06,0.0,3.0,0.0
+hep-th/9801196,"Renormalization-group Resummation of a Divergent Series of the
+  Perturbative Wave Functions of Quantum Systems",3.9266836958584855e-06,0.0,4.0,1.0
+cond-mat/0309008,Periodic diffraction patterns for 1D quasicrystals,3.922592578184734e-06,0.0,3.0,2.0
+quant-ph/0312039,"Entanglement and Quantum Phases in the Anisotropic Ferromagnetic
+  Heisenberg Chain in the Presence of Domain Walls",3.921537714095262e-06,0.0,6.0,1.0
+patt-sol/9909002,"Long-Lived Localized Field Configurations in Small Lattices: Application
+  to Oscillons",3.919245269513613e-06,0.0,4.0,6.0
+cond-mat/9708017,Magnus and Other Forces on Vortices in Superfluids and Superconductors,3.912420212811876e-06,0.0,1.0,6.0
+cond-mat/9707312,Two-dimensional oriented self-avoiding walks with parallel contacts,3.911405833560001e-06,0.0009705853958933,3.0,2.0
+cond-mat/9501088,Gapless Time-Reversal Symmetry Breaking Superconductivity,3.911405833560001e-06,0.0,3.0,0.0
+cond-mat/9504080,Stability of insulating phase in the chiral Kondo lattice model,3.911405833560001e-06,0.0,3.0,0.0
+cond-mat/9508074,Dynamical Properties of Two Coupled Hubbard Chains at Half-filling,3.911405833560001e-06,0.0,4.0,1.0
+hep-th/0310114,"Renormalization-Group Analysis of the Generalized sine-Gordon Model and
+  of the Coulomb Gas for d >= 3 Dimensions",3.909367401372036e-06,0.0,3.0,0.0
+cond-mat/0309469,"Staggered flux vortices and the superconducting transition in the
+  layered cuprates",3.908151079142215e-06,5.623787812451923e-06,3.0,1.0
+cond-mat/0204352,Tuning the dipolar interaction in quantum gases,3.907114949261013e-06,0.0,6.0,0.0
+cond-mat/9811015,A parity conserving dimer model with infinitely many absorbing states,3.90243631531661e-06,0.0,2.0,1.0
+cond-mat/9611061,Bose-Einstein Condensation in Anisotropic Harmonic Traps,3.899670652813957e-06,0.0,4.0,0.0
+physics/0003083,Magnetic Geometry and the Confinement of Electrically Conducting Plasmas,3.899236627776258e-06,1.6203722701984625e-05,2.0,7.0
+cond-mat/9807254,"Transition from Sub-Poissonian to Super-Poissonian Shot Noise in
+  Resonant Quantum Wells",3.898356165412594e-06,0.0,2.0,3.0
+hep-th/9905116,Universality and the magnetic catalysis of chiral symmetry breaking,3.89769912873454e-06,6.001332620939467e-08,4.0,2.0
+cond-mat/9507064,Non-equilibrium quantum noise in chiral Luttinger liquids,3.89576858754309e-06,0.0,5.0,3.0
+math/0010135,Integrable Lattices: Random Matrices and Random Permutations,3.894440264148168e-06,1.990182755160072e-06,8.0,8.0
+cond-mat/9411064,"Superconductivity in an exactly solvable Hubbard model with bond-charge
+  interaction",3.893776289413273e-06,0.0,3.0,3.0
+cond-mat/0105407,"Magnon Heat Transport in (Sr,La)_14Cu_24O_41",3.892662649556195e-06,0.0,2.0,0.0
+cond-mat/0105364,Geometrical aspects in Equilibrium Thermodynamics,3.891331587108071e-06,0.0,6.0,1.0
+cond-mat/9712019,"Boundary interactions changing operators and dynamical correlations in
+  quantum impurity problems",3.891107825139157e-06,0.0,4.0,4.0
+cond-mat/0112135,Time Scales of Phonon Induced Decoherence of Semiconductor Spin Qubits,3.889965964377515e-06,1.2632586439494471e-05,3.0,6.0
+cond-mat/9807164,A reexamination of quenches in Helium 4 and Helium 3,3.887805277909363e-06,0.0,5.0,1.0
+cond-mat/9903442,"Two-component theory of a droplet of electrons in half-filled Landau
+  level",3.887564685785667e-06,0.0,5.0,0.0
+cond-mat/9911462,The dynamical structure factor in disordered systems,3.887147852905248e-06,1.1941096530960432e-05,4.0,4.0
+cond-mat/0312633,"The effect of trap anharmonicity on the critical temperature for
+  Bose-Einstein condensation",3.885038775740857e-06,0.0,1.0,0.0
+cond-mat/9509003,Calogero-Sutherland techniques in the physics of disorderd wires,3.883200030172389e-06,0.0,3.0,1.0
+cond-mat/9911380,"Charge ordering and long-range interactions in layered transition metal
+  oxides: a quasiclassical continuum study",3.874098675028154e-06,0.0005094585877699,6.0,6.0
+hep-lat/9812010,Quantum Chaos in Compact Lattice QED,3.870270254250463e-06,0.0,4.0,3.0
+cond-mat/0103137,"The supersymmetric technique for random-matrix ensembles with zero
+  eigenvalues",3.867118737780261e-06,2.906818973219604e-05,7.0,2.0
+hep-th/9508017,Momentum Scale Expansion of Sharp Cutoff Flow Equations,3.8669619843644255e-06,0.0,3.0,11.0
+cond-mat/0101376,"Theory of the anomalous Hall effect from the Kubo formula and the Dirac
+  equation",3.864486370556426e-06,0.0,2.0,2.0
+cond-mat/9603107,"A comparative study of the phase diagrams of spin-$1 \over 2$ and
+  spin-$1$ antiferromagnetic chains with dimerization and frustration",3.856896285022894e-06,0.0,4.0,1.0
+hep-th/0110276,Macroscopic properties of A-statistics,3.855610339836547e-06,9.95091377580036e-06,5.0,6.0
+cond-mat/9510086,Skyrmions and edge spin excitations in quantum Hall droplets,3.853795325504487e-06,0.0,3.0,4.0
+cond-mat/9909237,Microwave study of quantum n-disk scattering,3.853795325504487e-06,0.0,3.0,0.0
+cond-mat/0012129,Influence of gauge fluctuations on fermion pairing order parameter,3.849294175153266e-06,0.0,3.0,0.0
+gr-qc/0102052,Notes on Black Hole Phase Transitions,3.848948685610947e-06,4.940286633725416e-06,10.0,5.0
+cond-mat/0110150,"Entanglement and Quantum Gate Operations with Spin-Qubits in Quantum
+  Dots",3.846894598433062e-06,3.894870366156526e-06,8.0,3.0
+cond-mat/9903021,Floppy Membranes,3.846315395336592e-06,0.0,3.0,2.0
+cond-mat/0105591,Interface depinning versus absorbing-state phase transitions,3.845510923150429e-06,0.0,4.0,1.0

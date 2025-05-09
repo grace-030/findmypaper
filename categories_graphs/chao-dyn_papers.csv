@@ -1,0 +1,1384 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+hep-th/9905229,Fractons and Fractal Statistics,3.108551512798182e-05,0.0,25.0,0.0
+chao-dyn/9908011,Forced Burgers Turbulence in 3-Dimensions,2.622078246868604e-05,8.761581551457375e-05,33.0,2.0
+cond-mat/9809360,The approach to thermal equilibrium in quantized chaotic systems,2.426477014944828e-05,0.0,26.0,9.0
+cond-mat/9709058,"Solitons and diffusive modes in the noiseless Burgers equation:
+  Stability analysis",1.5735028520764476e-05,9.95091377580036e-06,9.0,3.0
+cond-mat/9912110,"Singularities and the distribution of density in the Burgers/adhesion
+  model",1.3646784734957733e-05,8.363545000425361e-05,4.0,6.0
+chao-dyn/9804045,Macroscopic chaos in globally coupled maps,1.3423803402703878e-05,0.0,3.0,1.0
+chao-dyn/9509014,How to Run Algorithmic Information Theory on a Computer,1.3295733452298886e-05,0.0,8.0,0.0
+cond-mat/9812165,"Chaos in Quantum Dots: Dynamical Modulation of Coulomb Blockade Peak
+  Heights",1.2631466025357411e-05,0.0,1.0,5.0
+chao-dyn/9701023,Wound-up phase turbulence in the Complex Ginzburg-Landau equation,1.1824447841130918e-05,0.0,10.0,2.0
+cond-mat/9904215,Effective action for stochastic partial differential equations,1.12874051602235e-05,5.970548265480216e-06,5.0,3.0
+cond-mat/9904391,Effective potential for the massless KPZ equation,1.1267378596053922e-05,0.0,2.0,3.0
+chao-dyn/9712015,"Quantum Mechanics and Semiclassics of Hyperbolic n-Disk Scattering
+  Systems",1.1067148833794452e-05,0.0,10.0,2.0
+cond-mat/9904207,"Effective potential for classical field theories subject to stochastic
+  noise",1.099343992020706e-05,0.0,4.0,1.0
+chao-dyn/9805009,Collective Chaos,1.0895119137962116e-05,0.0,2.0,1.0
+chao-dyn/9906014,Frozen spatial chaos induced by boundaries,1.0065433688167495e-05,0.0,5.0,3.0
+cond-mat/9710133,Soliton approach to the noisy Burgers equation: Steepest descent method,9.815028175155028e-06,0.0,6.0,1.0
+cond-mat/9707187,Quantum Versus Classical Decay Laws in Open Chaotic Systems,9.15211124249012e-06,0.0,2.0,1.0
+hep-th/9606130,2-Dimensional Turbulence: yet another Conformal Field Theory Solution,8.883173247609499e-06,4.158590831677762e-07,29.0,21.0
+quant-ph/9902016,"Double Solution with Chaos: Completion of de Broglie's Nonlinear Wave
+  Mechanics and Its Intrinsic Unification with the Causally Extended Relativity",8.27972350655063e-06,1.5192222662971202e-05,11.0,6.0
+cond-mat/9909078,Effective potential for the reaction-diffusion-decay system,7.380371814439666e-06,0.0,2.0,2.0
+quant-ph/9902015,"Double Solution with Chaos: Dynamic Redundance and Causal Wave-Particle
+  Duality",7.300611266213012e-06,1.3912466613310533e-05,11.0,9.0
+chao-dyn/9811015,Definition of fractal measures arising from fractional calculus,7.214383427118034e-06,0.0,3.0,0.0
+gr-qc/9612060,The tale of two centres,7.06465197296119e-06,5.999834959009454e-06,8.0,3.0
+chao-dyn/9612019,The role of singularities in chaotic spectroscopy,6.8088841638452775e-06,0.0,6.0,0.0
+chao-dyn/9512002,Practical and algorithmical manifestations of quantum chaos,6.614142670444895e-06,0.0,4.0,0.0
+hep-th/9707173,"Exact Two-Point Correlation Functions of Turbulence Without Pressure in
+  Three-Dimensions",6.378597387486955e-06,1.1941096530960432e-05,10.0,1.0
+cond-mat/9811399,Phase Transition in the Passive Scalar Advection,6.361434952021164e-06,0.0,2.0,10.0
+chao-dyn/9712008,Spatial Correlations in Chaotic Eigenfunctions,6.347733714156326e-06,0.0,11.0,0.0
+chao-dyn/9909030,Numerical study of a three-dimensional generalized stadium billiard,6.331834397982535e-06,0.0,1.0,0.0
+chao-dyn/9908009,"A Trace Formula for Products of Diagonal Matrix Elements in Chaotic
+  Systems",6.31852202366747e-06,0.0,6.0,0.0
+chao-dyn/9711020,Random Matrix Elements and Eigenfunctions in Chaotic Systems,6.263521680744111e-06,0.0,9.0,3.0
+chao-dyn/9611007,Passive Scalar: Scaling Exponents and Realizability,6.234494999550296e-06,0.0,7.0,0.0
+cond-mat/9709059,"Morphology and scaling in the noisy Burgers equation: Soliton approach
+  to the strong coupling fixed point",6.231947585600305e-06,0.0,1.0,2.0
+chao-dyn/9907006,The quantum three-dimensional Sinai billiard - a semiclassical analysis,6.157465455999856e-06,0.0,6.0,1.0
+cond-mat/9909285,Critical statistics in a power-law random banded matrix ensemble,6.119333032687596e-06,6.032432057618278e-06,4.0,3.0
+cond-mat/9809136,"Kinetic Ising model in an oscillating field: Avrami theory for the
+  hysteretic response and finite-size scaling for the dynamic phase transition",6.113071727288424e-06,0.0,2.0,3.0
+hep-th/9710103,Various Shades of Blue's Functions,6.109448112946871e-06,0.0001914616148771,19.0,12.0
+chao-dyn/9502021,"Dynamical Simulation of Fluidized Beds --- Hydrodynamically Interacting
+  Granular Particles",6.033403976617764e-06,0.0,4.0,2.0
+chao-dyn/9904029,"Exit time of turbulent signals: a way to detect the intermediate
+  dissipative range",6.000939756027827e-06,0.0,2.0,0.0
+chao-dyn/9702004,"A direct link between the quantum-mechanical and semiclassical
+  determination of scattering resonances",5.978213332807091e-06,0.0,3.0,2.0
+chao-dyn/9907018,"Anomalous scaling of a passive scalar advected by the synthetic
+  compressible flow",5.795244435468687e-06,0.0,6.0,7.0
+chao-dyn/9911004,"Quantum limit of the laser linewidth in chaotic cavities and statistics
+  of residues of scattering matrix poles",5.7657493960328655e-06,0.0,4.0,0.0
+cond-mat/9906017,Algorithmic Complexity in Minority Game,5.700839135890636e-06,3.9729394552635765e-06,7.0,2.0
+chao-dyn/9808014,A Matrix Element for Chaotic Tunnelling Rates and Scarring Intensities,5.639721075225431e-06,0.0,5.0,2.0
+chao-dyn/9912015,"The effect of forcing on the spatial structure and spectra of
+  chaotically advected passive scalars",5.606000327112092e-06,0.0,1.0,0.0
+quant-ph/9912100,"Quantum Computing, NP-complete Problems and Chaotic Dynamics",5.441079230899272e-06,9.28256882070929e-08,12.0,5.0
+chao-dyn/9511004,Symbolic Dynamics and Periodic Orbits for the Cardioid Billiard,5.419980382932927e-06,0.0,3.0,1.0
+chao-dyn/9910001,Kicked Burgers Turbulence,5.346024265977915e-06,1.3931279286120504e-05,5.0,8.0
+cond-mat/9808150,"Ergodic properties of a generic non-integrable quantum many-body system
+  in thermodynamic limit",5.325782784835101e-06,0.0,5.0,2.0
+chao-dyn/9911003,"Structure of Quantum Chaotic Wavefunctions: Ergodicity, Localization,
+  and Transport",5.276587382561437e-06,0.0,2.0,0.0
+chao-dyn/9809016,Maps for analysis of nonlinear dynamics,5.265852223504732e-06,0.0,6.0,0.0
+cond-mat/9712153,Correlations of Wave Functions in Disordered Systems,5.233993758209181e-06,0.0,6.0,2.0
+chao-dyn/9509005,"Edge Diffraction, Trace Formulae and the Cardioid Billiard",5.074670476788378e-06,0.0,1.0,4.0
+cond-mat/9807363,Nonergodic Behavior of Interacting Bosons in Harmonic Traps,5.072970560527422e-06,0.0,4.0,0.0
+chao-dyn/9806004,"Renormalization group and anomalous scaling in a simple model of passive
+  scalar advection in compressible flow",5.066800160489815e-06,0.0,6.0,1.0
+chao-dyn/9510016,"Sensitivity of the eigenfunctions and the level curvature distribution
+  in quantum billiards",4.9331190207894044e-06,0.0,4.0,1.0
+chao-dyn/9811004,"Symmetries, invariants and cascades in a shell model of turbulence",4.904984352554163e-06,0.0,2.0,0.0
+cond-mat/9507057,Analytical Results for Random Band Matrices with Preferential Basis,4.7931660795707736e-06,0.0,5.0,1.0
+cond-mat/9805023,Quantal Brownian Motion - Dephasing and Dissipation,4.790025861903353e-06,0.0,5.0,0.0
+hep-ph/9906390,Density correlators in a self-similar cascade,4.775563454392716e-06,0.0,3.0,2.0
+gr-qc/9610065,Chaos in Static Axisymmetric Spacetimes II : non-vacuum case,4.745342426746292e-06,0.0,5.0,1.0
+chao-dyn/9808011,"Anomalous scaling regimes of a passive scalar advected by the synthetic
+  velocity field",4.719198313918415e-06,0.0,5.0,4.0
+chao-dyn/9906033,Controlling a leaky tap,4.651340137579245e-06,0.0,3.0,0.0
+chao-dyn/9808018,Hyperchaos synchronization with a zero driving variable,4.651340137579245e-06,0.0,3.0,0.0
+chao-dyn/9809013,Scar and Antiscar Quantum Effects in Open Chaotic Systems,4.617581509945091e-06,0.0,2.0,0.0
+chao-dyn/9911005,The passive polymer problem,4.60133120873313e-06,0.0,5.0,6.0
+chao-dyn/9907023,The multifractal structure of chaotically advected chemical fields,4.593943964501726e-06,0.0,3.0,1.0
+cond-mat/9712036,Chaos Thresholds in finite Fermi systems,4.580866943425203e-06,0.0,4.0,2.0
+gr-qc/9910040,"Gravity Waves, Chaos, and Spinning Compact Binaries",4.558870085695732e-06,0.0,3.0,0.0
+cond-mat/9807123,Integrability and Quantum Chaos in Spin Glass Shards,4.536061509397327e-06,0.0,4.0,0.0
+chao-dyn/9905022,Noise-induced flow in quasigeostrophic turbulence with bottom friction,4.527116820765776e-06,0.0,3.0,0.0
+cond-mat/9802251,"Resonant steps and spatiotemporal dynamics in the damped dc-driven
+  Frenkel-Kontorova chain",4.527116820765776e-06,0.0,2.0,0.0
+chao-dyn/9909009,"Lyapunov exponents and Kolmogorov-Sinai entropy for a high-dimensional
+  convex billiard",4.505853954846983e-06,0.0,4.0,0.0
+chao-dyn/9705015,Quantum mechanical time-delay matrix in chaotic scattering,4.497001798443926e-06,0.0,2.0,2.0
+cond-mat/9807279,Synchronization and directed percolation in coupled map lattices,4.44870371646361e-06,0.0,2.0,0.0
+chao-dyn/9906010,"Real Arnold complexity versus real topological entropy for birational
+  transformations",4.447563379034643e-06,0.0,3.0,1.0
+cond-mat/9705002,"Fluctuation-Dissipation theorems and entropy production in relaxational
+  systems",4.4233664349716136e-06,0.0,7.0,5.0
+cond-mat/9902168,"Chaos and energy spreading for time-Dependent Hamiltonians, and the
+  various Regimes in the theory of Quantum Dissipation",4.418400114029396e-06,0.0,3.0,4.0
+chao-dyn/9812013,"Chaotic Monte Carlo computation: a dynamical effect of random-number
+  generations",4.379188306199261e-06,0.0,2.0,2.0
+chao-dyn/9506003,A New Version of Algorithmic Information Theory,4.310626949152466e-06,0.0,4.0,1.0
+chao-dyn/9407010,The Limits of Mathematics---Extended Abstract,4.29547588726343e-06,0.0,4.0,2.0
+cond-mat/9908336,"Dynamics and statistics of simple models with infinite-range attractive
+  interaction",4.287273966993423e-06,5.645020654608884e-05,6.0,9.0
+chao-dyn/9904002,Spectral properties of Dissipative Chaotic Quantum Maps,4.278670187138834e-06,0.0,1.0,0.0
+cond-mat/9809211,A map from 1d Quantum Field Theory to Quantum Chaos on a 2d Torus,4.219523874748417e-06,0.0,1.0,0.0
+cond-mat/9807307,"Avalanche mixing of granular solids in a rotating 2D drum and discrete
+  mapping",4.199458373837573e-06,0.0,3.0,0.0
+chao-dyn/9904022,Kepler map,4.199458373837573e-06,0.0,4.0,0.0
+cond-mat/9703088,Diffraction in the semiclassical description of mesoscopic devices,4.199458373837573e-06,0.0,3.0,1.0
+chao-dyn/9810029,Improved control of delayed measured systems,4.128278206266183e-06,0.0,2.0,2.0
+chao-dyn/9909046,The Statistics of Chaotic Tunnelling,4.124377221451151e-06,0.0,1.0,0.0
+chao-dyn/9910030,"Short-Time Effects on Eigenstate Structure in Sinai Billiards and
+  Related Systems",4.124377221451151e-06,0.0,1.0,0.0
+chao-dyn/9911009,Semiclassical Gaussian matrix elements for chaotic quantum wells,4.124377221451151e-06,0.0,1.0,0.0
+chao-dyn/9810019,Notes about Passive Scalar in Large-Scale Velocity Field,4.069189384247665e-06,0.0,2.0,0.0
+chao-dyn/9808022,Forces and torques on non-spherical particles in viscous shear flows,4.063143711471229e-06,0.0,1.0,2.0
+cond-mat/9904028,Dynamic Phase Transition and Hysteresis in Kinetic Ising Models,3.964382851548761e-06,0.0,2.0,0.0
+chao-dyn/9802005,Unstable Periodic Orbit Analysis of Histograms of Chaotic Time Series,3.931541973884519e-06,0.0,2.0,0.0
+chao-dyn/9702006,The Elliptic Billiard: Subtleties of Separability,3.924607802443545e-06,0.0,2.0,0.0
+chao-dyn/9811021,"Multiscale velocity correlation in turbulence: experiments, numerical
+  simulations, synthetic signals",3.911405833560001e-06,0.0,3.0,0.0
+chao-dyn/9504008,"Belavkin-Kolkoltsov watch-dog effects in interactively controlled
+  stochastic computer-graphic dynamic systems. A mathematical study",3.895828764866227e-06,0.0,7.0,0.0
+hep-lat/9812010,Quantum Chaos in Compact Lattice QED,3.870270254250463e-06,0.0,4.0,3.0
+cond-mat/9909237,Microwave study of quantum n-disk scattering,3.853795325504487e-06,0.0,3.0,0.0
+cond-mat/9804093,Vortices in a cylinder: Localization after depinning,3.843532785120044e-06,2.088081651698976e-06,8.0,3.0
+chao-dyn/9902007,Shell Model for Time-correlated Random Advection of Passive Scalars,3.840791656599681e-06,0.0,4.0,2.0
+cond-mat/9903018,"Phase Ordering and Onset of Collective Behavior in Chaotic Coupled Map
+  Lattices",3.831289573748384e-06,0.0,2.0,0.0
+chao-dyn/9901013,"The predictability problem in systems with an uncertainty in the
+  evolution law",3.826788423397162e-06,0.0,1.0,0.0
+chao-dyn/9612017,"Three-point correlation function of a scalar mixed by an almost smooth
+  random velocity field",3.8006357901188456e-06,0.0,3.0,0.0
+hep-ph/9609491,Nonhermitean Random Matrix Models : a Free Random Variable Approach,3.793138763464391e-06,0.0,4.0,13.0
+hep-ph/9708418,New Developments In Non-Hermitian Random Matrix Models,3.7867454193966814e-06,5.287674225694155e-06,13.0,6.0
+quant-ph/9511038,"Causal Wave Mechanics and the Advent of Complexity. V. Quantum field
+  mechanics",3.7855795638269455e-06,0.0,3.0,5.0
+chao-dyn/9708017,Quantal-Classical Duality and the Semiclassical Trace Formula,3.767934875086551e-06,0.0,2.0,3.0
+cond-mat/9705095,"Toward semiclassical theory of quantum level correlations of generic
+  chaotic systems",3.739142021083201e-06,0.0,3.0,1.0
+chao-dyn/9804027,Hysteresis in Adiabatic Dynamical Systems: an Introduction,3.725070858339796e-06,0.0,2.0,0.0
+hep-th/9805100,Turbulence without pressure in d dimensions,3.7212544580588896e-06,0.0,8.0,5.0
+chao-dyn/9709030,On the rate of quantum ergodicity in Euclidean billiards,3.6761611688166048e-06,0.0,1.0,2.0
+chao-dyn/9809010,Passive advection in nonlinear medium,3.6408282232936815e-06,0.0,4.0,0.0
+chao-dyn/9410006,"The Breakdown of Dynamic Scaling and Intermittency in a Cascade Model of
+  Turbulence",3.62335329328243e-06,0.0,2.0,1.0
+chao-dyn/9912004,"Fractional Fokker-Planck Equation for Nonlinear Stochastic Differential
+  Equations Driven by Non-Gaussian Levy Stable Noises",3.62335329328243e-06,0.0,2.0,0.0
+chao-dyn/9805008,Multiplier phenomenology in random multiplicative cascade processes,3.62335329328243e-06,0.0,2.0,0.0
+chao-dyn/9609009,Extended time-delay autosynchronization for the buck converter,3.62335329328243e-06,0.0,2.0,0.0
+chao-dyn/9708009,Stellar Arrhythmias,3.62335329328243e-06,0.0,2.0,0.0
+chao-dyn/9907012,Learning Driver-Response Relationships from Synchronization Patterns,3.62335329328243e-06,0.0,2.0,0.0
+chao-dyn/9804008,Semiclassics for a Dissipative Quantum Map,3.62335329328243e-06,0.0,2.0,1.0
+chao-dyn/9703016,"Semiclassical spectra from periodic-orbit clusters in a mixed phase
+  space",3.49912997646896e-06,0.0,2.0,1.0
+chao-dyn/9911028,"Fixed points, stability and intermittency in a shell model for advection
+  of passive scalars",3.450102255063244e-06,0.0,1.0,0.0
+cond-mat/9707102,Decay of Quasi-Particle in a Quantum Dot: the role of Energy Resolution,3.4024368803356743e-06,0.0,3.0,2.0
+cond-mat/9809022,"Distribution of the quantum mechanical time-delay matrix for a chaotic
+  cavity",3.3768338372437005e-06,3.963299864565148e-07,3.0,3.0
+chao-dyn/9807017,"Spectral Statistics in Chaotic Systems with Two Identical Connected
+  Cells",3.3749066596554898e-06,0.0,1.0,0.0
+chao-dyn/9612007,"Topological Dependence of Universal Correlations in Multi-Parameter
+  Hamiltonians",3.3749066596554898e-06,0.0,1.0,0.0
+cond-mat/9711034,Multiscaling in passive scalar advection as stochastic shape dynamics,3.355821659923583e-06,0.0,2.0,1.0
+chao-dyn/9704007,Exactly solvable chaos and addition theorems of elliptic functions,3.333023255739323e-06,0.0,2.0,3.0
+cond-mat/9802038,Circulation Statistics in Three-Dimensional Turbulent Flows,3.3290867959134984e-06,0.0,1.0,0.0
+chao-dyn/9907024,Easy turbulence,3.321527290606213e-06,0.0,4.0,3.0
+chao-dyn/9909015,"Wavepacket dynamics in energy space, RMT and quantum-classical
+  correspondence",3.3114206594554444e-06,0.0,2.0,2.0
+chao-dyn/9509016,Is there relevance of chaos in numerical solutions of quantum billiards?,3.3075950875640693e-06,0.0,2.0,2.0
+chao-dyn/9803024,"Analytic estimation of Lyapunov exponent in a mean-field model
+  undergoing a phase transition",3.307094949617245e-06,0.0,3.0,0.0
+chao-dyn/9808003,"The Spectral Autocorrelation Function in Weakly Open Chaotic Systems:
+  Indirect Photodissociation of Molecules",3.307094949617245e-06,0.0,2.0,0.0
+astro-ph/9809257,"Relativistic and Newtonian core-shell models: analytical and numerical
+  results",3.3030645010996213e-06,0.0,1.0,0.0
+cond-mat/9811079,"Test of the Kolmogorov-Johnson-Mehl-Avrami picture of metastable decay
+  in a model with microscopic dynamics",3.295003604064372e-06,0.0,1.0,2.0
+cond-mat/9605127,The Onset of Chaos in the Quantum Hard-Sphere Gas,3.2942868710324323e-06,0.0,8.0,1.0
+nucl-th/9911072,"The Impact of Isospin Breaking on the Distribution of Transition
+  Probabilities",3.284414609402201e-06,0.0,1.0,0.0
+cond-mat/9711258,"Torsion and electron motion in Quantum Dots with crystal lattice
+  dislocations",3.2388031310173102e-06,2.984036456897347e-06,6.0,3.0
+chao-dyn/9909027,On the large time asymptotics of decaying Burgers turbulence,3.233001283505979e-06,0.0,5.0,0.0
+cond-mat/9601046,"Parametric Correlations of Scattering Phase Shifts and Fluctuations of
+  Delay Times in Few-Channel Chaotic Scattering",3.1752715639617638e-06,0.0,3.0,0.0
+hep-ph/9708320,Primordial Magnetic Fields and Their Development,3.1688420750231552e-06,1.834401072275163e-06,6.0,8.0
+cond-mat/9701108,"Parametric Correlations of Phase Shifts and Statistics of Time Delays in
+  Quantum Chaotic Scattering: Crossover between Unitary and Orthogonal
+  Symmetries",3.1645701241043585e-06,0.0,3.0,0.0
+cond-mat/9811223,Dynamical Anomalies and Intermittency in Burgers Turbulence,3.15162834464638e-06,3.980365510320144e-06,3.0,1.0
+chao-dyn/9804029,"Coherence, space non-locality and lacunarity in a cascade model of
+  turbulence",3.1489657777846533e-06,0.0,2.0,0.0
+chao-dyn/9906038,"The Scaling Structure of the Velocity Statistics in Atmospheric Boundary
+  Layer",3.147666382447659e-06,0.0,2.0,4.0
+chao-dyn/9903001,Improvement of SNR with Chaotic Spreading Sequences for CDMA,3.1309464119155717e-06,0.0,1.0,0.0
+chao-dyn/9608017,Periodic Orbits and Spectral Statistics of Pseudointegrable Billiards,3.115560060712355e-06,0.0,1.0,0.0
+chao-dyn/9712006,"Almost-Hermitian Random Matrices: Applications to the Theory of Quantum
+  Chaotic Scattering and Beyond",3.115360613879119e-06,0.0,3.0,0.0
+chao-dyn/9902006,A non extensive approach to the entropy of symbolic sequences,3.1037334331949964e-06,0.0,3.0,0.0
+cond-mat/9609115,"Conductance Peak Distributions in Quantum Dots and the Crossover between
+  Orthogonal and Unitary Symmetries",3.103719183019163e-06,0.0,1.0,2.0
+chao-dyn/9707018,"The problem of quantum chaotic scattering with direct processes reduced
+  to the one without",3.096109448106873e-06,0.0,1.0,0.0
+cond-mat/9808002,"PDF's Of The Burgers Equation On The Semiline With Fluctuating Flux At
+  The Origin",3.0952790757053098e-06,0.0,3.0,0.0
+cond-mat/9711213,"Interaction-Driven Equilibrium and Statistical Laws in Small Systems.
+  The Cerium Atom",3.095079115793552e-06,0.0,1.0,2.0
+cond-mat/9509168,Nonlinear Dynamics of Composite Fermions in Nanostructures,3.0472482127272877e-06,0.0,2.0,0.0
+cond-mat/9709204,"Localization and Equipartition of Energy in the beta-FPU Chain : Chaotic
+  Breathers",3.0472482127272877e-06,0.0,2.0,2.0
+cond-mat/9903412,Classical Chaos and its Quantum Manifestations,3.0472482127272877e-06,0.0,2.0,0.0
+chao-dyn/9803039,"Intermittency, synthetic turbulence and wavelet structure functions",3.0472482127272877e-06,0.0,2.0,2.0
+chao-dyn/9805020,Quantum baker map on the sphere,3.0472482127272877e-06,0.0,2.0,0.0
+quant-ph/9708024,Quantum anti-Zeno effect,3.0472482127272877e-06,0.0,2.0,3.0
+cond-mat/9712021,Stochastic Hysteresis and Resonance in a Kinetic Ising System,3.0472482127272877e-06,0.0,2.0,2.0
+chao-dyn/9611003,Time-reversal symmetry and random polynomials,3.0472482127272877e-06,0.0,2.0,1.0
+cond-mat/9707227,"The Exact Ground State of the Frenkel-Kontorova Model with Repeated
+  Parabolic Potential: I. Basic Results",3.0472482127272877e-06,0.0,2.0,0.0
+chao-dyn/9807034,"Trace formulas for stochastic evolution operators: Weak noise
+  perturbation theory",3.0472482127272877e-06,0.0,2.0,5.0
+chao-dyn/9802020,Intermittency and eddy-viscosities in dynamical models of turbulence,3.0472482127272877e-06,0.0,2.0,1.0
+astro-ph/9903452,Resonant Orbits in Triaxial Galaxies,3.0472482127272877e-06,0.0,2.0,0.0
+cond-mat/9706040,Emergence of quantum chaos in finite interacting Fermi systems,3.045897502495768e-06,0.0,2.0,9.0
+chao-dyn/9904047,Distribution of Husimi Zeroes in Polygonal Billiards,3.002003496924556e-06,0.0,2.0,0.0
+cond-mat/9912092,Geometric approach to Hamiltonian dynamics and statistical mechanics,2.9890477693559106e-06,5.992826430649918e-06,5.0,5.0
+chao-dyn/9907034,On geometric properties of passive random advection,2.9527334630333173e-06,0.0,3.0,0.0
+chao-dyn/9909004,The Gallavotti-Cohen Fluctuation Theorem for a non-chaotic model,2.9331672069425605e-06,0.0,4.0,1.0
+astro-ph/9712013,"Kinetic Energy Decay Rates of Supersonic and Super-Alfvenic Turbulence
+  in Star-Forming Clouds",2.931826208502846e-06,0.0,2.0,3.0
+chao-dyn/9706013,An Exact Renormalization Group analysis of 3-d Well Developed turbulence,2.9275038064260554e-06,0.0,5.0,2.0
+chao-dyn/9805007,A simplified model for red cell dynamics in small blood vessels,2.91697922313738e-06,0.0,1.0,0.0
+chao-dyn/9906006,"The behavior of closed inextensible membranes in linear and quadratic
+  shear flows",2.91697922313738e-06,0.0,1.0,1.0
+chao-dyn/9904027,"Spectrum of stochastic evolution operators: Local matrix representation
+  approach",2.9008676810694127e-06,0.0,3.0,2.0
+cond-mat/9808068,"Equilibrium and dynamical properties of two dimensional self-gravitating
+  systems",2.871459765578169e-06,1.990182755160072e-06,2.0,1.0
+chao-dyn/9602017,Small Disks and Semiclassical Resonances,2.855213185875573e-06,0.0,2.0,1.0
+chao-dyn/9706024,"Quantitative study of scars in the boundary section of the stadium
+  billiard",2.855213185875573e-06,0.0,3.0,1.0
+chao-dyn/9910009,"Dissipative Chaotic Quantum Maps: Expectation Values, Correlation
+  Functions and the Invariant State",2.855213185875573e-06,0.0,2.0,0.0
+cond-mat/9507043,"Statistical Properties of Random Banded Matrices with Strongly
+  Fluctuating Diagonal Elements",2.855213185875573e-06,0.0,3.0,3.0
+chao-dyn/9912034,A MultiBaker Map for Thermodynamic Cross-Effects in Dynamical Systems,2.840785435347518e-06,0.0,2.0,3.0
+dg-ga/9409004,On the nonHamiltonian interaction of two rotators,2.833209880203161e-06,0.0,2.0,4.0
+chao-dyn/9710025,Correlations in Chaotic Eigenfunctions at Large Separation,2.830353700633618e-06,0.0,5.0,3.0
+hep-lat/9607086,Random matrix model approach to chiral symmetry,2.8245425334704834e-06,0.0,6.0,4.0
+chao-dyn/9905041,Dynamical entropy for systems with stochastic perturbation,2.798801579100347e-06,0.0,1.0,0.0
+chao-dyn/9506008,Information-theoretic characterization of quantum chaos,2.791961517142536e-06,0.0,3.0,2.0
+cond-mat/9905184,An integration scheme for reaction-diffusion models,2.7862630916977992e-06,0.0,1.0,0.0
+hep-th/9603091,Flux String in Quantum Billiards with Two Particles,2.77239764133326e-06,0.0,1.0,0.0
+chao-dyn/9802025,"Universality in the random matrix spectra in the regime of weak
+  non-Hermiticity",2.7672178317099745e-06,0.0001194110027458,5.0,8.0
+hep-lat/9711002,Chaotic behavior of confining lattice gauge field configurations,2.7668197474326044e-06,1.6877397855835072e-08,4.0,5.0
+chao-dyn/9910022,Self-Similar Decay in the Kraichnan Model of a Passive Scalar,2.753280276410979e-06,0.0,3.0,0.0
+astro-ph/9610154,On inverse Cascades and Primordial Magnetic Fields,2.735558015451128e-06,0.0,3.0,7.0
+quant-ph/9806015,Quantum Zeno and quantum anti-Zeno effects,2.7309898690621025e-06,0.0,2.0,2.0
+hep-th/9801069,Duality in Perturbation Theory and the Quantum Adiabatic Approximation,2.7015851643942016e-06,0.0,2.0,0.0
+chao-dyn/9901021,"Multiscaling and Structure Functions in Turbulence: An Alternative
+  Approach",2.697084014042981e-06,0.0,1.0,1.0
+chao-dyn/9406013,"Belavkin-Kolokoltsov watch-dog effects in interactively controlled
+  stochastic computer-graphic dynamic systems",2.6947967361961305e-06,0.0,6.0,2.0
+chao-dyn/9406012,"Power law velocity fluctuations due to inelastic collisions in
+  numerically simulated vibrated bed of powder}",2.687566872532133e-06,0.0,1.0,3.0
+chao-dyn/9605012,"Universality of the Inertial-Convective Range in Kraichnan's Model of a
+  Passive Scalar",2.680632360133767e-06,0.0,5.0,2.0
+chao-dyn/9810033,"Geometric approach to chaos in the classical dynamics of abelian lattice
+  gauge theory",2.6801492665430084e-06,0.0,3.0,1.0
+chao-dyn/9904049,Non Asymptotic Properties of Transport and Mixing,2.68013108653342e-06,0.0,3.0,0.0
+cond-mat/9611044,"Energy flow, partial equilibration and effective temperatures in systems
+  with slow dynamics",2.663503637560741e-06,0.0,4.0,11.0
+nucl-th/9806053,Generalized entropy and temperature in nuclear multifragmentation,2.6631781590238582e-06,0.0,2.0,0.0
+cond-mat/9803360,Quantum mechanics of chaotic billiards,2.6631781590238582e-06,0.0,3.0,2.0
+chao-dyn/9812018,Sailing the Deep Blue Sea of Decaying Burgers Turbulence,2.6568566340051283e-06,0.0,2.0,3.0
+quant-ph/9805078,New Concept of Dynamic Complexity in Quantum Mechanics and Beyond,2.6420876024276007e-06,0.0,6.0,5.0
+chao-dyn/9705009,Distribution of the wave function inside chaotic partially open systems,2.6364738002621435e-06,0.0,1.0,0.0
+physics/9902057,Eigenstates for billiards of arbitrary shapes,2.6246329051955444e-06,0.0,2.0,1.0
+chao-dyn/9510013,"Quantum Mechanics with Chaos: Correspondence Principle, Measurement and
+  Complexity",2.624076221968096e-06,2.9778480776835407e-06,3.0,5.0
+cond-mat/9604084,"Spectral properties of quantum $N$-body systems versus chaotic
+  properties of their mean field approximations",2.5991664834066204e-06,0.0,2.0,0.0
+chao-dyn/9708016,"Probability density and scaling exponents of the moments of longitudinal
+  velocity difference in strong turbulence",2.580362614481545e-06,0.0,2.0,3.0
+cond-mat/9809105,Relaxation of classical many-body hamiltonians in one dimension,2.5728606972295104e-06,0.0,1.0,0.0
+chao-dyn/9905007,Collective and chaotic motion in self-bound many-body systems,2.5566358919577483e-06,0.0,1.0,2.0
+cond-mat/9704149,"Random matrix models with log-singular level confinement: method of
+  fictitious fermions",2.5363179022925822e-06,0.0,3.0,8.0
+chao-dyn/9712010,"Collectivity Embedded in Complex Spectra of Finite Interacting Fermi
+  Systems: Nuclear Example",2.505409360315372e-06,0.0,2.0,0.0
+chao-dyn/9910017,Decaying magnetohydrodynamics: effects of initial conditions,2.502994545445711e-06,0.0,1.0,0.0
+patt-sol/9611001,Vortex Dynamics in Dissipative Systems,2.5026770430984795e-06,0.0,2.0,0.0
+hep-ph/9807512,Modelling Sonoluminescence,2.496820000616181e-06,0.0,3.0,2.0
+cond-mat/9907063,"Theoretical Model for the Kramers-Moyal Description of Turbulence
+  Cascades",2.494351036648664e-06,0.0,5.0,0.0
+quant-ph/9511043,"On Quantum Field Brownian Motion, Decoherence and Semiquantum Chaos",2.4879712421885963e-06,0.0,3.0,0.0
+hep-th/9711049,Is there chaos in string cosmology?,2.4858694011626037e-06,4.053795349887153e-07,5.0,3.0
+math/9910176,"The geometry of bifurcation surfaces in parameter space. I. A walk
+  through the pitchfork",2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9906009,"Classical Diffusion and Quantum Level Velocities: Systematic Deviations
+  from Random Matrix Theory",2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9905038,Multichannel Quantum Defect Theory: a Quantum Poincare Map,2.4711431321721443e-06,0.0,1.0,0.0
+nucl-th/9912055,Statistical aspects of nuclear coupling to continuum,2.4711431321721443e-06,0.0,1.0,1.0
+chao-dyn/9709015,Ergodic Properties of Microcanonical Observables,2.4711431321721443e-06,0.0,1.0,2.0
+chao-dyn/9802003,Noise rectification in quasigeostrophic forced turbulence,2.4711431321721443e-06,0.0,2.0,1.0
+physics/9709002,On the decay of Burgers turbulence,2.4711431321721443e-06,0.0,1.0,1.0
+chao-dyn/9902017,"Comment on ""Entropy Generation in Computation and the Second law of
+  Thermodynamics"", by S. Ishioka and N. Fuchikami",2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9904046,"Random Roughness of Boundary Increases Turbulent Convection Scaling
+  Exponent",2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9610016,"Non-Perturbative Zero Modes in the Kraichnan Model for Turbulent
+  Advection",2.4711431321721443e-06,0.0,1.0,3.0
+chao-dyn/9905011,Decomposition of Resonant Scatterers by Surfaces of Section,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/9807382,"Dynamical Instabilities and Deterministic Chaos in Ballistic Electron
+  Motion in Semiconductor Superlattices",2.4711431321721443e-06,0.0,2.0,0.0
+chao-dyn/9803030,"Relative dispersion in fully developed turbulence: from Eulerian to
+  Lagrangian statistics in synthetic flows",2.4711431321721443e-06,0.0,1.0,1.0
+cond-mat/9609100,"Fluctuating ""order parameter"" for a quantum chaotic system with
+  partially broken time-reversal symmetry",2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9705017,Active control of ionized boundary layers,2.4711431321721443e-06,0.0,1.0,1.0
+cond-mat/9702068,Self-Organized Criticality Driven by Deterministic Rules,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/9707301,Random Matrix Theories in Quantum Physics: Common Concepts,2.4711431321721443e-06,0.0,1.0,60.0
+nucl-th/9602039,"Dynamical chaos and critical behavior in Vlasov simulations of nuclear
+  multifragmentation",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/9510126,"Chaotic dynamics of electric-field domains in periodically driven
+  superlattices",2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9906022,Characteristic distributions of finite-time Lyapunov exponents,2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9607004,Effect of Chaotic Noise on Multistable Systems,2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9810032,Energy transfer in two-dimensional magnetohydrodynamic turbulence,2.4711431321721443e-06,0.0,2.0,0.0
+chao-dyn/9810021,Anomalous Scaling from Controlled Closure in a Shell Model of Turbulence,2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9804036,"Hamiltonian structure of the Sabra shell model of turbulence: exact
+  calculation of an anomalous scaling exponent",2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9803038,Squeezed state dynamics of kicked quantum systems,2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9912006,Reconstruction of systems with delayed feedback: (II) Application,2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9903027,Thermostating by Deterministic Scattering: Heat and Shear Flow,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/9806359,Statistical mechanics of voting,2.4711431321721443e-06,0.0,1.0,1.0
+chao-dyn/9901028,Analog to Digital Conversion in Physical Measurements,2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9807019,"Simple deterministic dynamical systems with fractal diffusion
+  coefficients",2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9802010,"Energy transport and correlation between two attractors connected by
+  Fermi-Pasta-Ulam chain",2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9802007,Phase Coherence in Chaotic Oscillatory Media,2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9802002,Coiling and Supercoiling of Vortex Filaments in Oscillatory Media,2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9804018,"Proper initial conditions for the lubrication model of the flow of a
+  thin film of fluid",2.4711431321721443e-06,0.0,1.0,2.0
+chao-dyn/9803033,Deterministic SR in a Piecewise Linear Chaotic Map,2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9711013,"Periodic orbits near bifurcations of codimension two: Classical
+  mechanics, semiclassics, and Stokes transitions",2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9710018,"Chaos and Quantumlike Mechanics in Atmospheric Flows : A Superstring
+  Theory for Supergravity",2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9712007,"New approach to the correlation spectrum near intermittency: a quantum
+  mechanical analogy",2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9809009,"Correspondence between classical dynamics and energy level spacing
+  distribution in the transition billiard systems",2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9812008,Temporal intermittency and cascades in shell models of turbulence,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/9808031,A Chaotic Cousin Of Conway's Recursive Sequence,2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9508001,"Simulating Three-Dimensional Hydrodynamics on a Cellular-Automata
+  Machine",2.4711431321721443e-06,0.0,1.0,1.0
+chao-dyn/9307010,"Dependence of extensive chaos on the spatial correlation length
+  (substantial revision)",2.4711431321721443e-06,0.0,1.0,1.0
+chao-dyn/9909032,Scaling in thermal convection: A unifying theory,2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9908004,Estimation of Lyapunov spectra from space-time data,2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9912013,"Quantum-classical correspondence and nonclassical states generation in
+  dissipative quantum optical systems",2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9912014,Bifurcation analysis of the plane sheet pinch,2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9905013,The Radiative Kicked Oscillator: A Stochastic Web or Chaotic Attractor ?,2.4711431321721443e-06,0.0,1.0,1.0
+chao-dyn/9805015,Globally coupled maps with asynchronous updating,2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9508002,"The Fourth-Order Correlation Function of a Randomly Advected Passive
+  Scalar",2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9712019,"Stochastic Responses of the Stable Period-p Orbits in One-Dimensional
+  Noisy Map Systems",2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9909036,"Macroscopic Determinism in Noninteracting Systems Using Large Deviation
+  Theory",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/9801245,The probability for wave packet to remain in a disordered cavity,2.4711431321721443e-06,0.0,1.0,2.0
+chao-dyn/9606014,"Predictability in the large: an extension of the concept of Lyapunov
+  exponent",2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9710006,"Size-Dependent Transition to High-Dimensional Chaotic Dynamics in a
+  Two-Dimensional Excitable Medium",2.4711431321721443e-06,0.0,1.0,0.0
+nucl-th/9510002,Universal Predictions for Statistical Nuclear Correlations,2.4711431321721443e-06,0.0,1.0,1.0
+chao-dyn/9807011,Field Driven Thermostated System : A Non-Linear Multi-Baker Map,2.4711431321721443e-06,0.0,1.0,0.0
+math-ph/9804009,On the Dynamical Meaning of Spectral Dimensions,2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9911014,On the Turbulent Dynamics of Polymer Solutions,2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9702010,"Scale Dependence of Intermittency Exponents in Developed Hydrodynamic
+  Turbulence",2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/9704110,"Dry Friction in the Frenkel-Kontorova-Tomlinson Model: Dynamical
+  Properties",2.4711431321721443e-06,0.0,1.0,1.0
+chao-dyn/9607015,On developed turbulence in a weak compressibile conductive fluid,2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9704015,Application of extended self similarity in turbulence,2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9611019,Nonuniversality in level dynamics,2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9611010,Geometric dynamical observables in rare gas crystals,2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9706020,Turbulent-like Diffusion in Complex Quantum Systems,2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9810018,Band Distributions for Quantum Chaos on the Torus,2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9711023,Superposition of chaotic process with convergence to Levy's stable law,2.4190041623467877e-06,0.0,1.0,1.0
+hep-th/9612242,"Universal correlations in random matrices: quantum chaos, the $1/r^2$
+  integrable model, and quantum gravity",2.408347275525456e-06,0.0,3.0,0.0
+cond-mat/9911032,"The statistics of velocity fluctuations arising from a random
+  distribution of point vortices: the speed of fluctuations and the diffusion
+  coefficient",2.4060086373771908e-06,0.0,1.0,2.0
+chao-dyn/9807031,Complexity spectrum of some discrete dynamical systems,2.4015638504312147e-06,0.0,3.0,1.0
+chao-dyn/9603012,Gaussian Fluctuations in Chaotic Eigenstates,2.3864790522942e-06,0.0,5.0,7.0
+patt-sol/9508001,"A Geometrical Formulation of the Renormalization Group Method for Global
+  Analysis II: Partial Differential Equations",2.3771572147201503e-06,0.0,2.0,1.0
+chao-dyn/9606011,Instanton for random advection,2.3758318356540955e-06,0.0,4.0,4.0
+chao-dyn/9709005,Intermittent dissipation of a passive scalar in turbulence,2.353935927770701e-06,1.7878307086652514e-05,2.0,1.0
+chao-dyn/9909012,Large Petermann factor in chaotic cavities with many scattering channels,2.3482392914522272e-06,0.0,2.0,1.0
+chao-dyn/9906011,"The accurate and comprehensive model of thin fluid flows with inertia on
+  curved substrates",2.3469198153586743e-06,0.0,1.0,1.0
+chao-dyn/9810013,Recent Developments in the Theory of Scarring,2.3469198153586743e-06,0.0,1.0,0.0
+hep-th/9707054,Chaos in effective classical and quantum dynamics,2.3408880612152566e-06,0.0,3.0,2.0
+cond-mat/9709304,Fluctuation theorem for stochastic dynamics,2.3285112472612517e-06,0.0,2.0,6.0
+cond-mat/9812315,"Nonequilibrium effects in the tunneling conductance spectra of small
+  metallic particles",2.3272235351099917e-06,0.0,1.0,1.0
+chao-dyn/9911016,Asymptotics of high order noise corrections,2.3247626005142697e-06,0.0,2.0,0.0
+chao-dyn/9709037,Two complementary descriptions of intermittency,2.323944109806864e-06,1.990182755160072e-06,2.0,1.0
+cond-mat/9703152,"Almost-Hermitian Random Matrices: Crossover from Wigner-Dyson to Ginibre
+  eigenvalue statistics",2.3224795657928843e-06,2.989726898052318e-05,4.0,21.0
+chao-dyn/9803027,Intermittency of Passive Advection,2.3200733533900792e-06,0.0,3.0,1.0
+chao-dyn/9806012,"Quantum chaos with non-periodic, complex orbits in the Resonant
+  Tunneling Diode",2.2960610328299915e-06,0.0,2.0,1.0
+chao-dyn/9612014,"Periodic Orbits, Breaktime and Localization",2.281564656902228e-06,0.0,1.0,2.0
+cond-mat/9803340,Quantum localization and cantori in chaotic billiards,2.27910810532043e-06,0.0,2.0,1.0
+chao-dyn/9910016,"The Quantum-Classical Crossover in the Adiabatic Response of Chaotic
+  Systems",2.266058008103192e-06,0.0,1.0,1.0
+chao-dyn/9909014,"Unification of perturbation theory, RMT and semiclassical considerations
+  in the study of parametrically-dependent eigenstates",2.266058008103192e-06,0.0,1.0,2.0
+chao-dyn/9905028,"Influence of compressibility on scaling regimes of strongly anisotropic
+  fully developed turbulence",2.26263051935692e-06,0.0,1.0,1.0
+chao-dyn/9903026,"Anisotropic non-perturbative zero modes for passively advected magnetic
+  fields",2.26263051935692e-06,0.0,1.0,3.0
+cond-mat/9909306,"Emergence of macroscopic temperatures in systems that are not
+  thermodynamical microscopically: towards a thermodynamical description of
+  slow granular rheology",2.2598260027023483e-06,7.960731020640288e-06,3.0,5.0
+funct-an/9409003,"Classical and quantum dynamics of noncanonically coupled oscillators and
+  Lie superalgebras",2.236525333171024e-06,0.0,2.0,5.0
+quant-ph/9911113,"How Events Come Into Being: EEQT, Particle Tracks, Quantum Chaos, and
+  Tunneling Time",2.232419545495856e-06,0.0,4.0,1.0
+cond-mat/9802169,"Quantum Billiards with Surface Scattering: Ballistic Sigma-Model
+  Approach",2.2179582649402112e-06,0.0,1.0,0.0
+patt-sol/9706007,"Phenomenological Theory for Spatiotemporal Chaos in Rayleigh-Benard
+  Convection",2.2158564365873934e-06,0.0,2.0,1.0
+math/9910145,On quantum ergodicity for linear maps of the torus,2.2158564365873934e-06,0.0,2.0,1.0
+chao-dyn/9909034,"Kinetic Theory Estimates for the Kolmogorov-Sinai Entropy and the
+  Largest Lyapunov Exponents for Dilute, Hard-Ball Gases and for Dilute, Random
+  Lorentz Gases",2.183090591894573e-06,0.0,2.0,1.0
+cond-mat/9704198,"Diffusion in a Random Velocity Field: Spectral Properties of a
+  Non-Hermitian Fokker-Planck Operator",2.1659107779011134e-06,0.0,4.0,10.0
+chao-dyn/9603007,"Intermittency and Anomalous Scaling of Passive Scalars in Any Space
+  Dimension",2.1435791405941096e-06,0.0,3.0,0.0
+chao-dyn/9610003,Turbulence under a magnifying glass,2.1435791405941096e-06,0.0,3.0,12.0
+cond-mat/9912038,The semiclassical tool in mesoscopic physics,2.14339509835716e-06,0.0,2.0,3.0
+gr-qc/9608030,"Addendum: Chaos around a H\'enon-Heiles-Inspired Exact Perturbation of a
+  Black Hole",2.14067520749401e-06,0.0,1.0,1.0
+quant-ph/9812081,A Way Out of the Quantum Trap,2.136402032069999e-06,0.0,4.0,2.0
+quant-ph/9911102,"A Fundamental Limit of Measurement Imposed by the Elementary
+  Interactions",2.1254800838390582e-06,0.0,2.0,2.0
+hep-th/9610221,Symmetries of the stochastic Burgers equation,2.12345661040221e-06,0.0,3.0,4.0
+cond-mat/9812177,Dispersive stabilization of the inverse cascade for the Kolmogorov flow,2.122159325721142e-06,0.0,1.0,0.0
+chao-dyn/9904016,Two-Dimensional turbulence in the inverse cascade range,2.122159325721142e-06,0.0,1.0,4.0
+chao-dyn/9902011,Passive scalar intermittency in compressible flow,2.122159325721142e-06,0.0,1.0,2.0
+cond-mat/9904430,Intermittency in Dynamics of Two-Dimensional Vortex-like Defects,2.122159325721142e-06,0.0,1.0,0.0
+cond-mat/9911284,Statistics of Wave Functions in Coupled Chaotic Systems,2.122008765876583e-06,0.0,1.0,1.0
+chao-dyn/9912035,"Semiclassical properties of eigenfunctions and occupation number
+  distribution for a model of two interacting particles",2.120978933487838e-06,0.0,1.0,7.0
+cond-mat/9902314,Correlations of Eigenvectors for Non-Hermitian Random-Matrix Models,2.1112018116355687e-06,2.445892100305805e-06,1.0,6.0
+cond-mat/9906047,Pdf's of Derivatives and Increments for Decaying Burgers Turbulence,2.104607900240774e-06,1.990182755160072e-06,4.0,8.0
+chao-dyn/9707001,"Comment on ""Optimal Periodic Orbits of Chaotic Systems""",2.0994262859210773e-06,0.0,1.0,1.0
+cond-mat/9606173,"Almost-Hermitian Random Matrices: Eigenvalue Density in the Complex
+  Plane",2.087073078468716e-06,0.0,2.0,16.0
+quant-ph/9610013,Chaos in Time Dependent Variational Approximations to Quantum Dynamics,2.0807958039387566e-06,0.0,2.0,8.0
+cond-mat/9712209,Efficient Diagonalization of Kicked Quantum Systems,2.0748991219810826e-06,0.0,1.0,1.0
+chao-dyn/9912025,Anomalous scaling in a shell model of helical turbulence,2.0732704877116634e-06,0.0,2.0,0.0
+quant-ph/9708029,Complete positivity of nonlinear evolution: A case study,2.070543706558192e-06,0.0007622856940399,3.0,8.0
+quant-ph/9910088,Localization of Eigenstates & Mean Wehrl Entropy,2.066369192333137e-06,0.0,2.0,1.0
+cond-mat/9908130,Random matrices and the replica method,2.043608853255514e-06,0.0,4.0,5.0
+chao-dyn/9909020,"Nonperturbative Spectrum of Anomalous Scaling Exponents in the
+  Anisotropic Sectors of Passively Advected Magnetic Fields",2.030319104541867e-06,0.0,1.0,3.0
+chao-dyn/9501028,"Thermalization of a Brownian particle via coupling to low-dimensional
+  chaos",2.02118101595897e-06,0.0,2.0,1.0
+cond-mat/9907412,The rate of entropy increase at the edge of chaos,2.01621506402474e-06,0.0,4.0,9.0
+chao-dyn/9906001,Synchronization of chaotic systems driven by identical noise,2.0122007516544078e-06,0.0,3.0,2.0
+cond-mat/9905027,"Kinetic approach to the Gaussian thermostat in a dilute sheared gas in
+  the thermodynamic limit",2.0082842862678342e-06,0.0,2.0,1.0
+chao-dyn/9910029,"Different transport regimes in a spatially-extended recirculating
+  background",2.00800849255242e-06,0.0,1.0,0.0
+cond-mat/9909288,Generalized bit cumulants for chaotic systems: Numerical results,2.00800849255242e-06,0.0,1.0,1.0
+chao-dyn/9701016,Perturbative and Non-Perturbative Analysis of the 3'rd Order Zero Modes,2.004257533926402e-06,0.0,1.0,0.0
+quant-ph/9511034,"Causal Wave Mechanics and the Advent of Complexity. I. Dynamic
+  multivaluedness",2.000757557203959e-06,2.9778480776835407e-06,1.0,13.0
+quant-ph/9511037,"Causal Wave Mechanics and the Advent of Complexity. IV. Dynamical origin
+  of quantum indeterminacy and wave reduction",2.000757557203959e-06,1.9827567001035044e-06,1.0,7.0
+cond-mat/9907176,"Computational Mechanics: Pattern and Prediction, Structure and
+  Simplicity",1.9910555650428585e-06,0.0,2.0,14.0
+cond-mat/9706035,Slow modes in passive advection,1.9881168338977203e-06,0.0,2.0,8.0
+hep-ph/9905274,Chiral Disorder and Diffusion in The QCD Vacuum,1.986263045200018e-06,0.0,4.0,0.0
+hep-th/9611128,"Chaos, Scaling and Existence of a Continuum Limit in Classical
+  Non-Abelian Lattice Gauge Theory",1.9778543256693262e-06,0.0,3.0,13.0
+chao-dyn/9912018,The Nose-hoover thermostated Lorentz gas,1.9766278145148035e-06,0.0,2.0,2.0
+chao-dyn/9909018,"On the dynamics of a self-gravitating medium with random and non-random
+  initial conditions",1.9716471836588346e-06,1.3931279286120504e-05,2.0,1.0
+chao-dyn/9704017,"Remark on the relation between passive scalars and diffusion backward in
+  time",1.9638184561776526e-06,0.0,3.0,1.0
+quant-ph/9812040,Enhanced Diffusion and the Continuous Spontaneous Localization Model,1.9452471364771878e-06,0.0,2.0,0.0
+chao-dyn/9609007,Supersymmetry for Systems with Unitary Disorder: Circular Ensembles,1.927859454868301e-06,0.0,3.0,6.0
+chao-dyn/9909005,Chaotic Rydberg atoms with broken time-reversal symmetry,1.9215713946053195e-06,0.0,1.0,0.0
+gr-qc/9806023,String Cosmology and Chaos,1.9158243864912068e-06,1.9938957826883555e-06,1.0,2.0
+chao-dyn/9703014,Berry's conjecture and information theory,1.9028130655168568e-06,0.0,3.0,0.0
+chao-dyn/9708020,"Structure of Eigenstates and Local Spectral Density of States: A
+  Three-Orbital Schematic Shell Model",1.900047053226134e-06,0.0,2.0,0.0
+chao-dyn/9804041,Light Squeezing at the Transition to Quantum Chaos,1.8950380516170012e-06,0.0,1.0,2.0
+chao-dyn/9906021,"The Intersection Angles between N-Dimensional Stable and Unstable
+  Manifolds in 2N-Dimensional Symplectic Mappings",1.8950380516170012e-06,0.0,1.0,0.0
+chao-dyn/9908001,Fractional Langevin equation to describe anomalous diffusion,1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/9707257,"The Exact Ground State of the Frenkel-Kontorova Model with Repeated
+  Parabolic Potential: II. Numerical Treatment",1.8950380516170012e-06,0.0,1.0,0.0
+chao-dyn/9905023,Self-organization in nonlinear wave turbulence,1.8950380516170012e-06,0.0,1.0,0.0
+chao-dyn/9803013,"A solitary-wave representation of turbulence in the physical-plus-eddy
+  space",1.8950380516170012e-06,0.0,1.0,2.0
+chao-dyn/9903031,Chaotization of the Supercritical Atom,1.8950380516170012e-06,0.0,1.0,0.0
+chao-dyn/9909019,"Lyapunov Exponent, Generalized Entropies and Fractal Dimensions Of Hot
+  Drops",1.8950380516170012e-06,0.0,1.0,0.0
+chao-dyn/9901004,"Exponentially small oscillation of 2-dimensional stable and unstable
+  manifolds in 4-dimensional symplectic mappings",1.8950380516170012e-06,0.0,1.0,0.0
+chao-dyn/9911018,Classical statistical mechanics of a few-body interacting spin model,1.8950380516170012e-06,0.0,1.0,2.0
+cond-mat/9901196,"Wave transmission, phonon localization and heat conduction of 1D
+  Frenkel-Kontorova chain",1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/9507080,"Defects in Chiral Columnar Phases: Tilt Grain Boundaries and Iterated
+  Moire Maps",1.8950380516170012e-06,0.0,1.0,2.0
+cond-mat/9911229,"Universal Long-Time Relaxation on the Lattices of Classical Spins:
+  Markovian Behavior on non-Markovian Timescales",1.8950380516170012e-06,0.0,1.0,1.0
+cond-mat/9808045,Chaos control in photoconductors,1.8950380516170012e-06,0.0,1.0,1.0
+hep-ex/9407003,Unbiased Estimators for Correlation Measurements,1.8950380516170012e-06,0.0,1.0,1.0
+chao-dyn/9909033,"Indistinguishable multiplier statistics of discrete and continous
+  turbulent cascade models",1.8950380516170012e-06,0.0,1.0,4.0
+chao-dyn/9811020,Simulation of a Dripping Faucet,1.8950380516170012e-06,0.0,1.0,1.0
+chao-dyn/9904034,Influence of Friction on the Direct Cascade of the 2d Forced Turbulence,1.8950380516170012e-06,0.0,1.0,1.0
+chao-dyn/9604003,"Anomalous scaling of triple correlation function of white-advected
+  passive scalar",1.8950380516170012e-06,0.0,1.0,1.0
+chao-dyn/9909003,"About coherent structures in random shell models for passive scalar
+  advection",1.8950380516170012e-06,0.0,1.0,0.0
+chao-dyn/9905016,Pulses in the Zero-Spacing Limit of the GOY Model,1.8950380516170012e-06,0.0,1.0,0.0
+chao-dyn/9911007,Artificiality of multifractal phase transitions,1.8950380516170012e-06,0.0,1.0,0.0
+chao-dyn/9812027,Chaotic Autoionization of the Relativistic Two-Electron Atom,1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/9907104,Universality in metallic nanocohesion: a quantum chaos approach,1.8950380516170012e-06,0.0,1.0,0.0
+chao-dyn/9612004,"Spatiotemporal Chaos in Large Systems: The Scaling of Complexity with
+  Size",1.8950380516170012e-06,0.0,1.0,5.0
+chao-dyn/9310003,Truncated horseshoes and formal languages in chaotic scattering,1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/9709070,Statistical properties of the time evolution of complex systems. I,1.8950380516170012e-06,0.0,1.0,1.0
+chao-dyn/9703003,Semiclassical interference of bifurcations,1.8950380516170012e-06,0.0,1.0,1.0
+chao-dyn/9807021,Quasiclassical Surface of Section Perturbation Theory,1.8950380516170012e-06,0.0,1.0,0.0
+chao-dyn/9804015,Relaxation Fluctuations in Quantum Chaos,1.8950380516170012e-06,0.0,1.0,0.0
+chao-dyn/9804038,hbar expansion for the periodic orbit quantization by harmonic inversion,1.8950380516170012e-06,0.0,1.0,0.0
+chao-dyn/9609017,"The Fermi-Pasta-Ulam problem revisited: stochasticity thresholds in
+  nonlinear Hamiltonian systems",1.8950380516170012e-06,0.0,1.0,0.0
+chao-dyn/9603001,"The Universal Scaling Exponents of Anisotropy in Turbulence and their
+  Measurement",1.8950380516170012e-06,0.0,1.0,0.0
+chao-dyn/9804016,Numerical verification of Percival's conjecture in a quantum billiard,1.8950380516170012e-06,0.0,1.0,0.0
+chao-dyn/9511007,Semiquantum Chaos in the Double-Well,1.890709860898882e-06,0.0,2.0,3.0
+cond-mat/9604151,"Survival Probability of a Gaussian Non-Markovian Process: Application to
+  the T=0 Dynamics of the Ising Model",1.8575467357179816e-06,0.0,1.0,3.0
+quant-ph/9806092,"Chaos, Thermodynamics and Quantum Mechanics: an Application to Celestial
+  Dynamics",1.8502938500074228e-06,0.0,3.0,0.0
+gr-qc/9612066,The mixmaster universe: A chaotic Farey tale,1.8484315963002827e-06,0.0,2.0,9.0
+chao-dyn/9906030,Small-scale turbulent dynamo,1.8416565862532e-06,0.0,1.0,4.0
+chao-dyn/9905026,"Ergodic and chaotic hypotheses: nonequilibrium ensembles in statistical
+  mechanics and turbulence",1.8385675538877888e-06,0.0,1.0,0.0
+cond-mat/9512115,"Comment on ""Spatial Correlation in Quantum Chaotic Systems with
+  Time-Reversal Symmetry: Theory and Experiment"" by V. N. Prigodin et al
+  [cond-mat/9504089]",1.8374275435614872e-06,0.0,2.0,9.0
+chao-dyn/9810028,Fluctuations in 2D reversibly-damped turbulence,1.8374275435614872e-06,0.0,2.0,3.0
+chao-dyn/9605008,"Existence and Uniqueness of $L^2$-Solutions at Zero-Diffusivity in the
+  Kraichnan Model of a Passive Scalar",1.8373233532649717e-06,0.0,3.0,4.0
+cond-mat/9909085,Green's Functions in Non-hermitian Random Matrix Models,1.833678730382924e-06,4.302485849517879e-07,2.0,2.0
+chao-dyn/9904028,"Statistical Theory for the Stochastic Burgers Equation in the Inviscid
+  Limit",1.8254997661057573e-06,0.0,3.0,9.0
+chao-dyn/9601018,Anomalous Scaling in the N-Point Functions of Passive Scalar,1.8251109799610269e-06,0.0,3.0,8.0
+chao-dyn/9811003,"Trace formulas for stochastic evolution operators: Smooth conjugation
+  method",1.8205040615289195e-06,0.0,1.0,4.0
+quant-ph/9511036,"Causal Wave Mechanics and the Advent of Complexity. III. Universal
+  structure of complexity",1.8096079265967796e-06,0.0,1.0,4.0
+cond-mat/9810395,"Quantum dissipation due to the interaction with chaotic
+  degrees-of-freedom and the correspondence principle",1.7990205381911442e-06,0.0,2.0,1.0
+chao-dyn/9807014,Rational dynamical zeta functions for birational transformations,1.7866444927595895e-06,0.0,2.0,3.0
+chao-dyn/9901019,Random Analytic Chaotic Eigenstates,1.7801970389480738e-06,0.0,2.0,3.0
+chao-dyn/9509023,Undecidability everywhere?,1.778316652055566e-06,0.0,1.0,0.0
+chao-dyn/9801001,Nonperturbative renormalization group approach to turbulence,1.770621818094158e-06,0.0,2.0,1.0
+cond-mat/9904389,"Superdiffusion and Out-of-equilibrium Chaotic Dynamics with Many Degrees
+  of Freedoms",1.7685620687537106e-06,0.0,2.0,2.0
+cond-mat/9812094,"Perturbative and non-perturbative parts of eigenstates and local
+  spectral density of states: the Wigner band random matrix model",1.758104132587853e-06,0.0,1.0,0.0
+hep-th/9606089,Exact Computations in the Burgers Problem,1.7540041296580685e-06,0.0,3.0,3.0
+chao-dyn/9608012,Quantum Fluids and Classical Determinants,1.751011781478216e-06,0.0,2.0,3.0
+chao-dyn/9603016,"Three disks in a row: A two-dimensional scattering analog of the
+  double-well problem",1.751011781478216e-06,0.0,2.0,1.0
+chao-dyn/9904020,"Intermittency exponents and energy spectrum of the Burgers and KPZ
+  equations with correlated noise",1.7458531039743495e-06,0.0,3.0,0.0
+chao-dyn/9803007,"On how a joint interaction of two innocent partners (smooth advection &
+  linear damping) produces a strong intermittency",1.7439682728349363e-06,0.0,2.0,2.0
+cond-mat/9701187,Two-level system with noise: Blue's function approach,1.7435247195989549e-06,0.0,1.0,7.0
+chao-dyn/9807015,"S-matrix poles for chaotic quantum systems as eigenvalues of complex
+  symmetric random matrices: from isolated to overlapping resonances",1.7420986089370277e-06,7.4260550565674335e-09,1.0,2.0
+hep-lat/9906037,Ergodic Properties of Classical SU(2) Lattice Gauge Theory,1.73764583355134e-06,2.0366260536852777e-06,3.0,2.0
+chao-dyn/9908013,Thermostating by deterministic scattering: the periodic Lorentz gas,1.735008862573906e-06,0.0,2.0,4.0
+chao-dyn/9905020,"Universal long-time properties of Lagrangian statistics in the Batchelor
+  regime and their application to the passive scalar problem",1.7298040892779342e-06,0.0,1.0,3.0
+quant-ph/9910065,"Comparison between quantum and classical dynamics in the effective
+  action formalism",1.7252302204976572e-06,0.0,1.0,14.0
+chao-dyn/9707024,"Lyapunov instability and finite size effects in a system with long-range
+  forces",1.703003024765287e-06,0.0,1.0,1.0
+chao-dyn/9601010,Wave Chaos in Quantum Billiards with Small but Finite-Size Scatterer,1.703003024765287e-06,0.0,1.0,1.0
+quant-ph/9903062,Stochastic resonance for quantum channels,1.703003024765287e-06,0.0,1.0,0.0
+hep-th/9709185,On the ERG approach in $3 - d$ Well Developed Turbulence,1.703003024765287e-06,0.0,1.0,3.0
+chao-dyn/9908008,Chaotic advection and relative dispersion in a convective flow,1.703003024765287e-06,0.0,1.0,0.0
+chao-dyn/9908021,"Momentum conservation implies anomalous energy transport in 1d classical
+  lattices",1.703003024765287e-06,0.0,1.0,3.0
+chao-dyn/9909010,"Closed almost-periodic orbits in semiclassical quantization of generic
+  polygons",1.703003024765287e-06,0.0,1.0,1.0
+quant-ph/9805068,Does quantum chaos exist? (A quantum Lyapunov exponents approach.),1.703003024765287e-06,0.0,1.0,5.0
+chao-dyn/9910032,Truncations of random unitary matrices,1.703003024765287e-06,0.0,2.0,1.0
+chao-dyn/9905027,Lagrangian Tetrad Dynamics and the Phenomenology of Turbulence,1.703003024765287e-06,0.0,1.0,0.0
+gr-qc/9505036,Chaos in Static Axisymmetric Spacetimes I : Vacuum Case,1.703003024765287e-06,0.0,1.0,1.0
+chao-dyn/9611006,Semiclassical Transition from an Elliptical to an Oval Billiard,1.703003024765287e-06,0.0,1.0,1.0
+nucl-th/9911038,Wave Function Structure in Two-Body Random Matrix Ensembles,1.703003024765287e-06,0.0,1.0,1.0
+chao-dyn/9906016,"Inverse cascade in two-dimensional turbulence: deviations from
+  Gaussianity",1.6947292461297943e-06,0.0,1.0,6.0
+hep-th/9609045,"The Renormalization-Group Method Applied to Asymptotic Analysis of
+  Vector Fields",1.689286237133022e-06,0.0,2.0,4.0
+chao-dyn/9704008,Ginzburg-Landau equation for steps on creep curve,1.6796093662264846e-06,0.0,1.0,0.0
+chao-dyn/9706017,Inverse cascade and intermittency of passive scalar in 1d smooth flow,1.6687200713777183e-06,2.3848855352132733e-05,3.0,2.0
+chao-dyn/9704005,Spatially Localized Unstable Periodic Orbits,1.6397513560322505e-06,0.0,1.0,2.0
+chao-dyn/9705010,Low-Dimensional Modelling of Dynamical Systems,1.6397513560322505e-06,0.0,1.0,3.0
+physics/9904040,"Nonlinear Accelerator Problems via Wavelets: 2. Orbital Dynamics in
+  General Multipolar Field",1.6259979455573276e-06,0.0,3.0,13.0
+physics/9904039,"Nonlinear Accelerator Problems via Wavelets: 1. Orbital Motion in
+  Storage Rings",1.6259979455573276e-06,0.0,3.0,23.0
+physics/9904045,"Nonlinear Accelerator Problems via Wavelets: 6. Representations and
+  Quasiclassics via FWT",1.6259979455573276e-06,0.0,3.0,13.0
+physics/9904046,"Nonlinear Accelerator Problems via Wavelets: 7. Invariant Calculations
+  in Hamiltonian Problems",1.6259979455573276e-06,0.0,3.0,13.0
+physics/9904042,Nonlinear Accelerator Problems via Wavelets: 4. Spin-Orbital Motion,1.6259979455573276e-06,0.0,3.0,13.0
+physics/9904043,"Nonlinear Accelerator Problems via Wavelets: 5. Maps and Discretization
+  via Wavelets",1.6259979455573276e-06,0.0,3.0,13.0
+physics/9904047,"Nonlinear Accelerator Problems via Wavelets: 8. Invariant Bases, Loops
+  and KAM",1.6259979455573276e-06,0.0,3.0,13.0
+physics/9904041,"Nonlinear Accelerator Problems via Wavelets: 3. Effects of Insertion
+  Devices on Beam Dynamics",1.6259979455573276e-06,0.0,3.0,13.0
+hep-ph/9909309,Chaos analyses in both phases of QED and QCD,1.6138261944306134e-06,0.0,3.0,2.0
+cond-mat/9909218,Nonextensive thermodynamic formalism for chaotic dynamical systems,1.60698551133943e-06,0.0,1.0,2.0
+chao-dyn/9903014,Transport in finite size systems: an exit time approach,1.60698551133943e-06,0.0,1.0,2.0
+chao-dyn/9807026,Pair dispersion in synthetic fully developed turbulence,1.60698551133943e-06,0.0,1.0,1.0
+patt-sol/9705003,"Dynamical Reduction of Discrete Systems Based on the Renormalization
+  Group Method",1.60698551133943e-06,0.0,1.0,1.0
+solv-int/9406002,Non-integrability of the mixmaster universe,1.60698551133943e-06,0.0,1.0,1.0
+cond-mat/9911222,"Random matrices, random polynomials and Coulomb systems",1.60698551133943e-06,0.0,1.0,1.0
+chao-dyn/9607014,"Turbulence Fluctuations and New Universal Realizability Conditions in
+  Modelling",1.60698551133943e-06,0.0,1.0,0.0
+chao-dyn/9806007,"Periodic Orbit theory for Resonant Tunneling Diodes : comparison with
+  quantum and experimental results",1.60698551133943e-06,0.0,1.0,2.0
+quant-ph/9412004,Strong Determinism vs. Computability,1.60698551133943e-06,0.0,1.0,3.0
+chao-dyn/9906029,"Chaotic advection of reacting substances: Plankton dynamics on a
+  meandering jet",1.60698551133943e-06,0.0,1.0,1.0
+chao-dyn/9905024,Fluctuation-Response Relations for Multi-Time Correlations,1.60698551133943e-06,0.0,1.0,1.0
+chao-dyn/9606007,Rayleigh-Ritz Calculation of Effective Potential Far From Equilibrium,1.60698551133943e-06,0.0,1.0,0.0
+quant-ph/9810083,"The transition from a classical to a quantum world as a passage from
+  extensive to non-extensive thermodynamics",1.60698551133943e-06,0.0,1.0,4.0
+cond-mat/9908367,Gibbs entropy and irreversible thermodynamics,1.60698551133943e-06,0.0,1.0,2.0
+chao-dyn/9901023,Note on Forced Burgers Turbulence,1.603910336283814e-06,0.0,2.0,11.0
+chao-dyn/9905019,Quantum-limited linewidth of a chaotic laser cavity,1.5988794245580646e-06,0.0,1.0,1.0
+cond-mat/9809275,Synchronization and Maximum Lyapunov Exponents of Cellular Automata,1.597752242734114e-06,0.0,1.0,1.0
+hep-ph/9803412,"Magnetohydrodynamics of the Early Universe and the Evolution of
+  Primordial Magnetic Fields",1.5871840838618232e-06,5.651513029714655e-05,1.0,13.0
+chao-dyn/9912012,Algebraic Entropy of Birational Maps with Invariant Curves,1.584567648935838e-06,0.0,1.0,1.0
+chao-dyn/9806026,Topological entropy and complexity for discrete dynamical systems,1.584567648935838e-06,0.0,1.0,4.0
+hep-th/9610080,A note on Burgers' turbulence,1.5750572252536886e-06,0.0,2.0,12.0
+cond-mat/9901025,Imprints of log-periodic self-similarity in the stock market,1.566896393754216e-06,0.0,1.0,3.0
+chao-dyn/9909038,"Universality and saturation of intermittency in passive scalar
+  turbulence",1.5581258016883573e-06,0.0,1.0,3.0
+chao-dyn/9907026,"Inhomogeneous turbulence in the vicinity of a large scale coherent
+  vortex",1.5581258016883573e-06,0.0,1.0,0.0
+chao-dyn/9901029,Another Note on Forced Burgers Turbulence,1.5538180771226352e-06,0.0,2.0,5.0
+chao-dyn/9506002,Chaos for Liouville probability densities,1.5493750032839157e-06,0.0,1.0,2.0
+math-ph/9906026,Spectral statistics for quantized skew translations on the torus,1.5493750032839157e-06,0.0,1.0,0.0
+cond-mat/9910127,"Interface dynamics in Hele-Shaw flows with centrifugal forces.
+  Preventing cusp singularities with rotation",1.5493750032839157e-06,0.0,1.0,1.0
+chao-dyn/9711010,Holder exponents of irregular signals and local fractional derivatives,1.5493750032839157e-06,0.0,1.0,2.0
+chao-dyn/9901031,"Hecke theory and equidistribution for the quantization of linear maps of
+  the torus",1.5493750032839157e-06,0.0,1.0,2.0
+cond-mat/9705227,Perturbation Theory for the Rosenzweig-Porter Matrix Model,1.5493750032839157e-06,0.0,1.0,1.0
+chao-dyn/9805002,Scaling and Exotic Regimes in Decaying Burgers Turbulence,1.5493750032839157e-06,0.0,1.0,7.0
+cond-mat/9510088,"Gaussian field theories, random Cantor sets and multifractality",1.5428118143310528e-06,0.0,1.0,5.0
+chao-dyn/9807009,Fingerprints of Classical Instability in Open Quantum Dynamics,1.5397732519413305e-06,0.0,2.0,0.0
+chao-dyn/9805006,Algebraic entropy,1.52100981488561e-06,0.0,1.0,5.0
+chao-dyn/9712013,"Quantum-Classical Correspondence in Energy Space: Two Interacting
+  Spin-Particles",1.515976999522705e-06,0.0,1.0,0.0
+chao-dyn/9711005,"Chaos and Thermalization in a Dynamical Model of Two Interacting
+  Particles",1.515976999522705e-06,0.0,1.0,3.0
+nucl-th/9611018,"One-body dissipation and chaotic dynamics in a classical simulation of a
+  nuclear gas",1.5109679979135728e-06,0.0,1.0,0.0
+chao-dyn/9903012,Quantum and classical chaos for a single trapped ion,1.5109679979135728e-06,0.0,1.0,0.0
+cond-mat/9808028,"Non-Monotone Characteristic of Spectral Statistics in the Transition
+  between Poisson and Gauss",1.5109679979135728e-06,0.0,1.0,0.0
+quant-ph/9912007,Burgers Turbulence and the Continuous Spontaneous Localization Model,1.5109679979135728e-06,0.0,1.0,0.0
+chao-dyn/9601016,"Non-universality of the scaling exponents of a passive scalar convected
+  by a random flow",1.5109679979135728e-06,0.0,1.0,3.0
+chao-dyn/9607005,"Exploring Periodic Orbit Expansions and Renormalisation with the Quantum
+  Triangular Billiard",1.5109679979135728e-06,0.0,1.0,0.0
+quant-ph/9906079,Symmetry of Quantum Phase Space in a Degenerate Hamiltonian System,1.5109679979135728e-06,0.0,1.0,1.0
+chao-dyn/9504002,Universality in Turbulence: an Exactly Soluble Model,1.5109679979135728e-06,0.0,1.0,7.0
+cond-mat/9911183,Spectral determinant on quantum graphs,1.5109679979135728e-06,0.0,1.0,6.0
+chao-dyn/9912011,"Universality classes for self-similarity of noiseless multi-dimensional
+  Burgers turbulence and interface growth",1.5093562377199952e-06,0.0,1.0,2.0
+chao-dyn/9506010,ANOMALOUS SCALING OF THE PASSIVE SCALAR,1.505052601874836e-06,0.0,1.0,1.0
+cond-mat/9607006,Velocity fluctuations in forced Burgers turbulence,1.4978798754662383e-06,0.0,1.0,6.0
+chao-dyn/9511001,Thermal Fluctuations in Quantized Chaotic Systems,1.4835344226490424e-06,0.0,1.0,3.0
+cond-mat/9803190,"Anomalous scaling in passive scalar advection: Monte-Carlo Lagrangian
+  trajectories",1.4835344226490424e-06,0.0,1.0,0.0
+gr-qc/9812005,"Chaos in closed isotropic cosmological models with steep scalar field
+  potential",1.479909022236119e-06,0.0,1.0,4.0
+chao-dyn/9609014,Field theory of the quantum kicked rotor,1.479718592328426e-06,0.0,1.0,0.0
+hep-th/9405021,"Dynamical systems accepting the normal shift on an arbitrary Riemannian
+  manifold",1.4725609925432302e-06,0.0,2.0,14.0
+chao-dyn/9609004,Symmetry Decomposition of Potentials with Channels,1.4688317356769875e-06,0.0,2.0,0.0
+chao-dyn/9701018,"Quantization of Hyperbolic N-Sphere Scattering Systems in Three
+  Dimensions",1.4629592412006444e-06,0.0,1.0,3.0
+astro-ph/9907288,Chaos and order in a finite universe,1.4476045134956816e-06,0.0,3.0,0.0
+chao-dyn/9810025,"Correlation functions in isotropic and anisotropic turbulence: the role
+  of the symmetry group",1.446956322296335e-06,0.0,1.0,1.0
+chao-dyn/9910013,Cascades in helical turbulence,1.446956322296335e-06,0.0,1.0,2.0
+chao-dyn/9603015,Viscous Instanton for Burgers' Turbulence,1.446956322296335e-06,0.0,1.0,7.0
+chao-dyn/9909023,Periodic-Orbit Theory of Anderson Localization on Graphs,1.4341539871728873e-06,0.0,1.0,2.0
+cond-mat/9406056,Quantum Chaos and Statistical Mechanics,1.4341539871728873e-06,0.0,1.0,3.0
+chao-dyn/9907031,"Non-universality of chaotic classical dynamics: implications for quantum
+  chaos",1.4341539871728873e-06,0.0,1.0,0.0
+cond-mat/9702091,Directed Quantum Chaos,1.428602919776391e-06,0.0,1.0,20.0
+quant-ph/9911061,"Time dynamics in chaotic many-body systems: can chaos destroy a quantum
+  computer?",1.423679349344612e-06,0.0,1.0,8.0
+chao-dyn/9412005,"Numerical Renormalization Group Calculations For Similarity Solutions
+  and Travelling Waves",1.423679349344612e-06,0.0,1.0,0.0
+physics/9803042,The Dirac equation approach to spin-1/2 particle beam optics,1.423679349344612e-06,0.0,1.0,7.0
+astro-ph/9801041,Regular and Chaotic Dynamics of Triaxial Stellar Systems,1.4168364800425078e-06,0.0,1.0,1.0
+chao-dyn/9701006,Novel universal correlations in invariant random-matrix models,1.4138303999450912e-06,0.0,1.0,3.0
+hep-ph/9807339,Preheating of Fermions,1.4099909711077324e-06,3.944923060230774e-06,1.0,34.0
+cond-mat/9706103,Relaxation process in a regime of quantum chaos,1.407564521916496e-06,0.0,1.0,3.0
+chao-dyn/9904010,Chaos as a basis of new principle for detecting the gravitational waves,1.407564521916496e-06,0.0,1.0,0.0
+chao-dyn/9812023,Pair correlations of quantum chaotic maps from supersymmetry,1.4012336968554504e-06,0.0,1.0,2.0
+hep-th/9512128,Instantons in Burgers Equation,1.4012336968554504e-06,0.0,1.0,7.0
+astro-ph/9703046,"Are galaxy distributions scale invariant? A perspective from dynamical
+  systems theory",1.4012336968554504e-06,0.0,1.0,5.0
+chao-dyn/9607001,Study of Chaos and Scaling in Classical SU(2) Gauge Theory,1.382944646679097e-06,0.0,1.0,14.0
+physics/9910035,"Analyzing symmetry breaking within a chaotic quantum system via Bayesian
+  inference",1.3669417277747872e-06,0.0,1.0,0.0
+physics/9802003,"Statistics of electromagnetic transitions as a signature of chaos in
+  many-electron atoms",1.353199199205086e-06,0.0,1.0,0.0
+cond-mat/9806268,"Statistical Study for Eigenfunctions of 1-dimensional Tight Binding
+  Model",1.353199199205086e-06,0.0,1.0,0.0
+chao-dyn/9711011,"Energy level statistics in the transition regime between integrability
+  and chaos for systems with broken antiunitary symmetry",1.353199199205086e-06,0.0,1.0,2.0
+chao-dyn/9712001,Density-Density Correlators in Infinite Random Matrices,1.353199199205086e-06,0.0,1.0,1.0
+physics/9902063,"Symmetry, Hamiltonian Problems and Wavelets in Accelerator Physics",1.3484768213467378e-06,0.0,1.0,8.0
+physics/9902062,"Variational Approach in Wavelet Framework to Polynomial Approximations
+  of Nonlinear Accelerator Problems",1.3484768213467378e-06,0.0,1.0,9.0
+chao-dyn/9812021,Thermostatting by deterministic scattering,1.3189329710618589e-06,0.0,0.0,4.0
+math/9909147,Integration of Brownian vector fields,1.3189329710618589e-06,0.0,0.0,12.0
+chao-dyn/9709014,Slow and fast dynamics in coupled systems: A time series analysis view,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9712011,"Chaotic dynamics, fluctuations, nonequilibrium ensembles",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9911333,Nonequilibrium Mesoscopic Conductors Driven by Reservoirs,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9402001,Quantum Chaos,1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9703007,"Fluctuation patterns and conditional reversibility in nonequilibrium
+  systems",1.3189329710618589e-06,0.0,0.0,3.0
+chao-dyn/9812010,Boundary Effects in The Complex Ginzburg-Landau Equation,1.3189329710618589e-06,0.0,0.0,2.0
+hep-lat/9411059,Gauge theory of things alive and universal dynamics,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9303016,Symmetry Decomposition of Chaotic Dynamics,1.3189329710618589e-06,0.0,0.0,1.0
+nucl-th/9612011,"Quantum Diffusion and Tunneling with Parametric Banded Random Matrix
+  Hamiltonians",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9806017,Ray and wave chaos in asymmetric resonant optical cavities,1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9508006,Semiclassical form factor of matrix element fluctuations,1.3189329710618589e-06,0.0,0.0,5.0
+chao-dyn/9809008,Overcoming the wall in the semiclassical baker's map,1.3189329710618589e-06,0.0,0.0,2.0
+hep-ph/9511354,Chaotic Dynamics of SU(2) Gauge Fields in the Presence of Static Charges,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9604001,Quantum Chaotic Dynamics and Random Polynomials,1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9604004,"Winding number instability in the phase-turbulence regime of the Complex
+  Ginzburg-Landau Equation",1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9801030,An extension of the Lyapunov analysis for the predictability problem,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/9705016,Using a quantum computer to investigate quantum chaos,1.3189329710618589e-06,0.0,0.0,3.0
+chao-dyn/9608005,Phase Diagrams for Sonoluminescing Bubbles,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9505012,"Thermodynamic Description of the Relaxation of Two-Dimensional Euler
+  Turbulence Using Tsallis Statistics",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9604007,Growth of non-infinitesimal perturbations in turbulence,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9602002,"Slow Relaxation at Critical Point of Second Order Phase Transition in a
+  Highly Chaotic Hamiltonian System",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9503001,"Normal and Anomalous Scaling of the Fourth-Order Correlation Function of
+  a Randomly Advected Passive Scalar",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9501008,"A new analysis of the tippe top: Asymptotic states and Liapunov
+  stability",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9807365,"Asymptotic Statistics of Poincar\'e Recurrences in Hamiltonian Systems
+  with Divided Phase Space",1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9803026,Chaos-Assisted Light Squeezing,1.3189329710618589e-06,0.0,0.0,2.0
+gr-qc/9809048,Topological entropy for some isotropic cosmological models,1.3189329710618589e-06,0.0,0.0,8.0
+chao-dyn/9701022,Bifurcations of Periodic Orbits and Uniform Approximations,1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9812001,Fix-point Multiplier Distributions in Discrete Turbulent Cascade Models,1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9909007,"An experimental test of the local fluctuation theorem in chains of
+  weakly interacting Anosov systems",1.3189329710618589e-06,0.0,0.0,6.0
+chao-dyn/9912027,Clustering of inertial particles in turbulent flows,1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/9909100,Semiclassical Theory of Integrable and Rough Andreev Billiards,1.3189329710618589e-06,0.0,0.0,6.0
+chao-dyn/9610007,Karhunen-Lo`eve Decomposition of Extensive Chaos,1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9601007,The Lyapunov exponent in the Sinai billiard in the small scatterer limit,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9807033,Transient Hamiltonian chaos in the cavity electrodynamics,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9904413,"Small-scale properties of the KPZ equation and dynamical symmetry
+  breaking",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9901011,Holistic finite differences ensure fidelity to Burger's equation,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9912461,Viscoelastic Depinning of Driven Systems: Mean-Field Plastic Scallops,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9607155,"Reflection Symmetric Ballistic Microstructures: Quantum Transport
+  Properties",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9410007,Dynamical Ensembles in Nonequilibrium Statistical Mechanics,1.3189329710618589e-06,0.0,0.0,3.0
+chao-dyn/9812017,"Error of semiclassical eigenvalues in the semiclassical limit - An
+  asymptotic analysis of the Sinai billiard",1.3189329710618589e-06,0.0,0.0,1.0
+math/9905078,Integrable geodesic flow with positive topological entropy,1.3189329710618589e-06,0.0,0.0,2.0
+hep-th/9512162,"Scale Anomaly and Quantum Chaos in the Billiards with Pointlike
+  Scatterers",1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/9802192,Intermittency in passive scalar advection,1.3189329710618589e-06,0.0,0.0,7.0
+chao-dyn/9905008,Quantization of a billiard model for interacting particles,1.3189329710618589e-06,0.0,0.0,3.0
+chao-dyn/9706011,Curvature fluctuations and Lyapunov exponent at Melting,1.3189329710618589e-06,0.0,0.0,3.0
+chao-dyn/9803037,Burgers Turbulence with Large-scale Forcing,1.3189329710618589e-06,0.0,0.0,6.0
+quant-ph/9909085,Completely Mixing Quantum Open Systems and Quantum Fractals,1.3189329710618589e-06,0.0,0.0,3.0
+chao-dyn/9707003,"Direct Numerical Simulations of the Kraichnan Model: Scaling Exponents
+  and Fusion Rules",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9708004,"Computing the Scaling Exponents in Fluid Turbulence from First
+  Principles: Demonstration of Multi-scaling",1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9705003,Linear and Nonlinear Dynamical Chaos,1.3189329710618589e-06,0.0,0.0,6.0
+chao-dyn/9806019,Traces and determinants of strongly stochastic operators,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9610013,How Chaotic is the Stadium Billiard? A Semiclassical Analysis,1.3189329710618589e-06,0.0,0.0,3.0
+chao-dyn/9603005,Statistical properties of random scattering matrices,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9810036,"Large Coherent Structure Formation by Magnetic Stretching Term in
+  Two-Dimensional MHD Turbulence",1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9804013,Quantizing Billiards with Arbitrary Trajectories,1.3189329710618589e-06,0.0,0.0,6.0
+cond-mat/9801008,"Anomalous diffusion as a signature of collapsing phase in two
+  dimensional self-gravitating systems",1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/9412041,"Defect-Mediated Stability: An Effective Hydrodynamic Theory of
+  Spatio-Temporal Chaos",1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9704001,Relaxation fluctuations about an equilibrium in quantum chaos,1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9707012,Search for Low-Dimensional Chaos in Observational Data,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9507117,"Statistics of S-matrix poles in Few-Channel Chaotic Scattering:
+  Crossover from Isolated to Overlapping Resonances",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9710264,"Crossover from Regular to Chaotic Behavior in the Conductance of
+  Periodic Quantum Chains",1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/9505012,"Feynman-Kac Kernels in Markovian Representations of the Schroedinger
+  Interpolating Dynamics",1.3189329710618589e-06,0.0,0.0,1.0
+physics/9909029,"Scale Specific and Scale Independent Measures of Heart Rate Variability
+  as Risk Indicators",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9805001,"The Use of Generalized Information Dimension in Measuring Fractal
+  Dimension of Time Series",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9801028,General theory and examples of the inverse Frobenius-Perron problem,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9704014,"Different intermittency for longitudinal and transversal turbulent
+  fluctuations",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9704010,Stochastic Resonance in Maps and Coupled Map Lattices,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9510009,"Intermittency, chaos and singular fluctuations in the mixed
+  Obukhov-Novikov shell model of turbulence",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9710004,"Universal Quantification for Self-Organized Criticality in Atmospheric
+  Flows",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9802015,Bifurcations and Transitions to Chaos in An Inverted Pendulum,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9708013,Uniform Approximation for Period-Quadrupling Bifurcations,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9707015,"Computing the Scaling Exponents in Fluid Turbulence from First
+  Principles: the Formal Setup",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9607009,Turbulent behaviour in magnetic hydrodynamics is not universal,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9605006,Dynamical ensembles equivalence in fluid mechanics,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9609010,Riemannian theory of Hamiltonian chaos and Lyapunov exponents,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9609019,Fractal Collapse in Developed Hydrodynamic Turbulence,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9712009,The Dynamical Dimension of Defects in Spatiotemporal Chaos,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9712004,Feigenbaum networks,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9710008,"Stochastic Response, Cascading and Control of Colored Noise in Dynamical
+  System",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9801021,Finite-time Lyapunov exponents of Strange Nonchaotic Attractors,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9912028,Thermodynamic Cross-Effects from Dynamical Systems,1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9706019,The Kolmogorov-Sinai Entropy for Dilute Gases in Equilibrium,1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9801017,"Comparative Study of the Adiabatic Evolution of a Nonlinear Damped
+  Oscillator and an Hamiltonian Generalized Nonlinear Oscillator",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9806013,Lagrangian Dynamics in High-Dimensional Point-Vortex Systems,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9606012,Distribution of roots of random real generalized polynomials,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9701012,Diffusion in normal and critical transient chaos,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9611017,Normal and Anomalous Diffusion in a Deterministic Area-preserving Map,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9510010,Helical shell models for three dimensional turbulence,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9706025,"Wave Dynamical Chaos in a Superconducting Three-Dimensional Sinai
+  Billiard",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9507003,Alternative method to find orbits in chaotic systems,1.3189329710618589e-06,0.0,0.0,1.0
+patt-sol/9310002,Thermodynamic Limit Of The Ginzburg-Landau Equations,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9309004,Semi-Quantum Chaos,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9411004,Semiquantum Chaos and the Large N Expansion,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9909041,Improved surrogate data for nonlinearity tests,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9611007,Transport and conservation laws,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9501022,"SUPPLEMENT TO THE PAPER: Separating the regular and irregular energy
+  levels and their statistics in Hamiltonian system with mixed classical
+  dynamics",1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9903035,The Euler-Poincare Equations in Geophysical Fluid Dynamics,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9803358,Quantum invariants of motion in a generic many-body system,1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9607011,"Hydrodynamic Turbulence Has Infinitely Many Anomalous Dynamical
+  Exponents",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9601056,"Chaotic properties of quantum many-body systems in the thermodynamic
+  limit",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9512003,"The Quantization process for the Driven Quantum Well - Perturbative
+  Expansion and the Classical Limit",1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9709006,"Analysis, Synthesis, and Estimation of Fractal-Rate Stochastic Point
+  Processes",1.3189329710618589e-06,0.0,0.0,1.0
+hep-th/9506068,On the solutions of the $CP^{1}$ model in $(2+1)$ dimensions,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9709156,Energy transport in anharmonic lattices close and far from equilibrium,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9811013,A unifying definition of synchronization for dynamical systems,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9901010,"Computer algebra derives correct initial conditions for low-dimensional
+  dynamical models",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9906018,Quantum Algorithmic Integrability: The Metaphor of Polygonal Billiards,1.3189329710618589e-06,0.0,0.0,1.0
+nucl-th/9708031,Integrability of the pairing hamiltonian,1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/9805216,Chaotic enhancement in microwave ionization of Rydberg atoms,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9911200,Quantum Poincare Recurrences for Hydrogen Atom in a Microwave Field,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9912016,Generalized Stable Multivariate Distribution and Anisotropic Dilations,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9912007,An exit-time approach to $\epsilon$-entropy,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9803015,The Weyl Series and the Trace formula: can we add them?,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9808001,"Dissipation statistics of a passive scalar in a multidimensional smooth
+  flow",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9808009,Cluster dynamics in systems with constant mean field coupling,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9804024,"Analytic multivariate generating function for random multiplicative
+  cascade processes",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9711016,Chaotic eigenfunctions in phase space,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9907013,"A Robust Method for Detecting Interdependences: Application to
+  Intracranially Recorded EEG",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9901007,Geodesics deviation equation approach to chaos,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9806006,Kolmogorov-Sinai entropy-rate vs. physical entropy,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9803025,An optimal shell model of turbulence,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9706026,Spontaneous Emission in Chaotic Cavities,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9811001,"Entropy Production in Non-Linear, Thermally Driven Hamiltonian Systems",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9804009,Entropy Production : From Open Volume Preserving to Dissipative Systems,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9812029,"Numerical Analysis of Dynamical Systems and the Fractal Dimension of
+  Boundaries",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9706021,"Directed Percolation Universality in Asynchronous Evolution of
+  Spatio-Temporal Intermittency",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9803004,The quantum Frenkel-Kontorova model: a squeezed state approach,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9803012,Order and Chaos in Hofstadter's Q(n) Sequence,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9312006,The Limits of Mathematics---Course Outline and Software,1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9810005,"Practical implementation of nonlinear time series methods: The TISEAN
+  package",1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9406006,"The Phase of the Riemann Zeta Function and the Inverted Harmonic
+  Oscillator",1.3189329710618589e-06,0.0,0.0,4.0
+chao-dyn/9801033,"Renormalization Group, Operator Product Expansion, and Anomalous Scaling
+  in a Model of Advected Passive Scalar",1.3189329710618589e-06,0.0,0.0,2.0
+physics/9806021,Directional emission from asymmetric resonant cavities,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9808006,"Extensive Scaling and Nonuniformity of the Karhunen-Lo\`eve
+  Decomposition for the Spiral-Defect Chaos State",1.3189329710618589e-06,0.0,0.0,3.0
+chao-dyn/9407006,The Limits of Mathematics---Third Version,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9407005,The Limits of Mathematics---Alternative Version,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9612016,Classical Billiards in a Magnetic Field and a Potential,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9808048,"Modelling by maps of two-frequency microwave ionization of hydrogen
+  atoms",1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9503011,"Ionization of Rydberg atoms in a low frequency field: modelling by maps
+  of transition to chaotic behavior",1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9602010,"Application of the diffraction trace formula to the three disk
+  scattering system",1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9401007,Periodic Orbit Theory of Diffraction,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9709309,Two-band random matrices,1.3189329710618589e-06,0.0,0.0,3.0
+chao-dyn/9503009,"Decoherence, Delocalization and Irreversibility in Quantum Chaotic
+  Systems",1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/9710006,Wave Chaos in Quantum Pseudointegrable Billiards,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/9906065,"Quantization Ambiguity, Ergodicity, and Semiclassics",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9702121,"Suppression of chaotic dynamics and localization of two-dimensional
+  electrons by a weak magnetic field",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9804004,Helicity advection in Turbulent Models,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9804028,"Spatial correlations of singularity strengths in multifractal branching
+  processes",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9804005,"Use of synchronization and adaptive control in parameter estimation from
+  a time series",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9703006,"Supersymmetric quantum mechanics based on higher excited states II: a
+  few examples of isospectral partner potentials",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9702011,"Geometry of dynamics, Lyapunov exponents and phase transitions",1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9612020,Elliptic Quantum Billiard,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9502070,Semiclassical Analysis of the Conductance of Mesoscopic Systems,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9908055,Semiclassical mechanics of a non-integrable spin cluster,1.3189329710618589e-06,0.0,0.0,1.0
+astro-ph/9707116,Nonlinear Analysis of the Lightcurve of the Variable Star R Scuti,1.3189329710618589e-06,0.0,0.0,1.0
+astro-ph/9707099,Analysis of the Irregular Pulsations of AC Her,1.3189329710618589e-06,0.0,0.0,1.0
+supr-con/9507006,Screening current effects in Josephson junction arrays,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9601127,Nonlinear feedback for control of chaos,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9809288,Perturbations of Noise: The origins of Isothermal Flows,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9601006,Controlling spatiotemporal dynamics with time-delay feedback,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9911011,Polymer Stretching by Turbulence,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9902009,Structural Invariance and the Energy Spectrum,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9902105,Quasi Markovian behavior in mixing maps,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9911069,Hydrodynamics of the Kuramoto-Sivashinsky Equation in Two Dimensions,1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9708005,Dynamics controlled by additive noise,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/9812019,"The 1/N-expansion, quantum-classical correspondence and nonclassical
+  states generation in dissipative higher-order anharmonic oscillators",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9904012,Dripping Faucet Dynamics Clarified by an Improved Mass-Spring Model,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9811008,"Studies of fractal structures and processes using methods of fractional
+  calculus",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9902005,Nonlinear Dynamics of A Damped Magnetic Oscillator,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9905010,Poincare's Recurrence Theorem and the Unitarity of the S matrix,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9807013,On the entropy devil's staircase in a family of gap-tent maps,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9806025,Applied Symbolic Dynamics,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9805288,"On the driven Frenkel-Kontorova model: II. Chaotic sliding and
+  nonequilibrium melting and freezing",1.3189329710618589e-06,0.0,0.0,1.0
+comp-gas/9403003,Correlations and Renormalization in Lattice Gases,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9910035,"Chaos and Fractals in Geodesic Motions Around a Non-Rotating Black-Hole
+  with an External Halo",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9911025,General properties of propagation in chaotic systems,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9808020,On the Heat Transfer in Rayleigh-Benard systems,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9810026,Large scale instabilities in two-dimensional magnetohydrodynamics,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9804034,Comment on fractality of quantum mechanical energy spectra,1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/9908023,"Singularity theory study of overdetermination in models for L-H
+  transitions",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9807038,"Scaling and interleaving of sub-system Lyapunov exponents for
+  spatio-temporal systems",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9811019,On the Statistics of Small Scale Turbulence and its Universality,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9903021,"High Rayleigh number turbulent convection in a gas near the gas-liquid
+  critical point",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9902012,Entropy Generation in Computation and the Second Law of Thermodynamics,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9503144,SCALING AND INTERMITTENCY IN BURGERS' TURBULENCE,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9710025,Diffusion process in a deterministically forced flow,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9706016,Inverse versus direct cascades in turbulent advection,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9811006,Cascades and statistical equilibrium in shell models of turbulence,1.3189329710618589e-06,0.0,0.0,1.0
+hep-ph/9906519,Nonlinear effects in Schwinger-Dyson Equation,1.3189329710618589e-06,0.0,0.0,1.0
+hep-ph/9811204,"Analytical solution for multivariate statistics in random multiplicative
+  cascades",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9810001,"Band Husimi Distributions and the Classical-Quantum Correspondence on
+  the Torus",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9808019,"Transitions to quantum chaos in a generic one-parameter family of
+  billiards",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9909017,Statistics of Transverse Velocity Differences in Turbulence,1.3189329710618589e-06,0.0,0.0,3.0
+chao-dyn/9910036,Action Correlations in Integrable Systems,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9805003,Average Patterns of Spatiotemporal Chaos: A Boundary Effect,1.3189329710618589e-06,0.0,0.0,3.0
+chao-dyn/9702014,Structures and intermittency in a passive scalar model,1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9402005,Transition to Chaos in a Shell Model of Turbulence,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9405006,Statistical Mechanics of Shell Models for 2D-Turbulence,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9707180,"Time evolution of a quantum many-body system: transition from
+  integrability to ergodicity in thermodynamic limit",1.3189329710618589e-06,0.0,0.0,2.0
+quant-ph/9511035,"Causal Wave Mechanics and the Advent of Complexity. II. Dynamic
+  uncertainty in quantum systems and the correspondence principle",1.3189329710618589e-06,0.0,0.0,4.0
+chao-dyn/9801003,Transport properties of kicked and quasi-periodic Hamiltonians,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9702003,Semiclassical Trace Formulae and Eigenvalue Statistics in Quantum Chaos,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9908017,Invariant sets for discontinuous parabolic area-preserving torus maps,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9709091,"Fractal Conductance Fluctuations in a Soft Wall Stadium and a Sinai
+  Billiard",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9709054,"Avoided Band Crossings: Tuning Metal-Insulator Transitions in Chaotic
+  Systems",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9712064,Heat conduction in one dimensional chains,1.3189329710618589e-06,0.0,0.0,1.0
+physics/9906035,Time Series Forecasting: A Nonlinear Dynamics Approach,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9506030,Chaos in resonant-tunneling superlattices,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9907005,Noise-driven Synchronization in Coupled Map Lattices,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9606013,"Analysis and Characterization of Complex Spatio-temporal Patterns in
+  Nonlinear Reaction-Diffusion Systems",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9304010,Dynamical Systems: Some Computational Problems,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9812249,Statistics of photodissociation spectra: nonuniversal properties,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9701075,A hierarchical scheme for cooperativity and folding in proteins,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9710020,Largest Lyapunov Exponent for Many Particle Systems at Low Densities,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9711008,"Chaotic Properties of Dilute Two and Three Dimensional Random Lorentz
+  Gases I: Equilibrium Systems",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9612001,Scalar transport in compressible flow,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9905005,Correlations of electromagnetic fields in chaotic cavities,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9812003,"Entropy production, dynamical localization and criteria for quantum
+  chaos in the open quantum kicked rotor",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9808013,Marginal hyperchaos synchronization with a single driving variable,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9806027,Bridge relations in Navier-Stokes turbulence,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9903193,Localization by interference: Square billiard with a magnetic flux,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9510007,Fractal Conductance Fluctuations in Generic Chaotic Cavities,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9912022,The boundary integral method for magnetic billiards,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9908006,Free Decay of Turbulence and Breakdown of Self-Similarity,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9903006,"Quantum chaos of a kicked particle in a 1D infinite square potential
+  well",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9904040,"Semiclassical Non-Trace Type Formulas for Matrix Element Fluctuations
+  and Weighted Densities of States",1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/9804071,Coherent and incoherent chaotic tunneling near singlet-doublet crossings,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9501015,Dynamical ensembles in stationary states,1.3189329710618589e-06,0.0,0.0,1.0
+gr-qc/9612045,On the Limit Cycle of an Inflationary Universe,1.3189329710618589e-06,0.0,0.0,1.0
+gr-qc/9608024,Axially Symmetric Bianchi I Yang-Mills Cosmology as a Dynamical System,1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9601009,"The semiclassical resonance spectrum of Hydrogen in a constant magnetic
+  field",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9510020,"Decay of correlations, Lyapunov exponents and anomalous diffusion in the
+  Sinai billiard",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9902018,"Spatiotemporal Chaos, Localized Structures and Synchronization in the
+  Vector Complex Ginzburg-Landau Equation",1.3189329710618589e-06,0.0,0.0,2.0
+hep-th/9212019,Conformal Models of Two-Dimensional Turbulence,1.3189329710618589e-06,0.0,0.0,3.0
+chao-dyn/9909040,Geometrical properties of Maslov indices in periodic-orbit theory,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9709034,"Dissipative Scaling Functions in Navier-Stokes Turbulence: Experimental
+  Tests",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9808084,Nonadiabatic Geometric Phase and Hannay Angle: A Squeezed State Approach,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9905032,Anisotropic Spectra of Acoustic Turbulence,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9612011,"Synchronization of Spatiotemporal Chaos: The regime of coupled
+  Spatiotemporal Intermittency",1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9707011,"Scale-dependent functions in statistical hydrodynamics: a functional
+  analysis point of view",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9912081,"What can one learn about Self-Organized Criticality from Dynamical
+  Systems theory ?",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9607019,"Thermodynamic formalism and localization in Lorentz gases and hopping
+  models",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9403005,Hypersensitivity to perturbation in the quantum kicked top,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9503075,Enhancement of localization length for two interacting kicked rotators,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9803018,Instanton for the Kraichnan Passive Scalar Problem,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9903025,"Escape from intermittent repellers- Periodic orbit theory for crossover
+  from exponential to algebraic decay",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9903011,"Defect-freezing and Defect-unbinding in the Vector Complex
+  Ginzburg-Landau Equation",1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9707010,The Building Blocks of Spatiotemporal Intermittency,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9611006,What determines the spreading of a wave packet?,1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9906019,"Smooth-filamental transition of active tracer fields stirred by chaotic
+  advection",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9307005,On the Quantum Cat and Sawtooth Maps- Return to Generic Behaviour,1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9305010,"The Effect of Focusing and Caustics on Exit Phenomena in Systems Lacking
+  Detailed Balance",1.3189329710618589e-06,0.0,0.0,2.0
+adap-org/9407003,Asymptotic Exit Location Distributions in the Stochastic Exit Problem,1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9703012,Quantum chaotic attractor in a dissipative system,1.3189329710618589e-06,0.0,0.0,1.0
+astro-ph/9902092,"Noise-Induced Phase Space Transport in Two-Dimensional Hamiltonian
+  Systems",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9911012,"Forecasting the SST space-time variability of the Alboran Sea with
+  genetic algorithms",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9909042,Constrained randomization of time series data,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9909043,Discrimination power of measures for nonlinearity in a time series,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9403004,"Ergodicity, ensembles, irreversibility in Boltzmann and beyond",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9608054,Boltzmann and Statistical Mechanics,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9804042,Testing for nonlinearity in unevenly sampled time series,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9406002,The Berry Paradox,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9304002,"Randomness in Arithmetic and The Decline and Fall of Reductionism in
+  Pure Mathematics",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9509010,The Limits of Mathematics---Tutorial Version,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9711015,Ionization via Chaos Assisted Tunneling,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9503058,Spectral Statistics in the Lowest Landau Band,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9904043,Parametric level statistics in random matrix theory: Exact solution,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9608144,From Random Matrix Theory to Statistical Mechanics - Anyon Gas,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9609187,Semiclassical theory for many-body Fermionic systems,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9610158,Diffusion and localization in chaotic billiards,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9805013,Constrained randomization of time series for hypothesis testing,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9909037,Surrogate time series,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9407007,Characterization of the transition from defect- to phase-turbulence,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9809001,"Expansion-modificaction systems: an explanation for long range
+  correlations in DNA",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9902019,Trace Formulas and Bogomolny's Transfer Operator,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9509102,Spectral Statistics: From Disordered to Chaotic Systems,1.3189329710618589e-06,0.0,0.0,1.0
+nucl-th/9711021,Dynamics of a Simple Quantum System in a Complex Environment,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9903036,A Nonlinear Analysis of the Averaged Euler Equations,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9802030,"Asymptotic power law of moments in a random multiplicative process with
+  weak additive noise",1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9409002,The Bianchi Ix (MIXMASTER) Cosmological Model is Not Integrable,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9610012,(1+1)-dimensional turbulence,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9604015,Inflation of Hamiltonian System: The Spinning Top in Projective Space,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9606004,On the effect of pruning on the singularity structure of zeta functions,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9610020,Synchronization in the identically driven systems,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9703005,Boundary contributions to the semiclassical traces of the baker's map,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9611009,Penumbra diffraction in the quantization of concave billiards,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9608003,"Studies of Phase Turbulence in the One Dimensional Complex
+  Ginzburg-Landau Equation",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9608006,Order Parameter for the Transition from Phase to Amplitude Turbulence,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9908018,Hydrodynamic Lyapunov Modes in Translation Invariant Systems,1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9507007,"Exact Resummations in the Theory of Hydrodynamic Turbulence: III.
+  Scenarios for Anomalous Scaling and Intermittency",1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9805027,Strong Turbulence in d-Dimensions,1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/9503161,"Decaying Turbulence and the Dynamics of Diffusing Vortices with
+  Conservation Laws",1.3189329710618589e-06,0.0,0.0,2.0
+hep-th/9910107,"Stochastic field theory for a Dirac particle propagating in gauge field
+  disorder",1.3189329710618589e-06,0.0,0.0,6.0
+cond-mat/9903043,"Systematic Analytical Approach to Correlation Functions of Resonances in
+  Quantum Chaotic Scattering",1.3189329710618589e-06,0.0,0.0,5.0
+chao-dyn/9801014,"B. B. G. K. Y. Hierarchy Methods for Sums of Lyapunov Exponents for
+  Dilute Gases",1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9703010,"Singularities of Transition Processes in Dynamical Systems: Qualitative
+  Theory of Critical Delays",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9812026,Conformal Theory of the Dimensions of Diffusion Limited Aggregates,1.3189329710618589e-06,0.0,0.0,2.0
+astro-ph/9903238,Thermal Relaxation in One-Dimensional Self-Gravitating Systems,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9501018,Time Delay Correlations in Chaotic Scattering: Random Matrix Approach,1.3189329710618589e-06,0.0,0.0,1.0
+astro-ph/9412042,"Exponential Tails in the Centroid Velocity Distributions of Star-Forming
+  Regions",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9703015,Langevin approach to generate synthetic turbulence,1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9701009,Noise-Sustained currents in quasigeostrophic turbulence over topography,1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9906034,"Chaotic Oscillations in Finite Quantum Systems: Trapped Bose-Einstein
+  Condensates",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9501003,Statistical properties of high-lying chaotic eigenstates,1.3189329710618589e-06,0.0,0.0,3.0
+chao-dyn/9606016,"Hopf's last hope: spatiotemporal chaos in terms of unstable recurrent
+  patterns",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9508005,The Role of Diffraction in the Quantization of Dispersing Billiards,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9904006,"Semiclassical Treatment of Diffraction in Billiard Systems with a Flux
+  Line",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9509057,"Passive scalars, random flux, and chiral phase fluids",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9509020,Semiclassical Quantisation Using Diffractive Orbits,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9801025,On the Accuracy of the Semiclassical Trace Formula,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9811109,"Long-term properties of time series generated by a perceptron with
+  various transfer functions",1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9609005,Intermittency of Burgers' Turbulence,1.3189329710618589e-06,0.0,0.0,5.0
+chao-dyn/9804014,"Perturbation Theory for the Breakdown of Mean-Field Kinetics in
+  Oscillatory Reaction-Diffusion Systems",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9901026,Intermittency in Turbulence,1.3189329710618589e-06,0.0,0.0,3.0
+chao-dyn/9612005,"Exact statistics of complex zeros for Gaussian random polynomials with
+  real coefficients",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9606017,Fusion Rules and Conditional Statistics in Turbulent Advection,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9702005,"Analytic calculation of anomalous scaling in random shell models for a
+  passive scalar",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9608008,On Conditional Statistics in Scalar Turbulence: Theory vs. Experiment,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9807016,"Finsler Geometric Local Indicator of Chaos for single orbits in the
+  Henon-Heiles hamiltonian",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9309005,Entropy and Long range correlations in literary English,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9806183,High-Power Directional Emission from Microlasers with Chaotic Resonators,1.3189329710618589e-06,0.0,0.0,3.0
+chao-dyn/9906026,On the Field Theoretical Approach to the Anomalous Scaling in Turbulence,1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/9604173,Dissipative Chaos in Semiconductor Superlattices,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9709026,"Spontaneous DC Current Generation in a Resistively Shunted Semiconductor
+  Superlattice Driven by a TeraHertz Field",1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9906040,Kinetic Theory of Dynamical Systems,1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/9907109,"Semiclassical theory of the emission properties of wave-chaotic resonant
+  cavities",1.3189329710618589e-06,0.0,0.0,1.0
+astro-ph/9810336,Particle Aggregation in a turbulent Keplerian flow,1.3189329710618589e-06,0.0,0.0,1.0
+astro-ph/9410091,"Chaos, Regularity, and Noise in Self-Gravitating Systems",1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/9711281,Ergodic properties of quantum conservative systems,1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9802019,Quasiclassical Surface of Section Perturbation Theory,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9411039,Iterated Moire Maps and Braiding of Chiral Polymer Crystals,1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9806021,"Integrability and level crossing manifolds in a quantum Hamiltonian
+  system",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9903013,"Disentangling Scaling Properties in Anisotropic and Inhomogeneous
+  Turbulence",1.3189329710618589e-06,0.0,0.0,2.0
+gr-qc/9706025,Chaos in black holes surrounded by gravitational waves,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9811002,"The effect of noise on parameter estimation in systems with complicated
+  dynamics",1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9509015,Periodic Orbit Quantization beyond Semiclassics,1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9907022,Anderson Localization in a String of Microwave Cavities,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9701005,"Universality in invariant random-matrix models: Existence near the soft
+  edge",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9906035,"On periodic solutions of a Hamilton-Jacobi equation with periodic
+  forcing",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9711228,Avalanche Mixing of Granular Solids,1.3189329710618589e-06,0.0,0.0,2.0
+math/9907132,Bulk Burning Rate in Passive - Reactive Diffusion,1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9903005,"Energy Absorption and Storage in a Hamiltonian System in Partial Contact
+  with a Heat Bath",1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9812020,Diffusion Limited Aggregation and Iterated Conformal Maps,1.3189329710618589e-06,0.0,0.0,3.0
+chem-ph/9603006,"From Heisenberg matrix mechanics to EBK quantization: theory and first
+  applications",1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/9505025,A Local Deterministic Model of Quantum Spin Measurement,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9611018,Critical and Supercritical Dynamics of Quasiperiodic Systems,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9608013,"Quantum-Classical Correspondence via Liouville Dynamics: I. Integrable
+  Systems and the Chaotic Spectral Decomposition",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9911027,Unstable dimension variability and synchronization of chaotic systems,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9608014,"Quantum-Classical Correspondence via Liouville Dynamics: II.
+  Correspondence for Chaotic Hamiltonian Systems",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9403056,"Mesoscopic Transport Through Ballistic Cavities: A Random S-Matrix
+  Theory Approach",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9705013,"Unpredictability, information, and chaos",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9506014,Chaotic Spectra of Classically Integrable Systems,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9808147,"Thermodynamic Depth of Causal States: When Paddling around in Occam's
+  Pool Shallowness Is a Virtue",1.3189329710618589e-06,0.0,0.0,4.0
+chao-dyn/9802009,"Asymptotic expansion of 1-dimensional sub-manifolds of stable and
+  unstable manifolds in a 4-dimensional symplectic mapping",1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9907007,"Dispersion management in optical fiber links: Integrability in leading
+  nonlinear order",1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9611005,Low energy chaos in the Fermi-Pasta-Ulam problem,1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9904030,A Mean-field statistical theory for the nonlinear Schrodinger equation,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9911230,"Long-Time Relaxation on Spin Lattice as Manifestation of Chaotic
+  Dynamics",1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9705005,Singularities in droplet pinching with vanishing viscosity,1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9611015,"Quantization of generic chaotic 3D billiard with smooth boundary I:
+  energy level statistic",1.3189329710618589e-06,0.0,0.0,2.0
+quant-ph/9509015,Quantum chaos in open systems: a quantum state diffusion analysis,1.3189329710618589e-06,0.0,0.0,3.0
+chao-dyn/9811025,Diffusive Ionization of Relativistic Hydrogen-Like Atom,1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9905017,Instanton Calculus in Shell Models of Turbulence,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9802149,Hidden Dimer in the Frenkel-Kontorova model,1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9305008,Formal Languages in Dynamical Systems,1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9405003,"Numerical Study of Granular Turbulence and the appearance of $k^{-5/3}$
+  energy spectrum without flow",1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/9808010,Squeezed Light Generation in Nonlinear System with Chaotic Dynamics,1.3189329710618589e-06,0.0,0.0,3.0
+hep-th/9706081,"Geometry of dynamics and phase transitions in classical lattice phi^4
+  theories",1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/9812417,"Excited Eigenstates and Strength Functions for Isolated Systems of
+  Interacting Particles",1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9907001,"Comment on ""Simple Measure of Complexity""",1.3189329710618589e-06,0.0,0.0,3.0
+chao-dyn/9710005,"Towards the global: complexity, topology and chaos in modelling,
+  simulation and computation",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9906041,"The effects of large scales on the inertial range in
+  high-Reynolds-number turbulence",1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9804023,Fingerprints of Chaos,1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9708002,Single-point velocity distribution in turbulence,1.3189329710618589e-06,0.0,0.0,5.0
+chao-dyn/9801032,Localization in discontinuous quantum systems,1.3189329710618589e-06,0.0,0.0,3.0
+chao-dyn/9804026,The Camassa-Holm equations as a closure model for turbulent channel flow,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9607070,"Crossover from critical orthogonal to critical unitary statistics at the
+  Anderson transition",1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/9706255,"Asymptotics of Universal Probability of Neighboring Level Spacings at
+  the Anderson Transition",1.3189329710618589e-06,0.0,0.0,6.0
+cond-mat/9410046,Does Quantum Chaos Explain Quantum Statistical Mechanics?,1.3189329710618589e-06,0.0,0.0,4.0
+chao-dyn/9910040,Relaxation to the Invariant Density for Kicked Rotor,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9602018,"The `Multifractal Model' of Turbulence and {\em A Priori} Estimates in
+  Large-Eddy Simulation, I. Subgrid Flux and Locality of Energy Transfer",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9502005,Symbolic Dynamics and Markov Partitions for the Stadium Billiard,1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9805018,WKB for a damped spin,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9904004,Multistability in dynamical systems,1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9810007,Phenomenology of Globally Coupled Map Lattice and its Extension,1.3189329710618589e-06,0.0,0.0,3.0
+nucl-th/9707035,"Quantum Signature of the Chaos-Order Transition in a Homogeneous SU(2)
+  Yang-Mills-Higgs System",1.3189329710618589e-06,0.0,0.0,6.0
+chao-dyn/9602019,"The `Multifractal Model' of Turbulence and {\em A Priori} Estimates in
+  Large-Eddy Simulation, II. Evaluation of Stress Models and Non-Universal
+  Effects of the Filter",1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9901017,Characterization and control of small-world networks,1.3189329710618589e-06,0.0,0.0,5.0
+chao-dyn/9707006,Composed ensembles of random unitary matrices,1.3189329710618589e-06,0.0,0.0,6.0
+chao-dyn/9801007,Multiscale velocity correlations in turbulence,1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9803019,Chaos and Statistical Mechanics in the Hamiltonian Mean Field Model,1.3189329710618589e-06,0.0,0.0,6.0
+chao-dyn/9504009,Transition to nonchaotic behavior in a Brownian-type motion,1.3189329710618589e-06,0.0,0.0,5.0
+chao-dyn/9907003,Critical states of transient chaos,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9705004,Pseudochaos in Statistical Physics,1.3189329710618589e-06,0.0,0.0,4.0
+chao-dyn/9303017,The Escape Problem for Irreversible Systems,1.3189329710618589e-06,0.0,0.0,3.0
+chao-dyn/9502010,"Exact Resummations in the Theory of Hydrodynamic Turbulence: 0.
+  Line-Resummed Diagrammatic Perturbation Approach",1.3189329710618589e-06,0.0,0.0,5.0
+chao-dyn/9807001,Interdisciplinary application of nonlinear time series methods,1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/9909040,Scaling and Crossovers in Diffusion Limited Aggregation,1.3189329710618589e-06,0.0,0.0,6.0
+chao-dyn/9812032,"Smooth dynamics and new theoretical ideas in nonequilibrium statistical
+  mechanics",1.3189329710618589e-06,0.0,0.0,4.0
+chao-dyn/9408005,Inclusion of Diffraction Effects in the Gutzwiller Trace Formula,1.3189329710618589e-06,0.0,0.0,4.0
+chao-dyn/9707023,"Three applications of scaling to inhomogeneous, anisotropic turbulence",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9703013,"A Geometric, Dynamical Approach to Thermodynamics",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9809365,Spectra of large random matrices: A method of study,1.3189329710618589e-06,0.0,0.0,11.0
+chao-dyn/9601013,On the decay of correlations in Sinai billiards with infinite horizon,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9905031,"Temporal surrogates of spatial turbulent statistics: the Taylor
+  hypothesis revisted",1.3189329710618589e-06,0.0,0.0,2.0
+quant-ph/9709035,"Realizing Discontinuous Wave Functions with Renormalized Short-Range
+  Potentials",1.3189329710618589e-06,0.0,0.0,2.0
+quant-ph/9610041,Dynamical peculiarities of the nonlinear quasiclassical systems,1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9902014,"Drifters dispersion in the Adriatic Sea: Lagrangian data and chaotic
+  model",1.3189329710618589e-06,0.0,0.0,3.0
+chao-dyn/9807023,A simple method of chaos control,1.3189329710618589e-06,0.0,0.0,2.0
+physics/9810046,"Quantum response of finite Fermi systems and the relation of Lyapunov
+  exponent to transport coefficients",1.3189329710618589e-06,0.0,0.0,1.0
+nucl-th/9906046,"On the dominance of J(P)=0(+) ground states in even-even nuclei from
+  random two-body interactions",1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9501012,"Global Large Time Self-similarity of a Thermal-Diffusive Combustion
+  System with Critical Nonlinearity",1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9909024,"Chaos, Dissipation and Quantal Brownian Motion",1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9711006,Mimicking a turbulent signal: sequential multiaffine processes,1.3189329710618589e-06,0.0,0.0,1.0
+math-ph/9903041,"Converging Perturbative Solutions of the Schroedinger Equation for a
+  Two-Level System with a Hamiltonian Depending Periodically on Time",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9908090,"Quantum transport through ballistic cavities: soft vs. hard quantum
+  chaos",1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9812005,Periodic Orbit Theory and Spectral Statistics for Quantum Graphs,1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9403003,Dynamical Systems Accepting the Normal Shift,1.3189329710618589e-06,0.0,0.0,15.0
+cond-mat/9806115,Classical quasiparticle dynamics and chaos in trapped Bose condensates,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9801171,Semiclassical description of resonant tunneling,1.3189329710618589e-06,0.0,0.0,4.0
+chao-dyn/9407009,The Limits of Mathematics---Fourth Version,1.3189329710618589e-06,0.0,0.0,4.0
+math/9803052,"Distribution of zeros of random and quantum chaotic sections of positive
+  line bundles",1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/9802105,"Photodissociation in Quantum Chaotic Systems: Random Matrix Theory of
+  Cross-Section Fluctuations",1.3189329710618589e-06,0.0,0.0,3.0
+chao-dyn/9901006,"Asymptotic Theory for the Probability Density Functions in Burgers
+  Turbulence",1.3189329710618589e-06,0.0,0.0,11.0
+chao-dyn/9904007,"Spectral Statistics for Quantum Graphs: Periodic Orbits and
+  Combinatorics",1.3189329710618589e-06,0.0,0.0,10.0
+physics/9710035,Nonlinear Dynamics of Accelerator via Wavelet Approach,1.3189329710618589e-06,0.0,0.0,39.0
+chao-dyn/9411017,Discrete Symmetries in the Weyl Expansion for Quantum Billiards,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9501024,Weyl Expansion for Symmetric Potentials,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9802018,"On the Tongue-Like Bifurcation Structures of the Mean-Field Dynamics in
+  a Network of Chaotic Elements",1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/9809086,Flow Equations for the Henon-Heiles Hamiltonian,1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/9508115,"Numerical Study of a Lyapunov Functional for the Complex Ginzburg-Landau
+  Equation",1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/9610047,Turbulent Binary Fluids: A Shell Model Study,1.3189329710618589e-06,0.0,0.0,1.0
+chao-dyn/9810016,"The color-flavor transformation and a new approach to quantum chaotic
+  maps",1.3189329710618589e-06,0.0,0.0,14.0
+chao-dyn/9509007,Anomalous Scaling Exponents of a White-Advected Passive Scalar,1.3189329710618589e-06,0.0,0.0,6.0
+chao-dyn/9906008,Chaotic Scattering on Graphs,1.3189329710618589e-06,0.0,0.0,6.0
+chao-dyn/9910015,"Bulk Properties of Anharmonic Chains in Strong Thermal Gradients:
+  Non-Equilibrium $\phi^4$ Theory",1.3189329710618589e-06,0.0,0.0,5.0
+chao-dyn/9910034,Heat conduction in 2d nonlinear lattices,1.3189329710618589e-06,0.0,0.0,5.0
+chao-dyn/9512006,Instantons and Intermittency,1.3189329710618589e-06,0.0,0.0,9.0
+chao-dyn/9705016,"Exact Result for the 3rd Order Correlations of Velocity in Turbulence
+  with Helicity",1.3189329710618589e-06,0.0,0.0,9.0
+chao-dyn/9605013,Chaos and Scaling in Classical Non-Abelian Gauge Fields,1.3189329710618589e-06,0.0,0.0,18.0
+chao-dyn/9810022,"Systematic Computation of the Least Unstable Periodic Orbits in Chaotic
+  Attractors",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9901298,Statistics of Hartree-Fock Levels in Small Disordered Systems,1.3189329710618589e-06,0.0,0.0,6.0
+chao-dyn/9910037,Diffractive corrections in the trace formula for polygonal billiards,1.3189329710618589e-06,0.0,0.0,3.0
+chao-dyn/9505001,Pitch Perception of Complex Sounds: Nonlinearity Revisited,1.3189329710618589e-06,0.0,0.0,4.0
+chao-dyn/9907017,"Anomalous Scaling in the Anisotropic Sectors of the Kriachnan Model of
+  Passive Scalar Advection",1.3189329710618589e-06,0.0,0.0,6.0
+chao-dyn/9509017,Approach to ergodicity in quantum wave functions,1.3189329710618589e-06,0.0,0.0,7.0
+cond-mat/9708036,Universality in Dynamic Coarsening of a Fractal Cluster,1.3189329710618589e-06,0.0,0.0,3.0
+chao-dyn/9801015,"The Euler-Poincare Equations and Semidirect Products with Applications
+  to Continuum Theories",1.3189329710618589e-06,0.0,0.0,11.0
+chao-dyn/9407003,The Limits of Mathematics---The Book,1.3189329710618589e-06,0.0,0.0,3.0
+chao-dyn/9902010,"On The Three Point Velocity Correlation Functions in 2d Forced
+  Turbulence",1.3189329710618589e-06,0.0,0.0,2.0
+chao-dyn/9608002,Complex Periodic Orbits and Tunnelling in Chaotic Potentials,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9810313,"Bloch Electrons in a Magnetic Field - Why Does Chaos Send Electrons the
+  Hard Way?",1.3189329710618589e-06,0.0,0.0,1.0
+hep-lat/9904002,Non-Universal Quantities from Dual RG Transformations,1.3189329710618589e-06,0.0,0.0,1.0

@@ -1,0 +1,1452 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+cond-mat/0410417,Universality in Few-body Systems with Large Scattering Length,6.178184100335142e-05,0.0002989902253399,91.0,46.0
+cond-mat/0408018,"Stochastic models of Lagrangian acceleration of fluid particle in
+  developed turbulence",5.357327659636347e-05,1.028474877927202e-05,42.0,3.0
+gr-qc/0703117,"Trans-Planckian physics and signature change events in Bose gas
+  hydrodynamics",3.897403305869557e-05,4.860613620013942e-07,24.0,1.0
+physics/0508215,The hydraulic jump as a white hole,3.507218448616137e-05,8.547092653076202e-08,8.0,1.0
+cond-mat/0408048,"Thermal fluctuations in pinned elastic systems: field theory of rare
+  events and droplets",3.3395164989500206e-05,6.612199145938859e-07,35.0,5.0
+gr-qc/0612134,From Quantum Hydrodynamics to Quantum Gravity,2.858878898920868e-05,2.531995394316764e-06,15.0,3.0
+cond-mat/0111519,"Dynamics and Configurational Entropy in the LW Model for Supercooled
+  Orthoterphenyl",2.5688455859278445e-05,1.990182755160072e-06,9.0,1.0
+cond-mat/0412581,Fixed-Connectivity Membranes,2.3677878389440872e-05,0.0,24.0,0.0
+cond-mat/0106076,Statistical Theory for the Kardar-Parisi-Zhang Equation in 1+1 Dimension,2.3630069881960413e-05,0.0,41.0,0.0
+cond-mat/0609593,A fluctuating environment as a source of periodic modulation,2.3525371809909635e-05,7.960731020640288e-06,1.0,1.0
+cond-mat/0508614,Fluctuation pressure of a fluid membrane between walls through six loops,2.2985570603437165e-05,0.0,17.0,0.0
+cond-mat/0202039,Potential Energy Landscape Equation of State,2.0952757277903944e-05,0.0,1.0,0.0
+hep-th/0502057,Accelerating universes driven by bulk particles,2.037041205783756e-05,5.236587642034645e-06,52.0,6.0
+cond-mat/0312415,"Conditional Lagrangian acceleration statistics in turbulent flows with
+  Gaussian distributed velocities",2.010951299820084e-05,0.0,21.0,1.0
+cond-mat/0411734,Sensitivity of the stress response function to packing preparation,1.968947869589763e-05,1.990182755160072e-06,5.0,2.0
+cond-mat/0402135,Quantum phase transitions in two-dimensional systems,1.9278030339326728e-05,0.0,13.0,0.0
+cond-mat/0211106,Hiking through glassy phases: physics beyond aging,1.7802015936342483e-05,7.131679552509473e-06,9.0,4.0
+cond-mat/0509777,"Crystalline Particle Packings on a Sphere with Long Range Power Law
+  Potentials",1.69906678780505e-05,8.199878704437421e-06,14.0,4.0
+cond-mat/9910431,Mode-coupling theory for heteropolymers,1.68877474561246e-05,3.965513400207009e-06,5.0,2.0
+gr-qc/0603093,Horizons and Ergoregions in Superfluids,1.664082009423885e-05,1.1338935042804795e-06,7.0,2.0
+cond-mat/0608537,Transition to Superfluid Turbulence,1.6428739970824618e-05,1.6091711277986778e-07,6.0,2.0
+cond-mat/9809238,Aspects of the Noisy Burgers Equation,1.6278254279383742e-05,3.980365510320144e-06,3.0,2.0
+cond-mat/0404250,Spherical Vesicles Distorted by a Grafted Latex Bead: An Exact Solution,1.5970624685774952e-05,0.0,6.0,1.0
+cond-mat/0610399,Equilibrium and transport properties of constrained systems,1.596689379370772e-05,0.0,14.0,0.0
+cond-mat/9709058,"Solitons and diffusive modes in the noiseless Burgers equation:
+  Stability analysis",1.5735028520764476e-05,9.95091377580036e-06,9.0,3.0
+cond-mat/0501118,From the stress response function (back) to the sandpile `dip',1.5549007047311627e-05,0.0,6.0,1.0
+cond-mat/0606619,Dynamics of vortices and interfaces in superfluid 3He,1.5480144989441718e-05,1.8379596418326743e-06,5.0,2.0
+cond-mat/0504750,"Fluctuation theorem for non-equilibrium relaxational systems driven by
+  external forces",1.542367257626719e-05,3.858435685060224e-06,7.0,3.0
+hep-th/0605259,"Symmetry Aspects in Nonrelativistic Multi-Scalar Field Models and
+  Application to a Coupled Two-Species Dilute Bose Gas",1.4858150860839572e-05,0.0,8.0,0.0
+cond-mat/0109011,"Jamming, hysteresis and oscillation in scalar models for shear
+  thickening",1.4712853485071765e-05,0.0,5.0,1.0
+cond-mat/9907335,Loop Model with Generalized Fugacity in Three Dimensions,1.4656930701074827e-05,1.990182755160072e-06,13.0,2.0
+cond-mat/0204221,"Power laws and stretched exponentials in a noisy finite-time-singularity
+  model",1.4548659144094214e-05,0.0,10.0,0.0
+cond-mat/0612279,"Logarithmic Singularities of Specific Heat and Related Properties of
+  Liquid $^4He$ Near $\lambda-$Point",1.451198290195602e-05,0.0,5.0,0.0
+cond-mat/0610819,"Dynamics and Instabilities of Defects in Two-Dimensional Crystals on
+  Curved Backgrounds",1.432953898750952e-05,0.0,12.0,0.0
+cond-mat/0611715,"Numerical evidence for relevance of disorder in a Poland-Scheraga DNA
+  denaturation model with self-avoidance: Scaling behavior of average
+  quantities",1.4282212440432694e-05,1.9976088102166394e-06,8.0,1.0
+cond-mat/0108224,Rheological instability in a simple shear thickening model,1.4207116632123408e-05,0.0,4.0,1.0
+cond-mat/0108195,"Formation and Decay of Vortex Lattices in Bose-Einstein Condensates at
+  Finite Temperatures",1.4031212612765987e-05,7.4260550565674335e-09,7.0,1.0
+cond-mat/0410306,Internal Stress in a Model Elasto-Plastic Fluid,1.3948007315006473e-05,3.980365510320144e-06,3.0,2.0
+cond-mat/0502024,Slow dynamics in glassy soft matter,1.385638169628978e-05,0.0,9.0,0.0
+cond-mat/0507183,Density-functional theory for fermions in the unitary regime,1.3826615463221856e-05,9.479784692817098e-07,27.0,4.0
+cond-mat/0305670,"Scaling Theory and Exactly Solved Models In the Kinetics of Irreversible
+  Aggregation",1.3695889927029895e-05,0.0,2.0,0.0
+cond-mat/0401526,"Magnetization plateaus for spin-one bosons in optical lattices:
+  Stern-Gerlach experiments with strongly correlated atoms",1.358055542680282e-05,6.82814258105722e-06,7.0,3.0
+cond-mat/0312338,"Broad relaxation spectrum and the field theory of glassy dynamics for
+  pinned elastic systems",1.3459132927488952e-05,2.416661195406314e-06,10.0,5.0
+cond-mat/0205644,Universality classes in nonequilibrium lattice systems,1.3378100647073986e-05,0.0002637749231547,20.0,26.0
+cond-mat/9712287,"Thermal dephasing and the echo effect in a confined Bose-Einstein
+  condensate",1.3305975935444856e-05,0.0,5.0,0.0
+cond-mat/0301238,The Inelastic Maxwell Model,1.31127681436047e-05,2.429805214508864e-05,7.0,8.0
+cond-mat/0203148,Stresses in lipid membranes,1.2971921638962208e-05,0.0,3.0,1.0
+cond-mat/0006413,Memory in aged granular media,1.285797591893252e-05,0.0,3.0,1.0
+cond-mat/0205190,Slow light and the phase of a Bose-Einstein condensate,1.2600886300142832e-05,4.988671883672617e-07,3.0,1.0
+cond-mat/0702545,The classical granular temperature and slightly beyond,1.2520039875220534e-05,0.0,3.0,1.0
+cond-mat/0703164,Non-equilibrium dynamics of spin facilitated glass models,1.2184447197955242e-05,0.0,9.0,0.0
+cond-mat/0509600,"Fickian crossover and lengthscales from two point functions in
+  supercooled liquids",1.2171150950115017e-05,0.0,3.0,0.0
+cond-mat/0011075,"Influence of the flow on the anchoring of nematic liquid crystals on a
+  Langmuir-Blodgett monolayer studied by optical second-harmonic generation",1.2159461270332995e-05,0.0,4.0,1.0
+cond-mat/0010484,"Sensitive methods for estimating the anchoring strength of nematic
+  liquid crystals on Langmuir-Blodgett monolayers of fatty acids",1.2159461270332995e-05,0.0,4.0,1.0
+cond-mat/0012415,Dynamics in a supercooled molecular liquid: Theory and Simulations,1.2069990204057671e-05,3.980365510320144e-06,4.0,2.0
+cond-mat/0605752,"Fluorescent contacts measure the coordination number and entropy of a 3D
+  jammed emulsion packing",1.2056765683677236e-05,0.0,1.0,0.0
+cond-mat/0702471,"Crystalline Order On Riemannian Manifolds With Variable Gaussian
+  Curvature And Boundary",1.2028577210701737e-05,1.990182755160072e-06,9.0,1.0
+cond-mat/0602332,Designing Langevin microdynamics in macrocosm,1.185815303347746e-05,0.0,5.0,0.0
+cond-mat/0405254,Phase Diagram for Ultracold Bosons in Optical Lattices and Superlattices,1.1824212634458996e-05,0.0,8.0,0.0
+cond-mat/9910375,Physics of glassy systems,1.174344436776591e-05,0.0,6.0,0.0
+cond-mat/0006383,Universality Classes of Self-Avoiding Fixed-Connectivity Membranes,1.1667966371706148e-05,0.0003151244882663,10.0,2.0
+cond-mat/0405334,Theory of Nonlinear Matter Waves in Optical Lattices,1.1533712114706271e-05,0.0,8.0,0.0
+cond-mat/0012277,"Polymer Films in the Normal-Liquid and Supercooled State: A Review of
+  Recent Monte Carlo Simulation Results",1.1422145849329498e-05,0.0,7.0,0.0
+cond-mat/0404174,Temperature Anisotropy in a Driven Granular Gas,1.1312192634613418e-05,0.0,3.0,0.0
+cond-mat/0703725,Different facets of the raise and peel model,1.1272073071942651e-05,0.0,2.0,0.0
+cond-mat/0206104,In-situ velocity imaging of ultracold atoms using slow--light,1.1207941518863154e-05,6.01757603956794e-07,4.0,1.0
+cond-mat/0007217,"Orthogonality catastrophe and decoherence of a confined Bose-Einstein
+  condensate at finite temperature",1.118201292727848e-05,0.0,3.0,0.0
+cond-mat/0110389,Vortices near surfaces of Bose-Einstein condensates,1.1166442640312897e-05,5.955696155367081e-06,11.0,2.0
+cond-mat/0405534,"Theoretical Characterization of the Interface in a Nonequilibrium
+  Lattice System",1.1152615016205758e-05,0.0,1.0,0.0
+cond-mat/0207601,Dynamical properties of vibrofluidized granular mixtures,1.102330328502161e-05,0.0,6.0,2.0
+cond-mat/0703372,Gas-Liquid Coexistence in the Primitive Model for Water,1.0993921162611258e-05,0.0,4.0,0.0
+q-bio/0512033,"Explicit factorization of external coordinates in constrained
+  Statistical Mechanics models",1.0828916672836616e-05,0.0,3.0,1.0
+q-bio/0601042,"Quantum mechanical calculation of the effects of stiff and rigid
+  constraints in the conformational equilibrium of the Alanine dipeptide",1.0828916672836616e-05,0.0,3.0,1.0
+cond-mat/0409430,Equation of state of non-additive $d$-dimensional hard-sphere mixtures,1.0803815979107977e-05,0.0,3.0,1.0
+cond-mat/0011450,Numerical model for granular compaction under vertical tapping,1.0711347654282396e-05,0.0,3.0,0.0
+cond-mat/0604440,"Modeling molecular conduction in DNA wires: Charge transfer theories and
+  dissipative quantum transport",1.0705290557018151e-05,0.0,1.0,0.0
+cond-mat/9712243,"Jamming transition in a homogeneous one-dimensional system: the Bus
+  Route Model",1.0629530119337172e-05,0.0,8.0,0.0
+cond-mat/0002038,The Statistical Mechanics of Membranes,1.0608142423573654e-05,0.0003312850979914,15.0,4.0
+cond-mat/0403562,"Critical behavior of the two dimensional 2A->3A, 4A->0 binary system",1.0353711038183577e-05,4.5231426253638e-08,7.0,1.0
+cond-mat/9911379,Interacting Topological Defects on Frozen Topographies,1.034778165810938e-05,0.0,9.0,9.0
+cond-mat/0501447,"Imprinting the memory into paste and its visualization as crack patterns
+  in drying process",1.0344842322247726e-05,0.0,2.0,1.0
+cond-mat/0406233,The role of diffusion in branching and annihilation random walk models,1.0319216884012649e-05,0.0,3.0,0.0
+cond-mat/0605276,Random anisotropy disorder in superfluid 3He-A in aerogel,1.019139528452233e-05,1.9976088102166394e-06,6.0,1.0
+cond-mat/0307222,"Competition between homogeneous and local processes in a diffusive
+  many-body system",1.0135070245097035e-05,0.0,3.0,0.0
+cond-mat/9903002,"Instability of Non-vortex State toward a Quantized Vortex in
+  Bose-Einstein Condensate under External Rotation",1.012273635345619e-05,0.0,8.0,0.0
+cond-mat/0403721,"Effective interactions, Fermi-Bose duality, and ground states of
+  ultracold atomic vapors in tight de Broglie waveguides",1.006564182337634e-05,4.071215847534542e-06,12.0,4.0
+cond-mat/0308054,"Reorganization of a dense granular assembly: the `unjamming response
+  function'",1.0032314391240683e-05,1.658485629300057e-05,3.0,2.0
+cond-mat/0401475,"Description beyond the mean field approximation of an electrolyte
+  confined between two planar metallic electrodes",1.001867144379302e-05,0.0,4.0,3.0
+cond-mat/0303263,"Studies of Mass and Size Effects in Three-Dimensional Vibrofluidized
+  Granular Mixtures",1.000982018191657e-05,0.0,5.0,2.0
+cond-mat/9710133,Soliton approach to the noisy Burgers equation: Steepest descent method,9.815028175155028e-06,0.0,6.0,1.0
+cond-mat/0606584,"On Irregular Interconnect Fabrics for Self-Assembled Nanoscale
+  Electronics",9.74124413237002e-06,7.4260550565674335e-09,3.0,1.0
+cond-mat/0608230,Axially symmetric membranes with polar tethers,9.722080164445368e-06,0.0,1.0,2.0
+physics/0609139,Single DNA conformations and biological function,9.700175958974429e-06,0.0,7.0,0.0
+cond-mat/0110237,Plasticity in current-driven vortex lattices,9.6517062599699e-06,0.0,7.0,0.0
+cond-mat/0606747,Bounds on the shear load of cohesionless granular matter,9.60068093542824e-06,0.0,4.0,0.0
+cond-mat/0311098,"Stochastic model of the conditional acceleration of a fluid particle in
+  developed turbulence",9.59001160113717e-06,0.0,16.0,2.0
+cond-mat/0008208,Effective attraction between like-charged colloids in a 2D plasma,9.457124726835416e-06,0.0,9.0,1.0
+cond-mat/0209429,"Mean-field model for the interference of matter waves from a
+  three-dimensional optical trap",9.375977644941205e-06,1.7832079920834566e-05,3.0,4.0
+cond-mat/0212336,Collision statistics of driven granular materials,9.365490764599916e-06,0.0,6.0,0.0
+cond-mat/0305049,Bubble dynamics in DNA,9.234691633794632e-06,0.0,3.0,0.0
+cond-mat/0408282,Routes to spatiotemporal chaos in the rheology of nematogenic fluids,9.133868773459028e-06,0.0,5.0,1.0
+cond-mat/0211215,"Loss of superfluidity in a Bose-Einstein condensate on an optical
+  lattice via a novel classical phase transition",9.090873155752e-06,0.0,7.0,0.0
+cond-mat/0309392,Dipole Interactions In Nanosystems,9.087592082995425e-06,0.0,2.0,1.0
+cond-mat/9701110,Role of Metastable States in Phase Ordering Dynamics,9.087592082995425e-06,0.0,2.0,2.0
+cond-mat/0502658,"Dynamical density functional theory: binary phase-separating colloidal
+  fluid in a cavity",9.075500737442549e-06,0.0,1.0,0.0
+cond-mat/0411047,Superfluid-insulator transition in a moving system of interacting bosons,8.984726529663337e-06,3.073708305259989e-05,5.0,6.0
+cond-mat/0204177,"Surface modes and vortex formation in dilute Bose-Einstein condensates
+  at finite temperatures",8.906380879128508e-06,1.990182755160072e-06,5.0,1.0
+cond-mat/0308516,Two-dimensional tunnel bifurcations with dissipation,8.897031956070778e-06,0.0,3.0,0.0
+cond-mat/0612680,"Force networks and the dynamic approach to jamming in sheared granular
+  media",8.88715787419929e-06,0.0,2.0,0.0
+cond-mat/0408571,Sequential Monte Carlo Methods for Protein Folding,8.874244421703289e-06,0.0,4.0,1.0
+cond-mat/0402278,"Feshbach resonances with large background scattering length: interplay
+  with open-channel resonances",8.761416779357357e-06,2.3160534352163817e-06,8.0,2.0
+cond-mat/0506323,Dynamical projection of atoms to Feshbach molecules at strong coupling,8.74181316877853e-06,7.307608758927337e-06,7.0,3.0
+cond-mat/0308431,"Excitation spectroscopy of vortex lattices in a rotating Bose-Einstein
+  condensate",8.705991460921592e-06,2.0128145419991344e-06,9.0,2.0
+cond-mat/0007246,Dissipative dynamics of vortex arrays in anisotropic traps,8.675301643462772e-06,9.90140674208991e-09,7.0,1.0
+cond-mat/0501224,Static and Dynamic Properties of Trapped Fermionic Tonks-Girardeau Gases,8.650192179865356e-06,0.0,2.0,0.0
+cond-mat/0401516,Tkachenko oscillations and the compressibility of a rotating Bose gas,8.629303308568215e-06,0.0,8.0,0.0
+cond-mat/0702322,"Inverted catenoids, curvature singularities and tethered membranes",8.617573300924441e-06,0.0,1.0,1.0
+cond-mat/0402225,"Splitting in the Excitation Spectrum of A Bose-Einstein Condensate
+  Undergoing Strong Rabi Oscillations",8.613763547280861e-06,0.0,2.0,1.0
+cond-mat/0203335,Lipid membranes with an edge,8.602790161294417e-06,0.0,1.0,1.0
+cond-mat/0404613,"Out of equilibrium generalized Stokes-Einstein relation: determination
+  of the effective temperature of an aging medium",8.474773316479297e-06,7.960731020640288e-06,3.0,2.0
+cond-mat/0512681,"Boundary critical behaviour at m-axial Lifshitz points of semi-infinite
+  systems with a surface plane perpendicular to a modulation axis",8.469562142776538e-06,0.0,8.0,0.0
+cond-mat/0208155,Anisotropic elastic theory of preloaded granular media,8.392032619658367e-06,5.373493438932194e-05,4.0,6.0
+cond-mat/0405252,"System of elastic hard spheres which mimics the transport properties of
+  a granular gas",8.351680922470598e-06,0.0,3.0,3.0
+cond-mat/0311464,Dynamics of nematic elastomers,8.261130154901542e-06,0.0,1.0,0.0
+cond-mat/0112393,"Quasiparticle spectrum and dynamical stability of an atomic
+  Bose-Einstein condensate coupled to a degenerate Fermi gas",8.257779714566222e-06,0.0009537676260762,8.0,1.0
+cond-mat/0306683,Phase diagram of two-component bosons on an optical lattice,8.228010919517741e-06,1.5559356768545508e-06,9.0,1.0
+cond-mat/0607527,Discontinuous Molecular Dynamics for Semi-Flexible and Rigid Bodies,8.216042892347698e-06,0.0,2.0,2.0
+cond-mat/0209051,"Temperature Dependence of Vortex Nucleation in Gaseous Bose-Einstein
+  Condensates",8.211541287554882e-06,0.0,1.0,0.0
+cond-mat/0306204,"Spin-exchange interactions of spin-one bosons in optical lattices:
+  singlet, nematic and dimerized Phases",8.179342649274826e-06,2.055823660670988e-05,14.0,5.0
+cond-mat/9807349,Dynamical quantum noise in Bose-Einstein condensates,8.167821398940234e-06,0.0,12.0,0.0
+cond-mat/0106235,Vortex Nucleation in a Stirred Bose-Einstein Condensate,8.161017057071559e-06,1.9867261033420744e-05,9.0,9.0
+cond-mat/0404272,Propagation of sound in a Bose Einstein condensate in an optical lattice,8.109579737041172e-06,1.4852110113134864e-08,4.0,3.0
+physics/0601073,"Properties of quasi-one-dimensional molecules with Feshbach resonance
+  interaction",8.105149815581686e-06,0.0,4.0,0.0
+cond-mat/0206155,Fluctuation-Dissipation relations in Driven Granular Gases,8.075403885895563e-06,0.0,8.0,0.0
+cond-mat/0612677,Long Range Correlations in Granular Shear Flow I: Numerical Evidence,8.046039987166697e-06,1.990182755160072e-06,2.0,1.0
+cond-mat/0012388,Is there something of the MCT in orientationally disordered crystals ?,8.021668218872587e-06,0.0,4.0,0.0
+cond-mat/0105100,Solitons in the noisy Burgers equation,8.01137218141886e-06,0.0,3.0,5.0
+cond-mat/0608557,"The Importance of Boundary Conditions for Fluctuation Induced Forces
+  between Colloids at Interfaces",7.990451036522245e-06,0.0,1.0,0.0
+cond-mat/0607529,Numerical implementation of the exact dynamics of free rigid bodies,7.947473267438013e-06,0.0,3.0,1.0
+cond-mat/0212597,Anisotropic pseudo-potential for polarized dilute quantum gases,7.935381921885137e-06,0.0,1.0,1.0
+cond-mat/0501047,Influence of pore-scale disorder on viscous fingering during drainage,7.891905268412647e-06,0.0,1.0,0.0
+cond-mat/0203541,Computer Simulations of charged systems,7.88939939378466e-06,0.0,6.0,0.0
+cond-mat/0306135,Discrete breathers in protein secondary structure,7.825559241310054e-06,0.0,6.0,2.0
+physics/9912012,Dynamic Fitness Landscapes in Molecular Evolution,7.821502457253823e-06,0.0,3.0,3.0
+cond-mat/0407597,"Quantum phase transition for the BEC--BCS crossover in condensed matter
+  physics and CPT violation in elementary particle physics",7.787868604897991e-06,0.0001067095640331,16.0,10.0
+cond-mat/0005107,"Condensate fluctuations in finite Bose-Einstein condensates at finite
+  temperature",7.745512287217875e-06,1.990182755160072e-06,1.0,1.0
+cond-mat/0403429,"Quantum transport of non-interacting Fermi gas in an optical lattice
+  combined with harmonic trapping",7.721214697804053e-06,0.0,7.0,0.0
+cond-mat/0502487,Spin-1/2 fermions on spin-dependent optical lattices,7.681398038373916e-06,2.224155997478906e-06,3.0,1.0
+cond-mat/9711295,"Macroscopic Angular Momentum States of Bose-Einstein Condensates in
+  Toroidal Traps",7.651185397093789e-06,5.359136399156163e-07,2.0,3.0
+cond-mat/0601395,Surface Curvature and Vortex Stability,7.635062577923878e-06,7.960731020640288e-06,5.0,2.0
+cond-mat/0005102,"Two-dimensional Granular Gas of Inelastic Spheres with Multiplicative
+  Driving",7.623326747395854e-06,0.0,7.0,0.0
+cond-mat/0412400,Elastic medium confined in a column versus the Janssen experiment,7.593880254059839e-06,0.0,1.0,0.0
+cond-mat/0312591,"Colloidal gelation, percolation and structural arrest",7.55124827994227e-06,1.0179538342297183e-05,6.0,6.0
+cond-mat/0207086,Electrostatic correlations: from Plasma to Biology,7.546366904575498e-06,0.0,8.0,2.0
+q-bio/0504004,Electronic Transport in DNA,7.533323202403175e-06,0.0,5.0,1.0
+cond-mat/0007487,"Thermodynamic and structural aspects of the potential energy surface of
+  simulated water",7.519850709879532e-06,2.995101077334339e-06,4.0,4.0
+cond-mat/0701056,Model Energy Landscapes of Low-Temperature Fluids: Dipolar Hard Spheres,7.519107080810661e-06,0.0,1.0,0.0
+cond-mat/0202236,"Force-induced unfolding of a homopolymer on fractal lattice: exact
+  results vs. mean field predictions",7.489698191067363e-06,0.0,7.0,0.0
+quant-ph/0605139,Decay by tunneling of Bosonic and Fermionic Tonks-Girardeau Gases,7.450371234883375e-06,0.0,5.0,0.0
+cond-mat/0406147,Ageing phenomena without detailed balance: the contact process,7.427369292541061e-06,0.0010530030429869,10.0,4.0
+cond-mat/0005445,"Macroscopic quantum tunneling and resonances in coupled Bose-Einstein
+  condensates with oscillating atomic scattering length",7.412086716009919e-06,4.084330281112088e-08,2.0,4.0
+cond-mat/0211079,"Hitting a BEC with a comb: Evolution of interference patterns inside a
+  magnetic trap",7.3972274738937105e-06,9.95303550581652e-06,2.0,6.0
+cond-mat/0211628,Interference pattern of Bose-condensed gas in a 2D optical lattice,7.380287422784308e-06,0.0,4.0,0.0
+cond-mat/0101313,"Generating ring currents, solitons, and svortices by stirring a
+  Bose-Einstein condensate in a toroidal trap",7.3747505973005395e-06,0.0,7.0,0.0
+cond-mat/9901014,Adsorption of polydisperse polymer chains,7.327489252983502e-06,0.0,1.0,1.0
+cond-mat/0309089,A study of the static yield stress in a binary Lennard-Jones glass,7.291398495861538e-06,5.970548265480216e-06,7.0,1.0
+cond-mat/0203099,Impurity in a Granular Fluid,7.278075141229047e-06,0.0,7.0,2.0
+cond-mat/0701435,"Cerenkov-like radiation in a binary Schr{\""o}dinger flow past an
+  obstacle",7.253190542845836e-06,0.0,2.0,0.0
+cond-mat/0009182,"Writhing Geometry at Finite Temperature: Random Walks and Geometric
+  phases for Stiff Polymers",7.250904690659688e-06,0.0,2.0,0.0
+cond-mat/0304080,On the role of mismatches in DNA denaturation,7.250726746920528e-06,0.0,2.0,3.0
+cond-mat/0403205,Bloch oscillations of cold atoms in optical lattices,7.250265744972384e-06,0.0,4.0,2.0
+cond-mat/0508102,"Relaxation in a glassy binary mixture: Comparison of the mode-coupling
+  theory to a Brownian dynamics simulation",7.227763759398573e-06,2.475793047832166e-06,3.0,1.0
+cond-mat/0304023,"Critical behavior in reaction-diffusion systems exhibiting absorbing
+  phase transition",7.223540649393222e-06,2.013963812424556e-06,6.0,4.0
+cond-mat/9708158,"Torsional Directed Walks, Entropic Elasticity, and DNA Twist Stiffness",7.210644227495529e-06,0.0,3.0,0.0
+cond-mat/0403213,Quantum Chaos in the Bose-Hubbard model,7.203752461011081e-06,0.0,4.0,2.0
+cond-mat/0106503,Collective Excitations of Dilute Bose-Fermi Superfluid Mixtures,7.19669638536786e-06,0.0,3.0,0.0
+cond-mat/0007335,"Perturbative polydispersity: Phase equilibria of near-monodisperse
+  systems",7.191424505584029e-06,0.0,3.0,0.0
+cond-mat/0612627,Gaussian excitations model for glass-former dynamics and thermodynamics,7.143543907033281e-06,1.990182755160072e-06,3.0,1.0
+cond-mat/0206542,Water at Positive and Negative Pressures,7.079983776613288e-06,0.0,6.0,0.0
+cond-mat/0410595,"The onset of jamming as the sudden emergence of an infinite $k$-core
+  cluster",7.076016813040007e-06,0.0,6.0,11.0
+nlin/0409027,Nonlinear Lattice Dynamics of Bose-Einstein Condensates,7.034705424962131e-06,0.0,5.0,0.0
+cond-mat/0409418,Cluster algorithm for non-additive hard-core mixtures,7.010789581995333e-06,0.0,1.0,1.0
+cond-mat/0503584,"Liquid-liquid phase transitions in supercooled water studied by computer
+  simulations of various water models",7.010789581995333e-06,0.0,1.0,1.0
+cond-mat/0310651,"Precessional motion of a vortex in a finite-temperature Bose-Einstein
+  condensate",7.008791397513391e-06,1.990182755160072e-06,4.0,1.0
+cond-mat/0010375,Collective enhancement and suppression in Bose-Einstein condensates,7.004171379401255e-06,0.0,6.0,1.0
+cond-mat/0112365,"Formation of Two Component Bose Condensate During the Chemical Potential
+  Curve Crossing",7.002486134830938e-06,0.0,4.0,0.0
+q-bio/0406039,Modeling of microarray data with zippering,6.98534239360574e-06,7.960731020640288e-06,1.0,4.0
+cond-mat/9812091,Canonical phase space approach to the noisy Burgers equation,6.977223610328077e-06,1.990182755160072e-06,2.0,2.0
+cond-mat/0506497,"Memory of the Unjamming Transition during Cyclic Tiltings of a Granular
+  Pile",6.9631301145452114e-06,0.0,3.0,0.0
+cond-mat/0610023,Some measure theory on stacks of graphs,6.936223577431442e-06,7.960731020640288e-06,6.0,1.0
+physics/0010045,Dynamic fitness landscapes: Expansions for small mutation rates,6.930536386555109e-06,0.0,3.0,0.0
+cond-mat/0407352,Bulk and Boundary Critical Behavior at Lifshitz Points,6.902091604621558e-06,3.148647343984581e-06,10.0,3.0
+cond-mat/0004029,Enthalpy recovery in semicrystalline polymers,6.880745509255701e-06,0.0,4.0,0.0
+cond-mat/0703731,Degenerate Fermi gas in a combined harmonic-lattice potential,6.877837153721274e-06,0.0,2.0,0.0
+quant-ph/0506256,"Numerical Analysis of Coherent Many-Body Currents in a Single Atom
+  Transistor",6.861933821325351e-06,0.0,5.0,0.0
+cond-mat/0210177,"Bose-Einstein condensation dynamics in three dimensions by the
+  pseudospectral and finite-difference methods",6.849474515043488e-06,1.9768158560582505e-05,6.0,1.0
+cond-mat/0511433,"Gel to glass transition in simulation of a valence-limited colloidal
+  system",6.844887704323073e-06,1.990182755160072e-06,3.0,1.0
+cond-mat/0307686,Anomalous elasticity of nematic and critically soft elastomers,6.807457912381104e-06,0.0,1.0,1.0
+quant-ph/0312131,Quantum Computer with Mixed States and Four-Valued Logic,6.796409089211808e-06,4.04658116790787e-07,31.0,2.0
+physics/0406074,"New Directions in Degenerate Dipolar Molecules via Collective
+  Association",6.77853192035336e-06,0.0,10.0,0.0
+cond-mat/0609144,"Low frequency Rabi spectroscopy of dissipative two level systems. The
+  dressed state approach",6.771217809948728e-06,0.0,4.0,0.0
+cond-mat/0202332,"Scaling, Multiscaling, and Nontrivial Exponents in Inelastic Collision
+  Processes",6.770074533326712e-06,0.0,8.0,6.0
+cond-mat/9808296,"Long-Range Order in a Quasi One-Dimensional Non-Equilibrium Three-State
+  Lattice Gas",6.756385399123787e-06,0.0,2.0,0.0
+cond-mat/0609689,"Dynamical noise and avalanches in quasi-static plastic flow of amorphous
+  solids",6.734922002978543e-06,7.960731020640288e-06,1.0,1.0
+cond-mat/0502176,"Uniform shear flow in dissipative gases. Computer simulations of
+  inelastic hard spheres and (frictional) elastic hard spheres",6.686953213239242e-06,0.0,4.0,1.0
+cond-mat/0408634,"Breakdown of Hydrodynamics in the Radial Breathing Mode of a
+  Strongly-Interacting Fermi Gas",6.656758091912768e-06,7.28549792638876e-06,10.0,5.0
+cond-mat/9805061,"Linking Rates of Folding in Lattice Models of Proteins with Underlying
+  Thermodynamic Characteristics",6.617996640272177e-06,0.0,1.0,0.0
+cond-mat/0603191,"Charged Plate Beyond Mean-field: One-loop Corrections by Salt-density
+  Fluctuation",6.597411304380481e-06,0.0,3.0,0.0
+cond-mat/0311356,"Spin-orbit coupling and Berry phase with ultracold atoms in 2D optical
+  lattices",6.576936516370508e-06,3.651179345600471e-06,4.0,1.0
+cond-mat/0702520,The tail of the contact force distribution in static granular materials,6.55890781825366e-06,0.0,1.0,0.0
+cond-mat/0307209,"Dipole Interactions and Electrical Polarity in Nanosystems -- the
+  Clausius-Mossotti and Related Models",6.55890781825366e-06,0.0,1.0,1.0
+cond-mat/0502196,Trapping Fermionic $^{40}$K and Bosonic $^{87}$Rb on a Chip,6.51840556788693e-06,3.694912404479209e-06,4.0,1.0
+cond-mat/9811150,Depletion induced demixing in polydisperse mixtures of hard spheres,6.495543297424063e-06,0.0,4.0,1.0
+cond-mat/9909330,Mechanisms for slow strengthening in granular materials,6.461691403547515e-06,0.0,3.0,0.0
+cond-mat/0405341,"Finite Size Effect on Correlation Functions of a Bose Gas in a Trap and
+  Destruction of the Order Parameter by Phase Fluctuations",6.456499652126088e-06,0.0,2.0,0.0
+cond-mat/0212195,"Fermi 1D quantum gas: Luttinger liquid approach and spin-charge
+  separation",6.439224227428146e-06,3.620843119373175e-06,11.0,1.0
+cond-mat/0410055,Simulations of grafted polymers in a good solvent,6.43080954696423e-06,2.22781651697023e-08,2.0,1.0
+quant-ph/0304093,"Quantum State Control via Trap-induced Shape Resonance in Ultracold
+  Atomic Collisions",6.4140454876371385e-06,0.0,2.0,1.0
+cond-mat/0211399,Exact scaling properties of a hierarchical network model,6.410764460188522e-06,1.975330645046937e-06,6.0,1.0
+cond-mat/0310493,Clustering in a One-dimensional Inelastic Lattice Gas,6.3423570573643165e-06,0.0,3.0,0.0
+physics/0512033,One-dimensional Bose chemistry: effects of non-integrability,6.3357801553523366e-06,0.0,2.0,1.0
+cond-mat/0207710,Monte Carlo Renormalization Group for Entanglement Percolation,6.326718292660885e-06,0.0,1.0,0.0
+cond-mat/0104129,"Molecular dynamics simulation study of the high frequency sound waves in
+  the fragile glass former ortho-terphenyl",6.313927843528986e-06,1.990182755160072e-06,3.0,2.0
+cond-mat/0301454,Slow dynamics under gravity: a nonlinear diffusion model,6.306680133298285e-06,0.0,2.0,0.0
+cond-mat/0207427,Self-avoiding knots,6.303884059102809e-06,0.0,1.0,2.0
+cond-mat/0506013,"Transport coefficients for an inelastic gas around uniform shear flow:
+  Linear stability analysis",6.293361029732192e-06,0.0,3.0,2.0
+cond-mat/0306647,Sensitivity to initial conditions in self-organized critical systems,6.290464395475665e-06,0.0,3.0,3.0
+cond-mat/0703144,"Dynamics of unvisited sites in presence of mutually repulsive random
+  walkers",6.278383636291227e-06,0.0,1.0,0.0
+cond-mat/0312113,Gaussian Kinetic Model for Granular Gases,6.273242979155981e-06,0.0,5.0,0.0
+cond-mat/0606571,Macro-orbitals and microscopic theory of a system of interacting bosons,6.2430103891255215e-06,2.0315886378997204e-06,5.0,3.0
+cond-mat/9709059,"Morphology and scaling in the noisy Burgers equation: Soliton approach
+  to the strong coupling fixed point",6.231947585600305e-06,0.0,1.0,2.0
+cond-mat/0102209,"Giant Charge Inversion of a Macroion Due to Multivalent Counterions and
+  Monovalent Coions: Molecular Dynamics Study",6.218527661621647e-06,0.0,5.0,1.0
+cond-mat/0408405,Kovacs effect in facilitated spin models of strong and fragile glasses,6.2085192168887055e-06,0.0,2.0,0.0
+cond-mat/0308240,Static response in disk packings,6.15612256880157e-06,2.985274132740108e-05,2.0,3.0
+quant-ph/0406197,Adiabatic and non-adiabatic merging of independent Bose condensates,6.141497070394558e-06,0.0,3.0,0.0
+cond-mat/0006069,Effective interactions between like-charged macromolecules,6.1284166548035625e-06,0.0,1.0,0.0
+cond-mat/0310462,"Stability, effective dimensions, and interactions for bosons in deformed
+  fields",6.126696164052155e-06,0.0,4.0,0.0
+cond-mat/0412414,Directed Polymers with Constrained Winding Angle,6.11911520865744e-06,0.0,2.0,0.0
+cond-mat/0602349,Computing the number of metastable states in infinite-range models,6.10895604611903e-06,1.9818284432214337e-07,5.0,2.0
+cond-mat/0404274,"BCS-BEC Crossover: From High Temperature Superconductors to Ultracold
+  Superfluids",6.108358603538653e-06,0.0006481764407123,9.0,23.0
+cond-mat/0304527,"Extended molecules and geometric scattering resonances in optical
+  lattices",6.096651261712664e-06,0.0,2.0,1.0
+cond-mat/0206157,Oscillating Superfluidity of Bosons in Optical Lattices,6.05991842186625e-06,7.4260550565674335e-09,2.0,2.0
+cond-mat/0206372,A ratchet for heat transport between identical reservoirs,6.043515140743042e-06,0.0,5.0,0.0
+cond-mat/0406216,"Boundary critical behaviour at $m$-axial Lifshitz points: the special
+  transition for the case of a surface plane parallel to the modulation axes",6.0126008553737584e-06,4.97545688790018e-07,11.0,2.0
+cond-mat/9909354,Shock-Like Dynamics of Inelastic Gases,6.0080455888999e-06,0.0,5.0,1.0
+cond-mat/0407373,Feshbach Resonances in Fermionic Lithium-6,6.006823556515645e-06,0.0001082724837995,5.0,11.0
+cond-mat/0303276,"Shear yielding of amorphous glassy solids: Effect of temperature and
+  strain rate",6.006374286860253e-06,0.0,3.0,2.0
+cond-mat/0304149,Hydrodynamics of driven granular gases,5.991960452843135e-06,0.0,2.0,0.0
+cond-mat/0607185,"Langevin dynamics of fluctuation induced first order phase transitions:
+  self consistent Hartree Approximation",5.9803132030529225e-06,0.0,2.0,0.0
+cond-mat/0311630,"Macroscopic quantum bound states of Bose Einstein condensates in optical
+  lattices",5.977755578280132e-06,3.2179571911792216e-08,2.0,3.0
+cond-mat/9912111,Quasi-long-range order in nematics confined in random porous media,5.975188499174175e-06,0.0,2.0,0.0
+cond-mat/0006232,Fluctuations of elastic interfaces in fluids: Theory and simulation,5.972081861805445e-06,0.0,2.0,0.0
+cond-mat/0312100,Boundary lubrication with a glassy interface,5.971596819138724e-06,0.0,4.0,0.0
+cond-mat/0610350,"Static and dynamic properties of a particle-based algorithm for
+  non-ideal fluids and binary mixtures",5.956398799931429e-06,0.0,1.0,0.0
+cond-mat/0111082,Testing cosmological defect formation in the laboratory,5.937808666573475e-06,1.990182755160072e-06,12.0,6.0
+cond-mat/0408034,The Totally Asymmetric Simple Exclusion Process with Langmuir Kinetics,5.928505743575558e-06,3.980365510320144e-06,2.0,2.0
+cond-mat/0411018,Vortex state in a superfluid Fermi gas near a Feshbach resonance,5.919310101943051e-06,4.024921840659549e-06,2.0,3.0
+cond-mat/0107566,Anomalous stress relaxation in random macromolecular networks,5.899222190970461e-06,0.0,3.0,0.0
+cond-mat/0605549,Quantum Chemistry at Finite Temperature,5.889705049459613e-06,0.0,2.0,0.0
+cond-mat/9906168,Wetting films on chemically heterogeneous substrates,5.888587089893186e-06,0.0,2.0,2.0
+cond-mat/0207320,Organization and instabilities of entangled active polar filaments,5.881085172641151e-06,0.0,1.0,1.0
+cond-mat/0204416,Unusual Transition Patterns in Bose-Einstein Condensation,5.8750740571504425e-06,0.0,2.0,0.0
+cond-mat/0208428,Stability of shortest paths in complex networks with random edge weights,5.851828959647814e-06,0.0,4.0,4.0
+cond-mat/0303108,Alexander's prescription for colloidal charge renormalization,5.820319442485544e-06,0.0,2.0,0.0
+cond-mat/0005456,Laplacian growth with separately controlled noise and anisotropy,5.803550298689531e-06,0.0,7.0,5.0
+cond-mat/9811252,The role of the energy gap in protein folding dynamics,5.785545697284649e-06,0.0,4.0,0.0
+cond-mat/0301157,"Glasses, replicas and all that",5.781678936570694e-06,4.856935771847815e-05,9.0,7.0
+cond-mat/0404714,Matter-wave gap vortices in optical lattices,5.780225904172461e-06,0.0,4.0,0.0
+cond-mat/0605080,Stochastic thermodynamics of chemical reaction networks,5.771741133551366e-06,0.0,2.0,0.0
+cond-mat/0605054,"On a ""Robust"" A-like State of $^3He$ in Aerogel",5.768739842742268e-06,0.0,3.0,0.0
+cond-mat/0203155,"Comment on "" A simple model for DNA denaturation""",5.73883696579153e-06,0.0,3.0,0.0
+cond-mat/0210450,"Analytical estimate of effective charges at saturation in
+  Poisson-Boltzmann cell models",5.736287915468312e-06,0.0,2.0,0.0
+cond-mat/0206234,Beliaev damping of quasi-particles in a Bose-Einstein condensate,5.7347678564698255e-06,0.0,2.0,0.0
+cond-mat/0012054,Onset Temperature of Slow Dynamics in Glass Forming Liquids,5.69174190855745e-06,1.9673457049187724e-06,6.0,2.0
+astro-ph/0103333,"Spectra and Growth Rates of Fluctuating Magnetic Fields in the Kinematic
+  Dynamo Theory with Large Magnetic Prandtl Numbers",5.691202196336668e-06,0.0,6.0,10.0
+cond-mat/0407532,"Sound propagation and oscillations of a superfluid Fermi gas in the
+  presence of a 1D optical lattice",5.68261466169483e-06,0.0,2.0,0.0
+cond-mat/0204025,Spinor Bose-Einstein Condensates with Many Vortices,5.677057141317225e-06,1.990182755160072e-06,4.0,2.0
+cond-mat/0505234,"Accurate description of bulk and interfacial properties in
+  colloid-polymer mixtures",5.660292698854368e-06,0.0,2.0,0.0
+cond-mat/0403049,Condensation of Pairs of Fermionic Atoms Near a Feshbach Resonance,5.660059385801764e-06,7.618960082352425e-05,12.0,12.0
+hep-th/0305234,New Global Defect Structures,5.659091309421709e-06,1.772394301583394e-06,2.0,7.0
+cond-mat/0304521,Auxiliary field Monte-Carlo for charged particles,5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0703230,"High-Frequency Nanofluidics: An Experimental Study using Nanomechanical
+  Resonators",5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0702110,"Enskog Theory for Polydisperse Granular Mixtures II. Sonine Polynomial
+  Approximation",5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0603217,"Percolation of particles on recursive lattices: (III) percolation of
+  polydisperse particles in the presence of a polymer matrix",5.655144290770314e-06,0.0,2.0,2.0
+cond-mat/0411278,"Stabilization of colloidal suspensions by means of highly-charged
+  nanoparticles",5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0507718,Percolation transition of hydration water at hydrophilic surfaces,5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0603697,Floppy modes and non-affine deformations in random fiber networks,5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0003084,Moment free energies for polydisperse systems,5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0603023,Violations of conservation laws in viscous liquid dynamics,5.655144290770314e-06,0.0,1.0,0.0
+cond-mat/0507477,Analytic theory of DNA condensation,5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0702109,"Enskog Theory for Polydisperse Granular Mixtures. I. Navier-Stokes order
+  Transport",5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0512092,"Low energy states of a semiflexible polymer chain with attraction and
+  the whip-toroid transitions",5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0407736,"Coulomb potentials in two and three dimensions under periodic boundary
+  conditions",5.655144290770314e-06,0.0,1.0,1.0
+nlin/0609061,"""Stokes' Second Problem in High Frequency Limit. Application to Micro
+  (Nano)- Resonators",5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0411279,Dynamic Colloidal Stabilization by Nanoparticle Halos,5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0603215,"Percolation of particles on recursive lattices: (I) a new theoretical
+  approach",5.655144290770314e-06,0.0,2.0,2.0
+cond-mat/0505564,"The percolation transition of hydration water: from planar hydrophilic
+  surfaces to proteins",5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0308441,"A Continuum,O(N) Monte-Carlo algorithm for charged particles",5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0512557,"The Role of Architecture in the Elastic Response of Semiflexible Polymer
+  and Fiber Networks",5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0201263,"Surface Scaling Analysis of a Frustrated Spring-network Model for
+  Surfactant-templated Hydrogels",5.655144290770314e-06,0.0,1.0,0.0
+cond-mat/0603216,"Percolation of particles on recursive lattices: (II) the effect of size
+  and shape disparities",5.655144290770314e-06,0.0,2.0,2.0
+cond-mat/0401392,"Comparison of Molecular Dynamics with Hybrid Continuum-Molecular
+  Dynamics for a Single Tethered Polymer in a Solvent",5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0303094,The Slowly Formed Guiselin Brush,5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0301206,Irreversible Adsorption from Dilute Polymer Solutions,5.655144290770314e-06,0.0,1.0,1.0
+cond-mat/0605541,Measurement of Effective Temperatures in an Aging Colloidal Glass,5.619824134825293e-06,1.990182755160072e-06,2.0,1.0
+cond-mat/0308465,Feshbach resonance scattering under cylindrical harmonic confinement,5.611423909373569e-06,3.101753896442475e-05,5.0,2.0
+cond-mat/0106392,Sympathetic cooling and growth of a Bose-Einstein condensate,5.598747309647776e-06,0.0,3.0,3.0
+quant-ph/0404120,Fine-grained entanglement loss along renormalization group flows,5.598132499221675e-06,0.0002901380630881,7.0,21.0
+cond-mat/0301472,"Surface Kinetics and Generation of Different Terms in a Conservative
+  Growth Equation",5.555103665062591e-06,0.0,3.0,0.0
+cond-mat/0005368,"Vortex precession in Bose-Einstein condensates: observations with filled
+  and empty cores",5.5413525927577455e-06,0.0001545799369402,5.0,6.0
+cond-mat/0310567,Vortex lattices: from the hydrodynamic to the quantum hall regime,5.531922904894969e-06,6.631074682683107e-07,8.0,2.0
+cond-mat/0606409,Ground State of a System of N Hard Core Quantum Particles in 1D Box,5.52579953104966e-06,5.686101166092116e-06,5.0,2.0
+cond-mat/0502126,Correlations in many-body systems with the Stochastic Variational Method,5.507333812400689e-06,3.980365510320144e-06,5.0,2.0
+cond-mat/0308342,"Vortex lattices in rapidly rotating Bose-Einstein condensates: modes and
+  correlation functions",5.501452857076231e-06,4.034651073603519e-06,10.0,4.0
+cond-mat/9911062,"Thermodynamics of supercooled liquids in the inherent structure
+  formalism: a case study",5.493574119230444e-06,3.8977332891841763e-07,6.0,1.0
+cond-mat/0408407,Statistical Mechanics of Self-Avoiding Manifolds (Part II),5.487204901297224e-06,0.0,6.0,0.0
+cond-mat/0205413,Kinetic Temperatures for a Granular Mixture,5.4846421109842434e-06,0.0,2.0,3.0
+cond-mat/0111261,Subdiffusion-limited single species reactions,5.470877794662084e-06,0.0,4.0,0.0
+cond-mat/0307130,"Giant Vortex Lattice Deformations in Rapidly Rotating Bose-Einstein
+  Condensates",5.469472677343844e-06,1.976170449890291e-05,7.0,5.0
+cond-mat/0109421,Bose-Einstein Condensation of Trapped Atomic Gases,5.466857145683704e-06,0.0,8.0,1.0
+cond-mat/0111286,Bose-Einstein condensation of correlated atoms in a trap,5.463877428855608e-06,0.0,6.0,0.0
+cond-mat/0401402,Theory of spinor Fermi and Bose gases in tight atom waveguides,5.426021160538964e-06,1.7161137209999947e-05,5.0,3.0
+quant-ph/0606124,Current behavior of a quantum Hamiltonian ratchet in resonance,5.424339475180087e-06,0.0,3.0,2.0
+cond-mat/0311104,"Quantum Description of Shuttle Instability in Nanoelectromechanical
+  Single Electron Transistor",5.415894909811318e-06,0.0,6.0,1.0
+cond-mat/0008423,"Dissipationless flow and superfluidity in gaseous Bose-Einstein
+  condensates",5.413789626022523e-06,0.0,5.0,3.0
+cond-mat/0208032,"Axisymmetric versus Non-axisymmetric Vortices in Spinor Bose-Einstein
+  Condensates",5.36647792243639e-06,0.0,3.0,0.0
+cond-mat/0209139,"Energy Barriers and Activated Dynamics in a Supercooled Lennard-Jones
+  Liquid",5.365343457603808e-06,5.615344139149475e-05,5.0,7.0
+cond-mat/0309396,"Fermi-Bose mapping and N-particle ground state of spin-polarized
+  fermions in tight atom waveguides",5.35692254496706e-06,9.436296181156538e-06,6.0,13.0
+cond-mat/0610476,Mean-field phase diagram of cold lattice bosons in disordered potentials,5.354183836962432e-06,3.9075093765e-06,6.0,2.0
+cond-mat/0308466,"On the universality of the fluctuation-dissipation ratio in
+  non-equilibrium critical dynamics",5.339718542293729e-06,0.0,7.0,5.0
+cond-mat/9705066,Self-Avoiding Walks with Writhe,5.321572587990101e-06,0.0,3.0,2.0
+cond-mat/9804180,"Flocks, herds, and schools: A quantitative theory of flocking",5.298230024357136e-06,0.0,1.0,0.0
+cond-mat/0703698,"Dynamics and rheology of a dilute suspension of vesicles: higher order
+  theory",5.2718832612647135e-06,0.0,2.0,0.0
+cond-mat/0203081,Coarsening of Sand Ripples in Mass Transfer Models with Extinction,5.262015729408545e-06,0.0,4.0,0.0
+cond-mat/0312072,"A spatio-temporal study of rheo-oscillations in a sheared lamellar phase
+  using ultrasound",5.2525878066807785e-06,0.0,4.0,0.0
+cond-mat/0112139,"Long-lived states in synchronized traffic flow. Empirical prompt and
+  dynamical trap model",5.250816679302589e-06,0.0,4.0,0.0
+cond-mat/0510082,"Nonequilibrium steady states in a vibrated-rod monolayer: tetratic,
+  nematic and smectic correlations",5.231946368485609e-06,0.0,5.0,0.0
+cond-mat/0308512,"Dynamic ordering and frustration of confined vortex rows studied by
+  mode-locking experiments",5.2312403617315554e-06,0.0,2.0,1.0
+cond-mat/0409113,"Linearly Coupled Bose-Einstein Condensates: From Rabi Oscillations and
+  Quasi-Periodic Solutions to Oscillating Domain Walls and Spiral Waves",5.2058367310706685e-06,0.0,2.0,0.0
+cond-mat/0101424,"Collective enhancement and suppression in dilute Bose-Einstein
+  condensates",5.194832435644317e-06,3.290280519402934e-06,5.0,6.0
+cond-mat/0511531,Unzipping DNA by force: thermodynamics and finite size behaviour,5.191743247626809e-06,0.0,2.0,0.0
+cond-mat/0306584,Normal-superfluid interaction dynamics in a spinor Bose gas,5.191230023312158e-06,0.0,2.0,3.0
+cond-mat/0406718,Unzipping of DNA with correlated base-sequence,5.178373091780056e-06,0.0,5.0,0.0
+cond-mat/0411732,"Zero-Temperature Limit of the SUSY-breaking Complexity in Diluted
+  Spin-Glass Models",5.176175969243466e-06,0.0,3.0,2.0
+cond-mat/0305290,Drag of superfluid current in bilayer Bose systems,5.156265050562998e-06,0.0,2.0,1.0
+cond-mat/0412238,Influence of supercoiling on the disruption of dsDNA,5.155788498468326e-06,0.0,2.0,0.0
+cond-mat/0310330,Using magnetic chip traps to study Tonks-Girardeau quantum gases,5.149576127490063e-06,2.7600171293575626e-07,6.0,9.0
+cond-mat/0501535,Numerical Tests of Constitutive Laws for Dense Granular Flows,5.146498929315665e-06,9.95091377580036e-06,5.0,3.0
+cond-mat/0508047,"Time Resolved Correlation measurements of temporally heterogeneous
+  dynamics",5.139846095851186e-06,0.0,4.0,0.0
+cond-mat/0406136,"Comparison of Dynamical Heterogeneity in Hard-Sphere and Attractive
+  Glass Formers",5.138939991195871e-06,7.935692380431124e-06,4.0,4.0
+cond-mat/0607528,Discontinuous Molecular Dynamics for Rigid Bodies: Applications,5.138128032233688e-06,0.0,1.0,2.0
+cond-mat/0306237,Shear viscosity for a moderately dense granular binary mixture,5.137899033351054e-06,0.0,1.0,0.0
+cond-mat/0302059,Microtraps and Atom Chips: Toolboxes for Cold Atom Physics,5.105026818398471e-06,3.980365510320144e-06,2.0,2.0
+cond-mat/0001042,Replica-exchange molecular dynamics simulation for supercooled liquids,5.10462067265377e-06,1.990182755160072e-06,2.0,1.0
+cond-mat/0505289,"Arrested phase separation in a short-ranged attractive colloidal system:
+  A numerical study",5.08814002214223e-06,0.0,3.0,0.0
+quant-ph/0107055,Quantum entanglement in spinor Bose-Einstein condensates,5.074440995468201e-06,1.336689910182138e-07,4.0,7.0
+cond-mat/0207202,Slow regions percolate near glass transition,5.060116606187397e-06,0.0,3.0,1.0
+cond-mat/0001001,"Statistical thermodynamics of membrane bending mediated protein-protein
+  attraction",5.057283591702909e-06,0.0,1.0,0.0
+cond-mat/0003508,Test of molecular mode coupling theory: A first resume,5.056768763379525e-06,0.0,3.0,1.0
+cond-mat/0408572,"Monte Carlo Protein Folding: Simulations of Met-Enkephalin with
+  Solvent-Accessible Area Parameterizations",5.056608616208322e-06,0.0,2.0,0.0
+quant-ph/0405113,Interference of an array of independent Bose-Einstein condensates,5.043273566950016e-06,1.764450471983011e-05,5.0,3.0
+physics/0501099,"Euler buckling in red blood cells: An optically driven biological
+  micromotor",5.014592991626998e-06,0.0,1.0,0.0
+cond-mat/0106312,"The structure of the perturbation series of the spin-1 Bose gas at low
+  temperatures",5.013130665714162e-06,0.0,6.0,0.0
+cond-mat/0307639,"Finite temperature effects on the collapse of trapped Bose-Fermi
+  mixtures",5.006299786966919e-06,0.0,1.0,0.0
+cond-mat/0110629,"Luttinger-liquid-like behavior in bulk crystals of the
+  quasi-one-dimensional conductor NbSe$_3$",4.9937208591032056e-06,0.0,5.0,2.0
+cond-mat/0511311,Fluctuation-dissipation theorem in an aging colloidal glass,4.991692430597127e-06,0.0,1.0,2.0
+cond-mat/0204098,"Low-temperature Metastability of Ising Models: Prefactors, Divergences,
+  and Discontinuities",4.969339203904409e-06,0.0,4.0,1.0
+cond-mat/0506484,Dynamic regimes of fluids simulated by multiparticle-collision dynamics,4.966907238954575e-06,0.0,1.0,0.0
+cond-mat/0209075,"Bragg spectroscopy of the multi-branch Bogoliubov spectrum of elongated
+  Bose-Einstein condensates",4.966907238954575e-06,0.0,1.0,1.0
+cond-mat/0608719,"Yield drag in a two-dimensional foam flow around a circular obstacle:
+  Effect of liquid fraction",4.966907238954575e-06,0.0,1.0,0.0
+cond-mat/0403150,"The two loop calculation of the disjoining pressure of a symmetric
+  electrolyte soap film",4.966907238954575e-06,0.0,1.0,2.0
+cond-mat/0111241,"Fluctuation-dissipation relations and effective temperatures in simple
+  non-mean field systems",4.94530985950559e-06,1.990182755160072e-06,4.0,7.0
+cond-mat/0603269,"Elementary excitations, Spectral weights and Experimental signatures in
+  a Supersolid and a Fulde - Ferrell-Larkin-Ovchinnikov state",4.944336449388415e-06,9.181996763325914e-06,4.0,6.0
+cond-mat/0102220,"Effective potentials for polymers and colloids: Beyond the van der Waals
+  picture of fluids?",4.942112167009047e-06,0.0,3.0,2.0
+cond-mat/0208573,"Active nematics on a substrate: giant number fluctuations and long-time
+  tails",4.940899464057504e-06,0.0,4.0,0.0
+hep-ph/0204079,The Crystallography of Color Superconductivity,4.924088164739211e-06,0.0001294024666993,32.0,63.0
+cond-mat/0405182,"Vortex lattice stability and phase coherence in three-dimensional
+  rapidly rotating Bose condensates",4.916388257517255e-06,1.8826243366507705e-06,3.0,3.0
+cond-mat/9905158,Protein Ground State Candidates in a Simple Model: An Exact Enumeration,4.896844895259359e-06,0.0,6.0,0.0
+cond-mat/0207276,Knots in Charged Polymers,4.895720401722993e-06,0.0,5.0,1.0
+hep-th/0506107,Yang-Mills theory in Landau gauge as a liquid crystal,4.893467286299943e-06,1.0838670091935546e-05,5.0,6.0
+cond-mat/0307205,"Adiabatic dynamics of periodic waves in Bose-Einstein condensate with
+  time dependent atomic scattering length",4.887839536551744e-06,0.0,3.0,0.0
+quant-ph/0007048,Squeezing and entanglement of atomic beams,4.87305070974429e-06,1.8036096131706826e-07,3.0,3.0
+cond-mat/0012188,"Universality of monopole mode and time evolution of a d-dimensional
+  trapped interacting Bose gas",4.872792096485796e-06,6.022530650876188e-06,4.0,2.0
+cond-mat/0408617,"Glassy dynamics: mean-field `landscape' pictures versus growing length
+  scale scenarii",4.8627157525752425e-06,2.3953153143572506e-06,3.0,3.0
+cond-mat/0605293,"Fluctuation-induced forces in periodic slabs: Breakdown of epsilon
+  expansion at the bulk critical point and revised field theory",4.861832769070081e-06,0.0,2.0,0.0
+cond-mat/0201313,Go with the Winners: a General Monte Carlo Strategy,4.855235465592269e-06,5.335820028930899e-06,6.0,5.0
+cond-mat/0310659,"Loss and revival of phase coherence in a Bose-Einstein condensate moving
+  through an optical lattice",4.847148571849179e-06,2.22781651697023e-08,3.0,1.0
+cond-mat/0106619,"Local vortex nucleation and the surface mode spectrum of large
+  condensates",4.845943968336643e-06,0.0,8.0,2.0
+cond-mat/0409740,"Mode Coupling and Dynamical Heterogeneity in Colloidal Gelation: A
+  Simulation Study",4.84164572484013e-06,1.2457913655745146e-06,5.0,3.0
+cond-mat/0106468,"Critical exponents of a three dimensional weakly diluted quenched Ising
+  model",4.831678646891534e-06,3.339842384089356e-05,4.0,31.0
+cond-mat/0005356,The Geometrical Structure of 2d Bond-Orientational Order,4.830248254255136e-06,0.0,3.0,4.0
+cond-mat/0102253,"Nucleation of the crystalline phase of proteins in the presence of
+  semidilute non-adsorbing polymer",4.829522331710565e-06,0.0,3.0,0.0
+cond-mat/0611757,"Effects of Disorder on Synchronization of Discrete Phase-Coupled
+  Oscillators",4.828761120436691e-06,0.0,1.0,0.0
+cond-mat/0701561,"Lamellar order, microphase structures and glassy phase in a field
+  theoretic model for charged colloids",4.8259407675181e-06,0.0,1.0,0.0
+cond-mat/0305215,Ab initio calculation of the KRb dipole moments,4.82536347345466e-06,0.0,2.0,0.0
+cond-mat/0512448,Bump formation in a binary attractor neural network,4.820310432891641e-06,0.0,2.0,0.0
+cond-mat/0609096,Liquid-vapor transition of systems with mean field universality class,4.818514412304463e-06,0.0,2.0,0.0
+cond-mat/0005001,Spinor condensates and light scattering from Bose-Einstein condensates,4.805212927756002e-06,5.408229792850141e-06,5.0,28.0
+cond-mat/0302006,Fluctuating Nematic Elastomer Membranes: a New Universality Class,4.802656731191005e-06,0.0,4.0,1.0
+cond-mat/0202369,"Dynamics of a Bose-Einstein condensate at finite temperature in an
+  atomoptical coherence filter",4.802241900819858e-06,1.4852110113134864e-08,3.0,1.0
+cond-mat/0407388,"Axial collective excitations of a degenerate Fermi gas in the BEC to
+  unitarity crossover",4.790844328730362e-06,2.221903689029109e-07,8.0,3.0
+cond-mat/9904101,Statistics of Shear-induced Rearrangements in a Model Foam,4.775563454392716e-06,0.0,3.0,0.0
+cond-mat/0401118,Diffuse-Charge Dynamics in Electrochemical Systems,4.775563454392716e-06,0.0,3.0,0.0
+cond-mat/0001097,Electron Transfer in Porphyrin Complexes in Different Solvents,4.775563454392716e-06,0.0,3.0,0.0
+cond-mat/9709024,A fluid particle model,4.775563454392716e-06,0.0,3.0,0.0
+cond-mat/0105372,An inventory of Lattice Boltzmann models of multiphase flows,4.775563454392716e-06,0.0,3.0,0.0
+cond-mat/0001335,The Physics of the Glass Transition,4.771281890113351e-06,0.0,9.0,0.0
+cond-mat/0204591,"Phase diagram of dilute polyelectrolytes: Collapse and redissolution by
+  association of counterions and coions",4.770738752383972e-06,0.0,3.0,0.0
+cond-mat/0310534,Scaling of Star Polymers with one to 80 Arms,4.770179772600757e-06,1.4852110113134864e-08,2.0,2.0
+cond-mat/0601165,Dynamical contribution into enzyme catalytic efficiency,4.761121651128886e-06,0.0,1.0,1.0
+cond-mat/0002062,Many-body solitons in a one-dimensional condensate of hard core bosons,4.75473572313917e-06,5.13635474745914e-07,3.0,2.0
+cond-mat/0610367,"The depletion in Bose Einstein condensates using Quantum Field Theory in
+  curved space",4.747519817341847e-06,9.579241148974313e-08,1.0,2.0
+cond-mat/0101407,Sedimentation profiles of systems with reentrant melting behavior,4.7444378258181484e-06,0.0,1.0,0.0
+cond-mat/0412373,"Single chain structure in thin polymer films: Corrections to Flory's and
+  Silberberg's hypotheses",4.734717713361799e-06,0.0,1.0,0.0
+cond-mat/0502504,Free volume distributions inside a bidimensional granular medium,4.733582092291933e-06,0.0,3.0,0.0
+cond-mat/0306411,"Superfluidity of Bose-Einstein Condensate in An Optical Lattice:
+  Landau-Zener Tunneling and Dynamical Instability",4.731471381507586e-06,3.7130275282837166e-08,3.0,3.0
+cond-mat/0411557,"Solvent mediated interactions close to fluid-fluid phase separation:
+  microscopic treatment of bridging in a soft core fluid",4.730551950880508e-06,0.0,1.0,1.0
+cond-mat/0211218,"Confined granular packings: structure, stress, and forces",4.72440570262778e-06,0.0,5.0,0.0
+cond-mat/0306608,"Alternation of different fluctuation regimes in the stock market
+  dynamics",4.71915184761749e-06,0.0,4.0,1.0
+cond-mat/0502247,Laser cooling all the way down to molecular condensate,4.705432065472846e-06,0.0,6.0,0.0
+cond-mat/0205283,"Hopping in a Supercooled Lennard-Jones Liquid: Metabasins, Waiting Time
+  Distribution, and Diffusion",4.702827385980154e-06,1.1941096530960432e-05,5.0,8.0
+cond-mat/9911159,"Random solids and random solidification: What can be learned by
+  exploring systems obeying permanent random constraints?",4.700911818086915e-06,0.0,3.0,0.0
+cond-mat/0212087,"Phase diffusion of Bose-Einstein condensates in a one-dimensional
+  optical lattice",4.700527567741513e-06,0.0,3.0,0.0
+cond-mat/0601555,Bubble Statistics and Dynamics in Double-Stranded DNA,4.6927479098504025e-06,0.0,4.0,1.0
+cond-mat/0509736,"The totally asymmetric exclusion process on a ring: Exact relaxation
+  dynamics and associated model of clustering transition",4.689877571295611e-06,0.0,2.0,0.0
+cond-mat/0007409,Actively Contracting Bundles of Polar Filaments,4.667140897136778e-06,0.0,2.0,0.0
+cond-mat/0607751,"Determinant solution for the TASEP with particle-dependent hopping
+  probabilities on a ring",4.660232168053558e-06,0.0,5.0,0.0
+cond-mat/9910364,Ion-ion correlations: an improved one-component plasma correction,4.658642177273059e-06,0.0,4.0,1.0
+cond-mat/0311617,Observation of Bose-Einstein Condensation of Molecules,4.652087125105502e-06,3.995217620433279e-06,9.0,11.0
+cond-mat/0607508,"Phase transition of triangulated spherical surfaces supported by elastic
+  chains with rigid junctions",4.651340137579245e-06,0.0,3.0,0.0
+cond-mat/0103224,"A square-well model for the structural and thermodynamic properties of
+  simple colloidal systems",4.651340137579245e-06,0.0,3.0,0.0
+cond-mat/0207284,"Equation of state of additive hard-disk fluid mixtures: A critical
+  analysis of two recent proposals",4.651340137579245e-06,0.0,3.0,0.0
+cond-mat/0609465,Stokes experiment in a liquid foam,4.637742773604415e-06,0.0,1.0,0.0
+cond-mat/0510305,"Time dynamic of Fourier modes in turbulence: Sweeping effect, long-time
+  correlations and time intermittency",4.6332031192499365e-06,0.0,1.0,0.0
+cond-mat/0509471,"Trapping and transmission of matter-wave solitons in a collisionally
+  inhomogeneous environment",4.6332031192499365e-06,9.95091377580036e-06,1.0,4.0
+cond-mat/0404102,"Dynamics of shallow dark solitons in a trapped gas of impenetrable
+  bosons",4.624654166306837e-06,0.0,4.0,0.0
+cond-mat/9804287,"Force Free Configurations of Vortices in High Temperature
+  Superconductors near H_{c2}",4.617434282560124e-06,0.0,5.0,1.0
+cond-mat/0511747,Dynamics of a Tonks-Girardeau gas released from a hard-wall trap,4.611234706682333e-06,1.372106844312276e-05,2.0,5.0
+cond-mat/0404313,The Four-Boson System with Short-Range Interactions,4.609497607947982e-06,1.2680010674627027e-05,20.0,15.0
+cond-mat/0105308,Theory of Microemulsion Glasses,4.604910211530504e-06,5.0435761718569e-06,1.0,2.0
+cond-mat/0309679,Gaussian approximation to the condensation of the interacting Bose gas,4.594026126639718e-06,0.0,1.0,0.0
+cond-mat/0110117,Eigenstates of a Small Josephson Junction Coupled to a Resonant Cavity,4.591839485953587e-06,0.0,2.0,0.0
+cond-mat/0601298,Columnar and lamellar phases in attractive colloidal systems,4.5785536408618815e-06,0.0,3.0,0.0
+cond-mat/0607367,"A mesoscopic field theory of ionic systems versus a collective variable
+  approach",4.567128678671176e-06,0.0,2.0,0.0
+cond-mat/0207412,"Growing smooth interfaces with inhomogeneous, moving external fields:
+  dynamical transitions, devil's staircases and self-assembled ripples",4.566292152074612e-06,0.0,3.0,0.0
+cond-mat/0104494,Yield conditions for deformation of amorphous polymer glasses,4.536962515478198e-06,0.0,4.0,0.0
+cond-mat/0002460,"The excess wing in the dielectric loss of glass-forming ethanol: A
+  relaxation process",4.534059758234596e-06,0.0,3.0,3.0
+astro-ph/0005059,"Prospects for SIMPLE 2000: A large-mass, low-background Superheated
+  Droplet Detector for WIMP searches",4.53163292826119e-06,0.0,5.0,2.0
+cond-mat/0611620,"Bond algebraic liquid phase in strongly correlated multiflavor cold atom
+  systems",4.528145254926924e-06,0.0,2.0,1.0
+cond-mat/0610083,Refraction of shear zones in granular materials,4.527116820765776e-06,0.0,2.0,1.0
+cond-mat/0512215,"Absence of zero-temperature transmission rate of a double-chain
+  tight-binding model for DNA with random sequence of nucleotides in
+  thermodynamic limit",4.520115041460564e-06,0.0,2.0,0.0
+cond-mat/0605026,Defect Fluctuations and Lifetimes in Disordered Yukawa Systems,4.515025475212902e-06,0.0,1.0,0.0
+cond-mat/0305578,"Instability of vortex array and transitions to turbulent states in
+  rotating helium II",4.515025475212901e-06,0.0,1.0,0.0
+cond-mat/0407617,"Bogoliubov speed of sound for a dilute Bose-Einstein condensate in a 3d
+  optical lattice",4.512112965453338e-06,0.0,1.0,1.0
+cond-mat/0505453,"One-dimensional cluster growth and branching gels in colloidal systems
+  with short-range depletion attraction and screened electrostatic repulsion",4.507433505410053e-06,3.038124847328491e-05,3.0,5.0
+cond-mat/0309591,Heat capacity of a two-component superfluid Fermi gas,4.497443634735386e-06,0.0,5.0,0.0
+q-bio/0412035,Counting attractors in synchronously updated random Boolean networks,4.492463227838026e-06,0.0,3.0,0.0
+cond-mat/0412504,Inequivalence of Statistical Ensembles in Single Molecule Measurements,4.489180517229029e-06,0.0,3.0,0.0
+cond-mat/0312084,"Interconversion of dark soliton and Josephson vortex in a quasi-1D long
+  Bose Josephson junction",4.461143856296001e-06,0.0,2.0,0.0
+cond-mat/9807258,Quantum spins mixing in spinor Bose-Einstein condensates,4.456985220233973e-06,0.0,3.0,3.0
+cond-mat/0312440,Transition from a strongly interacting 1D superfluid to a Mott insulator,4.449853134664602e-06,2.7967790031721587e-05,3.0,7.0
+cond-mat/0406146,Ageing in the critical contact process: a Monte Carlo study,4.446286806093222e-06,0.0,4.0,3.0
+cond-mat/9802084,The Viscous Nonlinear Dynamics of Twist and Writhe,4.443183316657033e-06,0.0,1.0,0.0
+cond-mat/0005205,"Modelling structural relaxation in polymeric glasses using the
+  aggregation-fragmentation concept",4.442559954990924e-06,0.0,6.0,0.0
+cond-mat/0309709,Curvature-Induced Defect Unbinding in Toroidal Geometries,4.435879494366682e-06,0.0,4.0,2.0
+cond-mat/0211016,"Towards local rheology of emulsions under Couette flow using Dynamic
+  Light Scattering",4.432662214525515e-06,0.0,6.0,0.0
+cond-mat/0307443,"Anisotropy and universality: the Oslo model, the rice pile experiment
+  and the quenched Edwards-Wilkinson equation",4.429648418783423e-06,9.338957696508356e-06,3.0,4.0
+cond-mat/0205619,Driven low density granular mixtures,4.428639684128143e-06,0.0,4.0,2.0
+cond-mat/0204638,"Dynamics of collapsing and exploding Bose-Einstein condensed vortex
+  state",4.425058214576842e-06,0.0,2.0,0.0
+cond-mat/0105140,"Low temperature physics at room temperature in water: Charge inversion
+  in chemical and biological systems",4.415323134414348e-06,0.0,4.0,2.0
+cond-mat/0510742,"Two Distinct Time-Scale Regimes of the Effective Temperature for an
+  Aging Colloidal Glass",4.405746785565075e-06,0.0,1.0,1.0
+cond-mat/0403561,Probing an nonequilibrium Einstein relation in an aging colloidal glass,4.405746785565075e-06,3.980365510320144e-06,1.0,6.0
+cond-mat/0412763,Competition and cooperation:aspects of dynamics in sandpiles,4.401591284679813e-06,0.0,2.0,0.0
+cond-mat/0602154,Conductivity of a suspension of nanowires in a weakly conducting medium,4.401013593657161e-06,0.0,1.0,0.0
+cond-mat/0612521,"Static and dynamic heterogeneities in irreversible gels and colloidal
+  gelation",4.39651683568363e-06,0.0,2.0,0.0
+cond-mat/9804054,"Variational approach to protein design and extraction of interaction
+  potentials",4.391493400689288e-06,0.0,4.0,0.0
+physics/0412051,"Complex light: Dynamic phase transitions of a light beam in a nonlinear
+  non-local disordered medium",4.3880234576833904e-06,0.0,3.0,0.0
+cond-mat/0106454,Momentum state engineering and control in Bose-Einstein condensates,4.387440750614811e-06,0.0,2.0,0.0
+cond-mat/0606167,Computer Simulation of Particle Suspensions,4.383645862292325e-06,0.0,2.0,0.0
+cond-mat/0406263,"Ground state clusters for short-range attractive and long-range
+  repulsive potentials",4.382930095680508e-06,0.0,4.0,0.0
+cond-mat/0306549,"Excitation spectrum of vortex lattices in rotating Bose-Einstein
+  condensates",4.38263343866182e-06,3.568729463951041e-05,5.0,4.0
+cond-mat/0010238,The Kohn mode for trapped Bose gases within the dielectric formalism,4.379080367433936e-06,1.4852110113134864e-08,2.0,1.0
+cond-mat/0309489,Spectroscopic Temperature Determination of Degenerate Fermi Gases,4.376726471794194e-06,0.0,3.0,0.0
+cond-mat/0003511,"Elastic property of single double-stranded DNA molecules: Theoretical
+  study and comparison with experiments",4.376489566185219e-06,0.0,2.0,0.0
+nlin/0408048,Energy spectra of developed superfluid turbulence,4.3763719137249884e-06,0.0,2.0,0.0
+cond-mat/0308135,"Second Order Correlation Function of a Phase Fluctuating Bose-Einstein
+  Condensate",4.374246357635431e-06,0.0,1.0,1.0
+cond-mat/0202068,Dynamical Correlations among Vicious Random Walkers,4.367374553566274e-06,3.980365510320144e-06,4.0,3.0
+cond-mat/9809376,"Fundamental measure theory for mixtures of parallel hard cubes. II.
+  Phase behavior of the one-component fluid and of the binary mixture",4.348070404159319e-06,0.0,3.0,0.0
+cond-mat/0102258,"Splitting between quadrupole modes of dilute quantum gas in a two
+  dimensional anisotropic trap",4.340382103167763e-06,1.00103222162529e-05,3.0,2.0
+cond-mat/0411759,"Microscopic theory of glassy dynamics and glass transition for molecular
+  crystals",4.335762659327796e-06,0.0,4.0,0.0
+cond-mat/0401311,"Work fluctuations, transient violations of the second law and
+  free-energy recovery methods: Perspectives in Theory and Experiments",4.322397858180013e-06,3.70574129548537e-05,6.0,10.0
+cond-mat/0502602,Brownian motion: a paradigm of soft matter and biological physics,4.321409244717159e-06,1.990182755160072e-06,5.0,1.0
+cond-mat/0603804,Surface Tension and the Cosmological Constant,4.31610789966899e-06,9.028260792682794e-07,4.0,1.0
+cond-mat/9905073,Directed rigidity and bootstrap percolation in (1+1) dimensions,4.314708903270722e-06,0.0,2.0,0.0
+cond-mat/0701531,"Self-Assembly of Patchy Particles into Polymer Chains: A Parameter-Free
+  Comparison between Wertheim Theory and Monte Carlo Simulation",4.30464740762935e-06,0.0,2.0,0.0
+cond-mat/0002354,Demixing in binary mixtures of hard hyperspheres,4.301837929879417e-06,0.0,1.0,0.0
+cond-mat/0309253,Decoherence-driven Cooling of a Degenerate Spinor Bose Gas,4.28893750476861e-06,0.0,3.0,0.0
+cond-mat/0111158,"Weak quenched disorder and criticality: resummation of asymptotic(?)
+  series",4.2832102639956605e-06,2.675630952606234e-06,3.0,4.0
+cond-mat/0502507,Two Transitions in the Damping of a Unitary Fermi Gas,4.2706072514184965e-06,3.9047371418443406e-05,11.0,9.0
+cond-mat/0101158,Heated granular fluids: the random restitution coefficient approach,4.270359475405727e-06,0.0,3.0,0.0
+cond-mat/0308305,"Nonequilibrium Dynamics of Optical Lattice-Loaded BEC Atoms: Beyond HFB
+  Approximation",4.260197633217921e-06,0.0009071916105971,9.0,3.0
+cond-mat/0209394,"Yield stress, heterogeneities and activated processes in soft glassy
+  materials",4.253297890566834e-06,1.990182755160072e-06,9.0,5.0
+cond-mat/0511254,"Effective temperature and jamming transition in dense, gently sheared
+  granular assemblies",4.249060242629218e-06,0.0,2.0,0.0
+quant-ph/0312143,Quantum signatures of breather-breather interactions,4.245873398049564e-06,0.0,1.0,0.0
+cond-mat/0406190,Exactly-solvable models for atom-molecule hamiltonians,4.242508862479116e-06,9.571359850686912e-08,4.0,2.0
+cond-mat/0402249,Spatio-temporal dynamics of wormlike micelles under shear,4.237354298921315e-06,0.0,3.0,1.0
+cond-mat/0511072,"Delocalization transition of the selective interface model: distribution
+  of pseudo-critical temperatures",4.235872465866094e-06,0.0,4.0,0.0
+cond-mat/0606207,"Liquid-liquid phase transition of water in hydrophobic and hydrophilic
+  pores",4.225862311604661e-06,0.0,2.0,0.0
+cond-mat/0606687,Gas-liquid critical point in ionic fluids,4.224200152325492e-06,0.0,3.0,2.0
+cond-mat/0005026,"A Rigorous Derivation of the Gross-Pitaevskii Energy Functional for a
+  Two-Dimensional Bose Gas",4.20724688490501e-06,1.2252990843336266e-07,7.0,5.0
+cond-mat/0401175,"On the fluid-fluid phase separation in charged-stabilized colloidal
+  suspensions",4.206828028582966e-06,0.0,1.0,0.0
+cond-mat/9807004,Granular matter instability: A structural rigidity point of view,4.203760991617322e-06,0.0,4.0,4.0
+cond-mat/0510524,Continuum approach to wide shear zones in quasi-static granular matter,4.199458373837573e-06,0.0,3.0,0.0
+cond-mat/9708169,Propagation of a Topological Transition: the Rayleigh Instability,4.199458373837573e-06,0.0,3.0,0.0
+cond-mat/0410185,"Integral equations for simple fluids in a general reference functional
+  approach",4.199458373837573e-06,0.0,3.0,1.0
+cond-mat/0209135,"Exact reformulation of the bosonic many-body problem in terms of
+  stochastic wave functions: convergence issues",4.199458373837573e-06,0.0,3.0,1.0
+cond-mat/0409264,"A General Theory of Non-equilibrium Dynamics of Lipid-protein Fluid
+  Membranes",4.199458373837573e-06,0.0,3.0,0.0
+cond-mat/0203483,Elasticity of semi-flexible polymers,4.19654001589777e-06,0.0,3.0,3.0
+cond-mat/0110274,"Scaling Limit of Vicious Walkers, Schur Function, and Gaussian Random
+  Matrix Ensemble",4.196298613282755e-06,2.718848716407371e-06,1.0,3.0
+cond-mat/0109537,A new one parameter deformation of the exponential function,4.191538963931631e-06,8.666975425520086e-06,3.0,3.0
+cond-mat/0011492,"Edwards' measures: a thermodynamic construction for dense granular media
+  and glasses",4.189379784857177e-06,3.274103466528573e-05,4.0,6.0
+cond-mat/0107237,Self-organized branching process for a one-dimensional ricepile model,4.184187213649583e-06,0.0,3.0,0.0
+cond-mat/0504318,Adsorption transition of a self-avoiding polymer chain onto a rigid rod,4.182659978736184e-06,0.0,2.0,0.0
+cond-mat/0307554,"Intermittency of glassy relaxation and the emergence of a
+  non-equilibrium spontaneous measure in the aging regime",4.18238281024716e-06,1.990182755160072e-06,6.0,7.0
+cond-mat/0212382,Towards the fundamentals of car following theory,4.181246675714958e-06,0.0,4.0,0.0
+cond-mat/0303533,A nonequilibrium lattice gas of two species: Monte Carlo investigations,4.159302267450685e-06,0.0,2.0,0.0
+gr-qc/0505104,Vacuum energy: quantum hydrodynamics vs quantum gravity,4.155773609741524e-06,0.0009627440598462,3.0,3.0
+cond-mat/0403085,Dynamics of Strongly Interacting Fermi Gases of Atoms in a Harmonic Trap,4.146488583662808e-06,2.540993315441196e-05,4.0,1.0
+cond-mat/0204182,Spatial resolution of spin waves in an ultra-cold gas,4.144253219586365e-06,0.0,3.0,1.0
+cond-mat/0605084,"Lengthscale dependence of dynamic four-point susceptibilities in glass
+  formers",4.141514003640643e-06,7.960731020640288e-06,2.0,4.0
+cond-mat/9910188,A Simple Model for the DNA Denaturation Transition,4.137483383146077e-06,7.249638054219448e-05,4.0,2.0
+cond-mat/0305058,Phase-field models in interfacial pattern formation out of equilibrium,4.137346715430839e-06,0.0,3.0,5.0
+cond-mat/0203286,"Generation of macroscopic pair-correlated atomic beams by four-wave
+  mixing in Bose-Einstein condensates",4.1349858700270974e-06,0.0,1.0,1.0
+cond-mat/0703815,Effective forces induced by fluctuating interface: exact results,4.130209524151077e-06,0.0,1.0,0.0
+quant-ph/0404048,Effective three-body interactions in triangular optical lattices,4.121142639711905e-06,3.29814184792706e-05,5.0,8.0
+cond-mat/0305267,NMR Experiments on a Three-Dimensional Vibrofluidized Granular Medium,4.11393309332835e-06,0.0,5.0,1.0
+cond-mat/0311105,"Quantum Shuttle Phenomena in a Nanoelectromechanical Single-Electron
+  Transistor",4.099877083397184e-06,1.4852110113134864e-08,4.0,5.0
+cond-mat/0010265,"""Go with the winners""-Simulations",4.096860440199959e-06,5.725420306780258e-05,4.0,17.0
+cond-mat/9904426,Phase behaviour of a simple model of globular proteins,4.095593322014754e-06,0.0,1.0,0.0
+cond-mat/0611397,"Velocity correlations in the dense granular shear flows: Effects on
+  energy dissipation and normal stress",4.075235057024103e-06,0.0,2.0,0.0
+cond-mat/0002186,"Phase Diagram Of A Hard-sphere System In A Quenched Random Potential: A
+  Numerical Study",4.075235057024103e-06,0.0,2.0,0.0
+cond-mat/0302595,Depletion forces near a soft surface,4.075235057024103e-06,0.0,2.0,0.0
+cond-mat/0612671,On the possible existence of crystallites in glass-forming liquids,4.069189384247665e-06,0.0,2.0,0.0
+cond-mat/0309371,"Bethe Ansatz solution of the stochastic process with nonuniform
+  stationary state",4.067954480321189e-06,0.0,2.0,0.0
+cond-mat/0510787,Dynamics in the presence of attractive patchy interactions,4.065132476986202e-06,5.970548265480216e-06,1.0,3.0
+cond-mat/9806321,PERM: A Monte Carlo Strategy for Simulating Polymers and Other Things,4.063982181146051e-06,0.0009705631177281,2.0,6.0
+cond-mat/0504407,Error-proof programmable self-assembly of DNA-nanoparticle clusters,4.063143711471229e-06,0.0,1.0,2.0
+cond-mat/0505734,"Theorem on the Distribution of Short-Time Particle Displacements with
+  Physical Applications",4.063143711471229e-06,0.0,1.0,2.0
+cond-mat/0611514,"Feasibility of single-order parameter description of equilibrium viscous
+  liquid dynamics",4.063143711471229e-06,0.0,1.0,2.0
+cond-mat/9908288,"Phase diagram for morphological transitions of wetting films on
+  chemically structured substrates",4.062158168829227e-06,0.0,3.0,0.0
+cond-mat/0206061,"Influence of polymer excluded volume on the phase behavior of
+  colloid-polymer mixtures",4.060231222520034e-06,0.0,2.0,0.0
+quant-ph/0601011,Opposites Attract - A Theorem About The Casimir Force,4.05230121055127e-06,2.878834010262641e-08,2.0,4.0
+cond-mat/0307479,"Fibrillar templates and soft phases in systems with short-range dipolar
+  and long-range interactions",4.051430276087184e-06,0.0,2.0,0.0
+cond-mat/0506554,"Thermally Increasing Correlation/Modulation Lengths and Other Selection
+  Rules in Systems with Long Range Interactions",4.049027943979803e-06,1.990182755160072e-06,6.0,1.0
+cond-mat/0308194,"Bogoliubov sound speed in periodically modulated Bose-Einstein
+  condensates",4.048125445811418e-06,0.0,3.0,0.0
+cond-mat/9901337,"Attractive Interactions Between Rod-like Polyelectrolytes: Polarization,
+  Crystallization, and Packing",4.0446465441212295e-06,0.0,4.0,0.0
+cond-mat/0301531,"Displacement Field and Elastic Energy of a Circular Twist Disclination
+  for Large Deformations - an Example how to Treat Nonlinear Boundary Value
+  Problems with Computer Algebra Systems",4.043838808716687e-06,0.0,4.0,0.0
+cond-mat/0501218,Percolation with Multiple Giant Clusters,4.038612453995453e-06,0.0,1.0,0.0
+cond-mat/9706050,Elasticity model of a supercoiled DNA molecule,4.033797897757315e-06,0.0,2.0,3.0
+cond-mat/0106313,Dynamical pattern formation upon dewetting,4.029796836235322e-06,0.0,2.0,0.0
+cond-mat/0205605,Interference of a thermal Tonks gas on a ring,4.029796836235322e-06,0.0,2.0,1.0
+cond-mat/0309329,"The Nature of Superfluidity in Ultracold Fermi Gases Near Feshbach
+  Resonances",4.0260166336228925e-06,0.0,1.0,14.0
+cond-mat/0702493,Kohn anomalies and non-adiabaticity in doped carbon nanotubes,4.015872653856415e-06,0.0,1.0,0.0
+cond-mat/0407027,Ensemble Theory for Force Networks in Hyperstatic Granular Matter,4.013779818224894e-06,0.0,4.0,1.0
+cond-mat/0405580,Dynamics of the superfluid to Mott insulator transition in one dimension,4.013414934395974e-06,1.26089665851025e-05,6.0,5.0
+cond-mat/0108212,"Josephson effect and tunneling spectroscopy in Nb/Al2O3/Al/MgB2 thin
+  films junctions",4.009573900037314e-06,3.500191062076324e-07,9.0,1.0
+cond-mat/0101425,"Enhancement of mobility by periodically modulating the slanting slope of
+  a washboard potential",4.007423346985859e-06,0.0,3.0,0.0
+cond-mat/0408010,The Behavior of Granular Materials under Cyclic Shear,4.007423346985859e-06,0.0,4.0,0.0
+cond-mat/0307089,"Barrier Softening near the onset of Non-Activated Transport in
+  Supercooled Liquids: Implications for Establishing Detailed Connection
+  between Thermodynamic and Kinetic Anomalies in Supercooled Liquids",4.002949545304097e-06,0.0,4.0,0.0
+cond-mat/0612325,"On statistics and 1/f noise of Brownian motion in Boltzmann-Grad gas and
+  finite gas on torus. II. Finite gas",3.994365419613841e-06,0.0,2.0,0.0
+cond-mat/0208165,Bose-Fermi Mixtures in One Dimension,3.986246242218014e-06,0.0,3.0,2.0
+cond-mat/0103312,Fractal to Nonfractal Phase Transition in the Dielectric Breakdown Model,3.985513351632594e-06,0.0,3.0,8.0
+cond-mat/0206296,"Conformational Instability of Rodlike Polyelectrolytes due to Counterion
+  Fluctuations",3.978754876664977e-06,0.0,2.0,0.0
+cond-mat/0404662,"On the modulational stability of Gross-Pitaevskii type equations in 1+1
+  dimensions",3.972801192136014e-06,0.0,2.0,0.0
+cond-mat/0306050,"Fifty-fold improvement in the number of quantum degenerate fermionic
+  atoms",3.972531929971196e-06,0.0001936567593449,4.0,10.0
+cond-mat/0111044,Nontrivial Velocity Distributions in Inelastic Gases,3.967469231223569e-06,0.0,4.0,7.0
+cond-mat/0310394,"Controlling ultracold atoms in multi-band optical lattices for
+  simulation of Kondo physics",3.96736491831464e-06,0.0,6.0,0.0
+cond-mat/0208532,"On the amplification of diffusion on piecewise linear potentails by
+  direct current",3.966834425241968e-06,0.0,2.0,0.0
+cond-mat/0011440,The Quantum Josephson Hamiltonian In The Phase Representation,3.957251617904724e-06,0.0,1.0,3.0
+cond-mat/0408500,"Tunneling in a uniform one-dimensional superfluid: emergence of a
+  complex instanton",3.9523333819110535e-06,7.02211520197931e-05,5.0,2.0
+cond-mat/0202160,Dewetting of Glassy Polymer Films,3.951011740210633e-06,0.0,2.0,0.0
+cond-mat/0603051,Active nematics are intrinsically phase-separated,3.951011740210633e-06,0.0,2.0,0.0
+cond-mat/0304676,"Dark-in-Bright Solitons in Bose-Einstein Condensates with Attractive
+  Interactions",3.951011740210633e-06,0.0,2.0,0.0
+cond-mat/0409055,Apex Exponents for Polymer--Probe Interactions,3.951011740210633e-06,0.0,2.0,0.0
+cond-mat/9806349,Hamiltonian cycles on random lattices of arbitrary genus,3.9483756543092815e-06,6.079862337031393e-05,5.0,4.0
+cond-mat/0701261,"Intramolecular Form Factor in Dense Polymer Systems: Systematic
+  Deviations from the Debye formula",3.944966067434195e-06,0.0,1.0,0.0
+quant-ph/0304038,"Creation of effective magnetic fields in optical lattices: The
+  Hofstadter butterfly for cold neutral atoms",3.942701853007837e-06,0.0,5.0,0.0
+cond-mat/9701139,"Diffusive Evolution of Stable and Metastable Phases II: Theory of
+  Non-Equilibrium Behaviour in Colloid-Polymer Mixtures",3.938920394657759e-06,0.0,1.0,1.0
+cond-mat/9701138,"Diffusive Evolution of Stable and Metastable Phases I: Local Dynamics of
+  Interfaces",3.938920394657759e-06,0.0,1.0,1.0
+cond-mat/0307638,Finite temperature excitations of a trapped Bose-Fermi mixture,3.924607802443545e-06,0.0,2.0,0.0
+cond-mat/0611391,The stochastic flow rule: A multi-scale model for granular plasticity,3.924607802443545e-06,0.0,2.0,0.0
+cond-mat/0203183,"Nonadiabatic effects in a generalized Jahn-Teller lattice model: heavy
+  and light polarons, pairing and metal-insulator transition",3.911405833560001e-06,0.0,3.0,0.0
+cond-mat/0402104,"Local Equation of State and Velocity Distributions of a Driven Granular
+  Gas",3.907666460095648e-06,0.0,4.0,1.0
+cond-mat/0508033,"Morphologies and flow patterns in quenching of lamellar systems with
+  shear",3.9011017435812415e-06,0.0,2.0,0.0
+cond-mat/9906280,"The potential energy landscape of a model glass former: thermodynamics,
+  anharmonicities, and finite size effects",3.898530233856434e-06,1.990182755160072e-06,5.0,10.0
+cond-mat/0402035,On developed superfluid turbulence,3.898007787646928e-06,3.980365510320144e-06,3.0,2.0
+cond-mat/0404513,"Time-Dependent Density-Functional Theory for Trapped
+  Strongly-Interacting Fermionic Atoms",3.896323926873562e-06,2.0977145586714696e-06,5.0,4.0
+cond-mat/0009093,Accurate effective pair potentials for polymer solutions,3.894809654342996e-06,0.0,3.0,3.0
+cond-mat/0502267,Quantitative phase-field modeling of two-phase solidification,3.888900081803898e-06,0.0,2.0,0.0
+cond-mat/0307612,Temperature Width and Spin Structure of Superfluid 3He-A1 in Aerogel,3.885877245415679e-06,0.0,1.0,0.0
+cond-mat/0405240,"Experimental studies of equilibrium vortex properties in a
+  Bose-condensed gas",3.884580987326157e-06,9.737760220142327e-06,6.0,11.0
+cond-mat/0609552,Heterogeneities in Aging Models of Granular Compaction,3.881156352304586e-06,0.0,3.0,0.0
+cond-mat/0107387,Quantum fluctuations in one-dimensional arrays of condensates,3.874906733470305e-06,0.0,3.0,2.0
+cond-mat/0108444,Kinetic Theory and Hydrodynamics for Rapid Granular Flow - A Perspective,3.869998061288845e-06,0.0,4.0,14.0
+cond-mat/0210245,"Where the linearized Poisson-Boltzmann cell model fails: (I) spurious
+  phase separation in charged colloidal suspensions",3.868053956576128e-06,0.0,3.0,1.0
+cond-mat/0105497,Quantum Step Heights in Hysteresis Loops of Molecular Magnets,3.863943383905447e-06,0.0,2.0,3.0
+cond-mat/0310053,Detecting Super-Counter-Fluidity by Ramsey Spectroscopy,3.861989152808671e-06,0.0,4.0,0.0
+cond-mat/0509493,"Dynamics of a tracer granular particle as a non-equilibrium Markov
+  process",3.861361231045345e-06,0.0,2.0,0.0
+cond-mat/0310772,Logarithmic decay in a two-component model,3.856707917400873e-06,0.0,2.0,0.0
+cond-mat/0011411,"The direct link model for polymer rings as a topological field theory
+  and the second topological moment in dense systems",3.849294175153266e-06,0.0,3.0,0.0
+cond-mat/9710349,"Chirality in Liquid Crystals: from Microscopic Origins to Macroscopic
+  Structure",3.849294175153266e-06,0.0,4.0,2.0
+astro-ph/0211151,The superfluid two-stream instability and pulsar glitches,3.839778285799245e-06,1.990182755160072e-06,4.0,3.0
+hep-ph/9903534,"Non-equilibrium phase transitions in condensed matter and cosmology:
+  spinodal decomposition, condensates and defects",3.839776622792079e-06,1.3077991678320096e-05,6.0,22.0
+cond-mat/0307614,Tight and loose shapes in flat entangled dense polymers,3.838041299275215e-06,0.0,2.0,0.0
+cond-mat/0604154,"Hanbury Brown-Twiss Interferometry for Fractional and Integer Mott
+  Phases",3.837761809383608e-06,0.0,2.0,2.0
+cond-mat/0106642,Growth of Bose-Einstein Condensates from Thermal Vapor,3.833731360865983e-06,0.0,1.0,3.0
+cond-mat/9904102,"Statistical Mechanics of Vacancy and Interstitial Strings in Hexagonal
+  Columnar Crystals",3.830954185878455e-06,0.0,1.0,3.0
+physics/0209083,Role of Molecular Dissociation in Feshbach-Interacting 85Rb Condensates,3.830525384202377e-06,0.0,6.0,0.0
+q-bio/0703029,Hydrodynamic and rheology of active polar filaments,3.826788423397162e-06,0.0,1.0,0.0
+cond-mat/0701079,"Thermodynamic consistency between the energy and virial routes in the
+  mean spherical approximation for soft potentials",3.826788423397162e-06,0.0,1.0,0.0
+cond-mat/0312024,"""Bloch oscillations"" in the Mott-insulator regime",3.821848401264897e-06,0.0,2.0,1.0
+cond-mat/0208078,Coreless vortex ground state of the rotating spinor condensate,3.818577965297066e-06,0.0,4.0,0.0
+cond-mat/0403320,"Effect of bond lifetime on the dynamics of a short-range attractive
+  colloidal system",3.81678840128559e-06,0.0,3.0,0.0
+cond-mat/0404565,"Condensate fraction of molecules for a spin mixture of ultracold
+  fermionic atoms",3.816638932910986e-06,1.08915474162989e-07,8.0,2.0
+cond-mat/0108177,Nonequilibrium dynamics of a growing interface,3.815735525488946e-06,0.0,2.0,1.0
+cond-mat/0407717,Monte Carlo SImulation of Polymers: Coarse-Grained Models,3.8041059987791e-06,0.0,2.0,1.0
+physics/0303028,2000-2003 Real Estate Bubble in the UK but not in the USA,3.802328882837763e-06,7.4260550565674335e-09,5.0,2.0
+cond-mat/0108310,"Saddle Points and Dynamics of Lennard-Jones Clusters, Solids and
+  Supercooled Liquids",3.8019590689851e-06,6.809453792245518e-05,4.0,3.0
+nucl-th/0402022,"Novel effects of electromagnetic interaction on the correlation of
+  nucleons in nuclear matter",3.7967413247482575e-06,0.0,2.0,0.0
+cond-mat/9905426,"Testing quantum correlations in a confined atomic cloud by scattering
+  fast atoms: Direct and time reversed processes",3.7871825167465312e-06,0.0,3.0,0.0
+cond-mat/0302196,"Superfluidity and collective modes in a uniform gas of Fermi atoms with
+  a Feshbach resonance",3.781628024129968e-06,0.0,3.0,4.0
+cond-mat/0102099,"Casimir Torques between Anisotropic Boundaries in Nematic Liquid
+  Crystals",3.777113909991712e-06,0.0,2.0,0.0
+cond-mat/0309587,"Occupation number and fluctuations in the finite-temperature
+  Bose-Hubbard model",3.77411568471558e-06,2.028920445657255e-07,4.0,1.0
+cond-mat/0202297,"Lack of energy equipartition in homogeneous heated binary granular
+  mixtures",3.7669648018927776e-06,0.0,5.0,6.0
+cond-mat/0307380,Helicase activity on DNA as a propagating front,3.761940723517022e-06,0.0,2.0,0.0
+cond-mat/0406714,Pairing gaps in atomic gases at the BCS-BEC crossover,3.7608628287915257e-06,4.7677425942889466e-08,13.0,4.0
+cond-mat/0606628,Dynamic correlations in stochastic rotation dynamics,3.7589767133589184e-06,0.0,2.0,1.0
+cond-mat/0211462,Theory of elementary excitations in unstable Bose-Einstein condensates,3.7528015285049446e-06,9.678315152106418e-08,4.0,3.0
+cond-mat/0108349,Rate limit for photoassociation of a Bose-Einstein condensate,3.744292922023232e-06,0.0,3.0,1.0
+cond-mat/0106228,"Modulational instability in cigar shaped Bose-Einstein condensates in
+  optical lattices",3.741268272419412e-06,1.212922325906014e-07,3.0,4.0
+cond-mat/0002416,"Breakdown of time-dependent mean-field theory for a one-dimensional
+  condensate of impenetrable bosons",3.735426245591236e-06,0.0,3.0,0.0
+cond-mat/0210615,"Phase transition classes in triplet and quadruplet reaction diffusion
+  models",3.7300334143631698e-06,0.0,5.0,3.0
+cond-mat/0311172,A molecular Bose-Einstein condensate emerges from a Fermi sea,3.729542744527095e-06,5.967684948244698e-06,7.0,9.0
+cond-mat/0606146,Dynamics of active membranes with internal noise,3.7280522966341673e-06,0.0,1.0,0.0
+cond-mat/0502138,"Conformational Transitions of Non-Grafted Polymers Near an Adsorbing
+  Substrate",3.725070858339796e-06,0.0,2.0,0.0
+cond-mat/0206495,Bistable molecular conductors with a field-switchable dipole group,3.7237643564649534e-06,0.0,3.0,3.0
+cond-mat/9701067,"On Exact Solutions to the Cylindrical Poisson-Boltzmann Equation with
+  Applications to Polyelectrolytes",3.7216836098199406e-06,0.0,2.0,1.0
+hep-th/9805100,Turbulence without pressure in d dimensions,3.7212544580588896e-06,0.0,8.0,5.0
+cond-mat/9711285,Sequence Effects on DNA Entropic Elasticity,3.712158671104221e-06,0.0,2.0,0.0
+cond-mat/0106362,Driving Bose-Einstein condensate vorticity with a rotating normal cloud,3.7116652068016982e-06,3.98307660978524e-06,5.0,8.0
+cond-mat/9904125,"Potential Energy Landscape and Long Time Dynamics in a Simple Model
+  Glass",3.7085681407492095e-06,3.980365510320144e-06,8.0,6.0
+cond-mat/0012384,Effective interactions between star polymers and colloidal particles,3.705036268211902e-06,0.0,2.0,1.0
+cond-mat/9908295,"Mode coupling theory for molecular liquids: What can we learn from a
+  system of hard ellipsoids?",3.7042247331120263e-06,0.0,4.0,1.0
+cond-mat/0109199,"Free expansion of attractive and repulsive Bose-Einstein condensed
+  vortex states",3.692873564627303e-06,0.0,3.0,0.0
+cond-mat/0211435,A note on the upward and downward intruder segregation in granular media,3.691165003320674e-06,0.0,3.0,0.0
+cond-mat/0505173,"Relaxation in a glassy binary mixture: Mode-coupling-like power laws,
+  dynamic heterogeneity and a new non-Gaussian parameter",3.690525757370599e-06,5.753676237558132e-08,2.0,1.0
+cond-mat/0603450,Complex Transport Phenomena in a Simple Lattice Gas System,3.6817721514446257e-06,0.0,3.0,0.0
+cond-mat/0308100,On the crescentic shape of barchan dune,3.681271269459393e-06,0.0,2.0,0.0
+cond-mat/0308547,Theory of polyelectrolytes in solvents,3.680348466472833e-06,0.0,3.0,0.0
+cond-mat/0407039,"Bulk and Collective Properties of a Dilute Fermi Gas in the BCS-BEC
+  Crossover",3.679836564848736e-06,5.24205600583629e-06,6.0,7.0
+cond-mat/0107419,Deterministic Scale-Free Networks,3.6743614356437335e-06,2.3876495224194816e-05,7.0,5.0
+cond-mat/0108004,Expansion of a coherent array of Bose-Einstein condensates,3.671474868169354e-06,0.0,3.0,4.0
+cond-mat/0110506,Quantum Field Theory of Forward Rates with Stochastic Volatility,3.668825759104987e-06,0.0,7.0,4.0
+cond-mat/0206525,Path-integral representation for a stochastic sandpile,3.6676919414741935e-06,0.0,5.0,0.0
+cond-mat/0208423,Onset of thermal convection in a horizontal layer of granular gas,3.663731428056144e-06,0.0,3.0,0.0
+cond-mat/0109054,Continuous detection of an atom laser beam,3.66318716861776e-06,0.0,2.0,0.0
+cond-mat/0206493,Sandpile formation by revolving rivers,3.662019244785489e-06,0.0,1.0,0.0
+nucl-th/0409071,Generalized Seniority Description of Cold Fermi Gases,3.655658071201153e-06,5.496757746348588e-06,4.0,2.0
+cond-mat/0202538,"Groundstates of SU(2)-Symmetric Confined Bose Gas: Trap for a
+  Schr\""odinger Cat",3.650900236192209e-06,0.0,2.0,0.0
+cond-mat/0211026,"Dynamical classical superfluid-insulator transition in a Bose-Einstein
+  condensate on an optical lattice",3.649525974773865e-06,1.0136565152214545e-06,5.0,3.0
+cond-mat/0010235,Soft Interaction Between Dissolved Dendrimers: Theory and Experiment,3.6454472926402856e-06,0.0,3.0,0.0
+cond-mat/0301046,"Three-dimensional lattice-Boltzmann simulations of critical spinodal
+  decomposition in binary immiscible fluids",3.635474142793658e-06,0.0,2.0,2.0
+cond-mat/9801237,Coupled eigenmodes in a two-component Bose-Einstein condensate,3.6333288154529687e-06,0.0,4.0,2.0
+cond-mat/9910054,The evolution of vibrational excitations in glassy systems,3.6314842249251766e-06,0.0,2.0,3.0
+cond-mat/9902070,Wetting at Non-Planar Substrates: Unbending & Unbinding,3.62335329328243e-06,0.0,2.0,2.0
+cond-mat/0002305,"Screening of a charged particle by multivalent counterions in salty
+  water: Giant charge inversion",3.62335329328243e-06,0.0,2.0,0.0
+cond-mat/0002249,"Phase behaviour of a model of colloidal particles with a fluctuating
+  internal state",3.62335329328243e-06,0.0,2.0,1.0
+cond-mat/0603650,"Ginzburg-Landau theory of the liquid-solid interface and nucleation for
+  hard-spheres",3.62335329328243e-06,0.0,2.0,0.0
+cond-mat/0604473,Critical packing in granular shear bands,3.62335329328243e-06,0.0,2.0,0.0
+cond-mat/0506685,"Correlated particle dynamics in concentrated quasi-two-dimensional
+  suspensions",3.62335329328243e-06,0.0,2.0,0.0
+cond-mat/0212333,Surface phase transitions in polydisperse hard rod fluids,3.62335329328243e-06,0.0,2.0,2.0
+cond-mat/0606023,Elasticity of a system with non-central potentials,3.62335329328243e-06,0.0,2.0,0.0
+cond-mat/0603232,Segregation in granular binary mixtures: Thermal diffusion,3.62335329328243e-06,0.0,2.0,0.0
+cond-mat/0310521,Anomalous Dynamics of Forced Translocation,3.62335329328243e-06,0.0,2.0,3.0
+cond-mat/0201113,"Heterogeneous nucleation near a metastable vapour-liquid transition: the
+  effect of wetting transitions",3.62335329328243e-06,0.0,2.0,0.0
+cond-mat/9910160,Stress Relaxation of Entangled Polymer Networks,3.62335329328243e-06,0.0,2.0,0.0
+cond-mat/0210159,Ordering of the lamellar phase under a shear flow,3.62335329328243e-06,0.0,2.0,0.0
+cond-mat/9912119,Twist and writhe dynamics of stiff filaments,3.62335329328243e-06,0.0,2.0,1.0
+cond-mat/0702340,"Balancing torques in membrane-mediated interactions: Exact results and
+  numerical illustrations",3.62335329328243e-06,0.0,2.0,0.0
+cond-mat/0201374,Folding dynamics of the helical structures in a minimal model,3.62335329328243e-06,0.0,2.0,0.0
+cond-mat/0610261,"An elastic, plastic, viscous model for slow shear of a liquid foam",3.62335329328243e-06,0.0,2.0,0.0
+cond-mat/0204184,"Structural Relaxation and Mode Coupling in a Simple Liquid: Depolarized
+  Light Scattering in Benzene",3.62335329328243e-06,0.0,2.0,0.0
+cond-mat/0304231,"Contact Order Dependent Protein Folding Rates: Kinetic Consequences of a
+  Cooperative Interplay Between Favorable Nonlocal Interactions and Local
+  Conformational Preferences",3.62335329328243e-06,0.0,2.0,0.0
+cond-mat/0311049,A simple model for semipermeable membrane: Donnan equilibrium,3.62335329328243e-06,0.0,2.0,0.0
+cond-mat/0305406,"Fractal and Statistical Properties of Large Compact Polymers: A
+  Computational Study",3.62335329328243e-06,0.0,2.0,0.0
+cond-mat/9905102,"Improved numerical approach for time-independent Gross-Pitaevskii
+  nonlinear Schroedinger equation",3.62335329328243e-06,0.0,2.0,0.0
+cond-mat/0206365,"Dynamical behavior of a complex fluid near an out-of-equilibrium
+  transition: approaching simple rheological chaos",3.62335329328243e-06,0.0,2.0,0.0
+cond-mat/0508762,Phase separation of a model binary polymer solution in an external field,3.62335329328243e-06,0.0,2.0,0.0
+cond-mat/0210121,Finite-Size Effects in a Supercooled Liquid,3.6168095263848976e-06,0.0,4.0,3.0
+cond-mat/0309517,"Phase separation of incompressible binary fluids with Lattice Boltzmann
+  Methods",3.615418944183001e-06,0.0,1.0,0.0
+cond-mat/0404016,Local scale-invariance in ageing phenomena,3.614624021162556e-06,0.0009707107455677,3.0,4.0
+cond-mat/9910162,Binding of molecules to DNA and other semiflexible polymers,3.6143509925799886e-06,0.0,3.0,1.0
+cond-mat/0010457,"Comment on ""Strongly interacting one-dimensional Bose-Einstein
+  condensates in harmonic traps""",3.612939213533863e-06,1.8070067304314085e-07,2.0,3.0
+cond-mat/0301185,"First-principles approach to dielectric response of graded spherical
+  particles",3.603348180610338e-06,0.0,2.0,0.0
+cond-mat/0409133,Hydrodynamic and Brownian Fluctuations in Sedimenting Suspensions,3.600847541526326e-06,0.0,1.0,0.0
+cond-mat/0004039,Critical velocity in cylindrical Bose-Einstein condensates,3.5942628713632337e-06,2.0876055250688497e-07,2.0,5.0
+cond-mat/0201255,Modeling hydration water and its role in polymer folding,3.593061146089909e-06,0.0,3.0,0.0
+cond-mat/0507156,"Asymptotics of the dispersion interaction: analytic benchmarks for van
+  der Waals energy functionals",3.592124653506599e-06,0.0,2.0,1.0
+cond-mat/0411358,"The nonlinear elasticity of an $\alpha$-helical polypeptide: Monte Carlo
+  studies",3.5819455210112734e-06,0.0,3.0,0.0
+cond-mat/0305089,Three-Body Losses in Trapped Bose-Einstein Condensed Gases,3.5803716240754465e-06,0.0,1.0,0.0
+cond-mat/0012121,"Classical long-range interacting N-particle configurations and its
+  applications",3.5730630450696293e-06,0.0,5.0,0.0
+cond-mat/0509122,"Plug flow and the breakdown of Bagnold scaling in cohesive granular
+  flows",3.5693085875987e-06,3.980365510320144e-06,2.0,1.0
+cond-mat/0112336,"Which is the temperature of granular systems? A mean field model of free
+  cooling inelastic mixtures",3.569098888339425e-06,0.0,5.0,7.0
+cond-mat/0012391,Local Structure and Dynamics of Trans-polyisoprene oligomers,3.5676624327554143e-06,0.0,3.0,0.0
+cond-mat/9901010,"Canonical phase space approach to the noisy Burgers equation:
+  Probability distributions",3.567110828961789e-06,0.0,2.0,1.0
+cond-mat/0111308,"Nonlinear atom optics and bright gap soliton generation in finite
+  optical lattices",3.566772601545412e-06,1.4852110113134864e-08,2.0,1.0
+cond-mat/0507286,The Breakdown of Kinetic Theory in Granular Shear Flows,3.566285751210481e-06,0.0,2.0,0.0
+cond-mat/0101210,A classical field method for time dependent Bose condensed gases,3.560834226657047e-06,0.0,2.0,3.0
+cond-mat/0601636,Entropy production for mechanically or chemically driven biomolecules,3.5581972529083563e-06,0.0,1.0,1.0
+cond-mat/0310765,Short-ranged attractive colloids: What is the gel state ?,3.5578875352272027e-06,1.1958601456970836e-05,4.0,5.0
+cond-mat/9803068,Critical exponents of the anisotropic Bak-Sneppen model,3.5556593651521584e-06,0.0,1.0,0.0
+cond-mat/0406011,"Numerical study of the glass-glass transition in short-ranged attractive
+  colloids",3.5539334746248745e-06,0.0,3.0,0.0
+cond-mat/0210636,How colloidal suspensions that age are rejuvenated by strain application,3.5517407381883407e-06,0.0,5.0,1.0
+cond-mat/0107423,Single Molecule Statistics and the Polynucleotide Unzipping Transition,3.544734056389326e-06,0.0,4.0,8.0
+cond-mat/0510749,"Chapman-Enskog expansion about nonequilibrium states: the sheared
+  granular fluid",3.540920249832988e-06,0.0,1.0,1.0
+cond-mat/0104255,"Reconnection and acoustic emission of quantized vortices in superfluid
+  by the numerical analysis of the Gross-Pitaevskii equation",3.5337307617361032e-06,0.0,1.0,0.0
+cond-mat/0510302,Effects of Sequence Disorder on DNA Looping and Cyclization,3.5324768517048674e-06,0.0,1.0,3.0
+cond-mat/0110066,Kinetical Foundations of Non Conventional Statistics,3.5258107153290217e-06,0.0,2.0,0.0
+cond-mat/0405198,Poiseuille flow in a heated granular gas,3.525807786766428e-06,0.0,2.0,0.0
+cond-mat/0401586,Numerical Investigation of the Entropy Crisis in Model Glass Formers,3.518721194491053e-06,0.0,4.0,0.0
+cond-mat/0211542,Jaynes-Cummings dynamics with a matter wave oscillator,3.5078916041420884e-06,0.0,4.0,0.0
+cond-mat/0111121,Towards a variational principle for motivated vehicle motion,3.5042591108938973e-06,0.0,4.0,0.0
+cond-mat/0310498,"Scissors modes of two-component degenerate gases: Bose-Bose and
+  Bose-Fermi mixtures",3.504168261896867e-06,0.0,4.0,0.0
+cond-mat/0101051,"Stationary states of a rotating Bose-Einstein condensate: routes to
+  vortex nucleation",3.502087725516385e-06,3.772435968736256e-05,4.0,7.0
+cond-mat/0606591,Stochastic dynamics of adhesion catch-slip bond cluster,3.49912997646896e-06,0.0,2.0,0.0
+cond-mat/0108375,Mechanism of Magnetism in Stacked Nanographite,3.49912997646896e-06,0.0,2.0,0.0
+cond-mat/0212268,A model for the force stretching double-stranded chain molecules,3.49912997646896e-06,0.0,2.0,2.0
+nlin/0608032,On the problem of catastrophic relaxation in superfluid 3-He-B,3.49912997646896e-06,0.0,2.0,0.0
+hep-th/9906097,Field Theories of Topological Random Walks,3.49912997646896e-06,0.0,2.0,0.0
+cond-mat/0409352,Auxiliary field simulation and Coulomb's Law,3.49912997646896e-06,0.0,2.0,0.0
+cond-mat/0311163,"Field theoretic calculation of the surface tension for a model
+  electrolyte system",3.49912997646896e-06,0.0,2.0,1.0
+cond-mat/0109487,Hydrodynamic fluctuation forces,3.49912997646896e-06,0.0,2.0,0.0
+cond-mat/0207510,Universality classes in folding times of proteins,3.49912997646896e-06,0.0,2.0,0.0
+cond-mat/0410080,"The fourth virial coefficient of a fluid of hard spheres in odd
+  dimensions",3.49912997646896e-06,0.0,2.0,2.0
+cond-mat/0610542,"Competition between glass transition and liquid-gas separation in
+  attracting colloids",3.49912997646896e-06,0.0,2.0,0.0
+cond-mat/0411514,"Diffusion, Fragmentation and Coagulation Processes: Analytical and
+  Numerical Results",3.49912997646896e-06,0.0,2.0,0.0
+q-bio/0603024,Thermodynamics of aggregation of two proteins,3.49912997646896e-06,0.0,2.0,0.0
+cond-mat/0207749,"Momentum-Transfer to and Elementary-Excitations of a Bose-Einstein
+  Condensate by a Time-Dependent Optical Potential",3.49912997646896e-06,0.0,3.0,1.0
+cond-mat/0611373,Formation and growth of clusters in colloidal suspensions,3.4930843036925227e-06,0.0,1.0,0.0
+cond-mat/0202121,"Orientational and induced contributions to the depolarized Rayleigh
+  spectra of liquid and supercooled ortho-terphenyl",3.4870386309160864e-06,0.0,1.0,0.0
+cond-mat/0203482,Triple minima in free energy of semiflexible polymers,3.4795788573217505e-06,0.0,3.0,1.0
+cond-mat/0301159,Magnetic control of the interaction in ultracold K-Rb mixtures,3.477159086568636e-06,0.0,2.0,2.0
+cond-mat/9902204,Dissipative dynamics of a vortex state in a trapped Bose-condensed gas,3.476005975516321e-06,0.0,5.0,5.0
+cond-mat/0609418,"A Study of Elementary Excitations of Liquid Helium-4 Using Macro-orbital
+  Microscopic Theory",3.473352850252145e-06,0.0,2.0,1.0
+cond-mat/0201155,Generation and interaction of solitons in Bose-Einstein condensates,3.465861244293755e-06,0.0,4.0,0.0
+cond-mat/0307649,"Local scale invariance and its applications to strongly anisotropic
+  critical phenomena",3.4577275492341104e-06,4.49092495620411e-06,4.0,5.0
+cond-mat/0505315,Unzipping an adsorbed polymer in a dirty or random environment,3.447334701356966e-06,7.4260550565674335e-09,3.0,1.0
+cond-mat/9911238,"Damping of low-energy excitations of a Bose-condensed gas in the
+  hydrodynamic regime",3.446642213824366e-06,8.663730899328671e-09,4.0,1.0
+cond-mat/0212500,"Moments of vicious walkers and M\""obius graph expansions",3.443259752160729e-06,0.0,4.0,0.0
+cond-mat/0605074,"Thermodynamics and Dynamics of the Two-Scale Spherically-Symmetric Jagla
+  Model of Anomalous Liquids",3.431318266430716e-06,0.0,3.0,0.0
+q-bio/0604032,Dynamics of Semiflexible Polymers in a Flow Field,3.431318266430716e-06,0.0,3.0,0.0
+cond-mat/0409452,"Slow flows of yield stress fluids: complex spatio-temporal behaviour
+  within a simple elasto-plastic model",3.431318266430716e-06,0.0,3.0,2.0
+cond-mat/0312194,Effective interactions between star polymers,3.4279498088975696e-06,0.0,1.0,0.0
+cond-mat/0311035,Scaling of star polymers: high order results,3.4279498088975696e-06,0.0,1.0,0.0
+cond-mat/0406503,"Revisiting the Hanbury Brown-Twiss Setup for Phase Fluctuating Bose
+  Gases",3.4125555240404333e-06,0.0,2.0,0.0
+cond-mat/0303423,"Mechanical aging and non-linear rheology of concentrated colloidal
+  suspensions: experimental facts and simple models",3.4099279280123432e-06,0.0,3.0,0.0
+cond-mat/0605754,Spin polarizability of a trapped superfluid Fermi gas,3.3995612355715017e-06,2.2427060211434017e-08,6.0,3.0
+cond-mat/0207295,"Asymptotically Improved Convergence of Optimized Perturbation Theory in
+  the Bose-Einstein Condensation Problem",3.394870415403769e-06,5.167574305462589e-05,5.0,14.0
+astro-ph/0507046,"Growth of Hydrodynamic Perturbations in Accretion Disks: Possible Route
+  to Non-Magnetic Turbulence",3.392289896051936e-06,0.0,3.0,0.0
+cond-mat/9803177,Shear-Induced Clustering in a Simple Driven Diffusive Model,3.386159535533542e-06,0.0,2.0,0.0
+physics/0403070,"Improved efficiency of stimulated Raman adiabatic passage in
+  photoassociation of a Bose-Einstein condensate",3.3811346554365923e-06,0.0,3.0,0.0
+cond-mat/0507565,"Dissipative Effects in the Electronic Transport through DNA Molecular
+  Wires",3.381121474886511e-06,0.0,3.0,0.0
+cond-mat/9906172,"The thermodynamical liquid-glass transition in a Lennard-Jones binary
+  mixture",3.381091856348895e-06,1.3267885034400451e-06,6.0,1.0
+cond-mat/0203216,Modulated Scale-free Network in the Euclidean Space,3.379610274381651e-06,8.063721364945393e-07,4.0,6.0
+cond-mat/0604085,Slip vs viscoelasticity in dewetting thin films,3.3749066596554898e-06,0.0,1.0,0.0
+cond-mat/0104265,"Vibrational origin of the fast relaxation processes in molecular
+  glass-formers",3.3749066596554898e-06,0.0,1.0,2.0
+cond-mat/0703183,Magnon condensation into Q-ball in 3He-B,3.3749066596554898e-06,0.0,1.0,0.0
+cond-mat/0401558,Influence of humidity on granular packings with moving walls,3.3749066596554898e-06,0.0,1.0,0.0
+cond-mat/0605088,"Phase Separation in Charge-Stabilized Colloidal Suspensions: Influence
+  of Nonlinear Screening",3.3749066596554898e-06,0.0,1.0,0.0
+cond-mat/9809027,"Reactions at Polymer Interfaces: Transitions from Chemical to
+  Diffusion-Control and Mixed Order Kinetics",3.3749066596554898e-06,0.0,1.0,0.0
+cond-mat/0507600,Shear stress fluctuations in the granular liquid and solid phases,3.3749066596554898e-06,0.0,1.0,0.0
+cond-mat/0211229,Depinning of semiflexible polymers in (1+1) dimensions,3.3749066596554898e-06,0.0,1.0,0.0
+cond-mat/0106042,Nonlinear excitations in arrays of Bose-Einstein condensates,3.3749066596554898e-06,0.0,1.0,3.0
+nlin/0604044,Oblique dark solitons in supersonic flow of a Bose-Einstein condensate,3.3749066596554898e-06,0.0,1.0,1.0
+cond-mat/0406497,"Solitary-wave description of condensate micro-motion in a time-averaged
+  orbiting potential trap",3.3749066596554898e-06,0.0,1.0,1.0
+cond-mat/0505047,"Strong Shock Waves and Nonequilibrium Response in a One-dimensional Gas:
+  a Boltzmann Equation Approach",3.3749066596554898e-06,0.0,1.0,0.0
+cond-mat/0204494,Towards finite-dimensional gelation,3.3749066596554898e-06,0.0,1.0,0.0
+cond-mat/0701209,"A Macromolecule in a Solvent: Adaptive Resolution Molecular Dynamics
+  Simulation",3.3749066596554898e-06,0.0,1.0,0.0
+cond-mat/0512477,"Forces between chemically structured substrates mediated by critical
+  fluids",3.3749066596554898e-06,0.0,1.0,0.0
+cond-mat/0505276,"Combining Molecular Dynamics with Lattice-Boltzmann: A Hybrid Method for
+  the Simulation of (Charged) Colloidal Systems",3.3749066596554898e-06,0.0,1.0,0.0
+cond-mat/9710301,The onset of self-assembly,3.3749066596554898e-06,0.0,1.0,0.0
+cond-mat/0112255,Scaling Analysis of Surfactant Templated Polyacrylamide Gel Surfaces,3.3749066596554898e-06,0.0,1.0,1.0
+cond-mat/0602362,Solidity of viscous liquids. IV. Density fluctuations,3.3749066596554898e-06,0.0,1.0,1.0
+cond-mat/9909339,Local size segregation in polydisperse hard sphere fluids,3.3749066596554898e-06,0.0,1.0,1.0
+cond-mat/0004219,Properties of the asymptotic nA+mB->C reaction-diffusion fronts,3.3749066596554898e-06,0.0,1.0,0.0
+cond-mat/0211015,"Anisotropy in granular media: classical elasticity and directed force
+  chain network",3.3666246360067742e-06,4.643759762040169e-06,3.0,4.0
+cond-mat/0611652,"Kinetics of phase-separation in the critical spherical model and local
+  scale-invariance",3.3610199129171587e-06,0.0,3.0,2.0
+cond-mat/0301346,Granular fluid thermostatted by a bath of elastic hard spheres,3.359212311364024e-06,0.0,4.0,0.0
+cond-mat/0101128,"Reunion of random walkers with a long range interaction: applications to
+  polymers and quantum mechanics",3.357185890522688e-06,0.0,4.0,1.0
+cond-mat/0403684,"Theory and simulation of gelation, arrest and yielding in attracting
+  colloids",3.3548397904899304e-06,6.777364934172706e-07,4.0,3.0
+hep-th/0507221,Liquid crystal defects and confinement in Yang-Mills theory,3.3507129743313112e-06,5.2383792977695145e-06,4.0,3.0
+cond-mat/0106462,Surface modes and critical velocity in trapped Bose-condensates,3.350614608176071e-06,1.0396477079194407e-07,4.0,10.0
+cond-mat/0304490,"Loss of superfluidity in a Bose-Einstein condensate via forced resonant
+  oscillations",3.3433128027596665e-06,0.0,3.0,0.0
+cond-mat/0108117,Josephson Junction Arrays with Bose-Einstein Condensates,3.34213161719354e-06,0.0,3.0,0.0
+cond-mat/0207089,"Convergent resummed linear delta expansion in the critical O(N)
+  (\phi_i^2)^2_{3d} model",3.340841251094601e-06,0.0,5.0,7.0
+cond-mat/0503175,"Sliding periodic boundary conditions for lattice Boltzmann and lattice
+  kinetic equations",3.3353007530048587e-06,0.0,3.0,1.0
+cond-mat/0305053,Remarks on homo- and hetero-polymeric aspects of protein folding,3.3353007530048587e-06,0.0,3.0,2.0
+cond-mat/0303632,"Correlations, soliton modes, and non-Hermitian linear mode transmutation
+  in the 1D noisy Burgers equation",3.332444302418352e-06,0.0,3.0,1.0
+cond-mat/0206144,Crystalline Order on a Sphere and the Generalized Thomson Problem,3.3323750448117648e-06,0.0,3.0,5.0
+cond-mat/0004169,"Exactness of the Annealed and the Replica Symmetric Approximations for
+  Random Heteropolymers",3.316656291705518e-06,6.851601503187435e-05,2.0,3.0
+cond-mat/0401112,"Anomalous particle-number fluctuations in a three-dimensional
+  interacting Bose-Einstein condensate",3.3161267117461423e-06,0.0,1.0,0.0
+cond-mat/0403321,"Response of a Hexagonal Granular Packing under a Localized External
+  Force",3.31564310819916e-06,0.0,2.0,4.0
+cond-mat/0312081,"Directional Locking Effects and Dynamics for Particles Driven Through a
+  Colloidal Lattice",3.31459686686928e-06,0.0,4.0,0.0
+cond-mat/0203021,"Evolution of a coherent array of Bose-Einstein Condensates in a magnetic
+  trap",3.3108974138438944e-06,7.426055056567433e-08,2.0,1.0
+cond-mat/0208535,Small-world properties of the Indian Railway network,3.30771053469606e-06,1.2328037103268938e-07,5.0,4.0
+cond-mat/0309316,A white-light trap for Bose-Einstein condensates,3.3030645010996213e-06,0.0,1.0,0.0
+cond-mat/0004401,Particle dynamics in sheared granular matter,3.3030645010996213e-06,0.0,1.0,0.0
+cond-mat/9811079,"Test of the Kolmogorov-Johnson-Mehl-Avrami picture of metastable decay
+  in a model with microscopic dynamics",3.295003604064372e-06,0.0,1.0,2.0
+cond-mat/0505679,Chaos and residual correlations in pinned disordered systems,3.2912499277378507e-06,1.3628748450579615e-05,5.0,6.0
+cond-mat/0004384,"Pulling a polymer out of a potential well and the mechanical unzipping
+  of DNA",3.290142022107685e-06,0.0,3.0,0.0
+cond-mat/9812205,Statistics of knots and entangled random walks,3.285003634522711e-06,0.0,1.0,9.0
+cond-mat/0604112,"Reply to Comment by Alexandrov and Bratkovsky [cond-mat/0603467,
+  cond-mat/0606366]",3.282703613725537e-06,0.0,3.0,0.0
+cond-mat/0412171,"Gravity-driven Poiseuille Flow in Dilute Gases. Elastic and Inelastic
+  Collisions",3.281872754726924e-06,0.0,1.0,0.0
+cond-mat/0403265,"Non-linear screening of spherical and cylindrical colloids: the case of
+  1:2 and 2:1 electrolytes",3.274410054961632e-06,0.0,1.0,1.0
+cond-mat/0404080,Bogoliubov excitation spectrum in anharmonic traps,3.273189094598124e-06,0.0,2.0,0.0
+cond-mat/0410189,Pulling absorbing and collapsing polymers from a surface,3.2731890945981237e-06,0.0,3.0,0.0
+cond-mat/0005023,A scalar model of inhomogeneous elastic and granular media,3.2702716716738406e-06,0.0,3.0,2.0
+cond-mat/0306662,"Commensurate Two-Component Bosons in Optical Lattice: Groundstate Phase
+  Diagram",3.2683641124621545e-06,2.0876741856915365e-06,3.0,2.0
+cond-mat/0210382,Glassy dynamics of kinetically constrained models,3.266078540759481e-06,3.1340339284982746e-05,5.0,8.0
+cond-mat/0010268,Inhomogeneous relaxation in vibrated granular media: consolidation waves,3.2647108009500187e-06,0.0,2.0,5.0
+cond-mat/0206130,Hierarchical Organization in Complex Networks,3.261532983420749e-06,1.3945132360739203e-05,5.0,15.0
+cond-mat/0009313,"Force distributions in 3D granular assemblies: Effects of packing order
+  and inter-particle friction",3.25100396624775e-06,0.0,2.0,0.0
+cond-mat/0011187,Modeling relaxation and jamming in granular media,3.25100396624775e-06,0.0,2.0,0.0
+cond-mat/0412585,"Elasticity, fluctuations and vortex pinning in ferromagnetic
+  superconductors: A ""columnar elastic glass""",3.24538041795607e-06,0.0,2.0,0.0
+cond-mat/0111066,"Influence of correlations on the velocity statistics of scalar granular
+  gases",3.2421399499202617e-06,0.0,4.0,8.0
+cond-mat/0407414,"Interference between a large number of independent Bose-Einstein
+  condensates",3.239935619572392e-06,7.960731020640288e-06,1.0,2.0
+nlin/0406063,Bose-Einstein Condensates in Superlattices,3.236282472678188e-06,0.0,3.0,1.0
+cond-mat/0104585,Quantum mechanics of one-dimensional trapped Tonks gases,3.235349135585484e-06,3.242710708034446e-07,3.0,2.0
+q-bio/0407036,Generalized Poland-Scheraga model for supercoiled DNA,3.2280009182239564e-06,0.0,2.0,2.0
+cond-mat/0406113,"Equation of state of a Fermi gas in the BEC-BCS crossover: a quantum
+  Monte Carlo study",3.2271650601163744e-06,6.687137182781318e-06,6.0,19.0
+cond-mat/0411660,From Vulcanization to Isotropic and Nematic Rubber Elasticity,3.2242794050749323e-06,0.0,1.0,0.0
+cond-mat/0309078,"Thermal equilibrium and efficient evaporation of an ultracold
+  atom-molecule mixture",3.223933712445828e-06,0.0,6.0,2.0
+cond-mat/0410525,"Heterogeneity and growing lengthscales in the dynamics of kinetically
+  constrained lattice gases in two dimensions",3.2014600588532543e-06,7.493685865609618e-06,1.0,10.0
+cond-mat/0104344,Growth Exponents with 3.99 Walkers,3.200523062148889e-06,0.0,3.0,6.0
+cond-mat/0210246,"Where the linearized Poisson-Boltzmann cell model fails: (II) the planar
+  case as a prototype study",3.1978754673078448e-06,0.0,2.0,1.0
+cond-mat/0501134,"Wall-Fluid and Liquid-Gas Interfaces of Model Colloid-Polymer Mixtures
+  by Simulation and Theory",3.1978754673078448e-06,0.0,3.0,1.0
+cond-mat/0206105,Stretching of a polymer below the Theta point,3.1958473666488747e-06,0.0,3.0,1.0
+cond-mat/9905322,"Spreading and shortest paths in systems with sparse long-range
+  connections",3.1939477549541325e-06,0.0,11.0,5.0
+cond-mat/9707021,Statistical Mechanics of Semiflexible Polymers: Theory and Experiment,3.189120276525713e-06,0.0,2.0,3.0
+quant-ph/0406020,A Single Atom Transistor in a 1D Optical Lattice,3.1886028509191843e-06,6.940477994671152e-06,4.0,3.0
+cond-mat/0107453,"Two-particle pairing and phase separation in a two-dimensional Bose-gas
+  with one or two sorts of bosons",3.1883583257969976e-06,0.0,1.0,0.0
+cond-mat/9904065,"Morphological phase transitions of thin fluid films on chemically
+  structured substrates",3.1828716328037755e-06,0.0,2.0,1.0
+cond-mat/0205576,Dynamical structure factors of $S=1/2$ two-leg spin ladder systems,3.1826641794321607e-06,0.0,1.0,0.0
+cond-mat/0306589,Biased Metropolis Sampling for Rugged Free Energy Landscapes,3.181591034299867e-06,0.0,2.0,1.0
+cond-mat/9908428,Reentrant Condensation of DNA induced by Multivalent Counterions,3.177852274883629e-06,0.0,3.0,2.0
+cond-mat/9801009,Testing replica predictions in experiments,3.174577199269348e-06,0.0,9.0,0.0
+cond-mat/0205073,Fluctuation Pressure of a Membrane Between Walls Through Five Loops,3.1743583876135534e-06,0.0,6.0,1.0
+cond-mat/0403089,Force indeterminacy in the jammed state of hard disks,3.171570896033556e-06,0.0,3.0,4.0
+cond-mat/0401285,Stability and correlations in dilute two-dimensional boson systems,3.169783648262581e-06,0.0,2.0,0.0
+cond-mat/9907052,Replica and Glasses,3.166459338410469e-06,0.0,11.0,0.0
+cond-mat/0206494,Glassy behavior in systems with Kac-type step-function interaction,3.1660878477487984e-06,5.021298006687197e-06,1.0,4.0
+cond-mat/0602371,Rupture processes in fiber bundle models,3.1649610730369267e-06,3.980365510320144e-06,2.0,2.0
+cond-mat/0301532,"Observation of Long-lived Vortex Aggregates in Rapidly Rotating
+  Bose-Einstein Condensates",3.1636528286336627e-06,7.960731020640288e-06,4.0,3.0
+cond-mat/0503199,Perturbation Theory for Path Integrals of Stiff Polymers,3.162469228838316e-06,0.0,3.0,0.0
+cond-mat/0404748,"General Mechanism for a Positive Temperature Entropy Crisis in
+  Stationary Metastable States: Thermodynamic Necessity and Confirmation by
+  Exact calculations",3.158508672095816e-06,0.0,4.0,1.0
+cond-mat/0601567,Novel fluctuations at constrained interfaces,3.157956300296298e-06,0.0,3.0,0.0
+cond-mat/0609647,"Tension dynamics in semiflexible polymers. Part I: Coarse-grained
+  equations of motion",3.1564676950366884e-06,0.0,2.0,0.0
+cond-mat/0009179,Entropic Elasticity of Phantom Percolation Networks,3.1564676950366884e-06,0.0,2.0,0.0
+cond-mat/0604078,"First-order Chapman--Enskog velocity distribution function in a granular
+  gas",3.1564676950366884e-06,0.0,2.0,0.0
+cond-mat/0511748,"Time correlation functions in Vibration-Transit theory of liquid
+  dynamics",3.1564676950366884e-06,0.0,2.0,0.0
+cond-mat/0405222,"High sensitivity phonon spectroscopy of Bose-Einstein condensates using
+  matter-wave interference",3.150709114302643e-06,0.0,1.0,0.0
+cond-mat/0403019,Nonlinear alternating current responses of dipolar fluids,3.150122934029457e-06,0.0,1.0,0.0
+cond-mat/0111120,"Fermi hypernetted-chain study of half-filled Landau levels with broken
+  rotational symmetry",3.1465221093682907e-06,0.0,2.0,0.0
+cond-mat/9910305,"Two-time scales, two-temperature scenario for nonlinear rheology",3.145560029661598e-06,0.0,4.0,5.0
+cond-mat/0202072,Castaing Instability and Precessing Domains in Confined Alkali Gases,3.144356049038132e-06,0.0,3.0,1.0
+cond-mat/0212270,"Maximum-entropy calculation of end-to-end distance distribution of force
+  stretching chains",3.1429201050082166e-06,0.0,1.0,0.0
+cond-mat/0212366,A constant extension ensembles model of double-stranded chain molecules,3.1429201050082166e-06,0.0,1.0,0.0
+cond-mat/0203242,Mermin-Ho vortex in ferromagnetic spinor Bose-Einstein condensates,3.1423670668593144e-06,0.0,2.0,2.0
+cond-mat/0201372,"Evidence for Unusual Dynamical Arrest Scenario in Short Ranged Colloidal
+  Systems",3.130440349620035e-06,0.0,2.0,0.0
+cond-mat/0512723,The phase transition of triplet reaction-diffusion models,3.126776046116374e-06,0.0,3.0,0.0
+cond-mat/0211294,"Macroscopic dynamics of a Bose-Einstein condensate containing a vortex
+  lattice",3.120388858649917e-06,1.2023136758252032e-08,4.0,1.0
+cond-mat/0306558,"Segregation in a fluidized binary granular mixture: Competition between
+  buoyancy and geometric forces",3.1164485102592958e-06,0.0,2.0,0.0
+cond-mat/9711215,Effective potential in glassy systems: theory and simulations,3.116392036917516e-06,0.0,5.0,10.0
+cond-mat/0505249,"Mixtures of Charged Colloid and Neutral Polymer: Influence of
+  Electrostatic Interactions on Demixing and Interfacial Tension",3.115059922765531e-06,0.0,3.0,0.0
+cond-mat/0308250,Glasses in hard spheres with short-range attraction,3.110100588147207e-06,1.3948784212130908e-05,2.0,2.0
+cond-mat/0505768,Interference of a variable number of coherent atomic sources,3.1060329745727946e-06,3.980365510320144e-06,2.0,2.0
+cond-mat/0409349,"Interference of Bose-Einstein condensates and entangled single-atom
+  state in a spin-dependent optical lattice",3.1060329745727946e-06,0.0,2.0,0.0
+cond-mat/0306741,Virus shapes and buckling transitions in spherical shells,3.1019330125897075e-06,0.0,2.0,3.0
+cond-mat/0102049,Generalized effective depletion potentials,3.1012070900451364e-06,0.0,1.0,2.0
+cond-mat/0309314,Polymers Confined between Two Parallel Plane Walls,3.100901847353213e-06,1.1139082584851151e-08,2.0,1.0
+cond-mat/0306580,"Mean-Field Theory, Mode-Coupling Theory, and the Onset Temperature in
+  Supercooled Liquids",3.098922310183304e-06,5.970548265480216e-06,2.0,6.0
+cond-mat/0401324,"A new improved optimization of perturbation theory: applications to the
+  oscillator energy levels and Bose-Einstein critical temperature",3.0984893560649323e-06,1.8565137641418582e-09,3.0,2.0
+cond-mat/0203040,Minimal model for aeolian sand dunes,3.0962167932044648e-06,0.0,2.0,0.0
+cond-mat/9808002,"PDF's Of The Burgers Equation On The Semiline With Fluctuating Flux At
+  The Origin",3.0952790757053098e-06,0.0,3.0,0.0
+cond-mat/0001311,Off-Equilibrium Effective Temperature in Monatomic Lennard-Jones Glass,3.0912620362270644e-06,0.0002066574971487,3.0,10.0
+cond-mat/0606349,Elasticity from the Force Network Ensemble in Granular Media,3.0888766486599367e-06,0.0,2.0,2.0
+cond-mat/0409109,Work distribution functions in polymer stretching experiments,3.0875669714740823e-06,0.0,1.0,0.0
+cond-mat/0402031,"Fermi excitations in a trapped atomic Fermi gas with a molecular Bose
+  condensate",3.0848761669836035e-06,1.231808385707648e-05,4.0,5.0
+cond-mat/0205477,"Microscopic theory of solvent mediated long range forces: influence of
+  wetting",3.0838312829897e-06,0.0,1.0,0.0
+cond-mat/9903301,"Classical nucleation theory for the nucleation of the solid phase of
+  spherical particles with a short-ranged attraction",3.079138843487597e-06,0.0,2.0,1.0
+q-bio/0411004,Enumeration of RNA structures by Matrix Models,3.079036619709387e-06,0.0,3.0,0.0
+cond-mat/9806003,On the replica method for glassy systems,3.076737316439182e-06,0.0,10.0,1.0
+cond-mat/0205175,"Inversion of DNA charge by a positive polymer via fractionalization of
+  the polymer charge",3.071077946452348e-06,0.0,1.0,0.0
+cond-mat/0509069,"Local Simulation Algorithms for Coulomb Gases with Dynamical Dielectric
+  Effects",3.069179046467727e-06,0.0,4.0,0.0
+cond-mat/0505332,"Two-stage coarsening mechanism in a kinetically constrained model of an
+  attractive colloid",3.0691078750549693e-06,0.0,2.0,0.0
+cond-mat/0203411,Response of non-equilibrium systems with long-range initial correlations,3.0688868206509685e-06,1.1724102197122534e-06,5.0,5.0
+cond-mat/0307199,"Destruction of interference by many-body interactions in cold atomic
+  Bose gases",3.0681979644833004e-06,0.0,2.0,0.0
+cond-mat/0702287,"Crystalline phases in chiral ferromagnets: Destabilization of helical
+  order",3.0676064777179377e-06,0.0,1.0,1.0
+cond-mat/0208593,"Exact calculation of the skyrmion lifetime in a ferromagnetic Bose
+  condensate",3.064135008983527e-06,0.0,1.0,0.0
+cond-mat/0010147,"Glass transition and layering effects in confined water: a computer
+  simulation study",3.062186246968618e-06,1.990182755160072e-06,2.0,1.0
+cond-mat/0003439,Decoherence in Two Bose-Einstein Condensates,3.0618286905541045e-06,0.0,2.0,0.0
+cond-mat/0106359,RNA Folding and Large N Matrix Theory,3.056224916064305e-06,2.304603672545922e-05,2.0,5.0
+cond-mat/0404600,"Modulational and Parametric Instabilities of the Discrete Nonlinear
+  Schr\""odinger Equation",3.0522458563168662e-06,0.0,3.0,0.0
+cond-mat/0510040,Colloidal Jamming at Interfaces: a Route to Fluid-bicontinuous Gels,3.0472482127272877e-06,0.0,2.0,0.0
+cond-mat/0007029,On the theory of light scattering in molecular liquids,3.0472482127272877e-06,0.0,2.0,0.0
+cond-mat/0201246,Polymer collapse in the presence of hydrodynamic interactions,3.0472482127272877e-06,0.0,2.0,0.0
+cond-mat/0602289,Laplace pressure as a surface stress in fluid vesicles,3.0472482127272877e-06,0.0,2.0,0.0
+cond-mat/0412693,"Emergence of a Barchan Belt in a Unidirectional Flow: Experiment and
+  Numerical Simulation",3.0472482127272877e-06,0.0,2.0,0.0
+cond-mat/0404143,"Exponential and power law distribution of mass clusters in a
+  (magnetic-like) deposition model of elongated grains in 2D piles",3.0472482127272877e-06,0.0,2.0,0.0
+cond-mat/0111335,Overcharging: The Crucial Role of Excluded Volume,3.0472482127272877e-06,0.0,2.0,2.0
+cond-mat/0508411,"Sheared force-networks: anisotropies, yielding and geometry",3.0472482127272877e-06,0.0,2.0,0.0
+cond-mat/0307015,Elasticity of semiflexible polymers with and without self-interactions,3.0472482127272877e-06,0.0,2.0,0.0
+cond-mat/0302098,Flow phase diagrams for concentration-coupled shear banding,3.0472482127272877e-06,0.0,2.0,0.0
+cond-mat/0610025,"Shear flow induced isotropic to nematic transition in a suspension of
+  active filaments",3.0472482127272877e-06,0.0,2.0,1.0
+cond-mat/0609549,"Radial distribution function of penetrable sphere fluids to second order
+  in density",3.0472482127272877e-06,0.0,2.0,1.0
+cond-mat/0301262,"Instability of speckle patterns in random media with noninstantaneous
+  Kerr nonlinearity",3.0472482127272877e-06,0.0,2.0,0.0
+cond-mat/9811283,Vesicles in solutions of hard rods,3.0472482127272877e-06,0.0,2.0,0.0
+cond-mat/0602124,"Stochastic Model in the Kardar-Parisi-Zhang Universality With Minimal
+  Finite Size Effects",3.0472482127272877e-06,0.0,2.0,0.0
+cond-mat/0203473,"Corrections to Scaling in the Hydrodynamic Properties of Dilute Polymer
+  Solutions",3.0472482127272877e-06,0.0,2.0,1.0
+cond-mat/0512009,"Boundary-bulk interplay of molecular motor traffic flow through a
+  compartment",3.0472482127272877e-06,0.0,2.0,0.0
+cond-mat/9811367,Vortex Stabilization in Dilute Bose-Einstein Condensate Under Rotation,3.045985274540055e-06,1.4852110113134864e-08,5.0,3.0
+cond-mat/9904114,Density-functional theory for attraction between like-charged plates,3.04211988483863e-06,0.0,3.0,2.0
+cond-mat/0003024,Spinning up and down a Boltzmann gas,3.038696378656622e-06,8.854450646930453e-07,2.0,3.0
+cond-mat/0402585,Entropy Driven Phase Separation in a Model Colloid-Polymer Mixture,3.03773107121644e-06,0.0,2.0,0.0
+physics/0205043,On the Kinematics of Protein Folding,3.035995336849235e-06,0.0,1.0,0.0
+cond-mat/0306089,The Kovacs effect in model glasses,3.034832394322141e-06,1.6576440097269796e-05,5.0,4.0
+cond-mat/0007062,Mean Field Fluid Behavior of the Gaussian Core Model,3.033548001352854e-06,0.0,2.0,4.0
+cond-mat/0106487,"Construction of exact solutions by spatial traslations in inhomogeneous
+  Nonlinear Schrodinger equations. Applications to Bose-Einstein condensation",3.032903693690786e-06,0.0,1.0,0.0
+cond-mat/0205015,"Fermi-Bose quantum degenerate ^40 K - ^87 Rb mixture with attractive
+  interaction",3.03234290932475e-06,0.0,2.0,10.0
+q-bio/0605007,Effective affinities in microarray data,3.029374075184255e-06,0.0,2.0,0.0
+cond-mat/0109192,"H-Theorem and Generalized Entropies Within the Framework of Non Linear
+  Kinetics",3.0277081951964164e-06,1.2647340935840226e-05,1.0,2.0
+cond-mat/0406129,Observation of Feshbach resonances between two different atomic species,3.027042222934488e-06,2.052479105912388e-06,2.0,11.0
+cond-mat/0411586,"Dilatancy, Jamming, and the Physics of Granulation",3.0203320522299838e-06,0.0,2.0,0.0
+cond-mat/0007089,"Exact Criterion for Determining Clustering vs. Reentrant Melting
+  Behavior for Bounded Interaction Potentials",3.0201438165849277e-06,0.0,2.0,4.0
+cond-mat/9907351,"Screening of a macroion by multivalent ions: Correlation induced
+  inversion of charge",3.018466034108186e-06,0.0,3.0,2.0
+cond-mat/9803165,Connected Network of Minima as a Model Glass: Long Time Dynamics,3.0179698836269334e-06,0.0,4.0,3.0
+cond-mat/0403746,On Quantum Bosonic Solids and Bosonic Superfluids,3.0179023990133724e-06,0.0,3.0,0.0
+cond-mat/0304046,Vortex lattice dynamics in a-NbGe detected by mode-locking experiments,3.017696481088546e-06,0.0,1.0,1.0
+cond-mat/0111170,Stretched Polymers in a Poor Solvent,3.0148968846477365e-06,5.970548265480216e-06,2.0,2.0
+cond-mat/0701439,Quantum vortices in optical lattices,3.0074596036785e-06,0.0,1.0,0.0
+cond-mat/9808196,"Hopping Conductivity of a Nearly-1d Fractal: a Model for Conducting
+  Polymers",3.0058404404561305e-06,0.0,2.0,0.0
+cond-mat/0307363,Effects of Fluctuations on Propagating Fronts,3.001809991938506e-06,0.0,1.0,6.0
+cond-mat/0208214,Stress Propagation in Two Dimensional Frictional Granular Matter,3.000630875591426e-06,8.624125272360321e-06,3.0,9.0
+cond-mat/0307368,Tkachenko waves in rapidly rotating Bose-Einstein condensates,2.999092533699376e-06,3.675705544000394e-05,4.0,9.0
+cond-mat/0102206,Coherent acceleration of Bose-Einstein condensates,2.998416281391481e-06,7.4260550565674335e-09,1.0,2.0
+cond-mat/0205535,Mean-Field Theory of Feshbach-Resonant Interactions in 85Rb Condensates,2.992794473593674e-06,0.0,3.0,6.0
+cond-mat/0505283,Directed polymers and Randomness,2.9888875129465694e-06,9.653871573537665e-08,3.0,3.0
+cond-mat/0007151,Transition Temperature for Weakly Interacting Homogeneous Bose Gases,2.9867491242793765e-06,0.0,3.0,4.0
+cond-mat/0512197,On the rigidity of a hard sphere glass near random close packing,2.986475161942197e-06,0.0,2.0,0.0
+cond-mat/0405450,Heat Transfer in Superfluids: Effect of Gravity,2.9851365543205523e-06,0.0,2.0,0.0
+cond-mat/0209529,"Rigorous Proof of Pseudospin Ferromagnetism in Two-Component Bosonic
+  Systems with Component-Independent Interactions",2.9851365543205523e-06,0.0,2.0,0.0
+cond-mat/0203301,"Quasi-saddles as relevant points of the potential energy surface in the
+  dynamics of supercooled liquids",2.9843496058526384e-06,3.980365510320144e-06,2.0,3.0
+cond-mat/0407261,Force induced triple point for interacting polymers,2.97970867715326e-06,0.0,2.0,1.0
+cond-mat/9910235,Different Scenarios for Critical Glassy Dynamics,2.97753561708125e-06,0.0,4.0,0.0
+cond-mat/0608356,"Simulation-based equation of state of the hard disk fluid and prediction
+  of higher-order virial coefficients",2.976068045155897e-06,0.0,1.0,0.0
+cond-mat/0305389,Aging and effective delays in colloidal glasses under shear,2.9756356576331982e-06,0.0,4.0,0.0
+cond-mat/0305506,"Critical number of atoms in an attractive Bose-Einstein condensate on an
+  optical plus harmonic traps",2.967964088711745e-06,0.0,2.0,0.0
+cond-mat/0311558,Dissociation and Decay of Ultra-cold Sodium Molecules,2.9616604576830283e-06,3.6468262622755574e-08,5.0,4.0
+cond-mat/0411684,"From ageing to immortality: cluster growth in stirred colloidal
+  solutions",2.9598638473819437e-06,1.908494419067074e-06,3.0,1.0
+cond-mat/0209589,Generic slow relaxation in a stochastic sandpile,2.959125673456605e-06,0.0,3.0,1.0
+cond-mat/0308325,"Vortex core structure and global properties of rapidly rotating
+  Bose-Einstein condensates",2.959090796105462e-06,4.224259152143946e-05,4.0,8.0
+cond-mat/0403170,Clusters in a magnetic toy model for binary granular piles,2.9556313555959445e-06,0.0,3.0,0.0
+cond-mat/0006111,Observation of Superfluid Flow in a Bose-Einstein Condensed Gas,2.954777436175152e-06,7.4260550565674335e-09,4.0,2.0
+cond-mat/9811426,Compact polymers on decorated square lattices,2.953469375687737e-06,6.633942517200226e-07,4.0,3.0
+chao-dyn/9907034,On geometric properties of passive random advection,2.9527334630333173e-06,0.0,3.0,0.0
+cond-mat/0403408,"On The Existence of Roton Excitations in Bose Einstein Condensates:
+  Signature of Proximity to a Mott Insulating Phase",2.9463877282328225e-06,3.694154311157628e-07,2.0,2.0
+cond-mat/0303308,"Measurement of the Spatial Correlation Function of Phase Fluctuating
+  Bose-Einstein Condensates",2.9439993722940068e-06,0.0,4.0,2.0
+cond-mat/0109002,"A model of inversion of DNA charge by a positive polymer:
+  fractionization of the polymer charge",2.933204028409142e-06,0.0,1.0,2.0
+cond-mat/0111515,"Scaling Limit of Vicious Walkers, Gaussian Random Matrix Ensembles, and
+  Dyson Brownian Motions",2.931393010823629e-06,0.0,1.0,2.0
+cond-mat/0305008,"Observation of Tkachenko Oscillations in Rapidly Rotating Bose-Einstein
+  Condensates",2.9294396467314548e-06,1.2308256178748006e-05,4.0,8.0
+cond-mat/0108323,Melting and unzipping of DNA,2.9278375048393925e-06,0.0,4.0,7.0
+physics/0504051,"Power-law rheology and mechano-sensing in a cytoskeleton model with
+  forced protein unfolding",2.923024895913817e-06,0.0,1.0,0.0
+cond-mat/0106138,Spontaneous thermal expansion of nematic elastomers,2.923024895913817e-06,0.0,1.0,0.0
+cond-mat/0107112,"Connectivity of neutral networks and structural conservation in protein
+  evolution",2.923024895913817e-06,0.0,1.0,1.0
+cond-mat/0411548,"Rheology of granular mixtures under uniform shear flow: Enskog kinetic
+  theory versus molecular dynamics simulations",2.923024895913817e-06,0.0,1.0,4.0
+cond-mat/0101323,"Homogeneous nucleation of a non-critical phase near a continuous phase
+  transition",2.923024895913817e-06,0.0,1.0,0.0
+cond-mat/0307079,Adsorption of mono- and multivalent cat- and anions on DNA molecules,2.923024895913817e-06,0.0,1.0,0.0
+cond-mat/0412743,"Nucleation of solitary wave complexes in two-component mixture
+  Bose-Einstein condensates",2.923024895913817e-06,0.0,1.0,2.0
+cond-mat/0109457,"Three dimensional hydrodynamic lattice-gas simulations of domain growth
+  and self-assembly in binary immiscible and ternary amphiphilic fluids",2.923024895913817e-06,0.0,1.0,0.0
+cond-mat/0105201,"The Osmotic Coefficient of Rod-like Polyelectrolytes: Computer
+  Simulation, Analytical Theory, and Experiment",2.923024895913817e-06,0.0,1.0,0.0
+cond-mat/0212196,Cold Bose Gases near Feshbach Resonances,2.921308759885799e-06,0.0,2.0,1.0
+cond-mat/0305692,Cold Bose Gases near Feshbach Resonances,2.921308759885799e-06,0.0,2.0,0.0
+cond-mat/0307477,Structure and distribution of arches in shaken hard sphere deposits,2.91697922313738e-06,0.0,1.0,0.0
+cond-mat/0606399,Statistical Mechanics of DNA-Mediated Colloidal Aggregation,2.91697922313738e-06,0.0,1.0,0.0
+cond-mat/0012011,"Ground State and Quasiparticle Spectrum of a Two Component Bose-Einstein
+  Condensate",2.91697922313738e-06,0.0,1.0,0.0
+cond-mat/0606397,Self-assembly of DNA-coded nanoclusters,2.91697922313738e-06,0.0,1.0,1.0
+cond-mat/0508268,Green's functions and hydrodynamics for isotopic binary diffusion,2.91697922313738e-06,0.0,1.0,1.0
+cond-mat/0406321,Aging under Shear: Structural Relaxation of a Non-Newtonian Fluid,2.9061057968951727e-06,0.0,1.0,0.0
+cond-mat/0211032,"MCAMC: An Advanced Algorithm for Kinetic Monte Carlo Simulations: from
+  Magnetization Switching to Protein Folding",2.905422270735759e-06,0.0,2.0,0.0
+nlin/0110013,Broken symmetries and directed collective energy transport,2.9031069995751712e-06,0.0,3.0,3.0

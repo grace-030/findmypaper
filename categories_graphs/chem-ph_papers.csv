@@ -1,0 +1,352 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+nucl-th/9609014,Algebraic model of an oblate top,7.090473202660525e-06,0.0,3.0,0.0
+chem-ph/9608001,"Monte Carlo Optimization of Trial Wave Functions in Quantum Mechanics
+  and Statistical Mechanics",4.199458373837573e-06,0.0,3.0,2.0
+chem-ph/9508002,"Electrostatic potential of a homogeneously charged square and cube in
+  two and three dimensions",3.62335329328243e-06,0.0,2.0,0.0
+atom-ph/9511001,On the Use of Quantum Algebras in Rotation-Vibration Spectroscopy,3.414200726067809e-06,0.0,1.0,3.0
+nucl-th/9606012,Perturbation of Embedded Eigenvalue by a Near-Lying Resonance,2.7540289062824667e-06,0.0,4.0,2.0
+cond-mat/9605092,Generalized Bloch equations for a strongly driven tunneling system,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/9512102,Memory Loss and Auger Processes in a Many Body Theory of Charge Transfer,2.4711431321721443e-06,0.0,1.0,0.0
+comp-gas/9501002,Renormalized Equilibria of a Schloegl Model Lattice Gas,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/9608108,Cooperative Chiral Order in Copolymers of Chiral and Achiral Units,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/9510054,"Underpotential deposition of Cu on Au(111) in sulfate-containing
+  electrolytes: a theoretical and experimental study",2.4711431321721443e-06,0.0,1.0,0.0
+nucl-th/9512016,Quantum Algebraic Symmetries in Nuclear and Molecular Physics,2.0102590677280302e-06,0.0,2.0,0.0
+cond-mat/9509078,Dynamical simulation of transport in one-dimensional quantum wires,1.917007261739015e-06,0.0,2.0,1.0
+chem-ph/9604004,A Criterion That Determines Fast Folding of Proteins: A Model Study,1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/9603150,Slow relaxation in granular compaction,1.8950380516170012e-06,0.0,1.0,6.0
+chem-ph/9512004,Evidence for Non-Random Hydrophobicity Structures in Protein Chains,1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/9609189,A Variational Approach to Nonlocal Exciton-Phonon Coupling,1.60698551133943e-06,0.0,1.0,0.0
+chem-ph/9411008,"Funnels, Pathways and the Energy Landscape of Protein Folding: A
+  Synthesis",1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/9602009,Diffusion-annihilation dynamics in one spatial dimension,1.3189329710618589e-06,0.0,0.0,1.0
+chem-ph/9603006,"From Heisenberg matrix mechanics to EBK quantization: theory and first
+  applications",1.3189329710618589e-06,0.0,0.0,1.0
+chem-ph/9512001,Monte-Carlo studies of bosonic van der Waals clusters,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9605183,"Microscopic Reversibility and Macroscopic Behavior: Physical
+  Explanations and Mathematical Derivations",1.3189329710618589e-06,0.0,0.0,2.0
+chem-ph/9605002,"Identification of Amino Acid Sequences with Good Folding Properties in
+  an Off-Lattice Model",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9512019,"Entropic Barriers, Frustration and Order: Basic Ingredients in Protein
+  Folding",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9510103,"Exciton effects and nonlinear optical response in soliton lattice states
+  of doped conjugated polymers",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9507023,Liquids with Chiral Bond Order,1.3189329710618589e-06,0.0,0.0,2.0
+chem-ph/9606002,A local anharmonic treatment of vibrations of methane,1.3189329710618589e-06,0.0,0.0,3.0
+quant-ph/9505012,"Feynman-Kac Kernels in Markovian Representations of the Schroedinger
+  Interpolating Dynamics",1.3189329710618589e-06,0.0,0.0,1.0
+hep-lat/9507021,Hyper-Systolic Parallel Computing,1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/9502019,"Variational perturbation expansion for strong-coupling coefficients of
+  the anharmonic oscillator",1.3189329710618589e-06,0.0,0.0,20.0
+quant-ph/9502018,"Scaling property of variational perturbation expansion for general
+  anharmonic oscillator",1.3189329710618589e-06,0.0,0.0,7.0
+cond-mat/9509047,Imbibition: An Example of Nonconserved Cellular Automaton,1.3189329710618589e-06,0.0,0.0,1.0
+chem-ph/9404003,"Quantum Annealing: A New Method for Minimizing Multidimensional
+  Functions",1.3189329710618589e-06,0.0,0.0,1.0
+chem-ph/9604002,"Boson-realization model for the vibrational spectra of tetrahedral
+  molecules",1.3189329710618589e-06,0.0,0.0,1.0
+chem-ph/9505001,On finite-size effects in computer simulations using the Ewald potential,1.3189329710618589e-06,0.0,0.0,1.0
+chem-ph/9505005,On the free energy of ionic hydration,1.3189329710618589e-06,0.0,0.0,1.0
+chem-ph/9603002,"A Symmetry Adapted Approach to Molecular Spectroscopy: The Anharmonic
+  Oscillator Symmetry Model",1.3189329710618589e-06,0.0,0.0,1.0
+chem-ph/9603005,On the energy spectrum of the C60-fullerene anion,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9503145,"Critical point and coexistence curve properties of the Lennard-Jones
+  fluid: A finite-size scaling study",1.3189329710618589e-06,0.0,0.0,4.0
+chem-ph/9604005,A general algebraic model for molecular vibrational spectroscopy,1.3189329710618589e-06,0.0,0.0,2.0
+quant-ph/9608027,On a Generalized Oscillator System: Interbasis Expansions,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9609021,Tunneling with the Lorentz Force and the Friction,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9609091,"Optical absorption of strongly correlated half-filled Mott-Hubbard
+  chains",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9509099,Theory of Chiral Order in Random Copolymers,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9408054,"Quasi-classical path integral approach to supersymmetric quantum
+  mechanics",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9510162,Corrections to scaling in 2--dimensional polymer statistics,1.3189329710618589e-06,0.0,0.0,1.0
+chem-ph/9411007,"Comment on ""Monte Carlo Simulation of a First-Order Transition""",1.3189329710618589e-06,0.0,0.0,1.0
+quant-ph/9510006,Solving the Coulomb Schrodinger Equation in d=2+1 via Sinc Collocation,1.3189329710618589e-06,0.0,0.0,2.0
+comp-gas/9507001,A Lattice-Gas Model of Microemulsions,1.3189329710618589e-06,0.0,0.0,1.0
+astro-ph/9605091,Theory of DDT in Unconfined Flames,,,,
+atom-ph/9509002,"Conventional Quantum Chemical Correlation Energy versus
+  Density-Functional Correlation Energy",,,,
+atom-ph/9509003,Nuclear spin--rotation interaction in the hydrogen molecular ion,,,,
+atom-ph/9511002,Two-Photon Spectroscopy Between States of Opposite Parities,,,,
+atom-ph/9512001,The Periodic Table in Flatland,,,,
+atom-ph/9512002,"Coulomb Energy Averaged over the $n\ell^N$-Atomic States with a Definite
+  Spin",,,,
+atom-ph/9607002,"Variational calculations of dispersion coefficients for interactions
+  between H, He, and Li atoms",,,,
+chao-dyn/9411019,"Uniform Semiclassical Wavepacket Propagation and Eigenstate Extraction
+  in a Smooth Chaotic System",,,,
+chem-ph/9403001,"Fourier Path Integral Monte Carlo Method for the Calculation of the
+  Microcanonical Density of States",,,,
+chem-ph/9403002,"Monte Carlo Studies of the Orientational Order-Disorder Phase Transition
+  in Solid Ammonium Chloride",,,,
+chem-ph/9403003,Stability of the Hydrogen and Hydrogen-like Molecules,,,,
+chem-ph/9403004,Comparison of electron density functional models,,,,
+chem-ph/9403005,Density Functional Calculations On First-Row Transition Metals,,,,
+chem-ph/9403006,"The Aqueous Solvation of Water: A Comparison of Continuum Methods with
+  Molecular Dynamics",,,,
+chem-ph/9403007,Magic Numbers of Silicon Clusters,,,,
+chem-ph/9403008,Vibrational States of the Hydrogen Isotopes on Pd(111),,,,
+chem-ph/9403009,Li$_5$ as a pseudorotating planar cluster,,,,
+chem-ph/9404001,Ion Pair Potentials-of-Mean-Force in Water,,,,
+chem-ph/9404002,"Tests of Dielectric Model Descriptions of Chemical Charge Displacements
+  in Water",,,,
+chem-ph/9405002,"Decisions, Decisions: Noise and its Effects on Integral Monte Carlo
+  Algorithms",,,,
+chem-ph/9406001,Magic Numbers for Classical Lennard-Jones Cluster Heat Capacities,,,,
+chem-ph/9406002,Dynamical Fluctuating Charge Force Fields: Application to Liquid Water,,,,
+chem-ph/9407001,The Construction of Double-Ended Classical Trajectories,,,,
+chem-ph/9408001,Theoretical calculation of the water ion product K_W,,,,
+chem-ph/9409001,"C20: Fulleren, Bowl or Ring? New Results from Coupled-Cluster
+  Calculations",,,,
+chem-ph/9409002,Locating transition states using double-ended classical trajectories,,,,
+chem-ph/9410001,"On the Mechanism of the Primary Charge Separation in Bacterial
+  Photosynthesis",,,,
+chem-ph/9410002,Transferable Tight-Binding Potential for Hydrocarbons,,,,
+chem-ph/9411001,"Many-Body effects and resonances in universal quantum sticking of cold
+  atoms to surfaces",,,,
+chem-ph/9411002,Packing Transitions in Nanosized Li Clusters,,,,
+chem-ph/9411003,Dimensional Perturbation Theory on the Connection Machine,,,,
+chem-ph/9411004,"Theoretical Study of Time-Resolved Fluorescence Anisotropy from Coupled
+  Chromophore Pairs",,,,
+chem-ph/9411005,"Comparative Study of Multicanonical and Simulated Annealing Algorithms
+  in the Protein Folding Problem",,,,
+chem-ph/9411006,Low-temperature dynamical simulation of spin-boson systems,,,,
+chem-ph/9411009,"A Hybrid Decomposition Parallel Implementation of the Car-Parrinello
+  Method",,,,
+chem-ph/9411010,Radiative association and inverse predissociation of oxygen atoms,,,,
+chem-ph/9411011,Molecular Dynamics Simulations of a Pressure-induced Glass Transition,,,,
+chem-ph/9411012,"Reversible Work Transiton State Theory: Application to Dissociative
+  Adsorption of Hydrogen",,,,
+chem-ph/9412001,"Microwave detected, microwave-optical double resonance of NH3, NH2D,
+  NHD2, and ND3. II. Predissociation dynamics of the A state",,,,
+chem-ph/9412002,"Microwave detected, microwave-optical double resonance of NH3, NH2D,
+  NHD2, and ND3. I. Sturcture and force field of the A state",,,,
+chem-ph/9412003,Specific heat in the thermodynamics of clusters,,,,
+chem-ph/9501001,"Two-Color Coherent Photodissociation of Nitrogen Oxide in Intense Laser
+  Fields",,,,
+chem-ph/9501002,"Integral equation theory for the electrode-electrolyte interface with
+  the central force water model. Results for an aqueous solution of sodium
+  chloride",,,,
+chem-ph/9502001,Structure of Si12 Cluster,,,,
+chem-ph/9502002,Structure of Silicon Clusters,,,,
+chem-ph/9502003,Spectral Shifts of Semiconductor Clusters,,,,
+chem-ph/9502004,"""The numerical accuracy of truncated Ewald sums for periodic systems
+  with long-range Coulomb interactions""",,,,
+chem-ph/9502005,Critical Behavior of the Widom-Rowlinson Lattice Model,,,,
+chem-ph/9502006,Sequence Dependence of Self-Interacting Random Chains,,,,
+chem-ph/9502007,A Variational Approach for Minimizing Lennard-Jones Energies,,,,
+chem-ph/9502008,"Application of Gradient-Corrected Density Functional Theory to the
+  Structures and Thermochemistries of $\mbox{ScF}_3$, $\mbox{TiF}_4$,
+  $\mbox{VF}_5$, and $\mbox{CrF}_6$",,,,
+chem-ph/9502009,"A Monte Carlo study of temperature-programmed desorption spectra with
+  attractive lateral interactions",,,,
+chem-ph/9502010,Nonlinearity and trapping in excitation transfer: Dimers and Trimers.,,,,
+chem-ph/9502011,Excitonic - vibronic coupled dimers: A dynamic approach,,,,
+chem-ph/9504001,Temperature Dependence of the Optical Response of Small Sodium Clusters,,,,
+chem-ph/9504002,Metal-Insulator Transition in C60-Polymers,,,,
+chem-ph/9504003,"Application of A Distributed Nucleus Approximation In Grid Based
+  Minimization of the Kohn-Sham Energy Functional",,,,
+chem-ph/9504004,"Density functional theory using an optimized exchange-correlation
+  potential",,,,
+chem-ph/9505002,"Global geometry optimization of clusters using a growth strategy
+  optimized by a genetic algorithm",,,,
+chem-ph/9505003,"Studies of an Off-Lattice Model for Protein Folding: Sequence Dependence
+  and Improved Sampling at Finite Temperature",,,,
+chem-ph/9505006,"Thermodynamics of helix-coil transitions studied by multicanonical
+  algorithms",,,,
+chem-ph/9506001,Quantum Confinement Effects in Semiconductor Clusters II,,,,
+chem-ph/9506002,Chemistry of Nanoscale Semiconductor Clusters,,,,
+chem-ph/9506003,Growth Pattern of Silicon Clusters,,,,
+chem-ph/9506004,"Titrating Polyelectrolytes - Variational Calculations and Monte Carlo
+  Simulations",,,,
+chem-ph/9507001,"The Markoff-Automaton - a New Algorithm for Simulating the
+  Time--Evolution of Large Stochastic Dynamic Systems",,,,
+chem-ph/9507002,Spectrum Generating Algebra for X$_{3}$ Molecules,,,,
+chem-ph/9507003,"Kinetic and thermodynamic analysis of proteinlike heteropolymers: Monte
+  Carlo histogram technique",,,,
+chem-ph/9507004,The hydration free energy of water,,,,
+chem-ph/9507005,Bifurcation in Rotational Spectra of Nonlinear AB$_2$ Molecules,,,,
+chem-ph/9508001,A generalized local approximation to the exchange potential,,,,
+chem-ph/9508003,"Coherent Control of Isotope Separation in HD+ Photodissociation by
+  Strong Fields",,,,
+chem-ph/9508004,"Bond Orientational Order, Molecular Motion and Free Energy of High
+  Density DNA Mesophases",,,,
+chem-ph/9509001,"Iterative Solution of the Ornstein-Zernike Equation with Various
+  Closures Using Vector Extrapolation",,,,
+chem-ph/9510001,A Heuristic Molecular Model of Hydrophobic Interactions,,,,
+chem-ph/9510002,"Mixed Direct-Iterative Methods for Boundary Integral Formulations of
+  Dielectric Solvation Models",,,,
+chem-ph/9510003,"Boundary Integral Methods for the Poisson Equation of Continuum
+  Dielectric Solvation Models",,,,
+chem-ph/9510004,A Blocking Technique for Emulating Very Large Polyelectrolytes,,,,
+chem-ph/9511001,"The Atomic and Electronic Structure of Liquid N- Methylformamide as
+  Determined from Diffraction Experiments",,,,
+chem-ph/9511002,"Influence of surfactants on the structure of titanium oxide gels :
+  experiments and simulations",,,,
+chem-ph/9512002,"Fractal Dimension of Disordered Submonolayers: Determination from He
+  Scattering Data",,,,
+chem-ph/9512003,"Optical Theorem and the Inversion of Cross Section Data for Atom
+  Scattering from Defects on Surfaces",,,,
+chem-ph/9512005,On the geometry and conformation of starburst dendrimers,,,,
+chem-ph/9512006,Direct subsurface absorption of hydrogen on Pd(111),,,,
+chem-ph/9512007,Quantum Effects in Barrier Dynamics,,,,
+chem-ph/9512008,"He Scattering from Compact Clusters and from Diffusion-Limited
+  Aggregates on Surfaces: Observable Signatures of Structure",,,,
+chem-ph/9601001,Dynamics of Proton Transfer in Mesoscopic Clusters,,,,
+chem-ph/9601002,Binary Assignments of Amino Acids from Pattern Conservation,,,,
+chem-ph/9601003,"Molecular dynamics study of solvation effects on acid dissociation in
+  aprotic media",,,,
+chem-ph/9601004,Liquid Crystal Analogue of Abrikosov Vortex Flow in Superconductors,,,,
+chem-ph/9602001,Lyapunov instability of fluids composed of rigid diatomic molecules,,,,
+chem-ph/9602002,"Exact and Semiclassical Density Matrix of a Particle Moving in a Barrier
+  Potential with Bound States",,,,
+chem-ph/9602003,Protein dynamics with off-lattice Monte Carlo moves,,,,
+chem-ph/9602004,Scaling and Scale Breaking in Polyelectrolyte,,,,
+chem-ph/9602005,"Computational Study of the Structure and Thermodynamic Properties of
+  Ammonium Chloride Clusters Using a Parallel J-Walking Approach",,,,
+chem-ph/9603001,"Correlation Energy Estimators based on M{\o}ller-Plesset Perturbation
+  Theory",,,,
+chem-ph/9603003,"On the relation between algebraic and configuration space calculations
+  of molecular vibrations",,,,
+chem-ph/9603004,Bond angle distribution in amorphous germania and silica,,,,
+chem-ph/9603007,"Motional diminishing of optical activity: a novel method for studying
+  molecular dynamics in liquids and plastic crystals",,,,
+chem-ph/9604001,Van der Waals clusters in the ultra-quantum limit: a Monte Carlo study,,,,
+chem-ph/9604003,"Solvent mode participation in the non-radiative relaxation of the
+  hydrated electron",,,,
+chem-ph/9604006,Ion-Chain Dynamics in Polymer Electrolytes,,,,
+chem-ph/9604007,"Theory for the Ultrafast Structural Response of optically excited small
+  clusters: Time-dependence of the Ionization Potential",,,,
+chem-ph/9605003,"Extended Two--Particle Green's Functions and Optical Potentials for
+  Two--Particle Scattering by Many--Body Targets",,,,
+chem-ph/9605004,On the Stability of Endohedral Rare Gas Fullerenes,,,,
+chem-ph/9606001,Charge transfer excitons in C60-dimers and polymers,,,,
+chem-ph/9607001,Stability and Teller's Theorem: A Thomas-Fermi Theory of Fullerenes,,,,
+chem-ph/9607002,"On a Thomas-Fermi model of ""hollow"" atom",,,,
+chem-ph/9608002,"A Dynamical Theory of Electron Transfer: Crossover from Weak to Strong
+  Electronic Coupling",,,,
+chem-ph/9608003,"$\Delta I=4$ and $\Delta I=8$ bifurcations in rotational bands of
+  diatomic molecules",,,,
+chem-ph/9608004,Relation between a Screened Polyelectrolyte and a Field Theory,,,,
+chem-ph/9608005,"Applications of the Optimized Effective Potential Method of Density
+  Functional Theory to Atomic and Molecular Systems",,,,
+chem-ph/9609001,"A Variational Approach to the Structure and Thermodynamics of Linear
+  Polyelectrolytes with Coulomb and Screened Coulomb Interactions",,,,
+chem-ph/9609002,A Computational Study of Thirteen-atom Ar-Kr Cluster Heat Capacities,,,,
+cond-mat/9403088,Recent Developments in Supersymmetric Quantum Mechanics,,,,
+cond-mat/9404048,Optical Absorption in Higher Fullerenes: Effects of Symmetry Reduction,,,,
+cond-mat/9405044,"Optical absorption spectra of A6C60 and A6C70: Reduction of effective
+  Coulomb interactions in Frenkel excitons",,,,
+cond-mat/9406071,Solvent-induced organization: A physical model of folding myoglobin,,,,
+cond-mat/9411027,"Exciton effects in soliton and bipolaron lattice states of doped
+  electron-phonon Peierls systems",,,,
+cond-mat/9411031,Infrared and Raman Evidence for Dimers and Polymers in Rb1C60,,,,
+cond-mat/9411084,Free Thermal Convection Driven by Nonlocal Effects,,,,
+cond-mat/9503011,"Coadsorption of Copper and Sulfate on Au(111) Electrodes: Monte Carlo
+  Simulation of a Lattice-Gas Model",,,,
+cond-mat/9503023,"On thermoelastic phenomena around orientational ordering transition in
+  crystalline C60",,,,
+cond-mat/9503053,"Excitons in soliton and bipolaron lattice states of doped Peierls
+  systems",,,,
+cond-mat/9503125,Doping Effects and Electronic States in C60-Polymers,,,,
+cond-mat/9504085,EQUIVALENCES BETWEEN STOCHASTIC SYSTEMS,,,,
+cond-mat/9505013,Viscosities of the Gay-Berne nematic liquid crystal,,,,
+cond-mat/9505133,Metallic and insulating states in two-dimensional C60-polymers,,,,
+cond-mat/9506003,"Nonlinear optical response from excitons in soliton lattice systems of
+  doped conjugated polymers",,,,
+cond-mat/9506025,Lattice-Gas Models of Adsorption in the Double Layer,,,,
+cond-mat/9506128,"Strongly-interacting model for antiferromagnetism in one-dimensional
+  C60-polymers: A1C60",,,,
+cond-mat/9507039,"Calculation of the Density of States Using Discrete Variable
+  Representation and Toeplitz Matrices",,,,
+cond-mat/9507088,"Solid-to-solid isostructural transition in the hard sphere/attractive
+  Yukawa system",,,,
+cond-mat/9507133,Occupation numbers in density-functional calculations,,,,
+cond-mat/9508016,A reaction-diffusion model for the hydration/setting of cement,,,,
+cond-mat/9508023,"Molecular ordering of precursor films during spreading of tiny liquid
+  droplets",,,,
+cond-mat/9509032,"Response of Kinetic Ising System to Oscillating External Fields:
+  Amplitude and Frequency Dependence",,,,
+cond-mat/9509070,Individual Entanglements in a Simulated Polymer Melt,,,,
+cond-mat/9510010,Dislocation Mediated Melting Near Isostructural Critical Points,,,,
+cond-mat/9510108,Is surface melting a surface phase transition?,,,,
+cond-mat/9510123,"How Accurate Must Potentials Be for Successful Modeling of Protein
+  Folding?",,,,
+cond-mat/9601010,Optical absorption spectra and geometric effects in higher fullerenes,,,,
+cond-mat/9601091,"Diffusive Dynamics of the Reaction Coordinate for Protein Folding
+  Funnels",,,,
+cond-mat/9602079,"Nonlinear Optical Response from Excitons in Soliton Lattice Systems of
+  Doped Conducting Polymers",,,,
+cond-mat/9603092,Kinetics of fragmentation-annihilation processes,,,,
+cond-mat/9604047,Fluid mixtures of parallel hard cubes,,,,
+cond-mat/9604098,"Short-time rotational diffusion in monodisperse charge-stabilized
+  colloidal suspensions",,,,
+cond-mat/9604113,Electronic Structures in C60-Polymers (review),,,,
+cond-mat/9604114,Chain length dependence of the polymer-solvent critical point parameters,,,,
+cond-mat/9604132,"Charge transfer excitons in optical absorption spectra of C60-dimers and
+  polymers",,,,
+cond-mat/9605169,Equation of State of the Hard-Sphere Crystal,,,,
+cond-mat/9605194,Theoretical Approach to the Correlations of a Hard-Sphere Crystal,,,,
+cond-mat/9605205,"Elastic Scattering by Deterministic and Random Fractals: Self-Affinity
+  of the Diffraction Spectrum",,,,
+cond-mat/9606028,Weak Chirality in Ordered DNA Phases,,,,
+cond-mat/9606059,"Surprises in the Orbital Magnetic Moment and g-Factor of the Dynamic
+  Jahn-Teller Ion C_{60}^-",,,,
+cond-mat/9607039,"Influence of hydrodynamic interactions on the ballistic deposition of
+  colloidal particles on solid surfaces",,,,
+cond-mat/9607045,"Separation of the Exchange-Correlation Potential into Exchange plus
+  Correlation: an Optimized Effective Potential Approach",,,,
+cond-mat/9607084,On the Microscopic Origin of Cholesteric Pitch,,,,
+cond-mat/9608140,Kinetics of Surfactant Adsorption at Fluid-Fluid Interfaces,,,,
+cond-mat/9608163,Electrostatics of Lipid Bilayer Bending,,,,
+cond-mat/9609002,Nonlinear optical response from excitons in soliton lattice systems,,,,
+cond-mat/9609042,Perturbation Theory for Classical Solids,,,,
+cond-mat/9609089,"Optical absorption of non-interacting tight-binding electrons in a
+  Peierls-distorted chain at half band-filling",,,,
+cond-mat/9609090,"Exact results for the optical absorption of strongly correlated
+  electrons in a half-filled Peierls-distorted chain",,,,
+cond-mat/9609168,"Long-Range Excitons in Optical Absorption Spectra of Electroluminescent
+  Polymer Poly(para-phenylenevinylene)",,,,
+cond-mat/9609170,Fluid Vesicles in Shear Flow,,,,
+cond-mat/9609208,"Giant vesicles at the prolate-oblate transition: A macroscopic bistable
+  system",,,,
+cond-mat/9609277,Glass Formation in the Gay-Berne Nematic Liquid Crystal,,,,
+hep-lat/9608111,Why a Particle Physicist is Interested in DNA Branch Migration,,,,
+hep-th/9508008,"Real Space Renormalization-Group for Configurational Random Walk Models
+  on a Hierarchical Lattice. The Asymptotic End-to-End Distance of a Weakly
+  SARW in Dimension Four",,,,
+mtrl-th/9501001,Phase Coexistence of a Stockmayer Fluid in an Applied Field,,,,
+mtrl-th/9504001,"Study of Oxygen Diffusion and Clustering in Silicon using an Empirical
+  Interatomic Potential",,,,
+mtrl-th/9506004,Molecular geometry optimization with a genetic algorithm,,,,
+mtrl-th/9508006,"Density-Functional Theory of the nonlinear optical susceptibility:
+  application to cubic semiconductors",,,,
+mtrl-th/9508007,"The Effect of Strain on Thermodynamics of the Weakly First-Order Phase
+  Transition",,,,
+mtrl-th/9508008,Towards a Linear-Scaling DFT Technique: The Density Matrix Approach,,,,
+mtrl-th/9603004,Vibrational Spectra of Defects in Silicon: An Orbital Radii Approach,,,,
+mtrl-th/9604002,On The Low-Frequency Vibrational Modes of C$_{60}$,,,,
+mtrl-th/9607009,Variational quantum Monte Carlo ground state of GaAs,,,,
+mtrl-th/9608003,Polymers in Curved Boxes,,,,
+mtrl-th/9608008,"Ab initio simulations of liquid systems: Concentration dependence of the
+  electric conductivity of NaSn alloys",,,,
+mtrl-th/9609001,"Correlation effects in MgO and CaO: Cohesive energies and lattice
+  constants",,,,
+mtrl-th/9609003,Basis Functions for Linear-Scaling First-Principles Calculations,,,,
+mtrl-th/9609004,Substrate-adsorbate coupling in CO-adsorbed copper,,,,
+nucl-th/9406012,Chaos in Axially Symmetric Potentials with Octupole Deformation,,,,
+nucl-th/9409024,Periodic Orbits and Shell Structure in Octupole Deformed Potentials,,,,
+nucl-th/9504027,A Monte-Carlo Approach to Zero Energy Quantum Scattering,,,,
+nucl-th/9507003,On the Numerical Solution of the Time-Dependent Schroedinger Equation,,,,
+nucl-th/9510042,Quantum Algebraic Symmetries in Nuclei and Molecules,,,,
+q-alg/9510023,"Connection Between q-Deformed Anharmonic Oscillators and Quasi-Exactly
+  Soluble Potentials",,,,
+quant-ph/9502028,Classical and quantum Malus' law,,,,
+quant-ph/9505003,"The Schroedinger Problem, Levy Processes Noise in Relativistic Quantum
+  Mechanics",,,,
+quant-ph/9604009,"On the absence of bound-state stabilization through short ultra-intense
+  fields",,,,
+quant-ph/9609011,On the Influence of Pulse Shapes on Ionization Probability,,,,
+supr-con/9507007,Nonlinear optical response in doped conjugated polymers,,,,

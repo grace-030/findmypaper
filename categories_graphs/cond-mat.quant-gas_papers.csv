@@ -1,0 +1,86 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+cond-mat/0703011,"Spin dynamics across the superfluid-insulator transition of spinful
+  bosons",1.0116587684585304e-05,0.0,6.0,0.0
+cond-mat/0612268,"Fermionic superfluidity: From high Tc superconductors to ultracold Fermi
+  gases",6.311275618492846e-06,0.0,4.0,0.0
+cond-mat/0404274,"BCS-BEC Crossover: From High Temperature Superconductors to Ultracold
+  Superfluids",6.108358603538653e-06,0.0006481764407123,9.0,23.0
+cond-mat/0502087,Heat Capacity of a Strongly-Interacting Fermi Gas,5.938859970890512e-06,4.632043385081611e-06,7.0,7.0
+cond-mat/0608662,"Theory of Superfluids with Population Imbalance: Finite Temperature and
+  BCS-BEC Crossover Effects",5.169654010706476e-06,4.920961097980365e-06,7.0,3.0
+cond-mat/0608454,"Stability conditions and phase diagrams for two component Fermi gases
+  with population imbalance",5.167182046906542e-06,3.762313122944882e-06,7.0,6.0
+cond-mat/0610274,"Single-plane-wave Larkin-Ovchinnikov-Fulde-Ferrell state in
+  BCS--Bose-Einstein condensation crossover",5.056489866897245e-06,1.717029685811424e-06,6.0,3.0
+cond-mat/0508603,"Applying BCS-BEC Crossover Theory To High Temperature Superconductors
+  and Ultracold Atomic Fermi Gases",4.904210513767761e-06,5.831533725587122e-06,8.0,4.0
+cond-mat/0606155,Coherent matter waves emerging from Mott-insulators,4.7458402178187954e-06,6.975099835384831e-07,3.0,1.0
+cond-mat/0612103,"Superfluid phase diagrams of trapped Fermi gases with population
+  imbalance",4.617379719574623e-06,4.319940597128804e-07,4.0,1.0
+cond-mat/0604469,Finite Temperature Momentum Distribution of a Trapped Fermi Gas,4.515025475212901e-06,0.0,1.0,1.0
+cond-mat/0612213,"Time-Averaged Adiabatic Potentials: Versatile traps and waveguides for
+  ultracold quantum gases",4.063143711471229e-06,0.0,1.0,0.0
+cond-mat/0309329,"The Nature of Superfluidity in Ultracold Fermi Gases Near Feshbach
+  Resonances",4.0260166336228925e-06,0.0,1.0,14.0
+cond-mat/0608611,"Excited state spectra at the superfluid-insulator transition out of
+  paired condensates",3.737486662367115e-06,7.003862463043798e-06,2.0,2.0
+cond-mat/0610006,Finite Temperature Effects in Ultracold Fermi Gases,3.525146549596e-06,0.0,4.0,0.0
+cond-mat/0503302,"Collective Oscillations of Strongly Correlated One-Dimensional Bosons on
+  a Lattice",3.457831027337097e-06,0.0,2.0,5.0
+cond-mat/0408104,Density Profiles of Strongly Interacting Trapped Fermi Gases,2.7959713319346838e-06,0.0,4.0,2.0
+cond-mat/0604476,"Relaxation in a Completely Integrable Many-Body Quantum System: An Ab
+  Initio Study of the Dynamics of the Highly Excited States of Lattice
+  Hard-Core Bosons",2.750943126162558e-06,0.0,1.0,9.0
+cond-mat/0505689,"Population of closed-channel molecules in trapped Fermi gases with broad
+  Feshbach resonances",2.664968659084684e-06,2.80173408570475e-07,2.0,4.0
+cond-mat/0504394,Radio frequency spectroscopy and the pairing gap in trapped Fermi gases,2.598997147813227e-06,1.990182755160072e-06,4.0,1.0
+cond-mat/0406093,"Interferometric determination of the s- and d-wave scattering amplitudes
+  in $^{87}$Rb",2.4711431321721443e-06,0.0,1.0,1.0
+cond-mat/0207565,Dissipative Dynamics of a Josephson Junction In the Bose-Gases,2.4711431321721443e-06,0.0,1.0,0.0
+cond-mat/0512596,Understanding the superfluid phase diagram in trapped Fermi gases,2.462253633472346e-06,0.0,3.0,0.0
+quant-ph/0609133,"Spontaneous emergence of angular momentum Josephson oscillations in
+  coupled annular Bose-Einstein condensates",2.3469198153586743e-06,0.0,1.0,1.0
+cond-mat/0601681,Exact Study of the 1D Boson Hubbard Model with a Superlattice Potential,2.3327102343457243e-06,1.990182755160072e-06,2.0,1.0
+cond-mat/0206041,Macroscopic Quantum Coherence in a repulsive Bose-Einstein condensate,2.3148600265375035e-06,0.0,1.0,0.0
+cond-mat/0502299,Depletion of the Bose-Einstein condensate in Bose-Fermi mixtures,2.2255401298368392e-06,1.0175301102924071e-05,3.0,2.0
+cond-mat/0510647,"Ground State Description of a Single Vortex in an Atomic Fermi gas: From
+  BCS to Bose-Einstein Condensation",2.103214560755565e-06,0.0,1.0,1.0
+cond-mat/0509560,"Phase coherence, visibility, and the superfluid--Mott-insulator
+  transition on one-dimensional optical lattices",2.039094868759012e-06,0.0,1.0,0.0
+cond-mat/0402383,"Particle Density Distributions in Fermi Gas Superfluids: Molecular Boson
+  Effects",1.9874577205254344e-06,0.0,5.0,2.0
+cond-mat/0605684,"Finite temperature effects in trapped Fermi gases with population
+  imbalance",1.9796924692057807e-06,3.5189203011089667e-08,5.0,4.0
+cond-mat/0205474,Thermalization of an impurity cloud in a Bose-Einstein condensate,1.8950380516170012e-06,0.0,1.0,0.0
+cond-mat/0211604,Bose-Einstein condensation in a magnetic double-well potential,1.8950380516170012e-06,0.0,1.0,2.0
+cond-mat/0612415,"Hard-core bosons on optical superlattices: Dynamics and relaxation in
+  the superfluid and insulating regimes",1.6135200511011437e-06,0.0,1.0,0.0
+cond-mat/0703498,Re-examining Bogoliubov's theory of an interacting Bose gas,1.6101104112009452e-06,0.0,1.0,0.0
+cond-mat/0008368,"Bose-Einstein condensation in trapped bosons: A Variational Monte Carlo
+  analysis",1.4240425214520948e-06,0.0,1.0,3.0
+cond-mat/0611104,"What can ultracold Fermi gases teach us about high $T_c$ superconductors
+  and vice versa?",1.4108097072606e-06,0.0,1.0,2.0
+cond-mat/0605039,"Intermediate temperature superfluidity in an atomic Fermi gas with
+  population imbalance",1.397879124533069e-06,1.6523311130282007e-08,1.0,15.0
+cond-mat/0508326,Bragg Spectroscopy of Vortex Lattices in Bose-Einstein condensates,1.3678928436746542e-06,0.0,1.0,0.0
+cond-mat/0112326,Boundary of two mixed Bose-Einstein condensates,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0411090,Thermodynamics of Interacting Fermions in Atomic Traps,1.3189329710618589e-06,0.0,0.0,12.0
+cond-mat/0207599,"Bose-Einstein condensation into non-equilibrium states studied by
+  condensate focusing",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0204129,Impurity Scattering in a Bose-Einstein Condensate at finite temperature,1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/0606540,Axicon Lens for Coherent Matter Waves,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0510165,Metastable Bose-Einstein Condensate in a Linear Potential,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/0505136,"Shape oscillations in non-degenerate Bose gases - transition from the
+  collisionless to the hydrodynamic regime",,,,
+cond-mat/0508425,"Achievement of Quantum Degeneracy in a Na-QUIC trap in Brazil: an in
+  situ observation",,,,
+cond-mat/0508505,"Mechanocaloric and Thermomechanical Effects in Bose-Einstein Condensed
+  Systems",,,,
+cond-mat/0606129,"Dynamics of rotating Bose-Einstein condensates probed by Bragg
+  scattering",,,,
+cond-mat/0611740,"Josephson effect in an atomic Fulde-Ferrell-Larkin-Ovchinnikov
+  superfluid",,,,
+cond-mat/0702058,Nature of the Bogoliubov ground state of a weakly interacting Bose gas,,,,
+cond-mat/0703092,Gapped solitons and periodic excitations in strongly coupled BEC,,,,
+cond-mat/0703612,Manifestation of a gap due to the exchange energy in a spinor condensate,,,,
+nlin/0701042,3D-vortex labyrinths in the near field of solid-state microchip laser,,,,

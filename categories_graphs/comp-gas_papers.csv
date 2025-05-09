@@ -1,0 +1,288 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+comp-gas/9905002,"Construction of Molecular Dynamics Like Cellular Automata Models for
+  Simulation of Compressible Fluid Dynamic Systems",9.47540792109486e-06,0.0,13.0,0.0
+comp-gas/9811002,Crystalline Computation,9.421721828910368e-06,0.0,14.0,1.0
+hep-lat/9701001,"Perturbation theory predictions and Monte Carlo simulations for the 2-d
+  O(n) non-linear sigma-model",6.837306504382678e-06,0.0,9.0,10.0
+cond-mat/9801061,Garden of Eden states in traffic models,5.9966886438487085e-06,0.0,2.0,0.0
+quant-ph/9701019,Simulating quantum mechanics on a quantum computer,5.970765092521855e-06,0.0,9.0,19.0
+comp-gas/9704001,Lattice Gas Prediction is P-complete,4.199458373837573e-06,0.0,3.0,1.0
+quant-ph/9611005,"Quantum mechanics of lattice gas automata. I. One particle plane waves
+  and potentials",3.5792532810631853e-06,0.0,7.0,8.0
+quant-ph/9611038,Simulating Ising Spin Glasses on a Quantum Computer,3.4542215747918378e-06,0.0,9.0,9.0
+comp-gas/9902001,Exact results for deterministic cellular automata traffic models,3.334427866519169e-06,0.0,5.0,10.0
+comp-gas/9506001,SAMPLING ALMOST PERIODIC FUNCTIONS WITH RANDOM PROBES OF FINITE DENSITY,2.4711431321721443e-06,0.0,1.0,0.0
+chao-dyn/9307010,"Dependence of extensive chaos on the spatial correlation length
+  (substantial revision)",2.4711431321721443e-06,0.0,1.0,1.0
+chao-dyn/9508001,"Simulating Three-Dimensional Hydrodynamics on a Cellular-Automata
+  Machine",2.4711431321721443e-06,0.0,1.0,1.0
+comp-gas/9501002,Renormalized Equilibria of a Schloegl Model Lattice Gas,2.4711431321721443e-06,0.0,1.0,0.0
+hep-lat/9402012,"Variational description of statistical field theories using Daubechies'
+  wavelets",2.4711431321721443e-06,0.0,1.0,2.0
+cond-mat/9707007,Object orientation and visualization of physics in two dimensions,2.4711431321721443e-06,0.0,1.0,0.0
+quant-ph/9604003,From quantum cellular automata to quantum lattice gases,2.177803439352525e-06,0.0,4.0,27.0
+quant-ph/9605023,Unitarity in one dimensional nonlinear quantum cellular automata,2.065163630032568e-06,0.0,4.0,11.0
+cond-mat/9907412,The rate of entropy increase at the edge of chaos,2.01621506402474e-06,0.0,4.0,9.0
+quant-ph/9703027,Quantum lattice gases and their invariants,1.994348819065661e-06,0.0,3.0,4.0
+quant-ph/9604011,On the absence of homogeneous scalar unitary cellular automata,1.953719831345276e-06,0.0,4.0,8.0
+quant-ph/9701016,Quantum lattice-gas models for the many-body Schrodinger equation,1.917051757088013e-06,0.0,4.0,8.0
+cond-mat/9705171,"Phase Transitions in a Probabilistic Cellular Automaton with Two
+  Absorbing States",1.9155781317870777e-06,0.0,1.0,1.0
+hep-ex/9407003,Unbiased Estimators for Correlation Measurements,1.8950380516170012e-06,0.0,1.0,1.0
+cond-mat/9809275,Synchronization and Maximum Lyapunov Exponents of Cellular Automata,1.597752242734114e-06,0.0,1.0,1.0
+comp-gas/9709001,Lattice Fluid Dynamics from Perfect Discretizations of Continuum Flows,1.560412387884222e-06,0.0,1.0,8.0
+cond-mat/9802103,Block Spins for Partial Differential Equations,1.5218515948479375e-06,0.0,1.0,3.0
+cond-mat/9511072,Similarity-Detection and Localization,1.407564521916496e-06,0.0,1.0,0.0
+quant-ph/9604035,A Quantum Lattice-Gas Model for the Many-Particle Schroedinger Equation,1.4062373606713934e-06,0.0,2.0,12.0
+astro-ph/9503042,"A Parallel Processing Algorithm for Computing Short-Range Particle
+  Forces with Inhomogeneous Particle Distributions",1.3189329710618589e-06,0.0,0.0,2.0
+cond-mat/9706041,Jamming transition in a cellular automaton model for traffic flow,1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/9804071,Complexity of Two-Dimensional Patterns,1.3189329710618589e-06,0.0,0.0,3.0
+cond-mat/9603056,Macros and Multiscale Dynamics in Spin Glasses,1.3189329710618589e-06,0.0,0.0,1.0
+comp-gas/9403001,"Estimating Functions of Probability Distributions from a Finite Set of
+  Samples, Part 1: Bayes Estimators and the Shannon Entropy",1.3189329710618589e-06,0.0,0.0,1.0
+comp-gas/9403003,Correlations and Renormalization in Lattice Gases,1.3189329710618589e-06,0.0,0.0,1.0
+comp-gas/9508001,"On pressure and velocity flow boundary conditions for the lattice
+  Boltzmann BGK model",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9808162,Maxwell Model of Traffic Flows,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9810258,"A thermodynamically reversible generalization of Diffusion Limited
+  Aggregation",1.3189329710618589e-06,0.0,0.0,4.0
+cond-mat/9805025,"Coherent Moving States in Highway Traffic (Originally: Moving Like a
+  Solid Block)",1.3189329710618589e-06,0.0,0.0,1.0
+comp-gas/9703001,"Solution of the Density Classification Problem with Two Cellular
+  Automata Rules",1.3189329710618589e-06,0.0,0.0,5.0
+comp-gas/9302003,Detecting Nonlinearity in Data with Long Coherence Times,1.3189329710618589e-06,0.0,0.0,1.0
+comp-gas/9405004,"A Class of Fast Methods for Processing Irregularly Sampled or Otherwise
+  Inhomogeneous One-Dimensional Data",1.3189329710618589e-06,0.0,0.0,1.0
+hep-lat/9507021,Hyper-Systolic Parallel Computing,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9910369,A Ternary Lattice Boltzmann Model for Amphiphilic Fluids,1.3189329710618589e-06,0.0,0.0,1.0
+comp-gas/9607001,The Computational Complexity of the Lorentz Lattice Gas,1.3189329710618589e-06,0.0,0.0,2.0
+comp-gas/9609001,"Parallel Algorithm and Dynamic Exponent for Diffusion-limited
+  Aggregation",1.3189329710618589e-06,0.0,0.0,1.0
+patt-sol/9701008,"Predicting Non-linear Cellular Automata Quickly by Decomposing Them into
+  Linear Ones",1.3189329710618589e-06,0.0,0.0,1.0
+comp-gas/9512001,Lattice Gas Automata for Reactive Systems,1.3189329710618589e-06,0.0,0.0,1.0
+comp-gas/9507001,A Lattice-Gas Model of Microemulsions,1.3189329710618589e-06,0.0,0.0,1.0
+comp-gas/9509001,CAM-8: A Computer Architecture Based on Cellular Automata,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9411062,New tests of random numbers for simulations in physical systems,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9911340,A Particulate Basis for an Immiscible Lattice-Gas Model,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9411081,"Monte Carlo with Absorbing Markov Chains: Fast Local Algorithms for Slow
+  Dynamics",1.3189329710618589e-06,0.0,0.0,1.0
+comp-gas/9602001,Integer Lattice Gases,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9701118,"Majority-Vote Cellular Automata, Ising Dynamics, and P-Completeness",1.3189329710618589e-06,0.0,0.0,2.0
+comp-gas/9612001,"Simulation of Rayleigh-B\'enard convection using lattice Boltzmann
+  method",1.3189329710618589e-06,0.0,0.0,1.0
+comp-gas/9611001,"On pressure and velocity flow boundary conditions and bounceback for the
+  lattice Boltzmann BGK model",1.3189329710618589e-06,0.0,0.0,1.0
+comp-gas/9610001,"Turbulent channel flow simulations using a coarse-grained extension of
+  the Lattice Boltzmann method",1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9907298,A three-dimensional lattice gas model for amphiphilic fluid dynamics,1.3189329710618589e-06,0.0,0.0,1.0
+comp-gas/9507004,Detecting nonlinearity in multivariate time series,1.3189329710618589e-06,0.0,0.0,1.0
+comp-gas/9507003,Estimating Predictability: Redundancy and Surrogate Data Method,1.3189329710618589e-06,0.0,0.0,1.0
+cond-mat/9606188,Interface Roughening in a Hydrodynamic Lattice-Gas Model with Surfactant,1.3189329710618589e-06,0.0,0.0,1.0
+comp-gas/9603002,"Lattice-gas simulations of Domain Growth, Saturation and Self-Assembly
+  in Immiscible Fluids and Microemulsions",1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9701001,Quasi-Linear Cellular Automata,,,,
+astro-ph/9406070,"Reverberation mapping of active galactic nuclei : The SOLA method for
+  time-series inversion",,,,
+astro-ph/9408024,Symplectic Integration without Roundoff Error,,,,
+astro-ph/9607046,"Influence of Cooling-Induced Compressibility on the Structure of
+  Turbulent Flows and Gravitational Collapse",,,,
+chao-dyn/9304008,Braid analysis of (low-dimensional) chaos,,,,
+chao-dyn/9304011,Explicit Lie-Poisson integration and the Euler equations,,,,
+chao-dyn/9306002,Exhibiting Randomness in Arithmetic using Mathematica and C,,,,
+chao-dyn/9307019,Prediction of Large Events on a Dynamical Model of a Fault,,,,
+chao-dyn/9311002,Spatial Variation of Correlation Times for 1D Phase Turbulence,,,,
+chao-dyn/9401003,Chaotic time series Part II: System identification and prediction,,,,
+chao-dyn/9401004,"Chaotic time series Part I: Estimation of invariant properies in state
+  space",,,,
+chao-dyn/9502016,"Two-dimensional Navier--Stokes simulation of deformation and break up of
+  liquid patches",,,,
+chao-dyn/9506009,Lyapunov spectral analysis of a nonequilibrium Ising-like transition,,,,
+chao-dyn/9506015,"The creation of high-dimensional oscillations from low-dimensional
+  systems",,,,
+cmp-lg/9606015,Stabilizing the Richardson Algorithm by Controlling Chaos,,,,
+comp-gas/9302001,Some comments on the correlation dimension of $1/f^\alpha$ noise,,,,
+comp-gas/9303001,A Lattice Boltzmann Model for Multi-phase Fluid Flows,,,,
+comp-gas/9303002,"Message-Passing Multi-Cell Molecular Dynamics on the Connection Machine
+  5",,,,
+comp-gas/9303003,"Comparison of Spectral Method and Lattice Boltzmann Simulations of
+  Two-Dimensional Hydrodynamics",,,,
+comp-gas/9304001,"Domain Growth, Wetting and Scaling in Porous Media",,,,
+comp-gas/9304003,"The Lattice Boltzmann Equation Method for the Simulation of Compressible
+  Fluid Flow",,,,
+comp-gas/9304004,Wavelets and Fast Numerical Algorithms,,,,
+comp-gas/9304005,"Hydrodynamic Spinodal Decomposition: Growth Kinetics and Scaling
+  Functions",,,,
+comp-gas/9304006,Lattice Boltzmann Thermohydrodynamics,,,,
+comp-gas/9304007,Don't bleach chaotic data,,,,
+comp-gas/9305001,"Identification of Continuous-Time Dynamical Systems: Neural Network
+  Based Algorithms and Parallel Implementation",,,,
+comp-gas/9305002,Convergence of Convective-Diffusive Lattice Boltzmann Methods,,,,
+comp-gas/9305003,The non-linear response of the magnetosphere: 30 October 1978,,,,
+comp-gas/9305004,"Global Bifurcations in Rayleigh-Benard Convection: Experiments,
+  Empirical Maps and Numerical Bifurcation Analysis",,,,
+comp-gas/9305005,A New Class of Cellular Automata for Reaction-Diffusion Systems,,,,
+comp-gas/9306001,Stability Analysis of Lattice Boltzmann Methods,,,,
+comp-gas/9306002,Initial and Boundary Conditions for the Lattice Boltzmann Method,,,,
+comp-gas/9306003,"Exact Results for the Asymmetric Simple Exclusion Process with a
+  Blockage",,,,
+comp-gas/9306004,"Numerical Simulations of Particulate Suspensions via a Discretized
+  Boltzmann Equation Part I. Theoretical Foundation",,,,
+comp-gas/9306005,"Numerical Simulations of Particulate Suspensions via a Discretized
+  Boltzmann Equation Part II. Numerical Results",,,,
+comp-gas/9307002,"A Vectorized Algorithm for Molecular Dynamics of Short Range Interacting
+  Particles",,,,
+comp-gas/9307003,"Accuracy of Discrete-Velocity BGK Models for the Simulation of the
+  Incompressible Navier-Stokes Equations",,,,
+comp-gas/9307004,Abstracts on Pattern Formation and Lattice-Gas Automata,,,,
+comp-gas/9308001,Hydrodynamic behaviour of Lattice Boltzmann and Lattice BGK models,,,,
+comp-gas/9308002,Lattice Boltzmann-Langevin Equations,,,,
+comp-gas/9308003,Instabilities and Patterns (minor technical modifications),,,,
+comp-gas/9310001,Elimination of Nonlinear Deviations in Thermal Lattice BGK Models,,,,
+comp-gas/9310002,Particle-Mesh Methods on the Connection Machine,,,,
+comp-gas/9312002,Cellular automaton model of reaction-transport processes,,,,
+comp-gas/9401001,"Simulation of non-ideal gases and liquid-gas phase transitions by
+  lattice Boltzmann equation",,,,
+comp-gas/9401002,Lattice Boltzmann Magnetohydrodynamics,,,,
+comp-gas/9401003,Simulation of Cavity Flow by the Lattice Boltzmann Method,,,,
+comp-gas/9401004,A Lattice Boltzmann Subgrid Model for High Reynolds Number Flows,,,,
+comp-gas/9403002,"Estimating Functions of Distributions from A Finite Set of Samples, Part
+  2: Bayes Estimators for Mutual Information, Chi-Squared, Covariance and other
+  Statistics",,,,
+comp-gas/9403006,"Application of Complex Daubechies' Wavelets to Numerical Simulation of a
+  Nonlinear Signal Propagation Model",,,,
+comp-gas/9404001,Transforming Signs to Phase Distributions in Quantum Simulations,,,,
+comp-gas/9404002,Generalized Boltzmann Equation for Lattice Gas Automata,,,,
+comp-gas/9405002,"Generating surrogate data for time series with several simultaneously
+  measured variables",,,,
+comp-gas/9405003,Growth Kinetics in Multicomponent Fluids,,,,
+comp-gas/9405005,The correlation dimension of differenced data,,,,
+comp-gas/9405006,Generalized redundancies for time series analysis,,,,
+comp-gas/9405007,"Abstracts for the June 27-29 Princeton Conference: Discrete Models for
+  Fluid Mechanics",,,,
+comp-gas/9406001,Theoretical approach to two-dimensional traffic flow models,,,,
+comp-gas/9406002,"Testing For Nonlinearity Using Redundancies: Quantitative and
+  Qualitative Aspects",,,,
+comp-gas/9407001,Flow in the Driven Cavity Calculated by the Lattice Boltzmann Method,,,,
+comp-gas/9407002,Cellular Automaton for Realistic Modelling of Landslides,,,,
+comp-gas/9407003,"Nonlinear Analysis of Experimental Noisy Time Series in Fluidized Bed
+  Systems",,,,
+comp-gas/9408001,Recognition of Temporal Sequences of Patterns,,,,
+comp-gas/9408002,Heat Transfer in Lattice BGK Modeled Fluid,,,,
+comp-gas/9410001,Deterministic Chaos in Tropical Atmospheric Dynamics,,,,
+comp-gas/9411001,Renormalization of Lattice Gas Transport Coefficients,,,,
+comp-gas/9501001,Algebraic Spatial Correlations and Non-Gibbsian Equilibrium States,,,,
+comp-gas/9501003,New Results for Diffusion in Lorentz Lattice Gas Cellular Automata,,,,
+comp-gas/9501004,Analytical solutions of the lattice Boltzmann BGK model,,,,
+comp-gas/9501005,Prandtl number of lattice Bhatnagar-Gross-Krook fluid,,,,
+comp-gas/9501006,"Diffusion in Lorentz Lattice Gas Cellular Automata: the honeycomb and
+  quasi-lattices compared with the square and triangular lattices",,,,
+comp-gas/9501007,A Method for Near-Equilibrium Discrete-Velocity Gas Flows,,,,
+comp-gas/9501008,Shock structure in a nine-velocity gas,,,,
+comp-gas/9501009,Plane Waves in a Multispeed Discrete-Velocity Gas,,,,
+comp-gas/9501010,An Euler Solver Based on Locally Adaptive Discrete Velocities,,,,
+comp-gas/9502001,Nonlinear stability analysis of plane Poiseuille flow by normal forms,,,,
+comp-gas/9502002,Lattice Boltzmann Simulation of Non-Ideal Fluids,,,,
+comp-gas/9502003,Lattice Boltzmann Approach to Viscous Flows Between Parallel Plates,,,,
+comp-gas/9502004,"Cellular automaton model of precipitation/dissolution coupled with
+  solute transport",,,,
+comp-gas/9503001,Multi-component lattice-Boltzmann model with interparticle interaction,,,,
+comp-gas/9503002,Lattice gas with ``interaction potential'',,,,
+comp-gas/9505001,Lattice Boltzmann Model For Magnetic Fluids,,,,
+comp-gas/9505002,"On reconstruction of chaotic attractor from time series represented as
+  ""clusters""",,,,
+comp-gas/9505003,"Predicting and characterizing data sequences from structure-variable
+  systems",,,,
+comp-gas/9507002,"Analysis and boundary condition of the lattice Boltzmann BGK model with
+  two velocity components",,,,
+comp-gas/9508002,A non-slip boundary condition for lattice Boltzmann simulations,,,,
+comp-gas/9509002,"Detecting Nonlinearity in Pressure Data Inside the Draft Tube of a Real
+  Francis Turbine",,,,
+comp-gas/9509003,On Surrogate Data Testing for Linearity based on the Periodogram,,,,
+comp-gas/9509004,The developing structure of dynamical systems,,,,
+comp-gas/9509005,Parallel Algorithms on the ASTRA SIMD Machine,,,,
+comp-gas/9511001,A Lattice Boltzmann Model of Binary Fluid Mixture,,,,
+comp-gas/9511002,Mutual Information as a Bayesian Measure of Independence,,,,
+comp-gas/9511003,Investigations of a Two-Phase Fluid Model,,,,
+comp-gas/9512002,Coarse-grained entropy rates for characterization of complex time series,,,,
+comp-gas/9601001,Generating high-dimensional chaotic signals by the sum,,,,
+comp-gas/9602002,"State Space Reconstruction Parameters in the Analysis of Chaotic Time
+  Series - the Role of the Time Window Length",,,,
+comp-gas/9603001,Constrained-Realization Monte-Carlo Method for Hypothesis Testing,,,,
+comp-gas/9605001,"Estimating the Fractal Dimension, K_2-entropy, and the Predictability of
+  the Atmosphere",,,,
+comp-gas/9605002,Two-Dimensional Navier-Stokes Simulation of Breaking Waves,,,,
+comp-gas/9605003,Diffusion in a multi-component Lattice Boltzmann Equation model,,,,
+comp-gas/9605004,"Long-range correlations in non-equilibrium systems: Lattice gas
+  automaton approach",,,,
+comp-gas/9607002,"Computer simulations of domain growth and phase separation in
+  two-dimensional binary immiscible fluids using dissipative particle dynamics",,,,
+comp-gas/9607003,"Non-Gaussian statistics in space plasma turbulence, fractal properties
+  and pitfalls",,,,
+comp-gas/9608001,"Adaptive Mesh Refinement for Singular Current Sheets in Incompressible
+  Magnetohydrodynamic Flows",,,,
+comp-gas/9609002,Lattice Boltzmann Equation: Failure or Success?,,,,
+comp-gas/9609003,Lattice kinetic theory for numerical combustion,,,,
+comp-gas/9611002,"Data Analysis Techniques for Resolving Nonlinear Processes in Plasmas :
+  a Review",,,,
+comp-gas/9702001,A New Fast Method for Determining Local Properties of Striped Patterns,,,,
+comp-gas/9705001,"Phase Segregation Dynamics in Particle Systems with Long Range
+  Interactions I: Macroscopic Limits",,,,
+comp-gas/9707001,"Dynamic Predictions from Time Series Data- An Artificial Neural Network
+  Approach",,,,
+comp-gas/9712001,"Discretization of the velocity space in solution of the Boltzmann
+  equation",,,,
+comp-gas/9801001,Computations on Nondeterministic Cellular Automata,,,,
+comp-gas/9801002,Lindenmayer systems as a model of computations,,,,
+comp-gas/9804001,Effect of Boundary Conditions on Cellular Automata that Classify Density,,,,
+comp-gas/9805001,Generalized Thermal Lattice Gases,,,,
+comp-gas/9806001,Lattice-Boltzmann Simulations of Fluid Flows in MEMS,,,,
+comp-gas/9807001,"Lattice Boltzmann simulations of three-dimensional single droplet
+  deformation and breakup under simple shear flow",,,,
+comp-gas/9810001,"Inverse Chapman-Enskog Derivation of the Thermohydrodynamic Lattice-BGK
+  Model for the Ideal Gas",,,,
+comp-gas/9810002,"Lattice-Gas Simulations of Ternary Amphiphilic Fluid Flow in Porous
+  Media",,,,
+comp-gas/9811001,Cellular Automaton Model for Immunology of Tumor Growth,,,,
+comp-gas/9902002,"Cellular Automaton Rule184++C. A Simple Model for the Complex Dynamics
+  of Various Particles Flow",,,,
+comp-gas/9905001,Lattice Gases and Cellular Automata,,,,
+comp-gas/9907001,A new discrete velocity method for Navier-Stokes equations,,,,
+cond-mat/9312098,"Driven Morse Oscillator: Model for Multi-photon Dissociation of Nitrogen
+  Oxide",,,,
+cond-mat/9408080,Density waves and $1/f$ density fluctuations in granular flow,,,,
+cond-mat/9412115,Eddy diffusivities in scalar transport,,,,
+cond-mat/9503130,"Spatial Organization in the Reaction A + B --> inert for Particles with
+  a Drift",,,,
+cond-mat/9602152,A Simple Model for Deep Bed Filtration,,,,
+cond-mat/9603134,Mean Field Behavior of Cluster Dynamics,,,,
+cond-mat/9708130,Effect of shear on droplets in a binary mixture,,,,
+cond-mat/9709181,"Shear-Induced Isotropic-to-Lamellar Transition in a Lattice-Gas Model of
+  Ternary Amphiphilic Fluids",,,,
+cond-mat/9709183,Simulation of Self-Reproducing Micelles using a Lattice-Gas Automaton,,,,
+cond-mat/9808052,An H-Theorem for the Lattice Boltzmann Approach to Hydrodynamics,,,,
+cond-mat/9810099,"Self-organization of traffic jams in cities: effects of stochastic
+  dynamics and signal periods",,,,
+cond-mat/9811208,Spatio-selection in Expanding Bacterial Colonies,,,,
+cond-mat/9812161,Self-Organized States in Cellular Automata: Exact Solution,,,,
+cond-mat/9812220,A Lattice Boltzmann Model for Wave and Fracture phenomena,,,,
+cond-mat/9812300,Cellular Automata Simulating Experimental Properties of Traffic Flows,,,,
+cond-mat/9812361,Competing Species Dynamics: Qualitative Advantage versus Geography,,,,
+cond-mat/9901158,Global Phase Diagram of a One-Dimensional Driven Lattice Gas,,,,
+cond-mat/9903277,Microscopic Motion of Particles Flowing through a Porous Medium,,,,
+cond-mat/9911013,"Large scale molecular dynamics simulation of self-assembly processes in
+  short and long chain cationic surfactants",,,,
+cond-mat/9911344,"Spinodal decomposition of off-critical quenches with a viscous phase
+  using dissipative particle dynamics in two and three spatial dimensions",,,,
+math-ph/9811007,"Discrete Schr\""{o}dinger equation on finite field and associated
+  cellular automaton",,,,
+patt-sol/9304003,Complex Patterns in a Simple System,,,,
+physics/9705023,"Artificial Neural Networks for Solving Ordinary and Partial Differential
+  Equations",,,,
+quant-ph/9505005,"A Selective Relaxation Method for Numerical Solution of Schr\""odinger
+  Problems",,,,
+quant-ph/9705029,Artificial Neural Network Methods in Quantum Mechanics,,,,
+solv-int/9411005,Limits to Extensions of Burgers Equation,,,,
+solv-int/9505005,"Approximate Lie Group Analysis of a Model Advection Equation on an
+  Unstructured Grid",,,,

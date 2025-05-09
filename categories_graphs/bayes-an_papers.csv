@@ -1,0 +1,23 @@
+id,title,pagerank,betweenness,in_degree,out_degree
+bayes-an/9609001,"Local computation of influence propagation through Bayes linear belief
+  networks",3.3749066596554898e-06,0.0,1.0,0.0
+bayes-an/9604001,Bayes linear variance adjustment for time series,2.4711431321721443e-06,0.0,1.0,1.0
+cond-mat/9601030,"Statistical Inference, Occam's Razor and Statistical Mechanics on The
+  Space of Probability Distributions",1.60698551133943e-06,0.0,1.0,6.0
+physics/9611016,A Theory of Measurement Uncertainty Based on Conditional Probability,1.3669417277747872e-06,0.0,1.0,0.0
+hep-ph/9512295,Probability and Measurement Uncertainty in Physics - a Bayesian Primer,1.3189329710618589e-06,0.0,0.0,24.0
+bayes-an/9506002,"Bayes linear covariance matrix adjustment for multivariate dynamic
+  linear models",1.3189329710618589e-06,0.0,0.0,1.0
+adap-org/9601001,"A Geometric Formulation of Occam's Razor for Inference of Parametric
+  Distributions",1.3189329710618589e-06,0.0,0.0,4.0
+astro-ph/9507020,Getting the Measure of the Flatness Problem,1.3189329710618589e-06,0.0,0.0,1.0
+bayes-an/9506004,"Suppressing Random Walks in Markov Chain Monte Carlo Using Ordered
+  Overrelaxation",1.3189329710618589e-06,0.0,0.0,2.0
+bayes-an/9504001,Confidence Intervals from One One Observation,,,,
+bayes-an/9506001,Bayes linear adjustment for variance matrices,,,,
+bayes-an/9506003,Minimal information in velocity space,,,,
+bayes-an/9510001,Bayesian Variable Selection with Related Predictors,,,,
+bayes-an/9511001,Bayesian Method of Moments (BMOM) Analysis of Mean and Regression Models,,,,
+bayes-an/9512001,Bayes linear covariance matrix adjustment,,,,
+bayes-an/9601001,"Toward general solutions to time-series problems: Notes on obstacles and
+  noise",,,,
